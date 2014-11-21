@@ -1,0 +1,486 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Woodcutter, Feast, Smithy, Thief, Festival, Laboratory, Library, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Transit Tycoon - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yuuna_tu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Transit Tycoon - shuffles deck
+yuuna_tu - shuffles deck
+Transit Tycoon - draws Estate, Copper, Estate, Copper, Copper
+yuuna_tu - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- yuuna_tu: turn 1 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Chapel
+yuuna_tu - gains Chapel
+yuuna_tu - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Transit Tycoon: turn 1 ----------
+Transit Tycoon - plays Copper
+Transit Tycoon - plays Copper
+Transit Tycoon - buys Chapel
+Transit Tycoon - gains Chapel
+Transit Tycoon - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yuuna_tu: turn 2 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Feast
+yuuna_tu - gains Feast
+yuuna_tu - shuffles deck
+yuuna_tu - draws Chapel, Copper, Copper, Copper, Estate
+ 
+---------- Transit Tycoon: turn 2 ----------
+Transit Tycoon - plays 4 Copper
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Feast, Estate, Estate, Estate, Copper
+ 
+---------- yuuna_tu: turn 3 ----------
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper, Copper, Copper, Estate
+yuuna_tu - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Transit Tycoon: turn 3 ----------
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Festival
+Transit Tycoon - draws Copper, Copper, Copper, Chapel, Copper
+ 
+---------- yuuna_tu: turn 4 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Feast, Estate
+yuuna_tu - shuffles deck
+yuuna_tu - draws Chapel, Copper, Copper
+ 
+---------- Transit Tycoon: turn 4 ----------
+Transit Tycoon - plays Chapel
+Transit Tycoon - trashes Copper, Copper, Copper, Copper
+Transit Tycoon - draws Copper, Copper
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Estate, Estate, Chapel
+ 
+---------- yuuna_tu: turn 5 ----------
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Estate, Copper, Copper
+yuuna_tu - draws Estate, Copper, Silver, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Chapel
+ 
+---------- Transit Tycoon: turn 5 ----------
+Transit Tycoon - plays Chapel
+Transit Tycoon - trashes Estate, Estate, Copper, Copper
+Transit Tycoon - draws Festival, Estate, Copper
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Chapel
+ 
+---------- yuuna_tu: turn 6 ----------
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper, Estate
+yuuna_tu - plays 1 Silver, 1 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Feast
+yuuna_tu - shuffles deck
+yuuna_tu - draws Chapel, Silver, Silver, Copper
+ 
+---------- Transit Tycoon: turn 6 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Chapel
+Transit Tycoon - trashes Estate
+Transit Tycoon - plays 1 Copper
+Transit Tycoon - buys Silver
+Transit Tycoon - gains Silver
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Silver, Chapel, Festival, Copper
+ 
+---------- yuuna_tu: turn 7 ----------
+yuuna_tu - plays Feast
+yuuna_tu - trashes Feast
+yuuna_tu - gains Festival
+yuuna_tu - plays 2 Silver, 1 Copper
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - shuffles deck
+yuuna_tu - draws Silver, Festival, Copper, Chapel, Festival
+ 
+---------- Transit Tycoon: turn 7 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays 1 Silver, 1 Copper
+Transit Tycoon - buys Festival
+Transit Tycoon - gains Festival
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Chapel, Copper, Silver, Festival, Festival
+ 
+---------- yuuna_tu: turn 8 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays 1 Silver, 1 Copper
+yuuna_tu - buys Smithy
+yuuna_tu - gains Smithy
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Festival, Silver, Silver, Chapel
+ 
+---------- Transit Tycoon: turn 8 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays 1 Copper, 1 Silver
+Transit Tycoon - buys Library
+Transit Tycoon - gains Library
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Silver, Festival, Festival, Copper, Library
+ 
+---------- yuuna_tu: turn 9 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays 3 Silver
+yuuna_tu - buys Feast
+yuuna_tu - gains Feast
+yuuna_tu - buys Feast
+yuuna_tu - gains Feast
+yuuna_tu - draws Copper, Festival, Smithy
+yuuna_tu - shuffles deck
+yuuna_tu - draws Feast, Festival
+ 
+---------- Transit Tycoon: turn 9 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Library
+Transit Tycoon - moves Chapel to hand
+Transit Tycoon - plays 1 Silver, 1 Copper
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - buys Silver
+Transit Tycoon - gains Silver
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Library, Festival, Silver, Chapel, Feast
+ 
+---------- yuuna_tu: turn 10 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Smithy
+yuuna_tu - draws Chapel, Silver, Feast
+yuuna_tu - plays Festival
+yuuna_tu - plays Feast
+yuuna_tu - trashes Feast
+yuuna_tu - gains Festival
+yuuna_tu - plays Feast
+yuuna_tu - trashes Feast
+yuuna_tu - gains Library
+yuuna_tu - plays 1 Copper, 1 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Silver, Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Festival, Festival, Festival
+ 
+---------- Transit Tycoon: turn 10 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Library
+Transit Tycoon - draws Copper
+Transit Tycoon - draws Silver
+Transit Tycoon - moves Festival to hand
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Festival
+Transit Tycoon - plays Chapel
+Transit Tycoon - trashes Copper
+Transit Tycoon - plays 2 Silver
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Silver, Festival, Chapel, Festival, Festival
+ 
+---------- yuuna_tu: turn 11 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays 2 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Library, Smithy, Copper, Festival, Chapel
+ 
+---------- Transit Tycoon: turn 11 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays 1 Silver
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - draws Library, Silver, Feast, Feast
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Silver
+ 
+---------- yuuna_tu: turn 12 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - draws Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Silver
+yuuna_tu - draws Silver
+yuuna_tu - moves Festival to hand
+yuuna_tu - plays Festival
+yuuna_tu - plays Smithy
+yuuna_tu - draws Festival, Festival, Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper
+yuuna_tu - plays 3 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - buys Library
+yuuna_tu - gains Library
+yuuna_tu - buys Witch
+yuuna_tu - gains Witch
+yuuna_tu - draws Festival
+yuuna_tu - shuffles deck
+yuuna_tu - draws Festival, Festival, Silver, Festival
+ 
+---------- Transit Tycoon: turn 12 ----------
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Library
+Transit Tycoon - plays 2 Silver
+Transit Tycoon - buys Feast
+Transit Tycoon - gains Feast
+Transit Tycoon - draws Feast, Festival, Festival, Festival, Chapel
+ 
+---------- yuuna_tu: turn 13 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays 1 Silver
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - buys Witch
+yuuna_tu - gains Witch
+yuuna_tu - draws Festival, Smithy, Silver, Witch, Silver
+ 
+---------- Transit Tycoon: turn 13 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Laboratory
+Transit Tycoon - buys Laboratory
+Transit Tycoon - gains Laboratory
+Transit Tycoon - draws Feast
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Feast, Chapel, Feast, Laboratory
+ 
+---------- yuuna_tu: turn 14 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Smithy
+yuuna_tu - draws Library, Chapel, Library
+yuuna_tu - plays Witch
+yuuna_tu - draws Festival, Festival
+Transit Tycoon - gains Curse
+yuuna_tu - plays 2 Silver
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - shuffles deck
+yuuna_tu - draws Laboratory, Witch, Festival, Silver, Festival
+ 
+---------- Transit Tycoon: turn 14 ----------
+Transit Tycoon - plays Laboratory
+Transit Tycoon - draws Library, Silver
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Laboratory
+Transit Tycoon - draws Festival, Silver, Library, Laboratory, Festival
+ 
+---------- yuuna_tu: turn 15 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Festival, Smithy
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Festival, Witch
+Transit Tycoon - gains Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Festival, Silver
+Transit Tycoon - gains Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays Smithy
+yuuna_tu - draws Chapel, Festival, Silver
+yuuna_tu - plays Festival
+yuuna_tu - plays 3 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Library, Laboratory, Library, Festival
+yuuna_tu - shuffles deck
+yuuna_tu - draws Festival
+ 
+---------- Transit Tycoon: turn 15 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Library
+Transit Tycoon - moves Festival to hand
+Transit Tycoon - shuffles deck
+Transit Tycoon - moves Laboratory to hand
+Transit Tycoon - moves Feast to hand
+Transit Tycoon - discards Chapel
+Transit Tycoon - draws Curse
+Transit Tycoon - moves Laboratory to hand
+Transit Tycoon - discards Chapel
+Transit Tycoon - plays Laboratory
+Transit Tycoon - draws Feast, Curse
+Transit Tycoon - plays Laboratory
+Transit Tycoon - draws Curse, Library
+Transit Tycoon - plays Laboratory
+Transit Tycoon - draws Silver
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Chapel
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Chapel
+Transit Tycoon - trashes Curse, Curse, Curse
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Witch
+Transit Tycoon - plays Feast
+Transit Tycoon - trashes Feast
+Transit Tycoon - gains Witch
+Transit Tycoon - plays 2 Silver
+Transit Tycoon - buys Province
+Transit Tycoon - gains Province
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Silver, Silver, Library, Festival, Witch
+ 
+---------- yuuna_tu: turn 16 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Festival to hand
+yuuna_tu - moves Laboratory to hand
+yuuna_tu - moves Chapel to hand
+yuuna_tu - moves Laboratory to hand
+yuuna_tu - moves Festival to hand
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Festival, Silver
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - draws Province
+yuuna_tu - moves Festival to hand
+yuuna_tu - draws Silver
+yuuna_tu - plays Festival
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Smithy
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Festival, Silver
+yuuna_tu - plays Festival
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Witch, Witch
+yuuna_tu - plays Witch
+Transit Tycoon - gains Curse
+yuuna_tu - plays Witch
+Transit Tycoon - gains Curse
+yuuna_tu - plays 3 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - shuffles deck
+yuuna_tu - draws Laboratory, Witch, Festival, Silver, Festival
+ 
+---------- Transit Tycoon: turn 16 ----------
+Transit Tycoon - plays Festival
+Transit Tycoon - plays Witch
+Transit Tycoon - draws Chapel, Library
+yuuna_tu - gains Curse
+Transit Tycoon - plays Library
+Transit Tycoon - discards Festival
+Transit Tycoon - discards Witch
+Transit Tycoon - discards Laboratory
+Transit Tycoon - discards Laboratory
+Transit Tycoon - discards Festival
+Transit Tycoon - draws Province
+Transit Tycoon - discards Laboratory
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Curse
+Transit Tycoon - draws Curse
+Transit Tycoon - discards: Festival, Witch, Laboratory, Laboratory, Festival, Laboratory
+Transit Tycoon - plays 2 Silver
+Transit Tycoon - buys Duchy
+Transit Tycoon - gains Duchy
+Transit Tycoon - shuffles deck
+Transit Tycoon - draws Chapel, Silver, Duchy, Library, Province
+ 
+---------- yuuna_tu: turn 17 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Festival, Laboratory
+Transit Tycoon - gains Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Witch, Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Silver, Province
+Transit Tycoon - gains Curse
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Library, Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Smithy to hand
+yuuna_tu - draws Province
+yuuna_tu - moves Library to hand
+yuuna_tu - plays Library
+yuuna_tu - moves Festival to hand
+yuuna_tu - plays Festival
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Province, Silver
+yuuna_tu - plays Smithy
+yuuna_tu - draws Festival, Chapel
+yuuna_tu - shuffles deck
+yuuna_tu - draws Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Curse
+yuuna_tu - plays 3 Silver
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - buys Duchy
+yuuna_tu - gains Duchy
+yuuna_tu - shuffles deck
+yuuna_tu - draws Laboratory, Festival, Festival, Laboratory, Silver
+ 
+------------ Game Over ------------
+yuuna_tu - cards: 7 Laboratory, 7 Festival, 2 Library, 2 Witch, 1 Chapel, 1 Smithy, 3 Silver, 3 Province, 1 Duchy
+yuuna_tu - total victory points: 21
+yuuna_tu - turns: 17
+ 
+Transit Tycoon - cards: 3 Laboratory, 3 Festival, 2 Library, 2 Witch, 1 Chapel, 2 Silver, 1 Duchy, 1 Province, 4 Curse
+Transit Tycoon - total victory points: 5
+Transit Tycoon - turns: 16
+ 
+1st place: yuuna_tu
+2nd place: Transit Tycoon
+ 

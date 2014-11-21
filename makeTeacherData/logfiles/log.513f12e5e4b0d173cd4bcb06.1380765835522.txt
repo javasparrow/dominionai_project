@@ -1,0 +1,488 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Village, Workshop, Bureaucrat, Feast, Militia, Moneylender, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+Cake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Cake - shuffles deck
+flies - shuffles deck
+Cake - draws Copper, Copper, Copper, Estate, Copper
+flies - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Militia
+flies - gains Militia
+flies - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Cake: turn 1 ----------
+Cake - plays 4 Copper
+Cake - buys Militia
+Cake - gains Militia
+Cake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Chapel
+flies - gains Chapel
+flies - shuffles deck
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Cake: turn 2 ----------
+Cake - plays 3 Copper
+Cake - buys Chapel
+Cake - gains Chapel
+Cake - shuffles deck
+Cake - draws Copper, Estate, Copper, Chapel, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays 4 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Cake: turn 3 ----------
+Cake - plays Chapel
+Cake - trashes Copper, Estate, Copper, Copper
+Cake - draws Militia, Estate, Estate, Copper, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays 3 Copper
+flies - buys Village
+flies - gains Village
+flies - draws Chapel, Militia
+flies - shuffles deck
+flies - draws Estate, Estate, Estate
+ 
+---------- Cake: turn 4 ----------
+Cake - plays Militia
+flies - discards Militia
+flies - discards Estate
+Cake - plays 2 Copper
+Cake - buys Silver
+Cake - gains Silver
+Cake - draws Copper, Copper
+Cake - shuffles deck
+Cake - draws Estate, Estate, Chapel
+ 
+---------- flies: turn 5 ----------
+flies - plays Chapel
+flies - trashes Estate, Estate
+flies - draws Village, Copper, Copper, Copper, Copper
+ 
+---------- Cake: turn 5 ----------
+Cake - plays Chapel
+Cake - trashes Estate, Estate, Copper, Copper
+Cake - draws Militia, Copper, Copper, Silver
+Cake - shuffles deck
+Cake - draws Chapel
+ 
+---------- flies: turn 6 ----------
+flies - plays Village
+flies - draws Silver
+flies - plays 4 Copper, 1 Silver
+flies - buys Witch
+flies - gains Witch
+flies - draws Copper, Copper, Copper
+flies - shuffles deck
+flies - draws Copper, Copper
+ 
+---------- Cake: turn 6 ----------
+Cake - plays Militia
+flies - discards Copper
+flies - discards Copper
+Cake - plays 2 Copper, 1 Silver
+Cake - buys Gold
+Cake - gains Gold
+Cake - shuffles deck
+Cake - draws Copper, Militia, Silver, Gold, Copper
+ 
+---------- flies: turn 7 ----------
+flies - plays 3 Copper
+flies - buys Village
+flies - gains Village
+flies - draws Copper, Copper, Witch, Village, Silver
+ 
+---------- Cake: turn 7 ----------
+Cake - plays Militia
+flies - discards Copper
+flies - discards Copper
+Cake - plays 2 Copper, 1 Silver, 1 Gold
+Cake - buys Province
+Cake - gains Province
+Cake - draws Chapel
+Cake - shuffles deck
+Cake - draws Copper, Militia, Gold, Silver
+ 
+---------- flies: turn 8 ----------
+flies - plays Village
+flies - draws Militia
+flies - plays Witch
+flies - draws Chapel, Estate
+Cake - gains Curse
+flies - plays Militia
+Cake - discards Chapel
+Cake - discards Copper
+flies - plays 1 Silver
+flies - buys Village
+flies - gains Village
+flies - shuffles deck
+flies - draws Village, Village, Copper, Village, Militia
+ 
+---------- Cake: turn 8 ----------
+Cake - plays Militia
+flies - discards Copper
+flies - discards Village
+Cake - plays 1 Gold, 1 Silver
+Cake - buys Gold
+Cake - gains Gold
+Cake - draws Copper, Province
+Cake - shuffles deck
+Cake - draws Chapel, Gold, Curse
+ 
+---------- flies: turn 9 ----------
+flies - plays Village
+flies - draws Estate
+flies - plays Village
+flies - draws Copper
+flies - plays Militia
+Cake - discards Province
+Cake - discards Gold
+flies - plays Copper
+flies - buys Village
+flies - gains Village
+flies - draws Witch, Copper, Chapel, Copper, Silver
+ 
+---------- Cake: turn 9 ----------
+Cake - plays Chapel
+Cake - trashes Curse, Copper
+Cake - draws Gold, Militia, Copper, Silver
+Cake - shuffles deck
+Cake - draws Gold
+ 
+---------- flies: turn 10 ----------
+flies - plays Witch
+flies - draws Copper, Copper
+Cake - gains Curse
+flies - plays 4 Copper, 1 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Copper
+flies - shuffles deck
+flies - draws Village, Gold, Copper, Copper
+ 
+---------- Cake: turn 10 ----------
+Cake - plays Militia
+flies - discards Copper
+flies - discards Copper
+Cake - plays 2 Gold, 1 Copper, 1 Silver
+Cake - buys Province
+Cake - gains Province
+Cake - draws Chapel, Province
+Cake - shuffles deck
+Cake - draws Silver, Curse, Militia
+ 
+---------- flies: turn 11 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays 2 Copper, 1 Gold
+flies - buys Witch
+flies - gains Witch
+flies - draws Village, Estate, Village, Militia, Copper
+ 
+---------- Cake: turn 11 ----------
+Cake - plays Chapel
+Cake - trashes Curse
+Cake - draws Province, Gold, Copper, Gold
+Cake - shuffles deck
+Cake - draws Province
+ 
+---------- flies: turn 12 ----------
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Silver
+flies - plays Village
+flies - draws Witch
+flies - plays Witch
+flies - draws Copper, Chapel
+Cake - gains Curse
+flies - plays Militia
+Cake - discards Province
+Cake - discards Province
+flies - plays Chapel
+flies - trashes Copper, Estate, Copper
+flies - plays 1 Silver
+flies - buys Village
+flies - gains Village
+flies - draws Copper
+flies - shuffles deck
+flies - draws Copper, Village, Silver, Witch
+ 
+---------- Cake: turn 12 ----------
+Cake - plays 2 Gold, 1 Copper
+Cake - buys Gold
+Cake - gains Gold
+Cake - draws Chapel, Militia, Silver
+Cake - shuffles deck
+Cake - draws Gold, Curse
+ 
+---------- flies: turn 13 ----------
+flies - plays Village
+flies - draws Militia
+flies - plays Witch
+flies - draws Chapel, Village
+Cake - gains Curse
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Copper
+flies - plays Militia
+Cake - discards Chapel
+Cake - discards Curse
+flies - plays Chapel
+flies - trashes Copper
+flies - plays 2 Copper, 1 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Copper, Witch, Gold, Village, Copper
+ 
+---------- Cake: turn 13 ----------
+Cake - plays Militia
+flies - discards Copper
+flies - discards Copper
+Cake - plays 1 Silver, 1 Gold
+Cake - buys Witch
+Cake - gains Witch
+Cake - draws Province, Copper, Province, Gold, Gold
+ 
+---------- flies: turn 14 ----------
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - shuffles deck
+flies - draws Copper
+flies - plays Witch
+flies - draws Village, Gold
+Cake - gains Curse
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Copper
+flies - plays 2 Gold, 2 Copper
+flies - buys Province
+flies - gains Province
+flies - draws Copper, Witch, Copper, Chapel, Militia
+ 
+---------- Cake: turn 14 ----------
+Cake - plays 2 Gold, 1 Copper
+Cake - buys Gold
+Cake - gains Gold
+Cake - shuffles deck
+Cake - draws Gold, Curse, Copper, Curse, Curse
+ 
+---------- flies: turn 15 ----------
+flies - plays Witch
+flies - draws Silver, Village
+Cake - gains Curse
+flies - plays 2 Copper, 1 Silver
+flies - buys Village
+flies - gains Village
+flies - shuffles deck
+flies - draws Militia, Village, Copper, Silver, Gold
+ 
+---------- Cake: turn 15 ----------
+Cake - plays 1 Gold, 1 Copper
+Cake - buys Village
+Cake - gains Village
+Cake - draws Gold, Province, Gold, Silver, Militia
+ 
+---------- flies: turn 16 ----------
+flies - plays Village
+flies - draws Chapel
+flies - plays Militia
+Cake - discards Province
+Cake - discards Silver
+flies - plays 1 Copper, 1 Silver, 1 Gold
+flies - buys Province
+flies - gains Province
+flies - draws Witch, Province, Copper, Copper, Gold
+ 
+---------- Cake: turn 16 ----------
+Cake - plays Militia
+flies - discards Province
+flies - discards Copper
+Cake - plays 2 Gold
+Cake - buys Province
+Cake - gains Province
+Cake - draws Witch, Gold, Province, Chapel
+Cake - shuffles deck
+Cake - draws Gold
+ 
+---------- flies: turn 17 ----------
+flies - plays Witch
+flies - draws Village, Copper
+Cake - gains Curse
+flies - plays 2 Copper, 1 Gold
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Village, Village, Village, Witch, Village
+ 
+---------- Cake: turn 17 ----------
+Cake - plays Witch
+Cake - draws Curse, Gold
+flies - gains Curse
+Cake - plays 3 Gold
+Cake - buys Province
+Cake - gains Province
+Cake - draws Militia, Province, Curse, Copper, Gold
+ 
+---------- flies: turn 18 ----------
+flies - plays Village
+flies - shuffles deck
+flies - draws Copper
+flies - plays Village
+flies - draws Province
+flies - plays Village
+flies - draws Militia
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Copper
+flies - plays Witch
+flies - draws Gold, Duchy
+Cake - gains Curse
+flies - plays Militia
+Cake - discards Curse
+Cake - discards Province
+flies - plays 2 Copper, 1 Gold
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Village, Silver, Curse, Copper, Chapel
+ 
+---------- Cake: turn 18 ----------
+Cake - plays Militia
+flies - discards Curse
+flies - discards Chapel
+Cake - plays 1 Copper, 1 Gold
+Cake - buys Duchy
+Cake - gains Duchy
+Cake - draws Silver, Curse, Village, Curse, Province
+ 
+---------- flies: turn 19 ----------
+flies - plays Village
+flies - draws Gold
+flies - plays 1 Silver, 1 Copper, 1 Gold
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Witch, Province, Copper
+flies - shuffles deck
+flies - draws Witch, Militia
+ 
+---------- Cake: turn 19 ----------
+Cake - plays Village
+Cake - shuffles deck
+Cake - draws Curse
+Cake - plays 1 Silver
+Cake - buys Estate
+Cake - gains Estate
+Cake - draws Duchy, Chapel, Gold, Witch, Gold
+ 
+---------- flies: turn 20 ----------
+flies - plays Witch
+flies - draws Village, Gold
+Cake - gains Curse
+flies - plays 1 Copper, 1 Gold
+flies - buys Estate
+flies - gains Estate
+flies - draws Duchy, Duchy, Silver, Village, Gold
+ 
+---------- Cake: turn 20 ----------
+Cake - plays Witch
+Cake - draws Gold, Gold
+Cake - plays 4 Gold
+Cake - buys Province
+Cake - gains Province
+Cake - draws Province, Curse, Militia, Copper, Curse
+ 
+---------- flies: turn 21 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays 1 Silver, 1 Gold, 1 Copper
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Province, Village, Village, Copper, Duchy
+ 
+---------- Cake: turn 21 ----------
+Cake - plays Militia
+flies - discards Duchy
+flies - discards Province
+Cake - plays 1 Copper
+Cake - buys Chapel
+Cake - gains Chapel
+Cake - draws Curse, Province, Province
+Cake - shuffles deck
+Cake - draws Witch, Copper
+ 
+---------- flies: turn 22 ----------
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Copper
+flies - plays Village
+flies - draws Chapel
+flies - plays 2 Copper
+flies - buys Estate
+flies - gains Estate
+flies - draws Curse, Village
+flies - shuffles deck
+flies - draws Duchy, Militia, Village
+ 
+---------- Cake: turn 22 ----------
+Cake - plays Witch
+Cake - draws Province, Gold
+Cake - plays 1 Copper, 1 Gold
+Cake - buys Estate
+Cake - gains Estate
+Cake - draws Village, Curse, Chapel, Curse, Duchy
+ 
+---------- flies: turn 23 ----------
+flies - plays Village
+flies - draws Village
+flies - plays Village
+flies - draws Province
+flies - plays Village
+flies - draws Duchy
+flies - plays Militia
+Cake - discards Village
+Cake - discards Duchy
+flies - buys Estate
+flies - gains Estate
+flies - draws Gold, Duchy, Gold, Village, Province
+ 
+---------- Cake: turn 23 ----------
+Cake - plays Chapel
+Cake - trashes Curse, Curse
+Cake - draws Gold, Gold, Gold, Province, Estate
+ 
+---------- flies: turn 24 ----------
+flies - plays Village
+flies - draws Witch
+flies - plays Witch
+flies - draws Silver, Chapel
+flies - plays 2 Gold, 1 Silver
+flies - buys Province
+flies - gains Province
+flies - draws Village, Copper, Witch, Estate, Copper
+ 
+------------ Game Over ------------
+flies - cards: 6 Village, 2 Witch, 1 Militia, 1 Chapel, 4 Copper, 2 Gold, 1 Silver, 4 Duchy, 3 Estate, 3 Province, 1 Curse
+flies - total victory points: 32
+flies - turns: 24
+ 
+Cake - cards: 2 Chapel, 1 Witch, 1 Village, 1 Militia, 4 Gold, 1 Copper, 1 Silver, 5 Province, 2 Estate, 1 Duchy, 5 Curse
+Cake - total victory points: 30
+Cake - turns: 23
+ 
+1st place: flies
+2nd place: Cake
+ 

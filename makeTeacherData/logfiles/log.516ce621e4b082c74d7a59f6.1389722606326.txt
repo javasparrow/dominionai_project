@@ -1,0 +1,362 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Woodcutter, Feast, Gardens, Smithy, Laboratory, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dematibot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dematibot - shuffles deck
+shark_bait - shuffles deck
+dematibot - draws Estate, Copper, Copper, Copper, Estate
+shark_bait - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Feast
+shark_bait - gains Feast
+shark_bait - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- dematibot: turn 1 ----------
+dematibot - plays 3 Copper
+dematibot - buys Silver
+dematibot - gains Silver
+dematibot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Chapel
+shark_bait - gains Chapel
+shark_bait - shuffles deck
+shark_bait - draws Copper, Feast, Chapel, Copper, Copper
+ 
+---------- dematibot: turn 2 ----------
+dematibot - plays 4 Copper
+dematibot - buys Feast
+dematibot - gains Feast
+dematibot - shuffles deck
+dematibot - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Chapel
+shark_bait - trashes Copper, Copper, Copper
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dematibot: turn 3 ----------
+dematibot - plays 2 Copper
+dematibot - buys Chapel
+dematibot - gains Chapel
+dematibot - draws Copper, Copper, Copper, Copper, Feast
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Estate
+shark_bait - shuffles deck
+shark_bait - draws Feast, Copper, Silver
+ 
+---------- dematibot: turn 4 ----------
+dematibot - plays Feast
+dematibot - trashes Feast
+dematibot - gains Laboratory
+dematibot - plays 4 Copper
+dematibot - buys Silver
+dematibot - gains Silver
+dematibot - draws Silver, Copper
+dematibot - shuffles deck
+dematibot - draws Copper, Copper, Estate
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Feast
+shark_bait - trashes Feast
+shark_bait - gains Market
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Chapel, Copper, Estate, Copper, Copper
+ 
+---------- dematibot: turn 5 ----------
+dematibot - plays 3 Copper, 1 Silver
+dematibot - buys Laboratory
+dematibot - gains Laboratory
+dematibot - draws Chapel, Copper, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Chapel
+shark_bait - trashes Copper, Estate, Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate, Market, Estate, Silver, Chapel
+ 
+---------- dematibot: turn 6 ----------
+dematibot - plays Chapel
+dematibot - trashes Copper, Estate, Estate, Copper
+dematibot - draws Silver, Laboratory, Copper, Copper
+dematibot - shuffles deck
+dematibot - draws Chapel
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Market
+shark_bait - draws Silver
+shark_bait - plays Chapel
+shark_bait - trashes Estate, Estate
+shark_bait - plays 2 Silver
+shark_bait - buys Mine
+shark_bait - gains Mine
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver, Market, Chapel, Silver
+ 
+---------- dematibot: turn 7 ----------
+dematibot - plays Laboratory
+dematibot - draws Copper, Estate
+dematibot - plays Chapel
+dematibot - trashes Estate
+dematibot - plays 3 Copper, 1 Silver
+dematibot - buys Market
+dematibot - gains Market
+dematibot - draws Laboratory, Silver, Copper, Copper
+dematibot - shuffles deck
+dematibot - draws Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Market
+shark_bait - draws Mine
+shark_bait - plays Mine
+shark_bait - trashes Silver
+shark_bait - gains Gold
+shark_bait - plays 1 Copper, 1 Silver, 1 Gold
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - shuffles deck
+shark_bait - draws Mine, Market, Gold, Chapel, Copper
+ 
+---------- dematibot: turn 8 ----------
+dematibot - plays Laboratory
+dematibot - draws Copper, Market
+dematibot - plays Market
+dematibot - draws Copper
+dematibot - plays 5 Copper, 1 Silver
+dematibot - buys Gold
+dematibot - gains Gold
+dematibot - buys Cellar
+dematibot - gains Cellar
+dematibot - draws Silver, Laboratory, Chapel
+dematibot - shuffles deck
+dematibot - draws Copper, Market
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Market
+shark_bait - draws Gold
+shark_bait - plays Mine
+shark_bait - trashes Copper
+shark_bait - gains Silver
+shark_bait - plays 2 Gold, 1 Silver
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Market, Laboratory, Silver, Gold
+ 
+---------- dematibot: turn 9 ----------
+dematibot - plays Laboratory
+dematibot - draws Laboratory, Gold
+dematibot - plays Laboratory
+dematibot - draws Copper, Copper
+dematibot - plays Market
+dematibot - draws Copper
+dematibot - plays Chapel
+dematibot - trashes Copper, Copper
+dematibot - plays 2 Copper, 1 Silver, 1 Gold
+dematibot - buys Mine
+dematibot - gains Mine
+dematibot - buys Silver
+dematibot - gains Silver
+dematibot - draws Silver, Cellar, Copper
+dematibot - shuffles deck
+dematibot - draws Market, Laboratory
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Laboratory
+shark_bait - draws Silver, Chapel
+shark_bait - plays Market
+shark_bait - draws Mine
+shark_bait - plays Mine
+shark_bait - trashes Silver
+shark_bait - gains Gold
+shark_bait - plays 2 Silver, 2 Gold
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Gold
+shark_bait - shuffles deck
+shark_bait - draws Silver, Gold, Mine, Chapel
+ 
+---------- dematibot: turn 10 ----------
+dematibot - plays Laboratory
+dematibot - draws Gold, Copper
+dematibot - plays Market
+dematibot - draws Copper
+dematibot - plays Cellar
+dematibot - discards Copper
+dematibot - discards Copper
+dematibot - discards Copper
+dematibot - draws Laboratory, Mine, Silver
+dematibot - plays Laboratory
+dematibot - draws Chapel, Silver
+dematibot - plays Mine
+dematibot - trashes Silver
+dematibot - gains Gold
+dematibot - plays 2 Silver, 2 Gold
+dematibot - buys Laboratory
+dematibot - gains Laboratory
+dematibot - buys Gold
+dematibot - gains Gold
+dematibot - shuffles deck
+dematibot - draws Copper, Gold, Copper, Cellar, Mine
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Mine
+shark_bait - trashes Silver
+shark_bait - gains Gold
+shark_bait - plays 3 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Silver, Laboratory, Laboratory, Gold, Gold
+ 
+---------- dematibot: turn 11 ----------
+dematibot - plays Cellar
+dematibot - discards Copper
+dematibot - discards Copper
+dematibot - discards Mine
+dematibot - draws Chapel, Laboratory, Market
+dematibot - plays Laboratory
+dematibot - draws Laboratory, Gold
+dematibot - plays Laboratory
+dematibot - draws Copper, Silver
+dematibot - plays Market
+dematibot - draws Silver
+dematibot - plays Chapel
+dematibot - trashes Copper
+dematibot - plays 2 Gold, 2 Silver
+dematibot - buys Province
+dematibot - gains Province
+dematibot - buys Cellar
+dematibot - gains Cellar
+dematibot - draws Laboratory, Gold
+dematibot - shuffles deck
+dematibot - draws Gold, Laboratory, Silver
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Laboratory
+shark_bait - draws Market
+shark_bait - shuffles deck
+shark_bait - draws Gold
+shark_bait - plays Laboratory
+shark_bait - draws Gold, Chapel
+shark_bait - plays Market
+shark_bait - draws Mine
+shark_bait - plays Mine
+shark_bait - trashes Silver
+shark_bait - gains Gold
+shark_bait - plays 5 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Gold, Province
+shark_bait - shuffles deck
+shark_bait - draws Gold, Province, Gold
+ 
+---------- dematibot: turn 12 ----------
+dematibot - plays Laboratory
+dematibot - draws Chapel, Cellar
+dematibot - plays Laboratory
+dematibot - draws Copper, Cellar
+dematibot - plays Cellar
+dematibot - discards Chapel
+dematibot - discards Copper
+dematibot - discards Cellar
+dematibot - draws Copper, Gold, Laboratory
+dematibot - plays Laboratory
+dematibot - draws Market, Mine
+dematibot - plays Market
+dematibot - draws Province
+dematibot - plays Mine
+dematibot - trashes Silver
+dematibot - gains Gold
+dematibot - plays 4 Gold, 1 Copper
+dematibot - buys Province
+dematibot - gains Province
+dematibot - buys Duchy
+dematibot - gains Duchy
+dematibot - draws Silver
+dematibot - shuffles deck
+dematibot - draws Gold, Gold, Laboratory, Gold
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays 3 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Market, Gold, Laboratory, Chapel, Province
+ 
+---------- dematibot: turn 13 ----------
+dematibot - plays Laboratory
+dematibot - draws Market, Copper
+dematibot - plays Market
+dematibot - draws Laboratory
+dematibot - plays Laboratory
+dematibot - draws Cellar, Cellar
+dematibot - plays Cellar
+dematibot - discards Copper
+dematibot - discards Cellar
+dematibot - draws Duchy, Province
+dematibot - plays 3 Gold, 1 Silver
+dematibot - buys Duchy
+dematibot - gains Duchy
+dematibot - buys Duchy
+dematibot - gains Duchy
+dematibot - draws Province, Laboratory, Copper, Chapel, Mine
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Laboratory
+shark_bait - draws Mine, Laboratory
+shark_bait - plays Laboratory
+shark_bait - draws Gold, Gold
+shark_bait - plays Market
+shark_bait - shuffles deck
+shark_bait - draws Province
+shark_bait - plays Chapel
+shark_bait - trashes Mine
+shark_bait - plays 3 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Gold, Province, Gold, Province, Gold
+ 
+---------- dematibot: turn 14 ----------
+dematibot - plays Laboratory
+dematibot - draws Gold
+dematibot - shuffles deck
+dematibot - draws Gold
+dematibot - plays Mine
+dematibot - trashes Copper
+dematibot - gains Silver
+dematibot - plays 2 Gold, 1 Silver
+dematibot - buys Province
+dematibot - gains Province
+dematibot - draws Copper, Silver, Gold, Duchy, Province
+ 
+------------ Game Over ------------
+shark_bait - cards: 2 Laboratory, 1 Market, 1 Chapel, 6 Gold, 5 Province, 1 Estate
+shark_bait - total victory points: 31
+shark_bait - turns: 14
+ 
+dematibot - cards: 3 Laboratory, 2 Cellar, 1 Mine, 1 Chapel, 1 Market, 4 Gold, 2 Silver, 1 Copper, 3 Duchy, 3 Province
+dematibot - total victory points: 27
+dematibot - turns: 14
+ 
+1st place: shark_bait
+2nd place: dematibot
+ 

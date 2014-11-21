@@ -1,0 +1,405 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Chancellor, Workshop, Feast, Militia, Smithy, Laboratory, Library, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+pilot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pilot - shuffles deck
+Rabid - shuffles deck
+pilot - draws Copper, Copper, Copper, Estate, Copper
+Rabid - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- pilot: turn 1 ----------
+pilot - plays 4 Copper
+pilot - buys Feast
+pilot - gains Feast
+pilot - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 5 Copper
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- pilot: turn 2 ----------
+pilot - plays 3 Copper
+pilot - buys Chapel
+pilot - gains Chapel
+pilot - shuffles deck
+pilot - draws Chapel, Estate, Copper, Copper, Feast
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 2 Copper
+Rabid - buys Chapel
+Rabid - gains Chapel
+Rabid - shuffles deck
+Rabid - draws Witch, Copper, Estate, Estate, Copper
+ 
+---------- pilot: turn 3 ----------
+pilot - plays Feast
+pilot - trashes Feast
+pilot - gains Witch
+pilot - plays 2 Copper
+pilot - buys Cellar
+pilot - gains Cellar
+pilot - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Witch
+Rabid - draws Copper, Estate
+pilot - gains Curse
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Chapel, Copper, Copper
+ 
+---------- pilot: turn 4 ----------
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Copper, Copper
+pilot - shuffles deck
+pilot - draws Chapel, Silver, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Copper, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Chapel, Witch, Estate, Copper
+ 
+---------- pilot: turn 5 ----------
+pilot - plays Chapel
+pilot - trashes Copper, Copper, Copper
+pilot - draws Copper, Estate, Estate, Curse, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Witch
+Rabid - draws Estate, Copper
+pilot - gains Curse
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Silver, Estate
+Rabid - shuffles deck
+Rabid - draws Estate, Estate, Chapel
+ 
+---------- pilot: turn 6 ----------
+pilot - plays 2 Copper
+pilot - buys Chapel
+pilot - gains Chapel
+pilot - draws Copper, Copper, Estate, Witch, Cellar
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Chapel
+Rabid - trashes Estate, Estate, Estate
+Rabid - draws Copper, Silver, Witch, Copper, Copper
+ 
+---------- pilot: turn 7 ----------
+pilot - plays Cellar
+pilot - discards Estate
+pilot - shuffles deck
+pilot - draws Silver
+pilot - plays Witch
+pilot - draws Chapel, Estate
+Rabid - gains Curse
+pilot - plays 2 Copper, 1 Silver
+pilot - buys Feast
+pilot - gains Feast
+pilot - draws Copper, Estate, Estate, Curse, Curse
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Witch
+Rabid - shuffles deck
+Rabid - draws Curse, Chapel
+pilot - gains Curse
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Silver
+Rabid - shuffles deck
+Rabid - draws Chapel, Copper, Copper, Silver
+ 
+---------- pilot: turn 8 ----------
+pilot - draws Chapel, Copper
+pilot - shuffles deck
+pilot - draws Copper, Estate, Chapel
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Copper
+Rabid - plays 2 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Curse, Copper, Silver, Witch
+Rabid - shuffles deck
+Rabid - draws Silver
+ 
+---------- pilot: turn 9 ----------
+pilot - plays Chapel
+pilot - trashes Copper, Copper, Estate
+pilot - draws Witch, Curse, Curse, Copper, Curse
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Witch
+Rabid - draws Silver, Silver
+pilot - gains Curse
+Rabid - plays 4 Silver, 1 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Chapel
+Rabid - shuffles deck
+Rabid - draws Witch, Gold, Copper, Curse
+ 
+---------- pilot: turn 10 ----------
+pilot - plays Witch
+pilot - draws Estate, Copper
+Rabid - gains Curse
+pilot - plays 2 Copper
+pilot - buys Chapel
+pilot - gains Chapel
+pilot - draws Cellar, Silver, Feast, Estate
+pilot - shuffles deck
+pilot - draws Chapel
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Witch
+Rabid - draws Silver, Silver
+pilot - gains Curse
+Rabid - plays 2 Silver, 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Silver, Silver
+Rabid - shuffles deck
+Rabid - draws Curse, Copper, Silver
+ 
+---------- pilot: turn 11 ----------
+pilot - plays Feast
+pilot - trashes Feast
+pilot - gains Laboratory
+pilot - draws Curse, Curse, Chapel, Copper, Witch
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays 3 Silver, 1 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Province, Curse, Silver, Gold, Chapel
+ 
+---------- pilot: turn 12 ----------
+pilot - plays Chapel
+pilot - trashes Copper, Curse, Curse
+pilot - draws Chapel, Curse, Curse, Copper, Estate
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Chapel
+Rabid - trashes Curse
+Rabid - plays 1 Silver, 1 Gold
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Witch
+Rabid - shuffles deck
+Rabid - draws Silver, Curse, Silver, Silver
+ 
+---------- pilot: turn 13 ----------
+pilot - plays Chapel
+pilot - trashes Curse, Curse, Estate
+pilot - shuffles deck
+pilot - draws Witch, Curse, Estate, Chapel, Chapel
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Witch
+Rabid - draws Copper, Silver
+pilot - gains Curse
+Rabid - plays 4 Silver, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Gold, Province, Gold, Chapel, Laboratory
+ 
+---------- pilot: turn 14 ----------
+pilot - plays Chapel
+pilot - trashes Chapel, Estate, Curse
+pilot - draws Copper, Cellar, Laboratory, Silver, Chapel
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Laboratory
+Rabid - shuffles deck
+Rabid - draws Silver, Copper
+Rabid - plays Chapel
+Rabid - trashes Copper
+Rabid - plays 2 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Curse, Silver, Silver, Province, Witch
+ 
+---------- pilot: turn 15 ----------
+pilot - plays Laboratory
+pilot - shuffles deck
+pilot - draws Witch, Chapel
+pilot - plays Cellar
+pilot - discards Chapel
+pilot - discards Chapel
+pilot - draws Curse
+pilot - shuffles deck
+pilot - draws Chapel
+pilot - plays Witch
+pilot - draws Chapel
+Rabid - gains Curse
+pilot - plays 1 Copper, 1 Silver
+pilot - buys Silver
+pilot - gains Silver
+pilot - shuffles deck
+pilot - draws Witch, Curse, Chapel, Silver, Chapel
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Witch
+Rabid - draws Silver
+Rabid - shuffles deck
+Rabid - draws Gold
+pilot - gains Curse
+Rabid - plays 3 Silver, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Laboratory, Province, Chapel, Province, Silver
+ 
+---------- pilot: turn 16 ----------
+pilot - plays Chapel
+pilot - trashes Chapel, Curse, Witch
+pilot - draws Silver, Laboratory, Cellar, Copper
+pilot - shuffles deck
+pilot - draws Curse
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Laboratory
+Rabid - draws Curse, Gold
+Rabid - plays 1 Silver, 1 Gold
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - shuffles deck
+Rabid - draws Gold, Silver, Curse, Province, Silver
+ 
+---------- pilot: turn 17 ----------
+pilot - plays Laboratory
+pilot - draws Silver, Chapel
+pilot - plays Chapel
+pilot - trashes Curse
+pilot - plays 2 Silver, 1 Copper
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - shuffles deck
+pilot - draws Chapel, Copper, Laboratory, Silver, Silver
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays 2 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Witch, Province, Gold, Province, Silver
+ 
+---------- pilot: turn 18 ----------
+pilot - plays Laboratory
+pilot - draws Laboratory, Cellar
+pilot - plays Laboratory
+pilot - plays 2 Silver, 1 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - shuffles deck
+pilot - draws Laboratory, Laboratory, Cellar, Silver, Chapel
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Witch
+Rabid - draws Curse, Province
+Rabid - plays 1 Gold, 1 Silver
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Silver, Laboratory, Chapel, Laboratory
+Rabid - shuffles deck
+Rabid - draws Witch
+ 
+---------- pilot: turn 19 ----------
+pilot - plays Laboratory
+pilot - draws Silver, Copper
+pilot - plays Laboratory
+pilot - draws Silver
+pilot - plays Chapel
+pilot - trashes Copper
+pilot - plays 3 Silver
+pilot - buys Gold
+pilot - gains Gold
+pilot - shuffles deck
+pilot - draws Silver, Cellar, Gold, Laboratory, Laboratory
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Laboratory
+Rabid - draws Province, Province
+Rabid - plays Laboratory
+Rabid - draws Silver, Gold
+Rabid - plays Witch
+Rabid - draws Gold, Laboratory
+Rabid - plays 2 Silver, 2 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Silver, Curse, Province, Silver, Curse
+ 
+---------- pilot: turn 20 ----------
+pilot - plays Laboratory
+pilot - draws Silver, Chapel
+pilot - plays Laboratory
+pilot - draws Silver
+pilot - plays 3 Silver, 1 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - shuffles deck
+pilot - draws Gold, Laboratory, Silver, Cellar, Silver
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays 2 Silver
+Rabid - buys Feast
+Rabid - gains Feast
+Rabid - draws Gold, Province
+Rabid - shuffles deck
+Rabid - draws Laboratory, Province, Curse
+ 
+---------- pilot: turn 21 ----------
+pilot - plays Laboratory
+pilot - draws Province, Silver
+pilot - plays 3 Silver, 1 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - draws Laboratory, Chapel
+pilot - shuffles deck
+pilot - draws Silver, Laboratory, Silver
+ 
+---------- Rabid: turn 21 ----------
+Rabid - plays Laboratory
+Rabid - draws Curse, Laboratory
+Rabid - plays Laboratory
+Rabid - draws Province, Feast
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Duchy
+Rabid - plays 1 Gold
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - draws Laboratory, Silver, Chapel, Province, Gold
+ 
+---------- pilot: turn 22 ----------
+pilot - plays Laboratory
+pilot - draws Province, Province
+pilot - plays Laboratory
+pilot - draws Gold, Silver
+pilot - plays 3 Silver, 1 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - draws Cellar
+pilot - shuffles deck
+pilot - draws Silver, Laboratory, Silver, Laboratory
+ 
+------------ Game Over ------------
+Rabid - cards: 3 Laboratory, 1 Chapel, 1 Witch, 4 Silver, 3 Gold, 5 Province, 1 Duchy, 1 Estate, 2 Curse
+Rabid - total victory points: 32
+Rabid - turns: 21
+ 
+pilot - cards: 2 Laboratory, 1 Cellar, 1 Chapel, 3 Silver, 1 Gold, 3 Province
+pilot - total victory points: 18
+pilot - turns: 22
+ 
+1st place: Rabid
+2nd place: pilot
+ 

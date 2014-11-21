@@ -1,0 +1,675 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Chancellor, Militia, Moneylender, Smithy, Laboratory, Library, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fuu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Fuu - shuffles deck
+Monsieur X - draws Estate, Estate, Copper, Copper, Copper
+Fuu - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Fuu: turn 1 ----------
+Fuu - plays 3 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Moneylender
+Monsieur X - gains Moneylender
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Silver, Copper, Moneylender
+ 
+---------- Fuu: turn 2 ----------
+Fuu - plays 4 Copper
+Fuu - buys Moneylender
+Fuu - gains Moneylender
+Fuu - shuffles deck
+Fuu - draws Silver, Copper, Moneylender, Estate, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Fuu: turn 3 ----------
+Fuu - plays Moneylender
+Fuu - trashes Copper
+Fuu - plays 1 Silver, 1 Copper
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Moneylender, Copper, Estate
+ 
+---------- Fuu: turn 4 ----------
+Fuu - plays 3 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Copper, Copper
+Fuu - shuffles deck
+Fuu - draws Estate, Estate, Silver
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Cellar, Copper, Copper, Copper, Laboratory
+ 
+---------- Fuu: turn 5 ----------
+Fuu - plays 2 Copper, 1 Silver
+Fuu - buys Militia
+Fuu - gains Militia
+Fuu - draws Copper, Laboratory, Moneylender, Copper, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - draws Estate
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Laboratory, Copper, Moneylender, Laboratory
+ 
+---------- Fuu: turn 6 ----------
+Fuu - plays Laboratory
+Fuu - draws Silver, Estate
+Fuu - plays Moneylender
+Fuu - trashes Copper
+Fuu - plays 2 Copper, 1 Silver
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Copper
+Fuu - shuffles deck
+Fuu - draws Estate, Moneylender, Silver, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Silver
+Monsieur X - draws Copper, Copper, Copper, Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Copper, Copper, Copper
+ 
+---------- Fuu: turn 7 ----------
+Fuu - plays Moneylender
+Fuu - trashes Copper
+Fuu - plays 1 Silver, 1 Copper
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Copper, Laboratory, Militia, Estate, Estate
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Market, Estate
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - draws Silver, Copper
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Cellar, Market, Moneylender, Laboratory
+ 
+---------- Fuu: turn 8 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Copper
+Fuu - plays Militia
+Monsieur X - discards Moneylender
+Monsieur X - discards Cellar
+Fuu - plays 3 Copper
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Silver, Laboratory
+Fuu - shuffles deck
+Fuu - draws Militia, Estate, Silver
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Laboratory
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Gold
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Silver, Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Copper, Estate, Cellar, Moneylender, Estate
+ 
+---------- Fuu: turn 9 ----------
+Fuu - plays Laboratory
+Fuu - draws Estate, Moneylender
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Moneylender
+Fuu - plays 2 Silver
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Copper, Laboratory, Copper, Copper, Laboratory
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Estate
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Militia
+Monsieur X - gains Militia
+Monsieur X - draws Laboratory, Market, Cellar, Laboratory, Estate
+ 
+---------- Fuu: turn 10 ----------
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Estate
+Fuu - plays Laboratory
+Fuu - draws Copper
+Fuu - shuffles deck
+Fuu - draws Militia
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Moneylender
+Fuu - plays Laboratory
+Fuu - draws Silver, Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Fuu - plays 4 Copper, 1 Silver
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Estate, Laboratory, Silver
+Fuu - shuffles deck
+Fuu - draws Copper, Laboratory
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Gold
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Cellar
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Gold
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory, Laboratory, Laboratory, Gold, Copper
+ 
+---------- Fuu: turn 11 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Copper
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Militia
+Fuu - plays Laboratory
+Fuu - draws Province, Estate
+Fuu - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Gold
+Fuu - plays 3 Copper, 1 Silver
+Fuu - buys Market
+Fuu - gains Market
+Fuu - draws Silver, Moneylender, Laboratory, Copper, Estate
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Market
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Cellar
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - discards Cellar
+Monsieur X - discards Estate
+Monsieur X - draws Silver, Estate, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Estate, Laboratory, Gold, Gold
+ 
+---------- Fuu: turn 12 ----------
+Fuu - plays Laboratory
+Fuu - draws Laboratory
+Fuu - shuffles deck
+Fuu - draws Silver
+Fuu - plays Laboratory
+Fuu - draws Militia, Market
+Fuu - plays Market
+Fuu - draws Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Fuu - plays 2 Silver, 1 Copper
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Laboratory, Province, Laboratory, Laboratory, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Cellar
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Market
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Monsieur X - draws Moneylender, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Moneylender
+Monsieur X - draws Silver
+Monsieur X - plays Militia
+Fuu - discards Province
+Fuu - discards Copper
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Cellar, Province, Copper
+ 
+---------- Fuu: turn 13 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Estate
+Fuu - plays Laboratory
+Fuu - draws Copper
+Fuu - shuffles deck
+Fuu - draws Estate
+Fuu - plays Laboratory
+Fuu - draws Moneylender, Province
+Fuu - plays Moneylender
+Fuu - trashes Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Silver, Province, Laboratory, Copper, Market
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Market, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Laboratory
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - draws Cellar, Laboratory, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Monsieur X - draws Militia, Moneylender
+Monsieur X - plays Militia
+Fuu - discards Province
+Fuu - discards Copper
+Monsieur X - plays 2 Gold, 2 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory, Militia, Copper, Silver, Estate
+ 
+---------- Fuu: turn 14 ----------
+Fuu - plays Laboratory
+Fuu - draws Militia, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Copper, Silver
+Fuu - plays Market
+Fuu - draws Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Fuu - plays 2 Silver, 1 Copper
+Fuu - buys Province
+Fuu - gains Province
+Fuu - shuffles deck
+Fuu - draws Market, Copper, Estate, Province, Silver
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Silver
+Monsieur X - draws Market, Province
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Moneylender
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Moneylender
+Monsieur X - discards Estate
+Monsieur X - draws Cellar, Gold, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Estate
+Monsieur X - plays Militia
+Fuu - discards Province
+Fuu - discards Estate
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Cellar, Militia, Silver
+ 
+---------- Fuu: turn 15 ----------
+Fuu - plays Market
+Fuu - draws Province
+Fuu - plays 1 Copper, 1 Silver
+Fuu - buys Cellar
+Fuu - gains Cellar
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Laboratory, Silver, Laboratory, Estate, Copper
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - discards Silver
+Monsieur X - draws Moneylender, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Province
+Monsieur X - plays Militia
+Fuu - discards Estate
+Fuu - discards Copper
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Cellar, Market, Laboratory, Estate, Estate
+ 
+---------- Fuu: turn 16 ----------
+Fuu - plays Laboratory
+Fuu - draws Moneylender, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Estate, Silver
+Fuu - plays Laboratory
+Fuu - draws Province, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Copper
+Fuu - plays Laboratory
+Fuu - draws Militia
+Fuu - shuffles deck
+Fuu - draws Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Fuu - plays 2 Silver, 1 Copper
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - draws Copper, Province, Estate, Market, Cellar
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Estate
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Estate
+Monsieur X - plays 1 Gold, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Laboratory, Cellar, Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Estate
+ 
+---------- Fuu: turn 17 ----------
+Fuu - plays Market
+Fuu - draws Silver
+Fuu - plays Cellar
+Fuu - discards Estate
+Fuu - discards Province
+Fuu - discards Copper
+Fuu - draws Province, Estate, Copper
+Fuu - plays 1 Silver, 1 Copper
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - buys Cellar
+Fuu - gains Cellar
+Fuu - shuffles deck
+Fuu - draws Copper, Estate, Laboratory, Militia, Cellar
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Province
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Duchy
+Monsieur X - plays Cellar
+Monsieur X - discards Duchy
+Monsieur X - discards Province
+Monsieur X - discards Province
+Monsieur X - discards Estate
+Monsieur X - draws Estate, Silver, Laboratory, Province
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Militia
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Estate
+Monsieur X - plays Militia
+Fuu - discards Copper
+Fuu - discards Estate
+Monsieur X - plays 2 Gold, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Laboratory, Duchy, Cellar, Moneylender, Estate
+ 
+---------- Fuu: turn 18 ----------
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Silver, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Copper
+Fuu - plays Laboratory
+Fuu - draws Market, Province
+Fuu - plays Market
+Fuu - draws Duchy
+Fuu - plays Laboratory
+Fuu - draws Copper, Estate
+Fuu - plays Cellar
+Fuu - discards Province
+Fuu - discards Duchy
+Fuu - discards Estate
+Fuu - discards Copper
+Fuu - discards Copper
+Fuu - draws Province, Silver, Silver, Cellar, Estate
+Fuu - plays Cellar
+Fuu - discards Province
+Fuu - discards Estate
+Fuu - draws Province, Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Duchy
+Fuu - plays 3 Silver
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Moneylender, Estate
+Fuu - shuffles deck
+Fuu - draws Silver, Cellar, Province
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Gold
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Market, Cellar, Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Moneylender, Silver
+ 
+---------- Fuu: turn 19 ----------
+Fuu - plays Cellar
+Fuu - discards Province
+Fuu - discards Estate
+Fuu - discards Moneylender
+Fuu - discards Silver
+Fuu - draws Estate, Militia, Copper, Duchy
+Fuu - plays Militia
+Monsieur X - discards Cellar
+Monsieur X - discards Moneylender
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Market, Province, Silver, Laboratory, Estate
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Militia
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - draws Silver
+Monsieur X - plays Militia
+Fuu - discards Estate
+Fuu - discards Province
+Monsieur X - plays 2 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Duchy, Duchy, Estate, Cellar, Gold
+ 
+---------- Fuu: turn 20 ----------
+Fuu - plays Laboratory
+Fuu - draws Laboratory, Copper
+Fuu - plays Laboratory
+Fuu - draws Duchy, Laboratory
+Fuu - plays Laboratory
+Fuu - draws Silver, Estate
+Fuu - plays Market
+Fuu - draws Estate
+Fuu - plays 2 Silver, 1 Copper
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - draws Laboratory, Copper, Cellar, Laboratory, Province
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Duchy
+Monsieur X - discards Duchy
+Monsieur X - discards Estate
+Monsieur X - draws Gold, Province, Estate
+Monsieur X - plays 2 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Cellar, Estate, Estate, Gold, Province
+ 
+---------- Fuu: turn 21 ----------
+ 
+------------ Game Over ------------
+Monsieur X - cards: 5 Laboratory, 4 Cellar, 1 Moneylender, 1 Market, 1 Militia, 3 Gold, 2 Silver, 5 Estate, 5 Duchy, 4 Province
+Monsieur X - total victory points: 44
+Monsieur X - turns: 21
+ 
+Fuu - resigned
+Fuu - cards: 5 Laboratory, 2 Cellar, 1 Moneylender, 1 Militia, 1 Market, 3 Copper, 3 Silver, 7 Estate, 3 Province, 3 Duchy
+Fuu - total victory points: 34
+Fuu - turns: 20
+ 
+1st place: Monsieur X
+2nd place: Fuu
+ 

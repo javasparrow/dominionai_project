@@ -1,0 +1,429 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Woodcutter, Workshop, Bureaucrat, Gardens, Militia, Remodel, Smithy, Festival, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dragline - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dragline - shuffles deck
+Monsieur X - shuffles deck
+dragline - draws Copper, Estate, Estate, Estate, Copper
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dragline: turn 1 ----------
+dragline - plays 2 Copper
+dragline - buys Chapel
+dragline - gains Chapel
+dragline - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Militia
+Monsieur X - gains Militia
+Monsieur X - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- dragline: turn 2 ----------
+dragline - plays 5 Copper
+dragline - buys Festival
+dragline - gains Festival
+dragline - shuffles deck
+dragline - draws Copper, Estate, Chapel, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Chapel, Estate
+ 
+---------- dragline: turn 3 ----------
+dragline - plays Chapel
+dragline - trashes Copper, Estate, Copper, Estate
+dragline - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Copper, Copper, Copper
+Monsieur X - draws Copper, Estate, Copper, Militia, Copper
+ 
+---------- dragline: turn 4 ----------
+dragline - plays 4 Copper
+dragline - buys Smithy
+dragline - gains Smithy
+dragline - draws Copper, Festival
+dragline - shuffles deck
+dragline - draws Chapel, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Militia
+dragline - discards Chapel
+dragline - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Militia, Copper, Chapel
+ 
+---------- dragline: turn 5 ----------
+dragline - plays Festival
+dragline - plays 2 Copper
+dragline - buys Silver
+dragline - gains Silver
+dragline - draws Estate, Smithy, Copper, Copper
+dragline - shuffles deck
+dragline - draws Chapel
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Estate
+Monsieur X - draws Copper, Estate, Festival, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel
+ 
+---------- dragline: turn 6 ----------
+dragline - plays Chapel
+dragline - trashes Copper, Copper, Estate
+dragline - draws Festival, Copper, Copper, Silver, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Estate
+Monsieur X - plays 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Militia
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Festival, Chapel
+ 
+---------- dragline: turn 7 ----------
+dragline - plays Festival
+dragline - plays 3 Copper, 1 Silver
+dragline - buys Gold
+dragline - gains Gold
+dragline - shuffles deck
+dragline - draws Festival, Silver, Copper, Smithy, Chapel
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Militia
+dragline - discards Chapel
+dragline - discards Copper
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Militia, Witch, Chapel, Festival
+ 
+---------- dragline: turn 8 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Copper, Gold, Copper
+dragline - plays 2 Copper, 1 Silver, 1 Gold
+dragline - buys Festival
+dragline - gains Festival
+dragline - buys Smithy
+dragline - gains Smithy
+dragline - shuffles deck
+dragline - draws Gold, Festival, Chapel, Festival, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+dragline - gains Curse
+Monsieur X - plays Militia
+dragline - discards Chapel
+dragline - discards Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Chapel, Festival, Militia, Silver
+ 
+---------- dragline: turn 9 ----------
+dragline - plays Festival
+dragline - plays Festival
+dragline - plays 1 Gold
+dragline - buys Witch
+dragline - gains Witch
+dragline - buys Chapel
+dragline - gains Chapel
+dragline - draws Copper, Silver, Smithy, Copper, Smithy
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Militia
+dragline - discards Smithy
+dragline - discards Copper
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Chapel, Militia, Smithy
+ 
+---------- dragline: turn 10 ----------
+dragline - plays Smithy
+dragline - shuffles deck
+dragline - draws Gold, Chapel, Smithy
+dragline - plays 1 Copper, 1 Silver, 1 Gold
+dragline - buys Festival
+dragline - gains Festival
+dragline - draws Curse, Chapel, Copper, Copper, Witch
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Gold, Silver, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+dragline - gains Curse
+Monsieur X - plays Militia
+dragline - discards Chapel
+dragline - discards Curse
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Witch, Chapel, Smithy, Festival
+ 
+---------- dragline: turn 11 ----------
+dragline - plays Witch
+dragline - draws Festival, Festival
+Monsieur X - gains Curse
+dragline - shuffles deck
+dragline - draws Festival, Gold, Copper, Silver, Curse
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Militia, Festival, Gold
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Festival
+dragline - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Curse
+dragline - gains Curse
+Monsieur X - plays Militia
+dragline - discards Curse
+dragline - discards Copper
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Militia, Curse, Festival, Witch
+ 
+---------- dragline: turn 12 ----------
+dragline - plays Festival
+dragline - plays 1 Gold, 1 Silver
+dragline - buys Gold
+dragline - gains Gold
+dragline - draws Festival, Chapel, Curse, Smithy, Festival
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Smithy
+dragline - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Chapel, Silver, Witch
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Smithy
+dragline - gains Curse
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Festival, Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Militia, Festival, Smithy
+ 
+---------- dragline: turn 13 ----------
+dragline - plays Festival
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Smithy, Copper, Witch
+dragline - plays Smithy
+dragline - draws Copper, Chapel
+dragline - shuffles deck
+dragline - draws Curse
+dragline - plays Chapel
+dragline - trashes Curse, Copper, Curse
+dragline - plays 1 Copper
+dragline - buys Festival
+dragline - gains Festival
+dragline - draws Festival, Gold, Copper, Curse, Curse
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Gold, Festival, Witch
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Curse, Chapel
+Monsieur X - plays Witch
+Monsieur X - draws Witch, Smithy
+dragline - gains Curse
+Monsieur X - plays Militia
+dragline - discards Curse
+dragline - discards Curse
+Monsieur X - plays 1 Gold
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Festival, Festival, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Festival
+ 
+---------- dragline: turn 14 ----------
+dragline - plays Festival
+dragline - plays 1 Gold, 1 Copper
+dragline - buys Gold
+dragline - gains Gold
+dragline - draws Curse, Curse, Silver, Gold
+dragline - shuffles deck
+dragline - draws Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Gold, Smithy, Smithy, Curse, Witch
+ 
+---------- dragline: turn 15 ----------
+dragline - plays 1 Silver, 1 Gold, 1 Copper
+dragline - buys Gold
+dragline - gains Gold
+dragline - draws Chapel, Gold, Festival, Gold, Copper
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Chapel
+dragline - gains Curse
+Monsieur X - draws Smithy, Gold, Festival, Militia, Witch
+ 
+---------- dragline: turn 16 ----------
+dragline - plays Festival
+dragline - plays Chapel
+dragline - trashes Copper
+dragline - plays 2 Gold
+dragline - buys Remodel
+dragline - gains Remodel
+dragline - buys Remodel
+dragline - gains Remodel
+dragline - draws Curse, Festival, Smithy, Witch, Smithy
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Curse
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Silver, Province
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Chapel, Gold
+dragline - gains Curse
+Monsieur X - plays Militia
+dragline - discards Witch
+dragline - discards Curse
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Smithy, Festival, Smithy, Witch, Festival
+ 
+---------- dragline: turn 17 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Curse, Chapel, Curse
+dragline - plays Chapel
+dragline - trashes Curse, Curse
+dragline - draws Festival, Festival
+dragline - shuffles deck
+dragline - draws Remodel, Curse, Remodel
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Smithy, Smithy
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Gold, Province
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Witch, Festival, Militia
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Province, Curse, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Province, Gold
+Monsieur X - plays Militia
+dragline - discards Curse
+dragline - discards Remodel
+Monsieur X - plays Witch
+Monsieur X - draws Chapel, Silver
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Smithy, Province, Festival, Estate
+ 
+---------- dragline: turn 18 ----------
+dragline - plays Festival
+dragline - plays Festival
+dragline - buys Estate
+dragline - gains Estate
+dragline - draws Silver, Curse, Gold, Curse, Smithy
+ 
+------------ Game Over ------------
+Monsieur X - cards: 6 Festival, 4 Smithy, 2 Witch, 1 Chapel, 1 Militia, 2 Gold, 1 Silver, 7 Estate, 3 Province, 1 Curse
+Monsieur X - total victory points: 24
+Monsieur X - turns: 17
+ 
+dragline - cards: 4 Festival, 2 Smithy, 2 Remodel, 2 Chapel, 1 Witch, 4 Gold, 1 Silver, 1 Copper, 1 Estate, 5 Curse
+dragline - total victory points: -4
+dragline - turns: 18
+ 
+1st place: Monsieur X
+2nd place: dragline
+ 

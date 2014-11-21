@@ -1,0 +1,325 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Chancellor, Woodcutter, Militia, Smithy, Thief, Library, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+akestrel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+akestrel - shuffles deck
+hiroki - shuffles deck
+akestrel - draws Copper, Copper, Estate, Estate, Copper
+hiroki - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- akestrel: turn 1 ----------
+akestrel - plays 3 Copper
+akestrel - buys Silver
+akestrel - gains Silver
+akestrel - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- akestrel: turn 2 ----------
+akestrel - plays 4 Copper
+akestrel - buys Chapel
+akestrel - gains Chapel
+akestrel - shuffles deck
+akestrel - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Estate, Silver, Estate
+ 
+---------- akestrel: turn 3 ----------
+akestrel - plays 3 Copper
+akestrel - buys Silver
+akestrel - gains Silver
+akestrel - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Silver
+hiroki - shuffles deck
+hiroki - draws Silver, Copper, Copper
+ 
+---------- akestrel: turn 4 ----------
+akestrel - plays 4 Copper
+akestrel - buys Smithy
+akestrel - gains Smithy
+akestrel - draws Chapel, Silver
+akestrel - shuffles deck
+akestrel - draws Copper, Copper, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 3 Copper, 2 Silver
+hiroki - buys Library
+hiroki - gains Library
+hiroki - draws Silver, Copper, Estate, Estate, Estate
+ 
+---------- akestrel: turn 5 ----------
+akestrel - plays Chapel
+akestrel - trashes Copper, Copper
+akestrel - plays 1 Silver, 1 Copper
+akestrel - buys Silver
+akestrel - gains Silver
+akestrel - draws Estate, Estate, Copper, Copper, Silver
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 1 Silver, 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Silver, Copper, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+ 
+---------- akestrel: turn 6 ----------
+akestrel - plays 2 Copper, 1 Silver
+akestrel - buys Silver
+akestrel - gains Silver
+akestrel - draws Copper, Estate, Copper, Smithy
+akestrel - shuffles deck
+akestrel - draws Copper
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Library
+hiroki - gains Library
+hiroki - draws Library, Silver, Copper, Copper, Silver
+ 
+---------- akestrel: turn 7 ----------
+akestrel - plays Smithy
+akestrel - draws Chapel, Copper, Silver
+akestrel - plays 4 Copper, 1 Silver
+akestrel - buys Gold
+akestrel - gains Gold
+akestrel - draws Copper, Estate, Silver, Silver, Estate
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Library
+hiroki - draws Copper
+hiroki - draws Estate
+hiroki - draws Estate
+hiroki - plays 3 Copper, 2 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Silver, Estate, Silver
+hiroki - shuffles deck
+hiroki - draws Gold, Estate
+ 
+---------- akestrel: turn 8 ----------
+akestrel - plays 2 Silver, 1 Copper
+akestrel - buys Market
+akestrel - gains Market
+akestrel - draws Silver
+akestrel - shuffles deck
+akestrel - draws Copper, Silver, Copper, Estate
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays 2 Silver, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- akestrel: turn 9 ----------
+akestrel - plays 2 Silver, 2 Copper
+akestrel - buys Gold
+akestrel - gains Gold
+akestrel - draws Copper, Market, Copper, Chapel, Copper
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Library
+hiroki - gains Library
+hiroki - draws Copper, Copper, Copper, Silver, Library
+ 
+---------- akestrel: turn 10 ----------
+akestrel - plays Market
+akestrel - draws Estate
+akestrel - plays Chapel
+akestrel - trashes Estate, Copper, Copper, Copper
+akestrel - draws Silver, Gold, Silver, Smithy, Estate
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Library
+hiroki - draws Silver
+hiroki - discards Library
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Gold
+hiroki - discards Library
+hiroki - plays 4 Copper, 2 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- akestrel: turn 11 ----------
+akestrel - plays Smithy
+akestrel - shuffles deck
+akestrel - draws Estate, Market, Copper
+akestrel - plays 2 Silver, 1 Gold, 1 Copper
+akestrel - buys Province
+akestrel - gains Province
+akestrel - draws Silver, Chapel, Copper, Gold, Silver
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Estate, Copper, Silver, Library, Silver
+ 
+---------- akestrel: turn 12 ----------
+akestrel - plays 2 Silver, 1 Copper, 1 Gold
+akestrel - buys Province
+akestrel - gains Province
+akestrel - shuffles deck
+akestrel - draws Estate, Copper, Smithy, Gold, Estate
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Library
+hiroki - draws Gold
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - draws Silver
+hiroki - plays 3 Silver, 2 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Silver, Estate, Library, Province, Copper
+ 
+---------- akestrel: turn 13 ----------
+akestrel - plays Smithy
+akestrel - draws Silver, Silver, Copper
+akestrel - plays 2 Copper, 2 Silver, 1 Gold
+akestrel - buys Province
+akestrel - gains Province
+akestrel - draws Chapel, Market, Gold, Silver, Province
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Library
+hiroki - draws Copper
+hiroki - draws Copper
+hiroki - draws Silver
+hiroki - plays 3 Copper, 2 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Copper, Silver, Estate, Gold, Library
+ 
+---------- akestrel: turn 14 ----------
+akestrel - plays Market
+akestrel - draws Silver
+akestrel - plays 2 Silver, 1 Gold
+akestrel - buys Gold
+akestrel - gains Gold
+akestrel - draws Province
+akestrel - shuffles deck
+akestrel - draws Market, Province, Gold, Province
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Library
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Silver
+hiroki - draws Silver
+hiroki - plays 3 Silver, 2 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Library, Copper, Estate, Copper, Copper
+ 
+---------- akestrel: turn 15 ----------
+akestrel - plays Market
+akestrel - draws Silver
+akestrel - plays 1 Gold, 1 Silver
+akestrel - buys Duchy
+akestrel - gains Duchy
+akestrel - draws Silver, Estate, Chapel, Estate, Silver
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Library
+hiroki - draws Duchy
+hiroki - draws Gold
+hiroki - draws Silver
+hiroki - plays 3 Copper, 1 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Library, Copper, Province, Copper, Province
+ 
+---------- akestrel: turn 16 ----------
+akestrel - plays Chapel
+akestrel - trashes Estate, Estate
+akestrel - plays 2 Silver
+akestrel - buys Silver
+akestrel - gains Silver
+akestrel - draws Silver, Smithy, Gold, Gold, Copper
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Library
+hiroki - draws Silver
+hiroki - draws Estate
+hiroki - draws Silver
+hiroki - plays 2 Copper, 2 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - shuffles deck
+hiroki - draws Province, Silver, Copper, Gold, Copper
+ 
+---------- akestrel: turn 17 ----------
+akestrel - plays Smithy
+akestrel - draws Copper
+akestrel - shuffles deck
+akestrel - draws Silver, Province
+akestrel - plays 2 Silver, 2 Gold, 2 Copper
+akestrel - buys Duchy
+akestrel - gains Duchy
+akestrel - draws Duchy, Province, Silver, Province, Gold
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays 2 Copper, 1 Silver, 1 Gold
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Estate, Copper, Silver, Silver
+ 
+---------- akestrel: turn 18 ----------
+akestrel - plays 1 Silver, 1 Gold
+akestrel - buys Duchy
+akestrel - gains Duchy
+akestrel - draws Silver, Chapel, Market, Silver
+akestrel - shuffles deck
+akestrel - draws Gold
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Duchy, Estate, Library, Province
+ 
+---------- akestrel: turn 19 ----------
+akestrel - plays Market
+akestrel - draws Province
+akestrel - plays 2 Silver, 1 Gold
+akestrel - buys Province
+akestrel - gains Province
+akestrel - draws Duchy, Province, Duchy, Province, Silver
+ 
+------------ Game Over ------------
+hiroki - cards: 3 Library, 7 Copper, 6 Silver, 2 Gold, 4 Province, 4 Duchy, 3 Estate
+hiroki - total victory points: 39
+hiroki - turns: 19
+ 
+akestrel - cards: 1 Market, 1 Chapel, 1 Smithy, 5 Silver, 3 Gold, 2 Copper, 4 Province, 3 Duchy
+akestrel - total victory points: 33
+akestrel - turns: 19
+ 
+1st place: hiroki
+2nd place: akestrel
+ 

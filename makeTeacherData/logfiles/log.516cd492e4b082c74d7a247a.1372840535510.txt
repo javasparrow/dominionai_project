@@ -1,0 +1,647 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Woodcutter, Moneylender, Remodel, Spy, Thief, Library, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+will turner - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+will turner - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Estate, Copper
+will turner - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- will turner: turn 1 ----------
+will turner - plays 3 Copper
+will turner - buys Chapel
+will turner - gains Chapel
+will turner - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- will turner: turn 2 ----------
+will turner - plays 4 Copper
+will turner - buys Moneylender
+will turner - gains Moneylender
+will turner - shuffles deck
+will turner - draws Copper, Copper, Moneylender, Estate, Estate
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- will turner: turn 3 ----------
+will turner - plays Moneylender
+will turner - trashes Copper
+will turner - plays 1 Copper
+will turner - buys Silver
+will turner - gains Silver
+will turner - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - draws Copper, Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Estate
+ 
+---------- will turner: turn 4 ----------
+will turner - plays 4 Copper
+will turner - buys Remodel
+will turner - gains Remodel
+will turner - draws Chapel, Copper
+will turner - shuffles deck
+will turner - draws Silver, Copper, Estate
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Estate, Copper, Estate
+Monsieur X - draws Copper, Witch, Estate, Copper, Copper
+ 
+---------- will turner: turn 5 ----------
+will turner - plays Chapel
+will turner - trashes Copper, Copper, Estate
+will turner - plays 1 Silver
+will turner - draws Estate, Moneylender, Estate, Remodel, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+will turner - gains Curse
+Monsieur X - plays 5 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Silver, Estate
+ 
+---------- will turner: turn 6 ----------
+will turner - plays Remodel
+will turner - trashes Moneylender
+will turner - gains Gold
+will turner - plays 1 Copper
+will turner - draws Copper, Copper, Copper
+will turner - shuffles deck
+will turner - draws Curse, Estate
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 2 Silver, 2 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Copper, Witch, Chapel, Copper
+ 
+---------- will turner: turn 7 ----------
+will turner - plays 3 Copper
+will turner - buys Silver
+will turner - gains Silver
+will turner - draws Silver, Estate, Copper, Remodel, Gold
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Gold, Silver, Copper, Chapel
+ 
+---------- will turner: turn 8 ----------
+will turner - plays Remodel
+will turner - trashes Estate
+will turner - gains Spy
+will turner - plays 1 Silver, 1 Copper, 1 Gold
+will turner - buys Market
+will turner - gains Market
+will turner - draws Chapel
+will turner - shuffles deck
+will turner - draws Estate, Gold, Silver, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver, Estate, Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Copper
+ 
+---------- will turner: turn 9 ----------
+will turner - plays Chapel
+will turner - trashes Estate, Copper
+will turner - plays 1 Gold, 1 Silver
+will turner - buys Market
+will turner - gains Market
+will turner - draws Spy, Copper, Silver, Market, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Chapel
+will turner - gains Curse
+Monsieur X - plays 2 Gold, 1 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Copper, Witch, Chapel
+ 
+---------- will turner: turn 10 ----------
+will turner - plays Spy
+will turner - draws Curse
+will turner - places Remodel on top of deck
+Monsieur X - discards Gold
+will turner - plays Market
+will turner - draws Remodel
+will turner - plays Remodel
+will turner - trashes Curse
+will turner - gains Chapel
+will turner - plays 2 Copper, 1 Silver
+will turner - buys Market
+will turner - gains Market
+will turner - draws Copper
+will turner - shuffles deck
+will turner - draws Gold, Silver, Curse, Market
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Province
+will turner - gains Curse
+Monsieur X - plays 1 Silver, 1 Gold, 1 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Province, Estate, Gold
+ 
+---------- will turner: turn 11 ----------
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Remodel
+will turner - plays Remodel
+will turner - trashes Silver
+will turner - gains Market
+will turner - plays 1 Copper, 1 Gold
+will turner - buys Market
+will turner - gains Market
+will turner - draws Chapel, Copper, Copper, Market, Chapel
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Chapel, Witch, Copper, Gold, Silver
+ 
+---------- will turner: turn 12 ----------
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Silver
+will turner - shuffles deck
+will turner - places Market on top of deck
+Monsieur X - shuffles deck
+Monsieur X - discards Silver
+will turner - plays Chapel
+will turner - trashes Chapel, Copper, Copper, Silver
+will turner - draws Market, Remodel, Market, Curse, Curse
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Gold
+will turner - gains Curse
+Monsieur X - plays 3 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Province, Province, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Gold
+ 
+---------- will turner: turn 13 ----------
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Copper
+will turner - plays Market
+will turner - draws Gold
+will turner - plays Remodel
+will turner - trashes Gold
+will turner - gains Province
+will turner - plays 1 Copper
+will turner - buys Spy
+will turner - gains Spy
+will turner - draws Market
+will turner - shuffles deck
+will turner - draws Market, Province, Curse, Market
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver, Gold, Witch, Gold, Province
+ 
+---------- will turner: turn 14 ----------
+will turner - plays Market
+will turner - draws Curse
+will turner - plays Market
+will turner - draws Copper
+will turner - plays Market
+will turner - draws Remodel
+will turner - plays Remodel
+will turner - trashes Curse
+will turner - gains Chapel
+will turner - plays 1 Copper
+will turner - buys Thief
+will turner - gains Thief
+will turner - draws Spy, Spy, Chapel, Market, Market
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Chapel, Copper
+will turner - gains Curse
+Monsieur X - plays 2 Gold, 1 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Witch, Province, Province, Silver
+ 
+---------- will turner: turn 15 ----------
+will turner - plays Spy
+will turner - draws Curse
+will turner - shuffles deck
+will turner - discards Remodel
+Monsieur X - discards Copper
+will turner - plays Spy
+will turner - draws Province
+will turner - discards Curse
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Chapel
+will turner - plays Market
+will turner - draws Copper
+will turner - plays Chapel
+will turner - trashes Chapel, Curse, Copper
+will turner - draws Curse, Market, Market, Thief, Market
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Estate
+will turner - gains Curse
+Monsieur X - plays 2 Silver, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Province, Gold, Gold, Chapel, Province
+ 
+---------- will turner: turn 16 ----------
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Curse
+will turner - plays Market
+will turner - draws Province
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Market
+will turner - places Market on top of deck
+Monsieur X - discards Silver
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Chapel
+will turner - plays Thief
+Monsieur X - shuffles deck
+Monsieur X - reveals: Gold, Copper
+Monsieur X - trashes Gold
+Monsieur X - discards Copper
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - draws Remodel, Curse, Spy
+will turner - shuffles deck
+will turner - draws Curse, Market
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays 2 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Estate, Gold, Province, Province, Silver
+ 
+---------- will turner: turn 17 ----------
+will turner - plays Market
+will turner - draws Curse
+will turner - plays Spy
+will turner - draws Market
+will turner - discards Province
+Monsieur X - discards Silver
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Thief
+will turner - places Market on top of deck
+Monsieur X - discards Silver
+will turner - plays Thief
+Monsieur X - reveals: Witch
+Monsieur X - shuffles deck
+Monsieur X - reveals: Silver
+Monsieur X - trashes Silver
+Monsieur X - discards Witch
+will turner - draws Market, Market, Chapel, Duchy, Market
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Gold, Gold, Chapel, Province, Province
+ 
+---------- will turner: turn 18 ----------
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Curse
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Curse
+will turner - plays Market
+will turner - draws Remodel
+will turner - plays Chapel
+will turner - trashes Curse, Curse, Remodel
+will turner - buys Spy
+will turner - gains Spy
+will turner - draws Curse, Province, Spy, Thief, Spy
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays 2 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Gold, Copper, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Province
+ 
+---------- will turner: turn 19 ----------
+will turner - plays Spy
+will turner - draws Market
+will turner - shuffles deck
+will turner - places Spy on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Chapel
+will turner - places Market on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Spy
+will turner - draws Market
+will turner - discards Duchy
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Duchy
+will turner - plays Thief
+Monsieur X - reveals: Gold, Witch
+Monsieur X - trashes Gold
+Monsieur X - discards Witch
+will turner - gains Gold
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - shuffles deck
+will turner - draws Province, Chapel, Spy, Spy, Duchy
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays 2 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Province, Duchy, Province, Province, Gold
+ 
+---------- will turner: turn 20 ----------
+will turner - plays Spy
+will turner - draws Market
+will turner - places Market on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Spy
+will turner - draws Market
+will turner - places Thief on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Thief
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Curse
+will turner - plays Thief
+Monsieur X - reveals: Gold, Estate
+Monsieur X - trashes Gold
+Monsieur X - discards Estate
+will turner - gains Gold
+will turner - draws Gold, Market, Market, Spy, Duchy
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays 1 Gold
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Chapel, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Province, Province
+ 
+---------- will turner: turn 21 ----------
+will turner - plays Spy
+will turner - shuffles deck
+will turner - draws Duchy
+will turner - places Market on top of deck
+Monsieur X - discards Witch
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Province
+will turner - plays Market
+will turner - draws Curse
+will turner - plays 1 Gold
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - draws Gold, Market, Market, Thief, Spy
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays 2 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Province, Silver, Estate, Province, Gold
+ 
+---------- will turner: turn 22 ----------
+will turner - plays Spy
+will turner - draws Chapel
+will turner - places Spy on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Market
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Duchy
+will turner - places Gold on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Spy
+will turner - draws Gold
+will turner - places Market on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Thief
+Monsieur X - reveals: Gold, Gold
+Monsieur X - trashes Gold
+Monsieur X - discards Gold
+will turner - gains Gold
+will turner - plays 2 Gold
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - buys Spy
+will turner - gains Spy
+will turner - draws Market, Province, Market, Duchy, Duchy
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper, Duchy, Province
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Estate
+ 
+---------- will turner: turn 23 ----------
+will turner - plays Market
+will turner - draws Curse
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Duchy
+will turner - places Market on top of deck
+Monsieur X - discards Silver
+will turner - draws Market, Gold, Spy, Chapel, Gold
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Chapel, Province, Duchy, Silver, Witch
+ 
+---------- will turner: turn 24 ----------
+will turner - plays Spy
+will turner - draws Market
+will turner - places Spy on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Thief
+will turner - places Market on top of deck
+Monsieur X - places Gold on top of deck
+will turner - plays Market
+will turner - draws Market
+will turner - plays Market
+will turner - draws Gold
+will turner - plays Thief
+Monsieur X - reveals: Gold, Gold
+Monsieur X - trashes Gold
+Monsieur X - discards Gold
+will turner - gains Gold
+will turner - plays 3 Gold
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - draws Spy, Duchy
+will turner - shuffles deck
+will turner - draws Thief, Duchy, Gold
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Province, Province
+will turner - gains Curse
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Silver, Province
+Monsieur X - shuffles deck
+Monsieur X - draws Duchy, Estate, Duchy
+ 
+---------- will turner: turn 25 ----------
+will turner - plays Spy
+will turner - draws Duchy
+will turner - places Duchy on top of deck
+Monsieur X - places Silver on top of deck
+will turner - plays Thief
+Monsieur X - reveals: Silver, Witch
+Monsieur X - trashes Silver
+Monsieur X - discards Witch
+will turner - plays 1 Gold
+will turner - draws Duchy, Market, Curse, Gold, Market
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Province, Province, Gold, Estate, Silver
+ 
+---------- will turner: turn 26 ----------
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Duchy
+will turner - places Spy on top of deck
+Monsieur X - discards Province
+will turner - plays Market
+will turner - draws Spy
+will turner - plays Spy
+will turner - draws Spy
+will turner - places Market on top of deck
+Monsieur X - discards Chapel
+will turner - plays Spy
+will turner - draws Market
+will turner - places Gold on top of deck
+Monsieur X - discards Copper
+will turner - plays Market
+will turner - draws Gold
+will turner - plays 2 Gold
+will turner - buys Province
+will turner - gains Province
+will turner - draws Gold, Market, Chapel, Market, Province
+ 
+---------- Monsieur X: turn 27 ----------
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Silver, Province, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Province
+ 
+---------- will turner: turn 27 ----------
+will turner - plays Market
+will turner - draws Duchy
+will turner - plays Market
+will turner - shuffles deck
+will turner - draws Gold
+will turner - plays 2 Gold
+will turner - buys Province
+will turner - gains Province
+will turner - draws Spy, Duchy, Market, Province, Spy
+ 
+------------ Game Over ------------
+Monsieur X - cards: 1 Witch, 1 Chapel, 4 Silver, 1 Copper, 1 Gold, 5 Province, 4 Estate, 2 Duchy
+Monsieur X - total victory points: 40
+Monsieur X - turns: 27
+ 
+will turner - cards: 5 Market, 4 Spy, 1 Chapel, 1 Thief, 4 Gold, 6 Duchy, 3 Province, 2 Curse
+will turner - total victory points: 34
+will turner - turns: 27
+ 
+1st place: Monsieur X
+2nd place: will turner
+ 

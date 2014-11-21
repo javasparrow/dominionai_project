@@ -1,0 +1,501 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Workshop, Gardens, Spy, Library, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+clydeftones - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+clydeftones - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Estate, Copper
+clydeftones - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- clydeftones: turn 1 ----------
+clydeftones - plays 2 Copper
+clydeftones - buys Chapel
+clydeftones - gains Chapel
+clydeftones - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Chapel, Copper
+ 
+---------- clydeftones: turn 2 ----------
+clydeftones - plays 5 Copper
+clydeftones - buys Market
+clydeftones - gains Market
+clydeftones - shuffles deck
+clydeftones - draws Estate, Estate, Chapel, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Copper, Estate
+Monsieur X - draws Copper, Copper, Estate, Silver, Estate
+ 
+---------- clydeftones: turn 3 ----------
+clydeftones - plays Chapel
+clydeftones - trashes Copper, Estate, Copper, Estate
+clydeftones - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Silver
+ 
+---------- clydeftones: turn 4 ----------
+clydeftones - plays 4 Copper
+clydeftones - buys Silver
+clydeftones - gains Silver
+clydeftones - draws Copper, Market
+clydeftones - shuffles deck
+clydeftones - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Estate, Chapel, Silver, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+ 
+---------- clydeftones: turn 5 ----------
+clydeftones - plays Market
+clydeftones - draws Copper
+clydeftones - plays 5 Copper
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - draws Chapel, Estate, Silver
+clydeftones - shuffles deck
+clydeftones - draws Copper, Gold
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Copper, Estate
+Monsieur X - plays 1 Silver
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Silver, Copper, Copper, Market, Copper
+ 
+---------- clydeftones: turn 6 ----------
+clydeftones - plays Chapel
+clydeftones - trashes Estate, Copper
+clydeftones - plays 1 Silver, 1 Gold
+clydeftones - buys Market
+clydeftones - gains Market
+clydeftones - draws Market, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - draws Chapel
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Silver, Market, Cellar
+ 
+---------- clydeftones: turn 7 ----------
+clydeftones - plays Market
+clydeftones - shuffles deck
+clydeftones - draws Gold
+clydeftones - plays 4 Copper, 1 Gold
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - buys Chapel
+clydeftones - gains Chapel
+clydeftones - draws Silver, Market, Chapel
+clydeftones - shuffles deck
+clydeftones - draws Copper, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - draws Chapel
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Market, Silver, Market, Cellar
+ 
+---------- clydeftones: turn 8 ----------
+clydeftones - plays Market
+clydeftones - draws Chapel
+clydeftones - plays Chapel
+clydeftones - trashes Copper, Copper
+clydeftones - plays 1 Silver
+clydeftones - buys Silver
+clydeftones - gains Silver
+clydeftones - draws Gold, Copper, Gold, Market, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays 3 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Silver, Cellar, Silver, Market
+ 
+---------- clydeftones: turn 9 ----------
+clydeftones - plays Market
+clydeftones - shuffles deck
+clydeftones - draws Chapel
+clydeftones - plays Chapel
+clydeftones - trashes Copper, Copper
+clydeftones - plays 2 Gold
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - draws Silver, Silver, Market, Chapel
+clydeftones - shuffles deck
+clydeftones - draws Gold
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays 2 Silver, 1 Gold
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Spy
+Monsieur X - gains Spy
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Silver, Silver, Market
+ 
+---------- clydeftones: turn 10 ----------
+clydeftones - plays Market
+clydeftones - draws Gold
+clydeftones - plays 2 Silver, 2 Gold
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - buys Market
+clydeftones - gains Market
+clydeftones - draws Gold, Chapel, Market
+clydeftones - shuffles deck
+clydeftones - draws Silver, Market
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - discards Silver
+Monsieur X - discards Silver
+Monsieur X - discards Silver
+Monsieur X - draws Market, Spy, Market, Cellar
+Monsieur X - plays Spy
+Monsieur X - draws Gold
+Monsieur X - shuffles deck
+Monsieur X - places Silver on top of deck
+clydeftones - discards Gold
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Silver
+Monsieur X - draws Chapel, Silver
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Silver, Chapel, Cellar, Silver
+ 
+---------- clydeftones: turn 11 ----------
+clydeftones - plays Market
+clydeftones - draws Chapel
+clydeftones - plays Market
+clydeftones - draws Gold
+clydeftones - plays Chapel
+clydeftones - trashes Chapel
+clydeftones - plays 2 Gold, 1 Silver
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - buys Cellar
+clydeftones - gains Cellar
+clydeftones - draws Silver, Market, Gold
+clydeftones - shuffles deck
+clydeftones - draws Cellar, Market
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Chapel
+Monsieur X - discards Silver
+Monsieur X - draws Spy, Cellar, Market
+Monsieur X - plays Spy
+Monsieur X - draws Gold
+Monsieur X - places Market on top of deck
+clydeftones - discards Gold
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - draws Gold
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Library
+Monsieur X - gains Library
+Monsieur X - shuffles deck
+Monsieur X - draws Library, Cellar, Cellar, Spy, Silver
+ 
+---------- clydeftones: turn 12 ----------
+clydeftones - plays Market
+clydeftones - draws Chapel
+clydeftones - plays Market
+clydeftones - draws Gold
+clydeftones - plays Cellar
+clydeftones - discards Chapel
+clydeftones - draws Silver
+clydeftones - plays 2 Silver, 2 Gold
+clydeftones - buys Gold
+clydeftones - gains Gold
+clydeftones - buys Market
+clydeftones - gains Market
+clydeftones - draws Market, Gold, Gold
+clydeftones - shuffles deck
+clydeftones - draws Market, Gold
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Spy
+Monsieur X - draws Gold
+Monsieur X - discards Silver
+clydeftones - places Cellar on top of deck
+Monsieur X - plays Cellar
+Monsieur X - discards Gold
+Monsieur X - discards Silver
+Monsieur X - draws Silver, Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Chapel
+Monsieur X - draws Gold, Market
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Gold
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Monsieur X - plays Library
+Monsieur X - draws Gold
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - draws Silver
+Monsieur X - discards Chapel
+Monsieur X - discards Chapel
+Monsieur X - plays 3 Silver, 2 Gold
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Market, Cellar, Cellar, Silver, Gold
+ 
+---------- clydeftones: turn 13 ----------
+clydeftones - plays Market
+clydeftones - draws Cellar
+clydeftones - plays Market
+clydeftones - draws Silver
+clydeftones - plays 3 Gold, 1 Silver
+clydeftones - buys Province
+clydeftones - gains Province
+clydeftones - buys Library
+clydeftones - gains Library
+clydeftones - draws Silver, Gold, Gold, Market, Gold
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Market
+Monsieur X - draws Library
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Gold
+Monsieur X - draws Spy, Market
+Monsieur X - plays Spy
+Monsieur X - draws Gold
+Monsieur X - discards Chapel
+clydeftones - discards Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Cellar
+Monsieur X - discards Gold
+Monsieur X - discards Gold
+Monsieur X - draws Cellar, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Library
+Monsieur X - discards Market
+Monsieur X - shuffles deck
+Monsieur X - draws Gold
+Monsieur X - discards Chapel
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - discards: Market, Chapel
+Monsieur X - plays 3 Silver, 3 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Market, Market, Gold, Market, Market
+ 
+---------- clydeftones: turn 14 ----------
+clydeftones - plays Market
+clydeftones - draws Chapel
+clydeftones - plays 3 Gold, 1 Silver
+clydeftones - buys Province
+clydeftones - gains Province
+clydeftones - buys Gardens
+clydeftones - gains Gardens
+clydeftones - shuffles deck
+clydeftones - draws Cellar, Silver, Gold, Gold, Silver
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Spy
+Monsieur X - plays Spy
+Monsieur X - draws Market
+Monsieur X - discards Silver
+clydeftones - discards Market
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Cellar
+Monsieur X - discards Gold
+Monsieur X - discards Province
+Monsieur X - discards Silver
+Monsieur X - discards Gold
+Monsieur X - draws Cellar, Province, Chapel, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Chapel
+Monsieur X - discards Silver
+Monsieur X - draws Gold, Cellar, Library
+Monsieur X - plays Cellar
+Monsieur X - discards Gold
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - plays Library
+Monsieur X - discards Market
+Monsieur X - discards Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - draws Province
+Monsieur X - discards Chapel
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - draws Gold
+Monsieur X - draws Silver
+Monsieur X - discards: Market, Cellar, Chapel
+Monsieur X - plays 3 Gold, 3 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Spy
+Monsieur X - gains Spy
+Monsieur X - draws Province
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Cellar, Gold, Spy
+ 
+---------- clydeftones: turn 15 ----------
+clydeftones - plays Cellar
+clydeftones - discards Silver
+clydeftones - discards Silver
+clydeftones - draws Gardens, Market
+clydeftones - plays Market
+clydeftones - draws Gold
+clydeftones - plays 3 Gold
+clydeftones - buys Province
+clydeftones - gains Province
+clydeftones - buys Estate
+clydeftones - gains Estate
+clydeftones - draws Province, Market, Province, Market, Gold
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Spy
+Monsieur X - draws Gold
+Monsieur X - places Gold on top of deck
+clydeftones - places Chapel on top of deck
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - discards Province
+Monsieur X - draws Gold, Province
+Monsieur X - plays 3 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Market, Spy, Market, Cellar, Market
+ 
+------------ Game Over ------------
+Monsieur X - cards: 6 Market, 5 Cellar, 2 Spy, 1 Chapel, 1 Library, 3 Gold, 3 Silver, 5 Province
+Monsieur X - total victory points: 30
+Monsieur X - turns: 16
+ 
+clydeftones - cards: 4 Market, 1 Cellar, 1 Library, 1 Chapel, 6 Gold, 2 Silver, 3 Province, 1 Estate, 1 Gardens
+clydeftones - total victory points: 21
+clydeftones - turns: 15
+ 
+1st place: Monsieur X
+2nd place: clydeftones
+ 

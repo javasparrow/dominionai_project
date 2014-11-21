@@ -1,0 +1,527 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Woodcutter, Workshop, Bureaucrat, Moneylender, Thief, Throne Room, Laboratory, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+addicted - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+addicted - shuffles deck
+dudeabides - shuffles deck
+addicted - draws Estate, Copper, Estate, Copper, Copper
+dudeabides - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 5 Copper
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- addicted: turn 1 ----------
+addicted - plays 3 Copper
+addicted - buys Workshop
+addicted - gains Workshop
+addicted - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 2 Copper
+dudeabides - buys Chapel
+dudeabides - gains Chapel
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Estate, Estate, Chapel
+ 
+---------- addicted: turn 2 ----------
+addicted - plays 4 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - shuffles deck
+addicted - draws Workshop, Copper, Copper, Copper, Village
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays Chapel
+dudeabides - trashes Estate, Estate, Copper, Copper
+dudeabides - draws Copper, Copper, Copper, Estate, Laboratory
+ 
+---------- addicted: turn 3 ----------
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Workshop
+addicted - gains Throne Room
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Copper
+dudeabides - plays 5 Copper
+dudeabides - buys Market
+dudeabides - gains Market
+dudeabides - shuffles deck
+dudeabides - draws Copper, Market, Copper, Laboratory, Estate
+ 
+---------- addicted: turn 4 ----------
+addicted - plays 3 Copper
+addicted - buys Woodcutter
+addicted - gains Woodcutter
+addicted - draws Copper
+addicted - shuffles deck
+addicted - draws Estate, Copper, Workshop, Copper
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Chapel
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Chapel
+dudeabides - trashes Estate
+dudeabides - plays 4 Copper
+dudeabides - buys Market
+dudeabides - gains Market
+dudeabides - draws Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Market, Market
+ 
+---------- addicted: turn 5 ----------
+addicted - plays Workshop
+addicted - gains Throne Room
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Copper, Copper, Village, Woodcutter, Estate
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays Market
+dudeabides - draws Chapel
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays 4 Copper
+dudeabides - buys Workshop
+dudeabides - gains Workshop
+dudeabides - buys Village
+dudeabides - gains Village
+dudeabides - draws Laboratory, Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper, Market, Workshop
+ 
+---------- addicted: turn 6 ----------
+addicted - plays Village
+addicted - draws Throne Room
+addicted - plays Throne Room
+addicted - plays Woodcutter
+addicted - plays Woodcutter
+addicted - plays 2 Copper
+addicted - buys Gold
+addicted - gains Gold
+addicted - draws Copper, Estate, Silver, Copper
+addicted - shuffles deck
+addicted - draws Silver
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Village
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Village
+dudeabides - draws Market
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Workshop
+dudeabides - gains Moneylender
+dudeabides - plays 5 Copper
+dudeabides - buys Village
+dudeabides - gains Village
+dudeabides - buys Throne Room
+dudeabides - gains Throne Room
+dudeabides - draws Chapel
+dudeabides - shuffles deck
+dudeabides - draws Workshop, Market, Copper, Market
+ 
+---------- addicted: turn 7 ----------
+addicted - plays 2 Copper, 2 Silver
+addicted - buys Gold
+addicted - gains Gold
+addicted - draws Copper, Copper, Woodcutter, Village, Throne Room
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Market
+dudeabides - draws Village
+dudeabides - plays Village
+dudeabides - draws Village
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Village
+dudeabides - draws Moneylender
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Workshop
+dudeabides - gains Throne Room
+dudeabides - plays 1 Copper
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - draws Throne Room, Copper, Copper, Laboratory, Copper
+ 
+---------- addicted: turn 8 ----------
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Throne Room
+addicted - plays Woodcutter
+addicted - plays Woodcutter
+addicted - plays 2 Copper
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Gold, Throne Room, Copper, Copper, Workshop
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - shuffles deck
+dudeabides - draws Chapel, Market
+dudeabides - plays Laboratory
+dudeabides - draws Market, Village
+dudeabides - plays Village
+dudeabides - draws Village
+dudeabides - plays Village
+dudeabides - draws Throne Room
+dudeabides - plays Market
+dudeabides - draws Workshop
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Gold
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Workshop
+dudeabides - gains Throne Room
+dudeabides - plays 4 Copper, 1 Gold
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - buys Market
+dudeabides - gains Market
+dudeabides - draws Moneylender
+dudeabides - shuffles deck
+dudeabides - draws Workshop, Copper, Copper, Village
+ 
+---------- addicted: turn 9 ----------
+addicted - plays Throne Room
+addicted - plays Workshop
+addicted - gains Village
+addicted - plays Workshop
+addicted - gains Silver
+addicted - plays 2 Copper, 1 Gold
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Copper, Estate
+addicted - shuffles deck
+addicted - draws Laboratory, Silver, Village
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays Village
+dudeabides - draws Gold
+dudeabides - plays Workshop
+dudeabides - gains Throne Room
+dudeabides - plays 2 Copper, 1 Gold
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Laboratory, Throne Room, Chapel, Throne Room, Market
+ 
+---------- addicted: turn 10 ----------
+addicted - plays Village
+addicted - draws Village
+addicted - plays Village
+addicted - draws Throne Room
+addicted - plays Throne Room
+addicted - plays Laboratory
+addicted - draws Gold, Copper
+addicted - plays Laboratory
+addicted - draws Copper, Copper
+addicted - plays 4 Copper, 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - draws Woodcutter, Copper, Workshop, Gold, Copper
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Copper
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Village, Copper
+dudeabides - plays Laboratory
+dudeabides - draws Market, Laboratory
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Market
+dudeabides - shuffles deck
+dudeabides - draws Laboratory
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Workshop
+dudeabides - plays Market
+dudeabides - draws Village
+dudeabides - plays Market
+dudeabides - draws Gold
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Moneylender
+dudeabides - plays Village
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Workshop
+dudeabides - gains Throne Room
+dudeabides - plays 2 Copper, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - shuffles deck
+dudeabides - draws Village, Throne Room, Moneylender, Copper, Laboratory
+ 
+---------- addicted: turn 11 ----------
+addicted - plays Workshop
+addicted - gains Throne Room
+addicted - plays 2 Copper, 1 Gold
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Estate, Estate, Laboratory, Silver, Silver
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Throne Room, Market
+dudeabides - plays Laboratory
+dudeabides - draws Laboratory, Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Chapel
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Gold, Copper
+dudeabides - plays Laboratory
+dudeabides - draws Laboratory, Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Market, Market
+dudeabides - plays Laboratory
+dudeabides - draws Province, Workshop
+dudeabides - plays Throne Room
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Market
+dudeabides - draws Gold
+dudeabides - plays Chapel
+dudeabides - plays Village
+dudeabides - draws Village
+dudeabides - plays Workshop
+dudeabides - gains Throne Room
+dudeabides - plays Village
+dudeabides - shuffles deck
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - plays Market
+dudeabides - plays 2 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Copper
+dudeabides - gains Copper
+dudeabides - buys Copper
+dudeabides - gains Copper
+dudeabides - shuffles deck
+dudeabides - draws Throne Room, Throne Room, Market, Province, Village
+ 
+---------- addicted: turn 12 ----------
+addicted - plays Laboratory
+addicted - draws Copper, Throne Room
+addicted - plays 2 Silver, 1 Copper
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - shuffles deck
+addicted - draws Estate, Throne Room, Estate, Laboratory, Workshop
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Village
+dudeabides - draws Moneylender
+dudeabides - plays Village
+dudeabides - draws Gold
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Moneylender
+dudeabides - plays Moneylender
+dudeabides - plays Throne Room
+dudeabides - plays 1 Gold
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Province, Chapel, Market, Laboratory, Throne Room
+ 
+---------- addicted: turn 13 ----------
+addicted - plays Throne Room
+addicted - plays Laboratory
+addicted - draws Throne Room, Laboratory
+addicted - plays Laboratory
+addicted - draws Duchy, Copper
+addicted - plays Throne Room
+addicted - plays Laboratory
+addicted - draws Silver, Copper
+addicted - plays Laboratory
+addicted - draws Village, Copper
+addicted - plays Village
+addicted - draws Woodcutter
+addicted - plays Woodcutter
+addicted - plays Workshop
+addicted - gains Throne Room
+addicted - plays 3 Copper, 1 Silver
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - buys Estate
+addicted - gains Estate
+addicted - draws Copper, Copper, Estate, Throne Room, Gold
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Village, Copper
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Laboratory
+dudeabides - plays Village
+dudeabides - draws Laboratory
+dudeabides - plays Laboratory
+dudeabides - draws Market, Workshop
+dudeabides - plays Laboratory
+dudeabides - draws Gold, Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Province
+dudeabides - plays Market
+dudeabides - shuffles deck
+dudeabides - draws Market
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Gold
+dudeabides - plays Market
+dudeabides - draws Village
+dudeabides - plays Village
+dudeabides - draws Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Workshop
+dudeabides - gains Village
+dudeabides - plays Workshop
+dudeabides - gains Silver
+dudeabides - plays 2 Copper, 2 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Throne Room, Province, Throne Room, Moneylender, Laboratory
+ 
+---------- addicted: turn 14 ----------
+addicted - plays 2 Copper, 1 Gold
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Silver, Village, Gold, Silver, Province
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - shuffles deck
+dudeabides - draws Village, Laboratory
+dudeabides - plays Laboratory
+dudeabides - draws Laboratory, Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Laboratory, Province
+dudeabides - plays Laboratory
+dudeabides - draws Village, Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Workshop, Throne Room
+dudeabides - plays Laboratory
+dudeabides - draws Province, Market
+dudeabides - plays Throne Room
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Market
+dudeabides - plays Market
+dudeabides - draws Market
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Throne Room
+dudeabides - plays Market
+dudeabides - draws Laboratory
+dudeabides - plays Laboratory
+dudeabides - draws Silver, Copper
+dudeabides - plays Laboratory
+dudeabides - draws Gold, Chapel
+dudeabides - plays Village
+dudeabides - draws Copper
+dudeabides - plays Village
+dudeabides - draws Gold
+dudeabides - plays Throne Room
+dudeabides - plays Market
+dudeabides - draws Province
+dudeabides - plays Market
+dudeabides - draws Village
+dudeabides - plays Moneylender
+dudeabides - trashes Copper
+dudeabides - plays Workshop
+dudeabides - gains Silver
+dudeabides - plays Village
+dudeabides - shuffles deck
+dudeabides - draws Silver
+dudeabides - plays 2 Silver, 2 Gold, 1 Copper
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Village
+dudeabides - gains Village
+dudeabides - shuffles deck
+dudeabides - draws Laboratory, Gold, Laboratory, Province, Gold
+ 
+---------- addicted: turn 15 ----------
+addicted - plays Village
+addicted - draws Copper
+addicted - plays 2 Silver, 1 Gold, 1 Copper
+addicted - buys Province
+addicted - gains Province
+addicted - draws Laboratory, Copper
+addicted - shuffles deck
+addicted - draws Throne Room, Throne Room, Gold
+ 
+------------ Game Over ------------
+dudeabides - cards: 6 Throne Room, 5 Laboratory, 4 Village, 3 Market, 1 Workshop, 1 Chapel, 1 Moneylender, 2 Gold, 2 Silver, 1 Copper, 6 Province
+dudeabides - total victory points: 36
+dudeabides - turns: 15
+ 
+addicted - cards: 4 Throne Room, 3 Laboratory, 2 Village, 1 Woodcutter, 1 Workshop, 7 Copper, 3 Silver, 2 Gold, 4 Estate, 3 Duchy, 2 Province
+addicted - total victory points: 25
+addicted - turns: 15
+ 
+1st place: dudeabides
+2nd place: addicted
+ 

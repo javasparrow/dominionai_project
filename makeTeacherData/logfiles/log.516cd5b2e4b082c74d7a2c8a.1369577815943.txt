@@ -1,0 +1,466 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Remodel, Smithy, Spy, Throne Room, Council Room, Festival, Library, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Au - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Au - shuffles deck
+shark_bait - shuffles deck
+Au - draws Copper, Estate, Copper, Copper, Copper
+shark_bait - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 5 Copper
+shark_bait - buys Witch
+shark_bait - gains Witch
+shark_bait - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Au: turn 1 ----------
+Au - plays 4 Copper
+Au - buys Spy
+Au - gains Spy
+Au - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 2 Copper
+shark_bait - buys Moat
+shark_bait - gains Moat
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Au: turn 2 ----------
+Au - plays 3 Copper
+Au - buys Silver
+Au - gains Silver
+Au - shuffles deck
+Au - draws Spy, Copper, Silver, Estate, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Copper, Moat, Copper, Estate
+ 
+---------- Au: turn 3 ----------
+Au - plays Spy
+Au - draws Copper
+Au - discards Copper
+shark_bait - discards Witch
+Au - plays 3 Copper, 1 Silver
+Au - buys Festival
+Au - gains Festival
+Au - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Moat
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Witch, Copper, Copper, Copper, Silver
+ 
+---------- Au: turn 4 ----------
+Au - plays 3 Copper
+Au - buys Silver
+Au - gains Silver
+Au - shuffles deck
+Au - draws Copper, Copper, Estate, Copper, Festival
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Witch
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate
+Au - gains Curse
+shark_bait - plays 4 Copper, 1 Silver
+shark_bait - buys Witch
+shark_bait - gains Witch
+shark_bait - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Au: turn 5 ----------
+Au - plays Festival
+Au - plays 3 Copper
+Au - buys Festival
+Au - gains Festival
+Au - draws Estate, Silver, Estate, Silver, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Silver, Moat
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Silver
+ 
+---------- Au: turn 6 ----------
+Au - plays 2 Silver, 1 Copper
+Au - buys Festival
+Au - gains Festival
+Au - draws Copper, Copper, Copper, Spy
+Au - shuffles deck
+Au - draws Curse
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Moat
+shark_bait - draws Copper, Witch
+shark_bait - plays 2 Silver, 2 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Copper, Copper, Witch, Estate, Copper
+ 
+---------- Au: turn 7 ----------
+Au - plays Spy
+Au - draws Festival
+Au - discards Copper
+shark_bait - places Copper on top of deck
+Au - plays Festival
+Au - plays 3 Copper
+Au - buys Witch
+Au - gains Witch
+Au - draws Estate, Silver, Copper, Festival, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Witch
+shark_bait - draws Copper, Estate
+Au - gains Curse
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Silver, Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Witch
+ 
+---------- Au: turn 8 ----------
+Au - plays Festival
+Au - plays 2 Copper, 1 Silver
+Au - buys Gold
+Au - gains Gold
+Au - draws Copper, Silver, Estate, Festival, Estate
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Witch
+shark_bait - draws Gold, Copper
+Au - gains Curse
+shark_bait - plays 3 Silver, 2 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Moat, Copper, Copper, Copper, Silver
+ 
+---------- Au: turn 9 ----------
+Au - plays Festival
+Au - plays 1 Copper, 1 Silver
+Au - buys Festival
+Au - gains Festival
+Au - shuffles deck
+Au - draws Gold, Copper, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Moat
+shark_bait - draws Estate, Copper
+shark_bait - plays 4 Copper, 1 Silver
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Estate, Witch, Estate, Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver
+ 
+---------- Au: turn 10 ----------
+Au - plays 2 Copper, 1 Gold
+Au - buys Witch
+Au - gains Witch
+Au - draws Festival, Curse, Festival, Copper, Copper
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Witch
+shark_bait - draws Silver, Silver
+Au - gains Curse
+shark_bait - plays 3 Silver, 1 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Copper, Gold, Copper, Silver, Moat
+ 
+---------- Au: turn 11 ----------
+Au - plays Festival
+Au - plays Festival
+Au - plays 2 Copper
+Au - buys Remodel
+Au - gains Remodel
+Au - buys Moat
+Au - gains Moat
+Au - draws Silver, Witch, Festival, Copper, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Moat
+shark_bait - draws Gold, Copper
+shark_bait - plays 3 Copper, 2 Gold, 1 Silver
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Witch, Province, Copper, Copper, Copper
+ 
+---------- Au: turn 12 ----------
+Au - plays Festival
+Au - plays Witch
+Au - draws Spy, Curse
+shark_bait - gains Curse
+Au - plays Spy
+Au - draws Copper
+Au - places Festival on top of deck
+shark_bait - places Estate on top of deck
+Au - plays 3 Copper, 1 Silver
+Au - buys Festival
+Au - gains Festival
+Au - buys Moat
+Au - gains Moat
+Au - draws Festival, Silver, Estate, Curse
+Au - shuffles deck
+Au - draws Curse
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Witch
+shark_bait - draws Estate
+shark_bait - shuffles deck
+shark_bait - draws Copper
+Au - gains Curse
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Silver, Estate, Silver, Gold, Gold
+ 
+---------- Au: turn 13 ----------
+Au - plays Festival
+Au - plays 1 Silver
+Au - buys Smithy
+Au - gains Smithy
+Au - draws Estate, Copper, Moat, Copper, Moat
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays 2 Silver, 2 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Gold, Copper, Curse, Copper, Copper
+ 
+---------- Au: turn 14 ----------
+Au - plays 2 Copper
+Au - buys Moat
+Au - gains Moat
+Au - draws Festival, Copper, Silver, Festival, Curse
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays 3 Copper, 1 Gold
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Estate, Silver, Witch, Moat, Province
+ 
+---------- Au: turn 15 ----------
+Au - plays Festival
+Au - plays Festival
+Au - plays 1 Copper, 1 Silver
+Au - buys Library
+Au - gains Library
+Au - buys Moat
+Au - gains Moat
+Au - draws Copper, Spy, Copper, Gold, Festival
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Witch
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Gold
+Au - gains Curse
+shark_bait - plays 2 Silver, 1 Gold
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Copper, Gold, Gold, Witch, Province
+ 
+---------- Au: turn 16 ----------
+Au - plays Spy
+Au - draws Witch
+Au - places Remodel on top of deck
+shark_bait - places Copper on top of deck
+Au - plays Festival
+Au - plays Witch
+Au - draws Remodel, Copper
+shark_bait - gains Curse
+Au - plays Remodel
+Au - trashes Gold
+Au - gains Province
+Au - plays 3 Copper
+Au - buys Duchy
+Au - gains Duchy
+Au - draws Festival, Witch, Curse, Copper, Estate
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays Witch
+shark_bait - draws Copper, Silver
+Au - gains Curse
+shark_bait - plays 2 Copper, 2 Gold, 1 Silver
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Curse, Copper, Silver, Copper
+ 
+---------- Au: turn 17 ----------
+Au - plays Festival
+Au - plays Witch
+Au - shuffles deck
+Au - draws Curse, Library
+shark_bait - gains Curse
+Au - plays Library
+Au - draws Copper
+Au - draws Curse
+Au - draws Copper
+Au - plays 3 Copper
+Au - buys Duchy
+Au - gains Duchy
+Au - draws Remodel, Festival, Province, Moat, Curse
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Silver, Province, Copper, Estate, Copper
+ 
+---------- Au: turn 18 ----------
+Au - plays Festival
+Au - plays Moat
+Au - draws Curse, Festival
+Au - plays Festival
+Au - plays Remodel
+Au - trashes Curse
+Au - gains Estate
+Au - buys Smithy
+Au - gains Smithy
+Au - draws Curse, Silver, Festival, Festival, Curse
+ 
+---------- shark_bait: turn 19 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Remodel
+shark_bait - gains Remodel
+shark_bait - draws Estate, Gold
+shark_bait - shuffles deck
+shark_bait - draws Copper, Silver, Copper
+ 
+---------- Au: turn 19 ----------
+Au - plays Festival
+Au - plays Festival
+Au - plays 1 Silver
+Au - buys Gold
+Au - gains Gold
+Au - draws Smithy, Witch, Moat, Estate, Estate
+ 
+---------- shark_bait: turn 20 ----------
+shark_bait - plays 2 Copper, 1 Gold, 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Province, Copper, Curse, Silver, Witch
+ 
+---------- Au: turn 20 ----------
+Au - draws Moat, Moat, Spy, Duchy, Copper
+ 
+---------- shark_bait: turn 21 ----------
+shark_bait - plays Witch
+Au - reveals reaction Moat
+shark_bait - draws Province, Estate
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Silver, Gold, Copper, Estate, Copper
+ 
+---------- Au: turn 21 ----------
+Au - plays Spy
+Au - draws Copper
+Au - places Silver on top of deck
+shark_bait - places Copper on top of deck
+Au - plays Moat
+Au - draws Silver, Copper
+Au - plays 3 Copper, 1 Silver
+Au - buys Duchy
+Au - gains Duchy
+Au - draws Copper
+Au - shuffles deck
+Au - draws Moat, Copper, Smithy, Festival
+ 
+---------- shark_bait: turn 22 ----------
+shark_bait - plays 2 Copper, 1 Silver, 1 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Copper, Gold, Province, Copper, Silver
+ 
+---------- Au: turn 22 ----------
+Au - plays Festival
+Au - plays Smithy
+Au - draws Curse, Duchy, Copper
+Au - plays Moat
+Au - draws Curse, Duchy
+Au - plays 3 Copper
+Au - buys Duchy
+Au - gains Duchy
+Au - draws Curse, Smithy, Moat, Moat, Spy
+ 
+---------- shark_bait: turn 23 ----------
+shark_bait - plays 2 Copper, 1 Gold, 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Moat, Remodel, Gold, Witch, Silver
+ 
+---------- Au: turn 23 ----------
+Au - plays Spy
+shark_bait - reveals reaction Moat
+Au - draws Festival
+Au - discards Copper
+Au - plays Festival
+Au - plays Smithy
+Au - draws Curse, Copper, Witch
+Au - plays Witch
+Au - draws Curse, Estate
+Au - plays 1 Copper
+Au - buys Estate
+Au - gains Estate
+Au - draws Silver, Copper, Remodel, Copper, Province
+ 
+---------- shark_bait: turn 24 ----------
+shark_bait - plays Remodel
+shark_bait - trashes Gold
+shark_bait - gains Province
+shark_bait - plays 1 Silver
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Province, Curse, Gold, Curse, Duchy
+ 
+---------- Au: turn 24 ----------
+Au - plays Remodel
+Au - trashes Copper
+Au - gains Estate
+Au - plays 1 Silver, 1 Copper
+Au - buys Estate
+Au - gains Estate
+Au - draws Curse, Witch, Festival, Estate, Estate
+ 
+---------- shark_bait: turn 25 ----------
+shark_bait - plays 1 Gold
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - shuffles deck
+shark_bait - draws Estate, Silver, Duchy, Estate, Witch
+ 
+---------- Au: turn 25 ----------
+Au - plays Festival
+Au - plays Witch
+Au - draws Festival, Estate
+Au - plays Festival
+Au - buys Estate
+Au - gains Estate
+Au - draws Festival, Library, Silver, Duchy, Gold
+ 
+------------ Game Over ------------
+shark_bait - cards: 2 Witch, 1 Moat, 1 Remodel, 7 Copper, 5 Silver, 4 Gold, 6 Estate, 5 Province, 4 Duchy, 3 Curse
+shark_bait - total victory points: 45
+shark_bait - turns: 25
+ 
+Au - cards: 5 Festival, 4 Moat, 2 Witch, 2 Smithy, 1 Remodel, 1 Spy, 1 Library, 6 Copper, 2 Silver, 1 Gold, 8 Estate, 4 Duchy, 1 Province, 6 Curse
+Au - total victory points: 20
+Au - turns: 25
+ 
+1st place: shark_bait
+2nd place: Au
+ 

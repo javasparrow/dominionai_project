@@ -1,0 +1,546 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Feast, Moneylender, Spy, Thief, Throne Room, Festival, Laboratory, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ToCoolToWin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LESPEUTERE - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ToCoolToWin - shuffles deck
+LESPEUTERE - shuffles deck
+ToCoolToWin - draws Copper, Estate, Copper, Copper, Estate
+LESPEUTERE - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ToCoolToWin: turn 1 ----------
+ToCoolToWin - plays 3 Copper
+ToCoolToWin - buys Cellar
+ToCoolToWin - gains Cellar
+ToCoolToWin - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- LESPEUTERE: turn 1 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Moneylender
+LESPEUTERE - gains Moneylender
+LESPEUTERE - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- ToCoolToWin: turn 2 ----------
+ToCoolToWin - plays 4 Copper
+ToCoolToWin - buys Moneylender
+ToCoolToWin - gains Moneylender
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- LESPEUTERE: turn 2 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Chancellor
+LESPEUTERE - gains Chancellor
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Copper, Moneylender, Copper
+ 
+---------- ToCoolToWin: turn 3 ----------
+ToCoolToWin - plays 3 Copper
+ToCoolToWin - buys Silver
+ToCoolToWin - gains Silver
+ToCoolToWin - draws Copper, Moneylender, Copper, Copper, Estate
+ 
+---------- LESPEUTERE: turn 3 ----------
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Festival
+LESPEUTERE - gains Festival
+LESPEUTERE - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- ToCoolToWin: turn 4 ----------
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 2 Copper
+ToCoolToWin - buys Festival
+ToCoolToWin - gains Festival
+ToCoolToWin - draws Copper, Cellar
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Festival, Copper, Estate
+ 
+---------- LESPEUTERE: turn 4 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Silver
+LESPEUTERE - gains Silver
+LESPEUTERE - draws Chancellor, Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Copper, Silver
+ 
+---------- ToCoolToWin: turn 5 ----------
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Estate
+ToCoolToWin - draws Copper
+ToCoolToWin - plays Festival
+ToCoolToWin - plays 3 Copper
+ToCoolToWin - buys Festival
+ToCoolToWin - gains Festival
+ToCoolToWin - draws Copper, Copper, Copper, Estate, Moneylender
+ 
+---------- LESPEUTERE: turn 5 ----------
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays 1 Copper, 1 Silver
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Copper, Moneylender, Copper
+ 
+---------- ToCoolToWin: turn 6 ----------
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 2 Copper
+ToCoolToWin - buys Laboratory
+ToCoolToWin - gains Laboratory
+ToCoolToWin - draws Silver, Estate
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Laboratory, Festival, Moneylender
+ 
+---------- LESPEUTERE: turn 6 ----------
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Laboratory, Copper, Copper, Festival, Estate
+ 
+---------- ToCoolToWin: turn 7 ----------
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Laboratory
+ToCoolToWin - draws Copper, Copper
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 1 Silver, 1 Copper
+ToCoolToWin - buys Gold
+ToCoolToWin - gains Gold
+ToCoolToWin - buys Cellar
+ToCoolToWin - gains Cellar
+ToCoolToWin - draws Copper, Cellar, Estate, Festival, Copper
+ 
+---------- LESPEUTERE: turn 7 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Silver
+LESPEUTERE - plays Festival
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - draws Estate, Chancellor
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Festival, Cellar
+ 
+---------- ToCoolToWin: turn 8 ----------
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Estate
+ToCoolToWin - draws Estate
+ToCoolToWin - plays 2 Copper
+ToCoolToWin - buys Silver
+ToCoolToWin - gains Silver
+ToCoolToWin - draws Copper
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Copper, Silver, Gold, Estate
+ 
+---------- LESPEUTERE: turn 8 ----------
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Silver, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Copper
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - buys Spy
+LESPEUTERE - gains Spy
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Chancellor, Copper, Cellar, Throne Room, Moneylender
+ 
+---------- ToCoolToWin: turn 9 ----------
+ToCoolToWin - plays 2 Copper, 1 Silver, 1 Gold
+ToCoolToWin - buys Gold
+ToCoolToWin - gains Gold
+ToCoolToWin - draws Silver, Cellar, Festival, Moneylender, Copper
+ 
+---------- LESPEUTERE: turn 9 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - plays Cellar
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Moneylender, Estate, Cellar, Throne Room, Copper
+ 
+---------- ToCoolToWin: turn 10 ----------
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 1 Silver
+ToCoolToWin - buys Gold
+ToCoolToWin - gains Gold
+ToCoolToWin - draws Festival, Estate, Estate, Laboratory, Copper
+ 
+---------- LESPEUTERE: turn 10 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Copper
+LESPEUTERE - discards Moneylender
+LESPEUTERE - draws Laboratory, Chancellor, Estate
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Spy, Laboratory
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Throne Room
+LESPEUTERE - discards Copper
+ToCoolToWin - discards Cellar
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Silver, Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Copper
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - buys Feast
+LESPEUTERE - gains Feast
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Throne Room, Laboratory, Moneylender, Copper, Silver
+ 
+---------- ToCoolToWin: turn 11 ----------
+ToCoolToWin - plays Laboratory
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Cellar, Gold
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Estate
+ToCoolToWin - discards Estate
+ToCoolToWin - draws Silver, Festival
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Festival
+ToCoolToWin - plays 1 Copper, 1 Gold, 1 Silver
+ToCoolToWin - buys Laboratory
+ToCoolToWin - gains Laboratory
+ToCoolToWin - buys Throne Room
+ToCoolToWin - gains Throne Room
+ToCoolToWin - draws Copper, Gold, Silver, Gold, Cellar
+ 
+---------- LESPEUTERE: turn 11 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Copper
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - draws Laboratory, Laboratory, Estate, Cellar, Spy
+ 
+---------- ToCoolToWin: turn 12 ----------
+ToCoolToWin - plays 2 Gold, 1 Copper, 1 Silver
+ToCoolToWin - buys Province
+ToCoolToWin - gains Province
+ToCoolToWin - draws Moneylender, Estate, Copper
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Festival, Silver
+ 
+---------- LESPEUTERE: turn 12 ----------
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Festival
+LESPEUTERE - discards Chancellor
+ToCoolToWin - places Estate on top of deck
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Estate
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Feast, Throne Room
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Province, Estate
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Feast
+LESPEUTERE - trashes Feast
+LESPEUTERE - gains Laboratory
+LESPEUTERE - plays Feast
+LESPEUTERE - trashes Feast
+LESPEUTERE - gains Laboratory
+LESPEUTERE - plays 1 Silver
+LESPEUTERE - buys Thief
+LESPEUTERE - gains Thief
+LESPEUTERE - draws Throne Room, Moneylender, Laboratory, Copper, Chancellor
+ 
+---------- ToCoolToWin: turn 13 ----------
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 1 Silver
+ToCoolToWin - buys Adventurer
+ToCoolToWin - gains Adventurer
+ToCoolToWin - draws Estate, Laboratory, Laboratory, Silver, Cellar
+ 
+---------- LESPEUTERE: turn 13 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Estate
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Chancellor
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Throne Room, Throne Room, Chancellor, Silver, Cellar
+ 
+---------- ToCoolToWin: turn 14 ----------
+ToCoolToWin - plays Laboratory
+ToCoolToWin - draws Cellar, Copper
+ToCoolToWin - plays Laboratory
+ToCoolToWin - draws Gold, Estate
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Estate
+ToCoolToWin - discards Estate
+ToCoolToWin - draws Gold, Throne Room
+ToCoolToWin - plays Throne Room
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Copper
+ToCoolToWin - draws Gold
+ToCoolToWin - plays Cellar
+ToCoolToWin - discards Silver
+ToCoolToWin - draws Copper
+ToCoolToWin - plays 3 Gold, 1 Copper
+ToCoolToWin - buys Province
+ToCoolToWin - gains Province
+ToCoolToWin - draws Festival, Province
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Gold, Silver, Adventurer
+ 
+---------- LESPEUTERE: turn 14 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Silver
+LESPEUTERE - discards Chancellor
+LESPEUTERE - draws Festival, Spy
+LESPEUTERE - plays Cellar
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Laboratory on top of deck
+ToCoolToWin - discards Laboratory
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Thief on top of deck
+ToCoolToWin - discards Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Thief, Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Laboratory, Province
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Laboratory, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Province
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Estate
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Thief
+ToCoolToWin - reveals: Gold, Estate
+ToCoolToWin - trashes Gold
+ToCoolToWin - discards Estate
+LESPEUTERE - gains Gold
+LESPEUTERE - plays Thief
+ToCoolToWin - reveals: Throne Room, Gold
+ToCoolToWin - trashes Gold
+ToCoolToWin - discards Throne Room
+LESPEUTERE - gains Gold
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - draws Moneylender
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Spy, Cellar, Estate, Throne Room
+ 
+---------- ToCoolToWin: turn 15 ----------
+ToCoolToWin - plays Festival
+ToCoolToWin - plays Adventurer
+ToCoolToWin - reveals Festival, Cellar, Silver, Province, Estate, Cellar, Copper
+ToCoolToWin - places cards in hand:  Silver, Copper
+ToCoolToWin - discards: Festival, Cellar, Province, Estate, Cellar
+ToCoolToWin - plays 2 Silver, 1 Gold, 1 Copper
+ToCoolToWin - buys Province
+ToCoolToWin - gains Province
+ToCoolToWin - buys Estate
+ToCoolToWin - gains Estate
+ToCoolToWin - draws Moneylender, Estate, Copper
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Laboratory, Copper
+ 
+---------- LESPEUTERE: turn 15 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Laboratory on top of deck
+ToCoolToWin - discards Cellar
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Laboratory on top of deck
+ToCoolToWin - places Estate on top of deck
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Laboratory, Gold
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Gold
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Province
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Moneylender
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Province
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Cellar, Laboratory, Province, Festival, Thief
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Province
+LESPEUTERE - discards Thief
+LESPEUTERE - discards Cellar
+LESPEUTERE - draws Silver, Chancellor, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Moneylender
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Estate
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Moneylender
+LESPEUTERE - discards Province
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Estate, Thief, Province
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays 2 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Feast
+LESPEUTERE - gains Feast
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Laboratory, Throne Room, Throne Room, Laboratory, Festival
+ 
+---------- ToCoolToWin: turn 16 ----------
+ToCoolToWin - plays Laboratory
+ToCoolToWin - draws Estate, Laboratory
+ToCoolToWin - plays Laboratory
+ToCoolToWin - draws Province, Silver
+ToCoolToWin - plays Moneylender
+ToCoolToWin - trashes Copper
+ToCoolToWin - plays 1 Copper, 1 Silver
+ToCoolToWin - buys Duchy
+ToCoolToWin - gains Duchy
+ToCoolToWin - draws Adventurer, Silver, Province, Throne Room, Gold
+ 
+---------- LESPEUTERE: turn 16 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Gold
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Thief, Gold
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Feast
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Feast
+LESPEUTERE - trashes Feast
+LESPEUTERE - gains Duchy
+LESPEUTERE - plays Feast
+LESPEUTERE - trashes Feast
+LESPEUTERE - gains Duchy
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Silver
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Province, Province
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Province
+LESPEUTERE - discards Province
+LESPEUTERE - draws Spy, Province
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Chancellor on top of deck
+ToCoolToWin - discards Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Chancellor, Moneylender
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Thief
+ToCoolToWin - reveals: Festival, Estate
+ToCoolToWin - discards: Festival, Estate
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays 2 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Throne Room, Duchy, Province, Province
+ 
+---------- ToCoolToWin: turn 17 ----------
+ToCoolToWin - plays Throne Room
+ToCoolToWin - plays Adventurer
+ToCoolToWin - shuffles deck
+ToCoolToWin - reveals Festival, Cellar, Province, Estate, Cellar, Laboratory, Estate, Duchy, Festival, Copper, Estate, Silver
+ToCoolToWin - places cards in hand:  Copper, Silver
+ToCoolToWin - discards: Festival, Cellar, Province, Estate, Cellar, Laboratory, Estate, Duchy, Festival, Estate
+ToCoolToWin - plays Adventurer
+ToCoolToWin - shuffles deck
+ToCoolToWin - reveals Moneylender, Laboratory, Province, Estate, Estate, Cellar, Duchy, Festival, Estate, Estate, Laboratory, Province, Festival, Cellar
+ToCoolToWin - discards: Moneylender, Laboratory, Province, Estate, Estate, Cellar, Duchy, Festival, Estate, Estate, Laboratory, Province, Festival, Cellar
+ToCoolToWin - plays 2 Silver, 1 Gold, 1 Copper
+ToCoolToWin - buys Province
+ToCoolToWin - gains Province
+ToCoolToWin - shuffles deck
+ToCoolToWin - draws Silver, Province, Cellar, Silver, Cellar
+ 
+------------ Game Over ------------
+LESPEUTERE - cards: 5 Laboratory, 4 Throne Room, 2 Cellar, 1 Festival, 1 Chancellor, 1 Moneylender, 1 Spy, 1 Thief, 2 Gold, 1 Silver, 4 Province, 3 Estate, 2 Duchy
+LESPEUTERE - total victory points: 33
+LESPEUTERE - turns: 16
+ 
+ToCoolToWin - cards: 2 Laboratory, 2 Cellar, 2 Festival, 1 Throne Room, 1 Adventurer, 1 Moneylender, 2 Silver, 1 Gold, 1 Copper, 4 Province, 4 Estate, 1 Duchy
+ToCoolToWin - total victory points: 31
+ToCoolToWin - turns: 17
+ 
+1st place: LESPEUTERE
+2nd place: ToCoolToWin
+ 

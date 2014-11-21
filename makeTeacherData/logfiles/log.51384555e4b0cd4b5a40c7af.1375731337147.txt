@@ -1,0 +1,574 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Gardens, Militia, Remodel, Thief, Council Room, Library, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+onlyme - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+onlyme - shuffles deck
+Rabid - shuffles deck
+onlyme - draws Estate, Copper, Copper, Copper, Estate
+Rabid - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- onlyme: turn 1 ----------
+onlyme - plays 3 Copper
+onlyme - buys Silver
+onlyme - gains Silver
+onlyme - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Militia
+Rabid - gains Militia
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- onlyme: turn 2 ----------
+onlyme - plays 4 Copper
+onlyme - buys Remodel
+onlyme - gains Remodel
+onlyme - shuffles deck
+onlyme - draws Estate, Estate, Copper, Estate, Remodel
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 3 Copper
+Rabid - buys Village
+Rabid - gains Village
+Rabid - draws Silver, Militia, Copper, Copper, Estate
+ 
+---------- onlyme: turn 3 ----------
+onlyme - plays Remodel
+onlyme - trashes Estate
+onlyme - gains Village
+onlyme - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Gold, Estate, Copper
+ 
+---------- onlyme: turn 4 ----------
+onlyme - plays 2 Copper, 1 Silver
+onlyme - buys Thief
+onlyme - gains Thief
+onlyme - draws Copper, Copper
+onlyme - shuffles deck
+onlyme - draws Thief, Village, Silver
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays 3 Copper, 1 Gold
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Estate, Estate, Silver, Copper, Militia
+ 
+---------- onlyme: turn 5 ----------
+onlyme - plays Village
+onlyme - draws Copper
+onlyme - plays Thief
+Rabid - reveals: Village, Copper
+Rabid - trashes Copper
+Rabid - discards Village
+onlyme - gains Copper
+onlyme - plays 3 Copper, 1 Silver
+onlyme - buys Council Room
+onlyme - gains Council Room
+onlyme - draws Copper, Estate, Copper, Remodel, Copper
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Estate, Village, Copper
+ 
+---------- onlyme: turn 6 ----------
+onlyme - plays Remodel
+onlyme - trashes Estate
+onlyme - gains Remodel
+onlyme - plays 1 Copper
+onlyme - draws Estate, Copper
+onlyme - shuffles deck
+onlyme - draws Copper, Council Room, Remodel
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Council Room
+Rabid - draws Copper, Council Room, Estate, Gold
+onlyme - draws Copper
+Rabid - plays Council Room
+Rabid - draws Copper, Silver, Copper, Militia
+onlyme - draws Copper
+Rabid - plays 6 Copper, 1 Gold, 1 Silver
+Rabid - buys Village
+Rabid - gains Village
+Rabid - buys Village
+Rabid - gains Village
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Estate
+Rabid - shuffles deck
+Rabid - draws Copper, Council Room, Village, Silver
+ 
+---------- onlyme: turn 7 ----------
+onlyme - plays Remodel
+onlyme - trashes Estate
+onlyme - gains Village
+onlyme - plays 4 Copper
+onlyme - buys Militia
+onlyme - gains Militia
+onlyme - draws Copper, Remodel, Thief, Copper, Copper
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Council Room
+Rabid - draws Copper, Gold, Market, Village
+onlyme - draws Silver
+Rabid - plays Village
+Rabid - draws Militia
+Rabid - plays Market
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Remodel
+onlyme - discards Copper
+Rabid - plays 4 Copper, 1 Silver, 1 Gold
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - buys Village
+Rabid - gains Village
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Council Room, Copper, Estate, Copper, Estate
+ 
+---------- onlyme: turn 8 ----------
+onlyme - plays Thief
+Rabid - shuffles deck
+Rabid - reveals: Copper, Gold
+Rabid - trashes Gold
+Rabid - discards Copper
+onlyme - gains Gold
+onlyme - plays 1 Copper, 1 Silver
+onlyme - buys Village
+onlyme - gains Village
+onlyme - draws Village, Copper
+onlyme - shuffles deck
+onlyme - draws Copper, Copper, Copper
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays 2 Copper
+Rabid - buys Cellar
+Rabid - gains Cellar
+Rabid - draws Village, Village, Market, Copper, Militia
+ 
+---------- onlyme: turn 9 ----------
+onlyme - plays Village
+onlyme - draws Remodel
+onlyme - plays Remodel
+onlyme - trashes Copper
+onlyme - gains Cellar
+onlyme - plays 3 Copper
+onlyme - buys Village
+onlyme - gains Village
+onlyme - draws Copper, Copper, Silver, Thief, Remodel
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Village
+Rabid - draws Remodel
+Rabid - plays Market
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Silver
+Rabid - plays Council Room
+Rabid - draws Village, Council Room, Estate, Copper
+onlyme - draws Village
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Village
+Rabid - plays Council Room
+Rabid - shuffles deck
+Rabid - draws Village, Cellar, Council Room, Copper
+onlyme - draws Council Room
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Council Room
+Rabid - draws Copper, Estate, Estate
+onlyme - draws Militia
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Silver
+onlyme - discards Remodel
+onlyme - discards Thief
+Rabid - plays 6 Copper, 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - buys Village
+Rabid - gains Village
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Council Room, Copper, Village, Village, Village
+ 
+---------- onlyme: turn 10 ----------
+onlyme - plays Village
+onlyme - draws Copper
+onlyme - plays Council Room
+onlyme - draws Gold, Copper, Village
+onlyme - shuffles deck
+onlyme - draws Cellar
+Rabid - draws Village
+onlyme - plays Village
+onlyme - draws Copper
+onlyme - plays Cellar
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - draws Village, Remodel, Copper
+onlyme - plays Village
+onlyme - draws Silver
+onlyme - plays Militia
+Rabid - discards Copper
+Rabid - discards Village
+Rabid - discards Village
+onlyme - plays 1 Gold, 1 Copper, 1 Silver
+onlyme - buys Gold
+onlyme - gains Gold
+onlyme - buys Cellar
+onlyme - gains Cellar
+onlyme - draws Copper, Village, Remodel, Copper, Copper
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Silver
+Rabid - plays Council Room
+Rabid - draws Cellar, Copper, Village, Copper
+onlyme - draws Thief
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Council Room
+Rabid - draws Estate, Estate, Market, Copper
+onlyme - shuffles deck
+onlyme - draws Copper
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Militia
+Rabid - plays Cellar
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - discards Estate
+Rabid - draws Council Room, Silver, Remodel, Copper
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Remodel
+Rabid - plays Council Room
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Village, Copper
+onlyme - draws Copper
+Rabid - plays Village
+Rabid - draws Remodel
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays Remodel
+Rabid - trashes Silver
+Rabid - gains Market
+Rabid - plays 5 Copper, 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Copper, Estate, Village
+Rabid - shuffles deck
+Rabid - draws Copper, Market
+ 
+---------- onlyme: turn 11 ----------
+onlyme - plays Village
+onlyme - draws Council Room
+onlyme - plays Council Room
+onlyme - draws Militia, Village, Copper, Cellar
+Rabid - draws Council Room
+onlyme - plays Village
+onlyme - draws Village
+onlyme - plays Village
+onlyme - draws Cellar
+onlyme - plays Cellar
+onlyme - discards Remodel
+onlyme - discards Copper
+onlyme - discards Cellar
+onlyme - draws Remodel, Copper, Gold
+onlyme - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+Rabid - discards Copper
+onlyme - plays Thief
+Rabid - reveals: Cellar, Market
+Rabid - discards: Cellar, Market
+onlyme - plays 1 Copper, 1 Gold
+onlyme - buys Gold
+onlyme - gains Gold
+onlyme - draws Village, Gold, Silver
+onlyme - shuffles deck
+onlyme - draws Cellar, Thief
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Silver
+Rabid - plays Council Room
+Rabid - draws Market, Militia, Village, Copper
+onlyme - draws Remodel
+Rabid - plays Market
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Council Room
+Rabid - draws Village, Village, Copper, Market
+onlyme - draws Council Room
+Rabid - plays Village
+Rabid - draws Remodel
+Rabid - plays Market
+Rabid - draws Remodel
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Remodel
+Rabid - trashes Silver
+Rabid - gains Market
+Rabid - plays Council Room
+Rabid - shuffles deck
+Rabid - draws Market, Cellar, Copper, Market
+onlyme - draws Gold
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Militia
+Rabid - plays Cellar
+Rabid - discards Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+Rabid - plays Militia
+onlyme - discards Cellar
+onlyme - discards Thief
+onlyme - discards Remodel
+onlyme - discards Council Room
+onlyme - discards Village
+Rabid - plays 6 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Militia
+Rabid - shuffles deck
+Rabid - draws Market, Remodel, Village, Militia
+ 
+---------- onlyme: turn 12 ----------
+onlyme - plays 2 Gold, 1 Silver
+onlyme - buys Province
+onlyme - gains Province
+onlyme - draws Remodel, Copper, Cellar, Copper, Copper
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Village
+Rabid - plays Market
+Rabid - draws Council Room
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Council Room
+Rabid - draws Cellar, Copper, Council Room, Copper
+onlyme - draws Copper
+Rabid - plays Council Room
+Rabid - draws Copper, Village, Market, Copper
+onlyme - draws Village
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Gold
+Rabid - plays Market
+Rabid - draws Province
+Rabid - plays Council Room
+Rabid - draws Copper, Remodel, Village, Copper
+onlyme - draws Copper
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Remodel
+Rabid - trashes Remodel
+Rabid - gains Gold
+Rabid - plays Market
+Rabid - shuffles deck
+Rabid - draws Gold
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays Militia
+Rabid - plays 6 Copper, 2 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Market
+Rabid - gains Market
+Rabid - shuffles deck
+Rabid - draws Province, Copper, Militia, Gold, Copper
+ 
+---------- onlyme: turn 13 ----------
+onlyme - plays Village
+onlyme - draws Village
+onlyme - plays Village
+onlyme - draws Gold
+onlyme - plays Remodel
+onlyme - trashes Gold
+onlyme - gains Province
+onlyme - draws Copper, Village, Militia, Copper
+onlyme - shuffles deck
+onlyme - draws Village
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Village, Copper, Village, Council Room, Market
+ 
+---------- onlyme: turn 14 ----------
+onlyme - plays Village
+onlyme - draws Copper
+onlyme - plays Village
+onlyme - draws Province
+onlyme - plays Militia
+Rabid - discards Copper
+Rabid - discards Market
+onlyme - plays 1 Copper
+onlyme - buys Silver
+onlyme - gains Silver
+onlyme - draws Copper, Cellar, Village, Copper, Copper
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Council Room
+Rabid - draws Village, Province, Market, Remodel
+onlyme - draws Remodel
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Cellar
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Gold
+Rabid - plays Cellar
+Rabid - discards Province
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - draws Market, Militia, Village
+Rabid - plays Market
+Rabid - draws Council Room
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Council Room
+Rabid - draws Village, Copper, Province
+Rabid - shuffles deck
+Rabid - draws Copper
+onlyme - draws Gold
+Rabid - plays Village
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Council Room
+Rabid - draws Gold, Militia, Copper, Copper
+onlyme - draws Copper
+Rabid - plays Militia
+onlyme - discards Copper
+onlyme - discards Cellar
+onlyme - discards Copper
+onlyme - discards Copper
+onlyme - discards Copper
+Rabid - plays Militia
+Rabid - plays Remodel
+Rabid - trashes Gold
+Rabid - gains Province
+Rabid - plays 5 Copper, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - draws Copper, Duchy, Province, Province
+Rabid - shuffles deck
+Rabid - draws Village
+ 
+------------ Game Over ------------
+Rabid - cards: 7 Market, 6 Village, 3 Council Room, 2 Militia, 1 Remodel, 1 Cellar, 6 Copper, 1 Gold, 6 Province, 1 Duchy, 1 Estate
+Rabid - total victory points: 40
+Rabid - turns: 15
+ 
+onlyme - cards: 4 Village, 2 Remodel, 2 Cellar, 1 Militia, 1 Council Room, 1 Thief, 7 Copper, 2 Gold, 2 Silver, 2 Province
+onlyme - total victory points: 12
+onlyme - turns: 14
+ 
+1st place: Rabid
+2nd place: onlyme
+ 

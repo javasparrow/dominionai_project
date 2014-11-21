@@ -1,0 +1,430 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Woodcutter, Smithy, Spy, Thief, Festival, Laboratory, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+arquimot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+arquimot - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+arquimot - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- arquimot: turn 1 ----------
+arquimot - plays 4 Copper
+arquimot - buys Silver
+arquimot - gains Silver
+arquimot - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- arquimot: turn 2 ----------
+arquimot - plays 3 Copper
+arquimot - buys Silver
+arquimot - gains Silver
+arquimot - shuffles deck
+arquimot - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- arquimot: turn 3 ----------
+arquimot - plays 2 Copper, 1 Silver
+arquimot - buys Smithy
+arquimot - gains Smithy
+arquimot - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Silver
+ 
+---------- arquimot: turn 4 ----------
+arquimot - plays 3 Copper, 1 Silver
+arquimot - buys Witch
+arquimot - gains Witch
+arquimot - draws Copper, Copper
+arquimot - shuffles deck
+arquimot - draws Witch, Copper, Silver
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Witch, Copper, Silver, Copper
+ 
+---------- arquimot: turn 5 ----------
+arquimot - plays Witch
+arquimot - draws Smithy, Copper
+Monsieur X - gains Curse
+arquimot - plays 4 Copper, 1 Silver
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Copper
+arquimot - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Witch, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Estate, Curse
+ 
+---------- arquimot: turn 6 ----------
+arquimot - plays 2 Copper
+arquimot - buys Moat
+arquimot - gains Moat
+arquimot - draws Copper, Silver
+arquimot - shuffles deck
+arquimot - draws Copper, Silver, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Copper
+arquimot - gains Curse
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Estate, Witch, Copper, Copper, Copper
+ 
+---------- arquimot: turn 7 ----------
+arquimot - plays 3 Copper, 2 Silver
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Copper, Curse, Copper, Gold, Smithy
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Estate
+arquimot - gains Curse
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver, Silver, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver
+ 
+---------- arquimot: turn 8 ----------
+arquimot - plays 2 Copper, 1 Gold
+arquimot - buys Laboratory
+arquimot - gains Laboratory
+arquimot - draws Copper, Moat, Estate, Estate, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays 3 Silver, 2 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Silver, Estate, Estate, Curse, Silver
+ 
+---------- arquimot: turn 9 ----------
+arquimot - plays Moat
+arquimot - draws Witch, Estate
+arquimot - plays 2 Copper
+arquimot - buys Moat
+arquimot - gains Moat
+arquimot - shuffles deck
+arquimot - draws Estate, Moat, Curse, Copper, Curse
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays 2 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Gold, Copper, Witch, Copper
+ 
+---------- arquimot: turn 10 ----------
+arquimot - plays Moat
+arquimot - draws Copper, Smithy
+arquimot - plays 2 Copper
+arquimot - buys Moat
+arquimot - gains Moat
+arquimot - draws Estate, Copper, Estate, Laboratory, Silver
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Estate
+arquimot - gains Curse
+Monsieur X - plays 4 Copper, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Witch, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Silver
+ 
+---------- arquimot: turn 11 ----------
+arquimot - plays Laboratory
+arquimot - draws Gold, Copper
+arquimot - plays 2 Copper, 1 Silver, 1 Gold
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Copper, Gold, Curse, Silver, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Copper
+arquimot - gains Curse
+Monsieur X - plays 3 Copper, 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- arquimot: turn 12 ----------
+arquimot - plays 2 Copper, 1 Gold, 1 Silver
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Moat, Copper, Witch
+arquimot - shuffles deck
+arquimot - draws Laboratory, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays 2 Silver, 2 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Witch, Silver, Silver, Copper, Gold
+ 
+---------- arquimot: turn 13 ----------
+arquimot - plays Laboratory
+arquimot - draws Curse, Gold
+arquimot - plays Witch
+arquimot - draws Copper, Copper
+Monsieur X - gains Curse
+arquimot - plays 4 Copper, 1 Gold
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Moat, Moat, Copper, Silver, Smithy
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Witch
+arquimot - reveals reaction Moat
+Monsieur X - draws Copper, Gold
+Monsieur X - plays 2 Silver, 2 Copper, 2 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Estate, Curse, Province
+Monsieur X - shuffles deck
+Monsieur X - draws Curse, Silver
+ 
+---------- arquimot: turn 14 ----------
+arquimot - plays Smithy
+arquimot - draws Curse, Curse, Estate
+arquimot - plays 1 Copper, 1 Silver
+arquimot - buys Woodcutter
+arquimot - gains Woodcutter
+arquimot - draws Gold, Curse, Copper, Gold, Curse
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Gold, Silver, Copper, Gold
+ 
+---------- arquimot: turn 15 ----------
+arquimot - plays 2 Gold, 1 Copper
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Estate, Estate, Silver, Copper, Gold
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays 2 Copper, 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Silver, Witch, Copper, Province, Witch
+ 
+---------- arquimot: turn 16 ----------
+arquimot - plays 1 Silver, 1 Copper, 1 Gold
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - shuffles deck
+arquimot - draws Gold, Gold, Gold, Silver, Curse
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+arquimot - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Copper, Estate, Silver, Silver, Gold
+ 
+---------- arquimot: turn 17 ----------
+arquimot - plays 3 Gold, 1 Silver
+arquimot - buys Province
+arquimot - gains Province
+arquimot - draws Estate, Gold, Copper, Gold, Estate
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays 2 Silver, 1 Copper, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Copper, Estate, Gold, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+ 
+---------- arquimot: turn 18 ----------
+arquimot - plays 2 Gold, 1 Copper
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Curse, Moat, Estate, Woodcutter, Curse
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Silver, Witch, Curse, Silver
+ 
+---------- arquimot: turn 19 ----------
+arquimot - plays Woodcutter
+arquimot - buys Estate
+arquimot - gains Estate
+arquimot - draws Copper, Moat, Laboratory, Copper, Copper
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Witch
+arquimot - reveals reaction Moat
+Monsieur X - draws Estate, Copper
+Monsieur X - plays 3 Silver, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper, Copper, Silver, Province, Province
+ 
+---------- arquimot: turn 20 ----------
+arquimot - plays Laboratory
+arquimot - draws Smithy, Moat
+arquimot - plays Smithy
+arquimot - draws Silver, Curse, Gold
+arquimot - plays 3 Copper, 1 Silver, 1 Gold
+arquimot - buys Province
+arquimot - gains Province
+arquimot - draws Copper, Copper, Gold, Copper, Curse
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Province, Gold, Curse, Witch, Gold
+ 
+---------- arquimot: turn 21 ----------
+arquimot - plays 3 Copper, 1 Gold
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Witch
+arquimot - shuffles deck
+arquimot - draws Gold, Curse, Silver, Estate
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Smithy, Province
+arquimot - gains Curse
+Monsieur X - plays 2 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Gold, Copper, Estate, Silver, Copper
+ 
+---------- arquimot: turn 22 ----------
+arquimot - plays 1 Gold, 1 Silver
+arquimot - buys Market
+arquimot - gains Market
+arquimot - draws Copper, Gold, Estate, Gold, Province
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Duchy, Estate, Gold, Silver
+ 
+---------- arquimot: turn 23 ----------
+arquimot - plays 2 Gold, 1 Copper
+arquimot - buys Gold
+arquimot - gains Gold
+arquimot - draws Copper, Laboratory, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays 1 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Duchy, Curse, Province, Copper, Province
+ 
+---------- arquimot: turn 24 ----------
+arquimot - plays Laboratory
+arquimot - draws Copper, Smithy
+arquimot - plays Smithy
+arquimot - draws Curse, Estate, Moat
+arquimot - plays 4 Copper
+arquimot - buys Silver
+arquimot - gains Silver
+arquimot - draws Curse, Curse, Woodcutter, Gold, Silver
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Curse, Copper, Estate, Gold, Witch
+ 
+---------- arquimot: turn 25 ----------
+arquimot - plays Woodcutter
+arquimot - plays 1 Gold, 1 Silver
+arquimot - buys Duchy
+arquimot - gains Duchy
+arquimot - buys Estate
+arquimot - gains Estate
+arquimot - draws Gold, Moat, Gold, Curse, Gold
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays Witch
+arquimot - reveals reaction Moat
+Monsieur X - draws Copper, Copper
+Monsieur X - plays 3 Copper, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Copper, Duchy, Silver, Province
+ 
+---------- arquimot: turn 26 ----------
+arquimot - plays 3 Gold
+arquimot - buys Province
+arquimot - gains Province
+arquimot - draws Gold, Copper, Province, Gold, Moat
+ 
+---------- Monsieur X: turn 27 ----------
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Gold, Gold, Silver, Estate, Silver
+ 
+---------- arquimot: turn 27 ----------
+arquimot - plays Moat
+arquimot - draws Copper, Curse
+arquimot - plays 2 Gold, 2 Copper
+arquimot - buys Province
+arquimot - gains Province
+arquimot - shuffles deck
+arquimot - draws Estate, Estate, Curse, Province, Copper
+ 
+------------ Game Over ------------
+Monsieur X - cards: 2 Witch, 1 Smithy, 9 Copper, 7 Silver, 4 Gold, 7 Duchy, 4 Province, 3 Estate, 2 Curse
+Monsieur X - total victory points: 46
+Monsieur X - turns: 27
+ 
+arquimot - cards: 3 Moat, 10 Gold, 1 Witch, 1 Woodcutter, 1 Smithy, 1 Market, 1 Laboratory, 7 Copper, 3 Silver, 5 Estate, 4 Province, 1 Duchy, 7 Curse
+arquimot - total victory points: 25
+arquimot - turns: 27
+ 
+1st place: Monsieur X
+2nd place: arquimot
+ 

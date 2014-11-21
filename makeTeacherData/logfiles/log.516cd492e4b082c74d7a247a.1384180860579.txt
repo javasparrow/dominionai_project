@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Workshop, Feast, Gardens, Smithy, Spy, Laboratory, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kalifer - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Kalifer - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+Kalifer - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Kalifer: turn 1 ----------
+Kalifer - plays 5 Copper
+Kalifer - buys Laboratory
+Kalifer - gains Laboratory
+Kalifer - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Kalifer: turn 2 ----------
+Kalifer - plays 2 Copper
+Kalifer - buys Cellar
+Kalifer - gains Cellar
+Kalifer - shuffles deck
+Kalifer - draws Laboratory, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Copper, Estate, Copper, Estate
+ 
+---------- Kalifer: turn 3 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Estate, Cellar
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Estate
+Kalifer - draws Copper, Copper
+Kalifer - plays 5 Copper
+Kalifer - buys Laboratory
+Kalifer - gains Laboratory
+Kalifer - draws Estate, Copper, Copper
+Kalifer - shuffles deck
+Kalifer - draws Cellar, Estate
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Estate
+Monsieur X - draws Estate, Copper, Copper, Market
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Workshop, Market
+ 
+---------- Kalifer: turn 4 ----------
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Estate
+Kalifer - draws Copper, Copper
+Kalifer - plays 4 Copper
+Kalifer - buys Workshop
+Kalifer - gains Workshop
+Kalifer - draws Copper, Estate, Laboratory, Copper, Laboratory
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 4 Copper
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Estate, Copper, Cellar, Estate, Estate
+ 
+---------- Kalifer: turn 5 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Copper
+Kalifer - shuffles deck
+Kalifer - draws Copper
+Kalifer - plays Laboratory
+Kalifer - draws Copper, Copper
+Kalifer - plays 6 Copper
+Kalifer - buys Gold
+Kalifer - gains Gold
+Kalifer - draws Copper, Estate, Workshop, Cellar, Estate
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Estate
+Monsieur X - draws Copper, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Copper, Copper, Workshop, Gardens, Copper
+ 
+---------- Kalifer: turn 6 ----------
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Estate
+Kalifer - shuffles deck
+Kalifer - draws Copper, Copper
+Kalifer - plays Workshop
+Kalifer - gains Feast
+Kalifer - plays 3 Copper
+Kalifer - buys Village
+Kalifer - gains Village
+Kalifer - draws Estate, Copper, Laboratory, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Market, Estate, Estate, Estate, Copper
+ 
+---------- Kalifer: turn 7 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Copper, Gold
+Kalifer - plays 3 Copper, 1 Gold
+Kalifer - buys Gold
+Kalifer - gains Gold
+Kalifer - draws Copper, Estate, Laboratory
+Kalifer - shuffles deck
+Kalifer - draws Estate, Estate
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Cellar, Workshop
+ 
+---------- Kalifer: turn 8 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Copper, Feast
+Kalifer - plays Feast
+Kalifer - trashes Feast
+Kalifer - gains Market
+Kalifer - plays 2 Copper
+Kalifer - buys Cellar
+Kalifer - gains Cellar
+Kalifer - draws Copper, Copper, Cellar, Workshop, Village
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Gardens, Workshop, Copper, Estate, Estate
+ 
+---------- Kalifer: turn 9 ----------
+Kalifer - plays Village
+Kalifer - draws Gold
+Kalifer - plays Workshop
+Kalifer - gains Feast
+Kalifer - plays 2 Copper, 1 Gold
+Kalifer - buys Laboratory
+Kalifer - gains Laboratory
+Kalifer - draws Copper, Gold, Copper, Laboratory, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Market, Estate, Copper, Copper
+ 
+---------- Kalifer: turn 10 ----------
+Kalifer - plays Laboratory
+Kalifer - shuffles deck
+Kalifer - draws Copper, Gold
+Kalifer - plays 4 Copper, 2 Gold
+Kalifer - buys Province
+Kalifer - gains Province
+Kalifer - draws Laboratory, Cellar, Copper, Laboratory, Village
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Market
+Monsieur X - draws Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Copper, Workshop, Copper, Workshop
+ 
+---------- Kalifer: turn 11 ----------
+Kalifer - plays Village
+Kalifer - draws Feast
+Kalifer - plays Laboratory
+Kalifer - draws Estate, Cellar
+Kalifer - plays Laboratory
+Kalifer - draws Market, Estate
+Kalifer - plays Market
+Kalifer - draws Workshop
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Estate
+Kalifer - discards Copper
+Kalifer - discards Cellar
+Kalifer - draws Copper, Estate, Copper
+Kalifer - shuffles deck
+Kalifer - draws Gold
+Kalifer - plays Feast
+Kalifer - trashes Feast
+Kalifer - gains Laboratory
+Kalifer - plays Workshop
+Kalifer - gains Feast
+Kalifer - plays 2 Copper, 1 Gold
+Kalifer - buys Gold
+Kalifer - gains Gold
+Kalifer - draws Copper, Copper, Estate, Province, Cellar
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Gardens
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Workshop, Copper
+ 
+---------- Kalifer: turn 12 ----------
+Kalifer - plays Cellar
+Kalifer - discards Province
+Kalifer - discards Estate
+Kalifer - discards Copper
+Kalifer - discards Copper
+Kalifer - draws Estate, Gold, Copper, Laboratory
+Kalifer - plays Laboratory
+Kalifer - draws Copper, Copper
+Kalifer - plays 3 Copper, 1 Gold
+Kalifer - buys Library
+Kalifer - gains Library
+Kalifer - shuffles deck
+Kalifer - draws Copper, Estate, Cellar, Laboratory, Feast
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Estate, Copper, Copper, Copper, Gardens
+ 
+---------- Kalifer: turn 13 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Market, Estate
+Kalifer - plays Market
+Kalifer - draws Cellar
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Cellar
+Kalifer - discards Estate
+Kalifer - discards Copper
+Kalifer - draws Laboratory, Province, Copper, Copper
+Kalifer - plays Laboratory
+Kalifer - draws Library, Gold
+Kalifer - plays Library
+Kalifer - draws Estate
+Kalifer - discards Workshop
+Kalifer - draws Gold
+Kalifer - discards Workshop
+Kalifer - plays 2 Copper, 2 Gold
+Kalifer - buys Province
+Kalifer - gains Province
+Kalifer - draws Copper, Village, Laboratory, Laboratory, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Copper, Market, Copper, Cellar, Copper
+ 
+---------- Kalifer: turn 14 ----------
+Kalifer - plays Village
+Kalifer - draws Copper
+Kalifer - plays Laboratory
+Kalifer - draws Gold, Copper
+Kalifer - plays Laboratory
+Kalifer - shuffles deck
+Kalifer - draws Province, Province
+Kalifer - plays 4 Copper, 1 Gold
+Kalifer - buys Duchy
+Kalifer - gains Duchy
+Kalifer - draws Laboratory, Cellar, Laboratory, Estate, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Market
+Monsieur X - draws Workshop
+Monsieur X - plays Workshop
+Monsieur X - gains Workshop
+Monsieur X - plays 3 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Copper, Gardens, Gardens, Workshop, Gardens
+ 
+---------- Kalifer: turn 15 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Library, Gold
+Kalifer - plays Laboratory
+Kalifer - draws Estate, Workshop
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Copper
+Kalifer - discards Estate
+Kalifer - draws Estate, Copper, Gold
+Kalifer - plays Library
+Kalifer - discards Cellar
+Kalifer - discards Market
+Kalifer - draws Copper
+Kalifer - discards Feast
+Kalifer - shuffles deck
+Kalifer - discards Laboratory
+Kalifer - draws Gold
+Kalifer - discards: Cellar, Market, Feast, Laboratory
+Kalifer - plays 3 Gold, 2 Copper
+Kalifer - buys Province
+Kalifer - gains Province
+Kalifer - draws Copper, Laboratory, Copper, Estate, Duchy
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Workshop, Workshop, Copper, Gardens, Workshop
+ 
+---------- Kalifer: turn 16 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Estate, Copper
+Kalifer - plays 3 Copper
+Kalifer - buys Village
+Kalifer - gains Village
+Kalifer - draws Copper, Copper, Village, Province, Province
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Estate, Estate, Gardens, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+ 
+---------- Kalifer: turn 17 ----------
+Kalifer - plays Village
+Kalifer - shuffles deck
+Kalifer - draws Feast
+Kalifer - plays Feast
+Kalifer - trashes Feast
+Kalifer - gains Duchy
+Kalifer - plays 2 Copper
+Kalifer - buys Estate
+Kalifer - gains Estate
+Kalifer - draws Copper, Copper, Laboratory, Gold, Cellar
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Gardens, Copper, Copper, Workshop, Workshop
+ 
+---------- Kalifer: turn 18 ----------
+Kalifer - plays Laboratory
+Kalifer - draws Estate, Estate
+Kalifer - plays Cellar
+Kalifer - discards Estate
+Kalifer - discards Estate
+Kalifer - discards Copper
+Kalifer - discards Copper
+Kalifer - draws Village, Duchy, Laboratory, Gold
+Kalifer - plays Village
+Kalifer - draws Workshop
+Kalifer - plays Laboratory
+Kalifer - draws Library, Copper
+Kalifer - plays Library
+Kalifer - moves Cellar to hand
+Kalifer - draws Gold
+Kalifer - plays Workshop
+Kalifer - gains Feast
+Kalifer - plays 3 Gold, 1 Copper
+Kalifer - buys Province
+Kalifer - gains Province
+Kalifer - draws Laboratory, Province, Copper, Laboratory, Market
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate, Gardens, Workshop, Copper, Copper
+ 
+---------- Kalifer: turn 19 ----------
+Kalifer - plays Market
+Kalifer - draws Copper
+Kalifer - plays Laboratory
+Kalifer - draws Estate
+Kalifer - shuffles deck
+Kalifer - draws Duchy
+Kalifer - plays Laboratory
+Kalifer - draws Gold, Laboratory
+Kalifer - plays Laboratory
+Kalifer - draws Village, Library
+Kalifer - plays Village
+Kalifer - draws Copper
+Kalifer - plays Library
+Kalifer - plays 3 Copper, 1 Gold
+Kalifer - buys Duchy
+Kalifer - gains Duchy
+Kalifer - buys Estate
+Kalifer - gains Estate
+Kalifer - draws Estate, Copper, Feast, Workshop, Estate
+ 
+------------ Game Over ------------
+Monsieur X - cards: 9 Workshop, 15 Copper, 1 Cellar, 1 Market, 9 Estate, 8 Gardens
+Monsieur X - total victory points: 41
+Monsieur X - turns: 18
+ 
+Kalifer - cards: 4 Laboratory, 2 Village, 2 Cellar, 1 Feast, 1 Workshop, 1 Market, 1 Library, 7 Copper, 3 Gold, 5 Estate, 4 Province, 3 Duchy
+Kalifer - total victory points: 38
+Kalifer - turns: 19
+ 
+1st place: Monsieur X
+2nd place: Kalifer
+ 

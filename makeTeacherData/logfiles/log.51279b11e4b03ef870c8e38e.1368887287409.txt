@@ -1,0 +1,200 @@
+------------ Game Setup ------------
+Supply cards: Moat, Village, Gardens, Moneylender, Remodel, Spy, Throne Room, Laboratory, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+love - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+love - shuffles deck
+Rabid - shuffles deck
+love - draws Copper, Copper, Estate, Copper, Estate
+Rabid - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 4 Copper
+Rabid - buys Moneylender
+Rabid - gains Moneylender
+Rabid - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- love: turn 1 ----------
+love - plays 3 Copper
+love - buys Silver
+love - gains Silver
+love - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Moneylender, Copper, Copper, Copper, Estate
+ 
+---------- love: turn 2 ----------
+love - plays 4 Copper
+love - buys Throne Room
+love - gains Throne Room
+love - shuffles deck
+love - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 2 Copper
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- love: turn 3 ----------
+love - plays 4 Copper
+love - buys Silver
+love - gains Silver
+love - draws Copper, Throne Room, Estate, Silver, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Estate, Estate, Copper
+ 
+---------- love: turn 4 ----------
+love - plays 2 Copper, 1 Silver
+love - buys Silver
+love - gains Silver
+love - draws Copper, Estate
+love - shuffles deck
+love - draws Silver, Copper, Estate
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays 3 Copper
+Rabid - buys Village
+Rabid - gains Village
+Rabid - draws Moneylender, Copper, Estate, Copper, Copper
+ 
+---------- love: turn 5 ----------
+love - plays 2 Copper, 1 Silver
+love - buys Silver
+love - gains Silver
+love - draws Copper, Silver, Copper, Silver, Estate
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 2 Copper
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Remodel, Silver, Witch
+Rabid - shuffles deck
+Rabid - draws Laboratory, Estate
+ 
+---------- love: turn 6 ----------
+love - plays 2 Copper, 2 Silver
+love - buys Witch
+love - gains Witch
+love - draws Copper, Copper, Copper, Throne Room
+love - shuffles deck
+love - draws Copper
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Laboratory
+Rabid - draws Village, Copper
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Witch
+Rabid - draws Estate, Copper
+love - gains Curse
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Throne Room
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Copper, Moneylender, Estate, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- love: turn 7 ----------
+love - plays 4 Copper
+love - buys Silver
+love - gains Silver
+love - draws Silver, Copper, Estate, Silver, Silver
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 2 Copper
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Copper, Laboratory, Remodel, Witch, Laboratory
+ 
+---------- love: turn 8 ----------
+love - plays 3 Silver, 1 Copper
+love - buys Laboratory
+love - gains Laboratory
+love - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Laboratory
+Rabid - draws Throne Room, Village
+Rabid - plays Laboratory
+Rabid - draws Estate, Silver
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Throne Room
+Rabid - plays Witch
+Rabid - shuffles deck
+Rabid - draws Laboratory, Copper
+love - gains Curse
+Rabid - plays Witch
+Rabid - draws Estate, Moneylender
+love - gains Curse
+Rabid - plays Laboratory
+Rabid - draws Copper
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Throne Room
+Rabid - plays 4 Copper, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - shuffles deck
+Rabid - draws Gold, Throne Room, Witch, Village, Remodel
+ 
+---------- love: turn 9 ----------
+love - plays 2 Copper, 1 Silver
+love - buys Silver
+love - gains Silver
+love - draws Witch
+love - shuffles deck
+love - draws Silver, Estate, Silver, Curse
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Village
+Rabid - draws Throne Room
+Rabid - plays Throne Room
+Rabid - plays Throne Room
+Rabid - plays Witch
+Rabid - draws Laboratory, Laboratory
+love - gains Curse
+Rabid - plays Witch
+Rabid - draws Moneylender, Copper
+love - gains Curse
+Rabid - plays Throne Room
+Rabid - plays Laboratory
+Rabid - draws Silver, Copper
+Rabid - plays Laboratory
+Rabid - draws Copper, Copper
+Rabid - plays Laboratory
+Rabid - draws Laboratory, Estate
+ 
+------------ Game Over ------------
+Rabid - cards: 1 Remodel, 1 Moneylender, 1 Laboratory, 4 Copper, 1 Gold, 1 Silver, 1 Estate
+Rabid - total victory points: 1
+Rabid - turns: 9
+ 
+love - resigned
+love - cards: 1 Witch, 1 Throne Room, 1 Laboratory, 7 Copper, 6 Silver, 3 Estate, 5 Curse
+love - total victory points: -2
+love - turns: 9
+ 
+1st place: Rabid
+2nd place: love
+ 

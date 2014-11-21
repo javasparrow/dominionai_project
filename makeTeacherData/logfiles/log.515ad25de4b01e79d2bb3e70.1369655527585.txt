@@ -1,0 +1,299 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Woodcutter, Feast, Militia, Smithy, Spy, Thief, Council Room, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+shark_bait - shuffles deck
+unicut - draws Copper, Copper, Copper, Copper, Estate
+shark_bait - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 4 Copper
+unicut - buys Militia
+unicut - gains Militia
+unicut - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - shuffles deck
+unicut - draws Copper, Silver, Copper, Estate, Militia
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Chapel
+shark_bait - gains Chapel
+shark_bait - shuffles deck
+shark_bait - draws Chapel, Copper, Copper, Copper, Estate
+ 
+---------- unicut: turn 3 ----------
+unicut - plays Militia
+shark_bait - discards Copper
+shark_bait - discards Copper
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Chapel
+shark_bait - trashes Copper, Estate
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- unicut: turn 4 ----------
+unicut - plays 3 Copper
+unicut - buys Chapel
+unicut - gains Chapel
+unicut - draws Copper, Copper
+unicut - shuffles deck
+unicut - draws Estate, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper, Chapel, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays 4 Copper
+unicut - buys Feast
+unicut - gains Feast
+unicut - draws Gold, Copper, Chapel, Copper, Militia
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Chapel
+shark_bait - trashes Estate, Copper, Copper
+shark_bait - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Copper
+unicut - plays 1 Gold
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Silver, Estate, Copper, Estate
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Copper, Copper
+ 
+---------- unicut: turn 7 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Spy
+unicut - gains Spy
+unicut - draws Copper, Silver, Chapel, Feast, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Silver
+shark_bait - plays Silver
+shark_bait - plays Silver
+shark_bait - plays 2 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Estate, Copper, Copper, Chapel
+shark_bait - shuffles deck
+shark_bait - draws Silver
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Copper
+unicut - draws Estate, Militia, Gold, Copper
+unicut - shuffles deck
+unicut - draws Estate
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Chapel
+shark_bait - trashes Estate, Copper, Copper
+shark_bait - draws Copper, Gold, Silver, Copper, Silver
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Militia
+shark_bait - discards Copper
+shark_bait - discards Copper
+unicut - plays 1 Gold, 1 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Feast, Spy, Copper, Estate, Silver
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays 2 Silver, 1 Gold
+shark_bait - buys Council Room
+shark_bait - gains Council Room
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Gold, Copper, Silver
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Spy
+unicut - draws Chapel
+unicut - discards Copper
+shark_bait - discards Chapel
+unicut - plays Chapel
+unicut - trashes Estate, Copper
+unicut - draws Silver
+unicut - shuffles deck
+unicut - draws Feast, Gold, Gold, Spy
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays 3 Silver, 1 Gold, 1 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Council Room
+shark_bait - shuffles deck
+shark_bait - draws Silver, Copper, Silver
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Spy
+unicut - draws Militia
+unicut - places Silver on top of deck
+shark_bait - discards Gold
+unicut - plays Feast
+unicut - trashes Feast
+unicut - gains Council Room
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Silver, Copper, Estate, Chapel, Copper
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Council Room
+shark_bait - draws Chapel, Silver, Province
+shark_bait - shuffles deck
+shark_bait - draws Gold
+unicut - draws Estate
+shark_bait - plays 3 Silver, 2 Copper, 1 Gold
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - shuffles deck
+shark_bait - draws Chapel, Copper, Silver, Silver, Gold
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Chapel
+unicut - trashes Estate, Estate, Copper, Copper
+unicut - shuffles deck
+unicut - draws Silver, Militia, Silver, Gold, Council Room
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays 2 Silver, 1 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Silver, Council Room, Province, Gold, Copper
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Militia
+shark_bait - discards Province
+shark_bait - discards Copper
+unicut - plays 2 Silver, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Spy, Gold, Gold, Chapel
+unicut - shuffles deck
+unicut - draws Province
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Council Room
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper, Province, Chapel
+unicut - draws Silver
+shark_bait - plays 2 Silver, 1 Gold, 1 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Silver, Silver, Province, Gold, Copper
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Spy
+unicut - draws Militia
+unicut - places Council Room on top of deck
+shark_bait - shuffles deck
+shark_bait - places Chapel on top of deck
+unicut - plays Militia
+shark_bait - discards Province
+shark_bait - discards Copper
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Council Room, Silver, Gold
+unicut - shuffles deck
+unicut - draws Silver, Spy
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays 2 Silver, 1 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Chapel, Province, Silver, Council Room, Province
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Spy
+unicut - draws Gold
+unicut - places Militia on top of deck
+shark_bait - discards Gold
+unicut - plays Council Room
+unicut - draws Militia, Province, Province, Gold
+shark_bait - draws Silver
+unicut - plays 3 Gold, 2 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Chapel
+unicut - shuffles deck
+unicut - draws Council Room, Province, Militia, Duchy
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays Council Room
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Copper
+unicut - draws Silver
+shark_bait - plays 4 Silver, 2 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Gold, Duchy, Gold, Province
+shark_bait - shuffles deck
+shark_bait - draws Chapel
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Council Room
+unicut - draws Gold, Gold, Province, Spy
+shark_bait - draws Province
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Copper
+unicut - gains Copper
+unicut - draws Silver, Gold, Province
+unicut - shuffles deck
+unicut - draws Gold, Province
+ 
+------------ Game Over ------------
+shark_bait - cards: 1 Chapel, 1 Council Room, 4 Silver, 2 Gold, 2 Copper, 4 Province, 1 Duchy, 1 Estate
+shark_bait - total victory points: 28
+shark_bait - turns: 15
+ 
+unicut - cards: 1 Chapel, 1 Council Room, 1 Spy, 1 Militia, 3 Gold, 2 Silver, 1 Copper, 4 Province, 1 Duchy
+unicut - total victory points: 27
+unicut - turns: 16
+ 
+1st place: shark_bait
+2nd place: unicut
+ 

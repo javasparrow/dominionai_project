@@ -1,0 +1,409 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Workshop, Gardens, Militia, Remodel, Laboratory, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+rokko - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+rokko - shuffles deck
+Monsieur X - draws Copper, Copper, Estate, Copper, Estate
+rokko - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- rokko: turn 1 ----------
+rokko - plays 4 Copper
+rokko - buys Militia
+rokko - gains Militia
+rokko - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- rokko: turn 2 ----------
+rokko - plays 3 Copper
+rokko - buys Silver
+rokko - gains Silver
+rokko - shuffles deck
+rokko - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Workshop, Copper, Copper, Copper, Estate
+ 
+---------- rokko: turn 3 ----------
+rokko - plays 2 Copper
+rokko - buys Moat
+rokko - gains Moat
+rokko - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Silver
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Workshop, Witch
+ 
+---------- rokko: turn 4 ----------
+rokko - plays 5 Copper
+rokko - buys Witch
+rokko - gains Witch
+rokko - draws Silver, Militia
+rokko - shuffles deck
+rokko - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Copper
+rokko - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Estate, Copper, Workshop, Estate, Copper
+ 
+---------- rokko: turn 5 ----------
+rokko - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+rokko - plays 3 Copper, 1 Silver
+rokko - buys Gold
+rokko - gains Gold
+rokko - draws Copper, Copper, Copper, Estate, Moat
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Silver
+Monsieur X - plays 2 Copper
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Copper, Silver, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Moat
+ 
+---------- rokko: turn 6 ----------
+rokko - plays Moat
+rokko - draws Copper, Estate
+rokko - plays 4 Copper
+rokko - buys Silver
+rokko - gains Silver
+rokko - draws Estate, Witch
+rokko - shuffles deck
+rokko - draws Estate, Gold, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Copper, Silver, Copper, Workshop, Estate
+ 
+---------- rokko: turn 7 ----------
+rokko - plays Witch
+rokko - draws Curse, Militia
+Monsieur X - gains Curse
+rokko - plays 1 Gold, 1 Copper
+rokko - buys Silver
+rokko - gains Silver
+rokko - draws Copper, Moat, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Copper, Estate, Estate, Copper, Workshop
+ 
+---------- rokko: turn 8 ----------
+rokko - plays Moat
+rokko - draws Copper, Estate
+rokko - plays 5 Copper
+rokko - buys Witch
+rokko - gains Witch
+rokko - draws Silver, Copper, Silver
+rokko - shuffles deck
+rokko - draws Silver, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 2 Copper
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Copper, Witch, Market
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper
+ 
+---------- rokko: turn 9 ----------
+rokko - plays 3 Silver, 1 Copper
+rokko - buys Gold
+rokko - gains Gold
+rokko - draws Copper, Militia, Copper, Estate, Moat
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Witch
+rokko - reveals reaction Moat
+Monsieur X - draws Workshop, Silver
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Moat, Copper, Moat, Gardens, Gardens
+ 
+---------- rokko: turn 10 ----------
+rokko - plays Militia
+Monsieur X - reveals reaction Moat
+rokko - plays 2 Copper
+rokko - buys Gardens
+rokko - gains Gardens
+rokko - draws Estate, Copper, Curse, Copper, Gold
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Moat
+Monsieur X - draws Estate, Curse
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Silver, Copper, Silver, Gardens
+ 
+---------- rokko: turn 11 ----------
+rokko - plays 2 Copper, 1 Gold
+rokko - buys Laboratory
+rokko - gains Laboratory
+rokko - draws Witch, Witch, Copper, Copper
+rokko - shuffles deck
+rokko - draws Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Workshop, Market, Estate, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Gardens
+ 
+---------- rokko: turn 12 ----------
+rokko - plays Witch
+rokko - draws Moat, Copper
+Monsieur X - gains Curse
+rokko - plays 4 Copper
+rokko - buys Gardens
+rokko - gains Gardens
+rokko - draws Copper, Silver, Estate, Estate, Estate
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Workshop
+Monsieur X - gains Gardens
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Workshop, Gardens, Curse, Copper
+ 
+---------- rokko: turn 13 ----------
+rokko - plays 1 Copper, 1 Silver
+rokko - buys Silver
+rokko - gains Silver
+rokko - draws Militia, Silver, Laboratory, Curse, Silver
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Workshop
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Copper, Silver, Moat, Copper, Gardens
+ 
+---------- rokko: turn 14 ----------
+rokko - plays Laboratory
+rokko - draws Gold, Copper
+rokko - plays Militia
+Monsieur X - reveals reaction Moat
+rokko - plays 2 Silver, 1 Gold, 1 Copper
+rokko - buys Province
+rokko - gains Province
+rokko - draws Gardens, Gold, Copper
+rokko - shuffles deck
+rokko - draws Militia, Province
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Moat
+Monsieur X - draws Gardens, Silver
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Moat, Witch, Workshop, Copper, Estate
+ 
+---------- rokko: turn 15 ----------
+rokko - plays Militia
+Monsieur X - reveals reaction Moat
+rokko - plays 1 Gold, 1 Copper
+rokko - buys Gold
+rokko - gains Gold
+rokko - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Workshop
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Gardens, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Gardens
+ 
+---------- rokko: turn 16 ----------
+rokko - plays 4 Copper
+rokko - buys Remodel
+rokko - gains Remodel
+rokko - draws Silver, Curse, Copper, Gold, Moat
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Copper, Copper, Estate, Market, Gardens
+ 
+---------- rokko: turn 17 ----------
+rokko - plays Moat
+rokko - draws Copper, Gardens
+rokko - plays 2 Copper, 1 Silver, 1 Gold
+rokko - buys Duchy
+rokko - gains Duchy
+rokko - draws Estate, Laboratory, Silver, Witch, Witch
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays 2 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Moat, Workshop, Duchy, Curse, Silver
+ 
+---------- rokko: turn 18 ----------
+rokko - plays Laboratory
+rokko - draws Estate, Silver
+rokko - plays Witch
+Monsieur X - reveals reaction Moat
+rokko - draws Silver
+rokko - shuffles deck
+rokko - draws Duchy
+rokko - plays 3 Silver
+rokko - buys Duchy
+rokko - gains Duchy
+rokko - draws Silver, Copper, Copper, Moat, Province
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Copper, Estate, Workshop, Workshop, Estate
+ 
+---------- rokko: turn 19 ----------
+rokko - plays Moat
+rokko - draws Curse, Copper
+rokko - plays 3 Copper, 1 Silver
+rokko - buys Duchy
+rokko - gains Duchy
+rokko - draws Copper, Gold, Gold, Copper, Remodel
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Curse, Witch, Gardens, Silver, Gardens
+ 
+---------- rokko: turn 20 ----------
+rokko - plays Remodel
+rokko - trashes Gold
+rokko - gains Province
+rokko - plays 2 Copper, 1 Gold
+rokko - buys Duchy
+rokko - gains Duchy
+rokko - draws Gardens, Estate, Militia, Gardens, Copper
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Gardens, Copper
+rokko - gains Curse
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate, Workshop, Estate, Moat, Market
+ 
+---------- rokko: turn 21 ----------
+rokko - plays Militia
+Monsieur X - reveals reaction Moat
+rokko - plays 1 Copper
+rokko - buys Estate
+rokko - gains Estate
+rokko - draws Gold, Copper
+rokko - shuffles deck
+rokko - draws Laboratory, Province, Curse
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Workshop
+Monsieur X - gains Workshop
+Monsieur X - plays 1 Copper
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Workshop, Silver, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+ 
+---------- rokko: turn 22 ----------
+rokko - plays Laboratory
+rokko - draws Copper, Copper
+rokko - plays 3 Copper, 1 Gold
+rokko - buys Duchy
+rokko - gains Duchy
+rokko - draws Estate, Province, Gardens, Duchy, Silver
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Workshop
+Monsieur X - gains Workshop
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Estate, Estate, Workshop, Duchy, Copper
+ 
+------------ Game Over ------------
+Monsieur X - cards: 10 Workshop, 3 Moat, 2 Market, 13 Copper, 1 Witch, 3 Silver, 10 Estate, 6 Gardens, 1 Duchy, 2 Curse
+Monsieur X - total victory points: 41
+Monsieur X - turns: 23
+ 
+rokko - cards: 2 Witch, 1 Laboratory, 1 Moat, 1 Remodel, 1 Militia, 7 Copper, 4 Silver, 2 Gold, 5 Duchy, 4 Estate, 2 Province, 2 Gardens, 2 Curse
+rokko - total victory points: 35
+rokko - turns: 22
+ 
+1st place: Monsieur X
+2nd place: rokko
+ 

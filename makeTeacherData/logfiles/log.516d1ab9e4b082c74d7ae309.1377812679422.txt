@@ -1,0 +1,403 @@
+------------ Game Setup ------------
+Supply cards: Moat, Village, Woodcutter, Bureaucrat, Remodel, Smithy, Council Room, Laboratory, Library, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Foot_Soldier - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LESPEUTERE - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Foot_Soldier - shuffles deck
+LESPEUTERE - shuffles deck
+Foot_Soldier - draws Estate, Copper, Estate, Copper, Copper
+LESPEUTERE - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- LESPEUTERE: turn 1 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Silver
+LESPEUTERE - gains Silver
+LESPEUTERE - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Foot_Soldier: turn 1 ----------
+Foot_Soldier - plays 3 Copper
+Foot_Soldier - buys Silver
+Foot_Soldier - gains Silver
+Foot_Soldier - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- LESPEUTERE: turn 2 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Remodel
+LESPEUTERE - gains Remodel
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Silver, Copper, Remodel, Copper, Estate
+ 
+---------- Foot_Soldier: turn 2 ----------
+Foot_Soldier - plays 4 Copper
+Foot_Soldier - buys Remodel
+Foot_Soldier - gains Remodel
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- LESPEUTERE: turn 3 ----------
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Smithy
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Foot_Soldier: turn 3 ----------
+Foot_Soldier - plays 3 Copper
+Foot_Soldier - buys Silver
+Foot_Soldier - gains Silver
+Foot_Soldier - draws Copper, Copper, Silver, Copper, Remodel
+ 
+---------- LESPEUTERE: turn 4 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Estate, Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Remodel, Copper, Silver
+ 
+---------- Foot_Soldier: turn 4 ----------
+Foot_Soldier - plays 3 Copper, 1 Silver
+Foot_Soldier - buys Laboratory
+Foot_Soldier - gains Laboratory
+Foot_Soldier - draws Estate, Copper
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Remodel, Copper, Silver
+ 
+---------- LESPEUTERE: turn 5 ----------
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Smithy
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Copper, Copper, Estate, Copper, Smithy
+ 
+---------- Foot_Soldier: turn 5 ----------
+Foot_Soldier - plays Remodel
+Foot_Soldier - trashes Estate
+Foot_Soldier - gains Smithy
+Foot_Soldier - plays 2 Copper, 1 Silver
+Foot_Soldier - buys Village
+Foot_Soldier - gains Village
+Foot_Soldier - draws Estate, Laboratory, Copper, Estate, Silver
+ 
+---------- LESPEUTERE: turn 6 ----------
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Copper, Copper, Village
+LESPEUTERE - plays 5 Copper
+LESPEUTERE - buys Council Room
+LESPEUTERE - gains Council Room
+LESPEUTERE - draws Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Council Room, Copper, Remodel, Copper
+ 
+---------- Foot_Soldier: turn 6 ----------
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Copper, Copper
+Foot_Soldier - plays 3 Copper, 1 Silver
+Foot_Soldier - buys Laboratory
+Foot_Soldier - gains Laboratory
+Foot_Soldier - draws Copper, Copper
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Remodel, Silver, Laboratory
+ 
+---------- LESPEUTERE: turn 7 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Smithy, Copper, Village, Estate
+Foot_Soldier - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Copper, Copper, Smithy
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Village
+LESPEUTERE - plays 6 Copper, 1 Silver
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Village, Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Village, Copper
+ 
+---------- Foot_Soldier: turn 7 ----------
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Copper, Silver
+Foot_Soldier - plays Remodel
+Foot_Soldier - trashes Silver
+Foot_Soldier - gains Laboratory
+Foot_Soldier - plays 4 Copper, 1 Silver
+Foot_Soldier - buys Gold
+Foot_Soldier - gains Gold
+Foot_Soldier - draws Copper, Estate, Smithy, Laboratory, Estate
+ 
+---------- LESPEUTERE: turn 8 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Remodel
+LESPEUTERE - plays Village
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Silver
+LESPEUTERE - gains Laboratory
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Copper, Village, Copper, Village, Smithy
+ 
+---------- Foot_Soldier: turn 8 ----------
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Village, Copper
+Foot_Soldier - plays Village
+Foot_Soldier - draws Copper
+Foot_Soldier - plays Smithy
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Copper, Remodel, Laboratory
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Copper, Silver
+Foot_Soldier - plays Remodel
+Foot_Soldier - trashes Estate
+Foot_Soldier - gains Village
+Foot_Soldier - plays 5 Copper, 1 Silver
+Foot_Soldier - buys Gold
+Foot_Soldier - gains Gold
+Foot_Soldier - draws Copper, Laboratory, Gold, Copper
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Laboratory
+ 
+---------- LESPEUTERE: turn 9 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Copper, Council Room, Laboratory
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Laboratory
+Foot_Soldier - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Remodel, Village, Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Village
+LESPEUTERE - gains Mine
+LESPEUTERE - plays Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Mine
+LESPEUTERE - plays Mine
+LESPEUTERE - trashes Copper
+LESPEUTERE - gains Silver
+LESPEUTERE - plays 6 Copper, 1 Silver
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Copper, Smithy, Gold
+ 
+---------- Foot_Soldier: turn 9 ----------
+Foot_Soldier - plays 2 Copper, 1 Gold
+Foot_Soldier - buys Council Room
+Foot_Soldier - gains Council Room
+Foot_Soldier - draws Copper, Silver, Copper, Estate, Remodel
+ 
+---------- LESPEUTERE: turn 10 ----------
+LESPEUTERE - plays 3 Copper, 1 Gold
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - draws Smithy, Mine, Moat, Village, Silver
+ 
+---------- Foot_Soldier: turn 10 ----------
+Foot_Soldier - plays Remodel
+Foot_Soldier - trashes Estate
+Foot_Soldier - gains Village
+Foot_Soldier - plays 2 Copper, 1 Silver
+Foot_Soldier - buys Village
+Foot_Soldier - gains Village
+Foot_Soldier - draws Copper, Smithy, Village, Copper, Gold
+ 
+---------- LESPEUTERE: turn 11 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Council Room, Copper, Village
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Village, Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Remodel
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Copper, Village, Laboratory, Village
+Foot_Soldier - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Gold, Gold
+LESPEUTERE - plays Mine
+LESPEUTERE - trashes Silver
+LESPEUTERE - gains Gold
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays 6 Copper, 3 Gold
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Gold, Copper, Village, Copper, Copper
+ 
+---------- Foot_Soldier: turn 11 ----------
+Foot_Soldier - plays Village
+Foot_Soldier - draws Laboratory
+Foot_Soldier - plays Laboratory
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Copper, Council Room
+Foot_Soldier - plays Council Room
+Foot_Soldier - draws Copper, Laboratory, Village, Copper
+LESPEUTERE - draws Laboratory
+Foot_Soldier - plays Village
+Foot_Soldier - draws Silver
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Laboratory, Village
+Foot_Soldier - plays Smithy
+Foot_Soldier - draws Village, Remodel, Copper
+Foot_Soldier - plays Village
+Foot_Soldier - draws Gold
+Foot_Soldier - plays Village
+Foot_Soldier - plays Laboratory
+Foot_Soldier - plays 7 Copper, 2 Gold, 1 Silver
+Foot_Soldier - buys Province
+Foot_Soldier - gains Province
+Foot_Soldier - buys Gold
+Foot_Soldier - gains Gold
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Gold, Council Room, Laboratory, Smithy, Village
+ 
+---------- LESPEUTERE: turn 12 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Village, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Council Room
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Remodel, Village, Copper, Village
+Foot_Soldier - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moat
+LESPEUTERE - plays Village
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Mine, Gold, Smithy
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Moat
+LESPEUTERE - gains Silver
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Copper, Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Mine
+LESPEUTERE - trashes Silver
+LESPEUTERE - gains Gold
+LESPEUTERE - plays 6 Copper, 4 Gold
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Gold, Province, Laboratory, Copper, Village
+ 
+---------- Foot_Soldier: turn 12 ----------
+Foot_Soldier - plays Village
+Foot_Soldier - draws Copper
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Laboratory, Copper
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Village, Gold
+Foot_Soldier - plays Village
+Foot_Soldier - draws Laboratory
+Foot_Soldier - plays Smithy
+Foot_Soldier - draws Silver, Copper, Copper
+Foot_Soldier - plays Council Room
+Foot_Soldier - draws Village, Remodel, Gold, Copper
+LESPEUTERE - draws Province
+Foot_Soldier - plays Village
+Foot_Soldier - draws Province
+Foot_Soldier - plays Laboratory
+Foot_Soldier - draws Copper, Village
+Foot_Soldier - plays Village
+Foot_Soldier - plays Remodel
+Foot_Soldier - trashes Silver
+Foot_Soldier - gains Duchy
+Foot_Soldier - plays 7 Copper, 3 Gold
+Foot_Soldier - buys Province
+Foot_Soldier - gains Province
+Foot_Soldier - buys Province
+Foot_Soldier - gains Province
+Foot_Soldier - shuffles deck
+Foot_Soldier - draws Village, Copper, Laboratory, Laboratory, Copper
+ 
+---------- LESPEUTERE: turn 13 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Council Room
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Copper, Gold, Smithy, Village
+Foot_Soldier - draws Province
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Village, Laboratory, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Mine
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Remodel
+LESPEUTERE - plays Mine
+LESPEUTERE - trashes Copper
+LESPEUTERE - gains Silver
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Gold
+LESPEUTERE - gains Province
+LESPEUTERE - plays 4 Copper, 3 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - draws Copper, Smithy, Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Village, Province
+ 
+------------ Game Over ------------
+LESPEUTERE - cards: 5 Village, 3 Laboratory, 2 Smithy, 1 Mine, 1 Council Room, 1 Remodel, 5 Copper, 3 Gold, 1 Silver, 5 Province, 1 Duchy
+LESPEUTERE - total victory points: 33
+LESPEUTERE - turns: 13
+ 
+Foot_Soldier - cards: 4 Village, 3 Laboratory, 1 Council Room, 1 Smithy, 1 Remodel, 7 Copper, 3 Gold, 3 Province, 1 Duchy
+Foot_Soldier - total victory points: 21
+Foot_Soldier - turns: 12
+ 
+1st place: LESPEUTERE
+2nd place: Foot_Soldier
+ 

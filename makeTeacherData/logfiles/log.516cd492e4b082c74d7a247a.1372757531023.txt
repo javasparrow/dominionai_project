@@ -1,0 +1,574 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Village, Woodcutter, Workshop, Thief, Council Room, Festival, Library, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jsbrock - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+jsbrock - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Copper, Copper
+jsbrock - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jsbrock: turn 1 ----------
+jsbrock - plays 4 Copper
+jsbrock - buys Silver
+jsbrock - gains Silver
+jsbrock - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- jsbrock: turn 2 ----------
+jsbrock - plays 3 Copper
+jsbrock - buys Chapel
+jsbrock - gains Chapel
+jsbrock - shuffles deck
+jsbrock - draws Copper, Estate, Estate, Copper, Chapel
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Chapel, Estate
+ 
+---------- jsbrock: turn 3 ----------
+jsbrock - plays Chapel
+jsbrock - trashes Copper, Estate, Estate, Copper
+jsbrock - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Copper, Estate, Copper
+Monsieur X - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- jsbrock: turn 4 ----------
+jsbrock - plays 4 Copper
+jsbrock - buys Silver
+jsbrock - gains Silver
+jsbrock - draws Silver, Copper
+jsbrock - shuffles deck
+jsbrock - draws Silver, Copper, Estate
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Chapel
+ 
+---------- jsbrock: turn 5 ----------
+jsbrock - plays 2 Silver, 2 Copper
+jsbrock - buys Festival
+jsbrock - gains Festival
+jsbrock - draws Copper, Copper, Copper, Chapel
+jsbrock - shuffles deck
+jsbrock - draws Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Estate
+Monsieur X - plays 1 Silver
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Copper, Copper, Copper, Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel
+ 
+---------- jsbrock: turn 6 ----------
+jsbrock - plays Chapel
+jsbrock - trashes Copper, Copper, Copper, Copper
+jsbrock - draws Festival, Silver, Silver, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Woodcutter
+Monsieur X - gains Woodcutter
+Monsieur X - draws Silver, Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Chapel, Copper
+ 
+---------- jsbrock: turn 7 ----------
+jsbrock - plays Festival
+jsbrock - plays 2 Silver, 1 Copper
+jsbrock - buys Festival
+jsbrock - gains Festival
+jsbrock - buys Cellar
+jsbrock - gains Cellar
+jsbrock - shuffles deck
+jsbrock - draws Copper, Silver, Silver, Festival, Chapel
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Woodcutter
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Copper, Cellar, Silver
+ 
+---------- jsbrock: turn 8 ----------
+jsbrock - plays Festival
+jsbrock - plays Chapel
+jsbrock - trashes Copper
+jsbrock - plays 2 Silver
+jsbrock - buys Council Room
+jsbrock - gains Council Room
+jsbrock - draws Estate, Festival, Cellar
+jsbrock - shuffles deck
+jsbrock - draws Festival, Silver
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Copper
+Monsieur X - draws Chapel, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper
+jsbrock - gains Curse
+Monsieur X - plays Woodcutter
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Woodcutter, Festival, Gold, Silver, Copper
+ 
+---------- jsbrock: turn 9 ----------
+jsbrock - plays Festival
+jsbrock - plays Cellar
+jsbrock - discards Estate
+jsbrock - discards Festival
+jsbrock - discards Silver
+jsbrock - draws Silver, Chapel, Council Room
+jsbrock - plays Council Room
+jsbrock - shuffles deck
+jsbrock - draws Estate, Festival, Curse, Silver
+Monsieur X - draws Cellar
+jsbrock - plays Festival
+jsbrock - plays Chapel
+jsbrock - trashes Curse, Estate
+jsbrock - plays 2 Silver
+jsbrock - buys Festival
+jsbrock - gains Festival
+jsbrock - buys Village
+jsbrock - gains Village
+jsbrock - shuffles deck
+jsbrock - draws Chapel, Silver, Festival, Festival, Council Room
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - discards Silver
+Monsieur X - draws Witch, Chapel
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver
+jsbrock - gains Curse
+Monsieur X - plays Woodcutter
+Monsieur X - plays 1 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Woodcutter, Witch, Festival, Gold, Chapel
+ 
+---------- jsbrock: turn 10 ----------
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Council Room
+jsbrock - draws Village, Festival, Silver, Cellar
+Monsieur X - draws Festival
+jsbrock - plays Festival
+jsbrock - plays Village
+jsbrock - shuffles deck
+jsbrock - draws Curse
+jsbrock - plays Chapel
+jsbrock - trashes Curse
+jsbrock - plays 2 Silver
+jsbrock - buys Council Room
+jsbrock - gains Council Room
+jsbrock - buys Thief
+jsbrock - gains Thief
+jsbrock - shuffles deck
+jsbrock - draws Festival, Council Room, Festival, Silver, Chapel
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Witch, Copper
+jsbrock - gains Curse
+Monsieur X - plays Witch
+Monsieur X - draws Cellar, Silver
+jsbrock - gains Curse
+Monsieur X - plays Woodcutter
+Monsieur X - plays 1 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Gold, Witch, Woodcutter, Festival
+ 
+---------- jsbrock: turn 11 ----------
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Council Room
+jsbrock - draws Village, Silver, Festival, Council Room
+Monsieur X - draws Silver
+jsbrock - plays Festival
+jsbrock - plays Village
+jsbrock - draws Thief
+jsbrock - plays Thief
+Monsieur X - reveals: Cellar, Workshop
+Monsieur X - discards: Cellar, Workshop
+jsbrock - plays Council Room
+jsbrock - draws Cellar
+jsbrock - shuffles deck
+jsbrock - draws Curse, Curse
+Monsieur X - draws Festival
+jsbrock - plays Chapel
+jsbrock - trashes Curse, Curse
+jsbrock - plays 2 Silver
+jsbrock - buys Festival
+jsbrock - gains Festival
+jsbrock - buys Council Room
+jsbrock - gains Council Room
+jsbrock - shuffles deck
+jsbrock - draws Festival, Council Room, Festival, Silver, Village
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Village
+jsbrock - gains Curse
+Monsieur X - plays Village
+Monsieur X - draws Chapel
+Monsieur X - plays Witch
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Workshop
+jsbrock - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Workshop
+Monsieur X - gains Village
+Monsieur X - plays Woodcutter
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Village, Festival, Festival, Witch
+ 
+---------- jsbrock: turn 12 ----------
+jsbrock - plays Festival
+jsbrock - plays Village
+jsbrock - draws Thief
+jsbrock - plays Council Room
+jsbrock - draws Council Room, Festival, Festival, Silver
+Monsieur X - draws Silver
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Thief
+Monsieur X - reveals: Woodcutter, Village
+Monsieur X - discards: Woodcutter, Village
+jsbrock - plays Council Room
+jsbrock - draws Cellar, Chapel, Council Room
+jsbrock - shuffles deck
+jsbrock - draws Curse
+Monsieur X - draws Witch
+jsbrock - plays Chapel
+jsbrock - trashes Curse
+jsbrock - plays 2 Silver
+jsbrock - buys Gold
+jsbrock - gains Gold
+jsbrock - buys Gold
+jsbrock - gains Gold
+jsbrock - draws Curse
+jsbrock - shuffles deck
+jsbrock - draws Gold, Festival, Silver, Festival
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Village
+jsbrock - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Chapel, Festival
+jsbrock - gains Curse
+Monsieur X - plays Village
+Monsieur X - draws Workshop
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - draws Gold
+Monsieur X - plays Workshop
+Monsieur X - gains Thief
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Library
+Monsieur X - gains Library
+Monsieur X - buys Woodcutter
+Monsieur X - gains Woodcutter
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Woodcutter, Festival, Festival, Workshop, Cellar
+ 
+---------- jsbrock: turn 13 ----------
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays 1 Gold, 1 Silver
+jsbrock - buys Province
+jsbrock - gains Province
+jsbrock - draws Chapel, Festival, Village, Thief, Gold
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Workshop
+Monsieur X - discards Festival
+Monsieur X - discards Woodcutter
+Monsieur X - draws Festival, Thief, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Thief
+jsbrock - reveals: Cellar, Council Room
+jsbrock - discards: Cellar, Council Room
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - buys Woodcutter
+Monsieur X - gains Woodcutter
+Monsieur X - draws Gold, Festival, Silver, Village, Festival
+ 
+---------- jsbrock: turn 14 ----------
+jsbrock - plays Village
+jsbrock - draws Silver
+jsbrock - plays Festival
+jsbrock - plays Thief
+Monsieur X - reveals: Witch, Village
+Monsieur X - discards: Witch, Village
+jsbrock - plays 1 Gold, 1 Silver
+jsbrock - buys Gold
+jsbrock - gains Gold
+jsbrock - draws Council Room, Council Room, Festival
+jsbrock - shuffles deck
+jsbrock - draws Festival, Curse
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Chapel
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Library
+Monsieur X - gains Library
+Monsieur X - buys Woodcutter
+Monsieur X - gains Woodcutter
+Monsieur X - draws Witch, Woodcutter, Library, Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Woodcutter
+ 
+---------- jsbrock: turn 15 ----------
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Council Room
+jsbrock - draws Cellar, Council Room, Silver, Curse
+Monsieur X - draws Chapel
+jsbrock - plays Council Room
+jsbrock - draws Festival, Festival, Chapel, Province
+Monsieur X - draws Festival
+jsbrock - plays Festival
+jsbrock - plays Festival
+jsbrock - plays Council Room
+jsbrock - draws Thief, Village, Gold, Curse
+Monsieur X - draws Village
+jsbrock - plays Village
+jsbrock - draws Silver
+jsbrock - plays Cellar
+jsbrock - discards Province
+jsbrock - draws Gold
+jsbrock - plays Chapel
+jsbrock - trashes Curse, Curse, Curse
+jsbrock - plays Thief
+Monsieur X - reveals: Festival, Thief
+Monsieur X - discards: Festival, Thief
+jsbrock - plays 2 Silver, 2 Gold
+jsbrock - buys Province
+jsbrock - gains Province
+jsbrock - buys Province
+jsbrock - gains Province
+jsbrock - buys Cellar
+jsbrock - gains Cellar
+jsbrock - draws Gold
+jsbrock - shuffles deck
+jsbrock - draws Council Room, Gold, Cellar, Silver
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Village
+Monsieur X - draws Cellar
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - discards Cellar
+Monsieur X - draws Woodcutter, Woodcutter
+Monsieur X - plays Woodcutter
+Monsieur X - plays Library
+Monsieur X - moves Village to hand
+Monsieur X - discards Workshop
+Monsieur X - draws Gold
+Monsieur X - moves Festival to hand
+Monsieur X - discards Workshop
+Monsieur X - plays Village
+Monsieur X - draws Library
+Monsieur X - plays Festival
+Monsieur X - plays Woodcutter
+Monsieur X - plays Library
+Monsieur X - moves Witch to hand
+Monsieur X - moves Festival to hand
+Monsieur X - draws Silver
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Village, Village
+jsbrock - gains Curse
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Workshop, Cellar
+jsbrock - gains Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Workshop
+Monsieur X - discards Woodcutter
+Monsieur X - draws Thief, Chapel
+Monsieur X - plays Thief
+jsbrock - reveals: Gold, Chapel
+jsbrock - trashes Gold
+jsbrock - discards Chapel
+Monsieur X - gains Gold
+Monsieur X - plays Woodcutter
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - draws Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Village, Cellar, Workshop, Council Room
+ 
+---------- jsbrock: turn 16 ----------
+jsbrock - plays Council Room
+jsbrock - draws Province, Festival, Festival, Province
+Monsieur X - draws Chapel
+jsbrock - plays 2 Gold, 1 Silver
+jsbrock - buys Province
+jsbrock - gains Province
+jsbrock - draws Province, Council Room, Silver, Festival, Cellar
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Village
+Monsieur X - draws Province
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Festival, Festival, Woodcutter, Thief
+jsbrock - draws Council Room
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Workshop
+Monsieur X - discards Chapel
+Monsieur X - discards Province
+Monsieur X - discards Thief
+Monsieur X - discards Woodcutter
+Monsieur X - draws Gold, Witch, Village, Festival, Witch
+Monsieur X - plays Village
+Monsieur X - draws Province
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Festival, Gold
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Library, Woodcutter
+Monsieur X - plays Woodcutter
+Monsieur X - plays Library
+Monsieur X - moves Festival to hand
+Monsieur X - moves Library to hand
+Monsieur X - moves Village to hand
+Monsieur X - moves Village to hand
+Monsieur X - plays Village
+Monsieur X - draws Cellar
+Monsieur X - plays Village
+Monsieur X - draws Woodcutter
+Monsieur X - plays Festival
+Monsieur X - plays Woodcutter
+Monsieur X - plays Library
+Monsieur X - draws Silver
+Monsieur X - moves Woodcutter to hand
+Monsieur X - shuffles deck
+Monsieur X - moves Woodcutter to hand
+Monsieur X - plays Woodcutter
+Monsieur X - plays Woodcutter
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - draws Chapel
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Province, Thief, Workshop
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Village
+ 
+------------ Game Over ------------
+Monsieur X - cards: 6 Festival, 4 Village, 4 Woodcutter, 2 Witch, 2 Library, 2 Cellar, 1 Thief, 1 Workshop, 1 Council Room, 1 Chapel, 2 Gold, 1 Silver, 4 Province, 2 Duchy, 1 Estate
+Monsieur X - total victory points: 31
+Monsieur X - turns: 16
+ 
+jsbrock - cards: 4 Festival, 3 Council Room, 2 Cellar, 1 Chapel, 1 Thief, 1 Village, 2 Silver, 2 Gold, 4 Province, 2 Curse
+jsbrock - total victory points: 22
+jsbrock - turns: 16
+ 
+1st place: Monsieur X
+2nd place: jsbrock
+ 

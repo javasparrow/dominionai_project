@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Woodcutter, Bureaucrat, Feast, Militia, Smithy, Thief, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+onlyme - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+onlyme - shuffles deck
+Monsieur X - shuffles deck
+onlyme - draws Copper, Copper, Estate, Copper, Copper
+Monsieur X - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- onlyme: turn 1 ----------
+onlyme - plays 4 Copper
+onlyme - buys Feast
+onlyme - gains Feast
+onlyme - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- onlyme: turn 2 ----------
+onlyme - plays 3 Copper
+onlyme - buys Chapel
+onlyme - gains Chapel
+onlyme - shuffles deck
+onlyme - draws Copper, Copper, Feast, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Feast
+Monsieur X - gains Feast
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Chapel, Estate, Copper, Feast
+ 
+---------- onlyme: turn 3 ----------
+onlyme - plays Feast
+onlyme - trashes Feast
+onlyme - gains Witch
+onlyme - plays 3 Copper
+onlyme - buys Silver
+onlyme - gains Silver
+onlyme - draws Chapel, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Estate, Copper
+Monsieur X - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- onlyme: turn 4 ----------
+onlyme - plays Chapel
+onlyme - trashes Estate, Copper, Copper, Copper
+onlyme - draws Estate, Copper
+onlyme - shuffles deck
+onlyme - draws Chapel, Copper, Silver
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper
+ 
+---------- onlyme: turn 5 ----------
+onlyme - plays Chapel
+onlyme - trashes Copper, Estate
+onlyme - plays 1 Copper, 1 Silver
+onlyme - buys Silver
+onlyme - gains Silver
+onlyme - draws Estate, Copper, Witch, Copper
+onlyme - shuffles deck
+onlyme - draws Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Estate, Feast, Copper, Silver, Chapel
+ 
+---------- onlyme: turn 6 ----------
+onlyme - plays Witch
+onlyme - draws Chapel, Silver
+Monsieur X - gains Curse
+onlyme - plays 3 Copper, 1 Silver
+onlyme - buys Witch
+onlyme - gains Witch
+onlyme - draws Silver
+onlyme - shuffles deck
+onlyme - draws Copper, Chapel, Copper, Silver
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Copper, Feast
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Chapel, Silver, Curse, Witch
+ 
+---------- onlyme: turn 7 ----------
+onlyme - plays Chapel
+onlyme - trashes Copper
+onlyme - plays 2 Silver, 1 Copper
+onlyme - buys Market
+onlyme - gains Market
+onlyme - draws Estate, Witch, Witch, Copper
+onlyme - shuffles deck
+onlyme - draws Market
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+onlyme - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Witch
+ 
+---------- onlyme: turn 8 ----------
+onlyme - plays Market
+onlyme - draws Silver
+onlyme - plays Witch
+onlyme - draws Silver, Chapel
+Monsieur X - gains Curse
+onlyme - plays 2 Silver, 1 Copper
+onlyme - buys Market
+onlyme - gains Market
+onlyme - draws Copper
+onlyme - shuffles deck
+onlyme - draws Copper, Witch, Estate, Chapel
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+onlyme - gains Curse
+Monsieur X - plays 5 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Curse, Market, Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Curse, Witch
+ 
+---------- onlyme: turn 9 ----------
+onlyme - plays Witch
+onlyme - draws Witch, Silver
+Monsieur X - gains Curse
+onlyme - plays 2 Copper, 1 Silver
+onlyme - buys Militia
+onlyme - gains Militia
+onlyme - draws Market, Curse, Silver, Market
+onlyme - shuffles deck
+onlyme - draws Witch
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Chapel
+Monsieur X - trashes Curse, Curse, Copper
+Monsieur X - draws Gold, Copper, Copper, Silver, Copper
+ 
+---------- onlyme: turn 10 ----------
+onlyme - plays Market
+onlyme - draws Chapel
+onlyme - plays Market
+onlyme - draws Estate
+onlyme - plays Witch
+onlyme - draws Copper, Copper
+Monsieur X - gains Curse
+onlyme - plays 2 Copper, 1 Silver
+onlyme - buys Gold
+onlyme - gains Gold
+onlyme - draws Curse, Silver, Witch, Militia
+onlyme - shuffles deck
+onlyme - draws Chapel
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Chapel, Copper, Copper
+ 
+---------- onlyme: turn 11 ----------
+onlyme - plays Witch
+onlyme - draws Copper, Witch
+Monsieur X - gains Curse
+onlyme - plays 1 Silver, 1 Copper
+onlyme - buys Moat
+onlyme - gains Moat
+onlyme - draws Curse, Estate, Market, Silver, Gold
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Copper
+Monsieur X - draws Silver, Gold, Gold, Curse, Copper
+ 
+---------- onlyme: turn 12 ----------
+onlyme - plays Market
+onlyme - draws Copper
+onlyme - plays 1 Silver, 1 Gold, 1 Copper
+onlyme - buys Market
+onlyme - gains Market
+onlyme - buys Chapel
+onlyme - gains Chapel
+onlyme - draws Market
+onlyme - shuffles deck
+onlyme - draws Copper, Curse, Silver, Militia
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays 2 Gold, 1 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Curse, Market
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Curse, Gold
+ 
+---------- onlyme: turn 13 ----------
+onlyme - plays Market
+onlyme - draws Gold
+onlyme - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Curse
+onlyme - plays 1 Copper, 1 Silver, 1 Gold
+onlyme - buys Province
+onlyme - gains Province
+onlyme - draws Silver, Chapel, Moat, Witch, Chapel
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays 1 Silver, 1 Gold, 1 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Chapel, Province, Witch, Gold, Curse
+ 
+---------- onlyme: turn 14 ----------
+onlyme - plays Witch
+onlyme - draws Witch, Market
+Monsieur X - gains Curse
+onlyme - plays 1 Silver
+onlyme - buys Moat
+onlyme - gains Moat
+onlyme - draws Market, Copper, Estate, Curse
+onlyme - shuffles deck
+onlyme - draws Province
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Gold
+onlyme - gains Curse
+Monsieur X - plays 2 Gold, 1 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Market, Gold, Silver, Curse, Curse
+ 
+---------- onlyme: turn 15 ----------
+onlyme - plays Market
+onlyme - draws Curse
+onlyme - plays 1 Copper
+onlyme - buys Chapel
+onlyme - gains Chapel
+onlyme - draws Witch, Moat, Chapel, Militia, Market
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Market
+Monsieur X - draws Curse
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Curse, Witch, Gold, Gold
+ 
+---------- onlyme: turn 16 ----------
+onlyme - plays Market
+onlyme - draws Silver
+onlyme - plays Witch
+onlyme - draws Copper, Chapel
+Monsieur X - gains Curse
+onlyme - plays 1 Silver, 1 Copper
+onlyme - buys Thief
+onlyme - gains Thief
+onlyme - draws Moat, Market, Witch, Silver, Gold
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays 3 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Province, Gold, Chapel, Curse, Curse
+ 
+---------- onlyme: turn 17 ----------
+onlyme - plays Market
+onlyme - shuffles deck
+onlyme - draws Curse
+onlyme - plays Witch
+onlyme - draws Chapel, Curse
+onlyme - plays 1 Silver, 1 Gold
+onlyme - buys Gold
+onlyme - gains Gold
+onlyme - draws Copper, Curse, Thief, Militia, Silver
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Curse, Curse
+Monsieur X - plays 1 Gold
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver, Copper, Curse, Market, Gold
+ 
+---------- onlyme: turn 18 ----------
+onlyme - plays Militia
+Monsieur X - discards Market
+Monsieur X - discards Curse
+onlyme - plays 1 Copper, 1 Silver
+onlyme - buys Market
+onlyme - gains Market
+onlyme - draws Market, Province, Chapel, Copper, Estate
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays 1 Silver, 1 Copper, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Copper, Witch, Gold, Province
+ 
+---------- onlyme: turn 19 ----------
+onlyme - plays Market
+onlyme - draws Moat
+onlyme - plays Chapel
+onlyme - trashes Copper, Estate, Moat
+onlyme - draws Chapel, Market, Witch
+onlyme - shuffles deck
+onlyme - draws Market, Gold
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Chapel
+Monsieur X - plays 2 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Gold, Province, Curse, Gold, Market
+ 
+---------- onlyme: turn 20 ----------
+onlyme - plays Market
+onlyme - draws Silver
+onlyme - plays Market
+onlyme - draws Curse
+onlyme - plays Chapel
+onlyme - trashes Curse, Witch
+onlyme - plays 1 Gold, 1 Silver
+onlyme - buys Gold
+onlyme - gains Gold
+onlyme - draws Market, Silver, Chapel, Curse, Market
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays 3 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Curse, Silver, Gold, Curse
+Monsieur X - shuffles deck
+Monsieur X - draws Market
+ 
+---------- onlyme: turn 21 ----------
+onlyme - plays Market
+onlyme - draws Witch
+onlyme - plays Market
+onlyme - draws Chapel
+onlyme - plays Chapel
+onlyme - trashes Curse, Witch
+onlyme - plays 1 Silver
+onlyme - buys Militia
+onlyme - gains Militia
+onlyme - draws Militia, Province, Curse, Moat, Gold
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Market
+Monsieur X - draws Witch
+Monsieur X - plays Witch
+onlyme - reveals reaction Moat
+Monsieur X - draws Silver, Gold
+Monsieur X - plays 2 Silver, 2 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Gold, Province, Province, Chapel, Copper
+ 
+---------- onlyme: turn 22 ----------
+onlyme - plays Militia
+Monsieur X - discards Province
+Monsieur X - discards Province
+onlyme - plays 1 Gold
+onlyme - buys Duchy
+onlyme - gains Duchy
+onlyme - draws Thief, Copper
+onlyme - shuffles deck
+onlyme - draws Market, Silver, Silver
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays 1 Gold, 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Gold, Moat, Province, Curse, Province
+ 
+---------- onlyme: turn 23 ----------
+onlyme - plays Market
+onlyme - draws Province
+onlyme - plays Thief
+Monsieur X - reveals reaction Moat
+onlyme - plays 2 Silver, 1 Copper
+onlyme - buys Duchy
+onlyme - gains Duchy
+onlyme - buys Copper
+onlyme - gains Copper
+onlyme - draws Chapel, Gold, Duchy, Gold, Market
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Moat
+Monsieur X - draws Gold, Gold
+Monsieur X - plays 3 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Chapel, Silver, Province, Curse
+ 
+---------- onlyme: turn 24 ----------
+onlyme - plays Market
+onlyme - draws Gold
+onlyme - plays 3 Gold
+onlyme - buys Duchy
+onlyme - gains Duchy
+onlyme - buys Duchy
+onlyme - gains Duchy
+onlyme - draws Militia, Chapel, Chapel, Curse, Market
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Curse
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Curse, Province, Witch, Silver, Province
+ 
+---------- onlyme: turn 25 ----------
+onlyme - plays Market
+onlyme - draws Moat
+onlyme - plays Chapel
+onlyme - trashes Curse, Moat
+onlyme - draws Militia, Market
+onlyme - shuffles deck
+onlyme - draws Chapel, Gold, Silver
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Moat, Curse
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold, Copper, Province, Silver, Province
+ 
+---------- onlyme: turn 26 ----------
+onlyme - plays Market
+onlyme - draws Copper
+onlyme - plays Militia
+Monsieur X - discards Province
+Monsieur X - discards Province
+onlyme - plays 1 Gold, 1 Silver, 1 Copper
+onlyme - buys Duchy
+onlyme - gains Duchy
+onlyme - buys Estate
+onlyme - gains Estate
+onlyme - draws Silver, Duchy, Copper, Thief, Duchy
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays 1 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Market, Gold, Gold, Gold, Gold
+ 
+---------- onlyme: turn 27 ----------
+onlyme - plays Thief
+Monsieur X - reveals: Province, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards Province
+onlyme - gains Silver
+onlyme - plays 1 Silver, 1 Copper
+onlyme - buys Estate
+onlyme - gains Estate
+onlyme - draws Gold, Market, Gold, Militia, Market
+ 
+---------- Monsieur X: turn 27 ----------
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Witch
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Gold
+Monsieur X - plays 5 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Curse, Chapel, Province, Estate, Province
+ 
+------------ Game Over ------------
+Monsieur X - cards: 1 Chapel, 1 Market, 1 Witch, 1 Moat, 6 Gold, 3 Silver, 1 Copper, 7 Province, 3 Duchy, 1 Estate, 2 Curse
+Monsieur X - total victory points: 50
+Monsieur X - turns: 27
+ 
+onlyme - cards: 4 Market, 3 Chapel, 2 Militia, 1 Thief, 3 Gold, 3 Silver, 2 Copper, 5 Duchy, 2 Estate, 1 Province
+onlyme - total victory points: 23
+onlyme - turns: 27
+ 
+1st place: Monsieur X
+2nd place: onlyme
+ 

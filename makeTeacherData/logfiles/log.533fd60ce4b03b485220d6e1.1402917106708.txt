@@ -1,0 +1,466 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Woodcutter, Workshop, Feast, Spy, Council Room, Laboratory, Library, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Henry Tam - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Henry Tam - shuffles deck
+hiroki - shuffles deck
+Henry Tam - draws Estate, Copper, Copper, Copper, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Henry Tam: turn 1 ----------
+Henry Tam - plays 4 Copper
+Henry Tam - buys Chapel
+Henry Tam - gains Chapel
+Henry Tam - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Henry Tam: turn 2 ----------
+Henry Tam - plays 3 Copper
+Henry Tam - buys Chapel
+Henry Tam - gains Chapel
+Henry Tam - shuffles deck
+Henry Tam - draws Estate, Chapel, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Copper, Copper, Chapel
+ 
+---------- Henry Tam: turn 3 ----------
+Henry Tam - plays Chapel
+Henry Tam - trashes Estate, Copper, Estate, Copper
+Henry Tam - draws Copper, Estate, Copper, Copper, Chapel
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper, Estate, Copper
+hiroki - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Henry Tam: turn 4 ----------
+Henry Tam - plays 3 Copper
+Henry Tam - buys Silver
+Henry Tam - gains Silver
+Henry Tam - draws Copper, Copper
+Henry Tam - shuffles deck
+Henry Tam - draws Copper, Silver, Chapel
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Feast, Estate
+hiroki - shuffles deck
+hiroki - draws Silver, Chapel, Copper
+ 
+---------- Henry Tam: turn 5 ----------
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - draws Chapel, Copper, Estate, Copper
+Henry Tam - shuffles deck
+Henry Tam - draws Chapel
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate
+hiroki - draws Copper, Copper, Copper, Estate
+hiroki - shuffles deck
+hiroki - draws Silver
+ 
+---------- Henry Tam: turn 6 ----------
+Henry Tam - plays Chapel
+Henry Tam - trashes Copper, Estate, Copper
+Henry Tam - draws Copper, Silver, Copper, Copper, Laboratory
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Market
+hiroki - gains Market
+hiroki - draws Feast, Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Market
+ 
+---------- Henry Tam: turn 7 ----------
+Henry Tam - plays Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Chapel, Chapel
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Copper, Laboratory, Chapel, Copper, Laboratory
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Market
+hiroki - draws Estate
+hiroki - plays Chapel
+hiroki - trashes Estate
+hiroki - plays 2 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Silver, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Feast, Chapel
+ 
+---------- Henry Tam: turn 8 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Silver
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Copper, Silver, Copper, Chapel, Laboratory
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Laboratory
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Silver, Copper, Market
+hiroki - shuffles deck
+hiroki - draws Copper, Copper
+ 
+---------- Henry Tam: turn 9 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Chapel
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - draws Laboratory, Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Chapel, Silver
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Chapel, Silver
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Feast
+hiroki - shuffles deck
+hiroki - draws Silver, Laboratory, Chapel, Silver
+ 
+---------- Henry Tam: turn 10 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel
+Henry Tam - plays Laboratory
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Copper, Silver, Laboratory, Laboratory
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Market
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Laboratory
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Copper, Market, Laboratory, Silver, Laboratory
+ 
+---------- Henry Tam: turn 11 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel, Copper
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Laboratory
+Henry Tam - gains Laboratory
+Henry Tam - shuffles deck
+Henry Tam - draws Silver, Chapel, Copper, Laboratory, Laboratory
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Chapel
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - plays Market
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Silver, Laboratory, Laboratory, Laboratory, Chapel
+ 
+---------- Henry Tam: turn 12 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays 3 Copper, 1 Silver
+Henry Tam - buys Market
+Henry Tam - gains Market
+Henry Tam - shuffles deck
+Henry Tam - draws Market, Laboratory, Chapel, Laboratory, Silver
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Laboratory
+hiroki - draws Market, Silver
+hiroki - plays Laboratory
+hiroki - draws Gold, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper
+hiroki - plays Market
+hiroki - plays Laboratory
+hiroki - plays Chapel
+hiroki - trashes Copper, Silver
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Laboratory, Laboratory, Chapel, Laboratory, Market
+ 
+---------- Henry Tam: turn 13 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Chapel
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Chapel
+Henry Tam - trashes Copper
+Henry Tam - plays 2 Copper, 1 Silver
+Henry Tam - buys Market
+Henry Tam - gains Market
+Henry Tam - shuffles deck
+Henry Tam - draws Chapel, Laboratory, Market, Laboratory, Laboratory
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Laboratory
+hiroki - draws Silver, Gold
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Gold
+hiroki - plays Market
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Laboratory, Gold, Province, Laboratory, Laboratory
+ 
+---------- Henry Tam: turn 14 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Copper, Chapel
+Henry Tam - plays Laboratory
+Henry Tam - draws Market, Silver
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Chapel
+Henry Tam - trashes Copper
+Henry Tam - plays 1 Copper, 1 Silver
+Henry Tam - buys Silver
+Henry Tam - gains Silver
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Laboratory, Chapel, Laboratory, Silver
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Laboratory
+hiroki - draws Gold, Silver
+hiroki - plays Laboratory
+hiroki - draws Market, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Chapel
+hiroki - plays Market
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Chapel, Market, Laboratory, Province, Silver
+ 
+---------- Henry Tam: turn 15 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Market, Market
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Chapel
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Copper
+Henry Tam - plays Laboratory
+Henry Tam - draws Silver, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Market
+Henry Tam - plays Chapel
+Henry Tam - trashes Copper, Chapel
+Henry Tam - plays 2 Silver
+Henry Tam - buys Gold
+Henry Tam - gains Gold
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Chapel, Market, Silver, Laboratory
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Laboratory
+hiroki - draws Province, Gold
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Gold
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Laboratory
+hiroki - shuffles deck
+hiroki - draws Gold, Laboratory, Province, Chapel
+ 
+---------- Henry Tam: turn 16 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Gold
+Henry Tam - plays Laboratory
+Henry Tam - draws Silver, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Market, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Market
+Henry Tam - plays 2 Silver, 1 Gold
+Henry Tam - buys Province
+Henry Tam - gains Province
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Laboratory, Chapel, Laboratory, Laboratory
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Laboratory
+hiroki - draws Silver, Province
+hiroki - plays Laboratory
+hiroki - draws Market, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Province
+hiroki - plays Market
+hiroki - draws Gold
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Province, Laboratory, Province, Gold, Silver
+ 
+---------- Henry Tam: turn 17 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Silver
+Henry Tam - plays Laboratory
+Henry Tam - draws Province, Market
+Henry Tam - plays Laboratory
+Henry Tam - draws Silver, Market
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Gold
+Henry Tam - plays Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Market
+Henry Tam - plays 2 Silver, 1 Gold
+Henry Tam - buys Province
+Henry Tam - gains Province
+Henry Tam - shuffles deck
+Henry Tam - draws Laboratory, Laboratory, Market, Laboratory, Silver
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Laboratory
+hiroki - draws Market, Gold
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Province, Chapel, Province, Laboratory, Laboratory
+ 
+---------- Henry Tam: turn 18 ----------
+Henry Tam - plays Laboratory
+Henry Tam - draws Chapel, Laboratory
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Province
+Henry Tam - plays Laboratory
+Henry Tam - draws Laboratory, Market
+Henry Tam - plays Laboratory
+Henry Tam - draws Province, Silver
+Henry Tam - plays Laboratory
+Henry Tam - draws Gold
+Henry Tam - plays Laboratory
+Henry Tam - plays Market
+Henry Tam - plays Market
+Henry Tam - plays 2 Silver, 1 Gold
+Henry Tam - buys Duchy
+Henry Tam - gains Duchy
+Henry Tam - buys Estate
+Henry Tam - gains Estate
+Henry Tam - buys Estate
+Henry Tam - gains Estate
+Henry Tam - shuffles deck
+Henry Tam - draws Market, Laboratory, Laboratory, Province, Laboratory
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Province, Market
+hiroki - plays Laboratory
+hiroki - draws Gold, Province
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Gold, Province
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Laboratory, Laboratory, Laboratory, Chapel, Gold
+ 
+------------ Game Over ------------
+hiroki - cards: 4 Laboratory, 1 Chapel, 1 Market, 2 Gold, 1 Silver, 6 Province
+hiroki - total victory points: 36
+hiroki - turns: 18
+ 
+Henry Tam - cards: 6 Laboratory, 2 Market, 1 Chapel, 2 Silver, 1 Gold, 2 Province, 2 Estate, 1 Duchy
+Henry Tam - total victory points: 17
+Henry Tam - turns: 18
+ 
+1st place: hiroki
+2nd place: Henry Tam
+ 

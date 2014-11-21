@@ -1,0 +1,358 @@
+------------ Game Setup ------------
+Supply cards: Village, Woodcutter, Workshop, Bureaucrat, Feast, Gardens, Remodel, Smithy, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lexington - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lexington - shuffles deck
+Java Sparrow - shuffles deck
+lexington - draws Copper, Copper, Copper, Copper, Copper
+Java Sparrow - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- lexington: turn 1 ----------
+lexington - plays 5 Copper
+lexington - buys Witch
+lexington - gains Witch
+lexington - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lexington: turn 2 ----------
+lexington - shuffles deck
+lexington - draws Witch, Copper, Estate, Copper, Copper
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - draws Copper, Estate, Copper, Estate, Workshop
+ 
+---------- lexington: turn 3 ----------
+lexington - plays Witch
+lexington - draws Estate, Estate
+Java Sparrow - gains Curse
+lexington - plays 3 Copper
+lexington - buys Workshop
+lexington - gains Workshop
+lexington - draws Copper, Copper, Copper, Copper
+lexington - shuffles deck
+lexington - draws Copper
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Workshop, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Estate, Copper, Copper
+ 
+---------- lexington: turn 4 ----------
+lexington - plays 5 Copper
+lexington - buys Witch
+lexington - gains Witch
+lexington - draws Copper, Estate, Estate, Witch, Copper
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - draws Estate, Gardens, Workshop, Copper, Copper
+ 
+---------- lexington: turn 5 ----------
+lexington - plays Witch
+lexington - draws Workshop, Estate
+Java Sparrow - gains Curse
+lexington - shuffles deck
+lexington - draws Copper, Estate, Copper, Copper, Witch
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Workshop, Estate, Copper, Curse, Estate
+ 
+---------- lexington: turn 6 ----------
+lexington - plays Witch
+lexington - draws Workshop, Copper
+Java Sparrow - gains Curse
+lexington - plays 4 Copper
+lexington - buys Village
+lexington - gains Village
+lexington - draws Copper, Copper, Witch, Estate, Copper
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 1 Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper, Gardens, Estate
+ 
+---------- lexington: turn 7 ----------
+lexington - plays Witch
+lexington - draws Estate
+lexington - shuffles deck
+lexington - draws Workshop
+Java Sparrow - gains Curse
+lexington - plays 3 Copper
+lexington - buys Workshop
+lexington - gains Workshop
+lexington - draws Witch, Estate, Copper, Village, Copper
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - draws Gardens, Copper, Workshop, Copper, Workshop
+ 
+---------- lexington: turn 8 ----------
+lexington - plays Village
+lexington - draws Copper
+lexington - plays Witch
+lexington - draws Copper
+lexington - shuffles deck
+lexington - draws Copper
+Java Sparrow - gains Curse
+lexington - plays 5 Copper
+lexington - buys Mine
+lexington - gains Mine
+lexington - draws Workshop, Witch, Workshop, Copper, Estate
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Copper, Gardens, Curse, Workshop, Copper
+ 
+---------- lexington: turn 9 ----------
+lexington - plays Workshop
+lexington - gains Village
+lexington - draws Copper, Estate
+lexington - shuffles deck
+lexington - draws Copper, Estate, Copper
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Estate, Estate, Copper, Gardens, Estate
+ 
+---------- lexington: turn 10 ----------
+lexington - plays 3 Copper
+lexington - buys Village
+lexington - gains Village
+lexington - draws Copper, Village, Copper, Mine, Village
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays 1 Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Workshop, Curse, Curse, Estate
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper
+ 
+---------- lexington: turn 11 ----------
+lexington - plays Village
+lexington - draws Copper
+lexington - plays Village
+lexington - draws Workshop
+lexington - plays Mine
+lexington - trashes Copper
+lexington - gains Silver
+lexington - plays Workshop
+lexington - gains Smithy
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Smithy
+lexington - gains Smithy
+lexington - draws Estate, Witch, Copper, Workshop, Witch
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 1 Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Copper, Gardens, Estate, Workshop
+ 
+---------- lexington: turn 12 ----------
+lexington - plays Witch
+lexington - shuffles deck
+lexington - draws Village, Copper
+Java Sparrow - gains Curse
+lexington - draws Copper, Estate, Smithy, Copper, Village
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Estate, Copper, Copper, Estate, Workshop
+ 
+---------- lexington: turn 13 ----------
+lexington - plays Village
+lexington - draws Smithy
+lexington - plays Smithy
+lexington - draws Copper, Mine, Copper
+lexington - plays Smithy
+lexington - draws Workshop, Estate, Silver
+lexington - plays 4 Copper, 1 Silver
+lexington - buys Gold
+lexington - gains Gold
+lexington - draws Village
+lexington - shuffles deck
+lexington - draws Copper, Estate, Copper, Copper
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Estate
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Estate, Curse, Curse, Gardens, Gardens
+ 
+---------- lexington: turn 14 ----------
+lexington - plays Village
+lexington - draws Smithy
+lexington - plays Smithy
+lexington - draws Smithy, Copper, Workshop
+lexington - plays Smithy
+lexington - draws Silver, Witch, Mine
+lexington - plays 4 Copper, 1 Silver
+lexington - buys Gold
+lexington - gains Gold
+lexington - draws Workshop, Copper, Gold, Village, Estate
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Workshop, Estate, Estate, Workshop
+ 
+---------- lexington: turn 15 ----------
+lexington - plays Village
+lexington - draws Copper
+lexington - plays Workshop
+lexington - gains Smithy
+lexington - plays 2 Copper, 1 Gold
+lexington - buys Duchy
+lexington - gains Duchy
+lexington - draws Estate, Witch, Village
+lexington - shuffles deck
+lexington - draws Copper, Copper
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - plays 1 Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Copper, Gardens, Gardens, Copper
+ 
+---------- lexington: turn 16 ----------
+lexington - plays Village
+lexington - draws Copper
+lexington - plays Witch
+lexington - draws Witch, Estate
+Java Sparrow - gains Curse
+lexington - plays Witch
+lexington - draws Smithy, Smithy
+Java Sparrow - gains Curse
+lexington - plays 3 Copper
+lexington - buys Village
+lexington - gains Village
+lexington - draws Copper, Duchy, Estate, Silver, Copper
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Curse, Gardens
+Java Sparrow - shuffles deck
+Java Sparrow - draws Gardens, Estate, Copper
+ 
+---------- lexington: turn 17 ----------
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Silver
+lexington - gains Silver
+lexington - draws Workshop, Mine, Gold, Workshop, Village
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Estate, Copper, Workshop, Gardens, Curse
+ 
+---------- lexington: turn 18 ----------
+lexington - plays Village
+lexington - draws Smithy
+lexington - plays Smithy
+lexington - draws Copper, Gold, Village
+lexington - plays Village
+lexington - shuffles deck
+lexington - draws Estate
+lexington - plays Mine
+lexington - trashes Copper
+lexington - gains Silver
+lexington - plays Workshop
+lexington - gains Village
+lexington - plays 2 Gold, 1 Silver
+lexington - buys Province
+lexington - gains Province
+lexington - draws Estate, Copper, Smithy, Estate, Witch
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - plays 1 Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Estate, Estate, Workshop, Curse, Estate
+ 
+---------- lexington: turn 19 ----------
+lexington - plays Smithy
+lexington - draws Silver, Witch, Copper
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Smithy
+lexington - gains Smithy
+lexington - draws Smithy, Silver, Village, Duchy, Copper
+ 
+---------- Java Sparrow: turn 20 ----------
+Java Sparrow - plays Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Gardens, Copper, Curse, Copper, Curse
+ 
+------------ Game Over ------------
+Java Sparrow - cards: 8 Workshop, 15 Copper, 11 Estate, 8 Gardens, 8 Curse
+Java Sparrow - total victory points: 43
+Java Sparrow - turns: 20
+ 
+lexington - cards: 5 Village, 4 Smithy, 2 Workshop, 2 Witch, 1 Mine, 5 Copper, 3 Silver, 2 Gold, 3 Estate, 1 Duchy, 1 Province
+lexington - total victory points: 12
+lexington - turns: 19
+ 
+1st place: Java Sparrow
+2nd place: lexington
+ 

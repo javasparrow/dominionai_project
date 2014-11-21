@@ -1,0 +1,447 @@
+------------ Game Setup ------------
+Supply cards: Feast, Militia, Remodel, Smithy, Thief, Council Room, Festival, Laboratory, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ForceOfWill - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yuuna_tu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ForceOfWill - shuffles deck
+yuuna_tu - shuffles deck
+ForceOfWill - draws Estate, Copper, Copper, Copper, Copper
+yuuna_tu - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- yuuna_tu: turn 1 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ForceOfWill: turn 1 ----------
+ForceOfWill - plays 4 Copper
+ForceOfWill - buys Remodel
+ForceOfWill - gains Remodel
+ForceOfWill - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- yuuna_tu: turn 2 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Feast
+yuuna_tu - gains Feast
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- ForceOfWill: turn 2 ----------
+ForceOfWill - plays 3 Copper
+ForceOfWill - buys Silver
+ForceOfWill - gains Silver
+ForceOfWill - shuffles deck
+ForceOfWill - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 3 ----------
+yuuna_tu - plays 4 Copper, 1 Silver
+yuuna_tu - buys Witch
+yuuna_tu - gains Witch
+yuuna_tu - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- ForceOfWill: turn 3 ----------
+ForceOfWill - plays 4 Copper
+ForceOfWill - buys Feast
+ForceOfWill - gains Feast
+ForceOfWill - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- yuuna_tu: turn 4 ----------
+yuuna_tu - draws Copper, Feast
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Estate, Estate
+ 
+---------- ForceOfWill: turn 4 ----------
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Feast
+ForceOfWill - gains Feast
+ForceOfWill - draws Copper, Remodel
+ForceOfWill - shuffles deck
+ForceOfWill - draws Estate, Silver, Feast
+ 
+---------- yuuna_tu: turn 5 ----------
+yuuna_tu - plays Feast
+yuuna_tu - trashes Feast
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ForceOfWill: turn 5 ----------
+ForceOfWill - plays Feast
+ForceOfWill - trashes Feast
+ForceOfWill - gains Festival
+ForceOfWill - plays 1 Copper, 1 Silver
+ForceOfWill - buys Silver
+ForceOfWill - gains Silver
+ForceOfWill - draws Copper, Copper, Copper, Feast, Copper
+ 
+---------- yuuna_tu: turn 6 ----------
+yuuna_tu - plays 5 Copper
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Silver, Witch, Estate
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Laboratory
+ 
+---------- ForceOfWill: turn 6 ----------
+ForceOfWill - plays Feast
+ForceOfWill - trashes Feast
+ForceOfWill - gains Witch
+ForceOfWill - plays 4 Copper
+ForceOfWill - buys Militia
+ForceOfWill - gains Militia
+ForceOfWill - draws Copper, Estate, Estate, Copper
+ForceOfWill - shuffles deck
+ForceOfWill - draws Copper
+ 
+---------- yuuna_tu: turn 7 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Copper
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Estate
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Copper
+ForceOfWill - gains Curse
+yuuna_tu - plays 5 Copper, 1 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Copper, Copper, Estate
+yuuna_tu - shuffles deck
+yuuna_tu - draws Laboratory, Copper
+ 
+---------- ForceOfWill: turn 7 ----------
+ForceOfWill - plays 3 Copper
+ForceOfWill - buys Silver
+ForceOfWill - gains Silver
+ForceOfWill - draws Militia, Copper, Witch, Copper, Copper
+ 
+---------- yuuna_tu: turn 8 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Estate
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Remodel
+yuuna_tu - gains Remodel
+yuuna_tu - draws Festival, Copper, Estate, Witch, Copper
+ 
+---------- ForceOfWill: turn 8 ----------
+ForceOfWill - plays Witch
+ForceOfWill - draws Silver, Remodel
+yuuna_tu - gains Curse
+ForceOfWill - plays 3 Copper, 1 Silver
+ForceOfWill - buys Laboratory
+ForceOfWill - gains Laboratory
+ForceOfWill - draws Festival, Silver, Estate, Copper
+ForceOfWill - shuffles deck
+ForceOfWill - draws Witch
+ 
+---------- yuuna_tu: turn 9 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Laboratory
+ForceOfWill - gains Curse
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Festival, Remodel, Estate
+ 
+---------- ForceOfWill: turn 9 ----------
+ForceOfWill - plays Festival
+ForceOfWill - plays Witch
+ForceOfWill - draws Silver, Copper
+yuuna_tu - gains Curse
+ForceOfWill - plays 2 Silver, 2 Copper
+ForceOfWill - buys Remodel
+ForceOfWill - gains Remodel
+ForceOfWill - buys Feast
+ForceOfWill - gains Feast
+ForceOfWill - draws Estate, Militia, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 10 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Estate
+yuuna_tu - gains Feast
+yuuna_tu - plays 1 Silver, 1 Copper
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- ForceOfWill: turn 10 ----------
+ForceOfWill - plays Militia
+yuuna_tu - discards Estate
+yuuna_tu - discards Copper
+ForceOfWill - plays 3 Copper
+ForceOfWill - buys Laboratory
+ForceOfWill - gains Laboratory
+ForceOfWill - draws Copper, Remodel, Laboratory, Copper, Silver
+ 
+---------- yuuna_tu: turn 11 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Laboratory, Copper, Curse, Laboratory, Laboratory
+ 
+---------- ForceOfWill: turn 11 ----------
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Curse, Estate
+ForceOfWill - plays Remodel
+ForceOfWill - trashes Estate
+ForceOfWill - gains Smithy
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Remodel
+ForceOfWill - gains Remodel
+ForceOfWill - shuffles deck
+ForceOfWill - draws Copper, Estate, Silver, Copper, Curse
+ 
+---------- yuuna_tu: turn 12 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Estate, Copper
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Estate
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Remodel, Feast
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Festival
+ForceOfWill - gains Curse
+yuuna_tu - draws Curse, Copper, Copper, Copper, Silver
+ 
+---------- ForceOfWill: turn 12 ----------
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Feast
+ForceOfWill - gains Feast
+ForceOfWill - draws Copper, Festival, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 13 ----------
+yuuna_tu - plays 3 Copper, 1 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Witch, Laboratory, Curse, Estate
+ 
+---------- ForceOfWill: turn 13 ----------
+ForceOfWill - plays Festival
+ForceOfWill - plays 4 Copper
+ForceOfWill - buys Festival
+ForceOfWill - gains Festival
+ForceOfWill - draws Laboratory, Smithy, Silver, Militia, Laboratory
+ 
+---------- yuuna_tu: turn 14 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Remodel, Copper
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Copper
+ForceOfWill - gains Curse
+yuuna_tu - plays 3 Copper, 1 Silver
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Copper, Feast, Copper, Silver, Laboratory
+ 
+---------- ForceOfWill: turn 14 ----------
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Witch, Feast
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Estate, Remodel
+ForceOfWill - plays Witch
+ForceOfWill - draws Copper, Silver
+yuuna_tu - gains Curse
+ForceOfWill - plays 2 Silver, 1 Copper
+ForceOfWill - buys Laboratory
+ForceOfWill - gains Laboratory
+ForceOfWill - draws Remodel, Remodel, Curse
+ForceOfWill - shuffles deck
+ForceOfWill - draws Laboratory, Copper
+ 
+---------- yuuna_tu: turn 15 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Copper
+yuuna_tu - plays Feast
+yuuna_tu - trashes Feast
+yuuna_tu - gains Laboratory
+yuuna_tu - plays 4 Copper, 1 Silver
+yuuna_tu - buys Laboratory
+yuuna_tu - gains Laboratory
+yuuna_tu - draws Laboratory, Estate, Curse, Festival, Festival
+ 
+---------- ForceOfWill: turn 15 ----------
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Silver, Copper
+ForceOfWill - plays Remodel
+ForceOfWill - trashes Curse
+ForceOfWill - gains Estate
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Remodel
+ForceOfWill - gains Remodel
+ForceOfWill - draws Laboratory, Copper, Smithy, Feast, Silver
+ 
+---------- yuuna_tu: turn 16 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - buys Militia
+yuuna_tu - gains Militia
+yuuna_tu - draws Laboratory
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Curse, Curse, Festival
+ 
+---------- ForceOfWill: turn 16 ----------
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Militia, Copper
+ForceOfWill - plays Militia
+yuuna_tu - discards Curse
+yuuna_tu - discards Curse
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Gold
+ForceOfWill - gains Gold
+ForceOfWill - draws Festival, Laboratory, Estate, Curse, Copper
+ 
+---------- yuuna_tu: turn 17 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Copper
+yuuna_tu - plays Festival
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Silver, Copper, Copper, Laboratory, Laboratory
+ 
+---------- ForceOfWill: turn 17 ----------
+ForceOfWill - plays Festival
+ForceOfWill - plays Laboratory
+ForceOfWill - draws Curse, Estate
+ForceOfWill - plays 1 Copper
+ForceOfWill - buys Silver
+ForceOfWill - gains Silver
+ForceOfWill - draws Copper, Remodel, Witch, Curse, Silver
+ 
+---------- yuuna_tu: turn 18 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Estate, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Militia
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Festival, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Silver, Witch
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Estate, Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Remodel
+ForceOfWill - gains Curse
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Estate
+yuuna_tu - gains Smithy
+yuuna_tu - plays 3 Copper, 2 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - draws Copper, Laboratory
+yuuna_tu - shuffles deck
+yuuna_tu - draws Laboratory, Curse, Festival
+ 
+---------- ForceOfWill: turn 18 ----------
+ForceOfWill - plays Witch
+ForceOfWill - draws Copper, Feast
+yuuna_tu - gains Curse
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Feast
+ForceOfWill - gains Feast
+ForceOfWill - draws Festival
+ForceOfWill - shuffles deck
+ForceOfWill - draws Copper, Copper, Feast, Silver
+ 
+---------- yuuna_tu: turn 19 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Silver
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Province, Curse
+yuuna_tu - plays Festival
+yuuna_tu - plays 2 Copper, 1 Silver
+yuuna_tu - buys Duchy
+yuuna_tu - gains Duchy
+yuuna_tu - draws Remodel, Copper, Festival, Laboratory, Copper
+ 
+---------- ForceOfWill: turn 19 ----------
+ForceOfWill - plays Festival
+ForceOfWill - plays Feast
+ForceOfWill - trashes Feast
+ForceOfWill - gains Duchy
+ForceOfWill - plays 2 Copper, 1 Silver
+ForceOfWill - buys Duchy
+ForceOfWill - gains Duchy
+ForceOfWill - draws Curse, Silver, Smithy, Remodel, Feast
+ 
+---------- yuuna_tu: turn 20 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Smithy, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Laboratory, Copper
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Festival, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Laboratory
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Silver
+yuuna_tu - plays Festival
+yuuna_tu - plays Smithy
+yuuna_tu - draws Militia, Curse, Estate
+yuuna_tu - plays Festival
+yuuna_tu - plays Militia
+ForceOfWill - discards Curse
+ForceOfWill - discards Smithy
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Curse
+yuuna_tu - gains Estate
+yuuna_tu - plays 5 Copper, 1 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Duchy
+yuuna_tu - gains Duchy
+yuuna_tu - draws Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Laboratory, Duchy, Copper
+ 
+---------- ForceOfWill: turn 20 ----------
+ForceOfWill - plays Feast
+ForceOfWill - trashes Feast
+ForceOfWill - gains Duchy
+ForceOfWill - plays 1 Silver
+ForceOfWill - buys Estate
+ForceOfWill - gains Estate
+ForceOfWill - draws Copper, Remodel, Gold, Copper, Witch
+ 
+---------- yuuna_tu: turn 21 ----------
+yuuna_tu - plays Laboratory
+yuuna_tu - draws Copper, Province
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Copper
+ForceOfWill - gains Curse
+yuuna_tu - plays 5 Copper
+yuuna_tu - buys Duchy
+yuuna_tu - gains Duchy
+yuuna_tu - draws Laboratory, Laboratory, Silver, Laboratory, Curse
+ 
+---------- ForceOfWill: turn 21 ----------
+ForceOfWill - plays Remodel
+ForceOfWill - trashes Witch
+ForceOfWill - gains Duchy
+ForceOfWill - plays 2 Copper, 1 Gold
+ForceOfWill - buys Duchy
+ForceOfWill - gains Duchy
+ForceOfWill - draws Curse, Estate, Estate, Copper, Laboratory
+ 
+------------ Game Over ------------
+yuuna_tu - cards: 7 Laboratory, 3 Festival, 1 Witch, 1 Militia, 1 Smithy, 1 Remodel, 7 Copper, 2 Silver, 3 Duchy, 2 Province, 2 Estate, 3 Curse
+yuuna_tu - total victory points: 20
+yuuna_tu - turns: 21
+ 
+ForceOfWill - cards: 4 Remodel, 3 Laboratory, 2 Festival, 1 Smithy, 1 Feast, 1 Militia, 7 Copper, 4 Silver, 1 Gold, 5 Duchy, 4 Estate, 5 Curse
+ForceOfWill - total victory points: 14
+ForceOfWill - turns: 21
+ 
+1st place: yuuna_tu
+2nd place: ForceOfWill
+ 
