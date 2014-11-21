@@ -1,0 +1,21 @@
+playerの初期設定
+
+[2014/11/20 22:47:39] ODA: 設定すべき定数群
+[2014/11/20 22:47:56] ODA: watchLogs.rb
+[2014/11/20 22:48:02] ODA: LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/00'
+BUYFEATURE_DIR = "gainWeight.txt"
+PLAYFEATURE_DIR = "playWeight.txt"
+[2014/11/20 22:48:30] ODA: LOGDIR...gokoのログが入るdirectory　自分で探してください
+[2014/11/20 22:48:52] ODA: BUYFEATURE_DIR 購入特徴料のファイル名
+[2014/11/20 22:49:03] ODA: PLAY アクションの(略
+[2014/11/20 22:49:14] ODA: gokoPLayer.rb
+[2014/11/20 22:49:21] ODA: BOT_NAME = "I am BOT"
+  PLAY_PROGRAM = "./a.out"
+  BUY_PROGRAM = "./a.out"
+[2014/11/20 22:49:44] ODA: BOT_NAME...プレイヤーの名前　ゲストだったら毎回変わるので注意
+[2014/11/20 22:50:21] ODA: PLAY_PROGRAM...playするカードを選ぶプログラムのディレクトリ。　データが更新されると自動的に呼ぶ
+[2014/11/20 22:50:33] ODA: BUY_PROGRAM..buyする(略
+[2014/11/20 22:50:44] ODA: 使い方
+[2014/11/20 22:51:07] ODA: gokoの試合を始める前に事前にwatchLogs.rbを起動しておく
+[2014/11/20 22:51:28] ODA: すると始まると自動的に端末に結果を表示して行くはず
+[2014/11/20 22:52:06] ODA: あとログナンバーが100を超えるとログディレクトリの番号が変わってしまうので注意
