@@ -1,10 +1,14 @@
-load("./cardData.rb")
+load("../../util/cardData.rb")
 
 class GokoLogParser
 
   #action使用に対する特徴料にするかbuyにたい汁物にするか
   MODE_BUY = 1
   MODE_ACTION = 2
+  MODE_ACTION_CELLAR = 3
+  #チカチョが使われたフラグなので最初から4を入れては行けない
+  #チカチョ学習なら3を指定してください
+  MODE_ACTION_CELLAR_ACTIVE = 4
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -18,7 +22,7 @@ class GokoLogParser
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION
+    @featureMode = MODE_ACTION_CELLAR
 
     @playerName = Array.new(2)
 
@@ -44,6 +48,9 @@ class GokoLogParser
     @pastFeature = Array.new(2)
     @pastFeature[0] = Array.new(0)
     @pastFeature[1] = Array.new(0)
+
+    @pastCellarDiscard = Array.new(0)
+    @pastCellarFeature = ""
 
     #generate zero Feature
     3.times{
@@ -80,6 +87,11 @@ class GokoLogParser
     shuffleflag = false
 
     log.each{|line|
+
+      if(@featureMode == MODE_ACTION_CELLAR_ACTIVE && !line.include?("discards"))
+        generateUseCellarFeature()
+        @featureMode = MODE_ACTION_CELLAR
+      end
       
       if(line.include?("Game Over"))
         currentPhase = PHASE_END
@@ -586,6 +598,11 @@ class GokoLogParser
         @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
       end
+
+      #チカチョめも
+      if(@featureMode == MODE_ACTION_CELLAR_ACTIVE)
+        @pastCellarDiscard.push(currentCard)
+      end
     }
   end
   
@@ -744,6 +761,26 @@ class GokoLogParser
     @output.write(resultString + "\n")
   end
 
+  def generateUseCellarFeature()
+    
+    # カード使用は敗者からも取っていい気がした
+    #if(@playerName[@currentPlayer] != @winner)
+    #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
+    #    return
+    #end
+
+    cardString = ""
+    @pastCellarDiscard.each{|card|
+      cardString = cardString + card.num.to_s + ","
+    }
+    cardString = cardString[0...-1]
+
+    resultString = @pastCellarFeature + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
   def parsePlayAction(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -782,6 +819,22 @@ class GokoLogParser
 	end
     end
 
+    #アクションしようログ生成
+    if(@featureMode == MODE_ACTION_CELLAR && pCard.name == "Cellar")
+      @featureMode = MODE_ACTION_CELLAR_ACTIVE
+      @pastCellarDiscard.clear()
+
+      feature = generateFeatureString();
+
+      handString = ""
+      for i in 0...MAX_CARDNUM do
+        for n in 0...@playerHand[@currentPlayer][i]
+          handString = handString + i.to_s + ","
+        end
+      end
+      handString = handString[0...-1]
+      @pastCellarFeature = feature + "/" + handString
+    end
   end
 
   def haveActionInHand()

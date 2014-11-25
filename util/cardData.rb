@@ -18,9 +18,11 @@ class CardData
 
   def initialize()
 
+    cuDir = File.expand_path(__FILE__).sub(/[^\/]+$/,'')
+
     @data = Hash.new
 
-    File.open("./cardData.csv", 'r') {|file|
+    File.open(cuDir + "/" + "cardData.csv", 'r') {|file|
       file.each_line{|line|
         data = line.split(",")
         pilenum = 10
