@@ -1,0 +1,293 @@
+------------ Game Setup ------------
+Supply cards: Workshop, Bureaucrat, Feast, Militia, Remodel, Spy, Festival, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+prutsert - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+prutsert - shuffles deck
+Rabid - shuffles deck
+prutsert - draws Copper, Estate, Copper, Copper, Estate
+Rabid - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- prutsert: turn 1 ----------
+prutsert - plays 3 Copper
+prutsert - buys Silver
+prutsert - gains Silver
+prutsert - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- prutsert: turn 2 ----------
+prutsert - plays 4 Copper
+prutsert - buys Militia
+prutsert - gains Militia
+prutsert - shuffles deck
+prutsert - draws Copper, Militia, Silver, Copper, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 5 Copper
+Rabid - buys Mine
+Rabid - gains Mine
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Copper, Mine, Copper
+ 
+---------- prutsert: turn 3 ----------
+prutsert - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+prutsert - plays 3 Copper, 1 Silver
+prutsert - buys Gold
+prutsert - gains Gold
+prutsert - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Mine
+Rabid - trashes Copper
+Rabid - gains Silver
+Rabid - plays 1 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- prutsert: turn 4 ----------
+prutsert - plays 3 Copper
+prutsert - buys Silver
+prutsert - gains Silver
+prutsert - draws Copper, Estate
+prutsert - shuffles deck
+prutsert - draws Silver, Militia, Silver
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Copper, Silver
+ 
+---------- prutsert: turn 5 ----------
+prutsert - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+prutsert - plays 2 Silver, 1 Copper
+prutsert - buys Gold
+prutsert - gains Gold
+prutsert - draws Copper, Copper, Copper, Copper, Gold
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Estate, Silver, Mine, Copper, Silver
+ 
+---------- prutsert: turn 6 ----------
+prutsert - plays 4 Copper, 1 Gold
+prutsert - buys Festival
+prutsert - gains Festival
+prutsert - draws Estate, Estate, Copper, Copper
+prutsert - shuffles deck
+prutsert - draws Copper
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Mine
+Rabid - trashes Silver
+Rabid - gains Gold
+Rabid - plays 1 Copper, 1 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Copper, Estate
+Rabid - shuffles deck
+Rabid - draws Copper, Silver
+ 
+---------- prutsert: turn 7 ----------
+prutsert - plays 3 Copper
+prutsert - buys Silver
+prutsert - gains Silver
+prutsert - draws Silver, Militia, Copper, Gold, Gold
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Gold, Copper, Gold, Silver, Estate
+ 
+---------- prutsert: turn 8 ----------
+prutsert - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+prutsert - plays 2 Gold, 1 Silver, 1 Copper
+prutsert - buys Province
+prutsert - gains Province
+prutsert - draws Copper, Festival, Silver, Estate, Copper
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays 2 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper, Remodel, Copper, Mine, Estate
+ 
+---------- prutsert: turn 9 ----------
+prutsert - plays Festival
+prutsert - plays 2 Copper, 1 Silver
+prutsert - buys Gold
+prutsert - gains Gold
+prutsert - draws Copper
+prutsert - shuffles deck
+prutsert - draws Silver, Gold, Gold, Festival
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Mine
+Rabid - trashes Copper
+Rabid - gains Silver
+Rabid - plays 1 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Gold, Silver, Estate, Province, Copper
+ 
+---------- prutsert: turn 10 ----------
+prutsert - plays Festival
+prutsert - plays 2 Gold, 1 Copper, 1 Silver
+prutsert - buys Province
+prutsert - gains Province
+prutsert - buys Silver
+prutsert - gains Silver
+prutsert - draws Silver, Gold, Estate, Copper, Copper
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays 1 Gold, 1 Silver, 1 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Silver, Gold, Remodel, Copper, Copper
+ 
+---------- prutsert: turn 11 ----------
+prutsert - plays 2 Copper, 1 Silver, 1 Gold
+prutsert - buys Remodel
+prutsert - gains Remodel
+prutsert - draws Copper, Copper, Militia, Estate, Copper
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Remodel
+Rabid - trashes Gold
+Rabid - gains Province
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Spy
+Rabid - gains Spy
+Rabid - draws Estate, Market, Mine, Silver, Copper
+ 
+---------- prutsert: turn 12 ----------
+prutsert - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+prutsert - plays 3 Copper
+prutsert - buys Militia
+prutsert - gains Militia
+prutsert - draws Silver, Estate, Copper, Province
+prutsert - shuffles deck
+prutsert - draws Silver
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Market
+Rabid - draws Silver
+Rabid - plays Mine
+Rabid - trashes Silver
+Rabid - gains Gold
+Rabid - plays 1 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Estate, Copper
+Rabid - shuffles deck
+Rabid - draws Gold, Copper, Gold
+ 
+---------- prutsert: turn 13 ----------
+prutsert - plays 2 Silver, 1 Copper
+prutsert - buys Festival
+prutsert - gains Festival
+prutsert - draws Gold, Copper, Estate, Festival, Remodel
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays 2 Copper, 2 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Gold, Province, Gold, Copper, Silver
+ 
+---------- prutsert: turn 14 ----------
+prutsert - plays Festival
+prutsert - plays Remodel
+prutsert - trashes Gold
+prutsert - gains Province
+prutsert - plays 1 Copper
+prutsert - buys Estate
+prutsert - gains Estate
+prutsert - draws Militia, Silver, Copper, Estate, Silver
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Gold
+Rabid - plays Silver
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Province, Silver, Silver, Estate, Estate
+ 
+---------- prutsert: turn 15 ----------
+prutsert - plays Militia
+Rabid - discards Province
+Rabid - discards Estate
+prutsert - plays 2 Silver, 1 Copper
+prutsert - buys Duchy
+prutsert - gains Duchy
+prutsert - draws Province, Copper, Copper, Gold, Copper
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays 2 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Mine, Copper, Spy, Market, Remodel
+ 
+---------- prutsert: turn 16 ----------
+prutsert - plays 3 Copper, 1 Gold
+prutsert - buys Duchy
+prutsert - gains Duchy
+prutsert - draws Gold, Copper, Militia
+prutsert - shuffles deck
+prutsert - draws Estate, Remodel
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Spy
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - discards Duchy
+prutsert - discards Gold
+Rabid - plays Market
+Rabid - draws Gold
+Rabid - plays Remodel
+Rabid - trashes Mine
+Rabid - gains Duchy
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Gold, Province, Silver, Silver, Silver
+ 
+---------- prutsert: turn 17 ----------
+prutsert - plays Remodel
+prutsert - trashes Gold
+prutsert - gains Province
+prutsert - draws Province, Silver, Copper, Province, Duchy
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays 3 Silver, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper, Province, Copper, Estate, Estate
+ 
+------------ Game Over ------------
+Rabid - cards: 2 Remodel, 1 Spy, 1 Market, 5 Copper, 4 Gold, 3 Silver, 4 Province, 3 Estate, 3 Duchy
+Rabid - total victory points: 36
+Rabid - turns: 17
+ 
+prutsert - cards: 2 Militia, 2 Festival, 1 Remodel, 7 Copper, 4 Silver, 1 Gold, 4 Province, 4 Estate, 2 Duchy
+prutsert - total victory points: 34
+prutsert - turns: 17
+ 
+1st place: Rabid
+2nd place: prutsert
+ 

@@ -1,0 +1,443 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Workshop, Bureaucrat, Smithy, Spy, Thief, Council Room, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yuuna_tu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+yuuna_tu - shuffles deck
+unicut - draws Copper, Estate, Copper, Copper, Estate
+yuuna_tu - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- yuuna_tu: turn 1 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Chapel
+yuuna_tu - gains Chapel
+yuuna_tu - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Chapel
+unicut - gains Chapel
+unicut - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 2 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Chapel, Village, Copper, Copper, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Smithy
+unicut - gains Smithy
+unicut - shuffles deck
+unicut - draws Chapel, Copper, Copper, Estate, Copper
+ 
+---------- yuuna_tu: turn 3 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Workshop
+yuuna_tu - gains Workshop
+yuuna_tu - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- unicut: turn 3 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Copper, Estate, Copper
+unicut - draws Estate, Smithy, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 4 ----------
+yuuna_tu - draws Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Estate, Workshop, Village
+ 
+---------- unicut: turn 4 ----------
+unicut - plays Smithy
+unicut - draws Copper, Estate
+unicut - shuffles deck
+unicut - draws Chapel
+unicut - plays 4 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - shuffles deck
+unicut - draws Copper, Chapel, Estate, Copper, Silver
+ 
+---------- yuuna_tu: turn 5 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Workshop
+yuuna_tu - gains Smithy
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Copper, Copper, Chapel, Estate, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Estate
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Village
+unicut - gains Village
+unicut - draws Estate, Smithy, Copper, Copper
+unicut - shuffles deck
+unicut - draws Silver
+ 
+---------- yuuna_tu: turn 6 ----------
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper, Copper, Estate, Copper
+yuuna_tu - draws Estate
+yuuna_tu - shuffles deck
+yuuna_tu - draws Workshop, Copper, Copper, Village
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Smithy
+unicut - draws Chapel, Village, Copper
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - shuffles deck
+unicut - draws Village, Market, Chapel, Copper, Copper
+ 
+---------- yuuna_tu: turn 7 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Estate
+yuuna_tu - plays Workshop
+yuuna_tu - gains Village
+yuuna_tu - draws Chapel, Smithy, Copper, Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Estate
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Village
+unicut - draws Smithy
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Smithy
+unicut - draws Estate, Silver
+unicut - plays Chapel
+unicut - trashes Estate
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - shuffles deck
+unicut - draws Silver, Village, Copper, Chapel, Smithy
+ 
+---------- yuuna_tu: turn 8 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Smithy
+yuuna_tu - draws Estate, Copper, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Workshop
+yuuna_tu - plays Workshop
+yuuna_tu - gains Smithy
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Estate, Estate
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Chapel, Copper, Workshop
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Village
+unicut - draws Copper
+unicut - plays Smithy
+unicut - draws Market, Gold, Copper
+unicut - plays Market
+unicut - plays Chapel
+unicut - trashes Copper, Copper, Copper
+unicut - plays 1 Silver, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - shuffles deck
+unicut - draws Market, Gold, Chapel, Smithy, Village
+ 
+---------- yuuna_tu: turn 9 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Smithy
+yuuna_tu - plays Smithy
+yuuna_tu - draws Copper, Smithy, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Workshop
+yuuna_tu - gains Workshop
+yuuna_tu - plays Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Workshop
+yuuna_tu - plays Workshop
+yuuna_tu - gains Silver
+yuuna_tu - plays Smithy
+yuuna_tu - shuffles deck
+yuuna_tu - draws Silver
+yuuna_tu - plays 3 Copper, 1 Silver
+yuuna_tu - buys Market
+yuuna_tu - gains Market
+yuuna_tu - shuffles deck
+yuuna_tu - draws Smithy, Village, Silver, Village, Smithy
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Village
+unicut - draws Silver
+unicut - plays Smithy
+unicut - draws Gold
+unicut - plays Market
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - buys Village
+unicut - gains Village
+unicut - shuffles deck
+unicut - draws Smithy, Market, Gold, Gold, Village
+ 
+---------- yuuna_tu: turn 10 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Market
+yuuna_tu - plays Market
+yuuna_tu - draws Copper
+yuuna_tu - plays Village
+yuuna_tu - draws Chapel
+yuuna_tu - plays Smithy
+yuuna_tu - draws Copper, Village, Workshop
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Workshop
+yuuna_tu - gains Village
+yuuna_tu - plays Smithy
+yuuna_tu - draws Workshop
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village
+yuuna_tu - plays Workshop
+yuuna_tu - gains Thief
+yuuna_tu - plays Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Thief
+yuuna_tu - plays Thief
+unicut - reveals: Chapel, Village
+unicut - discards: Chapel, Village
+yuuna_tu - plays 3 Copper, 1 Silver
+yuuna_tu - buys Gold
+yuuna_tu - gains Gold
+yuuna_tu - shuffles deck
+yuuna_tu - draws Workshop, Silver, Smithy, Chapel, Village
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Village
+unicut - draws Gold
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Smithy
+unicut - shuffles deck
+unicut - draws Chapel, Village
+unicut - plays Village
+unicut - plays 3 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Spy
+unicut - gains Spy
+unicut - shuffles deck
+unicut - draws Chapel, Silver, Province, Spy, Village
+ 
+---------- yuuna_tu: turn 11 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Smithy
+yuuna_tu - draws Village, Copper, Smithy
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Smithy
+yuuna_tu - draws Village, Workshop, Market
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Market
+yuuna_tu - draws Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Workshop
+yuuna_tu - gains Village
+yuuna_tu - plays Workshop
+yuuna_tu - gains Smithy
+yuuna_tu - plays Thief
+unicut - reveals: Village, Gold
+unicut - trashes Gold
+unicut - discards Village
+yuuna_tu - gains Gold
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper
+yuuna_tu - plays 2 Copper, 1 Silver, 1 Gold
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Gold, Workshop, Village, Copper
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Spy
+unicut - draws Smithy
+unicut - places Market on top of deck
+yuuna_tu - discards Village
+unicut - plays Village
+unicut - draws Market
+unicut - plays Smithy
+unicut - draws Gold, Gold
+unicut - shuffles deck
+unicut - draws Village
+unicut - plays Market
+unicut - plays Village
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - shuffles deck
+unicut - draws Province, Village, Province, Gold, Village
+ 
+---------- yuuna_tu: turn 12 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Province
+yuuna_tu - plays Village
+yuuna_tu - draws Market
+yuuna_tu - plays Market
+yuuna_tu - draws Smithy
+yuuna_tu - plays Smithy
+yuuna_tu - draws Village, Silver, Smithy
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Smithy
+yuuna_tu - draws Workshop, Chapel, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Smithy
+yuuna_tu - plays Smithy
+yuuna_tu - draws Copper, Gold
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village
+yuuna_tu - plays Workshop
+yuuna_tu - gains Village
+yuuna_tu - plays Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village
+yuuna_tu - plays Thief
+unicut - reveals: Smithy, Spy
+unicut - discards: Smithy, Spy
+yuuna_tu - plays Workshop
+yuuna_tu - gains Thief
+yuuna_tu - plays Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Thief
+yuuna_tu - plays Thief
+unicut - reveals: Gold, Silver
+unicut - trashes Gold
+unicut - discards Silver
+yuuna_tu - gains Gold
+yuuna_tu - plays Chapel
+yuuna_tu - trashes Copper, Copper
+yuuna_tu - plays 2 Gold, 1 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Smithy, Village, Market, Smithy
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Village
+unicut - draws Chapel
+unicut - plays Village
+unicut - draws Market
+unicut - plays Market
+unicut - shuffles deck
+unicut - draws Silver
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Smithy, Spy
+unicut - shuffles deck
+unicut - draws Village, Gold, Market
+ 
+---------- yuuna_tu: turn 13 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Market
+yuuna_tu - draws Smithy
+yuuna_tu - plays Village
+yuuna_tu - draws Gold
+yuuna_tu - plays Smithy
+yuuna_tu - draws Village, Workshop, Gold
+yuuna_tu - plays Smithy
+yuuna_tu - draws Gold, Workshop, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Province
+yuuna_tu - plays Smithy
+yuuna_tu - draws Thief, Province, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Silver
+yuuna_tu - plays Village
+yuuna_tu - draws Chapel
+yuuna_tu - plays Thief
+unicut - reveals: Village, Silver
+unicut - trashes Silver
+unicut - discards Village
+yuuna_tu - gains Silver
+yuuna_tu - plays Thief
+unicut - reveals: Chapel, Province
+unicut - discards: Chapel, Province
+yuuna_tu - plays Workshop
+yuuna_tu - gains Village
+yuuna_tu - plays 3 Gold, 1 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Smithy
+yuuna_tu - gains Smithy
+yuuna_tu - draws Village, Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Gold, Province, Workshop
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Village
+unicut - draws Province
+unicut - plays Spy
+unicut - draws Gold
+unicut - shuffles deck
+unicut - places Village on top of deck
+yuuna_tu - discards Silver
+unicut - plays Market
+unicut - draws Village
+unicut - plays Village
+unicut - draws Chapel
+unicut - plays Smithy
+unicut - draws Province
+unicut - shuffles deck
+unicut - draws Village, Gold, Smithy, Gold, Province
+ 
+---------- yuuna_tu: turn 14 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Smithy
+yuuna_tu - plays Village
+yuuna_tu - draws Gold
+yuuna_tu - plays Smithy
+yuuna_tu - draws Province, Smithy, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Chapel
+yuuna_tu - plays Smithy
+yuuna_tu - draws Gold, Silver, Thief
+ 
+------------ Game Over ------------
+yuuna_tu - cards: 5 Village, 2 Workshop, 2 Thief, 2 Smithy, 1 Chapel, 1 Market, 3 Gold, 2 Silver, 3 Province
+yuuna_tu - total victory points: 18
+yuuna_tu - turns: 13
+ 
+unicut - resigned
+unicut - cards: 2 Village, 1 Smithy, 1 Market, 1 Spy, 1 Chapel, 2 Gold, 2 Province
+unicut - total victory points: 12
+unicut - turns: 13
+ 
+1st place: yuuna_tu
+2nd place: unicut
+ 

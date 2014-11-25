@@ -1,0 +1,488 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Woodcutter, Workshop, Moneylender, Remodel, Smithy, Festival, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+dogo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dogo - shuffles deck
+hiroki - shuffles deck
+dogo - draws Estate, Copper, Copper, Estate, Copper
+hiroki - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dogo: turn 1 ----------
+dogo - plays 3 Copper
+dogo - buys Workshop
+dogo - gains Workshop
+dogo - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- dogo: turn 2 ----------
+dogo - plays 4 Copper
+dogo - buys Moneylender
+dogo - gains Moneylender
+dogo - shuffles deck
+dogo - draws Moneylender, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- dogo: turn 3 ----------
+dogo - plays Moneylender
+dogo - trashes Copper
+dogo - buys Silver
+dogo - gains Silver
+dogo - draws Copper, Workshop, Copper, Copper, Estate
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- dogo: turn 4 ----------
+dogo - plays Workshop
+dogo - gains Smithy
+dogo - plays 3 Copper
+dogo - buys Woodcutter
+dogo - gains Woodcutter
+dogo - draws Copper, Estate
+dogo - shuffles deck
+dogo - draws Workshop, Estate, Silver
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - draws Copper, Chapel
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Witch
+ 
+---------- dogo: turn 5 ----------
+dogo - plays Workshop
+dogo - gains Silver
+dogo - plays 1 Copper, 1 Silver
+dogo - buys Woodcutter
+dogo - gains Woodcutter
+dogo - draws Estate, Smithy, Copper, Copper, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dogo: turn 6 ----------
+dogo - plays Smithy
+dogo - draws Moneylender, Copper, Copper
+dogo - plays 5 Copper
+dogo - buys Mine
+dogo - gains Mine
+dogo - draws Woodcutter
+dogo - shuffles deck
+dogo - draws Copper, Mine, Copper, Copper
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 4 Copper
+hiroki - buys Moneylender
+hiroki - gains Moneylender
+hiroki - draws Copper, Silver, Silver, Estate
+hiroki - shuffles deck
+hiroki - draws Chapel
+ 
+---------- dogo: turn 7 ----------
+dogo - plays Woodcutter
+dogo - plays 3 Copper
+dogo - buys Witch
+dogo - gains Witch
+dogo - buys Copper
+dogo - gains Copper
+dogo - draws Smithy, Copper, Copper, Silver, Estate
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Copper, Copper, Witch, Copper, Copper
+ 
+---------- dogo: turn 8 ----------
+dogo - plays Smithy
+dogo - draws Silver, Workshop, Estate
+dogo - plays 2 Copper, 2 Silver
+dogo - buys Gold
+dogo - gains Gold
+dogo - draws Estate, Woodcutter, Moneylender, Copper
+dogo - shuffles deck
+dogo - draws Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Witch
+hiroki - draws Moneylender, Estate
+dogo - gains Curse
+hiroki - shuffles deck
+hiroki - draws Copper, Witch, Moneylender, Chapel, Copper
+ 
+---------- dogo: turn 9 ----------
+dogo - plays Woodcutter
+dogo - plays 2 Copper
+dogo - buys Moat
+dogo - gains Moat
+dogo - buys Chapel
+dogo - gains Chapel
+dogo - draws Copper, Copper, Silver, Witch, Copper
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Moneylender, Copper
+hiroki - draws Copper, Festival, Copper, Estate, Silver
+ 
+---------- dogo: turn 10 ----------
+dogo - plays Witch
+dogo - draws Copper, Gold
+hiroki - gains Curse
+dogo - plays 4 Copper, 1 Silver, 1 Gold
+dogo - buys Province
+dogo - gains Province
+dogo - draws Copper, Workshop, Mine, Estate, Woodcutter
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Festival
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Copper, Silver
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Festival
+ 
+---------- dogo: turn 11 ----------
+dogo - plays Mine
+dogo - trashes Copper
+dogo - gains Silver
+dogo - plays 1 Silver
+dogo - buys Moat
+dogo - gains Moat
+dogo - draws Silver, Smithy, Estate
+dogo - shuffles deck
+dogo - draws Estate, Mine
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Festival
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Witch, Silver, Curse, Copper, Chapel
+ 
+---------- dogo: turn 12 ----------
+dogo - plays Smithy
+dogo - draws Moneylender, Copper, Workshop
+dogo - plays 1 Silver, 1 Copper
+dogo - buys Silver
+dogo - gains Silver
+dogo - draws Woodcutter, Gold, Silver, Witch, Copper
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Curse
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Festival, Silver, Festival, Copper
+ 
+---------- dogo: turn 13 ----------
+dogo - plays Witch
+dogo - draws Moat, Estate
+hiroki - gains Curse
+dogo - plays 1 Gold, 1 Silver, 1 Copper
+dogo - buys Festival
+dogo - gains Festival
+dogo - draws Province, Copper, Copper, Moat, Copper
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 1 Silver, 1 Copper
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - draws Witch, Chapel, Silver, Estate, Copper
+ 
+---------- dogo: turn 14 ----------
+dogo - plays Moat
+dogo - draws Chapel, Woodcutter
+dogo - plays 3 Copper
+dogo - buys Silver
+dogo - gains Silver
+dogo - draws Silver, Copper, Curse
+dogo - shuffles deck
+dogo - draws Moat, Silver
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate
+hiroki - shuffles deck
+hiroki - draws Chapel, Smithy, Festival, Silver, Witch
+ 
+---------- dogo: turn 15 ----------
+dogo - plays Moat
+dogo - draws Woodcutter, Copper
+dogo - plays 2 Silver, 2 Copper
+dogo - buys Festival
+dogo - gains Festival
+dogo - draws Copper, Copper, Estate, Moneylender, Workshop
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Festival, Festival, Festival
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Copper
+dogo - gains Curse
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 2 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - buys Moat
+hiroki - gains Moat
+hiroki - draws Curse
+hiroki - shuffles deck
+hiroki - draws Festival, Moat, Festival, Smithy
+ 
+---------- dogo: turn 16 ----------
+dogo - plays Moneylender
+dogo - trashes Copper
+dogo - buys Silver
+dogo - gains Silver
+dogo - draws Witch, Silver, Estate, Silver, Chapel
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Silver, Festival, Chapel
+hiroki - plays Festival
+hiroki - plays Moat
+hiroki - draws Festival, Silver
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 2 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Festival, Smithy, Witch
+hiroki - shuffles deck
+hiroki - draws Moat, Smithy
+ 
+---------- dogo: turn 17 ----------
+dogo - plays Witch
+hiroki - reveals reaction Moat
+dogo - draws Moat, Copper
+dogo - plays 2 Silver, 1 Copper
+dogo - buys Festival
+dogo - gains Festival
+dogo - draws Woodcutter, Estate, Smithy, Festival, Silver
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Silver, Festival, Silver
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Festival, Silver, Festival
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Festival, Festival
+dogo - gains Curse
+hiroki - plays Festival
+hiroki - plays Moat
+hiroki - draws Chapel, Smithy
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 3 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - shuffles deck
+hiroki - draws Moat, Smithy, Smithy, Festival, Province
+ 
+---------- dogo: turn 18 ----------
+dogo - plays Festival
+dogo - plays Smithy
+dogo - draws Copper, Mine, Gold
+dogo - plays Woodcutter
+dogo - plays 1 Silver, 1 Copper, 1 Gold
+dogo - buys Province
+dogo - gains Province
+dogo - buys Moat
+dogo - gains Moat
+dogo - buys Copper
+dogo - gains Copper
+dogo - draws Province
+dogo - shuffles deck
+dogo - draws Copper, Copper, Estate, Province
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Silver, Smithy, Silver
+hiroki - plays Smithy
+hiroki - draws Festival, Smithy, Festival
+hiroki - plays 2 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Silver, Chapel, Festival, Festival, Witch
+ 
+---------- dogo: turn 19 ----------
+dogo - plays 2 Copper
+dogo - buys Chapel
+dogo - gains Chapel
+dogo - draws Gold, Estate, Woodcutter, Workshop, Woodcutter
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Festival, Festival
+dogo - gains Curse
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Silver, Province, Moat, Festival, Gold
+ 
+---------- dogo: turn 20 ----------
+dogo - plays Workshop
+dogo - gains Smithy
+dogo - plays 1 Gold
+dogo - buys Woodcutter
+dogo - gains Woodcutter
+dogo - draws Copper, Chapel, Copper, Silver, Silver
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Festival
+hiroki - plays Moat
+hiroki - draws Silver, Festival
+hiroki - plays Festival
+hiroki - plays 2 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Smithy, Smithy, Smithy, Festival, Festival
+ 
+---------- dogo: turn 21 ----------
+dogo - plays 2 Copper, 2 Silver
+dogo - buys Gold
+dogo - gains Gold
+dogo - draws Silver, Festival, Curse, Moneylender, Moat
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Chapel, Witch, Festival
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Province, Smithy, Festival
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Province, Silver
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Gold, Silver, Moat
+hiroki - plays Festival
+hiroki - plays Witch
+dogo - reveals reaction Moat
+hiroki - draws Festival, Province
+hiroki - plays Festival
+hiroki - plays Moat
+hiroki - draws Festival, Silver
+hiroki - plays Festival
+hiroki - plays 3 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - shuffles deck
+hiroki - draws Festival, Silver, Duchy, Silver, Smithy
+ 
+---------- dogo: turn 22 ----------
+dogo - plays Festival
+dogo - plays Moneylender
+dogo - plays Moat
+dogo - draws Moat, Copper
+dogo - plays 1 Silver, 1 Copper
+dogo - buys Witch
+dogo - gains Witch
+dogo - buys Copper
+dogo - gains Copper
+dogo - draws Copper, Festival, Witch, Silver, Smithy
+ 
+---------- hiroki: turn 22 ----------
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Province, Smithy, Smithy
+hiroki - plays Smithy
+hiroki - draws Moat, Estate, Province
+hiroki - plays 2 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Gold, Festival, Festival, Silver
+ 
+---------- dogo: turn 23 ----------
+dogo - plays Festival
+dogo - plays Smithy
+dogo - draws Silver, Curse, Moat
+dogo - plays Witch
+dogo - draws Silver, Estate
+hiroki - gains Curse
+dogo - plays 3 Silver, 1 Copper
+dogo - buys Province
+dogo - gains Province
+dogo - buys Copper
+dogo - gains Copper
+dogo - draws Curse, Festival, Mine
+dogo - shuffles deck
+dogo - draws Estate, Chapel
+ 
+------------ Game Over ------------
+hiroki - cards: 7 Festival, 4 Smithy, 1 Moat, 1 Chapel, 1 Witch, 3 Silver, 1 Gold, 5 Province, 2 Duchy, 1 Estate, 1 Curse
+hiroki - total victory points: 36
+hiroki - turns: 22
+ 
+dogo - cards: 3 Festival, 3 Woodcutter, 3 Moat, 2 Chapel, 2 Witch, 2 Smithy, 1 Mine, 1 Workshop, 1 Moneylender, 8 Copper, 6 Silver, 2 Gold, 3 Estate, 3 Province, 4 Curse
+dogo - total victory points: 17
+dogo - turns: 23
+ 
+1st place: hiroki
+2nd place: dogo
+ 

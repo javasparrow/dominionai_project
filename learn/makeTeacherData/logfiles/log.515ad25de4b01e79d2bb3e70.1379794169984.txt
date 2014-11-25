@@ -1,0 +1,784 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Chancellor, Bureaucrat, Gardens, Spy, Thief, Throne Room, Laboratory, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+Monsieur X - shuffles deck
+unicut - draws Estate, Copper, Copper, Estate, Copper
+Monsieur X - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Chapel
+unicut - gains Chapel
+unicut - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - shuffles deck
+unicut - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- unicut: turn 3 ----------
+unicut - plays 4 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - draws Estate, Estate, Copper, Copper, Chapel
+ 
+---------- unicut: turn 4 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Silver, Chapel
+unicut - shuffles deck
+unicut - draws Copper, Silver, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Estate, Estate
+Monsieur X - draws Market, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Copper, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays Chapel
+unicut - trashes Copper
+unicut - plays 2 Silver, 1 Copper
+unicut - buys Laboratory
+unicut - gains Laboratory
+unicut - draws Estate, Copper, Estate, Copper, Silver
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays 4 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Copper, Gold
+ 
+---------- unicut: turn 6 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Throne Room
+unicut - gains Throne Room
+unicut - draws Estate, Copper, Copper, Copper
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - plays 1 Gold
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Copper, Copper, Copper, Estate, Market
+ 
+---------- unicut: turn 7 ----------
+unicut - plays 4 Copper
+unicut - buys Spy
+unicut - gains Spy
+unicut - draws Throne Room, Silver, Silver, Silver, Laboratory
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Copper, Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Moat, Gold, Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Moat, Chapel
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Chapel, Estate
+unicut - plays Laboratory
+unicut - draws Estate, Copper
+unicut - plays Chapel
+unicut - trashes Copper, Estate, Estate
+unicut - plays 3 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper
+unicut - shuffles deck
+unicut - draws Silver, Chapel, Gold, Spy
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Copper, Market
+Monsieur X - plays Moat
+Monsieur X - plays 1 Gold, 1 Copper
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Copper, Gold, Market, Moat
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Copper
+unicut - places Silver on top of deck
+unicut - plays Chapel
+unicut - trashes Copper, Copper
+unicut - plays 1 Silver, 1 Gold
+unicut - buys Market
+unicut - gains Market
+unicut - draws Silver, Silver, Throne Room, Copper, Laboratory
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Chapel
+Monsieur X - plays Moat
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Gold
+Monsieur X - buys Thief
+Monsieur X - gains Thief
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Market, Moat, Moat, Chapel
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Copper, Estate
+unicut - plays Laboratory
+unicut - draws Copper
+unicut - shuffles deck
+unicut - draws Gold
+unicut - plays 3 Copper, 2 Silver, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Chapel, Spy, Market, Silver
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Thief
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Thief
+unicut - reveals: Copper, Gold
+unicut - trashes Gold
+unicut - discards Copper
+Monsieur X - gains Gold
+Monsieur X - plays Thief
+unicut - reveals: Laboratory, Silver
+unicut - trashes Silver
+unicut - discards Laboratory
+Monsieur X - gains Silver
+Monsieur X - plays Moat
+Monsieur X - draws Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Throne Room, Market, Moat
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Estate
+unicut - places Copper on top of deck
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Chapel
+unicut - trashes Copper, Estate, Copper
+unicut - draws Silver, Province, Throne Room
+unicut - shuffles deck
+unicut - draws Chapel, Silver
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Thief
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Moat, Market
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Throne Room
+Monsieur X - plays Thief
+unicut - reveals: Spy, Copper
+unicut - trashes Copper
+unicut - discards Spy
+Monsieur X - plays Thief
+unicut - reveals: Laboratory, Market
+unicut - discards: Laboratory, Market
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Market, Gold, Market
+ 
+---------- unicut: turn 12 ----------
+unicut - plays 2 Silver
+unicut - buys Thief
+unicut - gains Thief
+unicut - shuffles deck
+unicut - draws Market, Chapel, Silver, Laboratory, Thief
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Moat
+Monsieur X - draws Laboratory, Thief
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Moat
+Monsieur X - plays Thief
+unicut - reveals: Province, Silver
+unicut - trashes Silver
+unicut - discards Province
+Monsieur X - gains Silver
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Throne Room, Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Market, Throne Room
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Market
+unicut - draws Spy
+unicut - plays Spy
+unicut - draws Throne Room
+unicut - shuffles deck
+unicut - discards Province
+Monsieur X - discards Thief
+unicut - plays Laboratory
+unicut - shuffles deck
+unicut - draws Province
+unicut - plays Throne Room
+unicut - plays Thief
+Monsieur X - reveals: Moat, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards Moat
+unicut - gains Silver
+unicut - plays Thief
+Monsieur X - reveals: Market, Chapel
+Monsieur X - discards: Market, Chapel
+unicut - plays 1 Silver
+unicut - buys Silver
+unicut - gains Silver
+unicut - shuffles deck
+unicut - draws Spy, Thief, Market, Silver, Chapel
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Market, Moat
+Monsieur X - plays Moat
+Monsieur X - draws Laboratory, Moat
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Thief
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Market
+Monsieur X - plays Market
+Monsieur X - plays Thief
+unicut - reveals: Silver, Silver
+unicut - trashes Silver
+unicut - discards Silver
+Monsieur X - gains Silver
+Monsieur X - plays Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Monsieur X - plays 2 Silver, 2 Gold
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Throne Room, Moat, Market, Market
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Throne Room
+unicut - discards Province
+unicut - plays Throne Room
+unicut - plays Market
+unicut - draws Laboratory
+unicut - plays Market
+unicut - shuffles deck
+unicut - draws Province
+unicut - plays Laboratory
+unicut - draws Silver
+unicut - plays 2 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - shuffles deck
+unicut - draws Laboratory, Province, Throne Room, Spy, Thief
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Laboratory, Moat
+Monsieur X - plays Moat
+Monsieur X - draws Market, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Chapel, Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Moat
+Monsieur X - draws Thief, Moat
+Monsieur X - plays Throne Room
+Monsieur X - plays Thief
+unicut - reveals: Silver, Silver
+unicut - trashes Silver
+unicut - discards Silver
+Monsieur X - gains Silver
+Monsieur X - plays Thief
+unicut - reveals: Market, Chapel
+unicut - discards: Market, Chapel
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Moat
+Monsieur X - draws Market
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Monsieur X - plays 3 Silver, 2 Gold
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Market, Silver, Gold, Throne Room
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Spy
+unicut - draws Gold
+unicut - shuffles deck
+unicut - places Market on top of deck
+Monsieur X - discards Throne Room
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Market, Silver
+unicut - plays Laboratory
+unicut - draws Chapel
+unicut - plays Market
+unicut - plays Thief
+Monsieur X - reveals: Throne Room, Market
+Monsieur X - discards: Throne Room, Market
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Throne Room
+unicut - gains Throne Room
+unicut - buys Moat
+unicut - gains Moat
+unicut - shuffles deck
+unicut - draws Throne Room, Gold, Spy, Market, Thief
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Moat, Laboratory, Silver, Thief, Chapel
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Silver
+unicut - discards Province
+unicut - plays Throne Room
+unicut - plays Market
+unicut - draws Moat
+unicut - plays Market
+unicut - draws Chapel
+unicut - plays Thief
+Monsieur X - reveals reaction Moat
+unicut - plays Moat
+unicut - draws Laboratory, Throne Room
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - shuffles deck
+unicut - draws Spy, Chapel, Gold, Laboratory, Throne Room
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Market
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Thief
+unicut - reveals: Moat, Throne Room
+unicut - discards: Moat, Throne Room
+Monsieur X - plays 1 Silver
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Market, Silver, Market, Market, Market
+ 
+---------- unicut: turn 17 ----------
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Silver, Gold
+unicut - plays Laboratory
+unicut - draws Thief, Province
+unicut - plays Spy
+unicut - draws Market
+unicut - shuffles deck
+unicut - places Throne Room on top of deck
+Monsieur X - discards Moat
+unicut - plays Market
+unicut - draws Throne Room
+unicut - plays Throne Room
+unicut - plays Thief
+Monsieur X - reveals: Market, Market
+Monsieur X - discards: Market, Market
+unicut - plays Thief
+Monsieur X - shuffles deck
+Monsieur X - reveals: Gold, Laboratory
+Monsieur X - trashes Gold
+Monsieur X - discards Laboratory
+unicut - gains Gold
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Moat
+unicut - shuffles deck
+unicut - draws Laboratory, Province, Throne Room, Province
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Moat
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Thief, Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Market, Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Moat
+Monsieur X - draws Moat, Market
+Monsieur X - plays Thief
+unicut - reveals reaction Moat
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays Moat
+Monsieur X - draws Throne Room, Silver
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - plays Market
+Monsieur X - plays 3 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Moat, Province, Market, Market, Thief
+ 
+---------- unicut: turn 18 ----------
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Spy, Throne Room
+unicut - plays Laboratory
+unicut - draws Silver, Market
+unicut - plays Throne Room
+unicut - plays Market
+unicut - draws Gold
+unicut - plays Market
+unicut - draws Gold
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Gold
+unicut - discards Chapel
+unicut - plays Moat
+unicut - draws Thief
+unicut - shuffles deck
+unicut - draws Chapel
+unicut - plays Thief
+Monsieur X - reveals reaction Moat
+unicut - plays 3 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - shuffles deck
+unicut - draws Throne Room, Laboratory, Province, Silver, Chapel
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Thief
+unicut - reveals: Gold, Moat
+unicut - trashes Gold
+unicut - discards Moat
+Monsieur X - gains Gold
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Moat, Market, Throne Room, Throne Room, Moat
+ 
+---------- unicut: turn 19 ----------
+unicut - plays Throne Room
+unicut - plays Laboratory
+unicut - draws Spy, Gold
+unicut - plays Laboratory
+unicut - draws Gold, Province
+unicut - plays Spy
+Monsieur X - reveals reaction Moat
+unicut - draws Market
+unicut - places Thief on top of deck
+unicut - plays Market
+unicut - draws Thief
+unicut - plays Thief
+Monsieur X - reveals reaction Moat
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Duchy, Province, Throne Room
+unicut - shuffles deck
+unicut - draws Spy, Province
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Moat
+Monsieur X - draws Market, Moat
+Monsieur X - plays Moat
+Monsieur X - draws Silver, Laboratory
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Chapel
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Province
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Silver
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Market, Gardens
+Monsieur X - plays Moat
+Monsieur X - draws Moat, Gardens
+Monsieur X - plays Moat
+Monsieur X - draws Market, Thief
+Monsieur X - plays Moat
+Monsieur X - draws Gold, Copper
+Monsieur X - plays Moat
+Monsieur X - draws Copper, Silver
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Thief
+unicut - reveals: Province, Gold
+unicut - trashes Gold
+unicut - discards Province
+Monsieur X - gains Gold
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Gold
+Monsieur X - plays 3 Silver, 3 Gold, 3 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Silver, Gardens, Copper, Copper
+ 
+------------ Game Over ------------
+Monsieur X - cards: 9 Market, 6 Throne Room, 6 Moat, 3 Laboratory, 11 Copper, 1 Thief, 1 Chapel, 3 Silver, 3 Gold, 5 Gardens, 4 Province, 1 Estate
+Monsieur X - total victory points: 50
+Monsieur X - turns: 19
+ 
+unicut - cards: 2 Throne Room, 1 Spy, 1 Market, 1 Moat, 1 Laboratory, 1 Chapel, 1 Thief, 1 Gold, 1 Silver, 4 Province, 1 Duchy
+unicut - total victory points: 27
+unicut - turns: 19
+ 
+1st place: Monsieur X
+2nd place: unicut
+ 

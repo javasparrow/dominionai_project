@@ -1,0 +1,404 @@
+------------ Game Setup ------------
+Supply cards: Bureaucrat, Gardens, Militia, Smithy, Spy, Council Room, Laboratory, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fuu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Fuu - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Copper, Estate
+Fuu - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Fuu: turn 1 ----------
+Fuu - plays 3 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Fuu: turn 2 ----------
+Fuu - plays 4 Copper
+Fuu - buys Militia
+Fuu - gains Militia
+Fuu - shuffles deck
+Fuu - draws Copper, Copper, Estate, Militia, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Fuu: turn 3 ----------
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Fuu - plays 3 Copper
+Fuu - buys Witch
+Fuu - gains Witch
+Fuu - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Fuu: turn 4 ----------
+Fuu - plays 3 Copper, 1 Silver
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Estate, Copper
+Fuu - shuffles deck
+Fuu - draws Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Estate
+ 
+---------- Fuu: turn 5 ----------
+Fuu - plays 3 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Silver, Copper, Laboratory, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Fuu: turn 6 ----------
+Fuu - plays Laboratory
+Fuu - draws Militia, Estate
+Fuu - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Fuu - plays 3 Copper, 1 Silver
+Fuu - buys Gold
+Fuu - gains Gold
+Fuu - draws Witch, Copper
+Fuu - shuffles deck
+Fuu - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Witch, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Silver
+ 
+---------- Fuu: turn 7 ----------
+Fuu - plays Witch
+Fuu - draws Copper, Estate
+Monsieur X - gains Curse
+Fuu - plays 5 Copper
+Fuu - buys Witch
+Fuu - gains Witch
+Fuu - draws Silver, Estate, Laboratory, Copper, Silver
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Estate
+Fuu - gains Curse
+Monsieur X - plays 3 Copper, 2 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Fuu: turn 8 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Estate
+Fuu - plays 2 Silver, 2 Copper
+Fuu - buys Gold
+Fuu - gains Gold
+Fuu - draws Gold, Militia
+Fuu - shuffles deck
+Fuu - draws Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Estate, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Curse
+ 
+---------- Fuu: turn 9 ----------
+Fuu - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Fuu - plays 2 Copper, 1 Gold
+Fuu - buys Gold
+Fuu - gains Gold
+Fuu - draws Silver, Laboratory, Copper, Curse, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Silver, Copper, Estate, Witch
+ 
+---------- Fuu: turn 10 ----------
+Fuu - plays Laboratory
+Fuu - draws Gold, Silver
+Fuu - plays 2 Silver, 1 Copper, 1 Gold
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Copper, Copper, Witch, Copper, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+Fuu - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Witch, Silver, Copper, Copper
+ 
+---------- Fuu: turn 11 ----------
+Fuu - plays Witch
+Fuu - draws Witch, Estate
+Monsieur X - gains Curse
+Fuu - plays 4 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - shuffles deck
+Fuu - draws Copper, Province, Laboratory, Copper, Curse
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Fuu - gains Curse
+Monsieur X - plays 4 Copper, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Witch, Silver, Copper, Copper, Estate
+ 
+---------- Fuu: turn 12 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Copper
+Fuu - plays 4 Copper
+Fuu - buys Silver
+Fuu - gains Silver
+Fuu - draws Militia, Estate, Gold, Silver, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Estate
+Fuu - gains Curse
+Monsieur X - plays 2 Silver, 2 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Curse, Silver, Copper, Silver, Silver
+ 
+---------- Fuu: turn 13 ----------
+Fuu - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Copper
+Fuu - plays 1 Gold, 1 Silver, 1 Copper
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Silver, Curse, Gold, Estate, Silver
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays 3 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Curse, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Curse, Silver, Estate
+ 
+---------- Fuu: turn 14 ----------
+Fuu - plays 2 Silver, 1 Gold
+Fuu - buys Gold
+Fuu - gains Gold
+Fuu - draws Copper, Gold, Witch, Copper, Witch
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Silver, Silver, Witch, Copper, Copper
+ 
+---------- Fuu: turn 15 ----------
+Fuu - plays Witch
+Fuu - draws Estate
+Fuu - shuffles deck
+Fuu - draws Province
+Monsieur X - gains Curse
+Fuu - plays 2 Copper, 1 Gold
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Militia, Silver, Silver, Curse, Estate
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Province
+Fuu - gains Curse
+Monsieur X - plays 3 Copper, 2 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Witch, Copper, Copper, Gold, Silver
+ 
+---------- Fuu: turn 16 ----------
+Fuu - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Fuu - plays 2 Silver
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - draws Curse, Province, Silver, Copper, Gold
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Estate
+Fuu - gains Curse
+Monsieur X - plays 2 Silver, 1 Gold
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - draws Gold, Copper, Silver, Copper, Silver
+ 
+---------- Fuu: turn 17 ----------
+Fuu - plays 1 Silver, 1 Copper, 1 Gold
+Fuu - buys Laboratory
+Fuu - gains Laboratory
+Fuu - draws Curse, Laboratory, Curse, Estate, Copper
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays 2 Copper, 2 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Fuu: turn 18 ----------
+Fuu - plays Laboratory
+Fuu - draws Gold, Copper
+Fuu - plays 2 Copper, 1 Gold
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - draws Copper, Silver, Copper, Gold
+Fuu - shuffles deck
+Fuu - draws Copper
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Province, Copper, Estate, Curse
+ 
+---------- Fuu: turn 19 ----------
+Fuu - plays 3 Copper, 1 Silver, 1 Gold
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Copper, Gold, Laboratory, Curse, Gold
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold, Silver, Duchy, Copper, Copper
+ 
+---------- Fuu: turn 20 ----------
+Fuu - plays Laboratory
+Fuu - draws Duchy, Silver
+Fuu - plays 2 Gold, 1 Copper, 1 Silver
+Fuu - buys Province
+Fuu - gains Province
+Fuu - draws Laboratory, Duchy, Estate, Copper, Curse
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Province, Gold, Silver, Silver
+ 
+---------- Fuu: turn 21 ----------
+Fuu - plays Laboratory
+Fuu - draws Copper, Province
+Fuu - plays 2 Copper
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Gold, Laboratory, Estate, Militia, Province
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays 3 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Estate, Copper, Copper, Curse, Witch
+ 
+---------- Fuu: turn 22 ----------
+Fuu - plays Laboratory
+Fuu - draws Witch, Curse
+Fuu - plays Witch
+Fuu - draws Estate, Witch
+Monsieur X - gains Curse
+Fuu - plays Gold
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Copper, Curse, Silver, Curse, Curse
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Council Room, Witch, Curse, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Curse
+ 
+---------- Fuu: turn 23 ----------
+Fuu - plays 1 Copper, 1 Silver
+Fuu - buys Estate
+Fuu - gains Estate
+Fuu - draws Silver
+Fuu - shuffles deck
+Fuu - draws Curse, Gold, Witch, Laboratory
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Council Room
+Monsieur X - draws Duchy, Duchy, Estate, Estate
+Fuu - draws Witch
+Monsieur X - plays 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Estate, Silver, Copper, Silver, Gold
+ 
+---------- Fuu: turn 24 ----------
+Fuu - plays Laboratory
+Fuu - draws Silver, Duchy
+Fuu - plays Witch
+Fuu - draws Curse, Province
+Fuu - plays 2 Silver, 1 Gold
+Fuu - buys Duchy
+Fuu - gains Duchy
+Fuu - draws Duchy, Copper, Curse, Copper, Copper
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays 2 Silver, 1 Copper, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Duchy, Copper, Curse, Province, Curse
+ 
+------------ Game Over ------------
+Monsieur X - cards: 2 Witch, 10 Copper, 1 Council Room, 7 Silver, 2 Gold, 5 Estate, 4 Province, 3 Duchy, 4 Curse
+Monsieur X - total victory points: 34
+Monsieur X - turns: 24
+ 
+Fuu - cards: 3 Laboratory, 2 Witch, 1 Militia, 7 Copper, 4 Silver, 4 Gold, 6 Estate, 4 Province, 3 Duchy, 6 Curse
+Fuu - total victory points: 33
+Fuu - turns: 24
+ 
+1st place: Monsieur X
+2nd place: Fuu
+ 

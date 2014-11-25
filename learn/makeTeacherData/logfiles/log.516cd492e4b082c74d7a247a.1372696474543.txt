@@ -1,0 +1,585 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Village, Smithy, Spy, Festival, Library, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Bobby Madness - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Bobby Madness - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Copper, Estate
+Bobby Madness - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Bobby Madness: turn 1 ----------
+Bobby Madness - plays 4 Copper
+Bobby Madness - buys Smithy
+Bobby Madness - gains Smithy
+Bobby Madness - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Bobby Madness: turn 2 ----------
+Bobby Madness - plays 3 Copper
+Bobby Madness - buys Village
+Bobby Madness - gains Village
+Bobby Madness - shuffles deck
+Bobby Madness - draws Estate, Copper, Smithy, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Silver, Estate, Chapel, Estate
+ 
+---------- Bobby Madness: turn 3 ----------
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate, Copper, Copper
+Bobby Madness - plays 4 Copper
+Bobby Madness - buys Silver
+Bobby Madness - gains Silver
+Bobby Madness - draws Copper, Copper, Village, Copper
+Bobby Madness - shuffles deck
+Bobby Madness - draws Smithy
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Estate, Estate
+Monsieur X - plays 1 Silver
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Bobby Madness: turn 4 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Copper
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate, Silver, Copper
+Bobby Madness - plays 5 Copper, 1 Silver
+Bobby Madness - buys Gold
+Bobby Madness - gains Gold
+Bobby Madness - draws Copper, Copper, Estate, Estate
+Bobby Madness - shuffles deck
+Bobby Madness - draws Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Copper
+ 
+---------- Bobby Madness: turn 5 ----------
+Bobby Madness - plays 3 Copper
+Bobby Madness - buys Silver
+Bobby Madness - gains Silver
+Bobby Madness - draws Copper, Silver, Village, Copper, Gold
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Chapel, Festival, Cellar, Copper, Copper
+ 
+---------- Bobby Madness: turn 6 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Smithy
+Bobby Madness - plays Smithy
+Bobby Madness - draws Copper, Copper, Estate
+Bobby Madness - plays 4 Copper, 1 Silver, 1 Gold
+Bobby Madness - buys Province
+Bobby Madness - gains Province
+Bobby Madness - shuffles deck
+Bobby Madness - draws Copper, Silver, Smithy, Copper, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - draws Copper
+Monsieur X - plays Festival
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Festival, Copper, Silver, Copper
+ 
+---------- Bobby Madness: turn 7 ----------
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate, Estate, Copper
+Bobby Madness - plays 4 Copper, 1 Silver
+Bobby Madness - buys Gold
+Bobby Madness - gains Gold
+Bobby Madness - draws Copper, Copper, Copper, Province, Estate
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - draws Gold
+Monsieur X - plays 1 Silver, 1 Copper, 1 Gold
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Copper, Copper, Chapel, Copper, Cellar
+ 
+---------- Bobby Madness: turn 8 ----------
+Bobby Madness - plays 3 Copper
+Bobby Madness - buys Village
+Bobby Madness - gains Village
+Bobby Madness - draws Gold, Silver, Village
+Bobby Madness - shuffles deck
+Bobby Madness - draws Village, Silver
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Cellar, Cellar, Copper, Silver
+ 
+---------- Bobby Madness: turn 9 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Copper
+Bobby Madness - plays Village
+Bobby Madness - draws Estate
+Bobby Madness - plays 2 Silver, 1 Gold, 1 Copper
+Bobby Madness - buys Province
+Bobby Madness - gains Province
+Bobby Madness - draws Gold, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - discards Silver
+Monsieur X - draws Village, Chapel
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Festival
+Bobby Madness - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays 1 Gold, 1 Copper
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Chapel, Copper, Gold, Copper
+ 
+---------- Bobby Madness: turn 10 ----------
+Bobby Madness - plays 3 Copper, 1 Gold
+Bobby Madness - buys Festival
+Bobby Madness - gains Festival
+Bobby Madness - draws Smithy, Province, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Witch
+Bobby Madness - gains Curse
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Festival, Cellar, Village, Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Witch
+ 
+---------- Bobby Madness: turn 11 ----------
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate
+Bobby Madness - shuffles deck
+Bobby Madness - draws Estate, Copper
+Bobby Madness - plays 4 Copper
+Bobby Madness - buys Smithy
+Bobby Madness - gains Smithy
+Bobby Madness - draws Gold, Village, Copper, Province, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Witch
+Bobby Madness - gains Curse
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Gold
+Bobby Madness - gains Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - draws Chapel
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - plays 2 Gold
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Festival, Chapel, Village
+ 
+---------- Bobby Madness: turn 12 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Festival
+Bobby Madness - plays Festival
+Bobby Madness - plays 2 Copper, 1 Gold
+Bobby Madness - buys Witch
+Bobby Madness - gains Witch
+Bobby Madness - buys Cellar
+Bobby Madness - gains Cellar
+Bobby Madness - draws Silver, Curse, Village, Gold, Estate
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Festival
+Monsieur X - discards Chapel
+Monsieur X - discards Gold
+Monsieur X - draws Gold, Witch, Village, Witch
+Monsieur X - plays Witch
+Monsieur X - draws Cellar, Festival
+Bobby Madness - gains Curse
+Monsieur X - plays Village
+Monsieur X - shuffles deck
+Monsieur X - draws Festival
+Monsieur X - plays Witch
+Monsieur X - draws Chapel, Gold
+Bobby Madness - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - draws Silver
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Smithy, Market, Witch, Cellar, Festival
+ 
+---------- Bobby Madness: turn 13 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Curse
+Bobby Madness - plays 1 Silver, 1 Gold
+Bobby Madness - buys Festival
+Bobby Madness - gains Festival
+Bobby Madness - draws Silver, Copper
+Bobby Madness - shuffles deck
+Bobby Madness - draws Estate, Village, Smithy
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Silver
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Witch, Silver, Chapel
+Monsieur X - plays Witch
+Monsieur X - draws Cellar, Festival
+Bobby Madness - gains Curse
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Village
+Bobby Madness - gains Curse
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays 2 Silver, 2 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Smithy, Market, Witch, Silver
+ 
+---------- Bobby Madness: turn 14 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Cellar
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate, Gold, Copper
+Bobby Madness - plays Cellar
+Bobby Madness - discards Copper
+Bobby Madness - discards Estate
+Bobby Madness - discards Estate
+Bobby Madness - discards Copper
+Bobby Madness - draws Curse, Curse, Province, Curse
+Bobby Madness - plays 1 Silver, 1 Gold
+Bobby Madness - buys Library
+Bobby Madness - gains Library
+Bobby Madness - draws Gold, Province, Copper, Festival, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Gold
+Monsieur X - discards Witch
+Monsieur X - draws Village, Witch, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver, Smithy, Village
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Gold, Cellar, Gold
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Witch
+Monsieur X - draws Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Witch
+Bobby Madness - gains Curse
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Witch
+Monsieur X - draws Silver
+Bobby Madness - gains Curse
+Monsieur X - plays 3 Gold, 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Market, Gold, Chapel, Smithy
+ 
+---------- Bobby Madness: turn 15 ----------
+Bobby Madness - plays Festival
+Bobby Madness - plays 2 Copper, 1 Gold
+Bobby Madness - buys Festival
+Bobby Madness - gains Festival
+Bobby Madness - buys Chapel
+Bobby Madness - gains Chapel
+Bobby Madness - draws Witch, Silver, Curse, Festival, Village
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Village, Village, Market
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Witch
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Smithy
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Gold, Gold
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver, Village, Cellar
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Witch
+Monsieur X - plays 4 Gold, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Silver, Witch, Village, Market
+ 
+---------- Bobby Madness: turn 16 ----------
+Bobby Madness - plays Village
+Bobby Madness - draws Smithy
+Bobby Madness - plays Festival
+Bobby Madness - plays Smithy
+Bobby Madness - draws Estate, Copper, Curse
+Bobby Madness - plays Witch
+Bobby Madness - draws Curse, Copper
+Bobby Madness - plays 2 Copper, 1 Silver
+Bobby Madness - buys Smithy
+Bobby Madness - gains Smithy
+Bobby Madness - buys Cellar
+Bobby Madness - gains Cellar
+Bobby Madness - draws Copper
+Bobby Madness - shuffles deck
+Bobby Madness - draws Province, Estate, Silver, Estate
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Market
+Monsieur X - draws Gold
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Gold
+Monsieur X - plays 4 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Witch, Province, Village, Festival, Village
+ 
+---------- Bobby Madness: turn 17 ----------
+Bobby Madness - plays 1 Copper, 1 Silver
+Bobby Madness - buys Village
+Bobby Madness - gains Village
+Bobby Madness - draws Curse, Festival, Witch, Curse, Province
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Village, Market, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Village
+Monsieur X - draws Cellar
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Village
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Smithy
+Monsieur X - draws Cellar, Smithy, Silver
+Monsieur X - plays Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Witch, Market
+Monsieur X - plays Market
+Monsieur X - draws Chapel
+Monsieur X - plays Witch
+Monsieur X - draws Gold, Province
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Province
+Monsieur X - discards Chapel
+Monsieur X - discards Cellar
+Monsieur X - draws Gold, Smithy, Village, Gold
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays 6 Gold, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Province, Province, Festival, Witch, Gold
+ 
+---------- Bobby Madness: turn 18 ----------
+Bobby Madness - plays Festival
+Bobby Madness - plays Witch
+Bobby Madness - draws Curse, Chapel
+Bobby Madness - plays Chapel
+Bobby Madness - trashes Curse, Province, Curse, Curse
+Bobby Madness - buys Chapel
+Bobby Madness - gains Chapel
+Bobby Madness - draws Festival, Copper, Copper, Curse, Festival
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Witch
+Monsieur X - draws Province, Estate
+Monsieur X - plays 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Festival, Silver, Cellar, Smithy, Smithy
+ 
+---------- Bobby Madness: turn 19 ----------
+Bobby Madness - plays Festival
+Bobby Madness - plays Festival
+Bobby Madness - plays 2 Copper
+Bobby Madness - buys Gold
+Bobby Madness - gains Gold
+Bobby Madness - buys Copper
+Bobby Madness - gains Copper
+Bobby Madness - buys Copper
+Bobby Madness - gains Copper
+Bobby Madness - draws Copper, Curse, Gold, Smithy, Village
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Market, Cellar, Smithy
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Silver
+Monsieur X - draws Village, Cellar
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Smithy
+Monsieur X - draws Chapel, Gold, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Chapel
+Monsieur X - discards Silver
+Monsieur X - draws Province, Village
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Smithy
+Monsieur X - draws Village, Market, Estate
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Estate
+Monsieur X - draws Smithy, Witch
+Monsieur X - plays Village
+Monsieur X - draws Gold
+Monsieur X - plays Smithy
+Monsieur X - draws Village
+Monsieur X - shuffles deck
+Monsieur X - draws Province, Duchy
+Monsieur X - plays Village
+Monsieur X - draws Province
+Monsieur X - plays Witch
+Monsieur X - draws Province, Gold
+Monsieur X - plays 6 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate, Silver, Chapel, Silver, Estate
+ 
+------------ Game Over ------------
+Monsieur X - cards: 5 Village, 4 Smithy, 3 Cellar, 2 Festival, 2 Market, 2 Witch, 1 Chapel, 6 Gold, 2 Silver, 6 Province, 3 Estate, 3 Duchy
+Monsieur X - total victory points: 48
+Monsieur X - turns: 19
+ 
+Bobby Madness - cards: 3 Smithy, 3 Village, 3 Festival, 2 Chapel, 2 Cellar, 1 Witch, 1 Library, 9 Copper, 3 Gold, 2 Silver, 3 Estate, 1 Province, 7 Curse
+Bobby Madness - total victory points: 2
+Bobby Madness - turns: 19
+ 
+1st place: Monsieur X
+2nd place: Bobby Madness
+ 

@@ -1,0 +1,295 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Workshop, Bureaucrat, Feast, Gardens, Militia, Laboratory, Library, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+LeBronius - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LeBronius - shuffles deck
+jog - shuffles deck
+LeBronius - draws Copper, Copper, Copper, Copper, Estate
+jog - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- jog: turn 1 ----------
+jog - plays 3 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- LeBronius: turn 1 ----------
+LeBronius - plays 4 Copper
+LeBronius - buys Militia
+LeBronius - gains Militia
+LeBronius - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- jog: turn 2 ----------
+jog - plays 4 Copper
+jog - buys Feast
+jog - gains Feast
+jog - shuffles deck
+jog - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- LeBronius: turn 2 ----------
+LeBronius - plays 3 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - shuffles deck
+LeBronius - draws Copper, Silver, Estate, Estate, Militia
+ 
+---------- jog: turn 3 ----------
+jog - plays 3 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Estate, Copper, Feast, Copper, Copper
+ 
+---------- LeBronius: turn 3 ----------
+LeBronius - plays Militia
+jog - discards Estate
+jog - discards Copper
+LeBronius - plays 1 Copper, 1 Silver
+LeBronius - buys Market
+LeBronius - gains Market
+LeBronius - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 4 ----------
+jog - plays Feast
+jog - trashes Feast
+jog - gains Market
+jog - plays 2 Copper
+jog - buys Copper
+jog - gains Copper
+jog - draws Workshop, Copper
+jog - shuffles deck
+jog - draws Copper, Estate, Copper
+ 
+---------- LeBronius: turn 4 ----------
+LeBronius - plays 4 Copper
+LeBronius - buys Feast
+LeBronius - gains Feast
+LeBronius - draws Copper, Copper
+LeBronius - shuffles deck
+LeBronius - draws Estate, Feast, Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays Workshop
+jog - gains Gardens
+jog - plays 3 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Copper, Copper, Copper, Estate, Workshop
+ 
+---------- LeBronius: turn 5 ----------
+LeBronius - plays Feast
+LeBronius - trashes Feast
+LeBronius - gains Market
+LeBronius - plays 3 Copper
+LeBronius - buys Chapel
+LeBronius - gains Chapel
+LeBronius - draws Copper, Estate, Market, Silver, Militia
+ 
+---------- jog: turn 6 ----------
+jog - plays Workshop
+jog - gains Gardens
+jog - plays 3 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Copper, Market, Estate, Copper
+jog - shuffles deck
+jog - draws Workshop
+ 
+---------- LeBronius: turn 6 ----------
+LeBronius - plays Market
+LeBronius - draws Copper
+LeBronius - plays Militia
+jog - discards Estate
+jog - discards Copper
+LeBronius - plays 2 Copper, 1 Silver
+LeBronius - buys Gold
+LeBronius - gains Gold
+LeBronius - draws Copper, Copper, Estate
+LeBronius - shuffles deck
+LeBronius - draws Estate, Copper
+ 
+---------- jog: turn 7 ----------
+jog - plays Market
+jog - draws Copper
+jog - plays Workshop
+jog - gains Gardens
+jog - plays 2 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Workshop, Gardens, Copper, Workshop, Copper
+ 
+---------- LeBronius: turn 7 ----------
+LeBronius - plays 3 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Militia, Gold, Copper, Market, Copper
+ 
+---------- jog: turn 8 ----------
+jog - plays Workshop
+jog - gains Gardens
+jog - plays 2 Copper
+jog - buys Copper
+jog - gains Copper
+jog - draws Workshop, Estate, Copper, Gardens, Copper
+ 
+---------- LeBronius: turn 8 ----------
+LeBronius - plays Market
+LeBronius - draws Chapel
+LeBronius - plays Militia
+jog - discards Estate
+jog - discards Gardens
+LeBronius - plays 2 Copper, 1 Gold
+LeBronius - buys Gardens
+LeBronius - gains Gardens
+LeBronius - buys Gardens
+LeBronius - gains Gardens
+LeBronius - draws Copper, Estate, Market, Silver, Copper
+ 
+---------- jog: turn 9 ----------
+jog - plays Workshop
+jog - gains Gardens
+jog - plays 2 Copper
+jog - buys Estate
+jog - gains Estate
+jog - draws Copper, Estate
+jog - shuffles deck
+jog - draws Workshop, Workshop, Gardens
+ 
+---------- LeBronius: turn 9 ----------
+LeBronius - plays Market
+LeBronius - shuffles deck
+LeBronius - draws Gold
+LeBronius - plays 2 Copper, 1 Silver, 1 Gold
+LeBronius - buys Gardens
+LeBronius - gains Gardens
+LeBronius - buys Feast
+LeBronius - gains Feast
+LeBronius - draws Chapel, Silver, Copper, Gardens, Gardens
+ 
+---------- jog: turn 10 ----------
+jog - plays Workshop
+jog - gains Workshop
+jog - plays 1 Copper
+jog - buys Copper
+jog - gains Copper
+jog - draws Copper, Copper, Copper, Market, Copper
+ 
+---------- LeBronius: turn 10 ----------
+LeBronius - plays 1 Silver, 1 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Market, Estate, Copper, Copper, Estate
+ 
+---------- jog: turn 11 ----------
+jog - plays Market
+jog - draws Gardens
+jog - plays 4 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - buys Estate
+jog - gains Estate
+jog - draws Workshop, Copper, Estate, Gardens, Copper
+ 
+---------- LeBronius: turn 11 ----------
+LeBronius - plays Market
+LeBronius - draws Copper
+LeBronius - plays 3 Copper
+LeBronius - buys Feast
+LeBronius - gains Feast
+LeBronius - draws Copper, Militia
+LeBronius - shuffles deck
+LeBronius - draws Copper, Copper, Estate
+ 
+---------- jog: turn 12 ----------
+jog - plays Workshop
+jog - gains Workshop
+jog - plays 2 Copper
+jog - buys Estate
+jog - gains Estate
+jog - draws Estate, Gardens, Workshop, Copper, Copper
+ 
+---------- LeBronius: turn 12 ----------
+LeBronius - plays Militia
+jog - discards Gardens
+jog - discards Estate
+LeBronius - plays 3 Copper
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Feast, Market, Copper, Copper, Estate
+ 
+---------- jog: turn 13 ----------
+jog - plays Workshop
+jog - gains Workshop
+jog - plays 2 Copper
+jog - buys Estate
+jog - gains Estate
+jog - draws Workshop, Gardens, Estate
+jog - shuffles deck
+jog - draws Gardens, Gardens
+ 
+---------- LeBronius: turn 13 ----------
+LeBronius - plays Market
+LeBronius - draws Feast
+LeBronius - plays Feast
+LeBronius - trashes Feast
+LeBronius - gains Duchy
+LeBronius - plays 2 Copper
+LeBronius - buys Estate
+LeBronius - gains Estate
+LeBronius - buys Copper
+LeBronius - gains Copper
+LeBronius - draws Gardens, Estate, Market, Gardens, Silver
+ 
+---------- jog: turn 14 ----------
+jog - plays Workshop
+jog - gains Workshop
+jog - buys Copper
+jog - gains Copper
+jog - draws Estate, Copper, Estate, Gardens, Workshop
+ 
+---------- LeBronius: turn 14 ----------
+LeBronius - plays Market
+LeBronius - draws Gold
+LeBronius - plays 1 Silver, 1 Gold
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - buys Copper
+LeBronius - gains Copper
+LeBronius - draws Copper, Copper, Silver, Chapel, Gardens
+ 
+---------- jog: turn 15 ----------
+jog - plays Workshop
+jog - gains Estate
+jog - plays 1 Copper
+jog - buys Copper
+jog - gains Copper
+jog - draws Workshop, Workshop, Workshop, Workshop, Copper
+ 
+---------- LeBronius: turn 15 ----------
+LeBronius - plays 2 Copper, 1 Silver
+LeBronius - buys Estate
+LeBronius - gains Estate
+LeBronius - draws Silver
+LeBronius - shuffles deck
+LeBronius - draws Chapel, Copper, Duchy, Estate
+ 
+---------- jog: turn 16 ----------
+jog - plays Workshop
+jog - gains Estate
+jog - plays Copper
+jog - buys Copper
+jog - gains Copper
+jog - draws Copper, Gardens, Copper, Estate, Workshop
+ 
+------------ Game Over ------------
+jog - cards: 10 Workshop, 13 Copper, 1 Market, 9 Estate, 5 Gardens
+jog - total victory points: 24
+jog - turns: 16
+ 
+LeBronius - cards: 2 Market, 1 Chapel, 1 Militia, 1 Feast, 9 Copper, 3 Silver, 1 Gold, 5 Estate, 3 Duchy, 3 Gardens
+LeBronius - total victory points: 20
+LeBronius - turns: 15
+ 
+1st place: jog
+2nd place: LeBronius
+ 

@@ -1,0 +1,502 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Village, Bureaucrat, Remodel, Thief, Throne Room, Council Room, Festival, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+tetraem - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+tetraem - shuffles deck
+Rabid - shuffles deck
+tetraem - draws Copper, Copper, Copper, Estate, Estate
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- tetraem: turn 1 ----------
+tetraem - plays 3 Copper
+tetraem - buys Chapel
+tetraem - gains Chapel
+tetraem - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 4 Copper
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- tetraem: turn 2 ----------
+tetraem - plays 4 Copper
+tetraem - buys Silver
+tetraem - gains Silver
+tetraem - shuffles deck
+tetraem - draws Copper, Chapel, Copper, Estate, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 3 Copper
+Rabid - buys Chapel
+Rabid - gains Chapel
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- tetraem: turn 3 ----------
+tetraem - plays Chapel
+tetraem - trashes Copper, Copper, Estate, Copper
+tetraem - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 4 Copper
+Rabid - buys Village
+Rabid - gains Village
+Rabid - draws Remodel, Estate, Copper, Copper, Copper
+ 
+---------- tetraem: turn 4 ----------
+tetraem - plays 4 Copper
+tetraem - buys Silver
+tetraem - gains Silver
+tetraem - draws Estate, Silver
+tetraem - shuffles deck
+tetraem - draws Copper, Copper, Chapel
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Remodel
+Rabid - trashes Estate
+Rabid - gains Bureaucrat
+Rabid - plays 3 Copper
+Rabid - buys Village
+Rabid - gains Village
+Rabid - draws Chapel, Estate
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Remodel
+ 
+---------- tetraem: turn 5 ----------
+tetraem - plays Chapel
+tetraem - trashes Copper, Estate
+tetraem - plays 1 Silver, 1 Copper
+tetraem - buys Silver
+tetraem - gains Silver
+tetraem - draws Silver, Copper, Estate, Copper
+tetraem - shuffles deck
+tetraem - draws Silver
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Chapel
+Rabid - trashes Estate, Copper, Estate
+Rabid - draws Copper, Copper, Village, Village, Copper
+ 
+---------- tetraem: turn 6 ----------
+tetraem - plays 2 Silver, 2 Copper
+tetraem - buys Gold
+tetraem - gains Gold
+tetraem - draws Copper, Chapel, Silver
+tetraem - shuffles deck
+tetraem - draws Gold, Silver
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Bureaucrat
+Rabid - plays Bureaucrat
+Rabid - gains Silver
+tetraem - reveals Copper, Chapel, Silver, Gold, Silver
+Rabid - plays 4 Copper
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - draws Silver, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Chapel
+ 
+---------- tetraem: turn 7 ----------
+tetraem - plays Chapel
+tetraem - trashes Copper
+tetraem - plays 2 Silver, 1 Gold
+tetraem - buys Witch
+tetraem - gains Witch
+tetraem - draws Silver, Copper, Estate, Copper
+tetraem - shuffles deck
+tetraem - draws Chapel
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Copper
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys Village
+Rabid - gains Village
+Rabid - draws Copper, Copper, Village, Village, Remodel
+ 
+---------- tetraem: turn 8 ----------
+tetraem - plays Chapel
+tetraem - trashes Copper, Estate, Copper
+tetraem - plays 1 Silver
+tetraem - buys Moat
+tetraem - gains Moat
+tetraem - draws Witch, Gold, Silver, Silver
+tetraem - shuffles deck
+tetraem - draws Chapel
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Bureaucrat
+Rabid - plays Bureaucrat
+Rabid - gains Silver
+tetraem - reveals Witch, Gold, Silver, Silver, Chapel
+Rabid - plays Remodel
+Rabid - trashes Copper
+Rabid - gains Moat
+Rabid - plays 2 Copper
+Rabid - buys Moat
+Rabid - gains Moat
+Rabid - draws Silver, Throne Room
+Rabid - shuffles deck
+Rabid - draws Village, Copper, Village
+ 
+---------- tetraem: turn 9 ----------
+tetraem - plays Witch
+tetraem - draws Silver, Moat
+Rabid - gains Curse
+tetraem - plays 3 Silver, 1 Gold
+tetraem - buys Festival
+tetraem - gains Festival
+tetraem - shuffles deck
+tetraem - draws Festival, Silver, Chapel, Silver, Gold
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Village
+Rabid - draws Bureaucrat
+Rabid - plays Throne Room
+Rabid - plays Bureaucrat
+Rabid - gains Silver
+tetraem - reveals Festival, Silver, Chapel, Silver, Gold
+Rabid - plays Bureaucrat
+Rabid - gains Silver
+tetraem - reveals Festival, Silver, Chapel, Silver, Gold
+Rabid - plays Village
+Rabid - draws Silver
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Silver, Copper, Remodel, Silver, Chapel
+ 
+---------- tetraem: turn 10 ----------
+tetraem - plays Festival
+tetraem - plays 2 Silver, 1 Gold
+tetraem - buys Festival
+tetraem - gains Festival
+tetraem - buys Remodel
+tetraem - gains Remodel
+tetraem - draws Silver, Moat, Witch
+tetraem - shuffles deck
+tetraem - draws Festival, Silver
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Remodel
+Rabid - trashes Chapel
+Rabid - gains Throne Room
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - draws Village, Copper, Moat, Moat
+Rabid - shuffles deck
+Rabid - draws Village
+ 
+---------- tetraem: turn 11 ----------
+tetraem - plays Festival
+tetraem - plays Witch
+Rabid - reveals reaction Moat
+tetraem - draws Remodel, Festival
+tetraem - plays Festival
+tetraem - plays Moat
+tetraem - draws Gold, Chapel
+tetraem - plays Remodel
+tetraem - trashes Silver
+tetraem - gains Festival
+tetraem - buys Throne Room
+tetraem - gains Throne Room
+tetraem - draws Silver
+tetraem - shuffles deck
+tetraem - draws Festival, Moat, Witch, Festival
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Moat
+Rabid - draws Remodel, Copper
+Rabid - plays Village
+Rabid - draws Silver
+Rabid - plays Moat
+Rabid - draws Curse, Silver
+Rabid - plays Remodel
+Rabid - trashes Silver
+Rabid - gains Festival
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Silver, Council Room, Bureaucrat, Throne Room, Throne Room
+ 
+---------- tetraem: turn 12 ----------
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Witch
+tetraem - draws Chapel, Festival
+Rabid - gains Curse
+tetraem - plays Festival
+tetraem - plays Moat
+tetraem - draws Throne Room, Silver
+tetraem - plays 2 Silver
+tetraem - buys Festival
+tetraem - gains Festival
+tetraem - buys Council Room
+tetraem - gains Council Room
+tetraem - draws Gold, Remodel
+tetraem - shuffles deck
+tetraem - draws Silver, Throne Room, Silver
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Throne Room
+Rabid - plays Throne Room
+Rabid - plays Council Room
+Rabid - draws Silver, Festival, Village
+Rabid - shuffles deck
+Rabid - draws Village
+tetraem - draws Chapel
+Rabid - plays Council Room
+Rabid - draws Silver, Moat, Curse, Remodel
+tetraem - draws Festival
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Village
+Rabid - draws Village
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Moat
+Rabid - plays Moat
+Rabid - draws Curse, Festival
+Rabid - plays Moat
+Rabid - draws Copper, Copper
+Rabid - plays Festival
+Rabid - plays Bureaucrat
+Rabid - gains Silver
+tetraem - reveals Gold, Remodel, Silver, Throne Room, Silver, Chapel, Festival
+Rabid - plays Remodel
+Rabid - trashes Curse
+Rabid - gains Moat
+Rabid - plays 3 Silver, 3 Copper
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Silver, Council Room
+Rabid - shuffles deck
+Rabid - draws Copper, Bureaucrat, Copper
+ 
+---------- tetraem: turn 13 ----------
+tetraem - plays Festival
+tetraem - plays Throne Room
+tetraem - plays Remodel
+tetraem - trashes Silver
+tetraem - gains Festival
+tetraem - plays Remodel
+tetraem - trashes Silver
+tetraem - gains Festival
+tetraem - plays 1 Gold
+tetraem - buys Council Room
+tetraem - gains Council Room
+tetraem - draws Moat, Council Room, Festival, Festival, Festival
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Bureaucrat
+tetraem - reveals reaction Moat
+Rabid - gains Silver
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - draws Silver, Copper, Moat, Village, Moat
+ 
+---------- tetraem: turn 14 ----------
+tetraem - plays Festival
+tetraem - plays Council Room
+tetraem - draws Witch
+tetraem - shuffles deck
+tetraem - draws Gold, Council Room, Festival
+Rabid - draws Festival
+tetraem - plays Festival
+tetraem - plays Council Room
+tetraem - draws Remodel, Chapel, Festival, Festival
+Rabid - draws Curse
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Moat
+tetraem - draws Throne Room
+tetraem - plays Throne Room
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Witch
+Rabid - reveals reaction Moat
+tetraem - plays Remodel
+tetraem - trashes Chapel
+tetraem - gains Throne Room
+tetraem - plays 1 Gold
+tetraem - buys Throne Room
+tetraem - gains Throne Room
+tetraem - buys Moat
+tetraem - gains Moat
+tetraem - buys Moat
+tetraem - gains Moat
+tetraem - buys Moat
+tetraem - gains Moat
+tetraem - buys Gold
+tetraem - gains Gold
+tetraem - shuffles deck
+tetraem - draws Throne Room, Moat, Gold, Festival, Festival
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Village
+Rabid - draws Silver
+Rabid - plays Moat
+Rabid - draws Festival, Festival
+Rabid - plays Festival
+Rabid - plays Moat
+Rabid - draws Throne Room, Moat
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Moat
+Rabid - draws Remodel, Throne Room
+Rabid - plays Moat
+Rabid - draws Festival, Silver
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Remodel
+Rabid - trashes Curse
+Rabid - gains Estate
+Rabid - plays 3 Silver, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Witch, Village, Council Room, Village, Silver
+ 
+---------- tetraem: turn 15 ----------
+tetraem - plays Festival
+tetraem - plays Throne Room
+tetraem - plays Moat
+tetraem - draws Witch, Remodel
+tetraem - plays Moat
+tetraem - draws Moat, Council Room
+tetraem - plays Festival
+tetraem - plays Witch
+tetraem - draws Moat, Festival
+Rabid - gains Curse
+tetraem - plays Festival
+tetraem - plays Council Room
+tetraem - draws Council Room, Throne Room, Festival, Festival
+Rabid - shuffles deck
+Rabid - draws Festival
+tetraem - plays Throne Room
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Festival
+tetraem - plays Council Room
+tetraem - draws Throne Room, Festival, Moat, Gold
+Rabid - draws Festival
+tetraem - plays Festival
+tetraem - plays Throne Room
+tetraem - plays Remodel
+tetraem - trashes Gold
+tetraem - gains Province
+tetraem - plays Remodel
+tetraem - trashes Gold
+tetraem - gains Province
+tetraem - buys Gold
+tetraem - gains Gold
+tetraem - buys Gold
+tetraem - gains Gold
+tetraem - buys Moat
+tetraem - gains Moat
+tetraem - shuffles deck
+tetraem - draws Festival, Festival, Throne Room, Gold, Moat
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Festival
+Rabid - plays Village
+Rabid - draws Festival
+Rabid - plays Witch
+tetraem - reveals reaction Moat
+Rabid - draws Province, Throne Room
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Council Room
+Rabid - draws Village, Remodel, Province, Silver
+tetraem - draws Remodel
+Rabid - plays Council Room
+Rabid - draws Silver, Copper, Curse, Moat
+tetraem - draws Festival
+Rabid - plays Village
+Rabid - draws Copper
+Rabid - plays Village
+Rabid - draws Council Room
+Rabid - plays Council Room
+Rabid - draws Bureaucrat, Throne Room, Copper, Throne Room
+tetraem - draws Throne Room
+Rabid - plays Throne Room
+Rabid - plays Throne Room
+Rabid - plays Moat
+Rabid - draws Festival, Silver
+Rabid - plays Moat
+Rabid - draws Moat, Moat
+Rabid - plays Throne Room
+Rabid - plays Remodel
+Rabid - trashes Curse
+Rabid - gains Moat
+Rabid - plays Remodel
+Rabid - trashes Copper
+Rabid - gains Moat
+Rabid - plays Festival
+Rabid - plays Bureaucrat
+tetraem - reveals reaction Moat
+Rabid - gains Silver
+Rabid - plays Moat
+Rabid - draws Silver, Silver
+Rabid - plays Festival
+Rabid - plays Moat
+Rabid - draws Estate
+Rabid - shuffles deck
+Rabid - draws Moat
+Rabid - plays Moat
+Rabid - draws Moat
+Rabid - plays 6 Silver, 2 Copper
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Province
+Rabid - gains Province
+Rabid - shuffles deck
+Rabid - draws Moat, Bureaucrat, Silver, Moat, Copper
+ 
+------------ Game Over ------------
+Rabid - cards: 5 Moat, 4 Festival, 3 Throne Room, 3 Village, 2 Council Room, 1 Witch, 1 Bureaucrat, 1 Remodel, 6 Silver, 2 Copper, 8 Estate, 3 Province
+Rabid - total victory points: 26
+Rabid - turns: 15
+ 
+tetraem - cards: 6 Festival, 5 Moat, 3 Throne Room, 2 Council Room, 1 Remodel, 1 Witch, 2 Gold, 2 Province
+tetraem - total victory points: 12
+tetraem - turns: 15
+ 
+1st place: Rabid
+2nd place: tetraem
+ 

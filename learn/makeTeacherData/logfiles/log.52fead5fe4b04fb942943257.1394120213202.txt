@@ -1,0 +1,268 @@
+------------ Game Setup ------------
+Supply cards: Workshop, Bureaucrat, Gardens, Militia, Moneylender, Smithy, Festival, Laboratory, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+grayton - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+grayton - shuffles deck
+yed - shuffles deck
+grayton - draws Estate, Copper, Copper, Copper, Estate
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- grayton: turn 1 ----------
+grayton - plays 3 Copper
+grayton - buys Silver
+grayton - gains Silver
+grayton - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays Copper
+yed - plays Copper
+yed - plays Copper
+yed - buys Workshop
+yed - gains Workshop
+yed - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- grayton: turn 2 ----------
+grayton - plays 4 Copper
+grayton - buys Moneylender
+grayton - gains Moneylender
+grayton - shuffles deck
+grayton - draws Estate, Moneylender, Copper, Silver, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays Copper
+yed - buys Copper
+yed - gains Copper
+yed - shuffles deck
+yed - draws Workshop, Estate, Estate, Copper, Copper
+ 
+---------- grayton: turn 3 ----------
+grayton - plays Moneylender
+grayton - trashes Copper
+grayton - plays 1 Silver, 1 Copper
+grayton - buys Gold
+grayton - gains Gold
+grayton - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Workshop
+yed - gains Workshop
+yed - buys Copper
+yed - gains Copper
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- grayton: turn 4 ----------
+grayton - plays 4 Copper
+grayton - buys Militia
+grayton - gains Militia
+grayton - draws Copper, Estate
+grayton - shuffles deck
+grayton - draws Estate, Copper, Silver
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Workshop
+yed - gains Workshop
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Copper, Copper, Copper
+ 
+---------- grayton: turn 5 ----------
+grayton - plays 2 Copper, 1 Silver
+grayton - buys Smithy
+grayton - gains Smithy
+grayton - draws Estate, Moneylender, Militia, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays 5 Copper
+yed - buys Witch
+yed - gains Witch
+yed - draws Copper, Estate, Estate, Workshop, Workshop
+ 
+---------- grayton: turn 6 ----------
+grayton - plays Moneylender
+grayton - trashes Copper
+grayton - plays 1 Copper
+grayton - buys Silver
+grayton - gains Silver
+grayton - draws Gold, Copper, Copper
+grayton - shuffles deck
+grayton - draws Estate, Estate
+ 
+---------- yed: turn 6 ----------
+yed - plays Workshop
+yed - gains Workshop
+yed - buys Copper
+yed - gains Copper
+yed - draws Estate, Copper, Workshop, Copper, Copper
+ 
+---------- grayton: turn 7 ----------
+grayton - plays 2 Copper, 1 Gold
+grayton - buys Witch
+grayton - gains Witch
+grayton - draws Copper, Estate, Copper, Moneylender, Militia
+ 
+---------- yed: turn 7 ----------
+yed - plays Workshop
+yed - gains Workshop
+yed - plays 3 Copper
+yed - buys Workshop
+yed - gains Workshop
+yed - shuffles deck
+yed - draws Estate, Copper, Workshop, Estate, Copper
+ 
+---------- grayton: turn 8 ----------
+grayton - plays Moneylender
+grayton - trashes Copper
+grayton - plays 1 Copper
+grayton - buys Gardens
+grayton - gains Gardens
+grayton - draws Smithy, Silver, Silver, Copper
+grayton - shuffles deck
+grayton - draws Gold
+ 
+---------- yed: turn 8 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Witch, Workshop, Copper, Copper, Workshop
+ 
+---------- grayton: turn 9 ----------
+grayton - plays 2 Silver, 1 Copper, 1 Gold
+grayton - buys Province
+grayton - gains Province
+grayton - draws Estate, Copper, Copper, Copper, Militia
+ 
+---------- yed: turn 9 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Copper, Workshop, Workshop, Copper, Copper
+ 
+---------- grayton: turn 10 ----------
+grayton - plays Militia
+yed - discards Copper
+yed - discards Workshop
+grayton - plays 3 Copper
+grayton - buys Festival
+grayton - gains Festival
+grayton - draws Moneylender, Gardens, Witch, Estate, Estate
+ 
+---------- yed: turn 10 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Copper, Copper, Estate, Workshop, Copper
+ 
+---------- grayton: turn 11 ----------
+grayton - plays Witch
+grayton - shuffles deck
+grayton - draws Province, Copper
+yed - gains Curse
+grayton - draws Smithy, Silver, Militia, Copper, Gold
+ 
+---------- yed: turn 11 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - plays 3 Copper
+yed - buys Workshop
+yed - gains Workshop
+yed - shuffles deck
+yed - draws Copper, Copper, Estate, Estate, Gardens
+ 
+---------- grayton: turn 12 ----------
+grayton - plays Militia
+yed - discards Estate
+yed - discards Estate
+grayton - plays 1 Silver, 1 Copper, 1 Gold
+grayton - buys Province
+grayton - gains Province
+grayton - draws Copper, Festival, Estate, Silver, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Workshop, Copper, Estate, Copper, Gardens
+ 
+---------- grayton: turn 13 ----------
+grayton - plays Festival
+grayton - plays 2 Copper, 1 Silver
+grayton - buys Gardens
+grayton - gains Gardens
+grayton - buys Estate
+grayton - gains Estate
+grayton - shuffles deck
+grayton - draws Estate, Moneylender, Estate, Silver, Estate
+ 
+---------- yed: turn 13 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Workshop, Estate, Workshop, Estate, Workshop
+ 
+---------- grayton: turn 14 ----------
+grayton - plays 1 Silver
+grayton - buys Estate
+grayton - gains Estate
+grayton - draws Militia, Estate, Copper, Copper, Witch
+ 
+---------- yed: turn 14 ----------
+yed - plays Workshop
+yed - gains Gardens
+yed - buys Copper
+yed - gains Copper
+yed - draws Curse, Estate, Copper, Copper, Gardens
+ 
+---------- grayton: turn 15 ----------
+grayton - plays Witch
+grayton - draws Festival, Copper
+yed - gains Curse
+grayton - plays 3 Copper
+grayton - buys Estate
+grayton - gains Estate
+grayton - draws Province, Province, Copper, Silver, Smithy
+ 
+---------- yed: turn 15 ----------
+yed - buys Copper
+yed - gains Copper
+yed - draws Copper, Copper, Workshop, Witch, Copper
+ 
+---------- grayton: turn 16 ----------
+grayton - plays 1 Copper, 1 Silver
+grayton - buys Workshop
+grayton - gains Workshop
+grayton - draws Gardens, Gardens, Gold
+grayton - shuffles deck
+grayton - draws Festival, Province
+ 
+---------- yed: turn 16 ----------
+yed - plays Workshop
+yed - gains Workshop
+yed - plays 3 Copper
+yed - buys Workshop
+yed - gains Workshop
+yed - draws Workshop, Copper, Workshop, Gardens
+yed - shuffles deck
+yed - draws Copper
+ 
+------------ Game Over ------------
+yed - cards: 9 Workshop, 12 Copper, 1 Witch, 8 Estate, 6 Gardens, 2 Curse
+yed - total victory points: 24
+yed - turns: 16
+ 
+grayton - cards: 1 Festival, 1 Militia, 1 Workshop, 1 Smithy, 1 Moneylender, 1 Witch, 4 Copper, 2 Silver, 1 Gold, 6 Estate, 2 Gardens, 2 Province
+grayton - total victory points: 22
+grayton - turns: 16
+ 
+1st place: yed
+2nd place: grayton
+ 

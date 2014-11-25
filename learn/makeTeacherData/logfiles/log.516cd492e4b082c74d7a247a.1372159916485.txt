@@ -1,0 +1,852 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Workshop, Bureaucrat, Militia, Moneylender, Throne Room, Laboratory, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Energy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Energy - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Estate, Copper
+Energy - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Energy: turn 1 ----------
+Energy - plays 3 Copper
+Energy - buys Silver
+Energy - gains Silver
+Energy - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Moneylender
+Monsieur X - gains Moneylender
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- Energy: turn 2 ----------
+Energy - plays 4 Copper
+Energy - buys Moneylender
+Energy - gains Moneylender
+Energy - shuffles deck
+Energy - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - draws Estate, Moneylender, Copper, Copper, Copper
+ 
+---------- Energy: turn 3 ----------
+Energy - plays 4 Copper
+Energy - buys Militia
+Energy - gains Militia
+Energy - draws Copper, Copper, Copper, Estate, Moneylender
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Moneylender
+ 
+---------- Energy: turn 4 ----------
+Energy - plays Moneylender
+Energy - trashes Copper
+Energy - plays 2 Copper
+Energy - buys Witch
+Energy - gains Witch
+Energy - draws Estate, Silver
+Energy - shuffles deck
+Energy - draws Estate, Copper, Moneylender
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Silver, Throne Room, Estate, Copper
+ 
+---------- Energy: turn 5 ----------
+Energy - plays Moneylender
+Energy - trashes Copper
+Energy - plays 1 Silver
+Energy - buys Laboratory
+Energy - gains Laboratory
+Energy - draws Witch, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Witch, Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Estate
+ 
+---------- Energy: turn 6 ----------
+Energy - plays Witch
+Energy - draws Copper, Militia
+Monsieur X - gains Curse
+Energy - plays 4 Copper
+Energy - buys Throne Room
+Energy - gains Throne Room
+Energy - draws Copper
+Energy - shuffles deck
+Energy - draws Moneylender, Estate, Copper, Militia
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Estate
+Monsieur X - draws Throne Room, Copper, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Copper
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+Energy - gains Curse
+Monsieur X - plays Witch
+Monsieur X - draws Moneylender, Estate
+Energy - gains Curse
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Laboratory, Silver, Copper, Estate
+ 
+---------- Energy: turn 7 ----------
+Energy - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Energy - plays 2 Copper
+Energy - buys Silver
+Energy - gains Silver
+Energy - draws Throne Room, Estate, Estate, Copper, Laboratory
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Moneylender
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Witch, Copper, Copper, Throne Room
+ 
+---------- Energy: turn 8 ----------
+Energy - plays Throne Room
+Energy - plays Laboratory
+Energy - draws Copper, Silver
+Energy - plays Laboratory
+Energy - draws Copper, Witch
+Energy - plays Witch
+Energy - shuffles deck
+Energy - draws Silver, Militia
+Monsieur X - gains Curse
+Energy - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Energy - plays 3 Copper, 2 Silver
+Energy - buys Gold
+Energy - gains Gold
+Energy - draws Curse, Curse, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - draws Curse, Laboratory
+Energy - gains Curse
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Cellar
+Energy - gains Curse
+Monsieur X - plays 2 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory, Estate, Estate, Moneylender, Laboratory
+ 
+---------- Energy: turn 9 ----------
+Energy - plays 2 Copper
+Energy - buys Cellar
+Energy - gains Cellar
+Energy - draws Moneylender
+Energy - shuffles deck
+Energy - draws Copper, Curse, Estate, Throne Room
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Cellar
+Monsieur X - plays Laboratory
+Monsieur X - draws Witch, Copper
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Moneylender
+Monsieur X - discards Silver
+Monsieur X - discards Copper
+Monsieur X - draws Copper, Estate, Throne Room, Copper, Copper
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - draws Curse, Laboratory
+Energy - gains Curse
+Monsieur X - plays Witch
+Monsieur X - draws Curse, Cellar
+Energy - gains Curse
+Monsieur X - plays 3 Copper
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Workshop, Moneylender, Estate, Copper
+ 
+---------- Energy: turn 10 ----------
+Energy - plays Throne Room
+Energy - plays Moneylender
+Energy - trashes Copper
+Energy - plays Moneylender
+Energy - buys Silver
+Energy - gains Silver
+Energy - draws Copper, Cellar, Silver, Witch, Curse
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Copper, Copper, Silver, Throne Room, Cellar
+ 
+---------- Energy: turn 11 ----------
+Energy - plays Cellar
+Energy - discards Curse
+Energy - discards Copper
+Energy - draws Estate, Gold
+Energy - plays Witch
+Energy - draws Copper, Estate
+Monsieur X - gains Curse
+Energy - plays 1 Silver, 1 Gold, 1 Copper
+Energy - buys Laboratory
+Energy - gains Laboratory
+Energy - draws Curse, Curse, Laboratory, Militia, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Laboratory, Estate, Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Monsieur X - draws Laboratory, Cellar
+Monsieur X - plays Laboratory
+Monsieur X - draws Witch, Curse
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Copper
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver
+Energy - gains Curse
+Monsieur X - plays Laboratory
+Monsieur X - draws Workshop, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Village, Estate, Moneylender, Estate
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Workshop
+Monsieur X - gains Throne Room
+Monsieur X - plays 1 Silver
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Curse, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Witch, Silver, Throne Room
+ 
+---------- Energy: turn 12 ----------
+Energy - plays Laboratory
+Energy - draws Silver, Copper
+Energy - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Copper
+Energy - plays 2 Copper, 1 Silver
+Energy - buys Laboratory
+Energy - gains Laboratory
+Energy - shuffles deck
+Energy - draws Gold, Cellar, Witch, Estate, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - draws Laboratory, Estate
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Curse
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Moneylender, Cellar, Cellar, Laboratory, Estate
+ 
+---------- Energy: turn 13 ----------
+Energy - plays Cellar
+Energy - discards Estate
+Energy - discards Copper
+Energy - draws Estate, Curse
+Energy - plays Witch
+Energy - draws Laboratory, Curse
+Energy - plays 1 Gold
+Energy - buys Workshop
+Energy - gains Workshop
+Energy - draws Curse, Silver, Militia, Throne Room, Silver
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Workshop, Throne Room
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Monsieur X - discards Moneylender
+Monsieur X - draws Village, Laboratory, Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Cellar
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Throne Room, Cellar
+Monsieur X - plays Throne Room
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - draws Village
+Monsieur X - plays Cellar
+Monsieur X - plays Village
+Monsieur X - draws Witch
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Copper
+Monsieur X - plays Throne Room
+Monsieur X - plays Workshop
+Monsieur X - gains Throne Room
+Monsieur X - plays Workshop
+Monsieur X - gains Throne Room
+Monsieur X - draws Curse, Copper, Silver, Curse, Curse
+ 
+---------- Energy: turn 14 ----------
+Energy - plays Throne Room
+Energy - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Curse
+Energy - plays Militia
+Energy - plays 2 Silver
+Energy - buys Province
+Energy - gains Province
+Energy - draws Curse, Estate, Curse, Copper, Moneylender
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Laboratory, Moneylender, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Curse
+ 
+---------- Energy: turn 15 ----------
+Energy - plays Moneylender
+Energy - trashes Copper
+Energy - buys Silver
+Energy - gains Silver
+Energy - draws Laboratory, Copper, Copper, Curse, Silver
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Witch
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Silver, Cellar, Cellar, Throne Room, Village
+ 
+---------- Energy: turn 16 ----------
+Energy - plays Laboratory
+Energy - draws Laboratory, Curse
+Energy - plays Laboratory
+Energy - shuffles deck
+Energy - draws Curse, Province
+Energy - plays 2 Copper, 1 Silver
+Energy - buys Throne Room
+Energy - gains Throne Room
+Energy - draws Gold, Laboratory, Estate, Witch, Curse
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Cellar
+Monsieur X - discards Silver
+Monsieur X - draws Workshop, Throne Room, Curse
+Monsieur X - plays Throne Room
+Monsieur X - plays Workshop
+Monsieur X - gains Militia
+Monsieur X - plays Workshop
+Monsieur X - gains Throne Room
+Monsieur X - draws Silver, Cellar, Copper, Copper, Village
+ 
+---------- Energy: turn 17 ----------
+Energy - plays Laboratory
+Energy - draws Workshop, Estate
+Energy - plays Workshop
+Energy - gains Throne Room
+Energy - plays 1 Gold
+Energy - buys Silver
+Energy - gains Silver
+Energy - draws Estate, Silver, Throne Room, Militia, Cellar
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Village
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - discards Estate
+Monsieur X - draws Workshop, Curse, Moneylender
+Monsieur X - plays Workshop
+Monsieur X - gains Militia
+Monsieur X - draws Throne Room, Laboratory, Curse, Throne Room, Throne Room
+ 
+---------- Energy: turn 18 ----------
+Energy - plays Cellar
+Energy - discards Estate
+Energy - draws Curse
+Energy - plays Throne Room
+Energy - plays Militia
+Monsieur X - discards Curse
+Monsieur X - discards Throne Room
+Energy - plays Militia
+Energy - plays 1 Silver
+Energy - buys Laboratory
+Energy - gains Laboratory
+Energy - draws Silver, Curse, Copper, Curse, Silver
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Curse, Village
+Monsieur X - plays Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Cellar
+Monsieur X - plays Village
+Monsieur X - draws Laboratory
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Monsieur X - draws Laboratory, Throne Room, Village, Witch
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Village
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Militia
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Curse, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Curse
+Monsieur X - discards Curse
+Monsieur X - draws Estate, Throne Room, Estate
+Monsieur X - plays Throne Room
+Monsieur X - plays Militia
+Energy - discards Curse
+Energy - discards Curse
+Monsieur X - plays Militia
+Monsieur X - plays Militia
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Workshop, Curse, Cellar, Moneylender, Copper
+ 
+---------- Energy: turn 19 ----------
+Energy - plays 2 Silver, 1 Copper
+Energy - buys Duchy
+Energy - gains Duchy
+Energy - draws Moneylender
+Energy - shuffles deck
+Energy - draws Throne Room, Laboratory, Laboratory, Estate
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Workshop
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Curse
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Workshop, Village, Cellar, Village, Village
+ 
+---------- Energy: turn 20 ----------
+Energy - plays Throne Room
+Energy - plays Laboratory
+Energy - draws Copper, Silver
+Energy - plays Laboratory
+Energy - draws Duchy, Silver
+Energy - plays Laboratory
+Energy - draws Witch, Curse
+Energy - plays Witch
+Energy - draws Gold, Laboratory
+Energy - plays Laboratory
+Energy - draws Curse, Curse
+Energy - plays Moneylender
+Energy - trashes Copper
+Energy - plays 2 Silver, 1 Gold
+Energy - buys Province
+Energy - gains Province
+Energy - draws Throne Room, Militia, Estate, Cellar, Curse
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Village
+Monsieur X - draws Estate
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Workshop
+Monsieur X - discards Estate
+Monsieur X - discards Curse
+Monsieur X - draws Witch, Estate, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Copper
+Monsieur X - plays Witch
+Monsieur X - draws Laboratory, Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Curse
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Cellar
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Silver
+Monsieur X - plays Throne Room
+Monsieur X - plays Militia
+Energy - discards Estate
+Energy - discards Curse
+Monsieur X - plays Militia
+Monsieur X - plays Militia
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Laboratory, Estate, Laboratory, Silver
+ 
+---------- Energy: turn 21 ----------
+Energy - plays Cellar
+Energy - plays Throne Room
+Energy - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Energy - plays Militia
+Energy - buys Throne Room
+Energy - gains Throne Room
+Energy - draws Curse, Workshop, Province, Throne Room, Silver
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Curse
+Monsieur X - plays Village
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Village
+Monsieur X - plays Village
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Curse
+Monsieur X - draws Cellar, Throne Room
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - discards Silver
+Monsieur X - discards Silver
+Monsieur X - draws Workshop, Moneylender, Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Market
+Monsieur X - draws Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Moneylender
+Monsieur X - discards Workshop
+Monsieur X - draws Throne Room, Curse, Militia
+Monsieur X - plays Throne Room
+Monsieur X - plays Militia
+Energy - discards Province
+Energy - discards Curse
+Monsieur X - plays Militia
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Witch, Village, Silver, Laboratory, Estate
+ 
+---------- Energy: turn 22 ----------
+Energy - plays Throne Room
+Energy - plays Workshop
+Energy - gains Throne Room
+Energy - plays Workshop
+Energy - gains Silver
+Energy - plays 1 Silver
+Energy - buys Estate
+Energy - gains Estate
+Energy - draws Curse, Copper, Estate, Curse, Copper
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Witch
+Monsieur X - draws Militia, Curse
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Workshop
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Curse
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Militia
+Energy - discards Curse
+Energy - discards Curse
+Monsieur X - plays Workshop
+Monsieur X - gains Village
+Monsieur X - plays 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Village, Throne Room, Estate, Militia, Laboratory
+ 
+---------- Energy: turn 23 ----------
+Energy - plays 2 Copper
+Energy - buys Estate
+Energy - gains Estate
+Energy - draws Silver, Silver, Laboratory
+Energy - shuffles deck
+Energy - draws Laboratory, Witch
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Moneylender
+Monsieur X - plays Laboratory
+Monsieur X - draws Witch, Estate
+Monsieur X - plays Witch
+Monsieur X - draws Market, Copper
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Curse
+Monsieur X - discards Copper
+Monsieur X - discards Moneylender
+Monsieur X - draws Village, Throne Room, Cellar, Throne Room, Cellar
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Monsieur X - plays Market
+Monsieur X - draws Curse
+Monsieur X - plays Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Curse
+Monsieur X - plays Village
+Monsieur X - draws Militia
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Curse
+Monsieur X - discards Curse
+Monsieur X - discards Cellar
+Monsieur X - draws Moneylender, Estate, Estate, Workshop
+Monsieur X - plays Militia
+Energy - discards Witch
+Energy - discards Silver
+Monsieur X - plays Militia
+Monsieur X - plays Workshop
+Monsieur X - gains Cellar
+Monsieur X - plays 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Witch, Copper, Curse, Throne Room, Province
+ 
+---------- Energy: turn 24 ----------
+Energy - plays Laboratory
+Energy - draws Silver, Curse
+Energy - plays Laboratory
+Energy - draws Curse, Throne Room
+Energy - plays 2 Silver
+Energy - buys Workshop
+Energy - gains Workshop
+Energy - draws Province, Duchy, Throne Room, Militia, Curse
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Laboratory
+Monsieur X - plays Witch
+Monsieur X - draws Village, Market
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Village, Witch
+Monsieur X - shuffles deck
+Monsieur X - draws Village, Laboratory, Witch
+ 
+---------- Energy: turn 25 ----------
+Energy - plays Throne Room
+Energy - plays Militia
+Monsieur X - discards Village
+Monsieur X - discards Witch
+Energy - plays Militia
+Energy - buys Cellar
+Energy - gains Cellar
+Energy - draws Curse, Laboratory, Silver, Workshop, Estate
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays Village
+Monsieur X - draws Province
+Monsieur X - plays Witch
+Monsieur X - draws Cellar, Militia
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Estate
+Monsieur X - plays Village
+Monsieur X - draws Province
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Estate
+Monsieur X - discards Province
+Monsieur X - draws Throne Room, Workshop, Estate
+Monsieur X - plays Militia
+Energy - discards Estate
+Energy - discards Curse
+Monsieur X - plays Throne Room
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - plays Workshop
+Monsieur X - gains Estate
+Monsieur X - draws Throne Room, Silver, Laboratory, Copper, Throne Room
+ 
+---------- Energy: turn 26 ----------
+Energy - plays Laboratory
+Energy - draws Cellar, Estate
+Energy - plays Cellar
+Energy - discards Estate
+Energy - draws Throne Room
+Energy - plays Throne Room
+Energy - plays Workshop
+Energy - gains Estate
+Energy - plays Workshop
+Energy - gains Estate
+Energy - plays 1 Silver
+Energy - buys Estate
+Energy - gains Estate
+Energy - draws Estate, Estate, Moneylender, Laboratory, Throne Room
+ 
+---------- Monsieur X: turn 27 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Laboratory
+Monsieur X - draws Throne Room, Militia
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Curse
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Laboratory
+Monsieur X - plays Village
+Monsieur X - draws Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Curse, Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Militia
+Energy - discards Estate
+Energy - discards Estate
+Monsieur X - plays Militia
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Workshop
+Monsieur X - gains Workshop
+Monsieur X - draws Witch, Market, Cellar, Curse, Cellar
+ 
+------------ Game Over ------------
+Monsieur X - cards: 5 Throne Room, 4 Cellar, 4 Village, 3 Witch, 3 Laboratory, 2 Market, 2 Militia, 2 Workshop, 1 Moneylender, 4 Silver, 6 Estate, 3 Province, 3 Curse
+Monsieur X - total victory points: 21
+Monsieur X - turns: 27
+ 
+Energy - cards: 5 Throne Room, 4 Laboratory, 2 Workshop, 2 Cellar, 1 Moneylender, 1 Witch, 1 Militia, 6 Silver, 2 Copper, 1 Gold, 8 Estate, 2 Province, 1 Duchy, 7 Curse
+Energy - total victory points: 16
+Energy - turns: 26
+ 
+1st place: Monsieur X
+2nd place: Energy
+ 

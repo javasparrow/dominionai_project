@@ -1,0 +1,663 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Chancellor, Village, Workshop, Moneylender, Smithy, Thief, Throne Room, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+LeBronius - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LeBronius - shuffles deck
+jog - shuffles deck
+LeBronius - draws Copper, Estate, Copper, Estate, Copper
+jog - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- jog: turn 1 ----------
+jog - plays 3 Copper
+jog - buys Workshop
+jog - gains Workshop
+jog - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- LeBronius: turn 1 ----------
+LeBronius - plays 3 Copper
+LeBronius - buys Workshop
+LeBronius - gains Workshop
+LeBronius - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- jog: turn 2 ----------
+jog - plays 4 Copper
+jog - buys Moneylender
+jog - gains Moneylender
+jog - shuffles deck
+jog - draws Estate, Copper, Copper, Copper, Workshop
+ 
+---------- LeBronius: turn 2 ----------
+LeBronius - plays 4 Copper
+LeBronius - buys Moneylender
+LeBronius - gains Moneylender
+LeBronius - shuffles deck
+LeBronius - draws Workshop, Moneylender, Copper, Copper, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays Workshop
+jog - gains Throne Room
+jog - plays 3 Copper
+jog - buys Village
+jog - gains Village
+jog - draws Copper, Moneylender, Copper, Estate, Copper
+ 
+---------- LeBronius: turn 3 ----------
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays 2 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- jog: turn 4 ----------
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays 2 Copper
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Estate, Copper
+jog - shuffles deck
+jog - draws Village, Estate, Copper
+ 
+---------- LeBronius: turn 4 ----------
+LeBronius - plays 2 Copper
+LeBronius - buys Cellar
+LeBronius - gains Cellar
+LeBronius - draws Copper, Copper
+LeBronius - shuffles deck
+LeBronius - draws Estate, Workshop, Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays Village
+jog - draws Estate
+jog - plays 2 Copper
+jog - buys Cellar
+jog - gains Cellar
+jog - draws Copper, Copper, Throne Room, Copper, Workshop
+ 
+---------- LeBronius: turn 5 ----------
+LeBronius - plays Workshop
+LeBronius - gains Silver
+LeBronius - plays 3 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Estate, Laboratory, Cellar, Estate, Copper
+ 
+---------- jog: turn 6 ----------
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Throne Room
+jog - plays Workshop
+jog - gains Smithy
+jog - plays 3 Copper
+jog - buys Village
+jog - gains Village
+jog - draws Copper, Moneylender, Laboratory
+jog - shuffles deck
+jog - draws Estate, Smithy
+ 
+---------- LeBronius: turn 6 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Moneylender
+LeBronius - plays Cellar
+LeBronius - discards Estate
+LeBronius - discards Estate
+LeBronius - draws Copper
+LeBronius - shuffles deck
+LeBronius - draws Workshop
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays 2 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- jog: turn 7 ----------
+jog - plays Laboratory
+jog - draws Copper, Throne Room
+jog - plays Throne Room
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays Moneylender
+jog - trashes Copper
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Throne Room, Cellar, Copper, Estate, Estate
+ 
+---------- LeBronius: turn 7 ----------
+LeBronius - plays 3 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Estate, Silver, Silver
+LeBronius - shuffles deck
+LeBronius - draws Estate, Copper
+ 
+---------- jog: turn 8 ----------
+jog - plays Cellar
+jog - discards Copper
+jog - discards Estate
+jog - discards Estate
+jog - draws Workshop, Copper, Village
+jog - plays Throne Room
+jog - plays Village
+jog - draws Copper
+jog - plays Village
+jog - draws Village
+jog - plays Village
+jog - draws Copper
+jog - plays Workshop
+jog - gains Smithy
+jog - plays 3 Copper
+jog - buys Village
+jog - gains Village
+jog - shuffles deck
+jog - draws Cellar, Laboratory, Smithy, Smithy, Copper
+ 
+---------- LeBronius: turn 8 ----------
+LeBronius - plays 2 Silver, 1 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Silver, Laboratory, Workshop, Cellar, Estate
+ 
+---------- jog: turn 9 ----------
+jog - plays Laboratory
+jog - draws Copper, Village
+jog - plays Village
+jog - draws Copper
+jog - plays Smithy
+jog - draws Throne Room, Village, Estate
+jog - plays Village
+jog - draws Moneylender
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Copper, Throne Room, Village
+jog - plays Smithy
+jog - draws Estate, Laboratory, Workshop
+jog - plays Village
+jog - draws Estate
+jog - plays Throne Room
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays Workshop
+jog - gains Throne Room
+jog - plays 2 Copper
+jog - buys Province
+jog - gains Province
+jog - shuffles deck
+jog - draws Smithy, Throne Room, Throne Room, Estate, Copper
+ 
+---------- LeBronius: turn 9 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Laboratory, Copper
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Copper
+LeBronius - plays Cellar
+LeBronius - discards Estate
+LeBronius - discards Copper
+LeBronius - discards Copper
+LeBronius - discards Workshop
+LeBronius - discards Copper
+LeBronius - draws Moneylender, Copper
+LeBronius - shuffles deck
+LeBronius - draws Copper, Laboratory, Copper
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Silver
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays 2 Silver, 2 Copper
+LeBronius - buys Gold
+LeBronius - gains Gold
+LeBronius - draws Estate, Workshop, Copper, Estate, Silver
+ 
+---------- jog: turn 10 ----------
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Moneylender, Throne Room, Province
+jog - plays Smithy
+jog - draws Laboratory, Village, Estate
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Laboratory
+jog - draws Smithy, Village
+jog - plays Laboratory
+jog - draws Estate, Cellar
+jog - plays Throne Room
+jog - plays Village
+jog - draws Village
+jog - plays Village
+jog - draws Laboratory
+jog - plays Laboratory
+jog - draws Copper, Workshop
+jog - plays Workshop
+jog - gains Workshop
+jog - plays Village
+jog - shuffles deck
+jog - draws Workshop
+jog - plays Village
+jog - plays Workshop
+jog - gains Village
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays 1 Copper
+jog - buys Throne Room
+jog - gains Throne Room
+jog - shuffles deck
+jog - draws Throne Room, Throne Room, Village, Throne Room, Smithy
+ 
+---------- LeBronius: turn 10 ----------
+LeBronius - plays Workshop
+LeBronius - gains Throne Room
+LeBronius - plays 1 Copper, 1 Silver
+LeBronius - buys Village
+LeBronius - gains Village
+LeBronius - draws Copper
+LeBronius - shuffles deck
+LeBronius - draws Village, Moneylender, Throne Room, Copper
+ 
+---------- jog: turn 11 ----------
+jog - plays Village
+jog - draws Moneylender
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Estate, Workshop, Village
+jog - plays Smithy
+jog - draws Estate, Village, Throne Room
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Village
+jog - draws Cellar
+jog - plays Village
+jog - draws Workshop
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Silver
+jog - plays Workshop
+jog - gains Silver
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Silver
+jog - plays Workshop
+jog - gains Silver
+jog - plays Village
+jog - draws Laboratory
+jog - plays Laboratory
+jog - draws Copper, Estate
+jog - plays Cellar
+jog - discards Estate
+jog - discards Estate
+jog - discards Estate
+jog - draws Laboratory, Smithy, Province
+jog - plays Laboratory
+jog - draws Village
+jog - shuffles deck
+jog - draws Estate
+jog - plays Village
+jog - draws Silver
+jog - plays Smithy
+jog - draws Silver, Silver, Silver
+jog - plays Moneylender
+jog - trashes Copper
+jog - plays 4 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Estate, Estate
+jog - shuffles deck
+jog - draws Smithy, Moneylender, Silver
+ 
+---------- LeBronius: turn 11 ----------
+LeBronius - plays Throne Room
+LeBronius - plays Village
+LeBronius - draws Silver
+LeBronius - plays Village
+LeBronius - draws Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Cellar, Copper
+LeBronius - plays Cellar
+LeBronius - discards Copper
+LeBronius - discards Copper
+LeBronius - discards Copper
+LeBronius - draws Gold, Copper, Workshop
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays Workshop
+LeBronius - gains Throne Room
+LeBronius - plays 1 Silver, 1 Gold
+LeBronius - buys Province
+LeBronius - gains Province
+LeBronius - draws Laboratory, Laboratory, Silver, Estate, Silver
+ 
+---------- jog: turn 12 ----------
+jog - plays Silver
+jog - buys Moat
+jog - gains Moat
+jog - draws Silver, Workshop, Throne Room, Village, Throne Room
+ 
+---------- LeBronius: turn 12 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Estate
+LeBronius - plays Laboratory
+LeBronius - shuffles deck
+LeBronius - draws Moneylender, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Workshop
+LeBronius - plays Workshop
+LeBronius - gains Throne Room
+LeBronius - plays 2 Silver, 1 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Province, Throne Room, Copper, Gold, Silver
+ 
+---------- jog: turn 13 ----------
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Village
+jog - draws Village
+jog - plays Village
+jog - draws Laboratory
+jog - plays Throne Room
+jog - plays Laboratory
+jog - draws Laboratory, Province
+jog - plays Laboratory
+jog - draws Estate, Province
+jog - plays Laboratory
+jog - draws Village, Throne Room
+jog - plays Village
+jog - draws Workshop
+jog - plays Throne Room
+jog - plays Village
+jog - draws Silver
+jog - plays Village
+jog - draws Cellar
+jog - plays Cellar
+jog - discards Province
+jog - discards Estate
+jog - discards Province
+jog - draws Throne Room, Village, Smithy
+jog - plays Workshop
+jog - gains Village
+jog - plays Workshop
+jog - gains Smithy
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Silver
+jog - shuffles deck
+jog - draws Estate, Province
+jog - plays Smithy
+jog - draws Province, Moat, Village
+jog - plays Village
+jog - draws Smithy
+jog - plays Village
+jog - draws Estate
+jog - plays Smithy
+jog - draws Smithy, Silver, Moneylender
+jog - plays Moat
+jog - draws Estate
+jog - plays 4 Silver
+jog - buys Province
+jog - gains Province
+jog - shuffles deck
+jog - draws Laboratory, Estate, Silver, Smithy, Province
+ 
+---------- LeBronius: turn 13 ----------
+LeBronius - plays 1 Copper, 1 Gold, 1 Silver
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Throne Room, Village, Copper, Cellar
+LeBronius - shuffles deck
+LeBronius - draws Estate
+ 
+---------- jog: turn 14 ----------
+jog - plays Laboratory
+jog - draws Throne Room, Estate
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Silver, Throne Room, Workshop
+jog - plays Smithy
+jog - draws Throne Room, Throne Room, Workshop
+jog - plays 2 Silver
+jog - buys Throne Room
+jog - gains Throne Room
+jog - draws Silver, Village, Province, Silver, Village
+ 
+---------- LeBronius: turn 14 ----------
+LeBronius - plays Village
+LeBronius - draws Throne Room
+LeBronius - plays Throne Room
+LeBronius - plays Cellar
+LeBronius - discards Copper
+LeBronius - discards Estate
+LeBronius - draws Estate, Laboratory
+LeBronius - plays Cellar
+LeBronius - discards Estate
+LeBronius - draws Estate
+LeBronius - plays Laboratory
+LeBronius - draws Workshop, Silver
+LeBronius - plays Throne Room
+LeBronius - plays Workshop
+LeBronius - gains Throne Room
+LeBronius - plays Workshop
+LeBronius - gains Smithy
+LeBronius - plays 1 Silver
+LeBronius - buys Cellar
+LeBronius - gains Cellar
+LeBronius - draws Copper, Silver, Laboratory, Province, Duchy
+ 
+---------- jog: turn 15 ----------
+jog - plays Village
+jog - draws Province
+jog - plays Village
+jog - draws Cellar
+jog - plays Cellar
+jog - discards Province
+jog - discards Silver
+jog - discards Province
+jog - discards Silver
+jog - draws Moneylender, Laboratory, Estate, Village
+jog - plays Laboratory
+jog - draws Moat, Village
+jog - plays Village
+jog - draws Village
+jog - plays Village
+jog - draws Smithy
+jog - plays Village
+jog - draws Smithy
+jog - plays Smithy
+jog - shuffles deck
+jog - draws Silver, Silver, Throne Room
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Province, Silver, Throne Room
+jog - plays Smithy
+jog - draws Smithy, Workshop, Throne Room
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Throne Room, Estate, Silver
+jog - plays Smithy
+jog - draws Throne Room, Workshop, Estate
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Moat
+jog - draws Province, Province
+jog - plays Moat
+jog - draws Laboratory
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Village
+jog - plays Workshop
+jog - gains Smithy
+jog - plays Throne Room
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Smithy, Village
+jog - plays Laboratory
+jog - plays Workshop
+jog - gains Village
+jog - plays 4 Silver
+jog - buys Province
+jog - gains Province
+jog - shuffles deck
+jog - draws Silver, Moat, Silver, Province, Smithy
+ 
+---------- LeBronius: turn 15 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Throne Room, Copper
+LeBronius - plays 2 Copper, 1 Silver
+LeBronius - buys Smithy
+LeBronius - gains Smithy
+LeBronius - draws Laboratory, Gold, Silver, Laboratory, Moneylender
+ 
+---------- jog: turn 16 ----------
+jog - plays 2 Silver
+jog - buys Throne Room
+jog - gains Throne Room
+jog - draws Throne Room, Village, Village, Province, Village
+ 
+---------- LeBronius: turn 16 ----------
+LeBronius - plays Laboratory
+LeBronius - shuffles deck
+LeBronius - draws Throne Room, Estate
+LeBronius - plays Throne Room
+LeBronius - plays Laboratory
+LeBronius - draws Laboratory, Copper
+LeBronius - plays Laboratory
+LeBronius - draws Province, Silver
+LeBronius - plays Laboratory
+LeBronius - draws Throne Room, Copper
+LeBronius - plays Throne Room
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays Moneylender
+LeBronius - trashes Copper
+LeBronius - plays 2 Silver, 1 Gold
+LeBronius - buys Province
+LeBronius - gains Province
+LeBronius - draws Throne Room, Estate, Laboratory, Estate, Silver
+ 
+---------- jog: turn 17 ----------
+jog - plays Village
+jog - draws Smithy
+jog - plays Village
+jog - draws Province
+jog - plays Village
+jog - draws Smithy
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Workshop, Silver, Village
+jog - plays Smithy
+jog - draws Throne Room, Estate, Moneylender
+jog - plays Village
+jog - draws Estate
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Silver, Cellar, Village
+jog - plays Smithy
+jog - draws Village, Throne Room, Province
+jog - plays Village
+jog - draws Workshop
+jog - plays Village
+jog - draws Village
+jog - plays Village
+jog - draws Laboratory
+jog - plays Cellar
+jog - discards Estate
+jog - discards Estate
+jog - discards Moneylender
+jog - discards Province
+jog - discards Province
+jog - discards Province
+jog - draws Laboratory, Throne Room, Throne Room, Smithy, Estate
+jog - shuffles deck
+jog - draws Estate
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Smithy
+jog - draws Silver, Moneylender, Smithy
+jog - plays Smithy
+jog - draws Province, Province, Province
+jog - plays Throne Room
+jog - plays Laboratory
+jog - draws Silver, Province
+jog - plays Laboratory
+jog - draws Throne Room, Moat
+jog - plays Throne Room
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Village
+jog - plays Workshop
+jog - gains Village
+jog - plays Throne Room
+jog - plays Workshop
+jog - gains Smithy
+jog - plays Workshop
+jog - gains Smithy
+jog - plays Laboratory
+jog - draws Estate
+jog - shuffles deck
+jog - draws Smithy
+jog - plays 4 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Village, Smithy, Village
+jog - shuffles deck
+jog - draws Village, Village
+ 
+---------- LeBronius: turn 17 ----------
+LeBronius - plays Throne Room
+LeBronius - plays Laboratory
+LeBronius - draws Village, Throne Room
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Cellar
+LeBronius - plays Village
+LeBronius - draws Workshop
+LeBronius - plays Cellar
+LeBronius - discards Estate
+LeBronius - discards Estate
+LeBronius - draws Cellar, Smithy
+LeBronius - plays Throne Room
+LeBronius - plays Smithy
+LeBronius - draws Duchy, Smithy
+LeBronius - shuffles deck
+LeBronius - draws Silver
+LeBronius - plays Smithy
+LeBronius - draws Laboratory, Province, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Throne Room, Moneylender
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Throne Room
+LeBronius - plays Throne Room
+LeBronius - plays Cellar
+LeBronius - discards Duchy
+LeBronius - discards Province
+LeBronius - discards Estate
+LeBronius - discards Estate
+LeBronius - draws Silver, Gold, Province, Estate
+LeBronius - plays Cellar
+LeBronius - plays 3 Silver, 1 Copper, 1 Gold
+LeBronius - buys Province
+LeBronius - gains Province
+LeBronius - shuffles deck
+LeBronius - draws Laboratory, Village, Copper, Province, Smithy
+ 
+------------ Game Over ------------
+jog - cards: 9 Village, 6 Smithy, 6 Throne Room, 2 Workshop, 2 Laboratory, 1 Moneylender, 1 Moat, 1 Cellar, 4 Silver, 5 Province, 3 Estate
+jog - total victory points: 33
+jog - turns: 17
+ 
+LeBronius - cards: 4 Laboratory, 4 Throne Room, 2 Smithy, 2 Cellar, 1 Village, 1 Workshop, 1 Moneylender, 3 Silver, 1 Copper, 1 Gold, 3 Province, 3 Estate, 1 Duchy
+LeBronius - total victory points: 24
+LeBronius - turns: 17
+ 
+1st place: jog
+2nd place: LeBronius
+ 

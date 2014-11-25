@@ -1,0 +1,702 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Woodcutter, Workshop, Remodel, Thief, Throne Room, Council Room, Festival, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lexington - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yuuna_tu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lexington - shuffles deck
+yuuna_tu - shuffles deck
+lexington - draws Copper, Copper, Copper, Copper, Estate
+yuuna_tu - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- lexington: turn 1 ----------
+lexington - plays 4 Copper
+lexington - buys Remodel
+lexington - gains Remodel
+lexington - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- yuuna_tu: turn 1 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Remodel
+yuuna_tu - gains Remodel
+yuuna_tu - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- lexington: turn 2 ----------
+lexington - plays 3 Copper
+lexington - buys Silver
+lexington - gains Silver
+lexington - shuffles deck
+lexington - draws Remodel, Copper, Estate, Copper, Estate
+ 
+---------- yuuna_tu: turn 2 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- lexington: turn 3 ----------
+lexington - plays Remodel
+lexington - trashes Estate
+lexington - gains Remodel
+lexington - plays 2 Copper
+lexington - buys Cellar
+lexington - gains Cellar
+lexington - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- yuuna_tu: turn 3 ----------
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Remodel, Copper, Estate, Silver, Copper
+ 
+---------- lexington: turn 4 ----------
+lexington - plays 4 Copper
+lexington - buys Thief
+lexington - gains Thief
+lexington - draws Silver, Copper
+lexington - shuffles deck
+lexington - draws Estate, Cellar, Copper
+ 
+---------- yuuna_tu: turn 4 ----------
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Estate
+yuuna_tu - gains Remodel
+yuuna_tu - plays 2 Copper, 1 Silver
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Copper, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Silver, Silver
+ 
+---------- lexington: turn 5 ----------
+lexington - plays Cellar
+lexington - discards Estate
+lexington - draws Remodel
+lexington - plays Remodel
+lexington - trashes Silver
+lexington - gains Festival
+lexington - plays 2 Copper
+lexington - buys Moat
+lexington - gains Moat
+lexington - draws Copper, Copper, Thief, Copper, Copper
+ 
+---------- yuuna_tu: turn 5 ----------
+yuuna_tu - plays 3 Copper, 2 Silver
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Estate, Estate, Copper, Remodel, Copper
+ 
+---------- lexington: turn 6 ----------
+lexington - plays Thief
+yuuna_tu - reveals: Silver, Remodel
+yuuna_tu - trashes Silver
+yuuna_tu - discards Remodel
+lexington - gains Silver
+lexington - plays 4 Copper
+lexington - buys Throne Room
+lexington - gains Throne Room
+lexington - draws Estate, Remodel, Copper
+lexington - shuffles deck
+lexington - draws Throne Room, Copper
+ 
+---------- yuuna_tu: turn 6 ----------
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Estate
+yuuna_tu - gains Throne Room
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Copper, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Cellar, Festival, Remodel
+ 
+---------- lexington: turn 7 ----------
+lexington - plays Throne Room
+lexington - plays Remodel
+lexington - trashes Estate
+lexington - gains Throne Room
+lexington - plays Remodel
+lexington - trashes Copper
+lexington - gains Moat
+lexington - draws Copper, Remodel, Copper, Silver, Cellar
+ 
+---------- yuuna_tu: turn 7 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - draws Copper, Estate
+yuuna_tu - plays Festival
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Estate
+yuuna_tu - gains Throne Room
+yuuna_tu - plays 1 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Remodel, Silver, Copper, Throne Room, Copper
+ 
+---------- lexington: turn 8 ----------
+lexington - plays Remodel
+lexington - trashes Cellar
+lexington - gains Remodel
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Remodel
+lexington - gains Remodel
+lexington - draws Copper, Thief, Moat, Festival, Copper
+ 
+---------- yuuna_tu: turn 8 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Silver
+yuuna_tu - gains Festival
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Copper
+yuuna_tu - gains Moat
+yuuna_tu - draws Silver, Copper, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Throne Room, Festival
+ 
+---------- lexington: turn 9 ----------
+lexington - plays Festival
+lexington - plays Moat
+lexington - draws Estate, Copper
+lexington - plays Thief
+yuuna_tu - reveals: Remodel, Throne Room
+yuuna_tu - discards: Remodel, Throne Room
+lexington - plays 3 Copper
+lexington - buys Festival
+lexington - gains Festival
+lexington - shuffles deck
+lexington - draws Thief, Remodel, Moat, Festival, Silver
+ 
+---------- yuuna_tu: turn 9 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays 2 Copper, 1 Silver
+yuuna_tu - buys Library
+yuuna_tu - gains Library
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Copper, Moat, Remodel, Copper, Copper
+ 
+---------- lexington: turn 10 ----------
+lexington - plays Festival
+lexington - plays Moat
+lexington - draws Copper, Throne Room
+lexington - plays Throne Room
+lexington - plays Remodel
+lexington - trashes Thief
+lexington - gains Gold
+lexington - plays Remodel
+lexington - trashes Silver
+lexington - gains Festival
+lexington - plays 1 Copper
+lexington - buys Silver
+lexington - gains Silver
+lexington - draws Estate, Copper, Copper, Copper, Festival
+ 
+---------- yuuna_tu: turn 10 ----------
+yuuna_tu - plays Moat
+yuuna_tu - draws Cellar, Festival
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Copper, Cellar
+yuuna_tu - shuffles deck
+yuuna_tu - draws Throne Room, Copper, Silver
+ 
+---------- lexington: turn 11 ----------
+lexington - plays Festival
+lexington - plays 3 Copper
+lexington - buys Library
+lexington - gains Library
+lexington - draws Remodel, Copper, Throne Room, Remodel, Moat
+ 
+---------- yuuna_tu: turn 11 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - discards Silver
+yuuna_tu - draws Throne Room, Cellar, Remodel
+yuuna_tu - plays Cellar
+yuuna_tu - discards Remodel
+yuuna_tu - discards Cellar
+yuuna_tu - discards Throne Room
+yuuna_tu - draws Copper, Copper, Copper
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Festival, Cellar, Library, Copper, Festival
+ 
+---------- lexington: turn 12 ----------
+lexington - plays Throne Room
+lexington - plays Remodel
+lexington - trashes Remodel
+lexington - gains Gold
+lexington - plays Remodel
+lexington - trashes Moat
+lexington - gains Remodel
+lexington - draws Copper, Remodel
+lexington - shuffles deck
+lexington - draws Remodel, Festival, Library
+ 
+---------- yuuna_tu: turn 12 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - draws Remodel
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Moat to hand
+yuuna_tu - discards Cellar
+yuuna_tu - shuffles deck
+yuuna_tu - discards Cellar
+yuuna_tu - moves Remodel to hand
+yuuna_tu - draws Copper
+yuuna_tu - draws Copper
+yuuna_tu - discards Cellar
+yuuna_tu - draws Copper
+yuuna_tu - moves Throne Room to hand
+yuuna_tu - discards: Cellar, Cellar, Cellar
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Moat
+yuuna_tu - draws Copper, Copper
+yuuna_tu - plays Moat
+yuuna_tu - draws Silver, Copper
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Silver
+yuuna_tu - gains Festival
+yuuna_tu - plays 6 Copper
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - buys Library
+yuuna_tu - gains Library
+yuuna_tu - draws Throne Room, Silver
+yuuna_tu - shuffles deck
+yuuna_tu - draws Festival, Remodel, Copper
+ 
+---------- lexington: turn 13 ----------
+lexington - plays Festival
+lexington - plays Library
+lexington - draws Copper
+lexington - draws Gold
+lexington - draws Copper
+lexington - draws Copper
+lexington - plays Remodel
+lexington - trashes Remodel
+lexington - gains Gold
+lexington - plays 4 Copper, 1 Gold
+lexington - buys Library
+lexington - gains Library
+lexington - buys Throne Room
+lexington - gains Throne Room
+lexington - draws Remodel, Throne Room, Gold, Copper, Copper
+ 
+---------- yuuna_tu: turn 13 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Silver
+yuuna_tu - gains Festival
+yuuna_tu - plays 1 Copper
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Moat, Copper, Copper, Cellar, Throne Room
+ 
+---------- lexington: turn 14 ----------
+lexington - plays Remodel
+lexington - trashes Throne Room
+lexington - gains Gold
+lexington - plays 2 Copper, 1 Gold
+lexington - buys Festival
+lexington - gains Festival
+lexington - draws Estate, Silver, Remodel, Festival, Throne Room
+ 
+---------- yuuna_tu: turn 14 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - discards Moat
+yuuna_tu - draws Library, Cellar, Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Cellar
+yuuna_tu - discards Cellar
+yuuna_tu - draws Remodel, Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Remodel
+yuuna_tu - draws Copper
+yuuna_tu - plays Library
+yuuna_tu - moves Festival to hand
+yuuna_tu - draws Copper
+yuuna_tu - draws Copper
+yuuna_tu - moves Festival to hand
+yuuna_tu - moves Library to hand
+yuuna_tu - moves Festival to hand
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - shuffles deck
+yuuna_tu - discards Cellar
+yuuna_tu - draws Copper
+yuuna_tu - draws Copper
+yuuna_tu - discards Festival
+yuuna_tu - moves Remodel to hand
+yuuna_tu - discards Moat
+yuuna_tu - draws Copper
+yuuna_tu - discards: Cellar, Festival, Moat
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Copper
+yuuna_tu - gains Cellar
+yuuna_tu - plays 5 Copper
+yuuna_tu - buys Thief
+yuuna_tu - gains Thief
+yuuna_tu - buys Throne Room
+yuuna_tu - gains Throne Room
+yuuna_tu - buys Moat
+yuuna_tu - gains Moat
+yuuna_tu - draws Remodel, Cellar, Throne Room, Festival, Festival
+ 
+---------- lexington: turn 15 ----------
+lexington - plays Throne Room
+lexington - plays Festival
+lexington - plays Festival
+lexington - plays Remodel
+lexington - trashes Estate
+lexington - gains Thief
+lexington - plays 1 Silver
+lexington - buys Moat
+lexington - gains Moat
+lexington - buys Remodel
+lexington - gains Remodel
+lexington - draws Moat, Festival
+lexington - shuffles deck
+lexington - draws Remodel, Gold, Throne Room
+ 
+---------- yuuna_tu: turn 15 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Remodel
+yuuna_tu - discards Throne Room
+yuuna_tu - discards Festival
+yuuna_tu - shuffles deck
+yuuna_tu - draws Library, Throne Room, Moat
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - draws Copper
+yuuna_tu - moves Cellar to hand
+yuuna_tu - moves Library to hand
+yuuna_tu - draws Copper
+yuuna_tu - moves Remodel to hand
+yuuna_tu - discards Moat
+yuuna_tu - discards Cellar
+yuuna_tu - draws Copper
+yuuna_tu - discards: Moat, Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Moat
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - draws Festival, Festival, Throne Room, Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Festival to hand
+yuuna_tu - moves Throne Room to hand
+yuuna_tu - discards Remodel
+yuuna_tu - draws Copper
+yuuna_tu - moves Cellar to hand
+yuuna_tu - discards Festival
+yuuna_tu - draws Copper
+yuuna_tu - discards Cellar
+yuuna_tu - moves Thief to hand
+yuuna_tu - discards: Remodel, Festival, Cellar
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Thief
+lexington - reveals reaction Moat
+yuuna_tu - plays Thief
+lexington - reveals reaction Moat
+yuuna_tu - plays Festival
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Cellar
+yuuna_tu - gains Throne Room
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - shuffles deck
+yuuna_tu - draws Throne Room, Thief, Festival, Province, Festival
+ 
+---------- lexington: turn 16 ----------
+lexington - plays Festival
+lexington - plays Throne Room
+lexington - plays Moat
+lexington - draws Library, Copper
+lexington - plays Moat
+lexington - draws Remodel, Copper
+lexington - plays Library
+lexington - discards Remodel
+lexington - discards Festival
+lexington - discards Library
+lexington - discards Thief
+lexington - discards Throne Room
+lexington - discards Remodel
+lexington - discards Moat
+lexington - draws Silver
+lexington - draws Gold
+lexington - discards: Remodel, Festival, Library, Thief, Throne Room, Remodel, Moat
+lexington - plays 2 Gold, 2 Copper, 1 Silver
+lexington - buys Province
+lexington - gains Province
+lexington - buys Thief
+lexington - gains Thief
+lexington - draws Festival, Copper, Gold, Copper, Copper
+ 
+---------- yuuna_tu: turn 16 ----------
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Thief
+lexington - reveals: Copper, Gold
+lexington - trashes Gold
+lexington - discards Copper
+yuuna_tu - gains Gold
+yuuna_tu - buys Library
+yuuna_tu - gains Library
+yuuna_tu - draws Festival, Copper, Copper, Festival, Library
+ 
+---------- lexington: turn 17 ----------
+lexington - plays Festival
+lexington - plays 3 Copper, 1 Gold
+lexington - buys Province
+lexington - gains Province
+lexington - draws Festival
+lexington - shuffles deck
+lexington - draws Thief, Moat, Copper, Library
+ 
+---------- yuuna_tu: turn 17 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Library to hand
+yuuna_tu - moves Throne Room to hand
+yuuna_tu - moves Cellar to hand
+yuuna_tu - draws Province
+yuuna_tu - discards Cellar
+yuuna_tu - discards Moat
+yuuna_tu - discards Cellar
+yuuna_tu - draws Copper
+yuuna_tu - discards: Cellar, Moat, Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - draws Copper, Moat, Throne Room, Remodel
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Moat
+yuuna_tu - draws Remodel, Cellar
+yuuna_tu - plays Moat
+yuuna_tu - draws Festival, Throne Room
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Cellar
+yuuna_tu - discards Remodel
+yuuna_tu - discards Copper
+yuuna_tu - draws Copper, Festival
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Province
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - draws Province
+yuuna_tu - moves Festival to hand
+yuuna_tu - draws Copper
+yuuna_tu - discards Remodel
+yuuna_tu - moves Library to hand
+yuuna_tu - draws Copper
+yuuna_tu - discards Remodel
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - moves Cellar to hand
+yuuna_tu - discards Cellar
+yuuna_tu - moves Festival to hand
+yuuna_tu - discards Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Province
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - draws Thief, Moat, Copper, Copper
+yuuna_tu - plays Festival
+yuuna_tu - plays Moat
+yuuna_tu - draws Throne Room, Gold
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Thief
+lexington - reveals reaction Moat
+yuuna_tu - plays Thief
+lexington - reveals reaction Moat
+yuuna_tu - plays Remodel
+yuuna_tu - trashes Gold
+yuuna_tu - gains Province
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - draws Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Thief, Province, Copper, Festival
+ 
+---------- lexington: turn 18 ----------
+lexington - plays Festival
+lexington - plays Library
+lexington - draws Copper
+lexington - discards Remodel
+lexington - draws Copper
+lexington - discards Remodel
+lexington - draws Gold
+lexington - discards Thief
+lexington - draws Gold
+lexington - discards: Remodel, Remodel, Thief
+lexington - plays Thief
+yuuna_tu - reveals: Moat, Library
+yuuna_tu - discards: Moat, Library
+lexington - plays 3 Copper, 2 Gold
+lexington - buys Duchy
+lexington - gains Duchy
+lexington - buys Duchy
+lexington - gains Duchy
+lexington - draws Library, Gold, Province, Remodel, Remodel
+ 
+---------- yuuna_tu: turn 18 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Thief
+lexington - reveals: Throne Room, Festival
+lexington - discards: Throne Room, Festival
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Estate
+yuuna_tu - gains Estate
+yuuna_tu - buys Estate
+yuuna_tu - gains Estate
+yuuna_tu - draws Throne Room, Throne Room, Copper, Throne Room, Copper
+ 
+---------- lexington: turn 19 ----------
+lexington - plays Remodel
+lexington - trashes Remodel
+lexington - gains Gold
+lexington - plays 1 Gold
+lexington - buys Cellar
+lexington - gains Cellar
+lexington - draws Province, Copper, Silver, Copper, Copper
+ 
+---------- yuuna_tu: turn 19 ----------
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Library, Festival, Festival, Moat, Library
+ 
+---------- lexington: turn 20 ----------
+lexington - plays 3 Copper, 1 Silver
+lexington - buys Duchy
+lexington - gains Duchy
+lexington - draws Throne Room, Festival, Festival, Moat
+lexington - shuffles deck
+lexington - draws Remodel
+ 
+---------- yuuna_tu: turn 20 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - draws Province
+yuuna_tu - draws Province
+yuuna_tu - moves Festival to hand
+yuuna_tu - moves Cellar to hand
+yuuna_tu - draws Copper
+yuuna_tu - plays Cellar
+yuuna_tu - discards Province
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - discards Moat
+yuuna_tu - draws Throne Room, Province, Festival, Cellar
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Library
+yuuna_tu - discards Cellar
+yuuna_tu - draws Province
+yuuna_tu - discards Remodel
+yuuna_tu - discards Remodel
+yuuna_tu - moves Festival to hand
+yuuna_tu - discards Cellar
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper
+yuuna_tu - moves Cellar to hand
+yuuna_tu - discards Thief
+yuuna_tu - draws Estate
+yuuna_tu - discards: Cellar, Remodel, Remodel, Cellar, Thief
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Province
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - draws Province, Copper, Province, Copper
+yuuna_tu - plays Cellar
+yuuna_tu - discards Province
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - draws Province, Throne Room, Moat, Festival
+yuuna_tu - plays Throne Room
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Festival
+yuuna_tu - plays Moat
+yuuna_tu - draws Moat, Estate
+yuuna_tu - plays Moat
+yuuna_tu - draws Copper, Library
+yuuna_tu - plays Library
+yuuna_tu - draws Copper
+yuuna_tu - discards Throne Room
+yuuna_tu - discards Throne Room
+yuuna_tu - shuffles deck
+yuuna_tu - draws Province
+yuuna_tu - moves Cellar to hand
+yuuna_tu - draws Estate
+yuuna_tu - discards: Throne Room, Throne Room
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Province
+yuuna_tu - discards Estate
+yuuna_tu - discards Province
+yuuna_tu - draws Remodel, Province, Copper, Copper
+yuuna_tu - plays Remodel
+ 
+------------ Game Over ------------
+yuuna_tu - cards: 2 Throne Room, 1 Remodel, 1 Cellar, 1 Thief, 5 Copper, 5 Province, 2 Estate
+yuuna_tu - total victory points: 32
+yuuna_tu - turns: 19
+ 
+lexington - resigned
+lexington - cards: 4 Festival, 3 Remodel, 2 Throne Room, 2 Moat, 2 Thief, 2 Library, 1 Cellar, 6 Copper, 4 Gold, 1 Silver, 3 Duchy, 2 Province
+lexington - total victory points: 21
+lexington - turns: 20
+ 
+1st place: yuuna_tu
+2nd place: lexington
+ 

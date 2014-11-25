@@ -1,0 +1,479 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Workshop, Moneylender, Thief, Council Room, Festival, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Smoke_Screen - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Smoke_Screen - shuffles deck
+Monsieur X - draws Estate, Copper, Estate, Copper, Copper
+Smoke_Screen - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Smoke_Screen: turn 1 ----------
+Smoke_Screen - plays 3 Copper
+Smoke_Screen - buys Silver
+Smoke_Screen - gains Silver
+Smoke_Screen - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Moneylender
+Monsieur X - gains Moneylender
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Smoke_Screen: turn 2 ----------
+Smoke_Screen - plays 4 Copper
+Smoke_Screen - buys Moneylender
+Smoke_Screen - gains Moneylender
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Copper, Moneylender, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Moneylender, Copper, Silver, Copper
+ 
+---------- Smoke_Screen: turn 3 ----------
+Smoke_Screen - plays Moneylender
+Smoke_Screen - trashes Copper
+Smoke_Screen - plays 2 Copper
+Smoke_Screen - buys Council Room
+Smoke_Screen - gains Council Room
+Smoke_Screen - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Estate, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate
+ 
+---------- Smoke_Screen: turn 4 ----------
+Smoke_Screen - plays 3 Copper, 1 Silver
+Smoke_Screen - buys Festival
+Smoke_Screen - gains Festival
+Smoke_Screen - draws Estate, Copper
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Council Room, Silver, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Moneylender, Copper, Copper, Festival, Copper
+ 
+---------- Smoke_Screen: turn 5 ----------
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Copper, Copper, Copper, Festival
+Monsieur X - draws Silver
+Smoke_Screen - plays 5 Copper, 1 Silver
+Smoke_Screen - buys Festival
+Smoke_Screen - gains Festival
+Smoke_Screen - buys Cellar
+Smoke_Screen - gains Cellar
+Smoke_Screen - draws Copper, Estate, Moneylender, Estate
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Thief
+Monsieur X - gains Thief
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Moneylender, Silver
+ 
+---------- Smoke_Screen: turn 6 ----------
+Smoke_Screen - plays Moneylender
+Smoke_Screen - trashes Copper
+Smoke_Screen - plays 1 Copper
+Smoke_Screen - buys Silver
+Smoke_Screen - gains Silver
+Smoke_Screen - draws Silver, Copper, Festival, Council Room, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Copper
+Monsieur X - draws Thief
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - draws Festival, Copper, Festival, Estate, Silver
+ 
+---------- Smoke_Screen: turn 7 ----------
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Copper, Festival, Estate, Copper
+Monsieur X - draws Estate
+Smoke_Screen - plays Festival
+Smoke_Screen - plays 4 Copper, 1 Silver
+Smoke_Screen - buys Festival
+Smoke_Screen - gains Festival
+Smoke_Screen - buys Council Room
+Smoke_Screen - gains Council Room
+Smoke_Screen - draws Cellar
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Moneylender, Estate, Council Room, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Copper, Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Copper
+ 
+---------- Smoke_Screen: turn 8 ----------
+Smoke_Screen - plays Cellar
+Smoke_Screen - discards Copper
+Smoke_Screen - discards Estate
+Smoke_Screen - discards Moneylender
+Smoke_Screen - draws Copper, Estate, Copper
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Festival, Copper, Council Room, Estate
+Monsieur X - draws Council Room
+Smoke_Screen - plays 3 Copper
+Smoke_Screen - buys Silver
+Smoke_Screen - gains Silver
+Smoke_Screen - draws Silver, Festival, Festival, Copper, Silver
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Estate, Silver, Moneylender, Festival
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Silver
+Monsieur X - plays Festival
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - draws Cellar, Estate, Copper, Cellar, Thief
+ 
+---------- Smoke_Screen: turn 9 ----------
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Festival
+Smoke_Screen - plays 3 Silver, 1 Copper
+Smoke_Screen - buys Festival
+Smoke_Screen - gains Festival
+Smoke_Screen - buys Council Room
+Smoke_Screen - gains Council Room
+Smoke_Screen - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - draws Silver, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Moneylender
+Monsieur X - plays Thief
+Smoke_Screen - reveals: Cellar, Festival
+Smoke_Screen - discards: Cellar, Festival
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Estate, Estate, Silver, Estate, Copper
+ 
+---------- Smoke_Screen: turn 10 ----------
+Smoke_Screen - plays 2 Copper
+Smoke_Screen - buys Cellar
+Smoke_Screen - gains Cellar
+Smoke_Screen - draws Council Room, Copper, Copper, Council Room, Moneylender
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - draws Silver, Council Room, Council Room, Festival, Copper
+ 
+---------- Smoke_Screen: turn 11 ----------
+Smoke_Screen - plays Council Room
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Festival, Copper, Council Room, Estate
+Monsieur X - draws Copper
+Smoke_Screen - plays 3 Copper
+Smoke_Screen - buys Silver
+Smoke_Screen - gains Silver
+Smoke_Screen - draws Festival, Estate, Silver, Silver, Silver
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Festival, Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Cellar
+Smoke_Screen - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Festival, Estate, Cellar, Cellar
+Smoke_Screen - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Cellar
+Monsieur X - discards Cellar
+Monsieur X - draws Copper, Estate, Moat, Silver
+Monsieur X - plays Moat
+Monsieur X - draws Thief, Moneylender
+Monsieur X - plays Thief
+Smoke_Screen - reveals: Estate, Copper
+Smoke_Screen - trashes Copper
+Smoke_Screen - discards Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Silver, 2 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Moat, Festival, Estate, Thief, Cellar
+ 
+---------- Smoke_Screen: turn 12 ----------
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Festival
+Smoke_Screen - plays 3 Silver
+Smoke_Screen - buys Province
+Smoke_Screen - gains Province
+Smoke_Screen - buys Silver
+Smoke_Screen - gains Silver
+Smoke_Screen - draws Cellar, Copper, Cellar
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Copper, Festival
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Festival, Cellar
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Thief
+Monsieur X - discards Cellar
+Monsieur X - draws Moat, Estate, Cellar
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Silver, Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Silver
+Monsieur X - draws Silver, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Province, Festival, Estate, Moneylender, Council Room
+ 
+---------- Smoke_Screen: turn 13 ----------
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Cellar
+Smoke_Screen - discards Copper
+Smoke_Screen - discards Copper
+Smoke_Screen - draws Copper, Silver
+Smoke_Screen - plays 1 Copper, 1 Silver
+Smoke_Screen - buys Council Room
+Smoke_Screen - gains Council Room
+Smoke_Screen - draws Silver, Council Room, Moneylender, Silver, Silver
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Council Room, Copper, Moat, Copper
+Smoke_Screen - draws Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Moat, Council Room, Thief, Silver
+ 
+---------- Smoke_Screen: turn 14 ----------
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Festival, Province, Silver, Estate
+Monsieur X - draws Moat
+Smoke_Screen - plays 4 Silver
+Smoke_Screen - buys Province
+Smoke_Screen - gains Province
+Smoke_Screen - draws Estate, Council Room, Copper, Festival, Council Room
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Moat
+Monsieur X - discards Thief
+Monsieur X - discards Silver
+Monsieur X - discards Moat
+Monsieur X - draws Festival, Market, Moat, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Festival, Festival, Estate, Cellar
+Smoke_Screen - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Festival, Estate
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - draws Cellar, Moneylender, Province
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Moneylender
+Monsieur X - discards Province
+Monsieur X - draws Council Room, Market
+Monsieur X - plays Council Room
+Monsieur X - draws Silver, Festival, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Smoke_Screen - shuffles deck
+Smoke_Screen - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Estate, Province
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Thief, Estate, Silver, Moat, Moneylender
+ 
+---------- Smoke_Screen: turn 15 ----------
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Cellar, Province, Moneylender, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar
+Smoke_Screen - plays Council Room
+Smoke_Screen - draws Silver, Festival, Silver, Festival
+Monsieur X - draws Cellar
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Festival
+Smoke_Screen - plays Cellar
+Smoke_Screen - discards Province
+Smoke_Screen - discards Estate
+Smoke_Screen - draws Estate, Copper
+Smoke_Screen - plays Moneylender
+Smoke_Screen - trashes Copper
+Smoke_Screen - plays 3 Silver, 2 Copper
+Smoke_Screen - buys Province
+Smoke_Screen - gains Province
+Smoke_Screen - buys Province
+Smoke_Screen - gains Province
+Smoke_Screen - buys Estate
+Smoke_Screen - gains Estate
+Smoke_Screen - draws Cellar, Council Room, Province, Council Room, Silver
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Thief
+Monsieur X - discards Silver
+Monsieur X - discards Moat
+Monsieur X - discards Moneylender
+Monsieur X - draws Copper, Festival, Silver, Estate, Moat
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Market, Market
+Monsieur X - plays Market
+Monsieur X - draws Moat
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Festival, Council Room
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Province, Festival, Council Room, Estate
+Smoke_Screen - draws Estate
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Festival, Province, Province, Festival
+Smoke_Screen - draws Copper
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Province
+Monsieur X - discards Province
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - draws Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Moat, Estate, Thief, Estate
+Monsieur X - plays Moat
+Monsieur X - draws Moneylender, Silver
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Thief
+Monsieur X - draws Province, Province, Province
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Market, Province, Province
+ 
+------------ Game Over ------------
+Monsieur X - cards: 6 Festival, 3 Cellar, 3 Moat, 2 Market, 2 Council Room, 1 Moneylender, 1 Thief, 2 Silver, 4 Estate, 4 Province, 2 Duchy
+Monsieur X - total victory points: 34
+Monsieur X - turns: 16
+ 
+Smoke_Screen - cards: 4 Council Room, 4 Festival, 2 Cellar, 1 Moneylender, 5 Silver, 3 Copper, 4 Province, 4 Estate
+Smoke_Screen - total victory points: 28
+Smoke_Screen - turns: 15
+ 
+1st place: Monsieur X
+2nd place: Smoke_Screen
+ 

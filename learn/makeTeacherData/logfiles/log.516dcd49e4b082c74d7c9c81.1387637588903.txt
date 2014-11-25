@@ -1,0 +1,527 @@
+------------ Game Setup ------------
+Supply cards: Village, Woodcutter, Bureaucrat, Feast, Council Room, Festival, Market, Mine, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+kutagame - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kutagame - shuffles deck
+Monsieur X - shuffles deck
+kutagame - draws Copper, Copper, Estate, Copper, Copper
+Monsieur X - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- kutagame: turn 1 ----------
+kutagame - plays 4 Copper
+kutagame - buys Feast
+kutagame - gains Feast
+kutagame - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Feast
+Monsieur X - gains Feast
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- kutagame: turn 2 ----------
+kutagame - plays 3 Copper
+kutagame - buys Silver
+kutagame - gains Silver
+kutagame - shuffles deck
+kutagame - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- kutagame: turn 3 ----------
+kutagame - plays 4 Copper
+kutagame - buys Village
+kutagame - gains Village
+kutagame - draws Feast, Copper, Estate, Estate, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Feast, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Witch
+ 
+---------- kutagame: turn 4 ----------
+kutagame - plays Feast
+kutagame - trashes Feast
+kutagame - gains Witch
+kutagame - draws Copper, Silver
+kutagame - shuffles deck
+kutagame - draws Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Copper
+kutagame - gains Curse
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Copper, Silver, Silver, Copper
+ 
+---------- kutagame: turn 5 ----------
+kutagame - plays 2 Copper, 1 Silver
+kutagame - buys Village
+kutagame - gains Village
+kutagame - draws Copper, Copper, Village, Copper, Estate
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Copper
+ 
+---------- kutagame: turn 6 ----------
+kutagame - plays Village
+kutagame - draws Witch
+kutagame - plays Witch
+kutagame - draws Copper, Copper
+Monsieur X - gains Curse
+kutagame - plays 5 Copper
+kutagame - buys Witch
+kutagame - gains Witch
+kutagame - shuffles deck
+kutagame - draws Estate, Copper, Copper, Copper, Witch
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Silver, Copper, Witch, Copper
+ 
+---------- kutagame: turn 7 ----------
+kutagame - plays Witch
+kutagame - draws Copper, Silver
+Monsieur X - gains Curse
+kutagame - plays 4 Copper, 1 Silver
+kutagame - buys Festival
+kutagame - gains Festival
+kutagame - draws Curse, Copper, Witch, Estate, Village
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Feast, Gold
+kutagame - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Estate, Silver, Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Curse
+ 
+---------- kutagame: turn 8 ----------
+kutagame - plays Village
+kutagame - draws Copper
+kutagame - plays Witch
+kutagame - draws Village, Copper
+Monsieur X - gains Curse
+kutagame - plays Village
+kutagame - draws Estate
+kutagame - plays 3 Copper
+kutagame - buys Village
+kutagame - gains Village
+kutagame - shuffles deck
+kutagame - draws Silver, Copper, Village, Curse, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Curse, Copper, Copper, Copper, Gold
+ 
+---------- kutagame: turn 9 ----------
+kutagame - plays Village
+kutagame - draws Curse
+kutagame - plays 1 Silver, 1 Copper
+kutagame - buys Village
+kutagame - gains Village
+kutagame - draws Estate, Village, Copper, Copper, Festival
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays 3 Copper, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Gold, Silver, Witch, Feast
+ 
+---------- kutagame: turn 10 ----------
+kutagame - plays Festival
+kutagame - plays Village
+kutagame - draws Witch
+kutagame - plays Witch
+kutagame - draws Copper, Estate
+Monsieur X - gains Curse
+kutagame - plays 3 Copper
+kutagame - buys Festival
+kutagame - gains Festival
+kutagame - draws Village, Copper, Witch, Copper, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Witch
+kutagame - gains Curse
+Monsieur X - plays 1 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver, Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Witch
+ 
+---------- kutagame: turn 11 ----------
+kutagame - plays Village
+kutagame - shuffles deck
+kutagame - draws Estate
+kutagame - plays Witch
+kutagame - draws Copper, Copper
+Monsieur X - gains Curse
+kutagame - plays 5 Copper
+kutagame - buys Market
+kutagame - gains Market
+kutagame - draws Witch, Village, Curse, Copper, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Gold
+kutagame - gains Curse
+Monsieur X - plays 3 Copper, 1 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Gold, Silver, Curse, Copper, Silver
+ 
+---------- kutagame: turn 12 ----------
+kutagame - plays Village
+kutagame - draws Festival
+kutagame - plays Festival
+kutagame - plays Witch
+kutagame - draws Silver, Village
+Monsieur X - gains Curse
+kutagame - plays Village
+kutagame - draws Estate
+kutagame - plays 2 Copper, 1 Silver
+kutagame - buys Gold
+kutagame - gains Gold
+kutagame - draws Curse, Village, Estate, Festival, Curse
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays 2 Silver, 1 Gold, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Feast, Estate, Copper, Curse, Gold
+ 
+---------- kutagame: turn 13 ----------
+kutagame - plays Festival
+kutagame - plays Village
+kutagame - shuffles deck
+kutagame - draws Market
+kutagame - plays Market
+kutagame - draws Witch
+kutagame - plays Witch
+kutagame - draws Village, Copper
+kutagame - plays Village
+kutagame - draws Gold
+kutagame - plays 1 Copper, 1 Gold
+kutagame - buys Gold
+kutagame - gains Gold
+kutagame - draws Estate, Copper, Copper, Copper, Village
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Feast
+Monsieur X - trashes Feast
+Monsieur X - gains Council Room
+Monsieur X - plays 1 Copper, 1 Gold
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Curse, Silver, Copper, Witch, Copper
+ 
+---------- kutagame: turn 14 ----------
+kutagame - plays Village
+kutagame - draws Witch
+kutagame - plays Witch
+kutagame - draws Silver, Copper
+kutagame - plays 4 Copper, 1 Silver
+kutagame - buys Council Room
+kutagame - gains Council Room
+kutagame - draws Copper, Village, Estate, Festival, Curse
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Estate, Curse
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Curse, Silver, Copper
+ 
+---------- kutagame: turn 15 ----------
+kutagame - plays Festival
+kutagame - plays Village
+kutagame - draws Copper
+kutagame - plays 2 Copper
+kutagame - buys Feast
+kutagame - gains Feast
+kutagame - draws Curse
+kutagame - shuffles deck
+kutagame - draws Copper, Witch, Market, Gold
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Gold, Province, Curse, Witch, Silver
+ 
+---------- kutagame: turn 16 ----------
+kutagame - plays Market
+kutagame - draws Curse
+kutagame - plays Witch
+kutagame - draws Festival, Feast
+kutagame - plays 1 Copper, 1 Gold
+kutagame - buys Market
+kutagame - gains Market
+kutagame - draws Copper, Copper, Village, Village, Estate
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Silver, Estate
+Monsieur X - plays 2 Silver, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver, Curse, Copper, Copper, Copper
+ 
+---------- kutagame: turn 17 ----------
+kutagame - plays Village
+kutagame - draws Council Room
+kutagame - plays Village
+kutagame - draws Gold
+kutagame - plays Council Room
+kutagame - draws Village, Copper, Estate, Curse
+Monsieur X - draws Estate
+kutagame - plays Village
+kutagame - draws Witch
+kutagame - plays Witch
+kutagame - draws Copper, Estate
+kutagame - plays 4 Copper, 1 Gold
+kutagame - buys Gold
+kutagame - gains Gold
+kutagame - draws Copper, Copper, Festival, Village, Curse
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - draws Curse, Silver, Curse, Estate, Council Room
+ 
+---------- kutagame: turn 18 ----------
+kutagame - plays Village
+kutagame - draws Silver
+kutagame - plays Festival
+kutagame - plays 2 Copper, 1 Silver
+kutagame - buys Gold
+kutagame - gains Gold
+kutagame - shuffles deck
+kutagame - draws Curse, Curse, Copper, Copper, Festival
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Council Room
+Monsieur X - draws Silver, Gold, Copper, Curse
+kutagame - draws Estate
+Monsieur X - plays 2 Silver, 1 Gold, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Witch, Province, Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+ 
+---------- kutagame: turn 19 ----------
+kutagame - plays Festival
+kutagame - plays 2 Copper
+kutagame - buys Feast
+kutagame - gains Feast
+kutagame - draws Estate, Silver, Gold, Village, Copper
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Curse, Copper
+Monsieur X - plays 2 Copper, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Gold, Province, Silver, Silver, Gold
+ 
+---------- kutagame: turn 20 ----------
+kutagame - plays Village
+kutagame - draws Village
+kutagame - plays Village
+kutagame - draws Curse
+kutagame - plays 1 Silver, 1 Gold, 1 Copper
+kutagame - buys Duchy
+kutagame - gains Duchy
+kutagame - draws Village, Estate, Witch, Gold, Gold
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays 2 Gold, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Curse, Copper, Curse, Council Room, Copper
+ 
+---------- kutagame: turn 21 ----------
+kutagame - plays Village
+kutagame - draws Market
+kutagame - plays Witch
+kutagame - draws Market, Village
+kutagame - plays Market
+kutagame - draws Curse
+kutagame - plays Market
+kutagame - draws Witch
+kutagame - plays Village
+kutagame - draws Copper
+kutagame - plays Witch
+kutagame - draws Copper, Festival
+kutagame - plays Festival
+kutagame - plays 2 Gold, 2 Copper
+kutagame - buys Province
+kutagame - gains Province
+kutagame - buys Village
+kutagame - gains Village
+kutagame - draws Feast, Gold, Copper, Council Room, Copper
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Council Room
+Monsieur X - draws Council Room, Gold, Estate, Gold
+kutagame - shuffles deck
+kutagame - draws Village
+Monsieur X - plays 2 Copper, 2 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Copper, Duchy, Copper, Copper, Silver
+ 
+---------- kutagame: turn 22 ----------
+kutagame - plays Village
+kutagame - draws Witch
+kutagame - plays Council Room
+kutagame - draws Estate, Village, Copper, Province
+Monsieur X - draws Copper
+kutagame - plays Village
+kutagame - draws Curse
+kutagame - plays Witch
+kutagame - draws Feast, Copper
+kutagame - plays Feast
+kutagame - trashes Feast
+kutagame - gains Duchy
+kutagame - plays 4 Copper, 1 Gold
+kutagame - buys Duchy
+kutagame - gains Duchy
+kutagame - buys Estate
+kutagame - gains Estate
+kutagame - draws Curse, Market, Village, Copper, Silver
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Curse, Curse, Witch, Estate
+ 
+---------- kutagame: turn 23 ----------
+kutagame - plays Village
+kutagame - draws Gold
+kutagame - plays Market
+kutagame - draws Estate
+kutagame - plays 1 Copper, 1 Silver, 1 Gold
+kutagame - buys Duchy
+kutagame - gains Duchy
+kutagame - buys Estate
+kutagame - gains Estate
+kutagame - draws Duchy, Gold, Village, Witch, Festival
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Province, Silver
+Monsieur X - plays 2 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Curse, Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Province, Province, Copper
+ 
+---------- kutagame: turn 24 ----------
+kutagame - plays Village
+kutagame - draws Market
+kutagame - plays Festival
+kutagame - plays Market
+kutagame - draws Copper
+kutagame - plays Witch
+kutagame - draws Estate, Village
+kutagame - plays Village
+kutagame - draws Curse
+kutagame - plays 1 Gold, 1 Copper
+kutagame - buys Duchy
+kutagame - gains Duchy
+kutagame - buys Estate
+kutagame - gains Estate
+kutagame - draws Curse, Festival, Gold, Copper
+kutagame - shuffles deck
+kutagame - draws Estate
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate, Copper, Council Room, Witch, Silver
+ 
+---------- kutagame: turn 25 ----------
+kutagame - plays Festival
+kutagame - plays 1 Gold, 1 Copper
+kutagame - buys Gold
+kutagame - gains Gold
+kutagame - draws Duchy, Duchy, Village, Estate, Feast
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays Council Room
+Monsieur X - draws Estate, Curse, Copper, Province
+kutagame - draws Estate
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Curse, Gold, Gold, Silver, Curse
+ 
+---------- kutagame: turn 26 ----------
+kutagame - plays Village
+kutagame - draws Gold
+kutagame - plays Feast
+kutagame - trashes Feast
+kutagame - gains Estate
+kutagame - plays 1 Gold
+kutagame - buys Silver
+kutagame - gains Silver
+kutagame - draws Market, Curse, Village, Market, Copper
+ 
+------------ Game Over ------------
+Monsieur X - cards: 2 Council Room, 2 Witch, 9 Copper, 6 Silver, 5 Gold, 7 Estate, 5 Province, 3 Duchy, 6 Curse
+Monsieur X - total victory points: 40
+Monsieur X - turns: 26
+ 
+kutagame - cards: 5 Village, 2 Market, 2 Festival, 2 Witch, 1 Council Room, 7 Copper, 5 Gold, 2 Silver, 7 Estate, 5 Duchy, 1 Province, 4 Curse
+kutagame - total victory points: 24
+kutagame - turns: 26
+ 
+1st place: Monsieur X
+2nd place: kutagame
+ 

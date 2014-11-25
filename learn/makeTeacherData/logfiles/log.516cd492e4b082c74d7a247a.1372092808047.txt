@@ -1,0 +1,473 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Feast, Moneylender, Smithy, Spy, Festival, Laboratory, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nh - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+nh - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Copper, Estate
+nh - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- nh: turn 1 ----------
+nh - plays 4 Copper
+nh - buys Moneylender
+nh - gains Moneylender
+nh - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Moneylender
+Monsieur X - gains Moneylender
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- nh: turn 2 ----------
+nh - plays 3 Copper
+nh - buys Silver
+nh - gains Silver
+nh - shuffles deck
+nh - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Copper, Moneylender, Estate, Silver
+ 
+---------- nh: turn 3 ----------
+nh - plays 4 Copper
+nh - buys Spy
+nh - gains Spy
+nh - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Laboratory
+ 
+---------- nh: turn 4 ----------
+nh - plays 3 Copper, 1 Silver
+nh - buys Festival
+nh - gains Festival
+nh - draws Moneylender, Estate
+nh - shuffles deck
+nh - draws Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Copper
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Laboratory, Copper, Moneylender, Estate, Copper
+ 
+---------- nh: turn 5 ----------
+nh - plays Moneylender
+nh - trashes Copper
+nh - plays 1 Copper
+nh - buys Spy
+nh - gains Spy
+nh - draws Copper, Copper, Silver, Estate, Spy
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Festival, Copper, Laboratory, Silver, Copper
+ 
+---------- nh: turn 6 ----------
+nh - plays Spy
+nh - draws Copper
+nh - places Festival on top of deck
+Monsieur X - places Copper on top of deck
+nh - plays 3 Copper, 1 Silver
+nh - buys Laboratory
+nh - gains Laboratory
+nh - draws Festival, Copper, Copper
+nh - shuffles deck
+nh - draws Estate, Estate
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Estate
+Monsieur X - plays Festival
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate, Laboratory, Market
+ 
+---------- nh: turn 7 ----------
+nh - plays Festival
+nh - plays 2 Copper
+nh - buys Moat
+nh - gains Moat
+nh - buys Moat
+nh - gains Moat
+nh - draws Copper, Laboratory, Estate, Copper, Silver
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Copper
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Estate
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Moat, Copper, Festival, Laboratory
+ 
+---------- nh: turn 8 ----------
+nh - plays Laboratory
+nh - draws Spy, Moneylender
+nh - plays Spy
+Monsieur X - reveals reaction Moat
+nh - draws Copper
+nh - places Spy on top of deck
+nh - plays Moneylender
+nh - trashes Copper
+nh - plays 2 Copper, 1 Silver
+nh - buys Gold
+nh - gains Gold
+nh - draws Spy, Copper
+nh - shuffles deck
+nh - draws Spy, Copper, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Gold
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Estate, Silver
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Copper, Estate, Estate, Laboratory, Moneylender
+ 
+---------- nh: turn 9 ----------
+nh - plays Spy
+nh - draws Moat
+nh - places Laboratory on top of deck
+Monsieur X - discards Laboratory
+nh - plays Spy
+nh - draws Laboratory
+nh - discards Copper
+Monsieur X - discards Market
+nh - plays Laboratory
+nh - draws Gold, Festival
+nh - plays Festival
+nh - plays Moat
+nh - draws Estate, Silver
+nh - plays 2 Copper, 1 Gold, 1 Silver
+nh - buys Festival
+nh - gains Festival
+nh - buys Smithy
+nh - gains Smithy
+nh - draws Moat, Estate, Moneylender, Copper, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Gold, Laboratory, Silver, Moat, Copper
+ 
+---------- nh: turn 10 ----------
+nh - plays Moneylender
+nh - trashes Copper
+nh - plays 1 Copper
+nh - buys Smithy
+nh - gains Smithy
+nh - shuffles deck
+nh - draws Silver, Smithy, Smithy, Copper, Festival
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Smithy, Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Gold, Estate, Market
+Monsieur X - plays 2 Gold, 2 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Market, Laboratory, Laboratory
+ 
+---------- nh: turn 11 ----------
+nh - plays Festival
+nh - plays Smithy
+nh - draws Estate, Moat, Spy
+nh - plays Spy
+nh - draws Spy
+nh - places Gold on top of deck
+Monsieur X - places Copper on top of deck
+nh - plays Spy
+nh - draws Gold
+nh - places Laboratory on top of deck
+Monsieur X - places Copper on top of deck
+nh - plays Smithy
+nh - draws Laboratory, Estate, Moneylender
+nh - plays 1 Silver, 1 Copper, 1 Gold
+nh - buys Province
+nh - gains Province
+nh - draws Copper, Estate, Copper, Moat, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Estate
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Gold
+Monsieur X - plays 3 Copper, 2 Gold, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Festival, Gold, Moat, Moneylender, Smithy
+ 
+---------- nh: turn 12 ----------
+nh - plays Moat
+nh - draws Festival
+nh - shuffles deck
+nh - draws Silver
+nh - plays 3 Copper, 1 Silver
+nh - buys Festival
+nh - gains Festival
+nh - draws Moat, Spy, Smithy, Province, Gold
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Estate, Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Market, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Gold
+Monsieur X - plays Market
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Copper
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Gold, 1 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Silver, Gold, Copper, Laboratory, Laboratory
+ 
+---------- nh: turn 13 ----------
+nh - plays Spy
+nh - draws Estate
+nh - discards Estate
+Monsieur X - places Estate on top of deck
+nh - plays Smithy
+nh - draws Spy, Laboratory, Moneylender
+nh - plays 1 Gold
+nh - buys Silver
+nh - gains Silver
+nh - draws Smithy, Festival, Copper
+nh - shuffles deck
+nh - draws Copper, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Gold
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Moneylender
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Gold, Festival, Laboratory, Festival, Laboratory
+ 
+---------- nh: turn 14 ----------
+nh - plays Festival
+nh - plays Smithy
+nh - draws Estate, Copper, Estate
+nh - plays 4 Copper
+nh - buys Gold
+nh - gains Gold
+nh - draws Moat, Laboratory, Moneylender, Festival, Moat
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Smithy, Market
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Gold, Copper, Estate
+Monsieur X - plays Market
+Monsieur X - draws Smithy
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Monsieur X - plays Festival
+Monsieur X - plays Moat
+Monsieur X - draws Gold, Moat
+Monsieur X - plays Moat
+Monsieur X - draws Silver, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Moneylender, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Gold
+Monsieur X - plays Moneylender
+Monsieur X - trashes Copper
+Monsieur X - plays 4 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Moneylender, Estate, Province, Gold, Festival
+ 
+---------- nh: turn 15 ----------
+nh - plays Laboratory
+nh - draws Spy, Province
+nh - plays Spy
+nh - draws Spy
+nh - discards Estate
+Monsieur X - discards Festival
+nh - plays Spy
+nh - draws Silver
+nh - places Gold on top of deck
+Monsieur X - places Estate on top of deck
+nh - plays Festival
+nh - plays Moat
+nh - draws Gold, Silver
+nh - plays Moat
+nh - draws Festival, Smithy
+nh - plays 2 Silver, 1 Gold
+nh - buys Province
+nh - gains Province
+nh - shuffles deck
+nh - draws Province, Gold, Moat, Copper, Spy
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Festival
+Monsieur X - plays 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Estate, Smithy, Province, Laboratory, Festival
+ 
+---------- nh: turn 16 ----------
+nh - plays Spy
+nh - draws Silver
+nh - discards Moat
+Monsieur X - places Province on top of deck
+nh - plays Moat
+nh - draws Estate, Moneylender
+nh - plays 1 Gold, 1 Copper, 1 Silver
+nh - buys Duchy
+nh - gains Duchy
+nh - draws Province, Smithy, Estate, Estate, Laboratory
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Gold
+Monsieur X - plays Smithy
+Monsieur X - draws Laboratory, Smithy, Gold
+Monsieur X - plays Laboratory
+Monsieur X - draws Festival, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver, Gold, Moat
+Monsieur X - plays Moat
+Monsieur X - draws Moat, Estate
+Monsieur X - plays Moat
+Monsieur X - draws Smithy, Laboratory
+Monsieur X - plays 3 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Laboratory, Market
+Monsieur X - shuffles deck
+Monsieur X - draws Province, Province, Laboratory
+ 
+---------- nh: turn 17 ----------
+nh - plays Laboratory
+nh - draws Festival, Smithy
+nh - plays Festival
+nh - plays Smithy
+nh - draws Copper, Festival, Copper
+nh - plays Festival
+nh - plays Smithy
+nh - draws Silver, Festival, Copper
+nh - plays Festival
+nh - plays 3 Copper, 1 Silver
+nh - buys Province
+nh - gains Province
+nh - buys Estate
+nh - gains Estate
+nh - draws Spy, Gold
+nh - shuffles deck
+nh - draws Spy, Province, Moat
+ 
+------------ Game Over ------------
+Monsieur X - cards: 5 Festival, 4 Laboratory, 3 Smithy, 2 Moat, 1 Market, 1 Moneylender, 4 Gold, 1 Silver, 5 Province, 3 Estate, 1 Duchy
+Monsieur X - total victory points: 36
+Monsieur X - turns: 17
+ 
+nh - cards: 3 Festival, 2 Spy, 2 Moat, 2 Smithy, 1 Laboratory, 1 Moneylender, 4 Copper, 2 Gold, 2 Silver, 4 Estate, 3 Province, 1 Duchy
+nh - total victory points: 25
+nh - turns: 17
+ 
+1st place: Monsieur X
+2nd place: nh
+ 

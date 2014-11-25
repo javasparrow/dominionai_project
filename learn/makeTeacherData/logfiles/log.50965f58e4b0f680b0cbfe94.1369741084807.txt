@@ -1,0 +1,338 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Workshop, Bureaucrat, Remodel, Smithy, Spy, Thief, Council Room, Laboratory, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+pilot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pilot - shuffles deck
+dudeabides - shuffles deck
+pilot - draws Estate, Copper, Copper, Copper, Copper
+dudeabides - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- pilot: turn 1 ----------
+pilot - plays 4 Copper
+pilot - buys Smithy
+pilot - gains Smithy
+pilot - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- pilot: turn 2 ----------
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - shuffles deck
+pilot - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Estate, Copper, Copper, Silver, Estate
+ 
+---------- pilot: turn 3 ----------
+pilot - plays 3 Copper, 1 Silver
+pilot - buys Council Room
+pilot - gains Council Room
+pilot - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- pilot: turn 4 ----------
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Smithy, Copper
+pilot - shuffles deck
+pilot - draws Silver, Copper, Council Room
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Copper, Copper
+dudeabides - shuffles deck
+dudeabides - draws Silver, Silver, Laboratory
+ 
+---------- pilot: turn 5 ----------
+pilot - plays Smithy
+pilot - draws Silver, Estate, Copper
+pilot - plays 3 Copper, 2 Silver
+pilot - buys Gold
+pilot - gains Gold
+pilot - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Copper
+dudeabides - plays 4 Copper, 2 Silver
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- pilot: turn 6 ----------
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Copper
+pilot - shuffles deck
+pilot - draws Estate, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Estate
+dudeabides - shuffles deck
+dudeabides - draws Silver, Copper, Estate
+ 
+---------- pilot: turn 7 ----------
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Silver, Copper, Council Room, Silver, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Smithy
+dudeabides - gains Smithy
+dudeabides - draws Copper, Copper, Province, Copper, Silver
+ 
+---------- pilot: turn 8 ----------
+pilot - plays Council Room
+pilot - draws Estate, Copper, Silver, Gold
+dudeabides - draws Silver
+pilot - plays 3 Silver, 3 Copper, 1 Gold
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - draws Smithy, Copper
+pilot - shuffles deck
+pilot - draws Silver, Silver, Copper
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays 3 Copper, 2 Silver
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - draws Copper, Copper, Estate, Laboratory, Silver
+ 
+---------- pilot: turn 9 ----------
+pilot - plays Smithy
+pilot - draws Laboratory, Copper, Estate
+pilot - plays 3 Copper, 2 Silver
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - draws Gold, Copper, Silver, Council Room, Silver
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays Laboratory
+dudeabides - shuffles deck
+dudeabides - draws Smithy, Copper
+dudeabides - plays Smithy
+dudeabides - draws Gold, Copper, Province
+dudeabides - plays 4 Copper, 1 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- pilot: turn 10 ----------
+pilot - plays 2 Silver, 1 Gold, 1 Copper
+pilot - buys Province
+pilot - gains Province
+pilot - draws Copper, Estate, Copper, Laboratory, Copper
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays 2 Copper, 2 Silver
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - draws Estate, Copper, Silver
+dudeabides - shuffles deck
+dudeabides - draws Estate, Silver
+ 
+---------- pilot: turn 11 ----------
+pilot - plays Laboratory
+pilot - draws Estate
+pilot - shuffles deck
+pilot - draws Province
+pilot - plays 3 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Smithy, Estate, Council Room, Silver, Gold
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays 2 Silver, 1 Copper
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Copper, Province, Gold, Silver, Copper
+ 
+---------- pilot: turn 12 ----------
+pilot - plays Smithy
+pilot - draws Silver, Laboratory, Laboratory
+pilot - plays 2 Silver, 1 Gold
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays 2 Copper, 1 Gold, 1 Silver
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Laboratory, Silver, Gold, Copper, Smithy
+ 
+---------- pilot: turn 13 ----------
+pilot - plays 3 Copper, 2 Silver
+pilot - buys Mine
+pilot - gains Mine
+pilot - draws Copper
+pilot - shuffles deck
+pilot - draws Mine, Council Room, Laboratory, Silver
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Province, Copper
+dudeabides - plays Smithy
+dudeabides - draws Copper, Estate, Copper
+dudeabides - plays 4 Copper, 1 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - shuffles deck
+dudeabides - draws Copper, Gold, Copper, Estate, Silver
+ 
+---------- pilot: turn 14 ----------
+pilot - plays Laboratory
+pilot - draws Estate, Silver
+pilot - plays Mine
+pilot - trashes Silver
+pilot - gains Gold
+pilot - plays 1 Copper, 1 Silver, 1 Gold
+pilot - buys Duchy
+pilot - gains Duchy
+pilot - draws Copper, Silver, Laboratory, Copper, Copper
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays 2 Copper, 1 Gold, 1 Silver
+dudeabides - buys Laboratory
+dudeabides - gains Laboratory
+dudeabides - draws Gold, Province, Laboratory, Estate, Silver
+ 
+---------- pilot: turn 15 ----------
+pilot - plays Laboratory
+pilot - draws Province, Silver
+pilot - plays 3 Copper, 2 Silver
+pilot - buys Duchy
+pilot - gains Duchy
+pilot - draws Estate, Copper, Gold, Copper, Laboratory
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Silver
+dudeabides - plays 2 Silver, 1 Gold, 1 Copper
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper, Province, Silver, Laboratory, Copper
+ 
+---------- pilot: turn 16 ----------
+pilot - plays Laboratory
+pilot - draws Smithy, Copper
+pilot - plays Smithy
+pilot - draws Silver, Estate, Laboratory
+pilot - plays 3 Copper, 1 Gold, 1 Silver
+pilot - buys Province
+pilot - gains Province
+pilot - shuffles deck
+pilot - draws Estate, Laboratory, Copper, Laboratory, Smithy
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Estate
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Province, Smithy, Laboratory, Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- pilot: turn 17 ----------
+pilot - plays Laboratory
+pilot - draws Duchy, Laboratory
+pilot - plays Laboratory
+pilot - draws Mine, Estate
+pilot - plays Laboratory
+pilot - draws Copper, Silver
+pilot - plays Mine
+pilot - trashes Silver
+pilot - gains Gold
+pilot - plays 2 Copper, 1 Gold
+pilot - buys Duchy
+pilot - gains Duchy
+pilot - draws Gold, Copper, Copper, Province, Silver
+ 
+---------- dudeabides: turn 17 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Copper, Estate
+dudeabides - plays Smithy
+dudeabides - draws Estate, Laboratory, Gold
+dudeabides - plays 3 Copper, 1 Gold
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Silver, Province, Duchy, Laboratory, Copper
+ 
+---------- pilot: turn 18 ----------
+pilot - plays 2 Copper, 1 Gold, 1 Silver
+pilot - buys Duchy
+pilot - gains Duchy
+pilot - draws Council Room, Duchy, Gold, Laboratory, Copper
+ 
+---------- dudeabides: turn 18 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Estate, Province
+dudeabides - plays 1 Silver, 1 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Silver, Province, Copper, Silver
+ 
+---------- pilot: turn 19 ----------
+pilot - plays Laboratory
+pilot - draws Copper, Copper
+pilot - plays Council Room
+pilot - draws Estate, Silver, Silver, Province
+dudeabides - draws Laboratory
+pilot - plays 3 Copper, 2 Silver, 1 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - buys Estate
+pilot - gains Estate
+pilot - shuffles deck
+pilot - draws Copper, Gold, Gold, Laboratory, Duchy
+ 
+---------- dudeabides: turn 19 ----------
+dudeabides - plays Laboratory
+dudeabides - draws Silver, Gold
+dudeabides - plays 3 Silver, 2 Copper, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper
+dudeabides - shuffles deck
+dudeabides - draws Province, Silver, Province, Estate
+ 
+------------ Game Over ------------
+dudeabides - cards: 4 Laboratory, 1 Smithy, 7 Copper, 5 Silver, 2 Gold, 5 Province, 3 Estate, 2 Duchy
+dudeabides - total victory points: 39
+dudeabides - turns: 19
+ 
+pilot - cards: 4 Laboratory, 1 Council Room, 1 Mine, 1 Smithy, 7 Copper, 3 Gold, 3 Silver, 4 Duchy, 4 Estate, 3 Province
+pilot - total victory points: 34
+pilot - turns: 19
+ 
+1st place: dudeabides
+2nd place: pilot
+ 

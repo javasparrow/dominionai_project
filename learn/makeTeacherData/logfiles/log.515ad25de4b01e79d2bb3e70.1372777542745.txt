@@ -1,0 +1,571 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Feast, Militia, Remodel, Smithy, Spy, Thief, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+Monsieur X - shuffles deck
+unicut - draws Copper, Copper, Estate, Estate, Estate
+Monsieur X - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 2 Copper
+unicut - buys Moat
+unicut - gains Moat
+unicut - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Remodel
+Monsieur X - gains Remodel
+Monsieur X - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 5 Copper
+unicut - buys Laboratory
+unicut - gains Laboratory
+unicut - shuffles deck
+unicut - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- unicut: turn 3 ----------
+unicut - plays 4 Copper
+unicut - buys Village
+unicut - gains Village
+unicut - draws Copper, Moat, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- unicut: turn 4 ----------
+unicut - plays 3 Copper
+unicut - buys Village
+unicut - gains Village
+unicut - draws Estate, Laboratory
+unicut - shuffles deck
+unicut - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Copper, Remodel
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Estate, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays Laboratory
+unicut - draws Estate, Copper
+unicut - plays 4 Copper
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Copper, Village, Village, Estate, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Remodel
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Estate, Copper, Copper, Laboratory, Copper
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Village
+unicut - draws Moat
+unicut - plays Moat
+unicut - draws Copper
+unicut - shuffles deck
+unicut - draws Estate
+unicut - plays Village
+unicut - draws Copper
+unicut - plays 4 Copper
+unicut - buys Smithy
+unicut - gains Smithy
+unicut - draws Laboratory, Copper, Copper, Remodel, Estate
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Village
+Monsieur X - plays Village
+Monsieur X - draws Estate
+Monsieur X - plays 4 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate, Copper
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Laboratory
+unicut - draws Copper
+unicut - shuffles deck
+unicut - draws Copper
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Spy
+unicut - plays 4 Copper
+unicut - buys Militia
+unicut - gains Militia
+unicut - draws Estate, Copper, Moat, Village, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Laboratory, Village, Village, Copper, Remodel
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Village
+unicut - draws Estate
+unicut - plays Moat
+unicut - draws Smithy, Copper
+unicut - plays Smithy
+unicut - draws Village
+unicut - shuffles deck
+unicut - draws Copper, Copper
+unicut - plays 5 Copper
+unicut - buys Laboratory
+unicut - gains Laboratory
+unicut - draws Copper, Laboratory, Spy, Copper, Remodel
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Estate, Copper
+Monsieur X - plays Village
+Monsieur X - draws Remodel
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Militia
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Cellar
+Monsieur X - plays 2 Copper
+Monsieur X - buys Moat
+Monsieur X - gains Moat
+Monsieur X - draws Copper, Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Militia, Silver, Village
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Spy
+unicut - draws Militia
+unicut - shuffles deck
+unicut - places Laboratory on top of deck
+Monsieur X - discards Copper
+unicut - plays Laboratory
+unicut - draws Laboratory, Copper
+unicut - plays Laboratory
+unicut - draws Copper, Estate
+unicut - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Silver
+unicut - plays 4 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Estate, Copper, Moat, Copper, Village
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Village, Cellar, Remodel
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Militia
+unicut - reveals reaction Moat
+Monsieur X - plays Remodel
+Monsieur X - trashes Cellar
+Monsieur X - gains Smithy
+Monsieur X - plays 1 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Laboratory, Copper, Remodel, Copper, Laboratory
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Village
+unicut - draws Village
+unicut - plays Village
+unicut - draws Copper
+unicut - plays Moat
+unicut - draws Smithy
+unicut - shuffles deck
+unicut - draws Copper
+unicut - plays Smithy
+unicut - draws Militia, Gold, Laboratory
+unicut - plays Laboratory
+unicut - draws Copper, Copper
+unicut - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+unicut - plays 6 Copper, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Spy, Laboratory, Estate, Remodel, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Estate
+Monsieur X - plays Laboratory
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Village
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Moat
+Monsieur X - draws Copper, Remodel
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Spy
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Militia
+Monsieur X - gains Militia
+Monsieur X - draws Copper, Smithy, Copper, Copper, Village
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Spy
+unicut - shuffles deck
+unicut - draws Laboratory
+unicut - places Village on top of deck
+Monsieur X - discards Village
+unicut - plays Laboratory
+unicut - draws Village, Copper
+unicut - plays Village
+unicut - draws Estate
+unicut - plays Laboratory
+unicut - draws Gold, Militia
+unicut - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Smithy
+unicut - plays 2 Copper, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Village, Smithy, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Village
+Monsieur X - draws Militia
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Moat
+Monsieur X - plays Militia
+unicut - discards Copper
+unicut - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Militia, Silver, Village, Copper, Remodel
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Village
+unicut - draws Copper
+unicut - plays Smithy
+unicut - draws Province, Copper, Moat
+unicut - plays Moat
+unicut - shuffles deck
+unicut - draws Militia, Gold
+unicut - plays 3 Copper, 1 Gold
+unicut - buys Laboratory
+unicut - gains Laboratory
+unicut - draws Laboratory, Remodel, Smithy, Copper, Village
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Village
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Remodel
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Militia
+unicut - discards Copper
+unicut - discards Remodel
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Cellar
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Moat
+Monsieur X - plays 1 Silver
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Spy, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Laboratory, Village
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Village
+unicut - draws Laboratory
+unicut - plays Laboratory
+unicut - draws Copper, Copper
+unicut - plays Smithy
+unicut - draws Gold, Spy, Copper
+unicut - plays Spy
+unicut - draws Estate
+unicut - shuffles deck
+unicut - places Militia on top of deck
+Monsieur X - discards Remodel
+unicut - plays Laboratory
+unicut - draws Militia, Copper
+unicut - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Cellar
+unicut - plays 4 Copper, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Copper, Moat, Village, Copper, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Spy
+unicut - reveals reaction Moat
+Monsieur X - draws Remodel
+Monsieur X - places Moat on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Moat, Copper
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Moat
+Monsieur X - draws Smithy, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Village
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Village, Militia
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Militia
+unicut - reveals reaction Moat
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Cellar
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Village
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Militia, Laboratory, Moat
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Village
+unicut - draws Laboratory
+unicut - plays Laboratory
+unicut - draws Remodel, Smithy
+unicut - plays Smithy
+unicut - draws Province, Gold
+unicut - shuffles deck
+unicut - draws Copper
+unicut - plays Moat
+unicut - draws Laboratory, Spy
+unicut - plays 4 Copper, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Village, Copper, Estate, Smithy
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Village
+Monsieur X - draws Spy
+Monsieur X - plays Spy
+Monsieur X - draws Smithy
+Monsieur X - discards Remodel
+unicut - places Copper on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Smithy, Militia
+Monsieur X - plays Smithy
+Monsieur X - draws Copper, Copper, Copper
+Monsieur X - plays Cellar
+Monsieur X - discards Moat
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Village, Gold, Silver, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Village
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Village
+Monsieur X - draws Remodel
+Monsieur X - plays Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Moat, Copper, Copper
+Monsieur X - plays Village
+Monsieur X - draws Remodel
+Monsieur X - plays Cellar
+Monsieur X - discards Moat
+Monsieur X - draws Copper
+Monsieur X - plays Remodel
+Monsieur X - trashes Remodel
+Monsieur X - gains Gold
+Monsieur X - plays Militia
+unicut - discards Copper
+unicut - discards Estate
+Monsieur X - plays Militia
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Cellar, Laboratory, Militia, Remodel, Moat
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Village
+unicut - draws Copper
+unicut - plays Smithy
+unicut - draws Gold, Laboratory, Militia
+unicut - plays Laboratory
+unicut - draws Province
+unicut - shuffles deck
+unicut - draws Estate
+unicut - plays Militia
+Monsieur X - reveals reaction Moat
+unicut - plays 2 Copper, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Spy, Copper, Remodel, Laboratory
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Smithy, Village
+Monsieur X - plays Village
+Monsieur X - draws Militia
+Monsieur X - plays Smithy
+Monsieur X - draws Copper, Village, Copper
+Monsieur X - plays Village
+Monsieur X - draws Spy
+Monsieur X - plays Spy
+Monsieur X - draws Laboratory
+Monsieur X - discards Province
+unicut - places Copper on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Gold
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Moat
+Monsieur X - draws Laboratory, Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Cellar, Smithy
+Monsieur X - plays Cellar
+Monsieur X - discards Cellar
+Monsieur X - discards Moat
+Monsieur X - draws Gold, Silver
+Monsieur X - plays Militia
+unicut - discards Copper
+unicut - discards Copper
+Monsieur X - plays Remodel
+Monsieur X - trashes Gold
+Monsieur X - gains Province
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Militia, Gold, Village, Village
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Spy
+unicut - draws Copper
+unicut - places Village on top of deck
+Monsieur X - discards Laboratory
+unicut - plays Laboratory
+unicut - draws Village, Copper
+unicut - plays Village
+unicut - draws Province
+unicut - plays Remodel
+unicut - trashes Copper
+unicut - gains Estate
+unicut - plays 1 Copper
+unicut - draws Smithy, Gold, Gold, Copper, Laboratory
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Village
+Monsieur X - draws Moat
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Smithy
+Monsieur X - draws Province, Militia, Cellar
+Monsieur X - plays Moat
+Monsieur X - draws Copper, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Village, Moat
+Monsieur X - plays Village
+Monsieur X - draws Silver
+Monsieur X - plays Moat
+Monsieur X - draws Province, Copper
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Province
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Remodel, Province, Cellar, Spy
+Monsieur X - plays Spy
+Monsieur X - draws Smithy
+Monsieur X - places Laboratory on top of deck
+unicut - discards Moat
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - discards Smithy
+Monsieur X - draws Laboratory, Village
+Monsieur X - plays Village
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Smithy
+Monsieur X - plays Smithy
+Monsieur X - draws Province, Laboratory, Province
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper
+Monsieur X - plays Remodel
+Monsieur X - trashes Militia
+Monsieur X - gains Duchy
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Militia, Smithy, Province, Smithy, Province
+ 
+---------- unicut: turn 17 ----------
+unicut - plays Laboratory
+unicut - shuffles deck
+unicut - draws Estate, Gold
+unicut - plays Smithy
+unicut - draws Province, Copper, Gold
+unicut - plays 4 Gold, 2 Copper
+unicut - buys Province
+unicut - gains Province
+unicut - draws Estate, Copper, Spy, Village, Militia
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Militia
+ 
+------------ Game Over ------------
+Monsieur X - cards: 4 Village, 3 Laboratory, 2 Smithy, 2 Moat, 2 Cellar, 1 Spy, 1 Remodel, 3 Copper, 1 Gold, 1 Silver, 4 Province, 1 Duchy
+Monsieur X - total victory points: 27
+Monsieur X - turns: 16
+ 
+unicut - resigned
+unicut - cards: 3 Laboratory, 2 Village, 2 Smithy, 1 Spy, 1 Militia, 1 Moat, 1 Remodel, 6 Copper, 4 Gold, 3 Province, 2 Estate
+unicut - total victory points: 20
+unicut - turns: 17
+ 
+1st place: Monsieur X
+2nd place: unicut
+ 
