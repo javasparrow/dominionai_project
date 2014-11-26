@@ -9,12 +9,14 @@ class GokoLogParser
   MODE_ACTION_CHAPEL = 5
   MODE_ACTION_REMODEL = 7
   MODE_ACTION_THRONE = 9
+  MODE_ACTION_CHANCELLOR = 10
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
   MODE_ACTION_CELLAR_ACTIVE = 4
   MODE_ACTION_CHAPEL_ACTIVE = 6
   MODE_ACTION_REMODEL_ACTIVE = 8
+  MODE_ACTION_CHANCELLOR_ACTIVE = 11
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -28,7 +30,7 @@ class GokoLogParser
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_THRONE
+    @featureMode = MODE_ACTION_CHANCELLOR
 
     @playerName = Array.new(2)
 
@@ -111,6 +113,11 @@ class GokoLogParser
       #改築使ったけど廃棄しなかった場合
       if(@featureMode == MODE_ACTION_REMODEL_ACTIVE && !line.include?("trashes"))
         @featureMode = MODE_ACTION_REMODEL
+      end
+      #最小使ったけど捨てしなかった場合
+      if(@featureMode == MODE_ACTION_CHANCELLOR_ACTIVE && !line.include?("moves deck to discards"))
+        generateUseChancellorFeature(false)
+        @featureMode = MODE_ACTION_CHANCELLOR
       end
 
       if(line.include?("Game Over"))
@@ -454,6 +461,11 @@ class GokoLogParser
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
+    end
+
+    if(@featureMode == MODE_ACTION_CHANCELLOR_ACTIVE)
+      generateUseChancellorFeature(true)
+      @featureMode = MODE_ACTION_CHANCELLOR
     end
 
     for i in 1 ... MAX_CARDNUM
@@ -845,6 +857,19 @@ class GokoLogParser
     @output.write(resultString + "\n")
   end
 
+  def generateUseChancellorFeature(used)
+    if(used)
+      ans = "1"
+    else
+      ans = "0"
+    end
+
+    resultString = generateFeatureString() + "/" + ans
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
   def parsePlayAction(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -907,6 +932,9 @@ class GokoLogParser
     end
     if(@featureMode == MODE_ACTION_REMODEL && pCard.name == "Remodel")
       @featureMode = MODE_ACTION_REMODEL_ACTIVE
+    end
+    if(@featureMode == MODE_ACTION_CHANCELLOR && pCard.name == "Chancellor")
+      @featureMode = MODE_ACTION_CHANCELLOR_ACTIVE
     end
 
     puts @throneStack
