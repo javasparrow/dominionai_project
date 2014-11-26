@@ -56,6 +56,7 @@ class CardData
               return card
           end
       }
+      nil
   end
   
 end

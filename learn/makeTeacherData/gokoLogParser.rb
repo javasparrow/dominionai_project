@@ -8,6 +8,7 @@ class GokoLogParser
   MODE_ACTION_CELLAR = 3
   MODE_ACTION_CHAPEL = 5
   MODE_ACTION_REMODEL = 7
+  MODE_ACTION_THRONE = 9
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -21,24 +22,24 @@ class GokoLogParser
   PHASE_CLEANUP = 2
 
   MAX_CARDNUM = 33
-  
+
   FEATURE_LENGTH = 233
 
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_REMODEL
+    @featureMode = MODE_ACTION_THRONE
 
     @playerName = Array.new(2)
 
     @playerDeck = Array.new(2)
     @playerDeck[0] = Array.new(MAX_CARDNUM, 0)
     @playerDeck[1] = Array.new(MAX_CARDNUM, 0)
-    
+
     @playerDiscard = Array.new(2)
     @playerDiscard[0] = Array.new(MAX_CARDNUM, 0)
     @playerDiscard[1] = Array.new(MAX_CARDNUM, 0)
-    
+
     @playerHand = Array.new(2)
     @playerHand[0] = Array.new(MAX_CARDNUM, 0)
     @playerHand[1] = Array.new(MAX_CARDNUM, 0)
@@ -60,14 +61,17 @@ class GokoLogParser
     @pastChapelTrash = Array.new(0)
     @pastChapelFeature = ""
 
+    #玉座の間処理用
+    @throneStack = Array.new(0)
+
     #generate zero Feature
     3.times{
-        tempFeature = ""
-        FEATURE_LENGTH.times{
-            tempFeature = tempFeature + "0,"
-        }
-        @pastFeature[0] << tempFeature[0..-2]
-        @pastFeature[1] << tempFeature[0..-2]
+      tempFeature = ""
+      FEATURE_LENGTH.times{
+        tempFeature = tempFeature + "0,"
+      }
+      @pastFeature[0] << tempFeature[0..-2]
+      @pastFeature[1] << tempFeature[0..-2]
     }
 
     @lastPlay = nil
@@ -86,9 +90,9 @@ class GokoLogParser
     @reveal = Array.new(2)
     @reveal[0] = Array.new(0)
     @reveal[1] = Array.new(0)
-    
+
     @winner = nil
-    
+
     #add pass text to log
     log = addPass(rawlog)
 
@@ -108,7 +112,7 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_REMODEL_ACTIVE && !line.include?("trashes"))
         @featureMode = MODE_ACTION_REMODEL
       end
-      
+
       if(line.include?("Game Over"))
         currentPhase = PHASE_END
       end
@@ -170,7 +174,7 @@ class GokoLogParser
         end
         @currentTurn = @currentTurn + 1
         puts("Turn#{@currentTurn / 2}")
-        
+
         @currentCoin = 0
         @currentBuy = 1
         @lastPlay = nil
@@ -192,9 +196,9 @@ class GokoLogParser
       if(line.index("buys") != nil)
         @currentPhase = PHASE_BUY
       end
-      
+
       if(line.index("gains") != nil)
-        if(@currentPhase == PHASE_BUY) 
+        if(@currentPhase == PHASE_BUY)
           parseBuy(line)
         else parseGain(line)
         end
@@ -209,16 +213,16 @@ class GokoLogParser
         if(@currentPhase == PHASE_BUY)
 
           @currentPhase = PHASE_CLEANUP
-          
+
           #generate ground data here
           generateGroundData(@lastBuy, @currentCoin, @currentBuy)
-          
+
           #execute last buy
           executeBuy()
-          
+
           #cleanup
           cleanup(line)
-          
+
           if(shuffleflag == true)
             reshuffle(line)
             shuffleflag = false
@@ -247,7 +251,7 @@ class GokoLogParser
       puts "cannot verify because of quit or resign"
       return
     end
-    
+
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
@@ -279,7 +283,7 @@ class GokoLogParser
         @canVerify = false
       end
       if(line.include?("1st place"))
-          @winner = line[11..-2]
+        @winner = line[11..-2]
       end
       if(line.include?("---"))
         sepCnt = sepCnt + 1
@@ -288,7 +292,7 @@ class GokoLogParser
             drawCnt = 0
             rLineCnt = lineCnt - 1
             drawflag = false
-            while drawCnt != 5 do
+            while drawCnt != 5
               rLineCnt = rLineCnt - 1
               puts log[rLineCnt]
               puts rLineCnt
@@ -339,24 +343,24 @@ class GokoLogParser
 
   def generateGroundData(gain, coin, buy)
     if(@featureMode != MODE_BUY)
-        puts "this is not buy mode"
-        return
+      puts "this is not buy mode"
+      return
     end
     if(@playerName[@currentPlayer] != @winner)
-        puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
-        return
+      puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
+      return
     end
-    
+
     if(gain != nil && gain.length == 0)
-        return
+      return
     end
-  
+
     feature = generateFeatureString();
     result = @pastFeature[@currentPlayer][-3] + "," + @pastFeature[@currentPlayer][-2] + "," + @pastFeature[@currentPlayer][-1] + "," + feature + "/"
     if(@currentPhase != PHASE_ACTION)
-        @pastFeature[@currentPlayer] << feature
+      @pastFeature[@currentPlayer] << feature
     end
-    
+
     if(gain != nil)
       gain.each{|card|
         result = result + card.num.to_s + ","
@@ -381,7 +385,7 @@ class GokoLogParser
     @playerDeck[@currentPlayer].each{|cardNum|
       result = result + cardNum.to_s + ","
     }
-    
+
     @playerHand[@currentPlayer].each{|cardNum|
       result = result + cardNum.to_s + ","
     }
@@ -391,25 +395,25 @@ class GokoLogParser
     @playerPlay[@currentPlayer].each{|cardNum|
       result = result + cardNum.to_s + ","
     }
-    
+
     #TODO teban
     if(@currentPlayer == 0)
       other = 1
     else other = 0
     end
 
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       result = result + (@playerDeck[other][i] + @playerHand[other][i] + @playerDiscard[other][i] + @playerPlay[other][i]).to_s + ","
     end
 
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       result = result + @supplyCnt[i].to_s + ","
     end
 
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       result = result + @supplyExist[i].to_s + ","
     end
-    
+
     result = result + (@currentTurn / 2).to_s + ","
 
     result = result + @currentPlayer.to_s
@@ -423,7 +427,7 @@ class GokoLogParser
       @supplyCnt[card.num] = @supplyCnt[card.num] - 1
 
       puts "#{@playerName[@currentPlayer]} buy #{card.name}"
-      
+
     }
   end
 
@@ -437,7 +441,7 @@ class GokoLogParser
       end
     end
 
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       @playerDiscard[currentPlayer][i] = @playerDiscard[currentPlayer][i] + @playerHand[currentPlayer][i] + @playerPlay[currentPlayer][i]
       @playerPlay[currentPlayer][i] = 0
       @playerHand[currentPlayer][i] = 0
@@ -451,34 +455,34 @@ class GokoLogParser
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
-    for i in 1 ... MAX_CARDNUM do
+
+    for i in 1 ... MAX_CARDNUM
       @playerDiscard[currentPlayer][i] = @playerDeck[currentPlayer][i] + @playerDiscard[currentPlayer][i]
       @playerDeck[currentPlayer][i] = 0
     end
-    
+
     puts "doooon"
   end
 
   def reshuffle(data)
-  #adventurer has bug in goko
-  #when we use adventurer and it causes reshuffle, the timing of reshuffle of log become strange
-  
+    #adventurer has bug in goko
+    #when we use adventurer and it causes reshuffle, the timing of reshuffle of log become strange
+
     if(@lastPlay != nil && @lastPlay.name == "Adventurer" && @currentPhase == PHASE_ACTION)
-        puts "adventurer bug shuffle"
-        return
+      puts "adventurer bug shuffle"
+      return
     end
-  
+
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
-    for i in 1 ... MAX_CARDNUM do
+
+    for i in 1 ... MAX_CARDNUM
       @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
       @playerDiscard[currentPlayer][i] = 0
     end
-    
+
     puts "reshuffle"
   end
 
@@ -493,7 +497,7 @@ class GokoLogParser
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
     end
   end
-  
+
   def parsePutCardInHand(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -527,7 +531,7 @@ class GokoLogParser
     end
 
     if(data[data.index("-")..-1].include?("reaction"))
-        return
+      return
     end
 
     if(@lastPlay.name == "Thief")
@@ -540,17 +544,17 @@ class GokoLogParser
       data[data.index("reveals") + 8..-2].split(", ").each{|card|
         puts card
         currentCard = @cardData.getCard(card)
-        
+
         if(@playerDeck[currentPlayer][currentCard.num] == 0)
-            puts "actual reshuffle is here"
-            
-            for i in 1 ... MAX_CARDNUM do
-                @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
-                @playerDiscard[currentPlayer][i] = 0
-            end
-            
+          puts "actual reshuffle is here"
+
+          for i in 1 ... MAX_CARDNUM
+            @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
+            @playerDiscard[currentPlayer][i] = 0
+          end
+
         end
-        
+
         @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
         @reveal[currentPlayer] << currentCard
       }
@@ -563,7 +567,7 @@ class GokoLogParser
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
+
     handCount = 0
 
     #check library
@@ -588,9 +592,9 @@ class GokoLogParser
     data[data.index("discards") + 9..-2].split(", ").each{|card|
 
       currentCard = @cardData.getCard(card)
-      
+
       puts "#{@playerName[currentPlayer]} discards #{currentCard.name}"
-      
+
       if(@lastPlay.name == "Thief")
         @reveal[currentPlayer].each{|rCard|
           if(rCard.num == currentCard.num)
@@ -621,18 +625,18 @@ class GokoLogParser
       end
     }
   end
-  
+
   def parseDraw(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
+
     data[data.index("draws") + 6..-2].split(", ").each{|card|
 
       currentCard = @cardData.getCard(card)
-      
-       puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+
+      puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
 
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
@@ -645,7 +649,7 @@ class GokoLogParser
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
+
 
     data[data.index("trashes") + 8..-2].split(", ").each{|card|
 
@@ -655,7 +659,7 @@ class GokoLogParser
         generateUseRemodelFeature(currentCard)
         @featureMode = MODE_ACTION_REMODEL
       end
-      
+
       if(@lastPlay.name == "Moneylender" && currentCard.name == "Copper")
         @currentCoin = @currentCoin + 3
         puts "Moneylender generates 3coins"
@@ -696,7 +700,7 @@ class GokoLogParser
 
     puts "#{@playerName[currentPlayer]} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
 
-    
+
   end
 
   def parseGain(data)
@@ -732,13 +736,13 @@ class GokoLogParser
       currentPlayer = 0
     else currentPlayer = 1
     end
-    
+
     @currentPhase = PHASE_BUY
 
     playList = data[data.index("plays") + 6 .. -2].split(", ")
-    
+
     playList.each{|playCard|
-      
+
       currentCard = @cardData.getCard(playCard[2..-1])
 
       puts "#{@playerName[currentPlayer]} uses #{playCard[2..-1]} num is #{playCard[0]}"
@@ -746,30 +750,30 @@ class GokoLogParser
       puts "gain #{currentCard.coin * playCard[0].to_i} coins"
       @currentBuy = @currentBuy + currentCard.buy * playCard[0].to_i
       puts "gain #{currentCard.buy * playCard[0].to_i} buy"
-     
+
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] + 1
-      
+
     }
-  
+
   end
 
   def generatePlayActionData(card)
     if(@featureMode != MODE_ACTION)
-        puts "this is not action mode"
-        return
+      puts "this is not action mode"
+      return
     end
-    
+
     # カード使用は敗者からも取っていい気がした
     #if(@playerName[@currentPlayer] != @winner)
     #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
     #    return
     #end
-  
+
     feature = generateFeatureString();
 
     handString = ""
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       if(@playerHand[@currentPlayer][i] > 0)
         handString = handString + i.to_s + ","
       end
@@ -788,7 +792,7 @@ class GokoLogParser
   end
 
   def generateUseCellarFeature()
-    
+
     # カード使用は敗者からも取っていい気がした
     #if(@playerName[@currentPlayer] != @winner)
     #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
@@ -808,7 +812,7 @@ class GokoLogParser
   end
 
   def generateUseChapelFeature()
-    
+
     # カード使用は敗者からも取っていい気がした
     #if(@playerName[@currentPlayer] != @winner)
     #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
@@ -834,6 +838,13 @@ class GokoLogParser
     @output.write(resultString + "\n")
   end
 
+  def generateUseThroneFeature(card)
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + card.num.to_s
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
   def parsePlayAction(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -842,34 +853,43 @@ class GokoLogParser
 
     pCard = @cardData.getCard(data[data.index("plays") + 6 .. -2])
 
-    
+
     puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
     @currentCoin = @currentCoin + pCard.coin
     puts "gain #{pCard.coin} coins"
     @currentBuy = @currentBuy + pCard.buy
     puts "gain #{pCard.buy} buy"
-    
-    
-    
-    if(@lastPlay == nil || @lastPlay.name != "Throne Room")
-      generatePlayActionData(pCard)                              
+
+
+    if(@lastPlay != nil && @lastPlay.name == "Throne Room")
+      generateUseThroneFeature(pCard)
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+      @throneStack.push(pCard.num)
     end
-    
-    if(@lastPlay != nil && @lastPlay.name == "Throne Room" && pCard.name == "Feast")
-        puts "use Throne For Feast"
-       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+
+    if(@lastPlay == nil || @lastPlay.name != "Throne Room")
+      #玉座二回目
+      if(@throneStack.include?(pCard.num))
+        @throneStack.delete_at(@throneStack.find_index(pCard.num))
+        #玉座祝宴の特殊処理
+        if(pCard.name == "Feast")
+          @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+        end
+      else
+        generatePlayActionData(pCard)
+        @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
+        @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+      end
     end
-    
+
     @lastPlay = pCard
 
     if(pCard.name == "Throne Room")
-        
-	if(haveActionInHand() == false)
-	  @lastPlay = nil
-      puts "uses throne but have no action"
-	end
+      if(haveActionInHand() == false)
+        @lastPlay = nil
+        puts "uses throne but have no action"
+      end
     end
 
     #アクションしようログ生成
@@ -888,11 +908,28 @@ class GokoLogParser
     if(@featureMode == MODE_ACTION_REMODEL && pCard.name == "Remodel")
       @featureMode = MODE_ACTION_REMODEL_ACTIVE
     end
+
+    puts @throneStack
+  end
+
+  def generateCurrentPlayerHandStringNoAction()
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isAction)
+        next
+      end
+      for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
   end
 
   def generateCurrentPlayerHandString()
     handString = ""
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       for n in 0...@playerHand[@currentPlayer][i]
         handString = handString + i.to_s + ","
       end
@@ -903,7 +940,7 @@ class GokoLogParser
   end
 
   def haveActionInHand()
-    for i in 0...MAX_CARDNUM do
+    for i in 0...MAX_CARDNUM
       if(@playerHand[@currentPlayer][i] > 0 && @cardData.getCardByNum(i).isAction)
         return true
       end
@@ -912,19 +949,19 @@ class GokoLogParser
   end
 
   def parseStartingDeck(data)
-    if(@playerName[0] == nil) 
+    if(@playerName[0] == nil)
       plNum = 0
-    elsif(@playerName[1] == nil) 
+    elsif(@playerName[1] == nil)
       plNum = 1
     else
       return "error"
     end
-      
+
     @playerName[plNum] = data[0..data.index("-") - 2]
 
     data[data.index(":") + 2..-2].split(", ").each{|card|
       currentCard = @cardData.getCard(card)
-      
+
       @playerDiscard[plNum][currentCard.num] = @playerDiscard[plNum][currentCard.num] + 1
     }
   end
@@ -940,7 +977,7 @@ class GokoLogParser
 end
 
 File.open("result.txt", 'w'){|out|
-  
+
   Dir::glob("./logfiles/*").each{|f|
     parser = GokoLogParser.new
     File.open(f, 'r') {|file|
