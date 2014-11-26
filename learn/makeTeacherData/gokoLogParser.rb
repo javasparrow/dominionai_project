@@ -7,11 +7,13 @@ class GokoLogParser
   MODE_ACTION = 2
   MODE_ACTION_CELLAR = 3
   MODE_ACTION_CHAPEL = 5
+  MODE_ACTION_REMODEL = 7
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
   MODE_ACTION_CELLAR_ACTIVE = 4
   MODE_ACTION_CHAPEL_ACTIVE = 6
+  MODE_ACTION_REMODEL_ACTIVE = 8
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -25,7 +27,7 @@ class GokoLogParser
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_CHAPEL
+    @featureMode = MODE_ACTION_REMODEL
 
     @playerName = Array.new(2)
 
@@ -101,6 +103,10 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_CHAPEL_ACTIVE && !line.include?("trashes"))
         generateUseChapelFeature()
         @featureMode = MODE_ACTION_CHAPEL
+      end
+      #改築使ったけど廃棄しなかった場合
+      if(@featureMode == MODE_ACTION_REMODEL_ACTIVE && !line.include?("trashes"))
+        @featureMode = MODE_ACTION_REMODEL
       end
       
       if(line.include?("Game Over"))
@@ -644,6 +650,11 @@ class GokoLogParser
     data[data.index("trashes") + 8..-2].split(", ").each{|card|
 
       currentCard = @cardData.getCard(card)
+
+      if(@featureMode == MODE_ACTION_REMODEL_ACTIVE)
+        generateUseRemodelFeature(currentCard)
+        @featureMode = MODE_ACTION_REMODEL
+      end
       
       if(@lastPlay.name == "Moneylender" && currentCard.name == "Copper")
         @currentCoin = @currentCoin + 3
@@ -816,6 +827,13 @@ class GokoLogParser
     @output.write(resultString + "\n")
   end
 
+  def generateUseRemodelFeature(card)
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandString() + "/" + card.num.to_s
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
   def parsePlayAction(data)
     if(data[0..data.index("-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -866,6 +884,9 @@ class GokoLogParser
       @pastChapelTrash.clear()
       feature = generateFeatureString();
       @pastChapelFeature = feature + "/" + generateCurrentPlayerHandString()
+    end
+    if(@featureMode == MODE_ACTION_REMODEL && pCard.name == "Remodel")
+      @featureMode = MODE_ACTION_REMODEL_ACTIVE
     end
   end
 
