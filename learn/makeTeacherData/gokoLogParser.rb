@@ -30,7 +30,7 @@ class GokoLogParser
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_CHANCELLOR
+    @featureMode = MODE_ACTION_REMODEL
 
     @playerName = Array.new(2)
 
