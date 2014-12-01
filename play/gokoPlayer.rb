@@ -6,6 +6,7 @@ class GokoLogParser
   BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out"
   BUY_PROGRAM = "./a.out"
+  REMODEL_PROGRAM = ""
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -16,7 +17,7 @@ class GokoLogParser
   
   FEATURE_LENGTH = 233
 
-  def parse(rawlog, output, outputAction, drawlog)
+  def parse(rawlog, output, outputAction, outputActionSelection, drawlog)
     @player = 0
 
     @playerName = Array.new(2)
@@ -67,6 +68,7 @@ class GokoLogParser
 
     @output = output
     @outputAction = outputAction
+    @outputActionSelection = outputActionSelection
 
     @reveal = Array.new(2)
     @reveal[0] = Array.new(0)
@@ -211,22 +213,35 @@ class GokoLogParser
     if(@playerName[@currentPlayer] != BOT_NAME)
       return
     end
-    #アクションタイミングか判定
-    if(haveActionInHand() && @currentPhase == PHASE_ACTION)
-      generatePlayActionData()
-    end
 
-    #購入判定タイミングか判断
-    if((@lastPlay != nil && (@lastPlay.name == "Feast" || @lastPlay.name == "Remodel" || @lastPlay.name == "Workshop")) || @currentPhase == PHASE_BUY)
-      #改築プレイかつ廃棄が行われていない
-      if(@lastPlay != nil && @lastPlay.name == "Remodel" && !(log[-1].include?("trashes")) && @currentPhase != PHASE_BUY)
-        return
-      end
+    if(@lastPlay != nil && @lastPlay.name == "Feast" && log[-1].include?("trashes Feast"))
+      generateQuestionString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Workshop" && log[-1].include?("plays Workshop"))
+      generateQuestionString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Remodel" && log[-1].include?("plays Remodel"))
+      generateRemodelTrashString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Remodel" && log[-1].include?("trashes"))
+      generateQuestionString()
+    elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
+      generatePlayActionData()
+    elsif(@currentPhase == PHASE_BUY)
       generateQuestionString()
     end
 
     rescue => ex
       puts ex.message
+  end
+
+  def generateRemodelTrashString()
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandString()
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    out, err, status = Open3.capture3(REMODEL_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generatePlayActionData()
@@ -296,6 +311,33 @@ end
     puts err
     puts status
 
+  end
+
+  def generateCurrentPlayerHandStringNoAction()
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isAction)
+        next
+      end
+      for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateCurrentPlayerHandString()
+    handString = ""
+    for i in 0...MAX_CARDNUM
+      for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
   end
 
   def verifyResult(data)
