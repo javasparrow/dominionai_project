@@ -7,6 +7,7 @@ class GokoLogParser
   PLAY_PROGRAM = "./a.out"
   BUY_PROGRAM = "./a.out"
   REMODEL_PROGRAM = ""
+  CELLAR_PROGRAM = ""
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -222,6 +223,8 @@ class GokoLogParser
       generateRemodelTrashString()
     elsif(@lastPlay != nil && @lastPlay.name == "Remodel" && log[-1].include?("trashes"))
       generateQuestionString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Cellar" && log[-1].include?("plays Cellar"))
+      generateCellarString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY)
@@ -230,6 +233,18 @@ class GokoLogParser
 
     rescue => ex
       puts ex.message
+  end
+
+  def generateCellarString()
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandString()
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    out, err, status = Open3.capture3(CELLAR_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateRemodelTrashString()
@@ -310,7 +325,6 @@ end
     puts out
     puts err
     puts status
-
   end
 
   def generateCurrentPlayerHandStringNoAction()
