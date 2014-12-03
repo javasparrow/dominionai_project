@@ -9,6 +9,7 @@ class GokoLogParser
   REMODEL_PROGRAM = ""
   CELLAR_PROGRAM = ""
   CHAPEL_PROGRAM = ""
+  THRONE_PROGRAM = ""
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -76,7 +77,8 @@ class GokoLogParser
     @reveal[0] = Array.new(0)
     @reveal[1] = Array.new(0)
 
-    
+    #玉座の間処理用
+    @throneStack = Array.new(0)
     
     #add pass text to log
     log = addPass(addDrawInfo(rawlog, drawlog))
@@ -228,14 +230,28 @@ class GokoLogParser
       generateCellarString()
     elsif(@lastPlay != nil && @lastPlay.name == "Chapel" && log[-1].include?("plays Chapel"))
       generateChapelString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Throne Room" && log[-1].include?("plays"))
+      generateThroneString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY)
       generateQuestionString()
     end
 
-    rescue => ex
-      puts ex.message
+    #rescue => ex
+      #puts ex.message
+  end
+
+  def generateThroneString()
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction()
+
+    puts resultString
+    @output.write(resultString + "\n")
+
+    out, err, status = Open3.capture3(THRONE_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateChapelString()
@@ -920,16 +936,27 @@ end
     @currentBuy = @currentBuy + pCard.buy
     puts "gain #{pCard.buy} buy"
     
-    
-    
-    if(@lastPlay == nil || @lastPlay.name != "Throne Room")                              
+    if(@lastPlay != nil && @lastPlay.name == "Throne Room")
+      if(@featureMode == MODE_ACTION_THRONE)
+        generateUseThroneFeature(pCard)
+      end
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+      @throneStack.push(pCard.num)
     end
-    
-    if(@lastPlay != nil && @lastPlay.name == "Throne Room" && pCard.name == "Feast")
-        puts "use Throne For Feast"
-       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+
+    if(@lastPlay == nil || @lastPlay.name != "Throne Room")
+      #玉座二回目
+      if(@throneStack.include?(pCard.num))
+        @throneStack.delete_at(@throneStack.find_index(pCard.num))
+        #玉座祝宴の特殊処理
+        if(pCard.name == "Feast")
+          @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+        end
+      else
+        @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
+        @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
+      end
     end
     
     @lastPlay = pCard
