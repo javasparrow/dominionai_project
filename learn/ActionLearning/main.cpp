@@ -64,7 +64,7 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 1000000;//テスト実施の間隔学習回数
+    int roundtest = 10000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
@@ -158,7 +158,7 @@ int main(int argc, const char * argv[])
         if(learningCardId == CARD_CHANCELLOR) {
             bool isDiscardPile = getIsDiscardPile(weight[0],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
             bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;
-            if(isDiscardPile == answerIsDiscardPile) {//不正解の場合
+            if(isDiscardPile != answerIsDiscardPile) {//不正解の場合
                 if(answerIsDiscardPile) {//正例
                     int wid = 0;
                     weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
@@ -178,7 +178,7 @@ int main(int argc, const char * argv[])
                 testWeight.push_back( addVector(weight[i], mulVector(averageWeight[i], -1.0/(double)round)));
             }
             
-            double correct = test(testWeight, teachers,true,learningCardId);
+            double correct = test(testWeight, teachers,false,learningCardId);
             cout << "round:" << round << "/正解率：" << correct * 100 << "%" << endl;
             writeWeightVector(testWeight,dataDirectory + "weight.txt");
             writeWeightVector(weight,dataDirectory + "w_weight.txt");
