@@ -14,12 +14,12 @@
 #include <fstream>
 
 #include "utility.h"
-#include "sample.h"
 #include "card.h"
 
 
 #define GAIN_MODE 0
 #define PLAY_MODE 1
+#define ACTION_MODE 2
 
 
 using namespace std;
@@ -29,6 +29,7 @@ int main(int argc, const char * argv[])
     srand((unsigned)time(NULL));
     
     int Mode = GAIN_MODE;
+    int PlayActionId = 0;
     
     if(argc >= 2) {
         if(argv[1][0] == 'g') {
@@ -36,6 +37,12 @@ int main(int argc, const char * argv[])
         }
         if(argv[1][0] == 'p') {
             Mode = PLAY_MODE;
+        }
+        if(argv[1][0] == 'a') {
+            Mode = ACTION_MODE;
+        }
+        if(Mode == ACTION_MODE) {
+            PlayActionId = atoi(argv[2]);
         }
     }
     
@@ -49,6 +56,11 @@ int main(int argc, const char * argv[])
         cout << "PlayMode" << endl;
         weightfile = "playWeight.txt";//プレイするカード選択時の重みベクトルデータ
         featurefile = "playFeature.txt";
+    }
+    if(Mode == ACTION_MODE) {
+        cout << "ActionMode:" << getString(PlayActionId) << endl;
+        weightfile = "./../learn/ActionLearning/" + getEnglishString(PlayActionId) + "TeacherData/weight.txt";
+        featurefile = "actionFeature.txt";
     }
     
     //共通
@@ -110,6 +122,25 @@ int main(int argc, const char * argv[])
         dimensionOfFeature = feature.size();
         nWeight = 32;//基本セットのみのカード種類数
     }
+    if(Mode == ACTION_MODE) {
+        nWeight = 32;//基本セットのみのカード種類数
+        vector<string> out = SpritString(testFeature,"/");
+        if(PlayActionId == CARD_REMODEL) {
+            if(out.size() != 2) {
+                cout << "file reading error: not match format '/' " << endl;
+                exit(0);
+            }
+            vector<string> out0 = SpritString(out[0],",");
+            for(int i=0;i<out0.size();i++) {
+                feature.push_back(atof(out0[i].c_str()));
+            }
+            vector<string> out1 = SpritString(out[1],",");
+            for(int i=0;i<out1.size();i++) {
+                hand.push_back(atof(out1[i].c_str()));
+            }
+            dimensionOfFeature = feature.size();
+        }
+    }
     
     
     
@@ -157,7 +188,14 @@ int main(int argc, const char * argv[])
         showGain(hand);
         showMaxValuePlayCard(weight,feature,hand,10);
     }
-    
+    if(Mode == ACTION_MODE) {
+        if(PlayActionId == CARD_REMODEL) {
+            cout << "select trash card /REMODEL" << endl;
+            cout << "hand:";
+            showGain(hand);
+            showMaxValuePlayCard(weight,feature,hand,10);
+        }
+    }
    
     
     return 0;

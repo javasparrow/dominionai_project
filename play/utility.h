@@ -12,7 +12,7 @@
 #include <iostream>
 #include <vector>
 #include <map>
-#include "sample.h"
+
 
 using namespace std;
 

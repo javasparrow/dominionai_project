@@ -87,6 +87,45 @@ string getString(int id) {
     return "";
 }
 
+string getEnglishString(int id) {
+    switch(id) {
+        case CARD_DUMMY: return "  ";
+        case CARD_COPPER: return "copper";
+        case CARD_SILVER: return "silver";
+        case CARD_GOLD: return "gold";
+        case CARD_ESTATE: return "estate";
+        case CARD_DUCHY: return "dutch";
+        case CARD_PROVINCE: return "province";
+        case CARD_CURSE: return "curse";
+            
+        case CARD_CELLAR: return "cellar";
+        case CARD_MOAT: return "moat";
+        case CARD_CHAPEL: return "chapel";
+        case CARD_VILLAGE: return "village";
+        case CARD_WOODCUTTER: return "woodcutter";
+        case CARD_WORKSHOP: return "workshop";
+        case CARD_CHANCELLOR: return "chancellor";
+        case CARD_GARDENS: return "gardens";
+        case CARD_SPY: return "spy";
+        case CARD_THIEF: return "thief";
+        case CARD_THRONEROOM: return "throneroom";
+        case CARD_BUREAUCRAT: return "bureaucrat";
+        case CARD_REMODEL: return "remodel";
+        case CARD_FEAST: return "feast";
+        case CARD_MILITIA: return "militia";
+        case CARD_FESTIVAL: return "festival";
+        case CARD_LIBRARY: return "library";
+        case CARD_LABORATRY: return "laboratry";
+        case CARD_COUNCILROOM: return "councilroom";
+        case CARD_MARKET: return "market";
+        case CARD_MINE: return "mine";
+        case CARD_WITCH: return "witch";
+        case CARD_MONEYLENDER: return "moneylender";
+        case CARD_SMITHY: return "smithy";
+        case CARD_ADVENTURE: return "adventure";
+    }
+    return "";
+}
 
 vector< vector<int> >getGainList(int coin,int buy, vector<int> supply) {
     vector< vector<int> > gainList;
