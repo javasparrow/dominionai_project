@@ -23,6 +23,9 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "throne")
     featureMode = GokoLogParser::MODE_ACTION_CHANCELLOR
     puts "chancellorMode"
+  elsif(ARGV[0] == "militia")
+    featureMode = GokoLogParser::MODE_ACTION_MILITIA
+    puts "militiaMode"
   else
     puts "unknown feature type"
     return

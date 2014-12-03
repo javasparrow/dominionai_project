@@ -10,6 +10,7 @@ class GokoLogParser
   MODE_ACTION_REMODEL = 7
   MODE_ACTION_THRONE = 9
   MODE_ACTION_CHANCELLOR = 10
+  MODE_ACTION_MILITIA = 12
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -17,6 +18,7 @@ class GokoLogParser
   MODE_ACTION_CHAPEL_ACTIVE = 6
   MODE_ACTION_REMODEL_ACTIVE = 8
   MODE_ACTION_CHANCELLOR_ACTIVE = 11
+  MODE_ACTION_MILITIA_ACTIVE = 13
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -65,6 +67,9 @@ class GokoLogParser
     @pastChapelTrash = Array.new(0)
     @pastChapelFeature = ""
 
+    @pastMilitiaDiscard = Array.new(0)
+    @pastMilitiaFeature = ""
+
     #玉座の間処理用
     @throneStack = Array.new(0)
 
@@ -107,6 +112,10 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_CELLAR_ACTIVE && !line.include?("discards"))
         generateUseCellarFeature()
         @featureMode = MODE_ACTION_CELLAR
+      end
+      if(@featureMode == MODE_ACTION_MILITIA_ACTIVE && !line.include?("discards"))
+        generateUseMilitiaFeature()
+        @featureMode = MODE_ACTION_MILITIA
       end
       if(@featureMode == MODE_ACTION_CHAPEL_ACTIVE && !line.include?("trashes"))
         generateUseChapelFeature()
@@ -433,6 +442,46 @@ class GokoLogParser
     result
   end
 
+  def generateOpponentFeatureString()
+    if(@currentPlayer == 0)
+      other = 1
+    else other = 0
+    end
+
+    result = ""
+    @playerDeck[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+
+    @playerHand[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+    @playerDiscard[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+    @playerPlay[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+
+    for i in 0...MAX_CARDNUM
+      result = result + (@playerDeck[@currentPlayer][i] + @playerHand[@currentPlayer][i] + @playerDiscard[@currentPlayer][i] + @playerPlay[@currentPlayer][i]).to_s + ","
+    end
+
+    for i in 0...MAX_CARDNUM
+      result = result + @supplyCnt[i].to_s + ","
+    end
+
+    for i in 0...MAX_CARDNUM
+      result = result + @supplyExist[i].to_s + ","
+    end
+
+    result = result + (@currentTurn / 2).to_s + ","
+
+    result = result + other.to_s
+
+    result
+  end
+
   def executeBuy()
     @lastBuy.each{|card|
       @playerDiscard[@currentPlayer][card.num] = @playerDiscard[@currentPlayer][card.num] + 1
@@ -640,6 +689,11 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_CELLAR_ACTIVE)
         @pastCellarDiscard.push(currentCard)
       end
+
+      #民兵めも
+      if(@featureMode == MODE_ACTION_MILITIA_ACTIVE)
+        @pastMilitiaDiscard.push(currentCard)
+      end
     }
   end
 
@@ -811,6 +865,25 @@ class GokoLogParser
     @output.write(resultString + "\n")
   end
 
+  def generateUseMilitiaFeature()
+
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    cardString = ""
+    @pastMilitiaDiscard.each{|card|
+      cardString = cardString + card.num.to_s + ","
+    }
+    cardString = cardString[0...-1]
+
+    resultString = @pastMilitiaFeature + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
   def generateUseCellarFeature()
 
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
@@ -947,6 +1020,12 @@ class GokoLogParser
       feature = generateFeatureString();
       @pastCellarFeature = feature + "/" + generateCurrentPlayerHandString()
     end
+    if(@featureMode == MODE_ACTION_MILITIA && pCard.name == "Militia")
+      @featureMode = MODE_ACTION_MILITIA_ACTIVE
+      @pastMilitiaDiscard.clear()
+      feature = generateOpponentFeatureString();
+      @pastMilitiaFeature = feature + "/" + generateOpponentPlayerHandString()
+    end
     if(@featureMode == MODE_ACTION_CHAPEL && pCard.name == "Chapel")
       @featureMode = MODE_ACTION_CHAPEL_ACTIVE
       @pastChapelTrash.clear()
@@ -982,6 +1061,23 @@ class GokoLogParser
     handString = ""
     for i in 0...MAX_CARDNUM
       for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateOpponentPlayerHandString()
+    if(@currentPlayer == 0)
+      player = 1
+    else
+      player = 0
+    end
+    handString = ""
+    for i in 0...MAX_CARDNUM
+      for n in 0...@playerHand[player][i]
         handString = handString + i.to_s + ","
       end
     end
