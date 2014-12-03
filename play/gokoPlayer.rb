@@ -3,7 +3,7 @@ require "open3"
 
 class GokoPlayer
 
-  DEBUGMODE = false
+  DEBUGMODE = true
 
   BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out play"
@@ -13,6 +13,7 @@ class GokoPlayer
   CHAPEL_PROGRAM = "./a.out action 32"
   THRONE_PROGRAM = "./a.out action 14"
   CHANCELLOR_PROGRAM = "./a.out action 18"
+  MILITIA_PROGRAM = "./a.out"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -222,6 +223,11 @@ class GokoPlayer
       end
     }
 
+    #reaction
+    if(log[-1].include?("plays Militia") && @playerName[@currentPlayer] != BOT_NAME)
+      generateMilitiaString()
+    end
+
     if(@playerName[@currentPlayer] != BOT_NAME)
       return
     end
@@ -250,6 +256,22 @@ class GokoPlayer
 
     #rescue => ex
       #puts ex.message
+  end
+
+  def generateMilitiaString()
+    resultString = generateOpponentFeatureString() + "/" + generateOpponentPlayerHandString()
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
+
+    out, err, status = Open3.capture3(MILITIA_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateChancellorString()
@@ -438,6 +460,24 @@ end
     handString = ""
     for i in 0...MAX_CARDNUM
       for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateOpponentPlayerHandString()
+    if(@currentPlayer == 1)
+      player = 0
+    else
+      player = 1
+    end
+
+    handString = ""
+    for i in 0...MAX_CARDNUM
+      for n in 0...@playerHand[player][i]
         handString = handString + i.to_s + ","
       end
     end
@@ -647,6 +687,46 @@ end
     result = result + (@currentTurn / 2).to_s + ","
 
     result = result + @currentPlayer.to_s
+
+    result
+  end
+
+  def generateOpponentFeatureString()
+    if(@currentPlayer == 0)
+      other = 1
+    else other = 0
+    end
+
+    result = ""
+    @playerDeck[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+
+    @playerHand[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+    @playerDiscard[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+    @playerPlay[other].each{|cardNum|
+      result = result + cardNum.to_s + ","
+    }
+
+    for i in 0...MAX_CARDNUM
+      result = result + (@playerDeck[@currentPlayer][i] + @playerHand[@currentPlayer][i] + @playerDiscard[@currentPlayer][i] + @playerPlay[@currentPlayer][i]).to_s + ","
+    end
+
+    for i in 0...MAX_CARDNUM
+      result = result + @supplyCnt[i].to_s + ","
+    end
+
+    for i in 0...MAX_CARDNUM
+      result = result + @supplyExist[i].to_s + ","
+    end
+
+    result = result + (@currentTurn / 2).to_s + ","
+
+    result = result + other.to_s
 
     result
   end
