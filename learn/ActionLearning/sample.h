@@ -26,6 +26,8 @@ public:
     vector<int> _answerSelectCards;
     int _answerSelectCard;
     int _sampleid;
+    
+    bool _isDiscard;
 };
 
 class cellarSample :public Sample{
@@ -38,6 +40,14 @@ class remodelSample :public Sample {
 public:
     remodelSample(int id,string str);
     void show();
+};
+
+class chancellorSample :public Sample {
+public:
+    chancellorSample(int id,string str);
+    void show();
+    
+    
 };
 
 #endif /* defined(__parseptron__sample__) */

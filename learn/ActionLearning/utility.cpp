@@ -89,6 +89,18 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
     return hand[index];
 }
 
+bool getIsDiscardPile(const vector<double> &weight, const vector<double> &feature,const vector<int> &notZero) {
+    bool flag = false;
+    
+    double value = getInnerProduct(weight,feature,notZero);
+    if(value < 0)  {
+        flag = false;
+    } else {
+        flag = true;
+    }
+    return flag;
+}
+
 double test(const vector< vector<double> > &weight, vector<Sample> testData,bool isOutput,int learnCardId) {
     
     int count = 0;
@@ -112,6 +124,33 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                     testData[i].show();
                     
                     cout << "AnsPlayCard:" << getString(testData[i]._answerSelectCard) << "gotPlayCard:" << getString(gotPlayCard) << endl;
+                }
+            }
+        }
+        if(learnCardId == CARD_CHANCELLOR) {
+            bool isDiscardPile = getIsDiscardPile(weight[0],testData[i]._feature,testData[i]._notZero);
+            bool answerIsDiscardPile = testData[i]._isDiscard;
+           
+            if(isDiscardPile == answerIsDiscardPile) {
+                count++;
+                correct++;
+            } else {
+                count++;
+                if(isOutput) {
+                    testData[i].show();
+                    
+                    cout << "answerDiscard:";
+                    if(answerIsDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
+                    cout << "gotDiscard:";
+                    if(isDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
                 }
             }
         }

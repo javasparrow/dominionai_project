@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
     }
     
     int num = atoi(argv[1]);
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -84,6 +84,11 @@ int main(int argc, const char * argv[])
         fprintf(stderr,"loading teacher data:%d \r",count+1);
         if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM) {
             remodelSample teacher(count++,buf);
+            dimensionOfFeature = teacher.getDimensionOfFeature();
+            teachers.push_back(teacher);
+        }
+        if(learningCardId == CARD_CHANCELLOR) {
+            chancellorSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
@@ -149,21 +154,38 @@ int main(int argc, const char * argv[])
                     averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
                 }
             }
-            if(round % roundtest == 0) {
-                testWeight.clear();
-                for(unsigned int i=0;i<averageWeight.size();i++) {
-                    testWeight.push_back( addVector(weight[i], mulVector(averageWeight[i], -1.0/(double)round)));
+        }
+        if(learningCardId == CARD_CHANCELLOR) {
+            bool isDiscardPile = getIsDiscardPile(weight[0],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
+            bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;
+            if(isDiscardPile == answerIsDiscardPile) {//不正解の場合
+                if(answerIsDiscardPile) {//正例
+                    int wid = 0;
+                    weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
+                } else {//負例
+                    int wid = 0;
+                    weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
                 }
-                
-                double correct = test(testWeight, teachers,true,learningCardId);
-                cout << "round:" << round << "/正解率：" << correct * 100 << "%" << endl;
-                writeWeightVector(testWeight,dataDirectory + "weight.txt");
-                writeWeightVector(weight,dataDirectory + "w_weight.txt");
-                writeWeightVector(averageWeight,dataDirectory + "u_weight.txt");
-                writeRound(round,dataDirectory + "round.txt");
-                if(correct >= 1) {
-                    break;
-                }
+            }
+        }
+        
+        
+        if(round % roundtest == 0) {
+            testWeight.clear();
+            for(unsigned int i=0;i<averageWeight.size();i++) {
+                testWeight.push_back( addVector(weight[i], mulVector(averageWeight[i], -1.0/(double)round)));
+            }
+            
+            double correct = test(testWeight, teachers,true,learningCardId);
+            cout << "round:" << round << "/正解率：" << correct * 100 << "%" << endl;
+            writeWeightVector(testWeight,dataDirectory + "weight.txt");
+            writeWeightVector(weight,dataDirectory + "w_weight.txt");
+            writeWeightVector(averageWeight,dataDirectory + "u_weight.txt");
+            writeRound(round,dataDirectory + "round.txt");
+            if(correct >= 1) {
+                break;
             }
         }
     }
