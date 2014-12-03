@@ -94,10 +94,56 @@ void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<d
         }
     }
     
-    
     return;
 }
 
+int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+    
+    vector<double> values;
+    for(unsigned int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]-1],feature);
+        values.push_back(value);
+    }
+    
+    double maxValue = -999999;
+    int index = -1;
+    for(unsigned int i=0;i<values.size();i++) {
+        if(values[i] > maxValue) {
+            maxValue = values[i];
+            index = i;
+        }
+    }
+    
+    if(maxValue < 0) return 0;
+    
+    return hand[index];
+}
+
+vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
+
+    vector<int> gotSelectCards;
+    vector<double> feature = _feature;
+    vector<int> hand = _hand;
+    
+    while(true) {
+        int gotSelectCard = getMaxValuePlayCard(_weight,feature,hand);
+        if(gotSelectCard != 0) {
+            gotSelectCards.push_back(gotSelectCard);
+        } else {
+            break;
+        }
+        for(unsigned int i=0;i<hand.size();i++) {
+            if(hand[i] == gotSelectCard) {
+                hand.erase(hand.begin()+i);
+                break;
+            }
+        }
+        //礼拝堂廃棄なので対象カードを手札から削除
+        feature[(CARD_MAX+1) + gotSelectCard]--;
+        continue;
+    }
+    return gotSelectCards;
+}
 
 vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> feature,vector<int> supply,int coin,int buy,int ordinal) {
     

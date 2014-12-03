@@ -27,6 +27,8 @@ int Sample::getDimensionOfFeature() {
 cellarSample::cellarSample(int id,string str) {
     _sampleid = id;
     //feature/hand/answerSelectCards
+    _hand.clear();
+    _answerSelectCards.clear();
     vector<string> out = SpritString(str,"/");
     if(out.size() != 3) {
         cout << "reading teacherData error: not match format '/' " << endl;
@@ -34,28 +36,30 @@ cellarSample::cellarSample(int id,string str) {
         exit(0);
     }
     for(int i=0;i<3;i++) {
-        vector<string> out2 = SpritString(out[i], ",");
-        if(i==0) {
-            //feature
-            double val=0.0;
-            for(unsigned int j=0;j<out2.size();j++) {
-                val = atof( out2[j].c_str() );
-                _feature.push_back(val);
-                if(val != 0) {
-                    _notZero.push_back(j);
+        if(out[i] != "") {
+            vector<string> out2 = SpritString(out[i], ",");
+            if(i==0) {
+                //feature
+                double val=0.0;
+                for(unsigned int j=0;j<out2.size();j++) {
+                    val = atof( out2[j].c_str() );
+                    _feature.push_back(val);
+                    if(val != 0) {
+                        _notZero.push_back(j);
+                    }
                 }
             }
-        }
-        if(i==1) {
-            //hand
-            for(unsigned int j=0;j<out2.size();j++) {
-                _hand.push_back(atoi(out2[j].c_str()));
+            if(i==1) {
+                //hand
+                for(unsigned int j=0;j<out2.size();j++) {
+                    _hand.push_back(atoi(out2[j].c_str()));
+                }
             }
-        }
-        if(i==2) {
-            //answerSelectCards
-            for(unsigned int j=0;j<out2.size();j++) {
-                _answerSelectCards.push_back(atoi(out2[j].c_str()));
+            if(i==2) {
+                //answerSelectCards
+                for(unsigned int j=0;j<out2.size();j++) {
+                    _answerSelectCards.push_back(atoi(out2[j].c_str()));
+                }
             }
         }
     }

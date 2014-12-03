@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
     }
     
     int num = atoi(argv[1]);
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -58,13 +58,17 @@ int main(int argc, const char * argv[])
     cout << "MODE:" << getString(learningCardId) << endl;
     
     if(!readFlag) {
-        cout << "Warning!! :This mode will make new weight vector." << endl;
+        cout << "Warning!! :This mode will make NEW weight vector." << endl;
+        cout << "Are you OK ? (ok/no)" << endl;
+        string ans;
+        cin >> ans;
+        if(ans == "no") exit(0);
     }
     
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 100000;//テスト実施の間隔学習回数
+    int roundtest = 500000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
@@ -89,6 +93,11 @@ int main(int argc, const char * argv[])
         }
         if(learningCardId == CARD_CHANCELLOR) {
             chancellorSample teacher(count++,buf);
+            dimensionOfFeature = teacher.getDimensionOfFeature();
+            teachers.push_back(teacher);
+        }
+        if(learningCardId == CARD_CHAPEL) {
+            cellarSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
@@ -129,7 +138,7 @@ int main(int argc, const char * argv[])
     
     while(round < roundlimit) {
         
-        showProgress(round%roundtest,roundtest,"learning");
+   //     showProgress(round%roundtest,roundtest,"learning");
         
         if(round%teachers.size() == 0) {
             indexs = getRandVec((int)teachers.size());
@@ -170,7 +179,105 @@ int main(int argc, const char * argv[])
                 }
             }
         }
-        
+        if(learningCardId == CARD_CHAPEL) {
+            vector<int> answerSelectCards = teachers[sampleIndex]._answerSelectCards;
+            vector<double> feature = teachers[sampleIndex]._feature;
+            vector<int> notZero = teachers[sampleIndex]._notZero;
+            vector<int> hand = teachers[sampleIndex]._hand;
+            
+            while(true) {
+                int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
+                
+                if(answerSelectCards.size() == 0) {
+                    if(gotSelectCard == 0) {
+                        //完答（学習の必要なし）
+                        break;
+                    } else {
+                        //よけいに多く選択している間違い（選んだカードの重みを減らす）
+                        int wid = gotSelectCard - 1;
+                    //    cout << "a" << wid << " " << endl;
+                        weight[wid] = addVector(weight[wid], mulVector(feature , -1) );
+                        averageWeight[wid] = addVector(averageWeight[wid], mulVector(feature, round*-1));
+                        break;
+                    }
+                } else {
+                    if(gotSelectCard == 0) {
+                        //まだ選択すべきなのに、もう選択しない間違い（リストに残ったカードの種類全ての重みを増やす）
+                        vector<int> already;
+                        for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                            bool flag = true;//リストのかぶりを消す
+                            for(unsigned int j=0;j<already.size();j++) {
+                                if(already[j] == answerSelectCards[i]) {
+                                    flag = false;
+                                    break;
+                                }
+                            }
+                            if(flag) {
+                                already.push_back(answerSelectCards[i]);
+                                
+                                int wid = answerSelectCards[i] - 1;
+                              //  cout << "b" << wid << " " << endl;
+                                weight[wid] = addVector(weight[wid],feature );
+                                averageWeight[wid] = addVector(averageWeight[wid], mulVector(feature, round));
+                            }
+                        }
+                        break;
+                    } else {
+                        //選択が正解リストに有るかどうか調べる
+                        bool find = false;
+                        for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                            if(answerSelectCards[i] == gotSelectCard) {
+                                find = true;
+                                break;
+                            }
+                        }
+                        if(!find){
+                            //選択ミス（選んだカードの重みを減らし、リストに残ったカードの種類全ての重みを増やす）
+                            int wid = gotSelectCard - 1;
+                         //   cout << "c" << wid << " " << endl;
+                            weight[wid] = addVector(weight[wid], mulVector(feature , -1) );
+                            averageWeight[wid] = addVector(averageWeight[wid], mulVector(feature, round*-1));
+                            
+                            vector<int> already;
+                            for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                                bool flag = true;//リストのかぶりを消す
+                                for(unsigned int j=0;j<already.size();j++) {
+                                    if(already[j] == answerSelectCards[i]) {
+                                        flag = false;
+                                        break;
+                                    }
+                                }
+                                if(flag) {
+                                    already.push_back(answerSelectCards[i]);
+                                    int wid = answerSelectCards[i] - 1;
+                                 //   cout << "d" << wid << " " << endl;
+                                    weight[wid] = addVector(weight[wid],feature );
+                                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(feature, round));
+                                }
+                            }
+                            break;
+                        } else {
+                            //選択正解　正解リストと手札リストから対象カードをのぞき、特徴量を更新してcontinue
+                            for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                                if(answerSelectCards[i] == gotSelectCard) {
+                                    answerSelectCards.erase(answerSelectCards.begin()+i);
+                                    break;
+                                }
+                            }
+                            for(unsigned int i=0;i<hand.size();i++) {
+                                if(hand[i] == gotSelectCard) {
+                                    hand.erase(hand.begin()+i);
+                                    break;
+                                }
+                            }
+                            //礼拝堂廃棄なので対象カードを手札から削除
+                            feature[(KIND_OF_CARD+1) + gotSelectCard]--;
+                            continue;
+                        }
+                    }
+                }
+            }
+        }
         
         if(round % roundtest == 0) {
             testWeight.clear();
