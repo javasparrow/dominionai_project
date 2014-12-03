@@ -64,7 +64,7 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 10000;//テスト実施の間隔学習回数
+    int roundtest = 100000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
