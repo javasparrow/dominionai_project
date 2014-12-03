@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
     }
     
     int num = atoi(argv[1]);
-    if(/*num < CARD_COPPER || num > CARD_CHAPEL*/ num != CARD_REMODEL) {
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -82,7 +82,7 @@ int main(int argc, const char * argv[])
     int count = 0;
     while(getline(ifs, buf)) {
         fprintf(stderr,"loading teacher data:%d \r",count+1);
-        if(learningCardId == CARD_REMODEL) {
+        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM) {
             remodelSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
@@ -132,7 +132,7 @@ int main(int argc, const char * argv[])
         int sampleIndex = indexs[round%teachers.size()];
         round++;
         
-        if(learningCardId == CARD_REMODEL) {
+        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM) {
             int gotPlayCard = getMaxValuePlayCard(weight,teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero,teachers[sampleIndex]._hand);
             int answerPlayCard = teachers[sampleIndex]._answerSelectCard;
             if(gotPlayCard != answerPlayCard) {
