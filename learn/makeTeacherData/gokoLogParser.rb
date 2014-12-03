@@ -32,9 +32,11 @@ class GokoLogParser
   def parse(rawlog, output, featureMode, playerName)
     @canVerify = true
 
+
     @featureMode = featureMode
 
     @focusPlayerName = playerName
+
 
     @playerName = Array.new(2)
 

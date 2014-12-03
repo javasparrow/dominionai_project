@@ -55,7 +55,7 @@ int getCost(int id) {
 
 string getString(int id) {
     switch(id) {
-        case CARD_DUMMY: return "  ";
+        case CARD_DUMMY: return "ダ";
         case CARD_COPPER: return "銅";
         case CARD_SILVER: return "銀";
         case CARD_GOLD: return "金";
@@ -187,12 +187,16 @@ void showGain(vector<int> gain) {
     sort(gain.begin(),gain.end());
     cout << "(";
     int size = gain.size();
-    for(int i=0;i<size;i++) {
-        cout << getString(gain[i]);
-        if(i == size-1) {
-            cout << ")" << endl;
-        } else {
-            cout << ",";
+    if(size <= 0) {
+        cout << ")" << endl;
+    } else {
+        for(int i=0;i<size;i++) {
+            cout << getString(gain[i]);
+            if(i == size-1) {
+                cout << ")" << endl;
+            } else {
+                cout << ",";
+            }
         }
     }
 }

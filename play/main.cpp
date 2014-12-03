@@ -118,7 +118,7 @@ int main(int argc, const char * argv[])
         }
         vector<string> out1 = SpritString(out[1],",");
         for(int i=0;i<out1.size();i++) {
-            hand.push_back(atof(out1[i].c_str()));
+            hand.push_back(atoi(out1[i].c_str()));
         }
         dimensionOfFeature = feature.size();
         nWeight = 32;//基本セットのみのカード種類数
@@ -126,7 +126,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -137,7 +137,7 @@ int main(int argc, const char * argv[])
             }
             vector<string> out1 = SpritString(out[1],",");
             for(int i=0;i<out1.size();i++) {
-                hand.push_back(atof(out1[i].c_str()));
+                hand.push_back(atoi(out1[i].c_str()));
             }
             dimensionOfFeature = feature.size();
         }
@@ -202,7 +202,12 @@ int main(int argc, const char * argv[])
     }
     if(Mode == ACTION_MODE) {
         if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM) {
-            cout << "select trash card /REMODEL" << endl;
+            if(PlayActionId == CARD_REMODEL) {
+                cout << "select trash card /REMODEL" << endl;
+            }
+            if(PlayActionId == CARD_THRONEROOM) {
+                cout << "select throneroom action /THRONEROOM" << endl;
+            }
             cout << "hand:";
             showGain(hand);
             showMaxValuePlayCard(weight,feature,hand,10);
@@ -211,6 +216,13 @@ int main(int argc, const char * argv[])
             cout << "select which discard or not /CHANCELLOR" << endl;
             cout << "isDiscard:";
             getIsDiscard(weight[0],feature);
+        }
+        if(PlayActionId == CARD_CHAPEL) {
+            cout << "select trash cards /CHAPEL" << endl;
+            cout << "hand:";
+            showGain(hand);
+            cout << "trash Cards:";
+            showGain(getTrashCardsByChapel(weight,feature,hand));
         }
     }
    

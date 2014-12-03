@@ -112,7 +112,7 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
     
     int tSize = testData.size();
     for(int i=0;i<tSize;i++) {
-        showProgress(i,tSize,"test    ");
+  //      showProgress(i,tSize,"test    ");
         if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM) {
             int gotPlayCard = getMaxValuePlayCard(weight,testData[i]._feature,testData[i]._notZero,testData[i]._hand);
             if(gotPlayCard == testData[i]._answerSelectCard) {
@@ -124,6 +124,42 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                     testData[i].show();
                     
                     cout << "AnsPlayCard:" << getString(testData[i]._answerSelectCard) << "gotPlayCard:" << getString(gotPlayCard) << endl;
+                }
+            }
+        }
+        if(learnCardId == CARD_CHAPEL) {
+            vector<int> gotSelectCards;
+            vector<double> feature = testData[i]._feature;
+            vector<int> notZero = testData[i]._notZero;
+            vector<int> hand = testData[i]._hand;
+            while(true) {
+                int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
+                if(gotSelectCard != 0) {
+                    gotSelectCards.push_back(gotSelectCard);
+                } else {
+                    break;
+                }
+                for(unsigned int i=0;i<hand.size();i++) {
+                    if(hand[i] == gotSelectCard) {
+                        hand.erase(hand.begin()+i);
+                        break;
+                    }
+                }
+                //礼拝堂廃棄なので対象カードを手札から削除
+                feature[(CARD_MAX+1) + gotSelectCard]--;
+                continue;
+            }
+            if(isEqualGain(gotSelectCards,testData[i]._answerSelectCards)) {
+                count++;
+                correct++;
+            } else {
+                count++;
+                if(isOutput) {
+                    testData[i].show();
+                    cout << "AnsSelectCards:";
+                    showGain(testData[i]._answerSelectCards);
+                    cout << "GotSelectCards:";
+                    showGain(gotSelectCards);
                 }
             }
         }
