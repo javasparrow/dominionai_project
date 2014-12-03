@@ -30,7 +30,7 @@ class GokoLogParser
   def parse(rawlog, output)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_REMODEL
+    @featureMode = MODE_ACTION_CHANCELLOR
 
     @playerName = Array.new(2)
 
@@ -887,7 +887,9 @@ class GokoLogParser
 
 
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
-      generateUseThroneFeature(pCard)
+      if(@featureMode == MODE_ACTION_THRONE)
+        generateUseThroneFeature(pCard)
+      end
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
       @throneStack.push(pCard.num)
