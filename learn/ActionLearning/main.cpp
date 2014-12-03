@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
     }
     
     int num = atoi(argv[1]);
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -68,7 +68,7 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 500000;//テスト実施の間隔学習回数
+    int roundtest = 100000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
@@ -96,7 +96,7 @@ int main(int argc, const char * argv[])
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
-        if(learningCardId == CARD_CHAPEL) {
+        if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA) {
             cellarSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
@@ -138,7 +138,7 @@ int main(int argc, const char * argv[])
     
     while(round < roundlimit) {
         
-   //     showProgress(round%roundtest,roundtest,"learning");
+        showProgress(round%roundtest,roundtest,"learning");
         
         if(round%teachers.size() == 0) {
             indexs = getRandVec((int)teachers.size());
@@ -164,6 +164,49 @@ int main(int argc, const char * argv[])
                 }
             }
         }
+        if(learningCardId == CARD_MILITIA) {
+            vector<int> hand;
+            copy(teachers[sampleIndex]._hand.begin(), teachers[sampleIndex]._hand.end(), back_inserter(hand) );
+            vector<int> answerSelectCards;
+            copy(teachers[sampleIndex]._answerSelectCards.begin(), teachers[sampleIndex]._answerSelectCards.end(), back_inserter(answerSelectCards) );
+            vector<int> discardCards;
+            while(hand.size() > 3) {
+                int gotSelectCard = getMaxValuePlayCardWithMinus(weight,teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero,hand);
+
+                discardCards.push_back(gotSelectCard);
+                for(unsigned int j=0;j<hand.size();j++) {
+                    if(hand[j] == gotSelectCard) {
+                        hand.erase(hand.begin()+j);
+                        break;
+                    }
+                }
+            }
+            if(discardCards.size() > 0) {
+                while(discardCards.size() > 0) {
+                    int gotCard = discardCards[0];
+                    bool flag = false;
+                    for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                        if(gotCard == answerSelectCards[i]) {
+                            flag = true;
+                            answerSelectCards.erase(answerSelectCards.begin()+i);
+                            break;
+                        }
+                    }
+                    if(!flag) {//正解になかった（間違って選んだ）重みを減らす
+                        int wid = gotCard - 1;
+                        weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
+                        averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
+                    }
+                    discardCards.erase(discardCards.begin());
+                }
+                //answerSelectCardsに残っているものは正解なのに選ばれなかった　重みを増やす
+                for(unsigned int i=0;i<answerSelectCards.size();i++) {
+                    int wid = answerSelectCards[i] - 1;
+                    weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
+                }
+            }
+        }
         if(learningCardId == CARD_CHANCELLOR) {
             bool isDiscardPile = getIsDiscardPile(weight[0],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
             bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;
@@ -180,11 +223,15 @@ int main(int argc, const char * argv[])
             }
         }
         if(learningCardId == CARD_CHAPEL) {
-            vector<int> answerSelectCards = teachers[sampleIndex]._answerSelectCards;
-            vector<double> feature = teachers[sampleIndex]._feature;
-            vector<int> notZero = teachers[sampleIndex]._notZero;
-            vector<int> hand = teachers[sampleIndex]._hand;
-            
+            vector<int> hand;
+            copy(teachers[sampleIndex]._hand.begin(), teachers[sampleIndex]._hand.end(), back_inserter(hand) );
+            vector<int> answerSelectCards;
+            copy(teachers[sampleIndex]._answerSelectCards.begin(), teachers[sampleIndex]._answerSelectCards.end(), back_inserter(answerSelectCards) );
+            vector<int> notZero;
+            copy(teachers[sampleIndex]._notZero.begin(), teachers[sampleIndex]._notZero.end(), back_inserter(notZero) );
+            vector<double> feature;
+            copy(teachers[sampleIndex]._feature.begin(), teachers[sampleIndex]._feature.end(), back_inserter(feature) );
+           
             while(true) {
                 int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
                 

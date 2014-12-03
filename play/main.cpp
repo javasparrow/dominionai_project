@@ -126,7 +126,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -223,6 +223,13 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "trash Cards:";
             showGain(getTrashCardsByChapel(weight,feature,hand));
+        }
+        if(PlayActionId == CARD_MILITIA) {
+            cout << "select discard cards /MILITIA" << endl;
+            cout << "hand:";
+            showGain(hand);
+            cout << "discard Cards:";
+            showGain(getDiscardCardsByMilitia(weight,feature,hand));
         }
     }
    

@@ -27,6 +27,8 @@ void showVector(vector<double> a);
 //評価値が最大のカードIDを取得
 //ただし、手札のカード評価値が全てマイナスの場合は０（アクションをうたない）を返す
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand);
+//手札が全てマイナスでも最大の者を返す
+int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand);
 
 //宰相用　内積が正ならtrue,負ならfalse
 bool getIsDiscardPile(const vector<double> &weight, const vector<double> &feature,const vector<int> &notZero);

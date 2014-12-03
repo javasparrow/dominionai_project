@@ -75,17 +75,45 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
         values.push_back(value);
     }
     
-    double maxValue = -999999;
+    double maxValue = values[0];
     int index = -1;
     for(unsigned int i=0;i<values.size();i++) {
-        if(values[i] > maxValue) {
+        if(values[i] >= maxValue) {
             maxValue = values[i];
             index = i;
         }
     }
     
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCard" << endl;
+        exit(0);
+    }
+    
     if(maxValue < 0) return 0;
     
+    return hand[index];
+}
+
+int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand) {
+    
+    vector<double> values;
+    for(unsigned int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]-1],feature,notZero);
+        values.push_back(value);
+    }
+    
+    double maxValue = values[0];
+    int index = -1;
+    for(unsigned int i=0;i<values.size();i++) {
+        if(values[i] >= maxValue) {
+            maxValue = values[i];
+            index = i;
+        }
+    }
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
+        exit(0);
+    }
     return hand[index];
 }
 
@@ -112,7 +140,7 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
     
     int tSize = testData.size();
     for(int i=0;i<tSize;i++) {
-  //      showProgress(i,tSize,"test    ");
+        showProgress(i,tSize,"test    ");
         if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM) {
             int gotPlayCard = getMaxValuePlayCard(weight,testData[i]._feature,testData[i]._notZero,testData[i]._hand);
             if(gotPlayCard == testData[i]._answerSelectCard) {
@@ -129,12 +157,17 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
         }
         if(learnCardId == CARD_CHAPEL) {
             vector<int> gotSelectCards;
-            vector<double> feature = testData[i]._feature;
-            vector<int> notZero = testData[i]._notZero;
-            vector<int> hand = testData[i]._hand;
+            vector<double> feature;
+            copy(testData[i]._feature.begin(),testData[i]._feature.end(),back_inserter(feature));
+            vector<int> notZero;
+            copy(testData[i]._notZero.begin(),testData[i]._notZero.end(),back_inserter(notZero));
+            vector<int> hand;
+            copy(testData[i]._hand.begin(),testData[i]._hand.end(),back_inserter(hand));
+            int limitCount = 0;
             while(true) {
+                limitCount++;
                 int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
-                if(gotSelectCard != 0) {
+                if(gotSelectCard != 0 && limitCount <= 4) {
                     gotSelectCards.push_back(gotSelectCard);
                 } else {
                     break;
@@ -160,6 +193,34 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                     showGain(testData[i]._answerSelectCards);
                     cout << "GotSelectCards:";
                     showGain(gotSelectCards);
+                }
+            }
+        }
+        if(learnCardId == CARD_MILITIA) {
+            vector<int> hand;
+            copy(testData[i]._hand.begin(),testData[i]._hand.end(),back_inserter(hand));
+            vector<int> discardCards;
+            while(hand.size() > 3) {
+                int gotSelectCard = getMaxValuePlayCardWithMinus(weight,testData[i]._feature,testData[i]._notZero,hand);
+                discardCards.push_back(gotSelectCard);
+                for(unsigned int j=0;j<hand.size();j++) {
+                    if(hand[j] == gotSelectCard) {
+                        hand.erase(hand.begin()+j);
+                        break;
+                    }
+                }
+            }
+            if(isEqualGain(discardCards,testData[i]._answerSelectCards)) {
+                count++;
+                correct++;
+            } else {
+                count++;
+                if(isOutput) {
+                    testData[i].show();
+                    cout << "AnsSelectCards:";
+                    showGain(testData[i]._answerSelectCards);
+                    cout << "GotSelectCards:";
+                    showGain(discardCards);
                 }
             }
         }

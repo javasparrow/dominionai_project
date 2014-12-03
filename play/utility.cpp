@@ -105,29 +105,59 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
         values.push_back(value);
     }
     
-    double maxValue = -999999;
+    double maxValue = values[0];
     int index = -1;
     for(unsigned int i=0;i<values.size();i++) {
-        if(values[i] > maxValue) {
+        if(values[i] >= maxValue) {
             maxValue = values[i];
             index = i;
         }
+    }
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
+        exit(0);
     }
     
     if(maxValue < 0) return 0;
     
     return hand[index];
 }
+int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+    
+    vector<double> values;
+    for(unsigned int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]-1],feature);
+        values.push_back(value);
+    }
+    
+    double maxValue = values[0];
+    int index = -1;
+    for(unsigned int i=0;i<values.size();i++) {
+        if(values[i] >= maxValue) {
+            maxValue = values[i];
+            index = i;
+        }
+    }
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
+        exit(0);
+    }
+    return hand[index];
+}
 
 vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
 
     vector<int> gotSelectCards;
-    vector<double> feature = _feature;
-    vector<int> hand = _hand;
+    vector<double> feature;
+    copy(_feature.begin(),_feature.end(),back_inserter(feature));
+    vector<int> hand;
+    copy(_hand.begin(),_hand.end(),back_inserter(hand));
     
+    int limitCount = 0;
     while(true) {
+        limitCount++;
         int gotSelectCard = getMaxValuePlayCard(_weight,feature,hand);
-        if(gotSelectCard != 0) {
+        if(gotSelectCard != 0 && limitCount <= 4) {
             gotSelectCards.push_back(gotSelectCard);
         } else {
             break;
@@ -143,6 +173,26 @@ vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const
         continue;
     }
     return gotSelectCards;
+}
+
+vector<int> getDiscardCardsByMilitia(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
+    
+    vector<int> hand;
+    copy(_hand.begin(),_hand.end(),back_inserter(hand));
+    
+    vector<int> discardCards;
+    while(hand.size() > 3) {
+        int gotSelectCard = getMaxValuePlayCardWithMinus(_weight,_feature,hand);
+        discardCards.push_back(gotSelectCard);
+        for(unsigned int j=0;j<hand.size();j++) {
+            if(hand[j] == gotSelectCard) {
+                hand.erase(hand.begin()+j);
+                break;
+            }
+        }
+    }
+    
+    return discardCards;
 }
 
 vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> feature,vector<int> supply,int coin,int buy,int ordinal) {
