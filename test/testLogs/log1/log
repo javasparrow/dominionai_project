@@ -1,0 +1,408 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Village, Gardens, Militia, Moneylender, Spy, Thief, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+I am BOT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Conqueror Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+I am BOT - shuffles deck
+Conqueror Bot - shuffles deck
+I am BOT - draws Estate, Estate, Copper, Copper, Copper
+Conqueror Bot - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Conqueror Bot: turn 1 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- I am BOT: turn 1 ----------
+I am BOT - plays 3 Copper
+I am BOT - buys Silver
+I am BOT - gains Silver
+I am BOT - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 2 ----------
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys Militia
+Conqueror Bot - gains Militia
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- I am BOT: turn 2 ----------
+I am BOT - plays 4 Copper
+I am BOT - buys Moneylender
+I am BOT - gains Moneylender
+I am BOT - shuffles deck
+I am BOT - draws Estate, Copper, Copper, Silver, Estate
+ 
+---------- Conqueror Bot: turn 3 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Estate, Copper, Militia, Copper, Silver
+ 
+---------- I am BOT: turn 3 ----------
+I am BOT - plays 2 Copper, 1 Silver
+I am BOT - buys Silver
+I am BOT - gains Silver
+I am BOT - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Conqueror Bot: turn 4 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Estate
+I am BOT - discards Copper
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Copper, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Silver, Copper
+ 
+---------- I am BOT: turn 4 ----------
+I am BOT - plays 3 Copper
+I am BOT - buys Silver
+I am BOT - gains Silver
+I am BOT - draws Moneylender, Copper
+I am BOT - shuffles deck
+I am BOT - draws Copper, Estate, Estate
+ 
+---------- Conqueror Bot: turn 5 ----------
+Conqueror Bot - plays 4 Copper, 1 Silver
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Copper, Gold, Copper, Militia, Copper
+ 
+---------- I am BOT: turn 5 ----------
+I am BOT - plays Moneylender
+I am BOT - trashes Copper
+I am BOT - plays 1 Copper
+I am BOT - buys Silver
+I am BOT - gains Silver
+I am BOT - draws Copper, Copper, Silver, Silver, Silver
+ 
+---------- Conqueror Bot: turn 6 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Copper
+I am BOT - discards Copper
+Conqueror Bot - plays 3 Copper, 1 Gold
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Estate, Estate, Estate, Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Province
+ 
+---------- I am BOT: turn 6 ----------
+I am BOT - plays 3 Silver
+I am BOT - buys Adventurer
+I am BOT - gains Adventurer
+I am BOT - draws Copper, Estate, Copper, Copper
+I am BOT - shuffles deck
+I am BOT - draws Silver
+ 
+---------- Conqueror Bot: turn 7 ----------
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Cellar
+Conqueror Bot - gains Cellar
+Conqueror Bot - draws Gold, Copper, Copper, Gold, Copper
+ 
+---------- I am BOT: turn 7 ----------
+I am BOT - plays 3 Copper, 1 Silver
+I am BOT - buys Silver
+I am BOT - gains Silver
+I am BOT - draws Copper, Silver, Adventurer, Silver, Estate
+ 
+---------- Conqueror Bot: turn 8 ----------
+Conqueror Bot - plays 3 Copper, 2 Gold
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Copper, Militia, Copper, Copper, Silver
+ 
+---------- I am BOT: turn 8 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Moneylender, Copper, Silver
+I am BOT - places cards in hand:  Copper, Silver
+I am BOT - discards Moneylender
+I am BOT - plays 3 Silver, 2 Copper
+I am BOT - buys Province
+I am BOT - gains Province
+I am BOT - draws Copper, Estate
+I am BOT - shuffles deck
+I am BOT - draws Silver, Silver, Estate
+ 
+---------- Conqueror Bot: turn 9 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Estate
+I am BOT - discards Estate
+Conqueror Bot - plays 3 Copper, 1 Silver
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Copper, Province, Gold
+ 
+---------- I am BOT: turn 9 ----------
+I am BOT - plays 2 Silver, 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Copper, Copper, Adventurer, Province, Moneylender
+ 
+---------- Conqueror Bot: turn 10 ----------
+Conqueror Bot - plays 3 Copper, 1 Gold
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Copper, Copper, Militia, Estate, Gold
+ 
+---------- I am BOT: turn 10 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Estate, Silver, Copper
+I am BOT - places cards in hand:  Silver, Copper
+I am BOT - discards Estate
+I am BOT - plays 3 Copper, 1 Silver
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Silver, Silver, Copper, Copper
+I am BOT - shuffles deck
+I am BOT - draws Copper
+ 
+---------- Conqueror Bot: turn 11 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Copper
+I am BOT - discards Copper
+Conqueror Bot - plays 2 Copper, 1 Gold
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Silver, Gold, Province, Silver, Estate
+ 
+---------- I am BOT: turn 11 ----------
+I am BOT - plays 2 Silver, 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Copper, Silver, Moneylender, Silver, Duchy
+ 
+---------- Conqueror Bot: turn 12 ----------
+Conqueror Bot - plays 2 Silver, 1 Gold
+Conqueror Bot - buys Gardens
+Conqueror Bot - gains Gardens
+Conqueror Bot - draws Estate, Cellar, Copper, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Province
+ 
+---------- I am BOT: turn 12 ----------
+I am BOT - plays Moneylender
+I am BOT - trashes Copper
+I am BOT - plays 2 Silver
+I am BOT - buys Adventurer
+I am BOT - gains Adventurer
+I am BOT - draws Estate, Province, Estate, Duchy, Copper
+ 
+---------- Conqueror Bot: turn 13 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Province
+Conqueror Bot - discards Estate
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - draws Copper, Gold, Province, Estate
+Conqueror Bot - plays 1 Copper, 1 Gold
+Conqueror Bot - buys Gardens
+Conqueror Bot - gains Gardens
+Conqueror Bot - draws Gold, Copper, Copper, Gold, Militia
+ 
+---------- I am BOT: turn 13 ----------
+I am BOT - draws Silver, Estate, Adventurer, Copper
+I am BOT - shuffles deck
+I am BOT - draws Silver
+ 
+---------- Conqueror Bot: turn 14 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Estate
+I am BOT - discards Copper
+Conqueror Bot - plays 2 Gold, 2 Copper
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Gold, Silver, Silver, Gardens, Gold
+ 
+---------- I am BOT: turn 14 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Copper, Silver
+I am BOT - places cards in hand:  Copper, Silver
+I am BOT - plays 3 Silver, 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Copper, Duchy, Estate, Copper, Duchy
+ 
+---------- Conqueror Bot: turn 15 ----------
+Conqueror Bot - plays 2 Gold, 2 Silver
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Estate, Copper, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Gold, Silver
+ 
+---------- I am BOT: turn 15 ----------
+I am BOT - plays 2 Copper
+I am BOT - buys Estate
+I am BOT - gains Estate
+I am BOT - draws Copper, Estate, Duchy, Adventurer, Province
+ 
+---------- Conqueror Bot: turn 16 ----------
+Conqueror Bot - plays 2 Copper, 1 Gold, 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Province, Gold, Cellar, Province, Copper
+ 
+---------- I am BOT: turn 16 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Silver, Moneylender, Silver
+I am BOT - places cards in hand:  Silver, Silver
+I am BOT - discards Moneylender
+I am BOT - plays 2 Silver, 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - shuffles deck
+I am BOT - draws Estate, Copper, Estate, Silver, Copper
+ 
+---------- Conqueror Bot: turn 17 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Province
+Conqueror Bot - discards Province
+Conqueror Bot - discards Copper
+Conqueror Bot - draws Estate, Copper, Gold
+Conqueror Bot - plays 2 Gold, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Gold, Copper, Gold, Silver, Province
+ 
+---------- I am BOT: turn 17 ----------
+I am BOT - plays 2 Copper, 1 Silver
+I am BOT - buys Gardens
+I am BOT - gains Gardens
+I am BOT - draws Estate, Silver, Duchy, Province, Duchy
+ 
+---------- Conqueror Bot: turn 18 ----------
+Conqueror Bot - plays 2 Gold, 1 Copper, 1 Silver
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Gardens, Militia, Gardens, Copper, Copper
+ 
+---------- I am BOT: turn 18 ----------
+I am BOT - plays 1 Silver
+I am BOT - buys Estate
+I am BOT - gains Estate
+I am BOT - draws Copper, Silver, Copper, Adventurer, Silver
+ 
+---------- Conqueror Bot: turn 19 ----------
+Conqueror Bot - plays Militia
+I am BOT - discards Copper
+I am BOT - discards Copper
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Gardens
+Conqueror Bot - gains Gardens
+Conqueror Bot - draws Estate, Province
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Duchy, Copper, Copper
+ 
+---------- I am BOT: turn 19 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Copper, Silver
+I am BOT - places cards in hand:  Copper, Silver
+I am BOT - plays 3 Silver, 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Duchy, Duchy, Estate, Adventurer, Duchy
+ 
+---------- Conqueror Bot: turn 20 ----------
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Gold, Copper, Gardens, Gardens, Estate
+ 
+---------- I am BOT: turn 20 ----------
+I am BOT - plays Adventurer
+I am BOT - shuffles deck
+I am BOT - reveals Moneylender, Estate, Duchy, Silver, Silver
+I am BOT - places cards in hand:  Silver, Silver
+I am BOT - discards: Moneylender, Estate, Duchy
+I am BOT - plays 2 Silver
+I am BOT - buys Gardens
+I am BOT - gains Gardens
+I am BOT - draws Adventurer, Duchy, Province, Estate, Duchy
+ 
+---------- Conqueror Bot: turn 21 ----------
+Conqueror Bot - plays 1 Gold, 1 Copper
+Conqueror Bot - buys Gardens
+Conqueror Bot - gains Gardens
+Conqueror Bot - draws Silver, Copper, Province, Copper, Duchy
+ 
+---------- I am BOT: turn 21 ----------
+I am BOT - plays Adventurer
+I am BOT - reveals Copper, Silver
+I am BOT - places cards in hand:  Copper, Silver
+I am BOT - plays 1 Copper, 1 Silver
+I am BOT - buys Estate
+I am BOT - gains Estate
+I am BOT - draws Estate, Copper, Silver, Estate, Gardens
+ 
+---------- Conqueror Bot: turn 22 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Gardens
+Conqueror Bot - gains Gardens
+Conqueror Bot - draws Militia, Cellar, Gold, Gold, Province
+ 
+---------- I am BOT: turn 22 ----------
+I am BOT - plays 1 Copper, 1 Silver
+I am BOT - buys Estate
+I am BOT - gains Estate
+I am BOT - draws Silver, Copper, Copper, Copper
+I am BOT - shuffles deck
+I am BOT - draws Silver
+ 
+---------- Conqueror Bot: turn 23 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Province
+Conqueror Bot - draws Copper
+Conqueror Bot - plays Militia
+I am BOT - discards Copper
+I am BOT - discards Copper
+Conqueror Bot - plays 2 Gold, 1 Copper
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Province, Gardens, Silver, Gold, Copper
+ 
+---------- I am BOT: turn 23 ----------
+I am BOT - plays 2 Silver, 1 Copper
+I am BOT - buys Gardens
+I am BOT - gains Gardens
+I am BOT - draws Estate, Copper, Estate, Copper, Moneylender
+ 
+---------- Conqueror Bot: turn 24 ----------
+Conqueror Bot - plays 1 Silver, 1 Gold, 1 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Estate, Gold, Province
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Province, Gardens
+ 
+---------- I am BOT: turn 24 ----------
+I am BOT - plays Moneylender
+I am BOT - trashes Copper
+I am BOT - plays 1 Copper
+I am BOT - buys Estate
+I am BOT - gains Estate
+I am BOT - draws Estate, Estate, Duchy, Adventurer, Duchy
+ 
+---------- Conqueror Bot: turn 25 ----------
+Conqueror Bot - plays 1 Gold
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Gold, Copper, Silver, Cellar, Copper
+ 
+------------ Game Over ------------
+Conqueror Bot - cards: 1 Cellar, 1 Militia, 7 Copper, 5 Gold, 2 Silver, 6 Estate, 6 Province, 5 Gardens, 2 Duchy
+Conqueror Bot - total victory points: 63
+Conqueror Bot - turns: 25
+ 
+I am BOT - cards: 2 Adventurer, 1 Moneylender, 5 Silver, 4 Copper, 8 Estate, 6 Duchy, 3 Gardens, 1 Province
+I am BOT - total victory points: 41
+I am BOT - turns: 24
+ 
+1st place: Conqueror Bot
+2nd place: I am BOT

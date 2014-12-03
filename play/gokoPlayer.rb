@@ -1,16 +1,16 @@
 load("../util/cardData.rb")
 require "open3"
 
-class GokoLogParser
+class GokoPlayer
 
   BOT_NAME = "I am BOT"
-  PLAY_PROGRAM = "./a.out"
-  BUY_PROGRAM = "./a.out"
-  REMODEL_PROGRAM = ""
-  CELLAR_PROGRAM = ""
-  CHAPEL_PROGRAM = ""
-  THRONE_PROGRAM = ""
-  CHANCELLOR_PROGRAM = ""
+  PLAY_PROGRAM = "./a.out play"
+  BUY_PROGRAM = "./a.out gain"
+  REMODEL_PROGRAM = "./a.out action 9"
+  CELLAR_PROGRAM = "./a.out action 22"
+  CHAPEL_PROGRAM = "./a.out action 32"
+  THRONE_PROGRAM = "./a.out action 14"
+  CHANCELLOR_PROGRAM = "./a.out action 18"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -21,7 +21,7 @@ class GokoLogParser
   
   FEATURE_LENGTH = 233
 
-  def parse(rawlog, output, outputAction, outputActionSelection, drawlog)
+  def parse(rawlog, output, outputAction, outputActionSelection, drawlog, autoPlay)
     @player = 0
 
     @playerName = Array.new(2)
@@ -251,6 +251,10 @@ class GokoLogParser
     puts resultString
     @outputActionSelection.write(resultString + "\n")
 
+    if(!@autoPlay)
+      return
+    end
+
     out, err, status = Open3.capture3(CHANCELLOR_PROGRAM)
     puts out
     puts err
@@ -262,6 +266,10 @@ class GokoLogParser
 
     puts resultString
     @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
 
     out, err, status = Open3.capture3(THRONE_PROGRAM)
     puts out
@@ -275,6 +283,10 @@ class GokoLogParser
     puts resultString
     @outputActionSelection.write(resultString + "\n")
 
+    if(!@autoPlay)
+      return
+    end
+
     out, err, status = Open3.capture3(CHAPEL_PROGRAM)
     puts out
     puts err
@@ -287,6 +299,10 @@ class GokoLogParser
     puts resultString
     @outputActionSelection.write(resultString + "\n")
 
+    if(!@autoPlay)
+      return
+    end
+
     out, err, status = Open3.capture3(CELLAR_PROGRAM)
     puts out
     puts err
@@ -298,6 +314,10 @@ class GokoLogParser
 
     puts resultString
     @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
 
     out, err, status = Open3.capture3(REMODEL_PROGRAM)
     puts out
@@ -327,6 +347,10 @@ class GokoLogParser
 
     puts resultString
     @outputAction.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
 
     out, err, status = Open3.capture3(PLAY_PROGRAM)
     puts out
@@ -366,6 +390,9 @@ end
       puts result
       @output.write(result + "\n")
 
+      if(!@autoPlay)
+      return
+    end
 
     out, err, status = Open3.capture3(BUY_PROGRAM)
     puts out
@@ -952,9 +979,6 @@ end
     puts "gain #{pCard.buy} buy"
     
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
-      if(@featureMode == MODE_ACTION_THRONE)
-        generateUseThroneFeature(pCard)
-      end
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
       @throneStack.push(pCard.num)

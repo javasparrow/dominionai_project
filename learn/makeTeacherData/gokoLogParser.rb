@@ -1,4 +1,4 @@
-load("../../util/cardData.rb")
+load(File.expand_path(__FILE__).sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'') + "util/cardData.rb")
 
 class GokoLogParser
 
@@ -27,10 +27,12 @@ class GokoLogParser
 
   FEATURE_LENGTH = 233
 
-  def parse(rawlog, output)
+  def parse(rawlog, output, featureMode, playerName)
     @canVerify = true
 
-    @featureMode = MODE_ACTION_REMODEL
+    @featureMode = featureMode
+
+    @focusPlayerName = playerName
 
     @playerName = Array.new(2)
 
@@ -353,7 +355,10 @@ class GokoLogParser
       puts "this is not buy mode"
       return
     end
-    if(@playerName[@currentPlayer] != @winner)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    elsif(@playerName[@currentPlayer] != @winner && @focusPlayerName == nil)
       puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
       return
     end
@@ -776,11 +781,14 @@ class GokoLogParser
       return
     end
 
-    # カード使用は敗者からも取っていい気がした
-    #if(@playerName[@currentPlayer] != @winner)
-    #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
-    #    return
-    #end
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    if(gain != nil && gain.length == 0)
+      return
+    end
 
     feature = generateFeatureString();
 
@@ -805,11 +813,10 @@ class GokoLogParser
 
   def generateUseCellarFeature()
 
-    # カード使用は敗者からも取っていい気がした
-    #if(@playerName[@currentPlayer] != @winner)
-    #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
-    #    return
-    #end
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
 
     cardString = ""
     @pastCellarDiscard.each{|card|
@@ -825,11 +832,10 @@ class GokoLogParser
 
   def generateUseChapelFeature()
 
-    # カード使用は敗者からも取っていい気がした
-    #if(@playerName[@currentPlayer] != @winner)
-    #    puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
-    #    return
-    #end
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
 
     cardString = ""
     @pastChapelTrash.each{|card|
@@ -844,6 +850,11 @@ class GokoLogParser
   end
 
   def generateUseRemodelFeature(card)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandString() + "/" + card.num.to_s
 
     puts resultString
@@ -851,6 +862,11 @@ class GokoLogParser
   end
 
   def generateUseThroneFeature(card)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + card.num.to_s
 
     puts resultString
@@ -862,6 +878,11 @@ class GokoLogParser
       ans = "1"
     else
       ans = "0"
+    end
+
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
     end
 
     resultString = generateFeatureString() + "/" + ans
@@ -1006,14 +1027,3 @@ class GokoLogParser
 
 end
 
-File.open("result.txt", 'w'){|out|
-
-  Dir::glob("./logfiles/*").each{|f|
-    parser = GokoLogParser.new
-    File.open(f, 'r') {|file|
-      puts f
-      parser.parse(file, out)
-    }
-  }
-
-}

@@ -2,9 +2,9 @@ require 'fssm'
 load("./gokoPlayer.rb")
  
 LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/02'
-BUYFEATURE_DIR = "feature.txt"
-PLAYFEATURE_DIR = "hoge.txt"
-ACTIONFEATURE_DIR = "hogehoge.txt"
+BUYFEATURE_DIR = "gainFeature.txt"
+PLAYFEATURE_DIR = "playFeature.txt"
+ACTIONFEATURE_DIR = "actionFeature.txt"
 
  drawFileName = nil
  logFileName = nil
@@ -37,11 +37,13 @@ FSSM.monitor(LOGDIR ,'**/*') do
 
       #これしないと変更が反映されない
       out.sync = true
+      outAction.sync = true
+      outAction2.sync = true
       
-      parser = GokoLogParser.new
+      parser = GokoPlayer.new
       File.open(logFileName, 'r') {|file|
         File.open(drawFileName, 'r') {|drawfile|
-          parser.parse(file, out, outAction, outAction2, drawfile)
+          parser.parse(file, out, outAction, outAction2, drawfile, true)
         }
       }
     }
