@@ -154,7 +154,21 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
     return maxGain;
 }
 
-
+bool getIsDiscard( vector<double> weight, vector<double> feature) {
+    
+    bool flag = false;
+    double value = getInnerProduct(weight,feature);
+     
+    if(value < 0) {
+        flag = false;
+        cout << "NO" << endl;
+    } else {
+        flag = true;
+        cout << "YES" << endl;
+    }
+    
+    return flag;
+}
 
 
 vector<string> SpritString(string src,string delim) {
