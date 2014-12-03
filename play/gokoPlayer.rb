@@ -250,7 +250,7 @@ class GokoPlayer
       generateChancellorString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
-    elsif(@currentPhase == PHASE_BUY)
+    elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
       generateQuestionString()
     end
 
@@ -400,7 +400,7 @@ end
       
       result = result[0..-2] + "/"
       
-      if(@currentPhase == PHASE_BUY)
+      if(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
         coin = @currentCoin
         buy = @currentBuy
       elsif(@lastPlay.name == "Feast")
@@ -845,6 +845,11 @@ end
     else currentPlayer = 1
     end
 
+    #掘
+    if(data.include?("Moat"))
+      return
+    end
+
     if(@lastPlay.name == "Thief")
       data[data.index("reveals") + 9..-2].split(", ").each{|card|
         currentCard = @cardData.getCard(card)
@@ -1111,6 +1116,15 @@ end
   def haveActionInHand()
     for i in 0...MAX_CARDNUM do
       if(@playerHand[@currentPlayer][i] > 0 && @cardData.getCardByNum(i).isAction)
+        return true
+      end
+    end
+    return false
+  end
+
+  def haveTreasureInHand()
+    for i in 0...MAX_CARDNUM do
+      if(@playerHand[@currentPlayer][i] > 0 && @cardData.getCardByNum(i).isTreasure)
         return true
       end
     end
