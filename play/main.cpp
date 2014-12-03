@@ -72,6 +72,7 @@ int main(int argc, const char * argv[])
     vector<int> supply;
     //PlayModeのみ
     vector<int> hand;
+   
     
     
     
@@ -125,7 +126,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -137,6 +138,17 @@ int main(int argc, const char * argv[])
             vector<string> out1 = SpritString(out[1],",");
             for(int i=0;i<out1.size();i++) {
                 hand.push_back(atof(out1[i].c_str()));
+            }
+            dimensionOfFeature = feature.size();
+        }
+        if(PlayActionId == CARD_CHANCELLOR) {
+            if(out.size() != 1) {
+                cout << "file reading error: not match format '/' " << endl;
+                exit(0);
+            }
+            vector<string> out0 = SpritString(out[0],",");
+            for(int i=0;i<out0.size();i++) {
+                feature.push_back(atof(out0[i].c_str()));
             }
             dimensionOfFeature = feature.size();
         }
@@ -189,11 +201,16 @@ int main(int argc, const char * argv[])
         showMaxValuePlayCard(weight,feature,hand,10);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM) {
             cout << "select trash card /REMODEL" << endl;
             cout << "hand:";
             showGain(hand);
             showMaxValuePlayCard(weight,feature,hand,10);
+        }
+        if(PlayActionId == CARD_CHANCELLOR) {
+            cout << "select which discard or not /CHANCELLOR" << endl;
+            cout << "isDiscard:";
+            getIsDiscard(weight[0],feature);
         }
     }
    

@@ -28,6 +28,8 @@ void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<d
 
 vector<int> getMaxValueGain( vector< vector<double> > weight,  vector<double> feature, vector<int> supply,int coin,int buy,int ordinal);
 
+bool getIsDiscard( vector<double> weight, vector<double> feature);
+
 
 vector<string> SpritString(string src, string delim);
 
