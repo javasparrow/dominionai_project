@@ -1,0 +1,46 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Woodcutter, Workshop, Militia, Spy, Festival, Laboratory, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+I am BOT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Banker Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+I am BOT - shuffles deck
+Banker Bot - shuffles deck
+I am BOT - draws 5 cards
+Banker Bot - draws 5 cards
+ 
+---------- Banker Bot: turn 1 ----------
+Banker Bot - plays 2 Copper
+Banker Bot - draws 5 cards
+ 
+---------- I am BOT: turn 1 ----------
+I am BOT - plays 4 Copper
+I am BOT - buys Militia
+I am BOT - gains Militia
+I am BOT - draws 5 cards
+ 
+---------- Banker Bot: turn 2 ----------
+Banker Bot - plays 5 Copper
+Banker Bot - buys Laboratory
+Banker Bot - gains Laboratory
+Banker Bot - shuffles deck
+Banker Bot - draws 5 cards
+ 
+---------- I am BOT: turn 2 ----------
+I am BOT - plays 3 Copper
+I am BOT - buys Woodcutter
+I am BOT - gains Woodcutter
+I am BOT - shuffles deck
+I am BOT - draws 5 cards
+ 
+---------- Banker Bot: turn 3 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws 2 cards
+Banker Bot - plays 4 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws 4 cards
+Banker Bot - shuffles deck
+Banker Bot - draws 1 cards
+ 
+---------- I am BOT: turn 3 ----------
+I am BOT - plays 4 Copper

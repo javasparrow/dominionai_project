@@ -1,0 +1,441 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Woodcutter, Workshop, Militia, Spy, Festival, Laboratory, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+I am BOT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Banker Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+I am BOT - shuffles deck
+Banker Bot - shuffles deck
+I am BOT - draws Copper, Copper, Estate, Copper, Copper
+Banker Bot - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Banker Bot: turn 1 ----------
+Banker Bot - plays 2 Copper
+Banker Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- I am BOT: turn 1 ----------
+I am BOT - plays 4 Copper
+I am BOT - buys Militia
+I am BOT - gains Militia
+I am BOT - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Banker Bot: turn 2 ----------
+Banker Bot - plays 5 Copper
+Banker Bot - buys Laboratory
+Banker Bot - gains Laboratory
+Banker Bot - shuffles deck
+Banker Bot - draws Laboratory, Estate, Copper, Estate, Copper
+ 
+---------- I am BOT: turn 2 ----------
+I am BOT - plays 3 Copper
+I am BOT - buys Woodcutter
+I am BOT - gains Woodcutter
+I am BOT - shuffles deck
+I am BOT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 3 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Copper
+Banker Bot - plays 4 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Copper, Copper, Estate
+Banker Bot - shuffles deck
+Banker Bot - draws Copper
+ 
+---------- I am BOT: turn 3 ----------
+I am BOT - plays 4 Copper
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - draws Woodcutter, Copper, Estate, Militia, Copper
+ 
+---------- Banker Bot: turn 4 ----------
+Banker Bot - plays 4 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Estate, Silver, Copper, Copper, Laboratory
+ 
+---------- I am BOT: turn 4 ----------
+I am BOT - plays Militia
+Banker Bot - discards Estate
+Banker Bot - discards Copper
+I am BOT - plays 2 Copper
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - draws Copper, Estate
+I am BOT - shuffles deck
+I am BOT - draws Copper, Copper, Woodcutter
+ 
+---------- Banker Bot: turn 5 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Estate
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- I am BOT: turn 5 ----------
+I am BOT - plays Woodcutter
+I am BOT - plays 3 Copper
+I am BOT - buys Festival
+I am BOT - gains Festival
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - draws Militia, Copper, Copper, Copper, Village
+ 
+---------- Banker Bot: turn 6 ----------
+Banker Bot - plays 4 Copper, 1 Silver
+Banker Bot - buys Gold
+Banker Bot - gains Gold
+Banker Bot - draws Copper, Estate, Laboratory, Estate, Silver
+ 
+---------- I am BOT: turn 6 ----------
+I am BOT - plays Village
+I am BOT - draws Estate
+I am BOT - plays Militia
+Banker Bot - discards Estate
+Banker Bot - discards Estate
+I am BOT - plays 3 Copper
+I am BOT - buys Mine
+I am BOT - gains Mine
+I am BOT - draws Village, Copper, Estate
+I am BOT - shuffles deck
+I am BOT - draws Estate, Copper
+ 
+---------- Banker Bot: turn 7 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Estate
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Estate, Copper, Copper
+ 
+---------- I am BOT: turn 7 ----------
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays 3 Copper
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - draws Copper, Copper, Estate, Copper, Militia
+ 
+---------- Banker Bot: turn 8 ----------
+Banker Bot - plays 3 Copper, 1 Silver
+Banker Bot - buys Laboratory
+Banker Bot - gains Laboratory
+Banker Bot - draws Gold, Copper, Silver, Estate, Copper
+ 
+---------- I am BOT: turn 8 ----------
+I am BOT - plays Militia
+Banker Bot - discards Estate
+Banker Bot - discards Copper
+I am BOT - plays 3 Copper
+I am BOT - buys Mine
+I am BOT - gains Mine
+I am BOT - draws Woodcutter, Mine, Copper, Festival, Copper
+ 
+---------- Banker Bot: turn 9 ----------
+Banker Bot - plays 1 Gold, 1 Silver, 1 Copper
+Banker Bot - buys Gold
+Banker Bot - gains Gold
+Banker Bot - draws Copper, Estate, Silver, Copper, Silver
+ 
+---------- I am BOT: turn 9 ----------
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays 1 Copper, 1 Silver
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - draws Village
+I am BOT - shuffles deck
+I am BOT - draws Woodcutter, Estate, Copper, Village
+ 
+---------- Banker Bot: turn 10 ----------
+Banker Bot - plays 2 Copper, 2 Silver
+Banker Bot - buys Adventurer
+Banker Bot - gains Adventurer
+Banker Bot - draws Laboratory
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Estate, Gold, Silver
+ 
+---------- I am BOT: turn 10 ----------
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays Woodcutter
+I am BOT - plays 3 Copper
+I am BOT - buys Festival
+I am BOT - gains Festival
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - draws Estate, Copper, Mine, Festival, Silver
+ 
+---------- Banker Bot: turn 11 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Adventurer, Copper
+Banker Bot - plays Adventurer
+Banker Bot - reveals Copper, Copper
+Banker Bot - places cards in hand:  Copper, Copper
+Banker Bot - plays 4 Copper, 1 Gold, 1 Silver
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Copper, Estate, Silver, Copper, Estate
+ 
+---------- I am BOT: turn 11 ----------
+I am BOT - plays Festival
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays 2 Silver
+I am BOT - buys Mine
+I am BOT - gains Mine
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - draws Estate, Village, Copper, Mine, Militia
+ 
+---------- Banker Bot: turn 12 ----------
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Silver, Silver, Gold, Copper, Laboratory
+ 
+---------- I am BOT: turn 12 ----------
+I am BOT - plays Village
+I am BOT - draws Village
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays Militia
+Banker Bot - discards Copper
+Banker Bot - discards Silver
+I am BOT - plays 1 Copper, 1 Silver
+I am BOT - buys Laboratory
+I am BOT - gains Laboratory
+I am BOT - draws Copper
+I am BOT - shuffles deck
+I am BOT - draws Copper, Laboratory, Festival, Mine
+ 
+---------- Banker Bot: turn 13 ----------
+Banker Bot - plays Laboratory
+Banker Bot - shuffles deck
+Banker Bot - draws Silver, Silver
+Banker Bot - plays 3 Silver, 1 Gold
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Estate, Copper, Estate, Laboratory, Province
+ 
+---------- I am BOT: turn 13 ----------
+I am BOT - plays Laboratory
+I am BOT - draws Estate, Militia
+I am BOT - plays Festival
+I am BOT - plays Militia
+Banker Bot - discards Province
+Banker Bot - discards Estate
+I am BOT - plays 2 Copper
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - buys Village
+I am BOT - gains Village
+I am BOT - draws Silver, Mine, Copper, Mine, Village
+ 
+---------- Banker Bot: turn 14 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Silver
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- I am BOT: turn 14 ----------
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays 3 Silver
+I am BOT - buys Mine
+I am BOT - gains Mine
+I am BOT - draws Village, Woodcutter, Village, Copper, Silver
+ 
+---------- Banker Bot: turn 15 ----------
+Banker Bot - plays 3 Copper, 1 Silver
+Banker Bot - buys Laboratory
+Banker Bot - gains Laboratory
+Banker Bot - draws Copper, Copper, Gold, Adventurer
+Banker Bot - shuffles deck
+Banker Bot - draws Gold
+ 
+---------- I am BOT: turn 15 ----------
+I am BOT - plays Village
+I am BOT - draws Village
+I am BOT - plays Village
+I am BOT - draws Silver
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays Woodcutter
+I am BOT - plays 2 Copper, 2 Silver
+I am BOT - buys Province
+I am BOT - gains Province
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - draws Estate, Festival, Copper, Estate
+I am BOT - shuffles deck
+I am BOT - draws Village
+ 
+---------- Banker Bot: turn 16 ----------
+Banker Bot - plays Adventurer
+Banker Bot - reveals Copper, Silver
+Banker Bot - places cards in hand:  Copper, Silver
+Banker Bot - plays 3 Copper, 2 Gold, 1 Silver
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Province, Silver, Estate, Province, Laboratory
+ 
+---------- I am BOT: turn 16 ----------
+I am BOT - plays Village
+I am BOT - draws Festival
+I am BOT - plays Festival
+I am BOT - plays Festival
+I am BOT - plays 1 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - buys Copper
+I am BOT - gains Copper
+I am BOT - draws Copper, Mine, Mine, Silver, Mine
+ 
+---------- Banker Bot: turn 17 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Estate, Silver
+Banker Bot - plays 2 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Silver, Laboratory, Copper, Estate, Silver
+ 
+---------- I am BOT: turn 17 ----------
+I am BOT - plays Mine
+I am BOT - trashes Silver
+I am BOT - gains Gold
+I am BOT - plays 1 Copper, 1 Gold
+I am BOT - buys Woodcutter
+I am BOT - gains Woodcutter
+I am BOT - draws Militia, Mine, Laboratory, Silver, Woodcutter
+ 
+---------- Banker Bot: turn 18 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Copper
+Banker Bot - plays 3 Copper, 2 Silver
+Banker Bot - buys Adventurer
+Banker Bot - gains Adventurer
+Banker Bot - draws Laboratory, Copper, Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Estate, Silver
+ 
+---------- I am BOT: turn 18 ----------
+I am BOT - plays Laboratory
+I am BOT - draws Copper, Village
+I am BOT - plays Village
+I am BOT - draws Silver
+I am BOT - plays Militia
+Banker Bot - discards Estate
+Banker Bot - discards Copper
+I am BOT - plays 2 Silver, 1 Copper
+I am BOT - buys Laboratory
+I am BOT - gains Laboratory
+I am BOT - draws Village, Silver, Silver, Copper, Village
+ 
+---------- Banker Bot: turn 19 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Copper, Laboratory
+Banker Bot - plays Laboratory
+Banker Bot - draws Adventurer, Copper
+Banker Bot - plays Adventurer
+Banker Bot - reveals Silver, Copper
+Banker Bot - places cards in hand:  Silver, Copper
+Banker Bot - plays 3 Silver, 3 Copper
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Silver, Silver, Silver, Province, Silver
+ 
+---------- I am BOT: turn 19 ----------
+I am BOT - plays Village
+I am BOT - draws Province
+I am BOT - plays Village
+I am BOT - draws Village
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays 2 Silver, 2 Copper
+I am BOT - buys Duchy
+I am BOT - gains Duchy
+I am BOT - draws Village, Estate, Copper
+I am BOT - shuffles deck
+I am BOT - draws Duchy, Estate
+ 
+---------- Banker Bot: turn 20 ----------
+Banker Bot - plays 4 Silver
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Estate, Laboratory, Province, Gold, Copper
+ 
+---------- I am BOT: turn 20 ----------
+I am BOT - plays Village
+I am BOT - draws Village
+I am BOT - plays Village
+I am BOT - draws Copper
+I am BOT - plays 2 Copper
+I am BOT - buys Cellar
+I am BOT - gains Cellar
+I am BOT - draws Copper, Mine, Laboratory, Laboratory, Copper
+ 
+---------- Banker Bot: turn 21 ----------
+Banker Bot - plays Laboratory
+Banker Bot - draws Province, Adventurer
+Banker Bot - plays Adventurer
+Banker Bot - reveals Gold, Copper
+Banker Bot - places cards in hand:  Gold, Copper
+Banker Bot - plays 2 Gold, 2 Copper
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Estate, Copper
+Banker Bot - shuffles deck
+Banker Bot - draws Estate, Province, Copper
+ 
+---------- I am BOT: turn 21 ----------
+I am BOT - plays Laboratory
+I am BOT - draws Silver, Festival
+I am BOT - plays Laboratory
+I am BOT - draws Village, Silver
+I am BOT - plays Festival
+I am BOT - plays Village
+I am BOT - draws Gold
+I am BOT - plays Mine
+I am BOT - trashes Copper
+I am BOT - gains Silver
+I am BOT - plays 3 Silver, 1 Copper, 1 Gold
+I am BOT - buys Province
+I am BOT - gains Province
+I am BOT - buys Cellar
+I am BOT - gains Cellar
+I am BOT - draws Mine, Festival, Copper, Silver, Duchy
+ 
+------------ Game Over ------------
+Banker Bot - cards: 3 Laboratory, 2 Adventurer, 7 Copper, 7 Silver, 2 Gold, 6 Province, 3 Estate
+Banker Bot - total victory points: 39
+Banker Bot - turns: 21
+ 
+I am BOT - cards: 6 Village, 4 Mine, 2 Festival, 2 Cellar, 2 Laboratory, 2 Woodcutter, 1 Militia, 7 Copper, 5 Silver, 1 Gold, 3 Estate, 2 Duchy, 2 Province
+I am BOT - total victory points: 21
+I am BOT - turns: 21
+ 
+1st place: Banker Bot
+2nd place: I am BOT
+ 

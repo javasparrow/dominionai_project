@@ -3,6 +3,8 @@ require "open3"
 
 class GokoPlayer
 
+  DEBUGMODE = false
+
   BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out play"
   BUY_PROGRAM = "./a.out gain"
@@ -22,6 +24,8 @@ class GokoPlayer
   FEATURE_LENGTH = 233
 
   def parse(rawlog, output, outputAction, outputActionSelection, drawlog, autoPlay)
+    @autoPlay = autoPlay
+
     @player = 0
 
     @playerName = Array.new(2)
@@ -81,6 +85,9 @@ class GokoPlayer
     #玉座の間処理用
     @throneStack = Array.new(0)
     
+    @drawlog = drawlog
+    @rawlog = rawlog
+
     #add pass text to log
     log = addPass(addDrawInfo(rawlog, drawlog))
 
@@ -392,6 +399,18 @@ end
 
       if(!@autoPlay)
       return
+    end
+
+    if(DEBUGMODE)
+      puts "debug"
+      if(!File.exist?("./debug/turn" + (@currentTurn/2).to_s + "_buy_draw"))
+      File.open("./debug/turn" + (@currentTurn/2).to_s + "_buy_draw", 'w'){|draw|
+        FileUtils.cp( @drawlog, draw)
+      }
+      File.open("./debug/turn" + (@currentTurn/2).to_s + "_buy_log", 'w'){|log|
+        FileUtils.cp(@rawlog, log)
+      }
+      end
     end
 
     out, err, status = Open3.capture3(BUY_PROGRAM)
