@@ -10,6 +10,7 @@ class GokoLogParser
   CELLAR_PROGRAM = ""
   CHAPEL_PROGRAM = ""
   THRONE_PROGRAM = ""
+  CHANCELLOR_PROGRAM = ""
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -230,8 +231,10 @@ class GokoLogParser
       generateCellarString()
     elsif(@lastPlay != nil && @lastPlay.name == "Chapel" && log[-1].include?("plays Chapel"))
       generateChapelString()
-    elsif(@lastPlay != nil && @lastPlay.name == "Throne Room" && log[-1].include?("plays"))
+    elsif(@lastPlay != nil && @lastPlay.name == "Throne Room" && log[-1].include?("plays Throne Room"))
       generateThroneString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Chancellor" && log[-1].include?("plays Chancellor"))
+      generateChancellorString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY)
@@ -242,11 +245,23 @@ class GokoLogParser
       #puts ex.message
   end
 
+  def generateChancellorString()
+    resultString = generateFeatureString()
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    out, err, status = Open3.capture3(CHANCELLOR_PROGRAM)
+    puts out
+    puts err
+    puts status
+  end
+
   def generateThroneString()
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction()
 
     puts resultString
-    @output.write(resultString + "\n")
+    @outputActionSelection.write(resultString + "\n")
 
     out, err, status = Open3.capture3(THRONE_PROGRAM)
     puts out
