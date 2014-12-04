@@ -86,6 +86,8 @@ int main(int argc, const char * argv[])
     //PlayModeのみ
     vector<int> hand;
    
+    //書庫
+    int revealCard;
     
     
     //-----------------------特徴ベクトルの生成-------------------------
@@ -137,7 +139,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_LIBRARY || PlayActionId == CARD_BUREAUCRAT) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -152,6 +154,9 @@ int main(int argc, const char * argv[])
             vector<string> out1 = SpritString(out[1],",");
             for(int i=0;i<out1.size();i++) {
                 hand.push_back(atoi(out1[i].c_str()));
+            }
+            if(PlayActionId == CARD_LIBRARY) {
+                revealCard = atoi(out1[0].c_str());
             }
             dimensionOfFeature = feature.size();
         }
@@ -192,12 +197,15 @@ int main(int argc, const char * argv[])
         showMaxValuePlayCard(weight,feature,hand,10);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_BUREAUCRAT) {
             if(PlayActionId == CARD_REMODEL) {
                 cout << "select trash card /REMODEL" << endl;
             }
             if(PlayActionId == CARD_THRONEROOM) {
                 cout << "select throneroom action /THRONEROOM" << endl;
+            }
+            if(PlayActionId == CARD_BUREAUCRAT) {
+                cout << "select victory put on deck /BUREAUCRAT" << endl;
             }
             if(PlayActionId == CARD_THIEF) {
                 cout << "select trash treasure /THIEF" << endl;
@@ -247,6 +255,12 @@ int main(int argc, const char * argv[])
             cout << "select which discard or not /CHANCELLOR" << endl;
             cout << "isDiscard:";
             getIsDiscard(weight[0],feature);
+        }
+        if(PlayActionId == CARD_LIBRARY) {
+            cout << "select which discard or not /LIBRARY" << endl;
+            cout << "action:" << getString(revealCard) << endl;
+            cout << "isDiscard:";
+            getIsDiscard(weight[revealCard-1],feature);
         }
         if(PlayActionId == CARD_CHAPEL) {
             cout << "select trash cards /CHAPEL" << endl;

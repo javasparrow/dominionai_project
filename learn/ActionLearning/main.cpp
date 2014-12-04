@@ -57,7 +57,7 @@ int main(int argc, const char * argv[])
     
     
     
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE && num != CARD_THIEF) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE && num != CARD_THIEF && num != CARD_LIBRARY && num != CARD_BUREAUCRAT) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -96,13 +96,18 @@ int main(int argc, const char * argv[])
     int count = 0;
     while(getline(ifs, buf)) {
         fprintf(stderr,"loading teacher data:%d \r",count+1);
-        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE) {
+        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_BUREAUCRAT) {
             remodelSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
         if(learningCardId == CARD_CHANCELLOR) {
             chancellorSample teacher(count++,buf);
+            dimensionOfFeature = teacher.getDimensionOfFeature();
+            teachers.push_back(teacher);
+        }
+        if(learningCardId == CARD_LIBRARY) {
+            librarySample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
@@ -165,7 +170,7 @@ int main(int argc, const char * argv[])
         int sampleIndex = indexs[round%teachers.size()];
         round++;
 
-        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_THIEF) {
+        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_THIEF || learningCardId == CARD_BUREAUCRAT) {
             int gotPlayCard = getMaxValuePlayCard(weight,teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero,teachers[sampleIndex]._hand);
             int answerPlayCard = teachers[sampleIndex]._answerSelectCard;
             if(gotPlayCard != answerPlayCard) {
@@ -243,6 +248,20 @@ int main(int argc, const char * argv[])
                     averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
                 } else {//負例
                     int wid = 0;
+                    weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
+                }
+            }
+        }
+        if(learningCardId == CARD_LIBRARY) {
+            int wid = teachers[sampleIndex]._revealCard - 1;
+            bool isDiscardPile = getIsDiscardPile(weight[wid],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
+            bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;
+            if(isDiscardPile != answerIsDiscardPile) {//不正解の場合
+                if(answerIsDiscardPile) {//正例
+                    weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
+                } else {//負例
                     weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
                     averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
                 }

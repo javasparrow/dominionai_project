@@ -160,7 +160,7 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
     int tSize = testData.size();
     for(int i=0;i<tSize;i++) {
         showProgress(i,tSize,"test    ");
-        if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM || learnCardId == CARD_MINE || learnCardId == CARD_THIEF) {
+        if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM || learnCardId == CARD_MINE || learnCardId == CARD_THIEF || learnCardId == CARD_BUREAUCRAT) {
             int gotPlayCard = getMaxValuePlayCard(weight,testData[i]._feature,testData[i]._notZero,testData[i]._hand);
             if(gotPlayCard == testData[i]._answerSelectCard) {
                 count++;
@@ -259,6 +259,34 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
             bool isDiscardPile = getIsDiscardPile(weight[0],testData[i]._feature,testData[i]._notZero);
             bool answerIsDiscardPile = testData[i]._isDiscard;
            
+            if(isDiscardPile == answerIsDiscardPile) {
+                count++;
+                correct++;
+            } else {
+                count++;
+                if(isOutput) {
+                    testData[i].show();
+                    
+                    cout << "answerDiscard:";
+                    if(answerIsDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
+                    cout << "gotDiscard:";
+                    if(isDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
+                }
+            }
+        }
+        if(learnCardId == CARD_LIBRARY) {
+            int revealCardId = testData[i]._revealCard;
+            bool isDiscardPile = getIsDiscardPile(weight[revealCardId-1],testData[i]._feature,testData[i]._notZero);
+            bool answerIsDiscardPile = testData[i]._isDiscard;
+            
             if(isDiscardPile == answerIsDiscardPile) {
                 count++;
                 correct++;
