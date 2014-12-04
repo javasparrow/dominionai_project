@@ -15,7 +15,8 @@ class GokoPlayer
   CHANCELLOR_PROGRAM = "./a.out action 18"
   MILITIA_PROGRAM = "./a.out"
   MINE_PROGRAM = "./a.out"
-  BUREAUCRAT_PROGEAM = "./a.out"
+  BUREAUCRAT_PROGRAM = "./a.out"
+  THIEF_PROGRAM = "./a.out"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -228,7 +229,7 @@ class GokoPlayer
     #reaction
     if(log[-1].include?("plays Militia") && @playerName[@currentPlayer] != BOT_NAME)
       generateMilitiaString()
-    elsif(log[-1].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
+    elsif(log[-2].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
       generateBureaucratString()
     end
 
@@ -254,6 +255,8 @@ class GokoPlayer
       generateChancellorString()
     elsif(@lastPlay != nil && @lastPlay.name == "Mine" && log[-1].include?("plays Mine"))
       generateMineString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Thief" && log[-1].include?("reveals") && !log[-1].include?("reaction Moat"))
+      generateThiefString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
@@ -262,6 +265,41 @@ class GokoPlayer
 
     #rescue => ex
       #puts ex.message
+  end
+
+  def generateThiefString()
+
+    revealString = ""
+    if(@currentPlayer == 1)
+      opponent = 0
+    else
+      opponent = 1
+    end
+    @reveal[opponent].each{|card|
+      if(card.isTreasure)
+        revealString = revealString + card.num.to_s + ","
+      end
+    }
+    revealString = revealString[0...-1]
+
+    resultString = generateFeatureString() + "/" + revealString
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    feature = generateFeatureString();
+    buyResult = @pastFeature[@currentPlayer][-3] + "," + @pastFeature[@currentPlayer][-2] + "," + @pastFeature[@currentPlayer][-1] + "," + feature
+
+    @output.write(buyResult)
+
+    if(!@autoPlay)
+      return
+    end
+
+    out, err, status = Open3.capture3(THIEF_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateBureaucratString()
