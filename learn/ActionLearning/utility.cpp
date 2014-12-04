@@ -282,6 +282,34 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                 }
             }
         }
+        if(learnCardId == CARD_LIBRARY) {
+            int revealCardId = testData[i]._revealCard;
+            bool isDiscardPile = getIsDiscardPile(weight[revealCardId-1],testData[i]._feature,testData[i]._notZero);
+            bool answerIsDiscardPile = testData[i]._isDiscard;
+            
+            if(isDiscardPile == answerIsDiscardPile) {
+                count++;
+                correct++;
+            } else {
+                count++;
+                if(isOutput) {
+                    testData[i].show();
+                    
+                    cout << "answerDiscard:";
+                    if(answerIsDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
+                    cout << "gotDiscard:";
+                    if(isDiscardPile) {
+                        cout << "true" << endl;
+                    } else {
+                        cout << "false" << endl;
+                    }
+                }
+            }
+        }
     }
     
     return (double)correct / (double)count ;

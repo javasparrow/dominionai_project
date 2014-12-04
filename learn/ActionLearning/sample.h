@@ -26,6 +26,7 @@ public:
     vector<int> _answerSelectCards;
     int _answerSelectCard;
     int _sampleid;
+    int _revealCard;
     
     bool _isDiscard;
     bool _isGain;
@@ -52,6 +53,11 @@ public:
 class thiefSample :public Sample {
 public:
     thiefSample(int id,string str);
+};
+
+class librarySample :public Sample {
+public:
+    librarySample(int id,string str);
 };
 
 #endif /* defined(__parseptron__sample__) */
