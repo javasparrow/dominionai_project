@@ -12,6 +12,7 @@
 #include <vector>
 #include <time.h>
 #include <fstream>
+#include <ctype.h>
 
 #include "utility.h"
 #include "card.h"
@@ -42,7 +43,13 @@ int main(int argc, const char * argv[])
             Mode = ACTION_MODE;
         }
         if(Mode == ACTION_MODE) {
-            PlayActionId = atoi(argv[2]);
+            int i;
+            for( i = 0; argv[2][i] != NULL && isdigit( *(argv[2]+i)) ; ++i) ;
+            if( argv[2][i] != NULL) {//数値でない
+                PlayActionId = getIdFromEnglishString(string(argv[2]));
+            } else {
+                PlayActionId = atoi(argv[2]);
+            }
         }
     }
     

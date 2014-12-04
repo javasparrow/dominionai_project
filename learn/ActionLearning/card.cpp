@@ -133,6 +133,45 @@ string getEnglishString(int id) {
     return "";
 }
 
+int getIdFromEnglishString(string str) {
+    if(str == "copper") return 1;
+    if(str == "silver") return 2;
+    if(str == "gold") return 3;
+    if(str == "estate") return 4;
+    if(str == "dutch") return 5;
+    if(str == "province") return 6;
+    if(str == "curse") return 7;
+    if(str == "market") return 8;
+    if(str == "remodel") return 9;
+    if(str == "smithy") return 10;
+    if(str == "moneylender") return 11;
+    if(str == "woodcutter") return 12;
+    if(str == "councilroom") return 13;
+    if(str == "throneroom") return 14;
+    if(str == "laboratry") return 15;
+    if(str == "mine") return 16;
+    if(str == "workshop") return 17;
+    if(str == "chancellor") return 18;
+    if(str == "feast") return 19;
+    if(str == "festival") return 20;
+    if(str == "library") return 21;
+    if(str == "cellar") return 22;
+    if(str == "gardens") return 23;
+    if(str == "thief") return 24;
+    if(str == "adventure") return 25;
+    if(str == "moat") return 26;
+    if(str == "witch") return 27;
+    if(str == "spy") return 28;
+    if(str == "militia") return 29;
+    if(str == "village") return 30;
+    if(str == "bureaucrat") return 31;
+    if(str == "chapel") return 32;
+    
+    cout << "error:not found card name:'" << str << "' @getIdFromEnglishString" << endl;
+    exit(0);
+    return -1;
+}
+
 vector< vector<int> >getGainList(int coin,int buy,vector<int>supply) {
     vector< vector<int> > gainList;
     vector<int> pass;

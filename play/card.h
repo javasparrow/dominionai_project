@@ -55,6 +55,7 @@ using namespace std;
 int getCost(int id);
 string getString(int id);
 string getEnglishString(int id);
+int getIdFromEnglishString(string str);
 
 vector< vector<int> > getGainList(int coin,int buy, vector<int> supply);
 

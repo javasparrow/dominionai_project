@@ -46,7 +46,17 @@ int main(int argc, const char * argv[])
         }
     }
     
-    int num = atoi(argv[1]);
+    int num;
+    int numCheckerI;
+    for( numCheckerI = 0; argv[1][numCheckerI] != NULL && isdigit( *(argv[1]+numCheckerI)) ; ++numCheckerI) ;
+    if( argv[1][numCheckerI] != NULL) {//数値でない
+        num = getIdFromEnglishString(string(argv[1]));
+    } else {
+        num = atoi(argv[1]);
+    }
+    
+    
+    
     if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
@@ -68,7 +78,7 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 10000;//テスト実施の間隔学習回数
+    int roundtest = 50000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
