@@ -13,6 +13,7 @@ class GokoLogParser
   MODE_ACTION_MILITIA = 12
   MODE_ACTION_MINE = 14
   MODE_ACTION_THIEF = 16
+  MODE_ACTION_LIBRARY = 20
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -25,6 +26,7 @@ class GokoLogParser
   MODE_ACTION_THIEF_ACTIVE_1 = 17
   MODE_ACTION_THIEF_ACTIVE_2 = 18
   MODE_ACTION_THIEF_ACTIVE_3 = 19
+  MODE_ACTION_LIBRARY_ACTIVE = 21
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -160,6 +162,29 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_THIEF_ACTIVE_3 && line.include?("gains"))
         generateUseThiefFeature(true)
         @featureMode = MODE_ACTION_THIEF
+      end
+      #書庫のドローが終わったとき
+      #check library
+      if(@lastPlay != nil && @lastPlay.name == "Library")
+        handCount = 0
+        @playerHand[@currentPlayer].each{|num|
+          handCount = handCount + num
+        }
+
+        emptyflag = true
+        @playerDeck[@currentPlayer].each{|num|
+          if(num != 0)
+            emptyflag = false
+            break
+          end
+        }
+        if(emptyflag == true)
+          handCount = 7
+        end
+      end
+
+      if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE && handCount >= 7)
+        @featureMode = MODE_ACTION_LIBRARY
       end
 
       if(line.include?("Game Over"))
@@ -590,6 +615,9 @@ class GokoLogParser
     end
     if(@lastPlay.name == "Library")
       currentCard = @cardData.getCard(data[data.index("moves") + 6..data.index("to hand") - 2])
+      if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE)
+        generateUseLibraryFeature(currentCard, true)
+      end
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
     end
@@ -715,6 +743,9 @@ class GokoLogParser
         if(handCount >= 7)
           @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
         else
+          if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE)
+            generateUseLibraryFeature(currentCard, false)
+          end
           @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
         end
       else
@@ -905,6 +936,24 @@ class GokoLogParser
       cardString = card.num.to_s
     end
     resultString = feature + "/" + handString + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseLibraryFeature(card, drawflag)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    if(drawflag)
+      answer = "1"
+    else
+      answer = "0"
+    end
+
+    resultString = generateFeatureString() + "/" + card.num.to_s + "/" + answer
 
     puts resultString
     @output.write(resultString + "\n")
@@ -1131,7 +1180,9 @@ class GokoLogParser
       @pastThiefReveal.clear()
       @pastThiefFeature = generateFeatureString();
     end
-
+    if(@featureMode == MODE_ACTION_LIBRARY && pCard.name == "Library")
+      @featureMode = MODE_ACTION_LIBRARY_ACTIVE
+    end
     puts @throneStack
   end
 
