@@ -14,6 +14,7 @@ class GokoPlayer
   THRONE_PROGRAM = "./a.out action 14"
   CHANCELLOR_PROGRAM = "./a.out action 18"
   MILITIA_PROGRAM = "./a.out"
+  MINE_PROGRAM = "./a.out"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -248,6 +249,8 @@ class GokoPlayer
       generateThroneString()
     elsif(@lastPlay != nil && @lastPlay.name == "Chancellor" && log[-1].include?("plays Chancellor"))
       generateChancellorString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Mine" && log[-1].include?("plays Mine"))
+      generateMineString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
@@ -256,6 +259,22 @@ class GokoPlayer
 
     #rescue => ex
       #puts ex.message
+  end
+
+  def generateMineString(card)
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringOnlyTreasyre() + "/" + card.num.to_s
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
+
+    out, err, status = Open3.capture3(MINE_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateMilitiaString()
@@ -439,6 +458,21 @@ end
     puts out
     puts err
     puts status
+  end
+
+  def generateCurrentPlayerHandStringOnlyTreasyre()
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isTreasure)
+        next
+      end
+      for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
   end
 
   def generateCurrentPlayerHandStringNoAction()

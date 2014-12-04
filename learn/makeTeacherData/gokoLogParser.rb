@@ -11,6 +11,7 @@ class GokoLogParser
   MODE_ACTION_THRONE = 9
   MODE_ACTION_CHANCELLOR = 10
   MODE_ACTION_MILITIA = 12
+  MODE_ACTION_MINE = 14
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -19,6 +20,7 @@ class GokoLogParser
   MODE_ACTION_REMODEL_ACTIVE = 8
   MODE_ACTION_CHANCELLOR_ACTIVE = 11
   MODE_ACTION_MILITIA_ACTIVE = 13
+  MODE_ACTION_MINE_ACTIVE = 15
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -131,6 +133,10 @@ class GokoLogParser
       if(@featureMode == MODE_ACTION_CHANCELLOR_ACTIVE && !line.include?("moves deck to discards"))
         generateUseChancellorFeature(false)
         @featureMode = MODE_ACTION_CHANCELLOR
+      end
+      #鉱山使ったけど廃棄しなかった場合
+      if(@featureMode == MODE_ACTION_MINE_ACTIVE && !line.include?("trashes"))
+        @featureMode = MODE_ACTION_MINE
       end
 
       if(line.include?("Game Over"))
@@ -732,6 +738,10 @@ class GokoLogParser
         generateUseRemodelFeature(currentCard)
         @featureMode = MODE_ACTION_REMODEL
       end
+      if(@featureMode == MODE_ACTION_MINE_ACTIVE)
+        generateUseMineFeature(currentCard)
+        @featureMode = MODE_ACTION_MINE
+      end
 
       if(@lastPlay.name == "Moneylender" && currentCard.name == "Copper")
         @currentCoin = @currentCoin + 3
@@ -862,6 +872,18 @@ class GokoLogParser
       cardString = card.num.to_s
     end
     resultString = feature + "/" + handString + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseMineFeature(card)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringOnlyTreasyre() + "/" + card.num.to_s
 
     puts resultString
     @output.write(resultString + "\n")
@@ -1040,6 +1062,9 @@ class GokoLogParser
     if(@featureMode == MODE_ACTION_CHANCELLOR && pCard.name == "Chancellor")
       @featureMode = MODE_ACTION_CHANCELLOR_ACTIVE
     end
+    if(@featureMode == MODE_ACTION_MINE && pCard.name == "Mine")
+      @featureMode = MODE_ACTION_MINE_ACTIVE
+    end
 
     puts @throneStack
   end
@@ -1048,6 +1073,21 @@ class GokoLogParser
     handString = ""
     for i in 1...MAX_CARDNUM
       if(!@cardData.getCardByNum(i).isAction)
+        next
+      end
+      for n in 0...@playerHand[@currentPlayer][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateCurrentPlayerHandStringOnlyTreasyre()
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isTreasure)
         next
       end
       for n in 0...@playerHand[@currentPlayer][i]

@@ -26,6 +26,9 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "militia")
     featureMode = GokoLogParser::MODE_ACTION_MILITIA
     puts "militiaMode"
+  elsif(ARGV[0] == "mine")
+    featureMode = GokoLogParser::MODE_ACTION_MINE
+    puts "mineMode"
   else
     puts "unknown feature type"
     return
