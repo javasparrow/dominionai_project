@@ -213,6 +213,11 @@ int main(int argc, const char * argv[])
             }
             if(PlayActionId == CARD_MINE) {
                 cout << "select trash treasure /MINE" << endl;
+                int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
+                int gainTreasure = trashTreasure+1;
+                if(gainTreasure > CARD_GOLD) gainTreasure = CARD_GOLD;
+                cout << "trash :" << getString(trashTreasure) << endl;
+                cout << "gain :" << getString(gainTreasure) << endl;
             }
             cout << "hand:";
             showGain(hand);
