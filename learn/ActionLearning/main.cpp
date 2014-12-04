@@ -57,7 +57,7 @@ int main(int argc, const char * argv[])
     
     
     
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE && num != CARD_THIEF) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -103,6 +103,11 @@ int main(int argc, const char * argv[])
         }
         if(learningCardId == CARD_CHANCELLOR) {
             chancellorSample teacher(count++,buf);
+            dimensionOfFeature = teacher.getDimensionOfFeature();
+            teachers.push_back(teacher);
+        }
+        if(learningCardId == CARD_THIEF) {
+            thiefSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
@@ -159,8 +164,8 @@ int main(int argc, const char * argv[])
         }
         int sampleIndex = indexs[round%teachers.size()];
         round++;
-        
-        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE) {
+
+        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_THIEF) {
             int gotPlayCard = getMaxValuePlayCard(weight,teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero,teachers[sampleIndex]._hand);
             int answerPlayCard = teachers[sampleIndex]._answerSelectCard;
             if(gotPlayCard != answerPlayCard) {

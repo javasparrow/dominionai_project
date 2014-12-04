@@ -329,6 +329,36 @@ void writeWeightVector(vector< vector<double> > weight , string filename) {
     ofs.close();
 }
 
+vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature) {
+    vector< vector<double> > weight;
+    ifstream ifs(weightfile);
+    if(!ifs) {
+        cout << "error: not found weightFile" << endl;
+        exit(0);
+    }
+    string buf;
+    while(ifs && getline(ifs,buf)) {
+        vector<string> output = SpritString(buf,",");
+        vector<double> tmpVector;
+        for(int i=0;i<output.size();i++) {
+            double val = atof(output[i].c_str());
+            tmpVector.push_back(val);
+        }
+        weight.push_back(tmpVector);
+    }
+    
+    if(weight.size() != nWeight) {
+        cout << "error: the number of weightVectors don't match" << endl;
+        exit(0);
+    }
+    if(weight[0].size() != dimensionOfFeature) {
+        cout << "error: the number of dimension don't match" << endl;
+        exit(0);
+    }
+    
+    return weight;
+}
+
 
 vector<int> getRandVec(int n) {
     vector<int> v;

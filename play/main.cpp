@@ -22,6 +22,11 @@
 #define PLAY_MODE 1
 #define ACTION_MODE 2
 
+#define GAIN_WEIGHT "gainWeight.txt"
+#define PLAY_WEIGHT "playWeight.txt"
+#define GAIN_FEATURE "gainFeature.txt"
+#define PLAY_FEATURE "playFeature.txt"
+#define ACTION_FEATURE "actionFeature.txt"
 
 using namespace std;
 
@@ -56,18 +61,18 @@ int main(int argc, const char * argv[])
     string weightfile,featurefile;
     if(Mode == GAIN_MODE) {
         cout << "GainMode" << endl;
-        weightfile = "gainWeight.txt";//獲得時の重みベクトルデータ
-        featurefile = "gainFeature.txt";//特徴ベクトルデータ
+        weightfile = GAIN_WEIGHT;//獲得時の重みベクトルデータ
+        featurefile = GAIN_FEATURE;//特徴ベクトルデータ
     }
     if(Mode == PLAY_MODE) {
         cout << "PlayMode" << endl;
-        weightfile = "playWeight.txt";//プレイするカード選択時の重みベクトルデータ
-        featurefile = "playFeature.txt";
+        weightfile = PLAY_WEIGHT;//プレイするカード選択時の重みベクトルデータ
+        featurefile = PLAY_FEATURE;
     }
     if(Mode == ACTION_MODE) {
         cout << "ActionMode:" << getString(PlayActionId) << endl;
         weightfile = "./../learn/ActionLearning/" + getEnglishString(PlayActionId) + "TeacherData/weight.txt";
-        featurefile = "actionFeature.txt";
+        featurefile = ACTION_FEATURE;
     }
     
     //共通
@@ -77,11 +82,10 @@ int main(int argc, const char * argv[])
     //GainModeのみ
     int coin,buy;
     vector<int> supply;
+    
     //PlayModeのみ
     vector<int> hand;
    
-    
-    
     
     
     //-----------------------特徴ベクトルの生成-------------------------
@@ -133,7 +137,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -167,30 +171,7 @@ int main(int argc, const char * argv[])
     
     
     //--------------------------------------重みベクトルの読み込み-------
-    ifstream ifs(weightfile);
-    if(!ifs) {
-        cout << "error: not found weightFile" << endl;
-        exit(0);
-    }
-    string buf;
-    while(ifs && getline(ifs,buf)) {
-        vector<string> output = SpritString(buf,",");
-        vector<double> tmpVector;
-        for(int i=0;i<output.size();i++) {
-            double val = atof(output[i].c_str());
-            tmpVector.push_back(val);
-        }
-        weight.push_back(tmpVector);
-    }
-    
-    if(weight.size() != nWeight) {
-        cout << "error: the number of weightVectors don't match" << endl;
-        exit(0);
-    }
-    if(weight[0].size() != dimensionOfFeature) {
-        cout << "error: the number of dimension don't match" << endl;
-        exit(0);
-    }
+    weight = readWeightVector(weightfile,nWeight,dimensionOfFeature);
     
     
     //----------------------------------重みベクトルによる分類----------------------
@@ -211,12 +192,44 @@ int main(int argc, const char * argv[])
         showMaxValuePlayCard(weight,feature,hand,10);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF) {
             if(PlayActionId == CARD_REMODEL) {
                 cout << "select trash card /REMODEL" << endl;
             }
             if(PlayActionId == CARD_THRONEROOM) {
                 cout << "select throneroom action /THRONEROOM" << endl;
+            }
+            if(PlayActionId == CARD_THIEF) {
+                cout << "select trash treasure /THIEF" << endl;
+                //泥棒用のGain用意
+                vector<double> gainFeature;
+                vector< vector<double> > gainWeight;
+                ifstream ifs3(GAIN_FEATURE);
+                if(!ifs3) {
+                    cout << "error: not found featureFile" << endl;
+                    exit(0);
+                }
+                string gainTestFeature;
+                getline(ifs3,gainTestFeature);
+                vector<string> out = SpritString(gainTestFeature,"/");
+                if(out.size() != 4) {
+                    cout << "error: feature's format don't match" << endl;
+                    exit(0);
+                }
+                vector<string> out0 = SpritString(out[0],",");
+                for(int i=0;i<out0.size();i++) {
+                    gainFeature.push_back(atof(out0[i].c_str()));
+                }
+                gainWeight = readWeightVector(GAIN_WEIGHT,CARD_MAX,gainFeature.size());
+                
+                int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
+                cout << "trash :" << getString(trashTreasure) << endl;
+                double value = getInnerProduct(gainWeight[trashTreasure-1],gainFeature);
+                if(value >= 0) {
+                    cout << "isGain: YES (" << value << ")" << endl;
+                } else {
+                    cout << "isGain: NO (" << value << ")" << endl;
+                }
             }
             if(PlayActionId == CARD_MINE) {
                 cout << "select trash treasure /MINE" << endl;

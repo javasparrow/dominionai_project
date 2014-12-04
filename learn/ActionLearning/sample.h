@@ -28,6 +28,7 @@ public:
     int _sampleid;
     
     bool _isDiscard;
+    bool _isGain;
 };
 
 class cellarSample :public Sample{
@@ -46,8 +47,11 @@ class chancellorSample :public Sample {
 public:
     chancellorSample(int id,string str);
     void show();
-    
-    
+};
+
+class thiefSample :public Sample {
+public:
+    thiefSample(int id,string str);
 };
 
 #endif /* defined(__parseptron__sample__) */
