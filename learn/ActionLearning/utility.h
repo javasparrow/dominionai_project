@@ -33,6 +33,8 @@ int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const v
 //宰相用　内積が正ならtrue,負ならfalse
 bool getIsDiscardPile(const vector<double> &weight, const vector<double> &feature,const vector<int> &notZero);
 
+//重複した要素を一つにまとめる　(1,3,3,5,5,7) -> (1,3,5,7)
+vector<int> removeSameElementVector(const vector<int> &v);
 
 //テストメソッド（正解できなかったデータを表示するかどうかをisOutputで指定する
 //戻り値は全テストデータの正解率

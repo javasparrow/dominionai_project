@@ -126,7 +126,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -134,6 +134,9 @@ int main(int argc, const char * argv[])
             vector<string> out0 = SpritString(out[0],",");
             for(int i=0;i<out0.size();i++) {
                 feature.push_back(atof(out0[i].c_str()));
+            }
+            if(PlayActionId == CARD_CELLAR) {
+                feature.push_back(0.0);
             }
             vector<string> out1 = SpritString(out[1],",");
             for(int i=0;i<out1.size();i++) {
@@ -230,6 +233,13 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "discard Cards:";
             showGain(getDiscardCardsByMilitia(weight,feature,hand));
+        }
+        if(PlayActionId == CARD_CELLAR) {
+            cout << "select discard cards /CELLAR" << endl;
+            cout << "hand:";
+            showGain(hand);
+            cout << "discard Cards:";
+            showGain(getDiscardCardsByCellar(weight,feature,hand));
         }
     }
    

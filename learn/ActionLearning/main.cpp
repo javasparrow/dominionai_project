@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
     }
     
     int num = atoi(argv[1]);
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -68,7 +68,7 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 100000;//テスト実施の間隔学習回数
+    int roundtest = 10000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
@@ -96,9 +96,13 @@ int main(int argc, const char * argv[])
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
         }
-        if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA) {
+        if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA || learningCardId == CARD_CELLAR) {
             cellarSample teacher(count++,buf);
-            dimensionOfFeature = teacher.getDimensionOfFeature();
+            if(learningCardId == CARD_CELLAR) {
+                dimensionOfFeature = teacher.getDimensionOfFeature() + 1;//地下貯は何枚目のdiscardかを判別するため１次元増やす
+            } else {
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
             teachers.push_back(teacher);
         }
     }
@@ -182,6 +186,7 @@ int main(int argc, const char * argv[])
                 }
             }
             if(discardCards.size() > 0) {
+                vector<int> errorCards;
                 while(discardCards.size() > 0) {
                     int gotCard = discardCards[0];
                     bool flag = false;
@@ -193,17 +198,23 @@ int main(int argc, const char * argv[])
                         }
                     }
                     if(!flag) {//正解になかった（間違って選んだ）重みを減らす
-                        int wid = gotCard - 1;
-                        weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
-                        averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
+                        errorCards.push_back(gotCard);
                     }
                     discardCards.erase(discardCards.begin());
                 }
                 //answerSelectCardsに残っているものは正解なのに選ばれなかった　重みを増やす
-                for(unsigned int i=0;i<answerSelectCards.size();i++) {
-                    int wid = answerSelectCards[i] - 1;
+                vector<int> CanswerSelectCards = removeSameElementVector(answerSelectCards);
+                for(unsigned int i=0;i<CanswerSelectCards.size();i++) {
+                    int wid = CanswerSelectCards[i] - 1;
                     weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
                     averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
+                }
+                //errorCardsにはいっているものは不正解を選んだ　重みを減らす
+                vector<int> CerrorCards = removeSameElementVector(errorCards);
+                for(unsigned int i=0;i<CerrorCards.size();i++) {
+                    int wid = CerrorCards[i] - 1;
+                    weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
+                    averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
                 }
             }
         }
@@ -222,7 +233,7 @@ int main(int argc, const char * argv[])
                 }
             }
         }
-        if(learningCardId == CARD_CHAPEL) {
+        if(learningCardId == CARD_CHAPEL || learningCardId == CARD_CELLAR) {
             vector<int> hand;
             copy(teachers[sampleIndex]._hand.begin(), teachers[sampleIndex]._hand.end(), back_inserter(hand) );
             vector<int> answerSelectCards;
@@ -231,7 +242,9 @@ int main(int argc, const char * argv[])
             copy(teachers[sampleIndex]._notZero.begin(), teachers[sampleIndex]._notZero.end(), back_inserter(notZero) );
             vector<double> feature;
             copy(teachers[sampleIndex]._feature.begin(), teachers[sampleIndex]._feature.end(), back_inserter(feature) );
-           
+            if(learningCardId == CARD_CELLAR) {
+                feature.push_back(0.0);//ちかちょは何枚目のdiscardを管理する特徴量を増やす
+            }
             while(true) {
                 int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
                 
@@ -317,14 +330,23 @@ int main(int argc, const char * argv[])
                                     break;
                                 }
                             }
-                            //礼拝堂廃棄なので対象カードを手札から削除
-                            feature[(KIND_OF_CARD+1) + gotSelectCard]--;
+                            if(learningCardId == CARD_CHAPEL) {
+                                //礼拝堂廃棄なので対象カードを手札から削除
+                                feature[(KIND_OF_CARD+1) + gotSelectCard]--;
+                            }
+                            if(learningCardId == CARD_CELLAR) {
+                                //ちかちょは、対象カードが手札から捨て札に移り、何枚目かの特徴量をインクリメント
+                                feature[(KIND_OF_CARD+1) + gotSelectCard]--;//手札から削除
+                                feature[(KIND_OF_CARD+1)*2 + gotSelectCard]++;//捨て札に追加
+                                feature[feature.size()-1]++;//何枚目のdiscardか、をインクリメント
+                            }
                             continue;
                         }
                     }
                 }
             }
         }
+     
         
         if(round % roundtest == 0) {
             testWeight.clear();

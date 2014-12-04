@@ -175,6 +175,36 @@ vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const
     return gotSelectCards;
 }
 
+vector<int> getDiscardCardsByCellar(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
+    
+    vector<int> gotSelectCards;
+    vector<double> feature;
+    copy(_feature.begin(),_feature.end(),back_inserter(feature));
+    vector<int> hand;
+    copy(_hand.begin(),_hand.end(),back_inserter(hand));
+    
+    while(true) {
+        int gotSelectCard = getMaxValuePlayCard(_weight,feature,hand);
+        if(gotSelectCard != 0) {
+            gotSelectCards.push_back(gotSelectCard);
+        } else {
+            break;
+        }
+        for(unsigned int i=0;i<hand.size();i++) {
+            if(hand[i] == gotSelectCard) {
+                hand.erase(hand.begin()+i);
+                break;
+            }
+        }
+        //ちかちょは、対象カードが手札から捨て札に移り、何枚目かの特徴量をインクリメント
+        feature[(CARD_MAX+1) + gotSelectCard]--;//手札から削除
+        feature[(CARD_MAX+1)*2 + gotSelectCard]++;//捨て札に追加
+        feature[feature.size()-1]++;//何枚目のdiscardか、をインクリメント
+        continue;
+    }
+    return gotSelectCards;
+}
+
 vector<int> getDiscardCardsByMilitia(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
     
     vector<int> hand;

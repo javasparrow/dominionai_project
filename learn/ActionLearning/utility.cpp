@@ -68,6 +68,7 @@ vector<double> mulVector(const vector<double> &a,double b) {
 
 
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand) {
+    if(hand.size() <= 0) return 0;
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
@@ -95,6 +96,7 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
 }
 
 int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand) {
+    if(hand.size() <= 0) return 0;
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
@@ -129,6 +131,23 @@ bool getIsDiscardPile(const vector<double> &weight, const vector<double> &featur
     return flag;
 }
 
+vector<int> removeSameElementVector(const vector<int> &v) {
+    vector<int> already;
+    for(unsigned int i=0;i<v.size();i++) {
+        bool flag = false;
+        for(unsigned int j=0;j<already.size();j++) {
+            if(already[j] == v[i]) {
+                flag = true;
+                break;
+            }
+        }
+        if(!flag) {//重複してない要素
+            already.push_back(v[i]);
+        }
+    }
+    return already;
+}
+
 double test(const vector< vector<double> > &weight, vector<Sample> testData,bool isOutput,int learnCardId) {
     
     int count = 0;
@@ -155,10 +174,13 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                 }
             }
         }
-        if(learnCardId == CARD_CHAPEL) {
+        if(learnCardId == CARD_CHAPEL || learnCardId == CARD_CELLAR) {
             vector<int> gotSelectCards;
             vector<double> feature;
             copy(testData[i]._feature.begin(),testData[i]._feature.end(),back_inserter(feature));
+            if(learnCardId == CARD_CELLAR) {
+                feature.push_back(0.0);
+            }
             vector<int> notZero;
             copy(testData[i]._notZero.begin(),testData[i]._notZero.end(),back_inserter(notZero));
             vector<int> hand;
@@ -167,7 +189,8 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
             while(true) {
                 limitCount++;
                 int gotSelectCard = getMaxValuePlayCard(weight,feature,notZero,hand);
-                if(gotSelectCard != 0 && limitCount <= 4) {
+                if(gotSelectCard != 0) {
+                    if(learnCardId == CARD_CHAPEL && limitCount > 4) break;
                     gotSelectCards.push_back(gotSelectCard);
                 } else {
                     break;
@@ -178,8 +201,16 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                         break;
                     }
                 }
-                //礼拝堂廃棄なので対象カードを手札から削除
-                feature[(CARD_MAX+1) + gotSelectCard]--;
+                if(learnCardId == CARD_CHAPEL) {
+                    //礼拝堂廃棄なので対象カードを手札から削除
+                    feature[(CARD_MAX+1) + gotSelectCard]--;
+                }
+                if(learnCardId == CARD_CELLAR) {
+                    //ちかちょは、対象カードが手札から捨て札に移り、何枚目かの特徴量をインクリメント
+                    feature[(CARD_MAX+1) + gotSelectCard]--;//手札から削除
+                    feature[(CARD_MAX+1)*2 + gotSelectCard]++;//捨て札に追加
+                    feature[feature.size()-1]++;//何枚目のdiscardか、をインクリメント
+                }
                 continue;
             }
             if(isEqualGain(gotSelectCards,testData[i]._answerSelectCards)) {
