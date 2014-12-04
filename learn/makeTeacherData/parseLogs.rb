@@ -38,6 +38,9 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "spy")
     featureMode = GokoLogParser::MODE_ACTION_SPY
     puts "spyMode"
+  elsif(ARGV[0] == "bureaucrat")
+    featureMode = GokoLogParser::MODE_ACTION_BUREAUCRAT
+    puts "bureaucratMode"
   else
     puts "unknown feature type"
     return

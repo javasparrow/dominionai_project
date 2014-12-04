@@ -15,6 +15,7 @@ class GokoLogParser
   MODE_ACTION_THIEF = 16
   MODE_ACTION_LIBRARY = 20
   MODE_ACTION_SPY = 22
+  MODE_ACTION_BUREAUCRAT = 24
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -650,6 +651,9 @@ class GokoLogParser
     end
     if(@lastPlay.name == "Bureaucrat")
       currentCard = @cardData.getCard(data[data.index("places") + 7 .. data.index("on top of deck") - 2])
+      if(@featureMode == MODE_ACTION_BUREAUCRAT)
+        generateUseBureaucratFeature(currentCard)
+      end
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] + 1
     end
@@ -959,6 +963,14 @@ class GokoLogParser
       cardString = card.num.to_s
     end
     resultString = feature + "/" + handString + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseBureaucratFeature(card)
+
+    resultString = generateOpponentFeatureString() + "/" + generateOpponentPlayerHandStringOnlyVictory() + "/" + card.num.to_s
 
     puts resultString
     @output.write(resultString + "\n")
@@ -1281,6 +1293,26 @@ class GokoLogParser
     end
     handString = ""
     for i in 0...MAX_CARDNUM
+      for n in 0...@playerHand[player][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateOpponentPlayerHandStringOnlyVictory()
+    if(@currentPlayer == 0)
+      player = 1
+    else
+      player = 0
+    end
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isVictory)
+        next
+      end
       for n in 0...@playerHand[player][i]
         handString = handString + i.to_s + ","
       end
