@@ -35,6 +35,9 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "library")
     featureMode = GokoLogParser::MODE_ACTION_LIBRARY
     puts "libraryMode"
+  elsif(ARGV[0] == "spy")
+    featureMode = GokoLogParser::MODE_ACTION_SPY
+    puts "spyMode"
   else
     puts "unknown feature type"
     return
