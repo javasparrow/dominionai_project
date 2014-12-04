@@ -13,6 +13,8 @@ class GokoLogParser
   MODE_ACTION_MILITIA = 12
   MODE_ACTION_MINE = 14
   MODE_ACTION_THIEF = 16
+  MODE_ACTION_LIBRARY = 20
+  MODE_ACTION_SPY = 22
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -25,6 +27,8 @@ class GokoLogParser
   MODE_ACTION_THIEF_ACTIVE_1 = 17
   MODE_ACTION_THIEF_ACTIVE_2 = 18
   MODE_ACTION_THIEF_ACTIVE_3 = 19
+  MODE_ACTION_LIBRARY_ACTIVE = 21
+  MODE_ACTION_SPY_ACTIVE = 23
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -161,6 +165,33 @@ class GokoLogParser
         generateUseThiefFeature(true)
         @featureMode = MODE_ACTION_THIEF
       end
+      #書庫のドローが終わったとき
+      #check library
+      if(@lastPlay != nil && @lastPlay.name == "Library")
+        handCount = 0
+        @playerHand[@currentPlayer].each{|num|
+          handCount = handCount + num
+        }
+
+        emptyflag = true
+        @playerDeck[@currentPlayer].each{|num|
+          if(num != 0)
+            emptyflag = false
+            break
+          end
+        }
+        if(emptyflag == true)
+          handCount = 7
+        end
+      end
+      if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE && handCount >= 7)
+        @featureMode = MODE_ACTION_LIBRARY
+      end
+      #何故か密偵がキャンセルされたとき
+      if(@featureMode == MODE_ACTION_SPY_ACTIVE && !line.include?("discards") && !line.include?("places") && !line.include?("draws"))
+        @featureMode = MODE_ACTION_SPY
+      end
+
 
       if(line.include?("Game Over"))
         currentPhase = PHASE_END
@@ -590,6 +621,9 @@ class GokoLogParser
     end
     if(@lastPlay.name == "Library")
       currentCard = @cardData.getCard(data[data.index("moves") + 6..data.index("to hand") - 2])
+      if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE)
+        generateUseLibraryFeature(currentCard, true)
+      end
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
     end
@@ -618,6 +652,15 @@ class GokoLogParser
       currentCard = @cardData.getCard(data[data.index("places") + 7 .. data.index("on top of deck") - 2])
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] + 1
+    end
+
+    if(@lastPlay.name == "Spy" && @featureMode == MODE_ACTION_SPY_ACTIVE)
+      currentCard = @cardData.getCard(data[data.index("places") + 7 .. data.index("on top of deck") - 2])
+      if(@currentPlayer == currentPlayer)
+        generateUseSpyFeature(currentCard, false, true)
+        else
+        generateUseSpyFeature(currentCard, false, false)
+      end
     end
   end
 
@@ -707,6 +750,14 @@ class GokoLogParser
         }
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
       elsif(@lastPlay.name == "Spy")
+        if(@featureMode == MODE_ACTION_SPY_ACTIVE)
+          puts currentPlayer.to_s + ":user is:" + @currentPlayer.to_s
+          if(@currentPlayer == currentPlayer)
+            generateUseSpyFeature(currentCard, true, true)
+          else
+            generateUseSpyFeature(currentCard, true, false)
+          end
+        end
         @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
       elsif(@lastPlay.name == "Adventurer")
@@ -715,6 +766,9 @@ class GokoLogParser
         if(handCount >= 7)
           @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
         else
+          if(@featureMode == MODE_ACTION_LIBRARY_ACTIVE)
+            generateUseLibraryFeature(currentCard, false)
+          end
           @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
         end
       else
@@ -905,6 +959,43 @@ class GokoLogParser
       cardString = card.num.to_s
     end
     resultString = feature + "/" + handString + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseSpyFeature(card, discardFlag, selfFlag)
+
+    if(discardFlag)
+      answer = "1"
+    else
+      answer = "0"
+    end
+
+    if(selfFlag)
+      selfString = "1"
+    else
+      selfString = "0"
+    end
+    resultString = generateFeatureString() + "/" + card.num.to_s + "/" + answer + "/" + selfString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseLibraryFeature(card, drawflag)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    if(drawflag)
+      answer = "1"
+    else
+      answer = "0"
+    end
+
+    resultString = generateFeatureString() + "/" + card.num.to_s + "/" + answer
 
     puts resultString
     @output.write(resultString + "\n")
@@ -1131,7 +1222,12 @@ class GokoLogParser
       @pastThiefReveal.clear()
       @pastThiefFeature = generateFeatureString();
     end
-
+    if(@featureMode == MODE_ACTION_LIBRARY && pCard.name == "Library")
+      @featureMode = MODE_ACTION_LIBRARY_ACTIVE
+    end
+    if(@featureMode == MODE_ACTION_SPY && pCard.name == "Spy")
+      @featureMode = MODE_ACTION_SPY_ACTIVE
+    end
     puts @throneStack
   end
 
