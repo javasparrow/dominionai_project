@@ -15,6 +15,7 @@ class GokoPlayer
   CHANCELLOR_PROGRAM = "./a.out action 18"
   MILITIA_PROGRAM = "./a.out"
   MINE_PROGRAM = "./a.out"
+  BUREAUCRAT_PROGEAM = "./a.out"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -227,6 +228,8 @@ class GokoPlayer
     #reaction
     if(log[-1].include?("plays Militia") && @playerName[@currentPlayer] != BOT_NAME)
       generateMilitiaString()
+    elsif(log[-1].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
+      generateBureaucratString()
     end
 
     if(@playerName[@currentPlayer] != BOT_NAME)
@@ -259,6 +262,22 @@ class GokoPlayer
 
     #rescue => ex
       #puts ex.message
+  end
+
+  def generateBureaucratString()
+    resultString = generateOpponentFeatureString() + "/" + generateOpponentPlayerHandStringOnlyVictory()
+
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
+
+    out, err, status = Open3.capture3(BUREAUCRAT_PROGEAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateMineString(card)
@@ -511,6 +530,26 @@ end
 
     handString = ""
     for i in 0...MAX_CARDNUM
+      for n in 0...@playerHand[player][i]
+        handString = handString + i.to_s + ","
+      end
+    end
+    handString = handString[0...-1]
+
+    handString
+  end
+
+  def generateOpponentPlayerHandStringOnlyVictory()
+    if(@currentPlayer == 0)
+      player = 1
+    else
+      player = 0
+    end
+    handString = ""
+    for i in 1...MAX_CARDNUM
+      if(!@cardData.getCardByNum(i).isVictory)
+        next
+      end
       for n in 0...@playerHand[player][i]
         handString = handString + i.to_s + ","
       end
