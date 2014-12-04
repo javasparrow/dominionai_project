@@ -160,7 +160,7 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
     int tSize = testData.size();
     for(int i=0;i<tSize;i++) {
         showProgress(i,tSize,"test    ");
-        if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM) {
+        if(learnCardId == CARD_REMODEL || learnCardId == CARD_THRONEROOM || learnCardId == CARD_MINE) {
             int gotPlayCard = getMaxValuePlayCard(weight,testData[i]._feature,testData[i]._notZero,testData[i]._hand);
             if(gotPlayCard == testData[i]._answerSelectCard) {
                 count++;

@@ -126,7 +126,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -204,12 +204,15 @@ int main(int argc, const char * argv[])
         showMaxValuePlayCard(weight,feature,hand,10);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE) {
             if(PlayActionId == CARD_REMODEL) {
                 cout << "select trash card /REMODEL" << endl;
             }
             if(PlayActionId == CARD_THRONEROOM) {
                 cout << "select throneroom action /THRONEROOM" << endl;
+            }
+            if(PlayActionId == CARD_MINE) {
+                cout << "select trash treasure /MINE" << endl;
             }
             cout << "hand:";
             showGain(hand);
