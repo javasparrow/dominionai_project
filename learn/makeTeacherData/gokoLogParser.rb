@@ -12,6 +12,7 @@ class GokoLogParser
   MODE_ACTION_CHANCELLOR = 10
   MODE_ACTION_MILITIA = 12
   MODE_ACTION_MINE = 14
+  MODE_ACTION_THIEF = 16
   #チカチョが使われたフラグなので最初から4を入れては行けない
   #チカチョ学習なら3を指定してください
   #他カードも同様
@@ -21,6 +22,9 @@ class GokoLogParser
   MODE_ACTION_CHANCELLOR_ACTIVE = 11
   MODE_ACTION_MILITIA_ACTIVE = 13
   MODE_ACTION_MINE_ACTIVE = 15
+  MODE_ACTION_THIEF_ACTIVE_1 = 17
+  MODE_ACTION_THIEF_ACTIVE_2 = 18
+  MODE_ACTION_THIEF_ACTIVE_3 = 19
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -73,6 +77,10 @@ class GokoLogParser
 
     @pastMilitiaDiscard = Array.new(0)
     @pastMilitiaFeature = ""
+
+    @pastThiefReveal = Array.new(0)
+    @pastThiefTrash = nil
+    @pastThiefFeature = ""
 
     #玉座の間処理用
     @throneStack = Array.new(0)
@@ -137,6 +145,21 @@ class GokoLogParser
       #鉱山使ったけど廃棄しなかった場合
       if(@featureMode == MODE_ACTION_MINE_ACTIVE && !line.include?("trashes"))
         @featureMode = MODE_ACTION_MINE
+      end
+      #泥簿yが何らかの理由で中断された場合
+      if(@featureMode == MODE_ACTION_THIEF_ACTIVE_1 && !line.include?("reveals") && !line.include?("reshuffle"))
+        @featureMode = MODE_ACTION_THIEF
+      end
+      if(@featureMode == MODE_ACTION_THIEF_ACTIVE_2 && !line.include?("trashes"))
+        @featureMode = MODE_ACTION_THIEF
+      end
+      if(@featureMode == MODE_ACTION_THIEF_ACTIVE_3 && !line.include?("discards") && !line.include?("gains"))
+        generateUseThiefFeature(false)
+        @featureMode = MODE_ACTION_THIEF
+      end
+      if(@featureMode == MODE_ACTION_THIEF_ACTIVE_3 && line.include?("gains"))
+        generateUseThiefFeature(true)
+        @featureMode = MODE_ACTION_THIEF
       end
 
       if(line.include?("Game Over"))
@@ -613,7 +636,13 @@ class GokoLogParser
         currentCard = @cardData.getCard(card)
         @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
         @reveal[currentPlayer] << currentCard
+        if(@featureMode == MODE_ACTION_THIEF_ACTIVE_1)
+          @pastThiefReveal.push(currentCard)
+        end
       }
+      if(@featureMode == MODE_ACTION_THIEF_ACTIVE_1)
+        @featureMode = MODE_ACTION_THIEF_ACTIVE_2
+      end
     elsif(@lastPlay.name == "Adventurer")
       data[data.index("reveals") + 8..-2].split(", ").each{|card|
         puts card
@@ -753,6 +782,10 @@ class GokoLogParser
       if(currentCard.name == "Feast")
         @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] - 1
       elsif(@lastPlay.name == "Thief")
+        if(@featureMode == MODE_ACTION_THIEF_ACTIVE_2)
+          @pastThiefTrash = currentCard
+          @featureMode = MODE_ACTION_THIEF_ACTIVE_3
+        end
         @reveal[currentPlayer].each{|rCard|
           if(rCard.num == currentCard.num)
             @reveal.delete(rCard)
@@ -872,6 +905,34 @@ class GokoLogParser
       cardString = card.num.to_s
     end
     resultString = feature + "/" + handString + "/" + cardString
+
+    puts resultString
+    @output.write(resultString + "\n")
+  end
+
+  def generateUseThiefFeature(gain)
+    if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
+      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      return
+    end
+
+    discardString = ""
+    @pastThiefReveal.each{|card|
+      if(card.isTreasure)
+        discardString = discardString + card.num.to_s + ","
+      end
+    }
+    discardString = discardString[0...-1]
+
+    trashString = @pastThiefTrash.num.to_s
+
+    if(gain)
+      gainString = "1"
+    else
+      gainString = "0"
+    end
+
+    resultString = @pastThiefFeature + "/" + discardString + "/" + trashString + "/" + gainString
 
     puts resultString
     @output.write(resultString + "\n")
@@ -1064,6 +1125,11 @@ class GokoLogParser
     end
     if(@featureMode == MODE_ACTION_MINE && pCard.name == "Mine")
       @featureMode = MODE_ACTION_MINE_ACTIVE
+    end
+    if(@featureMode == MODE_ACTION_THIEF && pCard.name == "Thief")
+      @featureMode = MODE_ACTION_THIEF_ACTIVE_1
+      @pastThiefReveal.clear()
+      @pastThiefFeature = generateFeatureString();
     end
 
     puts @throneStack
