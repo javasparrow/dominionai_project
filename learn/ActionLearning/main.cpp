@@ -46,6 +46,7 @@ int main(int argc, const char * argv[])
         }
     }
     
+    bool optionFlag = false;
     int num;
     int numCheckerI;
     for( numCheckerI = 0; argv[1][numCheckerI] != NULL && isdigit( *(argv[1]+numCheckerI)) ; ++numCheckerI) ;
@@ -55,9 +56,13 @@ int main(int argc, const char * argv[])
         num = atoi(argv[1]);
     }
     
+    if(num > 1000) {
+        num = num % 1000;
+        optionFlag = true;
+    }
     
     
-    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE && num != CARD_THIEF && num != CARD_LIBRARY && num != CARD_BUREAUCRAT) {/////
+    if(num != CARD_REMODEL && num != CARD_THRONEROOM && num != CARD_CHANCELLOR && num != CARD_CHAPEL && num != CARD_MILITIA && num != CARD_CELLAR && num != CARD_MINE && num != CARD_THIEF && num != CARD_LIBRARY && num != CARD_BUREAUCRAT && num != CARD_SPY) {/////
         cout << "Can't learn this cardid" << endl;
         exit(0);
     }
@@ -66,6 +71,13 @@ int main(int argc, const char * argv[])
     
     cout << "select action learning" << endl;
     cout << "MODE:" << getString(learningCardId) << endl;
+    if(learningCardId == CARD_SPY) {
+        if(optionFlag) {
+            cout << "option:enemy" << endl;
+        } else {
+            cout << "option:me" << endl;
+        }
+    }
     
     if(!readFlag) {
         cout << "Warning!! :This mode will make NEW weight vector." << endl;
@@ -80,6 +92,7 @@ int main(int argc, const char * argv[])
     int roundlimit = 2000000000;//学習回数上限
     int roundtest = 50000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
+    
     string studyfile = dataDirectory + "result.txt";//インプット教師データ
     
     
@@ -105,6 +118,19 @@ int main(int argc, const char * argv[])
             chancellorSample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
+        }
+        if(learningCardId == CARD_SPY) {
+            vector<string> out = SpritString(buf,"/");
+            if(atoi(out[3].c_str()) == 1 && !optionFlag) {//自分の密偵
+                spySample teacher(count++,buf);
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+                teachers.push_back(teacher);
+            }
+            if(atoi(out[3].c_str()) == 0 && optionFlag) {//相手の密偵
+                spySample teacher(count++,buf);
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+                teachers.push_back(teacher);
+            }
         }
         if(learningCardId == CARD_LIBRARY) {
             librarySample teacher(count++,buf);
@@ -148,7 +174,12 @@ int main(int argc, const char * argv[])
     
     int round = 0;//ラウンド数
     
+    if(learningCardId == CARD_SPY && optionFlag) {
+        dataDirectory += "enemy/";
+    }
+    
     if(readFlag) {
+        
         cout << "load weight vector" << endl;
         weight = readWeightVector(dataDirectory + "w_weight.txt");
         averageWeight = readWeightVector(dataDirectory + "u_weight.txt");
@@ -253,7 +284,7 @@ int main(int argc, const char * argv[])
                 }
             }
         }
-        if(learningCardId == CARD_LIBRARY) {
+        if(learningCardId == CARD_LIBRARY || learningCardId == CARD_SPY) {
             int wid = teachers[sampleIndex]._revealCard - 1;
             bool isDiscardPile = getIsDiscardPile(weight[wid],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
             bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;

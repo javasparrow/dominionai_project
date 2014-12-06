@@ -30,6 +30,7 @@ public:
     
     bool _isDiscard;
     bool _isGain;
+    bool _isMine;
 };
 
 class cellarSample :public Sample{
@@ -58,6 +59,11 @@ public:
 class librarySample :public Sample {
 public:
     librarySample(int id,string str);
+};
+
+class spySample :public Sample {
+public:
+    spySample(int id,string str);
 };
 
 #endif /* defined(__parseptron__sample__) */

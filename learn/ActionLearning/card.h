@@ -50,6 +50,8 @@
 #define CARD_BUREAUCRAT 31
 #define CARD_CHAPEL 32
 
+#define CARD_SPY_ENEMY 1028
+
 using namespace std;
 
 int getCost(int id);

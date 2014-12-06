@@ -282,7 +282,7 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
                 }
             }
         }
-        if(learnCardId == CARD_LIBRARY) {
+        if(learnCardId == CARD_LIBRARY || learnCardId == CARD_SPY) {
             int revealCardId = testData[i]._revealCard;
             bool isDiscardPile = getIsDiscardPile(weight[revealCardId-1],testData[i]._feature,testData[i]._notZero);
             bool answerIsDiscardPile = testData[i]._isDiscard;

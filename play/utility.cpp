@@ -287,10 +287,10 @@ bool getIsDiscard( vector<double> weight, vector<double> feature) {
      
     if(value < 0) {
         flag = false;
-        cout << "NO" << endl;
+        cout << "NO (" << value << ")" << endl;
     } else {
         flag = true;
-        cout << "YES" << endl;
+        cout << "YES (" << value << ")" << endl;
     }
     
     return flag;

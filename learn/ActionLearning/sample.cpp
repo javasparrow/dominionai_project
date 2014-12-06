@@ -72,6 +72,65 @@ void cellarSample::show() {
     showGain(_answerSelectCards);
 }
 
+spySample::spySample(int id,string str) {
+    _sampleid = id;
+    //feature/reveal/isDiscard/isMine
+    vector<string> out = SpritString(str,"/");
+    if(out.size() != 4) {
+        cout << "reading teacherData error: not match format '/' " << endl;
+        cout << out.size() << endl;
+        exit(0);
+    }
+    for(int i=0;i<4;i++) {
+        if(out[i] != "") {
+            vector<string> out2 = SpritString(out[i], ",");
+            if(i==0) {
+                //feature
+                double val=0.0;
+                for(unsigned int j=0;j<out2.size();j++) {
+                    val = atof( out2[j].c_str() );
+                    _feature.push_back(val);
+                    if(val != 0) {
+                        _notZero.push_back(j);
+                    }
+                }
+            }
+            if(i==1) {
+                //reveal
+                if(out2.size() != 1) {
+                    cout << "error: isGainFlag's size != 1" << endl;
+                    exit(0);
+                }
+                _revealCard = atoi(out2[0].c_str());
+            }
+            if(i==2) {
+                //isDiscardFlag
+                if(out2.size() != 1) {
+                    cout << "error: isGainFlag's size != 1" << endl;
+                    exit(0);
+                }
+                if(atoi(out2[0].c_str()) == 0) {
+                    _isDiscard = false;
+                } else {
+                    _isDiscard = true;
+                }
+            }
+            if(i==3) {
+                //isMineFlag
+                if(out2.size() != 1) {
+                    cout << "error: isMineFlag's size != 1" << endl;
+                    exit(0);
+                }
+                if(atoi(out2[0].c_str()) == 0) {
+                    _isMine = false;
+                } else {
+                    _isMine = true;
+                }
+            }
+        }
+    }
+}
+
 librarySample::librarySample(int id,string str) {
     _sampleid = id;
     //feature/reveal/isDiscard

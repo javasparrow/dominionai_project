@@ -27,6 +27,7 @@
 #define GAIN_FEATURE "gainFeature.txt"
 #define PLAY_FEATURE "playFeature.txt"
 #define ACTION_FEATURE "actionFeature.txt"
+#define OPTION_FEATURE "optionFeature.txt"
 
 using namespace std;
 
@@ -139,7 +140,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_LIBRARY || PlayActionId == CARD_BUREAUCRAT) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_LIBRARY || PlayActionId == CARD_BUREAUCRAT || PlayActionId == CARD_SPY) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -155,7 +156,7 @@ int main(int argc, const char * argv[])
             for(int i=0;i<out1.size();i++) {
                 hand.push_back(atoi(out1[i].c_str()));
             }
-            if(PlayActionId == CARD_LIBRARY) {
+            if(PlayActionId == CARD_LIBRARY || PlayActionId == CARD_SPY) {
                 revealCard = atoi(out1[0].c_str());
             }
             dimensionOfFeature = feature.size();
@@ -197,7 +198,7 @@ int main(int argc, const char * argv[])
         showMaxValuePlayCard(weight,feature,hand,10);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_BUREAUCRAT) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_BUREAUCRAT || PlayActionId == CARD_SPY) {
             if(PlayActionId == CARD_REMODEL) {
                 cout << "select trash card /REMODEL" << endl;
             }
@@ -220,10 +221,7 @@ int main(int argc, const char * argv[])
                 string gainTestFeature;
                 getline(ifs3,gainTestFeature);
                 vector<string> out = SpritString(gainTestFeature,"/");
-                if(out.size() != 4) {
-                    cout << "error: feature's format don't match" << endl;
-                    exit(0);
-                }
+                
                 vector<string> out0 = SpritString(out[0],",");
                 for(int i=0;i<out0.size();i++) {
                     gainFeature.push_back(atof(out0[i].c_str()));
@@ -238,6 +236,44 @@ int main(int argc, const char * argv[])
                 } else {
                     cout << "isGain: NO (" << value << ")" << endl;
                 }
+            }
+            if(PlayActionId == CARD_SPY) {
+                //密偵相手用のweight,featureを用意
+                vector< vector<double> > enemyWeight;
+                string enemyWeightFile = "./../learn/ActionLearning/" + getEnglishString(PlayActionId) + "TeacherData/enemy/weight.txt";
+                enemyWeight = readWeightVector(enemyWeightFile,CARD_MAX,dimensionOfFeature);
+                
+                vector<double> optionFeature;
+                int optionReveal;
+                ifstream ifs3(OPTION_FEATURE);
+                if(!ifs3) {
+                    cout << "error: not found featureFile" << endl;
+                    exit(0);
+                }
+                string enemyFeature;
+                getline(ifs3,enemyFeature);
+                vector<string> out = SpritString(enemyFeature,"/");
+                if(out.size() != 2) {
+                    cout << "file reading error: not match format '/' " << endl;
+                    exit(0);
+                }
+                vector<string> out0 = SpritString(out[0],",");
+                for(int i=0;i<out0.size();i++) {
+                    optionFeature.push_back(atof(out0[i].c_str()));
+                }
+                vector<string> out1 = SpritString(out[1],",");
+                optionReveal = atoi(out1[0].c_str());
+                
+                
+                cout << "select which discard or not /SPY" << endl;
+                cout << "ME" << endl;
+                cout << "revealCard:" << getString(revealCard) << endl;
+                cout << "isDiscard:";
+                getIsDiscard(weight[revealCard-1],feature);
+                cout << "ENEMY" << endl;
+                cout << "revealCard:" << getString(optionReveal) << endl;
+                cout << "isDiscard:";
+                getIsDiscard(enemyWeight[optionReveal-1],optionFeature);
             }
             if(PlayActionId == CARD_MINE) {
                 cout << "select trash treasure /MINE" << endl;
