@@ -371,6 +371,12 @@ void writeRound(int round ,string filename) {
     ofs.close();
 }
 
+void writeRate(double rate,string filename) {
+    ofstream ofs(filename.c_str());
+    ofs << rate << endl;
+    ofs.close();
+}
+
 int readRound(string filename) {
     int round = 0;
     ifstream ifs(filename.c_str());

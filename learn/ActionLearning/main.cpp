@@ -425,6 +425,7 @@ int main(int argc, const char * argv[])
             writeWeightVector(weight,dataDirectory + "w_weight.txt");
             writeWeightVector(averageWeight,dataDirectory + "u_weight.txt");
             writeRound(round,dataDirectory + "round.txt");
+            writeRate(correct,dataDirectory + "correctRate.txt");
             if(correct >= 1) {
                 break;
             }
