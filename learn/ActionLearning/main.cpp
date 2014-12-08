@@ -187,6 +187,10 @@ int main(int argc, const char * argv[])
             cout << tests.size() << " tests data                                        " << endl;
         }
     }
+    
+    writeRound(teachers.size(),dataDirectory + "learningSize.txt");
+    writeRound(tests.size(),dataDirectory + "testSize.txt");
+    
     //--------------------------------------重みベクトルの初期化-------
     cout << "init weight vector                             " << endl;
     cout << "dimension of vector = " << dimensionOfFeature << endl;
@@ -225,7 +229,7 @@ int main(int argc, const char * argv[])
     double lastCorrectRate = 0.0;//前回の正解率
     double maxCorrectRate = 0.0;
     int outCount = 0;//前回の正解率を連続で上回らなかった回数
-    int finishCount = 5;//outCountがfinishCountに達したら学習終了
+    int finishCount = 10;//outCountがfinishCountに達したら学習終了
     
     while(round < roundlimit) {
         
