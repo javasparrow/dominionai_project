@@ -42,14 +42,13 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature;
     int nSample;
     int roundlimit = 100000000;//学習回数上限
-    int roundtest = 100000;//テスト実施の間隔学習回数
-    string studyfile = "result.txt";//インプット教師データ
+    int roundtest = 20000;//テスト実施の間隔学習回数
+    string studyfile = "learn.txt";//インプット教師データ
+    string testfile = "test.txt";//インプットテストデータ
     
     
     //--------------------------------------教師信号ベクトルの初期化--------
     cout << "load teacher data" << endl;
-    
-    
     ifstream ifs(studyfile);
     string buf;
     vector<Sample> teachers;
@@ -58,13 +57,19 @@ int main(int argc, const char * argv[])
             fprintf(stderr,"now loading teacher data:%d \r",count+1);
             Sample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
-            //teacher.show();
-            //cout << buf << endl;
             teachers.push_back(teacher);
-        
-        
     }
     nSample = count;
+    //--------------------------------------テストデータベクトルの初期化--------
+    cout << "load test data" << endl;
+    ifstream ifs3(testfile);
+    vector<Sample> tests;
+    count = 0;
+    while(getline(ifs3, buf)) {
+        fprintf(stderr,"now loading test data:%d \r",count+1);
+        Sample teacher(count++,buf);
+        tests.push_back(teacher);
+    }
     
     //--------------------------------------重みベクトルの初期化-------
     cout << "init weight vector" << endl;
@@ -97,6 +102,14 @@ int main(int argc, const char * argv[])
     //---------------------------------------学習----------------------
     cout << "start learning" << endl;
     vector<int> indexs = getRandVec((int)teachers.size());
+    
+    
+    double lastCorrectRate = 0.0;//前回の正解率
+    double maxCorrectRate = 0.0;
+    int outCount = 0;//前回の正解率を連続で上回らなかった回数
+    int finishCount = 5;//outCountがfinishCountに達したら学習終了
+    
+    
     
     while(round < roundlimit) {
         
@@ -142,13 +155,28 @@ int main(int argc, const char * argv[])
             
             double correct = test(testWeight, teachers,false);
             cout << "round:" << round << "/正解率：" << correct * 100 << "%" << endl;
-            writeWeightVector(testWeight,"weight.txt");
-            writeWeightVector(weight,"w_weight.txt");
-            writeWeightVector(averageWeight,"u_weight.txt");
-            writeRound(round,"round.txt");
-            if(correct >= 1) {
+            
+            if(maxCorrectRate <= correct) {
+                maxCorrectRate = correct;
+                writeWeightVector(testWeight,"weight.txt");
+                writeWeightVector(weight,"w_weight.txt");
+                writeWeightVector(averageWeight,"u_weight.txt");
+                writeRound(round,"round.txt");
+                writeRate(maxCorrectRate,"maxRate.txt");
+                if(correct >= 1) {
+                    break;
+                }
+            }
+            
+            if(lastCorrectRate < correct) {//前回の正解率を更新!!
+                outCount = 0;
+            } else {
+                outCount++;
+            }
+            if(outCount >= finishCount) {
                 break;
             }
+            lastCorrectRate = correct;
         }
     }
     writeWeightVector(testWeight,"weight.txt");

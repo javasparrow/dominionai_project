@@ -93,69 +93,100 @@ int main(int argc, const char * argv[])
     int roundtest = 50000;//テスト実施の間隔学習回数
     string dataDirectory = getEnglishString(learningCardId) + "TeacherData/";
     
-    string studyfile = dataDirectory + "result.txt";//インプット教師データ
+    string studyfile = dataDirectory + "learn.txt";//インプット教師データ
+    string testfile = dataDirectory + "test.txt";//インプットテストデータ
     
     
-    //--------------------------------------教師信号ベクトルの初期化--------
-    cout << "load teacher data" << endl;
-    ifstream ifs(studyfile.c_str());
-    if(!ifs) {
-        cout << "not found teacher data file" << endl;
-        exit(0);
-    }
-    
-    string buf;
+    //--------------------------------------教師信号,データベクトルの初期化--------
     vector<Sample> teachers;
-    int count = 0;
-    while(getline(ifs, buf)) {
-        fprintf(stderr,"loading teacher data:%d \r",count+1);
-        if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_BUREAUCRAT) {
-            remodelSample teacher(count++,buf);
-            dimensionOfFeature = teacher.getDimensionOfFeature();
-            teachers.push_back(teacher);
+    vector<Sample> tests;
+    
+    for(int n = 0;n<2;n++) {
+        string readfile;
+        if(n==0) {
+            cout << "load teacher data" << endl;
+            readfile = studyfile;
+        } else {
+            cout << "load test data" << endl;
+            readfile = testfile;
         }
-        if(learningCardId == CARD_CHANCELLOR) {
-            chancellorSample teacher(count++,buf);
-            dimensionOfFeature = teacher.getDimensionOfFeature();
-            teachers.push_back(teacher);
+  
+        ifstream ifs(readfile.c_str());
+        if(!ifs) {
+            if(n==0) cout << "not found teacher data file" << endl;
+            if(n==1) cout << "not found test data file" << endl;
+            exit(0);
         }
-        if(learningCardId == CARD_SPY) {
-            vector<string> out = SpritString(buf,"/");
-            if(atoi(out[3].c_str()) == 1 && !optionFlag) {//自分の密偵
-                spySample teacher(count++,buf);
-                dimensionOfFeature = teacher.getDimensionOfFeature();
-                teachers.push_back(teacher);
-            }
-            if(atoi(out[3].c_str()) == 0 && optionFlag) {//相手の密偵
-                spySample teacher(count++,buf);
-                dimensionOfFeature = teacher.getDimensionOfFeature();
-                teachers.push_back(teacher);
-            }
-        }
-        if(learningCardId == CARD_LIBRARY) {
-            librarySample teacher(count++,buf);
-            dimensionOfFeature = teacher.getDimensionOfFeature();
-            teachers.push_back(teacher);
-        }
-        if(learningCardId == CARD_THIEF) {
-            thiefSample teacher(count++,buf);
-            dimensionOfFeature = teacher.getDimensionOfFeature();
-            teachers.push_back(teacher);
-        }
-        if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA || learningCardId == CARD_CELLAR) {
-            cellarSample teacher(count++,buf);
-            if(learningCardId == CARD_CELLAR) {
-                dimensionOfFeature = teacher.getDimensionOfFeature() + 1;//地下貯は何枚目のdiscardかを判別するため１次元増やす
+        
+        string buf;
+        
+        int count = 0;
+        while(getline(ifs, buf)) {
+            if(n==0) {
+                fprintf(stderr,"loading teacher data:%d \r",count+1);
             } else {
+                fprintf(stderr,"loading test data:%d \r",count+1);
+            }
+            
+            Sample sample;
+            
+            if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_BUREAUCRAT) {
+                remodelSample teacher(count++,buf);
+                sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
             }
-            teachers.push_back(teacher);
+            if(learningCardId == CARD_CHANCELLOR) {
+                chancellorSample teacher(count++,buf);
+                sample = teacher;
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
+            if(learningCardId == CARD_SPY) {
+                vector<string> out = SpritString(buf,"/");
+                if(atoi(out[3].c_str()) == 1 && !optionFlag) {//自分の密偵
+                    spySample teacher(count++,buf);
+                    sample = teacher;
+                    dimensionOfFeature = teacher.getDimensionOfFeature();
+                }
+                if(atoi(out[3].c_str()) == 0 && optionFlag) {//相手の密偵
+                    spySample teacher(count++,buf);
+                    sample = teacher;
+                    dimensionOfFeature = teacher.getDimensionOfFeature();
+                }
+            }
+            if(learningCardId == CARD_LIBRARY) {
+                librarySample teacher(count++,buf);
+                sample = teacher;
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
+            if(learningCardId == CARD_THIEF) {
+                thiefSample teacher(count++,buf);
+                sample = teacher;
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
+            if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA || learningCardId == CARD_CELLAR) {
+                cellarSample teacher(count++,buf);
+                sample = teacher;
+                if(learningCardId == CARD_CELLAR) {
+                    dimensionOfFeature = teacher.getDimensionOfFeature() + 1;//地下貯は何枚目のdiscardかを判別するため１次元増やす
+                } else {
+                    dimensionOfFeature = teacher.getDimensionOfFeature();
+                }
+            }
+            if(n == 0) {
+                teachers.push_back(sample);
+            } else {
+                tests.push_back(sample);
+            }
+        }
+        if(n==0) {
+        
+            nSample = count;
+        
+            cout << teachers.size() << " teachers data                                        " << endl;
+        } else {
+            cout << tests.size() << " tests data                                        " << endl;
         }
     }
-    nSample = count;
-    
-    cout << teachers.size() << " teachers data                                        " << endl;
-    
     //--------------------------------------重みベクトルの初期化-------
     cout << "init weight vector                             " << endl;
     cout << "dimension of vector = " << dimensionOfFeature << endl;
@@ -190,6 +221,11 @@ int main(int argc, const char * argv[])
     //---------------------------------------学習----------------------
     cout << "start learning" << endl;
     vector<int> indexs = getRandVec((int)teachers.size());
+    
+    double lastCorrectRate = 0.0;//前回の正解率
+    double maxCorrectRate = 0.0;
+    int outCount = 0;//前回の正解率を連続で上回らなかった回数
+    int finishCount = 5;//outCountがfinishCountに達したら学習終了
     
     while(round < roundlimit) {
         
@@ -421,14 +457,28 @@ int main(int argc, const char * argv[])
             
             double correct = test(testWeight, teachers,false,learningCardId);
             cout << "round:" << round << "/正解率：" << correct * 100 << "%" << endl;
-            writeWeightVector(testWeight,dataDirectory + "weight.txt");
-            writeWeightVector(weight,dataDirectory + "w_weight.txt");
-            writeWeightVector(averageWeight,dataDirectory + "u_weight.txt");
-            writeRound(round,dataDirectory + "round.txt");
-            writeRate(correct,dataDirectory + "correctRate.txt");
-            if(correct >= 1) {
+            
+            if(maxCorrectRate <= correct) {
+                maxCorrectRate = correct;
+                writeWeightVector(testWeight,dataDirectory + "weight.txt");
+                writeWeightVector(weight,dataDirectory + "w_weight.txt");
+                writeWeightVector(averageWeight,dataDirectory + "u_weight.txt");
+                writeRound(round,dataDirectory + "round.txt");
+                writeRate(correct,dataDirectory + "correctRate.txt");
+                if(correct >= 1) {
+                    break;
+                }
+            }
+            
+            if(lastCorrectRate < correct) {//前回の正解率を更新!!
+                outCount = 0;
+            } else {
+                outCount++;
+            }
+            if(outCount >= finishCount) {
                 break;
             }
+            lastCorrectRate = correct;
         }
     }
     writeWeightVector(testWeight,dataDirectory + "weight.txt");
