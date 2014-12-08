@@ -267,7 +267,7 @@ class GokoLogParser
       end
 
       if(line.index("plays") != nil)
-        if(/\d/.match(line[line.index("-") .. -2]) != nil)
+        if(/\d/.match(line[getLastIndex(line, "-") .. -2]) != nil)
           if(haveActionInHand() && @currentAction >= 1)
             generatePlayActionData(nil)
           end
@@ -335,7 +335,7 @@ class GokoLogParser
       return
     end
 
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -561,7 +561,7 @@ class GokoLogParser
     if(data == nil)
       currentPlayer = @currentPlayer
     else
-      if(data[0..data.index("-") - 2] == @playerName[0])
+      if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
         currentPlayer = 0
       else currentPlayer = 1
       end
@@ -577,7 +577,7 @@ class GokoLogParser
   end
 
   def moveDeckIntoDiscards(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -604,7 +604,7 @@ class GokoLogParser
       return
     end
 
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -618,7 +618,7 @@ class GokoLogParser
   end
 
   def parseMoveCardInHand(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -633,7 +633,7 @@ class GokoLogParser
   end
 
   def parsePutCardInHand(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -647,7 +647,7 @@ class GokoLogParser
   end
 
   def parsePlaceTop(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -671,12 +671,12 @@ class GokoLogParser
   end
 
   def parseReveal(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
 
-    if(data[data.index("-")..-1].include?("reaction"))
+    if(data[getLastIndex(data, "-")..-1].include?("reaction"))
       return
     end
 
@@ -715,7 +715,7 @@ class GokoLogParser
   end
 
   def parseDiscard(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -795,7 +795,7 @@ class GokoLogParser
   end
 
   def parseDraw(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -813,7 +813,7 @@ class GokoLogParser
   end
 
   def parseTrash(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -866,7 +866,7 @@ class GokoLogParser
   end
 
   def parseBuy(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -880,7 +880,7 @@ class GokoLogParser
   end
 
   def parseGain(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -908,7 +908,7 @@ class GokoLogParser
   end
 
   def parsePlayTreasure(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -1145,7 +1145,7 @@ class GokoLogParser
   end
 
   def parsePlayAction(data)
-    if(data[0..data.index("-") - 2] == @playerName[0])
+    if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
     else currentPlayer = 1
     end
@@ -1343,7 +1343,7 @@ class GokoLogParser
       return "error"
     end
 
-    @playerName[plNum] = data[0..data.index("-") - 2]
+    @playerName[plNum] = data[0..getLastIndex(data, "-") - 2]
 
     data[data.index(":") + 2..-2].split(", ").each{|card|
       currentCard = @cardData.getCard(card)
@@ -1358,6 +1358,17 @@ class GokoLogParser
       @supplyCnt[supCard.num] = supCard.pilenum
       @supplyExist[supCard.num] = 1
     }
+  end
+
+  def getLastIndex(str, target)
+    pos = -1
+    while(true)
+      if(str.index(target, pos + 1) != nil)
+        pos = str.index(target)
+      else
+        return pos
+      end
+    end
   end
 
 end
