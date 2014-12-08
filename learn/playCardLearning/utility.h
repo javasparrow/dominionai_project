@@ -44,6 +44,8 @@ int readRound(string filename);
 
 void writeRound(int round ,string filename);
 
+void writeRate(double rate ,string filename) ;
+
 vector<int> getRandVec(int n);
 
 void showProgress(int a,int b,string str);
