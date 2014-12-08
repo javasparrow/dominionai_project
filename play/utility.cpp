@@ -105,6 +105,8 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
         values.push_back(value);
     }
     
+    if (values.size() <= 0) return 0;
+    
     double maxValue = values[0];
     int index = -1;
     for(unsigned int i=0;i<values.size();i++) {
