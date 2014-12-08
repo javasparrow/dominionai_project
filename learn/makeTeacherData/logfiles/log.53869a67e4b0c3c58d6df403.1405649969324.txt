@@ -1,0 +1,910 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Gardens, Moneylender, Smithy, Thief, Laboratory, Library, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+Gimyon - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gimyon - shuffles deck
+hiroki - shuffles deck
+Gimyon - draws Copper, Estate, Copper, Copper, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Gimyon: turn 1 ----------
+Gimyon - plays 4 Copper
+Gimyon - buys Moneylender
+Gimyon - gains Moneylender
+Gimyon - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Gimyon: turn 2 ----------
+Gimyon - plays 3 Copper
+Gimyon - buys Silver
+Gimyon - gains Silver
+Gimyon - shuffles deck
+Gimyon - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Gimyon: turn 3 ----------
+Gimyon - plays 4 Copper
+Gimyon - buys Smithy
+Gimyon - gains Smithy
+Gimyon - draws Estate, Estate, Copper, Moneylender, Silver
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Estate, Copper, Chapel, Copper, Estate
+ 
+---------- Gimyon: turn 4 ----------
+Gimyon - plays Moneylender
+Gimyon - trashes Copper
+Gimyon - plays 1 Silver
+Gimyon - buys Witch
+Gimyon - gains Witch
+Gimyon - draws Copper, Copper
+Gimyon - shuffles deck
+Gimyon - draws Estate, Copper, Estate
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper, Estate
+hiroki - draws Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Silver, Laboratory, Copper
+ 
+---------- Gimyon: turn 5 ----------
+Gimyon - plays 3 Copper
+Gimyon - buys Chapel
+Gimyon - gains Chapel
+Gimyon - draws Copper, Copper, Moneylender, Copper, Witch
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays 5 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Estate, Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Copper
+ 
+---------- Gimyon: turn 6 ----------
+Gimyon - plays Witch
+Gimyon - draws Silver, Smithy
+hiroki - gains Curse
+Gimyon - plays 3 Copper, 1 Silver
+Gimyon - buys Laboratory
+Gimyon - gains Laboratory
+Gimyon - draws Estate
+Gimyon - shuffles deck
+Gimyon - draws Moneylender, Estate, Copper, Laboratory
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper
+hiroki - draws Laboratory, Silver, Copper, Copper, Laboratory
+ 
+---------- Gimyon: turn 7 ----------
+Gimyon - plays Laboratory
+Gimyon - draws Copper, Smithy
+Gimyon - plays Moneylender
+Gimyon - trashes Copper
+Gimyon - plays 1 Copper
+Gimyon - buys Village
+Gimyon - gains Village
+Gimyon - draws Chapel, Copper, Copper, Witch, Estate
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Curse, Copper
+hiroki - plays Laboratory
+hiroki - draws Chapel
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Copper, Silver, Laboratory
+ 
+---------- Gimyon: turn 8 ----------
+Gimyon - plays Witch
+Gimyon - draws Copper, Copper
+hiroki - gains Curse
+Gimyon - plays 4 Copper
+Gimyon - buys Village
+Gimyon - gains Village
+Gimyon - draws Silver
+Gimyon - shuffles deck
+Gimyon - draws Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Village
+hiroki - plays Laboratory
+hiroki - draws Chapel
+hiroki - shuffles deck
+hiroki - draws Curse
+hiroki - plays Village
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - shuffles deck
+hiroki - draws Village, Laboratory, Chapel, Silver, Copper
+ 
+---------- Gimyon: turn 9 ----------
+Gimyon - plays 3 Copper, 1 Silver
+Gimyon - buys Laboratory
+Gimyon - gains Laboratory
+Gimyon - draws Estate, Estate, Copper, Copper, Village
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Laboratory
+Gimyon - gains Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Laboratory, Copper, Laboratory, Laboratory, Village
+ 
+---------- Gimyon: turn 10 ----------
+Gimyon - plays Village
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Chapel, Witch
+Gimyon - plays Witch
+Gimyon - draws Smithy, Moneylender
+hiroki - gains Curse
+Gimyon - plays Chapel
+Gimyon - trashes Copper, Copper, Estate, Estate
+Gimyon - draws Village
+Gimyon - shuffles deck
+Gimyon - draws Copper, Village, Laboratory, Silver
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Silver
+hiroki - plays Laboratory
+hiroki - draws Chapel, Copper
+hiroki - plays Laboratory
+hiroki - draws Witch
+hiroki - shuffles deck
+hiroki - draws Curse
+hiroki - plays Village
+hiroki - plays Witch
+Gimyon - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - shuffles deck
+hiroki - draws Witch, Copper, Laboratory, Laboratory, Copper
+ 
+---------- Gimyon: turn 11 ----------
+Gimyon - plays Village
+Gimyon - draws Copper
+Gimyon - plays Village
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Witch, Chapel
+Gimyon - plays Witch
+Gimyon - draws Copper, Smithy
+hiroki - gains Curse
+Gimyon - plays Laboratory
+Gimyon - draws Curse, Moneylender
+Gimyon - plays Smithy
+Gimyon - draws Estate
+Gimyon - shuffles deck
+Gimyon - draws Curse
+Gimyon - plays Chapel
+Gimyon - trashes Curse, Estate, Curse
+Gimyon - plays 3 Copper, 1 Silver
+Gimyon - buys Laboratory
+Gimyon - gains Laboratory
+Gimyon - shuffles deck
+Gimyon - draws Copper, Village, Smithy, Chapel, Laboratory
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Laboratory
+hiroki - draws Chapel, Village
+hiroki - plays Laboratory
+hiroki - draws Copper, Witch
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Witch
+hiroki - draws Laboratory
+hiroki - shuffles deck
+hiroki - draws Curse
+Gimyon - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Chapel, Village, Copper, Laboratory, Witch
+ 
+---------- Gimyon: turn 12 ----------
+Gimyon - plays Village
+Gimyon - draws Copper
+Gimyon - plays Laboratory
+Gimyon - draws Copper, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Witch, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Silver, Moneylender
+Gimyon - plays Witch
+Gimyon - draws Village
+Gimyon - shuffles deck
+Gimyon - draws Curse
+hiroki - gains Curse
+Gimyon - plays Village
+Gimyon - plays Smithy
+Gimyon - plays Moneylender
+Gimyon - trashes Copper
+Gimyon - plays 2 Copper, 1 Silver
+Gimyon - buys Gold
+Gimyon - gains Gold
+Gimyon - shuffles deck
+Gimyon - draws Village, Moneylender, Village, Laboratory, Copper
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Copper
+hiroki - plays Laboratory
+hiroki - draws Village, Silver
+hiroki - plays Witch
+hiroki - shuffles deck
+hiroki - draws Curse
+Gimyon - gains Curse
+hiroki - plays Village
+hiroki - plays Witch
+Gimyon - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Thief
+hiroki - gains Thief
+hiroki - shuffles deck
+hiroki - draws Copper, Witch, Laboratory, Witch, Laboratory
+ 
+---------- Gimyon: turn 13 ----------
+Gimyon - plays Village
+Gimyon - draws Copper
+Gimyon - plays Village
+Gimyon - draws Silver
+Gimyon - plays Laboratory
+Gimyon - draws Gold, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Smithy, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Curse, Witch
+Gimyon - plays Smithy
+Gimyon - draws Chapel
+Gimyon - shuffles deck
+Gimyon - draws Curse, Curse
+Gimyon - plays Witch
+Gimyon - plays Chapel
+Gimyon - trashes Curse, Curse, Curse
+Gimyon - plays 2 Copper, 1 Silver, 1 Gold
+Gimyon - buys Gold
+Gimyon - gains Gold
+Gimyon - shuffles deck
+Gimyon - draws Gold, Silver, Village, Village, Copper
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Laboratory
+hiroki - draws Chapel, Village
+hiroki - plays Laboratory
+hiroki - draws Copper, Silver
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Witch
+hiroki - draws Thief, Copper
+hiroki - plays Laboratory
+hiroki - draws Village
+hiroki - plays Village
+hiroki - plays Thief
+Gimyon - reveals: Copper, Laboratory
+Gimyon - trashes Copper
+Gimyon - discards Laboratory
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Thief
+hiroki - gains Thief
+hiroki - shuffles deck
+hiroki - draws Copper, Laboratory, Witch, Village, Laboratory
+ 
+---------- Gimyon: turn 14 ----------
+Gimyon - plays Village
+Gimyon - draws Gold
+Gimyon - plays Village
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Smithy, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Chapel, Witch
+Gimyon - plays Smithy
+Gimyon - draws Moneylender
+Gimyon - shuffles deck
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - plays Witch
+Gimyon - plays 2 Gold, 1 Silver, 1 Copper
+Gimyon - buys Province
+Gimyon - gains Province
+Gimyon - shuffles deck
+Gimyon - draws Gold, Village, Gold, Laboratory, Smithy
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Laboratory
+hiroki - draws Thief, Chapel
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Village, Copper
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Thief
+Gimyon - reveals: Copper, Witch
+Gimyon - trashes Copper
+Gimyon - discards Witch
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Chapel
+Gimyon - discards: Laboratory, Chapel
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 1 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Silver, Thief, Laboratory, Thief, Laboratory
+ 
+---------- Gimyon: turn 15 ----------
+Gimyon - plays Village
+Gimyon - draws Moneylender
+Gimyon - plays Laboratory
+Gimyon - draws Silver, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Village, Province
+Gimyon - plays Village
+Gimyon - shuffles deck
+Gimyon - draws Laboratory
+Gimyon - plays Smithy
+Gimyon - draws Chapel, Witch
+Gimyon - plays Laboratory
+Gimyon - plays Witch
+Gimyon - plays Chapel
+Gimyon - trashes Moneylender
+Gimyon - plays 2 Gold, 1 Silver
+Gimyon - buys Province
+Gimyon - gains Province
+Gimyon - shuffles deck
+Gimyon - draws Silver, Laboratory, Laboratory, Village, Province
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Laboratory
+hiroki - draws Witch, Village
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Laboratory
+hiroki - draws Village, Chapel
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Thief
+Gimyon - reveals: Province, Witch
+Gimyon - discards: Province, Witch
+hiroki - plays Thief
+Gimyon - reveals: Village, Laboratory
+Gimyon - discards: Village, Laboratory
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 2 Silver
+hiroki - buys Thief
+hiroki - gains Thief
+hiroki - shuffles deck
+hiroki - draws Witch, Thief, Witch, Silver, Silver
+ 
+---------- Gimyon: turn 16 ----------
+Gimyon - plays Laboratory
+Gimyon - draws Gold, Chapel
+Gimyon - plays Village
+Gimyon - draws Gold
+Gimyon - plays Laboratory
+Gimyon - draws Smithy
+Gimyon - shuffles deck
+Gimyon - draws Province
+Gimyon - plays Smithy
+Gimyon - draws Village, Witch, Laboratory
+Gimyon - plays Laboratory
+Gimyon - plays Village
+Gimyon - plays Witch
+Gimyon - plays 2 Gold, 1 Silver
+Gimyon - buys Province
+Gimyon - gains Province
+Gimyon - shuffles deck
+Gimyon - draws Witch, Smithy, Gold, Province, Silver
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Thief
+Gimyon - reveals: Chapel, Province
+Gimyon - discards: Chapel, Province
+hiroki - plays 2 Silver
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Laboratory, Laboratory, Laboratory, Village, Village
+ 
+---------- Gimyon: turn 17 ----------
+Gimyon - plays Smithy
+Gimyon - draws Laboratory, Village, Laboratory
+Gimyon - plays 1 Gold, 1 Silver
+Gimyon - buys Duchy
+Gimyon - gains Duchy
+Gimyon - draws Village, Gold, Province, Laboratory
+Gimyon - shuffles deck
+Gimyon - draws Chapel
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Laboratory
+hiroki - draws Thief, Thief
+hiroki - plays Laboratory
+hiroki - draws Chapel
+hiroki - shuffles deck
+hiroki - draws Silver
+hiroki - plays Laboratory
+hiroki - draws Village, Silver
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Witch
+Gimyon - discards: Laboratory, Witch
+hiroki - plays Thief
+Gimyon - reveals: Gold, Silver
+Gimyon - trashes Gold
+Gimyon - discards Silver
+hiroki - gains Gold
+hiroki - plays Thief
+Gimyon - reveals: Village, Smithy
+Gimyon - discards: Village, Smithy
+hiroki - plays Witch
+hiroki - shuffles deck
+hiroki - draws Gold
+hiroki - plays 2 Silver, 1 Gold
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Gold, Silver, Village, Silver, Laboratory
+ 
+---------- Gimyon: turn 18 ----------
+Gimyon - plays Laboratory
+Gimyon - draws Duchy, Province
+Gimyon - plays Village
+Gimyon - draws Province
+Gimyon - plays 1 Gold
+Gimyon - buys Silver
+Gimyon - gains Silver
+Gimyon - draws Laboratory
+Gimyon - shuffles deck
+Gimyon - draws Smithy, Village, Witch, Silver
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Laboratory
+hiroki - draws Thief, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Village, Laboratory
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Thief
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Laboratory
+hiroki - draws Witch, Chapel
+hiroki - plays Thief
+Gimyon - reveals: Village, Laboratory
+Gimyon - discards: Village, Laboratory
+hiroki - plays Thief
+Gimyon - reveals: Province, Province
+Gimyon - discards: Province, Province
+hiroki - plays Thief
+Gimyon - reveals: Duchy, Province
+Gimyon - discards: Duchy, Province
+hiroki - plays 2 Silver, 1 Gold
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Silver, Gold, Laboratory, Thief, Witch
+ 
+---------- Gimyon: turn 19 ----------
+Gimyon - plays Laboratory
+Gimyon - draws Gold, Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Silver, Chapel
+Gimyon - plays Village
+Gimyon - shuffles deck
+Gimyon - draws Province
+Gimyon - plays Smithy
+Gimyon - draws Province, Province, Village
+Gimyon - plays Village
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - draws Duchy
+Gimyon - plays Witch
+Gimyon - plays 2 Silver, 1 Gold
+Gimyon - buys Adventurer
+Gimyon - gains Adventurer
+Gimyon - shuffles deck
+Gimyon - draws Village, Province, Gold, Chapel, Duchy
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays Laboratory
+hiroki - draws Village, Laboratory
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Laboratory
+hiroki - draws Thief, Witch
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Village, Chapel
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Laboratory
+Gimyon - discards: Laboratory, Laboratory
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Witch
+Gimyon - discards: Laboratory, Witch
+hiroki - plays Witch
+hiroki - draws Laboratory
+hiroki - plays Thief
+Gimyon - reveals: Village, Province
+Gimyon - discards: Village, Province
+hiroki - plays 2 Silver, 1 Gold
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Thief, Village, Village, Village, Chapel
+ 
+---------- Gimyon: turn 20 ----------
+Gimyon - plays Village
+Gimyon - draws Silver
+Gimyon - plays 1 Gold, 1 Silver
+Gimyon - buys Laboratory
+Gimyon - gains Laboratory
+Gimyon - draws Province, Adventurer, Silver, Smithy
+Gimyon - shuffles deck
+Gimyon - draws Gold
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Witch
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Gold, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Thief, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Village
+hiroki - plays Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - plays Village
+hiroki - plays Thief
+Gimyon - reveals: Province, Witch
+Gimyon - discards: Province, Witch
+hiroki - plays Thief
+Gimyon - reveals: Silver, Village
+Gimyon - trashes Silver
+Gimyon - discards Village
+hiroki - gains Silver
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Duchy
+Gimyon - discards: Laboratory, Duchy
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Silver
+hiroki - plays 3 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Laboratory, Village, Silver, Laboratory, Village
+ 
+---------- Gimyon: turn 21 ----------
+Gimyon - plays Adventurer
+Gimyon - shuffles deck
+Gimyon - reveals Province, Laboratory, Chapel, Village, Laboratory, Laboratory, Duchy, Laboratory, Village, Province, Witch
+Gimyon - discards: Province, Laboratory, Chapel, Village, Laboratory, Laboratory, Duchy, Laboratory, Village, Province, Witch
+Gimyon - plays 1 Silver, 1 Gold
+Gimyon - buys Silver
+Gimyon - gains Silver
+Gimyon - shuffles deck
+Gimyon - draws Witch, Gold, Duchy, Village, Chapel
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Laboratory
+hiroki - draws Thief, Silver
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Laboratory
+hiroki - draws Chapel, Province
+hiroki - plays Witch
+hiroki - draws Gold, Village
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver, Witch
+hiroki - plays Witch
+hiroki - draws Laboratory, Thief
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Village
+hiroki - plays Village
+hiroki - plays Thief
+Gimyon - reveals: Smithy, Silver
+Gimyon - trashes Silver
+Gimyon - discards Smithy
+hiroki - plays Thief
+Gimyon - reveals: Laboratory, Adventurer
+Gimyon - discards: Laboratory, Adventurer
+hiroki - plays Thief
+Gimyon - reveals: Silver, Laboratory
+Gimyon - trashes Silver
+Gimyon - discards Laboratory
+hiroki - plays 3 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Witch, Province, Thief, Village, Laboratory
+ 
+---------- Gimyon: turn 22 ----------
+Gimyon - plays Village
+Gimyon - draws Province
+Gimyon - plays Witch
+Gimyon - draws Village, Laboratory
+Gimyon - plays Village
+Gimyon - draws Province
+Gimyon - plays Laboratory
+Gimyon - draws Province, Laboratory
+Gimyon - plays Laboratory
+Gimyon - shuffles deck
+Gimyon - draws Laboratory, Adventurer
+Gimyon - plays Laboratory
+Gimyon - draws Laboratory, Smithy
+Gimyon - plays Laboratory
+Gimyon - plays Smithy
+Gimyon - plays Adventurer
+Gimyon - plays 1 Gold
+Gimyon - buys Silver
+Gimyon - gains Silver
+Gimyon - shuffles deck
+Gimyon - draws Chapel, Village, Laboratory, Province, Laboratory
+ 
+---------- hiroki: turn 22 ----------
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Laboratory
+hiroki - draws Witch, Gold
+hiroki - plays Village
+hiroki - draws Province
+hiroki - plays Witch
+hiroki - draws Laboratory, Chapel
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Thief, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver, Village
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Witch
+hiroki - draws Thief, Laboratory
+hiroki - plays Thief
+Gimyon - reveals: Silver, Province
+Gimyon - trashes Silver
+Gimyon - discards Province
+hiroki - plays Thief
+Gimyon - reveals: Duchy, Laboratory
+Gimyon - discards: Duchy, Laboratory
+hiroki - plays Thief
+Gimyon - reveals: Province, Gold
+Gimyon - trashes Gold
+Gimyon - discards Province
+hiroki - gains Gold
+hiroki - plays 3 Silver, 1 Gold
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Laboratory, Witch, Laboratory, Village, Province
+ 
+---------- Gimyon: turn 23 ----------
+Gimyon - plays Laboratory
+Gimyon - draws Adventurer, Village
+Gimyon - plays Village
+Gimyon - draws Smithy
+Gimyon - plays Laboratory
+Gimyon - draws Witch, Laboratory
+Gimyon - plays Village
+Gimyon - shuffles deck
+Gimyon - draws Duchy
+Gimyon - plays Laboratory
+Gimyon - draws Province, Province
+Gimyon - plays Smithy
+Gimyon - draws Laboratory
+Gimyon - plays Laboratory
+Gimyon - plays Witch
+Gimyon - plays Adventurer
+Gimyon - buys Copper
+Gimyon - gains Copper
+Gimyon - shuffles deck
+Gimyon - draws Province, Laboratory, Province, Chapel, Village
+ 
+---------- hiroki: turn 23 ----------
+hiroki - plays Village
+hiroki - draws Thief
+hiroki - plays Laboratory
+hiroki - draws Thief, Village
+hiroki - plays Laboratory
+hiroki - draws Gold, Province
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Witch
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Village
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Thief, Gold
+hiroki - plays Witch
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Village, Laboratory
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Chapel
+hiroki - trashes Thief, Thief, Thief, Silver
+hiroki - plays 2 Gold, 2 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Laboratory, Laboratory, Village, Province, Laboratory
+ 
+---------- Gimyon: turn 24 ----------
+Gimyon - plays Village
+Gimyon - draws Smithy
+Gimyon - plays Smithy
+Gimyon - draws Province, Laboratory, Adventurer
+Gimyon - plays Laboratory
+Gimyon - draws Duchy, Copper
+Gimyon - plays Adventurer
+Gimyon - reveals Laboratory, Witch, Village, Laboratory
+Gimyon - discards: Laboratory, Witch, Village, Laboratory
+Gimyon - buys Copper
+Gimyon - gains Copper
+Gimyon - shuffles deck
+Gimyon - draws Chapel, Adventurer, Laboratory, Witch, Laboratory
+ 
+---------- hiroki: turn 24 ----------
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Laboratory
+hiroki - draws Chapel, Village
+hiroki - plays Laboratory
+hiroki - draws Province, Witch
+hiroki - plays Laboratory
+hiroki - draws Village, Laboratory
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Laboratory
+hiroki - draws Witch, Village
+hiroki - plays Witch
+hiroki - draws Laboratory, Province
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver
+hiroki - plays Chapel
+hiroki - trashes Silver
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Province, Village, Village, Laboratory, Laboratory
+ 
+---------- Gimyon: turn 25 ----------
+Gimyon - plays Adventurer
+Gimyon - reveals Copper, Province, Duchy, Province, Province, Village, Copper
+Gimyon - places cards in hand:  Copper, Copper
+Gimyon - discards: Province, Duchy, Province, Province, Village
+Gimyon - buys Copper
+Gimyon - gains Copper
+Gimyon - draws Village, Laboratory, Smithy, Laboratory
+Gimyon - shuffles deck
+Gimyon - draws Province
+ 
+---------- hiroki: turn 25 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Province, Silver
+hiroki - plays Laboratory
+hiroki - draws Village, Gold
+hiroki - plays Laboratory
+hiroki - draws Province, Laboratory
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Witch
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Laboratory
+hiroki - draws Province
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Province, Province, Gold, Laboratory, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 6 Laboratory, 4 Village, 2 Witch, 1 Chapel, 2 Gold, 1 Silver, 5 Province
+hiroki - total victory points: 30
+hiroki - turns: 25
+ 
+Gimyon - cards: 4 Laboratory, 2 Village, 1 Smithy, 1 Chapel, 1 Witch, 1 Adventurer, 3 Copper, 3 Province, 1 Duchy
+Gimyon - total victory points: 21
+Gimyon - turns: 25
+ 
+1st place: hiroki
+2nd place: Gimyon
+ 

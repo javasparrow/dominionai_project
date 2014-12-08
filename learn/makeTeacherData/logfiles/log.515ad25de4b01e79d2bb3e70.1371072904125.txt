@@ -1,0 +1,272 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Workshop, Bureaucrat, Feast, Moneylender, Remodel, Smithy, Thief, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+RTT - shuffles deck
+unicut - draws Copper, Copper, Copper, Estate, Estate
+RTT - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Moneylender
+RTT - gains Moneylender
+RTT - shuffles deck
+RTT - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Moneylender
+unicut - gains Moneylender
+unicut - shuffles deck
+unicut - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Moneylender, Copper, Silver, Copper, Copper
+ 
+---------- unicut: turn 3 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Estate, Copper, Moneylender, Copper, Estate
+ 
+---------- RTT: turn 4 ----------
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Estate, Copper
+RTT - shuffles deck
+RTT - draws Gold, Copper, Copper
+ 
+---------- unicut: turn 4 ----------
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Copper
+unicut - buys Feast
+unicut - gains Feast
+unicut - draws Copper, Copper
+unicut - shuffles deck
+unicut - draws Estate, Market, Silver
+ 
+---------- RTT: turn 5 ----------
+RTT - plays 3 Copper, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Remodel
+RTT - gains Remodel
+RTT - draws Copper, Silver, Moneylender
+RTT - shuffles deck
+RTT - draws Copper, Copper
+ 
+---------- unicut: turn 6 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Feast, Moneylender
+unicut - shuffles deck
+unicut - draws Market, Gold, Copper
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Silver, Estate, Estate, Remodel, Copper
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Gold, 1 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Remodel
+RTT - trashes Estate
+RTT - gains Silver
+RTT - plays 1 Silver, 1 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Gold, Gold, Copper, Copper, Estate
+ 
+---------- unicut: turn 8 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Copper, Estate, Silver, Copper
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays 2 Gold, 2 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - shuffles deck
+RTT - draws Estate, Copper, Copper, Gold, Moneylender
+ 
+---------- unicut: turn 9 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Copper, Feast, Gold, Remodel, Estate
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Gold, Silver, Remodel, Gold, Silver
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Feast
+unicut - trashes Feast
+unicut - gains Market
+unicut - plays 1 Copper, 1 Gold
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Market, Gold, Estate, Copper, Moneylender
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Remodel
+RTT - trashes Silver
+RTT - gains Library
+RTT - plays 2 Gold, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - shuffles deck
+unicut - draws Market, Copper, Silver, Market, Gold
+ 
+---------- RTT: turn 12 ----------
+RTT - plays 2 Silver, 2 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Province
+RTT - shuffles deck
+RTT - draws Gold, Province, Copper
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Market
+unicut - draws Gold
+unicut - plays Market
+unicut - draws Copper
+unicut - plays 2 Copper, 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Moneylender, Copper, Silver, Remodel, Province
+ 
+---------- RTT: turn 13 ----------
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Silver, Gold, Library, Gold, Gold
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Silver
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Remodel, Copper, Estate, Estate, Estate
+ 
+---------- RTT: turn 14 ----------
+RTT - plays 3 Gold, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Silver, Remodel, Copper, Copper, Gold
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Remodel
+unicut - trashes Copper
+unicut - gains Estate
+unicut - draws Market
+unicut - shuffles deck
+unicut - draws Remodel, Silver, Silver, Gold
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Remodel
+RTT - trashes Gold
+RTT - gains Province
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Moneylender, Estate, Silver, Estate
+RTT - shuffles deck
+RTT - draws Library
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Market
+unicut - draws Estate
+unicut - plays 2 Silver, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Market, Estate, Duchy, Moneylender, Copper
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Library
+RTT - draws Gold
+RTT - draws Copper
+RTT - draws Silver
+RTT - plays 2 Silver, 1 Gold, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Gold, Duchy, Gold, Province, Estate
+ 
+------------ Game Over ------------
+RTT - cards: 1 Library, 1 Moneylender, 1 Remodel, 4 Gold, 4 Copper, 3 Silver, 5 Province, 3 Estate, 1 Duchy
+RTT - total victory points: 36
+RTT - turns: 16
+ 
+unicut - cards: 3 Market, 2 Remodel, 1 Moneylender, 3 Silver, 2 Copper, 2 Gold, 4 Estate, 3 Province, 1 Duchy
+unicut - total victory points: 25
+unicut - turns: 15
+ 
+1st place: RTT
+2nd place: unicut
+ 

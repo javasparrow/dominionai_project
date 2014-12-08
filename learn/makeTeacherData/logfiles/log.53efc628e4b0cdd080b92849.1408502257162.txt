@@ -1,0 +1,494 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Woodcutter, Bureaucrat, Spy, Thief, Throne Room, Festival, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+minuit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+minuit - shuffles deck
+hiroki - shuffles deck
+minuit - draws Copper, Copper, Copper, Estate, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays Copper
+hiroki - plays Copper
+hiroki - plays Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- minuit: turn 1 ----------
+minuit - plays 4 Copper
+minuit - buys Bureaucrat
+minuit - gains Bureaucrat
+minuit - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- minuit: turn 2 ----------
+minuit - plays 3 Copper
+minuit - buys Chapel
+minuit - gains Chapel
+minuit - shuffles deck
+minuit - draws Bureaucrat, Estate, Copper, Copper, Estate
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- minuit: turn 3 ----------
+minuit - plays Bureaucrat
+minuit - gains Silver
+hiroki - reveals Estate
+hiroki - places Estate on top of deck
+minuit - plays 2 Copper
+minuit - buys Chapel
+minuit - gains Chapel
+minuit - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Estate, Chapel, Copper
+hiroki - shuffles deck
+hiroki - draws Festival, Copper
+ 
+---------- minuit: turn 4 ----------
+minuit - plays 4 Copper, 1 Silver
+minuit - buys Gold
+minuit - gains Gold
+minuit - draws Estate, Copper, Chapel
+minuit - shuffles deck
+minuit - draws Copper, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper
+hiroki - draws Copper, Estate, Copper, Silver, Silver
+ 
+---------- minuit: turn 5 ----------
+minuit - plays Chapel
+minuit - trashes Estate, Copper, Copper, Copper
+minuit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 2 Copper, 2 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - draws Estate, Copper, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Witch
+ 
+---------- minuit: turn 6 ----------
+minuit - plays 3 Copper
+minuit - buys Silver
+minuit - gains Silver
+minuit - draws Silver, Copper, Gold, Bureaucrat, Chapel
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Witch
+hiroki - draws Silver, Festival
+minuit - gains Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Copper, Silver, Chapel, Copper, Estate
+ 
+---------- minuit: turn 7 ----------
+minuit - plays Bureaucrat
+minuit - gains Silver
+hiroki - reveals Estate
+hiroki - places Estate on top of deck
+minuit - plays 1 Silver, 1 Copper, 1 Gold
+minuit - buys Gold
+minuit - gains Gold
+minuit - draws Silver
+minuit - shuffles deck
+minuit - draws Estate, Chapel, Gold, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper
+hiroki - draws Estate
+hiroki - shuffles deck
+hiroki - draws Copper, Chapel, Copper, Festival
+ 
+---------- minuit: turn 8 ----------
+minuit - plays 1 Silver, 1 Gold, 1 Copper
+minuit - buys Gold
+minuit - gains Gold
+minuit - draws Copper, Silver, Copper, Bureaucrat, Chapel
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper, Estate
+hiroki - draws Silver, Festival, Silver, Witch, Estate
+ 
+---------- minuit: turn 9 ----------
+minuit - plays Chapel
+minuit - trashes Copper, Copper
+minuit - draws Copper, Curse, Estate, Gold, Silver
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Chapel
+minuit - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate
+hiroki - plays 2 Silver
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Witch, Silver, Chapel, Festival
+ 
+---------- minuit: turn 10 ----------
+minuit - plays 1 Copper, 1 Gold, 1 Silver
+minuit - buys Gold
+minuit - gains Gold
+minuit - shuffles deck
+minuit - draws Gold, Silver, Curse, Copper, Gold
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Throne Room
+minuit - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 2 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - shuffles deck
+hiroki - draws Witch, Festival, Witch, Chapel, Silver
+ 
+---------- minuit: turn 11 ----------
+minuit - plays 2 Gold, 1 Silver, 1 Copper
+minuit - buys Province
+minuit - gains Province
+minuit - draws Chapel, Estate, Estate, Copper, Silver
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Festival, Festival
+minuit - gains Curse
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Throne Room
+minuit - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 2 Silver
+hiroki - buys Thief
+hiroki - gains Thief
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - shuffles deck
+hiroki - draws Throne Room, Throne Room, Silver, Witch, Chapel
+ 
+---------- minuit: turn 12 ----------
+minuit - plays Chapel
+minuit - trashes Estate, Estate, Copper
+minuit - draws Gold, Gold, Bureaucrat, Silver, Curse
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Silver, Witch
+minuit - gains Curse
+hiroki - plays Witch
+hiroki - draws Festival, Thief
+minuit - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Throne Room, Festival
+minuit - gains Curse
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Thief
+minuit - reveals: Chapel
+minuit - shuffles deck
+minuit - reveals: Copper
+minuit - trashes Copper
+minuit - discards Chapel
+hiroki - plays Thief
+minuit - reveals: Curse, Curse
+minuit - discards: Curse, Curse
+hiroki - plays 2 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Witch, Witch, Witch, Silver
+ 
+---------- minuit: turn 13 ----------
+minuit - plays Bureaucrat
+minuit - gains Silver
+hiroki - reveals Festival, Witch, Witch, Witch, Silver
+minuit - plays 2 Gold, 1 Silver
+minuit - buys Province
+minuit - gains Province
+minuit - draws Silver, Curse, Gold, Gold, Province
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Throne Room, Throne Room
+minuit - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Festival, Thief
+minuit - gains Curse
+hiroki - plays Witch
+hiroki - draws Festival, Festival
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Throne Room
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Thief
+minuit - reveals: Chapel, Curse
+minuit - discards: Chapel, Curse
+hiroki - plays Thief
+minuit - reveals: Curse, Silver
+minuit - trashes Silver
+minuit - discards Curse
+hiroki - gains Silver
+hiroki - plays Festival
+hiroki - plays 2 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Chapel
+hiroki - shuffles deck
+hiroki - draws Throne Room, Throne Room, Thief, Throne Room
+ 
+---------- minuit: turn 14 ----------
+minuit - plays 2 Gold, 1 Silver
+minuit - buys Province
+minuit - gains Province
+minuit - draws Silver, Curse, Curse
+minuit - shuffles deck
+minuit - draws Curse, Curse
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Throne Room
+hiroki - plays Thief
+minuit - reveals: Chapel, Curse
+minuit - discards: Chapel, Curse
+hiroki - plays Thief
+minuit - reveals: Curse, Province
+minuit - discards: Curse, Province
+hiroki - draws Witch, Province, Festival, Festival, Festival
+ 
+---------- minuit: turn 15 ----------
+minuit - draws Curse, Gold, Chapel, Bureaucrat, Province
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Witch
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Witch, Silver
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Throne Room
+hiroki - plays 3 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Thief, Festival, Throne Room, Throne Room
+ 
+---------- minuit: turn 16 ----------
+minuit - plays Bureaucrat
+minuit - gains Silver
+hiroki - reveals Festival, Thief, Festival, Throne Room, Throne Room
+minuit - plays 1 Gold
+minuit - buys Silver
+minuit - gains Silver
+minuit - draws Silver, Province, Silver, Curse, Gold
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Thief
+minuit - reveals: Curse, Gold
+minuit - trashes Gold
+minuit - discards Curse
+hiroki - gains Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Festival, Silver, Witch, Chapel, Throne Room
+ 
+---------- minuit: turn 17 ----------
+minuit - plays 2 Silver, 1 Gold
+minuit - buys Gold
+minuit - gains Gold
+minuit - draws Curse, Silver, Gold
+minuit - shuffles deck
+minuit - draws Province, Silver
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Province, Witch
+hiroki - plays Witch
+hiroki - draws Silver, Witch
+hiroki - plays Witch
+hiroki - draws Throne Room, Festival
+hiroki - plays 2 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Silver, Throne Room
+hiroki - shuffles deck
+hiroki - draws Silver, Thief
+ 
+---------- minuit: turn 18 ----------
+minuit - plays 2 Silver, 1 Gold
+minuit - buys Duchy
+minuit - gains Duchy
+minuit - draws Silver, Curse, Gold, Silver, Province
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays Throne Room
+hiroki - plays Thief
+minuit - reveals: Bureaucrat, Curse
+minuit - discards: Bureaucrat, Curse
+hiroki - plays Thief
+minuit - reveals: Curse, Silver
+minuit - trashes Silver
+minuit - discards Curse
+hiroki - gains Silver
+hiroki - plays Silver
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Province, Throne Room, Witch, Witch, Chapel
+ 
+---------- minuit: turn 19 ----------
+minuit - plays 2 Silver, 1 Gold
+minuit - buys Duchy
+minuit - gains Duchy
+minuit - draws Chapel, Chapel, Curse, Curse, Curse
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Throne Room, Throne Room
+hiroki - plays Witch
+hiroki - draws Silver, Festival
+hiroki - plays 1 Silver
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Festival, Festival, Witch, Throne Room, Gold
+ 
+---------- minuit: turn 20 ----------
+minuit - plays Chapel
+minuit - trashes Curse, Curse, Curse
+minuit - draws Curse, Curse, Gold, Gold, Curse
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Province, Duchy
+hiroki - plays Witch
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Thief
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Thief
+minuit - reveals: Province
+minuit - shuffles deck
+minuit - reveals: Silver
+minuit - trashes Silver
+minuit - discards Province
+hiroki - gains Silver
+hiroki - plays 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Throne Room, Witch, Province, Estate, Silver
+ 
+---------- minuit: turn 21 ----------
+minuit - plays 2 Gold
+minuit - buys Gold
+minuit - gains Gold
+minuit - draws Duchy, Province, Gold, Silver, Curse
+ 
+---------- hiroki: turn 22 ----------
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Throne Room, Throne Room
+hiroki - plays Witch
+hiroki - draws Throne Room, Estate
+hiroki - plays 1 Silver
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Festival, Chapel, Witch, Silver, Province
+ 
+---------- minuit: turn 22 ----------
+minuit - plays 1 Gold, 1 Silver
+minuit - buys Duchy
+minuit - gains Duchy
+minuit - draws Bureaucrat, Chapel, Silver, Gold, Curse
+ 
+---------- hiroki: turn 23 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Silver, Silver
+hiroki - plays 3 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Throne Room, Silver, Chapel, Silver, Province
+ 
+------------ Game Over ------------
+hiroki - cards: 5 Throne Room, 4 Festival, 3 Witch, 1 Chapel, 1 Thief, 5 Silver, 1 Gold, 5 Province, 3 Estate, 1 Duchy
+hiroki - total victory points: 36
+hiroki - turns: 23
+ 
+minuit - cards: 2 Chapel, 1 Bureaucrat, 5 Gold, 3 Silver, 3 Province, 3 Duchy, 7 Curse
+minuit - total victory points: 20
+minuit - turns: 22
+ 
+1st place: hiroki
+2nd place: minuit
+ 

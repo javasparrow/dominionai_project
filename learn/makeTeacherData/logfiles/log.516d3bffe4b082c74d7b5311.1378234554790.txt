@@ -1,0 +1,435 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Gardens, Moneylender, Remodel, Smithy, Thief, Throne Room, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+David Schwartz - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+David Schwartz - shuffles deck
+terminalCopper - shuffles deck
+David Schwartz - draws Copper, Estate, Copper, Estate, Copper
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- David Schwartz: turn 1 ----------
+David Schwartz - plays 3 Copper
+David Schwartz - buys Silver
+David Schwartz - gains Silver
+David Schwartz - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- David Schwartz: turn 2 ----------
+David Schwartz - plays 4 Copper
+David Schwartz - buys Moneylender
+David Schwartz - gains Moneylender
+David Schwartz - shuffles deck
+David Schwartz - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Chapel
+terminalCopper - gains Chapel
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- David Schwartz: turn 3 ----------
+David Schwartz - plays 3 Copper, 1 Silver
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - draws Copper, Moneylender, Copper, Estate, Estate
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Estate, Copper, Copper, Silver, Estate
+ 
+---------- David Schwartz: turn 4 ----------
+David Schwartz - plays Moneylender
+David Schwartz - trashes Copper
+David Schwartz - plays 1 Copper
+David Schwartz - buys Smithy
+David Schwartz - gains Smithy
+David Schwartz - draws Copper, Copper
+David Schwartz - shuffles deck
+David Schwartz - draws Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Remodel
+terminalCopper - gains Remodel
+terminalCopper - draws Chapel, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate, Copper
+ 
+---------- David Schwartz: turn 5 ----------
+David Schwartz - plays 4 Copper
+David Schwartz - buys Silver
+David Schwartz - gains Silver
+David Schwartz - draws Copper, Silver, Estate, Copper, Moneylender
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Chapel
+terminalCopper - trashes Copper, Copper, Estate, Copper
+terminalCopper - draws Estate, Copper, Silver, Copper, Remodel
+ 
+---------- David Schwartz: turn 6 ----------
+David Schwartz - plays Moneylender
+David Schwartz - trashes Copper
+David Schwartz - plays 1 Copper, 1 Silver
+David Schwartz - buys Gold
+David Schwartz - gains Gold
+David Schwartz - draws Market, Estate, Smithy
+David Schwartz - shuffles deck
+David Schwartz - draws Copper, Estate
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Remodel
+terminalCopper - trashes Estate
+terminalCopper - gains Throne Room
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Remodel
+terminalCopper - gains Remodel
+terminalCopper - draws Estate, Silver, Copper, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Chapel
+ 
+---------- David Schwartz: turn 7 ----------
+David Schwartz - plays Market
+David Schwartz - draws Silver
+David Schwartz - plays Smithy
+David Schwartz - draws Estate, Copper, Copper
+David Schwartz - plays 3 Copper, 1 Silver
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - draws Copper, Gold, Silver, Moneylender, Copper
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Chapel
+terminalCopper - trashes Estate, Copper, Copper
+terminalCopper - draws Remodel, Copper, Copper, Throne Room, Remodel
+ 
+---------- David Schwartz: turn 8 ----------
+David Schwartz - plays Moneylender
+David Schwartz - trashes Copper
+David Schwartz - plays 1 Copper, 1 Gold, 1 Silver
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - shuffles deck
+David Schwartz - draws Smithy, Estate, Estate, Market, Gold
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Remodel
+terminalCopper - trashes Remodel
+terminalCopper - gains Market
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Throne Room, Silver, Market, Copper
+ 
+---------- David Schwartz: turn 9 ----------
+David Schwartz - plays Market
+David Schwartz - draws Market
+David Schwartz - plays Market
+David Schwartz - draws Copper
+David Schwartz - plays Smithy
+David Schwartz - draws Copper, Silver, Copper
+David Schwartz - plays 3 Copper, 1 Gold, 1 Silver
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - draws Silver, Market, Copper, Moneylender, Estate
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Copper
+terminalCopper - plays Market
+terminalCopper - draws Chapel
+terminalCopper - plays Chapel
+terminalCopper - trashes Copper, Copper
+terminalCopper - plays 2 Silver
+terminalCopper - buys Market
+terminalCopper - gains Market
+terminalCopper - draws Remodel
+terminalCopper - shuffles deck
+terminalCopper - draws Market, Market, Silver, Silver
+ 
+---------- David Schwartz: turn 10 ----------
+David Schwartz - plays Market
+David Schwartz - shuffles deck
+David Schwartz - draws Market
+David Schwartz - plays Market
+David Schwartz - draws Copper
+David Schwartz - plays Moneylender
+David Schwartz - trashes Copper
+David Schwartz - plays 1 Silver, 1 Copper
+David Schwartz - buys Throne Room
+David Schwartz - gains Throne Room
+David Schwartz - buys Throne Room
+David Schwartz - gains Throne Room
+David Schwartz - draws Smithy, Copper, Estate, Gold, Copper
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Chapel
+terminalCopper - plays Market
+terminalCopper - plays Remodel
+terminalCopper - trashes Chapel
+terminalCopper - gains Throne Room
+terminalCopper - plays 2 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Throne Room, Market, Remodel, Market, Silver
+ 
+---------- David Schwartz: turn 11 ----------
+David Schwartz - plays 2 Copper, 1 Gold
+David Schwartz - buys Market
+David Schwartz - gains Market
+David Schwartz - draws Market, Market, Market, Estate, Silver
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Gold
+terminalCopper - plays Market
+terminalCopper - draws Silver
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Remodel
+terminalCopper - trashes Silver
+terminalCopper - gains Market
+terminalCopper - plays Remodel
+terminalCopper - trashes Silver
+terminalCopper - gains Market
+terminalCopper - plays 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Market, Remodel, Market, Gold, Market
+ 
+---------- David Schwartz: turn 12 ----------
+David Schwartz - plays Market
+David Schwartz - shuffles deck
+David Schwartz - draws Estate
+David Schwartz - plays Market
+David Schwartz - draws Copper
+David Schwartz - plays Market
+David Schwartz - draws Smithy
+David Schwartz - plays 1 Silver, 1 Copper
+David Schwartz - buys Chapel
+David Schwartz - gains Chapel
+David Schwartz - buys Chapel
+David Schwartz - gains Chapel
+David Schwartz - draws Gold, Silver, Copper, Market, Market
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Market
+terminalCopper - draws Gold
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - plays Market
+terminalCopper - plays 2 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Market, Remodel, Market, Throne Room, Gold
+ 
+---------- David Schwartz: turn 13 ----------
+David Schwartz - plays Market
+David Schwartz - draws Moneylender
+David Schwartz - plays Market
+David Schwartz - draws Estate
+David Schwartz - plays Moneylender
+David Schwartz - trashes Copper
+David Schwartz - plays 1 Gold, 1 Silver
+David Schwartz - buys Gold
+David Schwartz - gains Gold
+David Schwartz - buys Throne Room
+David Schwartz - gains Throne Room
+David Schwartz - draws Copper, Throne Room, Throne Room, Market
+David Schwartz - shuffles deck
+David Schwartz - draws Silver
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Gold
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Gold
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - plays 2 Gold
+terminalCopper - buys Throne Room
+terminalCopper - gains Throne Room
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Gold, Market
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Throne Room, Remodel
+ 
+---------- David Schwartz: turn 14 ----------
+David Schwartz - plays Throne Room
+David Schwartz - plays Throne Room
+David Schwartz - plays Market
+David Schwartz - draws Estate
+David Schwartz - plays Market
+David Schwartz - draws Copper
+David Schwartz - plays Throne Room
+David Schwartz - plays 2 Copper, 1 Silver
+David Schwartz - buys Gold
+David Schwartz - gains Gold
+David Schwartz - draws Moneylender, Chapel, Market, Market, Smithy
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Market
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - draws Market, Throne Room, Gold, Market, Gold
+ 
+---------- David Schwartz: turn 15 ----------
+David Schwartz - plays Market
+David Schwartz - draws Market
+David Schwartz - plays Market
+David Schwartz - draws Chapel
+David Schwartz - plays Market
+David Schwartz - draws Estate
+David Schwartz - plays Chapel
+David Schwartz - trashes Estate, Chapel, Moneylender, Smithy
+David Schwartz - buys Silver
+David Schwartz - gains Silver
+David Schwartz - draws Market, Estate, Throne Room, Silver, Market
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - shuffles deck
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Remodel
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - plays 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Province, Throne Room
+terminalCopper - shuffles deck
+terminalCopper - draws Market, Throne Room, Market
+ 
+---------- David Schwartz: turn 16 ----------
+David Schwartz - plays Throne Room
+David Schwartz - plays Market
+David Schwartz - draws Gold
+David Schwartz - plays Market
+David Schwartz - draws Gold
+David Schwartz - plays Market
+David Schwartz - shuffles deck
+David Schwartz - draws Silver
+David Schwartz - plays 2 Silver, 2 Gold
+David Schwartz - buys Province
+David Schwartz - gains Province
+David Schwartz - buys Duchy
+David Schwartz - gains Duchy
+David Schwartz - draws Market, Market, Market, Throne Room, Chapel
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Throne Room
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Market
+terminalCopper - draws Remodel
+terminalCopper - plays Remodel
+terminalCopper - trashes Province
+terminalCopper - gains Province
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Province, Gold, Market, Throne Room
+terminalCopper - shuffles deck
+terminalCopper - draws Province
+ 
+---------- David Schwartz: turn 17 ----------
+David Schwartz - plays Market
+David Schwartz - draws Estate
+David Schwartz - plays Throne Room
+David Schwartz - plays Market
+David Schwartz - draws Copper
+David Schwartz - plays Market
+David Schwartz - draws Silver
+David Schwartz - plays Market
+David Schwartz - draws Gold
+David Schwartz - plays Chapel
+David Schwartz - trashes Copper, Estate
+David Schwartz - plays 1 Silver, 1 Gold
+David Schwartz - buys Duchy
+David Schwartz - gains Duchy
+David Schwartz - buys Estate
+David Schwartz - gains Estate
+David Schwartz - buys Estate
+David Schwartz - gains Estate
+David Schwartz - draws Market, Copper, Throne Room
+David Schwartz - shuffles deck
+David Schwartz - draws Estate, Market
+ 
+---------- terminalCopper: turn 17 ----------
+ 
+------------ Game Over ------------
+terminalCopper - cards: 4 Market, 3 Throne Room, 1 Remodel, 1 Gold, 5 Province, 1 Duchy
+terminalCopper - total victory points: 33
+terminalCopper - turns: 16
+ 
+David Schwartz - resigned
+David Schwartz - cards: 6 Market, 3 Throne Room, 1 Chapel, 3 Gold, 3 Silver, 1 Copper, 3 Estate, 2 Duchy, 1 Province
+David Schwartz - total victory points: 15
+David Schwartz - turns: 17
+ 
+1st place: terminalCopper
+2nd place: David Schwartz
+ 

@@ -1,0 +1,316 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Smithy, Thief, Council Room, Laboratory, Library, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+YOSHIBALL - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+YOSHIBALL - shuffles deck
+hiroki - shuffles deck
+YOSHIBALL - draws Estate, Copper, Estate, Copper, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- YOSHIBALL: turn 1 ----------
+YOSHIBALL - plays 3 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- YOSHIBALL: turn 2 ----------
+YOSHIBALL - plays 4 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- YOSHIBALL: turn 3 ----------
+YOSHIBALL - plays 4 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - draws Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Silver, Copper, Witch
+ 
+---------- YOSHIBALL: turn 4 ----------
+YOSHIBALL - plays 2 Copper, 2 Silver
+YOSHIBALL - buys Witch
+YOSHIBALL - gains Witch
+YOSHIBALL - draws Copper, Estate
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Silver, Silver
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Witch
+hiroki - draws Copper, Estate
+YOSHIBALL - gains Curse
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- YOSHIBALL: turn 5 ----------
+YOSHIBALL - plays 2 Copper, 2 Silver
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - draws Copper, Copper, Silver, Witch, Estate
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 3 Copper, 2 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Estate, Estate
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Silver
+ 
+---------- YOSHIBALL: turn 6 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Copper, Copper
+hiroki - gains Curse
+YOSHIBALL - plays 4 Copper, 1 Silver
+YOSHIBALL - buys Witch
+YOSHIBALL - gains Witch
+YOSHIBALL - draws Estate, Copper
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Estate, Silver, Copper
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays 1 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- YOSHIBALL: turn 7 ----------
+YOSHIBALL - plays 2 Copper, 1 Silver
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - draws Copper, Witch, Curse, Witch, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays 3 Copper, 2 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - draws Gold, Gold, Copper, Witch, Copper
+ 
+---------- YOSHIBALL: turn 8 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Copper, Gold
+hiroki - gains Curse
+YOSHIBALL - plays 3 Copper, 1 Gold
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - draws Copper, Silver, Estate, Silver, Copper
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Witch
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Silver
+YOSHIBALL - gains Curse
+hiroki - plays 3 Copper, 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Curse, Copper, Silver, Curse, Copper
+ 
+---------- YOSHIBALL: turn 9 ----------
+YOSHIBALL - plays 2 Copper, 2 Silver
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Copper, Estate, Gold, Silver
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Estate, Silver, Silver, Estate, Copper
+ 
+---------- YOSHIBALL: turn 10 ----------
+YOSHIBALL - plays 2 Copper, 1 Gold, 1 Silver
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - draws Silver, Curse, Estate, Copper, Copper
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Witch, Estate, Copper
+hiroki - shuffles deck
+hiroki - draws Gold, Silver
+ 
+---------- YOSHIBALL: turn 11 ----------
+YOSHIBALL - plays 2 Copper, 1 Silver
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - draws Gold, Silver, Witch, Silver, Estate
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Witch
+hiroki - draws Curse, Silver
+YOSHIBALL - gains Curse
+hiroki - plays 2 Silver, 1 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Copper, Estate, Province, Copper
+ 
+---------- YOSHIBALL: turn 12 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Curse, Gold
+hiroki - gains Curse
+YOSHIBALL - plays 2 Gold, 2 Silver
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Copper, Copper, Copper, Witch
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Silver
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Silver, Copper, Silver, Gold, Copper
+ 
+---------- YOSHIBALL: turn 13 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Estate, Province
+hiroki - gains Curse
+YOSHIBALL - plays 3 Copper, 1 Silver
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Estate, Estate, Silver, Copper, Silver
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays 2 Silver, 2 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Silver, Estate, Curse, Witch, Silver
+ 
+---------- YOSHIBALL: turn 14 ----------
+YOSHIBALL - plays 2 Silver, 1 Copper
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Curse, Silver, Gold, Copper, Witch
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Witch
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Silver
+YOSHIBALL - gains Curse
+hiroki - plays Silver
+hiroki - plays Copper
+hiroki - plays Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Copper, Copper, Gold, Silver, Gold
+ 
+---------- YOSHIBALL: turn 15 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Copper, Curse
+hiroki - gains Curse
+YOSHIBALL - plays 2 Copper, 1 Silver, 1 Gold
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - draws Gold, Curse, Silver, Gold, Copper
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays 2 Copper, 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Silver, Witch, Silver, Copper, Copper
+ 
+---------- YOSHIBALL: turn 16 ----------
+YOSHIBALL - plays 2 Gold, 1 Silver, 1 Copper
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Gold
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Silver, Gold, Gold, Witch
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Witch
+hiroki - draws Estate, Curse
+YOSHIBALL - gains Curse
+hiroki - plays 2 Silver, 2 Copper
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Curse, Province, Copper, Province
+ 
+---------- YOSHIBALL: turn 17 ----------
+YOSHIBALL - plays Witch
+YOSHIBALL - draws Copper, Silver
+YOSHIBALL - plays 3 Gold, 2 Silver, 1 Copper
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Market, Copper, Silver, Silver, Curse
+ 
+---------- hiroki: turn 18 ----------
+hiroki - draws Curse, Copper, Estate, Silver
+hiroki - shuffles deck
+hiroki - draws Curse
+ 
+---------- YOSHIBALL: turn 18 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Gold
+YOSHIBALL - plays 2 Silver, 1 Copper, 1 Gold
+YOSHIBALL - buys Duchy
+YOSHIBALL - gains Duchy
+YOSHIBALL - buys Estate
+YOSHIBALL - gains Estate
+YOSHIBALL - draws Curse, Curse, Copper, Estate, Copper
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays 1 Copper, 1 Silver
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Witch, Copper, Silver, Silver, Silver
+ 
+---------- YOSHIBALL: turn 19 ----------
+YOSHIBALL - plays 2 Copper
+YOSHIBALL - buys Estate
+YOSHIBALL - gains Estate
+YOSHIBALL - draws Market, Gold, Silver, Estate, Copper
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Witch
+hiroki - draws Copper, Gold
+hiroki - plays 3 Silver, 2 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Estate, Estate, Copper, Province, Copper
+ 
+------------ Game Over ------------
+hiroki - cards: 2 Witch, 7 Copper, 7 Silver, 2 Gold, 5 Province, 4 Estate, 2 Duchy, 5 Curse
+hiroki - total victory points: 35
+hiroki - turns: 20
+ 
+YOSHIBALL - cards: 2 Market, 2 Witch, 7 Copper, 5 Gold, 5 Silver, 5 Estate, 3 Province, 1 Duchy, 5 Curse
+YOSHIBALL - total victory points: 21
+YOSHIBALL - turns: 19
+ 
+1st place: hiroki
+2nd place: YOSHIBALL
+ 

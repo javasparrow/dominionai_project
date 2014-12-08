@@ -1,0 +1,508 @@
+------------ Game Setup ------------
+Supply cards: Woodcutter, Workshop, Feast, Militia, Remodel, Thief, Throne Room, Council Room, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Kraffsa - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kraffsa - shuffles deck
+RTT - shuffles deck
+Kraffsa - draws Copper, Copper, Copper, Estate, Copper
+RTT - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Kraffsa: turn 1 ----------
+Kraffsa - plays 4 Copper
+Kraffsa - buys Militia
+Kraffsa - gains Militia
+Kraffsa - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 4 Copper
+RTT - buys Militia
+RTT - gains Militia
+RTT - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Kraffsa: turn 2 ----------
+Kraffsa - plays 3 Copper
+Kraffsa - buys Workshop
+Kraffsa - gains Workshop
+Kraffsa - shuffles deck
+Kraffsa - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Militia, Copper, Estate, Copper, Estate
+ 
+---------- Kraffsa: turn 3 ----------
+Kraffsa - plays 4 Copper
+Kraffsa - buys Throne Room
+Kraffsa - gains Throne Room
+Kraffsa - draws Militia, Workshop, Copper, Copper, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Militia
+Kraffsa - discards Workshop
+Kraffsa - discards Copper
+RTT - plays 2 Copper
+RTT - buys Throne Room
+RTT - gains Throne Room
+RTT - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Kraffsa: turn 4 ----------
+Kraffsa - plays Militia
+RTT - discards Estate
+RTT - discards Copper
+Kraffsa - plays 2 Copper
+Kraffsa - buys Remodel
+Kraffsa - gains Remodel
+Kraffsa - draws Estate, Estate
+Kraffsa - shuffles deck
+Kraffsa - draws Copper, Copper, Estate
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Feast
+RTT - gains Feast
+RTT - draws Copper, Copper
+RTT - shuffles deck
+RTT - draws Copper, Estate, Copper
+ 
+---------- Kraffsa: turn 5 ----------
+Kraffsa - draws Copper, Remodel, Copper, Copper, Throne Room
+ 
+---------- RTT: turn 5 ----------
+RTT - plays 4 Copper
+RTT - buys Feast
+RTT - gains Feast
+RTT - draws Militia, Copper, Copper, Estate, Estate
+ 
+---------- Kraffsa: turn 6 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Remodel
+Kraffsa - trashes Copper
+Kraffsa - gains Estate
+Kraffsa - plays Remodel
+Kraffsa - trashes Copper
+Kraffsa - gains Estate
+Kraffsa - draws Copper, Copper, Militia, Workshop
+Kraffsa - shuffles deck
+Kraffsa - draws Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Militia
+Kraffsa - discards Workshop
+Kraffsa - discards Copper
+RTT - plays 2 Copper
+RTT - buys Throne Room
+RTT - gains Throne Room
+RTT - draws Copper, Silver, Feast, Throne Room
+RTT - shuffles deck
+RTT - draws Militia
+ 
+---------- Kraffsa: turn 7 ----------
+Kraffsa - plays Militia
+RTT - discards Militia
+RTT - discards Copper
+Kraffsa - plays 2 Copper
+Kraffsa - buys Throne Room
+Kraffsa - gains Throne Room
+Kraffsa - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Throne Room
+RTT - plays Feast
+RTT - trashes Feast
+RTT - gains Market
+RTT - plays Feast
+RTT - trashes Feast
+RTT - gains Mine
+RTT - plays 1 Silver
+RTT - draws Copper, Throne Room, Estate, Copper, Copper
+ 
+---------- Kraffsa: turn 8 ----------
+Kraffsa - draws Estate, Remodel, Throne Room, Estate
+Kraffsa - shuffles deck
+Kraffsa - draws Workshop
+ 
+---------- RTT: turn 8 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Kraffsa: turn 9 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Remodel
+Kraffsa - trashes Estate
+Kraffsa - gains Feast
+Kraffsa - plays Remodel
+Kraffsa - trashes Estate
+Kraffsa - gains Throne Room
+Kraffsa - draws Throne Room, Estate, Copper, Militia, Estate
+ 
+---------- RTT: turn 9 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Feast
+RTT - shuffles deck
+RTT - draws Copper, Estate, Silver, Throne Room
+ 
+---------- Kraffsa: turn 10 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Militia
+RTT - discards Estate
+RTT - discards Copper
+Kraffsa - plays Militia
+Kraffsa - plays 1 Copper
+Kraffsa - buys Market
+Kraffsa - gains Market
+Kraffsa - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Throne Room
+RTT - plays Feast
+RTT - trashes Feast
+RTT - gains Market
+RTT - plays Feast
+RTT - trashes Feast
+RTT - gains Council Room
+RTT - draws Throne Room, Estate, Militia, Silver, Mine
+ 
+---------- Kraffsa: turn 11 ----------
+Kraffsa - plays 4 Copper
+Kraffsa - buys Feast
+Kraffsa - gains Feast
+Kraffsa - shuffles deck
+Kraffsa - draws Remodel, Estate, Copper, Feast, Market
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Throne Room
+RTT - plays Militia
+Kraffsa - discards Copper
+Kraffsa - discards Estate
+RTT - plays Militia
+RTT - plays 1 Silver
+RTT - buys Market
+RTT - gains Market
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Kraffsa: turn 12 ----------
+Kraffsa - plays Market
+Kraffsa - draws Feast
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Market
+Kraffsa - draws Copper, Workshop, Throne Room, Militia, Copper
+ 
+---------- RTT: turn 12 ----------
+RTT - plays 4 Copper
+RTT - buys Throne Room
+RTT - gains Throne Room
+RTT - draws Copper, Silver, Market, Copper
+RTT - shuffles deck
+RTT - draws Throne Room
+ 
+---------- Kraffsa: turn 13 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Workshop
+Kraffsa - gains Throne Room
+Kraffsa - plays Workshop
+Kraffsa - gains Throne Room
+Kraffsa - plays 2 Copper
+Kraffsa - draws Throne Room, Copper, Copper, Throne Room, Estate
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Throne Room
+RTT - plays Market
+RTT - draws Throne Room
+RTT - plays Market
+RTT - draws Silver
+RTT - plays 2 Copper, 2 Silver
+RTT - buys Throne Room
+RTT - gains Throne Room
+RTT - buys Throne Room
+RTT - gains Throne Room
+RTT - draws Militia, Copper, Market, Council Room, Estate
+ 
+---------- Kraffsa: turn 14 ----------
+Kraffsa - draws Estate
+Kraffsa - shuffles deck
+Kraffsa - draws Militia, Throne Room, Throne Room, Market
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Market
+RTT - draws Estate
+RTT - plays Militia
+Kraffsa - discards Estate
+Kraffsa - discards Throne Room
+RTT - plays 1 Copper
+RTT - buys Militia
+RTT - gains Militia
+RTT - draws Mine, Throne Room, Copper, Silver, Market
+ 
+---------- Kraffsa: turn 15 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Market
+Kraffsa - draws Copper
+Kraffsa - plays Market
+Kraffsa - draws Workshop
+Kraffsa - plays Militia
+RTT - discards Copper
+RTT - discards Throne Room
+Kraffsa - plays Workshop
+Kraffsa - gains Feast
+Kraffsa - plays 1 Copper
+Kraffsa - buys Market
+Kraffsa - gains Market
+Kraffsa - draws Throne Room, Throne Room, Copper, Remodel, Estate
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Market
+RTT - draws Copper
+RTT - plays Mine
+RTT - trashes Silver
+RTT - gains Gold
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Market
+RTT - gains Market
+RTT - draws Estate, Copper, Copper
+RTT - shuffles deck
+RTT - draws Copper, Market
+ 
+---------- Kraffsa: turn 16 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Remodel
+Kraffsa - trashes Estate
+Kraffsa - gains Feast
+Kraffsa - plays Remodel
+Kraffsa - trashes Copper
+Kraffsa - gains Estate
+Kraffsa - draws Feast, Copper, Estate, Copper, Market
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Market
+RTT - draws Militia
+RTT - plays Militia
+Kraffsa - discards Copper
+Kraffsa - discards Estate
+RTT - plays 3 Copper
+RTT - buys Council Room
+RTT - gains Council Room
+RTT - draws Estate, Market, Throne Room, Copper, Copper
+ 
+---------- Kraffsa: turn 17 ----------
+Kraffsa - plays Market
+Kraffsa - draws Throne Room
+Kraffsa - plays Throne Room
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Market
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Market
+Kraffsa - draws Copper
+Kraffsa - shuffles deck
+Kraffsa - draws Throne Room, Market, Copper, Copper
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Throne Room
+RTT - plays Market
+RTT - draws Market
+RTT - plays Market
+RTT - draws Militia
+RTT - plays Market
+RTT - draws Market
+RTT - plays Market
+RTT - draws Council Room
+RTT - plays Council Room
+RTT - draws Throne Room, Silver, Mine, Throne Room
+Kraffsa - draws Workshop
+RTT - plays Throne Room
+RTT - plays Throne Room
+RTT - plays Mine
+RTT - trashes Copper
+RTT - gains Silver
+RTT - plays Mine
+RTT - trashes Copper
+RTT - gains Silver
+RTT - plays Throne Room
+RTT - plays Militia
+Kraffsa - discards Copper
+Kraffsa - discards Copper
+Kraffsa - discards Copper
+RTT - plays Militia
+RTT - plays 3 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - buys Market
+RTT - gains Market
+RTT - draws Throne Room, Gold, Copper, Silver, Estate
+ 
+---------- Kraffsa: turn 18 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Market
+Kraffsa - draws Estate
+Kraffsa - plays Market
+Kraffsa - draws Market
+Kraffsa - plays Market
+Kraffsa - draws Market
+Kraffsa - plays Market
+Kraffsa - draws Market
+Kraffsa - plays Market
+Kraffsa - draws Feast
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Council Room
+Kraffsa - plays Workshop
+Kraffsa - gains Militia
+Kraffsa - buys Remodel
+Kraffsa - gains Remodel
+Kraffsa - draws Throne Room, Market, Throne Room, Throne Room, Copper
+ 
+---------- RTT: turn 18 ----------
+RTT - plays 1 Gold, 1 Copper, 1 Silver
+RTT - buys Remodel
+RTT - gains Remodel
+RTT - draws Throne Room, Copper
+RTT - shuffles deck
+RTT - draws Throne Room, Market, Throne Room
+ 
+---------- Kraffsa: turn 19 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Throne Room
+Kraffsa - plays Throne Room
+Kraffsa - plays Market
+Kraffsa - draws Estate
+Kraffsa - plays Market
+Kraffsa - draws Militia
+Kraffsa - plays Throne Room
+Kraffsa - plays Militia
+RTT - discards Copper
+RTT - discards Throne Room
+Kraffsa - plays Militia
+Kraffsa - plays Throne Room
+Kraffsa - plays 1 Copper
+Kraffsa - buys Gold
+Kraffsa - gains Gold
+Kraffsa - draws Throne Room, Remodel, Estate, Feast
+Kraffsa - shuffles deck
+Kraffsa - draws Militia
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Throne Room
+RTT - plays Throne Room
+RTT - plays Market
+RTT - draws Militia
+RTT - plays Market
+RTT - draws Estate
+RTT - plays Throne Room
+RTT - plays Militia
+Kraffsa - discards Militia
+Kraffsa - discards Estate
+RTT - plays Militia
+RTT - buys Feast
+RTT - gains Feast
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Market, Estate, Throne Room, Copper, Mine
+ 
+---------- Kraffsa: turn 20 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Council Room
+Kraffsa - plays Feast
+Kraffsa - trashes Feast
+Kraffsa - gains Council Room
+Kraffsa - draws Workshop, Copper, Council Room, Estate, Copper
+ 
+---------- RTT: turn 20 ----------
+RTT - plays Throne Room
+RTT - plays Market
+RTT - draws Silver
+RTT - plays Market
+RTT - draws Gold
+RTT - plays Mine
+RTT - trashes Silver
+RTT - gains Gold
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper, Province, Militia, Council Room, Remodel
+ 
+---------- Kraffsa: turn 21 ----------
+Kraffsa - plays Council Room
+Kraffsa - draws Gold, Market, Militia, Throne Room
+RTT - draws Market
+Kraffsa - plays 2 Copper, 1 Gold
+Kraffsa - buys Council Room
+Kraffsa - gains Council Room
+Kraffsa - draws Market, Market, Market, Throne Room, Copper
+ 
+---------- RTT: turn 21 ----------
+RTT - plays Market
+RTT - draws Copper
+RTT - plays Militia
+Kraffsa - discards Copper
+Kraffsa - discards Market
+RTT - plays 2 Copper
+RTT - buys Feast
+RTT - gains Feast
+RTT - draws Market, Market, Estate, Silver, Silver
+ 
+---------- Kraffsa: turn 22 ----------
+Kraffsa - plays Throne Room
+Kraffsa - plays Market
+Kraffsa - draws Copper
+Kraffsa - plays Market
+Kraffsa - draws Market
+Kraffsa - plays Market
+Kraffsa - draws Throne Room
+Kraffsa - plays Throne Room
+Kraffsa - plays Market
+Kraffsa - draws Remodel
+Kraffsa - plays Market
+Kraffsa - draws Throne Room
+Kraffsa - plays Remodel
+Kraffsa - trashes Throne Room
+Kraffsa - gains Gold
+Kraffsa - plays 1 Copper
+Kraffsa - buys Gold
+Kraffsa - gains Gold
+Kraffsa - draws Estate
+Kraffsa - shuffles deck
+Kraffsa - draws Council Room, Gold, Throne Room, Remodel
+ 
+---------- RTT: turn 22 ----------
+RTT - plays Market
+RTT - draws Council Room
+RTT - plays Market
+RTT - draws Silver
+RTT - plays Council Room
+RTT - draws Throne Room, Copper
+RTT - shuffles deck
+RTT - draws Copper, Feast
+Kraffsa - draws Throne Room
+RTT - plays 3 Silver, 2 Copper
+RTT - buys Feast
+RTT - gains Feast
+RTT - buys Feast
+RTT - gains Feast
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Copper, Militia, Throne Room, Mine, Copper
+ 
+------------ Game Over ------------
+RTT - cards: 5 Market, 5 Throne Room, 4 Feast, 2 Militia, 2 Council Room, 1 Mine, 1 Remodel, 5 Copper, 3 Silver, 2 Gold, 5 Estate, 2 Province
+RTT - total victory points: 17
+RTT - turns: 22
+ 
+Kraffsa - cards: 5 Market, 4 Council Room, 4 Throne Room, 2 Remodel, 2 Militia, 1 Workshop, 4 Copper, 3 Gold, 3 Estate
+Kraffsa - total victory points: 3
+Kraffsa - turns: 22
+ 
+1st place: RTT
+2nd place: Kraffsa
+ 

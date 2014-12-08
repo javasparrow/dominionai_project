@@ -1,0 +1,296 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Feast, Gardens, Moneylender, Smithy, Council Room, Library, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+Snowdrop - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Snowdrop - shuffles deck
+terminalCopper - shuffles deck
+Snowdrop - draws Estate, Copper, Copper, Copper, Estate
+terminalCopper - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Snowdrop: turn 1 ----------
+Snowdrop - plays 3 Copper
+Snowdrop - buys Village
+Snowdrop - gains Village
+Snowdrop - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Snowdrop: turn 2 ----------
+Snowdrop - plays 4 Copper
+Snowdrop - buys Moneylender
+Snowdrop - gains Moneylender
+Snowdrop - shuffles deck
+Snowdrop - draws Copper, Village, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Snowdrop: turn 3 ----------
+Snowdrop - plays Village
+Snowdrop - draws Estate
+Snowdrop - plays 3 Copper
+Snowdrop - buys Silver
+Snowdrop - gains Silver
+Snowdrop - draws Copper, Copper, Moneylender, Copper, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Snowdrop: turn 4 ----------
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 3 Copper
+Snowdrop - buys Gold
+Snowdrop - gains Gold
+Snowdrop - draws Estate
+Snowdrop - shuffles deck
+Snowdrop - draws Estate, Copper, Silver, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 4 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate, Silver
+ 
+---------- Snowdrop: turn 5 ----------
+Snowdrop - plays 2 Copper, 1 Silver
+Snowdrop - buys Smithy
+Snowdrop - gains Smithy
+Snowdrop - draws Copper, Gold, Copper, Village, Copper
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays 2 Silver, 1 Copper
+terminalCopper - buys Library
+terminalCopper - gains Library
+terminalCopper - draws Silver, Copper, Copper, Gold, Estate
+ 
+---------- Snowdrop: turn 6 ----------
+Snowdrop - plays Village
+Snowdrop - draws Estate
+Snowdrop - plays 3 Copper, 1 Gold
+Snowdrop - buys Gold
+Snowdrop - gains Gold
+Snowdrop - draws Moneylender, Copper
+Snowdrop - shuffles deck
+Snowdrop - draws Smithy, Silver, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays 2 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Copper, Copper, Copper, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate
+ 
+---------- Snowdrop: turn 7 ----------
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 1 Silver, 1 Copper
+Snowdrop - buys Gold
+Snowdrop - gains Gold
+Snowdrop - draws Estate, Gold, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Silver, Copper, Silver, Gold
+ 
+---------- Snowdrop: turn 8 ----------
+Snowdrop - plays 3 Copper, 1 Gold
+Snowdrop - buys Village
+Snowdrop - gains Village
+Snowdrop - draws Estate, Gold, Village, Copper, Estate
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays 2 Copper, 2 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Gold, Estate, Estate, Library, Silver
+ 
+---------- Snowdrop: turn 9 ----------
+Snowdrop - plays Village
+Snowdrop - shuffles deck
+Snowdrop - draws Moneylender
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 1 Gold
+Snowdrop - buys Gold
+Snowdrop - gains Gold
+Snowdrop - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Library
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Silver
+terminalCopper - draws Province
+terminalCopper - plays 2 Silver, 1 Gold, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Silver, Copper, Copper, Copper, Gold
+ 
+---------- Snowdrop: turn 10 ----------
+Snowdrop - plays 3 Copper, 1 Silver
+Snowdrop - buys Mine
+Snowdrop - gains Mine
+Snowdrop - draws Village, Smithy, Copper, Gold, Gold
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays 3 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- Snowdrop: turn 11 ----------
+Snowdrop - plays Village
+Snowdrop - shuffles deck
+Snowdrop - draws Copper
+Snowdrop - plays Smithy
+Snowdrop - draws Gold, Gold, Copper
+Snowdrop - plays 4 Gold, 3 Copper
+Snowdrop - buys Province
+Snowdrop - gains Province
+Snowdrop - draws Estate, Copper, Estate, Moneylender, Silver
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Library
+terminalCopper - gains Library
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Silver, Gold, Silver, Estate
+ 
+---------- Snowdrop: turn 12 ----------
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 1 Silver
+Snowdrop - buys Council Room
+Snowdrop - gains Council Room
+Snowdrop - draws Village, Estate, Mine
+Snowdrop - shuffles deck
+Snowdrop - draws Village, Council Room
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays 2 Silver, 1 Copper, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Library, Estate, Copper, Copper, Library
+ 
+---------- Snowdrop: turn 13 ----------
+Snowdrop - plays Village
+Snowdrop - draws Estate
+Snowdrop - plays Village
+Snowdrop - draws Gold
+Snowdrop - plays Council Room
+Snowdrop - draws Gold, Copper, Smithy, Silver
+terminalCopper - draws Province
+Snowdrop - plays Smithy
+Snowdrop - draws Copper, Gold, Moneylender
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 3 Gold, 1 Copper, 1 Silver
+Snowdrop - buys Province
+Snowdrop - gains Province
+Snowdrop - buys Duchy
+Snowdrop - gains Duchy
+Snowdrop - draws Province, Estate, Copper, Gold
+Snowdrop - shuffles deck
+Snowdrop - draws Province
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Library
+terminalCopper - draws Estate
+terminalCopper - draws Copper
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Gold, Copper, Province, Copper
+ 
+---------- Snowdrop: turn 14 ----------
+Snowdrop - plays 1 Copper, 1 Gold
+Snowdrop - buys Gardens
+Snowdrop - gains Gardens
+Snowdrop - draws Village, Mine, Smithy, Village, Estate
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays 3 Copper, 1 Gold
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Province, Silver, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper
+ 
+---------- Snowdrop: turn 15 ----------
+Snowdrop - plays Village
+Snowdrop - draws Duchy
+Snowdrop - plays Village
+Snowdrop - draws Silver
+Snowdrop - plays Smithy
+Snowdrop - draws Estate, Moneylender, Council Room
+Snowdrop - plays Council Room
+Snowdrop - draws Gold, Gold, Copper, Gold
+terminalCopper - draws Province
+Snowdrop - plays Moneylender
+Snowdrop - trashes Copper
+Snowdrop - plays 3 Gold, 1 Silver
+Snowdrop - buys Province
+Snowdrop - gains Province
+Snowdrop - buys Duchy
+Snowdrop - gains Duchy
+Snowdrop - shuffles deck
+Snowdrop - draws Mine, Duchy, Gold, Council Room, Duchy
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays 2 Silver, 2 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Silver, Duchy, Copper, Copper, Library
+ 
+---------- Snowdrop: turn 16 ----------
+Snowdrop - plays Council Room
+Snowdrop - draws Gold, Copper, Gardens, Province
+terminalCopper - draws Gold
+Snowdrop - plays 2 Gold, 1 Copper
+Snowdrop - buys Gardens
+Snowdrop - gains Gardens
+Snowdrop - buys Estate
+Snowdrop - gains Estate
+Snowdrop - draws Estate, Province, Province, Smithy, Gold
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays Library
+terminalCopper - draws Estate
+terminalCopper - discards Library
+terminalCopper - draws Gold
+terminalCopper - discards Library
+terminalCopper - plays 2 Copper, 2 Gold, 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Silver, Province, Estate, Copper
+ 
+------------ Game Over ------------
+terminalCopper - cards: 2 Library, 7 Copper, 5 Silver, 2 Gold, 5 Province, 3 Estate, 2 Duchy
+terminalCopper - total victory points: 39
+terminalCopper - turns: 16
+ 
+Snowdrop - cards: 2 Village, 1 Smithy, 1 Council Room, 1 Mine, 1 Moneylender, 4 Gold, 1 Copper, 1 Silver, 4 Estate, 3 Province, 2 Gardens, 2 Duchy
+Snowdrop - total victory points: 32
+Snowdrop - turns: 16
+ 
+1st place: terminalCopper
+2nd place: Snowdrop
+ 

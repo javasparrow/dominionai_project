@@ -1,0 +1,415 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Gardens, Moneylender, Smithy, Council Room, Festival, Laboratory, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+sater - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sater - shuffles deck
+hiroki - shuffles deck
+sater - draws Estate, Copper, Estate, Copper, Copper
+hiroki - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- sater: turn 1 ----------
+sater - plays 3 Copper
+sater - buys Silver
+sater - gains Silver
+sater - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- sater: turn 2 ----------
+sater - plays 4 Copper
+sater - buys Moneylender
+sater - gains Moneylender
+sater - shuffles deck
+sater - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Silver, Smithy, Copper
+ 
+---------- sater: turn 3 ----------
+sater - plays 3 Copper
+sater - buys Village
+sater - gains Village
+sater - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Smithy
+hiroki - draws Copper, Copper, Copper
+hiroki - plays 5 Copper, 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Estate, Copper, Estate, Copper
+hiroki - shuffles deck
+hiroki - draws Smithy
+ 
+---------- sater: turn 4 ----------
+sater - plays 3 Copper, 1 Silver
+sater - buys Market
+sater - gains Market
+sater - draws Moneylender, Copper
+sater - shuffles deck
+sater - draws Estate, Copper, Estate
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Smithy
+hiroki - draws Copper, Copper, Silver
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Gold, Copper, Copper, Copper, Estate
+ 
+---------- sater: turn 5 ----------
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 1 Copper
+sater - buys Smithy
+sater - gains Smithy
+sater - draws Village, Silver, Estate, Copper, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 3 Copper, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Gold, Copper, Estate
+ 
+---------- sater: turn 6 ----------
+sater - plays Village
+sater - draws Copper
+sater - plays 3 Copper, 1 Silver
+sater - buys Market
+sater - gains Market
+sater - draws Copper, Market, Copper
+sater - shuffles deck
+sater - draws Estate, Moneylender
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 3 Copper, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Gold, Smithy, Silver, Estate
+ 
+---------- sater: turn 7 ----------
+sater - plays Market
+sater - draws Copper
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 2 Copper
+sater - buys Gold
+sater - gains Gold
+sater - draws Estate, Copper, Smithy, Silver, Market
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Smithy
+hiroki - draws Estate, Copper, Gold
+hiroki - plays 2 Copper, 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Gold, Gold, Estate
+ 
+---------- sater: turn 8 ----------
+sater - plays Market
+sater - draws Copper
+sater - plays Smithy
+sater - draws Village, Estate, Copper
+sater - plays 3 Copper, 1 Silver
+sater - buys Gold
+sater - gains Gold
+sater - shuffles deck
+sater - draws Estate, Copper, Silver, Gold, Smithy
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays 2 Copper, 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Estate, Gold, Silver, Copper, Copper
+ 
+---------- sater: turn 9 ----------
+sater - plays 1 Copper, 1 Silver, 1 Gold
+sater - buys Gold
+sater - gains Gold
+sater - draws Copper, Estate, Gold, Market, Market
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays 2 Copper, 1 Gold, 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Copper, Copper, Smithy, Estate
+ 
+---------- sater: turn 10 ----------
+sater - plays Market
+sater - draws Village
+sater - plays Market
+sater - draws Moneylender
+sater - plays Village
+sater - draws Copper
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 1 Copper, 1 Gold
+sater - buys Gold
+sater - gains Gold
+sater - buys Village
+sater - gains Village
+sater - draws Estate, Copper, Copper
+sater - shuffles deck
+sater - draws Smithy, Silver
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Smithy
+hiroki - draws Gold, Province
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays 4 Copper, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Province, Copper, Gold, Copper, Gold
+ 
+---------- sater: turn 11 ----------
+sater - plays Smithy
+sater - draws Gold, Estate, Village
+sater - plays 2 Copper, 1 Silver, 1 Gold
+sater - buys Gold
+sater - gains Gold
+sater - draws Gold, Copper, Market, Moneylender, Village
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays 2 Copper, 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Gold, Estate, Silver, Gold
+ 
+---------- sater: turn 12 ----------
+sater - plays Market
+sater - draws Gold
+sater - plays Village
+sater - draws Gold
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 3 Gold
+sater - buys Province
+sater - gains Province
+sater - buys Laboratory
+sater - gains Laboratory
+sater - draws Market, Estate, Copper
+sater - shuffles deck
+sater - draws Province, Gold
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays 2 Gold, 1 Copper, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Estate
+hiroki - shuffles deck
+hiroki - draws Gold, Estate, Copper, Silver
+ 
+---------- sater: turn 13 ----------
+sater - plays Market
+sater - draws Estate
+sater - plays 1 Copper, 1 Gold
+sater - buys Laboratory
+sater - gains Laboratory
+sater - draws Copper, Gold, Gold, Estate, Gold
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays 1 Gold, 1 Copper, 1 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Gold, Copper, Province, Copper, Province
+ 
+---------- sater: turn 14 ----------
+sater - plays 3 Gold, 1 Copper
+sater - buys Province
+sater - gains Province
+sater - draws Gold, Smithy, Copper, Laboratory, Village
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays 2 Copper, 1 Gold
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Gold, Province, Gold, Copper
+ 
+---------- sater: turn 15 ----------
+sater - plays Village
+sater - draws Village
+sater - plays Laboratory
+sater - draws Silver, Moneylender
+sater - plays Village
+sater - draws Market
+sater - plays Market
+sater - shuffles deck
+sater - draws Gold
+sater - plays Smithy
+sater - draws Estate, Gold, Estate
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 3 Gold, 1 Silver
+sater - buys Laboratory
+sater - gains Laboratory
+sater - buys Laboratory
+sater - gains Laboratory
+sater - draws Gold, Gold, Market, Copper, Laboratory
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays 2 Gold, 1 Copper
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Smithy, Gold, Copper, Gold, Estate
+ 
+---------- sater: turn 16 ----------
+sater - plays Market
+sater - draws Copper
+sater - plays Laboratory
+sater - draws Estate, Province
+sater - plays 2 Gold, 2 Copper
+sater - buys Festival
+sater - gains Festival
+sater - buys Smithy
+sater - gains Smithy
+sater - draws Province
+sater - shuffles deck
+sater - draws Gold, Smithy, Copper, Silver
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Smithy
+hiroki - draws Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Duchy
+hiroki - plays 3 Copper, 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Gold, Province, Copper, Province
+ 
+---------- sater: turn 17 ----------
+sater - plays 1 Gold, 1 Copper, 1 Silver
+sater - buys Gardens
+sater - gains Gardens
+sater - draws Estate, Gold, Laboratory, Province, Estate
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays 2 Copper, 1 Gold
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Duchy, Duchy, Copper, Copper, Silver
+ 
+---------- sater: turn 18 ----------
+sater - plays Laboratory
+sater - draws Village, Gold
+sater - plays Village
+sater - draws Gold
+sater - plays 3 Gold
+sater - buys Gardens
+sater - gains Gardens
+sater - draws Estate, Copper, Laboratory, Smithy, Laboratory
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Gardens
+hiroki - gains Gardens
+hiroki - draws Gold, Gold, Estate, Province, Province
+ 
+---------- sater: turn 19 ----------
+sater - plays Laboratory
+sater - draws Gold, Festival
+sater - plays Laboratory
+sater - draws Moneylender, Market
+sater - plays Festival
+sater - plays Market
+sater - draws Market
+sater - plays Market
+sater - draws Laboratory
+sater - plays Laboratory
+sater - draws Village
+sater - shuffles deck
+sater - draws Gardens
+sater - plays Village
+sater - draws Laboratory
+sater - plays Laboratory
+sater - draws Gold, Smithy
+sater - plays Smithy
+sater - draws Gold, Village, Silver
+sater - plays Smithy
+sater - draws Estate, Gardens, Copper
+sater - plays Village
+sater - draws Estate
+sater - plays Moneylender
+sater - trashes Copper
+sater - plays 3 Gold, 1 Copper, 1 Silver
+sater - buys Gardens
+sater - gains Gardens
+sater - buys Gardens
+sater - gains Gardens
+sater - buys Gardens
+sater - gains Gardens
+sater - buys Gardens
+sater - gains Gardens
+sater - draws Gold, Gold, Province, Province
+sater - shuffles deck
+sater - draws Estate
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays 2 Gold
+hiroki - buys Gardens
+hiroki - gains Gardens
+hiroki - draws Estate, Gold
+hiroki - shuffles deck
+hiroki - draws Gardens, Estate, Copper
+ 
+---------- sater: turn 20 ----------
+sater - plays 2 Gold
+sater - buys Duchy
+sater - gains Duchy
+sater - draws Gold, Gardens, Gold, Market, Village
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Gold
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Copper, Estate, Gold, Copper, Duchy
+ 
+---------- sater: turn 21 ----------
+sater - plays Market
+sater - draws Laboratory
+sater - plays Village
+sater - draws Smithy
+sater - plays Laboratory
+sater - draws Moneylender, Smithy
+sater - plays Smithy
+sater - draws Estate, Festival, Gardens
+sater - plays Festival
+sater - plays Smithy
+sater - draws Silver, Gold, Estate
+sater - plays Moneylender
+sater - plays Silver
+sater - plays Gold
+sater - plays Gold
+sater - plays Gold
+sater - buys Province
+sater - gains Province
+sater - buys Duchy
+sater - gains Duchy
+sater - buys Copper
+sater - gains Copper
+sater - draws Village, Gardens, Laboratory, Gardens, Market
+ 
+------------ Game Over ------------
+hiroki - cards: 1 Smithy, 7 Copper, 6 Gold, 1 Silver, 5 Province, 4 Estate, 4 Duchy, 2 Gardens
+hiroki - total victory points: 52
+hiroki - turns: 20
+ 
+sater - cards: 4 Laboratory, 2 Village, 2 Market, 2 Smithy, 1 Festival, 1 Moneylender, 5 Gold, 2 Copper, 1 Silver, 6 Gardens, 3 Province, 3 Estate, 2 Duchy
+sater - total victory points: 45
+sater - turns: 21
+ 
+1st place: hiroki
+2nd place: sater
+ 

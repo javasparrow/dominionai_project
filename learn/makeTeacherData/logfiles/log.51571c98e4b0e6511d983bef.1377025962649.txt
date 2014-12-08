@@ -1,0 +1,464 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Workshop, Bureaucrat, Feast, Moneylender, Spy, Thief, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+scudetto - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scudetto - shuffles deck
+terminalCopper - shuffles deck
+scudetto - draws Estate, Copper, Copper, Copper, Estate
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Moneylender
+terminalCopper - gains Moneylender
+terminalCopper - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- scudetto: turn 1 ----------
+scudetto - plays 3 Copper
+scudetto - buys Workshop
+scudetto - gains Workshop
+scudetto - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- scudetto: turn 2 ----------
+scudetto - plays 4 Copper
+scudetto - buys Moneylender
+scudetto - gains Moneylender
+scudetto - shuffles deck
+scudetto - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Market
+terminalCopper - gains Market
+terminalCopper - draws Estate, Moneylender, Copper, Copper, Estate
+ 
+---------- scudetto: turn 3 ----------
+scudetto - plays 4 Copper
+scudetto - buys Feast
+scudetto - gains Feast
+scudetto - draws Moneylender, Copper, Workshop, Copper, Estate
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Copper
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Copper, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Market
+ 
+---------- scudetto: turn 4 ----------
+scudetto - plays Moneylender
+scudetto - trashes Copper
+scudetto - plays 1 Copper
+scudetto - buys Feast
+scudetto - gains Feast
+scudetto - draws Estate, Copper
+scudetto - shuffles deck
+scudetto - draws Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Market
+terminalCopper - draws Estate
+terminalCopper - plays 4 Copper
+terminalCopper - buys Market
+terminalCopper - gains Market
+terminalCopper - draws Copper, Silver, Moneylender, Copper, Cellar
+ 
+---------- scudetto: turn 5 ----------
+scudetto - plays 4 Copper
+scudetto - buys Spy
+scudetto - gains Spy
+scudetto - draws Copper, Estate, Estate, Moneylender, Feast
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Estate
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate, Copper
+ 
+---------- scudetto: turn 6 ----------
+scudetto - plays Feast
+scudetto - trashes Feast
+scudetto - gains Market
+scudetto - draws Copper, Feast, Workshop
+scudetto - shuffles deck
+scudetto - draws Copper, Moneylender
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays 2 Copper
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Copper, Cellar, Gold, Copper, Copper
+ 
+---------- scudetto: turn 7 ----------
+scudetto - plays Feast
+scudetto - trashes Feast
+scudetto - gains Market
+scudetto - plays 2 Copper
+scudetto - buys Cellar
+scudetto - gains Cellar
+scudetto - draws Copper, Spy, Estate, Estate, Estate
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Copper
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Moneylender
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Copper, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Copper, Copper, Market
+ 
+---------- scudetto: turn 8 ----------
+scudetto - plays Spy
+scudetto - draws Copper
+scudetto - discards Copper
+terminalCopper - places Province on top of deck
+scudetto - plays 2 Copper
+scudetto - buys Moat
+scudetto - gains Moat
+scudetto - draws Copper, Market
+scudetto - shuffles deck
+scudetto - draws Estate, Copper, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays 2 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Cellar, Copper, Estate, Copper, Estate
+ 
+---------- scudetto: turn 9 ----------
+scudetto - plays Market
+scudetto - draws Copper
+scudetto - plays 4 Copper
+scudetto - buys Market
+scudetto - gains Market
+scudetto - draws Moneylender, Spy, Cellar, Copper, Moat
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+terminalCopper - discards Estate
+terminalCopper - draws Moneylender, Market, Estate
+terminalCopper - plays Market
+terminalCopper - draws Cellar
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - buys Feast
+terminalCopper - gains Feast
+terminalCopper - shuffles deck
+terminalCopper - draws Market, Copper, Moneylender, Cellar, Estate
+ 
+---------- scudetto: turn 10 ----------
+scudetto - plays Spy
+scudetto - draws Copper
+scudetto - places Market on top of deck
+terminalCopper - places Estate on top of deck
+scudetto - plays Cellar
+scudetto - discards Moat
+scudetto - discards Copper
+scudetto - draws Market, Estate
+scudetto - plays Market
+scudetto - draws Workshop
+scudetto - plays Moneylender
+scudetto - trashes Copper
+scudetto - buys Feast
+scudetto - gains Feast
+scudetto - draws Estate
+scudetto - shuffles deck
+scudetto - draws Workshop, Moneylender, Moat, Copper
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Market
+terminalCopper - draws Estate
+terminalCopper - plays Cellar
+terminalCopper - discards Estate
+terminalCopper - discards Estate
+terminalCopper - draws Silver, Estate
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Province, Copper, Province, Market, Cellar
+ 
+---------- scudetto: turn 11 ----------
+scudetto - plays Moneylender
+scudetto - trashes Copper
+scudetto - buys Silver
+scudetto - gains Silver
+scudetto - draws Estate, Spy, Copper, Market, Cellar
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Market
+terminalCopper - draws Gold
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Province
+terminalCopper - draws Copper, Feast
+terminalCopper - plays Feast
+terminalCopper - trashes Feast
+terminalCopper - gains Market
+terminalCopper - plays 2 Copper, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Moneylender, Market, Market, Gold
+ 
+---------- scudetto: turn 12 ----------
+scudetto - plays Spy
+scudetto - draws Feast
+scudetto - discards Estate
+terminalCopper - discards Gold
+scudetto - plays Cellar
+scudetto - discards Estate
+scudetto - draws Copper
+scudetto - plays Market
+scudetto - draws Copper
+scudetto - plays Feast
+scudetto - trashes Feast
+scudetto - gains Market
+scudetto - plays 3 Copper
+scudetto - buys Feast
+scudetto - gains Feast
+scudetto - draws Market, Market, Copper
+scudetto - shuffles deck
+scudetto - draws Spy, Estate
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Cellar
+terminalCopper - plays Market
+terminalCopper - draws Estate
+terminalCopper - plays Cellar
+terminalCopper - discards Estate
+terminalCopper - discards Estate
+terminalCopper - draws Copper, Province
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Copper
+terminalCopper - gains Copper
+terminalCopper - draws Copper, Province, Cellar, Gold, Silver
+ 
+---------- scudetto: turn 13 ----------
+scudetto - plays Spy
+scudetto - draws Copper
+scudetto - discards Copper
+terminalCopper - places Estate on top of deck
+scudetto - plays Market
+scudetto - draws Estate
+scudetto - plays Market
+scudetto - draws Cellar
+scudetto - plays Cellar
+scudetto - discards Estate
+scudetto - discards Estate
+scudetto - draws Market, Estate
+scudetto - plays Market
+scudetto - draws Feast
+scudetto - plays Feast
+scudetto - trashes Feast
+scudetto - gains Market
+scudetto - plays 2 Copper
+scudetto - buys Market
+scudetto - gains Market
+scudetto - draws Moneylender, Moat, Market, Copper, Workshop
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Copper
+terminalCopper - discards Province
+terminalCopper - draws Estate
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+terminalCopper - plays 1 Gold, 1 Silver, 1 Copper
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Market, Copper, Market, Gold, Province
+ 
+---------- scudetto: turn 14 ----------
+scudetto - plays Market
+scudetto - draws Silver
+scudetto - plays Moneylender
+scudetto - trashes Copper
+scudetto - plays 1 Silver
+scudetto - buys Gold
+scudetto - gains Gold
+scudetto - shuffles deck
+scudetto - draws Estate, Market, Copper, Gold, Market
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Market
+terminalCopper - draws Cellar
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Province
+terminalCopper - draws Market, Moneylender
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Copper
+terminalCopper - gains Copper
+terminalCopper - draws Estate, Estate, Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Estate
+ 
+---------- scudetto: turn 15 ----------
+scudetto - plays Market
+scudetto - draws Moat
+scudetto - plays Market
+scudetto - draws Silver
+scudetto - plays Moat
+scudetto - draws Cellar, Estate
+scudetto - plays 1 Copper, 1 Gold, 1 Silver
+scudetto - buys Gold
+scudetto - gains Gold
+scudetto - buys Cellar
+scudetto - gains Cellar
+scudetto - draws Copper, Estate, Market, Market, Workshop
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays 2 Gold
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Moneylender, Province, Copper, Province, Market
+ 
+---------- scudetto: turn 16 ----------
+scudetto - plays Market
+scudetto - draws Market
+scudetto - plays Market
+scudetto - draws Market
+scudetto - plays Market
+scudetto - draws Moneylender
+scudetto - plays Market
+scudetto - draws Spy
+scudetto - plays Spy
+scudetto - draws Copper
+scudetto - shuffles deck
+scudetto - discards Cellar
+terminalCopper - places Market on top of deck
+scudetto - plays Moneylender
+scudetto - trashes Copper
+scudetto - plays 1 Copper
+scudetto - buys Province
+scudetto - gains Province
+scudetto - draws Estate, Copper, Gold, Silver, Moat
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays Market
+terminalCopper - draws Market
+terminalCopper - plays Market
+terminalCopper - draws Silver
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Silver
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - buys Copper
+terminalCopper - gains Copper
+terminalCopper - draws Gold, Gold, Copper, Market, Province
+ 
+---------- scudetto: turn 17 ----------
+scudetto - plays Moat
+scudetto - draws Gold, Market
+scudetto - plays 2 Gold, 1 Copper, 1 Silver
+scudetto - buys Province
+scudetto - gains Province
+scudetto - draws Market, Cellar, Estate
+scudetto - shuffles deck
+scudetto - draws Market, Province
+ 
+---------- terminalCopper: turn 18 ----------
+terminalCopper - plays Market
+terminalCopper - draws Province
+terminalCopper - plays 2 Gold, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Cellar, Cellar
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Gold, Province
+ 
+---------- scudetto: turn 18 ----------
+scudetto - plays Market
+scudetto - draws Moat
+scudetto - plays Market
+scudetto - draws Market
+scudetto - plays Market
+scudetto - draws Gold
+scudetto - plays Cellar
+scudetto - discards Estate
+scudetto - discards Province
+scudetto - draws Moneylender, Market
+scudetto - plays Market
+scudetto - draws Market
+scudetto - plays Market
+scudetto - draws Market
+scudetto - plays Market
+scudetto - draws Silver
+scudetto - plays Moat
+scudetto - draws Estate, Province
+scudetto - plays 1 Gold, 1 Silver
+scudetto - buys Duchy
+scudetto - gains Duchy
+scudetto - buys Duchy
+scudetto - gains Duchy
+scudetto - draws Cellar, Workshop, Copper, Estate, Spy
+ 
+---------- terminalCopper: turn 19 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Cellar
+terminalCopper - draws Province, Gold
+terminalCopper - plays 2 Gold, 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Market, Market, Copper, Gold, Moneylender
+ 
+------------ Game Over ------------
+terminalCopper - cards: 3 Market, 3 Cellar, 1 Moneylender, 4 Gold, 2 Copper, 1 Silver, 6 Province, 3 Estate, 2 Duchy
+terminalCopper - total victory points: 45
+terminalCopper - turns: 19
+ 
+scudetto - cards: 6 Market, 2 Cellar, 1 Workshop, 1 Spy, 1 Moat, 1 Moneylender, 2 Copper, 2 Gold, 1 Silver, 3 Estate, 2 Province, 2 Duchy
+scudetto - total victory points: 21
+scudetto - turns: 18
+ 
+1st place: terminalCopper
+2nd place: scudetto
+ 

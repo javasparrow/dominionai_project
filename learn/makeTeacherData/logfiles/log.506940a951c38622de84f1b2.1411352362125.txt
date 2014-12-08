@@ -1,0 +1,437 @@
+------------ Game Setup ------------
+Supply cards: Gardens, Moneylender, Smithy, Thief, Throne Room, Council Room, Festival, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - shuffles deck
+Java Sparrow - shuffles deck
+hiroki - draws Copper, Copper, Estate, Estate, Copper
+Java Sparrow - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Copper, Estate, Silver
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Smithy
+Java Sparrow - gains Smithy
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Smithy, Copper, Copper, Estate
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Silver
+hiroki - plays Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Smithy, Copper, Copper, Copper, Estate
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays Smithy
+Java Sparrow - draws Copper, Copper, Estate
+Java Sparrow - plays 5 Copper
+Java Sparrow - buys Witch
+Java Sparrow - gains Witch
+Java Sparrow - draws Copper, Copper, Estate, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Smithy
+hiroki - draws Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays 6 Copper
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Estate, Silver, Estate, Silver, Copper
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays Silver
+Java Sparrow - plays Copper
+Java Sparrow - plays Copper
+Java Sparrow - plays Copper
+Java Sparrow - buys Festival
+Java Sparrow - gains Festival
+Java Sparrow - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - shuffles deck
+hiroki - draws Gold, Copper, Silver, Copper, Estate
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays Copper
+Java Sparrow - plays Copper
+Java Sparrow - plays Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Smithy, Witch
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Copper
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Silver
+hiroki - plays Copper
+hiroki - plays Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Smithy, Estate, Witch, Copper
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Estate, Estate
+hiroki - gains Curse
+Java Sparrow - plays Silver
+Java Sparrow - plays Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Festival, Silver, Estate, Copper, Copper
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Witch
+hiroki - draws Copper, Copper
+Java Sparrow - gains Curse
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Estate, Silver, Copper
+hiroki - shuffles deck
+hiroki - draws Curse, Gold
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Silver
+Java Sparrow - plays Copper
+Java Sparrow - plays Copper
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper, Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Curse, Silver
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays 1 Silver, 1 Copper, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Copper, Copper, Gold, Smithy, Copper
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Festival
+Java Sparrow - gains Festival
+Java Sparrow - draws Copper, Copper, Witch, Silver, Festival
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Smithy
+hiroki - draws Estate, Estate, Copper
+hiroki - plays 4 Copper, 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Silver, Witch, Copper, Silver, Copper
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Silver
+hiroki - gains Curse
+Java Sparrow - plays 3 Copper, 2 Silver
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Gold, Estate, Smithy, Estate, Estate
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Witch
+hiroki - shuffles deck
+hiroki - draws Copper, Copper
+Java Sparrow - gains Curse
+hiroki - plays 4 Copper, 2 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Gold, Estate, Estate, Smithy, Copper
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays Smithy
+Java Sparrow - draws Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper
+Java Sparrow - plays 3 Copper, 1 Gold
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper, Silver, Witch, Copper, Curse
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Smithy
+hiroki - draws Gold, Copper, Curse
+hiroki - plays 2 Gold, 2 Copper
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Silver, Curse, Gold, Estate, Gold
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Festival, Copper
+hiroki - gains Curse
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Festival
+Java Sparrow - gains Festival
+Java Sparrow - draws Copper, Festival, Silver, Province, Curse
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays 2 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Gold, Silver, Silver, Province
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays 1 Copper, 1 Silver
+Java Sparrow - buys Festival
+Java Sparrow - gains Festival
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Silver, Festival, Smithy
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays 2 Silver, 1 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Estate, Province, Silver, Copper, Copper
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Smithy
+Java Sparrow - draws Province, Estate, Copper
+Java Sparrow - plays 2 Silver, 2 Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - draws Festival, Copper, Curse, Estate, Copper
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Gardens
+hiroki - gains Gardens
+hiroki - draws Copper, Witch, Gold, Estate, Copper
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Witch, Curse, Gold, Estate
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Witch
+hiroki - draws Gold, Curse
+Java Sparrow - gains Curse
+hiroki - plays 2 Copper, 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Curse, Curse, Smithy, Estate
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Silver, Festival
+hiroki - gains Curse
+Java Sparrow - plays Gold
+Java Sparrow - plays Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - draws Copper, Festival, Copper, Copper, Gold
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Smithy
+hiroki - draws Gold, Copper, Province
+hiroki - plays 2 Copper, 1 Gold
+hiroki - buys Gardens
+hiroki - gains Gardens
+hiroki - shuffles deck
+hiroki - draws Gardens, Copper, Copper, Gold, Silver
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays 3 Copper, 1 Gold
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Gardens, Estate, Estate, Curse
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays 2 Copper, 1 Gold, 1 Silver
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Estate, Province, Gold, Province, Copper
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Gardens, Province, Witch, Copper, Silver
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays 1 Gold, 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Province, Copper, Copper, Silver, Curse
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Copper
+hiroki - gains Curse
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Gardens, Festival, Copper, Curse, Gold
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Gold, Gardens, Estate, Curse, Copper
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Gold
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Gardens, Gold, Curse, Festival, Gardens
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays 1 Gold, 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Province, Smithy, Silver, Gold, Estate
+ 
+---------- Java Sparrow: turn 20 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Gold
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver, Festival, Smithy, Estate, Festival
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Smithy
+hiroki - draws Curse, Witch, Copper
+hiroki - plays 1 Silver, 1 Gold, 1 Copper
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Curse, Province
+hiroki - shuffles deck
+hiroki - draws Smithy, Estate, Province
+ 
+---------- Java Sparrow: turn 21 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Festival
+Java Sparrow - plays Smithy
+Java Sparrow - draws Copper, Copper, Copper
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Copper, Gardens, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Duchy, Gardens
+ 
+---------- hiroki: turn 22 ----------
+hiroki - plays Smithy
+hiroki - draws Gardens, Silver, Gardens
+hiroki - plays 1 Silver
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Gold, Witch, Curse, Gold, Province
+ 
+---------- Java Sparrow: turn 22 ----------
+Java Sparrow - plays Silver
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Festival, Festival, Gardens, Estate, Gardens
+ 
+---------- hiroki: turn 23 ----------
+hiroki - plays Witch
+hiroki - draws Silver, Copper
+Java Sparrow - gains Curse
+hiroki - plays 2 Gold, 1 Silver, 1 Copper
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Copper, Duchy, Gold, Copper, Copper
+ 
+---------- Java Sparrow: turn 23 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Festival
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver, Duchy, Festival, Copper, Festival
+ 
+---------- hiroki: turn 24 ----------
+hiroki - plays 3 Copper, 1 Gold
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Province, Copper, Estate, Province, Gold
+ 
+---------- Java Sparrow: turn 24 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Festival
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Gold, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 25 ----------
+hiroki - plays Gold
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - draws Duchy, Silver, Copper, Estate, Silver
+ 
+------------ Game Over ------------
+Java Sparrow - cards: 4 Festival, 14 Copper, 1 Witch, 1 Smithy, 3 Silver, 2 Gold, 9 Estate, 6 Gardens, 5 Duchy, 1 Province, 4 Curse
+Java Sparrow - total victory points: 56
+Java Sparrow - turns: 24
+ 
+hiroki - cards: 1 Smithy, 1 Witch, 7 Copper, 6 Silver, 4 Gold, 6 Province, 5 Estate, 3 Duchy, 2 Gardens, 5 Curse
+hiroki - total victory points: 53
+hiroki - turns: 25
+ 
+1st place: Java Sparrow
+2nd place: hiroki
+ 

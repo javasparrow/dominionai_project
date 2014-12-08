@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Village, Militia, Remodel, Smithy, Thief, Festival, Library, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+qusi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qusi - shuffles deck
+fap_on_it - shuffles deck
+qusi - draws Copper, Estate, Copper, Copper, Estate
+fap_on_it - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- qusi: turn 1 ----------
+qusi - plays 3 Copper
+qusi - buys Silver
+qusi - gains Silver
+qusi - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- qusi: turn 2 ----------
+qusi - plays 4 Copper
+qusi - buys Militia
+qusi - gains Militia
+qusi - shuffles deck
+qusi - draws Copper, Copper, Militia, Copper, Estate
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- qusi: turn 3 ----------
+qusi - plays Militia
+fap_on_it - discards Estate
+fap_on_it - discards Copper
+qusi - plays 3 Copper
+qusi - buys Festival
+qusi - gains Festival
+qusi - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Village
+fap_on_it - gains Village
+fap_on_it - draws Copper, Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Estate, Copper
+ 
+---------- qusi: turn 4 ----------
+qusi - plays 3 Copper, 1 Silver
+qusi - buys Witch
+qusi - gains Witch
+qusi - draws Estate, Copper
+qusi - shuffles deck
+qusi - draws Festival, Copper, Copper
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Village, Copper, Silver, Copper, Copper
+ 
+---------- qusi: turn 5 ----------
+qusi - plays Festival
+qusi - plays 3 Copper
+qusi - buys Festival
+qusi - gains Festival
+qusi - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays Village
+fap_on_it - draws Silver
+fap_on_it - plays 3 Copper, 2 Silver
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Estate, Estate, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Witch, Copper
+ 
+---------- qusi: turn 6 ----------
+qusi - plays 3 Copper, 1 Silver
+qusi - buys Witch
+qusi - gains Witch
+qusi - draws Militia, Witch, Estate, Copper
+qusi - shuffles deck
+qusi - draws Festival
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Silver, Copper
+qusi - gains Curse
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Festival
+fap_on_it - gains Festival
+fap_on_it - draws Copper, Village, Silver, Copper, Witch
+ 
+---------- qusi: turn 7 ----------
+qusi - plays Festival
+qusi - plays Witch
+qusi - draws Witch, Copper
+fap_on_it - gains Curse
+qusi - plays Witch
+qusi - draws Copper, Copper
+fap_on_it - gains Curse
+qusi - plays 4 Copper
+qusi - buys Festival
+qusi - gains Festival
+qusi - draws Festival, Estate, Estate, Copper, Copper
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays Village
+fap_on_it - draws Estate
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Copper
+qusi - gains Curse
+fap_on_it - plays 4 Copper, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Gold, Estate, Copper, Village
+ 
+---------- qusi: turn 8 ----------
+qusi - plays Festival
+qusi - plays 2 Copper
+qusi - buys Remodel
+qusi - gains Remodel
+qusi - draws Silver, Copper
+qusi - shuffles deck
+qusi - draws Curse, Estate, Copper
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays Village
+fap_on_it - draws Copper
+fap_on_it - plays 2 Copper, 1 Silver, 1 Gold
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Festival, Silver, Estate, Copper, Curse
+ 
+---------- qusi: turn 9 ----------
+qusi - plays 2 Copper, 1 Silver
+qusi - buys Village
+qusi - gains Village
+qusi - draws Witch, Remodel, Estate, Copper, Copper
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays Festival
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Library
+fap_on_it - gains Library
+fap_on_it - draws Copper, Copper, Silver, Witch, Witch
+ 
+---------- qusi: turn 10 ----------
+qusi - plays Witch
+qusi - draws Copper, Militia
+fap_on_it - gains Curse
+qusi - plays 3 Copper
+qusi - buys Silver
+qusi - gains Silver
+qusi - draws Witch, Copper, Estate, Curse, Copper
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Curse, Estate
+qusi - gains Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Copper, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Festival, Witch, Estate
+ 
+---------- qusi: turn 11 ----------
+qusi - plays Witch
+qusi - draws Festival, Festival
+fap_on_it - gains Curse
+qusi - draws Festival
+qusi - shuffles deck
+qusi - draws Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Witch
+fap_on_it - draws Estate, Gold
+qusi - gains Curse
+fap_on_it - plays 2 Copper, 1 Gold
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Estate, Copper, Gold, Silver, Silver
+ 
+---------- qusi: turn 12 ----------
+qusi - plays Festival
+qusi - plays 4 Copper
+qusi - buys Gold
+qusi - gains Gold
+qusi - draws Curse, Copper, Festival, Silver, Curse
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - plays 2 Silver, 1 Copper, 1 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Witch, Library, Copper, Curse, Silver
+ 
+---------- qusi: turn 13 ----------
+qusi - plays Festival
+qusi - plays 1 Copper, 1 Silver
+qusi - buys Festival
+qusi - gains Festival
+qusi - draws Militia, Copper, Estate, Witch, Silver
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Village, Copper
+qusi - gains Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Remodel
+fap_on_it - gains Remodel
+fap_on_it - draws Curse, Curse, Silver, Copper, Copper
+ 
+---------- qusi: turn 14 ----------
+qusi - plays Witch
+qusi - draws Estate, Festival
+fap_on_it - gains Curse
+qusi - plays 1 Copper, 1 Silver
+qusi - buys Village
+qusi - gains Village
+qusi - draws Copper, Remodel, Estate, Curse, Village
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Remodel
+fap_on_it - gains Remodel
+fap_on_it - shuffles deck
+fap_on_it - draws Curse, Silver, Estate, Remodel, Copper
+ 
+---------- qusi: turn 15 ----------
+qusi - plays Village
+qusi - draws Witch
+qusi - plays Witch
+qusi - shuffles deck
+qusi - draws Festival, Silver
+qusi - plays Festival
+qusi - plays Remodel
+qusi - trashes Estate
+qusi - gains Thief
+qusi - plays 1 Copper, 1 Silver
+qusi - buys Library
+qusi - gains Library
+qusi - draws Copper, Copper, Copper, Copper, Witch
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Curse
+fap_on_it - gains Estate
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Village
+fap_on_it - gains Village
+fap_on_it - draws Curse, Silver, Curse, Gold, Witch
+ 
+---------- qusi: turn 16 ----------
+qusi - plays Witch
+qusi - draws Estate, Gold
+qusi - plays 4 Copper, 1 Gold
+qusi - buys Gold
+qusi - gains Gold
+qusi - draws Silver, Village, Estate, Festival, Copper
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Estate, Estate
+fap_on_it - plays 1 Silver, 1 Gold
+fap_on_it - buys Festival
+fap_on_it - gains Festival
+fap_on_it - draws Copper, Copper, Remodel, Copper, Copper
+ 
+---------- qusi: turn 17 ----------
+qusi - plays Village
+qusi - draws Curse
+qusi - plays Festival
+qusi - plays 1 Silver, 1 Copper
+qusi - buys Market
+qusi - gains Market
+qusi - draws Curse, Festival, Militia, Curse, Copper
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Copper
+fap_on_it - gains Estate
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Gold, Witch, Curse, Copper, Province
+ 
+---------- qusi: turn 18 ----------
+qusi - plays Festival
+qusi - plays Militia
+fap_on_it - discards Curse
+fap_on_it - discards Province
+qusi - plays 1 Copper
+qusi - buys Market
+qusi - gains Market
+qusi - draws Curse, Festival
+qusi - shuffles deck
+qusi - draws Copper, Silver, Silver
+ 
+---------- fap_on_it: turn 19 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Curse, Gold
+fap_on_it - plays 2 Gold, 1 Copper
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Silver, Library, Village, Festival, Silver
+ 
+---------- qusi: turn 19 ----------
+qusi - plays Festival
+qusi - plays 2 Silver, 1 Copper
+qusi - buys Gold
+qusi - gains Gold
+qusi - draws Village, Curse, Festival, Gold, Witch
+ 
+---------- fap_on_it: turn 20 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Village
+fap_on_it - draws Copper
+fap_on_it - plays Library
+fap_on_it - shuffles deck
+fap_on_it - draws Estate
+fap_on_it - draws Estate
+fap_on_it - draws Estate
+fap_on_it - moves Festival to hand
+fap_on_it - plays Festival
+fap_on_it - plays 2 Silver, 1 Copper
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Gold, Copper, Silver, Estate, Remodel
+ 
+---------- qusi: turn 20 ----------
+qusi - plays Festival
+qusi - plays Village
+qusi - draws Copper
+qusi - plays Witch
+qusi - draws Militia, Festival
+qusi - plays Festival
+qusi - plays Militia
+fap_on_it - discards Estate
+fap_on_it - discards Copper
+qusi - plays 1 Gold, 1 Copper
+qusi - buys Province
+qusi - gains Province
+qusi - draws Market, Curse, Witch, Gold, Copper
+ 
+---------- fap_on_it: turn 21 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Gold
+fap_on_it - gains Province
+fap_on_it - plays 1 Silver
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Remodel, Gold, Curse, Copper, Estate
+ 
+---------- qusi: turn 21 ----------
+qusi - plays Market
+qusi - draws Curse
+qusi - plays Witch
+qusi - draws Copper, Festival
+qusi - plays 2 Copper, 1 Gold
+qusi - buys Duchy
+qusi - gains Duchy
+qusi - draws Remodel, Estate, Thief, Market, Estate
+ 
+---------- fap_on_it: turn 22 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Gold
+fap_on_it - gains Province
+fap_on_it - plays 1 Copper
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Copper, Gold, Silver, Witch, Copper
+ 
+---------- qusi: turn 22 ----------
+qusi - plays Market
+qusi - draws Copper
+qusi - plays Remodel
+qusi - trashes Thief
+qusi - gains Duchy
+qusi - plays 1 Copper
+qusi - buys Estate
+qusi - gains Estate
+qusi - draws Copper, Village, Curse, Library, Copper
+ 
+---------- fap_on_it: turn 23 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Province
+fap_on_it - plays 3 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Curse, Village, Witch, Curse, Gold
+ 
+---------- qusi: turn 23 ----------
+qusi - plays Village
+qusi - shuffles deck
+qusi - draws Copper
+qusi - plays Library
+qusi - draws Estate
+qusi - draws Duchy
+qusi - moves Market to hand
+qusi - plays Market
+qusi - draws Copper
+qusi - plays 4 Copper
+qusi - buys Duchy
+qusi - gains Duchy
+qusi - draws Silver, Militia, Festival, Festival, Silver
+ 
+---------- fap_on_it: turn 24 ----------
+fap_on_it - plays Village
+fap_on_it - draws Curse
+fap_on_it - plays Witch
+fap_on_it - draws Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Remodel
+fap_on_it - plays Remodel
+fap_on_it - trashes Gold
+fap_on_it - gains Province
+fap_on_it - plays 1 Silver
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Estate, Copper, Province, Estate, Silver
+ 
+---------- qusi: turn 24 ----------
+qusi - plays Festival
+qusi - plays Festival
+qusi - plays Militia
+fap_on_it - discards Estate
+fap_on_it - discards Province
+qusi - plays 2 Silver
+qusi - buys Duchy
+qusi - gains Duchy
+qusi - buys Duchy
+qusi - gains Duchy
+qusi - draws Curse, Witch, Curse, Copper, Gold
+ 
+---------- fap_on_it: turn 25 ----------
+fap_on_it - plays 1 Copper, 1 Silver
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Library, Province, Copper, Province, Copper
+ 
+---------- qusi: turn 25 ----------
+qusi - plays Witch
+qusi - draws Curse, Festival
+qusi - plays 1 Copper, 1 Gold
+qusi - buys Estate
+qusi - gains Estate
+qusi - draws Village, Curse, Market, Gold, Copper
+ 
+---------- fap_on_it: turn 26 ----------
+fap_on_it - plays 2 Copper
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Copper, Festival, Witch, Copper, Estate
+ 
+---------- qusi: turn 26 ----------
+qusi - plays Market
+qusi - draws Festival
+qusi - plays Village
+qusi - draws Duchy
+qusi - plays Festival
+qusi - plays 1 Gold, 1 Copper
+qusi - buys Duchy
+qusi - gains Duchy
+qusi - draws Estate, Gold, Province, Copper, Witch
+ 
+---------- fap_on_it: turn 27 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Silver
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Province, Estate, Remodel, Curse, Village
+ 
+---------- qusi: turn 27 ----------
+qusi - plays Witch
+qusi - draws Remodel, Estate
+qusi - plays 1 Gold, 1 Copper
+qusi - buys Smithy
+qusi - gains Smithy
+qusi - shuffles deck
+qusi - draws Estate, Militia, Silver, Festival, Library
+ 
+---------- fap_on_it: turn 28 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Province
+fap_on_it - gains Province
+fap_on_it - draws Province, Silver, Copper, Estate, Silver
+ 
+------------ Game Over ------------
+fap_on_it - cards: 2 Village, 2 Witch, 2 Remodel, 2 Festival, 1 Library, 8 Copper, 5 Silver, 1 Gold, 9 Estate, 6 Province, 1 Duchy, 4 Curse
+fap_on_it - total victory points: 44
+fap_on_it - turns: 28
+ 
+qusi - cards: 4 Festival, 2 Village, 2 Witch, 2 Market, 1 Militia, 1 Library, 1 Smithy, 1 Remodel, 7 Copper, 3 Gold, 2 Silver, 6 Duchy, 4 Estate, 1 Province, 5 Curse
+qusi - total victory points: 23
+qusi - turns: 27
+ 
+1st place: fap_on_it
+2nd place: qusi
+ 

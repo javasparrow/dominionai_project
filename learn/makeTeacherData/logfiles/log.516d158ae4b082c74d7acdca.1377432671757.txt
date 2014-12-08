@@ -1,0 +1,405 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Bureaucrat, Gardens, Militia, Moneylender, Remodel, Council Room, Festival, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ayouk - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ayouk - shuffles deck
+terminalCopper - shuffles deck
+ayouk - draws Copper, Estate, Copper, Copper, Copper
+terminalCopper - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ayouk: turn 1 ----------
+ayouk - plays 4 Copper
+ayouk - buys Militia
+ayouk - gains Militia
+ayouk - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Militia
+terminalCopper - gains Militia
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- ayouk: turn 2 ----------
+ayouk - plays 3 Copper
+ayouk - buys Silver
+ayouk - gains Silver
+ayouk - shuffles deck
+ayouk - draws Copper, Copper, Copper, Copper, Militia
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Militia, Copper, Copper, Silver, Copper
+ 
+---------- ayouk: turn 3 ----------
+ayouk - plays Militia
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+ayouk - plays 4 Copper
+ayouk - buys Gold
+ayouk - gains Gold
+ayouk - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays Militia
+ayouk - discards Copper
+ayouk - discards Estate
+terminalCopper - plays 1 Copper, 1 Silver
+terminalCopper - buys Festival
+terminalCopper - gains Festival
+terminalCopper - draws Copper, Estate
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Silver
+ 
+---------- ayouk: turn 4 ----------
+ayouk - plays 2 Copper, 1 Silver
+ayouk - buys Moneylender
+ayouk - gains Moneylender
+ayouk - draws Estate, Estate
+ayouk - shuffles deck
+ayouk - draws Estate, Copper, Gold
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Mine
+terminalCopper - gains Mine
+terminalCopper - draws Copper, Copper, Silver, Estate, Militia
+ 
+---------- ayouk: turn 5 ----------
+ayouk - plays 1 Copper, 1 Gold
+ayouk - buys Village
+ayouk - gains Village
+ayouk - draws Moneylender, Militia, Copper, Copper, Silver
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Militia
+ayouk - discards Copper
+ayouk - discards Moneylender
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Festival, Copper, Estate, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+ 
+---------- ayouk: turn 6 ----------
+ayouk - plays Militia
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+ayouk - plays 1 Copper, 1 Silver
+ayouk - buys Festival
+ayouk - gains Festival
+ayouk - draws Copper, Copper, Copper, Copper
+ayouk - shuffles deck
+ayouk - draws Estate
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Festival
+terminalCopper - plays 2 Copper
+terminalCopper - buys Remodel
+terminalCopper - gains Remodel
+terminalCopper - draws Copper, Copper, Mine, Copper, Silver
+ 
+---------- ayouk: turn 7 ----------
+ayouk - plays 4 Copper
+ayouk - buys Remodel
+ayouk - gains Remodel
+ayouk - draws Festival, Estate, Silver, Gold, Moneylender
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Mine
+terminalCopper - trashes Silver
+terminalCopper - gains Gold
+terminalCopper - plays 3 Copper, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Copper, Militia, Estate, Estate, Silver
+ 
+---------- ayouk: turn 8 ----------
+ayouk - plays Festival
+ayouk - plays Moneylender
+ayouk - plays 1 Silver, 1 Gold
+ayouk - buys Festival
+ayouk - gains Festival
+ayouk - buys Cellar
+ayouk - gains Cellar
+ayouk - draws Copper, Estate, Copper, Village, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Militia
+ayouk - discards Estate
+ayouk - discards Copper
+terminalCopper - plays 1 Copper, 1 Silver
+terminalCopper - buys Festival
+terminalCopper - gains Festival
+terminalCopper - draws Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Copper, Festival
+ 
+---------- ayouk: turn 9 ----------
+ayouk - plays Village
+ayouk - draws Militia
+ayouk - plays Militia
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+ayouk - plays 2 Copper
+ayouk - buys Silver
+ayouk - gains Silver
+ayouk - shuffles deck
+ayouk - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Festival
+terminalCopper - plays 1 Gold, 1 Copper
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Silver, Copper, Remodel, Mine
+ 
+---------- ayouk: turn 10 ----------
+ayouk - plays 3 Copper, 1 Silver
+ayouk - buys Festival
+ayouk - gains Festival
+ayouk - draws Remodel, Militia, Estate, Copper, Copper
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Mine
+terminalCopper - trashes Silver
+terminalCopper - gains Gold
+terminalCopper - plays 1 Copper, 1 Gold
+terminalCopper - buys Remodel
+terminalCopper - gains Remodel
+terminalCopper - draws Copper, Gold, Copper, Gold, Estate
+ 
+---------- ayouk: turn 11 ----------
+ayouk - plays Remodel
+ayouk - trashes Estate
+ayouk - gains Remodel
+ayouk - plays 2 Copper
+ayouk - buys Cellar
+ayouk - gains Cellar
+ayouk - draws Cellar, Silver, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays 2 Copper, 2 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Festival, Copper, Estate, Militia
+terminalCopper - shuffles deck
+terminalCopper - draws Remodel
+ 
+---------- ayouk: turn 12 ----------
+ayouk - plays Cellar
+ayouk - discards Copper
+ayouk - discards Copper
+ayouk - discards Estate
+ayouk - draws Festival, Festival, Moneylender
+ayouk - plays Festival
+ayouk - plays Festival
+ayouk - plays 1 Silver
+ayouk - buys Gold
+ayouk - gains Gold
+ayouk - draws Gold, Village
+ayouk - shuffles deck
+ayouk - draws Copper, Remodel, Copper
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Festival
+terminalCopper - plays Militia
+ayouk - discards Copper
+ayouk - discards Copper
+terminalCopper - plays Remodel
+terminalCopper - trashes Estate
+terminalCopper - gains Remodel
+terminalCopper - plays 1 Copper
+terminalCopper - buys Council Room
+terminalCopper - gains Council Room
+terminalCopper - draws Copper, Copper, Copper, Copper, Remodel
+ 
+---------- ayouk: turn 13 ----------
+ayouk - plays Village
+ayouk - draws Militia
+ayouk - plays Militia
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+ayouk - plays Remodel
+ayouk - trashes Gold
+ayouk - gains Province
+ayouk - buys Cellar
+ayouk - gains Cellar
+ayouk - draws Gold, Copper, Copper, Estate, Cellar
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Remodel
+terminalCopper - trashes Copper
+terminalCopper - gains Cellar
+terminalCopper - draws Gold, Mine, Festival, Copper, Estate
+ 
+---------- ayouk: turn 14 ----------
+ayouk - plays Cellar
+ayouk - discards Estate
+ayouk - discards Copper
+ayouk - discards Copper
+ayouk - draws Festival, Copper, Festival
+ayouk - plays Festival
+ayouk - plays Festival
+ayouk - plays 1 Gold, 1 Copper
+ayouk - buys Province
+ayouk - gains Province
+ayouk - draws Copper, Remodel, Silver, Copper, Festival
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Festival
+terminalCopper - plays Mine
+terminalCopper - trashes Copper
+terminalCopper - gains Silver
+terminalCopper - plays 1 Gold, 1 Silver
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Gold, Estate, Gold, Copper, Gold
+ 
+---------- ayouk: turn 15 ----------
+ayouk - plays Festival
+ayouk - plays Remodel
+ayouk - trashes Copper
+ayouk - gains Cellar
+ayouk - plays 1 Copper, 1 Silver
+ayouk - buys Duchy
+ayouk - gains Duchy
+ayouk - draws Silver, Moneylender, Cellar, Estate
+ayouk - shuffles deck
+ayouk - draws Copper
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays 3 Gold, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Gold, Province
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Cellar, Duchy
+ 
+---------- ayouk: turn 16 ----------
+ayouk - plays Cellar
+ayouk - discards Estate
+ayouk - draws Cellar
+ayouk - plays Moneylender
+ayouk - trashes Copper
+ayouk - plays 1 Silver
+ayouk - buys Council Room
+ayouk - gains Council Room
+ayouk - draws Cellar, Gold, Festival, Festival, Festival
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Copper
+terminalCopper - discards Duchy
+terminalCopper - draws Remodel, Gold, Estate
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - plays 1 Gold
+terminalCopper - buys Village
+terminalCopper - gains Village
+terminalCopper - draws Copper, Copper, Gold, Cellar, Gold
+ 
+---------- ayouk: turn 17 ----------
+ayouk - plays Festival
+ayouk - plays Festival
+ayouk - plays Festival
+ayouk - plays 1 Gold
+ayouk - buys Province
+ayouk - gains Province
+ayouk - draws Village, Cellar, Estate, Copper, Remodel
+ 
+---------- terminalCopper: turn 18 ----------
+terminalCopper - plays 2 Copper, 2 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Festival, Festival, Mine, Copper, Remodel
+ 
+---------- ayouk: turn 18 ----------
+ayouk - plays Village
+ayouk - draws Silver
+ayouk - plays Cellar
+ayouk - discards Estate
+ayouk - discards Copper
+ayouk - draws Copper, Remodel
+ayouk - plays Remodel
+ayouk - trashes Remodel
+ayouk - gains Duchy
+ayouk - plays 1 Silver, 1 Copper
+ayouk - buys Estate
+ayouk - gains Estate
+ayouk - draws Province, Duchy, Province, Copper, Militia
+ 
+---------- terminalCopper: turn 19 ----------
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Remodel
+terminalCopper - trashes Mine
+terminalCopper - gains Duchy
+terminalCopper - plays 1 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Militia, Copper, Gold, Province, Silver
+ 
+---------- ayouk: turn 19 ----------
+ayouk - plays Militia
+terminalCopper - discards Province
+terminalCopper - discards Copper
+ayouk - plays 1 Copper
+ayouk - buys Estate
+ayouk - gains Estate
+ayouk - draws Copper, Copper
+ayouk - shuffles deck
+ayouk - draws Province, Province, Festival
+ 
+---------- terminalCopper: turn 20 ----------
+terminalCopper - plays Militia
+ayouk - discards Province
+ayouk - discards Province
+terminalCopper - plays 1 Gold, 1 Silver
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Estate, Remodel, Council Room
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Copper
+ 
+---------- ayouk: turn 20 ----------
+ayouk - plays Festival
+ayouk - plays 2 Copper
+ayouk - buys Gardens
+ayouk - gains Gardens
+ayouk - buys Copper
+ayouk - gains Copper
+ayouk - draws Estate, Silver, Council Room, Gold, Silver
+ 
+---------- terminalCopper: turn 21 ----------
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - draws Gold, Copper, Village, Province, Duchy
+ 
+------------ Game Over ------------
+terminalCopper - cards: 3 Remodel, 2 Festival, 2 Cellar, 1 Village, 1 Council Room, 1 Militia, 5 Copper, 3 Gold, 1 Silver, 5 Province, 4 Duchy, 2 Estate
+terminalCopper - total victory points: 44
+terminalCopper - turns: 21
+ 
+ayouk - cards: 4 Cellar, 3 Festival, 1 Council Room, 1 Remodel, 1 Village, 1 Militia, 1 Moneylender, 6 Copper, 2 Silver, 1 Gold, 4 Estate, 3 Province, 2 Duchy, 1 Gardens
+ayouk - total victory points: 31
+ayouk - turns: 20
+ 
+1st place: terminalCopper
+2nd place: ayouk
+ 

@@ -1,0 +1,501 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Gardens, Militia, Moneylender, Spy, Laboratory, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Talpa - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Talpa - shuffles deck
+RTT - shuffles deck
+Talpa - draws Copper, Copper, Estate, Copper, Copper
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 4 Copper
+RTT - buys Militia
+RTT - gains Militia
+RTT - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Talpa: turn 1 ----------
+Talpa - plays 4 Copper
+Talpa - buys Militia
+Talpa - gains Militia
+Talpa - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Talpa: turn 2 ----------
+Talpa - plays 3 Copper
+Talpa - buys Silver
+Talpa - gains Silver
+Talpa - shuffles deck
+Talpa - draws Estate, Copper, Copper, Militia, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 4 Copper
+RTT - buys Moneylender
+RTT - gains Moneylender
+RTT - draws Estate, Militia, Silver, Copper, Copper
+ 
+---------- Talpa: turn 3 ----------
+Talpa - plays Militia
+RTT - discards Copper
+RTT - discards Estate
+Talpa - plays 2 Copper
+Talpa - buys Spy
+Talpa - gains Spy
+Talpa - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays Militia
+Talpa - discards Copper
+Talpa - discards Copper
+RTT - plays 1 Silver, 1 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Copper, Estate
+RTT - shuffles deck
+RTT - draws Copper, Copper, Laboratory
+ 
+---------- Talpa: turn 4 ----------
+Talpa - plays 2 Copper, 1 Silver
+Talpa - buys Silver
+Talpa - gains Silver
+Talpa - draws Copper, Estate
+Talpa - shuffles deck
+Talpa - draws Copper, Copper, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Copper
+RTT - plays 5 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Silver, Moneylender, Copper, Militia, Estate
+ 
+---------- Talpa: turn 5 ----------
+Talpa - plays 4 Copper
+Talpa - buys Silver
+Talpa - gains Silver
+Talpa - draws Copper, Estate, Estate, Silver, Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Militia
+Talpa - discards Estate
+Talpa - discards Estate
+RTT - plays 1 Silver, 1 Copper
+RTT - buys Market
+RTT - gains Market
+RTT - draws Estate, Copper
+RTT - shuffles deck
+RTT - draws Copper, Copper, Militia
+ 
+---------- Talpa: turn 6 ----------
+Talpa - plays 2 Copper, 1 Silver
+Talpa - buys Spy
+Talpa - gains Spy
+Talpa - draws Spy, Silver, Militia, Copper
+Talpa - shuffles deck
+Talpa - draws Silver
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Militia
+Talpa - discards Copper
+Talpa - discards Spy
+RTT - plays 3 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Laboratory, Copper, Copper, Estate, Silver
+ 
+---------- Talpa: turn 7 ----------
+Talpa - plays Militia
+RTT - discards Estate
+RTT - discards Copper
+Talpa - plays 2 Silver
+Talpa - buys Laboratory
+Talpa - gains Laboratory
+Talpa - draws Copper, Copper, Copper, Copper, Spy
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Copper
+RTT - plays Laboratory
+RTT - draws Copper, Moneylender
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Estate, Market
+RTT - shuffles deck
+RTT - draws Silver, Laboratory, Estate
+ 
+---------- Talpa: turn 8 ----------
+Talpa - plays Spy
+Talpa - draws Copper
+Talpa - discards Estate
+RTT - places Copper on top of deck
+Talpa - plays 5 Copper
+Talpa - buys Laboratory
+Talpa - gains Laboratory
+Talpa - draws Estate, Copper, Silver, Estate
+Talpa - shuffles deck
+Talpa - draws Spy
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Laboratory
+RTT - plays Laboratory
+RTT - draws Gold, Moneylender
+RTT - plays Market
+RTT - draws Copper
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Silver, 1 Copper, 1 Gold
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Copper, Copper, Copper, Estate, Militia
+ 
+---------- Talpa: turn 9 ----------
+Talpa - plays Spy
+Talpa - draws Copper
+Talpa - places Silver on top of deck
+RTT - discards Laboratory
+Talpa - plays 2 Copper, 1 Silver
+Talpa - buys Spy
+Talpa - gains Spy
+Talpa - draws Silver, Copper, Copper, Estate, Silver
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Militia
+Talpa - discards Estate
+Talpa - discards Copper
+RTT - plays 3 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Copper
+RTT - shuffles deck
+RTT - draws Estate, Copper, Laboratory, Copper
+ 
+---------- Talpa: turn 10 ----------
+Talpa - plays 2 Silver, 1 Copper
+Talpa - buys Laboratory
+Talpa - gains Laboratory
+Talpa - draws Copper, Militia, Copper, Spy, Copper
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Laboratory
+RTT - draws Estate, Copper
+RTT - plays 4 Copper
+RTT - buys Spy
+RTT - gains Spy
+RTT - draws Militia, Market, Moneylender, Laboratory, Laboratory
+ 
+---------- Talpa: turn 11 ----------
+Talpa - plays Spy
+Talpa - draws Laboratory
+Talpa - places Laboratory on top of deck
+RTT - discards Laboratory
+Talpa - plays Laboratory
+Talpa - draws Laboratory
+Talpa - shuffles deck
+Talpa - draws Estate
+Talpa - plays Laboratory
+Talpa - draws Copper, Spy
+Talpa - plays Spy
+Talpa - draws Spy
+Talpa - places Silver on top of deck
+RTT - places Estate on top of deck
+Talpa - plays Spy
+Talpa - draws Silver
+Talpa - places Copper on top of deck
+RTT - places Estate on top of deck
+Talpa - plays Militia
+RTT - discards Moneylender
+RTT - discards Militia
+Talpa - plays 4 Copper, 1 Silver
+Talpa - buys Laboratory
+Talpa - gains Laboratory
+Talpa - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Laboratory
+RTT - draws Estate, Laboratory
+RTT - plays Laboratory
+RTT - draws Copper, Gold
+RTT - plays Laboratory
+RTT - draws Silver, Laboratory
+RTT - plays Laboratory
+RTT - shuffles deck
+RTT - draws Laboratory, Copper
+RTT - plays Laboratory
+RTT - draws Moneylender, Spy
+RTT - plays Spy
+RTT - draws Militia
+RTT - places Laboratory on top of deck
+Talpa - discards Silver
+RTT - plays Market
+RTT - draws Laboratory
+RTT - plays Laboratory
+RTT - draws Copper, Estate
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper, 1 Gold, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - buys Market
+RTT - gains Market
+RTT - draws Copper, Estate, Copper
+RTT - shuffles deck
+RTT - draws Estate, Laboratory
+ 
+---------- Talpa: turn 12 ----------
+Talpa - plays 3 Copper
+Talpa - buys Silver
+Talpa - gains Silver
+Talpa - draws Silver, Laboratory
+Talpa - shuffles deck
+Talpa - draws Copper, Silver, Estate
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Gold
+RTT - plays Laboratory
+RTT - draws Laboratory, Moneylender
+RTT - plays Laboratory
+RTT - draws Market, Gold
+RTT - plays Market
+RTT - draws Estate
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Market
+RTT - gains Market
+RTT - buys Market
+RTT - gains Market
+RTT - draws Copper, Laboratory, Silver, Spy, Laboratory
+ 
+---------- Talpa: turn 13 ----------
+Talpa - plays Laboratory
+Talpa - draws Militia, Silver
+Talpa - plays Militia
+RTT - discards Copper
+RTT - discards Spy
+Talpa - plays 3 Silver, 1 Copper
+Talpa - buys Market
+Talpa - gains Market
+Talpa - draws Spy, Copper, Copper, Spy, Spy
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Market
+RTT - plays Laboratory
+RTT - draws Laboratory, Militia
+RTT - plays Market
+RTT - shuffles deck
+RTT - draws Market
+RTT - plays Laboratory
+RTT - draws Copper, Market
+RTT - plays Market
+RTT - draws Gold
+RTT - plays Market
+RTT - draws Estate
+RTT - plays Militia
+Talpa - discards Spy
+Talpa - discards Spy
+RTT - plays 2 Copper, 1 Silver, 1 Gold
+RTT - buys Market
+RTT - gains Market
+RTT - buys Market
+RTT - gains Market
+RTT - buys Cellar
+RTT - gains Cellar
+RTT - draws Laboratory, Moneylender, Laboratory, Laboratory, Gold
+ 
+---------- Talpa: turn 14 ----------
+Talpa - plays Spy
+Talpa - draws Silver
+Talpa - places Copper on top of deck
+RTT - discards Market
+Talpa - plays 2 Copper, 1 Silver
+Talpa - buys Spy
+Talpa - gains Spy
+Talpa - draws Copper, Copper, Copper, Laboratory, Copper
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Estate
+RTT - plays Laboratory
+RTT - draws Estate, Spy
+RTT - plays Laboratory
+RTT - shuffles deck
+RTT - draws Copper, Silver
+RTT - plays Spy
+RTT - draws Militia
+RTT - places Cellar on top of deck
+Talpa - discards Laboratory
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Gold, 1 Copper, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Cellar, Market, Laboratory, Market, Laboratory
+ 
+---------- Talpa: turn 15 ----------
+Talpa - plays Laboratory
+Talpa - draws Estate, Estate
+Talpa - plays 4 Copper
+Talpa - buys Spy
+Talpa - gains Spy
+Talpa - draws Laboratory
+Talpa - shuffles deck
+Talpa - draws Copper, Spy, Silver, Copper
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Market
+RTT - plays Laboratory
+RTT - draws Market, Gold
+RTT - plays Laboratory
+RTT - draws Estate, Copper
+RTT - plays Market
+RTT - draws Market
+RTT - plays Market
+RTT - draws Market
+RTT - plays Market
+RTT - shuffles deck
+RTT - draws Gold
+RTT - plays Market
+RTT - draws Silver
+RTT - plays Market
+RTT - draws Laboratory
+RTT - plays Market
+RTT - draws Estate
+RTT - plays Laboratory
+RTT - draws Spy, Moneylender
+RTT - plays Spy
+RTT - draws Province
+RTT - discards Copper
+Talpa - discards Spy
+RTT - plays Cellar
+RTT - discards Estate
+RTT - discards Province
+RTT - discards Estate
+RTT - draws Laboratory, Laboratory, Militia
+RTT - plays Militia
+Talpa - discards Copper
+Talpa - discards Copper
+RTT - plays 2 Gold, 1 Copper, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - buys Market
+RTT - gains Market
+RTT - buys Spy
+RTT - gains Spy
+RTT - draws Estate
+RTT - shuffles deck
+RTT - draws Gold, Province, Province, Laboratory
+ 
+---------- Talpa: turn 16 ----------
+Talpa - plays Laboratory
+Talpa - draws Copper, Market
+Talpa - plays Market
+Talpa - draws Estate
+Talpa - plays Spy
+Talpa - draws Estate
+Talpa - places Spy on top of deck
+RTT - discards Copper
+Talpa - plays 1 Silver, 1 Copper
+Talpa - buys Silver
+Talpa - gains Silver
+Talpa - draws Spy, Silver, Copper, Copper, Silver
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Laboratory
+RTT - draws Moneylender, Estate
+RTT - plays 1 Gold
+RTT - buys Cellar
+RTT - gains Cellar
+RTT - draws Laboratory, Gold, Spy, Silver, Market
+ 
+---------- Talpa: turn 17 ----------
+Talpa - plays Spy
+Talpa - draws Estate
+Talpa - places Spy on top of deck
+RTT - discards Market
+Talpa - plays 2 Silver, 2 Copper
+Talpa - buys Market
+Talpa - gains Market
+Talpa - draws Spy, Spy, Copper, Laboratory, Militia
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Spy
+RTT - draws Market
+RTT - places Militia on top of deck
+Talpa - discards Silver
+RTT - plays Market
+RTT - draws Militia
+RTT - plays Market
+RTT - draws Laboratory
+RTT - plays Laboratory
+RTT - draws Market, Spy
+RTT - plays Laboratory
+RTT - draws Laboratory, Copper
+RTT - plays Market
+RTT - draws Market
+RTT - plays Laboratory
+RTT - draws Market, Estate
+RTT - plays Market
+RTT - draws Laboratory
+RTT - plays Market
+RTT - draws Market
+RTT - plays Laboratory
+RTT - draws Laboratory, Cellar
+RTT - plays Market
+RTT - shuffles deck
+RTT - draws Province
+RTT - plays Laboratory
+RTT - draws Province, Cellar
+RTT - plays Cellar
+RTT - discards Province
+RTT - discards Province
+RTT - discards Cellar
+RTT - discards Estate
+RTT - draws Copper, Estate, Gold, Estate
+RTT - plays Spy
+RTT - draws Moneylender
+RTT - places Market on top of deck
+Talpa - places Copper on top of deck
+RTT - plays Militia
+Talpa - discards Militia
+Talpa - discards Copper
+RTT - plays 2 Gold, 2 Copper, 1 Silver
+RTT - buys Market
+RTT - gains Market
+RTT - buys Spy
+RTT - gains Spy
+RTT - buys Spy
+RTT - gains Spy
+RTT - buys Spy
+RTT - gains Spy
+RTT - draws Market, Laboratory
+RTT - shuffles deck
+RTT - draws Cellar, Estate, Estate
+ 
+------------ Game Over ------------
+RTT - cards: 8 Market, 6 Laboratory, 5 Spy, 2 Cellar, 1 Militia, 1 Moneylender, 2 Copper, 2 Gold, 1 Silver, 3 Estate, 2 Province
+RTT - total victory points: 15
+RTT - turns: 18
+ 
+Talpa - cards: 5 Spy, 4 Laboratory, 2 Market, 1 Militia, 7 Copper, 5 Silver, 3 Estate
+Talpa - total victory points: 3
+Talpa - turns: 17
+ 
+1st place: RTT
+2nd place: Talpa
+ 

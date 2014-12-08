@@ -1,0 +1,409 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Village, Workshop, Bureaucrat, Feast, Laboratory, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+snaga - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+snaga - shuffles deck
+hiroki - shuffles deck
+snaga - draws Copper, Estate, Copper, Copper, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- snaga: turn 1 ----------
+snaga - plays 4 Copper
+snaga - buys Bureaucrat
+snaga - gains Bureaucrat
+snaga - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Estate, Chapel, Estate
+ 
+---------- snaga: turn 2 ----------
+snaga - plays 3 Copper
+snaga - buys Chapel
+snaga - gains Chapel
+snaga - shuffles deck
+snaga - draws Bureaucrat, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate, Estate, Copper, Copper
+hiroki - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- snaga: turn 3 ----------
+snaga - plays Bureaucrat
+snaga - gains Silver
+hiroki - reveals Estate
+hiroki - places Estate on top of deck
+snaga - plays 3 Copper
+snaga - buys Village
+snaga - gains Village
+snaga - draws Silver, Chapel, Copper, Copper, Estate
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Estate, Feast, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Copper
+ 
+---------- snaga: turn 4 ----------
+snaga - plays Chapel
+snaga - trashes Copper, Estate
+snaga - plays 1 Silver, 1 Copper
+snaga - buys Workshop
+snaga - gains Workshop
+snaga - draws Copper, Copper, Estate
+snaga - shuffles deck
+snaga - draws Estate, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Laboratory
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Silver, Chapel, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+ 
+---------- snaga: turn 5 ----------
+snaga - plays 3 Copper
+snaga - buys Village
+snaga - gains Village
+snaga - draws Copper, Copper, Chapel, Silver, Village
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper
+hiroki - plays 1 Silver, 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Copper, Laboratory, Estate, Silver
+ 
+---------- snaga: turn 6 ----------
+snaga - plays Village
+snaga - draws Copper
+snaga - plays Chapel
+snaga - trashes Copper, Copper
+snaga - plays 1 Copper, 1 Silver
+snaga - buys Village
+snaga - gains Village
+snaga - draws Bureaucrat, Workshop
+snaga - shuffles deck
+snaga - draws Copper, Village, Copper
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Chapel, Silver
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Market
+hiroki - gains Market
+hiroki - draws Copper, Silver
+hiroki - shuffles deck
+hiroki - draws Copper, Market, Silver
+ 
+---------- snaga: turn 7 ----------
+snaga - plays Village
+snaga - draws Silver
+snaga - plays Workshop
+snaga - gains Feast
+snaga - plays Bureaucrat
+snaga - gains Silver
+hiroki - reveals Copper, Silver, Copper, Market, Silver
+snaga - plays 2 Copper, 1 Silver
+snaga - buys Feast
+snaga - gains Feast
+snaga - draws Silver, Estate, Village, Village, Estate
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Market
+hiroki - draws Chapel
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - shuffles deck
+hiroki - draws Silver, Market, Silver
+ 
+---------- snaga: turn 8 ----------
+snaga - plays Village
+snaga - draws Copper
+snaga - plays Village
+snaga - draws Chapel
+snaga - plays Chapel
+snaga - trashes Estate, Estate
+snaga - plays 1 Silver, 1 Copper
+snaga - buys Village
+snaga - gains Village
+snaga - draws Copper
+snaga - shuffles deck
+snaga - draws Copper, Silver, Chapel, Feast
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Market
+hiroki - draws Chapel
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays 3 Silver, 1 Copper
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Market, Village, Silver, Silver, Copper
+ 
+---------- snaga: turn 9 ----------
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Market
+snaga - plays 2 Copper, 1 Silver
+snaga - buys Feast
+snaga - gains Feast
+snaga - draws Village, Village, Silver, Village, Copper
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Market
+hiroki - draws Chapel
+hiroki - plays 3 Silver, 1 Copper
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - shuffles deck
+hiroki - draws Silver, Laboratory, Market, Chapel, Copper
+ 
+---------- snaga: turn 10 ----------
+snaga - plays Village
+snaga - draws Copper
+snaga - plays Village
+snaga - draws Village
+snaga - plays Village
+snaga - draws Workshop
+snaga - plays Village
+snaga - draws Feast
+snaga - plays Workshop
+snaga - gains Feast
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Market
+snaga - plays 2 Copper, 1 Silver
+snaga - buys Feast
+snaga - gains Feast
+snaga - draws Bureaucrat
+snaga - shuffles deck
+snaga - draws Village, Feast, Market, Silver
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Laboratory
+hiroki - draws Village, Market
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver, Feast
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Market
+hiroki - plays Market
+hiroki - shuffles deck
+hiroki - draws Market
+hiroki - plays Market
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 3 Silver
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Market
+hiroki - gains Market
+hiroki - shuffles deck
+hiroki - draws Silver, Market, Market, Market, Market
+ 
+---------- snaga: turn 11 ----------
+snaga - plays Village
+snaga - draws Copper
+snaga - plays Market
+snaga - draws Chapel
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Laboratory
+snaga - plays Bureaucrat
+snaga - gains Silver
+hiroki - reveals Silver, Market, Market, Market, Market
+snaga - plays 1 Silver, 1 Copper
+snaga - buys Feast
+snaga - gains Feast
+snaga - draws Silver, Copper, Silver, Feast, Village
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Laboratory
+hiroki - draws Village, Chapel
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - plays Laboratory
+hiroki - plays 3 Silver
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Market
+hiroki - gains Market
+hiroki - shuffles deck
+hiroki - draws Market, Silver, Market, Market, Market
+ 
+---------- snaga: turn 12 ----------
+snaga - plays Village
+snaga - draws Feast
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Laboratory
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Laboratory
+snaga - plays 2 Silver, 1 Copper
+snaga - buys Laboratory
+snaga - gains Laboratory
+snaga - draws Workshop, Copper, Copper, Village, Village
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Laboratory
+hiroki - draws Chapel, Village
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Market
+hiroki - plays Laboratory
+hiroki - plays 3 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Laboratory, Market, Silver, Gold, Market
+ 
+---------- snaga: turn 13 ----------
+snaga - plays Village
+snaga - draws Market
+snaga - plays Village
+snaga - shuffles deck
+snaga - draws Chapel
+snaga - plays Market
+snaga - draws Market
+snaga - plays Market
+snaga - draws Laboratory
+snaga - plays Laboratory
+snaga - draws Village, Laboratory
+snaga - plays Laboratory
+snaga - draws Feast, Copper
+snaga - plays Village
+snaga - draws Silver
+snaga - plays Feast
+snaga - trashes Feast
+snaga - gains Laboratory
+snaga - plays Workshop
+snaga - gains Feast
+snaga - plays Chapel
+snaga - trashes Copper, Copper
+snaga - plays 1 Copper, 1 Silver
+snaga - buys Mine
+snaga - gains Mine
+snaga - draws Laboratory, Laboratory, Bureaucrat, Silver, Village
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Laboratory
+hiroki - draws Market, Silver
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - draws Laboratory
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Market, Market
+hiroki - plays Laboratory
+hiroki - draws Chapel
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays 3 Silver, 1 Gold
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - shuffles deck
+hiroki - draws Market, Market, Silver, Laboratory, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 8 Market, 5 Laboratory, 2 Village, 1 Feast, 1 Chapel, 3 Silver, 1 Gold, 1 Estate
+hiroki - total victory points: 1
+hiroki - turns: 14
+ 
+snaga - cards: 5 Laboratory, 4 Village, 2 Market, 1 Bureaucrat, 1 Feast, 1 Mine, 1 Workshop, 1 Chapel, 3 Silver, 2 Copper
+snaga - total victory points: 0
+snaga - turns: 13
+ 
+1st place: hiroki
+2nd place: snaga
+ 

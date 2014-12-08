@@ -1,0 +1,716 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Woodcutter, Feast, Militia, Throne Room, Festival, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+meati - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+meati - shuffles deck
+hiroki - shuffles deck
+meati - draws Copper, Copper, Copper, Copper, Copper
+hiroki - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- meati: turn 1 ----------
+meati - plays 5 Copper
+meati - buys Festival
+meati - gains Festival
+meati - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- meati: turn 2 ----------
+meati - plays 2 Copper
+meati - buys Chapel
+meati - gains Chapel
+meati - shuffles deck
+meati - draws Copper, Copper, Chapel, Copper, Festival
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays 4 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Copper, Chapel, Feast, Copper, Estate
+ 
+---------- meati: turn 3 ----------
+meati - plays Chapel
+meati - trashes Copper, Copper, Copper
+meati - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate, Copper
+hiroki - draws Estate, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Copper
+ 
+---------- meati: turn 4 ----------
+meati - plays 3 Copper
+meati - buys Silver
+meati - gains Silver
+meati - draws Estate, Copper
+meati - shuffles deck
+meati - draws Silver, Estate, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 4 Copper
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Village, Chapel, Estate, Feast, Copper
+ 
+---------- meati: turn 5 ----------
+meati - plays 2 Copper, 1 Silver
+meati - buys Throne Room
+meati - gains Throne Room
+meati - draws Estate, Copper, Chapel, Festival, Copper
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Festival
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper
+hiroki - draws Copper, Feast, Copper, Copper, Estate
+ 
+---------- meati: turn 6 ----------
+meati - plays Chapel
+meati - trashes Copper, Copper, Estate
+meati - shuffles deck
+meati - draws Copper, Silver, Copper, Estate, Throne Room
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Witch
+hiroki - plays 3 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Copper, Village, Festival, Estate, Chapel
+ 
+---------- meati: turn 7 ----------
+meati - plays 2 Copper, 1 Silver
+meati - buys Militia
+meati - gains Militia
+meati - draws Festival, Chapel, Estate
+meati - shuffles deck
+meati - draws Throne Room, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Copper, Copper
+meati - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper
+hiroki - plays 1 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Village
+hiroki - shuffles deck
+hiroki - draws Witch, Chapel, Copper, Village
+ 
+---------- meati: turn 8 ----------
+meati - plays Throne Room
+meati - plays Festival
+meati - plays Festival
+meati - plays Chapel
+meati - trashes Estate
+meati - plays 1 Copper
+meati - buys Witch
+meati - gains Witch
+meati - draws Militia, Estate, Silver, Copper
+meati - shuffles deck
+meati - draws Throne Room
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Village
+hiroki - draws Festival
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Witch
+meati - gains Curse
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 1 Silver
+hiroki - buys Militia
+hiroki - gains Militia
+hiroki - shuffles deck
+hiroki - draws Village, Witch, Silver, Militia, Festival
+ 
+---------- meati: turn 9 ----------
+meati - plays Throne Room
+meati - plays Militia
+hiroki - discards Silver
+hiroki - discards Festival
+meati - plays Militia
+meati - plays 1 Silver, 1 Copper
+meati - buys Gold
+meati - gains Gold
+meati - draws Chapel, Witch, Copper, Festival, Curse
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Witch
+hiroki - draws Village
+hiroki - shuffles deck
+hiroki - draws Festival
+meati - gains Curse
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Copper
+hiroki - plays 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - shuffles deck
+hiroki - draws Silver, Village, Chapel, Festival, Witch
+ 
+---------- meati: turn 10 ----------
+meati - plays Festival
+meati - plays Witch
+meati - shuffles deck
+meati - draws Curse, Estate
+hiroki - gains Curse
+meati - plays Chapel
+meati - trashes Curse, Estate
+meati - draws Militia, Copper, Gold, Curse, Silver
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Witch
+hiroki - draws Witch, Militia
+meati - gains Curse
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Curse
+hiroki - plays Witch
+meati - gains Curse
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Copper
+hiroki - plays Chapel
+hiroki - trashes Curse
+hiroki - plays 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Witch, Militia, Gold, Village, Village
+ 
+---------- meati: turn 11 ----------
+meati - plays Militia
+hiroki - discards Gold
+hiroki - discards Militia
+meati - plays 1 Gold, 1 Silver
+meati - buys Festival
+meati - gains Festival
+meati - draws Curse, Copper, Throne Room
+meati - shuffles deck
+meati - draws Festival, Curse
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Village
+hiroki - draws Festival
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Witch
+hiroki - draws Witch, Chapel
+meati - gains Curse
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - shuffles deck
+hiroki - draws Gold, Militia
+meati - gains Curse
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Curse
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - buys Market
+hiroki - gains Market
+hiroki - shuffles deck
+hiroki - draws Village, Silver, Chapel, Gold, Village
+ 
+---------- meati: turn 12 ----------
+meati - plays Throne Room
+meati - plays Festival
+meati - plays Festival
+meati - plays 1 Copper
+meati - buys Witch
+meati - gains Witch
+meati - draws Militia, Witch, Silver, Chapel, Curse
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Village
+hiroki - draws Festival
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Village
+hiroki - gains Village
+hiroki - buys Village
+hiroki - gains Village
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Market, Militia, Witch, Witch
+hiroki - shuffles deck
+hiroki - draws Village
+ 
+---------- meati: turn 13 ----------
+meati - plays Militia
+hiroki - discards Militia
+hiroki - discards Market
+meati - plays 1 Silver
+meati - buys Village
+meati - gains Village
+meati - draws Festival, Copper, Curse, Gold
+meati - shuffles deck
+meati - draws Witch
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Witch
+hiroki - draws Village, Village
+meati - gains Curse
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Witch
+hiroki - draws Throne Room, Village
+meati - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Festival
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Militia
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Copper
+hiroki - plays 1 Gold, 1 Silver
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Market
+hiroki - shuffles deck
+hiroki - draws Chapel, Witch, Village, Throne Room
+ 
+---------- meati: turn 14 ----------
+meati - plays Festival
+meati - plays Witch
+meati - draws Curse, Curse
+meati - plays 1 Gold
+meati - buys Market
+meati - gains Market
+meati - draws Festival, Curse, Copper, Silver, Throne Room
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - draws Gold
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Witch
+hiroki - draws Festival, Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Village, Militia
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Copper
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Market
+hiroki - gains Market
+hiroki - shuffles deck
+hiroki - draws Market, Village, Witch, Throne Room, Militia
+ 
+---------- meati: turn 15 ----------
+meati - plays Throne Room
+meati - plays Festival
+meati - plays Festival
+meati - plays 1 Silver
+meati - buys Gold
+meati - gains Gold
+meati - draws Chapel, Curse, Witch, Militia, Curse
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Witch
+hiroki - draws Witch, Festival
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Witch
+hiroki - draws Market, Gold
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Witch
+hiroki - draws Village, Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Village
+hiroki - plays Market
+hiroki - plays Militia
+meati - discards Militia
+meati - discards Witch
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Market
+hiroki - gains Market
+hiroki - buys Market
+hiroki - gains Market
+hiroki - shuffles deck
+hiroki - draws Village, Market, Festival, Silver, Witch
+ 
+---------- meati: turn 16 ----------
+meati - plays Chapel
+meati - trashes Curse, Curse
+meati - draws Village
+meati - shuffles deck
+meati - draws Market, Militia, Curse, Curse
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Witch
+hiroki - draws Market, Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Militia
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Witch
+hiroki - draws Witch, Village
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Market, Gold
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Curse
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Village, Market, Market, Silver, Village
+ 
+---------- meati: turn 17 ----------
+meati - plays Village
+meati - draws Silver
+meati - plays Market
+meati - draws Throne Room
+meati - plays Throne Room
+meati - plays Militia
+hiroki - discards Silver
+hiroki - discards Market
+meati - plays Militia
+meati - plays 1 Silver
+meati - buys Gold
+meati - gains Gold
+meati - draws Gold, Chapel, Gold, Curse, Festival
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Market
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Militia
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Village, Chapel
+hiroki - plays Village
+hiroki - draws Festival
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Chapel
+hiroki - plays 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Market, Witch, Market, Village, Throne Room
+ 
+---------- meati: turn 18 ----------
+meati - plays Festival
+meati - plays 2 Gold
+meati - buys Province
+meati - gains Province
+meati - draws Curse, Witch, Witch, Copper, Curse
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays Village
+hiroki - draws Province
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Witch, Witch
+hiroki - plays Witch
+hiroki - shuffles deck
+hiroki - draws Province, Gold
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Militia
+hiroki - plays Witch
+hiroki - draws Village, Market
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Witch
+hiroki - draws Village, Festival
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Witch
+hiroki - draws Market
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays Festival
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Curse
+hiroki - plays 1 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Festival, Market, Province, Province, Silver
+ 
+---------- meati: turn 19 ----------
+meati - plays Witch
+meati - draws Festival, Curse
+meati - draws Copper
+meati - shuffles deck
+meati - draws Gold, Festival, Curse, Copper
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Village, Village
+hiroki - plays Village
+hiroki - draws Militia
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Market, Village
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Village, Witch
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Witch
+hiroki - draws Province, Village
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Gold
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Village, Chapel
+hiroki - plays Witch
+hiroki - draws Market, Market
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays Market
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Copper
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Market, Market, Village, Witch, Witch
+ 
+---------- meati: turn 20 ----------
+meati - plays Festival
+meati - plays 1 Copper, 1 Gold
+meati - buys Duchy
+meati - gains Duchy
+meati - draws Silver, Curse, Curse, Militia, Curse
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Village
+hiroki - draws Province
+hiroki - plays Witch
+hiroki - draws Village, Silver
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Market, Throne Room
+hiroki - plays Witch
+hiroki - draws Village, Village
+hiroki - plays Throne Room
+hiroki - plays Market
+hiroki - draws Province
+hiroki - plays Market
+hiroki - draws Province
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Market
+hiroki - draws Market
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Militia, Witch
+hiroki - plays Witch
+hiroki - draws Province, Festival
+hiroki - plays Festival
+hiroki - plays Market
+hiroki - draws Witch
+hiroki - plays Witch
+hiroki - draws Market, Province
+hiroki - plays Market
+hiroki - draws Village
+hiroki - plays Village
+hiroki - plays Militia
+meati - discards Curse
+meati - discards Curse
+hiroki - plays 1 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Province, Market, Village, Province, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 8 Village, 6 Market, 5 Witch, 2 Throne Room, 1 Chapel, 1 Festival, 1 Militia, 1 Gold, 1 Silver, 7 Province
+hiroki - total victory points: 42
+hiroki - turns: 21
+ 
+meati - cards: 2 Festival, 2 Witch, 1 Militia, 1 Throne Room, 1 Market, 1 Village, 1 Chapel, 3 Gold, 2 Copper, 1 Silver, 1 Duchy, 1 Province, 6 Curse
+meati - total victory points: 3
+meati - turns: 20
+ 
+1st place: hiroki
+2nd place: meati
+ 
