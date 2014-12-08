@@ -71,6 +71,9 @@ int main(int argc, const char * argv[])
         tests.push_back(teacher);
     }
     
+    writeRound(teachers.size(),"learnSize.txt");
+    writeRound(tests.size(),"testSize.txt");
+    
     //--------------------------------------重みベクトルの初期化-------
     cout << "init weight vector" << endl;
     vector< vector<double> > weight;

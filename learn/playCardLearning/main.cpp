@@ -93,6 +93,8 @@ int main(int argc, const char * argv[])
     cout << tests.size() << " tests data                                        " << endl;
     
     
+    writeRound(teachers.size(),"learnSize.txt");
+    writeRound(tests.size(),"testSize.txt");
     
     
     //--------------------------------------重みベクトルの初期化-------
