@@ -22,8 +22,8 @@
 #define PLAY_MODE 1
 #define ACTION_MODE 2
 
-#define GAIN_WEIGHT "gainWeight.txt"
-#define PLAY_WEIGHT "playWeight.txt"
+#define GAIN_WEIGHT "./../learn/GainLearning/weight.txt"
+#define PLAY_WEIGHT "./../learn/playCardLearning/weight.txt"
 #define GAIN_FEATURE "gainFeature.txt"
 #define PLAY_FEATURE "playFeature.txt"
 #define ACTION_FEATURE "actionFeature.txt"
