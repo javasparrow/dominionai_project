@@ -1361,10 +1361,14 @@ class GokoLogParser
   end
 
   def getLastIndex(str, target)
+    #で地上げ対応
+    if(str.include?(" place:"))
+      return nil
+    end
     pos = -1
     while(true)
       if(str.index(target, pos + 1) != nil)
-        pos = str.index(target)
+        pos = str.index(target, pos + 1)
       else
         return pos
       end
