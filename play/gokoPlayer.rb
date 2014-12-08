@@ -13,10 +13,13 @@ class GokoPlayer
   CHAPEL_PROGRAM = "./a.out action 32"
   THRONE_PROGRAM = "./a.out action 14"
   CHANCELLOR_PROGRAM = "./a.out action 18"
-  MILITIA_PROGRAM = "./a.out"
-  MINE_PROGRAM = "./a.out"
-  BUREAUCRAT_PROGRAM = "./a.out"
-  THIEF_PROGRAM = "./a.out"
+  MILITIA_PROGRAM = "./a.out action 29"
+  MINE_PROGRAM = "./a.out action 16"
+  BUREAUCRAT_PROGRAM = "./a.out action 31"
+  THIEF_PROGRAM = "./a.out action 24"
+  LIBRARY_PROGRAM = "./a.out action 21"
+  SPY_PROGRAM = "./a.out action 28"
+  SPY_OPPONENT_PROGRAM = "./a.out action 1028"
 
   PHASE_END = -1
   PHASE_ACTION = 0
@@ -91,6 +94,9 @@ class GokoPlayer
     
     @drawlog = drawlog
     @rawlog = rawlog
+
+    @lastRevealCard = nil
+    @doubleReveal = false
 
     #add pass text to log
     log = addPass(addDrawInfo(rawlog, drawlog))
@@ -227,9 +233,9 @@ class GokoPlayer
     }
 
     #reaction
-    if(log[-1].include?("plays Militia") && @playerName[@currentPlayer] != BOT_NAME)
+    if(log.size > 2 && log[-1].include?("plays Militia") && @playerName[@currentPlayer] != BOT_NAME)
       generateMilitiaString()
-    elsif(log[-2].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
+    elsif(log.size > 2 && log[-2].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
       generateBureaucratString()
     end
 
@@ -257,6 +263,10 @@ class GokoPlayer
       generateMineString()
     elsif(@lastPlay != nil && @lastPlay.name == "Thief" && log[-1].include?("reveals") && !log[-1].include?("reaction Moat"))
       generateThiefString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Library" && @lastRevealCard != nil && @lastRevealCard.isAction)
+      generateLibraryString()
+    elsif(@lastPlay != nil && @lastPlay.name == "Spy" && @lastRevealCard != nil && @currentPhase == PHASE_ACTION)
+      generateSpyString()
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
@@ -265,6 +275,40 @@ class GokoPlayer
 
     #rescue => ex
       #puts ex.message
+  end
+
+  def generateSpyString()
+    resultString = generateFeatureString() + "/" + @lastRevealCard.num.to_s
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
+
+    if(@doubleReveal)
+      out, err, status = Open3.capture3(SPY_OPPONENT_PROGRAM)
+    else
+      out, err, status = Open3.capture3(SPY_PROGRAM)
+    end
+    puts out
+    puts err
+    puts status
+  end
+
+  def generateLibraryString()
+    resultString = generateFeatureString() + "/" + @lastRevealCard.num.to_s
+    puts resultString
+    @outputActionSelection.write(resultString + "\n")
+
+    if(!@autoPlay)
+      return
+    end
+
+    out, err, status = Open3.capture3(LIBRARY_PROGRAM)
+    puts out
+    puts err
+    puts status
   end
 
   def generateThiefString()
@@ -312,7 +356,7 @@ class GokoPlayer
       return
     end
 
-    out, err, status = Open3.capture3(BUREAUCRAT_PROGEAM)
+    out, err, status = Open3.capture3(BUREAUCRAT_PROGRAM)
     puts out
     puts err
     puts status
@@ -440,15 +484,7 @@ class GokoPlayer
   
     feature = generateFeatureString();
 
-    handString = ""
-    for i in 0...MAX_CARDNUM do
-      if(@playerHand[@currentPlayer][i] > 0)
-        handString = handString + i.to_s + ","
-      end
-    end
-    handString = handString[0...-1]
-
-    resultString = feature + "/" + handString
+    resultString = feature + "/" + generateCurrentPlayerHandStringNoAction()
 
     puts resultString
     @outputAction.write(resultString + "\n")
@@ -633,6 +669,9 @@ end
       if(playerName != nil && line.include?(playerName + " - draws ") &&  !line.include?(playerName + " - draws and discards"))
         puts line
         lineStr = line[0..line.index("draws") + 5]
+        while(drawlog[drawline].include?("#"))
+          drawline = drawline + 1
+        end
         drawlog[drawline].split(":").each{|str|
           if(str.include?("."))
             puts str
@@ -652,6 +691,25 @@ end
         resultlog << line
       end
     }
+
+    if(drawlog.size > 2 && drawlog[-1].include?("reveal") && !drawlog[-1].include?("back"))
+      drawlog[-1].split(":").each{|str|
+        if(str.include?("."))
+          puts str
+          if(str[str.index("reveal")+7...str.index(".")] == "throneRoom")
+            @lastRevealCard = @cardData.getCard("Throne Room") 
+          elsif(str[str.index("reveal")+7...str.index(".")] == "councilRoom")
+            @lastRevealCard = @cardData.getCard("Council Room") 
+          else
+            @lastRevealCard = @cardData.getCard(str[str.index("reveal")+7...str.index(".")].capitalize) 
+          end
+        end
+        puts @lastRevealCard.name
+      }
+      if(drawlog[-2].include?("reveal")&& !drawlog[-2].include?("back"))
+        @doubleReveal = true
+      end
+    end
 
     puts resultlog
     resultlog
@@ -1186,6 +1244,11 @@ end
 
     pCard = @cardData.getCard(data[data.index("plays") + 6 .. -2])
 
+    if(!pCard.isAction)
+      puts "this is treasure!"
+      parsePlayTreasure(data.gsub(pCard.name, "1 " + pCard.name))
+      return
+    end
     
     puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
     @currentCoin = @currentCoin + pCard.coin

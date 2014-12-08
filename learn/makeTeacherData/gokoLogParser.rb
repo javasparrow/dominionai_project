@@ -105,6 +105,7 @@ class GokoLogParser
     @currentPhase = PHASE_ACTION
     @currentCoin = 0
     @currentBuy = 1
+    @currentAction = 1
     @cardData = CardData.new()
     @lastBuy = Array.new(0)
     @currentPlayer = 0
@@ -223,7 +224,7 @@ class GokoLogParser
 
       if(line.index("pass") !=  nil)
         cleanup(nil)
-        if(haveActionInHand())
+        if(haveActionInHand() && @currentAction >= 1)
           generatePlayActionData(nil)
         end
         generateGroundData(nil, @currentCoin, @currentBuy)
@@ -258,6 +259,7 @@ class GokoLogParser
 
         @currentCoin = 0
         @currentBuy = 1
+        @currentAction = 1
         @lastPlay = nil
         @lastTrash = nil
         @currentPhase = PHASE_ACTION
@@ -266,7 +268,7 @@ class GokoLogParser
 
       if(line.index("plays") != nil)
         if(/\d/.match(line[line.index("-") .. -2]) != nil)
-          if(haveActionInHand())
+          if(haveActionInHand() && @currentAction >= 1)
             generatePlayActionData(nil)
           end
           parsePlayTreasure(line)
@@ -943,19 +945,9 @@ class GokoLogParser
       return
     end
 
-    if(gain != nil && gain.length == 0)
-      return
-    end
-
     feature = generateFeatureString();
 
-    handString = ""
-    for i in 0...MAX_CARDNUM
-      if(@playerHand[@currentPlayer][i] > 0)
-        handString = handString + i.to_s + ","
-      end
-    end
-    handString = handString[0...-1]
+    handString = generateCurrentPlayerHandStringNoAction()
 
     if(card == nil)
       cardString = "0"
@@ -1160,12 +1152,18 @@ class GokoLogParser
 
     pCard = @cardData.getCard(data[data.index("plays") + 6 .. -2])
 
+    if(!pCard.isAction)
+      puts "this is treasure!"
+      parsePlayTreasure(data.gsub(pCard.name, "1 " + pCard.name))
+      return
+    end
 
     puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
     @currentCoin = @currentCoin + pCard.coin
     puts "gain #{pCard.coin} coins"
     @currentBuy = @currentBuy + pCard.buy
     puts "gain #{pCard.buy} buy"
+    @currentAction = @currentAction + pCard.action
 
 
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
@@ -1187,6 +1185,11 @@ class GokoLogParser
         end
       else
         generatePlayActionData(pCard)
+        @currentAction = @currentAction - 1
+        if(@currentAction < 0)
+          puts "action minus error"
+          raise
+        end
         @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
         @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
       end
