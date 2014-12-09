@@ -133,7 +133,9 @@ int main(int argc, const char * argv[])
     }
     if(Mode == PLAY_MODE) {
         vector<string> out = SpritString(testFeature,"/");
-        if(out.size() != 2) {
+        //特徴ベクトル/アクション数/手札
+        //アクションは特徴ベクトルの末尾に加える
+        if(out.size() != 3) {
             cout << "file reading error: not match format '/' " << endl;
             exit(0);
         }
@@ -142,7 +144,9 @@ int main(int argc, const char * argv[])
             feature.push_back(atof(out0[i].c_str()));
         }
         vector<string> out1 = SpritString(out[1],",");
-        for(int i=0;i<out1.size();i++) {
+        feature.push_back(atof(out1[0].c_str()));
+        vector<string> out2 = SpritString(out[2],",");
+        for(int i=0;i<out2.size();i++) {
             hand.push_back(atoi(out1[i].c_str()));
         }
         dimensionOfFeature = feature.size();
