@@ -75,6 +75,7 @@ class GokoPlayer
     @currentPhase = PHASE_ACTION
     @currentCoin = 0
     @currentBuy = 1
+    @currentAction = 1
     @cardData = CardData.new()
     @lastBuy = Array.new(0)
     @currentPlayer = 0
@@ -166,6 +167,7 @@ class GokoPlayer
         
         @currentCoin = 0
         @currentBuy = 1
+        @currentAction = 1
         @lastPlay = nil
         @lastTrash = nil
         @currentPhase = PHASE_ACTION
@@ -484,7 +486,7 @@ class GokoPlayer
   
     feature = generateFeatureString();
 
-    resultString = feature + "/" + generateCurrentPlayerHandStringNoAction()
+    resultString = feature + "/"　+ @currentAction + "/" + generateCurrentPlayerHandStringNoAction()
 
     puts resultString
     @outputAction.write(resultString + "\n")
@@ -1255,6 +1257,7 @@ end
     puts "gain #{pCard.coin} coins"
     @currentBuy = @currentBuy + pCard.buy
     puts "gain #{pCard.buy} buy"
+    @currentAction = @currentAction + pCard.action
     
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
@@ -1271,6 +1274,11 @@ end
           @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
         end
       else
+        @currentAction = @currentAction - 1
+        if(@currentAction < 0)
+          puts "action minus error"
+          raise
+        end
         @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
         @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
       end

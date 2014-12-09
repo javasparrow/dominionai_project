@@ -954,7 +954,7 @@ class GokoLogParser
     else
       cardString = card.num.to_s
     end
-    resultString = feature + "/" + handString + "/" + cardString
+    resultString = feature + "/" + @currentAction.to_s + "/" + handString + "/" + cardString
 
     puts resultString
     @output.write(resultString + "\n")
