@@ -147,10 +147,11 @@ int main(int argc, const char * argv[])
         feature.push_back(atof(out1[0].c_str()));
         vector<string> out2 = SpritString(out[2],",");
         for(int i=0;i<out2.size();i++) {
-            hand.push_back(atoi(out1[i].c_str()));
+            hand.push_back(atoi(out2[i].c_str()));
         }
         dimensionOfFeature = feature.size();
         nWeight = 32;//基本セットのみのカード種類数
+
     }
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数

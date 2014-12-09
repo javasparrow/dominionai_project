@@ -32,7 +32,7 @@ Sample::Sample(int id,string str) {
         exit(0);
     }
     
-    for(int i=0;i<3;i++) {
+    for(int i=0;i<4;i++) {
         if(out[i] != "") {
             vector<string> out2 = SpritString(out[i], ",");
        
