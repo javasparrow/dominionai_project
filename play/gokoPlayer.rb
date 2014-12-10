@@ -486,7 +486,7 @@ class GokoPlayer
   
     feature = generateFeatureString();
 
-    resultString = feature + "/"　+ @currentAction + "/" + generateCurrentPlayerHandStringNoAction()
+    resultString = feature + "/" + @currentAction.to_s + "/" + generateCurrentPlayerHandStringNoAction()
 
     puts resultString
     @outputAction.write(resultString + "\n")
