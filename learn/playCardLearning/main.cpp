@@ -29,9 +29,25 @@ int main(int argc, const char * argv[])
     
     srand((unsigned)time(NULL));
     bool readFlag = false;
+    bool action2Flag = false;
     
-    if(argc >= 2) {
+    if(argc == 2) {
+        if(argv[1][0] == '2') {
+            action2Flag = true;
+            cout << "nAction >= 2 Mode" << endl;
+        }
         if(argv[1][0] == 'r') {
+            readFlag = true;
+            cout << "loading Mode" << endl;
+        }
+    }
+    
+    if(argc == 3) {
+        if(argv[1][0] == '2') {
+            action2Flag = true;
+            cout << "nAction >= 2 Mode" << endl;
+        }
+        if(argv[2][0] == 'r') {
             readFlag = true;
             cout << "loading Mode" << endl;
         }
@@ -48,6 +64,11 @@ int main(int argc, const char * argv[])
     string studyfile = "learn.txt";//インプット教師データ
     string testfile = "test.txt";//インプットテストデータ
     
+    string directoryString = "./";
+    if(action2Flag) {
+        directoryString = "./nAction2/";
+    }
+    
     //--------------------------------------教師信号ベクトルの初期化--------
     cout << "load teacher data" << endl;
     ifstream ifs(studyfile.c_str());
@@ -60,10 +81,14 @@ int main(int argc, const char * argv[])
     vector<Sample> teachers;
     int count = 0;
     while(getline(ifs, buf)) {
+        vector<string> out = SpritString(buf,"/");
+        int nAction = atoi(out[1].c_str());
+        if((nAction == 1 && !action2Flag) || (nAction >= 2 && action2Flag)) {
             fprintf(stderr,"loading teacher data:%d \r",count+1);
             Sample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
+        }
     }
     ifs.close();
     nSample = count;
@@ -83,18 +108,22 @@ int main(int argc, const char * argv[])
     vector<Sample> tests;
     count = 0;
     while(getline(ifs3, buf)) {
-        fprintf(stderr,"loading test data:%d \r",count+1);
-        Sample test(count++,buf);
-        dimensionOfFeature = test.getDimensionOfFeature();
-        tests.push_back(test);
+        vector<string> out = SpritString(buf,"/");
+        int nAction = atoi(out[1].c_str());
+        if((nAction == 1 && !action2Flag) || (nAction >= 2 && action2Flag)) {
+            fprintf(stderr,"loading test data:%d \r",count+1);
+            Sample test(count++,buf);
+            dimensionOfFeature = test.getDimensionOfFeature();
+            tests.push_back(test);
+        }
     }
     ifs3.close();
     
     cout << tests.size() << " tests data                                        " << endl;
     
     
-    writeRound(teachers.size(),"learnSize.txt");
-    writeRound(tests.size(),"testSize.txt");
+    writeRound(teachers.size(),directoryString + "learnSize.txt");
+    writeRound(tests.size(),directoryString + "testSize.txt");
     
     
     //--------------------------------------重みベクトルの初期化-------
@@ -117,9 +146,9 @@ int main(int argc, const char * argv[])
     
     if(readFlag) {
         cout << "load weight vector" << endl;
-        weight = readWeightVector("w_weight.txt");
-        averageWeight = readWeightVector("u_weight.txt");
-        round = readRound("round.txt");
+        weight = readWeightVector(directoryString + "w_weight.txt");
+        averageWeight = readWeightVector(directoryString + "u_weight.txt");
+        round = readRound(directoryString + "round.txt");
         //start = readWeightVector("weight.txt");
     }
     
@@ -174,11 +203,11 @@ int main(int argc, const char * argv[])
             
             if(maxCorrectRate <= correct) {//最大正解率を更新!!
                 maxCorrectRate = correct;
-                writeWeightVector(testWeight,"weight.txt");
-                writeWeightVector(weight,"w_weight.txt");
-                writeWeightVector(averageWeight,"u_weight.txt");
-                writeRound(round,"round.txt");
-                writeRate(maxCorrectRate,"maxRate.txt");
+                writeWeightVector(testWeight,directoryString + "weight.txt");
+                writeWeightVector(weight,directoryString + "w_weight.txt");
+                writeWeightVector(averageWeight,directoryString + "u_weight.txt");
+                writeRound(round,directoryString + "round.txt");
+                writeRate(maxCorrectRate,directoryString + "maxRate.txt");
                 if(correct >= 1) {//正解率1.0なら終了
                     break;
                 }
@@ -195,7 +224,7 @@ int main(int argc, const char * argv[])
             lastCorrectRate = correct;
         }
     }
-    writeWeightVector(testWeight,"weight.txt");
+    writeWeightVector(testWeight,directoryString + "weight.txt");
     test(testWeight, tests,true);
     
     cout << "number of sample:" << nSample << endl;

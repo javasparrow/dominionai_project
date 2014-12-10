@@ -49,8 +49,8 @@ Sample::Sample(int id,string str) {
             }
             if(i==1) {
                 //nAction
-                double val = atof( out2[0].c_str() );
-                _feature.push_back(val);
+            //    double val = atof( out2[0].c_str() );
+            //    _feature.push_back(val);
             }
             if(i==2) {
                 //hand
