@@ -1286,11 +1286,12 @@ end
     
     @lastPlay = pCard
 
-    if(pCard.name == "Throne Room")
-	if(haveActionInHand() == false)
-	  @lastPlay = nil
+    #この処理要らなくね？（玉座は強制使用のため）
+    if(pCard.name == "Throne Room" || false)
+	   if(haveActionInHand() == false)
+	     @lastPlay = nil
       puts "uses throne but have no action"
-	end
+	   end
     end
 
   end
