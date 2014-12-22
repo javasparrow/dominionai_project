@@ -1,0 +1,393 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Village, Woodcutter, Gardens, Remodel, Thief, Laboratory, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+will turner - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+will turner - shuffles deck
+Gherald - draws Copper, Copper, Estate, Estate, Copper
+will turner - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- will turner: turn 1 ----------
+will turner - plays 2 Copper
+will turner - buys Chapel
+will turner - gains Chapel
+will turner - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- will turner: turn 2 ----------
+will turner - plays 5 Copper
+will turner - buys Laboratory
+will turner - gains Laboratory
+will turner - shuffles deck
+will turner - draws Laboratory, Copper, Copper, Chapel, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Copper, Woodcutter, Copper
+ 
+---------- will turner: turn 3 ----------
+will turner - plays Laboratory
+will turner - draws Estate, Copper
+will turner - plays Chapel
+will turner - trashes Copper, Estate
+will turner - plays 3 Copper
+will turner - buys Silver
+will turner - gains Silver
+will turner - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Woodcutter
+Gherald - plays 3 Copper
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- will turner: turn 4 ----------
+will turner - plays 3 Copper
+will turner - buys Woodcutter
+will turner - gains Woodcutter
+will turner - shuffles deck
+will turner - draws Woodcutter, Laboratory, Copper, Silver, Chapel
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 4 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Estate, Woodcutter
+Gherald - shuffles deck
+Gherald - draws Woodcutter, Copper, Copper
+ 
+---------- will turner: turn 5 ----------
+will turner - plays Laboratory
+will turner - draws Copper, Copper
+will turner - plays Woodcutter
+will turner - plays 3 Copper, 1 Silver
+will turner - buys Laboratory
+will turner - gains Laboratory
+will turner - buys Cellar
+will turner - gains Cellar
+will turner - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Woodcutter, Estate, Copper, Copper
+ 
+---------- will turner: turn 6 ----------
+will turner - plays 3 Copper
+will turner - buys Woodcutter
+will turner - gains Woodcutter
+will turner - shuffles deck
+will turner - draws Copper, Laboratory, Silver, Woodcutter, Chapel
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Woodcutter
+Gherald - plays 3 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Laboratory, Estate, Copper, Copper, Copper
+ 
+---------- will turner: turn 7 ----------
+will turner - plays Laboratory
+will turner - draws Laboratory, Woodcutter
+will turner - plays Laboratory
+will turner - draws Copper, Copper
+will turner - plays Woodcutter
+will turner - plays 3 Copper, 1 Silver
+will turner - buys Gardens
+will turner - gains Gardens
+will turner - buys Village
+will turner - gains Village
+will turner - draws Estate, Copper, Copper, Cellar, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Laboratory
+Gherald - shuffles deck
+Gherald - draws Copper, Estate
+Gherald - plays 4 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Copper, Copper, Estate, Gardens, Copper
+ 
+---------- will turner: turn 8 ----------
+will turner - plays Cellar
+will turner - discards Estate
+will turner - discards Copper
+will turner - discards Copper
+will turner - discards Copper
+will turner - draws Estate
+will turner - shuffles deck
+will turner - draws Copper, Copper, Copper
+will turner - plays 3 Copper
+will turner - buys Village
+will turner - gains Village
+will turner - draws Village, Estate, Copper, Laboratory, Woodcutter
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays 3 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Gardens, Copper, Woodcutter, Copper, Woodcutter
+ 
+---------- will turner: turn 9 ----------
+will turner - plays Laboratory
+will turner - draws Copper, Copper
+will turner - plays Village
+will turner - draws Silver
+will turner - plays Woodcutter
+will turner - plays 3 Copper, 1 Silver
+will turner - buys Gardens
+will turner - gains Gardens
+will turner - buys Village
+will turner - gains Village
+will turner - draws Woodcutter, Laboratory, Chapel, Gardens
+will turner - shuffles deck
+will turner - draws Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Woodcutter
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Copper
+ 
+---------- will turner: turn 10 ----------
+will turner - plays Laboratory
+will turner - draws Estate, Copper
+will turner - plays Woodcutter
+will turner - plays 2 Copper
+will turner - buys Gardens
+will turner - gains Gardens
+will turner - draws Village, Copper, Copper, Woodcutter, Cellar
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Woodcutter
+Gherald - plays 4 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Woodcutter, Woodcutter, Copper, Estate, Copper
+ 
+---------- will turner: turn 11 ----------
+will turner - plays Village
+will turner - draws Laboratory
+will turner - plays Laboratory
+will turner - draws Gardens, Copper
+will turner - plays Cellar
+will turner - discards Gardens
+will turner - discards Copper
+will turner - discards Copper
+will turner - discards Copper
+will turner - draws Copper, Village, Village, Silver
+will turner - plays Village
+will turner - draws Estate
+will turner - plays Village
+will turner - shuffles deck
+will turner - draws Copper
+will turner - plays Woodcutter
+will turner - plays 2 Copper, 1 Silver
+will turner - buys Remodel
+will turner - gains Remodel
+will turner - buys Moat
+will turner - gains Moat
+will turner - draws Copper, Gardens, Estate, Copper, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Copper, Laboratory, Gardens, Gardens, Gardens
+ 
+---------- will turner: turn 12 ----------
+will turner - plays 3 Copper
+will turner - buys Village
+will turner - gains Village
+will turner - draws Laboratory, Woodcutter, Gardens, Chapel, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Laboratory
+Gherald - draws Copper, Woodcutter
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- will turner: turn 13 ----------
+will turner - plays Laboratory
+will turner - draws Gardens
+will turner - shuffles deck
+will turner - draws Copper
+will turner - plays Woodcutter
+will turner - plays 2 Copper
+will turner - buys Estate
+will turner - gains Estate
+will turner - buys Estate
+will turner - gains Estate
+will turner - draws Remodel, Copper, Estate, Laboratory, Copper
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays 3 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Gardens
+Gherald - shuffles deck
+Gherald - draws Estate, Copper, Estate, Copper
+ 
+---------- will turner: turn 14 ----------
+will turner - plays Laboratory
+will turner - draws Copper, Woodcutter
+will turner - plays Woodcutter
+will turner - plays 3 Copper
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - buys Copper
+will turner - gains Copper
+will turner - draws Moat, Village, Cellar, Village, Silver
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays 2 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Copper, Woodcutter, Woodcutter, Copper, Copper
+ 
+---------- will turner: turn 15 ----------
+will turner - plays Village
+will turner - draws Copper
+will turner - plays Village
+will turner - draws Estate
+will turner - plays Moat
+will turner - draws Gardens, Village
+will turner - plays Village
+will turner - draws Village
+will turner - plays Village
+will turner - shuffles deck
+will turner - draws Chapel
+will turner - plays Cellar
+will turner - discards Estate
+will turner - discards Gardens
+will turner - discards Chapel
+will turner - draws Copper, Woodcutter, Gardens
+will turner - plays Woodcutter
+will turner - plays 2 Copper, 1 Silver
+will turner - buys Duchy
+will turner - gains Duchy
+will turner - buys Copper
+will turner - gains Copper
+will turner - draws Estate, Laboratory, Laboratory, Copper, Duchy
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Woodcutter
+Gherald - plays 3 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Woodcutter, Estate, Copper, Estate
+ 
+---------- will turner: turn 16 ----------
+will turner - plays Laboratory
+will turner - draws Copper, Remodel
+will turner - plays Laboratory
+will turner - draws Estate, Copper
+will turner - plays Remodel
+will turner - trashes Copper
+will turner - gains Moat
+will turner - plays 2 Copper
+will turner - buys Cellar
+will turner - gains Cellar
+will turner - draws Estate, Copper, Copper, Gardens, Woodcutter
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Gardens, Estate, Copper, Gardens, Laboratory
+ 
+---------- will turner: turn 17 ----------
+will turner - plays Woodcutter
+will turner - plays 2 Copper
+will turner - buys Moat
+will turner - gains Moat
+will turner - buys Cellar
+will turner - gains Cellar
+will turner - shuffles deck
+will turner - draws Cellar, Chapel, Remodel, Copper, Estate
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Laboratory
+Gherald - draws Copper, Copper
+Gherald - plays 3 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Copper, Woodcutter, Gardens, Estate, Woodcutter
+ 
+---------- will turner: turn 18 ----------
+will turner - plays Cellar
+will turner - discards Chapel
+will turner - discards Remodel
+will turner - discards Copper
+will turner - discards Estate
+will turner - draws Village, Copper, Copper, Silver
+will turner - plays Village
+will turner - draws Laboratory
+will turner - plays Laboratory
+will turner - draws Estate, Duchy
+will turner - plays 2 Copper, 1 Silver
+will turner - buys Remodel
+will turner - gains Remodel
+will turner - draws Copper, Estate, Moat, Cellar, Moat
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Woodcutter
+Gherald - plays 1 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Estate, Gardens, Estate
+Gherald - shuffles deck
+Gherald - draws Woodcutter, Copper
+ 
+------------ Game Over ------------
+Gherald - cards: 8 Woodcutter, 14 Copper, 1 Laboratory, 9 Estate, 5 Gardens, 1 Duchy
+Gherald - total victory points: 27
+Gherald - turns: 18
+ 
+will turner - cards: 4 Village, 3 Moat, 3 Cellar, 2 Remodel, 2 Laboratory, 2 Woodcutter, 1 Chapel, 7 Copper, 1 Silver, 4 Estate, 3 Gardens, 2 Duchy
+will turner - total victory points: 19
+will turner - turns: 18
+ 
+1st place: Gherald
+2nd place: will turner
+ 

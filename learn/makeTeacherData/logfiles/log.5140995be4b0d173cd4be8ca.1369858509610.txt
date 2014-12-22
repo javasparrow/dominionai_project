@@ -1,0 +1,382 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Workshop, Gardens, Smithy, Throne Room, Festival, Laboratory, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lexington - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Blobby - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lexington - shuffles deck
+Blobby - shuffles deck
+lexington - draws Copper, Estate, Copper, Estate, Copper
+Blobby - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- lexington: turn 1 ----------
+lexington - plays 3 Copper
+lexington - buys Workshop
+lexington - gains Workshop
+lexington - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Blobby: turn 1 ----------
+Blobby - plays 4 Copper
+Blobby - buys Smithy
+Blobby - gains Smithy
+Blobby - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- lexington: turn 2 ----------
+lexington - plays 4 Copper
+lexington - buys Smithy
+lexington - gains Smithy
+lexington - shuffles deck
+lexington - draws Copper, Copper, Copper, Estate, Workshop
+ 
+---------- Blobby: turn 2 ----------
+Blobby - plays 3 Copper
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - shuffles deck
+Blobby - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- lexington: turn 3 ----------
+lexington - plays Workshop
+lexington - gains Silver
+lexington - plays 3 Copper
+lexington - buys Silver
+lexington - gains Silver
+lexington - draws Copper, Copper, Estate, Estate, Smithy
+ 
+---------- Blobby: turn 3 ----------
+Blobby - plays 3 Copper, 1 Silver
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Estate, Estate, Copper, Smithy, Copper
+ 
+---------- lexington: turn 4 ----------
+lexington - plays Smithy
+lexington - draws Copper, Copper
+lexington - shuffles deck
+lexington - draws Estate
+lexington - plays 4 Copper
+lexington - buys Workshop
+lexington - gains Workshop
+lexington - draws Silver, Workshop, Copper, Copper, Silver
+ 
+---------- Blobby: turn 4 ----------
+Blobby - plays Smithy
+Blobby - draws Copper, Copper
+Blobby - shuffles deck
+Blobby - draws Copper
+Blobby - plays 5 Copper
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Copper, Laboratory, Silver, Copper, Estate
+ 
+---------- lexington: turn 5 ----------
+lexington - plays Workshop
+lexington - gains Smithy
+lexington - plays 2 Silver, 2 Copper
+lexington - buys Festival
+lexington - gains Festival
+lexington - draws Copper
+lexington - shuffles deck
+lexington - draws Workshop, Estate, Copper, Copper
+ 
+---------- Blobby: turn 5 ----------
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Copper, Laboratory
+Blobby - plays Laboratory
+Blobby - draws Copper, Smithy
+Blobby - plays Smithy
+Blobby - draws Copper, Estate, Copper
+Blobby - plays 6 Copper, 1 Silver
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Copper, Estate
+Blobby - shuffles deck
+Blobby - draws Estate, Smithy, Silver
+ 
+---------- lexington: turn 6 ----------
+lexington - plays Workshop
+lexington - gains Throne Room
+lexington - plays 3 Copper
+lexington - buys Workshop
+lexington - gains Workshop
+lexington - draws Smithy, Estate, Copper, Smithy, Festival
+ 
+---------- Blobby: turn 6 ----------
+Blobby - plays Smithy
+Blobby - draws Laboratory, Copper, Copper
+Blobby - plays 3 Copper, 1 Silver
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lexington: turn 7 ----------
+lexington - plays Festival
+lexington - plays Smithy
+lexington - draws Workshop, Silver, Estate
+lexington - plays Smithy
+lexington - draws Copper, Silver, Copper
+lexington - plays 3 Copper, 2 Silver
+lexington - buys Laboratory
+lexington - gains Laboratory
+lexington - buys Silver
+lexington - gains Silver
+lexington - draws Copper
+lexington - shuffles deck
+lexington - draws Copper, Estate, Copper, Silver
+ 
+---------- Blobby: turn 7 ----------
+Blobby - plays 4 Copper
+Blobby - buys Smithy
+Blobby - gains Smithy
+Blobby - draws Laboratory, Gold
+Blobby - shuffles deck
+Blobby - draws Estate, Copper, Laboratory
+ 
+---------- lexington: turn 8 ----------
+lexington - plays 3 Copper, 1 Silver
+lexington - buys Laboratory
+lexington - gains Laboratory
+lexington - draws Copper, Copper, Laboratory, Workshop, Smithy
+ 
+---------- Blobby: turn 8 ----------
+Blobby - plays Laboratory
+Blobby - draws Smithy, Festival
+Blobby - plays Laboratory
+Blobby - draws Copper, Copper
+Blobby - plays Festival
+Blobby - plays Smithy
+Blobby - draws Estate, Copper, Smithy
+Blobby - plays Smithy
+Blobby - draws Estate, Silver, Copper
+Blobby - plays 5 Copper, 1 Gold, 1 Silver
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Copper, Copper
+Blobby - shuffles deck
+Blobby - draws Copper, Silver, Festival
+ 
+---------- lexington: turn 9 ----------
+lexington - plays Laboratory
+lexington - draws Throne Room, Silver
+lexington - plays Throne Room
+lexington - plays Smithy
+lexington - draws Workshop, Workshop, Copper
+lexington - plays Smithy
+lexington - draws Smithy, Estate, Silver
+lexington - plays 3 Copper, 2 Silver
+lexington - buys Festival
+lexington - gains Festival
+lexington - draws Estate, Festival, Copper
+lexington - shuffles deck
+lexington - draws Copper, Silver
+ 
+---------- Blobby: turn 9 ----------
+Blobby - plays Festival
+Blobby - plays 3 Copper, 1 Silver
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - draws Festival, Estate, Laboratory, Laboratory, Copper
+ 
+---------- lexington: turn 10 ----------
+lexington - plays Festival
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Festival
+lexington - gains Festival
+lexington - draws Laboratory, Workshop, Silver, Workshop, Estate
+ 
+---------- Blobby: turn 10 ----------
+Blobby - plays Laboratory
+Blobby - draws Copper, Smithy
+Blobby - plays Laboratory
+Blobby - draws Estate, Estate
+Blobby - plays Festival
+Blobby - plays Smithy
+Blobby - draws Copper, Smithy, Festival
+Blobby - plays Festival
+Blobby - plays Smithy
+Blobby - draws Copper, Gold
+Blobby - shuffles deck
+Blobby - draws Silver
+Blobby - plays 4 Copper, 1 Gold, 1 Silver
+Blobby - buys Throne Room
+Blobby - gains Throne Room
+Blobby - buys Throne Room
+Blobby - gains Throne Room
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Copper, Cellar, Laboratory, Copper, Copper
+ 
+---------- lexington: turn 11 ----------
+lexington - plays Laboratory
+lexington - draws Smithy, Copper
+lexington - plays Smithy
+lexington - draws Throne Room, Copper, Laboratory
+lexington - plays 2 Copper, 1 Silver
+lexington - buys Throne Room
+lexington - gains Throne Room
+lexington - draws Estate, Festival, Copper, Copper, Smithy
+ 
+---------- Blobby: turn 11 ----------
+Blobby - plays Laboratory
+Blobby - draws Festival
+Blobby - shuffles deck
+Blobby - draws Laboratory
+Blobby - plays Laboratory
+Blobby - draws Festival, Festival
+Blobby - plays Cellar
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - draws Throne Room, Estate, Copper
+Blobby - plays Throne Room
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays 1 Copper
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - buys Throne Room
+Blobby - gains Throne Room
+Blobby - draws Copper, Estate, Silver, Copper, Smithy
+ 
+---------- lexington: turn 12 ----------
+lexington - plays Festival
+lexington - plays Smithy
+lexington - draws Copper, Workshop, Silver
+lexington - plays Workshop
+lexington - gains Gardens
+lexington - plays 3 Copper, 1 Silver
+lexington - buys Laboratory
+lexington - gains Laboratory
+lexington - buys Cellar
+lexington - gains Cellar
+lexington - shuffles deck
+lexington - draws Estate, Cellar, Festival, Workshop, Copper
+ 
+---------- Blobby: turn 12 ----------
+Blobby - plays Smithy
+Blobby - draws Laboratory, Copper, Smithy
+Blobby - plays 3 Copper, 1 Silver
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Gold, Laboratory, Throne Room, Estate
+Blobby - shuffles deck
+Blobby - draws Smithy
+ 
+---------- lexington: turn 13 ----------
+lexington - plays Festival
+lexington - plays Cellar
+lexington - discards Estate
+lexington - discards Copper
+lexington - draws Copper, Laboratory
+lexington - plays Laboratory
+lexington - draws Estate, Silver
+lexington - plays Workshop
+lexington - gains Gardens
+lexington - plays 1 Copper, 1 Silver
+lexington - buys Laboratory
+lexington - gains Laboratory
+lexington - draws Festival, Silver, Gardens, Laboratory, Copper
+ 
+---------- Blobby: turn 13 ----------
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Festival, Laboratory
+Blobby - plays Laboratory
+Blobby - draws Festival, Festival
+Blobby - plays Laboratory
+Blobby - draws Laboratory, Copper
+Blobby - plays Laboratory
+Blobby - draws Copper, Silver
+Blobby - plays Festival
+Blobby - plays Smithy
+Blobby - draws Laboratory, Smithy, Copper
+Blobby - plays Laboratory
+Blobby - draws Throne Room, Cellar
+Blobby - plays Throne Room
+Blobby - plays Smithy
+Blobby - draws Copper, Copper, Throne Room
+Blobby - plays Smithy
+Blobby - draws Estate, Laboratory, Estate
+Blobby - plays Laboratory
+Blobby - draws Copper, Festival
+Blobby - plays Throne Room
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - draws Copper
+Blobby - plays 7 Copper, 1 Gold, 1 Silver
+Blobby - buys Gardens
+Blobby - gains Gardens
+Blobby - buys Gardens
+Blobby - gains Gardens
+Blobby - buys Gardens
+Blobby - gains Gardens
+Blobby - buys Gardens
+Blobby - gains Gardens
+Blobby - buys Gardens
+Blobby - gains Gardens
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - shuffles deck
+Blobby - draws Laboratory, Gardens, Cellar, Copper, Throne Room
+ 
+---------- lexington: turn 14 ----------
+lexington - plays Festival
+lexington - plays Laboratory
+lexington - draws Silver, Copper
+lexington - plays 2 Silver, 2 Copper
+lexington - buys Province
+lexington - gains Province
+lexington - draws Copper, Copper, Smithy, Throne Room, Workshop
+ 
+---------- Blobby: turn 14 ----------
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Cellar, Copper
+Blobby - plays Laboratory
+Blobby - draws Laboratory, Laboratory
+Blobby - plays Laboratory
+Blobby - draws Copper, Estate
+Blobby - plays Laboratory
+Blobby - draws Festival, Copper
+Blobby - plays Cellar
+Blobby - discards Gardens
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - draws Gold, Throne Room, Gardens, Laboratory, Smithy, Festival
+Blobby - plays Throne Room
+Blobby - plays Smithy
+Blobby - draws Smithy, Estate, Copper
+Blobby - plays Smithy
+Blobby - draws Laboratory, Gardens, Festival
+Blobby - plays Laboratory
+Blobby - draws Festival, Silver
+Blobby - plays Laboratory
+Blobby - draws Throne Room, Copper
+Blobby - plays Festival
+ 
+------------ Game Over ------------
+Blobby - cards: 3 Festival, 1 Cellar, 1 Smithy, 1 Throne Room, 7 Copper, 1 Gold, 1 Silver, 5 Gardens, 3 Estate
+Blobby - total victory points: 13
+Blobby - turns: 13
+ 
+lexington - resigned
+lexington - cards: 4 Laboratory, 3 Workshop, 3 Festival, 2 Throne Room, 2 Smithy, 1 Cellar, 7 Copper, 3 Silver, 3 Estate, 2 Gardens, 1 Province
+lexington - total victory points: 15
+lexington - turns: 14
+ 
+1st place: Blobby
+2nd place: lexington
+ 

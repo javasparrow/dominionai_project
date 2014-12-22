@@ -1,0 +1,505 @@
+------------ Game Setup ------------
+Supply cards: Woodcutter, Feast, Gardens, Moneylender, Spy, Council Room, Laboratory, Mine, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+tsteh_bishop - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+tsteh_bishop - shuffles deck
+Gherald - draws Estate, Copper, Copper, Copper, Copper
+tsteh_bishop - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 4 Copper
+Gherald - buys Moneylender
+Gherald - gains Moneylender
+Gherald - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- tsteh_bishop: turn 1 ----------
+tsteh_bishop - plays 3 Copper
+tsteh_bishop - buys Silver
+tsteh_bishop - gains Silver
+tsteh_bishop - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- tsteh_bishop: turn 2 ----------
+tsteh_bishop - plays 4 Copper
+tsteh_bishop - buys Moneylender
+tsteh_bishop - gains Moneylender
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- tsteh_bishop: turn 3 ----------
+tsteh_bishop - plays 4 Copper, 1 Silver
+tsteh_bishop - buys Gold
+tsteh_bishop - gains Gold
+tsteh_bishop - draws Moneylender, Copper, Estate, Copper, Estate
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Estate, Moneylender
+Gherald - shuffles deck
+Gherald - draws Silver, Copper, Copper
+ 
+---------- tsteh_bishop: turn 4 ----------
+tsteh_bishop - plays Moneylender
+tsteh_bishop - trashes Copper
+tsteh_bishop - plays 1 Copper
+tsteh_bishop - buys Spy
+tsteh_bishop - gains Spy
+tsteh_bishop - draws Estate, Copper
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Silver, Copper, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Copper, Copper, Estate, Estate, Witch
+ 
+---------- tsteh_bishop: turn 5 ----------
+tsteh_bishop - plays 3 Copper, 1 Silver
+tsteh_bishop - buys Laboratory
+tsteh_bishop - gains Laboratory
+tsteh_bishop - draws Estate, Copper, Moneylender, Copper, Gold
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+tsteh_bishop - gains Curse
+Gherald - plays 4 Copper
+Gherald - buys Feast
+Gherald - gains Feast
+Gherald - draws Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Moneylender, Estate, Witch
+ 
+---------- tsteh_bishop: turn 6 ----------
+tsteh_bishop - plays Moneylender
+tsteh_bishop - trashes Copper
+tsteh_bishop - plays 1 Copper, 1 Gold
+tsteh_bishop - buys Gold
+tsteh_bishop - gains Gold
+tsteh_bishop - draws Copper, Estate, Spy
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Estate, Silver
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+tsteh_bishop - gains Curse
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Copper, Copper, Gold, Estate, Estate
+ 
+---------- tsteh_bishop: turn 7 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Copper
+tsteh_bishop - places Gold on top of deck
+Gherald - discards Feast
+tsteh_bishop - plays 2 Copper, 1 Silver
+tsteh_bishop - buys Spy
+tsteh_bishop - gains Spy
+tsteh_bishop - draws Gold, Curse, Copper, Copper, Estate
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays 2 Copper, 1 Gold
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Gold
+ 
+---------- tsteh_bishop: turn 8 ----------
+tsteh_bishop - plays 2 Copper, 1 Gold
+tsteh_bishop - buys Witch
+tsteh_bishop - gains Witch
+tsteh_bishop - draws Copper, Laboratory, Moneylender, Gold
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Estate
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays 2 Copper, 1 Silver, 1 Gold
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Estate, Copper, Copper, Feast, Estate
+ 
+---------- tsteh_bishop: turn 9 ----------
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Gold, Spy
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Estate
+tsteh_bishop - discards Curse
+Gherald - discards Laboratory
+tsteh_bishop - plays Moneylender
+tsteh_bishop - trashes Copper
+tsteh_bishop - plays 2 Gold
+tsteh_bishop - buys Province
+tsteh_bishop - gains Province
+tsteh_bishop - draws Copper, Silver, Copper, Curse, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Feast
+Gherald - trashes Feast
+Gherald - gains Laboratory
+Gherald - draws Copper, Silver, Witch, Copper, Moneylender
+ 
+---------- tsteh_bishop: turn 10 ----------
+tsteh_bishop - plays 2 Copper, 1 Silver
+tsteh_bishop - buys Spy
+tsteh_bishop - gains Spy
+tsteh_bishop - draws Copper, Witch, Copper, Spy
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Estate
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Witch
+Gherald - draws Laboratory
+Gherald - shuffles deck
+Gherald - draws Estate
+tsteh_bishop - gains Curse
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Copper, Laboratory, Silver, Laboratory, Copper
+ 
+---------- tsteh_bishop: turn 11 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Spy
+tsteh_bishop - discards Province
+Gherald - discards Copper
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Gold
+tsteh_bishop - discards Moneylender
+Gherald - discards Gold
+tsteh_bishop - plays Witch
+tsteh_bishop - draws Spy, Laboratory
+Gherald - gains Curse
+tsteh_bishop - plays 2 Copper, 1 Gold
+tsteh_bishop - buys Laboratory
+tsteh_bishop - gains Laboratory
+tsteh_bishop - draws Estate, Curse, Curse, Estate, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Estate
+Gherald - plays Laboratory
+Gherald - draws Estate, Copper
+Gherald - plays Laboratory
+Gherald - shuffles deck
+Gherald - draws Estate, Copper
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Laboratory, Curse, Moneylender, Copper, Silver
+ 
+---------- tsteh_bishop: turn 12 ----------
+tsteh_bishop - draws Copper, Silver, Gold
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Gold, Moneylender
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Laboratory
+Gherald - draws Silver, Copper
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Gold, Witch
+Gherald - shuffles deck
+Gherald - draws Moneylender, Curse, Estate
+ 
+---------- tsteh_bishop: turn 13 ----------
+tsteh_bishop - plays Moneylender
+tsteh_bishop - trashes Copper
+tsteh_bishop - plays 2 Gold, 1 Silver
+tsteh_bishop - buys Province
+tsteh_bishop - gains Province
+tsteh_bishop - draws Laboratory, Estate, Laboratory, Estate, Spy
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+tsteh_bishop - gains Curse
+Gherald - plays 2 Copper, 1 Gold
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Laboratory, Silver, Copper, Copper, Estate
+ 
+---------- tsteh_bishop: turn 14 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Copper
+tsteh_bishop - discards Copper
+Gherald - discards Laboratory
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Province, Curse
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Estate, Witch
+tsteh_bishop - plays Witch
+tsteh_bishop - draws Curse, Spy
+Gherald - gains Curse
+tsteh_bishop - draws Spy, Copper, Curse
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Witch, Silver
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Laboratory
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Copper
+Gherald - plays Laboratory
+Gherald - draws Estate, Silver
+Gherald - plays Laboratory
+Gherald - draws Province, Silver
+Gherald - plays 3 Silver, 3 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - shuffles deck
+Gherald - draws Laboratory, Laboratory, Moneylender, Silver, Curse
+ 
+---------- tsteh_bishop: turn 15 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Estate
+tsteh_bishop - discards Province
+Gherald - places Curse on top of deck
+tsteh_bishop - plays Witch
+tsteh_bishop - draws Curse, Moneylender
+Gherald - gains Curse
+tsteh_bishop - plays 1 Copper, 1 Silver
+tsteh_bishop - buys Silver
+tsteh_bishop - gains Silver
+tsteh_bishop - draws Laboratory, Estate, Gold, Laboratory, Province
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Laboratory
+Gherald - draws Curse, Copper
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Copper
+Gherald - plays Laboratory
+Gherald - draws Estate, Province
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Laboratory
+Gherald - gains Laboratory
+Gherald - draws Laboratory, Province, Laboratory, Estate, Witch
+ 
+---------- tsteh_bishop: turn 16 ----------
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Estate, Spy
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Curse
+tsteh_bishop - places Copper on top of deck
+Gherald - places Copper on top of deck
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Copper, Copper
+tsteh_bishop - plays 2 Copper, 1 Gold
+tsteh_bishop - buys Laboratory
+tsteh_bishop - gains Laboratory
+tsteh_bishop - draws Spy, Curse, Gold
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Estate, Witch
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Laboratory
+Gherald - draws Copper, Copper
+Gherald - plays Laboratory
+Gherald - draws Silver, Gold
+Gherald - plays Witch
+Gherald - draws Estate, Copper
+tsteh_bishop - gains Curse
+Gherald - plays 3 Copper, 1 Silver, 1 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Silver, Laboratory
+Gherald - shuffles deck
+Gherald - draws Province, Silver, Curse
+ 
+---------- tsteh_bishop: turn 17 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Laboratory
+tsteh_bishop - discards Estate
+Gherald - discards Witch
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Copper, Province
+tsteh_bishop - plays Witch
+tsteh_bishop - draws Curse, Spy
+Gherald - gains Curse
+tsteh_bishop - plays 1 Gold, 1 Copper
+tsteh_bishop - buys Spy
+tsteh_bishop - gains Spy
+tsteh_bishop - draws Laboratory, Copper, Copper, Spy, Silver
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Province
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Copper
+Gherald - plays Laboratory
+Gherald - draws Laboratory, Estate
+Gherald - plays Laboratory
+Gherald - draws Copper, Curse
+Gherald - plays 2 Silver, 2 Copper
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Curse, Moneylender, Laboratory, Estate, Gold
+ 
+---------- tsteh_bishop: turn 18 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Curse
+tsteh_bishop - places Silver on top of deck
+Gherald - places Copper on top of deck
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Silver, Estate
+tsteh_bishop - plays 2 Copper, 2 Silver
+tsteh_bishop - buys Adventurer
+tsteh_bishop - gains Adventurer
+tsteh_bishop - draws Moneylender, Curse, Gold, Laboratory, Province
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays Laboratory
+Gherald - draws Copper, Copper
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Gold, 1 Copper
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Laboratory, Silver, Estate, Province, Laboratory
+ 
+---------- tsteh_bishop: turn 19 ----------
+tsteh_bishop - plays Laboratory
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Laboratory, Estate
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Spy, Witch
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Copper
+tsteh_bishop - discards Laboratory
+Gherald - shuffles deck
+Gherald - discards Laboratory
+tsteh_bishop - plays Witch
+tsteh_bishop - draws Silver, Copper
+Gherald - gains Curse
+tsteh_bishop - plays 2 Copper, 1 Gold, 1 Silver
+tsteh_bishop - buys Gold
+tsteh_bishop - gains Gold
+tsteh_bishop - draws Curse, Gold, Silver, Spy, Adventurer
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays Laboratory
+Gherald - draws Estate, Laboratory
+Gherald - plays Laboratory
+Gherald - draws Gold, Curse
+Gherald - plays Laboratory
+Gherald - draws Witch, Silver
+Gherald - plays Witch
+Gherald - draws Laboratory, Silver
+Gherald - plays 3 Silver, 1 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Curse, Gold, Copper, Laboratory, Curse
+ 
+---------- tsteh_bishop: turn 20 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Curse
+tsteh_bishop - discards Spy
+Gherald - places Province on top of deck
+tsteh_bishop - plays Adventurer
+tsteh_bishop - shuffles deck
+tsteh_bishop - reveals Province, Estate, Spy, Curse, Copper, Estate, Curse, Estate, Spy, Gold
+tsteh_bishop - places cards in hand:  Copper, Gold
+tsteh_bishop - discards: Province, Estate, Spy, Curse, Estate, Curse, Estate, Spy
+tsteh_bishop - plays 2 Gold, 1 Silver, 1 Copper
+tsteh_bishop - buys Province
+tsteh_bishop - gains Province
+tsteh_bishop - draws Laboratory, Spy, Silver, Province, Curse
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Laboratory
+Gherald - draws Province, Moneylender
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Gold
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Laboratory, Province, Copper, Gold, Copper
+ 
+---------- tsteh_bishop: turn 21 ----------
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Gold
+tsteh_bishop - places Laboratory on top of deck
+Gherald - places Curse on top of deck
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Laboratory, Witch
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Copper, Moneylender
+tsteh_bishop - plays Moneylender
+tsteh_bishop - trashes Copper
+tsteh_bishop - plays 1 Silver, 1 Gold
+tsteh_bishop - buys Duchy
+tsteh_bishop - gains Duchy
+tsteh_bishop - draws Laboratory, Copper
+tsteh_bishop - shuffles deck
+tsteh_bishop - draws Laboratory, Adventurer, Gold
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays Laboratory
+Gherald - draws Curse, Estate
+Gherald - plays 2 Copper, 1 Gold
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - shuffles deck
+Gherald - draws Curse, Gold, Duchy, Silver, Gold
+ 
+---------- tsteh_bishop: turn 22 ----------
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Curse, Curse
+tsteh_bishop - plays Laboratory
+tsteh_bishop - draws Spy, Province
+tsteh_bishop - plays Spy
+tsteh_bishop - draws Province
+tsteh_bishop - discards Spy
+Gherald - places Curse on top of deck
+tsteh_bishop - plays Adventurer
+tsteh_bishop - reveals Silver, Copper
+tsteh_bishop - places cards in hand:  Silver, Copper
+tsteh_bishop - plays 2 Copper, 1 Gold, 1 Silver
+tsteh_bishop - buys Duchy
+tsteh_bishop - gains Duchy
+tsteh_bishop - draws Gold, Curse, Spy, Spy, Gold
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays 2 Gold, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Curse, Laboratory, Province, Copper, Silver
+ 
+------------ Game Over ------------
+Gherald - cards: 7 Laboratory, 1 Moneylender, 1 Witch, 3 Silver, 3 Gold, 2 Copper, 5 Province, 3 Estate, 2 Duchy, 5 Curse
+Gherald - total victory points: 34
+Gherald - turns: 23
+ 
+tsteh_bishop - cards: 4 Spy, 3 Laboratory, 1 Adventurer, 1 Moneylender, 1 Witch, 3 Gold, 2 Copper, 2 Silver, 3 Province, 3 Estate, 2 Duchy, 5 Curse
+tsteh_bishop - total victory points: 22
+tsteh_bishop - turns: 22
+ 
+1st place: Gherald
+2nd place: tsteh_bishop
+ 

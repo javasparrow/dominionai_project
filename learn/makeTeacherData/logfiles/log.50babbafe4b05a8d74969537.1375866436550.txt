@@ -1,0 +1,384 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Woodcutter, Bureaucrat, Militia, Moneylender, Smithy, Spy, Festival, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fjord - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Fjord - shuffles deck
+Gherald - draws Copper, Copper, Estate, Estate, Copper
+Fjord - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Fjord: turn 1 ----------
+Fjord - plays 3 Copper
+Fjord - buys Silver
+Fjord - gains Silver
+Fjord - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Fjord: turn 2 ----------
+Fjord - plays 4 Copper
+Fjord - buys Moneylender
+Fjord - gains Moneylender
+Fjord - shuffles deck
+Fjord - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Moneylender
+Gherald - gains Moneylender
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Fjord: turn 3 ----------
+Fjord - plays 4 Copper, 1 Silver
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Moneylender, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 5 Copper
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Estate, Copper, Estate, Estate, Moneylender
+ 
+---------- Fjord: turn 4 ----------
+Fjord - plays Moneylender
+Fjord - trashes Copper
+Fjord - plays 2 Copper
+Fjord - buys Witch
+Fjord - gains Witch
+Fjord - draws Estate, Estate
+Fjord - shuffles deck
+Fjord - draws Copper, Copper, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Moneylender
+ 
+---------- Fjord: turn 5 ----------
+Fjord - plays 3 Copper
+Fjord - buys Village
+Fjord - gains Village
+Fjord - draws Witch, Gold, Copper, Copper, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Copper, Witch, Copper, Estate, Village
+ 
+---------- Fjord: turn 6 ----------
+Fjord - plays Witch
+Fjord - draws Moneylender, Silver
+Gherald - gains Curse
+Fjord - plays 3 Copper, 1 Gold, 1 Silver
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Estate
+Fjord - shuffles deck
+Fjord - draws Copper, Moneylender, Copper, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Witch
+Gherald - draws Estate, Estate
+Fjord - gains Curse
+Gherald - plays 3 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - shuffles deck
+Gherald - draws Village, Moneylender, Witch, Copper, Estate
+ 
+---------- Fjord: turn 7 ----------
+Fjord - plays Moneylender
+Fjord - trashes Copper
+Fjord - plays 2 Copper
+Fjord - buys Festival
+Fjord - gains Festival
+Fjord - draws Gold, Village, Estate, Gold, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+Fjord - gains Curse
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 2 Copper
+Gherald - buys Festival
+Gherald - gains Festival
+Gherald - draws Copper, Copper, Curse, Estate, Village
+ 
+---------- Fjord: turn 8 ----------
+Fjord - plays Village
+Fjord - draws Estate
+Fjord - plays 2 Gold, 1 Copper
+Fjord - buys Witch
+Fjord - gains Witch
+Fjord - draws Copper, Copper, Silver, Witch
+Fjord - shuffles deck
+Fjord - draws Gold
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Village
+Gherald - draws Witch
+Gherald - plays Witch
+Gherald - draws Silver
+Gherald - shuffles deck
+Gherald - draws Moneylender
+Fjord - gains Curse
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Festival
+Gherald - gains Festival
+Gherald - draws Copper, Village, Witch, Estate, Festival
+ 
+---------- Fjord: turn 9 ----------
+Fjord - plays Witch
+Fjord - draws Curse, Festival
+Gherald - gains Curse
+Fjord - plays 2 Copper, 1 Silver, 1 Gold
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Gold, Estate, Estate, Moneylender, Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Copper
+Gherald - shuffles deck
+Gherald - draws Estate
+Fjord - gains Curse
+Gherald - plays Festival
+Gherald - plays 2 Copper
+Gherald - buys Smithy
+Gherald - gains Smithy
+Gherald - draws Festival, Silver, Copper, Curse, Moneylender
+ 
+---------- Fjord: turn 10 ----------
+Fjord - plays Moneylender
+Fjord - trashes Copper
+Fjord - plays 1 Gold
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Copper, Village, Witch, Copper, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Festival
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays 1 Silver
+Gherald - buys Festival
+Gherald - gains Festival
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Curse, Witch, Village
+Gherald - shuffles deck
+Gherald - draws Estate, Curse
+ 
+---------- Fjord: turn 11 ----------
+Fjord - plays Village
+Fjord - draws Curse
+Fjord - plays Witch
+Fjord - shuffles deck
+Fjord - draws Curse, Silver
+Gherald - gains Curse
+Fjord - plays 2 Copper, 1 Silver
+Fjord - buys Village
+Fjord - gains Village
+Fjord - draws Gold, Moneylender, Estate, Curse, Witch
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+Fjord - gains Curse
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Smithy, Estate, Festival, Moneylender, Village
+ 
+---------- Fjord: turn 12 ----------
+Fjord - plays Witch
+Fjord - draws Festival, Copper
+Gherald - gains Curse
+Fjord - plays 1 Gold, 1 Copper
+Fjord - buys Village
+Fjord - gains Village
+Fjord - draws Estate, Curse, Copper, Gold, Gold
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Village
+Gherald - draws Festival
+Gherald - plays Smithy
+Gherald - draws Witch, Cellar, Silver
+Gherald - plays Festival
+Gherald - plays Festival
+Gherald - plays Witch
+Gherald - draws Festival
+Gherald - shuffles deck
+Gherald - draws Copper
+Fjord - gains Curse
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays Festival
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - draws Curse
+Gherald - plays 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - buys Smithy
+Gherald - gains Smithy
+Gherald - draws Curse, Copper, Village, Witch, Cellar
+ 
+---------- Fjord: turn 13 ----------
+Fjord - plays 2 Gold, 1 Copper
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Gold
+Fjord - shuffles deck
+Fjord - draws Moneylender, Estate, Gold, Curse
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Village
+Gherald - draws Curse
+Gherald - plays Witch
+Gherald - draws Estate, Estate
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - discards Curse
+Gherald - discards Estate
+Gherald - discards Estate
+Gherald - draws Curse
+Gherald - shuffles deck
+Gherald - draws Copper, Moneylender, Cellar, Festival
+Gherald - plays Festival
+Gherald - plays Moneylender
+Gherald - trashes Copper
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - draws Estate
+Gherald - buys Smithy
+Gherald - gains Smithy
+Gherald - draws Festival, Curse, Silver, Village, Witch
+ 
+---------- Fjord: turn 14 ----------
+Fjord - plays Moneylender
+Fjord - plays 2 Gold
+Fjord - buys Gold
+Fjord - gains Gold
+Fjord - draws Estate, Village, Village, Estate, Witch
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Village
+Gherald - draws Smithy
+Gherald - plays Smithy
+Gherald - draws Gold, Smithy, Curse
+Gherald - plays Festival
+Gherald - plays Smithy
+Gherald - draws Estate, Festival, Curse
+Gherald - plays Festival
+Gherald - plays Witch
+Gherald - draws Estate
+Gherald - shuffles deck
+Gherald - draws Festival
+Gherald - plays Festival
+Gherald - plays 1 Silver, 1 Gold
+Gherald - buys Village
+Gherald - gains Village
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Cellar, Estate, Cellar, Village, Curse
+ 
+---------- Fjord: turn 15 ----------
+Fjord - plays Village
+Fjord - draws Curse
+Fjord - plays Village
+Fjord - draws Copper
+Fjord - plays Witch
+Fjord - draws Curse, Curse
+Fjord - plays 1 Copper
+Fjord - draws Copper, Gold, Copper, Festival, Village
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Village
+Gherald - draws Moneylender
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Cellar
+Gherald - discards Curse
+Gherald - discards Moneylender
+Gherald - draws Smithy, Witch
+Gherald - shuffles deck
+Gherald - draws Cellar, Gold
+Gherald - plays Smithy
+Gherald - draws Village, Province, Curse
+Gherald - plays Village
+Gherald - draws Moneylender
+Gherald - plays Witch
+Gherald - draws Estate, Festival
+Gherald - plays Festival
+Gherald - plays Cellar
+Gherald - discards Province
+Gherald - discards Curse
+Gherald - discards Moneylender
+Gherald - discards Estate
+Gherald - draws Estate, Estate, Curse, Smithy
+Gherald - plays Smithy
+Gherald - draws Smithy, Silver, Festival
+Gherald - plays Festival
+Gherald - plays Smithy
+Gherald - draws Witch, Curse, Village
+Gherald - plays Village
+Gherald - draws Festival
+Gherald - plays Witch
+Gherald - draws Curse
+Gherald - shuffles deck
+Gherald - draws Curse
+Gherald - plays Festival
+Gherald - plays 1 Gold, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Moneylender, Estate, Province
+Gherald - shuffles deck
+Gherald - draws Curse, Village
+ 
+---------- Fjord: turn 16 ----------
+Fjord - plays Village
+Fjord - draws Curse
+Fjord - plays Festival
+ 
+------------ Game Over ------------
+Gherald - cards: 4 Village, 3 Festival, 3 Smithy, 2 Witch, 2 Cellar, 1 Moneylender, 1 Silver, 1 Gold, 3 Estate, 2 Province, 4 Curse
+Gherald - total victory points: 11
+Gherald - turns: 15
+ 
+Fjord - resigned
+Fjord - cards: 2 Village, 2 Witch, 1 Moneylender, 6 Gold, 4 Copper, 1 Silver, 3 Estate, 6 Curse
+Fjord - total victory points: -3
+Fjord - turns: 15
+ 
+1st place: Gherald
+2nd place: Fjord
+ 

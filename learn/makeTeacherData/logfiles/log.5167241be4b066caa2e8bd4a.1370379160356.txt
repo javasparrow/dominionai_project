@@ -1,0 +1,480 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Village, Woodcutter, Moneylender, Smithy, Throne Room, Council Room, Laboratory, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Pustiupoker - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Blobby - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pustiupoker - shuffles deck
+Blobby - shuffles deck
+Pustiupoker - draws Estate, Copper, Copper, Copper, Copper
+Blobby - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Blobby: turn 1 ----------
+Blobby - plays 5 Copper
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Pustiupoker: turn 1 ----------
+Pustiupoker - plays 4 Copper
+Pustiupoker - buys Moneylender
+Pustiupoker - gains Moneylender
+Pustiupoker - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Blobby: turn 2 ----------
+Blobby - plays 2 Copper
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - shuffles deck
+Blobby - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pustiupoker: turn 2 ----------
+Pustiupoker - plays 3 Copper
+Pustiupoker - buys Woodcutter
+Pustiupoker - gains Woodcutter
+Pustiupoker - shuffles deck
+Pustiupoker - draws Moneylender, Copper, Copper, Woodcutter, Copper
+ 
+---------- Blobby: turn 3 ----------
+Blobby - plays 4 Copper
+Blobby - buys Moneylender
+Blobby - gains Moneylender
+Blobby - draws Copper, Copper, Cellar, Estate, Estate
+ 
+---------- Pustiupoker: turn 3 ----------
+Pustiupoker - plays Moneylender
+Pustiupoker - trashes Copper
+Pustiupoker - plays 2 Copper
+Pustiupoker - buys Laboratory
+Pustiupoker - gains Laboratory
+Pustiupoker - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Blobby: turn 4 ----------
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - draws Laboratory, Copper
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Moneylender, Copper
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 3 Copper
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Pustiupoker: turn 4 ----------
+Pustiupoker - plays 4 Copper
+Pustiupoker - buys Throne Room
+Pustiupoker - gains Throne Room
+Pustiupoker - draws Estate, Estate
+Pustiupoker - shuffles deck
+Pustiupoker - draws Estate, Laboratory, Copper
+ 
+---------- Blobby: turn 5 ----------
+Blobby - plays 2 Copper
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - draws Copper
+Blobby - shuffles deck
+Blobby - draws Copper, Copper, Gold, Copper
+ 
+---------- Pustiupoker: turn 5 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Copper, Copper
+Pustiupoker - plays 3 Copper
+Pustiupoker - buys Village
+Pustiupoker - gains Village
+Pustiupoker - draws Copper, Copper, Woodcutter, Throne Room, Copper
+ 
+---------- Blobby: turn 6 ----------
+Blobby - plays 4 Copper, 1 Gold
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Cellar, Copper, Copper, Estate, Estate
+ 
+---------- Pustiupoker: turn 6 ----------
+Pustiupoker - plays Throne Room
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays 3 Copper
+Pustiupoker - buys Gold
+Pustiupoker - gains Gold
+Pustiupoker - draws Moneylender
+Pustiupoker - shuffles deck
+Pustiupoker - draws Copper, Copper, Estate, Throne Room
+ 
+---------- Blobby: turn 7 ----------
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - draws Estate, Cellar
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - draws Moneylender, Laboratory
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Copper, Estate
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 1 Copper
+Blobby - buys Throne Room
+Blobby - gains Throne Room
+Blobby - draws Gold, Estate, Copper, Copper, Estate
+ 
+---------- Pustiupoker: turn 7 ----------
+Pustiupoker - plays Throne Room
+Pustiupoker - plays Moneylender
+Pustiupoker - trashes Copper
+Pustiupoker - plays Moneylender
+Pustiupoker - trashes Copper
+Pustiupoker - buys Gold
+Pustiupoker - gains Gold
+Pustiupoker - draws Laboratory, Copper, Copper, Gold, Copper
+ 
+---------- Blobby: turn 8 ----------
+Blobby - plays 2 Copper, 1 Gold
+Blobby - buys Market
+Blobby - gains Market
+Blobby - draws Copper, Copper, Gold
+Blobby - shuffles deck
+Blobby - draws Laboratory, Copper
+ 
+---------- Pustiupoker: turn 8 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Village, Estate
+Pustiupoker - plays Village
+Pustiupoker - draws Estate
+Pustiupoker - plays 3 Copper, 1 Gold
+Pustiupoker - buys Gold
+Pustiupoker - gains Gold
+Pustiupoker - draws Woodcutter, Copper
+Pustiupoker - shuffles deck
+Pustiupoker - draws Laboratory, Copper, Copper
+ 
+---------- Blobby: turn 9 ----------
+Blobby - plays Laboratory
+Blobby - draws Estate, Cellar
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - draws Copper, Throne Room, Estate
+Blobby - plays 2 Copper, 1 Gold
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Cellar, Copper, Moneylender, Gold, Estate
+ 
+---------- Pustiupoker: turn 9 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Estate, Estate
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays 3 Copper
+Pustiupoker - buys Laboratory
+Pustiupoker - gains Laboratory
+Pustiupoker - draws Gold, Village, Gold, Gold, Copper
+ 
+---------- Blobby: turn 10 ----------
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - draws Market
+Blobby - plays Market
+Blobby - shuffles deck
+Blobby - draws Estate
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 1 Gold
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Estate, Gold, Laboratory, Copper, Throne Room
+ 
+---------- Pustiupoker: turn 10 ----------
+Pustiupoker - plays Village
+Pustiupoker - draws Moneylender
+Pustiupoker - plays Moneylender
+Pustiupoker - trashes Copper
+Pustiupoker - plays 3 Gold
+Pustiupoker - buys Province
+Pustiupoker - gains Province
+Pustiupoker - draws Estate, Throne Room
+Pustiupoker - shuffles deck
+Pustiupoker - draws Copper, Laboratory, Woodcutter
+ 
+---------- Blobby: turn 11 ----------
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Copper, Cellar
+Blobby - plays Laboratory
+Blobby - draws Laboratory, Estate
+Blobby - plays Laboratory
+Blobby - draws Copper, Copper
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - shuffles deck
+Blobby - draws Market, Cellar, Estate, Estate, Moneylender
+Blobby - plays Market
+Blobby - draws Copper
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - draws Copper, Estate, Gold
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 2 Gold, 1 Copper
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - buys Laboratory
+Blobby - gains Laboratory
+Blobby - draws Copper, Gold
+Blobby - shuffles deck
+Blobby - draws Gold, Cellar, Estate
+ 
+---------- Pustiupoker: turn 11 ----------
+Pustiupoker - plays Throne Room
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Estate, Gold
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Gold, Copper
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays 2 Copper, 2 Gold
+Pustiupoker - buys Laboratory
+Pustiupoker - gains Laboratory
+Pustiupoker - buys Market
+Pustiupoker - gains Market
+Pustiupoker - draws Province, Copper, Village, Laboratory, Estate
+ 
+---------- Blobby: turn 12 ----------
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - draws Estate, Laboratory
+Blobby - plays Laboratory
+Blobby - draws Cellar, Copper
+Blobby - plays Cellar
+Blobby - discards Copper
+Blobby - discards Estate
+Blobby - draws Gold, Copper
+Blobby - plays 3 Gold, 1 Copper
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Throne Room, Laboratory, Laboratory, Market, Moneylender
+ 
+---------- Pustiupoker: turn 12 ----------
+Pustiupoker - plays Village
+Pustiupoker - draws Gold
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Moneylender
+Pustiupoker - shuffles deck
+Pustiupoker - draws Throne Room
+Pustiupoker - plays Moneylender
+Pustiupoker - trashes Copper
+Pustiupoker - plays 1 Gold
+Pustiupoker - buys Gold
+Pustiupoker - gains Gold
+Pustiupoker - draws Estate, Gold, Estate, Laboratory, Copper
+ 
+---------- Blobby: turn 13 ----------
+Blobby - plays Laboratory
+Blobby - draws Estate, Gold
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Estate, Estate
+Blobby - plays Throne Room
+Blobby - plays Market
+Blobby - draws Gold
+Blobby - plays Market
+Blobby - draws Gold
+Blobby - plays 3 Gold
+Blobby - buys Province
+Blobby - gains Province
+Blobby - buys Village
+Blobby - gains Village
+Blobby - draws Copper, Cellar, Cellar, Copper, Copper
+ 
+---------- Pustiupoker: turn 13 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Gold, Market
+Pustiupoker - plays Market
+Pustiupoker - draws Copper
+Pustiupoker - plays 2 Gold, 2 Copper
+Pustiupoker - buys Province
+Pustiupoker - gains Province
+Pustiupoker - draws Laboratory, Woodcutter
+Pustiupoker - shuffles deck
+Pustiupoker - draws Laboratory, Gold, Copper
+ 
+---------- Blobby: turn 14 ----------
+Blobby - plays Cellar
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - discards Copper
+Blobby - draws Gold, Province, Laboratory
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Estate, Copper
+Blobby - plays Cellar
+Blobby - discards Province
+Blobby - discards Estate
+Blobby - discards Copper
+Blobby - draws Moneylender, Copper, Estate
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 1 Gold
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Laboratory, Laboratory, Throne Room, Village, Province
+ 
+---------- Pustiupoker: turn 14 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Moneylender, Estate
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Throne Room, Gold
+Pustiupoker - plays Throne Room
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays 2 Gold, 1 Copper
+Pustiupoker - buys Province
+Pustiupoker - gains Province
+Pustiupoker - buys Silver
+Pustiupoker - gains Silver
+Pustiupoker - draws Estate, Copper, Province, Gold, Laboratory
+ 
+---------- Blobby: turn 15 ----------
+Blobby - plays Village
+Blobby - draws Market
+Blobby - plays Laboratory
+Blobby - draws Gold, Estate
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Gold, Copper
+Blobby - plays Laboratory
+Blobby - draws Gold
+Blobby - shuffles deck
+Blobby - draws Cellar
+Blobby - plays Market
+Blobby - draws Estate
+Blobby - plays Cellar
+Blobby - discards Province
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - draws Estate, Moneylender, Copper
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 3 Gold, 1 Copper
+Blobby - buys Province
+Blobby - gains Province
+Blobby - buys Duchy
+Blobby - gains Duchy
+Blobby - draws Province, Cellar, Gold, Laboratory, Gold
+ 
+---------- Pustiupoker: turn 15 ----------
+Pustiupoker - plays Laboratory
+Pustiupoker - draws Village, Market
+Pustiupoker - plays Village
+Pustiupoker - draws Province
+Pustiupoker - plays Market
+Pustiupoker - draws Estate
+Pustiupoker - plays 1 Copper, 1 Gold
+Pustiupoker - buys Duchy
+Pustiupoker - gains Duchy
+Pustiupoker - draws Gold
+Pustiupoker - shuffles deck
+Pustiupoker - draws Gold, Estate, Market, Gold
+ 
+---------- Blobby: turn 16 ----------
+Blobby - plays Laboratory
+Blobby - shuffles deck
+Blobby - draws Estate, Village
+Blobby - plays Village
+Blobby - draws Cellar
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Province
+Blobby - draws Gold, Gold
+Blobby - plays 4 Gold
+Blobby - buys Duchy
+Blobby - gains Duchy
+Blobby - draws Estate, Moneylender, Market, Copper, Laboratory
+ 
+---------- Pustiupoker: turn 16 ----------
+Pustiupoker - plays Market
+Pustiupoker - draws Duchy
+Pustiupoker - plays 3 Gold
+Pustiupoker - buys Duchy
+Pustiupoker - gains Duchy
+Pustiupoker - buys Duchy
+Pustiupoker - gains Duchy
+Pustiupoker - draws Woodcutter, Province, Province, Moneylender, Throne Room
+ 
+---------- Blobby: turn 17 ----------
+Blobby - plays Market
+Blobby - draws Province
+Blobby - plays Laboratory
+Blobby - draws Estate, Province
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - buys Throne Room
+Blobby - gains Throne Room
+Blobby - draws Gold, Throne Room, Duchy, Laboratory
+Blobby - shuffles deck
+Blobby - draws Throne Room
+ 
+---------- Pustiupoker: turn 17 ----------
+Pustiupoker - plays Throne Room
+Pustiupoker - plays Woodcutter
+Pustiupoker - plays Woodcutter
+Pustiupoker - buys Smithy
+Pustiupoker - gains Smithy
+Pustiupoker - draws Village, Estate, Province, Laboratory, Copper
+ 
+---------- Blobby: turn 18 ----------
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Province, Laboratory
+Blobby - plays Laboratory
+Blobby - draws Province, Estate
+Blobby - plays Throne Room
+Blobby - plays Laboratory
+Blobby - draws Estate, Cellar
+Blobby - plays Laboratory
+Blobby - draws Village, Market
+Blobby - plays Village
+Blobby - draws Laboratory
+Blobby - plays Laboratory
+Blobby - draws Gold, Cellar
+Blobby - plays Market
+Blobby - draws Estate
+Blobby - plays Cellar
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - discards Estate
+Blobby - discards Province
+Blobby - discards Province
+Blobby - discards Duchy
+Blobby - draws Province, Duchy, Gold, Gold, Gold, Moneylender
+Blobby - plays 5 Gold
+Blobby - buys Province
+Blobby - gains Province
+Blobby - buys Province
+Blobby - gains Province
+Blobby - shuffles deck
+Blobby - draws Gold, Estate, Laboratory, Cellar, Gold
+ 
+------------ Game Over ------------
+Blobby - cards: 3 Laboratory, 2 Cellar, 2 Throne Room, 1 Village, 1 Market, 1 Moneylender, 5 Gold, 5 Province, 3 Estate, 2 Duchy
+Blobby - total victory points: 39
+Blobby - turns: 18
+ 
+Pustiupoker - cards: 3 Laboratory, 1 Market, 1 Moneylender, 1 Village, 1 Woodcutter, 1 Throne Room, 1 Smithy, 4 Gold, 2 Copper, 1 Silver, 3 Estate, 3 Duchy, 3 Province
+Pustiupoker - total victory points: 30
+Pustiupoker - turns: 17
+ 
+1st place: Blobby
+2nd place: Pustiupoker
+ 

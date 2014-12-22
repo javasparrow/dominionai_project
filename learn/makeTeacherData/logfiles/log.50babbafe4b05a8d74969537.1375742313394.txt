@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Woodcutter, Bureaucrat, Gardens, Moneylender, Smithy, Thief, Throne Room, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+BingUpBingDown - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+BingUpBingDown - shuffles deck
+Gherald - draws Copper, Estate, Estate, Copper, Estate
+BingUpBingDown - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- BingUpBingDown: turn 1 ----------
+BingUpBingDown - plays 4 Copper
+BingUpBingDown - buys Moneylender
+BingUpBingDown - gains Moneylender
+BingUpBingDown - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- BingUpBingDown: turn 2 ----------
+BingUpBingDown - plays 3 Copper
+BingUpBingDown - buys Village
+BingUpBingDown - gains Village
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 5 Copper
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Bureaucrat, Copper, Estate
+ 
+---------- BingUpBingDown: turn 3 ----------
+BingUpBingDown - plays 4 Copper
+BingUpBingDown - buys Bureaucrat
+BingUpBingDown - gains Bureaucrat
+BingUpBingDown - draws Moneylender, Copper, Estate, Copper, Village
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 3 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- BingUpBingDown: turn 4 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Estate
+BingUpBingDown - plays Moneylender
+BingUpBingDown - trashes Copper
+BingUpBingDown - plays 1 Copper
+BingUpBingDown - buys Village
+BingUpBingDown - gains Village
+BingUpBingDown - draws Copper, Estate
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Village, Village, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Copper, Cellar, Estate
+Gherald - shuffles deck
+Gherald - draws Woodcutter, Estate
+ 
+---------- BingUpBingDown: turn 5 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Moneylender
+BingUpBingDown - plays Village
+BingUpBingDown - draws Estate
+BingUpBingDown - plays Moneylender
+BingUpBingDown - trashes Copper
+BingUpBingDown - plays 1 Copper
+BingUpBingDown - buys Silver
+BingUpBingDown - gains Silver
+BingUpBingDown - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - discards Woodcutter
+Gherald - discards Estate
+Gherald - draws Estate, Copper, Copper, Copper
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Silver, Copper, Copper, Bureaucrat, Copper
+ 
+---------- BingUpBingDown: turn 6 ----------
+BingUpBingDown - plays 4 Copper
+BingUpBingDown - buys Bureaucrat
+BingUpBingDown - gains Bureaucrat
+BingUpBingDown - draws Bureaucrat
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Silver, Copper, Bureaucrat, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Bureaucrat, Silver, Copper, Bureaucrat, Copper
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Silver, Bureaucrat
+Gherald - shuffles deck
+Gherald - draws Woodcutter, Copper, Copper
+ 
+---------- BingUpBingDown: turn 7 ----------
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Silver, Bureaucrat, Woodcutter, Copper, Copper
+BingUpBingDown - plays 2 Copper, 1 Silver
+BingUpBingDown - buys Silver
+BingUpBingDown - gains Silver
+BingUpBingDown - draws Silver, Estate, Estate, Copper, Moneylender
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Cellar, Estate, Estate, Bureaucrat
+ 
+---------- BingUpBingDown: turn 8 ----------
+BingUpBingDown - plays Moneylender
+BingUpBingDown - trashes Copper
+BingUpBingDown - plays 1 Silver
+BingUpBingDown - buys Gardens
+BingUpBingDown - gains Gardens
+BingUpBingDown - draws Estate, Village, Village, Copper, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Estate
+Gherald - discards Bureaucrat
+Gherald - draws Silver, Copper, Bureaucrat
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- BingUpBingDown: turn 9 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Estate
+BingUpBingDown - plays Village
+BingUpBingDown - draws Estate
+BingUpBingDown - plays 2 Copper
+BingUpBingDown - buys Cellar
+BingUpBingDown - gains Cellar
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Gardens, Silver, Copper, Estate, Silver
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Estate, Silver
+Gherald - shuffles deck
+Gherald - draws Estate, Bureaucrat, Copper
+ 
+---------- BingUpBingDown: turn 10 ----------
+BingUpBingDown - plays 2 Silver, 1 Copper
+BingUpBingDown - buys Gardens
+BingUpBingDown - gains Gardens
+BingUpBingDown - draws Copper, Copper, Bureaucrat, Silver, Cellar
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Copper, Copper, Bureaucrat, Silver, Cellar
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Silver, Gardens, Silver, Woodcutter, Cellar
+ 
+---------- BingUpBingDown: turn 11 ----------
+BingUpBingDown - plays Cellar
+BingUpBingDown - discards Copper
+BingUpBingDown - discards Copper
+BingUpBingDown - draws Estate, Moneylender
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Gardens
+Gherald - places Gardens on top of deck
+BingUpBingDown - plays 1 Silver
+BingUpBingDown - buys Cellar
+BingUpBingDown - gains Cellar
+BingUpBingDown - draws Silver, Bureaucrat, Village, Copper, Village
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Gardens, Estate, Copper, Copper, Silver
+ 
+---------- BingUpBingDown: turn 12 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Estate
+BingUpBingDown - plays Village
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Copper
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Estate
+Gherald - places Estate on top of deck
+BingUpBingDown - plays 2 Copper, 1 Silver
+BingUpBingDown - buys Gardens
+BingUpBingDown - gains Gardens
+BingUpBingDown - draws Silver, Estate, Cellar, Cellar, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Estate, Copper, Silver, Gardens, Bureaucrat
+ 
+---------- BingUpBingDown: turn 13 ----------
+BingUpBingDown - plays Cellar
+BingUpBingDown - discards Cellar
+BingUpBingDown - discards Estate
+BingUpBingDown - discards Copper
+BingUpBingDown - draws Gardens, Gardens, Copper
+BingUpBingDown - plays 1 Silver, 1 Copper
+BingUpBingDown - buys Silver
+BingUpBingDown - gains Silver
+BingUpBingDown - draws Moneylender, Silver, Estate, Silver, Silver
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Woodcutter
+Gherald - gains Woodcutter
+Gherald - draws Silver, Copper, Copper, Copper, Gardens
+ 
+---------- BingUpBingDown: turn 14 ----------
+BingUpBingDown - plays 3 Silver
+BingUpBingDown - buys Gold
+BingUpBingDown - gains Gold
+BingUpBingDown - draws Estate, Bureaucrat
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Silver, Gold, Silver
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Silver, Bureaucrat
+Gherald - shuffles deck
+Gherald - draws Woodcutter, Copper, Copper
+ 
+---------- BingUpBingDown: turn 15 ----------
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Silver, Bureaucrat, Woodcutter, Copper, Copper
+BingUpBingDown - plays 2 Silver, 1 Gold
+BingUpBingDown - buys Gold
+BingUpBingDown - gains Gold
+BingUpBingDown - draws Silver, Village, Copper, Silver, Moneylender
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Woodcutter
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Copper, Estate, Cellar, Silver
+ 
+---------- BingUpBingDown: turn 16 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Village
+BingUpBingDown - plays Village
+BingUpBingDown - draws Gardens
+BingUpBingDown - plays Moneylender
+BingUpBingDown - trashes Copper
+BingUpBingDown - plays 2 Silver
+BingUpBingDown - buys Gold
+BingUpBingDown - gains Gold
+BingUpBingDown - draws Bureaucrat, Copper, Silver, Cellar, Gardens
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - draws Woodcutter, Gardens
+Gherald - plays Woodcutter
+Gherald - plays 2 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Silver, Estate, Gardens, Bureaucrat
+ 
+---------- BingUpBingDown: turn 17 ----------
+BingUpBingDown - plays Cellar
+BingUpBingDown - discards Gardens
+BingUpBingDown - discards Copper
+BingUpBingDown - draws Cellar, Copper
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Gardens
+Gherald - places Gardens on top of deck
+BingUpBingDown - plays 1 Silver, 1 Copper
+BingUpBingDown - buys Silver
+BingUpBingDown - gains Silver
+BingUpBingDown - draws Silver, Copper, Estate, Silver, Gardens
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Gardens, Duchy, Copper, Bureaucrat
+ 
+---------- BingUpBingDown: turn 18 ----------
+BingUpBingDown - plays 2 Silver, 1 Copper
+BingUpBingDown - buys Bureaucrat
+BingUpBingDown - gains Bureaucrat
+BingUpBingDown - draws Estate, Silver, Estate
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Bureaucrat, Silver
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Estate
+BingUpBingDown - places Estate on top of deck
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Estate, Estate, Gardens, Silver
+ 
+---------- BingUpBingDown: turn 19 ----------
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Gardens
+Gherald - places Gardens on top of deck
+BingUpBingDown - plays 2 Silver
+BingUpBingDown - buys Bureaucrat
+BingUpBingDown - gains Bureaucrat
+BingUpBingDown - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays 2 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Gardens, Silver, Gardens, Gardens, Copper
+ 
+---------- BingUpBingDown: turn 20 ----------
+BingUpBingDown - plays 3 Copper, 1 Silver
+BingUpBingDown - buys Bureaucrat
+BingUpBingDown - gains Bureaucrat
+BingUpBingDown - draws Village, Silver, Bureaucrat, Gold, Gold
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Woodcutter, Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Bureaucrat, Estate
+ 
+---------- BingUpBingDown: turn 21 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Gardens
+BingUpBingDown - plays Bureaucrat
+BingUpBingDown - gains Silver
+Gherald - reveals Estate
+Gherald - places Estate on top of deck
+BingUpBingDown - plays 2 Gold, 1 Silver
+BingUpBingDown - buys Province
+BingUpBingDown - gains Province
+BingUpBingDown - draws Silver, Village, Silver, Gold, Gardens
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Woodcutter
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Estate, Estate, Silver, Estate, Silver
+ 
+---------- BingUpBingDown: turn 22 ----------
+BingUpBingDown - plays Village
+BingUpBingDown - draws Cellar
+BingUpBingDown - plays Cellar
+BingUpBingDown - discards Gardens
+BingUpBingDown - draws Silver
+BingUpBingDown - plays 3 Silver, 1 Gold
+BingUpBingDown - buys Province
+BingUpBingDown - gains Province
+BingUpBingDown - draws Silver, Silver, Silver, Cellar, Estate
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays 2 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Bureaucrat, Silver, Copper, Estate, Estate
+ 
+---------- BingUpBingDown: turn 23 ----------
+BingUpBingDown - plays Cellar
+BingUpBingDown - discards Estate
+BingUpBingDown - draws Gardens
+BingUpBingDown - plays 3 Silver
+BingUpBingDown - buys Duchy
+BingUpBingDown - gains Duchy
+BingUpBingDown - draws Silver, Bureaucrat, Moneylender
+BingUpBingDown - shuffles deck
+BingUpBingDown - draws Copper, Copper
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Silver, Bureaucrat, Moneylender, Copper, Copper
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Silver, Bureaucrat, Silver, Gardens
+ 
+---------- BingUpBingDown: turn 24 ----------
+BingUpBingDown - plays Moneylender
+BingUpBingDown - trashes Copper
+BingUpBingDown - plays 1 Silver, 1 Copper
+BingUpBingDown - buys Duchy
+BingUpBingDown - gains Duchy
+BingUpBingDown - draws Province, Gold, Silver, Bureaucrat, Silver
+ 
+---------- Gherald: turn 24 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+BingUpBingDown - reveals Province
+BingUpBingDown - places Province on top of deck
+Gherald - plays 3 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Silver, Copper, Silver, Duchy
+ 
+------------ Game Over ------------
+Gherald - cards: 5 Bureaucrat, 3 Woodcutter, 11 Silver, 1 Cellar, 9 Copper, 11 Estate, 5 Gardens, 3 Duchy
+Gherald - total victory points: 40
+Gherald - turns: 24
+ 
+BingUpBingDown - cards: 5 Bureaucrat, 2 Village, 2 Cellar, 11 Silver, 1 Moneylender, 3 Gold, 2 Copper, 3 Gardens, 3 Estate, 2 Duchy, 2 Province
+BingUpBingDown - total victory points: 30
+BingUpBingDown - turns: 24
+ 
+1st place: Gherald
+2nd place: BingUpBingDown
+ 

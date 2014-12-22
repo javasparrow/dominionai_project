@@ -71,20 +71,23 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
-        double value = getInnerProduct(weight[hand[i]-1],feature,notZero);
+        double value = getInnerProduct(weight[hand[i]],feature,notZero);
         values.push_back(value);
     }
+    values.push_back(getInnerProduct(weight[0],feature,notZero));
     
-    double maxValue = -999999;
+    if(values.size() <= 0) return 0;
+    
+    double maxValue = values[0];
     int index = -1;
     for(unsigned int i=0;i<values.size();i++) {
-        if(values[i] > maxValue) {
+        if(values[i] >= maxValue) {
             maxValue = values[i];
             index = i;
         }
     }
-    
-    if(maxValue < 0) return 0;
+    if(index >= hand.size()) return 0;
+    //if(maxValue < 0) return 0;
     
     return hand[index];
 }

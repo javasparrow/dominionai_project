@@ -23,8 +23,10 @@
 #define ACTION_MODE 2
 
 #define GAIN_WEIGHT "./../learn/GainLearning/weight.txt"
-#define PLAY_WEIGHT "./../learn/playCardLearning/weight.txt"
-#define PLAY2_WEIGHT "./../learn/playCardLearning/nAction2/weight.txt"
+#define PLAY11_WEIGHT "./../learn/playCardLearning/weight.txt"
+#define PLAY21_WEIGHT "./../learn/playCardLearning/nAction2/weight.txt"
+#define PLAY12_WEIGHT "./../learn/playCardLearning/twoCard/weight.txt"
+#define PLAY22_WEIGHT "./../learn/playCardLearning/nAction2/twoCard/weight.txt"
 #define GAIN_FEATURE "gainFeature.txt"
 #define PLAY_FEATURE "playFeature.txt"
 #define ACTION_FEATURE "actionFeature.txt"
@@ -39,6 +41,7 @@ int main(int argc, const char * argv[])
     int PlayActionId = 0;
     
     bool action2Flag = false;
+    bool card2Flag = false;
     
     if(argc >= 2) {
         if(argv[1][0] == 'g') {
@@ -147,6 +150,7 @@ int main(int argc, const char * argv[])
         }
         vector<string> out1 = SpritString(out[1],",");
         int nAction = atoi(out1[0].c_str());
+        int nCard = (int)(SpritString(out[2],",").size());
         if(nAction == 1) {
             action2Flag = false;
             cout << "nAction = 1" << endl;
@@ -155,12 +159,20 @@ int main(int argc, const char * argv[])
             action2Flag = true;
             cout << "nAction >= 2" << endl;
         }
+        if(nCard == 1) {
+            card2Flag = false;
+            cout << "nCard = 1" << endl;
+        }
+        if(nCard >= 2) {
+            card2Flag = true;
+            cout << "nCard >= 2" << endl;
+        }
         vector<string> out2 = SpritString(out[2],",");
         for(int i=0;i<out2.size();i++) {
             hand.push_back(atoi(out2[i].c_str()));
         }
         dimensionOfFeature = feature.size();
-        nWeight = 32;//基本セットのみのカード種類数
+        nWeight = 32+1;//基本セットのみのカード種類数
 
     }
     if(Mode == ACTION_MODE) {
@@ -203,11 +215,19 @@ int main(int argc, const char * argv[])
     
     //プレイモードはアクション残存数によって重みがことなるためここでファイル名を決定する
     if(Mode == PLAY_MODE) {
-        if(!action2Flag) {
-            weightfile = PLAY_WEIGHT;//プレイするカード選択時の重みベクトルデータ
-        } else {
-            weightfile = PLAY2_WEIGHT;
+        if(!action2Flag && !card2Flag) {
+            weightfile = PLAY11_WEIGHT;//プレイするカード選択時の重みベクトルデータ
         }
+        if(!action2Flag && card2Flag) {
+            weightfile = PLAY12_WEIGHT;//プレイするカード選択時の重みベクトルデータ
+        }
+        if(action2Flag && !card2Flag) {
+            weightfile = PLAY21_WEIGHT;//プレイするカード選択時の重みベクトルデータ
+        }
+        if(action2Flag && card2Flag) {
+            weightfile = PLAY22_WEIGHT;//プレイするカード選択時の重みベクトルデータ
+        }
+        cout << "weightFIle:" << weightfile << endl;
     }
     
     //--------------------------------------重みベクトルの読み込み-------

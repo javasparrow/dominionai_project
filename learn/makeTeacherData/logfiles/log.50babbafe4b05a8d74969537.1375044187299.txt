@@ -1,0 +1,607 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Bureaucrat, Gardens, Spy, Thief, Laboratory, Library, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Tipok - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Tipok - shuffles deck
+Gherald - draws Copper, Estate, Copper, Estate, Copper
+Tipok - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Tipok: turn 1 ----------
+Tipok - plays 4 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Tipok: turn 2 ----------
+Tipok - plays 3 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - shuffles deck
+Tipok - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 5 Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- Tipok: turn 3 ----------
+Tipok - plays 4 Copper
+Tipok - buys Thief
+Tipok - gains Thief
+Tipok - draws Silver, Estate, Copper, Copper, Silver
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Bureaucrat, Estate
+Gherald - shuffles deck
+Gherald - draws Copper, Market, Silver
+ 
+---------- Tipok: turn 4 ----------
+Tipok - plays 2 Silver, 2 Copper
+Tipok - buys Market
+Tipok - gains Market
+Tipok - draws Estate, Copper
+Tipok - shuffles deck
+Tipok - draws Estate, Copper, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Estate
+Tipok - places Estate on top of deck
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Tipok: turn 5 ----------
+Tipok - plays 3 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - draws Estate, Copper, Copper, Thief, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Copper, Copper, Copper, Bureaucrat
+Gherald - shuffles deck
+Gherald - draws Copper
+ 
+---------- Tipok: turn 6 ----------
+Tipok - plays Thief
+Gherald - reveals: Gardens, Copper
+Gherald - trashes Copper
+Gherald - discards Gardens
+Tipok - plays 3 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - draws Silver, Copper, Silver, Estate, Market
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Estate
+Tipok - places Estate on top of deck
+Gherald - plays 4 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Silver, Silver, Copper, Market
+ 
+---------- Tipok: turn 7 ----------
+Tipok - plays Market
+Tipok - draws Estate
+Tipok - plays 2 Silver, 1 Copper
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - shuffles deck
+Tipok - draws Estate, Silver, Estate, Thief, Silver
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Market
+Gherald - draws Gardens
+Gherald - plays 3 Silver, 1 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Copper, Estate, Estate, Copper, Bureaucrat
+ 
+---------- Tipok: turn 8 ----------
+Tipok - plays Thief
+Gherald - reveals: Estate
+Gherald - shuffles deck
+Gherald - reveals: Bureaucrat
+Gherald - discards: Estate, Bureaucrat
+Tipok - plays 2 Silver
+Tipok - buys Spy
+Tipok - gains Spy
+Tipok - draws Market, Silver, Copper, Copper, Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Market, Silver, Copper, Copper, Copper
+Gherald - plays 2 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Province, Copper, Copper, Copper
+ 
+---------- Tipok: turn 9 ----------
+Tipok - plays Market
+Tipok - draws Copper
+Tipok - plays 4 Copper, 1 Silver
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - buys Cellar
+Tipok - gains Cellar
+Tipok - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Gardens, Gardens, Silver, Copper, Silver
+ 
+---------- Tipok: turn 10 ----------
+Tipok - plays 3 Copper, 1 Silver
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - draws Laboratory
+Tipok - shuffles deck
+Tipok - draws Copper, Copper, Estate, Silver
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Market, Copper, Gardens, Copper, Silver
+ 
+---------- Tipok: turn 11 ----------
+Tipok - plays Laboratory
+Tipok - draws Estate, Market
+Tipok - plays Market
+Tipok - draws Copper
+Tipok - plays 3 Copper, 1 Silver
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - draws Laboratory, Estate, Laboratory, Copper, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Market
+Gherald - shuffles deck
+Gherald - draws Copper
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Estate, Bureaucrat, Province, Duchy
+ 
+---------- Tipok: turn 12 ----------
+Tipok - plays Laboratory
+Tipok - draws Copper, Spy
+Tipok - plays Laboratory
+Tipok - draws Silver, Silver
+Tipok - plays Spy
+Tipok - draws Silver
+Tipok - discards Copper
+Gherald - places Estate on top of deck
+Tipok - plays 3 Copper, 3 Silver
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Cellar, Thief
+Tipok - shuffles deck
+Tipok - draws Laboratory, Silver, Copper
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Cellar, Thief, Laboratory, Silver, Copper
+Gherald - plays 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Tipok: turn 13 ----------
+Tipok - plays Laboratory
+Tipok - draws Copper, Spy
+Tipok - plays Spy
+Tipok - draws Market
+Tipok - discards Estate
+Gherald - places Copper on top of deck
+Tipok - plays Market
+Tipok - draws Province
+Tipok - plays Cellar
+Tipok - discards Province
+Tipok - discards Copper
+Tipok - discards Copper
+Tipok - draws Copper, Laboratory, Copper
+Tipok - plays Laboratory
+Tipok - draws Silver, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Laboratory, Estate
+Tipok - plays Laboratory
+Tipok - draws Copper, Estate
+Tipok - plays Thief
+Gherald - reveals: Copper, Gardens
+Gherald - trashes Copper
+Gherald - discards Gardens
+Tipok - plays 3 Copper, 2 Silver
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Copper, Silver, Silver, Copper
+Tipok - shuffles deck
+Tipok - draws Province
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Bureaucrat, Copper, Estate, Gardens, Silver
+ 
+---------- Tipok: turn 14 ----------
+Tipok - plays 2 Copper, 2 Silver
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - draws Silver, Thief, Laboratory, Silver, Copper
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Silver, Thief, Laboratory, Silver, Copper
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Silver, Duchy, Silver, Estate
+Gherald - shuffles deck
+Gherald - draws Province
+ 
+---------- Tipok: turn 15 ----------
+Tipok - plays Laboratory
+Tipok - draws Laboratory, Copper
+Tipok - plays Laboratory
+Tipok - draws Estate, Estate
+Tipok - plays Thief
+Gherald - reveals: Silver, Copper
+Gherald - trashes Silver
+Gherald - discards Copper
+Tipok - gains Silver
+Tipok - plays 2 Silver, 2 Copper
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - draws Estate, Copper, Laboratory, Laboratory, Copper
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays 2 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Estate, Bureaucrat, Silver, Copper, Silver
+ 
+---------- Tipok: turn 16 ----------
+Tipok - plays Laboratory
+Tipok - draws Cellar, Copper
+Tipok - plays Laboratory
+Tipok - draws Market, Spy
+Tipok - plays Spy
+Tipok - draws Province
+Tipok - shuffles deck
+Tipok - discards Copper
+Gherald - places Gardens on top of deck
+Tipok - plays Market
+Tipok - draws Laboratory
+Tipok - plays Laboratory
+Tipok - draws Thief, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Silver, Silver
+Tipok - plays Cellar
+Tipok - discards Province
+Tipok - discards Copper
+Tipok - discards Estate
+Tipok - discards Copper
+Tipok - discards Copper
+Tipok - draws Estate, Copper, Estate, Silver, Copper
+Tipok - plays Thief
+Gherald - reveals: Gardens, Silver
+Gherald - trashes Silver
+Gherald - discards Gardens
+Tipok - gains Silver
+Tipok - plays 3 Silver, 2 Copper
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Laboratory, Copper, Silver, Laboratory, Silver
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Laboratory, Copper, Silver, Laboratory, Silver
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Silver, Duchy, Copper, Market, Silver
+ 
+---------- Tipok: turn 17 ----------
+Tipok - plays Laboratory
+Tipok - draws Province
+Tipok - shuffles deck
+Tipok - draws Province
+Tipok - plays Laboratory
+Tipok - draws Market, Estate
+Tipok - plays Market
+Tipok - draws Estate
+Tipok - plays 2 Silver, 1 Copper
+Tipok - buys Laboratory
+Tipok - gains Laboratory
+Tipok - draws Copper, Copper, Spy, Cellar, Silver
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Market
+Gherald - draws Bureaucrat
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Copper, Copper, Spy, Cellar, Silver
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Tipok: turn 18 ----------
+Tipok - plays Spy
+Tipok - draws Estate
+Tipok - places Silver on top of deck
+Gherald - places Copper on top of deck
+Tipok - plays Cellar
+Tipok - discards Estate
+Tipok - discards Copper
+Tipok - discards Copper
+Tipok - draws Silver, Silver, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Copper, Thief
+Tipok - plays Thief
+Gherald - reveals: Copper, Copper
+Gherald - trashes Copper
+Gherald - discards Copper
+Tipok - plays 3 Silver, 1 Copper
+Tipok - buys Duchy
+Tipok - gains Duchy
+Tipok - draws Copper, Laboratory, Silver, Laboratory, Province
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Gardens, Duchy, Estate, Copper, Duchy
+ 
+---------- Tipok: turn 19 ----------
+Tipok - plays Laboratory
+Tipok - draws Laboratory, Copper
+Tipok - plays Laboratory
+Tipok - draws Copper
+Tipok - shuffles deck
+Tipok - draws Cellar
+Tipok - plays Laboratory
+Tipok - draws Silver, Duchy
+Tipok - plays Cellar
+Tipok - discards Duchy
+Tipok - discards Province
+Tipok - discards Copper
+Tipok - discards Copper
+Tipok - discards Copper
+Tipok - draws Estate, Estate, Province, Copper, Spy
+Tipok - plays Spy
+Tipok - draws Copper
+Tipok - discards Estate
+Gherald - places Gardens on top of deck
+Tipok - plays 2 Silver, 2 Copper
+Tipok - buys Duchy
+Tipok - gains Duchy
+Tipok - draws Laboratory, Copper, Silver, Silver, Silver
+ 
+---------- Gherald: turn 20 ----------
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Gardens
+Gherald - shuffles deck
+Gherald - draws Market, Duchy, Copper, Duchy
+ 
+---------- Tipok: turn 20 ----------
+Tipok - plays Laboratory
+Tipok - draws Thief, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Market, Silver
+Tipok - plays Market
+Tipok - draws Laboratory
+Tipok - plays Laboratory
+Tipok - draws Province, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Copper
+Tipok - shuffles deck
+Tipok - draws Province
+Tipok - plays Thief
+Gherald - reveals: Copper, Silver
+Gherald - trashes Silver
+Gherald - discards Copper
+Tipok - gains Silver
+Tipok - plays 4 Silver, 2 Copper
+Tipok - buys Province
+Tipok - gains Province
+Tipok - buys Cellar
+Tipok - gains Cellar
+Tipok - draws Estate, Estate, Silver, Laboratory, Estate
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Market
+Gherald - draws Silver
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Copper, Silver, Copper, Bureaucrat
+ 
+---------- Tipok: turn 21 ----------
+Tipok - plays Laboratory
+Tipok - draws Copper, Duchy
+Tipok - plays 1 Silver, 1 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - draws Duchy, Copper, Laboratory, Province, Copper
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Duchy
+Tipok - places Duchy on top of deck
+Gherald - plays 2 Silver, 2 Copper
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Duchy, Estate, Silver, Silver
+ 
+---------- Tipok: turn 22 ----------
+Tipok - plays Laboratory
+Tipok - draws Duchy, Copper
+Tipok - plays 3 Copper
+Tipok - buys Silver
+Tipok - gains Silver
+Tipok - draws Cellar, Silver, Spy, Copper, Laboratory
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays 3 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Duchy, Silver, Bureaucrat, Copper, Copper
+ 
+---------- Tipok: turn 23 ----------
+Tipok - plays Spy
+Tipok - shuffles deck
+Tipok - draws Thief
+Tipok - discards Copper
+Gherald - discards Province
+Tipok - plays Laboratory
+Tipok - draws Laboratory, Province
+Tipok - plays Laboratory
+Tipok - draws Province, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Estate, Cellar
+Tipok - plays Cellar
+Tipok - discards Estate
+Tipok - discards Province
+Tipok - discards Province
+Tipok - discards Copper
+Tipok - draws Silver, Silver, Silver, Silver
+Tipok - plays Thief
+Gherald - reveals: Estate, Copper
+Gherald - trashes Copper
+Gherald - discards Estate
+Tipok - plays 5 Silver
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Laboratory, Copper, Laboratory, Silver, Copper
+ 
+---------- Gherald: turn 24 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+Tipok - reveals Laboratory, Copper, Laboratory, Silver, Copper
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Estate, Estate, Gardens, Duchy
+ 
+---------- Tipok: turn 24 ----------
+Tipok - plays Laboratory
+Tipok - draws Laboratory, Duchy
+Tipok - plays Laboratory
+Tipok - draws Silver, Copper
+Tipok - plays Laboratory
+Tipok - draws Province, Laboratory
+Tipok - plays Laboratory
+Tipok - draws Silver, Province
+Tipok - plays 3 Copper, 3 Silver
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Silver, Estate, Copper, Market, Duchy
+ 
+---------- Gherald: turn 25 ----------
+Gherald - plays 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Estate, Duchy, Copper, Gardens, Silver
+ 
+---------- Tipok: turn 25 ----------
+Tipok - plays Market
+Tipok - draws Copper
+Tipok - plays 2 Copper, 1 Silver
+Tipok - buys Estate
+Tipok - gains Estate
+Tipok - buys Estate
+Tipok - gains Estate
+Tipok - draws Estate
+Tipok - shuffles deck
+Tipok - draws Province, Silver, Laboratory, Laboratory
+ 
+---------- Gherald: turn 26 ----------
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Gardens, Copper
+Gherald - shuffles deck
+Gherald - draws Gardens, Duchy, Estate
+ 
+---------- Tipok: turn 26 ----------
+Tipok - plays Laboratory
+Tipok - draws Spy, Province
+Tipok - plays Laboratory
+Tipok - draws Copper, Silver
+Tipok - plays Spy
+Tipok - draws Laboratory
+Tipok - discards Duchy
+Gherald - places Province on top of deck
+Tipok - plays Laboratory
+Tipok - draws Cellar, Silver
+Tipok - plays Cellar
+Tipok - discards Estate
+Tipok - discards Province
+Tipok - discards Province
+Tipok - discards Copper
+Tipok - draws Copper, Silver, Estate, Silver
+Tipok - plays 5 Silver, 1 Copper
+Tipok - buys Province
+Tipok - gains Province
+Tipok - draws Cellar, Province, Copper, Copper, Copper
+ 
+------------ Game Over ------------
+Gherald - cards: 2 Bureaucrat, 1 Market, 9 Copper, 9 Silver, 8 Gardens, 7 Estate, 6 Duchy, 1 Province
+Gherald - total victory points: 63
+Gherald - turns: 26
+ 
+Tipok - cards: 7 Laboratory, 2 Cellar, 1 Spy, 1 Thief, 1 Market, 9 Silver, 7 Copper, 7 Province, 5 Estate, 2 Duchy
+Tipok - total victory points: 53
+Tipok - turns: 26
+ 
+1st place: Gherald
+2nd place: Tipok
+ 

@@ -1,0 +1,584 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Woodcutter, Bureaucrat, Feast, Remodel, Throne Room, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+screwdriver - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hakasen - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+screwdriver - shuffles deck
+hakasen - shuffles deck
+screwdriver - draws Copper, Copper, Estate, Copper, Estate
+hakasen - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- screwdriver: turn 1 ----------
+screwdriver - plays 3 Copper
+screwdriver - buys Chapel
+screwdriver - gains Chapel
+screwdriver - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hakasen: turn 1 ----------
+hakasen - plays 5 Copper
+hakasen - buys Market
+hakasen - gains Market
+hakasen - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- screwdriver: turn 2 ----------
+screwdriver - plays 4 Copper
+screwdriver - buys Bureaucrat
+screwdriver - gains Bureaucrat
+screwdriver - shuffles deck
+screwdriver - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- hakasen: turn 2 ----------
+hakasen - plays 2 Copper
+hakasen - buys Chapel
+hakasen - gains Chapel
+hakasen - shuffles deck
+hakasen - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- screwdriver: turn 3 ----------
+screwdriver - plays 2 Copper
+screwdriver - buys Moat
+screwdriver - gains Moat
+screwdriver - draws Copper, Copper, Bureaucrat, Copper, Copper
+ 
+---------- hakasen: turn 3 ----------
+hakasen - plays 3 Copper
+hakasen - buys Silver
+hakasen - gains Silver
+hakasen - draws Copper, Chapel, Copper, Market, Estate
+ 
+---------- screwdriver: turn 4 ----------
+screwdriver - plays Bureaucrat
+screwdriver - gains Silver
+hakasen - reveals Estate
+hakasen - places Estate on top of deck
+screwdriver - plays 4 Copper
+screwdriver - buys Feast
+screwdriver - gains Feast
+screwdriver - draws Silver, Copper, Chapel
+screwdriver - shuffles deck
+screwdriver - draws Feast, Estate
+ 
+---------- hakasen: turn 4 ----------
+hakasen - plays Market
+hakasen - draws Estate
+hakasen - plays Chapel
+hakasen - trashes Copper, Copper, Estate
+hakasen - draws Copper, Copper
+hakasen - shuffles deck
+hakasen - draws Copper, Chapel, Copper
+ 
+---------- screwdriver: turn 5 ----------
+screwdriver - plays Feast
+screwdriver - trashes Feast
+screwdriver - gains Market
+screwdriver - plays 1 Silver, 1 Copper
+screwdriver - buys Silver
+screwdriver - gains Silver
+screwdriver - draws Copper, Copper, Bureaucrat, Copper, Copper
+ 
+---------- hakasen: turn 5 ----------
+hakasen - plays Chapel
+hakasen - trashes Copper, Copper, Copper
+hakasen - draws Silver, Copper, Estate, Estate, Market
+ 
+---------- screwdriver: turn 6 ----------
+screwdriver - plays Bureaucrat
+screwdriver - gains Silver
+hakasen - reveals Estate
+hakasen - places Estate on top of deck
+screwdriver - plays 4 Copper
+screwdriver - buys Feast
+screwdriver - gains Feast
+screwdriver - draws Silver, Copper, Estate, Moat, Copper
+ 
+---------- hakasen: turn 6 ----------
+hakasen - plays Market
+hakasen - draws Estate
+hakasen - plays 1 Silver, 1 Copper
+hakasen - buys Throne Room
+hakasen - gains Throne Room
+hakasen - shuffles deck
+hakasen - draws Copper, Copper, Chapel, Throne Room, Estate
+ 
+---------- screwdriver: turn 7 ----------
+screwdriver - plays Moat
+screwdriver - draws Estate
+screwdriver - shuffles deck
+screwdriver - draws Copper
+screwdriver - plays 3 Copper, 1 Silver
+screwdriver - buys Witch
+screwdriver - gains Witch
+screwdriver - draws Market, Copper, Silver, Feast, Copper
+ 
+---------- hakasen: turn 7 ----------
+hakasen - plays Chapel
+hakasen - trashes Estate, Copper, Copper
+hakasen - draws Silver, Market, Estate
+hakasen - shuffles deck
+hakasen - draws Chapel, Throne Room
+ 
+---------- screwdriver: turn 8 ----------
+screwdriver - plays Market
+screwdriver - draws Estate
+screwdriver - plays Feast
+screwdriver - trashes Feast
+screwdriver - gains Market
+screwdriver - plays 2 Copper, 1 Silver
+screwdriver - buys Witch
+screwdriver - gains Witch
+screwdriver - draws Copper, Copper, Silver, Chapel, Bureaucrat
+ 
+---------- hakasen: turn 8 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - plays Market
+hakasen - plays Chapel
+hakasen - trashes Estate
+hakasen - plays 1 Silver
+hakasen - buys Feast
+hakasen - gains Feast
+hakasen - shuffles deck
+hakasen - draws Feast, Silver, Throne Room, Chapel, Market
+ 
+---------- screwdriver: turn 9 ----------
+screwdriver - plays Bureaucrat
+screwdriver - gains Silver
+hakasen - reveals Feast, Silver, Throne Room, Chapel, Market
+screwdriver - plays 2 Copper, 1 Silver
+screwdriver - buys Throne Room
+screwdriver - gains Throne Room
+screwdriver - draws Silver
+screwdriver - shuffles deck
+screwdriver - draws Silver, Throne Room, Bureaucrat, Silver
+ 
+---------- hakasen: turn 9 ----------
+hakasen - plays Market
+hakasen - plays Throne Room
+hakasen - plays Feast
+hakasen - trashes Feast
+hakasen - gains Market
+hakasen - plays Feast
+hakasen - trashes Feast
+hakasen - gains Market
+hakasen - plays 1 Silver
+hakasen - buys Silver
+hakasen - gains Silver
+hakasen - shuffles deck
+hakasen - draws Throne Room, Silver, Market, Silver, Chapel
+ 
+---------- screwdriver: turn 10 ----------
+screwdriver - plays Bureaucrat
+screwdriver - gains Silver
+hakasen - reveals Throne Room, Silver, Market, Silver, Chapel
+screwdriver - plays 3 Silver
+screwdriver - buys Market
+screwdriver - gains Market
+screwdriver - draws Silver, Market, Copper, Silver, Copper
+ 
+---------- hakasen: turn 10 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - plays Market
+hakasen - plays 2 Silver
+hakasen - buys Throne Room
+hakasen - gains Throne Room
+hakasen - buys Feast
+hakasen - gains Feast
+hakasen - shuffles deck
+hakasen - draws Silver, Market, Silver, Market, Throne Room
+ 
+---------- screwdriver: turn 11 ----------
+screwdriver - plays Market
+screwdriver - draws Estate
+screwdriver - plays 2 Silver, 2 Copper
+screwdriver - buys Market
+screwdriver - gains Market
+screwdriver - draws Chapel, Copper, Copper, Copper, Estate
+ 
+---------- hakasen: turn 11 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Market
+hakasen - draws Chapel
+hakasen - plays Market
+hakasen - draws Feast
+hakasen - plays Throne Room
+hakasen - plays Feast
+hakasen - trashes Feast
+hakasen - gains Market
+hakasen - plays Feast
+hakasen - trashes Feast
+hakasen - gains Witch
+hakasen - plays 2 Silver
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - draws Market
+hakasen - shuffles deck
+hakasen - draws Market, Market, Throne Room, Market
+ 
+---------- screwdriver: turn 12 ----------
+screwdriver - plays Chapel
+screwdriver - trashes Copper, Copper, Copper, Estate
+screwdriver - draws Copper, Witch, Copper, Witch, Estate
+ 
+---------- hakasen: turn 12 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Witch
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Chapel
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Gold
+hakasen - plays Witch
+screwdriver - gains Curse
+hakasen - plays 2 Silver, 1 Gold
+hakasen - buys Market
+hakasen - gains Market
+hakasen - buys Market
+hakasen - gains Market
+hakasen - buys Moat
+hakasen - gains Moat
+hakasen - shuffles deck
+hakasen - draws Throne Room, Market, Market, Gold, Silver
+ 
+---------- screwdriver: turn 13 ----------
+screwdriver - plays Witch
+screwdriver - draws Market, Moat
+hakasen - gains Curse
+screwdriver - plays 2 Copper
+screwdriver - buys Moat
+screwdriver - gains Moat
+screwdriver - shuffles deck
+screwdriver - draws Bureaucrat, Chapel, Estate, Market, Throne Room
+ 
+---------- hakasen: turn 13 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Chapel
+hakasen - plays Market
+hakasen - draws Moat
+hakasen - plays Moat
+hakasen - draws Witch, Market
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Witch
+hakasen - shuffles deck
+hakasen - draws Curse
+screwdriver - gains Curse
+hakasen - plays Market
+hakasen - plays Chapel
+hakasen - trashes Curse
+hakasen - plays 2 Silver, 1 Gold
+hakasen - buys Throne Room
+hakasen - gains Throne Room
+hakasen - buys Witch
+hakasen - gains Witch
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - shuffles deck
+hakasen - draws Throne Room, Witch, Moat, Silver, Market
+ 
+---------- screwdriver: turn 14 ----------
+screwdriver - plays Throne Room
+screwdriver - plays Market
+screwdriver - draws Moat
+screwdriver - plays Market
+screwdriver - draws Moat
+screwdriver - plays Moat
+screwdriver - draws Silver, Market
+screwdriver - plays Market
+screwdriver - draws Silver
+screwdriver - plays Chapel
+screwdriver - trashes Estate
+screwdriver - plays 2 Silver
+screwdriver - buys Throne Room
+screwdriver - gains Throne Room
+screwdriver - buys Moat
+screwdriver - gains Moat
+screwdriver - draws Copper, Copper, Silver, Silver, Silver
+ 
+---------- hakasen: turn 14 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Witch
+hakasen - plays Market
+hakasen - draws Gold
+hakasen - plays Witch
+hakasen - draws Market, Market
+screwdriver - gains Curse
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Gold
+hakasen - plays Witch
+hakasen - draws Market, Throne Room
+screwdriver - gains Curse
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Chapel
+hakasen - plays Market
+hakasen - plays 2 Silver, 2 Gold
+hakasen - buys Province
+hakasen - gains Province
+hakasen - buys Province
+hakasen - gains Province
+hakasen - shuffles deck
+hakasen - draws Province, Market, Market, Chapel, Witch
+ 
+---------- screwdriver: turn 15 ----------
+screwdriver - plays 3 Silver, 2 Copper
+screwdriver - buys Province
+screwdriver - gains Province
+screwdriver - draws Copper, Curse, Witch, Market, Market
+ 
+---------- hakasen: turn 15 ----------
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Witch
+hakasen - draws Moat, Throne Room
+screwdriver - gains Curse
+hakasen - plays Witch
+hakasen - draws Province, Gold
+screwdriver - gains Curse
+hakasen - plays Throne Room
+hakasen - plays Moat
+hakasen - draws Gold, Witch
+hakasen - plays Moat
+hakasen - draws Silver, Market
+hakasen - plays 2 Silver, 2 Gold
+hakasen - buys Province
+hakasen - gains Province
+hakasen - buys Adventurer
+hakasen - gains Adventurer
+hakasen - draws Market, Market
+hakasen - shuffles deck
+hakasen - draws Market, Province, Witch
+ 
+---------- screwdriver: turn 16 ----------
+screwdriver - plays Market
+screwdriver - draws Witch
+screwdriver - plays Market
+screwdriver - draws Copper
+screwdriver - plays Witch
+screwdriver - draws Estate
+screwdriver - shuffles deck
+screwdriver - draws Chapel
+hakasen - gains Curse
+screwdriver - plays 2 Copper
+screwdriver - buys Throne Room
+screwdriver - gains Throne Room
+screwdriver - draws Curse, Copper, Throne Room, Moat, Curse
+ 
+---------- hakasen: turn 16 ----------
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Witch
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Witch
+screwdriver - reveals reaction Moat
+hakasen - draws Market, Adventurer
+hakasen - plays Witch
+screwdriver - reveals reaction Moat
+hakasen - draws Market, Market
+hakasen - plays 1 Silver
+hakasen - buys Throne Room
+hakasen - gains Throne Room
+hakasen - draws Silver, Province, Gold, Throne Room, Throne Room
+ 
+---------- screwdriver: turn 17 ----------
+screwdriver - plays Throne Room
+screwdriver - plays Moat
+screwdriver - draws Silver, Silver
+screwdriver - plays Moat
+screwdriver - draws Market, Silver
+screwdriver - plays 3 Silver, 1 Copper
+screwdriver - buys Throne Room
+screwdriver - gains Throne Room
+screwdriver - draws Province, Bureaucrat, Copper, Throne Room, Moat
+ 
+---------- hakasen: turn 17 ----------
+hakasen - plays 1 Silver, 1 Gold
+hakasen - buys Remodel
+hakasen - gains Remodel
+hakasen - draws Chapel, Gold, Province, Moat
+hakasen - shuffles deck
+hakasen - draws Adventurer
+ 
+---------- screwdriver: turn 18 ----------
+screwdriver - plays Throne Room
+screwdriver - plays Moat
+screwdriver - draws Curse, Silver
+screwdriver - plays Moat
+screwdriver - draws Market, Curse
+screwdriver - plays 1 Copper, 1 Silver
+screwdriver - buys Silver
+screwdriver - gains Silver
+screwdriver - draws Silver, Moat, Curse
+screwdriver - shuffles deck
+screwdriver - draws Curse, Estate
+ 
+---------- hakasen: turn 18 ----------
+hakasen - plays Adventurer
+hakasen - reveals Silver, Witch, Throne Room, Province, Market, Province, Market, Remodel, Market, Silver
+hakasen - places cards in hand:  Silver, Silver
+hakasen - discards: Witch, Throne Room, Province, Market, Province, Market, Remodel, Market
+hakasen - plays 2 Silver, 1 Gold
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - draws Market, Market, Witch, Throne Room, Throne Room
+ 
+---------- screwdriver: turn 19 ----------
+screwdriver - plays Moat
+screwdriver - draws Moat, Throne Room
+screwdriver - plays 1 Silver
+screwdriver - draws Copper, Copper, Market, Copper, Market
+ 
+---------- hakasen: turn 19 ----------
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Witch
+hakasen - draws Gold, Curse
+screwdriver - gains Curse
+hakasen - plays Witch
+hakasen - shuffles deck
+hakasen - draws Witch, Silver
+screwdriver - gains Curse
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Province
+hakasen - plays Market
+hakasen - draws Chapel
+hakasen - plays Witch
+hakasen - draws Gold, Province
+hakasen - plays Chapel
+hakasen - trashes Curse
+hakasen - plays 2 Gold, 2 Silver
+hakasen - buys Province
+hakasen - gains Province
+hakasen - buys Adventurer
+hakasen - gains Adventurer
+hakasen - draws Province, Gold, Market, Market, Throne Room
+ 
+---------- screwdriver: turn 20 ----------
+screwdriver - plays Market
+screwdriver - draws Witch
+screwdriver - plays Market
+screwdriver - draws Throne Room
+screwdriver - plays Throne Room
+screwdriver - plays Witch
+screwdriver - draws Province, Moat
+screwdriver - plays Witch
+screwdriver - draws Curse, Throne Room
+screwdriver - plays 3 Copper
+screwdriver - buys Duchy
+screwdriver - gains Duchy
+screwdriver - draws Silver, Curse, Silver, Copper, Curse
+ 
+---------- hakasen: turn 20 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Moat
+hakasen - plays Market
+hakasen - draws Remodel
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Adventurer
+hakasen - plays Adventurer
+hakasen - shuffles deck
+hakasen - reveals Province, Gold, Throne Room, Market, Throne Room, Chapel, Witch, Witch, Gold
+hakasen - places cards in hand:  Gold, Gold
+hakasen - discards: Province, Throne Room, Market, Throne Room, Chapel, Witch, Witch
+hakasen - plays Remodel
+hakasen - trashes Gold
+hakasen - gains Province
+hakasen - plays 2 Gold
+hakasen - buys Province
+hakasen - gains Province
+hakasen - draws Province, Province, Silver, Throne Room, Market
+ 
+---------- screwdriver: turn 21 ----------
+screwdriver - plays 2 Silver, 1 Copper
+screwdriver - buys Duchy
+screwdriver - gains Duchy
+screwdriver - draws Bureaucrat, Silver, Market, Witch, Silver
+ 
+---------- hakasen: turn 21 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Adventurer
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Adventurer
+hakasen - shuffles deck
+hakasen - reveals Market, Market, Province, Gold, Moat, Market, Remodel, Throne Room, Throne Room, Province, Gold
+hakasen - places cards in hand:  Gold, Gold
+hakasen - discards: Market, Market, Province, Moat, Market, Remodel, Throne Room, Throne Room, Province
+hakasen - plays 2 Silver, 2 Gold
+hakasen - buys Province
+hakasen - gains Province
+hakasen - buys Estate
+hakasen - gains Estate
+hakasen - buys Estate
+hakasen - gains Estate
+hakasen - draws Province, Witch, Market, Chapel, Witch
+ 
+------------ Game Over ------------
+hakasen - cards: 6 Market, 4 Throne Room, 2 Witch, 2 Adventurer, 1 Chapel, 1 Moat, 1 Remodel, 2 Silver, 2 Gold, 7 Province, 2 Estate
+hakasen - total victory points: 44
+hakasen - turns: 21
+ 
+screwdriver - cards: 4 Market, 4 Throne Room, 3 Moat, 2 Witch, 1 Bureaucrat, 1 Chapel, 6 Silver, 4 Copper, 2 Duchy, 1 Estate, 1 Province, 8 Curse
+screwdriver - total victory points: 5
+screwdriver - turns: 21
+ 
+1st place: hakasen
+2nd place: screwdriver
+ 

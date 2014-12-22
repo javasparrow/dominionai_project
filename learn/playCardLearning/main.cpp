@@ -30,11 +30,14 @@ int main(int argc, const char * argv[])
     srand((unsigned)time(NULL));
     bool readFlag = false;
     bool action2Flag = false;
+    bool card2Flag = false;
     
     if(argc == 2) {
         if(argv[1][0] == '2') {
             action2Flag = true;
-            cout << "nAction >= 2 Mode" << endl;
+        }
+        if(argv[1][1] == '2') {
+            card2Flag = true;
         }
         if(argv[1][0] == 'r') {
             readFlag = true;
@@ -45,12 +48,25 @@ int main(int argc, const char * argv[])
     if(argc == 3) {
         if(argv[1][0] == '2') {
             action2Flag = true;
-            cout << "nAction >= 2 Mode" << endl;
+        }
+        if(argv[1][1] == '2') {
+            card2Flag = true;
         }
         if(argv[2][0] == 'r') {
             readFlag = true;
             cout << "loading Mode" << endl;
         }
+    }
+    
+    if(action2Flag) {
+        cout << "nAction >= 2 Mode" << endl;
+    } else {
+        cout << "nAction == 1 Mode" << endl;
+    }
+    if(card2Flag) {
+        cout << "nCard >= 2 Mode" << endl;
+    } else {
+        cout << "nCard == 1 Mode" << endl;
     }
     
     if(!readFlag) {
@@ -60,14 +76,18 @@ int main(int argc, const char * argv[])
     int dimensionOfFeature = 0;
     int nSample;   
     int roundlimit = 2000000000;//学習回数上限
-    int roundtest = 500000;//テスト実施の間隔学習回数
+    int roundtest = 100000;//テスト実施の間隔学習回数
     string studyfile = "learn.txt";//インプット教師データ
     string testfile = "test.txt";//インプットテストデータ
     
     string directoryString = "./";
     if(action2Flag) {
-        directoryString = "./nAction2/";
+        directoryString += "nAction2/";
     }
+    if(card2Flag) {
+        directoryString += "twoCard/";
+    }
+    
     
     //--------------------------------------教師信号ベクトルの初期化--------
     cout << "load teacher data" << endl;
@@ -83,11 +103,31 @@ int main(int argc, const char * argv[])
     while(getline(ifs, buf)) {
         vector<string> out = SpritString(buf,"/");
         int nAction = atoi(out[1].c_str());
-        if((nAction == 1 && !action2Flag) || (nAction >= 2 && action2Flag)) {
-            fprintf(stderr,"loading teacher data:%d \r",count+1);
+        int nCard = (int)(SpritString(out[2],",").size());
+        if((nAction == 1 && !action2Flag && nCard == 1 && !card2Flag) ||
+           (nAction == 1 && !action2Flag && nCard >= 2 && card2Flag) ||
+           (nAction >= 2 && action2Flag && nCard == 1 && !card2Flag) ||
+           (nAction >= 2 && action2Flag && nCard >= 2 && card2Flag)) {
+         //   fprintf(stderr,"loading teacher data:%d \r",count+1);
             Sample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
+            bool flag = false;
+            for(int i=0;i<teacher._hand.size();i++) {
+                if(teacher._hand[i] == CARD_FESTIVAL) {
+                    flag = true;
+                }
+                /*
+                if(teacher._hand[i] == CARD_THRONEROOM) {
+                    flag = false;
+                    break;
+                }
+                 */
+            }
+            if(flag) {
+                teacher.show();
+                cout << getString(teacher._answerPlayCard) << endl;
+            }
         }
     }
     ifs.close();
@@ -110,7 +150,11 @@ int main(int argc, const char * argv[])
     while(getline(ifs3, buf)) {
         vector<string> out = SpritString(buf,"/");
         int nAction = atoi(out[1].c_str());
-        if((nAction == 1 && !action2Flag) || (nAction >= 2 && action2Flag)) {
+        int nCard = (int)(SpritString(out[2],",").size());
+        if((nAction == 1 && !action2Flag && nCard == 1 && !card2Flag) ||
+           (nAction == 1 && !action2Flag && nCard >= 2 && card2Flag) ||
+           (nAction >= 2 && action2Flag && nCard == 1 && !card2Flag) ||
+           (nAction >= 2 && action2Flag && nCard >= 2 && card2Flag)) {
             fprintf(stderr,"loading test data:%d \r",count+1);
             Sample test(count++,buf);
             dimensionOfFeature = test.getDimensionOfFeature();
@@ -131,7 +175,7 @@ int main(int argc, const char * argv[])
     cout << "dimension of vector = " << dimensionOfFeature << endl;
     vector< vector<double> > weight;
     vector< vector<double> > averageWeight;
-    for(int i=0;i<KIND_OF_CARD;i++) {
+    for(int i=0;i<KIND_OF_CARD+1;i++) {
         vector<double> tmpVector1,tmpVector2;
         for(int j=0;j<dimensionOfFeature;j++) {
             tmpVector1.push_back(0.0);
@@ -178,18 +222,18 @@ int main(int argc, const char * argv[])
         if(gotPlayCard != answerPlayCard) {
             
             //間違えたものの重みを引く
-            if(gotPlayCard != 0) {
-                int wid = gotPlayCard - 1;
+           // if(gotPlayCard != 0) {
+                int wid = gotPlayCard;
                 weight[wid] = addVector(weight[wid], mulVector(teachers[sampleIndex]._feature , -1) );
                 averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round*-1));
-            }
+           // }
            
             //正解の重みを足す
-            if(answerPlayCard != 0) {
-                int wid = answerPlayCard - 1;
+          //  if(answerPlayCard != 0) {
+                wid = answerPlayCard;
                 weight[wid] = addVector(weight[wid],teachers[sampleIndex]._feature );
                 averageWeight[wid] = addVector(averageWeight[wid], mulVector(teachers[sampleIndex]._feature, round));
-            }
+        //    }
         }
         
         if(round % roundtest == 0) {

@@ -1,0 +1,762 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Village, Workshop, Bureaucrat, Militia, Smithy, Spy, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+time bandit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+time bandit - shuffles deck
+Gherald - draws Estate, Copper, Copper, Copper, Copper
+time bandit - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 4 Copper
+Gherald - buys Militia
+Gherald - gains Militia
+Gherald - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- time bandit: turn 1 ----------
+time bandit - plays 4 Copper
+time bandit - buys Bureaucrat
+time bandit - gains Bureaucrat
+time bandit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Estate, Estate, Militia
+ 
+---------- time bandit: turn 2 ----------
+time bandit - plays 3 Copper
+time bandit - buys Workshop
+time bandit - gains Workshop
+time bandit - shuffles deck
+time bandit - draws Copper, Copper, Copper, Workshop, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Militia
+time bandit - discards Estate
+time bandit - discards Copper
+Gherald - plays 2 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- time bandit: turn 3 ----------
+time bandit - plays Workshop
+time bandit - gains Militia
+time bandit - plays 2 Copper
+time bandit - buys Cellar
+time bandit - gains Cellar
+time bandit - draws Estate, Copper, Bureaucrat, Copper, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 4 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Village
+ 
+---------- time bandit: turn 4 ----------
+time bandit - plays Bureaucrat
+time bandit - gains Silver
+Gherald - reveals Copper, Silver, Copper, Copper, Village
+time bandit - plays 3 Copper
+time bandit - buys Village
+time bandit - gains Village
+time bandit - draws Silver, Copper, Estate
+time bandit - shuffles deck
+time bandit - draws Copper, Estate
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Village
+Gherald - draws Militia
+Gherald - plays Militia
+time bandit - discards Estate
+time bandit - discards Estate
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Silver, Estate, Estate, Copper, Estate
+ 
+---------- time bandit: turn 5 ----------
+time bandit - plays 2 Copper, 1 Silver
+time bandit - buys Spy
+time bandit - gains Spy
+time bandit - draws Cellar, Village, Bureaucrat, Workshop, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Copper, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Village, Estate
+ 
+---------- time bandit: turn 6 ----------
+time bandit - plays Village
+time bandit - draws Copper
+time bandit - plays Workshop
+time bandit - gains Spy
+time bandit - plays Bureaucrat
+time bandit - gains Silver
+Gherald - reveals Estate
+Gherald - places Estate on top of deck
+time bandit - plays 2 Copper
+time bandit - buys Cellar
+time bandit - gains Cellar
+time bandit - draws Silver, Copper, Copper, Militia, Estate
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays 3 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Estate, Silver, Estate, Copper, Witch
+ 
+---------- time bandit: turn 7 ----------
+time bandit - plays Militia
+Gherald - discards Estate
+Gherald - discards Estate
+time bandit - plays 2 Copper, 1 Silver
+time bandit - buys Witch
+time bandit - gains Witch
+time bandit - draws Copper
+time bandit - shuffles deck
+time bandit - draws Workshop, Militia, Estate, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Village
+time bandit - gains Curse
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Smithy
+Gherald - gains Smithy
+Gherald - draws Silver, Copper, Copper, Militia
+Gherald - shuffles deck
+Gherald - draws Village
+ 
+---------- time bandit: turn 8 ----------
+time bandit - plays Militia
+Gherald - discards Copper
+Gherald - discards Copper
+time bandit - plays 2 Copper
+time bandit - buys Spy
+time bandit - gains Spy
+time bandit - draws Copper, Copper, Cellar, Village, Bureaucrat
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Militia
+time bandit - discards Copper
+time bandit - discards Copper
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Copper, Village, Witch, Copper, Estate
+ 
+---------- time bandit: turn 9 ----------
+time bandit - plays Village
+time bandit - draws Cellar
+time bandit - plays Bureaucrat
+time bandit - gains Silver
+Gherald - reveals Estate
+Gherald - places Estate on top of deck
+time bandit - plays Cellar
+time bandit - discards Cellar
+time bandit - draws Silver
+time bandit - plays 1 Silver
+time bandit - buys Cellar
+time bandit - gains Cellar
+time bandit - draws Silver, Spy, Copper, Silver, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Copper, Smithy
+time bandit - gains Curse
+Gherald - plays Smithy
+Gherald - draws Village, Silver, Estate
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Estate, Copper
+Gherald - shuffles deck
+Gherald - draws Village, Village, Smithy
+ 
+---------- time bandit: turn 10 ----------
+time bandit - plays Spy
+time bandit - draws Copper
+time bandit - places Copper on top of deck
+Gherald - discards Silver
+time bandit - plays 2 Silver, 2 Copper
+time bandit - buys Witch
+time bandit - gains Witch
+time bandit - draws Copper, Spy, Estate, Witch
+time bandit - shuffles deck
+time bandit - draws Estate
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Village
+Gherald - draws Village
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Smithy
+Gherald - draws Witch, Militia, Silver
+Gherald - plays Witch
+Gherald - draws Witch, Copper
+time bandit - gains Curse
+Gherald - plays Witch
+Gherald - draws Estate, Copper
+time bandit - gains Curse
+Gherald - plays Militia
+time bandit - discards Estate
+time bandit - discards Estate
+Gherald - plays 5 Copper, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Estate, Village, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Gold
+ 
+---------- time bandit: turn 11 ----------
+time bandit - plays Spy
+time bandit - draws Silver
+time bandit - places Silver on top of deck
+Gherald - discards Silver
+time bandit - plays Witch
+time bandit - draws Silver, Copper
+Gherald - gains Curse
+time bandit - plays 2 Copper, 2 Silver
+time bandit - buys Gold
+time bandit - gains Gold
+time bandit - draws Spy, Militia, Curse, Village, Bureaucrat
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Village
+Gherald - draws Silver
+Gherald - plays 2 Copper, 1 Gold, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Village, Smithy, Estate, Copper, Village
+ 
+---------- time bandit: turn 12 ----------
+time bandit - plays Village
+time bandit - draws Curse
+time bandit - plays Bureaucrat
+time bandit - gains Silver
+Gherald - reveals Estate
+Gherald - places Estate on top of deck
+time bandit - plays Spy
+time bandit - draws Silver
+time bandit - places Spy on top of deck
+Gherald - places Estate on top of deck
+time bandit - plays Militia
+Gherald - discards Copper
+time bandit - plays 1 Silver
+time bandit - buys Smithy
+time bandit - gains Smithy
+time bandit - draws Spy, Copper, Copper, Witch, Cellar
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Smithy
+Gherald - draws Copper, Witch, Village
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Militia, Copper
+time bandit - gains Curse
+Gherald - plays Militia
+time bandit - discards Copper
+time bandit - discards Copper
+Gherald - plays 3 Copper
+Gherald - buys Smithy
+Gherald - gains Smithy
+Gherald - draws Copper, Witch
+Gherald - shuffles deck
+Gherald - draws Militia, Witch, Smithy
+ 
+---------- time bandit: turn 13 ----------
+time bandit - plays Spy
+time bandit - draws Copper
+time bandit - places Copper on top of deck
+Gherald - places Estate on top of deck
+time bandit - plays Cellar
+time bandit - discards Copper
+time bandit - draws Copper
+time bandit - plays Witch
+time bandit - draws Workshop, Copper
+Gherald - gains Curse
+time bandit - plays 2 Copper
+time bandit - buys Cellar
+time bandit - gains Cellar
+time bandit - draws Cellar, Silver, Cellar, Estate
+time bandit - shuffles deck
+time bandit - draws Silver
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Witch
+Gherald - draws Estate, Copper
+time bandit - gains Curse
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Gold, Silver, Copper, Curse, Silver
+ 
+---------- time bandit: turn 14 ----------
+time bandit - plays Cellar
+time bandit - discards Estate
+time bandit - discards Cellar
+time bandit - draws Bureaucrat, Cellar
+time bandit - plays Bureaucrat
+time bandit - gains Silver
+Gherald - reveals Gold, Silver, Copper, Curse, Silver
+time bandit - plays 2 Silver
+time bandit - buys Village
+time bandit - gains Village
+time bandit - draws Silver, Estate, Spy, Silver, Copper
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays 2 Silver, 1 Gold, 1 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Village, Village, Smithy, Village, Copper
+ 
+---------- time bandit: turn 15 ----------
+time bandit - plays Spy
+time bandit - draws Copper
+time bandit - places Spy on top of deck
+Gherald - discards Village
+time bandit - plays 2 Silver, 2 Copper
+time bandit - buys Gold
+time bandit - gains Gold
+time bandit - draws Spy, Curse, Militia, Workshop, Copper
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Smithy
+Gherald - draws Estate, Estate, Copper
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Gold
+Gherald - plays 4 Copper, 1 Gold
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - shuffles deck
+Gherald - draws Gold, Copper, Village, Cellar, Witch
+ 
+---------- time bandit: turn 16 ----------
+time bandit - plays Spy
+time bandit - draws Estate
+time bandit - places Village on top of deck
+Gherald - discards Gold
+time bandit - plays Militia
+Gherald - discards Copper
+Gherald - discards Cellar
+time bandit - plays 1 Copper
+time bandit - buys Village
+time bandit - gains Village
+time bandit - draws Village, Silver, Copper, Gold, Copper
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Village
+Gherald - draws Village
+Gherald - plays Witch
+Gherald - draws Village, Curse
+time bandit - gains Curse
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Estate
+Gherald - plays 1 Gold, 1 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Witch, Silver, Curse, Copper, Estate
+ 
+---------- time bandit: turn 17 ----------
+time bandit - plays Village
+time bandit - draws Curse
+time bandit - plays 2 Copper, 1 Silver, 1 Gold
+time bandit - buys Adventurer
+time bandit - gains Adventurer
+time bandit - draws Curse, Copper, Curse, Cellar, Witch
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Witch
+Gherald - draws Village, Militia
+time bandit - gains Curse
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Smithy, Gold, Estate, Copper, Smithy
+ 
+---------- time bandit: turn 18 ----------
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - discards Curse
+time bandit - discards Copper
+time bandit - draws Witch, Copper, Smithy
+time bandit - plays Witch
+time bandit - draws Curse, Spy
+time bandit - plays 1 Copper
+time bandit - shuffles deck
+time bandit - draws Cellar, Spy, Cellar, Curse, Adventurer
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays Smithy
+Gherald - draws Copper, Province, Silver
+Gherald - plays 2 Copper, 1 Gold, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Gold, Witch, Estate
+ 
+---------- time bandit: turn 19 ----------
+time bandit - plays Spy
+time bandit - draws Silver
+time bandit - places Silver on top of deck
+Gherald - discards Smithy
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - discards Cellar
+time bandit - draws Silver, Curse
+time bandit - plays Adventurer
+time bandit - reveals Village, Copper, Copper
+time bandit - places cards in hand:  Copper, Copper
+time bandit - discards Village
+time bandit - plays 2 Silver, 2 Copper
+time bandit - buys Gold
+time bandit - gains Gold
+time bandit - draws Copper, Witch, Estate, Curse, Copper
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Gold
+Gherald - plays 3 Copper, 2 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Copper, Copper, Village, Gold, Cellar
+ 
+---------- time bandit: turn 20 ----------
+time bandit - plays Witch
+time bandit - draws Spy, Bureaucrat
+time bandit - plays 2 Copper
+time bandit - draws Copper, Curse, Cellar, Village, Silver
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Village
+Gherald - draws Village
+Gherald - plays Village
+Gherald - draws Village
+Gherald - plays Village
+Gherald - draws Gold
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Estate, Village
+Gherald - plays Village
+Gherald - draws Militia
+Gherald - plays Militia
+time bandit - discards Curse
+time bandit - discards Copper
+Gherald - plays 2 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Silver, Village, Copper, Village, Smithy
+ 
+---------- time bandit: turn 21 ----------
+time bandit - plays Village
+time bandit - draws Curse
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - draws Silver
+time bandit - plays 2 Silver
+time bandit - buys Smithy
+time bandit - gains Smithy
+time bandit - draws Spy, Village, Gold, Workshop, Copper
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays Village
+Gherald - draws Curse
+Gherald - plays Village
+Gherald - draws Curse
+Gherald - plays Smithy
+Gherald - draws Estate, Silver, Province
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Copper, Witch
+Gherald - shuffles deck
+Gherald - draws Copper, Gold, Village
+ 
+---------- time bandit: turn 22 ----------
+time bandit - plays Spy
+time bandit - draws Curse
+time bandit - discards Copper
+Gherald - discards Gold
+time bandit - plays Village
+time bandit - draws Curse
+time bandit - plays Workshop
+time bandit - gains Militia
+time bandit - plays 1 Gold, 1 Copper
+time bandit - buys Spy
+time bandit - gains Spy
+time bandit - draws Cellar, Estate, Estate, Gold, Militia
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays Village
+Gherald - draws Cellar
+Gherald - plays Witch
+Gherald - draws Curse, Gold
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Province, Copper, Village
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays 2 Gold, 2 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Estate, Village, Gold, Province, Estate
+ 
+---------- time bandit: turn 23 ----------
+time bandit - plays Cellar
+time bandit - discards Estate
+time bandit - discards Estate
+time bandit - draws Smithy, Witch
+time bandit - plays Militia
+Gherald - discards Estate
+Gherald - discards Province
+time bandit - plays 1 Gold
+time bandit - buys Duchy
+time bandit - gains Duchy
+time bandit - draws Curse, Silver
+time bandit - shuffles deck
+time bandit - draws Estate, Witch, Gold
+ 
+---------- Gherald: turn 24 ----------
+Gherald - plays Village
+Gherald - draws Smithy
+Gherald - plays Smithy
+Gherald - draws Militia, Village, Copper
+Gherald - plays Village
+Gherald - draws Silver
+Gherald - plays Militia
+time bandit - discards Estate
+time bandit - discards Curse
+Gherald - plays 1 Gold, 1 Copper, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Smithy, Estate, Copper, Silver, Village
+ 
+---------- time bandit: turn 24 ----------
+time bandit - plays Witch
+time bandit - draws Estate, Spy
+time bandit - plays 1 Silver, 1 Gold
+time bandit - buys Duchy
+time bandit - gains Duchy
+time bandit - draws Copper, Adventurer, Silver, Curse, Spy
+ 
+---------- Gherald: turn 25 ----------
+Gherald - plays Village
+Gherald - draws Village
+Gherald - plays Smithy
+Gherald - draws Village, Witch, Province
+Gherald - plays Village
+Gherald - draws Curse
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Witch
+Gherald - shuffles deck
+Gherald - draws Estate, Province
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Gold, Village, Curse, Smithy, Province
+ 
+---------- time bandit: turn 25 ----------
+time bandit - plays Spy
+time bandit - draws Curse
+time bandit - discards Copper
+Gherald - discards Village
+time bandit - plays Adventurer
+time bandit - reveals Spy, Curse, Silver, Silver
+time bandit - places cards in hand:  Silver, Silver
+time bandit - discards: Spy, Curse
+time bandit - plays 3 Silver, 1 Copper
+time bandit - buys Duchy
+time bandit - gains Duchy
+time bandit - draws Smithy, Curse, Cellar, Copper, Village
+ 
+---------- Gherald: turn 26 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Smithy
+Gherald - draws Village, Province, Copper
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays 3 Copper, 1 Gold
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Estate, Gold, Silver, Cellar, Province
+ 
+---------- time bandit: turn 26 ----------
+time bandit - plays Village
+time bandit - draws Militia
+time bandit - plays Smithy
+time bandit - draws Curse, Silver, Village
+time bandit - plays Village
+time bandit - draws Workshop
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - discards Copper
+time bandit - discards Curse
+time bandit - draws Cellar, Cellar, Village
+time bandit - plays Village
+time bandit - draws Curse
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - discards Cellar
+time bandit - draws Militia, Copper
+time bandit - plays Militia
+Gherald - discards Province
+Gherald - discards Estate
+time bandit - plays Militia
+time bandit - plays Workshop
+time bandit - gains Estate
+time bandit - plays 1 Silver, 1 Copper
+time bandit - buys Duchy
+time bandit - gains Duchy
+time bandit - draws Copper, Copper, Curse, Cellar, Smithy
+ 
+---------- Gherald: turn 27 ----------
+Gherald - plays 1 Gold, 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Village, Gold, Militia, Gold, Witch
+ 
+---------- time bandit: turn 27 ----------
+time bandit - plays Cellar
+time bandit - discards Curse
+time bandit - discards Copper
+time bandit - discards Copper
+time bandit - draws Witch, Copper, Bureaucrat
+time bandit - plays Smithy
+time bandit - draws Estate, Spy, Gold
+time bandit - plays 1 Copper, 1 Gold
+time bandit - buys Spy
+time bandit - gains Spy
+time bandit - draws Gold, Duchy
+time bandit - shuffles deck
+time bandit - draws Curse, Copper, Estate
+ 
+---------- Gherald: turn 28 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Witch
+Gherald - draws Copper
+Gherald - shuffles deck
+Gherald - draws Smithy
+Gherald - plays Militia
+time bandit - discards Curse
+time bandit - discards Duchy
+Gherald - plays 2 Gold, 2 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Silver, Copper, Cellar, Province, Witch
+ 
+---------- time bandit: turn 28 ----------
+time bandit - plays 1 Gold, 1 Copper
+time bandit - buys Estate
+time bandit - gains Estate
+time bandit - draws Cellar, Copper, Duchy, Workshop, Copper
+ 
+---------- Gherald: turn 29 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Province
+Gherald - discards Witch
+Gherald - draws Province, Cellar, Province
+Gherald - plays Cellar
+Gherald - discards Province
+Gherald - discards Province
+Gherald - discards Silver
+Gherald - draws Copper, Village, Gold
+Gherald - plays Village
+Gherald - draws Curse
+Gherald - plays 1 Copper, 1 Gold
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Estate, Province, Smithy, Village, Village
+ 
+---------- time bandit: turn 29 ----------
+time bandit - plays Cellar
+time bandit - discards Duchy
+time bandit - discards Copper
+time bandit - discards Copper
+time bandit - draws Estate, Spy, Spy
+time bandit - plays Spy
+time bandit - draws Silver
+time bandit - places Silver on top of deck
+Gherald - discards Village
+time bandit - plays Spy
+time bandit - draws Silver
+time bandit - discards Witch
+Gherald - discards Estate
+time bandit - plays Workshop
+time bandit - gains Estate
+time bandit - plays 2 Silver
+time bandit - buys Estate
+time bandit - gains Estate
+time bandit - draws Estate, Curse, Copper, Smithy, Curse
+ 
+---------- Gherald: turn 30 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Cellar
+Gherald - plays Smithy
+Gherald - draws Estate, Cellar, Gold
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Cellar
+Gherald - discards Copper
+Gherald - discards Province
+Gherald - discards Estate
+Gherald - draws Copper, Curse, Copper, Village, Silver
+Gherald - plays Village
+Gherald - draws Province
+Gherald - plays 2 Copper, 1 Gold, 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Village
+Gherald - shuffles deck
+Gherald - draws Gold, Copper, Copper, Village
+ 
+------------ Game Over ------------
+Gherald - cards: 7 Village, 6 Cellar, 2 Smithy, 2 Witch, 1 Militia, 7 Copper, 4 Gold, 2 Silver, 6 Province, 3 Estate, 2 Curse
+Gherald - total victory points: 37
+Gherald - turns: 30
+ 
+time bandit - cards: 5 Spy, 4 Cellar, 3 Village, 2 Smithy, 2 Witch, 2 Militia, 1 Workshop, 1 Adventurer, 1 Bureaucrat, 7 Copper, 5 Silver, 3 Gold, 7 Estate, 4 Duchy, 8 Curse
+time bandit - total victory points: 11
+time bandit - turns: 29
+ 
+1st place: Gherald
+2nd place: time bandit
+ 

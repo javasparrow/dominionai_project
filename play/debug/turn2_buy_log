@@ -1,0 +1,31 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Woodcutter, Moneylender, Smithy, Throne Room, Council Room, Laboratory, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ut_dominion_AI - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Defender Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ut_dominion_AI - shuffles deck
+Defender Bot - shuffles deck
+ut_dominion_AI - draws 5 cards
+Defender Bot - draws 5 cards
+ 
+---------- Defender Bot: turn 1 ----------
+Defender Bot - plays 4 Copper
+Defender Bot - buys Smithy
+Defender Bot - gains Smithy
+Defender Bot - draws 5 cards
+ 
+---------- ut_dominion_AI: turn 1 ----------
+ut_dominion_AI - plays 3 Copper
+ut_dominion_AI - buys Chapel
+ut_dominion_AI - gains Chapel
+ut_dominion_AI - draws 5 cards
+ 
+---------- Defender Bot: turn 2 ----------
+Defender Bot - plays 3 Copper
+Defender Bot - buys Silver
+Defender Bot - gains Silver
+Defender Bot - shuffles deck
+Defender Bot - draws 5 cards
+ 
+---------- ut_dominion_AI: turn 2 ----------
+ut_dominion_AI - plays 4 Copper

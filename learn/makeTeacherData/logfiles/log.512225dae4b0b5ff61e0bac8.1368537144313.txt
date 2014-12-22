@@ -1,0 +1,570 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Woodcutter, Workshop, Moneylender, Remodel, Smithy, Spy, Thief, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Shenvy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Shenvy - shuffles deck
+silverspawn - shuffles deck
+Shenvy - draws Copper, Copper, Estate, Estate, Copper
+silverspawn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Shenvy: turn 1 ----------
+Shenvy - plays 3 Copper
+Shenvy - buys Workshop
+Shenvy - gains Workshop
+Shenvy - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Moneylender
+silverspawn - gains Moneylender
+silverspawn - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Shenvy: turn 2 ----------
+Shenvy - plays 4 Copper
+Shenvy - buys Moneylender
+Shenvy - gains Moneylender
+Shenvy - shuffles deck
+Shenvy - draws Estate, Moneylender, Copper, Estate, Copper
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Copper, Silver, Moneylender
+ 
+---------- Shenvy: turn 3 ----------
+Shenvy - plays Moneylender
+Shenvy - trashes Copper
+Shenvy - plays 1 Copper
+Shenvy - buys Remodel
+Shenvy - gains Remodel
+Shenvy - draws Copper, Workshop, Estate, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Witch
+silverspawn - gains Witch
+silverspawn - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Shenvy: turn 4 ----------
+Shenvy - plays Workshop
+Shenvy - gains Remodel
+Shenvy - plays 3 Copper
+Shenvy - buys Silver
+Shenvy - gains Silver
+Shenvy - draws Copper, Copper
+Shenvy - shuffles deck
+Shenvy - draws Moneylender, Copper, Estate
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - draws Estate, Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Copper
+ 
+---------- Shenvy: turn 5 ----------
+Shenvy - plays Moneylender
+Shenvy - trashes Copper
+Shenvy - plays 2 Copper
+Shenvy - buys Market
+Shenvy - gains Market
+Shenvy - draws Estate, Workshop, Copper, Remodel, Estate
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Remodel
+silverspawn - gains Remodel
+silverspawn - draws Copper, Witch, Estate, Silver, Silver
+ 
+---------- Shenvy: turn 6 ----------
+Shenvy - plays Remodel
+Shenvy - trashes Estate
+Shenvy - gains Remodel
+Shenvy - draws Silver, Copper, Remodel, Copper
+Shenvy - shuffles deck
+Shenvy - draws Remodel
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays Witch
+silverspawn - draws Copper, Moneylender
+Shenvy - gains Curse
+silverspawn - plays 2 Copper, 2 Silver
+silverspawn - buys Gold
+silverspawn - gains Gold
+silverspawn - draws Copper, Estate
+silverspawn - shuffles deck
+silverspawn - draws Witch, Silver, Copper
+ 
+---------- Shenvy: turn 7 ----------
+Shenvy - plays Remodel
+Shenvy - trashes Remodel
+Shenvy - gains Gold
+Shenvy - plays 2 Copper, 1 Silver
+Shenvy - buys Remodel
+Shenvy - gains Remodel
+Shenvy - draws Estate, Market, Estate, Copper, Copper
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Witch
+silverspawn - draws Estate, Copper
+Shenvy - gains Curse
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Witch
+silverspawn - gains Witch
+silverspawn - draws Remodel, Moneylender, Copper, Copper, Copper
+ 
+---------- Shenvy: turn 8 ----------
+Shenvy - plays Market
+Shenvy - draws Copper
+Shenvy - plays 3 Copper
+Shenvy - buys Remodel
+Shenvy - gains Remodel
+Shenvy - draws Moneylender, Workshop, Remodel
+Shenvy - shuffles deck
+Shenvy - draws Estate, Remodel
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Moneylender
+silverspawn - trashes Copper
+silverspawn - plays 2 Copper
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - draws Copper, Silver, Estate, Gold
+silverspawn - shuffles deck
+silverspawn - draws Silver
+ 
+---------- Shenvy: turn 9 ----------
+Shenvy - plays Remodel
+Shenvy - trashes Estate
+Shenvy - gains Spy
+Shenvy - draws Market, Copper, Copper, Silver, Gold
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - plays 2 Silver, 1 Copper, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Market, Witch, Copper, Copper, Witch
+ 
+---------- Shenvy: turn 10 ----------
+Shenvy - plays Market
+Shenvy - draws Estate
+Shenvy - plays 2 Copper, 1 Silver, 1 Gold
+Shenvy - buys Market
+Shenvy - gains Market
+Shenvy - buys Cellar
+Shenvy - gains Cellar
+Shenvy - draws Curse, Curse, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Market
+silverspawn - draws Moneylender
+silverspawn - plays Witch
+silverspawn - draws Estate, Copper
+Shenvy - gains Curse
+silverspawn - plays 3 Copper
+silverspawn - buys Remodel
+silverspawn - gains Remodel
+silverspawn - draws Copper, Copper, Remodel, Estate
+silverspawn - shuffles deck
+silverspawn - draws Province
+ 
+---------- Shenvy: turn 11 ----------
+Shenvy - plays 3 Copper
+Shenvy - buys Silver
+Shenvy - gains Silver
+Shenvy - draws Remodel, Remodel
+Shenvy - shuffles deck
+Shenvy - draws Copper, Estate, Gold
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Remodel
+silverspawn - plays 2 Copper
+silverspawn - buys Cellar
+silverspawn - gains Cellar
+silverspawn - draws Gold, Copper, Estate, Copper, Copper
+ 
+---------- Shenvy: turn 12 ----------
+Shenvy - plays Remodel
+Shenvy - trashes Estate
+Shenvy - gains Spy
+Shenvy - plays 1 Copper, 1 Gold
+Shenvy - buys Spy
+Shenvy - gains Spy
+Shenvy - draws Curse, Market, Spy, Remodel, Moneylender
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - plays 3 Copper, 1 Gold
+silverspawn - buys Gold
+silverspawn - gains Gold
+silverspawn - draws Witch, Silver, Remodel, Estate, Moneylender
+ 
+---------- Shenvy: turn 13 ----------
+Shenvy - plays Spy
+Shenvy - draws Cellar
+Shenvy - places Silver on top of deck
+silverspawn - discards Copper
+Shenvy - plays Market
+Shenvy - draws Silver
+Shenvy - plays Cellar
+Shenvy - discards Curse
+Shenvy - draws Curse
+Shenvy - plays Remodel
+Shenvy - trashes Curse
+Shenvy - gains Cellar
+Shenvy - plays 1 Silver
+Shenvy - buys Silver
+Shenvy - gains Silver
+Shenvy - draws Curse, Silver, Copper, Market, Copper
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - plays Moneylender
+silverspawn - draws Silver, Witch, Market
+silverspawn - shuffles deck
+silverspawn - draws Estate, Silver
+ 
+---------- Shenvy: turn 14 ----------
+Shenvy - plays Market
+Shenvy - draws Workshop
+Shenvy - plays Workshop
+Shenvy - gains Spy
+Shenvy - plays 2 Copper, 1 Silver
+Shenvy - buys Market
+Shenvy - gains Market
+Shenvy - draws Copper, Remodel, Copper
+Shenvy - shuffles deck
+Shenvy - draws Copper, Curse
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - plays Market
+silverspawn - draws Remodel
+silverspawn - plays Witch
+silverspawn - draws Cellar, Gold
+Shenvy - gains Curse
+silverspawn - plays 2 Silver, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Copper, Copper, Copper, Remodel, Remodel
+ 
+---------- Shenvy: turn 15 ----------
+Shenvy - plays Remodel
+Shenvy - trashes Curse
+Shenvy - gains Cellar
+Shenvy - plays 3 Copper
+Shenvy - buys Woodcutter
+Shenvy - gains Woodcutter
+Shenvy - draws Silver, Copper, Silver, Cellar, Gold
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Remodel
+silverspawn - gains Gold
+silverspawn - plays 3 Copper
+silverspawn - buys Cellar
+silverspawn - gains Cellar
+silverspawn - draws Moneylender, Gold, Province, Copper, Estate
+ 
+---------- Shenvy: turn 16 ----------
+Shenvy - plays 2 Silver, 1 Copper, 1 Gold
+Shenvy - buys Province
+Shenvy - gains Province
+Shenvy - draws Curse, Spy, Remodel, Cellar, Market
+ 
+---------- silverspawn: turn 16 ----------
+silverspawn - plays Moneylender
+silverspawn - trashes Copper
+silverspawn - plays 1 Gold
+silverspawn - buys Gold
+silverspawn - gains Gold
+silverspawn - draws Witch, Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Estate, Province
+ 
+---------- Shenvy: turn 17 ----------
+Shenvy - plays Spy
+Shenvy - draws Copper
+Shenvy - places Remodel on top of deck
+silverspawn - places Province on top of deck
+Shenvy - plays Market
+Shenvy - draws Remodel
+Shenvy - plays Cellar
+Shenvy - discards Curse
+Shenvy - discards Remodel
+Shenvy - discards Copper
+Shenvy - draws Remodel, Spy, Silver
+Shenvy - plays Spy
+Shenvy - draws Market
+Shenvy - places Spy on top of deck
+silverspawn - places Province on top of deck
+Shenvy - plays Market
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - draws Spy
+Shenvy - places Market on top of deck
+silverspawn - places Province on top of deck
+Shenvy - plays Spy
+Shenvy - draws Market
+Shenvy - discards Moneylender
+silverspawn - places Province on top of deck
+Shenvy - plays Market
+Shenvy - draws Workshop
+Shenvy - plays Remodel
+Shenvy - trashes Workshop
+Shenvy - gains Market
+Shenvy - plays 1 Silver
+Shenvy - buys Market
+Shenvy - gains Market
+Shenvy - shuffles deck
+Shenvy - draws Spy, Spy, Market, Copper, Remodel
+ 
+---------- silverspawn: turn 17 ----------
+silverspawn - plays Witch
+silverspawn - draws Province, Gold
+Shenvy - gains Curse
+silverspawn - plays 2 Copper, 1 Gold
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - draws Copper, Gold, Witch, Market, Estate
+ 
+---------- Shenvy: turn 18 ----------
+Shenvy - plays Spy
+Shenvy - draws Remodel
+Shenvy - discards Cellar
+silverspawn - discards Cellar
+Shenvy - plays Spy
+Shenvy - draws Remodel
+Shenvy - places Spy on top of deck
+silverspawn - discards Remodel
+Shenvy - plays Market
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - draws Copper
+Shenvy - places Gold on top of deck
+silverspawn - discards Silver
+Shenvy - plays Remodel
+Shenvy - trashes Remodel
+Shenvy - gains Gold
+Shenvy - plays 2 Copper
+Shenvy - buys Silver
+Shenvy - gains Silver
+Shenvy - draws Gold, Market, Moneylender, Cellar, Copper
+ 
+---------- silverspawn: turn 18 ----------
+silverspawn - plays Market
+silverspawn - draws Remodel
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - draws Gold, Copper, Copper, Silver, Gold
+ 
+---------- Shenvy: turn 19 ----------
+Shenvy - plays Market
+Shenvy - draws Cellar
+Shenvy - plays Cellar
+Shenvy - discards Cellar
+Shenvy - draws Curse
+Shenvy - plays Moneylender
+Shenvy - trashes Copper
+Shenvy - plays 1 Gold
+Shenvy - buys Gold
+Shenvy - gains Gold
+Shenvy - draws Copper, Province, Copper, Market, Silver
+ 
+---------- silverspawn: turn 19 ----------
+silverspawn - plays 2 Gold, 2 Copper, 1 Silver
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Cellar, Moneylender
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Silver
+ 
+---------- Shenvy: turn 20 ----------
+Shenvy - plays Market
+Shenvy - draws Remodel
+Shenvy - plays Remodel
+Shenvy - trashes Silver
+Shenvy - gains Market
+Shenvy - plays 2 Copper
+Shenvy - buys Silver
+Shenvy - gains Silver
+Shenvy - draws Silver, Market, Woodcutter, Silver, Market
+ 
+---------- silverspawn: turn 20 ----------
+silverspawn - plays Cellar
+silverspawn - discards Copper
+silverspawn - draws Province
+silverspawn - plays Moneylender
+silverspawn - trashes Copper
+silverspawn - plays 1 Silver
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Gold, Estate, Copper, Province, Remodel
+ 
+---------- Shenvy: turn 21 ----------
+Shenvy - plays Market
+Shenvy - draws Curse
+Shenvy - plays Market
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - shuffles deck
+Shenvy - draws Cellar
+Shenvy - discards Cellar
+silverspawn - places Copper on top of deck
+Shenvy - plays Cellar
+Shenvy - discards Curse
+Shenvy - draws Remodel
+Shenvy - plays Woodcutter
+Shenvy - plays 2 Silver
+Shenvy - buys Province
+Shenvy - gains Province
+Shenvy - draws Remodel, Copper, Silver, Moneylender, Silver
+ 
+---------- silverspawn: turn 21 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - draws Copper, Province, Province, Silver, Gold
+ 
+---------- Shenvy: turn 22 ----------
+Shenvy - plays Moneylender
+Shenvy - trashes Copper
+Shenvy - plays 2 Silver
+Shenvy - buys Gold
+Shenvy - gains Gold
+Shenvy - draws Curse, Market, Market, Gold, Copper
+ 
+---------- silverspawn: turn 22 ----------
+silverspawn - plays 1 Copper, 1 Silver, 1 Gold
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Copper, Witch, Estate, Gold, Witch
+ 
+---------- Shenvy: turn 23 ----------
+Shenvy - plays Market
+Shenvy - draws Copper
+Shenvy - plays Market
+Shenvy - draws Market
+Shenvy - plays Market
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - draws Gold
+Shenvy - places Copper on top of deck
+silverspawn - discards Market
+Shenvy - plays 2 Gold, 2 Copper
+Shenvy - buys Duchy
+Shenvy - gains Duchy
+Shenvy - buys Duchy
+Shenvy - gains Duchy
+Shenvy - draws Copper, Province, Gold, Remodel, Spy
+ 
+---------- silverspawn: turn 23 ----------
+silverspawn - plays Witch
+silverspawn - draws Cellar, Remodel
+Shenvy - gains Curse
+silverspawn - plays 1 Copper, 1 Gold
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - draws Market
+silverspawn - shuffles deck
+silverspawn - draws Province, Province, Estate, Moneylender
+ 
+---------- Shenvy: turn 24 ----------
+Shenvy - plays Spy
+Shenvy - draws Market
+Shenvy - discards Curse
+silverspawn - discards Gold
+Shenvy - plays Market
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - draws Cellar
+Shenvy - shuffles deck
+Shenvy - places Spy on top of deck
+silverspawn - discards Copper
+Shenvy - plays Cellar
+Shenvy - discards Province
+Shenvy - draws Spy
+Shenvy - plays Spy
+Shenvy - draws Market
+Shenvy - places Market on top of deck
+silverspawn - discards Witch
+Shenvy - plays Market
+Shenvy - draws Market
+Shenvy - plays Market
+Shenvy - draws Curse
+Shenvy - plays Remodel
+Shenvy - trashes Curse
+Shenvy - gains Estate
+Shenvy - plays 1 Copper, 1 Gold
+Shenvy - buys Duchy
+Shenvy - gains Duchy
+Shenvy - buys Estate
+Shenvy - gains Estate
+Shenvy - draws Province, Cellar, Copper, Remodel, Market
+ 
+---------- silverspawn: turn 24 ----------
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - draws Silver, Witch, Cellar, Duchy, Estate
+ 
+---------- Shenvy: turn 25 ----------
+Shenvy - plays Cellar
+Shenvy - discards Province
+Shenvy - discards Copper
+Shenvy - draws Spy, Silver
+Shenvy - plays Spy
+Shenvy - draws Woodcutter
+Shenvy - discards Duchy
+silverspawn - discards Copper
+Shenvy - plays Market
+Shenvy - draws Remodel
+Shenvy - plays Remodel
+Shenvy - trashes Remodel
+Shenvy - gains Duchy
+Shenvy - plays 1 Silver
+Shenvy - buys Estate
+Shenvy - gains Estate
+Shenvy - draws Gold, Moneylender, Market, Gold, Silver
+ 
+---------- silverspawn: turn 25 ----------
+silverspawn - plays Cellar
+silverspawn - discards Duchy
+silverspawn - discards Estate
+silverspawn - draws Cellar, Estate
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - draws Market
+silverspawn - plays Market
+silverspawn - draws Remodel
+silverspawn - plays Remodel
+silverspawn - trashes Witch
+silverspawn - gains Duchy
+silverspawn - plays 1 Silver
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - draws Gold, Duchy, Silver, Remodel, Province
+ 
+---------- Shenvy: turn 26 ----------
+Shenvy - plays Market
+Shenvy - draws Curse
+Shenvy - plays 2 Gold, 1 Silver
+Shenvy - buys Province
+Shenvy - gains Province
+Shenvy - draws Duchy, Curse, Market, Copper, Silver
+ 
+------------ Game Over ------------
+silverspawn - cards: 2 Cellar, 2 Remodel, 2 Market, 1 Moneylender, 1 Witch, 4 Copper, 2 Silver, 2 Gold, 5 Province, 4 Estate, 3 Duchy
+silverspawn - total victory points: 43
+silverspawn - turns: 25
+ 
+Shenvy - cards: 6 Market, 4 Spy, 3 Cellar, 2 Remodel, 1 Moneylender, 1 Woodcutter, 4 Silver, 4 Gold, 3 Copper, 4 Duchy, 3 Province, 3 Estate, 3 Curse
+Shenvy - total victory points: 30
+Shenvy - turns: 26
+ 
+1st place: silverspawn
+2nd place: Shenvy
+ 

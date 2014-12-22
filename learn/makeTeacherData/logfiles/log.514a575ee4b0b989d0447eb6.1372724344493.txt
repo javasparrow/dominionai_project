@@ -1,0 +1,403 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Bureaucrat, Feast, Militia, Remodel, Spy, Festival, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+powersoul - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Blobby - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+powersoul - shuffles deck
+Blobby - shuffles deck
+powersoul - draws Copper, Estate, Estate, Copper, Copper
+Blobby - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Blobby: turn 1 ----------
+Blobby - plays 3 Copper
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- powersoul: turn 1 ----------
+powersoul - plays 3 Copper
+powersoul - buys Chapel
+powersoul - gains Chapel
+powersoul - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Blobby: turn 2 ----------
+Blobby - plays 4 Copper
+Blobby - buys Chapel
+Blobby - gains Chapel
+Blobby - shuffles deck
+Blobby - draws Copper, Chapel, Estate, Copper, Copper
+ 
+---------- powersoul: turn 2 ----------
+powersoul - plays 4 Copper
+powersoul - buys Militia
+powersoul - gains Militia
+powersoul - shuffles deck
+powersoul - draws Militia, Copper, Estate, Copper, Copper
+ 
+---------- Blobby: turn 3 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper, Copper, Estate, Copper
+Blobby - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- powersoul: turn 3 ----------
+powersoul - plays Militia
+Blobby - discards Copper
+Blobby - discards Copper
+powersoul - plays 3 Copper
+powersoul - buys Witch
+powersoul - gains Witch
+powersoul - draws Estate, Copper, Copper, Chapel, Estate
+ 
+---------- Blobby: turn 4 ----------
+Blobby - plays 2 Copper, 1 Silver
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - draws Estate, Estate
+Blobby - shuffles deck
+Blobby - draws Silver, Chapel, Copper
+ 
+---------- powersoul: turn 4 ----------
+powersoul - plays Chapel
+powersoul - trashes Estate, Copper, Copper, Estate
+powersoul - draws Copper, Copper
+powersoul - shuffles deck
+powersoul - draws Copper, Chapel, Copper
+ 
+---------- Blobby: turn 5 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper, Estate, Estate
+Blobby - draws Silver, Copper, Copper, Copper
+Blobby - shuffles deck
+Blobby - draws Silver
+ 
+---------- powersoul: turn 5 ----------
+powersoul - plays Chapel
+powersoul - trashes Copper, Copper, Copper
+powersoul - draws Estate, Militia, Copper, Witch
+powersoul - shuffles deck
+powersoul - draws Copper
+ 
+---------- Blobby: turn 6 ----------
+Blobby - plays 3 Copper, 2 Silver
+Blobby - buys Witch
+Blobby - gains Witch
+Blobby - draws Chapel
+Blobby - shuffles deck
+Blobby - draws Silver, Witch, Copper, Copper
+ 
+---------- powersoul: turn 6 ----------
+powersoul - plays Militia
+Blobby - discards Chapel
+Blobby - discards Copper
+powersoul - plays 2 Copper
+powersoul - buys Silver
+powersoul - gains Silver
+powersoul - draws Chapel
+powersoul - shuffles deck
+powersoul - draws Copper, Silver, Militia, Witch
+ 
+---------- Blobby: turn 7 ----------
+Blobby - plays Witch
+Blobby - draws Silver, Copper
+powersoul - gains Curse
+Blobby - plays 2 Silver, 2 Copper
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - shuffles deck
+Blobby - draws Copper, Witch, Copper, Chapel, Copper
+ 
+---------- powersoul: turn 7 ----------
+powersoul - plays Militia
+Blobby - discards Chapel
+Blobby - discards Copper
+powersoul - plays 1 Copper, 1 Silver
+powersoul - buys Festival
+powersoul - gains Festival
+powersoul - draws Copper, Estate
+powersoul - shuffles deck
+powersoul - draws Witch, Silver, Festival
+ 
+---------- Blobby: turn 8 ----------
+Blobby - plays Witch
+Blobby - draws Silver, Gold
+powersoul - gains Curse
+Blobby - plays 2 Copper, 1 Silver, 1 Gold
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Silver
+Blobby - shuffles deck
+Blobby - draws Gold, Copper, Silver, Witch
+ 
+---------- powersoul: turn 8 ----------
+powersoul - plays Festival
+powersoul - plays Witch
+powersoul - draws Curse, Copper
+Blobby - gains Curse
+powersoul - plays 2 Copper, 1 Silver
+powersoul - buys Festival
+powersoul - gains Festival
+powersoul - draws Chapel, Militia
+powersoul - shuffles deck
+powersoul - draws Witch, Copper, Silver
+ 
+---------- Blobby: turn 9 ----------
+Blobby - plays Witch
+Blobby - draws Copper, Gold
+powersoul - gains Curse
+Blobby - plays 2 Silver, 2 Gold, 2 Copper
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Chapel, Copper
+Blobby - shuffles deck
+Blobby - draws Copper, Silver, Gold
+ 
+---------- powersoul: turn 9 ----------
+powersoul - plays Militia
+Blobby - discards Chapel
+Blobby - discards Copper
+powersoul - plays 1 Copper, 1 Silver
+powersoul - buys Moat
+powersoul - gains Moat
+powersoul - draws Curse, Festival, Curse, Estate, Festival
+ 
+---------- Blobby: turn 10 ----------
+Blobby - plays 1 Copper, 1 Silver, 1 Gold
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - draws Curse, Witch, Province, Silver, Gold
+ 
+---------- powersoul: turn 10 ----------
+powersoul - plays Festival
+powersoul - plays Festival
+powersoul - buys Moat
+powersoul - gains Moat
+powersoul - buys Moat
+powersoul - gains Moat
+powersoul - draws Copper
+powersoul - shuffles deck
+powersoul - draws Moat, Moat, Chapel, Curse
+ 
+---------- Blobby: turn 11 ----------
+Blobby - plays Witch
+powersoul - reveals reaction Moat
+Blobby - draws Copper
+Blobby - shuffles deck
+Blobby - draws Gold
+Blobby - plays 2 Gold, 1 Silver, 1 Copper
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Gold, Copper, Silver, Copper, Chapel
+ 
+---------- powersoul: turn 11 ----------
+powersoul - plays Moat
+powersoul - draws Estate, Silver
+powersoul - plays 1 Copper, 1 Silver
+powersoul - buys Silver
+powersoul - gains Silver
+powersoul - draws Festival, Curse, Moat, Festival, Witch
+ 
+---------- Blobby: turn 12 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper, Copper
+Blobby - plays 1 Gold, 1 Silver
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - shuffles deck
+Blobby - draws Gold, Province, Gold, Copper, Silver
+ 
+---------- powersoul: turn 12 ----------
+powersoul - plays Festival
+powersoul - plays Festival
+powersoul - plays Moat
+powersoul - draws Copper, Curse
+powersoul - plays Witch
+powersoul - draws Militia
+powersoul - shuffles deck
+powersoul - draws Curse
+Blobby - gains Curse
+powersoul - plays Militia
+Blobby - discards Province
+Blobby - discards Copper
+powersoul - plays 1 Copper
+powersoul - buys Moat
+powersoul - gains Moat
+powersoul - buys Festival
+powersoul - gains Festival
+powersoul - draws Estate, Chapel, Moat, Moat, Copper
+ 
+---------- Blobby: turn 13 ----------
+Blobby - plays 2 Gold, 1 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Curse, Province, Festival, Chapel, Gold
+ 
+---------- powersoul: turn 13 ----------
+powersoul - plays Chapel
+powersoul - trashes Copper, Estate
+powersoul - draws Silver, Silver
+powersoul - shuffles deck
+powersoul - draws Militia, Moat, Curse
+ 
+---------- Blobby: turn 14 ----------
+Blobby - plays Festival
+Blobby - plays Chapel
+Blobby - trashes Curse
+Blobby - plays Gold
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Silver, Witch
+Blobby - shuffles deck
+Blobby - draws Silver, Gold, Copper
+ 
+---------- powersoul: turn 14 ----------
+powersoul - plays Militia
+Blobby - discards Copper
+Blobby - discards Silver
+powersoul - plays 2 Silver
+powersoul - buys Gold
+powersoul - gains Gold
+powersoul - draws Festival, Moat, Festival, Curse, Moat
+ 
+---------- Blobby: turn 15 ----------
+Blobby - plays Witch
+powersoul - reveals reaction Moat
+Blobby - draws Gold, Province
+Blobby - plays 2 Gold, 1 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Province, Festival, Chapel, Province, Curse
+ 
+---------- powersoul: turn 15 ----------
+powersoul - plays Festival
+powersoul - plays Festival
+powersoul - plays Moat
+powersoul - draws Curse, Witch
+powersoul - plays Witch
+powersoul - draws Festival, Moat
+Blobby - gains Curse
+powersoul - plays Festival
+powersoul - plays Moat
+powersoul - draws Copper, Chapel
+powersoul - plays Moat
+powersoul - shuffles deck
+powersoul - draws Curse, Militia
+powersoul - plays Copper
+powersoul - buys Gold
+powersoul - gains Gold
+powersoul - draws Gold, Silver, Moat, Silver
+powersoul - shuffles deck
+powersoul - draws Festival
+ 
+---------- Blobby: turn 16 ----------
+Blobby - plays Festival
+Blobby - plays Chapel
+Blobby - trashes Curse
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - draws Festival, Gold
+Blobby - shuffles deck
+Blobby - draws Gold, Silver, Province
+ 
+---------- powersoul: turn 16 ----------
+powersoul - plays Festival
+powersoul - plays Moat
+powersoul - draws Festival, Gold
+powersoul - plays Festival
+powersoul - plays 2 Gold, 2 Silver
+powersoul - buys Province
+powersoul - gains Province
+powersoul - buys Gold
+powersoul - gains Gold
+powersoul - draws Witch, Copper, Curse, Chapel, Moat
+ 
+---------- Blobby: turn 17 ----------
+Blobby - plays Festival
+Blobby - plays 2 Gold, 1 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Curse, Copper, Festival, Province, Province
+ 
+---------- powersoul: turn 17 ----------
+powersoul - plays Chapel
+powersoul - trashes Copper, Curse
+powersoul - draws Militia, Moat, Moat, Curse, Curse
+ 
+---------- Blobby: turn 18 ----------
+Blobby - plays Festival
+Blobby - plays Copper
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - draws Chapel, Silver, Gold, Witch, Cellar
+ 
+---------- powersoul: turn 18 ----------
+powersoul - plays Militia
+Blobby - discards Chapel
+Blobby - discards Cellar
+powersoul - buys Cellar
+powersoul - gains Cellar
+powersoul - draws Festival
+powersoul - shuffles deck
+powersoul - draws Militia, Cellar, Curse, Festival
+ 
+---------- Blobby: turn 19 ----------
+Blobby - plays Witch
+Blobby - draws Province
+Blobby - shuffles deck
+Blobby - draws Curse
+powersoul - gains Curse
+Blobby - plays 1 Silver, 1 Gold
+Blobby - buys Duchy
+Blobby - gains Duchy
+Blobby - draws Province, Silver, Copper, Chapel, Cellar
+ 
+---------- powersoul: turn 19 ----------
+powersoul - plays Festival
+powersoul - plays Festival
+powersoul - plays Militia
+Blobby - discards Province
+Blobby - discards Cellar
+powersoul - plays Cellar
+powersoul - discards Curse
+powersoul - draws Silver
+powersoul - plays Silver
+powersoul - buys Province
+powersoul - gains Province
+powersoul - draws Moat, Witch, Curse, Moat, Moat
+ 
+---------- Blobby: turn 20 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper
+Blobby - plays 1 Silver
+Blobby - buys Cellar
+Blobby - gains Cellar
+Blobby - draws Gold, Province, Province, Gold, Silver
+ 
+---------- powersoul: turn 20 ----------
+powersoul - plays Witch
+powersoul - draws Chapel, Gold
+Blobby - gains Curse
+powersoul - plays 1 Gold
+powersoul - buys Estate
+powersoul - gains Estate
+powersoul - draws Gold, Festival, Moat, Province, Gold
+ 
+---------- Blobby: turn 21 ----------
+Blobby - plays 2 Gold, 1 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Province, Festival, Festival
+Blobby - shuffles deck
+Blobby - draws Duchy, Province
+ 
+------------ Game Over ------------
+Blobby - cards: 2 Festival, 2 Cellar, 1 Chapel, 1 Witch, 3 Gold, 3 Silver, 6 Province, 1 Duchy, 2 Curse
+Blobby - total victory points: 37
+Blobby - turns: 21
+ 
+powersoul - cards: 4 Moat, 3 Festival, 1 Militia, 1 Cellar, 1 Witch, 1 Chapel, 3 Gold, 2 Silver, 2 Province, 1 Estate, 3 Curse
+powersoul - total victory points: 10
+powersoul - turns: 20
+ 
+1st place: Blobby
+2nd place: powersoul
+ 

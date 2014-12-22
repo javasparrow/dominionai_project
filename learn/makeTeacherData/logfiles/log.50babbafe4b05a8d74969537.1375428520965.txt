@@ -1,0 +1,623 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Woodcutter, Workshop, Remodel, Festival, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kkoooaiai - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+kkoooaiai - shuffles deck
+Gherald - draws Copper, Copper, Estate, Copper, Estate
+kkoooaiai - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- kkoooaiai: turn 1 ----------
+kkoooaiai - plays 5 Copper
+kkoooaiai - buys Witch
+kkoooaiai - gains Witch
+kkoooaiai - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- kkoooaiai: turn 2 ----------
+kkoooaiai - plays 2 Copper
+kkoooaiai - buys Moat
+kkoooaiai - gains Moat
+kkoooaiai - shuffles deck
+kkoooaiai - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 2 Silver, 2 Copper
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- kkoooaiai: turn 3 ----------
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Village
+kkoooaiai - gains Village
+kkoooaiai - draws Estate, Moat, Copper, Copper, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 3 Copper
+Gherald - buys Moat
+Gherald - gains Moat
+Gherald - draws Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Silver, Witch, Moat
+ 
+---------- kkoooaiai: turn 4 ----------
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Silver
+kkoooaiai - gains Silver
+kkoooaiai - draws Witch, Copper
+kkoooaiai - shuffles deck
+kkoooaiai - draws Village, Estate, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Silver
+kkoooaiai - gains Curse
+Gherald - plays 3 Copper, 2 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- kkoooaiai: turn 5 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Estate
+kkoooaiai - plays Witch
+kkoooaiai - draws Copper, Moat
+Gherald - gains Curse
+kkoooaiai - plays Moat
+kkoooaiai - draws Copper, Silver
+kkoooaiai - plays 4 Copper, 1 Silver
+kkoooaiai - buys Witch
+kkoooaiai - gains Witch
+kkoooaiai - draws Estate, Copper, Copper, Copper
+kkoooaiai - shuffles deck
+kkoooaiai - draws Estate
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays 3 Copper
+Gherald - buys Moat
+Gherald - gains Moat
+Gherald - draws Estate, Copper
+Gherald - shuffles deck
+Gherald - draws Silver, Silver, Copper
+ 
+---------- kkoooaiai: turn 6 ----------
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Moat
+kkoooaiai - gains Moat
+kkoooaiai - draws Estate, Copper, Witch, Silver, Curse
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays 2 Copper, 2 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Curse, Copper, Copper, Copper, Copper
+ 
+---------- kkoooaiai: turn 7 ----------
+kkoooaiai - plays Witch
+kkoooaiai - draws Moat, Village
+Gherald - gains Curse
+kkoooaiai - plays 1 Copper, 1 Silver
+kkoooaiai - buys Village
+kkoooaiai - gains Village
+kkoooaiai - draws Copper, Copper, Copper, Witch
+kkoooaiai - shuffles deck
+kkoooaiai - draws Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays 4 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Moat, Copper, Gold, Estate, Estate
+ 
+---------- kkoooaiai: turn 8 ----------
+kkoooaiai - plays Witch
+Gherald - reveals reaction Moat
+kkoooaiai - draws Estate, Copper
+kkoooaiai - plays 5 Copper
+kkoooaiai - buys Festival
+kkoooaiai - gains Festival
+kkoooaiai - draws Village, Copper, Copper, Witch, Moat
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Moat
+Gherald - draws Witch, Moat
+Gherald - plays 1 Copper, 1 Gold
+Gherald - buys Village
+Gherald - gains Village
+Gherald - shuffles deck
+Gherald - draws Curse, Estate, Estate, Gold, Moat
+ 
+---------- kkoooaiai: turn 9 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Moat
+kkoooaiai - plays Witch
+Gherald - reveals reaction Moat
+kkoooaiai - draws Silver, Estate
+kkoooaiai - plays Moat
+kkoooaiai - draws Estate, Village
+kkoooaiai - plays 2 Copper, 1 Silver
+kkoooaiai - buys Remodel
+kkoooaiai - gains Remodel
+kkoooaiai - draws Curse
+kkoooaiai - shuffles deck
+kkoooaiai - draws Copper, Copper, Village, Copper
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Moat
+Gherald - draws Village, Moat
+Gherald - plays 1 Gold
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Silver, Market, Copper, Copper, Curse
+ 
+---------- kkoooaiai: turn 10 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Copper
+kkoooaiai - plays 4 Copper
+kkoooaiai - buys Village
+kkoooaiai - gains Village
+kkoooaiai - draws Village, Estate, Festival, Estate, Silver
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Witch, Village, Copper, Estate, Silver
+ 
+---------- kkoooaiai: turn 11 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Remodel
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Estate
+kkoooaiai - gains Remodel
+kkoooaiai - plays 1 Silver
+kkoooaiai - buys Remodel
+kkoooaiai - gains Remodel
+kkoooaiai - draws Witch, Witch, Copper, Moat, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Witch
+kkoooaiai - reveals reaction Moat
+Gherald - draws Copper, Copper
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - shuffles deck
+Gherald - draws Copper, Village, Copper, Copper, Village
+ 
+---------- kkoooaiai: turn 12 ----------
+kkoooaiai - plays Witch
+kkoooaiai - draws Estate, Copper
+Gherald - gains Curse
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Village
+kkoooaiai - gains Village
+kkoooaiai - draws Moat
+kkoooaiai - shuffles deck
+kkoooaiai - draws Witch, Copper, Village, Estate
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Village
+Gherald - draws Silver
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Silver, Witch, Witch, Gold, Copper
+ 
+---------- kkoooaiai: turn 13 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Witch
+kkoooaiai - plays Witch
+kkoooaiai - draws Copper, Remodel
+Gherald - gains Curse
+kkoooaiai - plays Witch
+kkoooaiai - draws Village, Copper
+Gherald - gains Curse
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Silver
+kkoooaiai - gains Silver
+kkoooaiai - draws Estate, Village, Moat, Copper, Copper
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Witch
+kkoooaiai - reveals reaction Moat
+Gherald - draws Curse, Estate
+Gherald - plays 1 Silver, 1 Gold, 1 Copper
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Market, Village, Moat, Moat, Estate
+ 
+---------- kkoooaiai: turn 14 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Remodel
+kkoooaiai - plays Moat
+kkoooaiai - draws Festival, Copper
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Estate
+kkoooaiai - gains Remodel
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Festival
+kkoooaiai - gains Festival
+kkoooaiai - draws Copper, Village, Silver, Curse, Remodel
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Village
+Gherald - draws Market
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Moat
+Gherald - draws Copper, Curse
+Gherald - plays Moat
+Gherald - shuffles deck
+Gherald - draws Curse, Silver
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Silver, Copper, Curse, Estate, Market
+ 
+---------- kkoooaiai: turn 15 ----------
+kkoooaiai - plays Village
+kkoooaiai - shuffles deck
+kkoooaiai - draws Moat
+kkoooaiai - plays Moat
+kkoooaiai - draws Copper, Copper
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Curse
+kkoooaiai - gains Cellar
+kkoooaiai - plays 3 Copper, 1 Silver
+kkoooaiai - buys Festival
+kkoooaiai - gains Festival
+kkoooaiai - draws Copper, Witch, Village, Witch, Remodel
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Copper, Copper, Gold, Witch, Village
+ 
+---------- kkoooaiai: turn 16 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Copper
+kkoooaiai - plays Witch
+kkoooaiai - draws Estate, Moat
+Gherald - gains Curse
+kkoooaiai - plays Witch
+kkoooaiai - draws Festival, Village
+Gherald - gains Curse
+kkoooaiai - draws Festival, Copper, Remodel, Remodel, Silver
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Village
+Gherald - draws Witch
+Gherald - plays Witch
+Gherald - draws Copper, Gold
+kkoooaiai - gains Curse
+Gherald - plays Witch
+Gherald - draws Curse, Village
+kkoooaiai - gains Curse
+Gherald - plays 3 Copper, 2 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Curse
+Gherald - shuffles deck
+Gherald - draws Province, Curse, Gold, Market
+ 
+---------- kkoooaiai: turn 17 ----------
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Remodel
+kkoooaiai - gains Gold
+kkoooaiai - plays 1 Copper, 1 Silver
+kkoooaiai - buys Market
+kkoooaiai - gains Market
+kkoooaiai - draws Copper, Village
+kkoooaiai - shuffles deck
+kkoooaiai - draws Moat, Witch, Copper
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Market
+Gherald - draws Curse
+Gherald - plays 1 Gold
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Copper, Moat, Market
+ 
+---------- kkoooaiai: turn 18 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Copper
+kkoooaiai - plays Witch
+Gherald - reveals reaction Moat
+kkoooaiai - draws Copper, Festival
+kkoooaiai - plays Festival
+kkoooaiai - plays Moat
+kkoooaiai - draws Village, Remodel
+kkoooaiai - plays Village
+kkoooaiai - draws Festival
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Copper
+kkoooaiai - gains Cellar
+kkoooaiai - plays 3 Copper
+kkoooaiai - buys Gold
+kkoooaiai - gains Gold
+kkoooaiai - draws Cellar, Gold, Market, Copper, Village
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays Moat
+Gherald - draws Gold, Silver
+Gherald - plays 3 Copper, 1 Gold, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Curse, Village, Moat, Curse, Curse
+ 
+---------- kkoooaiai: turn 19 ----------
+kkoooaiai - plays Market
+kkoooaiai - draws Remodel
+kkoooaiai - plays Village
+kkoooaiai - draws Remodel
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Copper
+kkoooaiai - gains Cellar
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Cellar
+kkoooaiai - gains Remodel
+kkoooaiai - plays 1 Gold
+kkoooaiai - buys Remodel
+kkoooaiai - gains Remodel
+kkoooaiai - draws Copper, Silver, Curse, Curse, Village
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Moat
+Gherald - draws Copper, Witch
+Gherald - plays Witch
+Gherald - draws Market, Estate
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Village, Curse, Village
+ 
+---------- kkoooaiai: turn 20 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Moat
+kkoooaiai - plays Moat
+kkoooaiai - draws Festival, Estate
+kkoooaiai - plays Festival
+kkoooaiai - plays 1 Copper, 1 Silver
+kkoooaiai - buys Festival
+kkoooaiai - gains Festival
+kkoooaiai - draws Copper, Silver, Witch
+kkoooaiai - shuffles deck
+kkoooaiai - draws Copper, Festival
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Village
+Gherald - draws Witch
+Gherald - plays Village
+Gherald - draws Silver
+Gherald - plays Witch
+Gherald - draws Market, Gold
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays 2 Copper, 1 Silver, 1 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - shuffles deck
+Gherald - draws Gold, Moat, Village, Curse, Gold
+ 
+---------- kkoooaiai: turn 21 ----------
+kkoooaiai - plays Festival
+kkoooaiai - plays Witch
+Gherald - reveals reaction Moat
+kkoooaiai - draws Festival, Remodel
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Copper
+kkoooaiai - gains Cellar
+kkoooaiai - plays 1 Copper, 1 Silver
+kkoooaiai - buys Remodel
+kkoooaiai - gains Remodel
+kkoooaiai - buys Village
+kkoooaiai - gains Village
+kkoooaiai - draws Remodel, Festival, Remodel, Village, Moat
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays Village
+Gherald - draws Moat
+Gherald - plays Moat
+Gherald - draws Witch, Province
+Gherald - plays Witch
+kkoooaiai - reveals reaction Moat
+Gherald - draws Copper, Province
+Gherald - plays 2 Gold, 1 Copper
+Gherald - buys Remodel
+Gherald - gains Remodel
+Gherald - draws Market, Curse, Village, Cellar, Curse
+ 
+---------- kkoooaiai: turn 22 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Gold
+kkoooaiai - plays Moat
+kkoooaiai - draws Curse, Gold
+kkoooaiai - plays Festival
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Curse
+kkoooaiai - gains Cellar
+kkoooaiai - plays 2 Gold
+kkoooaiai - buys Province
+kkoooaiai - gains Province
+kkoooaiai - draws Copper, Witch, Market, Remodel, Village
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays Village
+Gherald - draws Market
+Gherald - plays Market
+Gherald - draws Curse
+Gherald - plays Market
+Gherald - draws Market
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Curse
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - draws Witch, Estate, Curse, Curse
+Gherald - plays Witch
+Gherald - draws Village, Copper
+Gherald - plays Village
+Gherald - draws Silver
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Copper, Copper, Province, Cellar, Copper
+ 
+---------- kkoooaiai: turn 23 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Cellar
+kkoooaiai - plays Market
+kkoooaiai - draws Village
+kkoooaiai - plays Village
+kkoooaiai - draws Copper
+kkoooaiai - plays Witch
+kkoooaiai - draws Curse, Silver
+kkoooaiai - plays Cellar
+kkoooaiai - discards Curse
+kkoooaiai - discards Copper
+kkoooaiai - discards Copper
+kkoooaiai - draws Village, Cellar, Estate
+kkoooaiai - plays Village
+kkoooaiai - draws Copper
+kkoooaiai - plays Cellar
+kkoooaiai - discards Estate
+kkoooaiai - discards Copper
+kkoooaiai - draws Festival, Moat
+kkoooaiai - plays Festival
+kkoooaiai - plays Moat
+kkoooaiai - draws Remodel
+kkoooaiai - shuffles deck
+kkoooaiai - draws Copper
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Remodel
+kkoooaiai - gains Gold
+kkoooaiai - plays 1 Silver, 1 Copper
+kkoooaiai - buys Gold
+kkoooaiai - gains Gold
+kkoooaiai - draws Village, Remodel, Remodel, Copper, Gold
+ 
+---------- Gherald: turn 24 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - discards Province
+Gherald - discards Copper
+Gherald - draws Estate, Copper, Gold, Curse
+Gherald - plays 1 Copper, 1 Gold
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Silver, Estate, Market, Cellar
+Gherald - shuffles deck
+Gherald - draws Moat
+ 
+---------- kkoooaiai: turn 24 ----------
+kkoooaiai - plays Village
+kkoooaiai - draws Silver
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Remodel
+kkoooaiai - gains Gold
+kkoooaiai - plays 1 Copper, 1 Gold, 1 Silver
+kkoooaiai - buys Gold
+kkoooaiai - gains Gold
+kkoooaiai - draws Cellar, Estate, Province, Witch, Curse
+ 
+---------- Gherald: turn 25 ----------
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Moat
+Gherald - discards Copper
+Gherald - draws Copper, Witch, Curse
+Gherald - plays Witch
+Gherald - draws Gold, Curse
+Gherald - plays 1 Silver, 1 Copper, 1 Gold
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Remodel, Curse, Copper, Curse, Gold
+ 
+---------- kkoooaiai: turn 25 ----------
+kkoooaiai - plays Cellar
+kkoooaiai - discards Estate
+kkoooaiai - discards Province
+kkoooaiai - discards Curse
+kkoooaiai - draws Festival, Moat, Festival
+kkoooaiai - plays Festival
+kkoooaiai - plays Festival
+kkoooaiai - plays Moat
+kkoooaiai - draws Festival, Remodel
+kkoooaiai - plays Festival
+kkoooaiai - plays Witch
+kkoooaiai - draws Gold, Cellar
+kkoooaiai - plays Remodel
+kkoooaiai - trashes Gold
+kkoooaiai - gains Province
+kkoooaiai - buys Adventurer
+kkoooaiai - gains Adventurer
+kkoooaiai - draws Village, Copper, Remodel, Copper
+kkoooaiai - shuffles deck
+kkoooaiai - draws Province
+ 
+---------- Gherald: turn 26 ----------
+Gherald - plays Remodel
+Gherald - trashes Curse
+Gherald - gains Cellar
+Gherald - plays 1 Copper, 1 Gold
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Village, Copper, Curse, Cellar, Cellar
+ 
+------------ Game Over ------------
+Gherald - cards: 5 Village, 5 Cellar, 4 Market, 2 Moat, 2 Witch, 1 Remodel, 7 Copper, 3 Gold, 2 Silver, 3 Estate, 3 Province, 2 Duchy, 6 Curse
+Gherald - total victory points: 21
+Gherald - turns: 26
+ 
+kkoooaiai - cards: 5 Village, 4 Remodel, 4 Festival, 4 Cellar, 2 Moat, 2 Witch, 1 Market, 1 Adventurer, 5 Gold, 4 Copper, 2 Silver, 2 Province, 1 Estate, 1 Curse
+kkoooaiai - total victory points: 12
+kkoooaiai - turns: 25
+ 
+1st place: Gherald
+2nd place: kkoooaiai
+ 

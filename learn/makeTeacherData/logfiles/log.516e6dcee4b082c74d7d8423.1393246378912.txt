@@ -1,0 +1,555 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Village, Bureaucrat, Remodel, Festival, Laboratory, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+LeBronius - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LeBronius - shuffles deck
+RTT - shuffles deck
+LeBronius - draws Estate, Copper, Copper, Estate, Estate
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 4 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- LeBronius: turn 1 ----------
+LeBronius - plays 2 Copper
+LeBronius - buys Moat
+LeBronius - gains Moat
+LeBronius - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- LeBronius: turn 2 ----------
+LeBronius - plays 5 Copper
+LeBronius - buys Witch
+LeBronius - gains Witch
+LeBronius - shuffles deck
+LeBronius - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 4 Copper, 1 Silver
+RTT - buys Witch
+RTT - gains Witch
+RTT - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- LeBronius: turn 3 ----------
+LeBronius - plays 4 Copper
+LeBronius - buys Village
+LeBronius - gains Village
+LeBronius - draws Moat, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Estate
+RTT - shuffles deck
+RTT - draws Witch, Silver, Copper
+ 
+---------- LeBronius: turn 4 ----------
+LeBronius - plays 3 Copper
+LeBronius - buys Village
+LeBronius - gains Village
+LeBronius - draws Estate, Witch
+LeBronius - shuffles deck
+LeBronius - draws Copper, Copper, Estate
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Witch
+RTT - draws Copper, Silver
+LeBronius - gains Curse
+RTT - plays 3 Copper, 2 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- LeBronius: turn 5 ----------
+LeBronius - plays Witch
+LeBronius - draws Village, Copper
+RTT - gains Curse
+LeBronius - plays 3 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Copper, Estate, Copper, Village, Moat
+ 
+---------- RTT: turn 6 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Witch
+RTT - gains Witch
+RTT - draws Estate, Copper
+RTT - shuffles deck
+RTT - draws Gold, Silver, Copper
+ 
+---------- LeBronius: turn 6 ----------
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays Moat
+LeBronius - draws Copper
+LeBronius - shuffles deck
+LeBronius - draws Copper
+LeBronius - plays 5 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Curse, Silver, Copper, Witch, Estate
+ 
+---------- RTT: turn 7 ----------
+RTT - plays 2 Copper, 1 Gold, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Curse, Copper, Witch, Copper, Estate
+ 
+---------- LeBronius: turn 7 ----------
+LeBronius - plays Witch
+LeBronius - draws Copper, Village
+RTT - gains Curse
+LeBronius - plays 2 Copper, 1 Silver
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Estate
+LeBronius - shuffles deck
+LeBronius - draws Village, Silver, Estate, Silver
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Witch
+RTT - draws Witch, Copper
+LeBronius - gains Curse
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Silver, Estate, Copper, Silver, Copper
+ 
+---------- LeBronius: turn 8 ----------
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays 2 Silver, 1 Copper
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Curse, Copper, Witch, Laboratory, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays 2 Silver, 2 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - shuffles deck
+RTT - draws Silver, Copper, Silver, Gold, Curse
+ 
+---------- LeBronius: turn 9 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Estate
+LeBronius - plays Witch
+LeBronius - draws Village, Copper
+RTT - gains Curse
+LeBronius - plays 4 Copper
+LeBronius - buys Moat
+LeBronius - gains Moat
+LeBronius - draws Copper, Moat, Copper
+LeBronius - shuffles deck
+LeBronius - draws Witch, Village
+ 
+---------- RTT: turn 10 ----------
+RTT - plays 2 Silver, 1 Copper, 1 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Estate, Gold, Copper, Estate, Estate
+ 
+---------- LeBronius: turn 10 ----------
+LeBronius - plays Village
+LeBronius - draws Estate
+LeBronius - plays Witch
+LeBronius - draws Curse, Copper
+RTT - gains Curse
+LeBronius - plays Moat
+LeBronius - draws Curse, Copper
+LeBronius - plays 4 Copper
+LeBronius - buys Village
+LeBronius - gains Village
+LeBronius - draws Estate, Laboratory, Copper, Silver, Moat
+ 
+---------- RTT: turn 11 ----------
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Remodel
+RTT - gains Remodel
+RTT - draws Witch, Copper, Silver, Copper, Witch
+ 
+---------- LeBronius: turn 11 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Copper
+LeBronius - plays 2 Copper, 2 Silver
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Village, Laboratory, Copper, Estate
+LeBronius - shuffles deck
+LeBronius - draws Copper
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Witch
+RTT - draws Curse, Copper
+LeBronius - gains Curse
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Copper, Silver, Copper, Gold
+RTT - shuffles deck
+RTT - draws Silver
+ 
+---------- LeBronius: turn 12 ----------
+LeBronius - plays Village
+LeBronius - draws Village
+LeBronius - plays Village
+LeBronius - draws Witch
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Copper
+LeBronius - plays Witch
+LeBronius - draws Copper, Silver
+RTT - gains Curse
+LeBronius - plays 5 Copper, 1 Silver
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Laboratory, Moat, Silver, Moat, Curse
+ 
+---------- RTT: turn 13 ----------
+RTT - plays 2 Copper, 2 Silver, 1 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper, Laboratory, Estate, Silver, Witch
+ 
+---------- LeBronius: turn 13 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Curse
+LeBronius - plays Moat
+LeBronius - draws Copper, Village
+LeBronius - plays 1 Silver, 1 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Copper
+LeBronius - shuffles deck
+LeBronius - draws Curse, Moat, Copper, Laboratory
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Laboratory
+RTT - draws Remodel, Witch
+RTT - plays Witch
+LeBronius - reveals reaction Moat
+RTT - draws Curse, Curse
+RTT - plays 1 Copper, 1 Silver
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Estate, Curse, Copper, Copper, Estate
+ 
+---------- LeBronius: turn 14 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Curse, Silver
+LeBronius - plays 2 Copper, 1 Silver
+LeBronius - buys Remodel
+LeBronius - gains Remodel
+LeBronius - draws Estate, Copper, Estate, Copper, Laboratory
+ 
+---------- RTT: turn 15 ----------
+RTT - draws Curse, Copper, Province, Gold, Gold
+ 
+---------- LeBronius: turn 15 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Curse, Village
+LeBronius - plays Village
+LeBronius - draws Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Village
+LeBronius - plays Village
+LeBronius - draws Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Village
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays 4 Copper, 1 Silver
+LeBronius - buys Gold
+LeBronius - gains Gold
+LeBronius - draws Estate, Silver, Copper, Witch, Moat
+ 
+---------- RTT: turn 16 ----------
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Silver
+RTT - shuffles deck
+RTT - draws Curse, Estate, Gold
+ 
+---------- LeBronius: turn 16 ----------
+LeBronius - plays Witch
+LeBronius - shuffles deck
+LeBronius - draws Curse, Curse
+RTT - gains Curse
+LeBronius - plays 1 Silver, 1 Copper
+LeBronius - buys Silver
+LeBronius - gains Silver
+LeBronius - draws Copper, Moat, Curse, Laboratory, Gold
+ 
+---------- RTT: turn 17 ----------
+RTT - plays 1 Copper, 1 Silver, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Curse, Copper, Copper, Estate, Remodel
+ 
+---------- LeBronius: turn 17 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Copper
+LeBronius - plays 2 Copper, 1 Gold
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Village, Copper, Laboratory, Copper, Estate
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Remodel
+RTT - trashes Curse
+RTT - gains Estate
+RTT - draws Witch, Gold, Province, Witch, Province
+ 
+---------- LeBronius: turn 18 ----------
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays Laboratory
+LeBronius - draws Remodel, Village
+LeBronius - plays Village
+LeBronius - draws Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Village
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays Remodel
+LeBronius - trashes Copper
+LeBronius - gains Estate
+LeBronius - plays 3 Copper, 1 Silver
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Silver, Laboratory
+LeBronius - shuffles deck
+LeBronius - draws Village, Gold, Estate
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Witch
+RTT - draws Curse, Copper
+LeBronius - gains Curse
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Gold, Copper, Laboratory, Silver
+ 
+---------- LeBronius: turn 19 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Copper
+LeBronius - plays Village
+LeBronius - draws Copper
+LeBronius - plays 3 Copper, 1 Silver, 1 Gold
+LeBronius - buys Province
+LeBronius - gains Province
+LeBronius - draws Village, Laboratory, Village, Copper, Laboratory
+ 
+---------- RTT: turn 20 ----------
+RTT - plays Laboratory
+RTT - draws Estate, Silver
+RTT - plays 2 Copper, 2 Silver, 1 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Gold, Curse, Silver, Silver, Copper
+ 
+---------- LeBronius: turn 20 ----------
+LeBronius - plays Village
+LeBronius - draws Silver
+LeBronius - plays Village
+LeBronius - draws Moat
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Moat
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Remodel
+LeBronius - plays Moat
+LeBronius - draws Curse, Witch
+LeBronius - plays Witch
+LeBronius - draws Laboratory, Curse
+LeBronius - plays Laboratory
+LeBronius - draws Laboratory, Copper
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Estate
+LeBronius - plays Remodel
+LeBronius - trashes Curse
+LeBronius - gains Moat
+LeBronius - plays 3 Copper, 2 Silver
+LeBronius - buys Laboratory
+LeBronius - gains Laboratory
+LeBronius - draws Silver, Laboratory, Curse, Estate
+LeBronius - shuffles deck
+LeBronius - draws Province
+ 
+---------- RTT: turn 21 ----------
+RTT - plays 2 Silver, 1 Gold, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Curse
+RTT - shuffles deck
+RTT - draws Copper, Province, Gold, Laboratory
+ 
+---------- LeBronius: turn 21 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Curse
+LeBronius - plays 2 Silver
+LeBronius - buys Remodel
+LeBronius - gains Remodel
+LeBronius - draws Moat, Copper, Laboratory, Village, Witch
+ 
+---------- RTT: turn 22 ----------
+RTT - plays Laboratory
+RTT - draws Silver, Gold
+RTT - plays 2 Gold, 1 Copper, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Silver, Copper, Province, Copper, Gold
+ 
+---------- LeBronius: turn 22 ----------
+LeBronius - plays Village
+LeBronius - draws Village
+LeBronius - plays Laboratory
+LeBronius - draws Remodel, Copper
+LeBronius - plays Village
+LeBronius - draws Silver
+LeBronius - plays Moat
+LeBronius - draws Estate, Silver
+LeBronius - plays Witch
+LeBronius - draws Village, Copper
+LeBronius - plays Village
+LeBronius - draws Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Moat, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Copper, Moat
+LeBronius - plays Moat
+LeBronius - draws Copper, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Laboratory, Curse
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Copper
+LeBronius - plays Remodel
+LeBronius - trashes Curse
+LeBronius - gains Estate
+LeBronius - plays 6 Copper, 2 Silver
+LeBronius - buys Province
+LeBronius - gains Province
+LeBronius - draws Gold
+LeBronius - shuffles deck
+LeBronius - draws Copper, Laboratory, Remodel, Village
+ 
+---------- RTT: turn 23 ----------
+RTT - plays 2 Copper, 1 Silver, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Copper, Estate, Province, Curse, Curse
+ 
+---------- LeBronius: turn 23 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Moat, Remodel
+LeBronius - plays Village
+LeBronius - draws Province
+LeBronius - plays Moat
+LeBronius - draws Curse, Copper
+LeBronius - plays Remodel
+LeBronius - trashes Curse
+LeBronius - gains Estate
+LeBronius - plays 2 Copper, 1 Gold
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Copper, Laboratory, Copper, Laboratory, Copper
+ 
+---------- RTT: turn 24 ----------
+RTT - buys Copper
+RTT - gains Copper
+RTT - draws Silver, Copper, Gold, Estate, Estate
+ 
+---------- LeBronius: turn 24 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Curse, Moat
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Laboratory
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Witch
+LeBronius - plays 3 Copper, 1 Silver
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Laboratory, Silver, Laboratory, Estate, Laboratory
+ 
+---------- RTT: turn 25 ----------
+RTT - plays 1 Silver, 1 Copper, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Witch, Province, Silver, Curse, Silver
+ 
+---------- LeBronius: turn 25 ----------
+LeBronius - plays Laboratory
+LeBronius - draws Silver, Silver
+LeBronius - plays Laboratory
+LeBronius - draws Moat, Copper
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Province
+LeBronius - plays 3 Silver, 1 Copper
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Village, Village, Estate, Estate
+LeBronius - shuffles deck
+LeBronius - draws Laboratory
+ 
+---------- RTT: turn 26 ----------
+RTT - plays Witch
+RTT - draws Copper, Witch
+RTT - plays 2 Silver, 1 Copper
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Curse, Copper, Silver, Estate, Gold
+ 
+---------- LeBronius: turn 26 ----------
+LeBronius - plays Village
+LeBronius - draws Estate
+LeBronius - plays Village
+LeBronius - draws Silver
+LeBronius - plays Laboratory
+LeBronius - draws Laboratory, Silver
+LeBronius - plays Laboratory
+LeBronius - draws Estate, Silver
+LeBronius - plays 3 Silver
+LeBronius - buys Duchy
+LeBronius - gains Duchy
+LeBronius - draws Estate, Gold, Moat, Remodel, Copper
+ 
+---------- RTT: turn 27 ----------
+RTT - plays 1 Copper, 1 Silver, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Remodel
+RTT - shuffles deck
+RTT - draws Copper, Gold, Copper, Province
+ 
+---------- LeBronius: turn 27 ----------
+LeBronius - plays Remodel
+LeBronius - trashes Gold
+LeBronius - gains Province
+LeBronius - draws Laboratory, Duchy, Moat, Duchy, Copper
+ 
+------------ Game Over ------------
+RTT - cards: 2 Witch, 1 Remodel, 1 Laboratory, 8 Copper, 6 Silver, 5 Gold, 5 Province, 4 Estate, 4 Duchy, 5 Curse
+RTT - total victory points: 41
+RTT - turns: 27
+ 
+LeBronius - cards: 7 Laboratory, 3 Moat, 3 Village, 2 Remodel, 1 Witch, 6 Copper, 4 Silver, 6 Estate, 4 Duchy, 3 Province, 1 Curse
+LeBronius - total victory points: 35
+LeBronius - turns: 27
+ 
+1st place: RTT
+2nd place: LeBronius
+ 

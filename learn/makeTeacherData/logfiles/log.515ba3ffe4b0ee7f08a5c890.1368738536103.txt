@@ -1,0 +1,1231 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Workshop, Smithy, Thief, Throne Room, Council Room, Laboratory, Library, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+addicted - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+addicted - shuffles deck
+silverspawn - shuffles deck
+addicted - draws Copper, Estate, Estate, Copper, Copper
+silverspawn - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- addicted: turn 1 ----------
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 2 Copper
+silverspawn - buys Cellar
+silverspawn - gains Cellar
+silverspawn - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- addicted: turn 2 ----------
+addicted - plays 4 Copper
+addicted - buys Smithy
+addicted - gains Smithy
+addicted - shuffles deck
+addicted - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 5 Copper
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Copper, Cellar, Estate, Copper, Copper
+ 
+---------- addicted: turn 3 ----------
+addicted - plays 2 Copper
+addicted - buys Cellar
+addicted - gains Cellar
+addicted - draws Copper, Copper, Smithy, Silver, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - draws Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Smithy
+silverspawn - gains Smithy
+silverspawn - draws Laboratory, Copper, Copper, Estate, Copper
+ 
+---------- addicted: turn 4 ----------
+addicted - plays Smithy
+addicted - draws Copper, Copper
+addicted - shuffles deck
+addicted - draws Cellar
+addicted - plays 5 Copper, 1 Silver
+addicted - buys Gold
+addicted - gains Gold
+addicted - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Estate
+silverspawn - shuffles deck
+silverspawn - draws Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Estate, Copper, Copper, Cellar, Smithy
+ 
+---------- addicted: turn 5 ----------
+addicted - plays 2 Copper
+addicted - buys Cellar
+addicted - gains Cellar
+addicted - shuffles deck
+addicted - draws Copper, Silver, Gold, Copper, Copper
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - shuffles deck
+silverspawn - draws Estate, Estate, Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Thief
+silverspawn - gains Thief
+silverspawn - draws Laboratory, Copper, Village, Copper, Copper
+ 
+---------- addicted: turn 6 ----------
+addicted - plays 3 Copper, 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Estate
+silverspawn - shuffles deck
+silverspawn - draws Estate
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Estate, Thief, Cellar
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - draws Copper, Copper, Copper
+silverspawn - plays Thief
+addicted - reveals: Copper, Cellar
+addicted - trashes Copper
+addicted - discards Cellar
+silverspawn - plays 6 Copper
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Village, Estate, Copper
+ 
+---------- addicted: turn 7 ----------
+addicted - plays 3 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - draws Cellar, Estate, Smithy
+addicted - shuffles deck
+addicted - draws Copper, Cellar
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Thief
+silverspawn - gains Thief
+silverspawn - draws Thief, Smithy, Estate, Laboratory, Copper
+ 
+---------- addicted: turn 8 ----------
+addicted - plays Cellar
+addicted - discards Estate
+addicted - discards Cellar
+addicted - draws Village, Silver
+addicted - plays Village
+addicted - draws Gold
+addicted - plays Smithy
+addicted - draws Copper, Estate, Copper
+addicted - plays 3 Copper, 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - draws Copper, Province, Estate, Copper, Copper
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Estate
+silverspawn - plays Smithy
+silverspawn - draws Cellar, Copper, Laboratory
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - shuffles deck
+silverspawn - draws Copper, Estate, Estate, Thief, Smithy
+ 
+---------- addicted: turn 9 ----------
+addicted - plays 3 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - shuffles deck
+addicted - draws Estate, Estate, Copper, Province, Copper
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - plays Thief
+addicted - reveals: Province, Copper
+addicted - trashes Copper
+addicted - discards Province
+silverspawn - draws Village, Copper, Copper, Copper, Copper
+ 
+---------- addicted: turn 10 ----------
+addicted - draws Silver, Estate, Cellar, Smithy, Copper
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays 5 Copper
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - draws Laboratory, Estate, Laboratory, Copper, Thief
+ 
+---------- addicted: turn 11 ----------
+addicted - plays Cellar
+addicted - discards Estate
+addicted - draws Village
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Smithy
+addicted - draws Village, Gold, Cellar
+addicted - plays Village
+addicted - draws Copper
+addicted - plays 3 Copper, 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - shuffles deck
+addicted - draws Copper, Copper, Copper, Estate, Village
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Cellar
+silverspawn - shuffles deck
+silverspawn - draws Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Village
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Cellar
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Estate
+silverspawn - draws Copper, Laboratory, Estate
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Smithy
+silverspawn - draws Estate, Village, Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Thief
+addicted - reveals: Copper, Silver
+addicted - trashes Silver
+addicted - discards Copper
+silverspawn - gains Silver
+silverspawn - plays Thief
+addicted - reveals: Estate, Estate
+addicted - discards: Estate, Estate
+silverspawn - plays 5 Copper
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Village, Silver, Smithy, Estate, Cellar
+ 
+---------- addicted: turn 12 ----------
+addicted - plays Village
+addicted - draws Province
+addicted - plays 3 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - draws Cellar, Gold, Copper, Cellar, Smithy
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Copper, Estate, Copper
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - draws Thief, Copper, Laboratory, Laboratory, Thief
+silverspawn - plays Laboratory
+silverspawn - draws Village, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Estate
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Thief
+addicted - reveals: Village, Province
+addicted - discards: Village, Province
+silverspawn - plays Thief
+addicted - reveals: Province
+addicted - shuffles deck
+addicted - reveals: Village
+addicted - discards: Province, Village
+silverspawn - plays 5 Copper, 1 Silver
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - draws Copper, Estate, Copper
+silverspawn - shuffles deck
+silverspawn - draws Laboratory, Thief
+ 
+---------- addicted: turn 13 ----------
+addicted - plays Cellar
+addicted - discards Cellar
+addicted - draws Estate
+addicted - plays Smithy
+addicted - draws Copper, Copper, Copper
+addicted - plays 4 Copper, 1 Gold
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Village, Province, Village, Estate, Estate
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Silver, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays Thief
+addicted - reveals: Province, Copper
+addicted - trashes Copper
+addicted - discards Province
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - draws Smithy, Cellar, Laboratory, Thief, Estate
+ 
+---------- addicted: turn 14 ----------
+addicted - plays Village
+addicted - shuffles deck
+addicted - draws Copper
+addicted - plays Village
+addicted - draws Gold
+addicted - plays 1 Copper, 1 Gold
+addicted - buys Smithy
+addicted - gains Smithy
+addicted - draws Copper, Copper, Cellar, Copper, Province
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Copper, Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Village
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Estate
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Copper
+silverspawn - draws Silver, Copper, Laboratory, Thief
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Estate
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Estate
+silverspawn - plays Thief
+addicted - reveals: Cellar, Province
+addicted - discards: Cellar, Province
+silverspawn - plays Thief
+addicted - reveals: Village, Duchy
+addicted - discards: Village, Duchy
+silverspawn - plays 6 Copper, 1 Silver
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Thief, Laboratory, Laboratory, Estate
+ 
+---------- addicted: turn 15 ----------
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Copper
+addicted - discards Copper
+addicted - discards Copper
+addicted - draws Estate, Smithy
+addicted - shuffles deck
+addicted - draws Province, Duchy
+addicted - plays Smithy
+addicted - draws Copper, Village, Copper
+addicted - plays 2 Copper
+addicted - buys Cellar
+addicted - gains Cellar
+addicted - draws Copper, Estate, Estate, Smithy, Province
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Village, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Smithy, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Thief
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Cellar
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Smithy
+silverspawn - draws Copper, Estate, Village
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - draws Laboratory, Silver
+silverspawn - shuffles deck
+silverspawn - draws Estate
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Estate
+silverspawn - plays Thief
+addicted - reveals: Village, Village
+addicted - discards: Village, Village
+silverspawn - plays Thief
+addicted - reveals: Gold, Province
+addicted - trashes Gold
+addicted - discards Province
+silverspawn - gains Gold
+silverspawn - plays 7 Copper, 1 Silver
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Village, Copper, Copper, Silver, Copper
+ 
+---------- addicted: turn 16 ----------
+addicted - plays Smithy
+addicted - draws Copper, Cellar
+addicted - shuffles deck
+addicted - draws Duchy
+addicted - plays 2 Copper
+addicted - buys Cellar
+addicted - gains Cellar
+addicted - draws Village, Province, Cellar, Village, Copper
+ 
+---------- silverspawn: turn 16 ----------
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Village, Thief
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Thief
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Cellar
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Gold
+silverspawn - plays Cellar
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - draws Laboratory, Estate, Laboratory, Copper, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Estate
+silverspawn - plays Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper
+silverspawn - plays Smithy
+silverspawn - draws Copper, Copper, Copper
+silverspawn - plays Thief
+addicted - reveals: Estate, Smithy
+addicted - discards: Estate, Smithy
+silverspawn - plays Thief
+addicted - reveals: Cellar, Village
+addicted - discards: Cellar, Village
+silverspawn - plays 7 Copper, 1 Silver, 1 Gold
+silverspawn - buys Council Room
+silverspawn - gains Council Room
+silverspawn - shuffles deck
+silverspawn - draws Laboratory, Laboratory, Village, Thief, Copper
+ 
+---------- addicted: turn 17 ----------
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Village
+addicted - draws Province
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Province
+addicted - shuffles deck
+addicted - draws Copper, Duchy
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Cellar, Village, Province, Province, Cellar
+ 
+---------- silverspawn: turn 17 ----------
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Cellar
+silverspawn - plays Laboratory
+silverspawn - draws Council Room, Thief
+silverspawn - plays Council Room
+silverspawn - draws Laboratory, Laboratory, Copper, Estate
+addicted - draws Estate
+silverspawn - plays Laboratory
+silverspawn - draws Village, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Estate
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Silver, Gold
+silverspawn - plays Thief
+addicted - reveals: Cellar, Estate
+addicted - discards: Cellar, Estate
+silverspawn - plays Thief
+addicted - reveals: Province, Smithy
+addicted - discards: Province, Smithy
+silverspawn - plays 7 Copper, 1 Silver, 1 Gold
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - buys Laboratory
+silverspawn - gains Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Estate, Laboratory, Laboratory, Laboratory, Thief
+ 
+---------- addicted: turn 18 ----------
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Cellar
+addicted - discards Estate
+addicted - discards Estate
+addicted - discards Province
+addicted - discards Province
+addicted - draws Smithy, Copper
+addicted - shuffles deck
+addicted - draws Village, Cellar
+addicted - plays Village
+addicted - draws Province
+addicted - plays Smithy
+addicted - draws Copper, Duchy, Copper
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Province
+addicted - draws Village, Estate
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Cellar
+addicted - discards Estate
+addicted - discards Estate
+addicted - draws Smithy, Cellar
+addicted - plays Smithy
+addicted - draws Province, Silver, Copper
+addicted - plays Cellar
+addicted - discards Province
+addicted - draws Province
+addicted - plays 4 Copper, 1 Silver
+addicted - buys Gold
+addicted - gains Gold
+addicted - draws Estate
+addicted - shuffles deck
+addicted - draws Cellar, Smithy, Copper, Duchy
+ 
+---------- silverspawn: turn 18 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Council Room
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Copper
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Council Room
+silverspawn - draws Thief, Laboratory, Silver, Laboratory
+addicted - draws Gold
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Village
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Gold
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Estate
+silverspawn - plays Laboratory
+silverspawn - draws Cellar, Laboratory
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - draws Laboratory, Laboratory
+silverspawn - plays Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Estate, Estate
+silverspawn - plays Thief
+addicted - reveals: Smithy, Province
+addicted - discards: Smithy, Province
+silverspawn - plays Thief
+addicted - reveals: Province, Village
+addicted - discards: Province, Village
+silverspawn - plays 7 Copper, 1 Silver, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - shuffles deck
+silverspawn - draws Copper, Thief, Laboratory, Laboratory, Estate
+ 
+---------- addicted: turn 19 ----------
+addicted - plays Cellar
+addicted - discards Estate
+addicted - discards Duchy
+addicted - draws Estate, Province
+addicted - plays Smithy
+addicted - draws Cellar, Copper, Estate
+addicted - plays 2 Copper, 1 Gold
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Copper, Silver, Village, Copper, Cellar
+ 
+---------- silverspawn: turn 19 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Province, Gold
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Smithy, Estate
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Council Room
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Council Room
+silverspawn - draws Copper, Copper, Estate, Village
+addicted - draws Village
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Cellar
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Silver
+silverspawn - plays Thief
+addicted - reveals: Cellar
+addicted - shuffles deck
+addicted - reveals: Cellar
+addicted - discards: Cellar, Cellar
+silverspawn - plays Thief
+addicted - reveals: Estate, Smithy
+addicted - discards: Estate, Smithy
+silverspawn - plays 7 Copper, 1 Gold, 1 Silver
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Thief
+silverspawn - gains Thief
+silverspawn - shuffles deck
+silverspawn - draws Estate, Laboratory, Province, Laboratory, Laboratory
+ 
+---------- addicted: turn 20 ----------
+addicted - plays Village
+addicted - draws Village
+addicted - plays Village
+addicted - draws Gold
+addicted - plays Village
+addicted - draws Duchy
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Copper
+addicted - draws Estate, Province
+addicted - plays 1 Silver, 1 Copper, 1 Gold
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Province, Estate, Province, Cellar, Copper
+ 
+---------- silverspawn: turn 20 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Cellar
+silverspawn - plays Laboratory
+silverspawn - draws Silver, Village
+silverspawn - plays Cellar
+silverspawn - discards Estate
+silverspawn - discards Province
+silverspawn - discards Estate
+silverspawn - draws Copper, Laboratory, Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Copper
+silverspawn - plays Village
+silverspawn - draws Thief
+silverspawn - plays Laboratory
+silverspawn - draws Council Room, Copper
+silverspawn - plays Council Room
+silverspawn - draws Estate, Thief, Laboratory, Village
+addicted - draws Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Village, Thief
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Village
+silverspawn - draws Province
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Gold
+silverspawn - plays Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Estate, Province
+silverspawn - plays Thief
+addicted - reveals: Copper, Duchy
+addicted - trashes Copper
+addicted - discards Duchy
+silverspawn - plays Thief
+addicted - shuffles deck
+addicted - reveals: Cellar, Duchy
+addicted - discards: Cellar, Duchy
+silverspawn - plays Thief
+addicted - reveals: Cellar, Duchy
+addicted - discards: Cellar, Duchy
+silverspawn - plays 7 Copper, 1 Silver, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Cellar
+silverspawn - gains Cellar
+silverspawn - draws Estate
+silverspawn - shuffles deck
+silverspawn - draws Province, Copper, Estate, Smithy
+ 
+---------- addicted: turn 21 ----------
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Estate
+addicted - discards Province
+addicted - draws Copper, Estate, Gold
+addicted - plays Smithy
+addicted - draws Village, Smithy, Copper
+addicted - plays 3 Copper, 1 Gold
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Estate, Silver, Village, Cellar, Duchy
+ 
+---------- silverspawn: turn 21 ----------
+silverspawn - plays Smithy
+silverspawn - draws Gold, Laboratory, Laboratory
+silverspawn - plays 1 Copper, 1 Gold
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Province, Laboratory, Village, Copper, Province
+ 
+---------- addicted: turn 22 ----------
+addicted - plays Village
+addicted - draws Province
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Province
+addicted - discards Estate
+addicted - draws Village
+addicted - shuffles deck
+addicted - draws Copper, Province
+addicted - plays Village
+addicted - draws Duchy
+addicted - plays 1 Silver, 1 Copper
+addicted - buys Workshop
+addicted - gains Workshop
+addicted - draws Gold, Cellar, Duchy, Cellar, Estate
+ 
+---------- silverspawn: turn 22 ----------
+silverspawn - plays Village
+silverspawn - draws Council Room
+silverspawn - plays Laboratory
+silverspawn - draws Village, Laboratory
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Council Room
+silverspawn - draws Copper, Cellar, Laboratory, Cellar
+addicted - draws Smithy
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Silver, Copper
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Estate
+silverspawn - shuffles deck
+silverspawn - draws Smithy
+silverspawn - plays Cellar
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Estate
+silverspawn - discards Cellar
+silverspawn - draws Laboratory, Estate, Gold, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Village
+silverspawn - plays Laboratory
+silverspawn - draws Province, Estate
+silverspawn - plays Village
+silverspawn - shuffles deck
+silverspawn - draws Estate
+silverspawn - plays Smithy
+silverspawn - draws Province, Cellar, Province
+silverspawn - plays Thief
+addicted - reveals: Province, Duchy
+addicted - discards: Province, Duchy
+silverspawn - plays Thief
+addicted - reveals: Copper, Estate
+addicted - trashes Copper
+addicted - discards Estate
+silverspawn - plays Thief
+addicted - reveals: Copper, Duchy
+addicted - trashes Copper
+addicted - discards Duchy
+silverspawn - plays 7 Copper, 1 Silver, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Throne Room
+silverspawn - gains Throne Room
+silverspawn - shuffles deck
+silverspawn - draws Council Room, Laboratory, Cellar, Laboratory, Province
+ 
+---------- addicted: turn 23 ----------
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Cellar
+addicted - discards Estate
+addicted - draws Village, Province, Estate
+addicted - plays Village
+addicted - draws Smithy
+addicted - plays Smithy
+addicted - draws Cellar
+addicted - shuffles deck
+addicted - draws Village, Duchy
+addicted - plays Village
+addicted - draws Province
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Duchy
+addicted - discards Estate
+addicted - discards Province
+addicted - draws Duchy, Silver, Workshop, Duchy
+addicted - plays Smithy
+addicted - draws Copper, Province, Cellar
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Duchy
+addicted - discards Duchy
+addicted - draws Estate, Village, Duchy
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Workshop
+addicted - gains Silver
+addicted - plays 1 Gold, 1 Silver, 1 Copper
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Cellar
+addicted - shuffles deck
+addicted - draws Estate, Duchy, Silver, Province
+ 
+---------- silverspawn: turn 23 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Smithy, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Cellar, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Village
+silverspawn - plays Village
+silverspawn - draws Gold
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Village, Thief
+silverspawn - plays Village
+silverspawn - draws Thief
+silverspawn - plays Council Room
+silverspawn - draws Copper, Copper, Copper, Laboratory
+addicted - draws Cellar
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Estate
+silverspawn - plays Smithy
+silverspawn - draws Laboratory, Province, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Village
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Village
+silverspawn - draws Province
+silverspawn - plays Laboratory
+silverspawn - draws Province, Throne Room
+silverspawn - plays Throne Room
+silverspawn - plays Thief
+addicted - reveals: Province, Silver
+addicted - trashes Silver
+addicted - discards Province
+silverspawn - plays Thief
+addicted - reveals: Smithy, Duchy
+addicted - discards: Smithy, Duchy
+silverspawn - plays Cellar
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Cellar
+silverspawn - draws Copper, Silver
+silverspawn - shuffles deck
+silverspawn - draws Estate, Province, Cellar, Province, Estate, Province
+silverspawn - plays Thief
+addicted - reveals: Gold, Village
+addicted - trashes Gold
+addicted - discards Village
+silverspawn - gains Gold
+silverspawn - plays Cellar
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - draws Estate, Province
+silverspawn - shuffles deck
+silverspawn - draws Province
+silverspawn - plays Thief
+addicted - reveals: Estate, Province
+addicted - discards: Estate, Province
+silverspawn - plays 7 Copper, 1 Gold, 1 Silver
+silverspawn - buys Council Room
+silverspawn - gains Council Room
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Province, Province, Gold
+silverspawn - shuffles deck
+silverspawn - draws Laboratory, Village
+ 
+---------- addicted: turn 24 ----------
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Duchy
+addicted - discards Estate
+addicted - draws Copper, Duchy, Workshop
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - draws Duchy
+addicted - plays Workshop
+addicted - gains Estate
+addicted - plays 1 Silver, 1 Copper
+addicted - buys Estate
+addicted - gains Estate
+addicted - draws Cellar, Estate, Duchy, Smithy, Cellar
+ 
+---------- silverspawn: turn 24 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Duchy, Copper
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays 1 Gold, 1 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Copper, Copper, Copper, Laboratory, Estate
+ 
+---------- addicted: turn 25 ----------
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Estate
+addicted - draws Village, Village
+addicted - plays Village
+addicted - shuffles deck
+addicted - draws Duchy
+addicted - plays Village
+addicted - draws Workshop
+addicted - plays Smithy
+addicted - draws Copper, Province, Silver
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Province
+addicted - draws Village, Estate
+addicted - plays Village
+addicted - draws Duchy
+addicted - plays Workshop
+addicted - gains Estate
+addicted - plays 1 Copper, 1 Silver
+addicted - buys Estate
+addicted - gains Estate
+addicted - draws Cellar, Cellar, Duchy, Estate, Province
+ 
+---------- silverspawn: turn 25 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Province, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Cellar, Thief
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Silver
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Council Room
+silverspawn - plays Laboratory
+silverspawn - draws Laboratory, Province
+silverspawn - plays Laboratory
+silverspawn - draws Throne Room, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Thief, Gold
+silverspawn - plays Cellar
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Estate
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - discards Copper
+silverspawn - draws Cellar, Village, Copper, Copper, Thief, Village
+silverspawn - plays Village
+silverspawn - draws Council Room
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Council Room
+silverspawn - draws Smithy, Laboratory, Village, Estate
+addicted - draws Estate
+silverspawn - plays Council Room
+silverspawn - shuffles deck
+silverspawn - draws Province, Estate, Village, Estate
+addicted - draws Duchy
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Laboratory
+silverspawn - draws Province, Province
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Cellar
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - draws Province, Copper, Copper, Laboratory, Gold, Duchy
+silverspawn - plays Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Estate, Estate
+silverspawn - plays Smithy
+silverspawn - draws Province, Estate, Province
+silverspawn - plays Throne Room
+silverspawn - plays Thief
+addicted - reveals: Province, Duchy
+addicted - discards: Province, Duchy
+silverspawn - plays Thief
+addicted - reveals: Smithy, Estate
+addicted - discards: Smithy, Estate
+silverspawn - plays Thief
+addicted - reveals: Estate
+addicted - shuffles deck
+addicted - reveals: Workshop
+addicted - discards: Estate, Workshop
+silverspawn - plays Thief
+addicted - reveals: Duchy, Silver
+addicted - trashes Silver
+addicted - discards Duchy
+silverspawn - plays 7 Copper, 2 Gold, 1 Silver
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - draws Province
+silverspawn - shuffles deck
+silverspawn - draws Village, Laboratory, Laboratory, Cellar
+ 
+---------- addicted: turn 26 ----------
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Estate
+addicted - discards Province
+addicted - discards Estate
+addicted - discards Duchy
+addicted - draws Province, Duchy, Village, Village, Duchy
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Village
+addicted - draws Smithy
+addicted - plays Smithy
+addicted - draws Estate, Estate, Cellar
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Duchy
+addicted - discards Duchy
+addicted - discards Estate
+addicted - discards Estate
+addicted - draws Province, Smithy, Cellar, Estate, Village
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Smithy
+addicted - shuffles deck
+addicted - draws Estate, Duchy, Estate
+addicted - plays Cellar
+addicted - discards Province
+addicted - discards Estate
+addicted - discards Estate
+addicted - discards Estate
+addicted - discards Duchy
+addicted - discards Estate
+addicted - draws Duchy, Duchy, Estate, Province, Duchy, Province
+addicted - plays Cellar
+addicted - discards Duchy
+addicted - discards Estate
+addicted - discards Duchy
+addicted - discards Province
+addicted - discards Duchy
+addicted - discards Province
+addicted - draws Estate, Duchy, Workshop, Estate
+addicted - shuffles deck
+addicted - draws Duchy, Duchy
+addicted - plays Workshop
+addicted - gains Silver
+addicted - plays 1 Copper
+addicted - buys Copper
+addicted - gains Copper
+addicted - draws Estate, Province, Province, Estate, Duchy
+ 
+---------- silverspawn: turn 26 ----------
+silverspawn - plays Laboratory
+silverspawn - draws Village, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Copper
+silverspawn - plays Laboratory
+silverspawn - draws Council Room, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Village
+silverspawn - plays Village
+silverspawn - draws Throne Room
+silverspawn - plays Throne Room
+silverspawn - plays Council Room
+silverspawn - draws Copper, Laboratory, Cellar, Estate
+addicted - draws Estate
+silverspawn - plays Council Room
+silverspawn - draws Duchy, Copper, Village, Copper
+addicted - draws Province
+silverspawn - plays Laboratory
+silverspawn - draws Duchy, Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Estate, Thief
+silverspawn - plays Village
+silverspawn - draws Duchy
+silverspawn - plays Village
+silverspawn - draws Province
+silverspawn - plays Village
+silverspawn - draws Laboratory
+silverspawn - plays Laboratory
+silverspawn - draws Copper, Estate
+silverspawn - plays Cellar
+silverspawn - discards Duchy
+silverspawn - discards Duchy
+silverspawn - discards Duchy
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Estate
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - discards Thief
+silverspawn - draws Thief, Laboratory, Laboratory, Silver, Estate, Council Room, Smithy, Province, Gold
+silverspawn - plays Laboratory
+silverspawn - draws Province, Village
+silverspawn - plays Laboratory
+silverspawn - draws Gold, Thief
+silverspawn - plays Council Room
+silverspawn - draws Laboratory
+silverspawn - shuffles deck
+silverspawn - draws Duchy, Thief, Duchy
+addicted - draws Estate
+silverspawn - plays Laboratory
+silverspawn - draws Duchy, Estate
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays Smithy
+silverspawn - draws Estate, Province, Province
+silverspawn - plays Thief
+addicted - reveals: Duchy, Estate
+addicted - discards: Duchy, Estate
+silverspawn - plays Thief
+addicted - shuffles deck
+addicted - reveals: Village, Cellar
+addicted - discards: Village, Cellar
+silverspawn - plays 7 Copper, 2 Gold, 1 Silver
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - shuffles deck
+silverspawn - draws Province, Gold, Duchy, Laboratory, Province
+ 
+------------ Game Over ------------
+silverspawn - cards: 10 Laboratory, 5 Village, 3 Thief, 2 Council Room, 2 Cellar, 1 Throne Room, 1 Smithy, 7 Copper, 2 Gold, 1 Silver, 7 Estate, 5 Province, 3 Duchy
+silverspawn - total victory points: 46
+silverspawn - turns: 26
+ 
+addicted - cards: 4 Cellar, 3 Village, 2 Smithy, 1 Workshop, 2 Copper, 1 Silver, 7 Estate, 5 Duchy, 3 Province
+addicted - total victory points: 40
+addicted - turns: 26
+ 
+1st place: silverspawn
+2nd place: addicted
+ 

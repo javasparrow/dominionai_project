@@ -1,0 +1,434 @@
+------------ Game Setup ------------
+Supply cards: Moat, Woodcutter, Workshop, Bureaucrat, Militia, Remodel, Thief, Throne Room, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+Titandrake - shuffles deck
+unicut - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - shuffles deck
+unicut - draws Remodel, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- unicut: turn 3 ----------
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Militia
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Militia
+ 
+---------- unicut: turn 4 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Mine
+unicut - gains Mine
+unicut - draws Estate, Copper
+unicut - shuffles deck
+unicut - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Silver, Mine, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Copper, Copper, Estate, Militia, Gold
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Mine
+unicut - trashes Silver
+unicut - gains Gold
+unicut - plays 2 Copper, 1 Gold
+unicut - buys Throne Room
+unicut - gains Throne Room
+unicut - draws Silver, Remodel, Militia, Copper
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Militia
+unicut - discards Remodel
+unicut - discards Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+unicut - plays 1 Silver, 1 Copper
+unicut - buys Mine
+unicut - gains Mine
+unicut - draws Copper, Estate, Copper, Copper, Mine
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper, Silver, Militia, Militia
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Mine
+unicut - trashes Copper
+unicut - gains Silver
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Militia
+unicut - gains Militia
+unicut - draws Estate, Silver, Copper, Throne Room, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Throne Room
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Gold, Gold
+ 
+---------- unicut: turn 9 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Gold
+unicut - shuffles deck
+unicut - draws Copper, Copper, Throne Room, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Province, Militia, Militia, Silver
+ 
+---------- unicut: turn 10 ----------
+unicut - plays 2 Copper, 1 Gold
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Mine, Militia, Copper, Militia, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Militia
+unicut - discards Militia
+unicut - discards Mine
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Gold, Copper
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+unicut - plays 2 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Silver, Copper, Silver, Copper, Remodel
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Estate, Militia
+ 
+---------- unicut: turn 12 ----------
+unicut - plays 2 Silver, 2 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Mine, Estate, Remodel, Silver
+unicut - shuffles deck
+unicut - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Militia
+unicut - discards Remodel
+unicut - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Militia
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Mine
+unicut - trashes Silver
+unicut - gains Gold
+unicut - plays 1 Copper, 1 Gold
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Gold, Militia, Gold, Remodel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Militia
+unicut - discards Copper
+unicut - discards Remodel
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Militia, Silver, Silver, Copper
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Silver
+unicut - plays 2 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Silver, Mine, Militia, Copper, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Mine
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Adventurer
+Titandrake - gains Adventurer
+Titandrake - draws Silver, Copper, Copper, Gold, Province
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Militia
+Titandrake - discards Province
+Titandrake - discards Copper
+unicut - plays 1 Silver, 1 Copper
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Remodel, Silver, Copper, Copper, Throne Room
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Estate, Copper, Militia
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Remodel
+unicut - trashes Throne Room
+unicut - gains Gold
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Copper, Silver
+unicut - shuffles deck
+unicut - draws Copper, Copper, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Militia
+unicut - discards Copper
+unicut - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Copper
+ 
+---------- unicut: turn 17 ----------
+unicut - plays 1 Silver, 1 Copper, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Copper, Militia, Remodel, Mine, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Silver, Silver, Militia, Copper
+ 
+---------- unicut: turn 18 ----------
+unicut - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Silver, Remodel, Militia, Copper, Mine
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Militia
+unicut - discards Mine
+unicut - discards Remodel
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Copper, Militia, Silver, Copper
+ 
+---------- unicut: turn 19 ----------
+unicut - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Duchy
+unicut - plays 1 Silver, 1 Copper
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Remodel, Remodel, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Adventurer, Copper, Silver, Gold
+ 
+---------- unicut: turn 20 ----------
+unicut - plays Remodel
+unicut - trashes Silver
+unicut - gains Duchy
+unicut - draws Gold, Remodel, Province, Gold, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Adventurer
+Titandrake - reveals Copper, Gold
+Titandrake - places cards in hand:  Copper, Gold
+Titandrake - plays 3 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Militia, Estate, Estate, Province
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- unicut: turn 21 ----------
+unicut - plays Remodel
+unicut - trashes Gold
+unicut - gains Province
+unicut - plays 1 Gold, 1 Copper
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Gold
+unicut - shuffles deck
+unicut - draws Silver, Remodel, Estate, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Silver
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Duchy, Gold, Silver
+ 
+---------- unicut: turn 22 ----------
+unicut - plays Remodel
+unicut - trashes Gold
+unicut - gains Province
+unicut - plays 1 Silver
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Province, Mine, Remodel, Remodel, Militia
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Duchy, Copper, Gold, Duchy
+ 
+---------- unicut: turn 23 ----------
+unicut - plays Remodel
+unicut - trashes Mine
+unicut - gains Duchy
+unicut - draws Duchy, Province, Mine, Copper, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Province, Silver, Copper, Militia
+ 
+---------- unicut: turn 24 ----------
+unicut - plays Mine
+unicut - trashes Copper
+unicut - gains Silver
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Remodel, Militia, Duchy, Copper, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Militia
+unicut - discards Duchy
+unicut - discards Remodel
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Adventurer, Gold, Gold, Copper, Militia
+ 
+---------- unicut: turn 25 ----------
+unicut - plays Militia
+Titandrake - discards Adventurer
+Titandrake - discards Copper
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Estate, Remodel, Copper, Copper, Remodel
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Gold, Province, Copper, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Militia, 1 Adventurer, 7 Copper, 6 Gold, 4 Silver, 5 Province, 5 Estate, 4 Duchy
+Titandrake - total victory points: 47
+Titandrake - turns: 25
+ 
+unicut - cards: 6 Remodel, 2 Militia, 1 Mine, 5 Copper, 4 Silver, 3 Gold, 5 Estate, 4 Duchy, 3 Province
+unicut - total victory points: 35
+unicut - turns: 25
+ 
+1st place: Titandrake
+2nd place: unicut
+ 
