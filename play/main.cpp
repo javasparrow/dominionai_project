@@ -268,8 +268,14 @@ int main(int argc, const char * argv[])
 
             cout << "hand:";
             showGain(hand);
-            int handCard = showMaxValuePlayCard(weight,feature,hand,10);
-            showOutCard(handCard);
+            if(PlayActionId == CARD_REMODEL) {
+                showMaxValuePlayCard(weight,feature,hand,10);
+                int handCard = getMaxValueMustPlayCard(weight,feature,hand);
+                showOutCard(handCard);
+            } else {
+                int handCard = showMaxValuePlayCard(weight,feature,hand,10);
+                showOutCard(handCard);
+            }
         }
         if(PlayActionId == CARD_THIEF) {
             cout << "select trash treasure /THIEF" << endl;

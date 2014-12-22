@@ -133,6 +133,35 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
     
     return hand[index];
 }
+
+int getMaxValueMustPlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+    
+    vector<double> values;
+    for(unsigned int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]],feature);
+        values.push_back(value);
+    }
+ //   values.push_back(getInnerProduct(weight[0],feature));
+    
+    if (values.size() <= 0) return 0;
+    
+    double maxValue = values[0];
+    int index = -1;
+    for(unsigned int i=0;i<values.size();i++) {
+        if(values[i] >= maxValue) {
+            maxValue = values[i];
+            index = i;
+        }
+    }
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
+        exit(0);
+    }
+    
+    
+    return hand[index];
+}
+
 int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
     
     vector<double> values;
@@ -397,13 +426,17 @@ vector<int> getRandVec(int n) {
 }
 
 void showOutVector(vector<int> a) {
-    for(unsigned int i=0;i<a.size();i++) {
-        cout << a[i];
-        if(i != a.size()-1) {
-            cout << ",";
+    if(a.size() <= 0) {
+        cout << "0" << endl;
+    } else {
+        for(unsigned int i=0;i<a.size();i++) {
+            cout << a[i];
+            if(i != a.size()-1) {
+                cout << ",";
+            }
         }
+        cout << endl;
     }
-    cout << endl;
 }
 
 void showOutCard(int a) {
