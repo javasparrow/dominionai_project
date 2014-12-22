@@ -92,7 +92,13 @@ int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<do
         }
         
         if(index != -1) {
-            if(i == 0) maxHand = hand[index];
+            if(i == 0) {
+                if(index >= hand.size()) {
+                    maxHand = 0;
+                } else {
+                    maxHand = hand[index];
+                }
+            }
             already.push_back(index);
             if(index >= hand.size()) {
                 cout << i+1 << "位 :( ) " << maxValue << endl;
