@@ -24,7 +24,7 @@ vector<double> mulVector(const vector<double> &a,double b);
 
 void showVector(vector<double> a);
 
-void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal);
+int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal);
 
 vector<int> getMaxValueGain( vector< vector<double> > weight,  vector<double> feature, vector<int> supply,int coin,int buy,int ordinal);
 
@@ -44,6 +44,10 @@ void writeWeightVector(vector< vector<double> > weight , string filename);
 vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature);
 
 vector<int> getRandVec(int n);
+
+void showOutVector(vector<int> a);
+
+void showOutCard(int a);
 
 
 #endif /* defined(__parseptron__utility__) */

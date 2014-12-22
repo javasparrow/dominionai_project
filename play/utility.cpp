@@ -56,7 +56,7 @@ vector<double> mulVector(const vector<double> &a,double b) {
 }
 
 
-void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal) {
+int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal) {
     
     int nHand = hand.size() + 1;
     if(ordinal > nHand) {
@@ -69,6 +69,8 @@ void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<d
         values.push_back(value);
     }
     values.push_back(getInnerProduct(weight[0],feature));
+    
+    int maxHand = 0;
     
     vector<int> already;
     for(int i=0;i<ordinal;i++) {
@@ -90,6 +92,7 @@ void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<d
         }
         
         if(index != -1) {
+            if(i == 0) maxHand = hand[index];
             already.push_back(index);
             if(index >= hand.size()) {
                 cout << i+1 << "位 :( ) " << maxValue << endl;
@@ -99,7 +102,7 @@ void showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<d
         }
     }
     
-    return;
+    return maxHand;
 }
 
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
@@ -250,6 +253,7 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
     
     vector<int> already;
     vector<int> maxGain;
+    vector<int> resultGain;
     
     for(int k=0;k<ordinal;k++) {
     
@@ -282,6 +286,7 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
                 maxGain.push_back(CARD_COPPER);
             }
         }
+        if(k==0) resultGain = maxGain;
         
         cout << k+1 << "位 :" << maxValue << endl;
         showGain(maxGain);
@@ -290,7 +295,7 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
     
     //showGain(maxGain); cout << "maxValue:" << maxValue << endl;
     
-    return maxGain;
+    return resultGain;
 }
 
 bool getIsDiscard( vector<double> weight, vector<double> feature) {
@@ -389,5 +394,19 @@ vector<int> getRandVec(int n) {
     }
     
     return v;
+}
+
+void showOutVector(vector<int> a) {
+    for(unsigned int i=0;i<a.size();i++) {
+        cout << a[i];
+        if(i != a.size()-1) {
+            cout << ",";
+        }
+    }
+    cout << endl;
+}
+
+void showOutCard(int a) {
+    cout << a << endl;
 }
 

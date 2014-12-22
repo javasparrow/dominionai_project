@@ -244,15 +244,18 @@ int main(int argc, const char * argv[])
         cout << "coin:" << coin << " buy:" << buy << endl;
         
         vector<int> gotGain = getMaxValueGain(weight, feature, supply, coin, buy ,10);
+        
+        showOutVector(gotGain);
     }
     if(Mode == PLAY_MODE) {
         cout << "play card list" << endl;
         cout << "hand:";
         showGain(hand);
-        showMaxValuePlayCard(weight,feature,hand,10);
+        int maxHand = showMaxValuePlayCard(weight,feature,hand,10);
+        showOutCard(maxHand);
     }
     if(Mode == ACTION_MODE) {
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_BUREAUCRAT || PlayActionId == CARD_SPY) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_BUREAUCRAT) {
             if(PlayActionId == CARD_REMODEL) {
                 cout << "select trash card /REMODEL" << endl;
             }
@@ -262,70 +265,93 @@ int main(int argc, const char * argv[])
             if(PlayActionId == CARD_BUREAUCRAT) {
                 cout << "select victory put on deck /BUREAUCRAT" << endl;
             }
-            if(PlayActionId == CARD_THIEF) {
-                cout << "select trash treasure /THIEF" << endl;
-                //泥棒用のGain用意
-                vector<double> gainFeature;
-                vector< vector<double> > gainWeight;
-                ifstream ifs3(GAIN_FEATURE);
-                if(!ifs3) {
-                    cout << "error: not found featureFile" << endl;
-                    exit(0);
-                }
-                string gainTestFeature;
-                getline(ifs3,gainTestFeature);
-                vector<string> out = SpritString(gainTestFeature,"/");
-                
-                vector<string> out0 = SpritString(out[0],",");
-                for(int i=0;i<out0.size();i++) {
-                    gainFeature.push_back(atof(out0[i].c_str()));
-                }
-                gainWeight = readWeightVector(GAIN_WEIGHT,CARD_MAX,gainFeature.size());
-                
-                int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
-                cout << "trash :" << getString(trashTreasure) << endl;
-                double value = getInnerProduct(gainWeight[trashTreasure-1],gainFeature);
-                if(value >= 0) {
-                    cout << "isGain: YES (" << value << ")" << endl;
-                } else {
-                    cout << "isGain: NO (" << value << ")" << endl;
-                }
-            }
-            if(PlayActionId == CARD_SPY) {
-                
-                cout << "select which discard or not /SPY" << endl;
-                
-                if(!optionFlag) {
-                    cout << "ME" << endl;
-                } else {
-                    cout << "ENEMY" << endl;
-                }
-                cout << "revealCard:" << getString(revealCard) << endl;
-                cout << "isDiscard:";
-                getIsDiscard(weight[revealCard-1],feature);
-            }
-            if(PlayActionId == CARD_MINE) {
-                cout << "select trash treasure /MINE" << endl;
-                int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
-                int gainTreasure = trashTreasure+1;
-                if(gainTreasure > CARD_GOLD) gainTreasure = CARD_GOLD;
-                cout << "trash :" << getString(trashTreasure) << endl;
-                cout << "gain :" << getString(gainTreasure) << endl;
-            }
+
             cout << "hand:";
             showGain(hand);
-            showMaxValuePlayCard(weight,feature,hand,10);
+            int handCard = showMaxValuePlayCard(weight,feature,hand,10);
+            showOutCard(handCard);
+        }
+        if(PlayActionId == CARD_THIEF) {
+            cout << "select trash treasure /THIEF" << endl;
+            //泥棒用のGain用意
+            vector<double> gainFeature;
+            vector< vector<double> > gainWeight;
+            ifstream ifs3(GAIN_FEATURE);
+            if(!ifs3) {
+                cout << "error: not found featureFile" << endl;
+                exit(0);
+            }
+            string gainTestFeature;
+            getline(ifs3,gainTestFeature);
+            vector<string> out = SpritString(gainTestFeature,"/");
+            
+            vector<string> out0 = SpritString(out[0],",");
+            for(int i=0;i<out0.size();i++) {
+                gainFeature.push_back(atof(out0[i].c_str()));
+            }
+            gainWeight = readWeightVector(GAIN_WEIGHT,CARD_MAX,gainFeature.size());
+            
+            int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
+            cout << "trash :" << getString(trashTreasure) << endl;
+            double value = getInnerProduct(gainWeight[trashTreasure-1],gainFeature);
+            int isGainInt = 0;
+            if(value >= 0) {
+                cout << "isGain: YES (" << value << ")" << endl;
+                isGainInt = 1;
+            } else {
+                cout << "isGain: NO (" << value << ")" << endl;
+                isGainInt = 0;
+            }
+            
+            cout << trashTreasure << "/" << isGainInt << endl;
+        }
+        if(PlayActionId == CARD_SPY) {
+            
+            cout << "select which discard or not /SPY" << endl;
+            
+            if(!optionFlag) {
+                cout << "ME" << endl;
+            } else {
+                cout << "ENEMY" << endl;
+            }
+            cout << "revealCard:" << getString(revealCard) << endl;
+            cout << "isDiscard:";
+            bool isDiscard = getIsDiscard(weight[revealCard-1],feature);
+            if(isDiscard) {
+                cout << "1" << endl;
+            } else {
+                cout << "0" << endl;
+            }
+        }
+        if(PlayActionId == CARD_MINE) {
+            cout << "select trash treasure /MINE" << endl;
+            int trashTreasure = getMaxValuePlayCard(weight,feature,hand);
+            int gainTreasure = trashTreasure+1;
+            if(gainTreasure > CARD_GOLD) gainTreasure = CARD_GOLD;
+            cout << "trash :" << getString(trashTreasure) << endl;
+            cout << "gain :" << getString(gainTreasure) << endl;
+            cout << trashTreasure << "/" << gainTreasure << endl;
         }
         if(PlayActionId == CARD_CHANCELLOR) {
             cout << "select which discard or not /CHANCELLOR" << endl;
             cout << "isDiscard:";
-            getIsDiscard(weight[0],feature);
+            bool isDiscard = getIsDiscard(weight[0],feature);
+            if(isDiscard) {
+                cout << "1" << endl;
+            } else {
+                cout << "0" << endl;
+            }
         }
         if(PlayActionId == CARD_LIBRARY) {
             cout << "select which discard or not /LIBRARY" << endl;
             cout << "action:" << getString(revealCard) << endl;
             cout << "isDiscard:";
-            getIsDiscard(weight[revealCard-1],feature);
+            bool isDiscard = getIsDiscard(weight[revealCard-1],feature);
+            if(isDiscard) {
+                cout << "1" << endl;
+            } else {
+                cout << "0" << endl;
+            }
         }
         if(PlayActionId == CARD_CHAPEL) {
             cout << "select trash cards /CHAPEL" << endl;
@@ -333,6 +359,7 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "trash Cards:";
             showGain(getTrashCardsByChapel(weight,feature,hand));
+            showOutVector(getTrashCardsByChapel(weight,feature,hand));
         }
         if(PlayActionId == CARD_MILITIA) {
             cout << "select discard cards /MILITIA" << endl;
@@ -340,6 +367,7 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "discard Cards:";
             showGain(getDiscardCardsByMilitia(weight,feature,hand));
+            showOutVector(getDiscardCardsByMilitia(weight,feature,hand));
         }
         if(PlayActionId == CARD_CELLAR) {
             cout << "select discard cards /CELLAR" << endl;
@@ -347,6 +375,7 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "discard Cards:";
             showGain(getDiscardCardsByCellar(weight,feature,hand));
+            showOutVector(getDiscardCardsByCellar(weight,feature,hand));
         }
     }
    
