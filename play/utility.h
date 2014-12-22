@@ -29,6 +29,7 @@ int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<do
 vector<int> getMaxValueGain( vector< vector<double> > weight,  vector<double> feature, vector<int> supply,int coin,int buy,int ordinal);
 
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
+int getMaxValueMustPlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
 int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
 
 vector<int> getDiscardCardsByMilitia(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand);
