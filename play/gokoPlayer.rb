@@ -5,7 +5,7 @@ class GokoPlayer
 
   DEBUGMODE = false
 
-  BOT_NAME = "I am BOT"
+  BOT_NAME = "ut_dominion_AI"
   PLAY_PROGRAM = "./a.out play"
   BUY_PROGRAM = "./a.out gain"
   REMODEL_PROGRAM = "./a.out action 9"
