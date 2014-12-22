@@ -28,6 +28,7 @@ public:
     int _coin;
     int _buy;
     int _sampleid;
+    string _filename;
 };
 
 #endif /* defined(__parseptron__sample__) */
