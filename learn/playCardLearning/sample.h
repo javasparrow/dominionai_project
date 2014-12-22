@@ -25,6 +25,7 @@ public:
     vector<int> _hand;
     int _answerPlayCard;
     int _sampleid;
+    string _filename;
 };
 
 #endif /* defined(__parseptron__sample__) */

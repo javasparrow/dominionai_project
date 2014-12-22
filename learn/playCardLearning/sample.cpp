@@ -22,17 +22,20 @@ Sample::Sample(int id,string str) {
   
     
     //TODO::ここからの初期化をデータからきちんと行う
-    //   特徴ベクトル/アクション数/手札/正解カード
+    //   特徴ベクトル/アクション数/手札/正解カード/ファイル名
     //アクション数は特徴ベクトルの末尾に加える
     //cout << endl;
     vector<string> out = SpritString(str,"/");
-    if(out.size() != 4) {
+    if(out.size() != 5) {
         cout << "file reading error: not match format '/' " << endl;
         cout << out.size() << endl;
         exit(0);
     }
     
-    for(int i=0;i<4;i++) {
+    for(int i=0;i<5;i++) {
+        if(i==4) {
+            _filename = out[i];
+        }
         if(out[i] != "") {
             vector<string> out2 = SpritString(out[i], ",");
        
