@@ -43,7 +43,7 @@ class GokoLogParser
   def parse(rawlog, output, featureMode, playerName)
     @canVerify = true
 
-
+    @fileName = File.basename(rawlog.path)
     @featureMode = featureMode
 
     @focusPlayerName = playerName
@@ -951,10 +951,13 @@ class GokoLogParser
 
     if(card == nil)
       cardString = "0"
+      realAction = @currentAction
     else
       cardString = card.num.to_s
+      realAction = @currentAction - card.action
     end
-    resultString = feature + "/" + @currentAction.to_s + "/" + handString + "/" + cardString
+
+    resultString = feature + "/" + realAction.to_s + "/" + handString + "/" + cardString + "/" + @fileName
 
     puts resultString
     @output.write(resultString + "\n")
