@@ -3,7 +3,7 @@ require "open3"
 
 class GokoPlayer
 
-  DEBUGMODE = true
+  DEBUGMODE = false
 
   BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out play"
@@ -77,6 +77,7 @@ class GokoPlayer
     @currentBuy = 1
     @currentAction = 1
     @cardData = CardData.new()
+    @currentHand = Array.new(0)
     @lastBuy = Array.new(0)
     @currentPlayer = 0
 
@@ -134,6 +135,9 @@ class GokoPlayer
       end
 
       if(line.index("pass") !=  nil)
+        if(@currentPlayer == @player)
+          @currentHand = Array.new(0)
+        end
         cleanup(nil)
         generateGroundData(nil, @currentCoin, @currentBuy)
       end
@@ -208,10 +212,15 @@ class GokoPlayer
           
           #execute last buy
           executeBuy()
+
+
+          if(@currentPlayer == @player)
+            @currentHand = Array.new(0)
+          end
           
           #cleanup
           cleanup(line)
-          
+
           if(shuffleflag == true)
             reshuffle(line)
             shuffleflag = false
@@ -240,6 +249,8 @@ class GokoPlayer
     elsif(log.size > 2 && log[-2].include?("plays Bureaucrat") && @playerName[@currentPlayer] != BOT_NAME)
       generateBureaucratString()
     end
+
+    puts @currentHand
 
     if(@playerName[@currentPlayer] != BOT_NAME)
       return
@@ -274,6 +285,8 @@ class GokoPlayer
     elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
       generateQuestionString()
     end
+
+    puts @currentHand
 
     #rescue => ex
       #puts ex.message
@@ -979,6 +992,7 @@ end
     end
     if(@lastPlay.name == "Library")
       currentCard = @cardData.getCard(data[data.index("moves") + 6..data.index("to hand") - 2])
+      @currentHand.push(currentCard.num)
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
     end
@@ -992,6 +1006,7 @@ end
     if(@lastPlay.name == "Adventurer")
       data[data.index("hand:") + 7..-2].split(", ").each{|card|
         currentCard = @cardData.getCard(card)
+        @currentHand.push(currentCard.num)
         @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
         @reveal[currentPlayer] = Array.new(0)
       }
@@ -1005,6 +1020,9 @@ end
     end
     if(@lastPlay.name == "Bureaucrat")
       currentCard = @cardData.getCard(data[data.index("places") + 7 .. data.index("on top of deck") - 2])
+      if(currentPlayer == @player)
+        @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+      end
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] + 1
     end
@@ -1103,6 +1121,9 @@ end
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
         @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
       else
+        if(currentPlayer == @player)
+          @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+        end
         @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
       end
@@ -1123,10 +1144,13 @@ end
 
     data[data.index("draws") + 6..-2].split(", ").each{|card|
 
-      puts card
       currentCard = @cardData.getCard(card)
       
-       puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+      puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+
+      @currentHand.push(currentCard.num)
+
+      puts @currentHand
 
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
@@ -1162,6 +1186,9 @@ end
           end
         }
       else
+        if(currentPlayer == @player)
+          @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+        end
         @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       end
 
@@ -1199,6 +1226,7 @@ end
     end
 
     if(@lastPlay.name == "Mine")
+      @currentHand.push(currentCard.num)
       @playerHand[currentPlayer][gainCard.num] = @playerHand[currentPlayer][gainCard.num] + 1
       @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
     elsif(@lastPlay.name == "Bureaucrat")
@@ -1231,6 +1259,16 @@ end
       @currentBuy = @currentBuy + currentCard.buy * playCard[0].to_i
       puts "gain #{currentCard.buy * playCard[0].to_i} buy"
      
+
+      puts @currentHand
+      puts currentCard.num
+      
+      if(currentPlayer == @player)
+        (playCard[0].to_i).times{
+          @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+        }
+      end
+
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] + 1
       
@@ -1260,6 +1298,9 @@ end
     @currentAction = @currentAction + pCard.action
     
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
+      if(currentPlayer == @player)
+        @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+      end
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
       @throneStack.push(pCard.num)
@@ -1278,6 +1319,9 @@ end
         if(@currentAction < 0)
           puts "action minus error"
           raise
+        end
+        if(@player == currentPlayer)
+          @currentHand.delete_at(@currentHand.rindex(pCard.num))
         end
         @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
         @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
