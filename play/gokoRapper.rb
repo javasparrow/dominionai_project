@@ -1,8 +1,8 @@
 require 'osx/cocoa'
 include Math
 class GokoRapper
-	WINDOW_X = 10
-	WINDOW_Y = 22
+	WINDOW_X = 27
+	WINDOW_Y = 27
 	WINDOW_OUTER_WIDTH = 1106
 	WINDOW_OUTER_HEIGHT = 717
 	WINDOW_INNER_WIDTH = 1106
@@ -28,14 +28,18 @@ class GokoRapper
 	HAND_CIRCLE = 2205
 	CIRCLE_X = 960
 	CIRCLE_Y = 3300
+	UPPER_BUTTON_X = 1749 - 147
+	UPPER_BUTTON_Y = 828 - 231
+	LOWER_BUTTON_X = 1749 - 147
+	LOWER_BUTTON_Y = 1000 - 231
 
 	#番号と位置の関係は
-	# 01234
 	# 56789
+	# 01234
 	def pointSupply(num)
 		x = (num % 5) * SUPPLY_DISTANCE_X * CANVAS_WIDTH / GOKO_WIDTH + SUPPLY_X * CANVAS_WIDTH / GOKO_WIDTH + CANVAS_X
-		y = (num / 5) * SUPPLY_DISTANCE_Y * CANVAS_HEIGHT / GOKO_HEIGHT + SUPPLY_Y * CANVAS_HEIGHT / GOKO_HEIGHT + CANVAS_Y
-		move_mouse(x,y)
+		y = -((num / 5) - 1) * SUPPLY_DISTANCE_Y * CANVAS_HEIGHT / GOKO_HEIGHT + SUPPLY_Y * CANVAS_HEIGHT / GOKO_HEIGHT + CANVAS_Y
+		click_mouse(x,y)
 	end
 
 	#銅貨とかをポイント
@@ -55,7 +59,7 @@ class GokoRapper
 			x = ESTATE_X * CANVAS_WIDTH / GOKO_WIDTH + CANVAS_X
 			y = -pos * VICTORY_DISRANCE * CANVAS_HEIGHT / GOKO_HEIGHT + ESTATE_Y * CANVAS_HEIGHT / GOKO_HEIGHT + CANVAS_Y
 		end
-		move_mouse(x, y)
+		click_mouse(x, y)
 	end
 
 	def pointHand(total, pos)
@@ -67,13 +71,31 @@ class GokoRapper
 
 		x =  center_x + r * Math.cos(start_rad + PI/40 * pos) + CANVAS_X
 		y =  center_y + r * Math.sin(start_rad + PI/40 * pos) + CANVAS_Y
-		move_mouse(x, y)
+		click_mouse(x, y)
+	end
+
+	def pointUpperButton()
+		x = UPPER_BUTTON_X * CANVAS_WIDTH / GOKO_WIDTH + CANVAS_X
+		y = UPPER_BUTTON_Y * CANVAS_HEIGHT / GOKO_HEIGHT + CANVAS_Y
+		click_mouse(x, y)
+	end
+
+	def pointLowerButton()
+		x = LOWER_BUTTON_X * CANVAS_WIDTH / GOKO_WIDTH + CANVAS_X
+		y = LOWER_BUTTON_Y * CANVAS_HEIGHT / GOKO_HEIGHT + CANVAS_Y
+		click_mouse(x, y)
 	end
 
 	def move_mouse(x, y)
    		OSX::CGWarpMouseCursorPosition(OSX::CGPointMake(x, y))
  	end
-end
 
-r = GokoRapper.new
-r.pointHand(4, 3)
+ 	def click_mouse(x, y)
+ 		move_mouse(x,y)
+ 		puts "move_mouse"
+ 		event=OSX::CGEventCreateMouseEvent(nil, 1, OSX::CGPointMake(x, y), 0); 
+ 		OSX::CGEventPost(0,event);
+ 		event=OSX::CGEventCreateMouseEvent(nil, 2, OSX::CGPointMake(x,y), 0); 
+ 		OSX::CGEventPost(0,event);
+ 	end
+end

@@ -1,11 +1,12 @@
 load("../util/cardData.rb")
+load("gokoRapper.rb")
 require "open3"
 
 class GokoPlayer
 
   DEBUGMODE = false
 
-  BOT_NAME = "ut_dominion_AI"
+  BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out play"
   BUY_PROGRAM = "./a.out gain"
   REMODEL_PROGRAM = "./a.out action 9"
@@ -80,6 +81,7 @@ class GokoPlayer
     @currentHand = Array.new(0)
     @lastBuy = Array.new(0)
     @currentPlayer = 0
+    @supplyArray = Array.new(0)
 
     @currentTurn = 1
 
@@ -250,13 +252,14 @@ class GokoPlayer
       generateBureaucratString()
     end
 
-    puts @currentHand
-
     if(@playerName[@currentPlayer] != BOT_NAME)
       return
     end
 
-    if(@lastPlay != nil && @lastPlay.name == "Feast" && log[-1].include?("trashes Feast"))
+    if(@lastPlay != nil && @lastPlay.name == "Moneylender" && log[-1].include?("plays Moneylender") && @currentHand.include?(1))
+      r = GokoRapper.new
+      r.pointHand(getGokoHands.size, getGokoHands.index(1))
+    elsif(@lastPlay != nil && @lastPlay.name == "Feast" && log[-1].include?("trashes Feast"))
       generateQuestionString()
     elsif(@lastPlay != nil && @lastPlay.name == "Workshop" && log[-1].include?("plays Workshop"))
       generateQuestionString()
@@ -283,10 +286,14 @@ class GokoPlayer
     elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
       generatePlayActionData()
     elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
+      if(log[-1].include?("buys") || log[-2].include?("buys"))
+        return
+      end
       generateQuestionString()
+    elsif(!haveActionInHand && haveTreasureInHand)
+      r = GokoRapper.new
+      r.pointLowerButton
     end
-
-    puts @currentHand
 
     #rescue => ex
       #puts ex.message
@@ -307,8 +314,8 @@ class GokoPlayer
       out, err, status = Open3.capture3(SPY_PROGRAM)
     end
     puts out
-    puts err
-    puts status
+    #puts err
+    #puts status
   end
 
   def generateLibraryString()
@@ -373,8 +380,7 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(BUREAUCRAT_PROGRAM)
     puts out
-    puts err
-    puts status
+    pointHand(out)
   end
 
   def generateMineString(card)
@@ -389,8 +395,7 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(MINE_PROGRAM)
     puts out
-    puts err
-    puts status
+    pointHand(out)
   end
 
   def generateMilitiaString()
@@ -437,8 +442,7 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(THRONE_PROGRAM)
     puts out
-    puts err
-    puts status
+    pointHand(out)
   end
 
   def generateChapelString()
@@ -485,8 +489,7 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(REMODEL_PROGRAM)
     puts out
-    puts err
-    puts status
+    pointHand(out)
   end
 
   def generatePlayActionData()
@@ -510,8 +513,26 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(PLAY_PROGRAM)
     puts out
-    puts err
-    puts status
+    pointHand(out)
+  end
+
+  def pointHand(out)
+    r = GokoRapper.new
+    playLines = out.split("\n")
+    playCard = playLines[-1].to_i
+    if(playCard != 0)
+      r.pointHand(getGokoHands.size, getGokoHands.index(playCard))
+    end
+  end
+
+  def getGokoHands()
+    result = Array.new(0)
+    @currentHand.each{|hand|
+      if(!result.include?(hand))
+        result.push(hand)
+      end
+    }
+    result
   end
 
   def generateQuestionString()
@@ -564,8 +585,32 @@ end
 
     out, err, status = Open3.capture3(BUY_PROGRAM)
     puts out
-    puts err
-    puts status
+    r = GokoRapper.new
+    buyLines = out.split("\n")
+
+    buyLines[-1].split(",").each{|buyCard|
+      s = File.stat(@rawlog)
+      buyCard = buyCard.to_i
+      puts buyCard
+      if(buyCard != 0)
+        if(buyCard == 1 || buyCard == 2 || buyCard == 3 || buyCard == 4 || buyCard == 5 || buyCard == 6)
+          r.pointBasicCard(buyCard)
+        else
+          r.pointSupply(@supplyArray.index(buyCard))
+        end
+      else
+        break
+      end
+      while true
+        sleep 0.5
+        if(s.mtime != File.stat(@rawlog).mtime)
+          break
+        end
+      end
+    }
+
+    r.pointUpperButton
+
   end
 
   def generateCurrentPlayerHandStringOnlyTreasyre()
@@ -1226,7 +1271,9 @@ end
     end
 
     if(@lastPlay.name == "Mine")
-      @currentHand.push(currentCard.num)
+      if(currentPlayer == @player)
+        @currentHand.push(currentCard.num)
+      end
       @playerHand[currentPlayer][gainCard.num] = @playerHand[currentPlayer][gainCard.num] + 1
       @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
     elsif(@lastPlay.name == "Bureaucrat")
@@ -1299,7 +1346,7 @@ end
     
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
       if(currentPlayer == @player)
-        @currentHand.delete_at(@currentHand.rindex(currentCard.num))
+        @currentHand.delete_at(@currentHand.rindex(pCard.num))
       end
       @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
       @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
@@ -1382,6 +1429,7 @@ end
   def parseSupply(data)
     data[1..-2].split(", ").each{|card|
       supCard = @cardData.getCard(card)
+      @supplyArray.push(supCard.num)
       @supplyCnt[supCard.num] = supCard.pilenum
       @supplyExist[supCard.num] = 1
     }
