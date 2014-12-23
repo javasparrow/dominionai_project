@@ -268,7 +268,7 @@ int main(int argc, const char * argv[])
 
             cout << "hand:";
             showGain(hand);
-            if(PlayActionId == CARD_REMODEL) {
+            if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_BUREAUCRAT) {
                 showMaxValuePlayCard(weight,feature,hand,10);
                 int handCard = getMaxValueMustPlayCard(weight,feature,hand);
                 showOutCard(handCard);
