@@ -264,7 +264,7 @@ int main(int argc, const char * argv[])
         cout << "play card list" << endl;
         cout << "hand:";
         showGain(hand);
-        int maxHand = showMaxValuePlayCard(weight,feature,hand,10);
+        int maxHand = showMaxValuePlayCardWithDummy(weight,feature,hand,10);
         showOutCard(maxHand);
     }
     if(Mode == ACTION_MODE) {
@@ -378,6 +378,7 @@ int main(int argc, const char * argv[])
             showGain(hand);
             cout << "trash Cards:";
             showGain(getTrashCardsByChapel(weight,feature,hand));
+            cout << endl;
             showOutVector(getTrashCardsByChapel(weight,feature,hand));
         }
         if(PlayActionId == CARD_MILITIA) {

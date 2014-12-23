@@ -58,6 +58,57 @@ vector<double> mulVector(const vector<double> &a,double b) {
 
 int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal) {
     
+    int nHand = hand.size();
+    if(ordinal > nHand) {
+        ordinal = nHand;
+    }
+    
+    vector<double> values;
+    for(int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]-1],feature);
+        values.push_back(value);
+    }
+    
+    int maxHand = 0;
+    
+    vector<int> already;
+    for(int i=0;i<ordinal;i++) {
+        double maxValue = -99999999;
+        int index = -1;
+        for(int i=0;i<values.size();i++) {
+            bool isAlreadyIndex = false;
+            for(int j=0;j<already.size();j++) {
+                if(already[j] == i) {
+                    isAlreadyIndex = true;
+                    break;
+                }
+            }
+            if(isAlreadyIndex) continue;
+            if(values[i] > maxValue) {
+                maxValue = values[i];
+                index = i;
+            }
+        }
+        
+        if(index != -1) {
+            if(i == 0) {
+                maxHand = hand[index];
+                if(maxValue < 0) maxHand = 0;
+            }
+            already.push_back(index);
+            if(index >= hand.size()) {
+                cout << i+1 << "位 :( ) " << maxValue << endl;
+            } else {
+                cout << i+1 << "位 :(" << getString(hand[index]) << ") " << maxValue << endl;
+            }
+        }
+    }
+    
+    return maxHand;
+}
+
+int showMaxValuePlayCardWithDummy(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal) {
+    
     int nHand = hand.size() + 1;
     if(ordinal > nHand) {
         ordinal = nHand;
@@ -115,6 +166,34 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
+        double value = getInnerProduct(weight[hand[i]-1],feature);
+        values.push_back(value);
+    }
+    
+    if (values.size() <= 0) return 0;
+    
+    double maxValue = values[0];
+    int index = -1;
+    for(unsigned int i=0;i<values.size();i++) {
+        if(values[i] >= maxValue) {
+            maxValue = values[i];
+            index = i;
+        }
+    }
+    if(index == -1) {
+        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
+        exit(0);
+    }
+    
+    if(maxValue < 0) return 0;
+    
+    return hand[index];
+}
+
+int getMaxValuePlayCardWithDummy(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+    
+    vector<double> values;
+    for(unsigned int i=0;i<hand.size();i++) {
         double value = getInnerProduct(weight[hand[i]],feature);
         values.push_back(value);
     }
@@ -144,7 +223,7 @@ int getMaxValueMustPlayCard(const vector< vector<double> > &weight, const vector
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
-        double value = getInnerProduct(weight[hand[i]],feature);
+        double value = getInnerProduct(weight[hand[i]-1],feature);
         values.push_back(value);
     }
  //   values.push_back(getInnerProduct(weight[0],feature));
@@ -172,7 +251,7 @@ int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const v
     
     vector<double> values;
     for(unsigned int i=0;i<hand.size();i++) {
-        double value = getInnerProduct(weight[hand[i]],feature);
+        double value = getInnerProduct(weight[hand[i]-1],feature);
         values.push_back(value);
     }
     
