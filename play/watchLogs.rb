@@ -1,7 +1,7 @@
 require 'fssm'
 load("./gokoPlayer.rb")
 
-LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/06'
+LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/07'
 BUYFEATURE_DIR = "gainFeature.txt"
 PLAYFEATURE_DIR = "playFeature.txt"
 ACTIONFEATURE_DIR = "actionFeature.txt"
@@ -19,7 +19,7 @@ t = Thread.new{
       next
     end
     s = File.stat($logFileName)
-    if(@finalTimeStamp == nil || (Time.now - s.mtime  > 1) && @finalTimeStamp != s.mtime)
+    if(@finalTimeStamp == nil || (Time.now - s.mtime  > 1) && (@finalTimeStamp != s.mtime && true))
       @finalTimeStamp = s.mtime
       File.open(BUYFEATURE_DIR, 'w'){|out|
         File.open(PLAYFEATURE_DIR, 'w'){|outAction|
@@ -33,7 +33,7 @@ t = Thread.new{
             parser = GokoPlayer.new
             File.open($logFileName, 'r') {|file|
               File.open($drawFileName, 'r') {|drawfile|
-                parser.parse(file, out, outAction, outAction2, drawfile, true)
+                parser.parse(file, out, outAction, outAction2, drawfile, true, "")
               }
             }
           }

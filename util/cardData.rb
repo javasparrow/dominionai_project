@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 class Card
-  attr_accessor :name, :coin, :buy, :num, :pilenum, :cost, :isAction, :isTreasure, :isVictory, :action
+  attr_accessor :name, :coin, :buy, :num, :pilenum, :cost, :isAction, :isTreasure, :isVictory, :action, :isAttack
 
-  def initialize(name, coin, buy, num, pilenum, cost, isAction, isTreasure, isVictory, action)
+  def initialize(name, coin, buy, num, pilenum, cost, isAction, isTreasure, isVictory, action, isAttack)
     @name = name
     @coin = coin
     @buy = buy
@@ -14,6 +14,7 @@ class Card
     @isTreasure = isTreasure
     @isVictory = isVictory
     @action = action
+    @isAttack = isAttack
   end
 end
 
@@ -50,9 +51,12 @@ class CardData
   if(data[8].include?("勝利点"))
       isVictory = true
   end
+  if(data[8].include?("アタック"))
+      isAttack = true
+  end
         
 
-        @data.store(data[3], Card.new(data[3], data[9].to_i + data[14].to_i, data[13].to_i, data[0].to_i, pilenum, data[5].to_i, isAction, isTreasure, isVictory, data[12].to_i))
+        @data.store(data[3], Card.new(data[3], data[9].to_i + data[14].to_i, data[13].to_i, data[0].to_i, pilenum, data[5].to_i, isAction, isTreasure, isVictory, data[12].to_i, isAttack))
       }
     }
   end

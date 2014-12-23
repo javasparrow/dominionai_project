@@ -1,8 +1,8 @@
 require 'osx/cocoa'
 include Math
 class GokoRapper
-	WINDOW_X = 27
-	WINDOW_Y = 27
+	WINDOW_X = 21
+	WINDOW_Y = 33
 	WINDOW_OUTER_WIDTH = 1106
 	WINDOW_OUTER_HEIGHT = 717
 	WINDOW_INNER_WIDTH = 1106

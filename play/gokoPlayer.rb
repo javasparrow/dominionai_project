@@ -31,10 +31,11 @@ class GokoPlayer
   
   FEATURE_LENGTH = 233
 
-  def parse(rawlog, output, outputAction, outputActionSelection, drawlog, autoPlay)
+  def parse(rawlog, output, outputAction, outputActionSelection, drawlog, autoPlay, ignore)
     @autoPlay = autoPlay
 
     @player = 0
+    @opponent = 1
 
     @playerName = Array.new(2)
 
@@ -260,16 +261,16 @@ class GokoPlayer
       r = GokoRapper.new
       r.pointHand(getGokoHands.size, getGokoHands.index(1))
     elsif(@lastPlay != nil && @lastPlay.name == "Feast" && log[-1].include?("trashes Feast"))
-      generateQuestionString()
+      generateQuestionString(true)
     elsif(@lastPlay != nil && @lastPlay.name == "Workshop" && log[-1].include?("plays Workshop"))
-      generateQuestionString()
+      generateQuestionString(true)
     elsif(@lastPlay != nil && @lastPlay.name == "Remodel" && log[-1].include?("plays Remodel"))
       generateRemodelTrashString()
     elsif(@lastPlay != nil && @lastPlay.name == "Remodel" && log[-1].include?("trashes"))
-      generateQuestionString()
-    elsif(@lastPlay != nil && @lastPlay.name == "Cellar" && log[-1].include?("plays Cellar"))
+      generateQuestionString(true)
+    elsif(@lastPlay != nil && @lastPlay.name == "Cellar" && log[-1].include?("plays Cellar") && ignore != "Cellar")
       generateCellarString()
-    elsif(@lastPlay != nil && @lastPlay.name == "Chapel" && log[-1].include?("plays Chapel"))
+    elsif(@lastPlay != nil && @lastPlay.name == "Chapel" && log[-1].include?("plays Chapel") && ignore != "Chapel")
       generateChapelString()
     elsif(@lastPlay != nil && @lastPlay.name == "Throne Room" && log[-1].include?("plays Throne Room"))
       generateThroneString()
@@ -281,16 +282,16 @@ class GokoPlayer
       generateThiefString()
     elsif(@lastPlay != nil && @lastPlay.name == "Library" && @lastRevealCard != nil && @lastRevealCard.isAction)
       generateLibraryString()
-    elsif(@lastPlay != nil && @lastPlay.name == "Spy" && @lastRevealCard != nil && @currentPhase == PHASE_ACTION)
+    elsif(@lastPlay != nil && @lastPlay.name == "Spy" && @lastRevealCard != nil && (!log[-1].include?(@playerName[@opponent]) || log[-1].include?("shuffles deck")))
       generateSpyString()
-    elsif(haveActionInHand() && @currentPhase == PHASE_ACTION)
+    elsif(haveActionInHand() && @currentPhase == PHASE_ACTION && @currentAction != 0)
       generatePlayActionData()
-    elsif(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
+    elsif(@currentPhase == PHASE_BUY || ((!haveActionInHand() || @currentAction == 0) && !haveTreasureInHand()))
       if(log[-1].include?("buys") || log[-2].include?("buys"))
         return
       end
-      generateQuestionString()
-    elsif(!haveActionInHand && haveTreasureInHand)
+      generateQuestionString(false)
+    elsif((!haveActionInHand || @currentAction == 0) && haveTreasureInHand)
       r = GokoRapper.new
       r.pointLowerButton
     end
@@ -314,8 +315,15 @@ class GokoPlayer
       out, err, status = Open3.capture3(SPY_PROGRAM)
     end
     puts out
-    #puts err
-    #puts status
+    
+    r = GokoRapper.new
+    playLines = out.split("\n")
+    playCard = playLines[-1].to_i
+    if(playCard == 0)
+      r.pointUpperButton
+    else
+      r.pointLowerButton
+    end
   end
 
   def generateLibraryString()
@@ -329,8 +337,15 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(LIBRARY_PROGRAM)
     puts out
-    puts err
-    puts status
+    
+    r = GokoRapper.new
+    playLines = out.split("\n")
+    playCard = playLines[-1].to_i
+    if(playCard == 1)
+      r.pointUpperButton
+    else
+      r.pointLowerButton
+    end
   end
 
   def generateThiefString()
@@ -410,8 +425,8 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(MILITIA_PROGRAM)
     puts out
-    puts err
-    puts status
+    
+    pointHandMulti(out)
   end
 
   def generateChancellorString()
@@ -457,8 +472,17 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(CHAPEL_PROGRAM)
     puts out
-    puts err
-    puts status
+    
+    if(pointHandMulti(out) == 0)
+      puts "no trash chapel"
+      r = GokoRapper.new
+      r.pointUpperButton
+      self.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
+      puts "called self.parse"
+    else
+      r = GokoRapper.new
+      r.pointUpperButton
+    end
   end
 
   def generateCellarString()
@@ -473,8 +497,16 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(CELLAR_PROGRAM)
     puts out
-    puts err
-    puts status
+    
+    disCnt = pointHandMulti(out)
+
+    if(@currentHand.size != 0)
+      r = GokoRapper.new
+      r.pointUpperButton
+      if(disCnt == 0)
+        self.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Cellar")
+      end
+    end
   end
 
   def generateRemodelTrashString()
@@ -513,7 +545,39 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(PLAY_PROGRAM)
     puts out
-    pointHand(out)
+    if(!pointHand(out))
+      r = GokoRapper.new
+      r.pointUpperButton
+      sleep 4
+      #財宝プレイ
+      r.pointLowerButton
+    end
+  end
+
+  def pointHandMulti(out)
+    r = GokoRapper.new
+    cardLines = out.split("\n")
+
+    num = cardLines[-1].split(",").size
+
+    cardLines[-1].split(",").each{|disCard|
+      s = File.stat(@rawlog)
+      disCard = disCard.to_i
+      puts disCard
+      if(disCard != 0)
+        r.pointHand(getGokoHands.size, getGokoHands.index(disCard))
+        @currentHand.delete_at(@currentHand.rindex(disCard))
+      else
+        return 0
+      end
+      while true
+        sleep 1
+        if(s.mtime != File.stat(@rawlog).mtime)
+          break
+        end
+      end
+    }
+    return num
   end
 
   def pointHand(out)
@@ -522,6 +586,9 @@ class GokoPlayer
     playCard = playLines[-1].to_i
     if(playCard != 0)
       r.pointHand(getGokoHands.size, getGokoHands.index(playCard))
+      return true
+    else
+      return false
     end
   end
 
@@ -535,7 +602,7 @@ class GokoPlayer
     result
   end
 
-  def generateQuestionString()
+  def generateQuestionString(fromAction)
 feature = generateFeatureString();
 result = @pastFeature[@currentPlayer][-3] + "," + @pastFeature[@currentPlayer][-2] + "," + @pastFeature[@currentPlayer][-1] + "," + feature + "/"
 if(@currentPhase != PHASE_ACTION)
@@ -548,7 +615,7 @@ end
       
       result = result[0..-2] + "/"
       
-      if(@currentPhase == PHASE_BUY || (!haveActionInHand() && !haveTreasureInHand()))
+      if(!fromAction)
         coin = @currentCoin
         buy = @currentBuy
       elsif(@lastPlay.name == "Feast")
@@ -609,7 +676,9 @@ end
       end
     }
 
-    r.pointUpperButton
+    if(!fromAction)
+      r.pointUpperButton
+    end
 
   end
 
@@ -879,9 +948,7 @@ end
 
   def generateFeatureString()
     result = ""
-    puts "playerdeck"
     @playerDeck[@currentPlayer].each{|cardNum|
-      puts cardNum
       result = result + cardNum.to_s + ","
     }
     
@@ -1037,7 +1104,9 @@ end
     end
     if(@lastPlay.name == "Library")
       currentCard = @cardData.getCard(data[data.index("moves") + 6..data.index("to hand") - 2])
-      @currentHand.push(currentCard.num)
+      if(currentPlayer == @player)
+        @currentHand.push(currentCard.num)
+      end
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
     end
@@ -1051,7 +1120,9 @@ end
     if(@lastPlay.name == "Adventurer")
       data[data.index("hand:") + 7..-2].split(", ").each{|card|
         currentCard = @cardData.getCard(card)
-        @currentHand.push(currentCard.num)
+        if(currentPlayer == @player)
+          @currentHand.push(currentCard.num)
+        end
         @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
         @reveal[currentPlayer] = Array.new(0)
       }
@@ -1336,6 +1407,11 @@ end
       parsePlayTreasure(data.gsub(pCard.name, "1 " + pCard.name))
       return
     end
+
+    #ほりのこうかいしょり
+    if(currentPlayer != @player && pCard.isAttack && @currentHand.include?(26))
+      r.pointHand(getGokoHands.size, getGokoHands.index(26))
+    end
     
     puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
     @currentCoin = @currentCoin + pCard.coin
@@ -1362,12 +1438,12 @@ end
           @playerPlay[currentPlayer][pCard.num] = @playerPlay[currentPlayer][pCard.num] + 1
         end
       else
-        @currentAction = @currentAction - 1
-        if(@currentAction < 0)
-          puts "action minus error"
-          raise
-        end
         if(@player == currentPlayer)
+          @currentAction = @currentAction - 1
+          if(@currentAction < 0)
+            puts "action minus error"
+            raise
+          end
           @currentHand.delete_at(@currentHand.rindex(pCard.num))
         end
         @playerHand[currentPlayer][pCard.num] = @playerHand[currentPlayer][pCard.num] - 1
