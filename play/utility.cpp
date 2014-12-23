@@ -333,6 +333,80 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
     return resultGain;
 }
 
+vector<int> getMaxValueMustGain( vector< vector<double> > weight, vector<double> feature,vector<int> supply,int coin,int buy,int ordinal) {
+    
+    map<int,double> cardValues;
+    for(int i=0;i<supply.size();i++) {
+        double value = getInnerProduct(weight[i],feature);
+        cardValues.insert(map<int,double>::value_type(i+1,value));
+    }
+    
+    vector< vector<int> > gainList = getGainList(coin, buy, supply);
+    
+    vector<int> already;
+    vector<int> maxGain;
+    vector<int> resultGain;
+    
+    vector< vector<int> > ordinalList;
+    
+    for(int k=0;k<ordinal;k++) {
+        
+        double maxValue = -99999999;
+        int maxindex = 0;
+        for(int i=0;i<gainList.size();i++) {
+            double sumValue = 0.0;
+            for(int j=0;j<gainList[i].size();j++) {
+                sumValue += cardValues[gainList[i][j]];
+            }
+            //showGain(gainList[i]); cout << "Value:" << sumValue << endl;
+            if(maxValue < sumValue) {
+                int flag = 0;
+                for(int n=0;n<already.size();n++) {
+                    if(already[n] == i) {
+                        flag = 1;
+                        break;
+                    }
+                }
+                if(flag == 0) {
+                    maxValue = sumValue;
+                    maxindex = i;
+                }
+            }
+        }
+        
+        maxGain = gainList[maxindex];
+        if(cardValues[CARD_COPPER] > 0) {
+            for(int i=0;i<buy - gainList[maxindex].size();i++) {
+                maxGain.push_back(CARD_COPPER);
+            }
+        }
+        if(k==0) resultGain = maxGain;
+        ordinalList.push_back(maxGain);
+        
+        cout << k+1 << "位 :" << maxValue << endl;
+        showGain(maxGain);
+        already.push_back(maxindex);
+    }
+    
+    //showGain(maxGain); cout << "maxValue:" << maxValue << endl;
+    
+    for(unsigned int i=0;i<ordinalList.size();i++) {
+        vector<int> list = ordinalList[i];
+        if(list.size() > 0 && !(list.size() == 1 && list[0] == 0)) {
+            resultGain = ordinalList[i];
+            break;
+        }
+    }
+    
+    if(resultGain.size() <= 0 || (resultGain.size() == 1 && resultGain[0] == 0)) {
+        vector<int> a;
+        a.push_back(CARD_COPPER);
+        resultGain = a;
+    }
+    
+    return resultGain;
+}
+
 bool getIsDiscard( vector<double> weight, vector<double> feature) {
     
     bool flag = false;

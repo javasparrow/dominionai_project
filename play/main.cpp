@@ -43,9 +43,15 @@ int main(int argc, const char * argv[])
     bool action2Flag = false;
     bool card2Flag = false;
     
+    bool optionFlag = false;
+    
     if(argc >= 2) {
         if(argv[1][0] == 'g') {
             Mode = GAIN_MODE;
+        }
+        if(argv[1][0] == 'm') {
+            Mode = GAIN_MODE;
+            optionFlag = true;
         }
         if(argv[1][0] == 'p') {
             Mode = PLAY_MODE;
@@ -64,7 +70,7 @@ int main(int argc, const char * argv[])
         }
     }
     
-    bool optionFlag = false;
+    
     
     if(PlayActionId > 1000) {
         PlayActionId = PlayActionId%1000;
@@ -74,6 +80,9 @@ int main(int argc, const char * argv[])
     string weightfile,featurefile;
     if(Mode == GAIN_MODE) {
         cout << "GainMode" << endl;
+        if(optionFlag) {
+            cout << "Must mode" << endl;
+        }
         weightfile = GAIN_WEIGHT;//獲得時の重みベクトルデータ
         featurefile = GAIN_FEATURE;//特徴ベクトルデータ
     }
@@ -242,8 +251,12 @@ int main(int argc, const char * argv[])
         }
         showGain(tmpSupply);
         cout << "coin:" << coin << " buy:" << buy << endl;
-        
-        vector<int> gotGain = getMaxValueGain(weight, feature, supply, coin, buy ,10);
+        vector<int> gotGain;
+        if(optionFlag) {
+            gotGain = getMaxValueMustGain(weight,feature,supply,coin,buy,10);
+        } else {
+            gotGain = getMaxValueGain(weight, feature, supply, coin, buy ,10);
+        }
         
         showOutVector(gotGain);
     }

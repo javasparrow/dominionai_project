@@ -27,6 +27,7 @@ void showVector(vector<double> a);
 int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal);
 
 vector<int> getMaxValueGain( vector< vector<double> > weight,  vector<double> feature, vector<int> supply,int coin,int buy,int ordinal);
+vector<int> getMaxValueMustGain( vector< vector<double> > weight, vector<double> feature,vector<int> supply,int coin,int buy,int ordinal);
 
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
 int getMaxValueMustPlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
