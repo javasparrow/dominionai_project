@@ -27,6 +27,7 @@ public:
     int _answerSelectCard;
     int _sampleid;
     int _revealCard;
+    string _filename;
     
     bool _isDiscard;
     bool _isGain;
@@ -37,6 +38,11 @@ class cellarSample :public Sample{
 public:
     cellarSample(int id,string str);
     void show();
+};
+
+class militiaSample :public Sample{
+public:
+    militiaSample(int id,string str);
 };
 
 class remodelSample :public Sample {

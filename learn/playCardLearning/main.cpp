@@ -114,7 +114,7 @@ int main(int argc, const char * argv[])
             teachers.push_back(teacher);
             bool flag = false;
             for(int i=0;i<teacher._hand.size();i++) {
-                if(teacher._hand[i] == CARD_FESTIVAL) {
+                if(teacher._hand[i] == CARD_LABORATRY) {
                     flag = true;
                 }
                 /*

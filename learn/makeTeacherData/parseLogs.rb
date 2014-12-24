@@ -20,7 +20,7 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "throne")
     featureMode = GokoLogParser::MODE_ACTION_THRONE
     puts "throneMode"
-  elsif(ARGV[0] == "throne")
+  elsif(ARGV[0] == "chancellor")
     featureMode = GokoLogParser::MODE_ACTION_CHANCELLOR
     puts "chancellorMode"
   elsif(ARGV[0] == "militia")

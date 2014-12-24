@@ -20,6 +20,7 @@ using namespace std;
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero) {
     if(a.size() != b.size()) {
         cout << "error: size of vector don't match @innerProduct" << endl;
+        cout << "a:" << a.size() << " b:" << b.size() << endl;
         exit(0);
     }
     double sum = 0;

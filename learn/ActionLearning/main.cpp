@@ -143,15 +143,16 @@ int main(int argc, const char * argv[])
             if(learningCardId == CARD_SPY) {
                 vector<string> out = SpritString(buf,"/");
                 if(atoi(out[3].c_str()) == 1 && !optionFlag) {//自分の密偵
-                    spySample teacher(count++,buf);
+                    spySample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
                 }
                 if(atoi(out[3].c_str()) == 0 && optionFlag) {//相手の密偵
-                    spySample teacher(count++,buf);
+                    spySample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
                 }
+                count++;
             }
             if(learningCardId == CARD_LIBRARY) {
                 librarySample teacher(count++,buf);
@@ -326,6 +327,11 @@ int main(int argc, const char * argv[])
         }
         if(learningCardId == CARD_LIBRARY || learningCardId == CARD_SPY) {
             int wid = teachers[sampleIndex]._revealCard - 1;
+            teachers[sampleIndex].show();
+            for(unsigned int i=0;i<teachers[sampleIndex]._feature.size();i++) {
+                cout << teachers[sampleIndex]._feature[i] << "," ;
+            }
+            cout << endl;
             bool isDiscardPile = getIsDiscardPile(weight[wid],teachers[sampleIndex]._feature,teachers[sampleIndex]._notZero);
             bool answerIsDiscardPile = teachers[sampleIndex]._isDiscard;
             if(isDiscardPile != answerIsDiscardPile) {//不正解の場合
