@@ -43,6 +43,7 @@ public:
 class militiaSample :public Sample{
 public:
     militiaSample(int id,string str);
+    void show();
 };
 
 class remodelSample :public Sample {

@@ -164,7 +164,12 @@ int main(int argc, const char * argv[])
                 sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
             }
-            if(learningCardId == CARD_CHAPEL || learningCardId == CARD_MILITIA || learningCardId == CARD_CELLAR) {
+            if(learningCardId == CARD_MILITIA) {
+                militiaSample teacher(count++,buf);
+                sample = teacher;
+                dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
+            if(learningCardId == CARD_CHAPEL || learningCardId == CARD_CELLAR) {
                 cellarSample teacher(count++,buf);
                 sample = teacher;
                 if(learningCardId == CARD_CELLAR) {

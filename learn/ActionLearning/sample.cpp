@@ -106,6 +106,13 @@ militiaSample::militiaSample(int id,string str) {
         }
     }
 }
+void militiaSample::show() {
+    cout << "militiaLearnData id=" << _sampleid << endl;
+    cout << "hand:";
+    showGain(_hand);
+    cout << "answerSelectCards:";
+    showGain(_answerSelectCards);
+}
 
 void cellarSample::show() {
     cout << "cellerLearnData id=" << _sampleid << endl;
