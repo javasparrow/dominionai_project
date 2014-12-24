@@ -20,10 +20,10 @@ Sample::Sample(int id,string str) {
   
     
     //TODO::ここからの初期化をデータからきちんと行う
-    //   特徴ベクトル/ゲイン/サプライ/コイン/バイ/ファイル名
+    //   特徴ベクトル/ゲイン/サプライ/コイン/バイ
     //cout << endl;
     vector<string> out = SpritString(str,"/");
-    if(out.size() != 6) {
+    if(out.size() != 5) {
         cout << "file reading error: not match format 1" << endl;
         cout << out.size() << endl;
         exit(0);
@@ -33,7 +33,7 @@ Sample::Sample(int id,string str) {
         cout << out[i] << endl;
     }
      */
-    for(int i=0;i<6;i++) {
+    for(int i=0;i<5;i++) {
         vector<string> out2 = SpritString(out[i], ",");
         if((i==3 || i==4) && out2.size()!=1) {
             cout << "file reading error: not match format 2" << endl;
@@ -65,7 +65,7 @@ Sample::Sample(int id,string str) {
     }
     _coin = atoi(out[3].c_str());
     _buy = atoi(out[4].c_str());
-    _filename = out[5];
+ //   _filename = out[5];
     int answerBuy = 1;
     for(int i=0;i<_gain.size();i++) {
         if(_gain[i] != CARD_COPPER) {
