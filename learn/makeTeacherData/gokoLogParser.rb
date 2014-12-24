@@ -1127,7 +1127,13 @@ class GokoLogParser
       return
     end
 
-    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + card.num.to_s
+    if(@throneStack.include?(14) || (@currentAction - card.action) >= 1)
+      active = 1
+    else
+      active = 0
+    end
+
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + active.to_s +  "/" + card.num.to_s + "/" + @fileName
 
     puts resultString
     @output.write(resultString + "\n")
