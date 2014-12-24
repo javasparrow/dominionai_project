@@ -132,8 +132,12 @@ class GokoLogParser
         @featureMode = MODE_ACTION_CELLAR
       end
       if(@featureMode == MODE_ACTION_MILITIA_ACTIVE && !line.include?("discards"))
-        generateUseMilitiaFeature()
-        @featureMode = MODE_ACTION_MILITIA
+        if(line.include?("reveals reaction Moat"))
+          @featureMode = MODE_ACTION_MILITIA
+        else
+          generateUseMilitiaFeature()
+          @featureMode = MODE_ACTION_MILITIA
+        end
       end
       if(@featureMode == MODE_ACTION_CHAPEL_ACTIVE && !line.include?("trashes"))
         generateUseChapelFeature()
@@ -1061,7 +1065,7 @@ class GokoLogParser
     }
     cardString = cardString[0...-1]
 
-    resultString = @pastMilitiaFeature + "/" + cardString
+    resultString = @pastMilitiaFeature + "/" + cardString + "/" + @fileName
 
     puts resultString
     @output.write(resultString + "\n")

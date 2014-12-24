@@ -14,12 +14,12 @@ Thread.abort_on_exception = true
 
 t = Thread.new{
   while true
-    sleep 0.5
+    sleep 1
     if($logFileName == nil || $drawFileName == nil)
       next
     end
     s = File.stat($logFileName)
-    if(@finalTimeStamp == nil || (Time.now - s.mtime  > 1) && (@finalTimeStamp != s.mtime && true))
+    if(@finalTimeStamp == nil || (Time.now - s.mtime  > 1) && @finalTimeStamp != s.mtime)
       @finalTimeStamp = s.mtime
       File.open(BUYFEATURE_DIR, 'w'){|out|
         File.open(PLAYFEATURE_DIR, 'w'){|outAction|
