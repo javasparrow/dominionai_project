@@ -168,6 +168,7 @@ int getIdFromEnglishString(string str) {
     if(str == "chapel") return 32;
     
     if(str == "spy_enemy") return 28+1000;
+    if(str == "throne_action") return 14+1000;
     
     cout << "error:not found card name:'" << str << "' @getIdFromEnglishString" << endl;
     exit(0);

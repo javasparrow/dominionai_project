@@ -32,6 +32,7 @@ public:
     bool _isDiscard;
     bool _isGain;
     bool _isMine;
+    bool _hasAction;
 };
 
 class cellarSample :public Sample{
@@ -50,6 +51,12 @@ class remodelSample :public Sample {
 public:
     remodelSample(int id,string str);
     void show();
+};
+
+class throneSample :public Sample {
+public:
+    throneSample(int id,string str);
+    //void show();
 };
 
 class chancellorSample :public Sample {

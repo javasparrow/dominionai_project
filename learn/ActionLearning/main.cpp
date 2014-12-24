@@ -78,6 +78,13 @@ int main(int argc, const char * argv[])
             cout << "option:me" << endl;
         }
     }
+    if(learningCardId == CARD_THRONEROOM) {
+        if(optionFlag) {
+            cout << "option:action2" << endl;
+        } else {
+            cout << "option:action1" << endl;
+        }
+    }
     
     if(!readFlag) {
         cout << "Warning!! :This mode will make NEW weight vector." << endl;
@@ -130,7 +137,7 @@ int main(int argc, const char * argv[])
             
             Sample sample;
             
-            if(learningCardId == CARD_REMODEL || learningCardId == CARD_THRONEROOM || learningCardId == CARD_MINE || learningCardId == CARD_BUREAUCRAT) {
+            if(learningCardId == CARD_REMODEL || learningCardId == CARD_MINE || learningCardId == CARD_BUREAUCRAT) {
                 remodelSample teacher(count++,buf);
                 sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
@@ -139,6 +146,20 @@ int main(int argc, const char * argv[])
                 chancellorSample teacher(count++,buf);
                 sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
+            }
+            if(learningCardId == CARD_THRONEROOM) {
+                vector<string> out = SpritString(buf,"/");
+                if(atoi(out[2].c_str()) == 0 && !optionFlag) {//アクション１
+                    spySample teacher(count,buf);
+                    sample = teacher;
+                    dimensionOfFeature = teacher.getDimensionOfFeature();
+                }
+                if(atoi(out[2].c_str()) == 1 && optionFlag) {//アクション２以上
+                    spySample teacher(count,buf);
+                    sample = teacher;
+                    dimensionOfFeature = teacher.getDimensionOfFeature();
+                }
+                count++;
             }
             if(learningCardId == CARD_SPY) {
                 vector<string> out = SpritString(buf,"/");
@@ -168,6 +189,7 @@ int main(int argc, const char * argv[])
                 militiaSample teacher(count++,buf);
                 sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
+                teacher.show();
             }
             if(learningCardId == CARD_CHAPEL || learningCardId == CARD_CELLAR) {
                 cellarSample teacher(count++,buf);
@@ -217,6 +239,9 @@ int main(int argc, const char * argv[])
     
     if(learningCardId == CARD_SPY && optionFlag) {
         dataDirectory += "enemy/";
+    }
+    if(learningCardId == CARD_THRONEROOM && optionFlag) {
+        dataDirectory += "action2/";
     }
     
     if(readFlag) {
