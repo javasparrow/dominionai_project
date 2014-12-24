@@ -32,6 +32,8 @@ class GokoPlayer
   FEATURE_LENGTH = 233
 
   def parse(rawlog, output, outputAction, outputActionSelection, drawlog, autoPlay, ignore)
+    puts "execute parse"
+
     @autoPlay = autoPlay
 
     @player = 0
@@ -110,6 +112,8 @@ class GokoPlayer
 
     log.each{|line|
       
+      puts "line:" + line
+
       if(line.include?("Game Over"))
         currentPhase = PHASE_END
       end
@@ -473,11 +477,11 @@ class GokoPlayer
     out, err, status = Open3.capture3(CHAPEL_PROGRAM)
     puts out
     
-    if(pointHandMulti(out) == 0)
+    if(pointHandMultiTimer(out) == 0)
       puts "no trash chapel"
       r = GokoRapper.new
       r.pointUpperButton
-      self.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
+      GokoPlayer.new.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
       puts "called self.parse"
     else
       r = GokoRapper.new
@@ -504,7 +508,7 @@ class GokoPlayer
       r = GokoRapper.new
       r.pointUpperButton
       if(disCnt == 0)
-        self.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Cellar")
+        GokoPlayer.new.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Cellar")
       end
     end
   end
@@ -576,6 +580,27 @@ class GokoPlayer
           break
         end
       end
+    }
+    return num
+  end
+
+  def pointHandMultiTimer(out)
+    r = GokoRapper.new
+    cardLines = out.split("\n")
+
+    num = cardLines[-1].split(",").size
+
+    cardLines[-1].split(",").each{|disCard|
+      s = File.stat(@rawlog)
+      disCard = disCard.to_i
+      puts disCard
+      if(disCard != 0)
+        r.pointHand(getGokoHands.size, getGokoHands.index(disCard))
+        @currentHand.delete_at(@currentHand.rindex(disCard))
+      else
+        return 0
+      end
+      sleep 4
     }
     return num
   end
@@ -1152,6 +1177,10 @@ end
 
     #掘
     if(data.include?("Moat"))
+      if(currentPlayer == @player)
+        @currentHand.delete_at(@currentHand.rindex(26))
+        @currentHand.push(26)
+      end
       return
     end
 
@@ -1410,9 +1439,14 @@ end
 
     #ほりのこうかいしょり
     if(currentPlayer != @player && pCard.isAttack && @currentHand.include?(26))
+      r = GokoRapper.new
       r.pointHand(getGokoHands.size, getGokoHands.index(26))
+      @currentHand.delete_at(@currentHand.rindex(26))
+      @currentHand.push(26)
+      puts "ほり"
+      puts @currentHand
     end
-    
+
     puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
     @currentCoin = @currentCoin + pCard.coin
     puts "gain #{pCard.coin} coins"
