@@ -402,8 +402,8 @@ class GokoPlayer
     pointHand(out)
   end
 
-  def generateMineString(card)
-    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringOnlyTreasyre() + "/" + card.num.to_s
+  def generateMineString()
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringOnlyTreasyre()
 
     puts resultString
     @outputActionSelection.write(resultString + "\n")
@@ -445,12 +445,26 @@ class GokoPlayer
 
     out, err, status = Open3.capture3(CHANCELLOR_PROGRAM)
     puts out
-    puts err
-    puts status
+    
+    r = GokoRapper.new
+    playLines = out.split("\n")
+    playCard = playLines[-1].to_i
+    if(playCard == 0)
+      r.pointUpperButton
+    else
+      r.pointLowerButton
+    end
   end
 
   def generateThroneString()
-    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction()
+
+    if(@throneStack.include?(14) || (@currentAction - card.action) >= 1)
+      active = 1
+    else
+      active = 0
+    end
+
+    resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + active.to_s 
 
     puts resultString
     @outputActionSelection.write(resultString + "\n")
