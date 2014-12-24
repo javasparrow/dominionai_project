@@ -396,7 +396,12 @@ vector<int> getMaxValueGain( vector< vector<double> > weight, vector<double> fea
     
         maxGain = gainList[maxindex];
         if(cardValues[CARD_COPPER] > 0) {
-            for(int i=0;i<buy - gainList[maxindex].size();i++) {
+            int gainCount = gainList[maxindex].size();
+            if(gainList[maxindex].size() == 1 && gainList[maxindex][0] == 0) gainCount = 0;
+            for(int i=0;i<buy - gainCount;i++) {
+                if(maxGain[0] == CARD_DUMMY) {
+                    maxGain.clear();
+                }
                 maxGain.push_back(CARD_COPPER);
             }
         }
@@ -455,7 +460,12 @@ vector<int> getMaxValueMustGain( vector< vector<double> > weight, vector<double>
         
         maxGain = gainList[maxindex];
         if(cardValues[CARD_COPPER] > 0) {
-            for(int i=0;i<buy - gainList[maxindex].size();i++) {
+            int gainCount = gainList[maxindex].size();
+            if(gainList[maxindex].size() == 1 && gainList[maxindex][0] == 0) gainCount = 0;
+            for(int i=0;i<buy - gainCount;i++) {
+                if(maxGain[0] == CARD_DUMMY) {
+                    maxGain.clear();
+                }
                 maxGain.push_back(CARD_COPPER);
             }
         }
