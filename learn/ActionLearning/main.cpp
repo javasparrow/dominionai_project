@@ -149,30 +149,46 @@ int main(int argc, const char * argv[])
             }
             if(learningCardId == CARD_THRONEROOM) {
                 vector<string> out = SpritString(buf,"/");
+                bool backflag = true;
+               // cout << atoi(out[2].c_str()) << endl;
                 if(atoi(out[2].c_str()) == 0 && !optionFlag) {//アクション１
-                    spySample teacher(count,buf);
+                    backflag = false;
+                    throneSample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
+                    teacher.show();
+                    for(unsigned int i=0;i<teacher._feature.size();i++) {
+                        cout << teacher._feature[i] << ",";
+                    }
+                    cout << dimensionOfFeature << endl;
+                    cout << endl;
                 }
                 if(atoi(out[2].c_str()) == 1 && optionFlag) {//アクション２以上
-                    spySample teacher(count,buf);
+                    backflag = false;
+                    throneSample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
+                    teacher.show();
                 }
+                if(backflag) continue;
                 count++;
             }
             if(learningCardId == CARD_SPY) {
+                bool backflag = true;
                 vector<string> out = SpritString(buf,"/");
                 if(atoi(out[3].c_str()) == 1 && !optionFlag) {//自分の密偵
+                    backflag = false;
                     spySample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
                 }
                 if(atoi(out[3].c_str()) == 0 && optionFlag) {//相手の密偵
+                    backflag = false;
                     spySample teacher(count,buf);
                     sample = teacher;
                     dimensionOfFeature = teacher.getDimensionOfFeature();
                 }
+                if(backflag) continue;
                 count++;
             }
             if(learningCardId == CARD_LIBRARY) {
@@ -261,6 +277,9 @@ int main(int argc, const char * argv[])
     double maxCorrectRate = 0.0;
     int outCount = 0;//前回の正解率を連続で上回らなかった回数
     int finishCount = 10;//outCountがfinishCountに達したら学習終了
+    
+    cout << "teacherSize" << teachers.size() << endl;
+    cout << "testSize" << tests.size() << endl;
     
     while(round < roundlimit) {
         

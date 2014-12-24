@@ -328,6 +328,14 @@ throneSample::throneSample(int id,string str) {
     }
 }
 
+void throneSample::show() {
+    cout << "throneLearnData id=" << _sampleid << endl;
+    cout << "hand:";
+    showGain(_hand);
+    cout << "answerSelectCard:";
+    cout << getString(_answerSelectCard) << endl;
+}
+
 remodelSample::remodelSample(int id,string str) {
     _sampleid = id;
     //feature/hand/answerSelectCard

@@ -27,6 +27,7 @@
 #define PLAY21_WEIGHT "./../learn/playCardLearning/nAction2/weight.txt"
 #define PLAY12_WEIGHT "./../learn/playCardLearning/twoCard/weight.txt"
 #define PLAY22_WEIGHT "./../learn/playCardLearning/nAction2/twoCard/weight.txt"
+
 #define GAIN_FEATURE "gainFeature.txt"
 #define PLAY_FEATURE "playFeature.txt"
 #define ACTION_FEATURE "actionFeature.txt"
@@ -95,6 +96,34 @@ int main(int argc, const char * argv[])
         cout << "ActionMode:" << getString(PlayActionId) << endl;
         weightfile = "./../learn/ActionLearning/" + getEnglishString(PlayActionId) + "TeacherData/weight.txt";
         featurefile = ACTION_FEATURE;
+        
+        if(PlayActionId == CARD_THRONEROOM) {
+            //-----------------------特徴ベクトルの生成---------
+            cout << "throneroom action2 mode" << endl;
+            ifstream ifs2(featurefile);
+            if(!ifs2) {
+                cout << "error: not found featureFile" << endl;
+                exit(0);
+            }
+            string testFeature;
+            getline(ifs2,testFeature);
+            vector<string> out = SpritString(testFeature,"/");
+            for (unsigned int i=0;i<out.size();i++) {
+                cout << out[i] << endl;
+            }
+            cout << out.size() << endl;
+            if(out.size() != 3) {
+                cout << "file reading error: not match format '/' " << endl;
+                exit(0);
+            }
+            
+            int a = atoi(out[2].c_str());
+            
+            if(a == 1) {
+                //action2
+                weightfile = "./../learn/ActionLearning/" + getEnglishString(PlayActionId) + "TeacherData/action2/weight.txt";
+            }
+        }
         
         if(PlayActionId == CARD_SPY && optionFlag) {
             cout << "Option:enemy" << endl;
@@ -187,7 +216,7 @@ int main(int argc, const char * argv[])
     if(Mode == ACTION_MODE) {
         nWeight = 32;//基本セットのみのカード種類数
         vector<string> out = SpritString(testFeature,"/");
-        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_THRONEROOM || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_LIBRARY || PlayActionId == CARD_BUREAUCRAT || PlayActionId == CARD_SPY) {
+        if(PlayActionId == CARD_REMODEL || PlayActionId == CARD_CHAPEL || PlayActionId == CARD_MILITIA || PlayActionId == CARD_CELLAR || PlayActionId == CARD_MINE || PlayActionId == CARD_THIEF || PlayActionId == CARD_LIBRARY || PlayActionId == CARD_BUREAUCRAT || PlayActionId == CARD_SPY) {
             if(out.size() != 2) {
                 cout << "file reading error: not match format '/' " << endl;
                 exit(0);
@@ -208,6 +237,22 @@ int main(int argc, const char * argv[])
             }
             dimensionOfFeature = feature.size();
         }
+        if(PlayActionId == CARD_THRONEROOM) {
+            if(out.size() != 3) {
+                cout << "file reading error: not match format '/' " << endl;
+                exit(0);
+            }
+            vector<string> out0 = SpritString(out[0],",");
+            for(int i=0;i<out0.size();i++) {
+                feature.push_back(atof(out0[i].c_str()));
+            }
+            vector<string> out1 = SpritString(out[1],",");
+            for(int i=0;i<out1.size();i++) {
+                hand.push_back(atoi(out1[i].c_str()));
+            }
+            dimensionOfFeature = feature.size();
+        }
+        
         if(PlayActionId == CARD_CHANCELLOR) {
             if(out.size() != 1) {
                 cout << "file reading error: not match format '/' " << endl;

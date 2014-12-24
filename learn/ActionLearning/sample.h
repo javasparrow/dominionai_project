@@ -56,7 +56,7 @@ public:
 class throneSample :public Sample {
 public:
     throneSample(int id,string str);
-    //void show();
+    void show();
 };
 
 class chancellorSample :public Sample {
