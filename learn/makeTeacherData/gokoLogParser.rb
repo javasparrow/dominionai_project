@@ -2,6 +2,8 @@ load(File.expand_path(__FILE__).sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'')[0...
 
 class GokoLogParser
 
+  DEBUG_PRINT = false
+
   #action使用に対する特徴料にするかbuyにたい汁物にするか
   MODE_BUY = 1
   MODE_ACTION = 2
@@ -259,8 +261,9 @@ class GokoLogParser
           puts "error!"
         end
         @currentTurn = @currentTurn + 1
-        puts("Turn#{@currentTurn / 2}")
-
+        if(DEBUG_PRINT)
+          puts("Turn#{@currentTurn / 2}")
+        end
         @currentCoin = 0
         @currentBuy = 1
         @currentAction = 1
@@ -319,7 +322,9 @@ class GokoLogParser
       end
 
       if(line.index("shuffles") != nil)
-        puts "detect shuffle"
+        if(DEBUG_PRINT)
+          puts "detect shuffle"
+        end
         if(@currentPhase == PHASE_BUY)
           shuffleflag = true
         else
@@ -381,8 +386,10 @@ class GokoLogParser
             drawflag = false
             while drawCnt != 5
               rLineCnt = rLineCnt - 1
-              puts log[rLineCnt]
-              puts rLineCnt
+              if(DEBUG_PRINT)
+                puts log[rLineCnt]
+                puts rLineCnt
+              end
               if(log[rLineCnt].include?("draws"))
                 drawCnt = drawCnt + 1 + log[rLineCnt].count(",")
                 drawflag = true
@@ -396,9 +403,11 @@ class GokoLogParser
                 break
               end
               if(!log[rLineCnt].include?("draws") && !log[rLineCnt].include?("shuffles"))
-                puts rLineCnt
-                puts lineCnt
-                puts resultlog
+                if(DEBUG_PRINT)
+                  puts rLineCnt
+                  puts lineCnt
+                  puts resultlog
+                end
 
                 rLineCnt = rLineCnt + 1
                 drawflag = true
@@ -423,21 +432,29 @@ class GokoLogParser
       resultlog << line
     }
 
-    puts resultlog
+    if(DEBUG_PRINT)
+      puts resultlog
+    end
 
     resultlog
   end
 
   def generateGroundData(gain, coin, buy)
     if(@featureMode != MODE_BUY)
-      puts "this is not buy mode"
+      if(DEBUG_PRINT)
+        puts "this is not buy mode"
+      end
       return
     end
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     elsif(@playerName[@currentPlayer] != @winner && @focusPlayerName == nil)
-      puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@winner} he is loser"
+      end
       return
     end
 
@@ -466,7 +483,9 @@ class GokoLogParser
 
     result = result[0..-2] + "/" + coin.to_s + "/" + buy.to_s
 
-    puts result
+    if(DEBUG_PRINT)
+      puts result
+    end
     @output.write(result + "\n")
   end
 
@@ -556,8 +575,9 @@ class GokoLogParser
       @playerDiscard[@currentPlayer][card.num] = @playerDiscard[@currentPlayer][card.num] + 1
       @supplyCnt[card.num] = @supplyCnt[card.num] - 1
 
-      puts "#{@playerName[@currentPlayer]} buy #{card.name}"
-
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} buy #{card.name}"
+      end
     }
   end
 
@@ -576,8 +596,9 @@ class GokoLogParser
       @playerPlay[currentPlayer][i] = 0
       @playerHand[currentPlayer][i] = 0
     end
-
-    puts "cleanup"
+    if(DEBUG_PRINT)
+      puts "cleanup"
+    end
   end
 
   def moveDeckIntoDiscards(data)
@@ -595,8 +616,9 @@ class GokoLogParser
       @playerDiscard[currentPlayer][i] = @playerDeck[currentPlayer][i] + @playerDiscard[currentPlayer][i]
       @playerDeck[currentPlayer][i] = 0
     end
-
-    puts "doooon"
+    if(DEBUG_PRINT)
+      puts "doooon"
+    end
   end
 
   def reshuffle(data)
@@ -604,7 +626,9 @@ class GokoLogParser
     #when we use adventurer and it causes reshuffle, the timing of reshuffle of log become strange
 
     if(@lastPlay != nil && @lastPlay.name == "Adventurer" && @currentPhase == PHASE_ACTION)
-      puts "adventurer bug shuffle"
+      if(DEBUG_PRINT)
+        puts "adventurer bug shuffle"
+      end
       return
     end
 
@@ -617,8 +641,9 @@ class GokoLogParser
       @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
       @playerDiscard[currentPlayer][i] = 0
     end
-
-    puts "reshuffle"
+    if(DEBUG_PRINT)
+      puts "reshuffle"
+    end
   end
 
   def parseMoveCardInHand(data)
@@ -698,12 +723,12 @@ class GokoLogParser
       end
     elsif(@lastPlay.name == "Adventurer")
       data[data.index("reveals") + 8..-2].split(", ").each{|card|
-        puts card
         currentCard = @cardData.getCard(card)
 
         if(@playerDeck[currentPlayer][currentCard.num] == 0)
-          puts "actual reshuffle is here"
-
+          if(DEBUG_PRINT)
+            puts "actual reshuffle is here"
+          end
           for i in 1 ... MAX_CARDNUM
             @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
             @playerDiscard[currentPlayer][i] = 0
@@ -749,7 +774,9 @@ class GokoLogParser
 
       currentCard = @cardData.getCard(card)
 
-      puts "#{@playerName[currentPlayer]} discards #{currentCard.name}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} discards #{currentCard.name}"
+      end
 
       if(@lastPlay.name == "Thief")
         @reveal[currentPlayer].each{|rCard|
@@ -761,7 +788,6 @@ class GokoLogParser
         @playerDiscard[currentPlayer][currentCard.num] = @playerDiscard[currentPlayer][currentCard.num] + 1
       elsif(@lastPlay.name == "Spy")
         if(@featureMode == MODE_ACTION_SPY_ACTIVE)
-          puts currentPlayer.to_s + ":user is:" + @currentPlayer.to_s
           if(@currentPlayer == currentPlayer)
             generateUseSpyFeature(currentCard, true, true)
           else
@@ -808,7 +834,9 @@ class GokoLogParser
 
       currentCard = @cardData.getCard(card)
 
-      puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+      end
 
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
@@ -838,10 +866,14 @@ class GokoLogParser
 
       if(@lastPlay.name == "Moneylender" && currentCard.name == "Copper")
         @currentCoin = @currentCoin + 3
-        puts "Moneylender generates 3coins"
+        if(DEBUG_PRINT)
+          puts "Moneylender generates 3coins"
+        end
       end
 
-      puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
+      end
 
       if(currentCard.name == "Feast")
         @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] - 1
@@ -878,8 +910,9 @@ class GokoLogParser
 
     @lastBuy << gainCard
 
-    puts "#{@playerName[currentPlayer]} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
-
+    if(DEBUG_PRINT)
+      puts "#{@playerName[currentPlayer]} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
+    end
 
   end
 
@@ -908,7 +941,9 @@ class GokoLogParser
       @playerDiscard[currentPlayer][gainCard.num] = @playerDiscard[currentPlayer][gainCard.num] + 1
       @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
     end
-    puts "#{@playerName[currentPlayer]} gains #{gainCard.name}"
+    if(DEBUG_PRINT)
+      puts "#{@playerName[currentPlayer]} gains #{gainCard.name}"
+    end
   end
 
   def parsePlayTreasure(data)
@@ -925,11 +960,17 @@ class GokoLogParser
 
       currentCard = @cardData.getCard(playCard[2..-1])
 
-      puts "#{@playerName[currentPlayer]} uses #{playCard[2..-1]} num is #{playCard[0]}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} uses #{playCard[2..-1]} num is #{playCard[0]}"
+      end
       @currentCoin = @currentCoin + currentCard.coin * playCard[0].to_i
-      puts "gain #{currentCard.coin * playCard[0].to_i} coins"
+      if(DEBUG_PRINT)
+        puts "gain #{currentCard.coin * playCard[0].to_i} coins"
+      end
       @currentBuy = @currentBuy + currentCard.buy * playCard[0].to_i
-      puts "gain #{currentCard.buy * playCard[0].to_i} buy"
+      if(DEBUG_PRINT)
+        puts "gain #{currentCard.buy * playCard[0].to_i} buy"
+      end
 
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] - 1
       @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] + 1
@@ -940,12 +981,16 @@ class GokoLogParser
 
   def generatePlayActionData(card)
     if(@featureMode != MODE_ACTION)
-      puts "this is not action mode"
+      if(DEBUG_PRINT)
+        puts "this is not action mode"
+      end
       return
     end
 
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     end
 
@@ -963,7 +1008,9 @@ class GokoLogParser
 
     resultString = feature + "/" + realAction.to_s + "/" + handString + "/" + cardString + "/" + @fileName
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -971,7 +1018,9 @@ class GokoLogParser
 
     resultString = generateOpponentFeatureString() + "/" + generateOpponentPlayerHandStringOnlyVictory() + "/" + card.num.to_s
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -990,7 +1039,9 @@ class GokoLogParser
     end
     resultString = generateFeatureString() + "/" + card.num.to_s + "/" + answer + "/" + selfString
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1008,7 +1059,9 @@ class GokoLogParser
 
     resultString = generateFeatureString() + "/" + card.num.to_s + "/" + answer
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1036,7 +1089,9 @@ class GokoLogParser
 
     resultString = @pastThiefFeature + "/" + discardString + "/" + trashString + "/" + gainString
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1048,7 +1103,9 @@ class GokoLogParser
 
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringOnlyTreasyre() + "/" + card.num.to_s
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1067,7 +1124,9 @@ class GokoLogParser
 
     resultString = @pastMilitiaFeature + "/" + cardString + "/" + @fileName
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1086,14 +1145,18 @@ class GokoLogParser
 
     resultString = @pastCellarFeature + "/" + cardString
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
   def generateUseChapelFeature()
 
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     end
 
@@ -1105,25 +1168,33 @@ class GokoLogParser
 
     resultString = @pastChapelFeature + "/" + cardString
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
   def generateUseRemodelFeature(card)
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     end
 
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandString() + "/" + card.num.to_s
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
   def generateUseThroneFeature(card)
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     end
 
@@ -1135,7 +1206,9 @@ class GokoLogParser
 
     resultString = generateFeatureString() + "/" + generateCurrentPlayerHandStringNoAction() + "/" + active.to_s +  "/" + card.num.to_s + "/" + @fileName
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1147,13 +1220,17 @@ class GokoLogParser
     end
 
     if(@focusPlayerName != nil && @playerName[@currentPlayer] != @focusPlayerName)
-      puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} is not #{@focusPlayerName} not focused"
+      end
       return
     end
 
     resultString = generateFeatureString() + "/" + ans
 
-    puts resultString
+    if(DEBUG_PRINT)
+      puts resultString
+    end
     @output.write(resultString + "\n")
   end
 
@@ -1166,16 +1243,24 @@ class GokoLogParser
     pCard = @cardData.getCard(data[data.index("plays") + 6 .. -2])
 
     if(!pCard.isAction)
-      puts "this is treasure!"
+      if(DEBUG_PRINT)
+        puts "this is treasure!"
+      end
       parsePlayTreasure(data.gsub(pCard.name, "1 " + pCard.name))
       return
     end
 
-    puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
+    if(DEBUG_PRINT)
+      puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
+    end
     @currentCoin = @currentCoin + pCard.coin
-    puts "gain #{pCard.coin} coins"
+    if(DEBUG_PRINT)
+      puts "gain #{pCard.coin} coins"
+    end
     @currentBuy = @currentBuy + pCard.buy
-    puts "gain #{pCard.buy} buy"
+    if(DEBUG_PRINT)
+      puts "gain #{pCard.buy} buy"
+    end
     @currentAction = @currentAction + pCard.action
 
 
@@ -1213,7 +1298,9 @@ class GokoLogParser
     if(pCard.name == "Throne Room")
       if(haveActionInHand() == false)
         @lastPlay = nil
-        puts "uses throne but have no action"
+        if(DEBUG_PRINT)
+          puts "uses throne but have no action"
+        end
       end
     end
 
@@ -1256,7 +1343,6 @@ class GokoLogParser
     if(@featureMode == MODE_ACTION_SPY && pCard.name == "Spy")
       @featureMode = MODE_ACTION_SPY_ACTIVE
     end
-    puts @throneStack
   end
 
   def generateCurrentPlayerHandStringNoAction()

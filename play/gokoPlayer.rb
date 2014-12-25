@@ -5,6 +5,7 @@ require "open3"
 class GokoPlayer
 
   DEBUGMODE = false
+  DEBUG_PRINT = false
 
   BOT_NAME = "I am BOT"
   PLAY_PROGRAM = "./a.out play"
@@ -458,7 +459,7 @@ class GokoPlayer
 
   def generateThroneString()
 
-    if(@throneStack.include?(14) || (@currentAction - card.action) >= 1)
+    if(@throneStack.include?(14) || @currentAction >= 1)
       active = 1
     else
       active = 0
@@ -496,7 +497,6 @@ class GokoPlayer
       r = GokoRapper.new
       r.pointUpperButton
       GokoPlayer.new.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
-      puts "called self.parse"
     else
       r = GokoRapper.new
       r.pointUpperButton
@@ -835,14 +835,12 @@ end
         playerName = line[0..line.index(" - starting cards:") - 1]
       end
       if(playerName != nil && line.include?(playerName + " - draws ") &&  !line.include?(playerName + " - draws and discards"))
-        puts line
         lineStr = line[0..line.index("draws") + 5]
         while(drawlog[drawline].include?("#"))
           drawline = drawline + 1
         end
         drawlog[drawline].split(":").each{|str|
           if(str.include?("."))
-            puts str
             if(str[0...str.index(".")] == "throneRoom")
                 lineStr = lineStr + "Throne Room" + ", "
             elsif(str[0...str.index(".")] == "councilRoom")
@@ -863,7 +861,6 @@ end
     if(drawlog.size > 2 && drawlog[-1].include?("reveal") && !drawlog[-1].include?("back"))
       drawlog[-1].split(":").each{|str|
         if(str.include?("."))
-          puts str
           if(str[str.index("reveal")+7...str.index(".")] == "throneRoom")
             @lastRevealCard = @cardData.getCard("Throne Room") 
           elsif(str[str.index("reveal")+7...str.index(".")] == "councilRoom")
@@ -872,14 +869,11 @@ end
             @lastRevealCard = @cardData.getCard(str[str.index("reveal")+7...str.index(".")].capitalize) 
           end
         end
-        puts @lastRevealCard.name
       }
       if(drawlog[-2].include?("reveal")&& !drawlog[-2].include?("back"))
         @doubleReveal = true
       end
     end
-
-    puts resultlog
     resultlog
   end
 
@@ -907,8 +901,6 @@ end
             drawflag = false
             while drawCnt != 5 do
               rLineCnt = rLineCnt - 1
-              puts log[rLineCnt]
-              puts rLineCnt
               if(log[rLineCnt].include?("draws"))
                 drawCnt = drawCnt + 1 + log[rLineCnt].count(",")
                 drawflag = true
@@ -922,9 +914,6 @@ end
                 break
               end
               if(!log[rLineCnt].include?("draws") && !log[rLineCnt].include?("shuffles"))
-                puts rLineCnt
-                puts lineCnt
-                puts resultlog
 
                 rLineCnt = rLineCnt + 1
                 drawflag = true
@@ -948,8 +937,6 @@ end
       lineCnt = lineCnt + 1
       resultlog << line
     }
-
-    puts resultlog
 
     resultlog
   end
@@ -1071,8 +1058,10 @@ end
       @playerDiscard[@currentPlayer][card.num] = @playerDiscard[@currentPlayer][card.num] + 1
       @supplyCnt[card.num] = @supplyCnt[card.num] - 1
 
-      puts "#{@playerName[@currentPlayer]} buy #{card.name}"
-      
+      if(DEBUG_PRINT)
+        puts "#{@playerName[@currentPlayer]} buy #{card.name}"
+      end
+
     }
   end
 
@@ -1092,7 +1081,9 @@ end
       @playerHand[currentPlayer][i] = 0
     end
 
-    puts "cleanup"
+    if(DEBUG_PRINT)
+      puts "cleanup"
+    end
   end
 
   def moveDeckIntoDiscards(data)
@@ -1105,8 +1096,9 @@ end
       @playerDiscard[currentPlayer][i] = @playerDeck[currentPlayer][i] + @playerDiscard[currentPlayer][i]
       @playerDeck[currentPlayer][i] = 0
     end
-    
-    puts "doooon"
+    if(DEBUG_PRINT)
+      puts "doooon"
+    end
   end
 
   def reshuffle(data)
@@ -1115,7 +1107,9 @@ end
   
   
     if(@lastPlay != nil && @lastPlay.name == "Adventurer" && @currentPhase == PHASE_ACTION)
-        puts "adventurer bug shuffle"
+        if(DEBUG_PRINT)
+          puts "adventurer bug shuffle"
+        end
         return
     end
   
@@ -1133,7 +1127,9 @@ end
       @playerDiscard[currentPlayer][i] = 0
     end
     
-    puts "reshuffle"
+    if(DEBUG_PRINT)
+      puts "reshuffle"
+    end
   end
 
   def parseMoveCardInHand(data)
@@ -1206,12 +1202,13 @@ end
       }
     elsif(@lastPlay.name == "Adventurer")
       data[data.index("reveals") + 8..-2].split(", ").each{|card|
-        puts card
         currentCard = @cardData.getCard(card)
         
         if(@playerDeck[currentPlayer][currentCard.num] == 0)
-            puts "actual reshuffle is here"
-            
+            if(DEBUG_PRINT)
+              puts "actual reshuffle is here"
+            end
+
             for i in 1 ... MAX_CARDNUM do
                 @playerDeck[currentPlayer][i] = @playerDiscard[currentPlayer][i]
                 @playerDiscard[currentPlayer][i] = 0
@@ -1261,8 +1258,10 @@ end
 
       currentCard = @cardData.getCard(card)
       
-      puts "#{@playerName[currentPlayer]} discards #{currentCard.name}"
-      
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} discards #{currentCard.name}"
+      end
+
       if(@lastPlay.name == "Thief")
         @reveal[currentPlayer].each{|rCard|
           if(rCard.num == currentCard.num)
@@ -1299,18 +1298,15 @@ end
       return
     end
 
-    puts data
-
     data[data.index("draws") + 6..-2].split(", ").each{|card|
 
       currentCard = @cardData.getCard(card)
       
-      puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} drawes #{currentCard.name}"
+      end
 
       @currentHand.push(currentCard.num)
-
-      puts @currentHand
-
       @playerDeck[currentPlayer][currentCard.num] = @playerDeck[currentPlayer][currentCard.num] - 1
       @playerHand[currentPlayer][currentCard.num] = @playerHand[currentPlayer][currentCard.num] + 1
 
@@ -1330,10 +1326,14 @@ end
       
       if(@lastPlay.name == "Moneylender" && currentCard.name == "Copper")
         @currentCoin = @currentCoin + 3
-        puts "Moneylender generates 3coins"
+        if(DEBUG_PRINT)
+          puts "Moneylender generates 3coins"
+        end
       end
 
-      puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
+      end
 
       if(currentCard.name == "Feast")
         @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] - 1
@@ -1364,7 +1364,9 @@ end
 
     @lastBuy << gainCard
 
-    puts "#{@playerName[currentPlayer]} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
+    if(DEBUG_PRINT)
+      puts "#{@playerName[currentPlayer]} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
+    end
 
     
   end
@@ -1397,7 +1399,9 @@ end
       @playerDiscard[currentPlayer][gainCard.num] = @playerDiscard[currentPlayer][gainCard.num] + 1
       @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
     end
-    puts "#{@playerName[currentPlayer]} gains #{gainCard.name}"
+    if(DEBUG_PRINT)
+      puts "#{@playerName[currentPlayer]} gains #{gainCard.name}"
+    end
   end
 
   def parsePlayTreasure(data)
@@ -1414,15 +1418,17 @@ end
       
       currentCard = @cardData.getCard(playCard[2..-1])
 
-      puts "#{@playerName[currentPlayer]} uses #{playCard[2..-1]} num is #{playCard[0]}"
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} uses #{playCard[2..-1]} num is #{playCard[0]}"
+      end
       @currentCoin = @currentCoin + currentCard.coin * playCard[0].to_i
-      puts "gain #{currentCard.coin * playCard[0].to_i} coins"
+      if(DEBUG_PRINT)
+        puts "gain #{currentCard.coin * playCard[0].to_i} coins"
+      end
       @currentBuy = @currentBuy + currentCard.buy * playCard[0].to_i
-      puts "gain #{currentCard.buy * playCard[0].to_i} buy"
-     
-
-      puts @currentHand
-      puts currentCard.num
+      if(DEBUG_PRINT)
+        puts "gain #{currentCard.buy * playCard[0].to_i} buy"
+      end
       
       if(currentPlayer == @player)
         (playCard[0].to_i).times{
@@ -1446,7 +1452,9 @@ end
     pCard = @cardData.getCard(data[data.index("plays") + 6 .. -2])
 
     if(!pCard.isAction)
-      puts "this is treasure!"
+      if(DEBUG_PRINT)
+        puts "this is treasure!"
+      end
       parsePlayTreasure(data.gsub(pCard.name, "1 " + pCard.name))
       return
     end
@@ -1457,15 +1465,25 @@ end
       r.pointHand(getGokoHands.size, getGokoHands.index(26))
       @currentHand.delete_at(@currentHand.rindex(26))
       @currentHand.push(26)
-      puts "ほり"
-      puts @currentHand
+      if(DEBUG_PRINT || true)
+        puts "ほり　以下手札"
+        puts @currentHand
+      end
     end
 
-    puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
+    if(DEBUG_PRINT)
+      if(DEBUG_PRINT)
+        puts "#{@playerName[currentPlayer]} uses action #{data[data.index("plays") + 6 .. -2]}"
+      end
+    end
     @currentCoin = @currentCoin + pCard.coin
-    puts "gain #{pCard.coin} coins"
+    if(DEBUG_PRINT)
+      puts "gain #{pCard.coin} coins"
+    end
     @currentBuy = @currentBuy + pCard.buy
-    puts "gain #{pCard.buy} buy"
+    if(DEBUG_PRINT)
+      puts "gain #{pCard.buy} buy"
+    end
     @currentAction = @currentAction + pCard.action
     
     if(@lastPlay != nil && @lastPlay.name == "Throne Room")
@@ -1502,11 +1520,13 @@ end
     @lastPlay = pCard
 
     #この処理要らなくね？（玉座は強制使用のため）
-    if(pCard.name == "Throne Room" || false)
+    if(pCard.name == "Throne Room" || true)
 	   if(haveActionInHand() == false)
 	     @lastPlay = nil
-      puts "uses throne but have no action"
-	   end
+       if(DEBUG_PRINT)
+          puts "uses throne but have no action"
+	     end
+     end
     end
 
   end
@@ -1541,8 +1561,6 @@ end
     @playerName[plNum] = data[0..data.index("-") - 2]
 
     data[data.index(":") + 2..-2].split(", ").each{|card|
-      
-      puts card
       
       currentCard = @cardData.getCard(card)
       
