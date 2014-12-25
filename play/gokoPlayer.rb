@@ -249,6 +249,8 @@ class GokoPlayer
       if(line.index("discards") != nil && !line.include?("draws and discards"))
         parseDiscard(line)
       end
+
+      checkMinis
     }
 
     #reaction
@@ -304,6 +306,38 @@ class GokoPlayer
     #rescue => ex
       #puts ex.message
   end
+
+
+  def checkMinis()
+
+    for player in 0..1
+      @playerDeck[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "deck minus error!"
+          raise
+        end
+      }
+
+      @playerHand[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "hand minus error!"
+          raise
+        end
+      }
+      @playerDiscard[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "discard minus error!"
+          raise
+        end
+      }
+      @playerPlay[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "play minus error!" + player.to_s
+          puts @playerPlay[player]
+          raise
+        end
+      }
+    end
 
   def generateSpyString()
     resultString = generateFeatureString() + "/" + @lastRevealCard.num.to_s
@@ -1335,7 +1369,7 @@ end
         puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
       end
 
-      if(currentCard.name == "Feast")
+      if(currentCard.name == "Feast" && @lastPlay.name == "Feast")
         @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] - 1
       elsif(@lastPlay.name == "Thief")
         @reveal[currentPlayer].each{|rCard|

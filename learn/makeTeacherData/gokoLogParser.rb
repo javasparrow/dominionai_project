@@ -2,7 +2,7 @@ load(File.expand_path(__FILE__).sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'')[0...
 
 class GokoLogParser
 
-  DEBUG_PRINT = false
+  DEBUG_PRINT = true
 
   #action使用に対する特徴料にするかbuyにたい汁物にするか
   MODE_BUY = 1
@@ -335,7 +335,48 @@ class GokoLogParser
       if(line.index("discards") != nil)
         parseDiscard(line)
       end
+
+      checkMinis
     }
+  end
+
+  def checkMinis()
+
+    for player in 0..1
+      @playerDeck[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "deck minus error!"
+          raise
+        end
+      }
+
+      @playerHand[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "hand minus error!"
+          raise
+        end
+      }
+      @playerDiscard[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "discard minus error!"
+          raise
+        end
+      }
+      @playerPlay[player].each{|cardNum|
+        if(cardNum < 0)
+          puts "play minus error!" + player.to_s
+          puts @playerPlay[player]
+          raise
+        end
+      }
+    end
+
+    for i in 0...MAX_CARDNUM
+      if(@supplyCnt[i] < 0)
+        puts "supply minus error!"
+        raise
+      end
+    end
   end
 
   def verifyResult(data)
@@ -355,6 +396,7 @@ class GokoLogParser
         puts "#{card.name} correct"
       else
         puts "#{card.name} incorrect i estimate #{@playerDeck[currentPlayer][card.num] + @playerHand[currentPlayer][card.num] + @playerDiscard[currentPlayer][card.num] + @playerPlay[currentPlayer][card.num]} but it was #{num}"
+        raise
       end
     }
   end
@@ -875,7 +917,7 @@ class GokoLogParser
         puts "#{@playerName[currentPlayer]} trashes #{currentCard.name}"
       end
 
-      if(currentCard.name == "Feast")
+      if(currentCard.name == "Feast" && @lastPlay.name == "Feast")
         @playerPlay[currentPlayer][currentCard.num] = @playerPlay[currentPlayer][currentCard.num] - 1
       elsif(@lastPlay.name == "Thief")
         if(@featureMode == MODE_ACTION_THIEF_ACTIVE_2)
