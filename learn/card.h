@@ -12,6 +12,8 @@
 #include <iostream>
 #include <vector>
 
+#include "./ActionLearning/utility.h"
+
 #define CARD_MAX 32
 
 #define CARD_DUMMY 0

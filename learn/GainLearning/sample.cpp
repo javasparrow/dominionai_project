@@ -7,7 +7,7 @@
 //
 
 #include "sample.h"
-#include "card.h"
+#include "./../card.h"
 #include "utility.h"
 
 Sample::Sample(int id,string str) {

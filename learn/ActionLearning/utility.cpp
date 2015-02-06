@@ -7,7 +7,6 @@
 //
 
 #include "utility.h"
-#include "card.h"
 #include "sample.h"
 
 #include <fstream>

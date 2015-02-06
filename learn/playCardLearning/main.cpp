@@ -17,7 +17,7 @@
 
 #include "utility.h"
 #include "sample.h"
-#include "card.h"
+#include "./../card.h"
 
 #define KIND_OF_CARD 32
 
@@ -32,16 +32,20 @@ int main(int argc, const char * argv[])
     bool action2Flag = false;
     bool card2Flag = false;
     
+    if(argc <= 1 || argc >= 4) {
+        cout << endl;
+        cout << "format: ./a.out 2Flag (readFlag)" << endl;
+        cout << "2Flag : actionFlag + cardFlag  ex. 11, 12, 21, 22" << endl;
+        cout << "readFlag : r:loading Mode  or  blank" << endl;
+        exit(0);
+    }
+    
     if(argc == 2) {
         if(argv[1][0] == '2') {
             action2Flag = true;
         }
         if(argv[1][1] == '2') {
             card2Flag = true;
-        }
-        if(argv[1][0] == 'r') {
-            readFlag = true;
-            cout << "loading Mode" << endl;
         }
     }
     
@@ -71,6 +75,10 @@ int main(int argc, const char * argv[])
     
     if(!readFlag) {
         cout << "Warning!! :This mode will make new weight vector." << endl;
+        cout << "Are you OK ? (ok/no)" << endl;
+        string ans;
+        cin >> ans;
+        if(ans == "no") exit(0);
     }
     
     int dimensionOfFeature = 0;
@@ -112,22 +120,7 @@ int main(int argc, const char * argv[])
             Sample teacher(count++,buf);
             dimensionOfFeature = teacher.getDimensionOfFeature();
             teachers.push_back(teacher);
-            bool flag = false;
-            for(int i=0;i<teacher._hand.size();i++) {
-                if(teacher._hand[i] == CARD_LABORATRY) {
-                    flag = true;
-                }
-                /*
-                if(teacher._hand[i] == CARD_THRONEROOM) {
-                    flag = false;
-                    break;
-                }
-                 */
-            }
-            if(flag) {
-                teacher.show();
-                cout << getString(teacher._answerPlayCard) << endl;
-            }
+            
         }
     }
     ifs.close();

@@ -17,7 +17,7 @@
 
 #include "utility.h"
 #include "sample.h"
-#include "card.h"
+#include "./../card.h"
 
 #define KIND_OF_CARD 32
 
@@ -28,15 +28,25 @@ int main(int argc, const char * argv[])
     srand((unsigned)time(NULL));
     bool readFlag = false;
     
-    if(argc >= 2) {
+    if(argc == 2) {
         if(argv[1][0] == 'r') {
             readFlag = true;
             cout << "loading Mode" << endl;
         }
     }
+    if(argc >= 3) {
+        cout << "format: ./a.out cardid (r)" << endl;
+        cout << "r : loading Mode" << endl;
+        exit(0);
+
+    }
     
     if(!readFlag) {
         cout << "Warning!! :This mode will make new weight vector." << endl;
+        cout << "Are you OK ? (ok/no)" << endl;
+        string ans;
+        cin >> ans;
+        if(ans == "no") exit(0);
     }
     
     int dimensionOfFeature;

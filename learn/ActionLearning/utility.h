@@ -13,6 +13,7 @@
 #include <vector>
 #include <map>
 #include "sample.h"
+#include "./../card.h"
 
 using namespace std;
 

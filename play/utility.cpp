@@ -260,6 +260,7 @@ int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const v
     double maxValue = values[0];
     int index = -1;
     for(unsigned int i=0;i<values.size();i++) {
+        cout << getString(hand[i]) << ":" << values[i] << endl;
         if(values[i] >= maxValue) {
             maxValue = values[i];
             index = i;
