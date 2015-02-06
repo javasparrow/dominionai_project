@@ -1,2 +1,3 @@
-play: main.cpp utility.cpp card.cpp
-	g++ -Wall -O3 main.cpp utility.cpp card.cpp
+SCR = main.cpp utility.cpp ./../learn/card.cpp ./../learn/synthesis_utility.cpp
+play: $(SCR)
+	g++ -Wall -O3 $(SCR)

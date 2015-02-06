@@ -6,14 +6,13 @@
 //  Copyright (c) 2014年 yuki. All rights reserved.
 //
 
-#include "sample.h"
-#include "./../card.h"
-#include "utility.h"
+
 
 #include <stdio.h>
 #include <stdlib.h>
 
-
+#include "sample.h"
+#include "./../card.h"
 
 void Sample::show() {
     printf("teacherData id=%d :(",_sampleid);

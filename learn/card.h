@@ -12,7 +12,7 @@
 #include <iostream>
 #include <vector>
 
-#include "./ActionLearning/utility.h"
+#include "synthesis_utility.h"
 
 #define CARD_MAX 32
 

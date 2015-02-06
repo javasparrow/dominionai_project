@@ -12,8 +12,8 @@
 #include <iostream>
 #include <vector>
 #include <map>
+
 #include "sample.h"
-#include "./../card.h"
 
 using namespace std;
 
@@ -41,7 +41,7 @@ vector<int> removeSameElementVector(const vector<int> &v);
 //戻り値は全テストデータの正解率
 double test(const vector< vector<double> > &weight, vector<Sample> testData ,bool isOutput,int learnCardId);
 
-vector<string> SpritString(const string &src,const string &delim);
+
 
 void writeWeightVector(vector< vector<double> > weight , string filename);
 

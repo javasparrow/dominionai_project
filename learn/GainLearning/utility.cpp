@@ -159,22 +159,6 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
 }
 
 
-vector<string> SpritString(const string &src,const string &delim) {
-    string::size_type start = 0;
-    vector<string> dest;
-    while(true){
-        string::size_type end = src.find(delim, start);
-        if(end != string::npos){
-            dest.push_back(src.substr(start, end - start));
-        }
-        else{
-            dest.push_back(src.substr(start, src.length() - start));
-            break;
-        }
-        start = end + delim.length();
-    }
-    return dest;
-}
 
 
 void writeWeightVector(vector< vector<double> > weight , string filename) {

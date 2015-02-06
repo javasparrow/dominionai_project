@@ -18,6 +18,7 @@
 #include "utility.h"
 #include "sample.h"
 #include "./../card.h"
+#include "./../synthesis_utility.h"
 
 #define KIND_OF_CARD 32
 

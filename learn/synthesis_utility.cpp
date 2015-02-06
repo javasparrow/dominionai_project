@@ -6,18 +6,15 @@
 //  Copyright (c) 2014年 yuki. All rights reserved.
 //
 
+#include "synthesis_utility.h"
 
 #include <fstream>
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
 
-#include "utility.h"
-#include "./../card.h"
-
-
 using namespace std;
-
+/*
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero) {
     if(a.size() != b.size()) {
         cout << "error: size of vector don't match @innerProduct" << endl;
@@ -317,8 +314,25 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
     return (double)correct / (double)count ;
     
 }
+*/
 
-
+vector<string> SpritString(const string &src,const string &delim) {
+    string::size_type start = 0;
+    vector<string> dest;
+    while(true){
+        string::size_type end = src.find(delim, start);
+        if(end != string::npos){
+            dest.push_back(src.substr(start, end - start));
+        }
+        else{
+            dest.push_back(src.substr(start, src.length() - start));
+            break;
+        }
+        start = end + delim.length();
+    }
+    return dest;
+}
+/*
 
 void writeWeightVector(vector< vector<double> > weight , string filename) {
     ofstream ofs(filename.c_str());
@@ -412,6 +426,6 @@ void showProgress(int a,int b,string str) {
     
 }
 
-
+*/
 
 

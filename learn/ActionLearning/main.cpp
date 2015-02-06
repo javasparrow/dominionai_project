@@ -12,12 +12,11 @@
 #include <vector>
 #include <time.h>
 #include <fstream>
-
 #include <unistd.h>
 
-#include "utility.h"
 #include "sample.h"
 #include "./../card.h"
+#include "utility.h"
 
 #define KIND_OF_CARD 32
 
@@ -205,7 +204,7 @@ int main(int argc, const char * argv[])
                 militiaSample teacher(count++,buf);
                 sample = teacher;
                 dimensionOfFeature = teacher.getDimensionOfFeature();
-                teacher.show();
+                //teacher.show();
             }
             if(learningCardId == CARD_CHAPEL || learningCardId == CARD_CELLAR) {
                 cellarSample teacher(count++,buf);

@@ -42,7 +42,7 @@ vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const
 bool getIsDiscard( vector<double> weight, vector<double> feature);
 
 
-vector<string> SpritString(string src, string delim);
+
 
 void writeWeightVector(vector< vector<double> > weight , string filename);
 vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature);

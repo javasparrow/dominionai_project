@@ -15,7 +15,7 @@
 #include <ctype.h>
 
 #include "utility.h"
-#include "card.h"
+#include "./../learn/card.h"
 
 
 #define GAIN_MODE 0

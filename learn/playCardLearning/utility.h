@@ -34,7 +34,6 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
 //戻り値は全テストデータの正解率
 double test(const vector< vector<double> > &weight, vector<Sample> testData ,bool isOutput);
 
-vector<string> SpritString(const string &src,const string &delim);
 
 void writeWeightVector(vector< vector<double> > weight , string filename);
 

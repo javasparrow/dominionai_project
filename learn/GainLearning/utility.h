@@ -28,7 +28,7 @@ vector<int> getMaxValueGain(const vector< vector<double> > &weight,const vector<
 
 double test(const vector< vector<double> > &weight, vector<Sample> testData ,bool isOutput);
 
-vector<string> SpritString(const string &src,const string &delim);
+
 
 void writeWeightVector(vector< vector<double> > weight , string filename);
 

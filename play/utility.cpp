@@ -7,7 +7,8 @@
 //
 
 #include "utility.h"
-#include "card.h"
+#include "./../learn/card.h"
+#include "./../learn/synthesis_utility.h"
 
 #include <fstream>
 #include <iostream>
@@ -514,22 +515,6 @@ bool getIsDiscard( vector<double> weight, vector<double> feature) {
 }
 
 
-vector<string> SpritString(string src,string delim) {
-    string::size_type start = 0;
-    vector<string> dest;
-    while(true){
-        string::size_type end = src.find(delim, start);
-        if(end != string::npos){
-            dest.push_back(src.substr(start, end - start));
-        }
-        else{
-            dest.push_back(src.substr(start, src.length() - start));
-            break;
-        }
-        start = end + delim.length();
-    }
-    return dest;
-}
 
 
 void writeWeightVector(vector< vector<double> > weight , string filename) {
