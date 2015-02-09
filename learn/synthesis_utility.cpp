@@ -7,6 +7,7 @@
 //
 
 #include "synthesis_utility.h"
+#include "card.h"
 
 #include <fstream>
 #include <iostream>
@@ -14,7 +15,7 @@
 #include <stdlib.h>
 
 using namespace std;
-/*
+
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero) {
     if(a.size() != b.size()) {
         cout << "error: size of vector don't match @innerProduct" << endl;
@@ -37,7 +38,6 @@ void showVector(vector<double> a) {
 }
 
 vector<double> addVector(const vector<double> &a,const vector<double> &b) {
-    //cout << "addVector" << endl;
     if(a.size() != b.size()) {
         cout << "error: size of vector don't match (a= " << a.size() << ",b=" << b.size() << ")@add" << endl;
         exit(0);
@@ -47,11 +47,6 @@ vector<double> addVector(const vector<double> &a,const vector<double> &b) {
     for(int i=0;i<size;i++) {
         c[i] = a[i]+b[i];
     }
-//    if(a.size() != c.size()) {
-//        cout << "error: size of vector don't match add c" << endl;
-//        cout << a.size() << " " << c.size() << endl;
-//        exit(0);
-//    }
     return c;
 }
 
@@ -146,7 +141,7 @@ vector<int> removeSameElementVector(const vector<int> &v) {
     }
     return already;
 }
-
+/*
 double test(const vector< vector<double> > &weight, vector<Sample> testData,bool isOutput,int learnCardId) {
     
     int count = 0;
@@ -332,7 +327,7 @@ vector<string> SpritString(const string &src,const string &delim) {
     }
     return dest;
 }
-/*
+
 
 void writeWeightVector(vector< vector<double> > weight , string filename) {
     ofstream ofs(filename.c_str());
@@ -426,6 +421,23 @@ void showProgress(int a,int b,string str) {
     
 }
 
-*/
+
+void showGain(vector<int> gain) {
+    sort(gain.begin(),gain.end());
+    cout << "(";
+    int size = gain.size();
+    if(size <= 0) {
+        cout << ")" << endl;
+    } else {
+        for(int i=0;i<size;i++) {
+            cout << getString(gain[i]);
+            if(i == size-1) {
+                cout << ")" << endl;
+            } else {
+                cout << ",";
+            }
+        }
+    }
+}
 
 

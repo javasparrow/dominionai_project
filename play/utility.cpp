@@ -9,6 +9,7 @@
 #include "utility.h"
 #include "./../learn/card.h"
 #include "./../learn/synthesis_utility.h"
+#include "./../learn/GainLearning/utility.h"
 
 #include <fstream>
 #include <iostream>
@@ -17,44 +18,7 @@
 
 using namespace std;
 
-double getInnerProduct(const vector<double> &a, const vector<double> &b) {
-    if(a.size() != b.size()) {
-        cout << "error: size of vector don't match" << endl;
-        exit(0);
-    }
-    double sum = 0;
-    for(int i=0;i<a.size();i++) {
-        sum += a[i] * b[i];
-    }
-    return sum;
-}
 
-void showVector(const vector<double> &a) {
-    for(int i=0;i<a.size();i++) {
-        cout << a[i] << ",";
-    }
-    cout << endl;
-}
-
-vector<double> addVector(const vector<double> &a,const vector<double> &b) {
-    if(a.size() != b.size()) {
-        cout << "error: size of vector don't match" << endl;
-        exit(0);
-    }
-    vector<double> c;
-    for(int i=0;i<a.size();i++) {
-        c.push_back(a[i]+b[i]);
-    }
-    return c;
-}
-
-vector<double> mulVector(const vector<double> &a,double b) {
-    vector<double> c;
-    for(int i=0;i<a.size();i++) {
-        c.push_back(a[i] * b);
-    }
-    return c;
-}
 
 
 int showMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand,int ordinal) {
@@ -163,33 +127,7 @@ int showMaxValuePlayCardWithDummy(const vector< vector<double> > &weight, const 
     return maxHand;
 }
 
-int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
-    
-    vector<double> values;
-    for(unsigned int i=0;i<hand.size();i++) {
-        double value = getInnerProduct(weight[hand[i]-1],feature);
-        values.push_back(value);
-    }
-    
-    if (values.size() <= 0) return 0;
-    
-    double maxValue = values[0];
-    int index = -1;
-    for(unsigned int i=0;i<values.size();i++) {
-        if(values[i] >= maxValue) {
-            maxValue = values[i];
-            index = i;
-        }
-    }
-    if(index == -1) {
-        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
-        exit(0);
-    }
-    
-    if(maxValue < 0) return 0;
-    
-    return hand[index];
-}
+
 
 int getMaxValuePlayCardWithDummy(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
     
@@ -248,33 +186,7 @@ int getMaxValueMustPlayCard(const vector< vector<double> > &weight, const vector
     return hand[index];
 }
 
-int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
-    
-    vector<double> values;
-    for(unsigned int i=0;i<hand.size();i++) {
-        double value = getInnerProduct(weight[hand[i]-1],feature);
-        values.push_back(value);
-    }
-    
-    if (values.size() <= 0) return 0;
-    
-    double maxValue = values[0];
-    int index = -1;
-    for(unsigned int i=0;i<values.size();i++) {
-        cout << getString(hand[i]) << ":" << values[i] << endl;
-        if(values[i] >= maxValue) {
-            maxValue = values[i];
-            index = i;
-        }
-    }
-    if(index == -1) {
-        cout << "error: selected index = -1 @getMaxValuePlayCardWithMinus" << endl;
-        exit(0);
-    }
-    
-    
-    return hand[index];
-}
+
 
 
 vector<int> getTrashCardsByChapel(const vector< vector<double> > &_weight, const vector<double> &_feature, vector<int> &_hand) {
@@ -516,69 +428,6 @@ bool getIsDiscard( vector<double> weight, vector<double> feature) {
 
 
 
-
-void writeWeightVector(vector< vector<double> > weight , string filename) {
-    ofstream ofs(filename);
-    for(int i=0;i<weight.size();i++) {
-        for(int j=0;j<weight[i].size();j++) {
-            if(j == weight[i].size()-1)  {
-                ofs << weight[i][j] << endl;
-            } else {
-                ofs << weight[i][j] << ",";
-            }
-        }
-    }
-    ofs.close();
-}
-
-vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature) {
-    vector< vector<double> > weight;
-    ifstream ifs(weightfile);
-    if(!ifs) {
-        cout << "error: not found weightFile" << endl;
-        exit(0);
-    }
-    string buf;
-    while(ifs && getline(ifs,buf)) {
-        vector<string> output = SpritString(buf,",");
-        vector<double> tmpVector;
-        for(int i=0;i<output.size();i++) {
-            double val = atof(output[i].c_str());
-            tmpVector.push_back(val);
-        }
-        weight.push_back(tmpVector);
-    }
-    
-    if(weight.size() != nWeight) {
-        cout << "error: the number of weightVectors don't match" << endl;
-        exit(0);
-    }
-    if(weight[0].size() != dimensionOfFeature) {
-        cout << "error: the number of dimension don't match" << endl;
-        exit(0);
-    }
-    
-    return weight;
-}
-
-
-vector<int> getRandVec(int n) {
-    vector<int> v;
-    
-    for(int i=0;i<n;i++) {
-        v.push_back(i);
-    }
-    
-    for(int i=0;i<n*10;i++) {
-        int f1 = rand()%n;
-        int f2 = rand()%n;
-        int a = v[f1];
-        v[f1] = v[f2];
-        v[f2] = a;
-    }
-    
-    return v;
-}
 
 void showOutVector(vector<int> a) {
     if(a.size() <= 0) {

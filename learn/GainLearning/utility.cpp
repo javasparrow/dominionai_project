@@ -17,59 +17,6 @@
 
 using namespace std;
 
-double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero) {
-    if(a.size() != b.size()) {
-        cout << "error: size of vector don't match innerProduct" << endl;
-        exit(0);
-    }
-    double sum = 0;
-    int size = notZero.size();
-    for(int i=0;i<size;i++) {
-        sum += a[notZero[i]] * b[notZero[i]];
-    }
-    return sum;
-}
-
-void showVector(vector<double> a) {
-    for(int i=0;i<a.size();i++) {
-        cout << a[i] << ",";
-    }
-    cout << endl;
-}
-
-vector<double> addVector(const vector<double> &a,const vector<double> &b) {
-    //cout << "addVector" << endl;
-    if(a.size() != b.size()) {
-        cout << "error: size of vector don't match add" << endl;
-        exit(0);
-    }
-    const int size = a.size();
-    vector<double> c(size);
-    for(int i=0;i<size;i++) {
-        c[i] = a[i]+b[i];
-    }
-//    if(a.size() != c.size()) {
-//        cout << "error: size of vector don't match add c" << endl;
-//        cout << a.size() << " " << c.size() << endl;
-//        exit(0);
-//    }
-    return c;
-}
-
-vector<double> mulVector(const vector<double> &a,double b) {
-    
-    const int size = a.size();
-    vector<double> c(size);
-    for(int i=0;i<size;i++) {
-        c[i] = a[i] * b;
-    }
-//    if(a.size() != c.size()) {
-//        cout << "error: size of vector don't match mul c" << endl;
-//        cout << a.size() << " " << c.size() << endl;
-//        exit(0);
-//    }
-    return c;
-}
 
 
 vector<int> getMaxValueGain(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> supply,int coin,int buy) {
@@ -161,100 +108,6 @@ double test(const vector< vector<double> > &weight, vector<Sample> testData,bool
 
 
 
-void writeWeightVector(vector< vector<double> > weight , string filename) {
-    ofstream ofs(filename);
-    for(int i=0;i<weight.size();i++) {
-        for(int j=0;j<weight[i].size();j++) {
-            if(j == weight[i].size()-1)  {
-                ofs << weight[i][j] << endl;
-            } else {
-                ofs << weight[i][j] << ",";
-            }
-        }
-    }
-    ofs.close();
-}
-
-vector< vector<double> > readWeightVector(string filename) {
-    vector< vector<double> > weight;
-    ifstream ifs(filename);
-    string buf;
-    while(ifs && getline(ifs,buf)) {
-        vector<double> tmp;
-        vector<string> out = SpritString(buf,",");
-        for(int i=0;i<out.size();i++) {
-            double val = atof(out[i].c_str());
-            tmp.push_back(val);
-        }
-        weight.push_back(tmp);
-    }
-    return weight;
-}
-
-void writeRound(int round ,string filename) {
-    ofstream ofs(filename);
-    ofs << round << endl;
-    ofs.close();
-}
-
-void writeRate(double rate,string filename) {
-    ofstream ofs(filename);
-    ofs << rate << endl;
-    ofs.close();
-}
-
-int readRound(string filename) {
-    int round = 0;
-    ifstream ifs(filename);
-    string buf;
-    while(ifs && getline(ifs,buf)) {
-        round = atoi(buf.c_str());
-    }
-    return round;
-}
-
-
-vector<int> getRandVec(int n) {
-    vector<int> v;
-    
-    for(int i=0;i<n;i++) {
-        v.push_back(i);
-    }
-    
-    for(int i=0;i<n*10;i++) {
-        int f1 = rand()%n;
-        int f2 = rand()%n;
-        int a = v[f1];
-        v[f1] = v[f2];
-        v[f2] = a;
-    }
-    
-    return v;
-}
-
-
-void showProgress(int a,int b,string str) {
-    
-    double progress = (double)a / (double) b * 100;
-    int d = (int)(progress/2);
-    string para;
-    for(int i=0;i<50;i++) {
-        if(i == d) {
-            para += ">";
-        } else {
-            para += ".";
-        }
-    }
-    fprintf(stderr,"%s:%s\r",str.c_str(),para.c_str());
-    //fprintf(stderr,"%3.0f / 100\r",progress);
-    if(a>=b) {
-        fprintf(stderr,"                                                     \r");
-    }
-    
-}
-
-
-
 
 vector<int> getMaxValueGainFromSample(const vector< vector<double> > &weight, Sample teacher) {
     
@@ -296,3 +149,56 @@ vector<int> getMaxValueGainFromSample(const vector< vector<double> > &weight, Sa
     
     return maxGain;
 }
+
+
+vector< vector<int> >getGainList(int coin,int buy,vector<int>supply) {
+    vector< vector<int> > gainList;
+    vector<int> pass;
+    pass.push_back(CARD_DUMMY);
+    gainList.push_back(pass);
+    vector<int> tmp;
+    
+    for(int j=1;j<=buy;j++) {
+        int size = supply.size();
+        for(int i=0;i<size;i++) {
+            if(supply[i] <= 0) continue;
+            int cardid = i+1;
+            if(getCost(cardid) == 0) continue;
+            if(getCost(cardid) <= coin) {
+                supply[i]--;
+                makeList(coin - getCost(cardid),j - 1,cardid,tmp,&gainList,supply);
+                supply[i]++;
+            }
+        }
+    }
+    return gainList;
+}
+
+void makeList(int coin,int buy,int id,vector<int>tmp,vector< vector<int> >*gainlist,vector<int>supply) {
+    tmp.push_back(id);
+    if(buy <= 0 ) {
+        gainlist->push_back(tmp);
+        return;
+    }
+    int sSize = supply.size();
+    for(int i=0;i<sSize;i++) {
+        if(supply[i] <= 0) continue;
+        int cardid = i+1;
+        if(getCost(cardid) == 0) continue;
+        if(getCost(cardid) <= coin) {
+            supply[i]--;
+            makeList(coin - getCost(cardid),buy - 1,cardid,tmp,gainlist,supply);
+            supply[i]++;
+        }
+    }
+}
+
+void showGainList(vector< vector<int> >gainList) {
+    int size = gainList.size();
+    for(int i=0;i<size;i++) {
+        showGain(gainList[i]);
+    }
+    cout << "組み合わせ：" << gainList.size() << "通り" << endl;
+}
+
+

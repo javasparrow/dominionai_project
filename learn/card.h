@@ -6,8 +6,9 @@
 //  Copyright (c) 2014年 yuki. All rights reserved.
 //
 
-#ifndef __parseptron__card__
-#define __parseptron__card__
+
+
+#pragma once
 
 #include <iostream>
 #include <vector>
@@ -61,13 +62,8 @@ string getString(int id);
 string getEnglishString(int id);
 int getIdFromEnglishString(string str);
 
-vector< vector<int> > getGainList(int coin,int buy,vector<int>supply);
 
-void makeList(int coin,int buy,int id,vector<int>tmp,vector< vector<int> >*gainlist,vector<int>supply);
-
-void showGainList(vector< vector<int> > gainList);
-void showGain(vector<int>gain);
 
 bool isEqualGain(vector<int> a,vector<int> b);
 
-#endif /* defined(__parseptron__card__) */
+
