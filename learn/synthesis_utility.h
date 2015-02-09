@@ -24,6 +24,7 @@ vector<string> SpritString(const string &src,const string &delim);
 #pragma mark - vector
 
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero);
+double getInnerProduct(const vector<double> &a,const vector<double> &b);
 vector<double> addVector(const vector<double> &a,const vector<double> &b);
 vector<double> mulVector(const vector<double> &a,double b);
 void showVector(vector<double> a);
@@ -32,8 +33,10 @@ void showVector(vector<double> a);
 //評価値が最大のカードIDを取得
 //ただし、手札のカード評価値が全てマイナスの場合は０（アクションをうたない）を返す
 int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand);
+int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
 //手札が全てマイナスでも最大の者を返す
 int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand);
+int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand);
 
 #pragma mark - getIsDiscardPile
 //内積が正ならtrue,負ならfalse 　宰相とか

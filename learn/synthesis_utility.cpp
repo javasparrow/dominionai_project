@@ -18,7 +18,7 @@ using namespace std;
 
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero) {
     if(a.size() != b.size()) {
-        cout << "error: size of vector don't match @innerProduct" << endl;
+        cout << "error: size of vector don't match @getInnerProduct" << endl;
         cout << "a:" << a.size() << " b:" << b.size() << endl;
         exit(0);
     }
@@ -26,6 +26,20 @@ double getInnerProduct(const vector<double> &a,const vector<double> &b,const vec
     int size = notZero.size();
     for(int i=0;i<size;i++) {
         sum += a[notZero[i]] * b[notZero[i]];
+    }
+    return sum;
+}
+
+double getInnerProduct(const vector<double> &a,const vector<double> &b) {
+    if(a.size() != b.size()) {
+        cout << "error: size of vector don't match @getInnerProduct" << endl;
+        cout << "a:" << a.size() << " b:" << b.size() << endl;
+        exit(0);
+    }
+    double sum = 0;
+   
+    for(int i=0;i<a.size();i++) {
+        sum += a[i] * b[i];
     }
     return sum;
 }
@@ -89,6 +103,16 @@ int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<dou
     return hand[index];
 }
 
+int getMaxValuePlayCard(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+    
+    vector<int> notZero;
+    for(unsigned int i=0;i<feature.size();i++) {
+        notZero.push_back(i);
+    }
+    
+    return getMaxValuePlayCard(weight,feature,notZero,hand);
+}
+
 int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature,const vector<int> &notZero, vector<int> &hand) {
     if(hand.size() <= 0) return 0;
     
@@ -111,6 +135,16 @@ int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const v
         exit(0);
     }
     return hand[index];
+}
+
+int getMaxValuePlayCardWithMinus(const vector< vector<double> > &weight, const vector<double> &feature, vector<int> &hand) {
+   
+    vector<int> notZero;
+    for(unsigned int i=0;i<feature.size();i++) {
+        notZero.push_back(i);
+    }
+    
+    return getMaxValuePlayCardWithMinus(weight,feature,notZero,hand);
 }
 
 bool getIsDiscardPile(const vector<double> &weight, const vector<double> &feature,const vector<int> &notZero) {
