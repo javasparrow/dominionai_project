@@ -393,6 +393,21 @@ vector< vector<double> > readWeightVector(string filename) {
     return weight;
 }
 
+vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature) {
+    vector< vector<double> > weight = readWeightVector(weightfile);
+    
+    if(weight.size() != nWeight) {
+        cout << "error: the number of weightVectors don't match" << endl;
+        exit(0);
+    }
+    if(weight[0].size() != dimensionOfFeature) {
+        cout << "error: the number of dimension don't match" << endl;
+        exit(0);
+    }
+    
+    return weight;
+}
+
 void writeRound(int round ,string filename) {
     ofstream ofs(filename.c_str());
     ofs << round << endl;

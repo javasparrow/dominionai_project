@@ -52,6 +52,7 @@ vector<int> removeSameElementVector(const vector<int> &v);
 void writeWeightVector(vector< vector<double> > weight , string filename);
 
 vector< vector<double> > readWeightVector(string filename);
+vector< vector<double> > readWeightVector(string weightfile,int nWeight,int dimensionOfFeature);
 
 int readRound(string filename);
 
