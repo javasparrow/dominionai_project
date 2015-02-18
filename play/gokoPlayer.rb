@@ -311,6 +311,11 @@ class GokoPlayer
   def checkMinis()
 
     for player in 0..1
+
+      if(player != @player) 
+        next
+      end
+
       @playerDeck[player].each{|cardNum|
         if(cardNum < 0)
           puts "deck minus error!"
@@ -338,6 +343,7 @@ class GokoPlayer
         end
       }
     end
+  end
 
   def generateSpyString()
     resultString = generateFeatureString() + "/" + @lastRevealCard.num.to_s
@@ -1610,5 +1616,4 @@ end
       @supplyExist[supCard.num] = 1
     }
   end
-
 end
