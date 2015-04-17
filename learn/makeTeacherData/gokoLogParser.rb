@@ -132,6 +132,7 @@ class GokoLogParser
     @trashHistoryString[1] = ""
 
     @finalScore = Array.new(2)
+    @firstPlayer = nil
 
     #add pass text to log
     log = addPass(rawlog)
@@ -251,7 +252,7 @@ class GokoLogParser
             @gainHistoryString[@currentPlayer] = @gainHistoryString[@currentPlayer][0...-1]
           end
           @gainHistoryString[@currentPlayer] << "/"
-          
+
         if(haveActionInHand() && @currentAction >= 1)
           generatePlayActionData(nil)
         end
@@ -282,6 +283,11 @@ class GokoLogParser
         elsif
           puts "error!"
         end
+
+        if(@firstPlayer == nil)
+          @firstPlayer = @currentPlayer
+        end
+
         @currentTurn = @currentTurn + 1
         if(DEBUG_PRINT)
           puts("Turn#{@currentTurn / 2}")
@@ -544,6 +550,8 @@ class GokoLogParser
     result << @finalScore[0]
     result << "\n"
     result << @finalScore[1]
+    result << "\n"
+    result << @firstPlayer.to_s
 
     @output.write(result)
   end
