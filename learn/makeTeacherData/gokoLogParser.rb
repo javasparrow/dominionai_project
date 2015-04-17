@@ -241,6 +241,17 @@ class GokoLogParser
 
       if(line.index("pass") !=  nil)
         cleanup(nil)
+
+        #UpdateHistory
+          if(@trashHistoryString[@currentPlayer][-1] == ",")
+            @trashHistoryString[@currentPlayer] = @trashHistoryString[@currentPlayer][0...-1]
+          end
+          @trashHistoryString[@currentPlayer] << "/"
+          if(@gainHistoryString[@currentPlayer][-1] == ",")
+            @gainHistoryString[@currentPlayer] = @gainHistoryString[@currentPlayer][0...-1]
+          end
+          @gainHistoryString[@currentPlayer] << "/"
+          
         if(haveActionInHand() && @currentAction >= 1)
           generatePlayActionData(nil)
         end
