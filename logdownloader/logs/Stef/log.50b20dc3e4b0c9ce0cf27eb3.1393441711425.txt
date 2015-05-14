@@ -1,0 +1,559 @@
+------------ Game Setup ------------
+Supply cards: University, Pirate Ship, Remodel, Salvager, Sea Hag, Silk Road, City, Festival, Treasury, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nnn - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+nnn - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 4 Copper
+nnn - buys Sea Hag
+nnn - gains Sea Hag
+nnn - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - shuffles deck
+nnn - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Estate, Estate
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 4 Copper
+nnn - buys Potion
+nnn - gains Potion
+nnn - draws Estate, Copper, Sea Hag, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Estate, Copper, Copper, Copper, Sea Hag
+ 
+---------- nnn: turn 4 ----------
+nnn - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+nnn - draws Silver, Copper
+nnn - shuffles deck
+nnn - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Copper
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper
+ 
+---------- nnn: turn 5 ----------
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Salvager
+nnn - gains Salvager
+nnn - draws Curse, Copper, Potion, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Estate, Copper, Sea Hag, Copper, Copper
+ 
+---------- nnn: turn 6 ----------
+nnn - plays 2 Copper, 1 Potion
+nnn - buys University
+nnn - gains University
+nnn - draws Estate, Copper, Sea Hag
+nnn - shuffles deck
+nnn - draws Potion, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Silver, Estate, Sea Hag
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Sea Hag
+Stef - shuffles deck
+Stef - discards Sea Hag
+Stef - gains Curse
+nnn - draws Curse, Copper, Copper, Silver, University
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Copper, Copper, Silver, Treasury
+ 
+---------- nnn: turn 8 ----------
+nnn - plays University
+nnn - gains Treasury
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Curse, Copper, Estate, Copper, Salvager
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Curse, Copper, Estate
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Salvager
+nnn - trashes Estate
+nnn - plays 2 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Curse
+nnn - shuffles deck
+nnn - draws Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper
+Stef - shuffles deck
+Stef - draws Silver, Silver, Silver
+ 
+---------- nnn: turn 10 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Silver, Silver, Estate, Sea Hag, Treasury
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays 3 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Silver, Curse, Salvager, Treasury
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Treasury
+nnn - draws Copper
+nnn - plays Sea Hag
+Stef - discards Sea Hag
+Stef - gains Curse
+nnn - plays 2 Silver, 1 Copper
+nnn - buys Goons
+nnn - gains Goons
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Copper, Potion, Silver, Curse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Estate, Copper, Copper
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Treasury
+nnn - draws Copper
+nnn - plays 2 Copper, 1 Potion, 1 Silver
+nnn - buys University
+nnn - gains University
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Copper, University, Salvager, Curse
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys City
+Stef - gains City
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Curse, Copper, Estate
+ 
+---------- nnn: turn 13 ----------
+nnn - plays University
+nnn - gains City
+nnn - plays Treasury
+nnn - shuffles deck
+nnn - draws City
+nnn - plays City
+nnn - draws Silver
+nnn - plays Salvager
+nnn - trashes Curse
+nnn - plays 1 Copper, 1 Silver
+nnn - buys Salvager
+nnn - gains Salvager
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Treasury
+Stef - draws Sea Hag
+Stef - plays Treasury
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 2 Copper
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, City, Silver, Silver
+ 
+---------- nnn: turn 14 ----------
+nnn - plays Treasury
+nnn - draws Curse
+nnn - plays 3 Copper, 1 Silver
+nnn - buys City
+nnn - gains City
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Estate, Copper, Silver, Sea Hag
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Treasury
+Stef - draws City
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays City
+Stef - draws Salvager
+Stef - plays City
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys City
+Stef - gains City
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, City, Curse, Estate
+ 
+---------- nnn: turn 15 ----------
+nnn - plays Treasury
+nnn - draws Curse
+nnn - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+nnn - plays 1 Copper, 1 Silver
+nnn - buys Salvager
+nnn - gains Salvager
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Curse, Goons, Silver, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays City
+Stef - draws Sea Hag
+Stef - plays Sea Hag
+nnn - discards University
+nnn - gains Curse
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Silver, Estate, Copper
+ 
+---------- nnn: turn 16 ----------
+nnn - plays Treasury
+nnn - draws Curse
+nnn - plays Goons
+Stef - discards Estate
+Stef - discards Copper
+nnn - plays 1 Silver, 1 Copper
+nnn - buys City
+nnn - receives 1 victory point chips
+nnn - gains City
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Potion, Estate
+nnn - shuffles deck
+nnn - draws Silver, Sea Hag
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - shuffles deck
+Stef - draws Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Copper, Estate, Salvager
+ 
+---------- nnn: turn 17 ----------
+nnn - plays Treasury
+nnn - draws Silver
+nnn - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+nnn - plays 2 Silver, 1 Potion
+nnn - buys City
+nnn - gains City
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Salvager, Silver, Estate, University
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays Salvager
+Stef - trashes Curse
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Sea Hag, Copper, City
+ 
+---------- nnn: turn 18 ----------
+nnn - plays Treasury
+nnn - draws Curse
+nnn - plays University
+nnn - gains Treasury
+nnn - plays Salvager
+nnn - trashes Curse
+nnn - plays Silver
+nnn - buys Silver
+nnn - gains Silver
+nnn - places Treasury on top of deck
+nnn - draws Treasury, Copper, City, Salvager, City
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws City, Sea Hag
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws Copper, Silver
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Goons
+Stef - gains Goons
+Stef - buys Goons
+Stef - gains Goons
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Estate, Salvager, City
+ 
+---------- nnn: turn 19 ----------
+nnn - plays City
+nnn - draws Copper, University
+nnn - plays City
+nnn - draws Copper, Curse
+nnn - plays University
+nnn - gains Treasury
+nnn - plays Treasury
+nnn - draws Goons
+nnn - plays Goons
+Stef - discards Estate
+Stef - discards Treasury
+nnn - plays Salvager
+nnn - trashes Curse
+nnn - plays 3 Copper
+nnn - buys Goons
+nnn - receives 1 victory point chips
+nnn - gains Goons
+nnn - buys Estate
+nnn - receives 1 victory point chips
+nnn - gains Estate
+nnn - draws Silver, Curse, City, Copper, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Copper, Salvager
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Curse, Copper, Sea Hag, City, City
+ 
+---------- nnn: turn 20 ----------
+nnn - plays City
+nnn - draws Salvager, Curse
+nnn - plays Salvager
+nnn - trashes Curse
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Treasury
+nnn - gains Treasury
+nnn - draws Copper, Copper
+nnn - shuffles deck
+nnn - draws Silver, City, Treasury
+ 
+---------- Stef: turn 20 ----------
+Stef - plays City
+Stef - draws Goons, Silver
+Stef - plays City
+Stef - draws Copper, Silver
+Stef - plays Goons
+nnn - discards Copper
+nnn - discards Copper
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Silk Road
+Stef - receives 1 victory point chips
+Stef - gains Silk Road
+Stef - buys Silk Road
+Stef - receives 1 victory point chips
+Stef - gains Silk Road
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Curse, Copper, Silver, Copper, Estate
+ 
+---------- nnn: turn 21 ----------
+nnn - plays City
+nnn - draws University, Silver
+nnn - plays Treasury
+nnn - draws Salvager
+nnn - plays University
+nnn - gains Festival
+nnn - plays Salvager
+nnn - trashes Silver
+nnn - plays Silver
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Silver, Sea Hag, University, Copper, Estate
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Sea Hag, Goons, Treasury, Curse, City
+ 
+---------- nnn: turn 22 ----------
+nnn - plays University
+nnn - gains Festival
+nnn - plays 1 Silver, 1 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws City, Salvager, Potion, Goons, Estate
+ 
+---------- Stef: turn 22 ----------
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays City
+Stef - draws Estate, City
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Estate, Silver
+Stef - plays Goons
+nnn - discards Potion
+nnn - discards Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - draws Salvager, Silver, Copper, Sea Hag, City
+ 
+---------- nnn: turn 23 ----------
+nnn - plays City
+nnn - draws Silver, Salvager
+nnn - plays Goons
+Stef - discards Copper
+Stef - discards Silver
+nnn - plays Salvager
+nnn - trashes Salvager
+nnn - plays Silver
+nnn - buys Province
+nnn - receives 1 victory point chips
+nnn - gains Province
+nnn - buys Copper
+nnn - receives 1 victory point chips
+nnn - gains Copper
+nnn - buys Copper
+nnn - receives 1 victory point chips
+nnn - gains Copper
+nnn - buys Copper
+nnn - receives 1 victory point chips
+nnn - gains Copper
+nnn - draws Estate, City, Copper, Copper, Treasury
+ 
+---------- Stef: turn 23 ----------
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - draws Copper, Silk Road
+Stef - plays Salvager
+Stef - trashes Sea Hag
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Silk Road, Silk Road, City, Copper, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 6 City, 2 Treasury, 2 Goons, 2 Salvager, 1 Sea Hag, 7 Copper, 3 Silver, 9 Estate, 5 Silk Road, 3 Curse
+Stef - victory point chips: 9
+Stef - total victory points: 30
+Stef - turns: 23
+ 
+nnn - cards: 4 City, 4 Treasury, 2 Festival, 2 University, 2 Salvager, 2 Goons, 10 Copper, 1 Sea Hag, 5 Silver, 1 Potion, 3 Estate, 1 Duchy, 1 Province, 1 Curse
+nnn - victory point chips: 7
+nnn - total victory points: 18
+nnn - turns: 23
+ 
+1st place: Stef
+2nd place: nnn
+ 

@@ -1,0 +1,484 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Stonemason, Lookout, Scheme, Moneylender, Trader, Apprentice, Catacombs, Soothsayer, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+terminalCopper - shuffles deck
+Stef - draws Hovel, Copper, Copper, Necropolis, Copper
+terminalCopper - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Moneylender
+terminalCopper - gains Moneylender
+terminalCopper - draws Copper, Copper, Hovel, Necropolis, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Lookout
+terminalCopper - gains Lookout
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Hovel, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Copper, Lookout, Moneylender, Necropolis, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Scheme
+terminalCopper - gains Scheme
+terminalCopper - draws Moneylender, Lookout
+terminalCopper - shuffles deck
+terminalCopper - draws Overgrown Estate, Copper, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Overgrown Estate
+Stef - draws Copper
+Stef - discards Hovel
+Stef - places Copper on top of deck
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper, Copper, Copper, Copper, Scheme
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Lookout
+terminalCopper - trashes Copper
+terminalCopper - discards Copper
+terminalCopper - places Silver on top of deck
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - buys Scheme
+terminalCopper - gains Scheme
+terminalCopper - draws Silver, Copper, Copper, Scheme, Hovel
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Catacombs, Necropolis, Moneylender, Lookout
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Scheme
+terminalCopper - draws Copper
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Catacombs
+terminalCopper - gains Catacombs
+terminalCopper - Scheme choice: Scheme
+terminalCopper - draws Scheme, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Lookout, Catacombs
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Hovel
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Necropolis
+Stef - plays Catacombs
+Stef - looks at Copper, Copper, Copper
+Stef - places cards in hand:  Copper, Copper, Copper
+Stef - plays Scheme
+Stef - draws Soothsayer
+Stef - plays Soothsayer
+Stef - gains Gold
+terminalCopper - gains Curse
+terminalCopper - draws Moneylender
+Stef - plays 3 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - Scheme choice: Lookout
+Stef - draws Lookout, Copper, Copper
+Stef - shuffles deck
+Stef - draws Necropolis, Catacombs
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Lookout
+terminalCopper - trashes Hovel
+terminalCopper - discards Copper
+terminalCopper - places Silver on top of deck
+terminalCopper - plays Scheme
+terminalCopper - draws Silver
+terminalCopper - plays Catacombs
+terminalCopper - looks at Necropolis, Copper, Overgrown Estate
+terminalCopper - places cards in hand:  Necropolis, Copper, Overgrown Estate
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Apprentice
+terminalCopper - gains Apprentice
+terminalCopper - Scheme choice: Lookout
+terminalCopper - draws Lookout, Copper, Scheme
+terminalCopper - shuffles deck
+terminalCopper - draws Catacombs, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Necropolis
+Stef - plays Catacombs
+Stef - looks at Crossroads, Gold, Copper
+Stef - discards: Crossroads, Gold, Copper
+Stef - draws Scheme, Soothsayer, Moneylender
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - Scheme choice: Necropolis
+Stef - draws Necropolis
+Stef - shuffles deck
+Stef - draws Copper, Moneylender, Gold, Copper
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Lookout
+terminalCopper - trashes Curse
+terminalCopper - discards Copper
+terminalCopper - places Apprentice on top of deck
+terminalCopper - plays Scheme
+terminalCopper - draws Apprentice
+terminalCopper - plays Apprentice
+terminalCopper - trashes Copper
+terminalCopper - plays Catacombs
+terminalCopper - looks at Necropolis, Silver, Copper
+terminalCopper - discards: Necropolis, Silver, Copper
+terminalCopper - draws Moneylender, Copper, Overgrown Estate
+terminalCopper - plays 2 Copper
+terminalCopper - buys Crossroads
+terminalCopper - gains Crossroads
+terminalCopper - Scheme choice: Catacombs
+terminalCopper - draws Catacombs, Scheme
+terminalCopper - shuffles deck
+terminalCopper - draws Necropolis, Copper, Crossroads
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains Catacombs
+Stef - gains Apprentice
+Stef - gains Stonemason
+Stef - draws Catacombs, Lookout, Copper, Scheme, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Scheme
+terminalCopper - draws Copper
+terminalCopper - plays Necropolis
+terminalCopper - plays Catacombs
+terminalCopper - looks at Apprentice, Lookout, Scheme
+terminalCopper - places cards in hand:  Apprentice, Lookout, Scheme
+terminalCopper - plays Lookout
+terminalCopper - trashes Overgrown Estate
+terminalCopper - draws Copper
+terminalCopper - discards Copper
+terminalCopper - places Silver on top of deck
+terminalCopper - plays Scheme
+terminalCopper - draws Silver
+terminalCopper - plays Apprentice
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Scheme
+terminalCopper - gains Scheme
+terminalCopper - Scheme choice: Catacombs
+terminalCopper - Scheme choice: Necropolis
+terminalCopper - draws Necropolis, Catacombs, Moneylender
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Scheme
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Lookout
+Stef - trashes Catacombs
+Stef - gains Scheme
+Stef - discards Soothsayer
+Stef - places Crossroads on top of deck
+Stef - plays Scheme
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Catacombs, Copper, Copper
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Scheme, Gold, Catacombs
+Stef - places cards in hand:  Scheme, Gold, Catacombs
+Stef - plays Catacombs
+Stef - looks at Moneylender, Stonemason, Necropolis
+Stef - discards: Moneylender, Stonemason, Necropolis
+Stef - draws Soothsayer, Apprentice, Copper
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Moneylender
+Stef - plays Apprentice
+Stef - trashes Moneylender
+Stef - draws Stonemason, Necropolis
+Stef - plays Necropolis
+Stef - plays Soothsayer
+Stef - gains Gold
+terminalCopper - gains Curse
+terminalCopper - draws Copper
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Crossroads
+Stef - shuffles deck
+Stef - draws Stonemason, Lookout, Apprentice
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Scheme
+terminalCopper - draws Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Copper
+terminalCopper - plays Necropolis
+terminalCopper - plays Catacombs
+terminalCopper - looks at Apprentice, Crossroads, Scheme
+terminalCopper - places cards in hand:  Apprentice, Crossroads, Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Lookout
+terminalCopper - plays Apprentice
+terminalCopper - trashes Lookout
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Curse
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Stonemason
+terminalCopper - overpays for Stonemason with 5 coins
+terminalCopper - gains Soothsayer
+terminalCopper - gains Apprentice
+terminalCopper - gains Stonemason
+terminalCopper - Scheme choice: Apprentice
+terminalCopper - Scheme choice: Catacombs
+terminalCopper - Scheme choice: Necropolis
+terminalCopper - draws Necropolis, Catacombs, Apprentice
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Soothsayer
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Catacombs, Stonemason, Lookout, Apprentice
+Stef - plays Catacombs
+Stef - looks at Apprentice, Catacombs, Scheme
+Stef - places cards in hand:  Apprentice, Catacombs, Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Soothsayer
+Stef - plays Catacombs
+Stef - looks at Gold, Gold, Copper
+Stef - discards: Gold, Gold, Copper
+Stef - draws Copper, Necropolis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Necropolis
+Stef - plays Soothsayer
+Stef - gains Gold
+terminalCopper - gains Curse
+terminalCopper - draws Stonemason
+Stef - plays Apprentice
+Stef - trashes Lookout
+Stef - draws Gold, Gold
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Crossroads
+Stef - shuffles deck
+Stef - draws Stonemason, Gold, Province
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Necropolis
+terminalCopper - plays Catacombs
+terminalCopper - looks at Copper, Crossroads, Scheme
+terminalCopper - places cards in hand:  Copper, Crossroads, Scheme
+terminalCopper - plays Crossroads
+terminalCopper - reveals hand: Apprentice, Copper, Soothsayer, Stonemason, Copper, Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Moneylender
+terminalCopper - plays Apprentice
+terminalCopper - trashes Stonemason
+terminalCopper - draws Curse, Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Apprentice
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays Apprentice
+terminalCopper - trashes Curse
+terminalCopper - plays Soothsayer
+terminalCopper - gains Gold
+Stef - gains Curse
+Stef - draws Catacombs
+terminalCopper - plays 1 Copper
+terminalCopper - buys Scheme
+terminalCopper - gains Scheme
+terminalCopper - Scheme choice: Catacombs
+terminalCopper - Scheme choice: Crossroads
+terminalCopper - Scheme choice: Soothsayer
+terminalCopper - draws Soothsayer, Crossroads, Catacombs, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Catacombs, Stonemason, Gold, Province, Catacombs
+Stef - draws Necropolis
+Stef - plays Catacombs
+Stef - looks at Gold, Gold, Apprentice
+Stef - discards: Gold, Gold, Apprentice
+Stef - draws Soothsayer, Scheme, Apprentice
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Apprentice
+Stef - plays Necropolis
+Stef - plays Catacombs
+Stef - looks at Gold, Curse, Gold
+Stef - places cards in hand:  Gold, Curse, Gold
+Stef - plays Apprentice
+Stef - trashes Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+terminalCopper - gains Curse
+terminalCopper - draws Scheme
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Crossroads
+Stef - shuffles deck
+Stef - draws Apprentice, Gold, Catacombs
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Scheme
+terminalCopper - draws Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Scheme
+terminalCopper - plays Scheme
+terminalCopper - draws Apprentice
+terminalCopper - plays Crossroads
+terminalCopper - reveals hand: Soothsayer, Catacombs, Silver, Copper, Apprentice
+terminalCopper - plays Catacombs
+terminalCopper - looks at Curse, Moneylender, Apprentice
+terminalCopper - places cards in hand:  Curse, Moneylender, Apprentice
+terminalCopper - plays Apprentice
+terminalCopper - trashes Moneylender
+terminalCopper - draws Gold, Scheme, Necropolis
+terminalCopper - shuffles deck
+terminalCopper - draws Curse
+terminalCopper - plays Apprentice
+terminalCopper - trashes Curse
+terminalCopper - plays Scheme
+terminalCopper - plays Soothsayer
+terminalCopper - gains Gold
+Stef - gains Curse
+Stef - draws Gold
+terminalCopper - plays 1 Silver, 1 Copper, 1 Gold
+terminalCopper - buys Altar
+terminalCopper - gains Altar
+terminalCopper - Scheme choice: Apprentice
+terminalCopper - Scheme choice: Soothsayer
+terminalCopper - Scheme choice: Crossroads
+terminalCopper - Scheme choice: Catacombs
+terminalCopper - draws Catacombs, Crossroads, Soothsayer, Apprentice
+terminalCopper - shuffles deck
+terminalCopper - draws Necropolis
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws Apprentice, Scheme, Province, Gold, Scheme, Province
+Stef - plays Crossroads
+Stef - reveals hand: Catacombs, Gold, Catacombs, Apprentice, Scheme, Province, Gold, Scheme, Province
+Stef - draws Stonemason, Necropolis
+Stef - plays Scheme
+Stef - draws Soothsayer
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Soothsayer
+Stef - gains Gold
+terminalCopper - gains Curse
+terminalCopper - draws Apprentice
+Stef - plays Necropolis
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Gold, Curse
+Stef - places cards in hand:  Gold, Curse
+Stef - plays Apprentice
+Stef - trashes Curse
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Scheme
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Crossroads
+Stef - shuffles deck
+Stef - draws Gold, Gold, Scheme
+ 
+---------- terminalCopper: turn 13 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 3 Scheme, 2 Catacombs, 2 Apprentice, 1 Crossroads, 1 Soothsayer, 1 Stonemason, 1 Necropolis, 3 Gold, 3 Province, 1 Duchy
+Stef - total victory points: 21
+Stef - turns: 12
+ 
+terminalCopper - resigned
+terminalCopper - cards: 4 Scheme, 2 Apprentice, 1 Catacombs, 1 Crossroads, 1 Soothsayer, 1 Necropolis, 1 Altar, 2 Gold, 1 Silver, 1 Copper, 2 Curse
+terminalCopper - total victory points: -2
+terminalCopper - turns: 12
+ 
+1st place: Stef
+2nd place: terminalCopper
+ 

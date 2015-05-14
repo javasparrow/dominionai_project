@@ -1,0 +1,417 @@
+------------ Game Setup ------------
+Supply cards: Haven, Chancellor, Menagerie, Scheme, Baron, Bridge, Throne Room, Mountebank, Rebuild, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dawn_harbor - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dawn_harbor - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+dawn_harbor - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- dawn_harbor: turn 1 ----------
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Silver
+dawn_harbor - gains Silver
+dawn_harbor - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dawn_harbor: turn 2 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Bridge
+dawn_harbor - gains Bridge
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Estate, Bridge, Estate, Silver, Copper
+ 
+---------- dawn_harbor: turn 3 ----------
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Haven
+dawn_harbor - gains Haven
+dawn_harbor - draws Copper, Copper, Copper, Copper, Bridge
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Bridge
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate
+ 
+---------- dawn_harbor: turn 4 ----------
+dawn_harbor - plays Bridge
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Mountebank
+dawn_harbor - gains Mountebank
+dawn_harbor - buys Haven
+dawn_harbor - gains Haven
+dawn_harbor - draws Silver, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Mountebank, Haven
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Mountebank, Copper, Copper, Copper, Scheme
+ 
+---------- dawn_harbor: turn 5 ----------
+dawn_harbor - plays Haven
+dawn_harbor - draws Copper
+dawn_harbor - sets aside Silver
+dawn_harbor - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Mountebank
+dawn_harbor - gains Mountebank
+dawn_harbor - draws Haven, Copper, Bridge, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Mountebank
+dawn_harbor - gains Curse
+dawn_harbor - gains Copper
+Stef - plays 3 Copper
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, Bridge, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- dawn_harbor: turn 6 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Silver in hand
+dawn_harbor - plays Haven
+dawn_harbor - draws Copper
+dawn_harbor - sets aside Copper
+dawn_harbor - plays Bridge
+dawn_harbor - plays 2 Copper, 1 Silver
+dawn_harbor - buys Trading Post
+dawn_harbor - gains Trading Post
+dawn_harbor - buys Haven
+dawn_harbor - gains Haven
+dawn_harbor - draws Estate, Copper, Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Haven, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Bridge
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Rebuild, Copper, Copper, Estate
+ 
+---------- dawn_harbor: turn 7 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Copper in hand
+dawn_harbor - plays Haven
+dawn_harbor - draws Silver
+dawn_harbor - sets aside Estate
+dawn_harbor - plays 3 Copper, 1 Silver
+dawn_harbor - buys Rebuild
+dawn_harbor - gains Rebuild
+dawn_harbor - draws Curse, Copper, Estate, Copper, Mountebank
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Mountebank, Copper, Scheme, Estate
+Stef - discards: Mountebank, Copper, Scheme
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Rebuild
+Stef - draws Rebuild, Copper, Estate, Curse
+Stef - shuffles deck
+Stef - draws Scheme
+ 
+---------- dawn_harbor: turn 8 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Estate in hand
+dawn_harbor - plays Mountebank
+Stef - discards Curse
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Throne Room
+dawn_harbor - gains Throne Room
+dawn_harbor - draws Copper, Bridge, Copper, Mountebank, Trading Post
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - reveals Copper, Silver, Scheme, Copper, Scheme, Copper, Estate
+Stef - discards: Copper, Silver, Scheme, Copper, Scheme, Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Scheme
+Stef - draws Rebuild
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Copper, Copper, Duchy
+Stef - discards: Copper, Copper, Copper
+Stef - trashes Duchy
+Stef - gains Province
+Stef - Scheme choice: Rebuild
+Stef - draws Rebuild, Bridge, Mountebank, Scheme, Copper
+ 
+---------- dawn_harbor: turn 9 ----------
+dawn_harbor - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Scheme
+dawn_harbor - gains Scheme
+dawn_harbor - draws Copper, Haven
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Mountebank, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Copper, Rebuild, Copper, Copper, Scheme, Duchy
+Stef - discards: Copper, Copper, Rebuild, Copper, Copper, Scheme
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Mountebank
+dawn_harbor - gains Curse
+dawn_harbor - gains Copper
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - Scheme choice: Mountebank
+Stef - Scheme choice: Rebuild
+Stef - draws Rebuild, Mountebank, Curse, Province, Curse
+ 
+---------- dawn_harbor: turn 10 ----------
+dawn_harbor - plays Haven
+dawn_harbor - draws Copper
+dawn_harbor - sets aside Estate
+dawn_harbor - plays Mountebank
+Stef - discards Curse
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Duchy
+dawn_harbor - gains Duchy
+dawn_harbor - draws Haven, Silver, Rebuild, Haven, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Mountebank
+dawn_harbor - gains Curse
+dawn_harbor - gains Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Copper, Silver, Scheme
+ 
+---------- dawn_harbor: turn 11 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Estate in hand
+dawn_harbor - plays Haven
+dawn_harbor - draws Bridge
+dawn_harbor - sets aside Estate
+dawn_harbor - plays Rebuild
+dawn_harbor - names Duchy
+dawn_harbor - reveals Copper, Copper, Throne Room, Curse, Scheme, Estate
+dawn_harbor - discards: Copper, Copper, Throne Room, Curse, Scheme
+dawn_harbor - trashes Estate
+dawn_harbor - gains Duchy
+dawn_harbor - plays Haven
+dawn_harbor - draws Copper
+dawn_harbor - sets aside Estate
+dawn_harbor - plays Bridge
+dawn_harbor - plays 1 Silver, 1 Copper
+dawn_harbor - buys Rebuild
+dawn_harbor - gains Rebuild
+dawn_harbor - draws Copper, Copper, Trading Post, Mountebank
+dawn_harbor - shuffles deck
+dawn_harbor - draws Rebuild
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Duchy, Province, Copper
+ 
+---------- dawn_harbor: turn 12 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Estate in hand
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Estate in hand
+dawn_harbor - plays Rebuild
+dawn_harbor - names Province
+dawn_harbor - reveals Copper, Curse, Throne Room, Copper, Copper, Duchy
+dawn_harbor - discards: Copper, Curse, Throne Room, Copper, Copper
+dawn_harbor - trashes Duchy
+dawn_harbor - gains Province
+dawn_harbor - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Throne Room
+dawn_harbor - gains Throne Room
+dawn_harbor - draws Copper, Haven, Copper, Bridge, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Rebuild
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Copper, Mountebank, Curse, Haven, Copper, Scheme, Province, Estate
+Stef - discards: Copper, Copper, Mountebank, Curse, Haven, Copper, Scheme, Province
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - Scheme choice: Rebuild
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Rebuild, Copper, Bridge, Scheme
+ 
+---------- dawn_harbor: turn 13 ----------
+dawn_harbor - plays Haven
+dawn_harbor - draws Copper
+dawn_harbor - sets aside Copper
+dawn_harbor - plays Bridge
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Duchy
+dawn_harbor - gains Duchy
+dawn_harbor - draws Mountebank, Curse, Rebuild, Silver, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Scheme
+Stef - draws Rebuild
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Curse
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Duchy
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Curse, Mountebank, Copper, Copper, Copper, Haven, Copper, Province, Duchy
+Stef - discards: Curse, Mountebank, Copper, Copper, Copper, Haven, Copper, Province
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Bridge
+Stef - plays 1 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - Scheme choice: Rebuild
+Stef - Scheme choice: Rebuild
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Rebuild, Rebuild, Copper, Copper
+ 
+---------- dawn_harbor: turn 14 ----------
+dawn_harbor - duration Haven
+dawn_harbor - places set aside Copper in hand
+dawn_harbor - plays Rebuild
+dawn_harbor - names Province
+dawn_harbor - shuffles deck
+dawn_harbor - reveals Curse, Copper, Scheme, Bridge, Province, Curse, Copper, Throne Room, Trading Post, Estate
+dawn_harbor - discards: Curse, Copper, Scheme, Bridge, Province, Curse, Copper, Throne Room, Trading Post
+dawn_harbor - trashes Estate
+dawn_harbor - gains Estate
+dawn_harbor - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dawn_harbor - plays 1 Silver, 1 Copper
+dawn_harbor - buys Rebuild
+dawn_harbor - gains Rebuild
+dawn_harbor - draws Haven, Haven, Rebuild, Copper, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Duchy
+Stef - discards Copper
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Rebuild
+Stef - names Copper
+Stef - reveals Curse, Province
+Stef - discards Curse
+Stef - trashes Province
+Stef - gains Province
+Stef - plays Scheme
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - Scheme choice: Rebuild
+Stef - draws Rebuild, Scheme, Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- dawn_harbor: turn 15 ----------
+dawn_harbor - plays Rebuild
+dawn_harbor - names Province
+dawn_harbor - reveals Copper, Copper, Copper, Duchy
+dawn_harbor - discards: Copper, Copper, Copper
+dawn_harbor - trashes Duchy
+dawn_harbor - gains Province
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Estate
+dawn_harbor - gains Estate
+dawn_harbor - draws Throne Room, Copper, Copper, Mountebank, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 4 Scheme, 2 Rebuild, 2 Haven, 11 Copper, 1 Menagerie, 1 Bridge, 1 Mountebank, 1 Silver, 5 Province, 1 Estate, 4 Curse
+Stef - total victory points: 27
+Stef - turns: 15
+ 
+dawn_harbor - cards: 3 Rebuild, 3 Haven, 2 Throne Room, 2 Mountebank, 10 Copper, 1 Scheme, 1 Bridge, 1 Trading Post, 1 Silver, 3 Estate, 2 Province, 1 Duchy, 3 Curse
+dawn_harbor - total victory points: 15
+dawn_harbor - turns: 15
+ 
+1st place: Stef
+2nd place: dawn_harbor
+ 

@@ -1,0 +1,364 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Forager, Swindler, Death Cart, JackOfAllTrades, Silk Road, Throne Room, Contraband, Duke, Inn, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+shark_bait - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys JackOfAllTrades
+Stef - gains JackOfAllTrades
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Forager
+shark_bait - gains Forager
+shark_bait - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Estate, Copper, Forager, Copper, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys JackOfAllTrades
+shark_bait - gains JackOfAllTrades
+shark_bait - shuffles deck
+shark_bait - draws Copper, JackOfAllTrades, Copper, Forager, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, JackOfAllTrades, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Forager
+shark_bait - trashes Copper
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Estate
+shark_bait - trashes Estate
+shark_bait - plays 4 Copper
+shark_bait - buys JackOfAllTrades
+shark_bait - gains JackOfAllTrades
+shark_bait - draws Copper, Copper, Estate
+shark_bait - shuffles deck
+shark_bait - draws Silver, JackOfAllTrades
+ 
+---------- Stef: turn 4 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Silver, Forager, Copper, Copper, Forager
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Estate
+shark_bait - trashes Estate
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Inn
+shark_bait - gains Inn
+shark_bait - places Inn on top of deck
+shark_bait - shuffles deck
+shark_bait - draws JackOfAllTrades, Copper, Forager, Inn, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys JackOfAllTrades
+Stef - gains JackOfAllTrades
+Stef - draws Forager, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Inn
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver
+shark_bait - discards Copper
+shark_bait - discards Copper
+shark_bait - plays Forager
+shark_bait - trashes Copper
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Silver
+shark_bait - trashes Estate
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Forager
+shark_bait - gains Forager
+shark_bait - buys Forager
+shark_bait - gains Forager
+shark_bait - draws JackOfAllTrades
+shark_bait - shuffles deck
+shark_bait - draws Copper, Forager, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws JackOfAllTrades, Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Forager
+shark_bait - trashes Copper
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - places Copper on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Death Cart
+shark_bait - gains Death Cart
+shark_bait - gains Ruined Village
+shark_bait - gains Ruined Market
+shark_bait - draws Copper, Silver, Silver, Inn, JackOfAllTrades
+ 
+---------- Stef: turn 7 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Forager on top of deck
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Forager, JackOfAllTrades, Forager, Forager
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Inn
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper
+shark_bait - discards Copper
+shark_bait - discards Copper
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Forager
+shark_bait - trashes Forager
+shark_bait - plays Copper
+shark_bait - plays 3 Silver
+shark_bait - buys Embargo
+shark_bait - gains Embargo
+shark_bait - draws Silver, Ruined Market, Forager, Copper, Ruined Village
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Inn
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Inn, Silver, Silver
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Forager
+shark_bait - trashes Copper
+shark_bait - plays 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Death Cart, JackOfAllTrades
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Inn
+Stef - draws Forager, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places JackOfAllTrades, Inn, Forager on top of deck
+Stef - shuffles deck
+Stef - draws Forager, Inn, JackOfAllTrades
+Stef - shuffles deck
+Stef - draws Copper, Silver
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - places Silver on top of deck
+shark_bait - plays Silver
+shark_bait - plays Silver
+shark_bait - plays Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Embargo, Copper, Inn, Copper, Ruined Village
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Inn
+Stef - draws Inn, Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Silver
+Stef - plays Inn
+Stef - draws Forager, Copper
+Stef - discards Forager
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - shuffles deck
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver
+Stef - shuffles deck
+Stef - draws Duchy, Inn, JackOfAllTrades
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Inn
+shark_bait - draws JackOfAllTrades, Silver
+shark_bait - discards Copper
+shark_bait - discards Copper
+shark_bait - plays Ruined Village
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Ruined Market
+shark_bait - trashes Forager
+shark_bait - plays Forager
+shark_bait - trashes Copper
+shark_bait - plays Embargo
+shark_bait - embargoes Death Cart
+shark_bait - trashes Embargo
+shark_bait - plays 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Inn, Duchy, Forager, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Inn
+Stef - draws Inn, Forager
+Stef - discards Duchy
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Silver on top of deck
+Stef - plays Inn
+Stef - draws JackOfAllTrades, Duchy
+Stef - discards Duchy
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Forager
+Stef - shuffles deck
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Duchy, Silver
+Stef - shuffles deck
+Stef - draws Duchy, Forager
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Inn
+shark_bait - draws Duchy, Ruined Market
+shark_bait - discards Duchy
+shark_bait - discards Duchy
+shark_bait - plays Forager
+shark_bait - trashes Ruined Market
+shark_bait - plays 1 Silver, 1 Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Copper, Silver, JackOfAllTrades, Silver, Death Cart
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Forager
+Stef - trashes Duchy
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws JackOfAllTrades, Forager, Inn, Duchy, Duchy
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays JackOfAllTrades
+shark_bait - gains Silver
+shark_bait - discards Silver
+shark_bait - plays 3 Silver, 1 Copper
+shark_bait - buys Inn
+shark_bait - gains Inn
+shark_bait - places Inn, Forager on top of deck
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Inn, Forager, Ruined Village
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Inn, JackOfAllTrades
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - plays Inn
+Stef - draws Silver, Forager
+Stef - discards Silver
+Stef - discards Forager
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Silver
+Stef - shuffles deck
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Duchy
+Stef - plays 3 Silver
+ 
+------------ Game Over ------------
+Stef - cards: 1 Forager, 3 Silver, 4 Duchy
+Stef - total victory points: 12
+Stef - turns: 12
+ 
+shark_bait - resigned
+shark_bait - cards: 2 Inn, 2 JackOfAllTrades, 1 Forager, 1 Ruined Village, 1 Death Cart, 9 Silver, 2 Copper, 3 Duchy
+shark_bait - total victory points: 9
+shark_bait - turns: 12
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

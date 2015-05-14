@@ -1,0 +1,592 @@
+------------ Game Setup ------------
+Supply cards: Fishing Village, Sage, Fortress, Ironmonger, Moneylender, Rats, Smithy, Jester, Mystic, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+fap_on_it - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Hovel, Necropolis
+fap_on_it - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Moneylender
+fap_on_it - gains Moneylender
+fap_on_it - draws Copper, Copper, Overgrown Estate, Necropolis, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Jester, Copper
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Sage
+fap_on_it - gains Sage
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Moneylender, Copper, Hovel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Jester
+fap_on_it - reveals Copper
+fap_on_it - discards Copper
+fap_on_it - gains Copper
+Stef - plays 3 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays Moneylender
+fap_on_it - trashes Copper
+fap_on_it - plays 2 Copper
+fap_on_it - buys Jester
+fap_on_it - gains Jester
+fap_on_it - draws Copper, Sage, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Hovel
+Stef - shuffles deck
+Stef - draws Jester, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays Sage
+fap_on_it - shuffles deck
+fap_on_it - reveals Overgrown Estate, Hovel, Jester
+fap_on_it - places Jester in hand
+fap_on_it - discards: Overgrown Estate, Hovel
+fap_on_it - plays Jester
+Stef - reveals Overgrown Estate
+Stef - discards Overgrown Estate
+Stef - gains Curse
+fap_on_it - plays 3 Copper
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Copper, Copper, Copper, Moneylender, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Jester
+fap_on_it - shuffles deck
+fap_on_it - reveals Overgrown Estate
+fap_on_it - discards Overgrown Estate
+fap_on_it - gains Curse
+Stef - plays 3 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Necropolis, Copper, Copper, Copper, Ironmonger
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays Moneylender
+fap_on_it - trashes Copper
+fap_on_it - plays 3 Copper
+fap_on_it - buys Jester
+fap_on_it - gains Jester
+fap_on_it - draws Sage, Copper, Copper, Fishing Village, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Moneylender
+Stef - places Moneylender on top of deck
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Moneylender
+Stef - shuffles deck
+Stef - draws Necropolis, Overgrown Estate, Jester, Ironmonger
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays Sage
+fap_on_it - reveals Hovel, Necropolis, Jester
+fap_on_it - places Jester in hand
+fap_on_it - discards: Hovel, Necropolis
+fap_on_it - plays Fishing Village
+fap_on_it - plays Jester
+Stef - reveals Smithy
+Stef - discards Smithy
+fap_on_it - gains Smithy
+fap_on_it - plays 3 Copper
+fap_on_it - buys Jester
+fap_on_it - gains Jester
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Curse, Copper, Smithy
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Necropolis
+Stef - plays Jester
+fap_on_it - reveals Sage
+fap_on_it - discards Sage
+Stef - gains Sage
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Copper, Curse, Hovel, Copper, Copper
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Smithy
+fap_on_it - draws Jester, Copper, Jester
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 4 Copper
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Hovel, Copper, Necropolis, Jester, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Ironmonger, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Hovel
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 2 Copper
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Overgrown Estate, Moneylender
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Overgrown Estate
+Stef - discards Overgrown Estate
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Jester
+Stef - places Jester on top of deck
+Stef - plays 5 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Jester, Fishing Village, Jester, Curse, Smithy
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays Moneylender
+fap_on_it - trashes Copper
+fap_on_it - plays 2 Copper
+fap_on_it - buys Smithy
+fap_on_it - gains Smithy
+fap_on_it - draws Jester, Copper, Copper, Sage, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Jester
+fap_on_it - discards Jester
+Stef - gains Jester
+Stef - plays Jester
+fap_on_it - reveals Jester
+fap_on_it - discards Jester
+Stef - gains Jester
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper, Sage, Necropolis, Moneylender
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays Sage
+fap_on_it - reveals Fishing Village
+fap_on_it - places Fishing Village in hand
+fap_on_it - plays Fishing Village
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 3 Copper
+fap_on_it - buys Smithy
+fap_on_it - gains Smithy
+fap_on_it - draws Necropolis, Curse, Smithy, Fishing Village, Hovel
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Fishing Village
+Stef - plays Sage
+Stef - reveals Ironmonger
+Stef - places Ironmonger in hand
+Stef - plays Ironmonger
+Stef - draws Jester
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays Jester
+fap_on_it - reveals Fishing Village
+fap_on_it - discards Fishing Village
+Stef - gains Fishing Village
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Curse, Jester, Fortress, Hovel, Smithy
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Fishing Village
+fap_on_it - plays Smithy
+fap_on_it - shuffles deck
+fap_on_it - draws Smithy, Copper, Sage
+fap_on_it - plays Necropolis
+fap_on_it - plays Smithy
+fap_on_it - draws Jester, Copper, Jester
+fap_on_it - plays Sage
+fap_on_it - reveals Overgrown Estate, Jester
+fap_on_it - places Jester in hand
+fap_on_it - discards Overgrown Estate
+fap_on_it - plays Jester
+Stef - reveals Jester
+Stef - discards Jester
+fap_on_it - gains Jester
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 2 Copper
+fap_on_it - buys Province
+fap_on_it - trashes Hovel
+fap_on_it - gains Province
+fap_on_it - draws Copper, Moneylender, Fishing Village, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Jester
+Stef - plays Smithy
+Stef - draws Smithy, Copper, Copper
+Stef - plays Jester
+fap_on_it - reveals Smithy
+fap_on_it - discards Smithy
+Stef - gains Smithy
+Stef - plays Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Overgrown Estate, Copper, Ironmonger
+Stef - shuffles deck
+Stef - draws Sage, Copper
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Fishing Village
+fap_on_it - plays Moneylender
+fap_on_it - trashes Copper
+fap_on_it - plays 2 Copper
+fap_on_it - buys Fairgrounds
+fap_on_it - gains Fairgrounds
+fap_on_it - shuffles deck
+fap_on_it - draws Fishing Village, Smithy, Smithy, Jester, Jester
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Sage
+Stef - reveals Fishing Village
+Stef - places Fishing Village in hand
+Stef - plays Ironmonger
+Stef - draws Hovel
+Stef - reveals: Mystic
+Stef - places Mystic on top of deck
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Mystic, Smithy, Copper, Moneylender, Jester
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Fishing Village
+fap_on_it - plays Smithy
+fap_on_it - draws Copper, Necropolis, Jester
+fap_on_it - plays Necropolis
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 1 Copper
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Smithy, Curse, Copper, Moneylender, Overgrown Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Fishing Village
+Stef - plays Smithy
+Stef - draws Jester, Copper, Smithy
+Stef - plays Mystic
+Stef - names Ironmonger
+Stef - reveals Ironmonger
+Stef - places Ironmonger in hand
+Stef - plays Ironmonger
+Stef - draws Fishing Village
+Stef - reveals: Fishing Village
+Stef - places Fishing Village on top of deck
+Stef - plays Fishing Village
+Stef - plays Smithy
+Stef - draws Fishing Village, Copper, Jester
+Stef - plays Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Copper
+fap_on_it - discards Copper
+fap_on_it - gains Copper
+Stef - plays Jester
+fap_on_it - reveals Province
+fap_on_it - discards Province
+fap_on_it - gains Curse
+Stef - plays Jester
+fap_on_it - reveals Fairgrounds
+fap_on_it - discards Fairgrounds
+fap_on_it - gains Curse
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Curse, Jester, Copper, Fortress, Smithy
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Smithy
+fap_on_it - draws Sage, Fishing Village, Copper
+fap_on_it - plays Fishing Village
+fap_on_it - plays Sage
+fap_on_it - reveals Jester
+fap_on_it - places Jester in hand
+fap_on_it - plays Jester
+Stef - reveals Necropolis
+Stef - discards Necropolis
+fap_on_it - plays Moneylender
+fap_on_it - trashes Copper
+fap_on_it - plays 1 Copper
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - shuffles deck
+fap_on_it - draws Fairgrounds, Smithy, Curse, Province, Smithy
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Smithy
+Stef - shuffles deck
+Stef - draws Copper, Jester, Copper
+Stef - plays Fortress
+Stef - draws Hovel
+Stef - plays Jester
+fap_on_it - reveals Curse
+fap_on_it - discards Curse
+fap_on_it - gains Curse
+Stef - plays Jester
+fap_on_it - reveals Jester
+fap_on_it - discards Jester
+Stef - gains Jester
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Fishing Village, Sage, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Smithy
+fap_on_it - draws Smithy, Sage, Jester
+fap_on_it - plays Sage
+fap_on_it - reveals Province
+fap_on_it - places Province in hand
+fap_on_it - plays Jester
+Stef - reveals Ironmonger
+Stef - discards Ironmonger
+fap_on_it - gains Ironmonger
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Copper, Province, Necropolis, Copper, Curse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Sage
+Stef - reveals Fairgrounds
+Stef - places Fairgrounds in hand
+Stef - plays Fishing Village
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Smithy, Jester, Moneylender, Copper, Copper
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays 2 Copper
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Fishing Village, Copper, Overgrown Estate, Jester, Jester
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Copper
+fap_on_it - discards Copper
+fap_on_it - gains Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Mystic, Smithy, Ironmonger, Necropolis, Fishing Village
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - plays Fishing Village
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - plays 1 Copper
+fap_on_it - buys Fairgrounds
+fap_on_it - gains Fairgrounds
+fap_on_it - draws Moneylender, Fishing Village
+fap_on_it - shuffles deck
+fap_on_it - draws Curse, Fishing Village, Province
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Fishing Village
+Stef - plays Smithy
+Stef - draws Jester, Overgrown Estate, Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Fishing Village
+Stef - places Fishing Village on top of deck
+Stef - plays Mystic
+Stef - names Fishing Village
+Stef - reveals Fishing Village
+Stef - places Fishing Village in hand
+Stef - plays Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Smithy
+fap_on_it - discards Smithy
+Stef - gains Smithy
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Copper, Copper, Smithy, Curse, Sage
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - plays Fishing Village
+fap_on_it - plays Fishing Village
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Overgrown Estate, Copper, Fairgrounds, Necropolis, Sage
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Smithy
+Stef - draws Jester, Copper, Fishing Village
+Stef - plays Sage
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Copper
+fap_on_it - discards Copper
+fap_on_it - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Jester, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 19 ----------
+fap_on_it - duration Fishing Village
+fap_on_it - duration Fishing Village
+fap_on_it - plays Sage
+fap_on_it - reveals Curse, Province
+fap_on_it - places Province in hand
+fap_on_it - discards Curse
+fap_on_it - plays Necropolis
+fap_on_it - plays 1 Copper
+fap_on_it - buys Fishing Village
+fap_on_it - gains Fishing Village
+fap_on_it - draws Jester, Curse, Fishing Village, Jester, Ironmonger
+ 
+---------- Stef: turn 20 ----------
+Stef - duration Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Smithy
+fap_on_it - discards Smithy
+Stef - gains Smithy
+Stef - plays 4 Copper
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Copper, Fortress, Hovel, Fairgrounds, Ironmonger
+ 
+---------- fap_on_it: turn 20 ----------
+fap_on_it - plays Fishing Village
+fap_on_it - plays Ironmonger
+fap_on_it - draws Fairgrounds
+fap_on_it - reveals: Province
+fap_on_it - discards Province
+fap_on_it - draws Jester
+fap_on_it - plays Jester
+Stef - reveals Moneylender
+Stef - discards Moneylender
+Stef - gains Moneylender
+fap_on_it - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Copper, Copper, Curse, Smithy, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Ironmonger
+Stef - draws Jester
+Stef - reveals: Smithy
+Stef - places Smithy on top of deck
+Stef - plays Fortress
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Jester, Fishing Village, Fairgrounds
+Stef - plays Fishing Village
+Stef - plays Jester
+fap_on_it - reveals Estate
+fap_on_it - discards Estate
+fap_on_it - gains Curse
+Stef - plays Jester
+fap_on_it - reveals Jester
+fap_on_it - discards Jester
+Stef - gains Jester
+Stef - plays 1 Copper
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Copper, Copper, Fairgrounds
+Stef - shuffles deck
+Stef - draws Province, Ironmonger
+ 
+------------ Game Over ------------
+Stef - cards: 6 Jester, 5 Smithy, 4 Fishing Village, 2 Ironmonger, 2 Moneylender, 14 Copper, 1 Fortress, 1 Sage, 1 Mystic, 1 Necropolis, 1 Silver, 6 Fairgrounds, 1 Province, 1 Overgrown Estate, 1 Curse, 1 Hovel
+Stef - total victory points: 41
+Stef - turns: 21
+ 
+fap_on_it - cards: 6 Fishing Village, 4 Jester, 3 Smithy, 1 Moneylender, 1 Sage, 1 Necropolis, 1 Ironmonger, 6 Copper, 3 Province, 2 Fairgrounds, 1 Overgrown Estate, 1 Duchy, 1 Estate, 5 Curse
+fap_on_it - total victory points: 25
+fap_on_it - turns: 20
+ 
+1st place: Stef
+2nd place: fap_on_it
+ 

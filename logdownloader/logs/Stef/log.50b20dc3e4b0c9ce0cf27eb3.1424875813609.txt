@@ -1,0 +1,631 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Duchess, Vagrant, Develop, Ironworks, Taxman, Knights, Venture, Witch, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nnn - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+nnn - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 4 Copper
+nnn - buys Ironworks
+nnn - gains Ironworks
+nnn - shuffles deck
+nnn - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Develop, Ironworks
+ 
+---------- nnn: turn 3 ----------
+nnn - plays Copper
+nnn - plays Copper
+nnn - buys Vagrant
+nnn - gains Vagrant
+nnn - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Ironworks
+Stef - gains Witch
+Stef - gains Silver
+Stef - draws Silver, Witch, Copper, Copper, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays 4 Copper, 1 Silver
+nnn - buys Witch
+nnn - gains Witch
+nnn - draws Copper, Ironworks
+nnn - shuffles deck
+nnn - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Witch
+Stef - draws Estate, Copper
+nnn - gains Curse
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Sir Bailey
+Stef - gains Sir Bailey
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Witch, Develop, Copper
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Ironworks
+nnn - gains Silver
+nnn - plays 2 Copper
+nnn - buys Vagrant
+nnn - gains Vagrant
+nnn - draws Vagrant, Copper, Copper, Witch, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Witch
+Stef - draws Copper, Estate
+nnn - gains Curse
+Stef - plays 4 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Sir Bailey, Copper, Silver, Copper, Estate
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Vagrant
+nnn - draws Estate
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Witch
+nnn - draws Copper, Copper
+Stef - gains Curse
+nnn - plays 4 Copper, 1 Silver
+nnn - buys Dame Molly
+nnn - gains Dame Molly
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Witch, Estate, Silver, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sir Bailey
+Stef - draws Copper
+nnn - reveals: Copper, Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Dame Sylvia
+Stef - gains Dame Sylvia
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Sir Bailey, Copper, Witch
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Witch
+nnn - draws Copper, Copper
+Stef - gains Curse
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Sir Vander
+nnn - gains Sir Vander
+nnn - draws Vagrant, Curse, Vagrant, Curse, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sir Bailey
+Stef - draws Silver
+nnn - reveals: Dame Molly, Ironworks
+nnn - trashes Dame Molly
+nnn - discards Ironworks
+Stef - trashes Sir Bailey
+Stef - plays Witch
+Stef - draws Curse, Copper
+nnn - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Sir Michael
+Stef - gains Sir Michael
+Stef - draws Copper, Copper, Estate, Estate, Vagrant
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Vagrant
+nnn - draws Copper
+nnn - reveals: Silver
+nnn - places Silver on top of deck
+nnn - plays Vagrant
+nnn - draws Silver
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Dame Sylvia
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Dame Sylvia
+nnn - reveals: Witch, Estate
+nnn - trashes Witch
+nnn - discards Estate
+Stef - plays 2 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Develop, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- nnn: turn 9 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Silver, Curse, Curse, Ironworks, Vagrant
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Vagrant, Peddler, Sir Michael
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Vagrant
+nnn - draws Copper
+nnn - reveals: Peddler
+nnn - places Peddler on top of deck
+nnn - plays Ironworks
+nnn - gains Silver
+nnn - plays 1 Silver, 1 Copper
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Peddler, Vagrant, Copper, Copper, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Sir Michael
+nnn - discards Copper
+nnn - discards Copper
+nnn - reveals: Sir Vander, Curse
+nnn - trashes Sir Vander
+nnn - gains Gold
+nnn - discards Curse
+Stef - trashes Sir Michael
+Stef - plays 3 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Curse, Dame Sylvia, Silver, Witch, Curse
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Vagrant
+nnn - draws Copper
+nnn - shuffles deck
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Peddler
+nnn - draws Copper
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Witch
+nnn - gains Witch
+nnn - draws Silver, Copper, Estate, Gold, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Dame Sylvia
+nnn - reveals: Copper, Estate
+Stef - plays Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Dame Sylvia, Peddler
+ 
+---------- nnn: turn 12 ----------
+nnn - plays 2 Copper, 1 Silver, 1 Gold
+nnn - buys Dame Natalie
+nnn - gains Dame Natalie
+nnn - draws Vagrant, Peddler, Curse, Ironworks, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Dame Sylvia
+nnn - reveals: Silver, Silver
+nnn - trashes Silver
+nnn - discards Silver
+Stef - plays Copper
+Stef - buys Sir Martin
+Stef - gains Sir Martin
+Stef - draws Copper, Silver, Copper, Witch, Curse
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Vagrant
+nnn - draws Curse
+nnn - reveals: Estate
+nnn - places Estate in hand
+nnn - plays Peddler
+nnn - draws Curse
+nnn - plays Ironworks
+nnn - gains Vagrant
+nnn - plays Copper
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Copper, Gold, Copper, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Witch
+Stef - draws Vagrant, Peddler
+nnn - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Silver, Develop, Curse, Vagrant
+ 
+---------- nnn: turn 14 ----------
+nnn - plays Vagrant
+nnn - draws Vagrant
+nnn - reveals: Silver
+nnn - places Silver on top of deck
+nnn - plays 3 Copper, 1 Gold
+nnn - buys Dame Anna
+nnn - gains Dame Anna
+nnn - draws Silver, Curse, Curse, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Develop
+Stef - trashes Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Curse, Vagrant, Estate, Vagrant
+ 
+---------- nnn: turn 15 ----------
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Develop
+nnn - gains Develop
+nnn - draws Estate, Vagrant, Silver, Estate, Witch
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Sir Martin
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Sir Martin
+nnn - reveals: Dame Natalie, Copper
+nnn - trashes Dame Natalie
+nnn - discards Copper
+Stef - trashes Sir Martin
+Stef - plays Silver
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Peddler, Peddler, Copper, Silver
+ 
+---------- nnn: turn 16 ----------
+nnn - plays Vagrant
+nnn - draws Estate
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Witch
+nnn - draws Copper, Ironworks
+Stef - gains Curse
+nnn - plays 1 Silver, 1 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Curse, Peddler, Silver, Peddler, Peddler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Dame Josephine
+Stef - gains Dame Josephine
+Stef - draws Copper, Copper, Dame Sylvia, Silver, Develop
+ 
+---------- nnn: turn 17 ----------
+nnn - plays Peddler
+nnn - shuffles deck
+nnn - draws Copper
+nnn - plays Peddler
+nnn - draws Ironworks
+nnn - plays Peddler
+nnn - draws Estate
+nnn - plays Ironworks
+nnn - gains Vagrant
+nnn - plays 1 Silver, 1 Copper
+nnn - buys Sir Destry
+nnn - gains Sir Destry
+nnn - draws Develop, Gold, Vagrant, Copper, Dame Anna
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Dame Sylvia
+nnn - reveals: Vagrant, Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Witch, Estate, Silver
+Stef - shuffles deck
+Stef - draws Dame Josephine, Estate
+ 
+---------- nnn: turn 18 ----------
+nnn - plays Vagrant
+nnn - draws Copper
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Dame Anna
+nnn - trashes Copper, Copper
+Stef - reveals: Silver, Copper
+Stef - trashes Silver
+Stef - discards Copper
+nnn - plays Gold
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Witch, Curse, Copper, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Witch
+Stef - draws Copper, Copper
+nnn - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Gold, Copper, Copper, Dame Sylvia
+ 
+---------- nnn: turn 19 ----------
+nnn - plays Witch
+nnn - draws Copper, Silver
+Stef - gains Curse
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Estate, Copper, Silver, Curse, Vagrant
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Dame Sylvia
+nnn - reveals: Silver
+nnn - shuffles deck
+nnn - reveals: Silver
+nnn - trashes Silver
+nnn - discards Silver
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Vagrant, Silver, Copper, Develop
+ 
+---------- nnn: turn 20 ----------
+nnn - plays Vagrant
+nnn - draws Estate
+nnn - reveals: Ironworks
+nnn - places Ironworks on top of deck
+nnn - plays 1 Copper, 1 Silver
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Ironworks, Curse, Duchy, Peddler, Vagrant
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Vagrant
+Stef - draws Peddler
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Peddler
+Stef - draws Silver
+Stef - plays Develop
+Stef - trashes Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Peddler, Vagrant
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- nnn: turn 21 ----------
+nnn - plays Vagrant
+nnn - draws Curse
+nnn - reveals: Sir Destry
+nnn - places Sir Destry on top of deck
+nnn - plays Peddler
+nnn - draws Sir Destry
+nnn - plays Ironworks
+nnn - gains Ironworks
+nnn - plays Sir Destry
+nnn - draws Estate, Vagrant
+Stef - reveals: Silver, Silver
+Stef - trashes Silver
+Stef - discards Silver
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Develop, Copper, Curse, Witch, Peddler
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Dame Josephine
+Stef - plays Dame Josephine
+nnn - reveals: Silver, Gold
+nnn - trashes Silver
+nnn - discards Gold
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Develop, Copper, Estate, Dame Sylvia
+ 
+---------- nnn: turn 22 ----------
+nnn - plays Peddler
+nnn - draws Vagrant
+nnn - plays Vagrant
+nnn - draws Copper
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Witch
+nnn - draws Copper, Curse
+Stef - gains Curse
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Dame Anna, Peddler, Copper, Silver
+nnn - shuffles deck
+nnn - draws Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Dame Sylvia
+nnn - reveals: Ironworks, Copper
+nnn - trashes Ironworks
+nnn - discards Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Duchy, Witch, Gold, Copper
+ 
+---------- nnn: turn 23 ----------
+nnn - plays Peddler
+nnn - draws Silver
+nnn - plays Dame Anna
+nnn - trashes Copper, Copper
+Stef - reveals: Curse, Silver
+Stef - trashes Silver
+Stef - discards Curse
+nnn - plays 2 Silver
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Estate, Estate, Silver, Vagrant, Vagrant
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Witch
+Stef - draws Vagrant, Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Duchy
+ 
+---------- nnn: turn 24 ----------
+nnn - plays Vagrant
+nnn - draws Curse
+nnn - reveals: Vagrant
+nnn - places Vagrant on top of deck
+nnn - plays Vagrant
+nnn - draws Vagrant
+nnn - reveals: Estate
+nnn - places Estate in hand
+nnn - plays Vagrant
+nnn - draws Duchy
+nnn - reveals: Develop
+nnn - places Develop on top of deck
+nnn - plays 1 Silver
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Develop, Estate, Ironworks, Witch, Peddler
+ 
+---------- Stef: turn 24 ----------
+Stef - plays 4 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Curse, Silver, Vagrant, Dame Sylvia, Silver
+ 
+---------- nnn: turn 25 ----------
+nnn - plays Peddler
+nnn - draws Copper
+nnn - plays Develop
+nnn - trashes Witch
+nnn - gains Ironworks
+nnn - gains Gold
+nnn - plays Copper
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Gold, Ironworks, Curse, Curse, Peddler
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Curse
+Stef - places Curse in hand
+Stef - plays Dame Sylvia
+nnn - reveals: Peddler, Gold
+nnn - trashes Gold
+nnn - discards Peddler
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Peddler, Duchy, Vagrant, Peddler
+ 
+---------- nnn: turn 26 ----------
+nnn - plays Peddler
+nnn - draws Silver
+nnn - plays Ironworks
+nnn - gains Estate
+nnn - draws Vagrant
+nnn - plays 1 Gold, 1 Silver
+nnn - buys Gold
+nnn - gains Gold
+nnn - draws Copper, Sir Destry, Curse, Curse
+nnn - shuffles deck
+nnn - draws Curse
+ 
+---------- Stef: turn 26 ----------
+Stef - plays Peddler
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Witch
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Vagrant
+Stef - draws Dame Josephine
+Stef - reveals: Duchy
+Stef - places Duchy in hand
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Witch
+Stef - draws Silver, Develop
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Gold, Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate
+ 
+------------ Game Over ------------
+Stef - cards: 3 Vagrant, 2 Peddler, 1 Dame Josephine, 1 Develop, 1 Witch, 1 Dame Sylvia, 6 Copper, 3 Silver, 1 Gold, 6 Duchy, 4 Estate, 3 Curse
+Stef - total victory points: 21
+Stef - turns: 26
+ 
+nnn - cards: 4 Vagrant, 4 Peddler, 2 Ironworks, 1 Sir Destry, 1 Dame Anna, 1 Develop, 4 Silver, 3 Copper, 2 Gold, 7 Estate, 2 Duchy, 5 Curse
+nnn - total victory points: 8
+nnn - turns: 26
+ 
+1st place: Stef
+2nd place: nnn
+ 

@@ -1,0 +1,777 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Crossroads, Doctor, Lookout, Herald, Trader, Harvest, Stables, Possession, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - shuffles deck
+Stef - shuffles deck
+nnn - draws Estate, Copper, Copper, Estate, Copper
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 1 coin
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - gains Doctor
+Stef - draws Copper, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 4 Copper
+nnn - buys Doctor
+nnn - overpays for Doctor with 1 coin
+nnn - shuffles deck
+nnn - looks at Copper
+nnn - trashes Copper
+nnn - gains Doctor
+nnn - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Doctor, Estate, Copper, Copper
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Herald
+nnn - gains Herald
+nnn - shuffles deck
+nnn - draws Copper, Herald, Silver, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Herald, Estate
+Stef - trashes Copper
+Stef - places Estate on top of deck
+Stef - places Herald on top of deck
+Stef - plays 3 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Herald, Estate, Copper, Copper, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays Herald
+nnn - draws Copper
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Stables
+nnn - gains Stables
+nnn - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Doctor
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Candlestick Maker, Copper, Estate
+Stef - trashes Copper
+Stef - places Estate on top of deck
+Stef - places Candlestick Maker on top of deck
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Candlestick Maker, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Herald
+ 
+---------- nnn: turn 5 ----------
+nnn - plays 3 Copper
+nnn - buys Candlestick Maker
+nnn - gains Candlestick Maker
+nnn - draws Doctor
+nnn - shuffles deck
+nnn - draws Stables, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Estate, Doctor, Herald, Copper, Copper
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Stables
+nnn - discards Copper
+nnn - draws Estate, Estate, Silver
+nnn - plays Doctor
+nnn - names Copper
+nnn - reveals: Copper, Candlestick Maker, Copper
+nnn - trashes Copper, Copper
+nnn - places Candlestick Maker on top of deck
+nnn - plays 1 Copper, 1 Silver
+nnn - buys Candlestick Maker
+nnn - gains Candlestick Maker
+nnn - draws Candlestick Maker, Herald, Copper, Copper
+nnn - shuffles deck
+nnn - draws Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Estate, Herald
+Stef - trashes Copper
+Stef - places Herald on top of deck
+Stef - places Estate on top of deck
+Stef - plays 3 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Estate, Herald, Herald, Copper, Candlestick Maker
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Herald
+nnn - draws Estate
+nnn - reveals: Estate
+nnn - places Estate on top of deck
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Herald
+nnn - gains Herald
+nnn - draws Estate, Copper, Candlestick Maker, Stables, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Doctor
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Candlestick Maker, Copper
+Stef - trashes Copper, Copper
+Stef - places Candlestick Maker on top of deck
+Stef - plays Herald
+Stef - draws Candlestick Maker
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Copper, Candlestick Maker, Candlestick Maker, Copper, Doctor
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Stables
+nnn - discards Copper
+nnn - draws Doctor, Copper
+nnn - shuffles deck
+nnn - draws Silver
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Copper
+nnn - reveals: Candlestick Maker, Copper, Herald
+nnn - trashes Copper
+nnn - places Herald on top of deck
+nnn - places Candlestick Maker on top of deck
+nnn - plays 1 Copper, 1 Silver
+nnn - uses 1 coin token
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Candlestick Maker, Herald, Estate, Herald, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Estate, Peddler, Candlestick Maker
+Stef - trashes Estate
+Stef - places Candlestick Maker on top of deck
+Stef - places Peddler on top of deck
+Stef - plays 2 Copper
+Stef - uses 4 coin tokens
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Peddler, Candlestick Maker, Peddler, Herald, Herald
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Herald
+nnn - draws Copper
+nnn - shuffles deck
+nnn - reveals: Peddler
+nnn - plays Peddler
+nnn - draws Doctor
+nnn - plays Doctor
+nnn - names Estate
+nnn - reveals: Stables, Estate, Silver
+nnn - trashes Estate
+nnn - places Silver on top of deck
+nnn - places Stables on top of deck
+nnn - plays Herald
+nnn - draws Stables
+nnn - reveals: Silver
+nnn - places Silver on top of deck
+nnn - plays Stables
+nnn - discards Copper
+nnn - draws Silver, Peddler, Estate
+nnn - plays Peddler
+nnn - draws Copper
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Potion
+nnn - gains Potion
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Candlestick Maker
+nnn - shuffles deck
+nnn - draws Estate, Stables, Herald, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Doctor
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Peddler, Candlestick Maker, Candlestick Maker
+Stef - places Candlestick Maker on top of deck
+Stef - places Candlestick Maker on top of deck
+Stef - places Peddler on top of deck
+Stef - plays 2 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Peddler, Candlestick Maker, Candlestick Maker, Peddler
+Stef - shuffles deck
+Stef - draws Peddler
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Herald
+nnn - draws Doctor
+nnn - reveals: Candlestick Maker
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Stables
+nnn - discards Silver
+nnn - draws Peddler, Estate, Potion
+nnn - plays Peddler
+nnn - draws Copper
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Copper
+nnn - reveals: Copper, Peddler, Copper
+nnn - trashes Copper, Copper
+nnn - places Peddler on top of deck
+nnn - plays 1 Potion, 1 Copper
+nnn - uses 4 coin tokens
+nnn - buys Possession
+nnn - gains Possession
+nnn - buys Peddler
+nnn - gains Peddler
+nnn - draws Peddler, Peddler, Herald
+nnn - shuffles deck
+nnn - draws Stables, Doctor
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Peddler
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Potion, 1 Copper
+Stef - uses 4 coin tokens
+Stef - buys Possession
+Stef - gains Possession
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Herald, Doctor, Copper
+Stef - shuffles deck
+Stef - draws Herald, Herald
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Herald
+nnn - draws Peddler
+nnn - reveals: Potion
+nnn - places Potion on top of deck
+nnn - plays Peddler
+nnn - draws Potion
+nnn - plays Peddler
+nnn - draws Copper
+nnn - plays Stables
+nnn - discards Copper
+nnn - draws Candlestick Maker, Silver, Candlestick Maker
+nnn - plays Peddler
+nnn - draws Peddler
+nnn - plays Peddler
+nnn - draws Estate
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Estate
+nnn - reveals: Herald, Estate, Possession
+nnn - trashes Estate
+nnn - places Possession on top of deck
+nnn - places Herald on top of deck
+nnn - plays 1 Potion, 1 Silver
+nnn - uses 2 coin tokens
+nnn - buys Possession
+nnn - gains Possession
+nnn - buys Candlestick Maker
+nnn - gains Candlestick Maker
+nnn - draws Herald, Possession
+nnn - shuffles deck
+nnn - draws Peddler, Doctor, Candlestick Maker
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Peddler
+Stef - plays Peddler
+Stef - draws Possession
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Candlestick Maker
+Stef - reveals: Peddler
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Peddler
+Stef - draws Candlestick Maker
+Stef - plays Doctor
+Stef - names Candlestick Maker
+Stef - reveals: Candlestick Maker
+Stef - trashes Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Possession
+Stef - plays 2 Copper, 1 Potion
+Stef - uses 2 coin tokens
+Stef - buys Possession
+Stef - gains Possession
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Peddler, Candlestick Maker, Peddler, Peddler, Candlestick Maker
+ 
+---------- nnn: turn 12 [possessed] ----------
+nnn - plays Herald
+nnn - draws Candlestick Maker
+nnn - reveals: Candlestick Maker
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Copper
+nnn - reveals: Silver, Herald, Copper
+nnn - trashes Copper
+nnn - places Silver on top of deck
+nnn - places Herald on top of deck
+nnn - plays Peddler
+nnn - draws Herald
+nnn - plays Herald
+nnn - draws Silver
+nnn - reveals: Peddler
+nnn - plays Peddler
+nnn - draws Potion
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays 1 Silver, 1 Potion
+nnn - uses 3 coin tokens
+nnn - buys Possession
+Stef - gains Possession
+nnn - draws Peddler, Peddler, Estate, Possession, Stables
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Peddler
+nnn - shuffles deck
+nnn - draws Candlestick Maker
+nnn - plays Peddler
+nnn - draws Candlestick Maker
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Possession
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Herald, Candlestick Maker, Peddler, Silver, Herald
+ 
+---------- Stef: turn 12 [possessed] ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Herald
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Doctor
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Possession
+Stef - reveals: Possession, Herald, Peddler
+Stef - trashes Possession
+Stef - places Peddler on top of deck
+Stef - places Herald on top of deck
+Stef - plays 1 Copper, 1 Potion
+Stef - buys Possession
+nnn - gains Possession
+Stef - draws Herald, Peddler, Herald, Copper, Herald
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Possession
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Doctor
+Stef - plays Doctor
+Stef - names Potion
+Stef - reveals: Herald, Peddler, Peddler
+Stef - places Peddler on top of deck
+Stef - places Herald on top of deck
+Stef - places Peddler on top of deck
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Possession
+Stef - plays Possession
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Candlestick Maker
+Stef - plays Peddler
+Stef - draws Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper
+Stef - uses 4 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Peddler, Peddler, Potion
+Stef - shuffles deck
+Stef - draws Herald, Province
+ 
+---------- nnn: turn 13 [possessed] ----------
+nnn - plays Peddler
+nnn - draws Peddler
+nnn - plays Peddler
+nnn - draws Possession
+nnn - plays Herald
+nnn - draws Doctor
+nnn - reveals: Copper
+nnn - places Copper on top of deck
+nnn - plays Herald
+nnn - draws Copper
+nnn - reveals: Potion
+nnn - places Potion on top of deck
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Potion
+nnn - reveals: Potion
+nnn - shuffles deck
+nnn - reveals: Possession, Estate
+nnn - trashes Potion
+nnn - places Estate on top of deck
+nnn - places Possession on top of deck
+nnn - plays 1 Silver, 1 Copper
+nnn - uses 3 coin tokens
+nnn - buys Herald
+Stef - gains Herald
+nnn - buys Herald
+Stef - gains Herald
+nnn - draws Possession, Estate, Stables, Estate, Candlestick Maker
+ 
+---------- nnn: turn 13 [possessed] ----------
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - draws Possession, Peddler, Peddler, Candlestick Maker
+nnn - shuffles deck
+nnn - draws Stables
+ 
+---------- nnn: turn 13 [possessed] ----------
+nnn - plays Peddler
+nnn - draws Doctor
+nnn - plays Peddler
+nnn - draws Peddler
+nnn - plays Peddler
+nnn - draws Potion
+nnn - plays Stables
+nnn - discards Potion
+nnn - draws Herald, Possession, Candlestick Maker
+nnn - plays Herald
+nnn - draws Copper
+nnn - reveals: Silver
+nnn - places Silver on top of deck
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Doctor
+nnn - names Herald
+nnn - reveals: Silver, Peddler, Herald
+nnn - trashes Herald
+nnn - places Peddler on top of deck
+nnn - places Silver on top of deck
+nnn - plays 1 Copper
+nnn - uses 3 coin tokens
+nnn - buys Duchy
+Stef - gains Duchy
+nnn - buys Estate
+Stef - gains Estate
+nnn - draws Silver, Peddler, Possession, Candlestick Maker, Estate
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Peddler
+nnn - draws Estate
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Possession
+nnn - plays Silver
+nnn - uses 1 coin token
+nnn - buys Herald
+nnn - gains Herald
+nnn - shuffles deck
+nnn - draws Peddler, Copper, Estate, Possession, Herald
+ 
+---------- Stef: turn 13 [possessed] ----------
+Stef - plays Herald
+Stef - draws Peddler
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Candlestick Maker
+Stef - reveals: Doctor
+Stef - plays Doctor
+Stef - names Possession
+Stef - reveals: Peddler, Peddler, Estate
+Stef - places Estate on top of deck
+Stef - places Peddler on top of deck
+Stef - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Possession
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Potion, 1 Copper
+Stef - uses 1 coin token
+Stef - buys Possession
+nnn - gains Possession
+Stef - draws Herald, Possession, Copper, Possession, Peddler
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays 2 Copper
+Stef - uses 2 coin tokens
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Peddler, Province, Peddler, Possession, Herald
+ 
+---------- nnn: turn 14 [possessed] ----------
+nnn - plays Peddler
+nnn - draws Stables
+nnn - plays Herald
+nnn - draws Possession
+nnn - reveals: Candlestick Maker
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Stables
+nnn - discards Copper
+nnn - draws Estate, Peddler, Possession
+nnn - plays Peddler
+nnn - draws Doctor
+nnn - plays Doctor
+nnn - names Potion
+nnn - reveals: Herald, Herald, Peddler
+nnn - places Peddler on top of deck
+nnn - places Herald on top of deck
+nnn - places Herald on top of deck
+nnn - buys Estate
+Stef - gains Estate
+nnn - draws Herald, Herald, Peddler, Candlestick Maker, Potion
+ 
+---------- nnn: turn 14 [possessed] ----------
+nnn - plays Herald
+nnn - draws Candlestick Maker
+nnn - reveals: Peddler
+nnn - plays Peddler
+nnn - draws Silver
+nnn - plays Herald
+nnn - shuffles deck
+nnn - draws Copper
+nnn - reveals: Estate
+nnn - places Estate on top of deck
+nnn - plays Peddler
+nnn - draws Estate
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays Candlestick Maker
+nnn - receives 1 coin token
+nnn - plays 1 Potion, 1 Silver, 1 Copper
+nnn - uses 3 coin tokens
+nnn - buys Estate
+Stef - gains Estate
+nnn - buys Estate
+Stef - gains Estate
+nnn - buys Crossroads
+Stef - gains Crossroads
+nnn - draws Possession, Possession, Possession, Peddler, Candlestick Maker
+ 
+------------ Game Over ------------
+Stef - cards: 7 Herald, 6 Peddler, 3 Possession, 2 Candlestick Maker, 1 Crossroads, 1 Doctor, 2 Copper, 1 Potion, 8 Estate, 1 Province, 1 Duchy
+Stef - total victory points: 17
+Stef - turns: 13
+ 
+nnn - cards: 4 Possession, 4 Peddler, 3 Candlestick Maker, 3 Herald, 1 Doctor, 1 Stables, 1 Potion, 1 Silver, 1 Copper, 2 Estate
+nnn - total victory points: 2
+nnn - turns: 13
+ 
+1st place: Stef
+2nd place: nnn
+ 

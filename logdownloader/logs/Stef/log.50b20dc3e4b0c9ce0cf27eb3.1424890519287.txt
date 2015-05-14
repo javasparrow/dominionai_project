@@ -1,0 +1,479 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Scrying Pool, Fishing Village, Masquerade, Wishing Well, Feodum, Herald, Rats, Treasure Map, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nebel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nebel - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+nebel - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- nebel: turn 1 ----------
+nebel - plays 3 Copper
+nebel - buys Masquerade
+nebel - gains Masquerade
+nebel - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Copper, Masquerade, Estate, Copper, Copper
+ 
+---------- nebel: turn 2 ----------
+nebel - plays 4 Copper
+nebel - buys Potion
+nebel - gains Potion
+nebel - shuffles deck
+nebel - draws Copper, Copper, Copper, Masquerade, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Estate
+nebel - passes Copper
+Stef - plays 6 Copper
+Stef - buys Hoard
+Stef - gains Hoard
+Stef - draws Copper, Estate, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- nebel: turn 3 ----------
+nebel - plays Masquerade
+nebel - draws Copper, Estate
+nebel - passes Estate
+Stef - passes Estate
+nebel - trashes Estate
+nebel - plays 4 Copper
+nebel - buys Masquerade
+nebel - gains Masquerade
+nebel - draws Copper, Estate, Estate, Potion, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Masquerade, Copper, Copper, Copper, Hoard
+ 
+---------- nebel: turn 4 ----------
+nebel - plays 2 Copper, 1 Potion
+nebel - buys Scrying Pool
+nebel - gains Scrying Pool
+nebel - shuffles deck
+nebel - draws Copper, Potion, Masquerade, Copper, Masquerade
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Copper
+nebel - passes Copper
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - plays Hoard
+Stef - buys Hoard
+Stef - gains Hoard
+Stef - shuffles deck
+Stef - draws Copper, Hoard, Copper, Masquerade, Copper
+ 
+---------- nebel: turn 5 ----------
+nebel - plays Masquerade
+nebel - draws Estate, Copper
+nebel - passes Estate
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays 3 Copper, 1 Potion
+nebel - buys Scrying Pool
+nebel - gains Scrying Pool
+nebel - draws Copper, Estate, Scrying Pool, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Masquerade
+Stef - draws Hoard, Copper
+Stef - passes Estate
+nebel - passes Estate
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - plays Hoard
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- nebel: turn 6 ----------
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - discards Masquerade
+nebel - shuffles deck
+nebel - reveals Masquerade, Copper
+nebel - plays Masquerade
+nebel - draws Scrying Pool, Copper
+nebel - passes Estate
+Stef - passes Estate
+nebel - trashes Estate
+nebel - plays 4 Copper
+nebel - buys Fishing Village
+nebel - gains Fishing Village
+nebel - draws Copper, Masquerade, Copper, Potion
+nebel - shuffles deck
+nebel - draws Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - shuffles deck
+Stef - draws Masquerade, Duchy, Hoard, Copper, Copper
+ 
+---------- nebel: turn 7 ----------
+nebel - plays Masquerade
+nebel - draws Scrying Pool, Scrying Pool
+nebel - passes Estate
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays 2 Copper, 1 Potion
+nebel - buys Scrying Pool
+nebel - gains Scrying Pool
+nebel - draws Masquerade, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Masquerade
+Stef - draws Fishing Village, Copper
+Stef - passes Estate
+nebel - passes Copper
+Stef - plays 3 Copper
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Masquerade, Copper, Copper, Gold, Copper
+ 
+---------- nebel: turn 8 ----------
+nebel - plays Masquerade
+nebel - draws Fishing Village
+nebel - shuffles deck
+nebel - draws Scrying Pool
+nebel - passes Estate
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays 3 Copper
+nebel - buys Fishing Village
+nebel - gains Fishing Village
+nebel - draws Potion, Masquerade, Scrying Pool, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Masquerade
+Stef - draws Hoard, Estate
+Stef - passes Estate
+nebel - passes Potion
+Stef - trashes Potion
+Stef - plays Hoard
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Estate, Gold
+Stef - shuffles deck
+Stef - draws Masquerade, Duchy, Fishing Village
+ 
+---------- nebel: turn 9 ----------
+nebel - plays Scrying Pool
+nebel - places Scrying Pool on top of deck
+Stef - discards Masquerade
+nebel - shuffles deck
+nebel - reveals Scrying Pool, Copper
+nebel - plays Scrying Pool
+nebel - places Fishing Village on top of deck
+Stef - places Duchy on top of deck
+nebel - reveals Fishing Village, Copper
+nebel - plays Fishing Village
+nebel - plays Masquerade
+nebel - draws Scrying Pool, Masquerade
+nebel - passes Estate
+Stef - passes Estate
+nebel - trashes Estate
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - places Duchy on top of deck
+nebel - shuffles deck
+nebel - reveals Fishing Village, Copper
+nebel - plays Fishing Village
+nebel - plays Masquerade
+nebel - passes Copper
+Stef - passes Estate
+nebel - trashes Estate
+nebel - plays 4 Copper
+nebel - buys Treasure Map
+nebel - gains Treasure Map
+nebel - shuffles deck
+nebel - draws Masquerade, Copper, Copper, Copper, Masquerade
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fishing Village
+Stef - plays Masquerade
+Stef - draws Duchy, Gold
+Stef - passes Copper
+nebel - passes Copper
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Copper, Hoard, Copper, Copper
+ 
+---------- nebel: turn 10 ----------
+nebel - duration Fishing Village
+nebel - duration Fishing Village
+nebel - plays Masquerade
+nebel - draws Scrying Pool, Treasure Map
+nebel - passes Copper
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays Scrying Pool
+nebel - places Scrying Pool on top of deck
+Stef - places Duchy on top of deck
+nebel - reveals Scrying Pool, Scrying Pool, Copper
+nebel - plays Masquerade
+nebel - passes Copper
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays 2 Copper
+nebel - buys Treasure Map
+nebel - gains Treasure Map
+nebel - shuffles deck
+nebel - draws Fishing Village, Scrying Pool, Copper, Scrying Pool, Scrying Pool
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Fishing Village
+Stef - plays 3 Copper, 1 Gold
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Duchy, Copper, Gold, Hoard, Copper
+ 
+---------- nebel: turn 11 ----------
+nebel - plays Scrying Pool
+nebel - places Treasure Map on top of deck
+Stef - places Estate on top of deck
+nebel - reveals Treasure Map, Masquerade, Treasure Map, Fishing Village, Masquerade, Copper
+nebel - plays Fishing Village
+nebel - plays Masquerade
+nebel - passes Copper
+Stef - passes Copper
+nebel - plays Fishing Village
+nebel - plays Treasure Map
+nebel - trashes Treasure Map, Treasure Map
+nebel - gains Gold
+nebel - gains Gold
+nebel - gains Gold
+nebel - gains Gold
+nebel - plays Scrying Pool
+nebel - discards Gold
+Stef - places Estate on top of deck
+nebel - reveals Gold
+nebel - plays Scrying Pool
+nebel - discards Gold
+Stef - places Estate on top of deck
+nebel - reveals Gold
+nebel - plays Masquerade
+nebel - shuffles deck
+nebel - draws Gold, Gold
+nebel - passes Copper
+Stef - passes Copper
+nebel - plays 4 Gold, 2 Copper
+nebel - buys Province
+nebel - gains Province
+nebel - shuffles deck
+nebel - draws Scrying Pool, Gold, Copper, Scrying Pool, Province
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Gold, Hoard, Copper
+ 
+---------- nebel: turn 12 ----------
+nebel - duration Fishing Village
+nebel - duration Fishing Village
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - discards Gold
+nebel - reveals Scrying Pool, Gold
+nebel - plays Scrying Pool
+nebel - places Masquerade on top of deck
+Stef - places Duchy on top of deck
+nebel - reveals Masquerade, Gold
+nebel - plays Scrying Pool
+nebel - discards Gold
+Stef - places Duchy on top of deck
+nebel - shuffles deck
+nebel - reveals Masquerade, Copper
+nebel - plays Masquerade
+nebel - draws Gold
+nebel - passes Copper
+Stef - passes Copper
+nebel - plays 4 Gold, 2 Copper
+nebel - buys Province
+nebel - gains Province
+nebel - shuffles deck
+nebel - draws Gold, Masquerade, Copper, Scrying Pool, Masquerade
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Gold
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Duchy, Gold, Copper, Copper, Copper
+ 
+---------- nebel: turn 13 ----------
+nebel - plays Scrying Pool
+nebel - places Scrying Pool on top of deck
+Stef - discards Gold
+nebel - reveals Scrying Pool, Province
+nebel - plays Scrying Pool
+nebel - places Fishing Village on top of deck
+Stef - discards Masquerade
+nebel - reveals Fishing Village, Copper
+nebel - plays Fishing Village
+nebel - plays Masquerade
+nebel - draws Province, Gold
+nebel - passes Copper
+Stef - passes Copper
+nebel - plays Masquerade
+nebel - draws Gold, Scrying Pool
+nebel - passes Copper
+Stef - passes Copper
+nebel - plays 3 Gold, 2 Copper
+nebel - buys Province
+nebel - gains Province
+nebel - draws Gold, Fishing Village
+nebel - shuffles deck
+nebel - draws Scrying Pool, Province, Scrying Pool
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Gold, Fishing Village, Gold, Hoard
+ 
+---------- nebel: turn 14 ----------
+nebel - duration Fishing Village
+nebel - plays Fishing Village
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - discards Masquerade
+nebel - reveals Gold
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - places Province on top of deck
+nebel - reveals Scrying Pool, Province
+nebel - plays Scrying Pool
+nebel - places Masquerade on top of deck
+Stef - places Province on top of deck
+nebel - reveals Masquerade, Province
+nebel - plays Masquerade
+nebel - draws Gold, Masquerade
+nebel - passes Masquerade
+Stef - passes Hoard
+nebel - plays 3 Gold
+nebel - plays Hoard
+nebel - buys Province
+nebel - gains Gold
+nebel - gains Province
+nebel - draws Gold
+nebel - shuffles deck
+nebel - draws Province, Scrying Pool, Scrying Pool, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fishing Village
+Stef - plays Masquerade
+Stef - draws Province, Duchy
+Stef - passes Gold
+nebel - passes Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Copper on top of deck
+nebel - places Copper on top of deck
+Stef - reveals Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - gains Duchess
+Stef - draws Duchy, Duchy
+Stef - shuffles deck
+Stef - draws Duchy, Copper, Duchess
+ 
+---------- nebel: turn 15 ----------
+nebel - duration Fishing Village
+nebel - plays Scrying Pool
+nebel - discards Copper
+Stef - places Duchy on top of deck
+nebel - reveals Masquerade, Gold
+nebel - plays Masquerade
+nebel - draws Province, Gold
+nebel - passes Gold
+Stef - passes Copper
+nebel - trashes Copper
+nebel - plays 3 Gold
+nebel - buys Province
+nebel - gains Province
+nebel - draws Hoard, Province, Scrying Pool, Fishing Village, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Fishing Village
+Stef - plays Duchess
+Stef - discards Duchy
+nebel - places Gold on top of deck
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - gains Duchess
+Stef - draws Gold, Estate, Gold, Copper, Masquerade
+ 
+---------- nebel: turn 16 ----------
+nebel - plays Scrying Pool
+nebel - discards Gold
+Stef - places Duchy on top of deck
+nebel - reveals Copper
+nebel - plays Fishing Village
+nebel - plays 1 Gold, 1 Copper
+nebel - plays Hoard
+nebel - buys Estate
+nebel - gains Gold
+nebel - gains Estate
+nebel - shuffles deck
+nebel - draws Province, Province, Gold, Masquerade, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Masquerade
+Stef - draws Duchy, Hoard
+Stef - passes Copper
+nebel - passes Masquerade
+Stef - plays 2 Gold
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Copper, Gold, Province, Gold, Gold
+ 
+------------ Game Over ------------
+Stef - cards: 4 Masquerade, 2 Duchess, 1 Fishing Village, 1 Scrying Pool, 8 Gold, 4 Copper, 1 Hoard, 8 Duchy, 3 Province, 1 Estate
+Stef - total victory points: 43
+Stef - turns: 17
+ 
+nebel - cards: 2 Scrying Pool, 2 Fishing Village, 6 Gold, 3 Copper, 1 Hoard, 5 Province, 1 Estate
+nebel - total victory points: 31
+nebel - turns: 16
+ 
+1st place: Stef
+2nd place: nebel
+ 

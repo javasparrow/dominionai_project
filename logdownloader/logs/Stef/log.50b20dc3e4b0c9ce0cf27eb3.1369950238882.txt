@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Courtyard, Squire, University, Sage, Swindler, Smithy, Bazaar, Saboteur, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+heron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+heron - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+heron - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- heron: turn 1 ----------
+heron - plays 3 Copper
+heron - buys Swindler
+heron - gains Swindler
+heron - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- heron: turn 2 ----------
+heron - plays 4 Copper
+heron - buys Potion
+heron - gains Potion
+heron - shuffles deck
+heron - draws Copper, Copper, Copper, Copper, Swindler
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- heron: turn 3 ----------
+heron - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+heron - plays 4 Copper
+heron - buys Bazaar
+heron - gains Bazaar
+heron - draws Copper, Estate, Estate, Estate, Potion
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Potion, Sage, Estate, Copper, Copper
+ 
+---------- heron: turn 4 ----------
+heron - draws Copper, Copper
+heron - shuffles deck
+heron - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Sage, Estate, Copper, Copper
+ 
+---------- heron: turn 5 ----------
+heron - plays 3 Copper
+heron - buys Sage
+heron - gains Sage
+heron - draws Potion, Estate, Swindler, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Sage
+Stef - reveals University, Estate, Copper, Estate, Copper, Potion
+Stef - places Potion in hand
+Stef - discards: University, Estate, Copper, Estate, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Copper, Smithy
+Stef - shuffles deck
+Stef - draws Sage, Copper
+ 
+---------- heron: turn 6 ----------
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 2 Copper, 1 Potion
+heron - buys University
+heron - gains University
+heron - draws Copper, Copper, Bazaar
+heron - shuffles deck
+heron - draws Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sage
+Stef - reveals Potion
+Stef - places Potion in hand
+Stef - plays Smithy
+Stef - draws University, Estate, Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, University, Estate, Estate, Copper
+ 
+---------- heron: turn 7 ----------
+heron - plays Bazaar
+heron - draws Copper
+heron - plays 4 Copper
+heron - buys Smithy
+heron - gains Smithy
+heron - draws Sage, Estate, Swindler, University, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays 2 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - shuffles deck
+Stef - draws Copper, Copper, Sage, University, Smithy
+ 
+---------- heron: turn 8 ----------
+heron - plays University
+heron - gains Bazaar
+heron - plays Sage
+heron - reveals Estate, Copper, Potion
+heron - places Potion in hand
+heron - discards: Estate, Copper
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 1 Copper, 1 Potion
+heron - buys University
+heron - gains University
+heron - draws Copper
+heron - shuffles deck
+heron - draws Copper, Sage, Bazaar, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Sage
+Stef - reveals Copper, Copper, Bazaar
+Stef - places Bazaar in hand
+Stef - discards: Copper, Copper
+Stef - plays Bazaar
+Stef - draws Potion
+Stef - plays Smithy
+Stef - draws University, Courtyard, Copper
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays Courtyard
+Stef - draws Curse, Estate, Estate
+Stef - places Copper on top of deck
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Estate, University
+Stef - shuffles deck
+Stef - draws Copper, Curse
+ 
+---------- heron: turn 9 ----------
+heron - plays Sage
+heron - reveals Estate, University, Swindler
+heron - places Swindler in hand
+heron - discards: Estate, University
+heron - plays Bazaar
+heron - draws Copper
+heron - plays Swindler
+Stef - reveals University
+Stef - trashes University
+Stef - gains University
+heron - plays 4 Copper
+heron - buys Bazaar
+heron - gains Bazaar
+heron - draws University, Copper, Estate, Bazaar, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Smithy
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Copper, Copper, Curse, University
+ 
+---------- heron: turn 10 ----------
+heron - plays Bazaar
+heron - draws Potion
+heron - plays University
+heron - gains Smithy
+heron - plays 2 Copper, 1 Potion
+heron - buys University
+heron - gains University
+heron - draws Smithy, Copper, Estate
+heron - shuffles deck
+heron - draws University, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays 3 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Bazaar, Courtyard, Smithy, Sage, Bazaar
+ 
+---------- heron: turn 11 ----------
+heron - plays University
+heron - gains Smithy
+heron - plays Smithy
+heron - draws Copper, Copper, Bazaar
+heron - plays Bazaar
+heron - draws Swindler
+heron - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+heron - plays 4 Copper
+heron - buys Bazaar
+heron - gains Bazaar
+heron - draws Potion, Bazaar, Copper, Smithy, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Potion
+Stef - plays Smithy
+Stef - draws University, Estate, Bazaar
+Stef - plays University
+Stef - gains Smithy
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - draws University
+Stef - plays Sage
+Stef - reveals Copper, Smithy
+Stef - places Smithy in hand
+Stef - discards Copper
+Stef - plays Smithy
+Stef - draws Squire, Estate, Curse
+Stef - plays Courtyard
+Stef - draws University, Estate, Smithy
+Stef - places Curse on top of deck
+Stef - plays Smithy
+Stef - draws Curse, Copper, Courtyard
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays Courtyard
+Stef - draws University, Bazaar, Curse
+Stef - places Bazaar on top of deck
+Stef - plays University
+Stef - gains Smithy
+Stef - plays University
+Stef - gains Bazaar
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Bazaar, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Bazaar
+ 
+---------- heron: turn 12 ----------
+heron - plays Bazaar
+heron - draws Sage
+heron - plays Sage
+heron - reveals Estate, University, Bazaar
+heron - places Bazaar in hand
+heron - discards: Estate, University
+heron - plays Bazaar
+heron - draws Copper
+heron - plays Smithy
+heron - draws Copper, University
+heron - shuffles deck
+heron - draws Copper
+heron - plays University
+heron - gains Squire
+heron - plays 4 Copper, 1 Potion
+heron - buys Vineyard
+heron - gains Vineyard
+heron - draws Estate, Smithy, Copper, University, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays Bazaar
+Stef - draws Squire
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Bazaar, Copper, Bazaar, Potion, Estate
+ 
+---------- heron: turn 13 ----------
+heron - plays University
+heron - gains Smithy
+heron - plays Smithy
+heron - draws Bazaar, Bazaar, Copper
+heron - plays Bazaar
+heron - draws University
+heron - plays Bazaar
+heron - draws Smithy
+heron - plays Smithy
+heron - draws Swindler, Estate
+heron - shuffles deck
+heron - draws Copper
+heron - plays University
+heron - gains Squire
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 4 Copper
+heron - buys Province
+heron - gains Province
+heron - draws Bazaar, Copper, Smithy, Potion, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws University
+Stef - plays Bazaar
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws University, Sage, Vineyard
+Stef - plays Sage
+Stef - reveals Curse, University, Smithy
+Stef - places Smithy in hand
+Stef - discards: Curse, University
+Stef - plays Smithy
+Stef - draws Courtyard, Smithy, Curse
+Stef - plays Smithy
+Stef - draws University, Courtyard, Smithy
+Stef - plays University
+Stef - gains Smithy
+Stef - plays Smithy
+Stef - draws Smithy, Bazaar, Squire
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays University
+Stef - gains Sage
+Stef - plays University
+Stef - gains Sage
+Stef - plays Smithy
+Stef - shuffles deck
+Stef - draws University, Squire, Curse
+Stef - plays Courtyard
+Stef - draws Silver, Sage, Curse
+Stef - places Curse on top of deck
+Stef - plays Sage
+Stef - reveals Curse, Bazaar
+Stef - places Bazaar in hand
+Stef - discards Curse
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays Courtyard
+Stef - draws Estate, Smithy, Sage
+Stef - places Curse on top of deck
+Stef - plays Sage
+Stef - reveals Curse, Copper, Copper, Potion
+Stef - places Potion in hand
+Stef - discards: Curse, Copper, Copper
+Stef - plays University
+Stef - gains Sage
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 2 Copper, 2 Potion, 1 Silver
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Copper, Courtyard, Copper, Courtyard
+ 
+---------- heron: turn 14 ----------
+heron - plays Bazaar
+heron - draws Sage
+heron - plays Sage
+heron - reveals Bazaar
+heron - places Bazaar in hand
+heron - plays Bazaar
+heron - draws Vineyard
+heron - plays Smithy
+heron - draws Squire, Smithy, Estate
+heron - plays Smithy
+heron - draws University, Copper
+heron - shuffles deck
+heron - draws Province
+heron - plays University
+heron - gains Swindler
+heron - plays Squire
+heron - takes 2 buys
+heron - plays 3 Copper, 1 Potion
+heron - buys Vineyard
+heron - gains Vineyard
+heron - buys Duchy
+heron - gains Duchy
+heron - draws Copper, Copper, Smithy, University, Bazaar
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Courtyard
+Stef - draws Smithy, Smithy, Estate
+Stef - places Smithy on top of deck
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Smithy, Bazaar, Copper, Vineyard, Curse
+ 
+---------- heron: turn 15 ----------
+heron - plays Bazaar
+heron - draws Squire
+heron - plays University
+heron - gains Squire
+heron - plays Smithy
+heron - draws Copper, Copper, Bazaar
+heron - plays Bazaar
+heron - draws Swindler
+heron - plays Swindler
+Stef - reveals University
+Stef - trashes University
+Stef - gains University
+heron - plays Squire
+heron - takes 2 buys
+heron - plays 4 Copper
+heron - buys Province
+heron - gains Province
+heron - draws Smithy, Estate, University, Estate
+heron - shuffles deck
+heron - draws Vineyard
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Bazaar
+Stef - draws Squire
+Stef - plays Smithy
+Stef - draws Estate, University, Sage
+Stef - plays Sage
+Stef - reveals Estate, Sage
+Stef - places Sage in hand
+Stef - discards Estate
+Stef - plays Sage
+Stef - reveals Bazaar
+Stef - places Bazaar in hand
+Stef - plays Bazaar
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Courtyard, Curse, Smithy
+Stef - plays University
+Stef - gains Sage
+Stef - plays Smithy
+Stef - draws University, Bazaar, Potion
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Potion
+Stef - plays University
+Stef - gains Sage
+Stef - plays Courtyard
+Stef - draws Curse, Sage, Smithy
+Stef - places Curse on top of deck
+Stef - plays Sage
+Stef - reveals Curse, Silver
+Stef - places Silver in hand
+Stef - discards Curse
+Stef - plays Smithy
+Stef - draws Squire, Province, Sage
+Stef - plays Sage
+Stef - reveals Vineyard, Bazaar
+Stef - places Bazaar in hand
+Stef - discards Vineyard
+Stef - plays Bazaar
+Stef - draws Vineyard
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 2 Potion, 1 Copper, 1 Silver
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Smithy, University, Bazaar, Courtyard
+Stef - shuffles deck
+Stef - draws Courtyard
+ 
+------------ Game Over ------------
+Stef - cards: 9 Sage, 6 Smithy, 6 Bazaar, 4 Courtyard, 4 University, 2 Squire, 1 Swindler, 4 Copper, 2 Potion, 1 Silver, 5 Vineyard, 3 Estate, 1 Province, 3 Curse
+Stef - total victory points: 56
+Stef - turns: 15
+ 
+heron - cards: 4 Smithy, 4 Bazaar, 3 University, 3 Squire, 2 Swindler, 1 Sage, 7 Copper, 1 Potion, 3 Estate, 2 Vineyard, 2 Province, 1 Duchy
+heron - total victory points: 28
+heron - turns: 15
+ 
+1st place: Stef
+2nd place: heron
+ 

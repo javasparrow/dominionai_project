@@ -1,0 +1,479 @@
+------------ Game Setup ------------
+Supply cards: Native Village, University, Great Hall, Watchtower, Woodcutter, Advisor, Throne Room, City, Graverobber, Highway, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+flies - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Potion
+flies - gains Potion
+flies - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Watchtower
+flies - gains Watchtower
+flies - shuffles deck
+flies - draws Copper, Watchtower, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays Watchtower
+flies - draws Potion, Estate
+flies - plays 3 Copper, 1 Potion
+flies - buys University
+flies - gains University
+flies - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Copper, Watchtower, Copper, Potion
+ 
+---------- flies: turn 4 ----------
+flies - plays 4 Copper
+flies - buys Watchtower
+flies - gains Watchtower
+flies - shuffles deck
+flies - draws Estate, Watchtower, Watchtower, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - applied Watchtower to place University on top of the deck
+Stef - draws University, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Potion
+ 
+---------- flies: turn 5 ----------
+flies - plays Watchtower
+flies - draws Estate, University
+flies - draws Potion, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays University
+Stef - gains Highway
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Watchtower, Copper, Estate, Copper, Watchtower
+ 
+---------- flies: turn 6 ----------
+flies - plays 4 Copper, 1 Potion
+flies - buys University
+flies - gains University
+flies - draws Estate, Copper
+flies - shuffles deck
+flies - draws Copper, Watchtower, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Watchtower
+Stef - draws Estate, Copper
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - draws Watchtower, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, University
+ 
+---------- flies: turn 7 ----------
+flies - plays Watchtower
+flies - draws University, Copper
+flies - plays 3 Copper
+flies - buys Watchtower
+flies - gains Watchtower
+flies - draws Watchtower, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains Highway
+Stef - applied Watchtower to place Highway on top of the deck
+Stef - plays Watchtower
+Stef - draws Highway, Watchtower, Copper
+Stef - plays Highway
+Stef - draws Watchtower
+Stef - plays Watchtower
+Stef - draws Highway
+Stef - plays 3 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - applied Watchtower to place Throne Room on top of the deck
+Stef - draws Throne Room, Copper, University, Potion, Estate
+ 
+---------- flies: turn 8 ----------
+flies - plays 3 Copper
+flies - buys Watchtower
+flies - gains Watchtower
+flies - applied Watchtower to place Watchtower on top of the deck
+flies - draws Watchtower, Copper, Potion, University
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Throne Room
+Stef - plays University
+Stef - gains City
+Stef - plays University
+Stef - gains City
+Stef - draws Estate, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws City
+ 
+---------- flies: turn 9 ----------
+flies - plays University
+flies - gains Highway
+flies - applied Watchtower to place Highway on top of the deck
+flies - plays Watchtower
+flies - draws Highway, Copper, Watchtower
+flies - plays Highway
+flies - draws Watchtower
+flies - plays Watchtower
+flies - draws Copper
+flies - plays 4 Copper, 1 Potion
+flies - buys Throne Room
+flies - gains Throne Room
+flies - applied Watchtower to place Throne Room on top of the deck
+flies - draws Throne Room, Estate, Estate, University, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays City
+Stef - draws University
+Stef - plays University
+Stef - gains City
+Stef - plays 3 Copper
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - draws Copper, Highway, University, Throne Room, Copper
+ 
+---------- flies: turn 10 ----------
+flies - plays Throne Room
+flies - plays University
+flies - gains City
+flies - plays University
+flies - gains City
+flies - draws Copper, Copper, Watchtower, Estate
+flies - shuffles deck
+flies - draws City
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Throne Room
+Stef - plays University
+Stef - gains City
+Stef - plays University
+Stef - gains City
+Stef - plays 2 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Watchtower, Watchtower, Potion, Highway, Watchtower
+ 
+---------- flies: turn 11 ----------
+flies - plays City
+flies - draws Estate
+flies - plays Watchtower
+flies - draws University, Watchtower
+flies - plays University
+flies - gains City
+flies - applied Watchtower to place City on top of the deck
+flies - plays Watchtower
+flies - draws City, Throne Room
+flies - plays Throne Room
+flies - plays City
+flies - draws Copper
+flies - plays City
+flies - draws Copper
+flies - plays 4 Copper
+flies - buys Throne Room
+flies - gains Throne Room
+flies - draws University, Watchtower, Copper, City, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Highway
+Stef - draws City
+Stef - plays City
+Stef - draws Estate
+Stef - plays Watchtower
+Stef - draws Copper, Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - shuffles deck
+Stef - draws Copper, Watchtower, Potion, University, Woodcutter
+ 
+---------- flies: turn 12 ----------
+flies - plays City
+flies - draws Potion
+flies - plays University
+flies - gains City
+flies - applied Watchtower to place City on top of the deck
+flies - plays Watchtower
+flies - draws City, Watchtower, Copper
+flies - plays City
+flies - draws Highway
+flies - plays Highway
+flies - draws Copper
+flies - plays Watchtower
+flies - shuffles deck
+flies - draws Watchtower
+flies - plays Watchtower
+flies - draws Throne Room
+flies - plays Throne Room
+flies - plays 3 Copper, 1 Potion
+flies - buys Woodcutter
+flies - gains Woodcutter
+flies - draws Throne Room, Watchtower, Copper, University, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays University
+Stef - gains City
+Stef - applied Watchtower to place City on top of the deck
+Stef - plays Watchtower
+Stef - draws City, City, City
+Stef - plays City
+Stef - draws Great Hall, Copper
+Stef - plays City
+Stef - draws Throne Room, Estate
+Stef - plays Great Hall
+Stef - draws City
+Stef - plays City
+Stef - draws Great Hall, City
+Stef - plays Great Hall
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays City
+Stef - draws Watchtower, Copper
+Stef - plays Throne Room
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws University, Estate
+Stef - plays Woodcutter
+Stef - plays University
+Stef - gains Highway
+Stef - applied Watchtower to place Highway on top of the deck
+Stef - plays 6 Copper, 1 Potion
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - applied Watchtower to place Throne Room on top of the deck
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - draws Throne Room, Highway, Highway, Watchtower, Copper
+ 
+---------- flies: turn 13 ----------
+flies - plays Throne Room
+flies - plays University
+flies - gains Highway
+flies - applied Watchtower to place Highway on top of the deck
+flies - plays University
+flies - gains Highway
+flies - applied Watchtower to place Highway on top of the deck
+flies - plays Watchtower
+flies - draws Highway, Highway, City, Copper
+flies - plays Highway
+flies - draws Estate
+flies - plays Highway
+flies - draws City
+flies - plays City
+flies - draws Copper, Copper
+flies - plays City
+flies - shuffles deck
+flies - draws Watchtower, Estate
+flies - plays 4 Copper
+flies - buys Graverobber
+flies - gains Graverobber
+flies - applied Watchtower to place Graverobber on top of the deck
+flies - draws Graverobber, Copper, Copper, City, Potion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Throne Room
+Stef - plays Highway
+Stef - draws Potion
+Stef - plays Highway
+Stef - draws University
+Stef - plays University
+Stef - gains Highway
+Stef - applied Watchtower to place Highway on top of the deck
+Stef - plays Watchtower
+Stef - draws Highway, Estate, University
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws City
+Stef - plays City
+Stef - draws Copper, Woodcutter
+Stef - plays University
+Stef - gains Throne Room
+Stef - plays Woodcutter
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws City, Watchtower, Throne Room, Watchtower, Copper
+ 
+---------- flies: turn 14 ----------
+flies - plays City
+flies - draws Watchtower, University
+flies - plays University
+flies - gains Graverobber
+flies - applied Watchtower to place Graverobber on top of the deck
+flies - plays Watchtower
+flies - draws Graverobber, Highway
+flies - plays Highway
+flies - draws Copper
+flies - plays Graverobber
+flies - trashes Graverobber
+flies - gains Province
+flies - plays 3 Copper, 1 Potion
+flies - buys Great Hall
+flies - gains Great Hall
+flies - draws City, Woodcutter, Throne Room, Watchtower
+flies - shuffles deck
+flies - draws City
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws City, City
+Stef - plays Watchtower
+Stef - draws City
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays Throne Room
+Stef - plays City
+Stef - draws Estate, Great Hall
+Stef - plays City
+Stef - draws Copper, Woodcutter
+Stef - plays City
+Stef - draws Estate, Copper
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Province, Great Hall
+Stef - plays Great Hall
+Stef - draws Throne Room
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Throne Room
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays 5 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - applied Watchtower to place Native Village on top of the deck
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - applied Watchtower to place Throne Room on top of the deck
+Stef - draws Throne Room, Native Village, Watchtower, Estate, Highway
+ 
+---------- flies: turn 15 ----------
+flies - plays City
+flies - draws Province, Copper
+flies - plays Throne Room
+flies - plays City
+flies - draws Highway, Watchtower
+flies - plays City
+flies - draws Estate, Potion
+flies - plays Highway
+flies - draws Highway
+flies - plays Highway
+flies - draws Copper
+flies - plays Woodcutter
+flies - plays Watchtower
+flies - plays Watchtower
+flies - draws City
+flies - plays City
+flies - draws Copper, University
+flies - plays University
+flies - gains Great Hall
+flies - plays 3 Copper, 1 Potion
+flies - buys Duchy
+flies - gains Duchy
+flies - buys Woodcutter
+flies - gains Woodcutter
+flies - draws Copper, Watchtower, Graverobber, Estate, Great Hall
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Highway
+Stef - draws City
+Stef - plays Native Village
+Stef - sets aside University
+Stef - plays Watchtower
+Stef - draws Potion, Throne Room, University
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays University
+Stef - gains Watchtower
+Stef - plays University
+Stef - gains Watchtower
+Stef - plays Throne Room
+Stef - plays City
+Stef - draws Highway, Copper
+Stef - plays City
+Stef - draws Highway, Woodcutter
+Stef - plays Highway
+Stef - draws Throne Room
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Throne Room
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Province
+Stef - gains Province
+Stef - draws Watchtower
+Stef - shuffles deck
+Stef - draws Watchtower, University, Copper, Highway
+ 
+------------ Game Over ------------
+Stef - cards: 6 Great Hall, 6 Watchtower, 6 City, 5 Throne Room, 4 Highway, 2 University, 2 Woodcutter, 1 Native Village, 7 Copper, 1 Potion, 3 Estate, 2 Province
+Stef - total victory points: 21
+Stef - turns: 15
+ 
+flies - cards: 4 Watchtower, 4 City, 3 Highway, 2 Great Hall, 2 Woodcutter, 2 Throne Room, 2 University, 1 Graverobber, 7 Copper, 1 Potion, 3 Estate, 1 Duchy, 1 Province
+flies - total victory points: 14
+flies - turns: 15
+ 
+1st place: Stef
+2nd place: flies
+ 

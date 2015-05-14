@@ -1,0 +1,486 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Cutpurse, Rats, Remodel, Spice Merchant, Talisman, Wandering Minstrel, Royal Seal, Tribute, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Eevee - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Hovel
+Eevee - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays Necropolis
+Eevee - plays 4 Copper
+Eevee - buys Cutpurse
+Eevee - gains Cutpurse
+Eevee - draws Copper, Copper, Hovel, Overgrown Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - shuffles deck
+Eevee - draws Copper, Necropolis, Copper, Copper, Silver
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Rats
+Stef - gains Rats
+Stef - shuffles deck
+Stef - draws Copper, Rats, Overgrown Estate, Copper, Hovel
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays Necropolis
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Royal Seal
+Eevee - gains Royal Seal
+Eevee - draws Overgrown Estate, Cutpurse, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - trashes Overgrown Estate
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Silver, Copper, Necropolis, Copper, Copper
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays Cutpurse
+Stef - discards Copper
+Eevee - plays 3 Copper
+Eevee - buys Royal Seal
+Eevee - gains Royal Seal
+Eevee - draws Hovel, Copper
+Eevee - shuffles deck
+Eevee - draws Royal Seal, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays 3 Copper, 1 Royal Seal
+Eevee - buys Royal Seal
+Eevee - gains Royal Seal
+Eevee - applied Royal Seal to place Royal Seal on top of the deck
+Eevee - draws Royal Seal, Copper, Copper, Silver, Cutpurse
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 5 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Spice Merchant, Silver, Copper, Hovel, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Cutpurse
+Stef - discards Copper
+Eevee - plays 2 Copper, 1 Royal Seal, 1 Silver
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - applied Royal Seal to place Gold on top of the deck
+Eevee - draws Gold, Royal Seal, Overgrown Estate, Copper, Necropolis
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Rats, Remodel
+Stef - plays Rats
+Stef - draws Necropolis
+Stef - gains Rats
+Stef - trashes Hovel
+Stef - plays Remodel
+Stef - trashes Necropolis
+Stef - gains Silver
+Stef - draws Rats
+Stef - shuffles deck
+Stef - draws Silver, Wandering Minstrel, Silver, Copper
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays Necropolis
+Eevee - plays 1 Gold, 1 Royal Seal, 1 Copper
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - applied Royal Seal to place Gold on top of the deck
+Eevee - draws Gold, Copper
+Eevee - shuffles deck
+Eevee - draws Hovel, Copper, Royal Seal
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Copper, Copper, Rats
+Stef - places Rats on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Rats
+Stef - draws Rats
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays 2 Silver
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Remodel, Copper, Copper, Spice Merchant, Copper
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays 2 Copper, 1 Gold, 1 Royal Seal
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - applied Royal Seal to place Gold on top of the deck
+Eevee - draws Gold, Overgrown Estate, Copper, Copper, Royal Seal
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - shuffles deck
+Stef - draws Copper, Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper, Remodel, Wandering Minstrel, Silver, Rats
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays 2 Copper, 1 Gold, 1 Royal Seal
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - applied Royal Seal to place Gold on top of the deck
+Eevee - draws Gold, Necropolis, Royal Seal, Cutpurse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Rats, Rats
+Stef - shuffles deck
+Stef - reveals: Wandering Minstrel
+Stef - places Rats on top of deck
+Stef - places Rats on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Rats
+Stef - draws Wandering Minstrel
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Rats, Remodel, Silver
+Stef - places Rats on top of deck
+Stef - places Remodel on top of deck
+Stef - discards Silver
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Remodel
+Stef - gains Gold
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Rats
+Stef - gains Gold
+Stef - draws Spice Merchant, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Rats
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Cutpurse
+Stef - discards Copper
+Eevee - plays 1 Gold, 1 Royal Seal, 1 Copper
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Gold, Copper, Copper, Silver
+Eevee - shuffles deck
+Eevee - draws Hovel
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Gold, Rats
+Stef - plays Rats
+Stef - draws Silver
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Rats, Silver, Gold, Remodel, Remodel
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays 2 Copper, 1 Gold, 1 Silver
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - draws Overgrown Estate, Gold, Royal Seal, Copper, Necropolis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Wandering Minstrel
+Stef - gains Gold
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper, Rats, Spice Merchant
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Necropolis
+Eevee - plays 1 Gold, 1 Royal Seal, 1 Copper
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - applied Royal Seal to place Gold on top of the deck
+Eevee - draws Gold, Cutpurse, Copper, Gold, Royal Seal
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Silver, Gold, Silver
+Stef - discards: Silver, Gold, Silver
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Gold, Wandering Minstrel, Gold
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Gold, Gold
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Wandering Minstrel, Remodel
+Stef - plays Wandering Minstrel
+Stef - draws Remodel
+Stef - reveals: Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Gold, Silver
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Gold, Silver
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Wandering Minstrel
+Stef - gains Gold
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Gold
+Stef - gains Gold
+Stef - plays Wandering Minstrel
+Stef - draws Gold
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Silver, Gold
+Stef - discards: Silver, Silver, Gold
+Stef - plays 2 Gold
+Stef - buys Tribute
+Stef - gains Tribute
+Stef - draws Gold, Gold
+Stef - shuffles deck
+Stef - draws Silver, Gold, Wandering Minstrel
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Cutpurse
+Stef - reveals Gold, Gold, Silver, Gold, Wandering Minstrel
+Eevee - plays 2 Gold, 1 Copper, 1 Royal Seal
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Province, Royal Seal, Copper, Gold, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Wandering Minstrel, Silver, Gold
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Silver, Gold
+Stef - plays Rats
+Stef - draws Wandering Minstrel
+Stef - gains Rats
+Stef - trashes Silver
+Stef - plays Wandering Minstrel
+Stef - draws Spice Merchant
+Stef - reveals: Gold, Wandering Minstrel, Remodel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Remodel on top of deck
+Stef - discards Gold
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Remodel, Wandering Minstrel, Tribute, Wandering Minstrel, Remodel
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays 2 Copper, 1 Royal Seal, 1 Gold
+Eevee - buys Expand
+Eevee - gains Expand
+Eevee - applied Royal Seal to place Expand on top of the deck
+Eevee - draws Expand, Copper
+Eevee - shuffles deck
+Eevee - draws Royal Seal, Gold, Overgrown Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Wandering Minstrel
+Stef - reveals: Wandering Minstrel, Gold, Province
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Gold, Province
+Stef - plays Tribute
+Eevee - reveals: Gold, Gold
+Stef - receives 2 coins
+Eevee - discards: Gold, Gold
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Spice Merchant, Gold, Rats
+Stef - places Spice Merchant on top of deck
+Stef - places Rats on top of deck
+Stef - discards Gold
+Stef - plays Wandering Minstrel
+Stef - draws Rats
+Stef - reveals: Spice Merchant, Gold, Silver
+Stef - places Spice Merchant on top of deck
+Stef - discards: Gold, Silver
+Stef - plays Wandering Minstrel
+Stef - draws Spice Merchant
+Stef - reveals: Rats, Gold, Gold
+Stef - places Rats on top of deck
+Stef - discards: Gold, Gold
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - draws Rats
+Stef - gains Gold
+Stef - plays Remodel
+Stef - trashes Rats
+Stef - shuffles deck
+Stef - draws Gold
+Stef - gains Tribute
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Gold, Silver, Gold, Province
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays Expand
+Eevee - trashes Overgrown Estate
+Eevee - draws Hovel
+Eevee - gains Remodel
+Eevee - plays 1 Copper, 1 Royal Seal, 1 Gold
+Eevee - buys Duchy
+Eevee - trashes Hovel
+Eevee - gains Duchy
+Eevee - draws Silver, Royal Seal, Copper, Copper, Royal Seal
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Gold
+Stef - shuffles deck
+Stef - draws Tribute, Remodel, Gold
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays 2 Royal Seal, 2 Copper, 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Copper, Copper, Gold, Gold, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Tribute
+Eevee - reveals: Cutpurse, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Eevee - discards: Cutpurse, Copper
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Duchy, Tribute, Province, Remodel
+ 
+---------- Eevee: turn 17 ----------
+Eevee - plays 2 Copper, 2 Gold
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Gold, Province, Copper, Necropolis
+Eevee - shuffles deck
+Eevee - draws Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Remodel
+Stef - trashes Tribute
+Stef - gains Duchy
+Stef - draws Wandering Minstrel, Gold, Wandering Minstrel, Gold, Wandering Minstrel
+ 
+---------- Eevee: turn 18 ----------
+Eevee - plays 2 Gold, 1 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Copper, Gold, Copper, Remodel, Duchy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Spice Merchant
+Stef - reveals: Silver, Wandering Minstrel, Gold
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Silver, Gold
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Duchy, Duchy, Province
+Stef - discards: Duchy, Duchy, Province
+Stef - plays Wandering Minstrel
+Stef - draws Tribute
+Stef - reveals: Province, Gold, Gold
+Stef - discards: Province, Gold, Gold
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - reveals: Province, Gold, Remodel
+Stef - places Remodel on top of deck
+Stef - discards: Province, Gold
+Stef - plays Tribute
+Eevee - reveals: Copper, Silver
+Stef - receives 4 coins
+Eevee - discards: Copper, Silver
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Remodel, Duchy
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Remodel
+Stef - shuffles deck
+Stef - draws Province, Gold, Wandering Minstrel, Duchy
+ 
+---------- Eevee: turn 19 ----------
+Eevee - plays Remodel
+Eevee - trashes Gold
+Eevee - gains Duchy
+Eevee - plays 2 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Royal Seal, Royal Seal, Gold, Gold, Duchy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - draws Remodel, Wandering Minstrel, Wandering Minstrel, Duchy, Gold
+ 
+------------ Game Over ------------
+Stef - cards: 4 Wandering Minstrel, 2 Remodel, 1 Tribute, 1 Spice Merchant, 3 Gold, 5 Province, 4 Duchy
+Stef - total victory points: 42
+Stef - turns: 19
+ 
+Eevee - cards: 1 Necropolis, 1 Remodel, 1 Cutpurse, 1 Expand, 7 Copper, 5 Gold, 3 Royal Seal, 1 Silver, 4 Duchy, 3 Province, 1 Estate
+Eevee - total victory points: 31
+Eevee - turns: 19
+ 
+1st place: Stef
+2nd place: Eevee
+ 

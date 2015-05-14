@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: Develop, Fishing Village, Woodcutter, Fortress, Ironmonger, Mining Village, Smithy, Worker's Village, Journeyman, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+shark_bait - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Develop
+shark_bait - gains Develop
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Estate, Copper, Ironmonger, Develop, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Ironmonger
+shark_bait - gains Ironmonger
+shark_bait - shuffles deck
+shark_bait - draws Estate, Develop, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Develop
+Stef - plays 3 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Develop, Estate, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Develop
+shark_bait - trashes Estate
+shark_bait - gains Develop
+shark_bait - plays 3 Copper
+shark_bait - buys Fishing Village
+shark_bait - gains Fishing Village
+shark_bait - draws Develop, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Fishing Village
+Stef - draws Fishing Village, Copper
+Stef - shuffles deck
+Stef - draws Copper, Develop, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Develop
+shark_bait - trashes Estate
+shark_bait - gains Fishing Village
+shark_bait - plays 3 Copper
+shark_bait - buys Fishing Village
+shark_bait - gains Fishing Village
+shark_bait - draws Fishing Village, Estate, Copper, Ironmonger
+shark_bait - shuffles deck
+shark_bait - draws Develop
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fishing Village
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Develop, Ironmonger, Ironmonger, Copper, Estate
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Estate
+shark_bait - gains Fishing Village
+shark_bait - plays Ironmonger
+shark_bait - draws Fishing Village
+shark_bait - reveals: Copper
+shark_bait - discards Copper
+shark_bait - plays Fishing Village
+shark_bait - plays 1 Copper
+shark_bait - buys Smithy
+shark_bait - gains Smithy
+shark_bait - draws Fishing Village, Copper, Copper, Develop, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Fishing Village
+Stef - plays Develop
+Stef - trashes Ironmonger
+Stef - gains Fishing Village
+Stef - gains Journeyman
+Stef - plays Ironmonger
+Stef - draws Journeyman
+Stef - reveals: Fishing Village
+Stef - places Fishing Village on top of deck
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Fishing Village, Copper, Copper, Copper, Copper, Fishing Village, Develop
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - places cards in hand:  Fishing Village, Fishing Village, Develop
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Fishing Village
+Stef - plays Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Fishing Village, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Fishing Village
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - plays Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Copper
+shark_bait - plays 2 Copper
+shark_bait - buys Journeyman
+shark_bait - gains Journeyman
+shark_bait - draws Fishing Village, Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Smithy, Develop
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - draws Develop, Journeyman, Copper, Smithy, Develop
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - duration Fishing Village
+shark_bait - plays Fishing Village
+shark_bait - plays Smithy
+shark_bait - draws Fishing Village, Copper, Copper
+shark_bait - plays Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Copper
+shark_bait - plays 3 Copper
+shark_bait - buys Fortress
+shark_bait - gains Fortress
+shark_bait - draws Copper, Develop, Journeyman, Ironmonger, Fishing Village
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Ironmonger, Copper, Copper, Fishing Village, Copper, Fishing Village
+Stef - discards: Copper, Copper, Copper, Copper, Copper
+Stef - places cards in hand:  Ironmonger, Fishing Village, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Develop
+Stef - trashes Smithy
+Stef - gains Woodcutter
+Stef - gains Journeyman
+Stef - plays Ironmonger
+Stef - draws Journeyman
+Stef - reveals: Woodcutter
+Stef - places Woodcutter on top of deck
+Stef - plays Journeyman
+Stef - names Mine
+Stef - shuffles deck
+Stef - reveals Woodcutter, Journeyman, Copper
+Stef - places cards in hand:  Woodcutter, Journeyman, Copper
+Stef - plays Journeyman
+Stef - names Mine
+Stef - reveals Copper, Copper, Copper
+Stef - places cards in hand:  Copper, Copper, Copper
+Stef - plays Woodcutter
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Develop, Copper, Journeyman, Develop
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - plays Fishing Village
+shark_bait - plays Journeyman
+shark_bait - names Copper
+shark_bait - shuffles deck
+shark_bait - reveals Copper, Develop, Smithy, Fortress
+shark_bait - discards Copper
+shark_bait - places cards in hand:  Develop, Smithy, Fortress
+shark_bait - plays Develop
+shark_bait - trashes Fortress
+shark_bait - gains Journeyman
+shark_bait - gains Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Fortress
+shark_bait - gains Journeyman
+shark_bait - gains Develop
+shark_bait - plays Ironmonger
+shark_bait - draws Develop
+shark_bait - reveals: Journeyman
+shark_bait - places Journeyman on top of deck
+shark_bait - plays Smithy
+shark_bait - draws Journeyman, Fishing Village, Journeyman
+shark_bait - plays Fishing Village
+shark_bait - plays Journeyman
+shark_bait - names Journeyman
+shark_bait - reveals Copper, Fishing Village, Copper
+shark_bait - places cards in hand:  Copper, Fishing Village, Copper
+shark_bait - plays Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Journeyman
+shark_bait - gains Gold
+shark_bait - gains Worker's Village
+shark_bait - plays Fortress
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Gold
+shark_bait - plays 3 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Develop
+shark_bait - gains Develop
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Journeyman, Fishing Village, Smithy, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Copper, Ironmonger, Copper, Journeyman, Copper, Journeyman
+Stef - discards: Copper, Copper, Copper
+Stef - places cards in hand:  Ironmonger, Journeyman, Journeyman
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Woodcutter, Fortress, Fishing Village
+Stef - places cards in hand:  Woodcutter, Fortress, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Develop
+Stef - trashes Fortress
+Stef - gains Mine
+Stef - gains Fishing Village
+Stef - plays Ironmonger
+Stef - draws Fishing Village
+Stef - reveals: Mine
+Stef - places Mine on top of deck
+Stef - plays Fishing Village
+Stef - plays Journeyman
+Stef - names Curse
+Stef - reveals Mine, Fishing Village, Journeyman
+Stef - places cards in hand:  Mine, Fishing Village, Journeyman
+Stef - plays Fishing Village
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Mine
+Stef - gains Worker's Village
+Stef - gains Gold
+Stef - plays Journeyman
+Stef - names Worker's Village
+Stef - reveals Gold, Worker's Village, Copper, Copper
+Stef - discards Worker's Village
+Stef - places cards in hand:  Gold, Copper, Copper
+Stef - plays Woodcutter
+Stef - plays 5 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Copper, Fortress, Woodcutter, Gold, Copper
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - plays Journeyman
+shark_bait - names Copper
+shark_bait - reveals Develop, Copper, Province, Ironmonger
+shark_bait - discards Copper
+shark_bait - places cards in hand:  Develop, Province, Ironmonger
+shark_bait - plays Fishing Village
+shark_bait - plays Smithy
+shark_bait - draws Gold, Journeyman, Copper
+shark_bait - plays Journeyman
+shark_bait - names Copper
+shark_bait - reveals Develop, Develop, Develop
+shark_bait - places cards in hand:  Develop, Develop, Develop
+shark_bait - plays Ironmonger
+shark_bait - draws Fishing Village
+shark_bait - reveals: Copper
+shark_bait - discards Copper
+shark_bait - plays Fishing Village
+shark_bait - plays Develop
+shark_bait - trashes Develop
+shark_bait - gains Worker's Village
+shark_bait - gains Estate
+shark_bait - plays Develop
+shark_bait - trashes Develop
+shark_bait - gains Smithy
+shark_bait - gains Estate
+shark_bait - plays 3 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Estate, Smithy, Estate, Worker's Village, Worker's Village
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Fortress
+Stef - draws Journeyman
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Develop, Duchy, Province
+Stef - places cards in hand:  Develop, Duchy, Province
+Stef - plays Woodcutter
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Journeyman, Ironmonger, Fishing Village, Copper, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - plays Worker's Village
+shark_bait - draws Fortress
+shark_bait - plays Smithy
+shark_bait - shuffles deck
+shark_bait - draws Copper, Province, Gold
+shark_bait - plays Worker's Village
+shark_bait - draws Smithy
+shark_bait - plays Smithy
+shark_bait - draws Province, Copper, Copper
+shark_bait - plays Fortress
+shark_bait - draws Journeyman
+shark_bait - plays Journeyman
+shark_bait - names Develop
+shark_bait - reveals Ironmonger, Develop, Copper, Fishing Village
+shark_bait - discards Develop
+shark_bait - places cards in hand:  Ironmonger, Copper, Fishing Village
+shark_bait - plays Ironmonger
+shark_bait - draws Fishing Village
+shark_bait - reveals: Copper
+shark_bait - discards Copper
+shark_bait - plays Fishing Village
+shark_bait - plays Fishing Village
+shark_bait - plays 4 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Smithy
+shark_bait - gains Smithy
+shark_bait - draws Fishing Village, Develop, Journeyman
+shark_bait - shuffles deck
+shark_bait - draws Province, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fishing Village
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Journeyman, Develop, Copper, Worker's Village
+Stef - discards Copper
+Stef - places cards in hand:  Journeyman, Develop, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Journeyman
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Fishing Village, Fishing Village, Duchy
+Stef - places cards in hand:  Fishing Village, Fishing Village, Duchy
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Journeyman
+Stef - names Province
+Stef - reveals Province, Fishing Village, Fortress, Woodcutter
+Stef - discards Province
+Stef - places cards in hand:  Fishing Village, Fortress, Woodcutter
+Stef - plays Fishing Village
+Stef - plays Develop
+Stef - trashes Fortress
+Stef - gains Duchy
+Stef - gains Develop
+Stef - plays Ironmonger
+Stef - draws Develop
+Stef - reveals: Duchy
+Stef - discards Duchy
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Fortress
+Stef - gains Journeyman
+Stef - gains Silver
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Woodcutter
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Journeyman, Journeyman, Copper, Gold, Develop
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - duration Fishing Village
+shark_bait - duration Fishing Village
+shark_bait - plays Journeyman
+shark_bait - names Estate
+shark_bait - reveals Copper, Worker's Village, Ironmonger
+shark_bait - places cards in hand:  Copper, Worker's Village, Ironmonger
+shark_bait - plays Ironmonger
+shark_bait - draws Gold
+shark_bait - reveals: Fortress
+shark_bait - places Fortress on top of deck
+shark_bait - plays Worker's Village
+shark_bait - draws Fortress
+shark_bait - plays Develop
+shark_bait - trashes Fortress
+shark_bait - gains Develop
+shark_bait - gains Journeyman
+shark_bait - plays Fortress
+shark_bait - draws Journeyman
+shark_bait - plays Fishing Village
+shark_bait - plays Journeyman
+shark_bait - names Estate
+shark_bait - reveals Develop, Province, Copper
+shark_bait - places cards in hand:  Develop, Province, Copper
+shark_bait - plays Develop
+shark_bait - trashes Copper
+shark_bait - plays 2 Copper, 1 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Journeyman, Smithy, Copper, Fishing Village, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Journeyman
+Stef - names Province
+Stef - shuffles deck
+Stef - reveals Province, Fishing Village, Journeyman, Ironmonger
+Stef - discards Province
+Stef - places cards in hand:  Fishing Village, Journeyman, Ironmonger
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Fortress, Copper, Province, Journeyman
+Stef - discards Copper
+Stef - places cards in hand:  Fortress, Province, Journeyman
+Stef - plays Develop
+Stef - trashes Fortress
+Stef - gains Journeyman
+Stef - gains Develop
+Stef - plays Ironmonger
+Stef - draws Develop
+Stef - reveals: Journeyman
+Stef - places Journeyman on top of deck
+Stef - plays Develop
+Stef - trashes Fortress
+Stef - gains Duchy
+Stef - gains Develop
+Stef - draws Develop, Duchy, Journeyman, Worker's Village, Develop
+ 
+------------ Game Over ------------
+Stef - cards: 6 Journeyman, 5 Develop, 5 Fishing Village, 1 Worker's Village, 1 Ironmonger, 1 Fortress, 1 Woodcutter, 4 Copper, 1 Gold, 1 Silver, 3 Duchy, 3 Province
+Stef - total victory points: 27
+Stef - turns: 12
+ 
+shark_bait - cards: 5 Fishing Village, 3 Journeyman, 3 Smithy, 3 Develop, 2 Worker's Village, 1 Ironmonger, 1 Fortress, 4 Copper, 1 Gold, 3 Estate, 3 Province, 1 Duchy
+shark_bait - total victory points: 24
+shark_bait - turns: 11
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

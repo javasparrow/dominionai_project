@@ -1,0 +1,565 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Bureaucrat, Death Cart, Ironworks, Monument, Sea Hag, Treasure Map, Minion, Nobles, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nnn - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+nnn - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 4 Copper
+nnn - buys Sea Hag
+nnn - gains Sea Hag
+nnn - shuffles deck
+nnn - draws Copper, Estate, Silver, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - shuffles deck
+Stef - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Ironworks
+nnn - gains Ironworks
+nnn - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays 4 Copper
+nnn - buys Monument
+nnn - gains Monument
+nnn - draws Sea Hag, Copper
+nnn - shuffles deck
+nnn - draws Estate, Copper, Ironworks
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Sea Hag
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Ironworks
+nnn - gains Pawn
+nnn - plays Sea Hag
+Stef - discards Minion
+Stef - gains Curse
+nnn - plays 2 Copper
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Monument, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Curse, Silver, Estate, Copper, Estate
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays 3 Copper
+nnn - buys Minion
+nnn - gains Minion
+nnn - draws Curse, Estate, Copper, Silver
+nnn - shuffles deck
+nnn - draws Sea Hag
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Estate, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Sea Hag
+Stef - discards Minion
+Stef - gains Curse
+nnn - plays Silver
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Minion, Copper, Copper, Estate, Ironworks
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Copper, Copper, Minion, Copper
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Ironworks
+nnn - gains Pawn
+nnn - plays Minion
+nnn - discards: Copper, Copper, Estate
+nnn - draws Copper, Copper, Copper, Pawn
+Stef - discards: Curse, Copper, Copper, Minion, Copper
+Stef - draws Silver, Estate, Sea Hag, Copper
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Monument
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays 3 Copper
+nnn - buys Minion
+nnn - gains Minion
+nnn - draws Estate, Pawn, Copper
+nnn - shuffles deck
+nnn - draws Pawn, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Estate, Pawn
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Curse
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Silver
+nnn - plays 1 Copper, 1 Silver
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Copper, Copper, Sea Hag, Curse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Copper, Silver, Copper, Curse
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+nnn - plays 3 Copper
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Copper, Copper, Estate, Monument, Minion
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Curse, Sea Hag, Estate, Copper, Minion
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays 2 Copper
+nnn - buys Minion
+nnn - gains Minion
+nnn - draws Pawn, Pawn, Ironworks, Minion
+nnn - shuffles deck
+nnn - draws Sea Hag
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Sea Hag
+nnn - discards Curse
+nnn - gains Curse
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Curse, Minion, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Ironworks
+nnn - gains Pawn
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Curse
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Pawn
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Pawn
+nnn - plays Pawn
+nnn - takes 1 coin
+nnn - draws Curse
+nnn - draws Copper, Copper, Copper, Copper, Minion
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Estate, Minion, Copper, Silver
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays 4 Copper
+nnn - buys Minion
+nnn - gains Minion
+nnn - draws Copper, Monument, Copper, Pawn, Minion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Curse, Sea Hag, Silver, Copper, Copper
+ 
+---------- nnn: turn 14 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Silver
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays Silver
+nnn - buys Nobles
+nnn - gains Nobles
+nnn - draws Estate, Estate, Pawn, Copper, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Sea Hag
+nnn - shuffles deck
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Minion, Estate, Curse, Silver, Monument
+ 
+---------- nnn: turn 15 ----------
+nnn - plays Pawn
+nnn - takes 1 coin
+nnn - draws Curse
+nnn - plays 1 Copper
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Nobles, Pawn, Copper, Curse, Pawn
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Pawn, Silver, Copper
+Stef - shuffles deck
+Stef - draws Monument
+ 
+---------- nnn: turn 16 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Pawn
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Curse
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Monument
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays Copper
+nnn - buys Pawn
+nnn - gains Pawn
+nnn - draws Copper, Minion, Copper, Copper, Ironworks
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Copper, Sea Hag, Estate, Minion
+ 
+---------- nnn: turn 17 ----------
+nnn - plays Ironworks
+nnn - gains Monument
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays 3 Copper
+nnn - buys Minion
+nnn - gains Minion
+nnn - draws Minion, Silver, Curse, Pawn, Sea Hag
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Sea Hag
+nnn - discards Copper
+nnn - gains Curse
+Stef - plays 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Minion, Minion, Copper, Copper
+ 
+---------- nnn: turn 18 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Minion
+nnn - discards: Silver, Curse, Sea Hag
+nnn - draws Curse, Minion, Minion, Pawn
+Stef - discards: Silver, Minion, Minion, Copper, Copper
+Stef - draws Curse, Nobles, Nobles, Silver
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays Minion
+nnn - discards Curse
+nnn - draws Pawn
+nnn - shuffles deck
+nnn - draws Minion, Curse, Pawn
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - buys Province
+nnn - gains Province
+nnn - draws Estate, Monument, Copper, Pawn, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Copper, Curse, Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Monument, Silver, Copper, Curse, Silver
+ 
+---------- nnn: turn 19 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays 2 Copper
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Copper, Nobles, Curse, Sea Hag, Pawn
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Nobles
+Stef - shuffles deck
+Stef - draws Nobles, Curse, Silver, Estate
+ 
+---------- nnn: turn 20 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Ironworks
+nnn - plays Nobles
+nnn - takes 2 actions
+nnn - plays Ironworks
+nnn - gains Estate
+nnn - draws Estate
+nnn - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+nnn - draws Curse, Silver, Copper, Copper, Pawn
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Curse, Copper, Copper
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Silver, Minion, Monument, Monument
+ 
+---------- nnn: turn 21 ----------
+nnn - plays Pawn
+nnn - takes 1 coin
+nnn - draws Minion
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Pawn, Curse, Monument, Copper, Pawn
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Sea Hag, Silver, Monument
+ 
+---------- nnn: turn 22 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - takes 1 coin
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays Copper
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Estate, Copper, Curse
+nnn - shuffles deck
+nnn - draws Curse, Estate
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Minion, Pawn, Copper
+ 
+---------- nnn: turn 23 ----------
+nnn - draws Sea Hag, Pawn, Pawn, Pawn, Minion
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Minion
+Stef - discards: Silver, Estate, Copper
+Stef - draws Curse, Nobles, Minion, Nobles
+nnn - discards: Sea Hag, Pawn, Pawn, Pawn, Minion
+nnn - draws Monument, Ironworks, Minion, Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Copper, Estate, Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Nobles
+Stef - shuffles deck
+Stef - draws Copper, Minion, Monument
+ 
+---------- nnn: turn 24 ----------
+nnn - plays Minion
+nnn - takes 2 coins
+nnn - plays Ironworks
+nnn - gains Monument
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays Copper
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Duchy, Minion, Pawn, Copper, Curse
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Minion
+Stef - discards: Curse, Copper
+Stef - draws Copper, Silver, Minion, Curse
+nnn - discards: Duchy, Minion, Pawn, Copper, Curse
+nnn - draws Curse, Estate, Silver, Pawn
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Copper, Silver, Estate, Copper
+ 
+---------- nnn: turn 25 ----------
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Pawn
+nnn - plays Pawn
+nnn - takes 1 action
+nnn - draws Minion
+nnn - plays Minion
+nnn - discards: Curse, Estate, Silver
+nnn - draws Duchy, Curse, Monument, Copper
+Stef - discards: Duchy, Copper, Silver, Estate, Copper
+Stef - draws Pawn, Estate, Sea Hag, Curse
+nnn - plays Monument
+nnn - receives 1 victory point chips
+nnn - plays Copper
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Estate, Duchy, Province, Copper, Copper
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Sea Hag
+nnn - discards Pawn
+nnn - gains Curse
+Stef - draws Duchy, Copper, Minion, Nobles, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 5 Nobles, 3 Minion, 3 Monument, 1 Sea Hag, 1 Pawn, 7 Copper, 5 Silver, 5 Estate, 4 Duchy, 4 Curse
+Stef - victory point chips: 6
+Stef - total victory points: 29
+Stef - turns: 25
+ 
+nnn - cards: 9 Pawn, 5 Minion, 3 Monument, 1 Nobles, 1 Sea Hag, 1 Ironworks, 7 Copper, 1 Silver, 5 Estate, 4 Duchy, 1 Province, 6 Curse
+nnn - victory point chips: 9
+nnn - total victory points: 28
+nnn - turns: 25
+ 
+1st place: Stef
+2nd place: nnn
+ 

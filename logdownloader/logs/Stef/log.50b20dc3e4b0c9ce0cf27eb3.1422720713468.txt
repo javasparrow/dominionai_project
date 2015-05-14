@@ -1,0 +1,592 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Herbalist, Secret Chamber, Herald, Harvest, Inn, Library, Mandarin, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nalbert - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nalbert - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+nalbert - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- nalbert: turn 1 ----------
+nalbert - plays 3 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- nalbert: turn 2 ----------
+nalbert - plays 4 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - shuffles deck
+nalbert - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- nalbert: turn 3 ----------
+nalbert - plays 3 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 5 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Silver, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- nalbert: turn 4 ----------
+nalbert - plays 3 Copper, 1 Silver
+nalbert - buys Witch
+nalbert - gains Witch
+nalbert - draws Silver, Copper
+nalbert - shuffles deck
+nalbert - draws Estate, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Secret Chamber, Estate, Estate, Copper, Copper
+ 
+---------- nalbert: turn 5 ----------
+nalbert - plays 1 Silver, 1 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Silver, Copper, Silver, Witch, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Witch, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Secret Chamber
+ 
+---------- nalbert: turn 6 ----------
+nalbert - plays Witch
+Stef - reveals reaction Secret Chamber
+Stef - draws Silver, Herald
+Stef - places Witch on top of deck
+Stef - places Estate on top of deck
+nalbert - draws Copper, Copper
+Stef - gains Curse
+nalbert - plays Silver
+nalbert - plays Copper
+nalbert - plays Silver
+nalbert - buys Witch
+nalbert - gains Witch
+nalbert - draws Copper, Copper
+nalbert - shuffles deck
+nalbert - draws Witch, Silver, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Witch
+Stef - plays Witch
+Stef - draws Copper, Witch
+nalbert - gains Curse
+Stef - plays Witch
+Stef - draws Estate, Copper
+nalbert - gains Curse
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Silver, Inn, Copper, Estate
+ 
+---------- nalbert: turn 7 ----------
+nalbert - plays Witch
+nalbert - draws Copper, Copper
+Stef - gains Curse
+nalbert - plays 4 Copper, 1 Silver
+nalbert - buys Inn
+nalbert - gains Inn
+nalbert - places Inn on top of deck
+nalbert - shuffles deck
+nalbert - draws Silver, Inn, Silver, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Inn
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Witch
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Witch
+Stef - draws Copper, Copper
+nalbert - gains Curse
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate, Witch, Copper, Secret Chamber, Silver
+ 
+---------- nalbert: turn 8 ----------
+nalbert - plays Inn
+nalbert - draws Witch, Silver
+nalbert - discards Estate
+nalbert - discards Copper
+nalbert - plays Witch
+Stef - reveals reaction Secret Chamber
+Stef - draws Herald, Estate
+Stef - places Witch on top of deck
+Stef - places Estate on top of deck
+nalbert - draws Estate, Copper
+Stef - gains Curse
+nalbert - plays 3 Silver, 1 Copper
+nalbert - buys Inn
+nalbert - gains Inn
+nalbert - places Witch, Inn on top of deck
+nalbert - shuffles deck
+nalbert - draws Witch, Copper, Inn
+nalbert - shuffles deck
+nalbert - draws Silver, Inn
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Witch
+Stef - plays Witch
+Stef - draws Curse, Copper
+nalbert - gains Curse
+Stef - plays Secret Chamber
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn, Witch, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Witch, Inn, Curse
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- nalbert: turn 9 ----------
+nalbert - plays Inn
+nalbert - draws Copper, Silver
+nalbert - discards Copper
+nalbert - discards Copper
+nalbert - plays Witch
+nalbert - draws Silver, Copper
+Stef - gains Curse
+nalbert - plays Inn
+nalbert - draws Curse, Silver
+nalbert - discards Curse
+nalbert - discards Copper
+nalbert - plays 4 Silver
+nalbert - buys Gold
+nalbert - gains Gold
+nalbert - draws Curse, Copper, Copper, Witch, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Inn
+Stef - draws Curse, Copper
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays Witch
+Stef - draws Curse, Secret Chamber
+nalbert - gains Curse
+Stef - plays Inn
+Stef - draws Gold, Witch
+Stef - discards Curse
+Stef - discards Secret Chamber
+Stef - plays Witch
+Stef - draws Copper, Copper
+nalbert - gains Curse
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate, Estate, Copper, Copper, Silver
+ 
+---------- nalbert: turn 10 ----------
+nalbert - plays Witch
+nalbert - draws Estate, Estate
+nalbert - draws Copper, Copper, Curse
+nalbert - shuffles deck
+nalbert - draws Witch, Inn
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Silver, Estate, Herald
+Stef - shuffles deck
+Stef - draws Witch
+ 
+---------- nalbert: turn 11 ----------
+nalbert - plays Inn
+nalbert - draws Silver, Silver
+nalbert - discards Curse
+nalbert - discards Copper
+nalbert - plays Witch
+nalbert - draws Copper, Curse
+nalbert - plays 2 Copper, 2 Silver
+nalbert - buys Gold
+nalbert - gains Gold
+nalbert - draws Estate, Curse, Copper, Copper, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Witch
+Stef - draws Estate, Witch
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Curse, Inn, Estate, Curse
+ 
+---------- nalbert: turn 12 ----------
+nalbert - plays 2 Copper, 1 Gold
+nalbert - buys Market
+nalbert - gains Market
+nalbert - draws Curse, Silver, Curse, Silver, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Copper, Inn
+Stef - discards Estate
+Stef - discards Curse
+Stef - plays Inn
+Stef - draws Market, Copper
+Stef - discards Curse
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Curse, Secret Chamber, Curse, Copper
+ 
+---------- nalbert: turn 13 ----------
+nalbert - plays 2 Silver
+nalbert - buys Herald
+nalbert - gains Herald
+nalbert - draws Copper, Inn, Estate, Estate, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Secret Chamber
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Herald, Gold
+Stef - shuffles deck
+Stef - draws Market, Herald, Curse
+ 
+---------- nalbert: turn 14 ----------
+nalbert - plays Inn
+nalbert - draws Witch
+nalbert - shuffles deck
+nalbert - draws Copper
+nalbert - discards Estate
+nalbert - discards Estate
+nalbert - plays Witch
+nalbert - draws Copper, Estate
+nalbert - plays 4 Copper
+nalbert - buys Herald
+nalbert - gains Herald
+nalbert - draws Silver, Curse, Curse, Silver, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Curse, Copper, Secret Chamber, Herald, Inn
+ 
+---------- nalbert: turn 15 ----------
+nalbert - plays 2 Silver, 1 Copper
+nalbert - buys Market
+nalbert - gains Market
+nalbert - draws Gold, Curse, Curse, Inn, Market
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Witch
+Stef - plays Witch
+Stef - draws Estate, Silver
+Stef - plays Inn
+Stef - draws Curse, Copper
+Stef - discards Estate
+Stef - discards Curse
+Stef - plays Secret Chamber
+Stef - discards Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Market, Witch, Estate, Inn
+ 
+---------- nalbert: turn 16 ----------
+nalbert - plays Inn
+nalbert - draws Copper, Curse
+nalbert - discards Curse
+nalbert - discards Curse
+nalbert - plays Market
+nalbert - draws Copper
+nalbert - plays 2 Copper, 1 Gold
+nalbert - buys Gold
+nalbert - gains Gold
+nalbert - draws Silver, Gold, Curse, Witch, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Inn
+Stef - draws Herald, Curse
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Witch
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Gold, Herald, Secret Chamber, Herald, Copper
+ 
+---------- nalbert: turn 17 ----------
+nalbert - plays Witch
+Stef - reveals reaction Secret Chamber
+Stef - draws Copper, Gold
+Stef - places Herald on top of deck
+Stef - places Herald on top of deck
+nalbert - draws Herald
+nalbert - shuffles deck
+nalbert - draws Estate
+nalbert - plays 2 Silver, 1 Gold
+nalbert - buys Gold
+nalbert - gains Gold
+nalbert - draws Copper, Curse, Copper, Curse, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Gold, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Herald, Herald, Gold, Copper, Market
+ 
+---------- nalbert: turn 18 ----------
+nalbert - plays 3 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Copper, Copper, Estate, Inn, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Inn
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Estate
+Stef - discards Curse
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Estate, Estate, Witch, Herald
+ 
+---------- nalbert: turn 19 ----------
+nalbert - plays Inn
+nalbert - draws Market, Gold
+nalbert - discards Estate
+nalbert - discards Copper
+nalbert - plays Market
+nalbert - draws Silver
+nalbert - plays 2 Copper, 1 Gold, 1 Silver
+nalbert - buys Province
+nalbert - gains Province
+nalbert - draws Curse, Witch, Silver, Copper, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Market
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Witch
+Stef - plays Witch
+Stef - draws Curse, Herald
+Stef - plays Witch
+Stef - draws Curse, Copper
+Stef - plays Market
+Stef - draws Secret Chamber
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - draws Copper, Inn, Silver, Gold, Silver
+ 
+---------- nalbert: turn 20 ----------
+nalbert - plays Witch
+nalbert - draws Inn, Herald
+nalbert - draws Estate, Curse, Gold, Market
+nalbert - shuffles deck
+nalbert - draws Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Inn
+Stef - draws Estate, Gold
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Province, Inn, Province, Copper
+ 
+---------- nalbert: turn 21 ----------
+nalbert - plays Market
+nalbert - draws Estate
+nalbert - plays 1 Gold, 1 Copper
+nalbert - buys Market
+nalbert - gains Market
+nalbert - draws Gold, Silver, Inn, Inn, Market
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Inn
+Stef - draws Copper, Gold
+Stef - discards Province
+Stef - discards Province
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Herald, Herald, Witch, Witch, Market, Herald, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Curse, Market, Witch, Copper, Herald
+ 
+---------- nalbert: turn 22 ----------
+nalbert - plays Market
+nalbert - draws Province
+nalbert - plays Inn
+nalbert - draws Copper, Gold
+nalbert - discards Province
+nalbert - discards Copper
+nalbert - plays Inn
+nalbert - draws Silver, Curse
+nalbert - discards Curse
+nalbert - discards Silver
+nalbert - plays 2 Gold, 1 Silver
+nalbert - buys Province
+nalbert - gains Province
+nalbert - draws Gold, Silver, Silver, Herald, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Witch
+Stef - plays Witch
+Stef - draws Herald, Inn
+Stef - plays Herald
+Stef - draws Market
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Inn
+Stef - reveals: Province
+Stef - places Province on top of deck
+Stef - plays Herald
+Stef - draws Province
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Witch
+Stef - draws Silver, Copper
+Stef - plays Market
+Stef - draws Gold
+Stef - plays Market
+Stef - draws Curse
+Stef - plays Inn
+Stef - draws Curse, Copper
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays Inn
+Stef - draws Estate, Secret Chamber
+Stef - discards Province
+Stef - discards Curse
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - draws Province, Estate, Silver, Province, Copper
+ 
+---------- nalbert: turn 23 ----------
+nalbert - plays Herald
+nalbert - draws Estate
+nalbert - reveals: Copper
+nalbert - places Copper on top of deck
+nalbert - plays 2 Silver, 1 Gold, 1 Copper
+nalbert - buys Province
+nalbert - gains Province
+nalbert - draws Copper, Copper, Witch, Silver, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 4 Herald, 3 Inn, 2 Witch, 2 Market, 2 Secret Chamber, 1 Beggar, 7 Copper, 4 Gold, 2 Silver, 5 Province, 3 Estate, 4 Curse
+Stef - total victory points: 29
+Stef - turns: 23
+ 
+nalbert - cards: 3 Market, 2 Witch, 2 Inn, 2 Herald, 7 Copper, 5 Silver, 4 Gold, 3 Estate, 3 Province, 6 Curse
+nalbert - total victory points: 15
+nalbert - turns: 23
+ 
+1st place: Stef
+2nd place: nalbert
+ 

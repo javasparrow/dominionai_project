@@ -1,0 +1,263 @@
+------------ Game Setup ------------
+Supply cards: University, Menagerie, Herald, Militia, Highway, Jester, Library, Tactician, Treasury, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+amigo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+amigo - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+amigo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- amigo: turn 1 ----------
+amigo - plays 5 Copper
+amigo - buys Potion
+amigo - gains Potion
+amigo - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- amigo: turn 2 ----------
+amigo - shuffles deck
+amigo - draws Copper, Estate, Potion, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper, Estate, Copper, Potion, Copper
+ 
+---------- amigo: turn 3 ----------
+amigo - plays 3 Copper, 1 Potion
+amigo - buys University
+amigo - gains University
+amigo - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, University, Copper
+ 
+---------- amigo: turn 4 ----------
+amigo - plays 4 Copper
+amigo - buys Herald
+amigo - gains Herald
+amigo - draws Estate
+amigo - shuffles deck
+amigo - draws Copper, Copper, Copper, University
+ 
+---------- Stef: turn 5 ----------
+Stef - plays University
+Stef - gains Tactician
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Menagerie, Potion, Copper, Copper, Estate
+ 
+---------- amigo: turn 5 ----------
+amigo - plays University
+amigo - gains Tactician
+amigo - plays 3 Copper
+amigo - buys Menagerie
+amigo - gains Menagerie
+amigo - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Potion, Copper, Copper, Estate
+Stef - draws Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Tactician
+ 
+---------- amigo: turn 6 ----------
+amigo - plays 3 Copper
+amigo - buys Menagerie
+amigo - gains Menagerie
+amigo - draws Potion, Copper, Herald
+amigo - shuffles deck
+amigo - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tactician
+Stef - discards: Estate, Copper, Copper, Copper
+Stef - draws Estate, University, University, Copper, Estate
+ 
+---------- amigo: turn 7 ----------
+amigo - plays Herald
+amigo - draws Copper
+amigo - reveals: Tactician
+amigo - plays Tactician
+amigo - discards: Potion, Copper, Copper, Copper, Copper
+amigo - draws Estate, Copper, Estate, University, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Tactician
+Stef - draws Menagerie, Potion, Herald, Copper, Copper
+Stef - plays University
+Stef - gains Tactician
+Stef - plays University
+Stef - gains Highway
+Stef - plays Menagerie
+Stef - reveals hand: Estate, Copper, Estate, Potion, Herald, Copper, Copper
+Stef - draws Copper
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Highway
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places University on top of deck
+Stef - gains Herald
+Stef - draws University, Copper, Estate, Tactician, Copper
+ 
+---------- amigo: turn 8 ----------
+amigo - duration Tactician
+amigo - draws Menagerie, Copper, Copper, Menagerie
+amigo - shuffles deck
+amigo - draws Copper
+amigo - plays Menagerie
+amigo - reveals hand: Estate, Copper, Estate, University, Estate, Menagerie, Copper, Copper, Copper
+amigo - draws Copper
+amigo - plays Menagerie
+amigo - reveals hand: Copper, Estate, Copper, Estate, University, Estate, Copper, Copper, Copper
+amigo - draws Herald
+amigo - plays Herald
+amigo - draws Potion
+amigo - reveals: Copper
+amigo - places Copper on top of deck
+amigo - plays University
+amigo - gains Tactician
+amigo - plays 5 Copper, 1 Potion
+amigo - buys University
+amigo - gains University
+amigo - buys Menagerie
+amigo - gains Menagerie
+amigo - draws Copper, Copper
+amigo - shuffles deck
+amigo - draws Menagerie, Tactician, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Highway
+Stef - plays Tactician
+Stef - discards: Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Herald, Copper, Herald, University
+ 
+---------- amigo: turn 9 ----------
+amigo - plays Menagerie
+amigo - reveals hand: Copper, Copper, Tactician, Estate
+amigo - draws Menagerie
+amigo - plays Menagerie
+amigo - reveals hand: Copper, Copper, Tactician, Estate
+amigo - draws Potion
+amigo - plays Tactician
+amigo - discards: Potion, Copper, Copper, Estate
+amigo - draws Tactician, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Tactician
+Stef - draws Estate, University, Copper, Copper, University
+Stef - plays University
+Stef - gains Highway
+Stef - plays University
+Stef - gains Highway
+Stef - plays University
+Stef - gains Highway
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Potion
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Forge
+Stef - gains Forge
+Stef - buys University
+Stef - gains University
+Stef - draws Estate, Copper, Tactician, Menagerie, Copper
+ 
+---------- amigo: turn 10 ----------
+amigo - duration Tactician
+amigo - draws Copper, Herald, Menagerie, University, Copper
+amigo - plays Menagerie
+amigo - reveals hand: Tactician, Estate, Estate, Copper, Copper, Copper, Herald, University, Copper
+amigo - draws Copper
+amigo - plays University
+amigo - gains Highway
+amigo - plays Herald
+amigo - draws University
+amigo - shuffles deck
+amigo - reveals: Highway
+amigo - plays Highway
+amigo - draws Estate
+amigo - plays University
+amigo - gains Highway
+amigo - plays Tactician
+amigo - discards: Copper, Estate, Estate, Copper, Copper, Copper, Copper, Estate
+amigo - draws Menagerie, Copper, Menagerie, Copper, Potion
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Estate, Copper, Tactician, Copper
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Tactician
+Stef - discards: Potion, Estate, Copper, Copper
+Stef - draws University, University, Estate, Copper, Copper
+ 
+---------- amigo: turn 11 ----------
+amigo - duration Tactician
+amigo - shuffles deck
+amigo - draws Copper, Highway, Copper, Herald, Copper
+amigo - plays Herald
+amigo - draws Tactician
+amigo - reveals: Estate
+amigo - places Estate on top of deck
+amigo - plays Menagerie
+amigo - reveals hand: Menagerie, Copper, Copper, Potion, Copper, Highway, Copper, Copper, Tactician
+amigo - draws Estate
+amigo - plays Highway
+amigo - draws Copper
+amigo - plays Menagerie
+amigo - reveals hand: Estate, Copper, Copper, Potion, Copper, Copper, Copper, Tactician, Copper
+amigo - draws Estate
+ 
+------------ Game Over ------------
+Stef - cards: 5 Highway, 4 University, 2 Herald, 2 Tactician, 1 Menagerie, 1 Forge, 7 Copper, 1 Potion, 3 Estate
+Stef - total victory points: 3
+Stef - turns: 11
+ 
+amigo - resigned
+amigo - cards: 2 University, 1 Tactician, 1 Highway, 1 Menagerie, 7 Copper, 1 Potion, 3 Estate
+amigo - total victory points: 3
+amigo - turns: 10
+ 
+1st place: Stef
+2nd place: amigo
+ 

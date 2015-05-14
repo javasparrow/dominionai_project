@@ -1,0 +1,465 @@
+------------ Game Setup ------------
+Supply cards: Doctor, Bridge, Militia, Spice Merchant, Counterfeit, Junk Dealer, Mountebank, Rogue, Vault, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+koinonia - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+koinonia - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+koinonia - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- koinonia: turn 1 ----------
+koinonia - plays 3 Copper
+koinonia - buys Silver
+koinonia - gains Silver
+koinonia - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- koinonia: turn 2 ----------
+koinonia - plays 4 Copper
+koinonia - buys Militia
+koinonia - gains Militia
+koinonia - shuffles deck
+koinonia - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Militia
+Stef - gains Militia
+Stef - shuffles deck
+Stef - draws Copper, Militia, Copper, Copper, Estate
+ 
+---------- koinonia: turn 3 ----------
+koinonia - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Militia
+koinonia - discards Copper
+koinonia - discards Copper
+Stef - plays 3 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- koinonia: turn 4 ----------
+koinonia - plays 3 Copper
+koinonia - buys Silver
+koinonia - gains Silver
+koinonia - draws Militia, Silver
+koinonia - shuffles deck
+koinonia - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Militia, Copper
+ 
+---------- koinonia: turn 5 ----------
+koinonia - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+koinonia - plays 2 Silver, 2 Copper
+koinonia - buys Mountebank
+koinonia - gains Mountebank
+koinonia - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Militia
+koinonia - discards Estate
+koinonia - discards Estate
+Stef - plays 2 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- koinonia: turn 6 ----------
+koinonia - plays 2 Copper
+koinonia - draws Copper, Copper, Copper
+koinonia - shuffles deck
+koinonia - draws Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - draws Estate, Mountebank, Silver, Junk Dealer
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- koinonia: turn 7 ----------
+koinonia - plays 5 Copper
+koinonia - buys Spice Merchant
+koinonia - gains Spice Merchant
+koinonia - draws Silver, Mountebank, Silver, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Estate
+Stef - plays Mountebank
+koinonia - gains Curse
+koinonia - gains Copper
+Stef - plays 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Copper, Spice Merchant, Spice Merchant
+ 
+---------- koinonia: turn 8 ----------
+koinonia - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+koinonia - plays 2 Silver, 1 Copper
+koinonia - buys Junk Dealer
+koinonia - gains Junk Dealer
+koinonia - draws Copper, Estate, Estate, Militia
+koinonia - shuffles deck
+koinonia - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Militia, Copper
+Stef - plays Militia
+koinonia - discards Estate
+koinonia - discards Estate
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Spice Merchant, Copper, Silver, Copper
+ 
+---------- koinonia: turn 9 ----------
+koinonia - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+koinonia - plays 2 Copper
+koinonia - buys Spice Merchant
+koinonia - gains Spice Merchant
+koinonia - draws Copper, Junk Dealer, Copper, Silver, Mountebank
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Spice Merchant, Mountebank
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Estate, Copper
+Stef - plays Mountebank
+koinonia - gains Curse
+koinonia - gains Copper
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold, Curse, Junk Dealer, Junk Dealer, Militia
+ 
+---------- koinonia: turn 10 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Curse
+koinonia - trashes Curse
+koinonia - plays Mountebank
+Stef - discards Curse
+koinonia - plays 2 Copper, 1 Silver
+koinonia - buys Junk Dealer
+koinonia - gains Junk Dealer
+koinonia - draws Estate, Copper, Spice Merchant, Copper, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Militia
+koinonia - discards Estate
+koinonia - discards Copper
+Stef - plays Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Junk Dealer, Curse, Junk Dealer, Spice Merchant
+ 
+---------- koinonia: turn 11 ----------
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Copper, Copper
+koinonia - plays 2 Copper, 1 Silver
+koinonia - buys Spice Merchant
+koinonia - gains Spice Merchant
+koinonia - shuffles deck
+koinonia - draws Silver, Copper, Copper, Junk Dealer, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Curse
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Militia, Estate
+Stef - plays Militia
+koinonia - discards Copper
+koinonia - discards Copper
+Stef - plays 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Mountebank, Gold, Silver, Copper
+Stef - shuffles deck
+Stef - draws Junk Dealer
+ 
+---------- koinonia: turn 12 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Curse
+koinonia - trashes Curse
+koinonia - plays 1 Silver, 1 Copper
+koinonia - buys Spice Merchant
+koinonia - gains Spice Merchant
+koinonia - draws Junk Dealer, Estate, Estate, Militia, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Junk Dealer
+Stef - draws Spice Merchant
+Stef - trashes Spice Merchant
+Stef - plays Mountebank
+koinonia - gains Curse
+koinonia - gains Copper
+Stef - plays 1 Gold, 1 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Gold, Gold, Estate, Spice Merchant, Junk Dealer
+ 
+---------- koinonia: turn 13 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Copper
+koinonia - trashes Estate
+koinonia - plays Militia
+Stef - discards Spice Merchant
+Stef - discards Gold
+koinonia - buys Silver
+koinonia - gains Silver
+koinonia - draws Copper, Spice Merchant, Spice Merchant, Mountebank, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Junk Dealer
+Stef - draws Militia
+Stef - trashes Estate
+Stef - plays Militia
+koinonia - discards Copper
+koinonia - discards Spice Merchant
+Stef - plays 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Copper, Junk Dealer, Gold, Junk Dealer, Militia
+ 
+---------- koinonia: turn 14 ----------
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Copper, Copper
+koinonia - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+koinonia - plays 2 Copper
+koinonia - buys Silver
+koinonia - gains Silver
+koinonia - draws Spice Merchant, Silver
+koinonia - shuffles deck
+koinonia - draws Militia, Silver, Junk Dealer
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Copper
+Stef - plays Militia
+koinonia - discards Militia
+koinonia - discards Spice Merchant
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Spice Merchant, Gold, Mountebank, Silver, Gold
+ 
+---------- koinonia: turn 15 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Mountebank
+koinonia - trashes Silver
+koinonia - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+koinonia - plays 1 Silver
+koinonia - buys Counterfeit
+koinonia - gains Counterfeit
+koinonia - draws Copper, Spice Merchant, Spice Merchant, Spice Merchant, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mountebank
+koinonia - gains Curse
+koinonia - gains Copper
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Curse, Copper, Silver, Gold
+ 
+---------- koinonia: turn 16 ----------
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Curse, Estate
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Estate, Copper
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Copper, Copper
+koinonia - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 2 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Spice Merchant, Mountebank, Gold, Junk Dealer
+ 
+---------- koinonia: turn 17 ----------
+koinonia - plays 3 Copper, 2 Silver
+koinonia - buys Gold
+koinonia - gains Gold
+koinonia - draws Junk Dealer
+koinonia - shuffles deck
+koinonia - draws Curse, Copper, Militia, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Militia, Gold
+Stef - plays Mountebank
+koinonia - discards Curse
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Curse, Gold, Province, Junk Dealer
+ 
+---------- koinonia: turn 18 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Curse
+koinonia - trashes Curse
+koinonia - plays Militia
+Stef - discards Gold
+Stef - discards Province
+koinonia - plays 1 Copper, 1 Silver
+koinonia - buys Gold
+koinonia - gains Gold
+koinonia - draws Mountebank, Copper, Spice Merchant, Copper, Spice Merchant
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Militia
+Stef - trashes Curse
+Stef - plays Militia
+koinonia - discards Spice Merchant
+koinonia - discards Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Province, Mountebank, Gold, Province, Gold
+ 
+---------- koinonia: turn 19 ----------
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Counterfeit, Estate
+koinonia - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+koinonia - plays Counterfeit
+koinonia - buys Silver
+koinonia - gains Silver
+koinonia - draws Junk Dealer, Gold, Copper, Estate, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Mountebank
+koinonia - gains Curse
+koinonia - gains Copper
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Junk Dealer, Gold, Silver, Gold, Gold
+ 
+---------- koinonia: turn 20 ----------
+koinonia - plays Junk Dealer
+koinonia - draws Silver
+koinonia - trashes Estate
+koinonia - plays 2 Copper, 1 Gold, 1 Silver
+koinonia - buys Province
+koinonia - gains Province
+koinonia - draws Copper, Silver, Spice Merchant, Spice Merchant
+koinonia - shuffles deck
+koinonia - draws Spice Merchant
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Spice Merchant, Province, Copper
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- koinonia: turn 21 ----------
+koinonia - plays Spice Merchant
+koinonia - trashes Copper
+koinonia - chooses two cards and one action
+koinonia - draws Junk Dealer, Silver
+koinonia - plays Junk Dealer
+koinonia - draws Curse
+koinonia - trashes Curse
+koinonia - plays Spice Merchant
+koinonia - trashes Silver
+koinonia - chooses two cards and one action
+koinonia - draws Copper, Junk Dealer
+koinonia - plays Junk Dealer
+koinonia - draws Militia
+koinonia - trashes Spice Merchant
+koinonia - plays Militia
+ 
+------------ Game Over ------------
+Stef - cards: 2 Junk Dealer, 1 Spice Merchant, 1 Mountebank, 1 Militia, 5 Gold, 2 Copper, 2 Silver, 6 Province, 2 Curse
+Stef - total victory points: 34
+Stef - turns: 20
+ 
+koinonia - resigned
+koinonia - cards: 1 Spice Merchant, 1 Mountebank, 5 Copper, 3 Silver, 2 Gold, 1 Counterfeit, 1 Province, 1 Estate, 1 Curse
+koinonia - total victory points: 6
+koinonia - turns: 20
+ 
+1st place: Stef
+2nd place: koinonia
+ 

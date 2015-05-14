@@ -1,0 +1,835 @@
+------------ Game Setup ------------
+Supply cards: Village, Workshop, Advisor, Bureaucrat, Conspirator, Throne Room, Trader, Outpost, Trading Post, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kurs_C - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+kurs_C - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+kurs_C - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- kurs_C: turn 1 ----------
+kurs_C - plays 3 Copper
+kurs_C - buys Silver
+kurs_C - gains Silver
+kurs_C - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- kurs_C: turn 2 ----------
+kurs_C - plays 4 Copper
+kurs_C - buys Trader
+kurs_C - gains Trader
+kurs_C - shuffles deck
+kurs_C - draws Copper, Estate, Copper, Trader, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Advisor, Estate, Copper, Copper, Copper
+ 
+---------- kurs_C: turn 3 ----------
+kurs_C - plays Trader
+kurs_C - trashes Estate
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - plays 3 Copper
+kurs_C - buys Workshop
+kurs_C - gains Workshop
+kurs_C - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Advisor
+Stef - reveals: Estate, Workshop
+Stef - shuffles deck
+Stef - reveals: Copper
+kurs_C - discards Workshop
+Stef - places cards in hand:  Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Estate, Advisor, Copper, Copper
+ 
+---------- kurs_C: turn 4 ----------
+kurs_C - plays 4 Copper
+kurs_C - buys Trader
+kurs_C - gains Trader
+kurs_C - draws Estate, Silver
+kurs_C - shuffles deck
+kurs_C - draws Copper, Silver, Trader
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Estate, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Estate, Advisor
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Copper
+kurs_C - discards Copper
+Stef - places cards in hand:  Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Workshop, Copper, Copper
+Stef - shuffles deck
+Stef - draws Advisor, Advisor
+ 
+---------- kurs_C: turn 5 ----------
+kurs_C - plays Trader
+kurs_C - trashes Estate
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - plays 2 Silver, 1 Copper
+kurs_C - buys Trading Post
+kurs_C - gains Trading Post
+kurs_C - draws Copper, Workshop, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Advisor
+Stef - reveals: Conspirator, Estate, Copper
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Estate
+kurs_C - discards Copper
+Stef - places cards in hand:  Estate, Estate
+Stef - plays Workshop
+Stef - gains Advisor
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Copper, Copper, Copper, Advisor
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- kurs_C: turn 6 ----------
+kurs_C - plays Workshop
+kurs_C - gains Village
+kurs_C - plays 4 Copper
+kurs_C - buys Village
+kurs_C - gains Village
+kurs_C - draws Silver, Estate, Copper, Trader, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Copper, Copper, Workshop, Village, Advisor
+ 
+---------- kurs_C: turn 7 ----------
+kurs_C - plays Trader
+kurs_C - trashes Estate
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - plays 2 Copper, 1 Silver
+kurs_C - buys Conspirator
+kurs_C - gains Conspirator
+kurs_C - shuffles deck
+kurs_C - draws Copper, Copper, Silver, Village, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Village
+Stef - draws Advisor
+Stef - plays Workshop
+Stef - gains Advisor
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Copper, Advisor, Estate
+kurs_C - discards Advisor
+Stef - places cards in hand:  Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Copper, Conspirator, Throne Room, Copper
+ 
+---------- kurs_C: turn 8 ----------
+kurs_C - plays Village
+kurs_C - draws Silver
+kurs_C - plays 3 Copper, 2 Silver
+kurs_C - buys Gold
+kurs_C - gains Gold
+kurs_C - draws Copper, Trader, Village, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Estate
+Stef - shuffles deck
+Stef - reveals: Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Estate, Advisor
+Stef - plays Advisor
+Stef - reveals: Workshop, Advisor, Copper
+kurs_C - discards Advisor
+Stef - places cards in hand:  Workshop, Copper
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Copper
+Stef - buys Trading Post
+Stef - gains Trading Post
+Stef - draws Estate, Village, Copper, Estate, Copper
+ 
+---------- kurs_C: turn 9 ----------
+kurs_C - plays Village
+kurs_C - draws Workshop
+kurs_C - plays Workshop
+kurs_C - gains Conspirator
+kurs_C - plays Trader
+kurs_C - trashes Silver
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - draws Silver, Trader, Silver, Conspirator, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Village
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor
+Stef - shuffles deck
+Stef - reveals: Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Copper, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Conspirator, Copper
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Copper, Copper
+Stef - plays 6 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Advisor, Copper, Workshop, Estate, Advisor
+ 
+---------- kurs_C: turn 10 ----------
+kurs_C - plays Conspirator
+kurs_C - plays 2 Silver, 1 Copper
+kurs_C - buys Gold
+kurs_C - gains Gold
+kurs_C - draws Silver, Copper, Silver, Trading Post
+kurs_C - shuffles deck
+kurs_C - draws Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Trading Post
+Stef - shuffles deck
+Stef - reveals: Conspirator
+kurs_C - discards Trading Post
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Copper, Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Copper
+kurs_C - discards Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Estate
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Estate
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Village
+kurs_C - discards Village
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper
+Stef - shuffles deck
+Stef - reveals: Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Throne Room, Trading Post
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Copper, Trading Post
+Stef - plays Trading Post
+Stef - trashes Estate, Estate
+Stef - gains Silver
+Stef - plays Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Village
+Stef - shuffles deck
+Stef - draws Advisor, Copper, Advisor, Advisor
+ 
+---------- kurs_C: turn 11 ----------
+kurs_C - plays Trading Post
+kurs_C - trashes Copper, Copper
+kurs_C - gains Silver
+kurs_C - plays 3 Silver
+kurs_C - buys Gold
+kurs_C - gains Gold
+kurs_C - draws Gold, Silver, Copper, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Workshop
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Workshop
+Stef - plays Advisor
+Stef - reveals: Copper, Conspirator, Copper
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Copper
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Trading Post, Copper, Copper
+kurs_C - discards Trading Post
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Silver
+kurs_C - discards Silver
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Throne Room, Advisor, Silver
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Silver
+Stef - plays Advisor
+Stef - reveals: Trading Post, Advisor, Conspirator
+kurs_C - discards Trading Post
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Throne Room, Trading Post
+kurs_C - discards Trading Post
+Stef - places cards in hand:  Throne Room
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Trading Post
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Trading Post
+Stef - trashes Estate, Copper
+Stef - gains Silver
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 4 Copper, 3 Silver
+Stef - buys Outpost
+Stef - gains Outpost
+Stef - draws Throne Room
+Stef - shuffles deck
+Stef - draws Copper, Copper, Advisor, Trading Post
+ 
+---------- kurs_C: turn 12 ----------
+kurs_C - plays 3 Silver, 1 Gold, 1 Copper
+kurs_C - buys Platinum
+kurs_C - gains Platinum
+kurs_C - draws Trader, Conspirator, Copper, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Silver, Outpost, Workshop
+kurs_C - discards Outpost
+Stef - places cards in hand:  Silver, Workshop
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Silver
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Throne Room
+kurs_C - discards Advisor
+Stef - places cards in hand:  Throne Room, Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Workshop
+Stef - gains Advisor
+Stef - plays Throne Room
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays Trading Post
+Stef - trashes Silver, Silver
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Advisor, Conspirator, Copper, Copper, Advisor
+ 
+---------- kurs_C: turn 13 ----------
+kurs_C - plays Conspirator
+kurs_C - plays 2 Copper, 1 Silver
+kurs_C - buys Gold
+kurs_C - gains Gold
+kurs_C - draws Silver, Workshop, Silver, Gold, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Advisor
+Stef - reveals: Silver, Throne Room, Village
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Silver, Village
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor
+Stef - shuffles deck
+Stef - reveals: Outpost
+kurs_C - discards Outpost
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Silver, Throne Room, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Silver, Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Workshop
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Workshop
+Stef - plays Advisor
+Stef - reveals: Silver, Trading Post, Throne Room
+kurs_C - discards Trading Post
+Stef - places cards in hand:  Silver, Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Conspirator
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Throne Room, Outpost, Throne Room
+kurs_C - discards Outpost
+Stef - places cards in hand:  Throne Room, Throne Room
+Stef - plays Advisor
+Stef - reveals: Trading Post, Throne Room, Advisor
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Trading Post, Advisor
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Throne Room, Outpost
+kurs_C - discards Outpost
+Stef - places cards in hand:  Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays Trading Post
+Stef - trashes Silver, Silver
+Stef - gains Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Advisor
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Advisor
+Stef - plays Conspirator
+Stef - draws Outpost
+Stef - plays Conspirator
+Stef - draws Throne Room
+Stef - plays Outpost
+Stef - plays 3 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - duration Outpost
+Stef - shuffles deck
+Stef - draws Throne Room, Silver, Advisor
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room, Throne Room, Village
+kurs_C - discards Village
+Stef - places cards in hand:  Throne Room, Throne Room
+Stef - plays Advisor
+Stef - reveals: Colony, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Colony, Advisor
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Conspirator, Throne Room, Conspirator
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Conspirator, Conspirator
+Stef - plays Advisor
+Stef - reveals: Silver, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Silver, Advisor
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Workshop, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Workshop, Advisor
+Stef - plays Advisor
+Stef - reveals: Throne Room, Silver, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Throne Room, Silver
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Trading Post
+Stef - shuffles deck
+Stef - reveals: Throne Room, Advisor
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Trading Post, Advisor
+Stef - plays Advisor
+Stef - reveals: Village, Advisor, Advisor
+kurs_C - discards Village
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room
+Stef - shuffles deck
+Stef - reveals: Throne Room
+kurs_C - discards Advisor
+Stef - places cards in hand:  Throne Room, Throne Room
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Conspirator
+Stef - plays Workshop
+Stef - gains Conspirator
+Stef - plays Advisor
+Stef - reveals: Village
+Stef - shuffles deck
+Stef - reveals: Advisor, Conspirator
+kurs_C - discards Village
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - reveals: Conspirator
+Stef - shuffles deck
+Stef - reveals: Village
+kurs_C - discards Village
+Stef - places cards in hand:  Conspirator
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Trading Post
+Stef - trashes Silver, Silver
+Stef - gains Silver
+Stef - plays Trading Post
+Stef - trashes Silver, Silver
+Stef - gains Silver
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Village
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Advisor, Throne Room, Advisor, Throne Room, Conspirator
+ 
+---------- kurs_C: turn 14 ----------
+kurs_C - plays Workshop
+kurs_C - gains Conspirator
+kurs_C - plays 2 Silver, 1 Gold, 1 Copper
+kurs_C - buys Province
+kurs_C - gains Province
+kurs_C - draws Silver, Copper, Trader, Village, Village
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Workshop, Advisor, Colony
+kurs_C - discards Advisor
+Stef - places cards in hand:  Workshop, Colony
+Stef - plays Advisor
+Stef - reveals: Throne Room, Advisor, Conspirator
+kurs_C - discards Advisor
+Stef - places cards in hand:  Throne Room, Conspirator
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Conspirator, Trading Post, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Conspirator, Trading Post
+Stef - plays Advisor
+Stef - reveals: Colony, Throne Room, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Colony, Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Outpost
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver, Advisor
+kurs_C - discards Silver
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Conspirator
+Stef - draws Throne Room
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Outpost
+Stef - buys Colony
+Stef - gains Colony
+Stef - duration Outpost
+Stef - draws Village
+Stef - shuffles deck
+Stef - draws Advisor, Advisor
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Advisor
+Stef - reveals: Workshop, Conspirator, Advisor
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Workshop, Advisor
+Stef - plays Advisor
+Stef - reveals: Colony, Advisor, Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Colony, Advisor
+Stef - plays Advisor
+Stef - reveals: Colony, Conspirator, Throne Room
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Colony, Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room, Conspirator, Silver
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Throne Room, Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Village
+Stef - draws Advisor
+Stef - plays Village
+Stef - draws Advisor
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room, Advisor, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Throne Room, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Trading Post, Colony
+kurs_C - discards Advisor
+Stef - places cards in hand:  Trading Post, Colony
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room
+Stef - shuffles deck
+Stef - reveals: Throne Room, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Throne Room, Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Conspirator, Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - reveals: Conspirator, Conspirator
+Stef - shuffles deck
+Stef - reveals: Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Conspirator, Conspirator
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - draws Advisor
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Throne Room
+Stef - plays Conspirator
+Stef - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Throne Room, Advisor, Advisor, Conspirator, Throne Room
+ 
+---------- kurs_C: turn 15 ----------
+kurs_C - plays Village
+kurs_C - draws Conspirator
+kurs_C - plays Village
+kurs_C - shuffles deck
+kurs_C - draws Copper
+kurs_C - plays Conspirator
+kurs_C - draws Trading Post
+kurs_C - plays Trader
+kurs_C - trashes Trading Post
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - gains Silver
+kurs_C - plays 2 Copper, 1 Silver
+kurs_C - buys Duchy
+kurs_C - gains Duchy
+kurs_C - draws Province, Platinum, Conspirator, Workshop, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Workshop, Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Advisor, Workshop
+Stef - plays Advisor
+Stef - reveals: Throne Room, Colony, Throne Room
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Throne Room, Colony
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Colony
+kurs_C - discards Advisor
+Stef - places cards in hand:  Advisor, Colony
+Stef - plays Advisor
+Stef - reveals: Advisor, Colony, Advisor
+kurs_C - discards Advisor
+Stef - places cards in hand:  Colony, Advisor
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room, Conspirator, Silver
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Throne Room, Silver
+Stef - plays Advisor
+Stef - reveals: Throne Room, Advisor, Village
+kurs_C - discards Village
+Stef - places cards in hand:  Throne Room, Advisor
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Throne Room, Conspirator, Advisor
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Throne Room, Advisor
+Stef - plays Advisor
+Stef - reveals: Outpost, Trading Post, Colony
+kurs_C - discards Outpost
+Stef - places cards in hand:  Trading Post, Colony
+Stef - plays Advisor
+Stef - reveals: Throne Room, Advisor
+Stef - shuffles deck
+Stef - reveals: Village
+kurs_C - discards Advisor
+Stef - places cards in hand:  Throne Room, Village
+Stef - plays Advisor
+Stef - reveals: Advisor, Conspirator, Conspirator
+kurs_C - discards Conspirator
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Advisor
+Stef - reveals: Throne Room, Outpost, Conspirator
+kurs_C - discards Outpost
+Stef - places cards in hand:  Throne Room, Conspirator
+Stef - plays Advisor
+Stef - reveals: Advisor
+Stef - shuffles deck
+Stef - reveals: Conspirator, Outpost
+kurs_C - discards Outpost
+Stef - places cards in hand:  Advisor, Conspirator
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays Advisor
+Stef - reveals: Advisor
+Stef - shuffles deck
+Stef - reveals: Outpost, Workshop
+kurs_C - discards Outpost
+Stef - places cards in hand:  Advisor, Workshop
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Throne Room
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays Advisor
+Stef - reveals: Throne Room
+Stef - shuffles deck
+Stef - reveals: Throne Room, Workshop
+kurs_C - discards Throne Room
+Stef - places cards in hand:  Throne Room, Workshop
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Conspirator
+Stef - draws Outpost
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Workshop
+Stef - gains Conspirator
+Stef - plays Workshop
+Stef - gains Conspirator
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Workshop, Advisor, Advisor, Conspirator, Advisor
+ 
+------------ Game Over ------------
+Stef - cards: 10 Advisor, 10 Throne Room, 7 Conspirator, 3 Workshop, 1 Village, 1 Trading Post, 1 Outpost, 1 Silver, 4 Colony
+Stef - total victory points: 40
+Stef - turns: 16
+ 
+kurs_C - cards: 3 Conspirator, 2 Village, 2 Trader, 15 Silver, 1 Workshop, 5 Copper, 4 Gold, 1 Platinum, 1 Province, 1 Duchy
+kurs_C - total victory points: 9
+kurs_C - turns: 15
+ 
+1st place: Stef
+2nd place: kurs_C
+ 

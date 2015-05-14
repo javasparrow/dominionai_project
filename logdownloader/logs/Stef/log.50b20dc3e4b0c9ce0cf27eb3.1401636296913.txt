@@ -1,0 +1,426 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Courtyard, Vagrant, Market Square, Fortress, Thief, Library, Merchant Ship, Torturer, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+yed - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Vagrant
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays 5 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Torturer, Estate, Copper, Copper, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Torturer
+yed - gains Torturer
+yed - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Torturer
+Stef - shuffles deck
+Stef - draws Copper, Torturer, Copper
+yed - discards Estate
+yed - discards Estate
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Vagrant, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Fortress
+yed - gains Fortress
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Silver, Estate, Torturer
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Torturer
+Stef - places Torturer on top of deck
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Torturer, Fortress, Torturer, Copper, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays Torturer
+yed - draws Silver, Copper, Copper
+Stef - discards Estate
+Stef - discards Copper
+yed - plays 4 Copper, 2 Silver
+yed - buys Torturer
+yed - gains Torturer
+yed - draws Copper, Estate, Copper, Fortress, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Torturer
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+yed - discards Estate
+yed - discards Estate
+Stef - plays Torturer
+Stef - draws Fortress, Copper, Copper
+yed - discards Copper
+yed - discards Copper
+Stef - plays 5 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate, Estate, Vagrant, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Fortress, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Torturer
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Torturer
+Stef - draws Copper, Copper, Torturer
+yed - discards Estate
+yed - discards Copper
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Estate, Torturer, Copper, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Fortress
+yed - draws Estate
+yed - plays 2 Copper
+yed - buys Vagrant
+yed - gains Vagrant
+yed - draws Silver, Silver, Torturer, Torturer, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Torturer
+Stef - draws Fortress
+Stef - shuffles deck
+Stef - draws Copper, Vagrant
+yed - discards Estate
+yed - discards Torturer
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Torturer, Estate, Copper
+yed - gains Curse
+Stef - plays Torturer
+Stef - draws Copper
+yed - discards Curse
+yed - discards Silver
+Stef - plays 7 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - shuffles deck
+Stef - draws Copper, Copper, Torturer, Torturer, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Torturer
+yed - draws Copper, Copper, Copper
+Stef - discards Estate
+Stef - discards Torturer
+yed - plays 3 Copper, 1 Silver
+yed - buys Torturer
+yed - gains Torturer
+yed - draws Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Copper, Vagrant
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Torturer
+Stef - draws Copper, Torturer, Copper
+yed - discards Estate
+yed - discards Copper
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Vagrant, Fortress, Copper, Estate, Fortress
+ 
+---------- yed: turn 9 ----------
+yed - plays Vagrant
+yed - draws Copper
+yed - reveals: Torturer
+yed - places Torturer on top of deck
+yed - plays 3 Copper
+yed - buys Market Square
+yed - gains Market Square
+yed - draws Torturer, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Fortress
+Stef - places Fortress on top of deck
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Torturer
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Torturer
+yed - gains Curse
+Stef - plays Torturer
+Stef - draws Copper, Copper, Torturer
+yed - discards Curse
+yed - discards Estate
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Estate, Copper, Copper
+yed - discards Copper
+yed - discards Copper
+Stef - plays Torturer
+Stef - draws Fortress
+yed - gains Curse
+Stef - plays 7 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Copper, Fortress, Estate, Copper, Fortress
+ 
+---------- yed: turn 10 ----------
+yed - plays Torturer
+yed - draws Silver, Curse, Torturer
+Stef - discards Estate
+Stef - discards Copper
+yed - plays 1 Copper, 1 Silver
+yed - buys Vagrant
+yed - gains Vagrant
+yed - draws Fortress, Estate, Torturer, Silver
+yed - shuffles deck
+yed - draws Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Torturer
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Torturer
+Stef - draws Copper, Copper, Torturer
+yed - discards Estate
+yed - discards Estate
+Stef - plays Torturer
+Stef - draws Estate, Copper, Torturer
+yed - gains Curse
+Stef - plays Torturer
+Stef - draws Copper, Fortress, Estate
+yed - gains Curse
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Fortress
+Stef - shuffles deck
+Stef - draws Copper, Estate
+yed - discards Curse
+yed - discards Curse
+Stef - plays 7 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - shuffles deck
+Stef - draws Fortress, Copper, Copper, Copper, Fortress
+ 
+---------- yed: turn 11 ----------
+yed - plays Fortress
+yed - draws Torturer
+yed - plays Torturer
+yed - draws Curse, Silver, Copper
+Stef - discards Copper
+Stef - discards Copper
+yed - plays Torturer
+yed - draws Copper, Estate, Copper
+Stef - discards Copper
+Stef - discards Fortress
+yed - plays 3 Copper, 2 Silver
+yed - buys Wharf
+yed - gains Wharf
+yed - draws Torturer, Vagrant, Copper, Market Square, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Torturer, Estate, Torturer
+yed - discards Copper
+yed - discards Copper
+Stef - plays Torturer
+Stef - draws Estate, Estate, Fortress
+yed - gains Curse
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Torturer
+Stef - draws Copper, Torturer, Vagrant
+yed - gains Curse
+Stef - plays Fortress
+Stef - draws Wharf
+Stef - plays Torturer
+Stef - draws Copper, Copper, Copper
+yed - discards Curse
+yed - discards Curse
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Fortress
+Stef - places Fortress on top of deck
+Stef - plays Wharf
+Stef - draws Fortress, Copper
+Stef - plays 6 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fortress, Estate, Torturer, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays Vagrant
+yed - draws Vagrant
+yed - reveals: Copper
+yed - places Copper on top of deck
+yed - plays Vagrant
+yed - draws Copper
+yed - reveals: Curse
+yed - places Curse in hand
+yed - plays Market Square
+yed - draws Copper
+yed - plays Torturer
+yed - draws Curse
+yed - shuffles deck
+yed - draws Wharf, Curse
+Stef - discards Estate
+Stef - discards Copper
+yed - plays 2 Copper
+yed - buys Vagrant
+yed - gains Vagrant
+yed - draws Fortress, Estate, Curse, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Wharf
+Stef - draws Estate, Fortress
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Vagrant
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Torturer
+Stef - draws Torturer, Fortress, Copper
+yed - discards Curse
+yed - discards Estate
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Copper, Fortress, Estate
+yed - gains Curse
+Stef - plays Torturer
+Stef - draws Copper, Vagrant, Copper
+yed - gains Curse
+Stef - plays Vagrant
+Stef - draws Torturer
+Stef - reveals: Fortress
+Stef - places Fortress on top of deck
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Torturer
+yed - discards Curse
+yed - discards Curse
+Stef - plays 7 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Copper, Fortress, Fortress, Vagrant, Fortress
+ 
+---------- yed: turn 13 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Fortress
+yed - gains Fortress
+yed - draws Curse, Copper, Silver, Curse, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Fortress
+Stef - draws Wharf
+ 
+------------ Game Over ------------
+Stef - cards: 5 Fortress, 4 Torturer, 3 Vagrant, 1 Wharf, 1 Merchant Ship, 7 Copper, 3 Estate
+Stef - total victory points: 3
+Stef - turns: 13
+ 
+yed - resigned
+yed - cards: 3 Vagrant, 3 Torturer, 2 Fortress, 1 Market Square, 1 Wharf, 7 Copper, 2 Silver, 3 Estate, 9 Curse
+yed - total victory points: -6
+yed - turns: 13
+ 
+1st place: Stef
+2nd place: yed
+ 

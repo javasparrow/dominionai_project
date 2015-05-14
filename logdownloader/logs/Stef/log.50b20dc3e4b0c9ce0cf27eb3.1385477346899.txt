@@ -1,0 +1,477 @@
+------------ Game Setup ------------
+Supply cards: Smugglers, Swindler, Workshop, Philosopher's Stone, Conspirator, Procession, Smithy, Pillage, Soothsayer, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+RTT - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 1 ----------
+RTT - plays Copper
+RTT - plays Copper
+RTT - plays Copper
+RTT - buys Swindler
+RTT - gains Swindler
+RTT - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Soothsayer
+RTT - gains Soothsayer
+RTT - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Swindler, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Swindler, Copper
+RTT - shuffles deck
+RTT - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Soothsayer, Swindler, Estate, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Workshop
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Silver, Soothsayer, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Swindler
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Soothsayer
+RTT - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Pillage
+RTT - gains Pillage
+RTT - draws Copper, Estate
+RTT - shuffles deck
+RTT - draws Pillage, Copper, Gold
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Swindler
+RTT - reveals Soothsayer
+RTT - trashes Soothsayer
+RTT - gains Duchy
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Swindler, Copper, Copper, Silver, Gold
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Pillage
+RTT - trashes Pillage
+Stef - reveals Swindler, Copper, Copper, Silver, Gold
+Stef - discards Swindler
+RTT - gains Spoils
+RTT - gains Spoils
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Soothsayer
+RTT - gains Soothsayer
+RTT - draws Copper, Copper, Copper, Gold, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Estate, Soothsayer, Workshop, Copper, Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays 4 Copper, 1 Gold
+RTT - buys Goons
+RTT - gains Goons
+RTT - draws Estate, Silver, Silver, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+RTT - gains Curse
+RTT - draws Swindler
+Stef - shuffles deck
+Stef - draws Copper, Gold, Copper, Silver, Swindler
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+RTT - plays 2 Silver, 1 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - shuffles deck
+RTT - draws Copper, Copper, Copper, Spoils, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Swindler
+RTT - reveals Duchy
+RTT - trashes Duchy
+RTT - gains Duchy
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Copper, Goons, Soothsayer
+ 
+---------- RTT: turn 10 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - plays Spoils
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper, Spoils, Soothsayer, Goons, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+RTT - gains Curse
+RTT - draws Copper
+Stef - draws Copper, Workshop, Copper, Swindler, Gold
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Goons
+Stef - discards Workshop
+Stef - discards Copper
+RTT - plays 2 Copper, 1 Gold
+RTT - plays Spoils
+RTT - buys Province
+RTT - receives 1 victory point chips
+RTT - gains Province
+RTT - buys Estate
+RTT - receives 1 victory point chips
+RTT - gains Estate
+RTT - draws Curse, Gold, Silver, Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Swindler
+RTT - reveals Swindler
+RTT - trashes Swindler
+RTT - gains Workshop
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Curse, Silver, Estate, Estate
+Stef - shuffles deck
+Stef - draws Goons
+ 
+---------- RTT: turn 12 ----------
+RTT - plays 1 Gold, 1 Silver, 1 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Estate, Gold, Estate, Copper
+RTT - shuffles deck
+RTT - draws Workshop
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Goons
+RTT - discards Estate
+RTT - discards Estate
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - receives 1 victory point chips
+Stef - gains Silver
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Copper, Gold, Copper, Goons, Copper
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Workshop
+RTT - gains Swindler
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Silver, Copper, Copper, Soothsayer
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Goons
+RTT - discards Copper
+RTT - discards Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Curse, Soothsayer, Gold, Swindler, Copper
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Soothsayer
+RTT - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+RTT - plays 1 Copper, 1 Silver
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Curse, Copper, Goons, Duchy, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Swindler
+RTT - reveals Gold
+RTT - trashes Gold
+RTT - gains Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Workshop, Estate, Gold, Silver, Swindler
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Goons
+Stef - discards Estate
+Stef - discards Workshop
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Goons
+RTT - receives 1 victory point chips
+RTT - gains Goons
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Copper, Copper, Curse, Estate, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Swindler
+RTT - reveals Province
+RTT - trashes Province
+RTT - gains Province
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Province
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Soothsayer
+ 
+---------- RTT: turn 16 ----------
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Estate, Silver, Province
+RTT - shuffles deck
+RTT - draws Copper, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+RTT - gains Curse
+RTT - draws Swindler
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Goons, Copper, Gold, Estate
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+RTT - plays 1 Silver, 1 Copper, 1 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Estate, Copper, Goons, Gold, Duchy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Goons
+RTT - discards Estate
+RTT - discards Duchy
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - draws Gold, Goons, Curse, Gold, Copper
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Goons
+Stef - discards Curse
+Stef - discards Copper
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Duchy
+RTT - receives 1 victory point chips
+RTT - gains Duchy
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Silver, Province, Silver, Estate, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Goons
+RTT - discards Estate
+RTT - discards Province
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Curse, Estate, Copper, Curse, Silver
+ 
+---------- RTT: turn 19 ----------
+RTT - plays 2 Silver, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Copper, Curse, Curse, Copper, Soothsayer
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Swindler, Province, Copper, Workshop
+ 
+---------- RTT: turn 20 ----------
+RTT - plays 2 Copper
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Goons, Silver, Copper, Workshop, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Swindler
+RTT - reveals Gold
+RTT - trashes Gold
+RTT - gains Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Goons, Swindler, Estate, Silver
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- RTT: turn 21 ----------
+RTT - plays Goons
+Stef - discards Estate
+Stef - discards Estate
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Duchy
+RTT - receives 1 victory point chips
+RTT - gains Duchy
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Estate, Copper, Gold, Copper, Duchy
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Goons
+RTT - discards Duchy
+RTT - discards Estate
+Stef - plays Silver
+Stef - buys Silver
+Stef - receives 1 victory point chips
+Stef - gains Silver
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Copper, Duchy, Gold, Duchy, Estate
+ 
+---------- RTT: turn 22 ----------
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Smithy
+RTT - gains Smithy
+RTT - shuffles deck
+RTT - draws Estate, Swindler, Gold, Province, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Curse, Province, Workshop, Swindler
+ 
+---------- RTT: turn 23 ----------
+RTT - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Goons
+RTT - gains Goons
+RTT - draws Duchy, Gold, Copper, Duchy, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+Stef - draws Silver, Copper, Estate, Gold, Silver
+ 
+---------- RTT: turn 24 ----------
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Curse
+RTT - gains Curse
+RTT - draws Silver, Workshop, Goons, Smithy, Estate
+ 
+---------- Stef: turn 25 ----------
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Goons, Copper, Copper, Goons, Province
+ 
+------------ Game Over ------------
+Stef - cards: 3 Goons, 2 Swindler, 1 Workshop, 1 Soothsayer, 9 Copper, 5 Silver, 4 Gold, 7 Estate, 4 Province, 2 Duchy, 4 Curse
+Stef - victory point chips: 10
+Stef - total victory points: 43
+Stef - turns: 25
+ 
+RTT - cards: 3 Goons, 1 Workshop, 1 Smithy, 1 Swindler, 10 Copper, 1 Soothsayer, 5 Gold, 4 Silver, 5 Duchy, 4 Estate, 3 Province, 4 Curse
+RTT - victory point chips: 8
+RTT - total victory points: 41
+RTT - turns: 24
+ 
+1st place: Stef
+2nd place: RTT
+ 

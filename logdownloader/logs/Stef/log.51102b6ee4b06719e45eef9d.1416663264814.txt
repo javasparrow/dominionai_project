@@ -1,0 +1,483 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Develop, Loan, Market Square, Caravan, Farming Village, Mining Village, Jester, Rogue, Stash, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Estate, Estate, Estate, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 5 Copper
+yed - buys Stash
+yed - gains Stash
+yed - places Stashes at locations: 1
+yed - shuffles deck
+yed - draws Stash, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate, Loan, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper, 1 Stash
+yed - buys Stash
+yed - gains Stash
+yed - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Loan
+Stef - reveals Develop, Copper
+Stef - trashes Copper
+Stef - discards Develop
+Stef - plays 2 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - draws Copper
+yed - places Stashes at locations: 2,1
+yed - shuffles deck
+yed - draws Stash, Stash, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Market Square, Loan, Copper, Estate, Develop
+ 
+---------- yed: turn 5 ----------
+yed - plays 3 Copper, 2 Stash
+yed - buys Stash
+yed - gains Stash
+yed - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Market Square
+Stef - plays Loan
+Stef - reveals Market Square, Copper
+Stef - trashes Copper
+Stef - discards Market Square
+Stef - plays 2 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Caravan, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - draws Copper, Copper
+yed - places Stashes at locations: 3,2,1
+yed - shuffles deck
+yed - draws Stash, Stash, Stash
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Estate, Copper, Loan, Copper, Market Square
+ 
+---------- yed: turn 7 ----------
+yed - plays 3 Stash, 2 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - plays Loan
+Stef - reveals Market Square, Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - discards Market Square
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Market Square, Market Square, Develop, Copper, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays 3 Copper
+yed - buys Chancellor
+yed - gains Chancellor
+yed - draws Copper, Copper, Estate
+yed - places Stashes at locations: 3,2,1
+yed - shuffles deck
+yed - draws Stash, Stash
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Market Square
+Stef - draws Market Square, Caravan, Loan, Market Square, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays 2 Copper, 2 Stash
+yed - buys Stash
+yed - gains Stash
+yed - draws Stash, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Loan
+Stef - reveals Develop, Market Square, Market Square, Copper
+Stef - trashes Copper
+Stef - discards: Develop, Market Square, Market Square
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Market Square, Caravan
+ 
+---------- yed: turn 10 ----------
+yed - plays 2 Copper, 1 Stash
+yed - buys Chancellor
+yed - gains Chancellor
+yed - draws Chancellor, Province, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Loan
+Stef - duration Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Gold
+Stef - plays Loan
+Stef - reveals Market Square, Market Square, Market Square, Market Square
+Stef - discards: Market Square, Market Square, Market Square, Market Square
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Market Square, Loan, Caravan, Gold, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays 3 Copper
+yed - buys Chancellor
+yed - gains Chancellor
+yed - places Stashes at locations: 4,3,2,1
+yed - shuffles deck
+yed - draws Stash, Stash, Stash, Stash, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Caravan, Market Square, Develop, Caravan, Market Square
+ 
+---------- yed: turn 12 ----------
+yed - plays 4 Stash, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Chancellor, Estate, Chancellor, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Loan
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Market Square
+Stef - plays 2 Gold, 1 Copper
+Stef - plays Loan
+Stef - reveals Market Square, Caravan, Gold
+Stef - discards Gold
+Stef - discards: Market Square, Caravan
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Caravan, Market Square
+Stef - shuffles deck
+Stef - draws Market Square, Mining Village, Market Square
+ 
+---------- yed: turn 13 ----------
+yed - plays Chancellor
+yed - moves deck to discards
+yed - plays Copper
+yed - buys Chancellor
+yed - gains Chancellor
+yed - places Stashes at locations: 4,3,2,1
+yed - shuffles deck
+yed - draws Stash, Stash, Stash, Stash, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Develop
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Loan
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Develop
+Stef - trashes Loan
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - gains Estate
+Stef - gains Caravan
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays 3 Gold
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Market Square, Caravan, Gold, Market Square
+ 
+---------- yed: turn 14 ----------
+yed - plays 4 Stash, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Province, Estate, Copper, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Estate
+Stef - duration Caravan
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Develop
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Develop
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays 5 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Estate, Caravan, Market Square, Caravan
+ 
+---------- yed: turn 15 ----------
+yed - plays Copper
+yed - plays Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Chancellor, Copper, Estate, Chancellor, Chancellor
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Develop
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Mining Village
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - trashes Mining Village
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Develop
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - plays 5 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Caravan, Caravan, Market Square, Silver
+ 
+---------- yed: turn 16 ----------
+yed - plays Chancellor
+yed - moves deck to discards
+yed - buys Estate
+yed - gains Estate
+yed - places Stashes at locations: 4,3,2,1
+yed - shuffles deck
+yed - draws Stash, Stash, Stash, Stash, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Province
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays 5 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Market Square, Market Square, Estate, Develop, Caravan
+ 
+------------ Game Over ------------
+Stef - cards: 10 Caravan, 7 Market Square, 1 Develop, 5 Gold, 1 Silver, 5 Province, 1 Estate, 1 Duchy
+Stef - total victory points: 34
+Stef - turns: 16
+ 
+yed - cards: 4 Chancellor, 7 Copper, 4 Stash, 5 Estate, 3 Province
+yed - total victory points: 23
+yed - turns: 16
+ 
+1st place: Stef
+2nd place: yed
+ 

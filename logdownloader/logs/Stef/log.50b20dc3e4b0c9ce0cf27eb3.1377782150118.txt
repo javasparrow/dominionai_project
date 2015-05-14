@@ -1,0 +1,269 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Secret Chamber, Squire, Develop, Quarry, Butcher, Horn of Plenty, Laboratory, Mint, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Quarry
+shark_bait - gains Quarry
+shark_bait - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Squire
+shark_bait - gains Squire
+shark_bait - shuffles deck
+shark_bait - draws Copper, Quarry, Copper, Copper, Squire
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Squire
+shark_bait - takes 2 buys
+shark_bait - plays 3 Copper
+shark_bait - plays Quarry
+shark_bait - buys Quarry
+shark_bait - gains Quarry
+shark_bait - buys Squire
+shark_bait - gains Squire
+shark_bait - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - draws Copper, Estate, Develop, Estate, Quarry
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 2 Copper
+shark_bait - buys Squire
+shark_bait - gains Squire
+shark_bait - draws Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Quarry, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Quarry
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Silver, Copper, Estate
+Stef - shuffles deck
+Stef - draws Develop, Squire
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 2 Copper
+shark_bait - plays Quarry
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - draws Estate, Squire, Copper, Quarry, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Silver, Quarry, Estate, Mint, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Squire
+shark_bait - gains Silver
+shark_bait - plays 2 Copper
+shark_bait - plays Quarry
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - draws Squire, Squire, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Mint
+Stef - reveals Quarry
+Stef - gains Quarry
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Quarry
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Silver, Quarry, Silver, Copper, Squire
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Squire
+shark_bait - takes 2 actions
+shark_bait - plays Squire
+shark_bait - gains Silver
+shark_bait - plays 3 Copper
+shark_bait - buys Mint
+shark_bait - trashes Copper, Copper, Copper
+shark_bait - gains Mint
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Laboratory, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Quarry
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Mint, Estate, Develop, Squire, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Laboratory
+shark_bait - draws Quarry, Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Silver
+shark_bait - buys Mint
+shark_bait - trashes Copper, Copper, Copper, Copper, Silver
+shark_bait - gains Mint
+shark_bait - draws Silver, Estate, Quarry, Estate, Mint
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Develop
+Stef - trashes Mint
+Stef - gains Grand Market
+Stef - gains Quarry
+Stef - draws Quarry, Grand Market, Laboratory, Quarry
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Mint
+shark_bait - reveals Quarry
+shark_bait - gains Quarry
+shark_bait - plays 1 Silver
+shark_bait - plays Quarry
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - draws Squire, Squire, Squire, Laboratory, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Develop
+Stef - plays Grand Market
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Silver, Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Quarry
+Stef - plays Quarry
+Stef - plays Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Laboratory, Squire, Squire, Silver, Quarry
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Laboratory
+shark_bait - shuffles deck
+shark_bait - draws Laboratory, Quarry
+shark_bait - plays Laboratory
+shark_bait - draws Estate, Laboratory
+shark_bait - plays Laboratory
+shark_bait - draws Quarry, Silver
+shark_bait - plays Squire
+shark_bait - takes 2 actions
+shark_bait - plays Squire
+shark_bait - takes 2 buys
+shark_bait - plays Squire
+shark_bait - takes 2 buys
+shark_bait - plays 1 Silver
+shark_bait - plays Quarry
+shark_bait - plays Quarry
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - buys Laboratory
+shark_bait - gains Laboratory
+shark_bait - buys Develop
+shark_bait - gains Develop
+shark_bait - draws Estate, Mint, Quarry, Mint
+shark_bait - shuffles deck
+shark_bait - draws Grand Market
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Grand Market, Laboratory
+Stef - plays Laboratory
+Stef - draws Quarry, Develop
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Quarry
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 1 Silver
+Stef - plays Quarry
+Stef - plays Quarry
+Stef - plays Quarry
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Copper, Silver, Estate, Grand Market, Laboratory
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Grand Market
+shark_bait - draws Estate
+shark_bait - draws Laboratory, Quarry, Develop, Laboratory, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Squire, Squire
+ 
+------------ Game Over ------------
+Stef - cards: 5 Grand Market, 5 Laboratory, 2 Squire, 1 Develop, 3 Quarry, 2 Silver, 1 Copper, 1 Estate
+Stef - total victory points: 1
+Stef - turns: 10
+ 
+shark_bait - resigned
+shark_bait - cards: 4 Laboratory, 3 Grand Market, 3 Squire, 2 Mint, 1 Develop, 3 Quarry, 1 Silver, 3 Estate
+shark_bait - total victory points: 3
+shark_bait - turns: 11
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

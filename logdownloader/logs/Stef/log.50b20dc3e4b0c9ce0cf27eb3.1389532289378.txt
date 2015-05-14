@@ -1,0 +1,940 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Oracle, Cutpurse, Rats, Taxman, City, Count, Haggler, Inn, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Monsieur X - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+Monsieur X - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Taxman
+Monsieur X - gains Taxman
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - shuffles deck
+Stef - draws Estate, Copper, Silver, Copper, Estate
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Taxman, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Taxman
+Monsieur X - trashes Copper
+Stef - discards Copper
+Monsieur X - gains Silver
+Monsieur X - plays 2 Copper
+Monsieur X - buys Pearl Diver
+Monsieur X - gains Pearl Diver
+Monsieur X - draws Silver, Silver, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Taxman, Pearl Diver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Cutpurse
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Copper
+Monsieur X - places Copper on bottom of deck
+Monsieur X - plays Taxman
+Monsieur X - trashes Copper
+Stef - discards Copper
+Monsieur X - gains Silver
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Haggler
+Monsieur X - gains Haggler
+Monsieur X - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cutpurse
+Monsieur X - discards Copper
+Stef - plays 1 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Oracle
+Monsieur X - gains Oracle
+Monsieur X - draws Copper, Estate, Silver, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - draws Copper, Oracle, Copper, Silver
+Stef - shuffles deck
+Stef - draws Cutpurse
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys City
+Monsieur X - gains City
+Monsieur X - draws Copper, Silver, Estate, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Cutpurse
+Monsieur X - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Oracle, Count, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys City
+Monsieur X - gains City
+Monsieur X - draws Oracle, Estate, Copper, Haggler, Pearl Diver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Count
+Stef - places Oracle on top of deck
+Stef - trashes Copper, Copper, Copper
+Stef - draws Oracle, Copper, Silver, Copper, Estate
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Taxman
+Monsieur X - shuffles deck
+Monsieur X - places Silver on top of deck
+Monsieur X - plays Taxman
+Monsieur X - trashes Copper
+Stef - discards Copper
+Monsieur X - gains Silver
+Monsieur X - draws Silver, Silver, Silver, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Oracle
+Stef - reveals: Estate, Estate
+Stef - discards: Estate, Estate
+Monsieur X - reveals: City, Copper
+Monsieur X - discards: City, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Copper, Estate, Count, Oracle, Copper
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays 3 Silver, 2 Copper
+Monsieur X - buys City
+Monsieur X - gains City
+Monsieur X - draws City, Estate, Silver, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Count
+Stef - places Oracle on top of deck
+Stef - trashes Copper, Estate, Copper
+Stef - draws Oracle, City, Cutpurse, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays City
+Monsieur X - draws Silver
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys City
+Monsieur X - gains City
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Silver, Pearl Diver, Taxman
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Estate, Copper
+Stef - discards: Estate, Copper
+Monsieur X - reveals: City, City
+Monsieur X - discards: City, City
+Stef - draws Oracle, Estate
+Stef - plays Cutpurse
+Monsieur X - discards Copper
+Stef - plays 2 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Count, Copper
+Stef - shuffles deck
+Stef - draws Oracle, City, Silver
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Estate
+Monsieur X - places Estate on bottom of deck
+Monsieur X - plays Taxman
+Monsieur X - trashes Silver
+Stef - discards Silver
+Monsieur X - gains Gold
+Monsieur X - plays 1 Silver
+Monsieur X - buys Pearl Diver
+Monsieur X - gains Pearl Diver
+Monsieur X - draws Gold, Copper, City, Estate, Haggler
+ 
+---------- Stef: turn 12 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Oracle
+Stef - reveals: Silver, Oracle
+Stef - discards: Silver, Oracle
+Monsieur X - reveals: Silver, Copper
+Monsieur X - places Silver on top of deck
+Monsieur X - places Copper on top of deck
+Stef - draws Estate, Cutpurse
+Stef - plays Count
+Stef - discards Cutpurse
+Stef - discards Estate
+Stef - takes 3 coins
+Stef - plays 2 Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Estate, Oracle, City
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays City
+Monsieur X - draws Copper
+Monsieur X - plays Haggler
+Monsieur X - plays 2 Copper, 1 Gold
+Monsieur X - buys City
+Monsieur X - gains Oracle
+Monsieur X - gains City
+Monsieur X - draws Silver, Silver, Oracle, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays Oracle
+Stef - reveals: Oracle, Estate
+Stef - discards: Oracle, Estate
+Monsieur X - reveals: City, Estate
+Monsieur X - places Estate on top of deck
+Monsieur X - places City on top of deck
+Stef - draws Count, Haggler
+Stef - plays Haggler
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains City
+Stef - gains Gold
+Stef - draws City, Oracle, Silver, Cutpurse
+Stef - shuffles deck
+Stef - draws Haggler
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Oracle
+Monsieur X - reveals: City, Estate
+Monsieur X - places Estate on top of deck
+Monsieur X - places City on top of deck
+Stef - reveals: Estate, Count
+Stef - discards: Estate, Count
+Monsieur X - draws City, Estate
+Monsieur X - plays 3 Silver, 1 Copper
+Monsieur X - buys City
+Monsieur X - gains City
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Copper, City
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Oracle
+Stef - reveals: Oracle, Oracle
+Stef - discards: Oracle, Oracle
+Monsieur X - reveals: Silver, Oracle
+Monsieur X - discards: Silver, Oracle
+Stef - draws Estate, Silver
+Stef - plays Haggler
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Bank
+Stef - gains City
+Stef - gains Bank
+Stef - draws Gold, City, City, Copper
+Stef - shuffles deck
+Stef - draws Count
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays City
+Monsieur X - draws City, Silver
+Monsieur X - plays City
+Monsieur X - draws Silver, Estate
+Monsieur X - plays 3 Copper, 2 Silver
+Monsieur X - buys Inn
+Monsieur X - gains Inn
+Monsieur X - places Inn, Oracle on top of deck
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Copper, Silver, Inn, Oracle
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws Oracle, Estate
+Stef - plays City
+Stef - draws Oracle, Silver
+Stef - plays Oracle
+Stef - reveals: City, Bank
+Stef - places Bank on top of deck
+Stef - places City on top of deck
+Monsieur X - reveals: Estate, Pearl Diver
+Monsieur X - places Pearl Diver on top of deck
+Monsieur X - places Estate on top of deck
+Stef - draws City, Bank
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws Silver, Oracle
+Stef - plays Oracle
+Stef - reveals: Haggler, Estate
+Stef - places Estate on top of deck
+Stef - places Haggler on top of deck
+Monsieur X - reveals: Estate, Pearl Diver
+Monsieur X - places Pearl Diver on top of deck
+Monsieur X - places Estate on top of deck
+Stef - draws Haggler, Estate
+Stef - plays Oracle
+Stef - reveals: Cutpurse
+Stef - discards Cutpurse
+Monsieur X - reveals: Estate, Pearl Diver
+Monsieur X - places Pearl Diver on top of deck
+Monsieur X - places Estate on top of deck
+Stef - shuffles deck
+Stef - draws Cutpurse
+Stef - plays Cutpurse
+Monsieur X - discards Copper
+Stef - plays Haggler
+Stef - plays 2 Copper, 2 Silver, 1 Gold
+Stef - plays Bank
+Stef - buys Colony
+Stef - gains Haggler
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Copper, Silver, Haggler, Estate, City
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Inn
+Monsieur X - draws Estate, Pearl Diver
+Monsieur X - discards Estate
+Monsieur X - discards Silver
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Pearl Diver
+Monsieur X - places City on top of deck
+Monsieur X - plays Pearl Diver
+Monsieur X - draws City
+Monsieur X - places Taxman on bottom of deck
+Monsieur X - plays City
+Monsieur X - draws City, City
+Monsieur X - plays Oracle
+Monsieur X - reveals: City, Haggler
+Monsieur X - places Haggler on top of deck
+Monsieur X - places City on top of deck
+Stef - reveals: Count, Oracle
+Stef - discards: Count, Oracle
+Monsieur X - draws City, Haggler
+Monsieur X - plays City
+Monsieur X - draws Oracle, Taxman
+Monsieur X - plays City
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Estate
+Monsieur X - plays Oracle
+Monsieur X - reveals: Copper, Copper
+Monsieur X - discards: Copper, Copper
+Stef - reveals: Haggler, City
+Stef - discards: Haggler, City
+Monsieur X - draws Silver, Copper
+Monsieur X - plays City
+Monsieur X - draws Silver, City
+Monsieur X - plays Taxman
+Monsieur X - trashes Gold
+Stef - reveals Copper, Silver, Haggler, Estate, City
+Monsieur X - gains Bank
+Monsieur X - plays City
+Monsieur X - draws Bank, Silver
+Monsieur X - plays Haggler
+Monsieur X - plays 3 Silver, 1 Copper
+Monsieur X - plays Bank
+Monsieur X - buys Colony
+Monsieur X - gains Haggler
+Monsieur X - gains Colony
+Monsieur X - draws Silver, Copper, City, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws City
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Colony, Estate
+Stef - plays Haggler
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Oracle
+Stef - gains Inn
+Stef - places City, Inn, Oracle, Oracle on top of deck
+Stef - shuffles deck
+Stef - draws Bank, Oracle, Oracle, City, City
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays City
+Monsieur X - draws Silver, Silver
+Monsieur X - plays City
+Monsieur X - draws City, City
+Monsieur X - plays City
+Monsieur X - draws City, Estate
+Monsieur X - plays City
+Monsieur X - draws Haggler, Estate
+Monsieur X - plays City
+Monsieur X - draws Taxman, City
+Monsieur X - plays City
+Monsieur X - draws Oracle, Copper
+Monsieur X - plays Oracle
+Monsieur X - reveals: Copper, Pearl Diver
+Monsieur X - discards: Copper, Pearl Diver
+Stef - reveals: Inn, Copper
+Stef - discards: Inn, Copper
+Monsieur X - draws Colony, Pearl Diver
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Inn
+Monsieur X - places Copper on bottom of deck
+Monsieur X - plays Inn
+Monsieur X - draws Haggler, Silver
+Monsieur X - discards Colony
+Monsieur X - discards Estate
+Monsieur X - plays Haggler
+Monsieur X - plays Haggler
+Monsieur X - plays Taxman
+Monsieur X - trashes Silver
+Stef - reveals Bank, Oracle, Oracle, City, City
+Monsieur X - gains Gold
+Monsieur X - plays 3 Silver, 2 Copper
+Monsieur X - buys Colony
+Monsieur X - gains Oracle
+Monsieur X - gains Inn
+Monsieur X - places Pearl Diver, Oracle, Inn on top of deck
+Monsieur X - shuffles deck
+Monsieur X - gains Colony
+Monsieur X - draws Inn, Gold, Oracle, Copper, Pearl Diver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - draws Silver, Cutpurse
+Stef - plays City
+Stef - draws City, Gold
+Stef - plays City
+Stef - draws Oracle, Oracle
+Stef - plays Oracle
+Stef - shuffles deck
+Stef - reveals: Silver, Count
+Stef - places Count on top of deck
+Stef - places Silver on top of deck
+Monsieur X - reveals: Oracle, Bank
+Monsieur X - discards: Oracle, Bank
+Stef - draws Silver, Count
+Stef - plays Oracle
+Stef - reveals: Estate, Copper
+Stef - discards: Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - reveals: Haggler, City
+Monsieur X - discards: Haggler, City
+Stef - draws Estate, Copper
+Stef - plays Oracle
+Stef - reveals: City, Colony
+Stef - places Colony on top of deck
+Stef - places City on top of deck
+Monsieur X - reveals: Copper, Estate
+Monsieur X - places Estate on top of deck
+Monsieur X - places Copper on top of deck
+Stef - draws City, Colony
+Stef - plays City
+Stef - draws Haggler, Haggler
+Stef - plays Haggler
+Stef - plays Count
+Stef - places Oracle on top of deck
+Stef - gains Duchy
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - plays Bank
+Stef - buys Colony
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - gains Colony
+Stef - draws Inn, Oracle, Inn
+Stef - shuffles deck
+Stef - draws Bank, Duchy
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Copper
+Monsieur X - places Silver on bottom of deck
+Monsieur X - plays Inn
+Monsieur X - draws Estate, Oracle
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - plays Oracle
+Monsieur X - reveals: Silver, Copper
+Monsieur X - discards: Silver, Copper
+Stef - reveals: Oracle, Gold
+Stef - discards: Oracle, Gold
+Monsieur X - draws Taxman, City
+Monsieur X - plays City
+Monsieur X - draws City, Pearl Diver
+Monsieur X - plays Oracle
+Monsieur X - reveals: Silver, Inn
+Monsieur X - places Inn on top of deck
+Monsieur X - places Silver on top of deck
+Stef - reveals: Copper, Cutpurse
+Stef - places Cutpurse on top of deck
+Stef - places Copper on top of deck
+Monsieur X - draws Silver, Inn
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Copper
+Monsieur X - places Silver on bottom of deck
+Monsieur X - plays City
+Monsieur X - draws City, Bank
+Monsieur X - plays City
+Monsieur X - draws Estate, Oracle
+Monsieur X - plays Oracle
+Monsieur X - reveals: Colony, City
+Monsieur X - places Colony on top of deck
+Monsieur X - places City on top of deck
+Stef - reveals: Copper, Cutpurse
+Stef - places Copper on top of deck
+Stef - places Cutpurse on top of deck
+Monsieur X - draws City, Colony
+Monsieur X - plays Taxman
+Monsieur X - trashes Gold
+Stef - reveals Inn, Oracle, Inn, Bank, Duchy
+Monsieur X - gains Platinum
+Monsieur X - plays City
+Monsieur X - draws Platinum, Haggler
+Monsieur X - plays Inn
+Monsieur X - draws Estate, City
+Monsieur X - discards Colony
+Monsieur X - discards Estate
+Monsieur X - plays City
+Monsieur X - draws Colony, Silver
+Monsieur X - plays Haggler
+Monsieur X - plays 2 Copper, 2 Silver, 1 Platinum
+Monsieur X - plays Bank
+Monsieur X - buys Colony
+Monsieur X - gains Count
+Monsieur X - gains Colony
+Monsieur X - shuffles deck
+Monsieur X - draws Pearl Diver, Inn, Oracle, Estate, Pearl Diver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Inn
+Stef - draws Cutpurse, Copper
+Stef - discards Duchy
+Stef - discards Cutpurse
+Stef - plays Oracle
+Stef - reveals: Haggler, Estate
+Stef - discards: Haggler, Estate
+Monsieur X - reveals: Taxman, Count
+Monsieur X - places Count on top of deck
+Monsieur X - places Taxman on top of deck
+Stef - draws Haggler, City
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Estate, City
+Stef - plays City
+Stef - draws Count, Silver
+Stef - plays Count
+Stef - places Inn on top of deck
+Stef - gains Duchy
+Stef - plays Haggler
+Stef - plays 2 Silver, 1 Copper
+Stef - plays Bank
+Stef - buys Colony
+Stef - gains Inn
+Stef - places Inn, Oracle on top of deck
+Stef - shuffles deck
+Stef - gains Colony
+Stef - draws Oracle, Inn, Colony, Inn, Colony
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Taxman
+Monsieur X - places Copper on bottom of deck
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Count
+Monsieur X - places Copper on bottom of deck
+Monsieur X - plays Inn
+Monsieur X - draws Copper, City
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - plays Oracle
+Monsieur X - reveals: Oracle, City
+Monsieur X - places City on top of deck
+Monsieur X - places Oracle on top of deck
+Stef - reveals: Oracle, Copper
+Stef - discards: Oracle, Copper
+Monsieur X - draws Oracle, City
+Monsieur X - plays City
+Monsieur X - draws Estate, City
+Monsieur X - plays Oracle
+Monsieur X - reveals: Silver, Colony
+Monsieur X - discards: Silver, Colony
+Stef - reveals: City, Oracle
+Stef - discards: City, Oracle
+Monsieur X - draws Copper, Colony
+Monsieur X - plays City
+Monsieur X - draws Colony, Oracle
+Monsieur X - plays Oracle
+Monsieur X - reveals: Haggler, Inn
+Monsieur X - places Inn on top of deck
+Monsieur X - places Haggler on top of deck
+Stef - shuffles deck
+Stef - reveals: Count, Duchy
+Stef - discards: Count, Duchy
+Monsieur X - draws Haggler, Inn
+Monsieur X - plays City
+Monsieur X - draws Silver, City
+Monsieur X - plays City
+Monsieur X - draws Silver, City
+Monsieur X - plays Inn
+Monsieur X - draws Haggler, Platinum
+Monsieur X - discards Colony
+Monsieur X - discards Colony
+Monsieur X - plays Taxman
+Monsieur X - trashes Silver
+Stef - reveals Oracle, Inn, Colony, Inn, Colony
+Monsieur X - gains Gold
+Monsieur X - plays City
+Monsieur X - draws Gold, City
+Monsieur X - plays City
+Monsieur X - draws Copper, Estate
+Monsieur X - plays Haggler
+Monsieur X - plays Haggler
+Monsieur X - plays Count
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - gains Duchy
+Monsieur X - plays 2 Copper, 1 Silver, 1 Platinum, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Oracle
+Monsieur X - gains Inn
+Monsieur X - places Oracle, Inn on top of deck
+Monsieur X - shuffles deck
+Monsieur X - gains Province
+Monsieur X - draws Copper, Bank, Inn, Oracle
+Monsieur X - shuffles deck
+Monsieur X - draws City
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Inn
+Stef - draws Gold, Oracle
+Stef - discards Colony
+Stef - discards Colony
+Stef - plays Oracle
+Stef - reveals: Silver, Duchy
+Stef - discards: Silver, Duchy
+Monsieur X - reveals: Colony, Taxman
+Monsieur X - places Colony on top of deck
+Monsieur X - places Taxman on top of deck
+Stef - draws City, Inn
+Stef - plays City
+Stef - draws Bank, City
+Stef - plays City
+Stef - draws Estate, Copper
+Stef - plays Oracle
+Stef - reveals: Haggler, Oracle
+Stef - places Oracle on top of deck
+Stef - places Haggler on top of deck
+Monsieur X - reveals: Taxman, Colony
+Monsieur X - places Taxman on top of deck
+Monsieur X - places Colony on top of deck
+Stef - draws Haggler, Oracle
+Stef - plays Oracle
+Stef - reveals: Oracle, Silver
+Stef - places Silver on top of deck
+Stef - places Oracle on top of deck
+Monsieur X - reveals: Colony, Taxman
+Monsieur X - places Colony on top of deck
+Monsieur X - places Taxman on top of deck
+Stef - draws Oracle, Silver
+Stef - plays Inn
+Stef - draws Cutpurse, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Oracle
+Stef - reveals: Haggler, Colony
+Stef - places Colony on top of deck
+Stef - places Haggler on top of deck
+Monsieur X - reveals: Taxman, Colony
+Monsieur X - places Colony on top of deck
+Monsieur X - places Taxman on top of deck
+Stef - draws Haggler, Colony
+Stef - plays Inn
+Stef - draws City, Estate
+Stef - discards Colony
+Stef - discards Estate
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Oracle
+Stef - gains Inn
+Stef - places Inn, Oracle, Count on top of deck
+Stef - shuffles deck
+Stef - gains Province
+Stef - draws City, Count, Inn, Oracle
+Stef - shuffles deck
+Stef - draws Colony
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays City
+Monsieur X - draws Taxman, Colony
+Monsieur X - plays Oracle
+Monsieur X - reveals: Province, Copper
+Monsieur X - discards: Province, Copper
+Stef - reveals: Copper, Colony
+Stef - places Colony on top of deck
+Stef - places Copper on top of deck
+Monsieur X - draws Haggler, Colony
+Monsieur X - plays Inn
+Monsieur X - draws City, City
+Monsieur X - discards Colony
+Monsieur X - discards Colony
+Monsieur X - plays City
+Monsieur X - draws Estate, City
+Monsieur X - plays City
+Monsieur X - draws Count, City
+Monsieur X - plays City
+Monsieur X - draws Oracle, Platinum
+Monsieur X - plays Oracle
+Monsieur X - reveals: City, Oracle
+Monsieur X - places Oracle on top of deck
+Monsieur X - places City on top of deck
+Stef - reveals: Copper, Colony
+Stef - places Colony on top of deck
+Stef - places Copper on top of deck
+Monsieur X - draws City, Oracle
+Monsieur X - plays Taxman
+Monsieur X - trashes Bank
+Stef - reveals City, Count, Inn, Oracle, Colony
+Monsieur X - gains Platinum
+Monsieur X - plays City
+Monsieur X - draws Platinum, Colony
+Monsieur X - plays Oracle
+Monsieur X - reveals: Estate, Copper
+Monsieur X - discards: Estate, Copper
+Stef - reveals: Copper, Colony
+Stef - places Copper on top of deck
+Stef - places Colony on top of deck
+Monsieur X - draws Oracle, Silver
+Monsieur X - plays Oracle
+Monsieur X - reveals: Duchy, Pearl Diver
+Monsieur X - discards: Duchy, Pearl Diver
+Stef - reveals: Colony, Copper
+Stef - places Copper on top of deck
+Stef - places Colony on top of deck
+Monsieur X - draws Pearl Diver, Copper
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Gold
+Monsieur X - places Inn on top of deck
+Monsieur X - plays Haggler
+Monsieur X - plays Count
+Monsieur X - places City on top of deck
+Monsieur X - gains Duchy
+Monsieur X - plays 2 Copper, 2 Platinum, 1 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Inn
+Monsieur X - places Pearl Diver, Inn on top of deck
+Monsieur X - shuffles deck
+Monsieur X - gains Province
+Monsieur X - draws Estate, Silver, Pearl Diver, Inn, City
+ 
+---------- Stef: turn 20 ----------
+Stef - plays City
+Stef - draws Colony, Copper
+Stef - plays Oracle
+Stef - reveals: Duchy, Oracle
+Stef - places Oracle on top of deck
+Stef - places Duchy on top of deck
+Monsieur X - reveals: Haggler, Inn
+Monsieur X - discards: Haggler, Inn
+Stef - draws Duchy, Oracle
+Stef - plays Inn
+Stef - draws Silver, Silver
+Stef - discards Colony
+Stef - discards Colony
+Stef - plays Oracle
+Stef - reveals: Estate, City
+Stef - places City on top of deck
+Stef - places Estate on top of deck
+Monsieur X - reveals: Inn
+Monsieur X - shuffles deck
+Monsieur X - reveals: City
+Monsieur X - discards: Inn, City
+Stef - draws Estate, City
+Stef - plays City
+Stef - draws Duchy, City
+Stef - plays City
+Stef - draws Haggler, Oracle
+Stef - plays Oracle
+Stef - reveals: Estate, Oracle
+Stef - discards: Estate, Oracle
+Monsieur X - reveals: Copper, Colony
+Monsieur X - places Colony on top of deck
+Monsieur X - places Copper on top of deck
+Stef - draws Bank, Gold
+Stef - plays Haggler
+Stef - plays Count
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - gains Duchy
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Count
+Stef - gains Province
+Stef - draws Haggler, City, Province, Oracle, Inn
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Pearl Diver
+Monsieur X - draws Copper
+Monsieur X - places Platinum on top of deck
+Monsieur X - plays City
+Monsieur X - draws Platinum, Colony
+Monsieur X - plays Inn
+Monsieur X - draws Oracle, Silver
+Monsieur X - discards Colony
+Monsieur X - discards Estate
+Monsieur X - plays Oracle
+Monsieur X - reveals: Oracle, City
+Monsieur X - places Oracle on top of deck
+Monsieur X - places City on top of deck
+Stef - reveals: Cutpurse, Inn
+Stef - discards: Cutpurse, Inn
+Monsieur X - draws City, Oracle
+Monsieur X - plays City
+Monsieur X - draws Inn, Duchy
+Monsieur X - plays Oracle
+Monsieur X - reveals: Haggler, Count
+Monsieur X - places Count on top of deck
+Monsieur X - places Haggler on top of deck
+Stef - reveals: Colony, Inn
+Stef - discards: Colony, Inn
+Monsieur X - draws Haggler, Count
+Monsieur X - plays Inn
+Monsieur X - draws City, City
+Monsieur X - discards Duchy
+Monsieur X - discards Copper
+Monsieur X - plays City
+Monsieur X - draws Province, Platinum
+Monsieur X - plays City
+Monsieur X - draws Duchy, Copper
+Monsieur X - plays Haggler
+Monsieur X - plays Count
+Monsieur X - discards Duchy
+Monsieur X - discards Province
+Monsieur X - gains Duchy
+Monsieur X - plays 2 Silver, 2 Platinum, 1 Copper
+Monsieur X - buys Colony
+Monsieur X - gains Inn
+Monsieur X - places Inn, City, Inn on top of deck
+Monsieur X - shuffles deck
+Monsieur X - gains Colony
+Monsieur X - draws Gold, Oracle, City, Estate, Pearl Diver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Colony
+Stef - plays Oracle
+Stef - reveals: Inn, Silver
+Stef - places Silver on top of deck
+Stef - places Inn on top of deck
+Monsieur X - reveals: Taxman, Inn
+Monsieur X - discards: Taxman, Inn
+Stef - draws Inn, Silver
+Stef - plays Inn
+Stef - draws City, City
+Stef - discards Colony
+Stef - discards Province
+Stef - plays City
+Stef - draws Duchy, Count
+Stef - plays City
+Stef - draws Count, Oracle
+Stef - plays Oracle
+Stef - reveals: Copper, Inn
+Stef - places Inn on top of deck
+Stef - places Copper on top of deck
+Monsieur X - reveals: Copper, Estate
+Monsieur X - places Estate on top of deck
+Monsieur X - places Copper on top of deck
+Stef - draws Copper, Inn
+Stef - plays Inn
+Stef - draws Colony, City
+Stef - discards Duchy
+Stef - discards Colony
+Stef - plays City
+Stef - draws Inn, Province
+Stef - plays Inn
+Stef - draws Haggler, Cutpurse
+Stef - discards Province
+Stef - discards Inn
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Count
+Stef - gains Copper
+Stef - takes 3 coins
+Stef - plays Count
+Stef - gains Copper
+Stef - gains Duchy
+Stef - plays Cutpurse
+Monsieur X - reveals Gold, Oracle, City, Estate, Pearl Diver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Colony
+Stef - gains Inn
+Stef - shuffles deck
+Stef - gains Oracle
+Stef - gains Colony
+Stef - draws Estate, Colony, Silver, Estate, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 6 Oracle, 5 Inn, 4 City, 2 Haggler, 2 Count, 1 Cutpurse, 4 Copper, 2 Silver, 1 Gold, 1 Bank, 4 Colony, 4 Duchy, 2 Estate, 2 Province
+Stef - total victory points: 66
+Stef - turns: 21
+ 
+Monsieur X - cards: 6 City, 5 Inn, 4 Oracle, 2 Pearl Diver, 2 Haggler, 1 Count, 1 Taxman, 4 Copper, 2 Silver, 2 Platinum, 1 Gold, 4 Colony, 3 Estate, 3 Duchy, 2 Province
+Monsieur X - total victory points: 64
+Monsieur X - turns: 21
+ 
+1st place: Stef
+2nd place: Monsieur X
+ 

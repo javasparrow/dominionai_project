@@ -1,0 +1,809 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Great Hall, Advisor, Baron, Moneylender, Scavenger, Band of Misfits, Margrave, Merchant Guild, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Estate, Estate, Copper
+yed - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Band of Misfits
+Stef - gains Band of Misfits
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Band of Misfits, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Band of Misfits
+Stef - chooses Moneylender
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Advisor
+yed - gains Advisor
+yed - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Advisor, Advisor, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Moneylender
+yed - gains Moneylender
+yed - draws Copper, Silver
+yed - shuffles deck
+yed - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Estate
+yed - discards Copper
+Stef - places cards in hand:  Estate, Estate
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Copper, Copper
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Copper
+Stef - plays 4 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Advisor, Estate, Advisor
+ 
+---------- yed: turn 5 ----------
+yed - plays 3 Copper, 2 Silver
+yed - buys Band of Misfits
+yed - gains Band of Misfits
+yed - draws Estate, Copper, Estate, Advisor, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Advisor
+Stef - reveals: Peddler, Copper, Copper
+yed - discards Peddler
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Band of Misfits, Estate
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Peddler, Copper, Advisor
+ 
+---------- yed: turn 6 ----------
+yed - plays Advisor
+yed - reveals: Copper, Copper, Copper
+Stef - discards Copper
+yed - places cards in hand:  Copper, Copper
+yed - plays 3 Copper
+yed - buys Great Hall
+yed - gains Great Hall
+yed - draws Moneylender
+yed - shuffles deck
+yed - draws Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Estate, Copper
+yed - discards Advisor
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - draws Estate, Copper, Band of Misfits, Peddler, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Merchant Guild
+yed - gains Merchant Guild
+yed - draws Band of Misfits, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Band of Misfits
+Stef - chooses Moneylender
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Band of Misfits
+Stef - gains Band of Misfits
+Stef - draws Copper, Estate, Advisor, Copper, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Band of Misfits
+yed - chooses Moneylender
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Peddler
+yed - gains Peddler
+yed - draws Estate, Advisor, Estate, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Merchant Guild
+yed - discards Advisor
+Stef - places cards in hand:  Copper, Merchant Guild
+Stef - plays Merchant Guild
+Stef - plays 3 Copper
+Stef - buys Advisor
+Stef - receives 1 coin token
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Advisor, Copper, Estate, Estate, Band of Misfits
+ 
+---------- yed: turn 9 ----------
+yed - plays Advisor
+yed - reveals: Great Hall
+yed - shuffles deck
+yed - reveals: Copper, Silver
+Stef - discards Great Hall
+yed - places cards in hand:  Copper, Silver
+yed - plays 2 Copper, 1 Silver
+yed - buys Advisor
+yed - gains Advisor
+yed - draws Merchant Guild, Peddler, Band of Misfits, Moneylender, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Merchant Guild
+yed - discards Merchant Guild
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Band of Misfits
+Stef - chooses Moneylender
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Band of Misfits
+Stef - gains Band of Misfits
+Stef - draws Copper, Band of Misfits, Estate, Advisor, Advisor
+ 
+---------- yed: turn 10 ----------
+yed - plays Peddler
+yed - draws Copper
+yed - plays Band of Misfits
+yed - chooses Advisor
+yed - plays Advisor
+yed - reveals: Copper, Copper
+yed - shuffles deck
+yed - reveals: Silver
+Stef - discards Silver
+yed - places cards in hand:  Copper, Copper
+yed - plays Merchant Guild
+yed - plays 3 Copper, 1 Silver
+yed - buys Peddler
+yed - receives 1 coin token
+yed - gains Peddler
+yed - buys Peddler
+yed - receives 1 coin token
+yed - gains Peddler
+yed - draws Estate, Copper, Estate, Advisor, Great Hall
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Advisor
+Stef - reveals: Peddler, Copper, Peddler
+yed - discards Peddler
+Stef - places cards in hand:  Peddler, Copper
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Band of Misfits, Advisor, Copper
+yed - discards Band of Misfits
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Estate, Peddler, Merchant Guild
+yed - discards Merchant Guild
+Stef - places cards in hand:  Estate, Peddler
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Band of Misfits
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Band of Misfits
+Stef - plays Peddler
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Great Hall
+Stef - plays Great Hall
+Stef - draws Merchant Guild
+Stef - plays Merchant Guild
+Stef - plays 4 Copper
+Stef - buys Peddler
+Stef - receives 1 coin token
+Stef - gains Peddler
+Stef - buys Band of Misfits
+Stef - receives 1 coin token
+Stef - gains Band of Misfits
+Stef - shuffles deck
+Stef - draws Estate, Estate, Estate, Copper, Advisor
+ 
+---------- yed: turn 11 ----------
+yed - plays Great Hall
+yed - draws Estate
+yed - plays Advisor
+yed - reveals: Copper, Advisor
+yed - shuffles deck
+yed - reveals: Moneylender
+Stef - discards Advisor
+yed - places cards in hand:  Copper, Moneylender
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper
+yed - buys Peddler
+yed - gains Peddler
+yed - draws Peddler, Peddler, Band of Misfits, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Advisor, Merchant Guild
+yed - discards Band of Misfits
+Stef - places cards in hand:  Advisor, Merchant Guild
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Advisor, Peddler
+yed - discards Band of Misfits
+Stef - places cards in hand:  Advisor, Peddler
+Stef - plays Advisor
+Stef - reveals: Copper, Peddler, Band of Misfits
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Merchant Guild
+Stef - plays 4 Copper
+Stef - buys Peddler
+Stef - receives 1 coin token
+Stef - gains Peddler
+Stef - buys Potion
+Stef - receives 1 coin token
+Stef - gains Potion
+Stef - draws Band of Misfits
+Stef - shuffles deck
+Stef - draws Peddler, Advisor, Potion, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays Peddler
+yed - draws Copper
+yed - plays Peddler
+yed - draws Peddler
+yed - plays Peddler
+yed - draws Copper
+yed - plays Band of Misfits
+yed - chooses Advisor
+yed - plays Advisor
+yed - reveals: Merchant Guild, Copper
+yed - shuffles deck
+yed - reveals: Peddler
+Stef - discards Merchant Guild
+yed - places cards in hand:  Copper, Peddler
+yed - plays Peddler
+yed - draws Estate
+yed - plays 3 Copper, 2 Silver
+yed - buys Potion
+yed - gains Potion
+yed - draws Estate, Copper, Moneylender, Estate, Advisor
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Advisor
+Stef - reveals: Estate, Peddler, Copper
+yed - discards Peddler
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Peddler
+Stef - draws Merchant Guild
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Copper, Peddler
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Peddler
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Merchant Guild
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - receives 1 coin token
+Stef - gains Vineyard
+Stef - buys Band of Misfits
+Stef - receives 1 coin token
+Stef - gains Band of Misfits
+Stef - draws Peddler, Advisor, Advisor, Band of Misfits, Copper
+ 
+---------- yed: turn 13 ----------
+yed - plays Advisor
+yed - reveals: Great Hall, Advisor
+yed - shuffles deck
+yed - reveals: Potion
+Stef - discards Advisor
+yed - places cards in hand:  Great Hall, Potion
+yed - plays Great Hall
+yed - draws Estate
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays Potion
+yed - buys Vineyard
+yed - gains Vineyard
+yed - draws Peddler, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Estate
+Stef - shuffles deck
+Stef - reveals: Estate
+yed - discards Band of Misfits
+Stef - places cards in hand:  Estate, Estate
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Merchant Guild, Copper
+yed - discards Merchant Guild
+Stef - places cards in hand:  Band of Misfits, Copper
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Estate, Advisor, Peddler
+yed - discards Advisor
+Stef - places cards in hand:  Estate, Peddler
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Band of Misfits, Peddler
+yed - discards Band of Misfits
+Stef - places cards in hand:  Band of Misfits, Peddler
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Vineyard, Peddler
+yed - discards Peddler
+Stef - places cards in hand:  Copper, Vineyard
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Peddler, Merchant Guild
+yed - discards Merchant Guild
+Stef - places cards in hand:  Band of Misfits, Peddler
+Stef - plays Peddler
+Stef - draws Advisor
+Stef - plays Band of Misfits
+Stef - chooses Great Hall
+Stef - plays Great Hall
+Stef - shuffles deck
+Stef - draws Merchant Guild
+Stef - plays Merchant Guild
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - receives 1 coin token
+Stef - gains Vineyard
+Stef - buys Band of Misfits
+Stef - receives 1 coin token
+Stef - gains Band of Misfits
+Stef - shuffles deck
+Stef - draws Band of Misfits, Peddler, Estate, Vineyard, Potion
+ 
+---------- yed: turn 14 ----------
+yed - plays Peddler
+yed - draws Merchant Guild
+yed - plays Merchant Guild
+yed - plays 3 Copper, 1 Silver
+yed - uses 1 coin token
+yed - buys Province
+yed - receives 1 coin token
+yed - gains Province
+yed - draws Peddler, Band of Misfits, Peddler, Peddler, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Peddler, Band of Misfits, Estate
+yed - discards Band of Misfits
+Stef - places cards in hand:  Peddler, Estate
+Stef - plays Peddler
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Peddler
+yed - discards Peddler
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Copper, Band of Misfits, Band of Misfits, Advisor, Band of Misfits
+ 
+---------- yed: turn 15 ----------
+yed - plays Band of Misfits
+yed - chooses Advisor
+yed - plays Advisor
+yed - shuffles deck
+yed - reveals: Copper, Moneylender, Vineyard
+Stef - discards Moneylender
+yed - places cards in hand:  Copper, Vineyard
+yed - plays Peddler
+yed - draws Copper
+yed - plays Peddler
+yed - draws Province
+yed - plays Peddler
+yed - draws Estate
+yed - plays 2 Copper, 1 Silver
+yed - uses 1 coin token
+yed - buys Province
+yed - gains Province
+yed - draws Estate, Great Hall, Advisor, Advisor, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Advisor
+Stef - reveals: Vineyard, Band of Misfits, Merchant Guild
+yed - discards Merchant Guild
+Stef - places cards in hand:  Vineyard, Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Peddler, Advisor, Copper
+yed - discards Advisor
+Stef - places cards in hand:  Peddler, Copper
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Estate, Potion, Advisor
+yed - discards Advisor
+Stef - places cards in hand:  Estate, Potion
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Peddler, Band of Misfits
+yed - discards Band of Misfits
+Stef - places cards in hand:  Copper, Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Merchant Guild
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Peddler, Vineyard
+yed - discards Advisor
+Stef - places cards in hand:  Peddler, Vineyard
+Stef - plays Peddler
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Peddler, Estate, Estate
+yed - discards Peddler
+Stef - places cards in hand:  Estate, Estate
+Stef - plays Merchant Guild
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - receives 1 coin token
+Stef - gains Vineyard
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - draws Vineyard
+Stef - shuffles deck
+Stef - draws Merchant Guild, Vineyard, Band of Misfits, Advisor
+ 
+---------- yed: turn 16 ----------
+yed - plays Great Hall
+yed - draws Merchant Guild
+yed - plays Advisor
+yed - reveals: Estate, Peddler, Copper
+Stef - discards Peddler
+yed - places cards in hand:  Estate, Copper
+yed - plays Advisor
+yed - reveals: Potion
+yed - shuffles deck
+yed - reveals: Vineyard, Moneylender
+Stef - discards Potion
+yed - places cards in hand:  Vineyard, Moneylender
+yed - plays Merchant Guild
+yed - plays 1 Silver, 1 Copper
+yed - buys Great Hall
+yed - receives 1 coin token
+yed - gains Great Hall
+yed - buys Peddler
+yed - receives 1 coin token
+yed - gains Peddler
+yed - draws Copper, Copper, Estate, Province, Peddler
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Estate
+yed - discards Copper
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Province, Peddler
+yed - discards Advisor
+Stef - places cards in hand:  Province, Peddler
+Stef - plays Peddler
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Vineyard, Peddler
+yed - discards Band of Misfits
+Stef - places cards in hand:  Vineyard, Peddler
+Stef - plays Peddler
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Copper
+yed - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Merchant Guild
+Stef - plays 3 Copper
+Stef - buys Great Hall
+Stef - receives 1 coin token
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - receives 1 coin token
+Stef - gains Great Hall
+Stef - draws Estate, Estate, Vineyard, Band of Misfits, Peddler
+ 
+---------- yed: turn 17 ----------
+yed - plays Peddler
+yed - draws Silver
+yed - plays 2 Copper, 1 Silver
+yed - buys Band of Misfits
+yed - gains Band of Misfits
+yed - draws Peddler, Band of Misfits, Province, Peddler, Peddler
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Potion
+Stef - shuffles deck
+Stef - reveals: Vineyard, Great Hall
+yed - discards Potion
+Stef - places cards in hand:  Vineyard, Great Hall
+Stef - plays Great Hall
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Copper
+yed - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Band of Misfits
+Stef - chooses Baron
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Band of Misfits, Copper, Vineyard, Copper, Peddler
+ 
+---------- yed: turn 18 ----------
+yed - plays Peddler
+yed - shuffles deck
+yed - draws Vineyard
+yed - plays Peddler
+yed - draws Advisor
+yed - plays Peddler
+yed - draws Copper
+yed - plays Advisor
+yed - reveals: Silver, Merchant Guild, Peddler
+Stef - discards Merchant Guild
+yed - places cards in hand:  Silver, Peddler
+yed - plays Peddler
+yed - draws Estate
+yed - plays Band of Misfits
+yed - chooses Baron
+yed - plays Baron
+yed - discards Estate
+yed - plays 1 Copper, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Great Hall
+yed - gains Great Hall
+yed - draws Copper, Copper, Moneylender, Band of Misfits, Great Hall
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Band of Misfits, Great Hall, Band of Misfits
+yed - discards Band of Misfits
+Stef - places cards in hand:  Band of Misfits, Great Hall
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Merchant Guild
+yed - discards Merchant Guild
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Peddler, Estate, Vineyard
+yed - discards Peddler
+Stef - places cards in hand:  Estate, Vineyard
+Stef - plays Advisor
+Stef - reveals: Province
+Stef - shuffles deck
+Stef - reveals: Band of Misfits, Peddler
+yed - discards Band of Misfits
+Stef - places cards in hand:  Province, Peddler
+Stef - plays Great Hall
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Peddler, Merchant Guild, Estate
+yed - discards Merchant Guild
+Stef - places cards in hand:  Peddler, Estate
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Vineyard
+Stef - plays Peddler
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Baron
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Province
+Stef - gains Province
+Stef - draws Band of Misfits, Great Hall, Estate, Copper, Copper
+ 
+---------- yed: turn 19 ----------
+yed - plays Great Hall
+yed - draws Potion
+yed - plays Band of Misfits
+yed - chooses Advisor
+yed - plays Advisor
+yed - reveals: Estate, Estate, Silver
+Stef - discards Silver
+yed - places cards in hand:  Estate, Estate
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays Potion
+yed - buys Vineyard
+yed - gains Vineyard
+yed - draws Province, Peddler, Great Hall, Advisor
+yed - shuffles deck
+yed - draws Vineyard
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Vineyard
+Stef - plays Band of Misfits
+Stef - chooses Baron
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - uses 10 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Band of Misfits
+Stef - shuffles deck
+Stef - draws Advisor, Great Hall, Band of Misfits, Vineyard
+ 
+---------- yed: turn 20 ----------
+yed - plays Peddler
+yed - draws Great Hall
+yed - plays Advisor
+yed - reveals: Silver, Band of Misfits, Band of Misfits
+Stef - discards Band of Misfits
+yed - places cards in hand:  Silver, Band of Misfits
+yed - plays Great Hall
+yed - draws Estate
+yed - plays Great Hall
+yed - draws Estate
+yed - plays Band of Misfits
+yed - chooses Baron
+yed - plays Baron
+yed - discards Estate
+yed - plays 1 Silver
+yed - uses 3 coin tokens
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Silver, Copper, Peddler, Province, Advisor
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Advisor
+Stef - reveals: Province, Merchant Guild, Copper
+yed - discards Merchant Guild
+Stef - places cards in hand:  Province, Copper
+Stef - plays Band of Misfits
+Stef - chooses Advisor
+Stef - plays Advisor
+Stef - reveals: Estate, Peddler, Band of Misfits
+yed - discards Band of Misfits
+Stef - places cards in hand:  Estate, Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Band of Misfits
+Stef - chooses Baron
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - uses 3 coin tokens
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vineyard, Advisor, Province, Peddler, Band of Misfits
+ 
+------------ Game Over ------------
+Stef - cards: 6 Band of Misfits, 5 Great Hall, 4 Peddler, 3 Advisor, 1 Merchant Guild, 4 Copper, 1 Potion, 5 Vineyard, 5 Province, 3 Estate
+Stef - total victory points: 68
+Stef - turns: 21
+ 
+yed - cards: 5 Peddler, 3 Great Hall, 2 Advisor, 2 Band of Misfits, 1 Moneylender, 1 Merchant Guild, 2 Silver, 2 Copper, 1 Potion, 3 Province, 3 Estate, 2 Duchy, 2 Vineyard
+yed - total victory points: 38
+yed - turns: 20
+ 
+1st place: Stef
+2nd place: yed
+ 

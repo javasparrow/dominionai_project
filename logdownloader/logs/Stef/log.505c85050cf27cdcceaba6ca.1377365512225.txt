@@ -1,0 +1,761 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Moat, Develop, Scheme, Caravan, Talisman, Thief, Ill-Gotten Gains, Stash, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+microman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+microman - shuffles deck
+Stef - shuffles deck
+microman - draws Estate, Copper, Estate, Copper, Copper
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- microman: turn 1 ----------
+microman - plays 3 Copper
+microman - buys Develop
+microman - gains Develop
+microman - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - shuffles deck
+Stef - draws Copper, Develop, Copper, Copper, Copper
+ 
+---------- microman: turn 2 ----------
+microman - plays 4 Copper
+microman - buys Talisman
+microman - gains Talisman
+microman - shuffles deck
+microman - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- microman: turn 3 ----------
+microman - plays 3 Copper
+microman - buys Crossroads
+microman - gains Crossroads
+microman - draws Develop, Copper, Copper, Copper, Talisman
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Estate, Talisman
+Stef - shuffles deck
+Stef - draws Copper, Crossroads, Copper
+ 
+---------- microman: turn 4 ----------
+microman - plays Develop
+microman - trashes Copper
+microman - plays 2 Copper
+microman - plays Talisman
+microman - buys Scheme
+microman - gains Scheme
+microman - gains Scheme
+microman - draws Copper, Estate
+microman - shuffles deck
+microman - draws Estate, Copper, Crossroads
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Talisman, Copper, Copper
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - plays Talisman
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Develop
+Stef - draws Develop, Silver, Estate, Copper, Copper
+ 
+---------- microman: turn 5 ----------
+microman - plays Crossroads
+microman - reveals hand: Copper, Estate, Estate, Copper
+microman - draws Develop, Copper
+microman - plays Develop
+microman - trashes Estate
+microman - gains Scheme
+microman - plays 3 Copper
+microman - buys Scheme
+microman - gains Scheme
+microman - draws Scheme, Estate, Scheme, Scheme, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Scheme
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Scheme, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Scheme
+ 
+---------- microman: turn 6 ----------
+microman - plays Scheme
+microman - draws Copper
+microman - plays Scheme
+microman - draws Talisman
+microman - plays Scheme
+microman - draws Copper
+microman - plays 3 Copper
+microman - plays Talisman
+microman - buys Caravan
+microman - gains Caravan
+microman - gains Caravan
+microman - Scheme choice: Scheme
+microman - Scheme choice: Scheme
+microman - Scheme choice: Scheme
+microman - draws Scheme, Scheme, Scheme
+microman - shuffles deck
+microman - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Caravan
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Develop, Crossroads, Copper
+ 
+---------- microman: turn 7 ----------
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Estate
+microman - plays Scheme
+microman - draws Caravan
+microman - plays Scheme
+microman - draws Copper
+microman - plays Caravan
+microman - draws Crossroads
+microman - plays Crossroads
+microman - reveals hand: Copper, Copper, Estate, Copper
+microman - draws Talisman
+microman - plays 3 Copper
+microman - plays Talisman
+microman - buys Caravan
+microman - gains Caravan
+microman - gains Caravan
+microman - Scheme choice: Crossroads
+microman - Scheme choice: Caravan
+microman - Scheme choice: Scheme
+microman - Scheme choice: Scheme
+microman - draws Scheme, Scheme, Crossroads, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Caravan
+Stef - draws Talisman
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Talisman
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - gains Caravan
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Develop
+Stef - draws Develop, Scheme, Caravan, Scheme
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- microman: turn 8 ----------
+microman - duration Caravan
+microman - draws Estate
+microman - plays Scheme
+microman - draws Caravan
+microman - plays Scheme
+microman - draws Copper
+microman - plays Caravan
+microman - draws Develop
+microman - plays Crossroads
+microman - reveals hand: Copper, Copper, Estate, Copper, Develop
+microman - shuffles deck
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Talisman
+microman - plays Develop
+microman - trashes Talisman
+microman - gains Ill-Gotten Gains
+Stef - gains Curse
+microman - gains Scheme
+microman - plays 3 Copper
+microman - buys Scheme
+microman - gains Scheme
+microman - Scheme choice: Caravan
+microman - Scheme choice: Develop
+microman - Scheme choice: Crossroads
+microman - draws Crossroads, Develop, Caravan, Scheme, Ill-Gotten Gains
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Scheme
+Stef - draws Crossroads
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Crossroads
+Stef - reveals hand: Develop, Silver, Copper, Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - Scheme choice: Develop
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Develop, Copper, Talisman
+ 
+---------- microman: turn 9 ----------
+microman - duration Caravan
+microman - draws Scheme
+microman - duration Caravan
+microman - draws Copper
+microman - plays Scheme
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Estate
+microman - plays Caravan
+microman - draws Copper
+microman - plays Scheme
+microman - draws Copper
+microman - plays Crossroads
+microman - reveals hand: Develop, Ill-Gotten Gains, Copper, Estate, Copper, Copper
+microman - shuffles deck
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Copper
+microman - plays Develop
+microman - trashes Ill-Gotten Gains
+microman - gains Farmland
+microman - gains Caravan
+microman - plays 4 Copper
+microman - buys Caravan
+microman - gains Caravan
+microman - Scheme choice: Develop
+microman - Scheme choice: Crossroads
+microman - Scheme choice: Caravan
+microman - draws Caravan, Crossroads, Develop, Caravan, Farmland
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Develop
+Stef - trashes Talisman
+Stef - gains Ill-Gotten Gains
+microman - gains Curse
+Stef - gains Develop
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+microman - gains Curse
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Caravan
+Stef - draws Caravan, Caravan, Scheme, Develop, Ill-Gotten Gains
+ 
+---------- microman: turn 10 ----------
+microman - duration Caravan
+microman - draws Copper
+microman - duration Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Estate
+microman - plays Caravan
+microman - draws Copper
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - shuffles deck
+microman - draws Estate
+microman - plays Crossroads
+microman - reveals hand: Develop, Farmland, Copper, Estate, Copper, Estate
+microman - draws Curse, Scheme, Scheme
+microman - plays Scheme
+microman - draws Copper
+microman - plays Scheme
+microman - draws Copper
+microman - plays Develop
+microman - trashes Curse
+microman - plays 4 Copper
+microman - buys Silver
+microman - gains Silver
+microman - Scheme choice: Develop
+microman - Scheme choice: Crossroads
+microman - Scheme choice: Caravan
+microman - Scheme choice: Caravan
+microman - Scheme choice: Scheme
+microman - draws Scheme, Caravan, Caravan, Crossroads, Develop
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Curse
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Scheme
+Stef - plays Caravan
+Stef - draws Crossroads
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Develop
+Stef - plays Crossroads
+Stef - reveals hand: Develop, Ill-Gotten Gains, Curse, Silver, Copper, Develop
+Stef - plays Develop
+Stef - trashes Curse
+Stef - plays Develop
+Stef - trashes Ill-Gotten Gains
+Stef - gains Talisman
+Stef - gains Farmland
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Caravan
+Stef - draws Caravan, Caravan, Crossroads, Farmland, Talisman
+ 
+---------- microman: turn 11 ----------
+microman - duration Caravan
+microman - draws Curse
+microman - duration Caravan
+microman - draws Caravan
+microman - plays Scheme
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Copper
+microman - plays Caravan
+microman - draws Copper
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - shuffles deck
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Copper
+microman - plays Caravan
+microman - draws Copper
+microman - plays Crossroads
+microman - reveals hand: Develop, Curse, Copper, Copper, Copper, Copper
+microman - plays Develop
+microman - trashes Curse
+microman - plays 4 Copper
+microman - buys Crossroads
+microman - gains Crossroads
+microman - Scheme choice: Crossroads
+microman - Scheme choice: Develop
+microman - Scheme choice: Caravan
+microman - draws Caravan, Develop, Crossroads, Estate, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - duration Caravan
+Stef - draws Ill-Gotten Gains
+Stef - plays Caravan
+Stef - draws Scheme
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Crossroads
+Stef - reveals hand: Farmland, Talisman, Estate, Ill-Gotten Gains, Copper, Copper
+Stef - draws Copper, Silver
+Stef - plays Silver
+Stef - plays Talisman
+Stef - plays Ill-Gotten Gains
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Farmland
+Stef - trashes Copper
+Stef - gains Crossroads
+Stef - gains Farmland
+Stef - Scheme choice: Caravan
+Stef - draws Caravan
+Stef - shuffles deck
+Stef - draws Caravan, Talisman, Farmland, Scheme
+ 
+---------- microman: turn 12 ----------
+microman - duration Caravan
+microman - draws Scheme
+microman - duration Caravan
+microman - draws Copper
+microman - duration Caravan
+microman - draws Farmland
+microman - duration Caravan
+microman - draws Copper
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Silver
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - shuffles deck
+microman - draws Copper
+microman - plays Crossroads
+microman - reveals hand: Develop, Estate, Estate, Copper, Farmland, Copper, Silver, Copper
+microman - draws Copper, Caravan, Scheme
+microman - plays Scheme
+microman - draws Copper
+microman - plays Caravan
+microman - draws Copper
+microman - plays Develop
+microman - trashes Silver
+microman - gains Talisman
+microman - gains Crossroads
+microman - plays 6 Copper
+microman - buys Farmland
+microman - trashes Farmland
+microman - gains Province
+microman - gains Farmland
+microman - Scheme choice: Crossroads
+microman - Scheme choice: Develop
+microman - Scheme choice: Caravan
+microman - Scheme choice: Caravan
+microman - draws Caravan, Caravan, Develop, Crossroads, Crossroads
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Scheme
+Stef - duration Caravan
+Stef - draws Scheme
+Stef - plays Caravan
+Stef - draws Crossroads
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Crossroads
+Stef - plays Scheme
+Stef - draws Farmland
+Stef - plays Crossroads
+Stef - reveals hand: Talisman, Farmland, Crossroads, Silver, Copper, Farmland
+Stef - draws Estate, Develop
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Develop, Talisman, Farmland, Silver, Copper, Farmland
+Stef - draws Develop, Ill-Gotten Gains, Silver
+Stef - plays Develop
+Stef - trashes Talisman
+Stef - gains Duchy
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - plays Ill-Gotten Gains
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Caravan
+Stef - draws Caravan, Caravan, Crossroads, Silver, Duchy
+ 
+---------- microman: turn 13 ----------
+microman - duration Caravan
+microman - draws Talisman
+microman - duration Caravan
+microman - draws Crossroads
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - shuffles deck
+microman - draws Copper
+microman - plays Scheme
+microman - draws Copper
+microman - plays Develop
+microman - trashes Talisman
+microman - gains Duchy
+microman - gains Silver
+microman - plays 2 Copper
+microman - buys Estate
+microman - gains Estate
+microman - Scheme choice: Develop
+microman - Scheme choice: Caravan
+microman - draws Caravan, Develop, Silver, Duchy, Caravan
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Crossroads
+Stef - plays Caravan
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Silver, Duchy, Copper, Copper, Copper
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Silver, Duchy, Copper, Copper, Copper
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Crossroads
+Stef - reveals hand: Silver, Duchy, Copper, Copper, Copper, Silver
+Stef - draws Ill-Gotten Gains
+Stef - plays 3 Copper, 2 Silver
+Stef - plays Ill-Gotten Gains
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Caravan
+Stef - draws Caravan, Caravan, Crossroads, Silver, Estate
+ 
+---------- microman: turn 14 ----------
+microman - duration Caravan
+microman - draws Province
+microman - duration Caravan
+microman - draws Scheme
+microman - plays Caravan
+microman - draws Estate
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Farmland
+microman - plays Develop
+microman - trashes Caravan
+microman - gains Duchy
+microman - gains Silver
+microman - plays 1 Silver
+microman - buys Estate
+microman - gains Estate
+microman - Scheme choice: Develop
+microman - Scheme choice: Caravan
+microman - draws Caravan, Develop, Silver, Duchy, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Develop
+Stef - duration Caravan
+Stef - draws Scheme
+Stef - plays Caravan
+Stef - draws Develop
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Scheme
+Stef - draws Farmland
+Stef - plays Crossroads
+Stef - reveals hand: Silver, Estate, Develop, Develop, Province, Farmland
+Stef - draws Farmland
+Stef - shuffles deck
+Stef - draws Scheme, Silver
+Stef - plays Develop
+Stef - trashes Silver
+Stef - gains Talisman
+Stef - gains Crossroads
+Stef - plays Scheme
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Farmland, Silver, Estate, Develop, Province, Farmland
+Stef - draws Talisman, Copper, Duchy, Scheme
+Stef - plays Scheme
+Stef - draws Ill-Gotten Gains
+Stef - plays Develop
+Stef - trashes Farmland
+Stef - gains Duchy
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Talisman
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays Copper
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Caravan
+Stef - Scheme choice: Caravan
+Stef - draws Caravan, Caravan, Crossroads, Duchy, Crossroads
+ 
+---------- microman: turn 15 ----------
+microman - duration Caravan
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Copper
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Copper
+microman - plays 3 Copper, 1 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - Scheme choice: Caravan
+microman - Scheme choice: Caravan
+microman - draws Caravan, Copper, Estate
+microman - shuffles deck
+microman - draws Silver, Scheme
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Crossroads
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Duchy, Crossroads, Copper, Copper, Silver
+Stef - draws Province
+Stef - plays Crossroads
+Stef - reveals hand: Province, Crossroads, Duchy, Copper, Copper, Silver
+Stef - shuffles deck
+Stef - draws Farmland, Scheme
+Stef - plays Scheme
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Farmland, Province, Crossroads, Duchy, Copper, Copper, Silver
+Stef - draws Copper, Province, Silver
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Province, Silver, Farmland, Province, Duchy, Copper, Copper, Silver
+Stef - draws Scheme, Ill-Gotten Gains, Copper, Develop
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - Scheme choice: Crossroads
+Stef - Scheme choice: Crossroads
+Stef - draws Crossroads, Crossroads, Talisman, Scheme, Develop
+ 
+---------- microman: turn 16 ----------
+microman - duration Caravan
+microman - draws Copper
+microman - duration Caravan
+microman - draws Duchy
+microman - plays Scheme
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Caravan
+microman - plays Caravan
+microman - draws Crossroads
+microman - plays Caravan
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Silver
+microman - plays Crossroads
+microman - reveals hand: Copper, Estate, Silver, Copper, Duchy, Silver
+microman - draws Estate, Duchy
+microman - plays 2 Copper, 2 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - Scheme choice: Caravan
+microman - Scheme choice: Crossroads
+microman - draws Crossroads, Caravan, Scheme, Estate, Farmland
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - duration Caravan
+Stef - draws Duchy
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Talisman, Develop, Estate, Duchy, Province
+Stef - shuffles deck
+Stef - draws Scheme, Caravan, Caravan
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Ill-Gotten Gains
+Stef - plays Crossroads
+Stef - reveals hand: Talisman, Develop, Estate, Duchy, Province, Province, Copper, Ill-Gotten Gains
+Stef - draws Copper, Copper, Copper, Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Copper, Copper, Talisman, Develop, Estate, Duchy, Province, Province, Copper, Ill-Gotten Gains
+Stef - draws Scheme, Crossroads, Farmland, Province
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Develop
+Stef - trashes Talisman
+Stef - gains Duchy
+Stef - gains Silver
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Silver, Duchy, Province, Duchy, Scheme
+ 
+------------ Game Over ------------
+Stef - cards: 4 Scheme, 4 Caravan, 4 Crossroads, 2 Develop, 4 Copper, 3 Silver, 1 Ill-Gotten Gains, 5 Province, 3 Duchy, 1 Farmland, 1 Estate
+Stef - total victory points: 42
+Stef - turns: 17
+ 
+microman - cards: 6 Scheme, 5 Caravan, 3 Crossroads, 1 Develop, 6 Copper, 2 Silver, 4 Estate, 4 Duchy, 1 Farmland, 1 Province
+microman - total victory points: 24
+microman - turns: 16
+ 
+1st place: Stef
+2nd place: microman
+ 

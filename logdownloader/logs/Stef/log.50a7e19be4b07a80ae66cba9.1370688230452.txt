@@ -1,0 +1,628 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Shanty Town, Caravan, Salvager, Wandering Minstrel, Cartographer, Festival, Inn, Market, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+secret tunnel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+secret tunnel - shuffles deck
+Stef - shuffles deck
+secret tunnel - draws Copper, Estate, Estate, Copper, Copper
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- secret tunnel: turn 1 ----------
+secret tunnel - plays 3 Copper
+secret tunnel - buys Silver
+secret tunnel - gains Silver
+secret tunnel - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- secret tunnel: turn 2 ----------
+secret tunnel - plays 4 Copper
+secret tunnel - buys Salvager
+secret tunnel - gains Salvager
+secret tunnel - shuffles deck
+secret tunnel - draws Estate, Copper, Copper, Salvager, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- secret tunnel: turn 3 ----------
+secret tunnel - plays Salvager
+secret tunnel - trashes Estate
+secret tunnel - plays 2 Copper
+secret tunnel - buys Wandering Minstrel
+secret tunnel - gains Wandering Minstrel
+secret tunnel - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Copper, Salvager
+Stef - shuffles deck
+Stef - draws Estate, Copper, Festival
+ 
+---------- secret tunnel: turn 4 ----------
+secret tunnel - plays 3 Copper, 1 Silver
+secret tunnel - buys Market
+secret tunnel - gains Market
+secret tunnel - draws Copper, Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Estate, Silver, Market
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Festival
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 2 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- secret tunnel: turn 5 ----------
+secret tunnel - plays Market
+secret tunnel - draws Copper
+secret tunnel - plays 3 Copper, 1 Silver
+secret tunnel - buys Nobles
+secret tunnel - gains Nobles
+secret tunnel - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Shanty Town, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- secret tunnel: turn 6 ----------
+secret tunnel - plays 4 Copper
+secret tunnel - buys Potion
+secret tunnel - gains Potion
+secret tunnel - draws Wandering Minstrel, Salvager
+secret tunnel - shuffles deck
+secret tunnel - draws Copper, Copper, Potion
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Shanty Town
+Stef - reveals Estate, Estate, Copper, Copper
+Stef - draws Nobles, Copper
+Stef - plays Nobles
+Stef - draws Copper, Silver, Nobles
+Stef - plays Nobles
+Stef - draws Copper, Festival, Copper
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Salvager
+Stef - shuffles deck
+Stef - draws Nobles, Copper, Festival
+ 
+---------- secret tunnel: turn 7 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Copper
+secret tunnel - reveals: Copper, Estate, Copper
+secret tunnel - discards: Copper, Estate, Copper
+secret tunnel - plays Salvager
+secret tunnel - trashes Potion
+secret tunnel - plays 3 Copper
+secret tunnel - buys Nobles
+secret tunnel - gains Nobles
+secret tunnel - draws Copper, Copper, Estate, Nobles, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Nobles, Silver, Copper
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Copper, Estate, Copper, Shanty Town
+ 
+---------- secret tunnel: turn 8 ----------
+secret tunnel - plays 2 Copper, 1 Silver
+secret tunnel - buys Potion
+secret tunnel - gains Potion
+secret tunnel - draws Market
+secret tunnel - shuffles deck
+secret tunnel - draws Estate, Copper, Copper, Salvager
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Estate, Copper
+Stef - draws Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Nobles
+Stef - shuffles deck
+Stef - draws Copper, Nobles, Copper, Copper
+ 
+---------- secret tunnel: turn 9 ----------
+secret tunnel - plays Market
+secret tunnel - draws Nobles
+secret tunnel - plays Salvager
+secret tunnel - trashes Estate
+secret tunnel - plays 2 Copper
+secret tunnel - buys Festival
+secret tunnel - gains Festival
+secret tunnel - draws Potion, Copper, Silver, Wandering Minstrel, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Salvager, Copper, Estate
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - shuffles deck
+Stef - draws Festival, Copper, Wandering Minstrel, Nobles, Nobles
+ 
+---------- secret tunnel: turn 10 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Copper
+secret tunnel - reveals: Copper, Estate, Copper
+secret tunnel - discards: Copper, Estate, Copper
+secret tunnel - plays Silver
+secret tunnel - plays Copper
+secret tunnel - plays Copper
+secret tunnel - plays Copper
+secret tunnel - buys Inn
+secret tunnel - gains Inn
+secret tunnel - places Festival, Market, Nobles, Inn on top of deck
+secret tunnel - shuffles deck
+secret tunnel - draws Market, Nobles, Inn, Nobles, Festival
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Copper, Shanty Town, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - shuffles deck
+Stef - reveals: Nobles, Inn, Copper
+Stef - places Nobles on top of deck
+Stef - places Inn on top of deck
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Inn, Nobles, Nobles
+Stef - plays Inn
+Stef - draws Salvager, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Estate, Silver, Nobles, Salvager, Copper, Copper, Copper
+Stef - plays Nobles
+Stef - draws Copper, Copper
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Nobles, Potion, Wandering Minstrel, Festival
+ 
+---------- secret tunnel: turn 11 ----------
+secret tunnel - plays Festival
+secret tunnel - plays Market
+secret tunnel - shuffles deck
+secret tunnel - draws Copper
+secret tunnel - plays Nobles
+secret tunnel - draws Copper, Copper, Potion
+secret tunnel - plays Inn
+secret tunnel - draws Copper, Estate
+secret tunnel - discards Copper
+secret tunnel - discards Copper
+secret tunnel - plays Nobles
+secret tunnel - draws Salvager, Copper, Silver
+secret tunnel - plays Salvager
+secret tunnel - trashes Estate
+secret tunnel - plays 3 Copper, 1 Potion, 1 Silver
+secret tunnel - buys Vineyard
+secret tunnel - gains Vineyard
+secret tunnel - buys Wandering Minstrel
+secret tunnel - gains Wandering Minstrel
+secret tunnel - buys Shanty Town
+secret tunnel - gains Shanty Town
+secret tunnel - buys Shanty Town
+secret tunnel - gains Shanty Town
+secret tunnel - draws Wandering Minstrel, Copper, Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Nobles
+Stef - reveals: Copper, Copper, Silver
+Stef - discards: Copper, Copper, Silver
+Stef - plays Nobles
+Stef - draws Copper, Festival, Shanty Town
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Copper, Nobles, Copper
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Inn, Salvager, Nobles
+Stef - plays Inn
+Stef - draws Shanty Town
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Potion, Copper, Shanty Town, Copper, Salvager, Silver, Copper, Copper
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Potion, Copper, Copper, Silver, Copper
+Stef - draws Copper
+Stef - plays 5 Copper, 1 Potion, 1 Silver
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Inn, Festival, Vineyard, Wandering Minstrel, Festival
+ 
+---------- secret tunnel: turn 12 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Salvager
+secret tunnel - reveals: Market, Inn, Wandering Minstrel
+secret tunnel - places Inn on top of deck
+secret tunnel - places Wandering Minstrel on top of deck
+secret tunnel - places Market on top of deck
+secret tunnel - plays Salvager
+secret tunnel - trashes Copper
+secret tunnel - plays 3 Copper
+secret tunnel - buys Shanty Town
+secret tunnel - gains Shanty Town
+secret tunnel - draws Market, Wandering Minstrel, Inn, Copper, Nobles
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Nobles
+Stef - reveals: Potion, Copper, Silver
+Stef - discards: Potion, Copper, Silver
+Stef - plays Nobles
+Stef - draws Salvager, Potion, Copper
+Stef - plays Inn
+Stef - draws Copper, Nobles
+Stef - discards Vineyard
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Festival, Copper, Nobles
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Shanty Town, Nobles, Copper
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Shanty Town
+Stef - shuffles deck
+Stef - draws Potion, Copper
+Stef - plays Festival
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays Shanty Town
+Stef - reveals Potion, Copper, Copper, Shanty Town, Copper, Potion
+Stef - plays Shanty Town
+Stef - reveals Potion, Copper, Copper, Copper, Potion
+Stef - draws Copper, Silver
+Stef - plays 4 Copper, 2 Potion, 1 Silver
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Nobles, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Vineyard, Nobles
+Stef - shuffles deck
+Stef - draws Copper, Shanty Town
+ 
+---------- secret tunnel: turn 13 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Festival
+secret tunnel - reveals: Vineyard, Silver, Copper
+secret tunnel - discards: Vineyard, Silver, Copper
+secret tunnel - plays Market
+secret tunnel - draws Nobles
+secret tunnel - plays Nobles
+secret tunnel - draws Potion, Shanty Town, Shanty Town
+secret tunnel - plays Festival
+secret tunnel - plays Nobles
+secret tunnel - draws Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Vineyard, Copper
+secret tunnel - plays Inn
+secret tunnel - draws Wandering Minstrel, Copper
+secret tunnel - discards Vineyard
+secret tunnel - discards Copper
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Salvager
+secret tunnel - reveals: Shanty Town, Copper, Copper
+secret tunnel - places Shanty Town on top of deck
+secret tunnel - discards: Copper, Copper
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Potion, Shanty Town, Copper, Copper, Copper, Salvager
+secret tunnel - plays Salvager
+secret tunnel - trashes Copper
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Potion, Copper, Copper
+secret tunnel - draws Shanty Town, Silver
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Silver, Potion, Copper, Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Vineyard, Copper
+secret tunnel - plays 3 Copper, 1 Silver, 1 Potion
+secret tunnel - buys Vineyard
+secret tunnel - gains Vineyard
+secret tunnel - buys Province
+secret tunnel - gains Province
+secret tunnel - draws Copper, Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Copper, Nobles, Wandering Minstrel
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Inn
+Stef - draws Nobles, Nobles
+Stef - discards Vineyard
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Copper, Vineyard, Copper
+Stef - plays Shanty Town
+Stef - reveals Nobles, Nobles, Copper, Vineyard, Copper
+Stef - plays Nobles
+Stef - draws Potion, Silver, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Inn
+Stef - reveals: Potion, Nobles, Salvager
+Stef - places Nobles on top of deck
+Stef - places Salvager on top of deck
+Stef - discards Potion
+Stef - plays Nobles
+Stef - draws Salvager, Nobles, Nobles
+Stef - plays Inn
+Stef - draws Festival, Copper
+Stef - discards Vineyard
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Shanty Town, Festival, Vineyard
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Potion, Copper
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Potion, Silver, Vineyard, Potion
+Stef - draws Vineyard, Vineyard
+Stef - plays 2 Copper, 2 Potion, 1 Silver
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Vineyard, Salvager, Inn, Festival
+ 
+---------- secret tunnel: turn 14 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Copper
+secret tunnel - reveals: Nobles, Festival, Inn
+secret tunnel - places Festival on top of deck
+secret tunnel - places Inn on top of deck
+secret tunnel - places Nobles on top of deck
+secret tunnel - plays Nobles
+secret tunnel - draws Nobles, Inn, Festival
+secret tunnel - plays Inn
+secret tunnel - draws Shanty Town, Wandering Minstrel
+secret tunnel - discards Copper
+secret tunnel - discards Copper
+secret tunnel - plays Nobles
+secret tunnel - draws Vineyard, Salvager, Province
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Potion
+secret tunnel - reveals: Shanty Town, Silver, Market
+secret tunnel - places Shanty Town on top of deck
+secret tunnel - places Market on top of deck
+secret tunnel - discards Silver
+secret tunnel - plays Festival
+secret tunnel - plays Salvager
+secret tunnel - trashes Copper
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Copper, Vineyard, Province, Potion
+secret tunnel - draws Market, Shanty Town
+secret tunnel - plays Market
+secret tunnel - draws Copper
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Copper, Vineyard, Province, Potion, Copper
+secret tunnel - draws Shanty Town, Vineyard
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Vineyard, Copper, Vineyard, Province, Potion, Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Silver, Copper
+secret tunnel - plays 3 Copper, 1 Silver, 1 Potion
+secret tunnel - buys Vineyard
+secret tunnel - gains Vineyard
+secret tunnel - buys Province
+secret tunnel - gains Province
+secret tunnel - draws Copper
+secret tunnel - shuffles deck
+secret tunnel - draws Wandering Minstrel, Copper, Vineyard, Nobles
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Inn
+Stef - draws Nobles, Wandering Minstrel
+Stef - discards Vineyard
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Shanty Town
+Stef - reveals: Nobles, Shanty Town, Copper
+Stef - places Nobles on top of deck
+Stef - places Shanty Town on top of deck
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Shanty Town, Nobles, Vineyard
+Stef - plays Nobles
+Stef - draws Nobles, Copper, Nobles
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Nobles, Wandering Minstrel, Vineyard
+Stef - plays Wandering Minstrel
+Stef - draws Nobles
+Stef - reveals: Festival, Potion, Potion
+Stef - places Festival on top of deck
+Stef - discards: Potion, Potion
+Stef - plays Nobles
+Stef - draws Festival, Silver, Vineyard
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Vineyard, Festival, Inn
+Stef - plays Festival
+Stef - plays Nobles
+Stef - shuffles deck
+Stef - draws Copper, Copper, Potion
+Stef - plays Inn
+Stef - draws Potion, Vineyard
+Stef - discards Shanty Town
+Stef - discards Shanty Town
+Stef - plays Salvager
+Stef - trashes Potion
+Stef - plays 3 Copper, 1 Silver, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - buys Festival
+Stef - gains Festival
+Stef - shuffles deck
+Stef - draws Nobles, Vineyard, Copper, Wandering Minstrel, Nobles
+ 
+---------- secret tunnel: turn 15 ----------
+secret tunnel - plays Wandering Minstrel
+secret tunnel - draws Festival
+secret tunnel - reveals: Shanty Town, Province, Potion
+secret tunnel - places Shanty Town on top of deck
+secret tunnel - discards: Province, Potion
+secret tunnel - plays Festival
+secret tunnel - plays Nobles
+secret tunnel - draws Shanty Town, Vineyard, Nobles
+secret tunnel - plays Nobles
+secret tunnel - draws Copper, Shanty Town, Vineyard
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Copper, Copper, Vineyard, Shanty Town, Vineyard, Copper, Vineyard
+secret tunnel - plays Shanty Town
+secret tunnel - reveals Copper, Copper, Vineyard, Vineyard, Copper, Vineyard
+secret tunnel - draws Copper, Silver
+secret tunnel - plays 4 Copper, 1 Silver
+secret tunnel - buys Province
+secret tunnel - gains Province
+secret tunnel - draws Shanty Town, Salvager, Province, Wandering Minstrel, Market
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Festival, Salvager, Nobles
+Stef - places Festival on top of deck
+Stef - places Salvager on top of deck
+Stef - places Nobles on top of deck
+Stef - plays Nobles
+Stef - draws Nobles, Salvager, Festival
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Vineyard, Vineyard, Inn
+Stef - plays Inn
+Stef - draws Festival, Festival
+Stef - discards Vineyard
+Stef - discards Vineyard
+Stef - plays Nobles
+Stef - draws Nobles, Inn, Vineyard
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Nobles, Wandering Minstrel, Silver
+Stef - plays Festival
+Stef - plays Nobles
+Stef - draws Potion, Vineyard, Nobles
+Stef - plays Inn
+Stef - draws Shanty Town, Copper
+Stef - discards Vineyard
+Stef - discards Vineyard
+Stef - plays Nobles
+Stef - draws Shanty Town, Copper, Festival
+Stef - plays Festival
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Vineyard
+Stef - reveals: Vineyard, Vineyard, Vineyard
+Stef - discards: Vineyard, Vineyard, Vineyard
+Stef - plays Salvager
+Stef - trashes Potion
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Vineyard, Estate, Shanty Town, Copper, Inn
+ 
+------------ Game Over ------------
+Stef - cards: 7 Shanty Town, 6 Nobles, 4 Festival, 2 Wandering Minstrel, 2 Inn, 1 Salvager, 3 Copper, 1 Silver, 5 Vineyard, 1 Estate, 1 Province
+Stef - total victory points: 54
+Stef - turns: 16
+ 
+secret tunnel - cards: 3 Shanty Town, 2 Nobles, 2 Wandering Minstrel, 1 Inn, 1 Market, 1 Salvager, 1 Festival, 4 Copper, 1 Potion, 1 Silver, 3 Province, 3 Vineyard
+secret tunnel - total victory points: 31
+secret tunnel - turns: 15
+ 
+1st place: Stef
+2nd place: secret tunnel
+ 

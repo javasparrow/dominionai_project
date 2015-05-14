@@ -1,0 +1,506 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Loan, Sage, Tunnel, Workshop, Quarry, Embassy, Market, Tribute, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Zan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Zan - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+Zan - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Zan: turn 1 ----------
+Zan - plays 3 Copper
+Zan - buys Silver
+Zan - gains Silver
+Zan - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Zan: turn 2 ----------
+Zan - plays 4 Copper
+Zan - buys Quarry
+Zan - gains Quarry
+Zan - shuffles deck
+Zan - draws Quarry, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Copper, Estate, Copper, Estate, Loan
+ 
+---------- Zan: turn 3 ----------
+Zan - plays 2 Copper, 1 Silver
+Zan - plays Quarry
+Zan - buys Witch
+Zan - gains Witch
+Zan - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Quarry
+Stef - discards Quarry
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Witch
+ 
+---------- Zan: turn 4 ----------
+Zan - plays 4 Copper
+Zan - buys Quarry
+Zan - gains Quarry
+Zan - draws Copper, Estate
+Zan - shuffles deck
+Zan - draws Quarry, Estate, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Witch
+Stef - draws Copper, Copper
+Zan - gains Curse
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Loan, Tunnel, Copper, Estate
+ 
+---------- Zan: turn 5 ----------
+Zan - plays 1 Copper, 1 Silver
+Zan - plays Quarry
+Zan - buys Market
+Zan - gains Market
+Zan - draws Witch, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Quarry
+Stef - discards Quarry
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Quarry, Copper, Copper, Copper
+ 
+---------- Zan: turn 6 ----------
+Zan - plays Witch
+Zan - draws Copper, Estate
+Stef - gains Curse
+Zan - plays 5 Copper
+Zan - buys Tribute
+Zan - gains Tribute
+Zan - draws Copper, Quarry
+Zan - shuffles deck
+Zan - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 4 Copper
+Stef - plays Quarry
+Stef - buys Embassy
+Stef - gains Embassy
+Zan - gains Silver
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Zan: turn 7 ----------
+Zan - plays 2 Copper
+Zan - plays Quarry
+Zan - buys Tribute
+Zan - gains Tribute
+Zan - draws Curse, Tribute, Copper, Witch, Quarry
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Witch, Tunnel, Silver, Loan, Estate
+ 
+---------- Zan: turn 8 ----------
+Zan - plays Tribute
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Copper
+Zan - receives 4 coins
+Stef - discards: Silver, Copper
+Zan - plays 1 Copper
+Zan - plays Quarry
+Zan - buys Gold
+Zan - gains Gold
+Zan - draws Copper, Estate, Silver, Market, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Witch
+Stef - draws Quarry, Estate
+Zan - gains Curse
+Stef - plays 1 Silver
+Stef - plays Quarry
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - buys Embassy
+Stef - gains Embassy
+Zan - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Tunnel
+ 
+---------- Zan: turn 9 ----------
+Zan - plays Market
+Zan - draws Copper
+Zan - plays 3 Copper, 1 Silver
+Zan - buys Embassy
+Zan - gains Embassy
+Stef - gains Silver
+Zan - draws Copper
+Zan - shuffles deck
+Zan - draws Curse, Estate, Copper, Witch
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 3 Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Embassy, Copper, Curse, Copper
+Stef - shuffles deck
+Stef - draws Tunnel
+ 
+---------- Zan: turn 10 ----------
+Zan - plays Witch
+Zan - draws Tribute, Estate
+Stef - gains Curse
+Zan - plays 2 Copper
+Zan - buys Vagrant
+Zan - gains Vagrant
+Zan - draws Estate, Copper, Silver, Copper, Embassy
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Embassy
+Stef - draws Embassy, Estate, Silver, Copper, Silver
+Stef - discards Estate
+Stef - discards Tunnel
+Stef - discards Curse
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Embassy
+Stef - gains Embassy
+Zan - gains Silver
+Stef - draws Quarry, Silver, Witch, Tunnel, Loan
+ 
+---------- Zan: turn 11 ----------
+Zan - plays Embassy
+Zan - draws Quarry, Copper, Copper, Market, Tribute
+Zan - discards Tribute
+Zan - discards Market
+Zan - discards Estate
+Zan - plays 4 Copper, 1 Silver
+Zan - plays Quarry
+Zan - buys Market
+Zan - gains Market
+Zan - draws Copper, Curse, Quarry, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Witch
+Stef - draws Copper, Estate
+Zan - gains Curse
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Quarry
+Stef - buys Embassy
+Stef - gains Embassy
+Zan - gains Silver
+Stef - draws Estate, Tunnel, Copper
+Stef - shuffles deck
+Stef - draws Copper, Embassy
+ 
+---------- Zan: turn 12 ----------
+Zan - plays 2 Silver, 1 Copper
+Zan - plays Quarry
+Zan - buys Market
+Zan - gains Market
+Zan - draws Gold
+Zan - shuffles deck
+Zan - draws Silver, Market, Curse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Embassy
+Stef - draws Silver, Copper, Curse, Silver, Gold
+Stef - discards Curse
+Stef - discards Tunnel
+Stef - discards Estate
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 3 Copper, 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Tunnel, Estate, Estate, Curse
+ 
+---------- Zan: turn 13 ----------
+Zan - plays Market
+Zan - draws Curse
+Zan - plays 1 Gold, 1 Silver, 1 Copper
+Zan - buys Tribute
+Zan - gains Tribute
+Zan - buys Vagrant
+Zan - gains Vagrant
+Zan - draws Silver, Estate, Vagrant, Silver, Market
+ 
+---------- Stef: turn 14 ----------
+Stef - draws Copper, Embassy, Witch, Embassy, Loan
+ 
+---------- Zan: turn 14 ----------
+Zan - plays Vagrant
+Zan - draws Quarry
+Zan - reveals: Quarry
+Zan - places Quarry on top of deck
+Zan - plays Market
+Zan - draws Quarry
+Zan - plays 2 Silver
+Zan - plays Quarry
+Zan - plays Quarry
+Zan - buys Tribute
+Zan - gains Tribute
+Zan - buys Market
+Zan - gains Market
+Zan - draws Copper, Curse, Silver, Estate, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Witch
+Stef - draws Silver, Embassy
+Zan - gains Curse
+Stef - plays Silver
+Stef - plays Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Quarry, Tunnel
+Stef - shuffles deck
+Stef - draws Copper, Estate, Embassy
+ 
+---------- Zan: turn 15 ----------
+Zan - plays 1 Copper, 1 Silver
+Zan - buys Sage
+Zan - gains Sage
+Zan - draws Embassy, Market, Copper, Copper, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Embassy
+Stef - draws Curse, Copper, Tunnel, Estate, Gold
+Stef - discards Tunnel
+Stef - discards Tunnel
+Stef - discards Estate
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - plays Quarry
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Loan, Embassy, Silver, Tunnel
+ 
+---------- Zan: turn 16 ----------
+Zan - plays Market
+Zan - draws Copper
+Zan - plays Embassy
+Zan - draws Tribute, Silver, Witch, Copper, Tribute
+Zan - discards Tribute
+Zan - discards Witch
+Zan - discards Tribute
+Zan - plays 5 Copper, 1 Silver
+Zan - buys Province
+Zan - gains Province
+Zan - shuffles deck
+Zan - draws Curse, Silver, Estate, Market, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Embassy
+Stef - draws Silver, Gold, Copper, Embassy, Silver
+Stef - discards Tunnel
+Stef - discards Embassy
+Stef - discards Copper
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays Loan
+Stef - reveals Witch, Curse, Province, Copper
+Stef - trashes Copper
+Stef - discards: Witch, Curse, Province
+Stef - plays 3 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Embassy, Tunnel
+Stef - shuffles deck
+Stef - draws Estate, Gold
+ 
+---------- Zan: turn 17 ----------
+Zan - plays Market
+Zan - draws Silver
+Zan - plays 2 Silver, 1 Gold
+Zan - buys Province
+Zan - gains Province
+Zan - draws Vagrant, Curse, Market, Copper, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Embassy
+Stef - draws Gold, Province, Tunnel, Loan, Embassy
+Stef - discards Tunnel
+Stef - discards Province
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 2 Gold
+Stef - plays Loan
+Stef - reveals Curse, Silver
+Stef - discards Silver
+Stef - discards Curse
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Embassy, Quarry, Gold, Province
+ 
+---------- Zan: turn 18 ----------
+Zan - plays Vagrant
+Zan - draws Embassy
+Zan - reveals: Witch
+Zan - places Witch on top of deck
+Zan - plays Market
+Zan - draws Witch
+Zan - plays Embassy
+Zan - draws Silver, Vagrant, Market, Copper, Copper
+Zan - discards Market
+Zan - discards Vagrant
+Zan - discards Witch
+Zan - plays 3 Copper, 1 Silver
+Zan - buys Duchy
+Zan - gains Duchy
+Zan - draws Copper, Silver, Sage, Quarry, Quarry
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Embassy
+Stef - draws Embassy, Copper, Gold, Copper, Gold
+Stef - discards Embassy
+Stef - discards Province
+Stef - discards Quarry
+Stef - plays 3 Copper, 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Tunnel, Tunnel, Witch, Silver, Curse
+ 
+---------- Zan: turn 19 ----------
+Zan - plays Sage
+Zan - reveals Tribute
+Zan - places Tribute in hand
+Zan - plays Tribute
+Stef - reveals: Copper, Gold
+Zan - receives 4 coins
+Stef - discards: Copper, Gold
+Zan - plays 1 Copper, 1 Silver
+Zan - plays Quarry
+Zan - plays Quarry
+Zan - buys Province
+Zan - gains Province
+Zan - draws Curse, Estate, Copper, Silver, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Witch
+Stef - draws Silver, Estate
+Zan - gains Curse
+Stef - plays 2 Silver
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - shuffles deck
+Stef - draws Copper, Gold, Quarry, Tunnel, Copper
+ 
+---------- Zan: turn 20 ----------
+Zan - plays 1 Copper, 1 Silver
+Zan - buys Tunnel
+Zan - gains Tunnel
+Zan - draws Estate, Tribute, Copper, Market, Tribute
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Tunnel, Gold, Embassy, Gold, Tunnel
+ 
+---------- Zan: turn 21 ----------
+Zan - plays Market
+Zan - draws Tribute
+Zan - plays Tribute
+Stef - reveals: Estate, Curse
+Zan - draws Copper
+Zan - shuffles deck
+Zan - draws Province
+Stef - discards: Estate, Curse
+Zan - plays 2 Copper
+Zan - buys Tunnel
+Zan - gains Tunnel
+Zan - draws Province, Market, Quarry, Estate, Quarry
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Embassy
+Stef - draws Province, Gold, Tunnel, Province, Witch
+Stef - discards Tunnel
+Stef - discards Tunnel
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Copper, Tunnel, Embassy
+ 
+---------- Zan: turn 22 ----------
+Zan - plays Market
+Zan - draws Vagrant
+Zan - plays Vagrant
+Zan - draws Silver
+Zan - reveals: Copper
+Zan - places Copper on top of deck
+Zan - plays 1 Silver
+Zan - plays Quarry
+Zan - plays Quarry
+Zan - buys Duchy
+Zan - gains Duchy
+Zan - buys Vagrant
+Zan - gains Vagrant
+Zan - draws Copper, Embassy, Curse, Gold, Silver
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Embassy
+Stef - draws Gold, Duchy, Estate, Gold, Gold
+Stef - discards Estate
+Stef - discards Duchy
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays 3 Gold, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Loan, Embassy, Curse, Gold, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 4 Embassy, 12 Gold, 1 Witch, 4 Copper, 3 Silver, 1 Quarry, 1 Loan, 5 Tunnel, 5 Province, 3 Estate, 2 Duchy, 2 Curse
+Stef - total victory points: 47
+Stef - turns: 23
+ 
+Zan - cards: 4 Tribute, 4 Market, 3 Vagrant, 1 Witch, 1 Embassy, 1 Sage, 7 Copper, 5 Silver, 2 Quarry, 1 Gold, 3 Estate, 3 Province, 2 Tunnel, 2 Duchy, 5 Curse
+Zan - total victory points: 26
+Zan - turns: 22
+ 
+1st place: Stef
+2nd place: Zan
+ 

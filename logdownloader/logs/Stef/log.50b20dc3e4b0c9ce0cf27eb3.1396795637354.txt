@@ -1,0 +1,577 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Village, Remake, Embassy, Laboratory, Merchant Ship, Rogue, Harem, Forge, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ord_realdgame - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ord_realdgame - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ord_realdgame - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- ord_realdgame: turn 1 ----------
+ord_realdgame - plays 3 Copper
+ord_realdgame - buys Silver
+ord_realdgame - gains Silver
+ord_realdgame - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - shuffles deck
+Stef - draws Copper, Remake, Estate, Copper, Estate
+ 
+---------- ord_realdgame: turn 2 ----------
+ord_realdgame - plays 4 Copper
+ord_realdgame - buys Remake
+ord_realdgame - gains Remake
+ord_realdgame - shuffles deck
+ord_realdgame - draws Copper, Estate, Remake, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Village
+Stef - trashes Estate
+Stef - gains Village
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ord_realdgame: turn 3 ----------
+ord_realdgame - plays Remake
+ord_realdgame - trashes Estate
+ord_realdgame - gains Village
+ord_realdgame - trashes Estate
+ord_realdgame - gains Village
+ord_realdgame - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Remake
+ 
+---------- ord_realdgame: turn 4 ----------
+ord_realdgame - plays 3 Copper, 1 Silver
+ord_realdgame - buys Embassy
+ord_realdgame - gains Embassy
+Stef - gains Silver
+ord_realdgame - draws Copper, Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Estate, Copper, Copper, Village, Village
+ 
+---------- ord_realdgame: turn 5 ----------
+ord_realdgame - plays 5 Copper
+ord_realdgame - buys Laboratory
+ord_realdgame - gains Laboratory
+ord_realdgame - draws Copper, Remake, Silver, Estate, Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Remake
+Stef - shuffles deck
+Stef - draws Estate, Peddler, Village, Remake
+ 
+---------- ord_realdgame: turn 6 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Remake
+ord_realdgame - trashes Estate
+ord_realdgame - gains Village
+ord_realdgame - trashes Copper
+ord_realdgame - plays 1 Copper, 1 Silver
+ord_realdgame - buys Village
+ord_realdgame - gains Village
+ord_realdgame - draws Village, Embassy
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village, Village, Remake
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Peddler
+Stef - draws Village
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Village
+Stef - trashes Remake
+Stef - gains Laboratory
+Stef - plays 2 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ord_realdgame: turn 7 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Village
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Embassy
+ord_realdgame - draws Silver, Copper, Copper, Copper, Laboratory
+ord_realdgame - discards Copper
+ord_realdgame - discards Copper
+ord_realdgame - discards Copper
+ord_realdgame - plays Laboratory
+ord_realdgame - shuffles deck
+ord_realdgame - draws Copper, Copper
+ord_realdgame - plays Remake
+ord_realdgame - trashes Copper
+ord_realdgame - trashes Copper
+ord_realdgame - plays 3 Copper, 1 Silver
+ord_realdgame - buys Rogue
+ord_realdgame - gains Rogue
+ord_realdgame - draws Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver, Village, Village, Village
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 5 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - draws Village
+Stef - shuffles deck
+Stef - draws Laboratory, Village, Rogue, Laboratory
+ 
+---------- ord_realdgame: turn 8 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays 4 Copper, 1 Silver
+ord_realdgame - buys Rogue
+ord_realdgame - gains Rogue
+ord_realdgame - draws Laboratory, Embassy, Village, Rogue, Remake
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Laboratory
+Stef - draws Remake, Silver
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Village, Village, Copper, Peddler, Copper
+ 
+---------- ord_realdgame: turn 9 ----------
+ord_realdgame - plays Village
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Embassy
+ord_realdgame - draws Copper, Village, Copper, Rogue, Copper
+ord_realdgame - discards Copper
+ord_realdgame - discards Copper
+ord_realdgame - discards Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Village
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Silver
+ord_realdgame - shuffles deck
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Rogue
+Stef - shuffles deck
+Stef - reveals: Silver, Village
+Stef - trashes Silver
+Stef - discards Village
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Remake
+ord_realdgame - trashes Copper
+ord_realdgame - trashes Copper
+ord_realdgame - plays 1 Copper, 1 Silver
+ord_realdgame - buys Laboratory
+ord_realdgame - gains Laboratory
+ord_realdgame - draws Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver, Rogue, Village, Remake
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Village
+Stef - draws Laboratory
+Stef - plays Village
+Stef - draws Remake
+Stef - plays Laboratory
+Stef - draws Remake, Laboratory
+Stef - plays Laboratory
+Stef - draws Rogue, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Silver
+Stef - plays Peddler
+Stef - draws Village
+Stef - plays Rogue
+ord_realdgame - reveals: Rogue, Silver
+ord_realdgame - trashes Silver
+ord_realdgame - discards Rogue
+Stef - plays Remake
+Stef - trashes Remake
+Stef - gains Rogue
+Stef - trashes Copper
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Village
+Stef - plays Village
+Stef - draws Rogue
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Silver
+Stef - buys Forge
+Stef - gains Forge
+Stef - shuffles deck
+Stef - draws Village, Laboratory, Laboratory, Peddler, Copper
+ 
+---------- ord_realdgame: turn 10 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Laboratory
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Laboratory, Embassy
+ord_realdgame - plays Embassy
+ord_realdgame - draws Village, Village, Village, Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Rogue
+ord_realdgame - discards Copper
+ord_realdgame - discards Copper
+ord_realdgame - discards Silver
+ord_realdgame - plays Village
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Rogue
+Stef - reveals: Village, Copper
+Stef - trashes Village
+Stef - discards Copper
+ord_realdgame - plays Laboratory
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver
+ord_realdgame - plays Remake
+ord_realdgame - trashes Copper
+ord_realdgame - trashes Silver
+ord_realdgame - gains Remake
+ord_realdgame - plays 1 Silver, 1 Copper
+ord_realdgame - buys Forge
+ord_realdgame - gains Forge
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver, Rogue, Village, Village, Village
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Village
+Stef - plays Laboratory
+Stef - draws Forge, Remake
+Stef - plays Laboratory
+Stef - draws Rogue, Remake
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Rogue
+Stef - plays Rogue
+Stef - gains Village
+Stef - plays Remake
+Stef - trashes Remake
+Stef - gains Rogue
+Stef - trashes Copper
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Rogue
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Forge
+Stef - trashes Silver
+Stef - gains Village
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Village
+Stef - shuffles deck
+Stef - draws Village, Village, Village
+ 
+---------- ord_realdgame: turn 11 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Forge
+ord_realdgame - plays Village
+ord_realdgame - draws Embassy
+ord_realdgame - plays Village
+ord_realdgame - draws Laboratory
+ord_realdgame - plays Embassy
+ord_realdgame - draws Copper, Rogue, Village, Remake, Remake
+ord_realdgame - discards Copper
+ord_realdgame - discards Silver
+ord_realdgame - discards Rogue
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Laboratory
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver
+ord_realdgame - plays Village
+ord_realdgame - draws Rogue
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Silver
+ord_realdgame - plays Remake
+ord_realdgame - trashes Remake
+ord_realdgame - gains Rogue
+ord_realdgame - trashes Copper
+ord_realdgame - plays Forge
+ord_realdgame - trashes Silver
+ord_realdgame - gains Village
+ord_realdgame - plays Rogue
+ord_realdgame - gains Remake
+ord_realdgame - plays Silver
+ord_realdgame - buys Peddler
+ord_realdgame - gains Peddler
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village, Village, Remake, Rogue, Village
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Village
+Stef - draws Rogue
+Stef - plays Village
+Stef - draws Laboratory
+Stef - plays Village
+Stef - draws Rogue
+Stef - plays Village
+Stef - draws Village
+Stef - plays Laboratory
+Stef - draws Forge, Peddler
+Stef - plays Village
+Stef - draws Rogue
+Stef - plays Peddler
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Laboratory, Remake
+Stef - plays Laboratory
+Stef - draws Laboratory, Remake
+Stef - plays Remake
+Stef - trashes Remake
+Stef - gains Laboratory
+Stef - trashes Copper
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Laboratory, Silver
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Remake, Silver
+Stef - plays Forge
+Stef - trashes Silver, Silver
+Stef - gains Harem
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Village, Peddler, Harem, Village, Laboratory
+ 
+---------- ord_realdgame: turn 12 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Village
+ord_realdgame - plays Village
+ord_realdgame - draws Remake
+ord_realdgame - plays Village
+ord_realdgame - draws Embassy
+ord_realdgame - plays Embassy
+ord_realdgame - draws Forge, Rogue, Village, Laboratory, Peddler
+ord_realdgame - discards Remake
+ord_realdgame - discards Remake
+ord_realdgame - discards Rogue
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Silver, Rogue
+ord_realdgame - plays Village
+ord_realdgame - draws Laboratory
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Laboratory
+ord_realdgame - shuffles deck
+ord_realdgame - draws Rogue, Remake
+ord_realdgame - plays Village
+ord_realdgame - draws Silver
+ord_realdgame - plays Rogue
+Stef - reveals: Laboratory, Remake
+Stef - trashes Remake
+Stef - discards Laboratory
+ord_realdgame - plays Forge
+ord_realdgame - trashes Peddler
+ord_realdgame - gains Province
+ord_realdgame - plays Remake
+ord_realdgame - trashes Silver
+ord_realdgame - gains Remake
+ord_realdgame - trashes Silver
+ord_realdgame - gains Remake
+ord_realdgame - buys Laboratory
+ord_realdgame - gains Laboratory
+ord_realdgame - draws Silver, Remake
+ord_realdgame - shuffles deck
+ord_realdgame - draws Remake, Laboratory, Rogue
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Village
+Stef - plays Laboratory
+Stef - draws Forge, Laboratory
+Stef - plays Laboratory
+Stef - draws Rogue, Rogue
+Stef - plays Village
+Stef - draws Laboratory
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Remake
+Stef - plays Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Rogue, Village
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Remake, Laboratory
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Remake
+Stef - trashes Remake
+Stef - gains Laboratory
+Stef - trashes Silver
+Stef - gains Potion
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Potion, Laboratory
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Remake
+Stef - plays Forge
+Stef - trashes Potion, Remake
+Stef - gains Province
+Stef - plays Harem
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Province, Laboratory, Village, Laboratory, Village
+ 
+---------- ord_realdgame: turn 13 ----------
+ord_realdgame - plays Laboratory
+ord_realdgame - draws Province, Village
+ord_realdgame - plays Village
+ord_realdgame - draws Village
+ord_realdgame - plays Village
+ord_realdgame - draws Remake
+ord_realdgame - plays Remake
+ord_realdgame - trashes Remake
+ord_realdgame - gains Duchy
+ord_realdgame - trashes Remake
+ord_realdgame - gains Duchy
+ord_realdgame - plays Rogue
+ord_realdgame - gains Silver
+ord_realdgame - plays Silver
+ord_realdgame - buys Estate
+ord_realdgame - gains Estate
+ord_realdgame - draws Laboratory, Rogue, Rogue, Village, Embassy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Rogue
+Stef - plays Laboratory
+Stef - draws Rogue, Harem
+Stef - plays Laboratory
+Stef - draws Laboratory, Laboratory
+Stef - plays Laboratory
+Stef - draws Rogue, Village
+Stef - plays Laboratory
+Stef - draws Laboratory, Village
+Stef - plays Village
+Stef - draws Laboratory
+Stef - plays Village
+Stef - draws Remake
+Stef - plays Laboratory
+Stef - draws Village, Province
+Stef - plays Village
+Stef - draws Forge
+Stef - plays Rogue
+Stef - gains Remake
+Stef - plays Laboratory
+Stef - draws Peddler
+Stef - shuffles deck
+Stef - draws Remake
+Stef - plays Peddler
+Stef - plays Remake
+Stef - trashes Village
+Stef - gains Remake
+Stef - trashes Village
+Stef - gains Remake
+Stef - plays Forge
+Stef - trashes Remake
+Stef - gains Remake
+Stef - plays Harem
+ 
+------------ Game Over ------------
+Stef - cards: 3 Remake, 2 Rogue, 2 Province
+Stef - total victory points: 12
+Stef - turns: 13
+ 
+ord_realdgame - resigned
+ord_realdgame - cards: 5 Village, 3 Laboratory, 3 Rogue, 2 Remake, 1 Embassy, 1 Forge, 2 Silver, 2 Duchy, 1 Estate, 1 Province
+ord_realdgame - total victory points: 13
+ord_realdgame - turns: 13
+ 
+1st place: Stef
+2nd place: ord_realdgame
+ 

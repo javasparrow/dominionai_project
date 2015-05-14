@@ -1,0 +1,397 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Vagrant, Fortune Teller, Storeroom, Baker, Cultist, Duke, Mandarin, Soothsayer, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - shuffles deck
+Stef - shuffles deck
+silverspawn  - draws Copper, Estate, Estate, Estate, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays 2 Copper
+silverspawn  - buys Embargo
+silverspawn  - gains Embargo
+silverspawn  - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 5 Copper
+silverspawn  - buys Soothsayer
+silverspawn  - gains Soothsayer
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Cultist, Estate, Copper, Copper
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Copper, Copper, Embargo, Soothsayer, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Cultist
+Stef - draws Copper, Copper
+silverspawn  - gains Abandoned Mine
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - plays Embargo
+silverspawn  - embargoes Cultist
+silverspawn  - trashes Embargo
+silverspawn  - plays 3 Copper
+silverspawn  - buys Soothsayer
+silverspawn  - gains Soothsayer
+silverspawn  - draws Copper, Estate
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - shuffles deck
+Stef - draws Estate, Copper, Cultist, Copper, Silver
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays 3 Copper, 1 Silver
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Copper, Copper, Soothsayer, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cultist
+Stef - draws Copper, Copper
+silverspawn  - gains Abandoned Mine
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Silver, Copper, Soothsayer, Copper
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays Soothsayer
+silverspawn  - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+silverspawn  - plays 4 Copper
+silverspawn  - uses 1 coin token
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Abandoned Mine, Estate, Soothsayer, Estate
+silverspawn  - shuffles deck
+silverspawn  - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+silverspawn  - gains Curse
+silverspawn  - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Baker
+Stef - gains Baker
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Duchy, Soothsayer, Silver, Silver
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - plays Soothsayer
+silverspawn  - gains Gold
+Stef - gains Curse
+Stef - draws Gold
+silverspawn  - plays 2 Copper
+silverspawn  - buys Vagrant
+silverspawn  - gains Vagrant
+silverspawn  - draws Copper, Abandoned Mine, Estate, Gold, Duchy
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+silverspawn  - gains Curse
+silverspawn  - draws Soothsayer
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Estate, Copper, Curse, Copper
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays Abandoned Mine
+silverspawn  - plays 1 Copper, 1 Gold
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Baker, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 9 ----------
+silverspawn  - plays 4 Copper, 1 Silver
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Duchy
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Gold, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cultist
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 10 ----------
+silverspawn  - plays 3 Copper, 1 Gold
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Vagrant, Estate, Abandoned Mine, Soothsayer, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cultist
+Stef - draws Duchy, Duchy
+silverspawn  - gains Ruined Market
+Stef - plays 4 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Silver, Estate, Copper, Soothsayer, Curse
+ 
+---------- silverspawn : turn 11 ----------
+silverspawn  - plays Vagrant
+silverspawn  - draws Silver
+silverspawn  - reveals: Duchy
+silverspawn  - places Duchy in hand
+silverspawn  - plays Soothsayer
+silverspawn  - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+silverspawn  - plays 1 Copper, 1 Silver
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Duchy, Curse, Curse, Abandoned Mine, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+silverspawn  - gains Curse
+silverspawn  - draws Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold, Silver, Copper, Estate, Baker
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - plays Abandoned Mine
+silverspawn  - plays 2 Copper
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Gold, Duchy, Copper, Estate, Soothsayer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Gold
+Stef - plays 2 Gold, 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Copper, Duchy, Silver
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- silverspawn : turn 13 ----------
+silverspawn  - plays Soothsayer
+silverspawn  - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+silverspawn  - plays Gold
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Estate
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Curse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Duchy, Copper, Curse, Silver, Copper
+ 
+---------- silverspawn : turn 14 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Estate
+silverspawn  - gains Estate
+silverspawn  - draws Gold, Soothsayer, Estate, Abandoned Mine, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Province, Silver, Cultist, Copper, Embargo
+ 
+---------- silverspawn : turn 15 ----------
+silverspawn  - plays Abandoned Mine
+silverspawn  - plays 1 Gold, 1 Copper
+silverspawn  - buys Duke
+silverspawn  - gains Duke
+silverspawn  - draws Copper, Duchy, Curse, Silver, Vagrant
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Embargo
+Stef - embargoes Cultist
+Stef - trashes Embargo
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Baker, Gold, Silver, Copper
+ 
+---------- silverspawn : turn 16 ----------
+silverspawn  - plays Vagrant
+silverspawn  - draws Soothsayer
+silverspawn  - reveals: Silver
+silverspawn  - places Silver on top of deck
+silverspawn  - plays Soothsayer
+silverspawn  - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+silverspawn  - plays Silver
+silverspawn  - buys Estate
+silverspawn  - gains Estate
+silverspawn  - draws Silver, Gold, Duchy, Curse, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Soothsayer, Duchy, Curse, Gold, Estate
+ 
+---------- silverspawn : turn 17 ----------
+silverspawn  - plays Gold
+silverspawn  - plays Silver
+silverspawn  - buys Duke
+silverspawn  - gains Duke
+silverspawn  - draws Duchy, Abandoned Mine, Duchy, Duchy, Ruined Market
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+silverspawn  - gains Curse
+silverspawn  - draws Silver
+Stef - plays Gold
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Soothsayer, Curse
+ 
+---------- silverspawn : turn 18 ----------
+silverspawn  - plays Ruined Market
+silverspawn  - plays Silver
+silverspawn  - buys Estate
+silverspawn  - gains Estate
+silverspawn  - buys Copper
+silverspawn  - gains Copper
+silverspawn  - draws Copper, Copper, Gold, Estate, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+silverspawn  - gains Curse
+silverspawn  - shuffles deck
+silverspawn  - draws Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Duchy, Cultist, Curse, Duke
+ 
+---------- silverspawn : turn 19 ----------
+silverspawn  - plays 2 Copper, 2 Gold
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Curse, Silver, Copper, Copper, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Cultist
+Stef - draws Estate, Gold
+silverspawn  - gains Abandoned Mine
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Duke, Duchy, Estate, Storeroom
+ 
+---------- silverspawn : turn 20 ----------
+silverspawn  - plays Silver
+silverspawn  - buys Estate
+silverspawn  - gains Estate
+silverspawn  - draws Duke, Estate, Curse, Vagrant, Abandoned Mine
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Duchy
+Stef - discards Duke
+Stef - discards Copper
+Stef - draws Curse, Copper, Gold, Silver
+Stef - discards Curse
+Stef - plays 1 Copper, 1 Gold, 1 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Curse, Baker, Duke, Silver, Gold
+ 
+---------- silverspawn : turn 21 ----------
+silverspawn  - plays Vagrant
+silverspawn  - draws Gold
+silverspawn  - reveals: Ruined Market
+silverspawn  - places Ruined Market in hand
+silverspawn  - plays Abandoned Mine
+silverspawn  - plays Gold
+silverspawn  - buys Storeroom
+silverspawn  - gains Storeroom
+silverspawn  - draws Duchy, Duchy, Silver, Duchy, Duke
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Estate
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Silver, Duchy, Province, Copper, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 1 Soothsayer, 1 Cultist, 1 Storeroom, 1 Baker, 7 Copper, 5 Gold, 4 Silver, 6 Duke, 5 Estate, 3 Duchy, 2 Province, 5 Curse
+Stef - total victory points: 39
+Stef - turns: 21
+ 
+silverspawn  - cards: 3 Abandoned Mine, 2 Soothsayer, 1 Storeroom, 1 Vagrant, 1 Ruined Market, 8 Copper, 5 Gold, 4 Silver, 7 Estate, 5 Duchy, 2 Duke, 1 Province, 5 Curse
+silverspawn  - total victory points: 33
+silverspawn  - turns: 21
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

@@ -1,0 +1,579 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Doctor, Fishing Village, Menagerie, Smugglers, Storeroom, Ghost Ship, Rogue, Nobles, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+liopoil - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+liopoil - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+liopoil - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- liopoil: turn 1 ----------
+liopoil - plays 3 Copper
+liopoil - buys Smugglers
+liopoil - gains Smugglers
+liopoil - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 1 coin
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - gains Doctor
+Stef - draws Copper, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- liopoil: turn 2 ----------
+liopoil - plays 4 Copper
+liopoil - buys Doctor
+liopoil - overpays for Doctor with 1 coin
+liopoil - shuffles deck
+liopoil - looks at Copper
+liopoil - trashes Copper
+liopoil - gains Doctor
+liopoil - draws Copper, Copper, Estate, Smugglers, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Smugglers
+Stef - gains Smugglers
+Stef - draws Copper, Copper, Copper, Doctor, Estate
+ 
+---------- liopoil: turn 3 ----------
+liopoil - plays Smugglers
+liopoil - gains Smugglers
+liopoil - plays 2 Copper
+liopoil - buys Candlestick Maker
+liopoil - gains Candlestick Maker
+liopoil - shuffles deck
+liopoil - draws Smugglers, Estate, Copper, Estate, Candlestick Maker
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Smugglers
+Stef - trashes Copper, Copper
+Stef - places Smugglers on top of deck
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Smugglers, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Doctor
+ 
+---------- liopoil: turn 4 ----------
+liopoil - plays Candlestick Maker
+liopoil - receives 1 coin token
+liopoil - plays Smugglers
+liopoil - gains Fishing Village
+liopoil - draws Copper, Smugglers, Copper, Copper, Doctor
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Smugglers
+Stef - gains Fishing Village
+Stef - plays 2 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Estate, Copper, Fishing Village, Copper, Copper
+ 
+---------- liopoil: turn 5 ----------
+liopoil - plays Doctor
+liopoil - names Copper
+liopoil - reveals: Copper, Copper, Estate
+liopoil - trashes Copper, Copper
+liopoil - places Estate on top of deck
+liopoil - plays 3 Copper
+liopoil - buys Fishing Village
+liopoil - gains Fishing Village
+liopoil - draws Estate
+liopoil - shuffles deck
+liopoil - draws Copper, Smugglers, Fishing Village, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fishing Village
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Smugglers, Fishing Village, Copper, Copper
+ 
+---------- liopoil: turn 6 ----------
+liopoil - plays Fishing Village
+liopoil - plays Smugglers
+liopoil - gains Menagerie
+liopoil - plays 2 Copper
+liopoil - buys Fishing Village
+liopoil - gains Fishing Village
+liopoil - draws Fishing Village, Doctor, Copper, Smugglers, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Smugglers
+Stef - gains Menagerie
+Stef - plays 2 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- liopoil: turn 7 ----------
+liopoil - duration Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Doctor
+liopoil - names Estate
+liopoil - reveals: Estate, Estate, Candlestick Maker
+liopoil - trashes Estate, Estate
+liopoil - places Candlestick Maker on top of deck
+liopoil - plays Smugglers
+liopoil - gains Menagerie
+liopoil - plays 2 Copper
+liopoil - uses 1 coin token
+liopoil - buys Ghost Ship
+liopoil - gains Ghost Ship
+liopoil - draws Candlestick Maker
+liopoil - shuffles deck
+liopoil - draws Smugglers, Fishing Village, Copper, Ghost Ship
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Fishing Village
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Doctor, Menagerie
+Stef - shuffles deck
+Stef - draws Peddler, Candlestick Maker, Fishing Village
+ 
+---------- liopoil: turn 8 ----------
+liopoil - duration Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Ghost Ship
+liopoil - draws Estate, Fishing Village
+Stef - places Peddler on top of deck
+Stef - places Candlestick Maker on top of deck
+liopoil - plays Fishing Village
+liopoil - plays Candlestick Maker
+liopoil - receives 1 coin token
+liopoil - plays Smugglers
+liopoil - gains Fishing Village
+liopoil - plays 1 Copper
+liopoil - uses 1 coin token
+liopoil - buys Rogue
+liopoil - gains Rogue
+liopoil - buys Peddler
+liopoil - gains Peddler
+liopoil - draws Copper, Copper, Copper, Smugglers, Menagerie
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Doctor, Fishing Village
+Stef - draws Candlestick Maker, Peddler, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Candlestick Maker, Peddler, Doctor, Fishing Village
+Stef - draws Copper, Menagerie, Copper
+Stef - plays Fishing Village
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Estate, Smugglers, Copper
+Stef - trashes Copper
+Stef - places Estate on top of deck
+Stef - places Smugglers on top of deck
+Stef - plays Peddler
+Stef - draws Smugglers
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Smugglers
+Stef - draws Estate
+Stef - plays Smugglers
+Stef - gains Fishing Village
+Stef - plays 2 Copper
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Estate, Fishing Village, Fishing Village, Copper
+ 
+---------- liopoil: turn 9 ----------
+liopoil - duration Fishing Village
+liopoil - duration Fishing Village
+liopoil - plays Menagerie
+liopoil - reveals hand: Copper, Copper, Copper, Smugglers
+liopoil - draws Menagerie
+liopoil - plays Menagerie
+liopoil - reveals hand: Copper, Copper, Copper, Smugglers
+liopoil - draws Doctor
+liopoil - plays Smugglers
+liopoil - gains Storeroom
+liopoil - plays Doctor
+liopoil - names Estate
+liopoil - shuffles deck
+liopoil - reveals: Fishing Village, Ghost Ship, Peddler
+liopoil - places Fishing Village on top of deck
+liopoil - places Ghost Ship on top of deck
+liopoil - places Peddler on top of deck
+liopoil - plays 3 Copper
+liopoil - buys Peddler
+liopoil - gains Peddler
+liopoil - draws Peddler, Ghost Ship, Fishing Village, Smugglers, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - shuffles deck
+Stef - draws Copper, Menagerie, Copper, Menagerie, Doctor
+ 
+---------- liopoil: turn 10 ----------
+liopoil - plays Fishing Village
+liopoil - plays Ghost Ship
+liopoil - draws Fishing Village, Rogue
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+liopoil - plays Fishing Village
+liopoil - plays Peddler
+liopoil - draws Candlestick Maker
+liopoil - plays Rogue
+Stef - reveals: Copper, Copper
+liopoil - plays Candlestick Maker
+liopoil - receives 1 coin token
+liopoil - plays Smugglers
+liopoil - gains Rogue
+liopoil - uses 1 coin token
+liopoil - buys Nobles
+liopoil - gains Nobles
+liopoil - buys Peddler
+liopoil - gains Peddler
+liopoil - draws Storeroom, Copper
+liopoil - shuffles deck
+liopoil - draws Rogue, Estate, Ghost Ship
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Doctor
+Stef - draws Fishing Village, Storeroom, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Menagerie
+Stef - reveals hand: Fishing Village, Storeroom, Doctor
+Stef - draws Peddler, Menagerie, Candlestick Maker
+Stef - plays Menagerie
+Stef - reveals hand: Peddler, Candlestick Maker, Fishing Village, Storeroom, Doctor
+Stef - draws Rogue, Copper, Smugglers
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Estate, Peddler, Estate
+Stef - trashes Estate, Estate
+Stef - places Peddler on top of deck
+Stef - plays Fishing Village
+Stef - plays Rogue
+liopoil - reveals: Copper, Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Smugglers
+Stef - gains Nobles
+Stef - plays Storeroom
+Stef - plays 2 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Peddler
+Stef - shuffles deck
+Stef - draws Copper, Peddler, Nobles, Fishing Village
+ 
+---------- liopoil: turn 11 ----------
+liopoil - duration Fishing Village
+liopoil - duration Fishing Village
+liopoil - plays Rogue
+Stef - reveals: Nobles, Menagerie
+Stef - trashes Menagerie
+Stef - discards Nobles
+liopoil - plays Ghost Ship
+liopoil - draws Peddler, Rogue
+Stef - places Peddler on top of deck
+Stef - places Peddler on top of deck
+liopoil - plays Peddler
+liopoil - draws Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Storeroom
+liopoil - discards Estate
+liopoil - discards Copper
+liopoil - draws Smugglers, Smugglers
+liopoil - discards Smugglers
+liopoil - discards Smugglers
+liopoil - plays Rogue
+liopoil - gains Menagerie
+liopoil - buys Nobles
+liopoil - gains Nobles
+liopoil - buys Fishing Village
+liopoil - gains Fishing Village
+liopoil - draws Copper, Doctor, Menagerie, Candlestick Maker, Fishing Village
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Nobles
+Stef - draws Peddler, Peddler, Storeroom
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Smugglers
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Fishing Village
+Stef - draws Doctor, Copper, Candlestick Maker
+Stef - discards Doctor
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Smugglers
+Stef - gains Nobles
+Stef - plays Copper
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Menagerie, Peddler, Fishing Village, Rogue, Menagerie
+ 
+---------- liopoil: turn 12 ----------
+liopoil - duration Fishing Village
+liopoil - plays Menagerie
+liopoil - reveals hand: Copper, Doctor, Candlestick Maker, Fishing Village
+liopoil - draws Menagerie, Peddler, Nobles
+liopoil - plays Menagerie
+liopoil - reveals hand: Peddler, Nobles, Copper, Doctor, Candlestick Maker, Fishing Village
+liopoil - draws Peddler
+liopoil - shuffles deck
+liopoil - draws Smugglers, Menagerie
+liopoil - plays Peddler
+liopoil - draws Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Menagerie
+liopoil - reveals hand: Peddler, Smugglers, Nobles, Copper, Doctor, Candlestick Maker, Fishing Village
+liopoil - draws Estate, Copper, Rogue
+liopoil - plays Doctor
+liopoil - names Copper
+liopoil - reveals: Rogue, Smugglers, Peddler
+liopoil - places Smugglers on top of deck
+liopoil - places Rogue on top of deck
+liopoil - places Peddler on top of deck
+liopoil - plays Peddler
+liopoil - draws Peddler
+liopoil - plays Peddler
+liopoil - draws Rogue
+liopoil - plays Nobles
+liopoil - draws Smugglers, Copper, Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Fishing Village
+liopoil - plays Candlestick Maker
+liopoil - receives 1 coin token
+liopoil - plays Rogue
+Stef - reveals: Copper, Fishing Village
+Stef - trashes Fishing Village
+Stef - discards Copper
+liopoil - plays Rogue
+liopoil - gains Fishing Village
+liopoil - plays Smugglers
+liopoil - gains Nobles
+liopoil - plays 3 Copper
+liopoil - buys Province
+liopoil - gains Province
+liopoil - buys Duchy
+liopoil - gains Duchy
+liopoil - draws Storeroom, Ghost Ship, Copper, Nobles, Fishing Village
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Peddler, Fishing Village, Rogue
+Stef - shuffles deck
+Stef - draws Fishing Village, Nobles, Storeroom
+Stef - plays Fishing Village
+Stef - plays Menagerie
+Stef - reveals hand: Fishing Village, Nobles, Storeroom, Peddler, Rogue
+Stef - draws Copper, Smugglers, Nobles
+Stef - plays Nobles
+Stef - draws Copper, Candlestick Maker, Province
+Stef - plays Fishing Village
+Stef - plays Nobles
+Stef - draws Peddler, Peddler, Fishing Village
+Stef - plays Peddler
+Stef - draws Nobles
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Doctor, Peddler, Copper
+Stef - discards Copper
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper
+Stef - trashes Copper, Copper, Copper
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Rogue
+liopoil - shuffles deck
+liopoil - reveals: Fishing Village, Menagerie
+liopoil - trashes Menagerie
+liopoil - discards Fishing Village
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Province, Storeroom, Menagerie, Nobles
+ 
+---------- liopoil: turn 13 ----------
+liopoil - duration Fishing Village
+liopoil - duration Fishing Village
+liopoil - duration Fishing Village
+liopoil - plays Nobles
+liopoil - draws Peddler, Estate, Smugglers
+liopoil - plays Peddler
+liopoil - draws Copper
+liopoil - plays Ghost Ship
+liopoil - draws Copper, Menagerie
+Stef - places Province on top of deck
+Stef - places Candlestick Maker on top of deck
+liopoil - plays Storeroom
+liopoil - discards Copper
+liopoil - discards Copper
+liopoil - discards Copper
+liopoil - discards Estate
+liopoil - draws Province, Candlestick Maker, Menagerie, Duchy
+liopoil - discards Duchy
+liopoil - discards Province
+liopoil - plays Menagerie
+liopoil - reveals hand: Fishing Village, Smugglers, Menagerie, Candlestick Maker
+liopoil - draws Peddler, Smugglers, Nobles
+liopoil - plays Fishing Village
+liopoil - plays Smugglers
+liopoil - gains Duchy
+liopoil - plays Menagerie
+liopoil - reveals hand: Peddler, Smugglers, Nobles, Candlestick Maker
+liopoil - draws Copper, Rogue, Fishing Village
+liopoil - plays Peddler
+liopoil - draws Rogue
+liopoil - plays Fishing Village
+liopoil - plays Nobles
+liopoil - draws Doctor, Peddler, Nobles
+liopoil - plays Candlestick Maker
+liopoil - receives 1 coin token
+liopoil - plays Nobles
+liopoil - takes 2 actions
+liopoil - plays Smugglers
+liopoil - gains Duchy
+liopoil - plays Rogue
+liopoil - gains Menagerie
+liopoil - plays 1 Copper
+liopoil - uses 1 coin token
+liopoil - buys Province
+liopoil - gains Province
+liopoil - buys Duchy
+liopoil - gains Duchy
+liopoil - shuffles deck
+liopoil - draws Storeroom, Fishing Village, Fishing Village, Menagerie, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Menagerie
+Stef - reveals hand: Storeroom, Nobles
+Stef - draws Candlestick Maker, Province, Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Smugglers
+Stef - plays Nobles
+Stef - draws Peddler, Copper, Province
+Stef - plays Peddler
+Stef - draws Duchy
+Stef - plays Storeroom
+Stef - discards Province
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Duchy
+Stef - draws Peddler, Doctor, Duchy, Menagerie
+Stef - discards Duchy
+Stef - discards Doctor
+Stef - plays Menagerie
+Stef - reveals hand: Candlestick Maker, Smugglers, Peddler
+Stef - draws Nobles, Nobles, Peddler
+Stef - plays Peddler
+Stef - draws Rogue
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Nobles
+Stef - draws Province, Province, Copper
+Stef - plays Rogue
+liopoil - reveals: Smugglers, Candlestick Maker
+liopoil - trashes Smugglers
+liopoil - discards Candlestick Maker
+Stef - plays Copper
+Stef - uses 4 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Duchy, Doctor, Duchy
+Stef - shuffles deck
+Stef - draws Storeroom, Menagerie
+ 
+------------ Game Over ------------
+Stef - cards: 6 Peddler, 5 Nobles, 4 Fishing Village, 2 Menagerie, 1 Doctor, 1 Storeroom, 1 Rogue, 1 Smugglers, 1 Candlestick Maker, 1 Copper, 4 Duchy, 2 Province
+Stef - total victory points: 34
+Stef - turns: 13
+ 
+liopoil - cards: 6 Fishing Village, 3 Nobles, 3 Menagerie, 3 Peddler, 2 Rogue, 1 Storeroom, 1 Candlestick Maker, 1 Smugglers, 1 Ghost Ship, 1 Doctor, 4 Copper, 4 Duchy, 2 Province, 1 Estate
+liopoil - total victory points: 31
+liopoil - turns: 13
+ 
+1st place: Stef
+2nd place: liopoil
+ 

@@ -1,0 +1,800 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Cellar, Haven, Masterpiece, Advisor, Bazaar, Count, Festival, Saboteur, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lagrangian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lagrangian - shuffles deck
+Stef - draws Copper, Estate, Estate, Estate, Copper
+Lagrangian - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Lagrangian: turn 1 ----------
+Lagrangian - plays 2 Copper
+Lagrangian - buys Candlestick Maker
+Lagrangian - gains Candlestick Maker
+Lagrangian - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lagrangian: turn 2 ----------
+Lagrangian - plays 5 Copper
+Lagrangian - buys Count
+Lagrangian - gains Count
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Count
+Stef - gains Count
+Stef - shuffles deck
+Stef - draws Haven, Copper, Copper, Copper, Count
+ 
+---------- Lagrangian: turn 3 ----------
+Lagrangian - plays 4 Copper
+Lagrangian - buys Advisor
+Lagrangian - gains Advisor
+Lagrangian - draws Copper, Copper, Estate, Candlestick Maker, Count
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Count
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Lagrangian: turn 4 ----------
+Lagrangian - plays Count
+Lagrangian - places Candlestick Maker on top of deck
+Lagrangian - trashes Copper, Copper, Estate
+Lagrangian - draws Candlestick Maker, Copper, Estate
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Haven
+Stef - places set aside Count in hand
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Copper, Estate, Estate, Copper
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Copper
+ 
+---------- Lagrangian: turn 5 ----------
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays 3 Copper
+Lagrangian - buys Silver
+Lagrangian - gains Silver
+Lagrangian - draws Advisor, Copper, Estate, Copper, Count
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Haven, Copper, Count
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Lagrangian: turn 6 ----------
+Lagrangian - plays Advisor
+Lagrangian - shuffles deck
+Lagrangian - reveals: Copper, Estate, Silver
+Stef - discards Silver
+Lagrangian - places cards in hand:  Copper, Estate
+Lagrangian - plays Count
+Lagrangian - gains Copper
+Lagrangian - trashes Copper, Estate, Copper, Copper, Estate
+Lagrangian - draws Copper, Copper, Candlestick Maker
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Advisor
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Count
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Bazaar, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Festival
+ 
+---------- Lagrangian: turn 7 ----------
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Advisor
+Lagrangian - reveals: Silver, Count
+Stef - discards Count
+Lagrangian - places cards in hand:  Silver
+Lagrangian - plays 3 Copper, 1 Silver
+Lagrangian - buys Bazaar
+Lagrangian - gains Bazaar
+Lagrangian - shuffles deck
+Lagrangian - draws Bazaar, Copper, Copper, Count, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Haven
+Stef - places set aside Count in hand
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Festival
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Estate, Copper, Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver
+Stef - shuffles deck
+Stef - draws Bazaar, Silver
+ 
+---------- Lagrangian: turn 8 ----------
+Lagrangian - plays Bazaar
+Lagrangian - draws Copper
+Lagrangian - plays Count
+Lagrangian - places Silver on top of deck
+Lagrangian - trashes Copper, Copper, Copper
+Lagrangian - uses 2 coin tokens
+Lagrangian - buys Silver
+Lagrangian - gains Silver
+Lagrangian - draws Silver, Advisor, Candlestick Maker
+Lagrangian - shuffles deck
+Lagrangian - draws Bazaar, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Bazaar
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Count
+Stef - sets aside Silver
+Stef - plays Count
+Stef - places Silver on top of deck
+Stef - trashes Copper, Copper
+Stef - draws Silver, Festival, Copper
+Stef - shuffles deck
+Stef - draws Bazaar, Count
+ 
+---------- Lagrangian: turn 9 ----------
+Lagrangian - plays Bazaar
+Lagrangian - draws Count
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Count
+Lagrangian - places Advisor on top of deck
+Lagrangian - takes 3 coins
+Lagrangian - plays 2 Silver
+Lagrangian - buys Gold
+Lagrangian - gains Gold
+Lagrangian - buys Haven
+Lagrangian - gains Haven
+Lagrangian - draws Advisor
+Lagrangian - shuffles deck
+Lagrangian - draws Bazaar, Silver, Silver, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Haven
+Stef - places set aside Silver in hand
+Stef - plays Festival
+Stef - plays Count
+Stef - places Copper on top of deck
+Stef - takes 3 coins
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - buys Vault
+Stef - gains Vault
+Stef - shuffles deck
+Stef - draws Vault, Saboteur, Festival, Copper, Bazaar
+ 
+---------- Lagrangian: turn 10 ----------
+Lagrangian - plays Advisor
+Lagrangian - reveals: Candlestick Maker, Haven, Count
+Stef - discards Count
+Lagrangian - places cards in hand:  Candlestick Maker, Haven
+Lagrangian - plays Bazaar
+Lagrangian - shuffles deck
+Lagrangian - draws Count
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Count
+Lagrangian - places Haven on top of deck
+Lagrangian - takes 3 coins
+Lagrangian - plays 2 Silver, 1 Gold
+Lagrangian - buys Saboteur
+Lagrangian - gains Saboteur
+Lagrangian - buys Festival
+Lagrangian - gains Festival
+Lagrangian - draws Haven
+Lagrangian - shuffles deck
+Lagrangian - draws Advisor, Silver, Candlestick Maker, Festival
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bazaar
+Stef - draws Haven
+Stef - plays Festival
+Stef - plays Vault
+Stef - draws Silver, Count
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Count
+Stef - plays Saboteur
+Lagrangian - reveals Bazaar
+Lagrangian - trashes Bazaar
+Lagrangian - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - shuffles deck
+Stef - draws Silver, Candlestick Maker, Copper, Festival, Bazaar
+ 
+---------- Lagrangian: turn 11 ----------
+Lagrangian - plays Festival
+Lagrangian - plays Advisor
+Lagrangian - reveals: Silver, Count, Saboteur
+Stef - discards Saboteur
+Lagrangian - places cards in hand:  Silver, Count
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Haven
+Lagrangian - draws Gold
+Lagrangian - sets aside Count
+Lagrangian - plays 2 Silver, 1 Gold
+Lagrangian - uses 3 coin tokens
+Lagrangian - buys Vault
+Lagrangian - gains Vault
+Lagrangian - buys Bazaar
+Lagrangian - gains Bazaar
+Lagrangian - buys Candlestick Maker
+Lagrangian - gains Candlestick Maker
+Lagrangian - shuffles deck
+Lagrangian - draws Candlestick Maker, Gold, Silver, Vault, Saboteur
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Count in hand
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Count
+Stef - places Copper on top of deck
+Stef - takes 3 coins
+Stef - plays 2 Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Bazaar, Vault, Saboteur
+Stef - shuffles deck
+Stef - draws Festival
+ 
+---------- Lagrangian: turn 12 ----------
+Lagrangian - duration Haven
+Lagrangian - places set aside Count in hand
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Count
+Lagrangian - places Saboteur on top of deck
+Lagrangian - takes 3 coins
+Lagrangian - plays 1 Gold, 1 Silver
+Lagrangian - buys Advisor
+Lagrangian - gains Advisor
+Lagrangian - buys Advisor
+Lagrangian - gains Advisor
+Lagrangian - draws Saboteur, Festival, Advisor, Bazaar, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Vault
+Stef - draws Advisor, Bazaar
+Stef - plays Advisor
+Stef - reveals: Haven, Silver, Count
+Lagrangian - discards Count
+Stef - places cards in hand:  Haven, Silver
+Stef - plays Bazaar
+Stef - draws Candlestick Maker
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Haven
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Saboteur
+Lagrangian - reveals Candlestick Maker, Silver
+Lagrangian - trashes Silver
+Lagrangian - discards Candlestick Maker
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Advisor
+Stef - shuffles deck
+Stef - draws Silver, Candlestick Maker, Advisor, Festival
+ 
+---------- Lagrangian: turn 13 ----------
+Lagrangian - plays Festival
+Lagrangian - plays Advisor
+Lagrangian - shuffles deck
+Lagrangian - reveals: Count, Candlestick Maker, Haven
+Stef - discards Haven
+Lagrangian - places cards in hand:  Count, Candlestick Maker
+Lagrangian - plays Bazaar
+Lagrangian - draws Advisor
+Lagrangian - plays Advisor
+Lagrangian - reveals: Advisor, Candlestick Maker, Silver
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Candlestick Maker, Silver
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Saboteur
+Stef - reveals Count
+Stef - trashes Count
+Stef - gains Silver
+Lagrangian - plays Count
+Lagrangian - places Silver on top of deck
+Lagrangian - takes 3 coins
+Lagrangian - plays Silver
+Lagrangian - uses 1 coin token
+Lagrangian - buys Bazaar
+Lagrangian - gains Bazaar
+Lagrangian - buys Advisor
+Lagrangian - gains Advisor
+Lagrangian - draws Silver, Gold, Vault
+Lagrangian - shuffles deck
+Lagrangian - draws Festival, Advisor
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Haven in hand
+Stef - plays Advisor
+Stef - reveals: Saboteur, Bazaar, Vault
+Lagrangian - discards Saboteur
+Stef - places cards in hand:  Bazaar, Vault
+Stef - plays Advisor
+Stef - reveals: Copper, Silver, Bazaar
+Lagrangian - discards Bazaar
+Stef - places cards in hand:  Copper, Silver
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Silver, Bazaar, Saboteur
+Lagrangian - discards Saboteur
+Stef - places cards in hand:  Silver, Bazaar
+Stef - plays Vault
+Stef - shuffles deck
+Stef - draws Saboteur
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Copper
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Saboteur
+Lagrangian - reveals Bazaar
+Lagrangian - trashes Bazaar
+Lagrangian - gains Silver
+Stef - plays 3 Silver
+Stef - uses 1 coin token
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - shuffles deck
+Stef - draws Silver, Saboteur, Bazaar, Advisor, Bazaar
+ 
+---------- Lagrangian: turn 14 ----------
+Lagrangian - plays Festival
+Lagrangian - plays Advisor
+Lagrangian - reveals: Bazaar, Candlestick Maker, Advisor
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Bazaar, Candlestick Maker
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Bazaar
+Lagrangian - draws Count
+Lagrangian - plays Vault
+Lagrangian - draws Saboteur, Candlestick Maker
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Saboteur
+Stef - reveals Saboteur
+Stef - trashes Saboteur
+Stef - gains Silver
+Lagrangian - plays Count
+Lagrangian - places Silver on top of deck
+Lagrangian - takes 3 coins
+Lagrangian - plays Gold
+Lagrangian - uses 1 coin token
+Lagrangian - buys Saboteur
+Lagrangian - gains Saboteur
+Lagrangian - buys Bazaar
+Lagrangian - gains Bazaar
+Lagrangian - draws Silver, Silver, Advisor, Advisor, Haven
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Advisor
+Stef - reveals: Vault, Silver, Bazaar
+Lagrangian - discards Bazaar
+Stef - places cards in hand:  Vault, Silver
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Bazaar
+Stef - draws Festival
+Stef - plays Vault
+Stef - draws Haven, Advisor
+Lagrangian - discards Silver
+Lagrangian - discards Silver
+Lagrangian - shuffles deck
+Stef - plays Advisor
+Stef - reveals: Bazaar, Candlestick Maker, Advisor
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Bazaar, Candlestick Maker
+Stef - plays Bazaar
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Advisor, Bazaar, Silver
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Bazaar, Silver
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Advisor
+Stef - plays Haven
+Stef - sets aside Advisor
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Festival
+Stef - plays Saboteur
+Lagrangian - reveals Saboteur
+Lagrangian - trashes Saboteur
+Lagrangian - gains Silver
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Copper, Silver, Silver, Silver, Saboteur
+ 
+---------- Lagrangian: turn 15 ----------
+Lagrangian - plays Advisor
+Lagrangian - reveals: Silver, Vault, Candlestick Maker
+Stef - discards Silver
+Lagrangian - places cards in hand:  Vault, Candlestick Maker
+Lagrangian - plays Advisor
+Lagrangian - reveals: Advisor, Candlestick Maker, Silver
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Candlestick Maker, Silver
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Festival
+Lagrangian - plays Vault
+Lagrangian - draws Bazaar, Advisor
+Stef - discards Copper
+Stef - discards Silver
+Lagrangian - plays Bazaar
+Lagrangian - draws Count
+Lagrangian - plays Haven
+Lagrangian - draws Bazaar
+Lagrangian - sets aside Count
+Lagrangian - plays Bazaar
+Lagrangian - draws Silver
+Lagrangian - plays Advisor
+Lagrangian - reveals: Saboteur, Gold
+Lagrangian - shuffles deck
+Lagrangian - reveals: Advisor
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Saboteur, Gold
+Lagrangian - plays Saboteur
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Silver
+Lagrangian - plays 2 Silver, 1 Gold
+Lagrangian - buys Advisor
+Lagrangian - gains Advisor
+Lagrangian - buys Saboteur
+Lagrangian - gains Saboteur
+Lagrangian - buys Haven
+Lagrangian - gains Haven
+Lagrangian - draws Silver, Silver
+Lagrangian - shuffles deck
+Lagrangian - draws Bazaar, Advisor, Haven
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Advisor in hand
+Stef - plays Advisor
+Stef - reveals: Festival, Festival, Candlestick Maker
+Lagrangian - discards Festival
+Stef - places cards in hand:  Festival, Candlestick Maker
+Stef - plays Bazaar
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Haven, Advisor, Bazaar
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Haven, Bazaar
+Stef - plays Bazaar
+Stef - draws Saboteur
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Candlestick Maker
+Stef - plays Festival
+Stef - plays Saboteur
+Lagrangian - reveals Silver
+Lagrangian - trashes Silver
+Stef - plays Saboteur
+Lagrangian - reveals Saboteur
+Lagrangian - trashes Saboteur
+Lagrangian - gains Silver
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Advisor, Bazaar, Vault, Advisor
+Stef - shuffles deck
+Stef - draws Festival
+ 
+---------- Lagrangian: turn 16 ----------
+Lagrangian - duration Haven
+Lagrangian - places set aside Count in hand
+Lagrangian - plays Advisor
+Lagrangian - reveals: Candlestick Maker, Gold, Advisor
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Candlestick Maker, Gold
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Bazaar
+Lagrangian - draws Candlestick Maker
+Lagrangian - plays Haven
+Lagrangian - draws Saboteur
+Lagrangian - sets aside Count
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Saboteur
+Stef - reveals Haven, Bazaar
+Stef - trashes Bazaar
+Stef - gains Haven
+Stef - discards Haven
+Lagrangian - plays 2 Silver, 1 Gold
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - draws Festival, Advisor, Vault, Silver, Advisor
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Haven
+Stef - places set aside Candlestick Maker in hand
+Stef - plays Advisor
+Stef - reveals: Copper, Cellar, Silver
+Lagrangian - discards Cellar
+Stef - places cards in hand:  Copper, Silver
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver, Festival
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Silver, Festival
+Stef - plays Bazaar
+Stef - draws Saboteur
+Stef - plays Vault
+Stef - draws Advisor, Silver
+Stef - plays Advisor
+Stef - reveals: Silver, Saboteur, Province
+Lagrangian - discards Saboteur
+Stef - places cards in hand:  Silver, Province
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Saboteur
+Lagrangian - reveals Advisor
+Lagrangian - trashes Advisor
+Lagrangian - gains Candlestick Maker
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Vault
+Stef - gains Vault
+Stef - draws Advisor, Bazaar, Silver
+Stef - shuffles deck
+Stef - draws Advisor, Advisor
+ 
+---------- Lagrangian: turn 17 ----------
+Lagrangian - duration Haven
+Lagrangian - places set aside Count in hand
+Lagrangian - plays Festival
+Lagrangian - plays Advisor
+Lagrangian - reveals: Bazaar
+Lagrangian - shuffles deck
+Lagrangian - reveals: Province, Silver
+Stef - discards Bazaar
+Lagrangian - places cards in hand:  Province, Silver
+Lagrangian - plays Advisor
+Lagrangian - reveals: Advisor, Candlestick Maker, Haven
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Candlestick Maker, Haven
+Lagrangian - plays Vault
+Lagrangian - draws Candlestick Maker, Advisor
+Lagrangian - discards Province
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Advisor
+Lagrangian - reveals: Gold, Silver, Bazaar
+Stef - discards Bazaar
+Lagrangian - places cards in hand:  Gold, Silver
+Lagrangian - plays Haven
+Lagrangian - draws Saboteur
+Lagrangian - sets aside Count
+Lagrangian - plays Saboteur
+Stef - reveals Vault
+Stef - trashes Vault
+Stef - gains Candlestick Maker
+Lagrangian - plays 3 Silver, 1 Gold
+Lagrangian - uses 1 coin token
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - buys Duchy
+Lagrangian - gains Duchy
+Lagrangian - draws Candlestick Maker, Silver
+Lagrangian - shuffles deck
+Lagrangian - draws Haven, Advisor, Candlestick Maker
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Advisor
+Stef - reveals: Bazaar, Candlestick Maker, Festival
+Lagrangian - discards Bazaar
+Stef - places cards in hand:  Candlestick Maker, Festival
+Stef - plays Advisor
+Stef - reveals: Province, Silver, Silver
+Lagrangian - discards Silver
+Stef - places cards in hand:  Province, Silver
+Stef - plays Advisor
+Stef - reveals: Cellar, Silver, Saboteur
+Lagrangian - discards Saboteur
+Stef - places cards in hand:  Cellar, Silver
+Stef - plays Bazaar
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Silver, Festival, Haven
+Lagrangian - discards Festival
+Stef - places cards in hand:  Silver, Haven
+Stef - plays Cellar
+Stef - discards Candlestick Maker
+Stef - discards Province
+Stef - discards Haven
+Stef - discards Silver
+Stef - discards Silver
+Stef - draws Advisor, Haven, Haven, Province, Saboteur
+Stef - plays Haven
+Stef - draws Vault
+Stef - sets aside Advisor
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Vault
+Stef - plays Saboteur
+Lagrangian - reveals Festival
+Lagrangian - trashes Festival
+Lagrangian - gains Cellar
+Stef - plays Festival
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Saboteur, Advisor, Advisor, Province, Bazaar
+ 
+---------- Lagrangian: turn 18 ----------
+Lagrangian - duration Haven
+Lagrangian - places set aside Count in hand
+Lagrangian - plays Advisor
+Lagrangian - reveals: Duchy, Bazaar, Advisor
+Stef - discards Advisor
+Lagrangian - places cards in hand:  Duchy, Bazaar
+Lagrangian - plays Bazaar
+Lagrangian - draws Province
+Lagrangian - plays Haven
+Lagrangian - draws Candlestick Maker
+Lagrangian - sets aside Province
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Candlestick Maker
+Lagrangian - receives 1 coin token
+Lagrangian - plays Count
+Lagrangian - gains Copper
+Lagrangian - takes 3 coins
+Lagrangian - plays Silver
+Lagrangian - uses 10 coin tokens
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - draws Silver, Silver, Bazaar, Silver, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Haven
+Stef - places set aside Advisor in hand
+Stef - duration Haven
+Stef - places set aside Vault in hand
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Haven
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Copper, Haven
+Stef - plays Advisor
+Stef - reveals: Bazaar, Silver, Silver
+Lagrangian - discards Bazaar
+Stef - places cards in hand:  Silver, Silver
+Stef - plays Advisor
+Stef - reveals: Festival, Province, Advisor
+Lagrangian - discards Advisor
+Stef - places cards in hand:  Festival, Province
+Stef - plays Bazaar
+Stef - draws Candlestick Maker
+Stef - plays Vault
+Stef - draws Province, Candlestick Maker
+Stef - discards Saboteur
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Haven
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Silver, 1 Copper
+Stef - uses 6 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cellar, Festival, Silver, Silver, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 5 Advisor, 3 Haven, 2 Festival, 2 Bazaar, 2 Saboteur, 2 Candlestick Maker, 1 Cellar, 1 Vault, 5 Silver, 1 Copper, 4 Province, 2 Duchy
+Stef - total victory points: 30
+Stef - turns: 18
+ 
+Lagrangian - cards: 4 Advisor, 3 Candlestick Maker, 2 Bazaar, 2 Haven, 1 Cellar, 1 Count, 1 Saboteur, 1 Vault, 4 Silver, 1 Gold, 1 Copper, 4 Province, 1 Duchy
+Lagrangian - total victory points: 27
+Lagrangian - turns: 18
+ 
+1st place: Stef
+2nd place: Lagrangian
+ 

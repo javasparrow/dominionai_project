@@ -1,0 +1,799 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Moat, Oracle, Village, Familiar, Pirate Ship, Council Room, Count, Haggler, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+greens - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+greens - shuffles deck
+Stef - draws Copper, Copper, Copper, Hovel, Necropolis
+greens - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+ 
+---------- greens: turn 1 ----------
+greens - plays 3 Copper
+greens - buys Silver
+greens - gains Silver
+greens - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- greens: turn 2 ----------
+greens - plays 4 Copper
+greens - buys Potion
+greens - gains Potion
+greens - shuffles deck
+greens - draws Silver, Hovel, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- greens: turn 3 ----------
+greens - plays 2 Copper, 1 Silver
+greens - buys Oracle
+greens - gains Oracle
+greens - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Overgrown Estate, Necropolis, Copper, Copper, Potion
+ 
+---------- greens: turn 4 ----------
+greens - plays 4 Copper, 1 Potion
+greens - buys Familiar
+greens - gains Familiar
+greens - draws Overgrown Estate, Copper
+greens - shuffles deck
+greens - draws Copper, Necropolis, Potion
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Oracle, Hovel
+Stef - shuffles deck
+Stef - draws Moat, Overgrown Estate, Copper
+ 
+---------- greens: turn 5 ----------
+greens - plays Copper
+greens - plays Copper
+greens - buys Moat
+greens - gains Moat
+greens - draws Hovel, Copper, Copper, Familiar, Oracle
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+greens - reveals: Copper, Silver
+greens - discards: Copper, Silver
+Stef - draws Copper, Copper
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Necropolis, Potion, Copper, Copper, Copper
+ 
+---------- greens: turn 6 ----------
+greens - plays Familiar
+greens - draws Copper
+Stef - gains Curse
+greens - plays Oracle
+greens - reveals: Copper
+greens - shuffles deck
+greens - reveals: Necropolis
+greens - places Necropolis on top of deck
+greens - places Copper on top of deck
+Stef - reveals: Copper, Haggler
+Stef - discards: Copper, Haggler
+greens - draws Copper, Necropolis
+greens - plays 4 Copper
+greens - buys Village
+greens - gains Village
+greens - draws Silver, Copper, Copper, Moat, Potion
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - shuffles deck
+Stef - draws Potion, Necropolis, Hovel, Copper, Copper
+ 
+---------- greens: turn 7 ----------
+greens - plays Moat
+greens - draws Copper, Overgrown Estate
+greens - plays 3 Copper, 1 Silver, 1 Potion
+greens - buys Familiar
+greens - gains Familiar
+greens - shuffles deck
+greens - draws Hovel, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Copper, Haggler, Moat, Copper, Copper
+ 
+---------- greens: turn 8 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Count
+greens - gains Count
+greens - draws Potion, Moat, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Haggler
+Stef - plays 3 Copper
+Stef - buys Count
+Stef - gains Village
+Stef - gains Count
+Stef - draws Familiar, Copper, Oracle, Curse, Village
+ 
+---------- greens: turn 9 ----------
+greens - plays Copper
+greens - plays Copper
+greens - buys Moat
+greens - gains Moat
+greens - draws Necropolis, Village, Copper, Familiar, Oracle
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Familiar
+Stef - draws Overgrown Estate
+greens - gains Curse
+Stef - plays Oracle
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+greens - reveals: Copper, Familiar
+greens - discards: Copper, Familiar
+Stef - draws Village, Copper
+Stef - plays Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Moat, Haggler, Moat, Count, Copper
+ 
+---------- greens: turn 10 ----------
+greens - plays Village
+greens - shuffles deck
+greens - draws Copper
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Moat
+greens - plays Oracle
+Stef - reveals reaction Moat
+greens - reveals: Moat, Copper
+greens - discards: Moat, Copper
+greens - draws Overgrown Estate, Copper
+greens - plays Necropolis
+greens - plays Moat
+greens - draws Silver, Potion
+greens - plays 3 Copper, 1 Silver, 1 Potion
+greens - buys Haggler
+greens - gains Haggler
+greens - draws Copper, Curse, Hovel, Copper, Familiar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Haggler
+Stef - plays Copper
+Stef - buys Village
+Stef - gains Moat
+Stef - gains Village
+Stef - draws Hovel, Necropolis, Potion
+Stef - shuffles deck
+Stef - draws Copper, Village
+ 
+---------- greens: turn 11 ----------
+greens - plays Familiar
+greens - draws Count
+Stef - gains Curse
+greens - plays Count
+greens - gains Copper
+greens - trashes Copper, Curse, Hovel, Copper
+greens - draws Copper
+greens - shuffles deck
+greens - draws Silver, Familiar, Village, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - draws Copper, Haggler, Curse, Village, Copper
+ 
+---------- greens: turn 12 ----------
+greens - plays Village
+greens - draws Potion
+greens - plays Familiar
+greens - draws Copper
+Stef - gains Curse
+greens - plays 3 Copper, 1 Silver, 1 Potion
+greens - buys Council Room
+greens - gains Council Room
+greens - draws Moat, Necropolis, Count, Oracle, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Village
+Stef - draws Overgrown Estate
+Stef - plays Haggler
+Stef - plays 2 Copper
+Stef - buys Village
+Stef - gains Moat
+Stef - gains Village
+Stef - draws Count, Copper, Oracle, Copper, Familiar
+ 
+---------- greens: turn 13 ----------
+greens - plays Necropolis
+greens - plays Oracle
+greens - reveals: Familiar, Moat
+greens - places Moat on top of deck
+greens - places Familiar on top of deck
+Stef - reveals: Village, Moat
+Stef - discards: Village, Moat
+greens - draws Familiar, Moat
+greens - plays Familiar
+greens - draws Copper
+Stef - gains Curse
+greens - plays Count
+greens - discards Moat
+greens - discards Moat
+greens - trashes Copper, Copper
+greens - draws Copper, Overgrown Estate, Haggler
+greens - shuffles deck
+greens - draws Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Familiar
+Stef - draws Moat
+greens - gains Curse
+Stef - plays Count
+Stef - places Oracle on top of deck
+Stef - trashes Copper, Copper, Moat
+Stef - draws Oracle, Village, Copper, Moat
+Stef - shuffles deck
+Stef - draws Moat
+ 
+---------- greens: turn 14 ----------
+greens - plays Haggler
+greens - plays 2 Copper, 1 Silver
+greens - buys Gold
+greens - gains Village
+greens - gains Gold
+greens - draws Necropolis, Copper, Council Room, Copper, Familiar
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Village
+Stef - draws Moat
+Stef - plays Oracle
+Stef - reveals: Haggler, Count
+Stef - discards: Haggler, Count
+greens - reveals: Familiar, Potion
+greens - discards: Familiar, Potion
+Stef - draws Hovel, Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Moat
+Stef - draws Potion, Curse
+Stef - plays Moat
+Stef - draws Village, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Village
+Stef - gains Village
+Stef - draws Village, Curse, Village, Curse, Familiar
+ 
+---------- greens: turn 15 ----------
+greens - plays Familiar
+greens - draws Moat
+Stef - gains Curse
+greens - plays Necropolis
+greens - plays Council Room
+greens - draws Count, Village, Moat, Oracle
+Stef - draws Curse
+greens - plays Village
+greens - shuffles deck
+greens - draws Familiar
+greens - plays Familiar
+greens - draws Gold
+Stef - gains Curse
+greens - plays Oracle
+greens - reveals: Copper, Silver
+greens - discards: Copper, Silver
+Stef - reveals: Copper, Overgrown Estate
+Stef - places Overgrown Estate on top of deck
+Stef - places Copper on top of deck
+greens - draws Haggler, Potion
+greens - plays Haggler
+greens - plays 2 Copper, 1 Gold, 1 Potion
+greens - buys Gold
+greens - gains Village
+greens - gains Gold
+greens - draws Curse, Village, Copper, Overgrown Estate
+greens - shuffles deck
+greens - draws Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Familiar
+Stef - draws Copper
+greens - gains Curse
+Stef - plays Village
+Stef - draws Overgrown Estate
+Stef - plays Village
+Stef - draws Copper
+Stef - draws Necropolis
+Stef - shuffles deck
+Stef - draws Curse, Haggler, Curse, Village
+ 
+---------- greens: turn 16 ----------
+greens - plays Village
+greens - draws Silver
+greens - plays 2 Copper, 1 Silver
+greens - buys Village
+greens - gains Village
+greens - draws Oracle, Familiar, Gold, Count, Moat
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Village
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Copper, Oracle
+Stef - plays Necropolis
+Stef - plays Oracle
+greens - reveals reaction Moat
+Stef - reveals: Copper, Hovel
+Stef - discards: Copper, Hovel
+Stef - draws Curse, Count
+Stef - plays Count
+Stef - places Haggler on top of deck
+Stef - trashes Curse, Curse, Copper, Curse
+Stef - draws Haggler, Moat, Potion, Village, Overgrown Estate
+ 
+---------- greens: turn 17 ----------
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Familiar
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Necropolis
+greens - plays Necropolis
+greens - plays Oracle
+Stef - reveals reaction Moat
+greens - reveals: Council Room, Village
+greens - places Council Room on top of deck
+greens - places Village on top of deck
+greens - draws Village, Council Room
+greens - plays Village
+greens - draws Haggler
+greens - plays Count
+greens - places Council Room on top of deck
+greens - takes 3 coins
+greens - plays Haggler
+greens - plays 1 Gold
+greens - buys Province
+greens - gains Gold
+greens - gains Province
+greens - draws Council Room, Copper, Gold, Village, Potion
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Village, Village
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Village
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Curse
+greens - gains Curse
+Stef - draws Copper, Moat, Village, Copper, Copper
+ 
+---------- greens: turn 18 ----------
+greens - plays Village
+greens - draws Copper
+greens - plays Council Room
+greens - draws Moat
+greens - shuffles deck
+greens - draws Silver, Province, Village
+Stef - shuffles deck
+Stef - draws Potion
+greens - plays Village
+greens - draws Familiar
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Overgrown Estate
+greens - plays Moat
+greens - draws Curse, Village
+greens - plays Village
+greens - draws Copper
+greens - plays 3 Copper, 1 Gold, 1 Potion, 1 Silver
+greens - buys Province
+greens - gains Province
+greens - draws Oracle, Gold, Moat, Count, Necropolis
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Curse, Village
+Stef - plays Village
+Stef - draws Oracle
+Stef - plays Oracle
+greens - reveals reaction Moat
+Stef - reveals: Familiar, Haggler
+Stef - discards: Familiar, Haggler
+Stef - draws Copper, Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Overgrown Estate
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Village, Village, Necropolis, Hovel, Moat
+ 
+---------- greens: turn 19 ----------
+greens - plays Necropolis
+greens - plays Oracle
+Stef - reveals reaction Moat
+greens - reveals: Curse, Familiar
+greens - places Familiar on top of deck
+greens - places Curse on top of deck
+greens - draws Curse, Familiar
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Haggler
+greens - plays Count
+greens - places Haggler on top of deck
+greens - takes 3 coins
+greens - plays 1 Gold
+greens - buys Gold
+greens - gains Gold
+greens - draws Haggler, Copper, Curse, Gold, Village
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Village
+Stef - draws Count
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Moat
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Moat
+Stef - draws Village, Oracle
+Stef - plays Village
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Familiar, Overgrown Estate
+Stef - places Overgrown Estate on top of deck
+Stef - places Familiar on top of deck
+greens - shuffles deck
+greens - reveals: Curse, Moat
+greens - places Curse on top of deck
+greens - places Moat on top of deck
+Stef - draws Familiar, Overgrown Estate
+Stef - plays Familiar
+Stef - draws Village
+Stef - plays Village
+Stef - draws Haggler
+Stef - plays Oracle
+Stef - reveals: Village, Potion
+Stef - places Potion on top of deck
+Stef - places Village on top of deck
+greens - reveals: Moat, Curse
+greens - places Curse on top of deck
+greens - places Moat on top of deck
+Stef - draws Village, Potion
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Haggler
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Necropolis, Hovel, Curse, Copper, Overgrown Estate, Potion, Copper
+Stef - draws Curse
+Stef - draws Curse, Copper, Moat, Copper
+Stef - shuffles deck
+Stef - draws Oracle
+ 
+---------- greens: turn 20 ----------
+greens - plays Village
+greens - draws Moat
+greens - plays Moat
+greens - draws Curse, Necropolis
+greens - plays Haggler
+greens - plays 1 Copper, 1 Gold
+greens - buys Count
+greens - gains Oracle
+greens - gains Count
+greens - draws Village, Gold, Curse, Familiar, Overgrown Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Oracle
+Stef - reveals: Village, Village
+Stef - discards: Village, Village
+greens - reveals: Familiar, Province
+greens - places Province on top of deck
+greens - places Familiar on top of deck
+Stef - draws Moat, Haggler
+Stef - plays 2 Copper
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - draws Village, Village, Village, Moat, Copper
+ 
+---------- greens: turn 21 ----------
+greens - plays Village
+greens - draws Familiar
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Province
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Oracle
+greens - plays Oracle
+Stef - reveals reaction Moat
+greens - reveals: Gold, Moat
+greens - discards: Gold, Moat
+greens - draws Copper, Copper
+greens - plays 2 Copper, 1 Gold
+greens - buys Count
+greens - gains Count
+greens - draws Province, Silver, Copper, Village, Gold
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Village
+Stef - draws Familiar
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Village
+Stef - draws Count
+Stef - plays Moat
+Stef - draws Oracle, Village
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Haggler
+Stef - plays Oracle
+Stef - reveals: Beggar, Copper
+Stef - discards: Beggar, Copper
+greens - reveals: Count, Council Room
+greens - discards: Count, Council Room
+Stef - draws Oracle, Curse
+Stef - plays Oracle
+Stef - reveals: Moat, Village
+Stef - places Village on top of deck
+Stef - places Moat on top of deck
+greens - reveals: Potion, Village
+greens - places Potion on top of deck
+greens - places Village on top of deck
+Stef - draws Moat, Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Moat
+Stef - draws Moat
+Stef - shuffles deck
+Stef - draws Beggar
+Stef - plays Moat
+Stef - draws Copper
+Stef - plays Count
+Stef - places Familiar on top of deck
+Stef - takes 3 coins
+Stef - plays Haggler
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Haggler
+Stef - gains Province
+Stef - draws Familiar
+Stef - shuffles deck
+Stef - draws Village, Village, Haggler, Beggar
+ 
+---------- greens: turn 22 ----------
+greens - plays Village
+greens - draws Village
+greens - plays Village
+greens - draws Potion
+greens - plays 1 Silver, 1 Copper, 1 Gold, 1 Potion
+greens - buys Gold
+greens - gains Gold
+greens - shuffles deck
+greens - draws Oracle, Familiar, Village, Gold, Count
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Village
+Stef - draws Moat
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Copper, Curse
+Stef - discards: Copper, Curse
+greens - reveals: Familiar, Province
+greens - places Province on top of deck
+greens - places Familiar on top of deck
+Stef - draws Moat, Village
+Stef - plays Village
+Stef - draws Haggler
+Stef - plays Moat
+Stef - draws Count, Copper
+Stef - plays Moat
+Stef - draws Curse, Oracle
+Stef - plays Oracle
+Stef - reveals: Province, Village
+Stef - places Village on top of deck
+Stef - places Province on top of deck
+greens - reveals: Familiar, Province
+greens - places Province on top of deck
+greens - places Familiar on top of deck
+Stef - draws Province, Village
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Moat
+Stef - plays Count
+Stef - places Moat on top of deck
+Stef - takes 3 coins
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 2 Copper
+Stef - buys Province
+Stef - gains Council Room
+Stef - gains Bank
+Stef - gains Province
+Stef - draws Moat
+Stef - shuffles deck
+Stef - draws Haggler, Copper, Haggler, Familiar
+ 
+---------- greens: turn 23 ----------
+greens - plays Village
+greens - draws Familiar
+greens - plays Oracle
+Stef - reveals reaction Moat
+greens - reveals: Province, Gold
+greens - discards: Province, Gold
+greens - draws Count, Province
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Council Room
+greens - plays Familiar
+Stef - reveals reaction Moat
+greens - draws Necropolis
+greens - plays Necropolis
+greens - plays Council Room
+greens - draws Moat, Copper, Gold, Oracle
+Stef - draws Curse
+greens - plays Count
+greens - places Oracle on top of deck
+greens - takes 3 coins
+greens - plays 2 Gold, 1 Copper
+greens - buys Province
+greens - gains Province
+greens - draws Oracle, Curse, Count, Haggler, Gold
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Familiar
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Count
+Stef - plays Moat
+Stef - draws Copper, Moat
+Stef - plays Moat
+Stef - draws Copper, Village
+Stef - plays Village
+Stef - draws Beggar
+Stef - plays Count
+Stef - gains Copper
+Stef - takes 3 coins
+Stef - plays Haggler
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Council Room
+Stef - gains Province
+Stef - draws Province, Oracle, Province, Moat, Oracle
+ 
+---------- greens: turn 24 ----------
+greens - plays Count
+greens - discards Gold
+greens - discards Oracle
+greens - trashes Curse, Haggler
+greens - draws Potion, Village, Silver, Copper, Village
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Oracle
+Stef - reveals: Curse, Bank
+Stef - places Curse on top of deck
+Stef - places Bank on top of deck
+greens - reveals: Village, Moat
+greens - discards: Village, Moat
+Stef - draws Bank, Curse
+Stef - plays Bank
+Stef - draws Village, Council Room, Village, Village
+Stef - shuffles deck
+Stef - draws Familiar
+ 
+---------- greens: turn 25 ----------
+greens - plays Village
+greens - draws Overgrown Estate
+greens - plays Village
+greens - draws Curse
+greens - draws Copper, Curse, Gold, Copper
+greens - shuffles deck
+greens - draws Village
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Village
+Stef - draws Haggler
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Province
+Stef - plays Village
+Stef - draws Moat
+Stef - plays Council Room
+Stef - draws Copper, Moat, Copper, Province
+greens - draws Copper
+Stef - plays Moat
+Stef - draws Curse, Village
+Stef - plays Familiar
+Stef - draws Haggler
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Oracle, Council Room
+Stef - plays Council Room
+Stef - draws Bank, Moat, Copper, Oracle
+greens - draws Province
+Stef - plays Oracle
+Stef - reveals: Beggar, Count
+Stef - places Count on top of deck
+Stef - places Beggar on top of deck
+greens - reveals: Moat, Oracle
+greens - discards: Moat, Oracle
+Stef - draws Beggar, Count
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays Count
+Stef - places Oracle on top of deck
+Stef - takes 3 coins
+Stef - plays 6 Copper
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Oracle, Province, Copper
+Stef - shuffles deck
+Stef - draws Province, Beggar
+ 
+------------ Game Over ------------
+Stef - cards: 6 Village, 3 Moat, 2 Haggler, 2 Council Room, 2 Oracle, 1 Beggar, 1 Count, 1 Familiar, 7 Copper, 1 Bank, 5 Province, 2 Curse
+Stef - total victory points: 28
+Stef - turns: 25
+ 
+greens - cards: 4 Village, 3 Count, 2 Familiar, 2 Moat, 2 Oracle, 1 Council Room, 1 Necropolis, 5 Gold, 4 Copper, 1 Potion, 1 Silver, 3 Province, 1 Overgrown Estate, 2 Curse
+greens - total victory points: 16
+greens - turns: 25
+ 
+1st place: Stef
+2nd place: greens
+ 

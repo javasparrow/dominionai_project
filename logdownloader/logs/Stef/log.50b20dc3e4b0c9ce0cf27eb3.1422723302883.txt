@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Scrying Pool, Village, Noble Brigand, Plaza, Quarry, Baker, Embassy, Market, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Money Spender - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Money Spender - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+Money Spender - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Money Spender: turn 1 ----------
+Money Spender - plays 2 Copper
+Money Spender - buys Vagrant
+Money Spender - gains Vagrant
+Money Spender - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - shuffles deck
+Stef - draws Potion, Estate, Copper, Quarry, Copper
+ 
+---------- Money Spender: turn 2 ----------
+Money Spender - plays 5 Copper
+Money Spender - buys Potion
+Money Spender - gains Potion
+Money Spender - shuffles deck
+Money Spender - draws Copper, Estate, Potion, Vagrant, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Potion
+Stef - plays Quarry
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Money Spender: turn 3 ----------
+Money Spender - plays Vagrant
+Money Spender - draws Estate
+Money Spender - reveals: Copper
+Money Spender - places Copper on top of deck
+Money Spender - plays 2 Copper, 1 Potion
+Money Spender - buys Scrying Pool
+Money Spender - gains Scrying Pool
+Money Spender - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- Money Spender: turn 4 ----------
+Money Spender - plays 4 Copper
+Money Spender - uses 1 coin token
+Money Spender - buys Market
+Money Spender - gains Market
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Estate, Vagrant, Market, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Plaza, Copper, Estate, Potion
+ 
+---------- Money Spender: turn 5 ----------
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Estate
+Money Spender - places Estate in hand
+Money Spender - plays Market
+Money Spender - draws Potion
+Money Spender - plays 3 Copper, 1 Potion
+Money Spender - buys Scrying Pool
+Money Spender - gains Scrying Pool
+Money Spender - buys Vagrant
+Money Spender - gains Vagrant
+Money Spender - draws Copper, Copper, Scrying Pool, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Plaza
+Stef - draws Quarry
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Potion
+Stef - plays Quarry
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - draws Scrying Pool, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Money Spender: turn 6 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Estate
+Stef - discards Plaza
+Money Spender - shuffles deck
+Money Spender - reveals Estate
+Money Spender - plays 4 Copper
+Money Spender - buys Quarry
+Money Spender - gains Quarry
+Money Spender - draws Scrying Pool, Copper, Copper, Estate, Potion
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scrying Pool
+Stef - discards Estate
+Money Spender - places Copper on top of deck
+Stef - reveals Estate
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Market
+Stef - gains Market
+Stef - draws Scrying Pool, Copper, Vagrant, Potion, Copper
+ 
+---------- Money Spender: turn 7 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - discards Quarry
+Money Spender - reveals Estate
+Money Spender - plays 2 Copper, 1 Potion
+Money Spender - buys Scrying Pool
+Money Spender - gains Scrying Pool
+Money Spender - draws Market, Vagrant, Vagrant
+Money Spender - shuffles deck
+Money Spender - draws Potion, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Scrying Pool
+Stef - places Copper on top of deck
+Money Spender - places Copper on top of deck
+Stef - reveals Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Plaza, Estate
+ 
+---------- Money Spender: turn 8 ----------
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Copper
+Money Spender - places Copper on top of deck
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Copper
+Money Spender - places Copper on top of deck
+Money Spender - plays Market
+Money Spender - draws Copper
+Money Spender - plays 3 Copper, 1 Potion
+Money Spender - buys Scrying Pool
+Money Spender - gains Scrying Pool
+Money Spender - buys Vagrant
+Money Spender - gains Vagrant
+Money Spender - draws Estate, Scrying Pool, Copper, Scrying Pool, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Plaza
+Stef - draws Scrying Pool
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Scrying Pool
+Stef - discards Quarry
+Money Spender - places Copper on top of deck
+Stef - reveals Market, Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Scrying Pool
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - places Copper on top of deck
+Stef - reveals Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - places Copper on top of deck
+Stef - reveals Potion
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Scrying Pool, Scrying Pool, Copper, Quarry
+ 
+---------- Money Spender: turn 9 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - discards Vagrant
+Money Spender - reveals Quarry
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - places Copper on top of deck
+Money Spender - reveals Estate
+Money Spender - plays 2 Copper
+Money Spender - plays Quarry
+Money Spender - buys Market
+Money Spender - gains Market
+Money Spender - draws Scrying Pool
+Money Spender - shuffles deck
+Money Spender - draws Market, Copper, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - places Copper on top of deck
+Stef - reveals Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - discards Estate
+Money Spender - places Copper on top of deck
+Stef - reveals Copper
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+Money Spender - places Copper on top of deck
+Stef - reveals Scrying Pool, Market, Plaza, Potion
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - places Copper on top of deck
+Stef - reveals Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Plaza
+Stef - draws Vagrant
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays 3 Copper, 1 Potion
+Stef - plays Quarry
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Vagrant, Scrying Pool, Scrying Pool
+ 
+---------- Money Spender: turn 10 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - places Estate on top of deck
+Money Spender - reveals Estate
+Money Spender - plays Market
+Money Spender - draws Potion
+Money Spender - plays 2 Copper, 1 Potion
+Money Spender - buys Scrying Pool
+Money Spender - gains Scrying Pool
+Money Spender - draws Vagrant, Scrying Pool, Scrying Pool, Copper, Scrying Pool
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Scrying Pool
+Stef - discards Estate
+Money Spender - places Quarry on top of deck
+Stef - reveals Market, Estate
+Stef - plays Scrying Pool
+Stef - places Plaza on top of deck
+Money Spender - discards Quarry
+Stef - reveals Plaza, Market, Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - discards Vagrant
+Stef - reveals Quarry
+Stef - plays Market
+Stef - draws Scrying Pool
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+Money Spender - discards Vagrant
+Stef - reveals Estate
+Stef - plays Vagrant
+Stef - draws Scrying Pool
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Scrying Pool
+Stef - places Vagrant on top of deck
+Money Spender - places Copper on top of deck
+Stef - reveals Vagrant, Potion
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Potion
+Stef - receives 1 coin token
+Stef - plays 5 Copper
+Stef - plays Quarry
+Stef - uses 1 coin token
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Estate, Market, Copper, Copper, Plaza
+ 
+---------- Money Spender: turn 11 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - discards Scrying Pool
+Money Spender - reveals Copper
+Money Spender - plays Vagrant
+Money Spender - draws Market
+Money Spender - reveals: Estate
+Money Spender - places Estate in hand
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - discards Scrying Pool
+Money Spender - shuffles deck
+Money Spender - reveals Copper
+Money Spender - plays Scrying Pool
+Money Spender - places Vagrant on top of deck
+Stef - discards Scrying Pool
+Money Spender - reveals Vagrant, Copper
+Money Spender - plays Vagrant
+Money Spender - draws Scrying Pool
+Money Spender - reveals: Estate
+Money Spender - places Estate in hand
+Money Spender - plays Scrying Pool
+Money Spender - places Market on top of deck
+Stef - places Copper on top of deck
+Money Spender - reveals Market, Potion
+Money Spender - plays Market
+Money Spender - draws Estate
+Money Spender - plays Market
+Money Spender - draws Scrying Pool
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - places Copper on top of deck
+Money Spender - reveals Vagrant, Quarry
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Copper
+Money Spender - places Copper on top of deck
+Money Spender - plays 5 Copper, 1 Potion
+Money Spender - plays Quarry
+Money Spender - buys Market
+Money Spender - gains Market
+Money Spender - buys Baker
+Money Spender - gains Baker
+Money Spender - buys Plaza
+Money Spender - gains Plaza
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Market, Copper, Vagrant, Quarry
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Plaza
+Stef - draws Market
+Stef - plays Market
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Copper, Scrying Pool, Copper, Vagrant
+ 
+---------- Money Spender: turn 12 ----------
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Copper
+Money Spender - places Copper on top of deck
+Money Spender - plays Market
+Money Spender - draws Copper
+Money Spender - plays 4 Copper
+Money Spender - plays Quarry
+Money Spender - buys Baker
+Money Spender - gains Baker
+Money Spender - buys Baker
+Money Spender - gains Baker
+Money Spender - draws Plaza, Baker, Market, Scrying Pool, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Potion
+Stef - reveals: Market
+Stef - places Market on top of deck
+Stef - plays Scrying Pool
+Stef - places Market on top of deck
+Money Spender - discards Market
+Stef - reveals Market, Quarry
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - plays Quarry
+Stef - buys Market
+Stef - gains Market
+Stef - buys Embassy
+Stef - gains Embassy
+Money Spender - gains Silver
+Stef - draws Market, Estate, Scrying Pool, Vagrant, Market
+ 
+---------- Money Spender: turn 13 ----------
+Money Spender - plays Scrying Pool
+Money Spender - discards Estate
+Stef - shuffles deck
+Stef - places Estate on top of deck
+Money Spender - reveals Vagrant, Scrying Pool, Estate
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - places Estate on top of deck
+Money Spender - reveals Scrying Pool, Copper
+Money Spender - plays Vagrant
+Money Spender - draws Potion
+Money Spender - reveals: Scrying Pool
+Money Spender - places Scrying Pool on top of deck
+Money Spender - plays Scrying Pool
+Money Spender - places Scrying Pool on top of deck
+Stef - places Estate on top of deck
+Money Spender - reveals Scrying Pool, Scrying Pool, Copper
+Money Spender - plays Scrying Pool
+Money Spender - discards Estate
+Stef - places Estate on top of deck
+Money Spender - shuffles deck
+Money Spender - reveals Quarry
+Money Spender - plays Scrying Pool
+Money Spender - discards Copper
+Stef - places Estate on top of deck
+Money Spender - reveals Copper
+Money Spender - plays Market
+Money Spender - draws Copper
+Money Spender - plays Vagrant
+Money Spender - draws Copper
+Money Spender - reveals: Baker
+Money Spender - places Baker on top of deck
+Money Spender - plays Baker
+Money Spender - receives 1 coin token
+Money Spender - draws Baker
+Money Spender - plays Baker
+Money Spender - receives 1 coin token
+Money Spender - draws Estate
+Money Spender - plays Plaza
+Money Spender - draws Vagrant
+Money Spender - discards Copper
+Money Spender - receives 1 coin token
+Money Spender - plays Vagrant
+Money Spender - draws Silver
+Money Spender - reveals: Market
+Money Spender - places Market on top of deck
+Money Spender - plays 4 Copper, 1 Potion, 1 Silver
+Money Spender - plays Quarry
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - buys Vagrant
+Money Spender - gains Vagrant
+Money Spender - draws Market, Copper, Baker, Estate, Market
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Scrying Pool
+Stef - discards Estate
+Money Spender - shuffles deck
+Money Spender - places Copper on top of deck
+Stef - reveals Copper
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Quarry
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Market on top of deck
+Money Spender - places Copper on top of deck
+Stef - reveals Market, Estate
+Stef - plays Market
+Stef - draws Embassy
+Stef - plays Embassy
+Stef - draws Scrying Pool, Copper, Copper, Copper, Scrying Pool
+Stef - discards Scrying Pool
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Quarry
+Stef - plays Copper
+Stef - plays 4 Copper
+Stef - uses 2 coin tokens
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Market, Scrying Pool, Plaza, Copper, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 7 Market, 6 Vagrant, 5 Scrying Pool, 1 Plaza, 1 Embassy, 7 Copper, 1 Quarry, 1 Potion, 3 Estate, 1 Province, 1 Duchy
+Stef - total victory points: 12
+Stef - turns: 14
+ 
+Money Spender - cards: 5 Scrying Pool, 4 Vagrant, 3 Market, 3 Baker, 1 Plaza, 7 Copper, 1 Potion, 1 Silver, 1 Quarry, 3 Estate, 1 Province
+Money Spender - total victory points: 9
+Money Spender - turns: 13
+ 
+1st place: Stef
+2nd place: Money Spender
+ 

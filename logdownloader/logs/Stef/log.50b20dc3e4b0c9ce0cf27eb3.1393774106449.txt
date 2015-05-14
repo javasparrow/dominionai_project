@@ -1,0 +1,622 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Trade Route, Village, Wishing Well, Caravan, Fortress, Remodel, Sea Hag, Taxman, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+fap_on_it - shuffles deck
+Stef - draws Copper, Copper, Hovel, Copper, Overgrown Estate
+fap_on_it - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Sea Hag
+fap_on_it - gains Sea Hag
+fap_on_it - draws Necropolis, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Hovel, Copper, Copper, Necropolis
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Necropolis, Copper, Sea Hag, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - trashes Hovel
+Stef - gains Estate
+Stef - draws Copper, Copper, Trade Route, Copper, Sea Hag
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+fap_on_it - plays 3 Copper
+fap_on_it - buys Trade Route
+fap_on_it - gains Trade Route
+fap_on_it - draws Copper, Silver, Copper, Hovel, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Copper
+fap_on_it - gains Curse
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Curse, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Royal Seal
+fap_on_it - gains Royal Seal
+fap_on_it - draws Curse, Overgrown Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Necropolis, Trade Route, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Necropolis, Village, Copper, Copper, Sea Hag
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays Necropolis
+fap_on_it - plays Trade Route
+fap_on_it - trashes Overgrown Estate
+fap_on_it - draws Copper
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Caravan
+fap_on_it - gains Caravan
+fap_on_it - draws Copper, Hovel, Copper, Copper, Sea Hag
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Sea Hag
+fap_on_it - discards Royal Seal
+fap_on_it - gains Curse
+Stef - plays 3 Copper
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - draws Overgrown Estate, Estate, Trade Route
+Stef - shuffles deck
+Stef - draws Copper, Caravan
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Curse, Copper, Copper, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Caravan
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Trade Route
+Stef - trashes Overgrown Estate
+Stef - draws Copper
+Stef - plays 2 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Trade Route, Necropolis, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays Caravan
+fap_on_it - draws Copper
+fap_on_it - plays 4 Copper
+fap_on_it - buys Caravan
+fap_on_it - gains Caravan
+fap_on_it - draws Hovel, Silver, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Sea Hag, Curse, Village
+Stef - shuffles deck
+Stef - draws Trade Route, Caravan
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Curse
+fap_on_it - plays 2 Silver, 2 Copper
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Royal Seal, Sea Hag, Copper, Trade Route, Necropolis
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Sea Hag
+fap_on_it - shuffles deck
+fap_on_it - discards Curse
+fap_on_it - gains Curse
+Stef - plays Trade Route
+Stef - trashes Curse
+Stef - plays 2 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Estate, Copper, Copper, Curse, Wishing Well
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays Necropolis
+fap_on_it - plays Sea Hag
+Stef - discards Caravan
+Stef - gains Curse
+fap_on_it - plays Trade Route
+fap_on_it - trashes Copper
+fap_on_it - plays 1 Royal Seal
+fap_on_it - buys Trade Route
+fap_on_it - gains Trade Route
+fap_on_it - applied Royal Seal to place Trade Route on top of the deck
+fap_on_it - draws Trade Route, Curse, Gold, Caravan, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Curse
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Trade Route
+Stef - reveals Copper
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Copper, Necropolis, Trade Route
+Stef - shuffles deck
+Stef - draws Trade Route, Village
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays Caravan
+fap_on_it - draws Copper
+fap_on_it - plays Trade Route
+fap_on_it - trashes Curse
+fap_on_it - plays 2 Copper, 1 Gold
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Copper, Copper, Curse, Caravan, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Trade Route
+Stef - trashes Necropolis
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Wishing Well, Copper, Copper, Sea Hag, Curse
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Copper
+fap_on_it - plays Caravan
+fap_on_it - draws Hovel
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - trashes Hovel
+fap_on_it - gains Duchy
+fap_on_it - draws Silver, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Trade Route, Necropolis, Caravan
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Curse
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Sea Hag
+fap_on_it - discards Sea Hag
+fap_on_it - gains Curse
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Wishing Well, Copper, Village
+Stef - shuffles deck
+Stef - draws Copper, Trade Route
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Curse
+fap_on_it - plays Caravan
+fap_on_it - draws Curse
+fap_on_it - plays Trade Route
+fap_on_it - trashes Curse
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Royal Seal
+fap_on_it - gains Royal Seal
+fap_on_it - draws Duchy, Copper, Trade Route, Copper, Royal Seal
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Wishing Well
+Stef - draws Curse
+Stef - names Copper
+Stef - reveals Village
+Stef - plays Wishing Well
+Stef - draws Village
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Village
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Curse
+Stef - names Trade Route
+Stef - reveals Estate
+Stef - plays Trade Route
+Stef - trashes Curse
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Estate, Copper, Trade Route, Sea Hag, Village
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Silver
+fap_on_it - plays Trade Route
+fap_on_it - trashes Copper
+fap_on_it - plays 1 Copper, 1 Royal Seal, 1 Silver
+fap_on_it - buys Caravan
+fap_on_it - gains Caravan
+fap_on_it - applied Royal Seal to place Caravan on top of the deck
+fap_on_it - buys Wishing Well
+fap_on_it - gains Wishing Well
+fap_on_it - applied Royal Seal to place Wishing Well on top of the deck
+fap_on_it - draws Wishing Well, Caravan, Copper, Copper, Curse
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Trade Route
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Sea Hag
+fap_on_it - discards Copper
+fap_on_it - gains Curse
+Stef - plays Trade Route
+Stef - trashes Curse
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Copper, Village, Caravan, Wishing Well, Wishing Well
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Caravan
+fap_on_it - draws Curse
+fap_on_it - plays Wishing Well
+fap_on_it - draws Gold
+fap_on_it - names Gold
+fap_on_it - reveals Gold
+fap_on_it - places Gold in hand
+fap_on_it - plays 2 Copper, 2 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Gold, Duchy, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Hamlet
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Village
+Stef - reveals Copper
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Trade Route
+Stef - shuffles deck
+Stef - reveals Village
+Stef - plays Hamlet
+Stef - draws Village
+Stef - plays Village
+Stef - draws Trade Route
+Stef - plays Wishing Well
+Stef - draws Trade Route
+Stef - names Caravan
+Stef - reveals Village
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Village, Estate, Sea Hag, Remodel, Caravan
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Necropolis
+fap_on_it - plays 2 Copper, 1 Gold
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Silver, Copper, Trade Route, Caravan, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Trade Route
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Caravan
+Stef - plays Sea Hag
+fap_on_it - discards Silver
+fap_on_it - gains Curse
+Stef - plays 1 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Wishing Well, Wishing Well, Trade Route, Village, Wishing Well
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays Caravan
+fap_on_it - draws Curse
+fap_on_it - plays Trade Route
+fap_on_it - trashes Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Caravan, Royal Seal, Trade Route, Sea Hag, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Remodel
+Stef - duration Caravan
+Stef - draws Village
+Stef - plays Caravan
+Stef - draws Trade Route
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Sea Hag
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Fortress
+Stef - reveals Fortress
+Stef - places Fortress in hand
+Stef - plays Remodel
+Stef - trashes Trade Route
+Stef - gains Remodel
+Stef - plays Wishing Well
+Stef - draws Hamlet
+Stef - names Remodel
+Stef - shuffles deck
+Stef - reveals Remodel
+Stef - places Remodel in hand
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains Gold
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Sea Hag
+fap_on_it - discards Royal Seal
+fap_on_it - gains Curse
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Caravan, Remodel, Fortress, Wishing Well, Hamlet
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - duration Caravan
+fap_on_it - draws Curse
+fap_on_it - plays Caravan
+fap_on_it - draws Copper
+fap_on_it - plays Trade Route
+fap_on_it - trashes Curse
+fap_on_it - plays 1 Royal Seal, 1 Copper
+fap_on_it - buys Caravan
+fap_on_it - gains Caravan
+fap_on_it - applied Royal Seal to place Caravan on top of the deck
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Caravan, Curse, Province, Wishing Well, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Wishing Well
+Stef - duration Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Trade Route
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Village
+Stef - reveals Village
+Stef - places Village in hand
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Wishing Well
+Stef - draws Sea Hag
+Stef - names Remodel
+Stef - reveals Remodel
+Stef - places Remodel in hand
+Stef - plays Remodel
+Stef - trashes Sea Hag
+Stef - gains Gold
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains Gold
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Gold
+Stef - names Gold
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Trade Route
+Stef - trashes Fortress
+Stef - plays 4 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Remodel, Remodel, Caravan, Gold, Gold
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - duration Caravan
+fap_on_it - shuffles deck
+fap_on_it - draws Copper
+fap_on_it - plays Caravan
+fap_on_it - draws Necropolis
+fap_on_it - plays Wishing Well
+fap_on_it - draws Trade Route
+fap_on_it - names Gold
+fap_on_it - reveals Duchy
+fap_on_it - plays Trade Route
+fap_on_it - trashes Curse
+fap_on_it - plays 1 Gold, 1 Copper
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Duchy, Curse, Sea Hag, Duchy, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Caravan
+Stef - draws Village
+Stef - duration Caravan
+Stef - draws Trade Route
+Stef - duration Caravan
+Stef - draws Wishing Well
+Stef - plays Village
+Stef - draws Wishing Well
+Stef - plays Caravan
+Stef - draws Village
+Stef - plays Village
+Stef - draws Hamlet
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Gold
+Stef - reveals Wishing Well
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Village
+Stef - names Gold
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Wishing Well
+Stef - draws Fortress
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Province
+Stef - receives one buy
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains Duchy
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Trade Route
+Stef - trashes Fortress
+Stef - plays 4 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 1 Fortress, 2 Province, 2 Duchy
+Stef - total victory points: 18
+Stef - turns: 18
+ 
+fap_on_it - resigned
+fap_on_it - cards: 4 Caravan, 2 Trade Route, 1 Sea Hag, 1 Wishing Well, 1 Necropolis, 5 Copper, 2 Silver, 2 Gold, 2 Royal Seal, 4 Duchy, 3 Estate, 1 Province, 2 Curse
+fap_on_it - total victory points: 19
+fap_on_it - turns: 18
+ 
+1st place: Stef
+2nd place: fap_on_it
+ 

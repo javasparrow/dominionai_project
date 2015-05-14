@@ -1,0 +1,362 @@
+------------ Game Setup ------------
+Supply cards: University, Steward, Familiar, Militia, Thief, Treasure Map, City, Mountebank, Mystic, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+yed - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Potion
+yed - gains Potion
+yed - shuffles deck
+yed - draws Copper, Estate, Steward, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Steward, Estate, Estate, Copper, Potion
+ 
+---------- yed: turn 3 ----------
+yed - plays Steward
+yed - trashes Estate, Estate
+yed - draws Copper, Copper, Copper, Potion, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Steward
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper, 1 Potion
+yed - buys Familiar
+yed - gains Familiar
+yed - draws Estate, Copper
+yed - shuffles deck
+yed - draws Copper, Copper, Familiar
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - draws Copper, Mountebank, Copper, Potion, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Potion, Copper, Steward, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Mountebank, Copper, Copper, University
+ 
+---------- yed: turn 6 ----------
+yed - plays 3 Copper, 1 Potion
+yed - buys University
+yed - gains University
+yed - shuffles deck
+yed - draws Potion, Copper, Silver, Copper, Steward
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains City
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Potion, Copper, Steward, Curse, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Steward
+yed - trashes Copper, Copper
+yed - plays 1 Potion, 1 Silver
+yed - buys University
+yed - gains University
+yed - draws Copper, Curse, Estate, Copper, Familiar
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Steward
+Stef - trashes Copper, Curse
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, City, Copper, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays 3 Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Copper, Copper, University, Copper
+yed - shuffles deck
+yed - draws Curse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays City
+Stef - draws University
+Stef - plays University
+Stef - gains City
+Stef - plays 4 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Mountebank, City, Potion, Steward
+ 
+---------- yed: turn 9 ----------
+yed - plays University
+yed - gains City
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Curse, Steward, Copper, Copper, Potion
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws City
+Stef - plays City
+Stef - draws Steward
+Stef - plays Steward
+Stef - draws University, Copper
+Stef - plays University
+Stef - gains City
+Stef - plays Mountebank
+yed - discards Curse
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Copper, City, Curse, Copper
+ 
+---------- yed: turn 10 ----------
+yed - plays 2 Copper, 1 Potion
+yed - buys University
+yed - gains University
+yed - draws University, Silver, Familiar, Steward, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Steward
+Stef - draws City, University
+Stef - plays City
+Stef - draws Mountebank
+Stef - plays University
+Stef - gains City
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Potion, City, Steward, City, University
+ 
+---------- yed: turn 11 ----------
+yed - plays University
+yed - gains City
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays Steward
+yed - trashes Estate, Copper
+yed - draws Copper
+yed - shuffles deck
+yed - draws Copper, City, Curse, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays University
+Stef - gains City
+Stef - plays Steward
+Stef - shuffles deck
+Stef - draws City, City
+Stef - plays City
+Stef - draws Steward
+Stef - plays City
+Stef - draws Copper
+Stef - plays City
+Stef - draws Curse
+Stef - plays City
+Stef - draws Curse
+Stef - plays Steward
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws University, City, City, Mountebank
+Stef - shuffles deck
+Stef - draws City
+ 
+---------- yed: turn 12 ----------
+yed - plays City
+yed - draws Silver
+yed - plays 3 Copper, 1 Silver
+yed - buys City
+yed - gains City
+yed - draws Curse, Potion, Steward, Curse, University
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws University, Copper
+Stef - plays City
+Stef - draws Curse, Familiar
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Steward, Potion
+Stef - plays City
+Stef - draws Steward, City
+Stef - plays City
+Stef - draws Curse, Copper
+Stef - plays University
+Stef - gains Mystic
+Stef - plays University
+Stef - gains Mystic
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Mystic
+yed - gains Curse
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Militia
+Stef - plays Mountebank
+yed - discards Curse
+Stef - plays Steward
+Stef - trashes Potion, Curse
+Stef - plays Steward
+Stef - trashes Curse, Copper
+Stef - buys Goons
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws Mystic, City, City, City, City
+ 
+---------- yed: turn 13 ----------
+yed - plays University
+yed - gains Mystic
+yed - plays Steward
+yed - draws Copper, University
+yed - plays University
+yed - gains Mystic
+yed - draws Steward, City, Familiar, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws City, Steward
+Stef - plays City
+Stef - draws University, City
+Stef - plays City
+Stef - draws Copper, Mountebank
+Stef - plays City
+Stef - draws Mystic, Copper
+Stef - plays City
+Stef - draws City, University
+Stef - plays City
+Stef - draws Goons, Familiar
+Stef - plays Mystic
+Stef - names Steward
+Stef - reveals Steward
+Stef - places Steward in hand
+Stef - plays University
+Stef - gains Mystic
+Stef - plays University
+Stef - gains Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - shuffles deck
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Goons
+yed - discards Copper
+yed - discards Copper
+Stef - plays Mystic
+Stef - names Militia
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws City, City, Goons, Steward, Steward
+ 
+---------- yed: turn 14 ----------
+yed - plays City
+yed - draws Silver, University
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays University
+yed - gains Mystic
+yed - plays Steward
+yed - shuffles deck
+yed - draws University, Potion
+yed - plays University
+ 
+------------ Game Over ------------
+Stef - cards: 7 City, 4 Mystic, 3 Goons, 2 Steward, 2 University, 1 Familiar, 1 Mountebank, 1 Curse
+Stef - victory point chips: 2
+Stef - total victory points: 1
+Stef - turns: 14
+ 
+yed - resigned
+yed - cards: 3 Mystic, 2 City, 1 University, 1 Steward, 7 Copper, 2 Silver, 1 Potion, 4 Curse
+yed - victory point chips: 0
+yed - total victory points: -4
+yed - turns: 13
+ 
+1st place: Stef
+2nd place: yed
+ 

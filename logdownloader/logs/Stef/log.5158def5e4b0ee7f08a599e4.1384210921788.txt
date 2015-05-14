@@ -1,0 +1,592 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Sage, Village, Cartographer, Market, Outpost, Tactician, Hoard, Expand, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Stef - shuffles deck
+Eevee - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 4 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 3 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - shuffles deck
+Eevee - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Pawn, Copper, Copper, Copper, Estate
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Tactician
+Eevee - gains Tactician
+Eevee - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Cartographer, Copper, Copper, Silver
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays 3 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Pawn, Copper
+Eevee - shuffles deck
+Eevee - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cartographer
+Stef - draws Estate
+Stef - looks at Tactician, Pawn, Copper, Copper
+Stef - discards Pawn
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Tactician on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Village
+Stef - gains Village
+Stef - draws Tactician, Copper, Copper, Estate, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays 4 Copper
+Eevee - buys Tactician
+Eevee - gains Tactician
+Eevee - draws Silver, Copper, Tactician, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Village, Copper, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Tactician
+Eevee - discards: Silver, Copper, Estate, Estate
+Eevee - draws Copper, Pawn, Copper
+Eevee - shuffles deck
+Eevee - draws Pawn, Tactician
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Tactician
+Stef - draws Pawn, Estate, Estate, Copper, Copper
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Cartographer
+Stef - plays Cartographer
+Stef - draws Copper
+Stef - looks at Estate
+Stef - discards Estate
+Stef - plays 7 Copper, 1 Silver
+Stef - buys Expand
+Stef - gains Expand
+Stef - buys Sage
+Stef - gains Sage
+Stef - shuffles deck
+Stef - draws Copper, Pawn, Silver, Cartographer, Tactician
+ 
+---------- Eevee: turn 7 ----------
+Eevee - duration Tactician
+Eevee - draws Copper, Copper, Estate, Copper, Estate
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 coin
+Eevee - plays Tactician
+Eevee - discards: Copper, Copper, Copper, Copper, Estate, Copper, Estate, Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Copper, Estate, Silver
+Eevee - shuffles deck
+Eevee - draws Tactician, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cartographer
+Stef - draws Copper
+Stef - looks at Estate, Expand, Copper, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Expand on top of deck
+Stef - plays Tactician
+Stef - discards: Copper, Pawn, Silver, Copper
+Stef - draws Expand, Copper, Copper, Estate, Sage
+ 
+---------- Eevee: turn 8 ----------
+Eevee - duration Tactician
+Eevee - draws Copper, Copper, Pawn, Pawn, Estate
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays 5 Copper, 1 Silver
+Eevee - buys Expand
+Eevee - gains Expand
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Copper, Copper, Pawn
+Eevee - shuffles deck
+Eevee - draws Pawn, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Tactician
+Stef - draws Village, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Pawn
+Stef - plays Sage
+Stef - reveals Estate, Copper, Copper, Copper, Cartographer
+Stef - places Cartographer in hand
+Stef - discards: Estate, Copper, Copper, Copper
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Tactician
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Cartographer
+Stef - shuffles deck
+Stef - draws Copper
+Stef - looks at Tactician, Copper, Copper, Estate
+Stef - discards Copper
+Stef - discards Estate
+Stef - places Tactician on top of deck
+Stef - places Copper on top of deck
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 6 Copper, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Tactician
+Stef - shuffles deck
+Stef - draws Estate, Cartographer, Copper, Silver
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 coin
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys King's Court
+Eevee - gains King's Court
+Eevee - draws Copper, Pawn, Expand, Estate, Tactician
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cartographer
+Stef - draws Expand
+Stef - looks at Pawn, Copper, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Pawn on top of deck
+Stef - plays Tactician
+Stef - discards: Estate, Copper, Silver, Expand
+Stef - draws Pawn, Tactician, Estate, Copper, Pawn
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 coin
+Eevee - plays Expand
+Eevee - trashes Estate
+Eevee - gains Market
+Eevee - plays 1 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Tactician, Copper, Copper, Estate, Pawn
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Tactician
+Stef - draws Copper, Sage, Village, Copper, King's Court
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Cartographer
+Stef - plays Cartographer
+Stef - draws Expand
+Stef - looks at Estate
+Stef - discards Estate
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Market
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Copper, Silver, Copper, Copper, Copper, Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - shuffles deck
+Stef - draws Estate, Copper, Cartographer, Copper, Village
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Tactician
+Eevee - discards: Copper, Copper, Estate, Copper
+Eevee - draws Estate
+Eevee - shuffles deck
+Eevee - draws King's Court, Pawn, Copper, Market
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Sage, Sage, King's Court, Silver, Pawn
+Stef - plays Cartographer
+Stef - draws Pawn
+Stef - looks at Copper, Copper, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Expand
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Market
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays King's Court
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Outpost
+Stef - plays Expand
+Stef - trashes Silver
+Stef - gains Cartographer
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Sage
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Cartographer
+Stef - places Cartographer in hand
+Stef - plays Sage
+Stef - reveals Sage
+Stef - places Sage in hand
+Stef - plays Cartographer
+Stef - draws Copper
+Stef - looks at Copper, Copper, Outpost, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Outpost on top of deck
+Stef - plays Sage
+Stef - reveals Outpost
+Stef - places Outpost in hand
+Stef - plays Outpost
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Copper
+Stef - duration Outpost
+Stef - shuffles deck
+Stef - draws Copper, Expand, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Copper, Cartographer, Sage, Copper, Copper
+Stef - plays Cartographer
+Stef - draws Pawn
+Stef - looks at Market, Pawn, Cartographer, Village
+Stef - discards Pawn
+Stef - places Market on top of deck
+Stef - places Cartographer on top of deck
+Stef - places Village on top of deck
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Village
+Stef - plays Village
+Stef - draws Cartographer
+Stef - plays Cartographer
+Stef - draws Market
+Stef - looks at Sage, Tactician, King's Court, Sage
+Stef - discards Sage
+Stef - discards Sage
+Stef - places Tactician on top of deck
+Stef - places King's Court on top of deck
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Sage
+Stef - reveals Tactician
+Stef - places Tactician in hand
+Stef - plays King's Court
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays Tactician
+Stef - discards: Copper, Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Sage, Village, Market, Sage
+ 
+---------- Eevee: turn 12 ----------
+Eevee - duration Tactician
+Eevee - draws Silver, Pawn, Copper, Copper, Expand
+Eevee - plays Market
+Eevee - draws Pawn
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Tactician
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 coin
+Eevee - plays King's Court
+Eevee - plays Expand
+Eevee - trashes Estate
+Eevee - gains Outpost
+Eevee - plays Expand
+Eevee - trashes Silver
+Eevee - gains Market
+Eevee - plays Expand
+Eevee - trashes Copper
+Eevee - gains Village
+Eevee - plays Tactician
+Eevee - discards: Copper, Copper, Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Estate, Copper, Copper, Pawn, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Tactician
+Stef - draws King's Court, Village, Expand, Cartographer, Outpost
+Stef - plays Sage
+Stef - reveals Cartographer
+Stef - places Cartographer in hand
+Stef - plays Cartographer
+Stef - draws Village
+Stef - looks at Copper, Sage, Copper, Pawn
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Pawn
+Stef - discards Sage
+Stef - plays Village
+Stef - draws Tactician
+Stef - plays Village
+Stef - draws Pawn
+Stef - plays King's Court
+Stef - plays Expand
+Stef - trashes Outpost
+Stef - gains King's Court
+Stef - plays Expand
+Stef - trashes Pawn
+Stef - gains Outpost
+Stef - plays Expand
+Stef - trashes Market
+Stef - gains King's Court
+Stef - plays Cartographer
+Stef - draws Village
+Stef - shuffles deck
+Stef - looks at Outpost, King's Court, Pawn, Copper
+Stef - discards Copper
+Stef - places Outpost on top of deck
+Stef - places King's Court on top of deck
+Stef - places Pawn on top of deck
+Stef - plays Village
+Stef - draws Pawn
+Stef - plays Village
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Outpost
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Sage
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws King's Court
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Copper, Copper
+Stef - discards: Copper, Copper
+Stef - plays Outpost
+Stef - plays Tactician
+Stef - discards: Copper, Sage, King's Court
+Stef - buys Village
+Stef - gains Village
+Stef - duration Outpost
+Stef - shuffles deck
+Stef - draws Sage, Cartographer, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Tactician
+Stef - draws Village, Cartographer, Village, King's Court, Village
+Stef - plays Cartographer
+Stef - draws Expand
+Stef - looks at King's Court, King's Court, Tactician, Village
+Stef - discards Village
+Stef - places Tactician on top of deck
+Stef - places King's Court on top of deck
+Stef - places King's Court on top of deck
+Stef - plays Village
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Cartographer
+Stef - draws King's Court
+Stef - looks at Tactician, Copper, Copper, Sage
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Sage
+Stef - places Tactician on top of deck
+Stef - plays Cartographer
+Stef - draws Tactician
+Stef - looks at Sage, Village, Pawn
+Stef - shuffles deck
+Stef - looks at Sage
+Stef - discards Sage
+Stef - discards Sage
+Stef - places Village on top of deck
+Stef - places Pawn on top of deck
+Stef - plays Cartographer
+Stef - draws Pawn
+Stef - looks at Village, Copper, Copper, Village
+Stef - discards Village
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Village
+Stef - plays King's Court
+Stef - plays Expand
+Stef - trashes Village
+Stef - gains Market
+Stef - plays Expand
+Stef - trashes Village
+Stef - gains Market
+Stef - plays Expand
+Stef - trashes Sage
+Stef - gains Market
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - shuffles deck
+Stef - draws Sage
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Sage
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Village
+Stef - plays King's Court
+Stef - plays Sage
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays Sage
+Stef - reveals Village
+Stef - places Village in hand
+Stef - plays Sage
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - plays Market
+Stef - plays Tactician
+Stef - discards: Copper, Sage, Village, Village, Copper, Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Sage, Village, Cartographer, King's Court, Outpost
+ 
+---------- Eevee: turn 13 ----------
+Eevee - duration Tactician
+Eevee - draws Pawn
+Eevee - shuffles deck
+Eevee - draws Pawn, Pawn, King's Court, Copper
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Market
+Eevee - plays Market
+Eevee - draws Tactician
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Outpost
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Pawn
+ 
+------------ Game Over ------------
+Stef - cards: 4 King's Court, 3 Village, 3 Market, 2 Sage, 2 Cartographer, 2 Tactician, 1 Outpost, 1 Expand, 1 Pawn, 3 Copper
+Stef - total victory points: 0
+Stef - turns: 13
+ 
+Eevee - resigned
+Eevee - cards: 2 Pawn, 1 King's Court, 1 Tactician, 1 Outpost, 1 Market, 1 Expand, 1 Village, 6 Copper, 1 Estate
+Eevee - total victory points: 1
+Eevee - turns: 12
+ 
+1st place: Stef
+2nd place: Eevee
+ 

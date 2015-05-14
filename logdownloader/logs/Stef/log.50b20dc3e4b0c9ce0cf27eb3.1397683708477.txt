@@ -1,0 +1,407 @@
+------------ Game Setup ------------
+Supply cards: Doctor, Oasis, Bureaucrat, Cutpurse, Cartographer, Catacombs, Mystic, Rabble, Soothsayer, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Estate
+shark_bait - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Cutpurse
+shark_bait - gains Cutpurse
+shark_bait - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - shuffles deck
+shark_bait - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Soothsayer
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Soothsayer
+shark_bait - gains Soothsayer
+shark_bait - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+shark_bait - gains Curse
+shark_bait - draws Copper
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Cutpurse
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Soothsayer, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Gold, Oasis, Copper, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+shark_bait - plays 2 Silver, 1 Copper
+shark_bait - buys Soothsayer
+shark_bait - gains Soothsayer
+shark_bait - draws Copper, Copper, Curse, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Expand
+Stef - gains Expand
+Stef - draws Soothsayer, Silver, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Oasis
+shark_bait - gains Oasis
+shark_bait - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+shark_bait - gains Curse
+shark_bait - shuffles deck
+shark_bait - draws Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Oasis, Copper, Expand
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Gold, Curse, Silver, Soothsayer
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Cartographer
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold, Gold, Estate, Copper, Curse
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+Stef - gains Curse
+Stef - draws Soothsayer
+shark_bait - plays 1 Copper, 1 Gold, 1 Silver
+shark_bait - buys Cartographer
+shark_bait - gains Cartographer
+shark_bait - draws Oasis, Soothsayer, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+shark_bait - gains Curse
+shark_bait - draws Copper
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Expand
+Stef - gains Expand
+Stef - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+Stef - gains Curse
+Stef - draws Oasis
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Cartographer
+shark_bait - gains Cartographer
+shark_bait - draws Estate, Cutpurse
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Soothsayer
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Copper, Copper, Expand, Curse, Curse
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+Stef - gains Curse
+Stef - draws Gold
+shark_bait - draws Silver, Gold, Silver, Copper, Cartographer
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Expand
+Stef - trashes Curse
+Stef - gains Oasis
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Cartographer, Curse, Oasis, Gold, Soothsayer
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Cartographer
+shark_bait - draws Copper
+shark_bait - looks at Cartographer, Soothsayer, Copper, Oasis
+shark_bait - discards Copper
+shark_bait - places Cartographer on top of deck
+shark_bait - places Soothsayer on top of deck
+shark_bait - places Oasis on top of deck
+shark_bait - plays 2 Silver, 2 Copper, 1 Gold
+shark_bait - buys Expand
+shark_bait - gains Expand
+shark_bait - draws Oasis, Soothsayer, Cartographer, Curse, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Gold, Estate, Copper, Expand
+Stef - discards Estate
+Stef - discards Copper
+Stef - places Expand on top of deck
+Stef - places Gold on top of deck
+Stef - plays Oasis
+Stef - draws Gold
+Stef - discards Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+shark_bait - gains Curse
+shark_bait - draws Curse
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Expand
+Stef - shuffles deck
+Stef - draws Soothsayer, Copper, Gold, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Cartographer
+shark_bait - draws Gold
+shark_bait - looks at Estate, Curse, Estate, Gold
+shark_bait - discards Estate
+shark_bait - discards Curse
+shark_bait - discards Estate
+shark_bait - places Gold on top of deck
+shark_bait - plays Oasis
+shark_bait - draws Gold
+shark_bait - discards Curse
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+Stef - gains Curse
+Stef - draws Curse
+shark_bait - plays 2 Gold, 1 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Silver
+shark_bait - shuffles deck
+shark_bait - draws Cartographer, Gold, Curse
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+shark_bait - gains Curse
+shark_bait - draws Silver
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Mystic, Cartographer, Copper, Estate, Gold
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Cartographer
+shark_bait - draws Copper
+shark_bait - looks at Soothsayer, Copper, Expand, Estate
+shark_bait - discards Copper
+shark_bait - discards Estate
+shark_bait - places Expand on top of deck
+shark_bait - places Soothsayer on top of deck
+shark_bait - plays 2 Copper, 2 Silver, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Soothsayer, Expand, Cutpurse, Oasis, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cartographer
+Stef - draws Oasis
+Stef - looks at Copper, Copper, Expand, Silver
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Expand on top of deck
+Stef - places Silver on top of deck
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Oasis
+Stef - draws Expand
+Stef - discards Copper
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Oasis, Cartographer, Curse, Copper, Gold
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Oasis
+shark_bait - draws Province
+shark_bait - discards Province
+shark_bait - plays Expand
+shark_bait - trashes Soothsayer
+shark_bait - gains Province
+shark_bait - plays 1 Gold
+shark_bait - buys Oasis
+shark_bait - gains Oasis
+shark_bait - draws Gold, Curse, Gold, Estate, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Gold, Curse, Copper, Estate
+Stef - discards Curse
+Stef - discards Estate
+Stef - places Gold on top of deck
+Stef - places Copper on top of deck
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Curse
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Oasis, Province
+Stef - shuffles deck
+Stef - draws Curse, Curse
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays 2 Gold, 1 Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Soothsayer, Gold, Copper, Curse, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Oasis
+Stef - draws Curse
+Stef - discards Curse
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Mystic, Duchy, Copper, Copper, Silver
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Soothsayer
+shark_bait - gains Gold
+shark_bait - plays 1 Gold, 1 Copper
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Curse, Copper, Cartographer, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Gold
+Stef - plays Silver
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Expand, Copper, Gold, Oasis
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays Cartographer
+shark_bait - shuffles deck
+shark_bait - draws Curse
+shark_bait - looks at Cutpurse, Duchy, Gold, Curse
+shark_bait - discards Duchy
+shark_bait - discards Curse
+shark_bait - places Cutpurse on top of deck
+shark_bait - places Gold on top of deck
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Gold, Cutpurse, Gold, Estate, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Oasis
+Stef - draws Cartographer
+Stef - discards Copper
+Stef - plays Cartographer
+Stef - draws Province
+Stef - looks at Cartographer, Curse, Copper, Copper
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Cartographer on top of deck
+Stef - plays Expand
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Cartographer, Expand, Silver, Copper, Cartographer
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays Cutpurse
+Stef - discards Copper
+shark_bait - plays 2 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Copper, Gold, Estate, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Expand
+Stef - trashes Cartographer
+Stef - gains Province
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gold, Gold, Oasis, Estate, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Oasis, 2 Cartographer, 2 Expand, 1 Mystic, 1 Soothsayer, 7 Copper, 4 Gold, 2 Silver, 4 Estate, 4 Province, 3 Duchy, 4 Curse
+Stef - total victory points: 33
+Stef - turns: 18
+ 
+shark_bait - cards: 2 Cartographer, 2 Oasis, 1 Cutpurse, 1 Expand, 1 Soothsayer, 7 Copper, 6 Gold, 3 Silver, 5 Estate, 4 Province, 1 Duchy, 5 Curse
+shark_bait - total victory points: 27
+shark_bait - turns: 18
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

@@ -1,0 +1,491 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Village, Bridge, Herald, Horse Traders, Navigator, Remodel, Explorer, Festival, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qmech - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+qmech - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+qmech - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- qmech: turn 1 ----------
+qmech - plays 4 Copper
+qmech - buys Navigator
+qmech - gains Navigator
+qmech - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Copper, Copper, Estate
+ 
+---------- qmech: turn 2 ----------
+qmech - plays 3 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - shuffles deck
+qmech - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Copper, Remodel, Estate, Copper, Copper
+ 
+---------- qmech: turn 3 ----------
+qmech - plays 3 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - draws Silver, Copper, Copper, Navigator, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Herald
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Oasis, Village, Copper, Copper
+ 
+---------- qmech: turn 4 ----------
+qmech - plays Navigator
+qmech - looks at Estate, Copper
+qmech - shuffles deck
+qmech - looks at Silver, Copper, Estate
+qmech - discards: Estate, Copper, Silver, Copper, Estate
+qmech - plays 3 Copper, 1 Silver
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Copper, Copper, Estate
+qmech - shuffles deck
+qmech - draws Copper, Gold
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Remodel, Copper, Herald, Bridge, Estate
+ 
+---------- qmech: turn 5 ----------
+qmech - plays 3 Copper, 1 Gold
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Navigator, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Herald
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Remodel, Village, Herald, Copper
+ 
+---------- qmech: turn 6 ----------
+qmech - plays Navigator
+qmech - looks at Silver, Estate, Copper, Copper
+qmech - shuffles deck
+qmech - looks at Estate
+qmech - discards: Silver, Estate, Copper, Copper, Estate
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Gold, Copper, Gold, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Village
+Stef - draws Bridge
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Bridge
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Estate, Oasis, Copper, Herald, Copper
+ 
+---------- qmech: turn 7 ----------
+qmech - plays 3 Copper, 2 Gold
+qmech - buys Province
+qmech - gains Province
+qmech - shuffles deck
+qmech - draws Copper, Copper, Silver, Gold, Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Herald, Bridge
+ 
+---------- qmech: turn 8 ----------
+qmech - plays 2 Copper, 2 Gold, 1 Silver
+qmech - buys Province
+qmech - gains Province
+qmech - draws Gold, Silver, Copper, Province, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Bridge
+Stef - plays 4 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Bridge, Remodel, Copper, Village, Herald
+ 
+---------- qmech: turn 9 ----------
+qmech - plays Gold
+qmech - plays Silver
+qmech - buys Explorer
+qmech - gains Explorer
+qmech - draws Estate, Estate, Copper, Navigator, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Oasis
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Village
+Stef - draws Estate
+Stef - plays Oasis
+Stef - draws Bridge
+Stef - discards Estate
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Remodel
+Stef - plays 1 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Village, Herald, Herald, Copper, Copper
+ 
+---------- qmech: turn 10 ----------
+qmech - plays Navigator
+qmech - looks at Estate, Copper
+qmech - shuffles deck
+qmech - looks at Gold, Copper, Explorer
+qmech - places Estate on top of deck
+qmech - places Copper on top of deck
+qmech - places Gold on top of deck
+qmech - places Copper on top of deck
+qmech - places Explorer on top of deck
+qmech - plays 2 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - draws Explorer, Copper, Gold, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Bridge
+Stef - reveals: Remodel
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Estate
+Stef - plays Village
+Stef - draws Remodel
+Stef - plays Bridge
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Oasis, Herald, Herald, Bridge, Herald
+ 
+---------- qmech: turn 11 ----------
+qmech - plays Explorer
+qmech - gains Silver
+qmech - plays 2 Copper, 1 Gold, 1 Silver
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Silver, Province, Copper, Copper, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Remodel
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Remodel
+Stef - plays Oasis
+Stef - draws Herald
+Stef - discards Estate
+Stef - plays Herald
+Stef - draws Bridge
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Village
+Stef - plays Village
+Stef - plays Bridge
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Bridge
+Stef - plays 2 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Estate, Remodel, Herald, Herald, Oasis
+ 
+---------- qmech: turn 12 ----------
+qmech - plays 2 Silver, 2 Copper
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Gold, Province, Copper, Gold
+qmech - shuffles deck
+qmech - draws Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Bridge
+Stef - reveals: Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Herald
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Village
+Stef - plays Village
+Stef - draws Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Village
+Stef - plays Village
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Remodel
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Bridge
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Bridge
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Bridge
+Stef - reveals: Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Oasis
+Stef - discards Herald
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Village
+Stef - gains Village
+Stef - buys Village
+Stef - gains Village
+Stef - buys Village
+Stef - gains Village
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Herald
+Stef - overpays for Herald with 7 coins
+Stef - places Village on top of deck
+Stef - places Festival on top of deck
+Stef - places Bridge on top of deck
+Stef - places Village on top of deck
+Stef - places Village on top of deck
+Stef - places Bridge on top of deck
+Stef - places Herald on top of deck
+Stef - gains Herald
+Stef - draws Herald, Bridge, Village, Village, Bridge
+ 
+---------- qmech: turn 13 ----------
+qmech - plays 2 Gold, 1 Copper
+qmech - buys Duchy
+qmech - gains Duchy
+qmech - draws Navigator, Explorer, Estate, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Herald
+Stef - draws Festival
+Stef - reveals: Village
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Herald
+Stef - plays Village
+Stef - draws Bridge
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Herald
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Oasis
+Stef - plays Oasis
+Stef - draws Herald
+Stef - discards Herald
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Village
+Stef - plays Village
+Stef - draws Remodel
+Stef - plays Village
+Stef - draws Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Bridge
+Stef - reveals: Bridge
+Stef - plays Bridge
+Stef - plays Herald
+Stef - draws Village
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Village
+Stef - draws Estate
+Stef - plays Festival
+Stef - plays Bridge
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Village
+Stef - gains Village
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Herald, Village, Herald, Herald, Remodel
+ 
+------------ Game Over ------------
+Stef - cards: 10 Herald, 10 Village, 10 Bridge, 2 Remodel, 1 Oasis, 1 Festival, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 14
+ 
+qmech - cards: 1 Navigator, 1 Explorer, 7 Copper, 5 Gold, 4 Silver, 3 Estate, 2 Province, 1 Duchy
+qmech - total victory points: 18
+qmech - turns: 13
+ 
+1st place: Stef
+2nd place: qmech
+ 

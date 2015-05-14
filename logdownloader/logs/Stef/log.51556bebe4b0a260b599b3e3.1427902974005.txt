@@ -1,0 +1,774 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Warehouse, Advisor, Envoy, Ironmonger, Island, Bazaar, Catacombs, Pillage, Saboteur, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+manzi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+manzi - shuffles deck
+Stef - shuffles deck
+manzi - draws Estate, Copper, Copper, Copper, Estate
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- manzi: turn 1 ----------
+manzi - plays 3 Copper
+manzi - buys Chapel
+manzi - gains Chapel
+manzi - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- manzi: turn 2 ----------
+manzi - plays 4 Copper
+manzi - buys Ironmonger
+manzi - gains Ironmonger
+manzi - shuffles deck
+manzi - draws Copper, Chapel, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Chapel, Ironmonger, Estate, Copper
+ 
+---------- manzi: turn 3 ----------
+manzi - plays Chapel
+manzi - trashes Copper, Copper, Copper, Copper
+manzi - draws Copper, Estate, Estate, Copper, Ironmonger
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- manzi: turn 4 ----------
+manzi - plays Ironmonger
+manzi - draws Estate
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays 2 Copper
+manzi - buys Silver
+manzi - gains Silver
+manzi - shuffles deck
+manzi - draws Ironmonger, Chapel, Silver, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Ironmonger, Chapel
+ 
+---------- manzi: turn 5 ----------
+manzi - plays Ironmonger
+manzi - draws Estate
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays Chapel
+manzi - trashes Estate, Estate, Copper
+manzi - plays Silver
+manzi - buys Silver
+manzi - gains Silver
+manzi - draws Estate, Copper
+manzi - shuffles deck
+manzi - draws Silver, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Chapel
+Stef - trashes Estate, Copper
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- manzi: turn 6 ----------
+manzi - plays 2 Copper, 2 Silver
+manzi - buys Gold
+manzi - gains Gold
+manzi - draws Chapel, Ironmonger
+manzi - shuffles deck
+manzi - draws Silver, Copper, Gold
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Ironmonger, Chapel, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- manzi: turn 7 ----------
+manzi - plays Ironmonger
+manzi - draws Estate
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays Chapel
+manzi - trashes Copper, Estate
+manzi - plays 1 Silver, 1 Gold
+manzi - buys Pillage
+manzi - gains Pillage
+manzi - draws Silver
+manzi - shuffles deck
+manzi - draws Pillage, Silver, Ironmonger, Chapel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Bazaar
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Copper, Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Bazaar, Silver, Copper, Ironmonger
+ 
+---------- manzi: turn 8 ----------
+manzi - plays Ironmonger
+manzi - draws Gold
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays Pillage
+manzi - trashes Pillage
+Stef - reveals Silver, Bazaar, Silver, Copper, Ironmonger
+Stef - discards Bazaar
+manzi - gains Spoils
+manzi - gains Spoils
+manzi - plays 2 Silver, 1 Gold
+manzi - buys Province
+manzi - gains Province
+manzi - shuffles deck
+manzi - draws Ironmonger, Chapel, Spoils, Spoils, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Bazaar
+Stef - places Bazaar on top of deck
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Bazaar, Chapel
+Stef - shuffles deck
+Stef - draws Silver, Silver, Saboteur
+ 
+---------- manzi: turn 9 ----------
+manzi - plays Ironmonger
+manzi - draws Gold
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays 1 Silver, 1 Gold
+manzi - plays Spoils
+manzi - buys Province
+manzi - gains Province
+manzi - draws Silver, Province
+manzi - shuffles deck
+manzi - draws Copper, Province, Chapel
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Bazaar
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Bazaar
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Saboteur
+manzi - reveals Spoils, Gold
+manzi - trashes Gold
+manzi - gains Ironmonger
+manzi - discards Spoils
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - plays Silver
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - shuffles deck
+Stef - draws Chapel, Saboteur, Ironmonger, Bazaar, Silver
+ 
+---------- manzi: turn 10 ----------
+manzi - plays 1 Silver, 1 Copper
+manzi - buys Warehouse
+manzi - gains Warehouse
+manzi - draws Ironmonger, Silver
+manzi - shuffles deck
+manzi - draws Chapel, Silver, Warehouse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Bazaar
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Bazaar
+Stef - draws Catacombs
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Silver
+Stef - places cards in hand:  Silver
+Stef - plays Saboteur
+manzi - reveals Ironmonger
+manzi - trashes Ironmonger
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - shuffles deck
+Stef - draws Silver, Pillage, Catacombs, Copper, Silver
+ 
+---------- manzi: turn 11 ----------
+manzi - plays Ironmonger
+manzi - draws Spoils
+manzi - reveals: Copper
+manzi - places Copper on top of deck
+manzi - plays Warehouse
+manzi - draws Copper, Province, Province
+manzi - discards Province
+manzi - discards Province
+manzi - discards Spoils
+manzi - plays 2 Silver, 1 Copper
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - shuffles deck
+manzi - draws Spoils, Copper, Warehouse, Province, Saboteur
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Pillage
+Stef - trashes Pillage
+manzi - reveals Spoils, Copper, Warehouse, Province, Saboteur
+manzi - discards Warehouse
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Bazaar, Chapel, Bazaar, Saboteur, Ironmonger
+ 
+---------- manzi: turn 12 ----------
+manzi - plays Saboteur
+Stef - shuffles deck
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Warehouse
+manzi - plays Spoils
+manzi - plays Copper
+manzi - buys Ironmonger
+manzi - gains Ironmonger
+manzi - draws Province, Silver, Ironmonger, Silver, Chapel
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Spoils
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Bazaar
+Stef - draws Catacombs
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Catacombs
+Stef - looks at Spoils, Silver
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - places cards in hand:  Spoils, Silver, Copper
+Stef - plays Saboteur
+manzi - shuffles deck
+manzi - reveals Province
+manzi - trashes Province
+manzi - gains Bazaar
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - plays 2 Silver
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Chapel, Bazaar, Spoils, Catacombs
+ 
+---------- manzi: turn 13 ----------
+manzi - plays Ironmonger
+manzi - draws Ironmonger
+manzi - reveals: Copper
+manzi - discards Copper
+manzi - plays Ironmonger
+manzi - draws Saboteur
+manzi - reveals: Warehouse
+manzi - discards Warehouse
+manzi - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays 2 Silver
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - shuffles deck
+manzi - draws Bazaar, Ironmonger, Chapel, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Catacombs
+Stef - looks at Saboteur, Ironmonger, Saboteur
+Stef - discards: Saboteur, Ironmonger, Saboteur
+Stef - draws Bazaar, Spoils
+Stef - shuffles deck
+Stef - draws Saboteur
+Stef - plays Bazaar
+Stef - draws Saboteur
+Stef - plays Saboteur
+manzi - reveals Silver
+manzi - trashes Silver
+Stef - plays Saboteur
+manzi - reveals Saboteur
+manzi - trashes Saboteur
+manzi - gains Silver
+Stef - plays Silver
+Stef - plays Spoils
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - draws Catacombs, Warehouse, Chapel, Bazaar
+ 
+---------- manzi: turn 14 ----------
+manzi - plays Ironmonger
+manzi - draws Warehouse
+manzi - reveals: Ironmonger
+manzi - places Ironmonger on top of deck
+manzi - plays Bazaar
+manzi - draws Ironmonger
+manzi - plays Ironmonger
+manzi - draws Saboteur
+manzi - reveals: Province
+manzi - discards Province
+manzi - shuffles deck
+manzi - draws Silver
+manzi - plays Warehouse
+manzi - draws Province
+manzi - discards Province
+manzi - discards Chapel
+manzi - discards Copper
+manzi - plays Saboteur
+Stef - reveals Saboteur
+Stef - trashes Saboteur
+Stef - gains Silver
+manzi - plays 2 Silver
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - shuffles deck
+manzi - draws Silver, Province, Saboteur, Copper, Ironmonger
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Bazaar
+Stef - draws Saboteur
+Stef - plays Saboteur
+manzi - reveals Ironmonger
+manzi - trashes Ironmonger
+Stef - plays Ironmonger
+Stef - draws Bazaar
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Spoils
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Silver, Silver
+Stef - places cards in hand:  Silver, Silver
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Spoils, Ironmonger, Chapel, Bazaar, Saboteur
+ 
+---------- manzi: turn 15 ----------
+manzi - plays Ironmonger
+manzi - draws Chapel
+manzi - reveals: Warehouse
+manzi - places Warehouse on top of deck
+manzi - plays Saboteur
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Silver
+manzi - plays 1 Silver, 1 Copper
+manzi - buys Silver
+manzi - gains Silver
+manzi - draws Warehouse, Silver, Saboteur, Bazaar
+manzi - shuffles deck
+manzi - draws Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Ironmonger
+Stef - draws Bazaar
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Bazaar
+Stef - draws Catacombs
+Stef - plays Bazaar
+Stef - draws Warehouse
+Stef - plays Catacombs
+Stef - looks at Silver, Province
+Stef - shuffles deck
+Stef - looks at Silver
+Stef - discards: Silver, Province, Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Province
+Stef - plays Warehouse
+Stef - draws Silver
+Stef - discards Province
+Stef - discards Chapel
+Stef - discards Spoils
+Stef - plays Saboteur
+manzi - reveals Chapel, Province
+manzi - trashes Province
+manzi - gains Gold
+manzi - discards Chapel
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Saboteur, Bazaar, Silver, Bazaar, Spoils
+ 
+---------- manzi: turn 16 ----------
+manzi - plays Bazaar
+manzi - draws Copper
+manzi - plays Warehouse
+manzi - draws Silver, Saboteur, Ironmonger
+manzi - discards Ironmonger
+manzi - discards Copper
+manzi - discards Silver
+manzi - plays Saboteur
+Stef - reveals Catacombs
+Stef - trashes Catacombs
+Stef - gains Island
+Stef - gains Warehouse
+manzi - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays 2 Silver
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - shuffles deck
+manzi - draws Silver, Copper, Gold, Ironmonger, Warehouse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Bazaar
+Stef - draws Province
+Stef - plays Bazaar
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Ironmonger, Province, Chapel
+Stef - discards Province
+Stef - discards Province
+Stef - discards Chapel
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - shuffles deck
+Stef - reveals: Warehouse
+Stef - places Warehouse on top of deck
+Stef - plays Saboteur
+manzi - reveals Silver
+manzi - trashes Silver
+Stef - plays 2 Silver
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Warehouse, Chapel, Province, Province, Island
+ 
+---------- manzi: turn 17 ----------
+manzi - plays Ironmonger
+manzi - draws Chapel
+manzi - reveals: Saboteur
+manzi - places Saboteur on top of deck
+manzi - plays Warehouse
+manzi - draws Saboteur, Silver, Saboteur
+manzi - discards Chapel
+manzi - discards Copper
+manzi - discards Silver
+manzi - plays Saboteur
+Stef - shuffles deck
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays 1 Silver, 1 Gold
+manzi - buys Bazaar
+manzi - gains Bazaar
+manzi - draws Saboteur, Bazaar
+manzi - shuffles deck
+manzi - draws Gold, Ironmonger, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Warehouse
+Stef - draws Bazaar, Warehouse, Saboteur
+Stef - discards Province
+Stef - discards Chapel
+Stef - discards Warehouse
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Province
+Stef - shuffles deck
+Stef - reveals: Chapel
+Stef - discards Chapel
+Stef - plays Saboteur
+manzi - reveals Saboteur
+manzi - trashes Saboteur
+manzi - gains Silver
+Stef - plays Island
+Stef - sets aside Province
+Stef - draws Province, Warehouse
+Stef - shuffles deck
+Stef - draws Saboteur, Chapel, Warehouse
+ 
+---------- manzi: turn 18 ----------
+manzi - plays Ironmonger
+manzi - draws Copper
+manzi - reveals: Saboteur
+manzi - places Saboteur on top of deck
+manzi - plays Bazaar
+manzi - draws Saboteur
+manzi - plays Saboteur
+Stef - reveals Ironmonger
+Stef - trashes Ironmonger
+manzi - plays Saboteur
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Silver
+manzi - plays 1 Gold, 1 Silver, 1 Copper
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - draws Bazaar, Silver, Warehouse, Chapel
+manzi - shuffles deck
+manzi - draws Saboteur
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Warehouse
+Stef - draws Province, Bazaar
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Province
+Stef - discards Province
+Stef - discards Chapel
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Chapel
+Stef - plays Warehouse
+Stef - draws Province, Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Chapel
+Stef - plays Saboteur
+manzi - reveals Ironmonger
+manzi - trashes Ironmonger
+Stef - plays Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Chapel, Warehouse, Province, Bazaar
+ 
+---------- manzi: turn 19 ----------
+manzi - plays Bazaar
+manzi - draws Silver
+manzi - plays Warehouse
+manzi - draws Gold, Copper, Saboteur
+manzi - discards Chapel
+manzi - discards Copper
+manzi - discards Silver
+manzi - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays Saboteur
+Stef - reveals Saboteur
+Stef - trashes Saboteur
+Stef - gains Silver
+manzi - plays 1 Silver, 1 Gold
+manzi - buys Gold
+manzi - gains Gold
+manzi - draws Bazaar, Silver, Saboteur
+manzi - shuffles deck
+manzi - draws Saboteur, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Bazaar
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Province
+Stef - discards Province
+Stef - discards Warehouse
+Stef - plays 2 Silver
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - shuffles deck
+Stef - draws Bazaar, Province, Warehouse, Silver, Warehouse
+ 
+---------- manzi: turn 20 ----------
+manzi - plays Bazaar
+manzi - draws Chapel
+manzi - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+manzi - plays Saboteur
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Gold
+manzi - plays 2 Silver
+manzi - buys Saboteur
+manzi - gains Saboteur
+manzi - draws Saboteur, Warehouse, Silver, Copper, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Bazaar
+Stef - draws Pillage
+Stef - plays Warehouse
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Gold
+Stef - discards Province
+Stef - discards Warehouse
+Stef - discards Chapel
+Stef - plays Pillage
+Stef - trashes Pillage
+manzi - reveals Saboteur, Warehouse, Silver, Copper, Gold
+manzi - discards Gold
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - shuffles deck
+Stef - draws Silver, Spoils, Spoils, Chapel, Province
+ 
+---------- manzi: turn 21 ----------
+manzi - plays Warehouse
+manzi - draws Bazaar, Gold
+manzi - shuffles deck
+manzi - draws Chapel
+manzi - discards Copper
+manzi - discards Chapel
+manzi - discards Silver
+manzi - plays Bazaar
+manzi - draws Gold
+manzi - plays Saboteur
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Silver
+manzi - plays 2 Gold
+manzi - buys Gold
+manzi - gains Gold
+manzi - draws Silver, Saboteur, Bazaar, Silver, Saboteur
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 1 Silver
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Catacombs, Warehouse, Warehouse, Gold
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- manzi: turn 22 ----------
+manzi - plays Bazaar
+manzi - draws Saboteur
+manzi - plays Saboteur
+Stef - reveals Chapel, Silver
+Stef - trashes Silver
+Stef - discards Chapel
+manzi - plays Saboteur
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Gold
+manzi - plays 2 Silver
+manzi - buys Bazaar
+manzi - gains Bazaar
+manzi - shuffles deck
+manzi - draws Chapel, Warehouse, Saboteur, Saboteur, Bazaar
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Warehouse
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Chapel, Gold
+Stef - discards Province
+Stef - discards Warehouse
+Stef - discards Chapel
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Catacombs, Silver, Warehouse, Chapel, Gold
+ 
+---------- manzi: turn 23 ----------
+manzi - plays Bazaar
+manzi - draws Gold
+manzi - plays Warehouse
+manzi - draws Copper, Silver, Bazaar
+manzi - discards Chapel
+manzi - discards Bazaar
+manzi - discards Copper
+manzi - plays Saboteur
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Gold
+manzi - plays Saboteur
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Gold
+manzi - plays 1 Gold, 1 Silver
+manzi - buys Duchy
+manzi - gains Duchy
+manzi - draws Bazaar, Saboteur, Gold, Silver, Gold
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Warehouse
+Stef - draws Gold, Warehouse
+Stef - shuffles deck
+Stef - draws Gold
+Stef - discards Chapel
+Stef - discards Warehouse
+Stef - discards Catacombs
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Warehouse, Gold, Province, Warehouse
+ 
+------------ Game Over ------------
+Stef - cards: 2 Warehouse, 1 Island, 1 Catacombs, 1 Chapel, 4 Gold, 1 Silver, 2 Province
+Stef - total victory points: 14
+Stef - turns: 23
+ 
+manzi - cards: 4 Saboteur, 3 Bazaar, 1 Chapel, 1 Warehouse, 3 Gold, 3 Silver, 1 Copper, 1 Duchy
+manzi - total victory points: 3
+manzi - turns: 23
+ 
+1st place: Stef
+2nd place: manzi
+ 

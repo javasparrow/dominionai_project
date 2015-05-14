@@ -1,0 +1,762 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Fortune Teller, Alchemist, Bishop, Remodel, Scavenger, Scout, Jester, Treasury, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Hovel, Necropolis, Copper, Overgrown Estate, Copper
+Rabid - draws Overgrown Estate, Hovel, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 2 Copper
+Rabid - buys Crossroads
+Rabid - gains Crossroads
+Rabid - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 5 Copper
+Rabid - buys Jester
+Rabid - gains Jester
+Rabid - shuffles deck
+Rabid - draws Jester, Copper, Hovel, Copper, Crossroads
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Jester, Copper, Hovel
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+Rabid - plays 2 Copper
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Jester
+Rabid - reveals Copper
+Rabid - discards Copper
+Rabid - gains Copper
+Stef - plays 3 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Crossroads
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Hovel
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays 3 Copper
+Rabid - buys Fortune Teller
+Rabid - gains Fortune Teller
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Crossroads, Remodel, Jester, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Crossroads
+Rabid - reveals hand: Copper, Remodel, Jester, Copper
+Rabid - plays Jester
+Stef - reveals Necropolis
+Stef - discards Necropolis
+Rabid - plays Remodel
+Rabid - trashes Copper
+Rabid - gains Crossroads
+Rabid - plays 1 Copper
+Rabid - buys Fortune Teller
+Rabid - gains Fortune Teller
+Rabid - draws Overgrown Estate, Fortune Teller, Copper, Hovel, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Potion, Jester, Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Fortune Teller
+Stef - reveals Scavenger, Copper, Copper, Scavenger, Copper, Copper, Crossroads, Copper, Hovel, Necropolis, Overgrown Estate
+Stef - discards: Scavenger, Copper, Copper, Scavenger, Copper, Copper, Crossroads, Copper, Hovel, Necropolis
+Rabid - plays 2 Copper
+Rabid - buys Potion
+Rabid - gains Potion
+Rabid - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Jester
+Rabid - shuffles deck
+Rabid - reveals Potion
+Rabid - discards Potion
+Stef - gains Potion
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Overgrown Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Scavenger
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays 4 Copper
+Rabid - buys Scavenger
+Rabid - gains Scavenger
+Rabid - draws Fortune Teller, Jester, Copper, Hovel, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Potion on top of deck
+Stef - plays 3 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Silver, Copper, Copper
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Jester
+Stef - reveals Treasury
+Stef - discards Treasury
+Rabid - gains Treasury
+Rabid - plays 2 Copper
+Rabid - buys Potion
+Rabid - gains Potion
+Rabid - draws Overgrown Estate, Copper, Crossroads, Fortune Teller, Crossroads
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Copper, Alchemist, Hovel, Copper, Scavenger
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Crossroads
+Rabid - reveals hand: Overgrown Estate, Copper, Crossroads, Fortune Teller
+Rabid - draws Remodel
+Rabid - plays Crossroads
+Rabid - reveals hand: Remodel, Overgrown Estate, Copper, Fortune Teller
+Rabid - shuffles deck
+Rabid - draws Copper
+Rabid - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Necropolis, Copper, Scavenger, Copper, Jester, Copper, Copper, Crossroads, Potion, Alchemist, Copper, Silver, Copper, Treasury, Potion, Overgrown Estate
+Stef - discards: Necropolis, Copper, Scavenger, Copper, Jester, Copper, Copper, Crossroads, Potion, Alchemist, Copper, Silver, Copper, Treasury, Potion
+Rabid - plays Remodel
+Rabid - trashes Overgrown Estate
+Rabid - draws Copper
+Rabid - gains Silver
+Rabid - plays 3 Copper
+Rabid - buys Treasury
+Rabid - gains Treasury
+Rabid - draws Hovel, Treasury, Necropolis, Jester, Scavenger
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Alchemist
+Stef - draws Overgrown Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Potion on top of deck
+Stef - plays 3 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Copper, Alchemist, Crossroads, Treasury
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Necropolis
+Rabid - plays Scavenger
+Rabid - moves deck to discards
+Rabid - places Silver on top of deck
+Rabid - plays Treasury
+Rabid - draws Silver
+Rabid - plays Jester
+Stef - reveals Hovel
+Stef - discards Hovel
+Rabid - plays 1 Silver
+Rabid - buys Forge
+Rabid - gains Forge
+Rabid - places Treasury on top of deck
+Rabid - draws Treasury
+Rabid - shuffles deck
+Rabid - draws Necropolis, Treasury, Potion, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Overgrown Estate
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Crossroads
+Stef - reveals hand: Potion, Copper, Copper, Overgrown Estate, Copper
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Alchemist, Scavenger, Silver, Copper
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Treasury
+Rabid - draws Scavenger
+Rabid - plays Necropolis
+Rabid - plays Scavenger
+Rabid - moves deck to discards
+Rabid - places Jester on top of deck
+Rabid - plays Treasury
+Rabid - draws Jester
+Rabid - plays Jester
+Stef - reveals Potion
+Stef - discards Potion
+Rabid - gains Potion
+Rabid - plays 1 Potion, 1 Copper
+Rabid - buys Alchemist
+Rabid - gains Alchemist
+Rabid - places Treasury, Treasury on top of deck
+Rabid - draws Treasury, Treasury
+Rabid - shuffles deck
+Rabid - draws Necropolis, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Alchemist
+Stef - draws Scavenger, Jester
+Stef - plays Treasury
+Stef - draws Alchemist
+Stef - plays Alchemist
+Stef - draws Necropolis, Copper
+Stef - plays Necropolis
+Stef - plays Jester
+Rabid - reveals Copper
+Rabid - discards Copper
+Rabid - gains Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Potion on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Forge
+Stef - gains Forge
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Potion
+Stef - shuffles deck
+Stef - draws Copper, Crossroads
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Treasury
+Rabid - draws Potion
+Rabid - plays Treasury
+Rabid - draws Crossroads
+Rabid - plays 2 Copper, 1 Potion
+Rabid - buys Alchemist
+Rabid - gains Alchemist
+Rabid - places Treasury, Treasury on top of deck
+Rabid - draws Treasury, Treasury, Alchemist, Jester, Forge
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - draws Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Alchemist on top of deck
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Alchemist
+Stef - shuffles deck
+Stef - draws Potion, Copper
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Alchemist
+Rabid - draws Potion, Copper
+Rabid - plays Treasury
+Rabid - draws Potion
+Rabid - plays Treasury
+Rabid - draws Remodel
+Rabid - plays Forge
+Rabid - trashes Remodel, Potion
+Rabid - gains Province
+Rabid - plays 1 Potion, 1 Copper
+Rabid - buys Alchemist
+Rabid - gains Alchemist
+Rabid - places Alchemist on top of deck
+Rabid - places Treasury, Treasury on top of deck
+Rabid - draws Treasury, Treasury, Alchemist, Scavenger, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Forge, Hovel
+Stef - plays Treasury
+Stef - draws Alchemist
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Alchemist, Crossroads
+Stef - plays Alchemist
+Stef - draws Silver, Copper
+Stef - plays Treasury
+Stef - draws Overgrown Estate
+Stef - plays Crossroads
+Stef - reveals hand: Potion, Copper, Forge, Hovel, Copper, Silver, Copper, Overgrown Estate
+Stef - draws Copper
+Stef - plays Forge
+Stef - trashes Overgrown Estate, Copper, Copper, Hovel, Copper, Copper
+Stef - draws Scavenger
+Stef - gains Crossroads
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Necropolis on top of deck
+Stef - plays 1 Potion, 1 Silver
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - places Treasury on top of deck
+Stef - discards Treasury
+Stef - draws Treasury, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Treasury
+Rabid - draws Silver
+Rabid - plays Alchemist
+Rabid - draws Crossroads, Hovel
+Rabid - plays Crossroads
+Rabid - reveals hand: Treasury, Scavenger, Copper, Silver, Hovel
+Rabid - plays Scavenger
+Rabid - moves deck to discards
+Rabid - places Jester on top of deck
+Rabid - plays Treasury
+Rabid - draws Jester
+Rabid - plays Jester
+Stef - reveals Necropolis
+Stef - discards Necropolis
+Rabid - plays 1 Copper, 1 Silver
+Rabid - buys Province
+Rabid - trashes Hovel
+Rabid - gains Province
+Rabid - shuffles deck
+Rabid - draws Alchemist, Treasury, Treasury, Forge, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Copper, Forge
+Stef - plays Alchemist
+Stef - draws Scavenger, Treasury
+Stef - plays Alchemist
+Stef - draws Jester, Copper
+Stef - plays Alchemist
+Stef - draws Crossroads, Necropolis
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Forge, Scavenger, Treasury, Jester, Copper, Necropolis, Silver
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Potion on top of deck
+Stef - plays Treasury
+Stef - draws Potion
+Stef - plays Jester
+Rabid - reveals Fortune Teller
+Rabid - discards Fortune Teller
+Stef - gains Fortune Teller
+Stef - plays Forge
+Stef - trashes Silver, Necropolis, Copper, Copper
+Stef - gains Bishop
+Stef - plays 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - discards Treasury
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Alchemist
+Rabid - draws Copper, Scavenger
+Rabid - plays Treasury
+Rabid - draws Alchemist
+Rabid - plays Alchemist
+Rabid - draws Potion, Silver
+Rabid - plays Treasury
+Rabid - draws Crossroads
+Rabid - plays Crossroads
+Rabid - reveals hand: Forge, Copper, Copper, Scavenger, Potion, Silver
+Rabid - plays Scavenger
+Rabid - moves deck to discards
+Rabid - places Alchemist on top of deck
+Rabid - plays Forge
+Rabid - trashes Copper, Copper, Silver
+Rabid - gains Silver
+Rabid - plays Potion
+Rabid - buys Alchemist
+Rabid - gains Alchemist
+Rabid - places Alchemist, Alchemist on top of deck
+Rabid - places Treasury, Treasury on top of deck
+Rabid - draws Treasury, Treasury, Alchemist, Alchemist, Alchemist
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Jester, Potion
+Stef - plays Alchemist
+Stef - draws Bishop, Alchemist
+Stef - plays Alchemist
+Stef - draws Scavenger, Copper
+Stef - plays Alchemist
+Stef - draws Treasury, Scavenger
+Stef - plays Alchemist
+Stef - draws Crossroads, Crossroads
+Stef - plays Treasury
+Stef - draws Fortune Teller
+Stef - plays Crossroads
+Stef - reveals hand: Treasury, Jester, Potion, Bishop, Scavenger, Copper, Scavenger, Crossroads, Fortune Teller
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Alchemist on top of deck
+Stef - plays Treasury
+Stef - draws Alchemist
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Potion, Copper
+Stef - plays Jester
+Rabid - shuffles deck
+Rabid - reveals Crossroads
+Rabid - discards Crossroads
+Rabid - gains Crossroads
+Stef - plays Bishop
+Stef - trashes Potion
+Stef - receives 2 victory point chips
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Alchemist
+Rabid - draws Copper, Province
+Rabid - plays Alchemist
+Rabid - draws Alchemist, Fortune Teller
+Rabid - plays Alchemist
+Rabid - draws Copper, Copper
+Rabid - plays Alchemist
+Rabid - draws Copper, Copper
+Rabid - plays Treasury
+Rabid - draws Province
+Rabid - plays Treasury
+Rabid - draws Potion
+Rabid - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Alchemist, Forge, Jester, Crossroads, Copper, Scavenger, Fortune Teller, Treasury, Bishop, Copper, Treasury, Scavenger, Province
+Stef - discards: Alchemist, Forge, Jester, Crossroads, Copper, Scavenger, Fortune Teller, Treasury, Bishop, Copper, Treasury, Scavenger
+Rabid - plays 5 Copper, 1 Potion
+Rabid - buys Province
+Rabid - gains Province
+Rabid - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Rabid - draws Alchemist, Alchemist, Alchemist, Alchemist, Forge
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Alchemist
+Stef - draws Province, Potion
+Stef - plays Alchemist
+Stef - draws Crossroads
+Stef - shuffles deck
+Stef - draws Treasury
+Stef - plays Alchemist
+Stef - draws Alchemist, Forge
+Stef - plays Alchemist
+Stef - draws Bishop, Scavenger
+Stef - plays Alchemist
+Stef - draws Scavenger, Copper
+Stef - plays Crossroads
+Stef - reveals hand: Province, Potion, Treasury, Alchemist, Forge, Bishop, Scavenger, Scavenger, Copper
+Stef - draws Treasury
+Stef - plays Alchemist
+Stef - draws Copper, Crossroads
+Stef - plays Treasury
+Stef - draws Fortune Teller
+Stef - plays Treasury
+Stef - draws Jester
+Stef - plays Fortune Teller
+Rabid - shuffles deck
+Rabid - reveals Potion, Scavenger, Fortune Teller, Necropolis, Jester, Silver, Copper, Crossroads, Province
+Rabid - discards: Potion, Scavenger, Fortune Teller, Necropolis, Jester, Silver, Copper, Crossroads
+Stef - plays Jester
+Rabid - reveals Province
+Rabid - discards Province
+Rabid - gains Curse
+Stef - plays Bishop
+Stef - trashes Scavenger
+Stef - receives 2 victory point chips
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Alchemist
+Rabid - draws Potion, Treasury
+Rabid - plays Alchemist
+Rabid - draws Fortune Teller, Copper
+Rabid - plays Alchemist
+Rabid - draws Copper, Province
+Rabid - plays Alchemist
+Rabid - draws Crossroads, Copper
+Rabid - plays Treasury
+Rabid - draws Treasury
+Rabid - plays Treasury
+Rabid - draws Copper
+Rabid - plays Crossroads
+Rabid - reveals hand: Forge, Potion, Fortune Teller, Copper, Copper, Province, Copper, Copper
+Rabid - draws Crossroads
+Rabid - plays Crossroads
+Rabid - reveals hand: Forge, Potion, Fortune Teller, Copper, Copper, Province, Copper, Copper
+Rabid - draws Copper
+Rabid - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Alchemist, Crossroads, Jester, Treasury, Province
+Stef - discards: Alchemist, Crossroads, Jester, Treasury
+Rabid - plays Forge
+Rabid - trashes Potion, Copper, Copper, Copper, Copper
+Rabid - gains Remodel
+Rabid - plays 1 Copper
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Province
+Rabid - shuffles deck
+Rabid - draws Province, Alchemist, Scavenger, Alchemist
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Alchemist
+Stef - draws Province, Copper
+Stef - plays Alchemist
+Stef - draws Province, Treasury
+Stef - plays Alchemist
+Stef - draws Fortune Teller, Forge
+Stef - plays Alchemist
+Stef - draws Potion, Crossroads
+Stef - plays Alchemist
+Stef - draws Bishop, Scavenger
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Crossroads
+Stef - reveals hand: Province, Copper, Province, Fortune Teller, Forge, Potion, Bishop, Scavenger, Copper
+Stef - shuffles deck
+Stef - draws Alchemist, Jester
+Stef - plays Alchemist
+Stef - draws Crossroads, Treasury
+Stef - plays Fortune Teller
+Rabid - reveals Fortune Teller, Silver, Copper, Crossroads, Treasury, Curse
+Rabid - discards: Fortune Teller, Silver, Copper, Crossroads, Treasury
+Stef - plays Jester
+Rabid - reveals Curse
+Rabid - discards Curse
+Rabid - gains Curse
+Stef - plays Bishop
+Stef - trashes Scavenger
+Stef - receives 2 victory point chips
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - discards Treasury
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Alchemist
+Rabid - draws Crossroads, Necropolis
+Rabid - plays Alchemist
+Rabid - draws Duchy, Potion
+Rabid - plays Necropolis
+Rabid - plays Scavenger
+Rabid - moves deck to discards
+Rabid - places Crossroads on top of deck
+Rabid - plays Crossroads
+Rabid - reveals hand: Province, Province, Duchy, Potion
+Rabid - draws Crossroads
+Rabid - shuffles deck
+Rabid - draws Copper, Forge
+Rabid - plays Crossroads
+Rabid - reveals hand: Copper, Forge, Province, Province, Duchy, Potion
+Rabid - draws Copper, Alchemist, Remodel
+Rabid - plays Alchemist
+Rabid - draws Crossroads, Silver
+Rabid - plays Crossroads
+Rabid - reveals hand: Copper, Remodel, Copper, Forge, Province, Province, Duchy, Potion, Silver
+Rabid - draws Fortune Teller, Province, Treasury
+Rabid - plays Treasury
+Rabid - draws Fortune Teller
+Rabid - plays Remodel
+Rabid - trashes Fortune Teller
+Rabid - gains Duchy
+Rabid - plays 2 Copper, 1 Potion, 1 Silver
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - places Alchemist, Alchemist, Alchemist on top of deck
+Rabid - draws Alchemist, Alchemist, Alchemist, Curse, Jester
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Alchemist
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Crossroads
+Stef - plays Alchemist
+Stef - draws Treasury, Jester
+Stef - plays Alchemist
+Stef - draws Forge, Copper
+Stef - plays Alchemist
+Stef - draws Remodel, Fortune Teller
+Stef - plays Alchemist
+Stef - draws Province, Copper
+Stef - plays Alchemist
+Stef - draws Potion, Province
+Stef - plays Treasury
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Jester, Forge, Copper, Remodel, Fortune Teller, Province, Copper, Potion, Province
+Stef - draws Treasury, Bishop
+Stef - plays Fortune Teller
+Rabid - reveals Treasury, Alchemist, Curse
+Rabid - discards: Treasury, Alchemist
+Stef - plays Jester
+Rabid - reveals Curse
+Rabid - discards Curse
+Rabid - gains Curse
+Stef - plays Treasury
+Stef - plays Bishop
+Stef - trashes Crossroads
+Stef - receives 1 victory point chips
+Rabid - trashes Curse
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Gold
+Stef - gains Gold
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - discards Treasury
+Stef - discards Treasury
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Alchemist
+Rabid - shuffles deck
+Rabid - draws Duchy, Province
+Rabid - plays Alchemist
+Rabid - draws Forge, Duchy
+Rabid - plays Alchemist
+Rabid - draws Province, Copper
+Rabid - plays Forge
+Rabid - trashes Copper, Jester
+Rabid - gains Duchy
+Rabid - draws Silver, Treasury, Fortune Teller, Crossroads, Treasury
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Alchemist
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Alchemist
+Stef - draws Forge, Bishop
+Stef - plays Alchemist
+Stef - draws Jester, Gold
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - draws Treasury, Fortune Teller
+Stef - plays Alchemist
+Stef - draws Province, Treasury
+Stef - plays Treasury
+Stef - draws Remodel
+Stef - plays Treasury
+Stef - draws Province
+Stef - plays Bishop
+Stef - trashes Fortune Teller
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper, 1 Potion, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - discards Treasury
+Stef - discards Treasury
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Treasury
+Rabid - draws Scavenger
+Rabid - plays Treasury
+Rabid - draws Copper
+Rabid - plays Crossroads
+Rabid - reveals hand: Silver, Fortune Teller, Scavenger, Copper
+Rabid - plays Scavenger
+Rabid - places Alchemist on top of deck
+Rabid - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Alchemist, Crossroads, Treasury, Treasury, Jester, Province
+Stef - discards: Alchemist, Crossroads, Treasury, Treasury, Jester
+Rabid - plays Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Alchemist, Curse, Crossroads, Curse, Necropolis
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Alchemist
+Stef - draws Province, Gold
+Stef - plays Alchemist
+Stef - draws Potion, Remodel
+Stef - plays Alchemist
+Stef - draws Forge, Copper
+Stef - plays Alchemist
+Stef - draws Bishop, Gold
+Stef - plays Alchemist
+Stef - draws Province, Copper
+Stef - plays Remodel
+Stef - trashes Forge
+Stef - gains Province
+Stef - plays 2 Gold, 2 Copper, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+------------ Game Over ------------
+Stef - cards: 6 Alchemist, 2 Treasury, 1 Crossroads, 1 Jester, 1 Remodel, 1 Bishop, 2 Gold, 2 Copper, 1 Potion, 4 Province
+Stef - victory point chips: 13
+Stef - total victory points: 37
+Stef - turns: 21
+ 
+Rabid - cards: 4 Alchemist, 3 Crossroads, 2 Treasury, 1 Scavenger, 1 Necropolis, 1 Forge, 1 Remodel, 1 Fortune Teller, 1 Silver, 1 Copper, 1 Potion, 4 Duchy, 4 Province, 2 Curse
+Rabid - victory point chips: 0
+Rabid - total victory points: 34
+Rabid - turns: 20
+ 
+1st place: Stef
+2nd place: Rabid
+ 

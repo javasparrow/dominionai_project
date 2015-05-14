@@ -1,0 +1,577 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Fool's Gold, Oasis, Catacombs, Council Room, Market, Tactician, Wharf, Grand Market, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SM.SM - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Fool's Gold
+SM.SM - gains Fool's Gold
+SM.SM - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Copper, Copper, Oasis
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Fool's Gold
+SM.SM - gains Fool's Gold
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Copper, Fool's Gold
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays 3 Copper
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 4 Copper, 1 Fool's Gold
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Estate, Fool's Gold, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 1 Fool's Gold, 1 Copper
+SM.SM - buys Fool's Gold
+SM.SM - gains Fool's Gold
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Fool's Gold, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Oasis, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 4 Copper, 1 Fool's Gold
+SM.SM - buys Market
+SM.SM - gains Market
+SM.SM - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Cellar
+Stef - discards Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Tactician
+Stef - plays Tactician
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Oasis, Oasis, Estate
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Wharf, Fool's Gold, Estate, Fool's Gold
+SM.SM - shuffles deck
+SM.SM - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Tactician
+Stef - draws Copper, Copper, Copper, Estate, Copper
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 7 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Cellar
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Tactician, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Wharf
+SM.SM - draws Copper, Market
+SM.SM - plays 2 Fool's Gold, 2 Copper
+SM.SM - buys Cellar
+SM.SM - gains Cellar
+SM.SM - buys Tactician
+SM.SM - gains Tactician
+SM.SM - draws Estate, Copper, Copper, Copper, Fool's Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Oasis, Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Tactician
+Stef - discards Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Tactician, Copper, Copper, Oasis, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - duration Wharf
+SM.SM - draws Estate, Oasis
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Estate
+SM.SM - plays 4 Copper, 1 Fool's Gold
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Oasis, Estate, Wharf, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Tactician
+Stef - draws Estate, Market, Copper
+Stef - shuffles deck
+Stef - draws Copper, Oasis
+Stef - plays Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 6 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - draws Cellar, Cellar, Copper
+Stef - shuffles deck
+Stef - draws Market, Tactician
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Oasis
+SM.SM - draws Tactician
+SM.SM - discards Estate
+SM.SM - plays Tactician
+SM.SM - discards: Copper, Wharf, Copper
+SM.SM - draws Market, Oasis, Copper, Copper, Fool's Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Cellar
+Stef - draws Oasis, Estate, Market
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Tactician
+Stef - discards Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Tactician, Copper, Estate, Market, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Tactician
+SM.SM - draws Estate, Oasis, Copper, Copper, Cellar
+SM.SM - plays Market
+SM.SM - draws Fool's Gold
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Estate
+SM.SM - plays Cellar
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - draws Estate, Fool's Gold
+SM.SM - shuffles deck
+SM.SM - draws Estate, Oasis, Wharf
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Estate
+SM.SM - plays Oasis
+SM.SM - draws Estate
+SM.SM - discards Estate
+SM.SM - plays Wharf
+SM.SM - draws Copper, Copper
+SM.SM - plays 3 Fool's Gold
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - draws Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Grand Market
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Tactician
+Stef - draws Estate, Copper, Oasis
+Stef - shuffles deck
+Stef - draws Copper, Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Estate
+Stef - plays Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Copper, Copper, Copper, Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Oasis, Cellar, Cellar, Copper
+Stef - shuffles deck
+Stef - draws Market
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Wharf
+SM.SM - draws Estate, Oasis
+SM.SM - plays Grand Market
+SM.SM - draws Fool's Gold
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Estate
+SM.SM - plays Oasis
+SM.SM - draws Tactician
+SM.SM - discards Copper
+SM.SM - plays Tactician
+SM.SM - discards: Copper, Copper, Copper, Fool's Gold
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Fool's Gold, Grand Market, Copper, Estate, Market
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Estate, Copper, Estate, Estate, Oasis
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Oasis, Grand Market, Copper
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Tactician
+Stef - discards: Cellar, Copper, Copper, Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Grand Market, Market, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - duration Tactician
+SM.SM - draws Copper, Cellar, Copper, Estate, Fool's Gold
+SM.SM - plays Grand Market
+SM.SM - draws Oasis
+SM.SM - plays Market
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - plays Oasis
+SM.SM - draws Wharf
+SM.SM - discards Estate
+SM.SM - plays Cellar
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - draws Grand Market, Estate, Oasis, Copper, Copper
+SM.SM - plays Grand Market
+SM.SM - draws Oasis
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Estate
+SM.SM - plays Oasis
+SM.SM - draws Fool's Gold
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Wharf
+SM.SM - shuffles deck
+SM.SM - draws Estate, Estate
+SM.SM - plays Fool's Gold
+SM.SM - plays Fool's Gold
+SM.SM - plays Fool's Gold
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Tactician
+Stef - draws Copper, Copper, Tactician, Cellar, Cellar
+Stef - plays Grand Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Estate, Oasis, Oasis
+Stef - plays Oasis
+Stef - draws Grand Market
+Stef - discards Estate
+Stef - plays Grand Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Tactician
+Stef - discards: Copper, Cellar, Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Estate, Oasis, Market, Grand Market, Market
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - duration Wharf
+SM.SM - draws Copper, Copper
+SM.SM - plays 6 Copper
+SM.SM - buys Tactician
+SM.SM - gains Tactician
+SM.SM - shuffles deck
+SM.SM - draws Wharf, Copper, Tactician, Fool's Gold, Grand Market
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Tactician
+Stef - draws Copper, Market, Cellar, Copper, Oasis
+Stef - plays Grand Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Oasis
+Stef - plays Market
+Stef - draws Cellar
+Stef - plays Oasis
+Stef - draws Grand Market
+Stef - discards Estate
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Oasis, Grand Market, Estate, Oasis
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Tactician
+Stef - discards Cellar
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Estate, Cellar, Copper, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Grand Market
+SM.SM - draws Copper
+SM.SM - plays Tactician
+SM.SM - discards: Wharf, Copper, Fool's Gold, Copper
+SM.SM - buys Cellar
+SM.SM - gains Cellar
+SM.SM - draws Oasis, Grand Market, Estate, Fool's Gold, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Tactician
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Oasis
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Oasis, Market, Oasis, Oasis, Grand Market, Oasis, Copper, Copper
+Stef - plays Grand Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Grand Market
+Stef - plays Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Tactician
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Tactician
+Stef - plays Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Cellar
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Cellar
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays 3 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Tactician, Copper, Estate
+Stef - shuffles deck
+Stef - draws Oasis
+ 
+------------ Game Over ------------
+Stef - cards: 6 Oasis, 5 Grand Market, 4 Market, 2 Tactician, 2 Cellar, 7 Copper, 11 Estate, 1 Duchy
+Stef - total victory points: 14
+Stef - turns: 15
+ 
+SM.SM - cards: 5 Grand Market, 4 Oasis, 2 Cellar, 2 Tactician, 1 Wharf, 1 Market, 7 Copper, 3 Fool's Gold, 3 Estate
+SM.SM - total victory points: 3
+SM.SM - turns: 14
+ 
+1st place: Stef
+2nd place: SM.SM
+ 

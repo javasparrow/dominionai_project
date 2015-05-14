@@ -1,0 +1,507 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, Alchemist, Advisor, Procession, Duke, Graverobber, Highway, Mountebank, Outpost, Stables, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Pinot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinot - shuffles deck
+Stef - shuffles deck
+Pinot - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pinot: turn 1 ----------
+Pinot - plays 4 Copper
+Pinot - buys Potion
+Pinot - gains Potion
+Pinot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Potion, Copper, Estate, Copper, Silver
+ 
+---------- Pinot: turn 2 ----------
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - shuffles deck
+Pinot - draws Copper, Potion, Silver, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pinot: turn 3 ----------
+Pinot - plays 2 Copper, 1 Potion, 1 Silver
+Pinot - buys Apothecary
+Pinot - gains Apothecary
+Pinot - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Advisor
+ 
+---------- Pinot: turn 4 ----------
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Copper
+Pinot - shuffles deck
+Pinot - draws Estate, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Advisor
+Stef - reveals: Apothecary, Potion, Copper
+Pinot - discards Potion
+Stef - places cards in hand:  Apothecary, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Copper, Silver, Copper
+Stef - places Estate on top of deck
+Stef - places Silver on top of deck
+Stef - plays 6 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Silver, Estate, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- Pinot: turn 5 ----------
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Mountebank
+Pinot - gains Mountebank
+Pinot - draws Copper, Potion, Apothecary, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Procession
+Stef - gains Procession
+Stef - draws Mountebank, Copper, Estate, Copper, Copper
+ 
+---------- Pinot: turn 6 ----------
+Pinot - plays Apothecary
+Pinot - draws Copper
+Pinot - reveals: Copper, Silver, Copper
+Pinot - shuffles deck
+Pinot - reveals: Copper
+Pinot - places Silver on top of deck
+Pinot - plays 5 Copper, 1 Potion
+Pinot - buys Mountebank
+Pinot - gains Mountebank
+Pinot - draws Silver, Silver, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - plays 3 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Advisor, Apothecary, Copper, Potion
+ 
+---------- Pinot: turn 7 ----------
+Pinot - plays 2 Silver, 2 Copper
+Pinot - buys Stables
+Pinot - gains Stables
+Pinot - draws Mountebank
+Pinot - shuffles deck
+Pinot - draws Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Copper, Silver, Copper
+Pinot - discards Silver
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Estate, Copper, Estate, Mountebank
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Mountebank on top of deck
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Mountebank, Estate, Estate, Copper, Procession
+ 
+---------- Pinot: turn 8 ----------
+Pinot - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Pinot - plays 4 Copper
+Pinot - buys Stables
+Pinot - gains Stables
+Pinot - draws Curse, Copper, Estate, Mountebank, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Procession
+Stef - plays Mountebank
+Pinot - discards Curse
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - trashes Mountebank
+Stef - plays Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Mountebank
+Stef - shuffles deck
+Stef - draws Mountebank, Curse, Estate
+ 
+---------- Pinot: turn 9 ----------
+Pinot - plays Mountebank
+Stef - discards Curse
+Pinot - plays 1 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Apothecary, Estate, Copper, Potion, Stables
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - plays Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Potion, Estate, Silver, Apothecary, Copper
+ 
+---------- Pinot: turn 10 ----------
+Pinot - plays Apothecary
+Pinot - draws Copper
+Pinot - reveals: Silver, Copper, Silver
+Pinot - shuffles deck
+Pinot - reveals: Copper
+Pinot - places Silver on top of deck
+Pinot - places Silver on top of deck
+Pinot - plays Stables
+Pinot - discards Copper
+Pinot - draws Silver, Silver, Copper
+Pinot - plays 4 Copper, 2 Silver, 1 Potion
+Pinot - buys Gold
+Pinot - gains Gold
+Pinot - draws Mountebank, Curse, Curse, Mountebank, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Estate, Advisor, Procession
+Stef - places Estate on top of deck
+Stef - places Advisor on top of deck
+Stef - places Procession on top of deck
+Stef - plays 3 Copper, 1 Potion, 1 Silver
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Procession, Advisor, Estate, Copper, Copper
+ 
+---------- Pinot: turn 11 ----------
+Pinot - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Pinot - plays 1 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Curse, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Procession
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Alchemist
+Pinot - discards Alchemist
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Alchemist, Estate, Apothecary
+Pinot - discards Apothecary
+Stef - places cards in hand:  Alchemist, Estate
+Stef - trashes Advisor
+Stef - gains Stables
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays 6 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Estate, Alchemist, Silver, Potion, Copper
+ 
+---------- Pinot: turn 12 ----------
+Pinot - plays 4 Copper
+Pinot - buys Advisor
+Pinot - gains Advisor
+Pinot - draws Estate, Stables, Silver, Estate
+Pinot - shuffles deck
+Pinot - draws Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Curse, Copper
+Stef - plays 2 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Copper, Silver, Curse, Mountebank
+ 
+---------- Pinot: turn 13 ----------
+Pinot - plays Stables
+Pinot - discards Copper
+Pinot - draws Mountebank, Copper, Stables
+Pinot - plays Stables
+Pinot - discards Copper
+Pinot - draws Silver, Mountebank, Curse
+Pinot - plays Mountebank
+Stef - discards Curse
+Pinot - plays 2 Silver
+Pinot - buys Stables
+Pinot - gains Stables
+Pinot - draws Curse, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Mountebank
+Pinot - discards Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Mountebank
+Stef - shuffles deck
+Stef - draws Mountebank, Copper, Copper, Copper
+ 
+---------- Pinot: turn 14 ----------
+Pinot - plays 4 Copper
+Pinot - buys Procession
+Pinot - gains Procession
+Pinot - draws Silver, Copper, Silver, Potion, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Stables, Copper, Silver, Estate
+ 
+---------- Pinot: turn 15 ----------
+Pinot - plays 2 Silver, 2 Copper, 1 Potion
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Gold, Apothecary, Estate, Copper, Advisor
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Stables, Procession
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Potion, Estate, Alchemist
+Stef - plays Alchemist
+Stef - draws Curse, Copper
+Stef - plays Procession
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Alchemist, Alchemist
+Stef - trashes Stables
+Stef - plays Alchemist
+Stef - draws Silver, Copper
+Stef - plays Alchemist
+Stef - draws Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper, Silver
+Stef - places Silver on top of deck
+Stef - plays 8 Copper, 1 Potion, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Silver, Copper
+ 
+---------- Pinot: turn 16 ----------
+Pinot - plays Apothecary
+Pinot - draws Copper
+Pinot - reveals: Curse
+Pinot - shuffles deck
+Pinot - reveals: Curse, Silver, Copper
+Pinot - places Silver on top of deck
+Pinot - places Curse on top of deck
+Pinot - places Curse on top of deck
+Pinot - plays Advisor
+Pinot - reveals: Curse, Curse, Silver
+Stef - discards Silver
+Pinot - places cards in hand:  Curse, Curse
+Pinot - plays 3 Copper, 1 Gold
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Estate, Silver, Silver, Copper, Potion
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Alchemist
+Stef - draws Mountebank, Duchy
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Mountebank
+Stef - shuffles deck
+Stef - draws Silver, Copper, Mountebank, Procession
+ 
+---------- Pinot: turn 17 ----------
+Pinot - plays 2 Silver, 1 Copper, 1 Potion
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Mountebank, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Procession
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - plays Mountebank
+Pinot - gains Curse
+Pinot - gains Copper
+Stef - trashes Mountebank
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Alchemist, Copper, Apothecary, Copper
+ 
+---------- Pinot: turn 18 ----------
+Pinot - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Curse, Curse, Stables, Stables, Mountebank
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Alchemist, Duchy, Copper, Potion
+Stef - places Duchy on top of deck
+Stef - places Alchemist on top of deck
+Stef - plays Alchemist
+Stef - draws Alchemist, Duchy
+Stef - plays Alchemist
+Stef - draws Estate, Silver
+Stef - plays 5 Copper, 1 Potion, 1 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Stables, Alchemist, Curse
+ 
+---------- Pinot: turn 19 ----------
+Pinot - plays Mountebank
+Stef - discards Curse
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Estate, Copper, Stables, Duchy, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Alchemist
+Stef - draws Duchy, Copper
+Stef - plays Alchemist
+Stef - draws Copper, Curse
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Stables, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Duchy
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Alchemist
+Stef - draws Copper, Potion
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Copper, Procession
+ 
+---------- Pinot: turn 20 ----------
+Pinot - plays Stables
+Pinot - discards Copper
+Pinot - draws Procession, Copper, Copper
+Pinot - plays 3 Copper
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - shuffles deck
+Pinot - draws Silver, Potion, Stables, Copper, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Alchemist
+Stef - draws Silver, Duke
+Stef - plays Alchemist
+Stef - draws Mountebank, Copper
+Stef - plays Alchemist
+Stef - draws Apothecary, Copper
+Stef - plays Procession
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Curse, Copper, Estate, Curse
+Stef - places Curse on top of deck
+Stef - places Curse on top of deck
+Stef - places Estate on top of deck
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Curse, Curse, Silver, Copper
+Stef - places Curse on top of deck
+Stef - places Curse on top of deck
+Stef - places Silver on top of deck
+Stef - trashes Apothecary
+Stef - gains Alchemist
+Stef - plays Mountebank
+Pinot - discards Curse
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Curse, Curse, Copper, Copper
+ 
+---------- Pinot: turn 21 ----------
+Pinot - plays Stables
+Pinot - discards Potion
+Pinot - draws Copper, Estate, Curse
+Pinot - plays 2 Copper, 1 Silver
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Duchy, Copper, Duchy, Mountebank, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy
+Stef - shuffles deck
+Stef - draws Curse, Duchy, Copper, Estate
+ 
+---------- Pinot: turn 22 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 4 Alchemist, 2 Stables, 10 Copper, 1 Procession, 1 Apothecary, 1 Mountebank, 2 Silver, 1 Potion, 4 Duchy, 4 Estate, 1 Province, 1 Duke, 3 Curse
+Stef - total victory points: 23
+Stef - turns: 22
+ 
+Pinot - resigned
+Pinot - cards: 3 Stables, 2 Mountebank, 14 Copper, 1 Advisor, 1 Procession, 1 Apothecary, 4 Silver, 1 Potion, 1 Gold, 6 Estate, 4 Duchy, 7 Curse
+Pinot - total victory points: 11
+Pinot - turns: 21
+ 
+1st place: Stef
+2nd place: Pinot
+ 

@@ -1,0 +1,518 @@
+------------ Game Setup ------------
+Supply cards: Develop, Sage, Woodcutter, Cutpurse, Scavenger, Band of Misfits, Bazaar, Cultist, Haggler, Margrave, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Monsieur X - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+Monsieur X - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Cutpurse
+Monsieur X - gains Cutpurse
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Cutpurse, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - shuffles deck
+Stef - draws Copper, Scavenger, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Cutpurse
+Stef - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Cultist
+Monsieur X - gains Cultist
+Monsieur X - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Silver on top of deck
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Scavenger
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Cultist
+Monsieur X - gains Cultist
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Silver on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Sage
+Monsieur X - gains Sage
+Monsieur X - draws Copper, Cultist, Estate, Copper, Cutpurse
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Cultist, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Silver, Cultist
+Stef - gains Ruined Market
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Copper
+Stef - gains Abandoned Mine
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Cultist
+Monsieur X - gains Cultist
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Sage, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cultist
+Stef - draws Copper, Scavenger
+Monsieur X - gains Ruined Market
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Copper, Copper, Silver
+Monsieur X - places Silver in hand
+Monsieur X - discards: Copper, Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Sage
+Monsieur X - gains Sage
+Monsieur X - draws Copper, Cultist, Estate, Copper, Cutpurse
+ 
+---------- Stef: turn 7 ----------
+Stef - draws Copper, Silver, Copper, Copper, Cultist
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Cultist, Copper
+Stef - gains Ruined Library
+Monsieur X - plays Cultist
+Monsieur X - draws Cultist
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Stef - gains Ruined Market
+Monsieur X - plays Cultist
+Monsieur X - draws Sage, Copper
+Stef - gains Survivors
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Cultist
+Monsieur X - gains Cultist
+Monsieur X - draws Copper, Copper, Sage, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cultist
+Stef - draws Silver, Copper
+Monsieur X - gains Ruined Market
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Cultist, Ruined Market, Silver, Scavenger, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Sage
+Monsieur X - shuffles deck
+Monsieur X - reveals Estate, Ruined Market, Cultist
+Monsieur X - places Cultist in hand
+Monsieur X - discards: Estate, Ruined Market
+Monsieur X - plays Cultist
+Monsieur X - draws Cultist, Estate
+Stef - gains Abandoned Mine
+Monsieur X - plays Cultist
+Monsieur X - draws Sage, Copper
+Stef - gains Ruined Village
+Monsieur X - plays 4 Copper
+Monsieur X - buys Sage
+Monsieur X - gains Sage
+Monsieur X - draws Silver, Copper, Copper, Cultist, Cultist
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cultist
+Stef - draws Abandoned Mine
+Stef - shuffles deck
+Stef - draws Copper
+Monsieur X - gains Survivors
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Ruined Library, Copper, Silver, Copper, Survivors
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Cutpurse
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Haggler
+Monsieur X - gains Haggler
+Monsieur X - draws Ruined Market
+Monsieur X - shuffles deck
+Monsieur X - draws Ruined Market, Cultist, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Estate, Abandoned Mine, Copper, Silver, Estate
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Sage, Sage
+Monsieur X - draws Estate, Copper, Cultist, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Ruined Market, Cultist, Ruined Village, Copper
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Survivors
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Estate, Cultist, Silver, Cutpurse
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Cultist
+Stef - draws Cultist
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Cultist
+Stef - draws Scavenger, Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Abandoned Mine, Cultist, Silver, Copper, Copper
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Cutpurse
+Stef - discards Copper
+Monsieur X - plays 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Haggler, Sage, Cultist
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cultist
+Stef - draws Copper, Survivors
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Cultist, Estate, Silver, Silver, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Cutpurse
+Monsieur X - places Cutpurse in hand
+Monsieur X - plays Haggler
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Bazaar
+Monsieur X - gains Silver
+Monsieur X - gains Bazaar
+Monsieur X - draws Copper, Copper, Cultist, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Cultist
+Stef - draws Ruined Market, Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Abandoned Mine, Copper, Copper, Ruined Library
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Cultist, Estate
+Monsieur X - plays Cultist
+Monsieur X - draws Silver, Silver
+Monsieur X - plays 4 Copper, 2 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Survivors, Estate, Estate, Ruined Market, Sage
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Survivors, Silver, Cultist, Copper, Abandoned Mine
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Sage
+Monsieur X - places Sage in hand
+Monsieur X - plays Sage
+Monsieur X - reveals Cultist
+Monsieur X - places Cultist in hand
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Copper
+Monsieur X - draws Ruined Market
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Bazaar, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Cultist
+Stef - draws Silver, Copper
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Cultist, Cultist, Ruined Market, Scavenger, Silver
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Bazaar
+Monsieur X - draws Sage
+Monsieur X - plays Sage
+Monsieur X - reveals Silver
+Monsieur X - places Silver in hand
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Silver, Copper, Sage, Estate, Cultist
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Cultist
+Stef - draws Copper, Silver
+Stef - plays Cultist
+Stef - draws Estate, Cultist
+Stef - plays Cultist
+Stef - draws Silver, Ruined Market
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Ruined Village, Estate, Cultist, Silver, Estate
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Copper, Cultist
+Monsieur X - places Cultist in hand
+Monsieur X - discards Copper
+Monsieur X - plays Cultist
+Monsieur X - draws Ruined Market, Province
+Monsieur X - plays Cultist
+Monsieur X - draws Cutpurse, Cultist
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Cultist
+Monsieur X - plays Cultist
+Monsieur X - draws Estate, Survivors
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Silver, Estate, Sage, Silver, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Cultist
+Stef - draws Cultist, Copper
+Stef - plays Cultist
+Stef - shuffles deck
+Stef - draws Cultist, Copper
+Stef - plays Cultist
+Stef - draws Cultist, Silver
+Stef - plays Cultist
+Stef - draws Gold, Copper
+Stef - plays 3 Copper, 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Ruined Market, Abandoned Mine, Copper, Ruined Library, Copper
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Haggler
+Monsieur X - places Haggler in hand
+Monsieur X - plays Haggler
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Bazaar
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Sage, Province, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Abandoned Mine
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Silver, Silver, Cultist
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Cultist
+Monsieur X - places Cultist in hand
+Monsieur X - plays Cultist
+Monsieur X - draws Copper, Bazaar
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Cutpurse, Gold, Bazaar, Estate, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Cultist
+Stef - draws Survivors, Ruined Market
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Scavenger, Abandoned Mine, Copper, Silver, Gold
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Bazaar
+Monsieur X - draws Estate
+Monsieur X - plays Cutpurse
+Stef - discards Copper
+Monsieur X - plays 1 Gold, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Ruined Market, Sage, Survivors, Ruined Market, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Gold on top of deck
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Silver, Silver, Scavenger, Province
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Haggler
+Monsieur X - places Haggler in hand
+Monsieur X - plays Survivors
+Monsieur X - looks at Silver, Gold
+Monsieur X - places Gold on top of deck
+Monsieur X - places Silver on top of deck
+Monsieur X - draws Silver, Gold, Silver, Copper, Silver
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Gold on top of deck
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Silver, Cultist
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays 3 Silver, 1 Gold, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Cultist, Silver, Copper, Silver, Cultist
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Cultist
+Stef - draws Cultist, Ruined Library
+Stef - plays Cultist
+Stef - draws Estate, Copper
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Ruined Market, Copper, Estate, Gold, Copper
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Cultist
+Monsieur X - draws Sage, Cultist
+Monsieur X - plays Cultist
+Monsieur X - shuffles deck
+Monsieur X - draws Ruined Market, Duchy
+Monsieur X - plays Cultist
+Monsieur X - draws Province, Cutpurse
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Sage, Ruined Market, Silver, Bazaar
+ 
+---------- Stef: turn 24 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Copper, Abandoned Mine, Abandoned Mine, Copper
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - plays Sage
+Monsieur X - reveals Province
+Monsieur X - places Province in hand
+Monsieur X - plays Bazaar
+Monsieur X - draws Silver
+Monsieur X - plays Ruined Market
+Monsieur X - plays 3 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold, Estate, Estate, Copper, Silver
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Abandoned Mine
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cultist, Silver, Copper, Copper, Silver
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays Gold
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold, Copper, Survivors, Copper, Copper
+ 
+---------- Stef: turn 26 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Scavenger, Estate, Survivors, Province, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 6 Cultist, 2 Ruined Market, 2 Abandoned Mine, 1 Scavenger, 1 Survivors, 1 Ruined Library, 1 Ruined Village, 8 Silver, 7 Copper, 2 Gold, 5 Duchy, 3 Estate, 3 Province
+Stef - total victory points: 36
+Stef - turns: 26
+ 
+Monsieur X - cards: 4 Cultist, 3 Sage, 2 Ruined Market, 2 Bazaar, 1 Survivors, 1 Cutpurse, 1 Haggler, 7 Copper, 6 Silver, 2 Gold, 5 Estate, 3 Duchy, 2 Province
+Monsieur X - total victory points: 26
+Monsieur X - turns: 26
+ 
+1st place: Stef
+2nd place: Monsieur X
+ 

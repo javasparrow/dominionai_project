@@ -1,0 +1,402 @@
+------------ Game Setup ------------
+Supply cards: Squire, Watchtower, Armory, Death Cart, Count, Mystic, Soothsayer, Wharf, Altar, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lotoreo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lotoreo - shuffles deck
+Stef - draws Copper, Copper, Copper, Necropolis, Copper
+Lotoreo - draws Overgrown Estate, Copper, Copper, Copper, Necropolis
+ 
+---------- Lotoreo: turn 1 ----------
+Lotoreo - plays Necropolis
+Lotoreo - plays 3 Copper
+Lotoreo - buys Watchtower
+Lotoreo - gains Watchtower
+Lotoreo - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Copper, Copper, Overgrown Estate, Hovel
+ 
+---------- Lotoreo: turn 2 ----------
+Lotoreo - plays 4 Copper
+Lotoreo - buys Armory
+Lotoreo - gains Armory
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Copper, Watchtower, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Overgrown Estate, Copper, Copper, Watchtower
+ 
+---------- Lotoreo: turn 3 ----------
+Lotoreo - plays 4 Copper
+Lotoreo - buys Watchtower
+Lotoreo - gains Watchtower
+Lotoreo - applied Watchtower to place Watchtower on top of the deck
+Lotoreo - draws Watchtower, Overgrown Estate, Copper, Copper, Hovel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - applied Watchtower to trash Squire
+Stef - trashes Squire
+Stef - gains Soothsayer
+Stef - applied Watchtower to place Soothsayer on top of the deck
+Stef - draws Soothsayer, Copper, Copper, Copper, Necropolis
+ 
+---------- Lotoreo: turn 4 ----------
+Lotoreo - plays 2 Copper
+Lotoreo - buys Squire
+Lotoreo - gains Squire
+Lotoreo - applied Watchtower to trash Squire
+Lotoreo - trashes Squire
+Lotoreo - gains Soothsayer
+Lotoreo - applied Watchtower to place Soothsayer on top of the deck
+Lotoreo - draws Soothsayer, Copper, Necropolis, Armory
+Lotoreo - shuffles deck
+Lotoreo - draws Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Lotoreo - gains Curse
+Lotoreo - draws Copper
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Silver, Copper, Hovel
+Stef - shuffles deck
+Stef - draws Copper, Watchtower
+ 
+---------- Lotoreo: turn 5 ----------
+Lotoreo - plays Necropolis
+Lotoreo - plays Soothsayer
+Lotoreo - gains Gold
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - draws Copper
+Lotoreo - plays Armory
+Lotoreo - gains Squire
+Lotoreo - plays 3 Copper
+Lotoreo - buys Squire
+Lotoreo - gains Squire
+Lotoreo - draws Squire, Hovel, Watchtower, Copper, Watchtower
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - applied Watchtower to place Count on top of the deck
+Stef - draws Count, Copper, Gold, Soothsayer, Copper
+ 
+---------- Lotoreo: turn 6 ----------
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Watchtower
+Lotoreo - draws Copper, Copper, Copper
+Lotoreo - plays 4 Copper
+Lotoreo - buys Wharf
+Lotoreo - gains Wharf
+Lotoreo - applied Watchtower to place Wharf on top of the deck
+Lotoreo - draws Wharf, Overgrown Estate
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Curse, Necropolis
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Lotoreo - gains Curse
+Lotoreo - draws Hovel
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Overgrown Estate, Necropolis, Watchtower, Copper
+ 
+---------- Lotoreo: turn 7 ----------
+Lotoreo - plays Necropolis
+Lotoreo - plays Wharf
+Lotoreo - draws Copper, Copper
+Lotoreo - plays 3 Copper
+Lotoreo - buys Squire
+Lotoreo - gains Squire
+Lotoreo - draws Copper, Soothsayer, Copper, Watchtower, Armory
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Necropolis
+Stef - plays Watchtower
+Stef - shuffles deck
+Stef - draws Gold, Copper, Copper
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Wharf
+Stef - draws Copper, Count, Hovel, Copper, Watchtower
+ 
+---------- Lotoreo: turn 8 ----------
+Lotoreo - duration Wharf
+Lotoreo - draws Squire, Copper
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Soothsayer
+Lotoreo - gains Gold
+Lotoreo - applied Watchtower to place Gold on top of the deck
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - draws Wharf
+Lotoreo - plays Watchtower
+Lotoreo - draws Gold, Gold
+Lotoreo - plays 3 Copper, 2 Gold
+Lotoreo - buys Wharf
+Lotoreo - gains Wharf
+Lotoreo - buys Count
+Lotoreo - gains Count
+Lotoreo - draws Copper, Watchtower, Squire
+Lotoreo - shuffles deck
+Lotoreo - draws Gold, Armory
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wharf
+Stef - draws Soothsayer, Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Squire
+Stef - gains Squire
+Stef - applied Watchtower to place Squire on top of the deck
+Stef - buys Squire
+Stef - gains Squire
+Stef - applied Watchtower to place Squire on top of the deck
+Stef - draws Squire, Squire, Copper, Gold
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Lotoreo: turn 9 ----------
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Watchtower
+Lotoreo - draws Copper, Copper, Gold
+Lotoreo - plays Armory
+Lotoreo - gains Squire
+Lotoreo - plays 3 Copper, 2 Gold
+Lotoreo - buys Border Village
+Lotoreo - gains Border Village
+Lotoreo - gains Wharf
+Lotoreo - draws Squire, Copper, Watchtower, Curse, Necropolis
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Wharf
+Stef - draws Border Village, Copper
+Stef - plays Border Village
+Stef - draws Necropolis
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Wharf
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Wharf, Watchtower, Copper, Copper, Silver
+ 
+---------- Lotoreo: turn 10 ----------
+Lotoreo - plays Necropolis
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Watchtower
+Lotoreo - draws Squire, Overgrown Estate, Wharf, Copper
+Lotoreo - plays Wharf
+Lotoreo - draws Wharf, Copper
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Wharf
+Lotoreo - draws Hovel, Copper
+Lotoreo - plays 4 Copper
+Lotoreo - buys Border Village
+Lotoreo - gains Border Village
+Lotoreo - gains Wharf
+Lotoreo - draws Soothsayer, Count, Squire, Curse
+Lotoreo - shuffles deck
+Lotoreo - draws Necropolis
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Wharf
+Stef - draws Soothsayer, Gold
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Wharf
+Stef - applied Watchtower to place Wharf on top of the deck
+Stef - applied Watchtower to place Border Village on top of the deck
+Stef - draws Border Village, Wharf, Overgrown Estate, Count, Copper
+ 
+---------- Lotoreo: turn 11 ----------
+Lotoreo - duration Wharf
+Lotoreo - draws Squire, Watchtower
+Lotoreo - duration Wharf
+Lotoreo - draws Gold, Watchtower
+Lotoreo - plays Necropolis
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Soothsayer
+Lotoreo - gains Gold
+Lotoreo - applied Watchtower to place Gold on top of the deck
+Stef - gains Curse
+Stef - draws Watchtower
+Lotoreo - plays Count
+Lotoreo - discards Curse
+Lotoreo - discards Gold
+Lotoreo - takes 3 coins
+Lotoreo - plays Watchtower
+Lotoreo - draws Gold, Border Village, Overgrown Estate, Wharf, Copper
+Lotoreo - plays Border Village
+Lotoreo - draws Gold
+Lotoreo - plays Wharf
+Lotoreo - draws Copper, Copper
+Lotoreo - plays 3 Copper, 2 Gold
+Lotoreo - buys Border Village
+Lotoreo - gains Border Village
+Lotoreo - gains Wharf
+Lotoreo - applied Watchtower to place Wharf on top of the deck
+Lotoreo - applied Watchtower to place Border Village on top of the deck
+Lotoreo - buys Border Village
+Lotoreo - gains Border Village
+Lotoreo - gains Wharf
+Lotoreo - applied Watchtower to place Wharf on top of the deck
+Lotoreo - applied Watchtower to place Border Village on top of the deck
+Lotoreo - draws Border Village, Wharf, Border Village, Wharf, Armory
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Wharf
+Stef - draws Hovel, Copper
+Stef - plays Border Village
+Stef - shuffles deck
+Stef - draws Squire
+Stef - plays Wharf
+Stef - draws Copper, Wharf
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Copper, Border Village
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Gold
+Stef - plays Count
+Stef - places Watchtower on top of deck
+Stef - trashes Overgrown Estate, Copper, Hovel, Copper, Copper, Copper, Gold
+Stef - draws Watchtower
+Stef - plays Watchtower
+Stef - draws Wharf, Soothsayer, Squire, Copper, Gold, Necropolis
+Stef - plays Necropolis
+Stef - plays Wharf
+Stef - draws Copper, Silver
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Squire, Curse, Watchtower, Copper
+Stef - shuffles deck
+Stef - draws Squire
+ 
+---------- Lotoreo: turn 12 ----------
+Lotoreo - duration Wharf
+Lotoreo - draws Copper, Copper
+Lotoreo - plays Border Village
+Lotoreo - draws Copper
+Lotoreo - plays Border Village
+Lotoreo - draws Copper
+Lotoreo - plays Wharf
+Lotoreo - draws Border Village, Squire
+Lotoreo - plays Wharf
+Lotoreo - draws Curse, Wharf
+Lotoreo - plays Border Village
+Lotoreo - draws Squire
+Lotoreo - plays Wharf
+Lotoreo - draws Hovel
+Lotoreo - shuffles deck
+Lotoreo - draws Gold
+Lotoreo - plays Squire
+Lotoreo - takes 2 actions
+Lotoreo - plays Squire
+Lotoreo - takes 2 buys
+Lotoreo - plays Armory
+Lotoreo - gains Armory
+Lotoreo - plays 4 Copper, 1 Gold
+Lotoreo - buys Province
+Lotoreo - trashes Hovel
+Lotoreo - gains Province
+Lotoreo - draws Armory, Copper, Necropolis, Watchtower, Count
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Wharf
+Stef - draws Province, Copper
+Stef - duration Wharf
+Stef - draws Soothsayer, Border Village
+Stef - duration Wharf
+Stef - draws Border Village, Gold
+Stef - plays Border Village
+Stef - draws Wharf
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays Wharf
+Stef - draws Copper, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Soothsayer
+Stef - gains Gold
+Lotoreo - gains Curse
+Lotoreo - applied Watchtower to trash Curse
+Lotoreo - trashes Curse
+Lotoreo - draws Soothsayer
+Stef - plays 3 Copper, 1 Gold, 1 Silver
+Stef - buys Curse
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - buys Curse
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - buys Curse
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - buys Curse
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Province
+Stef - gains Province
+Stef - draws Watchtower, Necropolis, Border Village, Count, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 4 Squire, 4 Wharf, 3 Border Village, 2 Watchtower, 1 Necropolis, 1 Count, 1 Soothsayer, 3 Copper, 2 Silver, 2 Gold, 2 Province, 1 Curse
+Stef - total victory points: 11
+Stef - turns: 12
+ 
+Lotoreo - cards: 6 Wharf, 4 Border Village, 4 Squire, 2 Armory, 2 Watchtower, 1 Necropolis, 1 Count, 1 Soothsayer, 7 Copper, 3 Gold, 1 Province, 1 Overgrown Estate, 2 Curse
+Lotoreo - total victory points: 4
+Lotoreo - turns: 12
+ 
+1st place: Stef
+2nd place: Lotoreo
+ 

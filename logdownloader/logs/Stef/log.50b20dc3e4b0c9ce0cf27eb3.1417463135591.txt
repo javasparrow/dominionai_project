@@ -1,0 +1,584 @@
+------------ Game Setup ------------
+Supply cards: Moat, Scheme, Cutpurse, Gardens, Scout, Cache, City, Jester, Journeyman, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+awaclus - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+awaclus - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+awaclus - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- awaclus: turn 1 ----------
+awaclus - plays 3 Copper
+awaclus - buys Silver
+awaclus - gains Silver
+awaclus - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- awaclus: turn 2 ----------
+awaclus - plays 4 Copper
+awaclus - buys Cutpurse
+awaclus - gains Cutpurse
+awaclus - shuffles deck
+awaclus - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- awaclus: turn 3 ----------
+awaclus - plays 4 Copper
+awaclus - buys Silver
+awaclus - gains Silver
+awaclus - draws Silver, Copper, Copper, Cutpurse, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Estate, Cutpurse, Copper, Copper, Copper
+ 
+---------- awaclus: turn 4 ----------
+awaclus - plays Cutpurse
+Stef - discards Copper
+awaclus - plays 2 Copper, 1 Silver
+awaclus - buys Gold
+awaclus - gains Gold
+awaclus - draws Estate, Copper
+awaclus - shuffles deck
+awaclus - draws Estate, Silver, Cutpurse
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Cutpurse
+awaclus - discards Copper
+Stef - plays 2 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Cutpurse, Copper, Copper
+ 
+---------- awaclus: turn 5 ----------
+awaclus - plays Cutpurse
+Stef - discards Copper
+awaclus - plays 1 Silver
+awaclus - buys Silver
+awaclus - gains Silver
+awaclus - draws Gold, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cutpurse
+awaclus - discards Copper
+Stef - plays 2 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Scheme, Copper, Jester, Copper, Silver
+ 
+---------- awaclus: turn 6 ----------
+awaclus - plays 2 Copper, 1 Gold
+awaclus - buys Journeyman
+awaclus - gains Journeyman
+awaclus - draws Copper, Copper, Silver, Copper
+awaclus - shuffles deck
+awaclus - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Jester
+awaclus - reveals Estate
+awaclus - discards Estate
+awaclus - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - Scheme choice: Jester
+Stef - draws Jester, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Scheme
+ 
+---------- awaclus: turn 7 ----------
+awaclus - plays 4 Copper, 1 Silver
+awaclus - buys Gold
+awaclus - gains Gold
+awaclus - draws Journeyman, Cutpurse, Copper, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Jester
+awaclus - reveals Silver
+awaclus - discards Silver
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Jester
+Stef - draws Jester, Silver, Copper, Copper, Scheme
+ 
+---------- awaclus: turn 8 ----------
+awaclus - plays Cutpurse
+Stef - discards Copper
+awaclus - plays 2 Copper, 1 Silver
+awaclus - buys Gold
+awaclus - gains Gold
+awaclus - draws Estate, Estate, Copper, Gold
+awaclus - shuffles deck
+awaclus - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Jester
+awaclus - reveals Silver
+awaclus - discards Silver
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - Scheme choice: Jester
+Stef - draws Jester, Copper, Cutpurse, Estate, Copper
+ 
+---------- awaclus: turn 9 ----------
+awaclus - plays 2 Copper, 1 Gold
+awaclus - buys Journeyman
+awaclus - gains Journeyman
+awaclus - draws Copper, Copper, Gold, Cutpurse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Jester
+awaclus - reveals Silver
+awaclus - discards Silver
+Stef - gains Silver
+Stef - plays Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws City
+Stef - shuffles deck
+Stef - draws Copper, Scheme, Cutpurse, Copper
+ 
+---------- awaclus: turn 10 ----------
+awaclus - plays Cutpurse
+Stef - discards Copper
+awaclus - plays 3 Copper, 1 Gold
+awaclus - buys Province
+awaclus - gains Province
+awaclus - draws Estate, Curse, Copper, Silver, Journeyman
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Cutpurse
+awaclus - discards Copper
+Stef - plays 1 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: City
+Stef - draws City, Scheme, Silver, Copper, Copper
+ 
+---------- awaclus: turn 11 ----------
+awaclus - plays Journeyman
+awaclus - names Copper
+awaclus - shuffles deck
+awaclus - reveals Copper, Gold, Copper, Gold, Copper, Cutpurse
+awaclus - discards: Copper, Copper, Copper
+awaclus - places cards in hand:  Gold, Gold, Cutpurse
+awaclus - plays 2 Gold, 1 Silver
+awaclus - buys Province
+awaclus - gains Province
+awaclus - draws Gold, Journeyman, Copper, Estate, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Jester
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Jester
+awaclus - reveals Silver
+awaclus - discards Silver
+Stef - gains Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - Scheme choice: City
+Stef - draws City, Silver, Silver, Copper, Silver
+ 
+---------- awaclus: turn 12 ----------
+awaclus - plays Journeyman
+awaclus - names Estate
+awaclus - reveals Estate, Copper, Silver, Province
+awaclus - discards Estate
+awaclus - places cards in hand:  Copper, Silver, Province
+awaclus - plays 3 Copper, 1 Gold, 1 Silver
+awaclus - buys Province
+awaclus - gains Province
+awaclus - draws Copper
+awaclus - shuffles deck
+awaclus - draws Silver, Silver, Gold, Curse
+ 
+---------- Stef: turn 12 ----------
+Stef - plays City
+Stef - draws Estate
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Bank
+Stef - gains Bank
+Stef - draws Copper, Scheme, Scheme, Journeyman
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- awaclus: turn 13 ----------
+awaclus - plays 2 Silver, 1 Copper, 1 Gold
+awaclus - buys Province
+awaclus - gains Province
+awaclus - draws Estate, Copper, Copper, Estate, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scheme
+Stef - draws Bank
+Stef - plays Scheme
+Stef - draws City
+Stef - plays City
+Stef - draws Copper
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Silver, Silver, Estate
+Stef - places cards in hand:  Silver, Silver, Estate
+Stef - plays 3 Copper, 2 Silver
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: City
+Stef - Scheme choice: Journeyman
+Stef - draws Journeyman, City, Journeyman, Estate, Copper
+ 
+---------- awaclus: turn 14 ----------
+awaclus - plays 2 Copper, 1 Gold
+awaclus - buys Duchy
+awaclus - gains Duchy
+awaclus - draws Copper, Province, Province, Copper, Cutpurse
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Copper, Scheme, Copper, Silver, Scheme
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Scheme, Silver, Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Journeyman
+Stef - names Jester
+Stef - reveals Jester, Estate, Cutpurse, Scheme
+Stef - discards Jester
+Stef - places cards in hand:  Estate, Cutpurse, Scheme
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: City
+Stef - Scheme choice: Journeyman
+Stef - draws Journeyman, City
+Stef - shuffles deck
+Stef - draws Copper, Province, Cutpurse
+ 
+---------- awaclus: turn 15 ----------
+awaclus - plays Cutpurse
+Stef - discards Copper
+awaclus - plays 2 Copper
+awaclus - buys Gardens
+awaclus - gains Gardens
+awaclus - draws Province, Journeyman, Copper, Silver, Journeyman
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Jester, Copper, Scheme, Scheme
+Stef - discards Copper
+Stef - places cards in hand:  Jester, Scheme, Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Jester
+awaclus - reveals Gold
+awaclus - discards Gold
+Stef - gains Gold
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - Scheme choice: City
+Stef - Scheme choice: Journeyman
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Journeyman, City, Estate, Copper
+ 
+---------- awaclus: turn 16 ----------
+awaclus - plays Journeyman
+awaclus - names Province
+awaclus - shuffles deck
+awaclus - reveals Copper, Estate, Estate
+awaclus - places cards in hand:  Copper, Estate, Estate
+awaclus - plays 2 Copper, 1 Silver
+awaclus - buys Gardens
+awaclus - gains Gardens
+awaclus - draws Province, Silver, Copper, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Copper, Journeyman, Scheme, Province
+Stef - discards Copper
+Stef - places cards in hand:  Journeyman, Scheme, Province
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Journeyman
+Stef - names Estate
+Stef - reveals Silver, Bank, Silver
+Stef - places cards in hand:  Silver, Bank, Silver
+Stef - plays 3 Copper, 3 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - Scheme choice: City
+Stef - Scheme choice: Journeyman
+Stef - Scheme choice: Journeyman
+Stef - draws Journeyman, Journeyman, City, Silver, Estate
+ 
+---------- awaclus: turn 17 ----------
+awaclus - plays 2 Silver, 2 Copper
+awaclus - buys Gardens
+awaclus - gains Gardens
+awaclus - draws Estate, Province, Copper, Copper, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Silver, Silver, Gardens
+Stef - places cards in hand:  Silver, Silver, Gardens
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Copper, Copper, Scheme, Copper, Province, Scheme
+Stef - discards: Copper, Copper, Copper
+Stef - places cards in hand:  Scheme, Province, Scheme
+Stef - plays 3 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Gardens, Copper, Scheme, Province
+ 
+---------- awaclus: turn 18 ----------
+awaclus - plays 2 Copper
+awaclus - buys Moat
+awaclus - gains Moat
+awaclus - draws Province, Copper, Curse, Cutpurse, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Jester, Scheme, Cutpurse, Silver
+ 
+---------- awaclus: turn 19 ----------
+awaclus - plays Cutpurse
+Stef - reveals Scheme, Jester, Scheme, Cutpurse, Silver
+awaclus - plays 1 Copper, 1 Gold
+awaclus - buys Gardens
+awaclus - gains Gardens
+awaclus - draws Gardens, Gold, Gold
+awaclus - shuffles deck
+awaclus - draws Copper, Journeyman
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Jester
+awaclus - reveals Province
+awaclus - discards Province
+awaclus - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Jester
+Stef - draws Jester, Scheme, Scheme, Bank, Silver
+ 
+---------- awaclus: turn 20 ----------
+awaclus - plays Journeyman
+awaclus - names Province
+awaclus - reveals Curse, Silver, Estate
+awaclus - places cards in hand:  Curse, Silver, Estate
+awaclus - plays 2 Gold, 1 Copper, 1 Silver
+awaclus - buys Province
+awaclus - gains Province
+awaclus - draws Estate, Gardens, Province, Copper, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Jester
+awaclus - reveals Cutpurse
+awaclus - discards Cutpurse
+Stef - gains Cutpurse
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Jester
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Jester, Scheme, Copper, City
+ 
+---------- awaclus: turn 21 ----------
+awaclus - plays 1 Copper, 1 Gold
+awaclus - buys Estate
+awaclus - gains Estate
+awaclus - draws Gardens, Silver, Copper, Estate, Duchy
+ 
+---------- Stef: turn 21 ----------
+Stef - plays City
+Stef - draws Cutpurse, Gardens
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Cutpurse
+awaclus - discards Copper
+Stef - plays Jester
+awaclus - reveals Province
+awaclus - discards Province
+awaclus - gains Curse
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: City
+Stef - Scheme choice: Jester
+Stef - draws Jester, City, Scheme, Province, Silver
+ 
+---------- awaclus: turn 22 ----------
+awaclus - plays 1 Silver
+awaclus - buys Estate
+awaclus - gains Estate
+awaclus - draws Copper, Copper, Copper, Journeyman, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays City
+Stef - draws Scheme, Journeyman
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Province, Gardens, Silver
+Stef - places cards in hand:  Province, Gardens, Silver
+Stef - plays Jester
+awaclus - reveals Silver
+awaclus - discards Silver
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: City
+Stef - Scheme choice: Jester
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Jester, City, Copper, Silver
+ 
+---------- awaclus: turn 23 ----------
+awaclus - plays Journeyman
+awaclus - names Province
+awaclus - shuffles deck
+awaclus - reveals Province, Gardens, Moat, Gardens
+awaclus - discards Province
+awaclus - places cards in hand:  Gardens, Moat, Gardens
+awaclus - plays 4 Copper
+awaclus - buys Estate
+awaclus - gains Estate
+awaclus - draws Copper, Copper, Gardens, Estate, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays City
+Stef - draws Gardens, Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Jester
+awaclus - reveals Province
+awaclus - discards Province
+awaclus - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: City
+Stef - draws City, Copper, Journeyman, Copper, Gardens
+ 
+---------- awaclus: turn 24 ----------
+awaclus - plays 3 Copper
+awaclus - buys Estate
+awaclus - gains Estate
+awaclus - draws Curse, Estate, Gold, Silver, Cutpurse
+ 
+---------- Stef: turn 24 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Silver, Scheme
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Journeyman
+Stef - names Duchy
+Stef - reveals Scheme, Estate, Cutpurse
+Stef - places cards in hand:  Scheme, Estate, Cutpurse
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Cutpurse
+awaclus - reveals Curse, Estate, Gold, Silver, Cutpurse
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Copper, Silver, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 6 Scheme, 2 Journeyman, 2 Cutpurse, 1 City, 1 Jester, 7 Copper, 6 Silver, 1 Gold, 1 Bank, 4 Gardens, 4 Duchy, 3 Province, 3 Estate
+Stef - total victory points: 49
+Stef - turns: 24
+ 
+awaclus - cards: 2 Journeyman, 1 Cutpurse, 1 Moat, 7 Copper, 3 Gold, 3 Silver, 7 Estate, 5 Province, 4 Gardens, 1 Duchy, 4 Curse
+awaclus - total victory points: 48
+awaclus - turns: 24
+ 
+1st place: Stef
+2nd place: awaclus
+ 

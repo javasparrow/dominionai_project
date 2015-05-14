@@ -1,0 +1,716 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Moat, Pearl Diver, Market Square, Shanty Town, Familiar, Caravan, Feodum, Ironmonger, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+tripwire - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+tripwire - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+tripwire - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- tripwire: turn 1 ----------
+tripwire - plays 3 Copper
+tripwire - buys Shanty Town
+tripwire - gains Shanty Town
+tripwire - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- tripwire: turn 2 ----------
+tripwire - plays 4 Copper
+tripwire - buys Potion
+tripwire - gains Potion
+tripwire - shuffles deck
+tripwire - draws Potion, Estate, Shanty Town, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Estate, Copper, Copper, Copper, Potion
+ 
+---------- tripwire: turn 3 ----------
+tripwire - plays Shanty Town
+tripwire - reveals Potion, Estate, Copper, Copper
+tripwire - draws Estate, Estate
+tripwire - plays 2 Copper, 1 Potion
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper, Moat
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate
+ 
+---------- tripwire: turn 4 ----------
+tripwire - plays 5 Copper
+tripwire - buys Ironmonger
+tripwire - gains Ironmonger
+tripwire - shuffles deck
+tripwire - draws Estate, Copper, Ironmonger, Moat, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Moat
+Stef - draws Shanty Town, Copper
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate, Copper, Familiar, Potion, Copper
+ 
+---------- tripwire: turn 5 ----------
+tripwire - plays Ironmonger
+tripwire - draws Shanty Town
+tripwire - reveals: Copper
+tripwire - discards Copper
+tripwire - plays Shanty Town
+tripwire - reveals Estate, Copper, Moat, Copper
+tripwire - plays Moat
+tripwire - draws Copper, Potion
+tripwire - plays 3 Copper, 1 Potion
+tripwire - buys Familiar
+tripwire - gains Familiar
+tripwire - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Familiar
+Stef - draws Estate
+tripwire - gains Curse
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Moat
+ 
+---------- tripwire: turn 6 ----------
+tripwire - plays 3 Copper
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - shuffles deck
+tripwire - draws Ironmonger, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Moat
+Stef - draws Copper, Familiar
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Potion, Copper, Estate, Copper, Copper
+ 
+---------- tripwire: turn 7 ----------
+tripwire - plays Ironmonger
+tripwire - draws Copper
+tripwire - reveals: Estate
+tripwire - discards Estate
+tripwire - draws Copper
+tripwire - plays 4 Copper
+tripwire - buys Ironmonger
+tripwire - gains Ironmonger
+tripwire - draws Copper, Potion, Shanty Town, Curse, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Ironmonger, Moat, Shanty Town, Estate
+Stef - shuffles deck
+Stef - draws Ironmonger
+ 
+---------- tripwire: turn 8 ----------
+tripwire - plays Shanty Town
+tripwire - reveals Copper, Potion, Curse, Copper
+tripwire - draws Moat, Familiar
+tripwire - plays Familiar
+Stef - reveals reaction Moat
+tripwire - draws Copper
+tripwire - plays Moat
+tripwire - draws Moat
+tripwire - shuffles deck
+tripwire - draws Ironmonger
+tripwire - plays Ironmonger
+tripwire - draws Copper
+tripwire - reveals: Estate
+tripwire - discards Estate
+tripwire - draws Copper
+tripwire - plays Moat
+tripwire - draws Copper, Estate
+tripwire - plays 6 Copper, 1 Potion
+tripwire - buys Familiar
+tripwire - gains Familiar
+tripwire - draws Ironmonger, Copper, Estate
+tripwire - shuffles deck
+tripwire - draws Curse, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Shanty Town
+Stef - reveals Estate, Moat, Copper, Copper
+Stef - plays Moat
+Stef - draws Potion, Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper, Moat, Copper, Familiar, Familiar
+ 
+---------- tripwire: turn 9 ----------
+tripwire - plays Ironmonger
+tripwire - draws Copper
+tripwire - reveals: Ironmonger
+tripwire - places Ironmonger on top of deck
+tripwire - plays 2 Copper
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - draws Ironmonger, Copper, Shanty Town, Copper, Familiar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Familiar
+Stef - draws Copper
+tripwire - gains Curse
+Stef - plays Familiar
+Stef - draws Estate
+tripwire - gains Curse
+Stef - plays Moat
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Ironmonger
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Ironmonger, Estate, Copper, Estate
+ 
+---------- tripwire: turn 10 ----------
+tripwire - plays Ironmonger
+tripwire - draws Familiar
+tripwire - reveals: Copper
+tripwire - places Copper on top of deck
+tripwire - plays Familiar
+tripwire - draws Copper
+Stef - gains Curse
+tripwire - plays Familiar
+tripwire - draws Potion
+Stef - gains Curse
+tripwire - plays Shanty Town
+tripwire - reveals Copper, Copper, Copper, Potion
+tripwire - draws Moat, Copper
+tripwire - plays Moat
+tripwire - draws Moat, Copper
+tripwire - plays Moat
+tripwire - draws Estate
+tripwire - shuffles deck
+tripwire - draws Copper
+tripwire - plays 6 Copper, 1 Potion
+tripwire - buys Gold
+tripwire - gains Gold
+tripwire - draws Copper, Curse, Estate, Ironmonger, Moat
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Ironmonger
+Stef - draws Familiar
+Stef - reveals: Moat
+Stef - places Moat on top of deck
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Copper, Potion
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Shanty Town
+Stef - shuffles deck
+Stef - draws Ironmonger, Ironmonger, Familiar, Copper
+ 
+---------- tripwire: turn 11 ----------
+tripwire - plays Ironmonger
+tripwire - draws Estate
+tripwire - reveals: Curse
+tripwire - discards Curse
+tripwire - plays Moat
+tripwire - draws Curse
+tripwire - shuffles deck
+tripwire - draws Shanty Town
+tripwire - draws Moat, Familiar, Copper, Familiar, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Potion
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Moat
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Moat
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Moat
+Stef - draws Copper, Estate
+Stef - plays Shanty Town
+Stef - reveals Copper, Potion, Moat, Copper, Estate
+Stef - plays Moat
+Stef - draws Estate, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate, Curse, Curse, Copper, Copper
+ 
+---------- tripwire: turn 12 ----------
+tripwire - plays Familiar
+tripwire - draws Copper
+Stef - gains Curse
+tripwire - plays Familiar
+tripwire - draws Gold
+Stef - gains Curse
+tripwire - plays Moat
+tripwire - draws Copper, Copper
+tripwire - plays 5 Copper, 1 Gold
+tripwire - buys Province
+tripwire - gains Province
+tripwire - draws Ironmonger, Moat, Potion, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Familiar, Familiar, Familiar
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- tripwire: turn 13 ----------
+tripwire - plays Ironmonger
+tripwire - draws Curse
+tripwire - shuffles deck
+tripwire - reveals: Curse
+tripwire - discards Curse
+tripwire - plays Moat
+tripwire - draws Copper, Familiar
+tripwire - plays 2 Copper, 1 Potion
+tripwire - buys Pearl Diver
+tripwire - gains Pearl Diver
+tripwire - draws Estate, Province, Familiar, Curse, Ironmonger
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Familiar
+Stef - draws Moat
+tripwire - gains Curse
+Stef - plays Familiar
+Stef - draws Copper
+tripwire - gains Curse
+Stef - plays Familiar
+Stef - draws Curse
+tripwire - gains Curse
+Stef - plays Moat
+Stef - draws Shanty Town, Ironmonger
+Stef - plays 2 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Estate, Copper, Copper, Copper, Curse
+ 
+---------- tripwire: turn 14 ----------
+tripwire - plays Ironmonger
+tripwire - draws Gold
+tripwire - reveals: Moat
+tripwire - places Moat on top of deck
+tripwire - plays Familiar
+tripwire - draws Moat
+tripwire - plays Moat
+tripwire - draws Moat, Copper
+tripwire - plays Moat
+tripwire - draws Copper, Shanty Town
+tripwire - plays 2 Copper, 1 Gold
+tripwire - buys Ironmonger
+tripwire - gains Ironmonger
+tripwire - draws Estate, Copper, Copper, Copper
+tripwire - shuffles deck
+tripwire - draws Familiar
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Potion, Moat, Curse, Familiar
+ 
+---------- tripwire: turn 15 ----------
+tripwire - plays Familiar
+tripwire - draws Estate
+tripwire - plays 3 Copper
+tripwire - buys Silver
+tripwire - gains Silver
+tripwire - draws Potion, Gold, Moat, Curse, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Ironmonger, Ironmonger
+Stef - draws Estate, Copper, Copper, Ironmonger
+Stef - shuffles deck
+Stef - draws Familiar
+ 
+---------- tripwire: turn 16 ----------
+tripwire - plays Moat
+tripwire - draws Shanty Town, Curse
+tripwire - plays 1 Potion, 1 Gold, 1 Copper
+tripwire - buys Ironmonger
+tripwire - gains Ironmonger
+tripwire - draws Ironmonger, Ironmonger, Copper, Copper, Moat
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Ironmonger
+Stef - draws Familiar
+Stef - reveals: Shanty Town
+Stef - places Shanty Town on top of deck
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Shanty Town
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Copper
+Stef - plays Shanty Town
+Stef - reveals Estate, Copper, Copper, Copper
+Stef - draws Ironmonger, Moat
+Stef - plays Moat
+Stef - draws Copper, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Moat
+Stef - places Moat on top of deck
+Stef - plays Ironmonger
+Stef - draws Moat
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Familiar, Curse
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Pearl Diver, Copper
+Stef - plays Pearl Diver
+Stef - draws Curse
+Stef - places Copper on bottom of deck
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Potion, Ironmonger, Curse, Estate, Familiar
+ 
+---------- tripwire: turn 17 ----------
+tripwire - plays Ironmonger
+tripwire - draws Curse
+tripwire - reveals: Familiar
+tripwire - places Familiar on top of deck
+tripwire - plays Ironmonger
+tripwire - draws Familiar
+tripwire - reveals: Curse
+tripwire - discards Curse
+tripwire - plays Familiar
+tripwire - draws Moat
+tripwire - plays Moat
+tripwire - draws Curse, Ironmonger
+tripwire - plays Ironmonger
+tripwire - draws Province
+tripwire - reveals: Pearl Diver
+tripwire - places Pearl Diver on top of deck
+tripwire - plays Moat
+tripwire - draws Pearl Diver, Copper
+tripwire - plays Pearl Diver
+tripwire - draws Estate
+tripwire - places Curse on bottom of deck
+tripwire - plays 3 Copper
+tripwire - buys Silver
+tripwire - gains Silver
+tripwire - draws Curse
+tripwire - shuffles deck
+tripwire - draws Copper, Estate, Silver, Familiar
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Pearl Diver, Shanty Town, Estate, Gold, Copper
+ 
+---------- tripwire: turn 18 ----------
+tripwire - plays Familiar
+tripwire - draws Pearl Diver
+tripwire - plays Pearl Diver
+tripwire - draws Curse
+tripwire - places Copper on top of deck
+tripwire - plays 1 Copper, 1 Silver
+tripwire - buys Silver
+tripwire - gains Silver
+tripwire - draws Copper, Moat, Copper, Moat, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Pearl Diver
+Stef - draws Curse
+Stef - places Ironmonger on top of deck
+Stef - plays Shanty Town
+Stef - reveals Estate, Gold, Copper, Curse
+Stef - draws Ironmonger, Curse
+Stef - plays Ironmonger
+Stef - draws Moat
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Moat
+Stef - draws Moat, Familiar
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Copper
+Stef - plays Moat
+Stef - draws Curse, Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate, Ironmonger, Moat, Ironmonger, Familiar
+ 
+---------- tripwire: turn 19 ----------
+tripwire - plays Moat
+tripwire - draws Ironmonger, Estate
+tripwire - plays 2 Copper, 1 Silver
+tripwire - buys Ironmonger
+tripwire - gains Ironmonger
+tripwire - draws Curse, Province, Copper, Copper, Ironmonger
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Ironmonger
+Stef - draws Familiar
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - shuffles deck
+Stef - reveals: Potion
+Stef - discards Potion
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Moat
+Stef - draws Curse, Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Farmland
+Stef - trashes Curse
+Stef - gains Pearl Diver
+Stef - gains Farmland
+Stef - draws Curse, Copper, Copper, Moat, Copper
+ 
+---------- tripwire: turn 20 ----------
+tripwire - plays Ironmonger
+tripwire - draws Estate
+tripwire - reveals: Familiar
+tripwire - places Familiar on top of deck
+tripwire - plays 2 Copper
+tripwire - buys Pearl Diver
+tripwire - gains Pearl Diver
+tripwire - draws Familiar, Curse, Curse, Copper, Shanty Town
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Moat
+Stef - draws Pearl Diver, Copper
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Moat, Gold, Ironmonger, Estate, Gold
+ 
+---------- tripwire: turn 21 ----------
+tripwire - plays Familiar
+tripwire - draws Curse
+tripwire - plays Shanty Town
+tripwire - reveals Curse, Curse, Copper, Curse
+tripwire - draws Potion, Copper
+tripwire - plays 2 Copper, 1 Potion
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - draws Gold, Ironmonger, Ironmonger, Moat
+tripwire - shuffles deck
+tripwire - draws Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Ironmonger
+Stef - draws Curse
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Moat
+Stef - draws Familiar, Familiar
+Stef - plays 2 Gold
+Stef - buys Farmland
+Stef - trashes Curse
+Stef - gains Pearl Diver
+Stef - gains Farmland
+Stef - draws Market Square, Estate, Shanty Town, Ironmonger
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- tripwire: turn 22 ----------
+tripwire - plays Ironmonger
+tripwire - draws Moat
+tripwire - reveals: Pearl Diver
+tripwire - places Pearl Diver on top of deck
+tripwire - plays Ironmonger
+tripwire - draws Pearl Diver
+tripwire - reveals: Ironmonger
+tripwire - places Ironmonger on top of deck
+tripwire - plays Pearl Diver
+tripwire - draws Ironmonger
+tripwire - places Estate on bottom of deck
+tripwire - plays Ironmonger
+tripwire - draws Ironmonger
+tripwire - reveals: Province
+tripwire - discards Province
+tripwire - draws Curse
+tripwire - plays Ironmonger
+tripwire - draws Potion
+tripwire - reveals: Curse
+tripwire - discards Curse
+tripwire - plays Moat
+tripwire - draws Ironmonger, Moat
+tripwire - plays Ironmonger
+tripwire - draws Estate
+tripwire - reveals: Curse
+tripwire - discards Curse
+tripwire - plays Moat
+tripwire - draws Copper, Silver
+tripwire - plays Moat
+tripwire - draws Copper, Silver
+tripwire - plays Silver
+tripwire - plays Copper
+tripwire - plays Silver
+tripwire - plays Copper
+tripwire - plays Copper
+tripwire - buys Farmland
+tripwire - trashes Potion
+tripwire - gains Gold
+tripwire - gains Farmland
+tripwire - draws Copper, Curse, Familiar, Moat, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Market Square
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Familiar
+Stef - reveals: Moat
+Stef - places Moat on top of deck
+Stef - plays Familiar
+tripwire - reveals reaction Moat
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Shanty Town
+Stef - reveals Estate, Curse, Copper, Copper, Copper
+Stef - draws Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - draws Ironmonger, Farmland, Farmland, Familiar, Copper
+ 
+---------- tripwire: turn 23 ----------
+tripwire - plays Familiar
+tripwire - draws Shanty Town
+tripwire - plays Shanty Town
+tripwire - reveals Copper, Curse, Copper, Moat
+tripwire - plays Moat
+tripwire - draws Copper, Curse
+tripwire - plays 3 Copper
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - draws Pearl Diver, Curse, Copper, Silver, Estate
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Pearl Diver
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Moat on top of deck
+Stef - plays Familiar
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Pearl Diver, Potion
+Stef - plays 2 Copper, 1 Silver, 1 Potion
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Moat, Familiar, Curse, Ironmonger, Familiar
+ 
+---------- tripwire: turn 24 ----------
+tripwire - plays Pearl Diver
+tripwire - draws Familiar
+tripwire - places Estate on bottom of deck
+tripwire - plays Familiar
+tripwire - draws Estate
+tripwire - plays 1 Copper, 1 Silver
+tripwire - buys Moat
+tripwire - gains Moat
+tripwire - shuffles deck
+tripwire - draws Estate, Gold, Silver, Curse, Gold
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Familiar
+Stef - draws Gold
+Stef - plays Familiar
+Stef - draws Ironmonger
+Stef - plays 2 Gold
+Stef - buys Farmland
+Stef - trashes Curse
+Stef - gains Moat
+Stef - gains Farmland
+Stef - draws Pearl Diver, Copper
+Stef - shuffles deck
+Stef - draws Ironmonger, Ironmonger, Ironmonger
+ 
+------------ Game Over ------------
+Stef - cards: 5 Ironmonger, 4 Moat, 4 Familiar, 3 Pearl Diver, 1 Market Square, 1 Shanty Town, 7 Copper, 2 Silver, 2 Gold, 1 Potion, 3 Farmland, 3 Estate, 1 Feodum, 1 Curse
+Stef - total victory points: 8
+Stef - turns: 25
+ 
+tripwire - cards: 6 Moat, 5 Ironmonger, 2 Familiar, 2 Pearl Diver, 1 Shanty Town, 7 Copper, 3 Silver, 2 Gold, 3 Estate, 1 Province, 1 Farmland, 6 Curse
+tripwire - total victory points: 5
+tripwire - turns: 24
+ 
+1st place: Stef
+2nd place: tripwire
+ 

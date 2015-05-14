@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Thief, Highway, Library, Mandarin, Mystic, Rogue, Saboteur, Stables, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+liopoil - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+liopoil - shuffles deck
+Stef - draws Overgrown Estate, Copper, Necropolis, Copper, Copper
+liopoil - draws Hovel, Overgrown Estate, Copper, Necropolis, Copper
+ 
+---------- liopoil: turn 1 ----------
+liopoil - plays 2 Copper
+liopoil - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- liopoil: turn 2 ----------
+liopoil - plays 5 Copper
+liopoil - buys Stables
+liopoil - gains Stables
+liopoil - shuffles deck
+liopoil - draws Copper, Hovel, Necropolis, Copper, Stables
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Copper, Copper, Silver
+ 
+---------- liopoil: turn 3 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Copper, Copper
+liopoil - plays 4 Copper
+liopoil - buys Silver
+liopoil - gains Silver
+liopoil - draws Copper, Overgrown Estate, Copper
+liopoil - shuffles deck
+liopoil - draws Hovel, Necropolis
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - draws Copper, Hovel, Silver, Copper, Copper
+ 
+---------- liopoil: turn 4 ----------
+liopoil - plays 2 Copper
+liopoil - buys Herbalist
+liopoil - gains Herbalist
+liopoil - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Overgrown Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Stables, Copper
+ 
+---------- liopoil: turn 5 ----------
+liopoil - plays 4 Copper, 1 Silver
+liopoil - buys Stables
+liopoil - gains Stables
+liopoil - draws Copper, Stables
+liopoil - shuffles deck
+liopoil - draws Necropolis, Copper, Stables
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Hovel, Necropolis, Copper, Silver, Silver
+ 
+---------- liopoil: turn 6 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Silver, Hovel, Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Overgrown Estate, Herbalist
+liopoil - plays Herbalist
+liopoil - plays 2 Copper, 1 Silver
+liopoil - buys Stables
+liopoil - gains Stables
+liopoil - places Silver on top of deck
+liopoil - draws Silver, Copper, Copper, Copper
+liopoil - shuffles deck
+liopoil - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Rogue
+Stef - shuffles deck
+Stef - draws Stables, Silver, Overgrown Estate, Copper
+ 
+---------- liopoil: turn 7 ----------
+liopoil - plays 4 Copper, 1 Silver
+liopoil - buys Stables
+liopoil - gains Stables
+liopoil - draws Necropolis, Stables, Overgrown Estate, Herbalist, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Hovel
+Stef - plays Rogue
+liopoil - reveals: Hovel, Stables
+liopoil - trashes Stables
+liopoil - discards Hovel
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Stables, Stables, Copper, Silver, Necropolis
+ 
+---------- liopoil: turn 8 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Stables, Copper, Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - shuffles deck
+liopoil - draws Hovel, Copper, Copper
+liopoil - plays Herbalist
+liopoil - plays 3 Copper
+liopoil - buys Silver
+liopoil - gains Silver
+liopoil - draws Stables, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Silver, Stables, Hovel
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Rogue, Copper
+Stef - plays Rogue
+Stef - gains Stables
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Stables, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- liopoil: turn 9 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper
+liopoil - shuffles deck
+liopoil - draws Stables, Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Herbalist, Copper, Copper
+liopoil - plays Herbalist
+liopoil - plays 5 Copper, 1 Silver
+liopoil - buys Stables
+liopoil - gains Stables
+liopoil - buys Silver
+liopoil - gains Silver
+liopoil - places Silver on top of deck
+liopoil - draws Silver, Stables, Hovel, Copper, Necropolis
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Necropolis, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Herbalist
+Stef - gains Herbalist
+Stef - draws Rogue, Stables, Stables, Stables, Silver
+ 
+---------- liopoil: turn 10 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Overgrown Estate, Silver
+liopoil - shuffles deck
+liopoil - draws Copper
+liopoil - plays 2 Silver, 1 Copper
+liopoil - buys Saboteur
+liopoil - gains Saboteur
+liopoil - draws Stables, Copper, Silver, Copper, Stables
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Silver, Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Hovel
+Stef - shuffles deck
+Stef - draws Necropolis, Overgrown Estate
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Stables, Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Silver, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Herbalist, Copper
+Stef - plays Necropolis
+Stef - plays Rogue
+liopoil - reveals: Copper, Herbalist
+Stef - plays Herbalist
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Stables, Stables, Copper
+ 
+---------- liopoil: turn 11 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Stables, Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper
+liopoil - shuffles deck
+liopoil - draws Silver, Overgrown Estate
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Hovel, Herbalist, Silver
+liopoil - plays Herbalist
+liopoil - plays 3 Silver, 2 Copper
+liopoil - buys Province
+liopoil - trashes Hovel
+liopoil - gains Province
+liopoil - places Silver on top of deck
+liopoil - draws Silver, Copper, Copper, Stables, Necropolis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Herbalist, Silver
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Province, Copper
+Stef - plays Herbalist
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - places Silver on top of deck
+Stef - draws Silver, Necropolis, Copper, Stables, Stables
+ 
+---------- liopoil: turn 12 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Saboteur, Copper
+liopoil - plays Saboteur
+Stef - reveals Overgrown Estate, Rogue
+Stef - trashes Rogue
+Stef - gains Silver
+Stef - discards Overgrown Estate
+liopoil - plays 3 Copper, 1 Silver
+liopoil - buys Highway
+liopoil - gains Highway
+liopoil - shuffles deck
+liopoil - draws Highway, Silver, Herbalist, Silver, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Silver, Province, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Province, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Herbalist
+Stef - plays Herbalist
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - places Silver on top of deck
+Stef - draws Silver, Copper, Overgrown Estate, Stables, Stables
+ 
+---------- liopoil: turn 13 ----------
+liopoil - plays Highway
+liopoil - draws Silver
+liopoil - plays Herbalist
+liopoil - plays 3 Silver, 1 Copper
+liopoil - buys Province
+liopoil - gains Province
+liopoil - buys Estate
+liopoil - gains Estate
+liopoil - places Silver on top of deck
+liopoil - draws Silver, Stables, Copper, Province, Stables
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Herbalist, Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Province, Province, Necropolis
+Stef - plays Herbalist
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - places Silver on top of deck
+Stef - draws Silver, Stables, Province, Silver, Copper
+ 
+---------- liopoil: turn 14 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Overgrown Estate, Copper, Necropolis
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Copper, Copper
+liopoil - plays 3 Copper, 1 Silver
+liopoil - buys Highway
+liopoil - gains Highway
+liopoil - draws Copper, Saboteur, Stables, Stables
+liopoil - shuffles deck
+liopoil - draws Province
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Stables
+Stef - shuffles deck
+Stef - draws Necropolis
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Herbalist, Province
+Stef - plays Herbalist
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Bank
+Stef - gains Bank
+Stef - places Silver on top of deck
+Stef - draws Silver, Province, Gold, Stables, Copper
+ 
+---------- liopoil: turn 15 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Highway, Estate
+liopoil - plays Highway
+liopoil - draws Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Highway, Copper, Silver
+liopoil - plays Highway
+liopoil - draws Silver
+liopoil - plays Saboteur
+Stef - reveals Copper, Overgrown Estate, Silver, Stables
+Stef - trashes Stables
+Stef - gains Silver
+Stef - discards: Copper, Overgrown Estate, Silver
+liopoil - plays 2 Copper, 2 Silver
+liopoil - buys Province
+liopoil - gains Province
+liopoil - draws Stables, Copper, Necropolis, Province, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Copper, Overgrown Estate, Herbalist
+Stef - plays Herbalist
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - places Gold on top of deck
+Stef - draws Gold, Copper, Copper, Bank, Silver
+ 
+---------- liopoil: turn 16 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Silver, Herbalist, Stables
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Overgrown Estate
+liopoil - shuffles deck
+liopoil - draws Copper
+liopoil - plays Herbalist
+liopoil - plays 2 Copper, 1 Silver
+liopoil - buys Duchy
+liopoil - gains Duchy
+liopoil - places Silver on top of deck
+liopoil - draws Silver, Silver, Stables, Stables, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Stables, Copper, Stables, Province
+ 
+---------- liopoil: turn 17 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Province, Highway, Copper
+liopoil - plays Highway
+liopoil - draws Copper
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Estate, Province
+liopoil - plays 2 Silver, 2 Copper
+liopoil - buys Duchy
+liopoil - gains Duchy
+liopoil - draws Highway, Copper, Silver, Saboteur
+liopoil - shuffles deck
+liopoil - draws Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Necropolis, Province
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Silver, Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Silver, Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Duchy, Copper
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Herbalist, Silver, Copper, Province
+ 
+---------- liopoil: turn 18 ----------
+liopoil - plays Highway
+liopoil - draws Stables
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Duchy, Herbalist
+liopoil - plays Saboteur
+Stef - reveals Overgrown Estate, Province
+Stef - trashes Province
+Stef - gains Duchy
+Stef - discards Overgrown Estate
+liopoil - plays 2 Copper, 1 Silver
+liopoil - buys Duchy
+liopoil - gains Duchy
+liopoil - draws Stables, Stables, Estate, Province, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Herbalist
+Stef - plays 1 Gold, 1 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - places Gold on top of deck
+Stef - draws Gold, Copper, Stables, Estate, Copper
+ 
+---------- liopoil: turn 19 ----------
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Overgrown Estate, Province
+liopoil - plays Stables
+liopoil - discards Copper
+liopoil - draws Copper, Highway, Province
+liopoil - plays Highway
+liopoil - draws Duchy
+liopoil - plays Copper
+liopoil - buys Estate
+liopoil - gains Estate
+liopoil - draws Copper, Silver, Silver, Stables, Necropolis
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Bank, Silver
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays 1 Gold, 1 Copper, 1 Silver
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Duchy, Province, Province, Stables
+ 
+------------ Game Over ------------
+Stef - cards: 5 Stables, 1 Herbalist, 1 Necropolis, 7 Copper, 4 Silver, 1 Gold, 1 Bank, 4 Duchy, 4 Province, 2 Estate, 1 Overgrown Estate
+Stef - total victory points: 38
+Stef - turns: 19
+ 
+liopoil - cards: 4 Stables, 2 Highway, 1 Necropolis, 1 Saboteur, 1 Herbalist, 7 Copper, 3 Silver, 3 Duchy, 3 Province, 2 Estate, 1 Overgrown Estate
+liopoil - total victory points: 29
+liopoil - turns: 19
+ 
+1st place: Stef
+2nd place: liopoil
+ 

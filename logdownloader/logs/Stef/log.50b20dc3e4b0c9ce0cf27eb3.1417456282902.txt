@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Doctor, Pirate Ship, Plaza, Talisman, Thief, Contraband, Haggler, Harvest, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+new_tomitake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 1 coin
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - gains Doctor
+Stef - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Talisman
+new_tomitake - gains Talisman
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - shuffles deck
+Stef - draws Copper, Copper, Plaza, Estate, Silver
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays 3 Copper, 1 Silver
+new_tomitake - buys Haggler
+new_tomitake - gains Haggler
+new_tomitake - draws Talisman, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays 2 Copper
+new_tomitake - plays Talisman
+new_tomitake - buys Lighthouse
+new_tomitake - gains Lighthouse
+new_tomitake - gains Lighthouse
+new_tomitake - draws Copper, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Doctor
+Stef - shuffles deck
+Stef - draws Copper, Plaza, Plaza, Copper
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Plaza
+new_tomitake - gains Plaza
+new_tomitake - draws Estate, Talisman, Silver, Haggler, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Estate, Plaza, Copper
+Stef - trashes Estate
+Stef - places Copper on top of deck
+Stef - places Plaza on top of deck
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - plays Haggler
+new_tomitake - plays 1 Silver, 1 Copper
+new_tomitake - plays Talisman
+new_tomitake - buys Gold
+new_tomitake - gains Haggler
+new_tomitake - gains Gold
+new_tomitake - draws Lighthouse, Copper, Lighthouse, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - shuffles deck
+Stef - draws Doctor, Copper, Plaza, Copper, Estate
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays Lighthouse
+new_tomitake - plays Lighthouse
+new_tomitake - plays 2 Copper
+new_tomitake - buys Plaza
+new_tomitake - gains Plaza
+new_tomitake - shuffles deck
+new_tomitake - draws Gold, Copper, Estate, Copper, Haggler
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Silver, Plaza, Haggler
+Stef - places Haggler on top of deck
+Stef - places Plaza on top of deck
+Stef - places Silver on top of deck
+Stef - draws Silver, Plaza, Haggler, Plaza, Copper
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - duration Lighthouse
+new_tomitake - duration Lighthouse
+new_tomitake - plays Haggler
+new_tomitake - plays 2 Copper, 1 Gold
+new_tomitake - buys Province
+new_tomitake - gains Gold
+new_tomitake - gains Province
+new_tomitake - draws Estate, Plaza, Silver, Copper, Plaza
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Haggler
+Stef - plays 1 Silver
+Stef - uses 4 coin tokens
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Plaza, Estate, Gold, Haggler
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - plays Plaza
+new_tomitake - draws Copper
+new_tomitake - discards Copper
+new_tomitake - receives 1 coin token
+new_tomitake - plays Plaza
+new_tomitake - draws Talisman
+new_tomitake - discards Copper
+new_tomitake - receives 1 coin token
+new_tomitake - plays 1 Silver
+new_tomitake - plays Talisman
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - gains Silver
+new_tomitake - draws Copper, Haggler, Estate, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Province
+Stef - plays Haggler
+Stef - plays Gold
+Stef - uses 1 coin token
+Stef - buys Gold
+Stef - gains Haggler
+Stef - gains Gold
+Stef - draws Doctor, Silver, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - plays Haggler
+new_tomitake - plays 3 Copper
+new_tomitake - uses 1 coin token
+new_tomitake - buys Farmland
+new_tomitake - trashes Estate
+new_tomitake - gains Plaza
+new_tomitake - gains Lighthouse
+new_tomitake - gains Farmland
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Copper, Lighthouse, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Plaza, Copper, Copper
+Stef - trashes Copper, Copper
+Stef - places Plaza on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Plaza, Copper
+Stef - shuffles deck
+Stef - draws Plaza, Silver, Estate
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays Lighthouse
+new_tomitake - plays 3 Copper, 1 Silver
+new_tomitake - buys Gold
+new_tomitake - gains Gold
+new_tomitake - draws Plaza, Copper, Silver, Plaza, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Haggler
+Stef - plays Haggler
+Stef - plays 1 Silver
+Stef - uses 2 coin tokens
+Stef - buys Farmland
+Stef - trashes Estate
+Stef - gains Plaza
+Stef - gains Harvest
+Stef - gains Farmland
+Stef - draws Doctor, Province, Plaza, Haggler, Gold
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - duration Lighthouse
+new_tomitake - plays Plaza
+new_tomitake - draws Lighthouse
+new_tomitake - discards Copper
+new_tomitake - receives 1 coin token
+new_tomitake - plays Lighthouse
+new_tomitake - plays Plaza
+new_tomitake - draws Plaza
+new_tomitake - plays Plaza
+new_tomitake - draws Lighthouse
+new_tomitake - plays Lighthouse
+new_tomitake - plays Silver
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Haggler, Copper, Talisman, Copper, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Gold, Estate
+Stef - trashes Copper
+Stef - places Estate on top of deck
+Stef - places Gold on top of deck
+Stef - plays Haggler
+Stef - plays Gold
+Stef - uses 1 coin token
+Stef - buys Gold
+Stef - gains Plaza
+Stef - gains Gold
+Stef - draws Gold, Estate
+Stef - shuffles deck
+Stef - draws Haggler, Copper, Plaza
+ 
+---------- new_tomitake: turn 13 ----------
+new_tomitake - duration Lighthouse
+new_tomitake - duration Lighthouse
+new_tomitake - plays Haggler
+new_tomitake - plays 2 Copper, 1 Gold
+new_tomitake - buys Province
+new_tomitake - gains Gold
+new_tomitake - gains Province
+new_tomitake - draws Estate, Copper, Farmland, Gold, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Plaza
+Stef - draws Silver
+Stef - plays Haggler
+Stef - plays 1 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Plaza, Haggler, Copper, Province, Harvest
+ 
+---------- new_tomitake: turn 14 ----------
+new_tomitake - plays 1 Copper, 1 Gold, 1 Silver
+new_tomitake - buys Farmland
+new_tomitake - trashes Farmland
+new_tomitake - gains Province
+new_tomitake - gains Farmland
+new_tomitake - draws Haggler, Province
+new_tomitake - shuffles deck
+new_tomitake - draws Plaza, Plaza, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Doctor
+Stef - plays Harvest
+Stef - reveals: Plaza, Copper, Gold, Farmland
+Stef - discards: Plaza, Copper, Gold, Farmland
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Gold, Plaza, Plaza
+Stef - places Plaza on top of deck
+Stef - places Plaza on top of deck
+Stef - places Gold on top of deck
+Stef - plays Haggler
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Gold, Plaza, Plaza
+Stef - shuffles deck
+Stef - draws Gold, Harvest
+ 
+---------- new_tomitake: turn 15 ----------
+new_tomitake - plays Plaza
+new_tomitake - draws Province
+new_tomitake - discards Copper
+new_tomitake - receives 1 coin token
+new_tomitake - plays Plaza
+new_tomitake - draws Silver
+new_tomitake - discards Silver
+new_tomitake - receives 1 coin token
+new_tomitake - plays Haggler
+new_tomitake - buys Estate
+new_tomitake - gains Copper
+new_tomitake - gains Estate
+new_tomitake - draws Silver, Estate, Gold, Copper, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Plaza
+Stef - draws Silver
+Stef - discards Gold
+Stef - receives 1 coin token
+Stef - plays Harvest
+Stef - reveals: Province, Gold, Doctor, Estate
+Stef - discards: Province, Gold, Doctor, Estate
+Stef - plays Plaza
+Stef - draws Province
+Stef - plays Gold
+Stef - buys Farmland
+Stef - trashes Silver
+Stef - gains Duchy
+Stef - gains Farmland
+Stef - draws Gold, Province, Plaza, Haggler, Gold
+ 
+---------- new_tomitake: turn 16 ----------
+new_tomitake - plays Gold
+new_tomitake - plays Copper
+new_tomitake - plays Copper
+new_tomitake - plays 1 Silver
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Copper, Gold, Gold, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Plaza
+Stef - draws Farmland
+Stef - discards Gold
+Stef - receives 1 coin token
+Stef - plays Haggler
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Silver
+Stef - gains Duchy
+Stef - draws Copper, Haggler, Plaza, Plaza, Plaza
+ 
+---------- new_tomitake: turn 17 ----------
+new_tomitake - plays Gold
+new_tomitake - plays Copper
+new_tomitake - plays Copper
+new_tomitake - plays 1 Copper, 1 Gold
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Gold, Estate, Duchy, Lighthouse, Plaza
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - plays Plaza
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Haggler
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - gains Silver
+Stef - gains Duchy
+Stef - draws Duchy, Harvest, Gold, Plaza, Doctor
+ 
+---------- new_tomitake: turn 18 ----------
+new_tomitake - plays Lighthouse
+new_tomitake - plays Plaza
+new_tomitake - draws Lighthouse
+new_tomitake - plays Lighthouse
+new_tomitake - plays Gold
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Haggler, Farmland, Lighthouse, Copper, Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Plaza
+Stef - draws Gold
+Stef - discards Gold
+Stef - receives 1 coin token
+Stef - plays Harvest
+Stef - reveals: Gold, Province, Province, Haggler
+Stef - discards: Gold, Province, Province, Haggler
+Stef - plays Gold
+Stef - buys Farmland
+Stef - trashes Doctor
+Stef - gains Duchy
+Stef - gains Farmland
+Stef - draws Gold, Farmland, Plaza, Silver, Plaza
+ 
+---------- new_tomitake: turn 19 ----------
+new_tomitake - duration Lighthouse
+new_tomitake - duration Lighthouse
+new_tomitake - plays Lighthouse
+new_tomitake - plays Haggler
+new_tomitake - plays Copper
+new_tomitake - buys Farmland
+new_tomitake - trashes Farmland
+new_tomitake - gains Province
+new_tomitake - gains Contraband
+new_tomitake - gains Farmland
+new_tomitake - draws Silver, Talisman
+new_tomitake - shuffles deck
+new_tomitake - draws Haggler, Gold, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Plaza
+Stef - draws Estate
+Stef - plays Plaza
+Stef - draws Farmland
+Stef - plays 1 Gold, 1 Silver
+Stef - uses 3 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Gold
+Stef - shuffles deck
+Stef - draws Duchy, Duchy, Haggler
+ 
+------------ Game Over ------------
+Stef - cards: 6 Plaza, 2 Haggler, 1 Harvest, 5 Gold, 3 Copper, 2 Silver, 4 Duchy, 4 Province, 3 Farmland, 1 Estate
+Stef - total victory points: 43
+Stef - turns: 20
+ 
+new_tomitake - cards: 3 Lighthouse, 3 Plaza, 2 Haggler, 8 Copper, 4 Gold, 3 Silver, 1 Talisman, 1 Contraband, 4 Duchy, 4 Province, 3 Estate, 1 Farmland
+new_tomitake - total victory points: 41
+new_tomitake - turns: 19
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

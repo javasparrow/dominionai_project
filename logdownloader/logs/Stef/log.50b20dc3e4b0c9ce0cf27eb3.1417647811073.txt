@@ -1,0 +1,760 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Doctor, Scheme, Tunnel, Fortress, Herald, Scavenger, Talisman, Wandering Minstrel, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+soulnet - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+soulnet - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+soulnet - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- soulnet: turn 1 ----------
+soulnet - plays 4 Copper
+soulnet - buys Scavenger
+soulnet - gains Scavenger
+soulnet - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- soulnet: turn 2 ----------
+soulnet - plays 3 Copper
+soulnet - buys Chapel
+soulnet - gains Chapel
+soulnet - shuffles deck
+soulnet - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - shuffles deck
+Stef - draws Copper, Copper, Chapel, Copper, Estate
+ 
+---------- soulnet: turn 3 ----------
+soulnet - plays 3 Copper
+soulnet - buys Scheme
+soulnet - gains Scheme
+soulnet - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper, Copper
+Stef - draws Copper, Copper, Estate, Copper, Scavenger
+ 
+---------- soulnet: turn 4 ----------
+soulnet - plays 4 Copper
+soulnet - buys Talisman
+soulnet - gains Talisman
+soulnet - draws Scavenger, Chapel
+soulnet - shuffles deck
+soulnet - draws Scheme, Talisman, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scavenger
+Stef - places Chapel on top of deck
+Stef - plays 3 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Chapel, Estate, Copper
+Stef - shuffles deck
+Stef - draws Talisman, Scavenger
+ 
+---------- soulnet: turn 5 ----------
+soulnet - plays Scheme
+soulnet - draws Estate
+soulnet - plays Chapel
+soulnet - trashes Estate, Estate
+soulnet - Scheme choice: Chapel
+soulnet - draws Chapel, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Copper on top of deck
+Stef - plays 1 Copper
+Stef - plays Talisman
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Talisman, Scavenger
+ 
+---------- soulnet: turn 6 ----------
+soulnet - plays Chapel
+soulnet - trashes Copper, Copper, Copper, Copper
+soulnet - draws Copper, Copper, Copper, Estate
+soulnet - shuffles deck
+soulnet - draws Talisman
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays 2 Copper
+Stef - plays Talisman
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Scavenger, Copper, Copper, Copper
+ 
+---------- soulnet: turn 7 ----------
+soulnet - plays 3 Copper
+soulnet - plays Talisman
+soulnet - buys Wandering Minstrel
+soulnet - gains Wandering Minstrel
+soulnet - gains Wandering Minstrel
+soulnet - draws Scavenger, Scheme, Chapel
+soulnet - shuffles deck
+soulnet - draws Wandering Minstrel, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Rabble
+Stef - reveals: Estate, Chapel, Wandering Minstrel
+Stef - places Chapel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Estate
+Stef - plays Rabble
+Stef - draws Wandering Minstrel, Chapel, Copper
+soulnet - reveals Estate, Wandering Minstrel, Copper
+soulnet - discards: Wandering Minstrel, Copper
+soulnet - places Estate on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Talisman
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - discards: Talisman, Estate
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper
+Stef - plays Scavenger
+Stef - places Talisman on top of deck
+Stef - plays 2 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Talisman
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper, Talisman, Scavenger
+ 
+---------- soulnet: turn 8 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Estate
+soulnet - reveals: Copper, Talisman
+soulnet - shuffles deck
+soulnet - reveals: Copper
+soulnet - discards: Copper, Talisman, Copper
+soulnet - plays Scheme
+soulnet - draws Wandering Minstrel
+soulnet - plays Scavenger
+soulnet - places Copper on top of deck
+soulnet - plays Wandering Minstrel
+soulnet - draws Copper
+soulnet - shuffles deck
+soulnet - reveals: Talisman, Copper
+soulnet - discards: Talisman, Copper
+soulnet - plays Chapel
+soulnet - trashes Estate, Copper, Copper
+soulnet - Scheme choice: Scavenger
+soulnet - draws Scavenger
+soulnet - shuffles deck
+soulnet - draws Scheme, Talisman, Chapel, Wandering Minstrel
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Rabble, Wandering Minstrel, Chapel
+Stef - places Chapel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Rabble on top of deck
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays 2 Copper
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Herald
+Stef - gains Herald
+Stef - gains Herald
+Stef - gains Herald
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Herald, Scavenger, Rabble, Wandering Minstrel
+ 
+---------- soulnet: turn 9 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Copper
+soulnet - reveals: Wandering Minstrel
+soulnet - places Wandering Minstrel on top of deck
+soulnet - plays Scheme
+soulnet - draws Wandering Minstrel
+soulnet - plays Scavenger
+soulnet - plays 1 Copper
+soulnet - plays Talisman
+soulnet - buys Talisman
+soulnet - gains Talisman
+soulnet - gains Talisman
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Scavenger, Copper, Talisman, Talisman
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Herald
+Stef - reveals: Copper, Talisman, Estate
+Stef - discards: Copper, Talisman, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Talisman, Herald, Chapel
+Stef - places Herald on top of deck
+Stef - places Chapel on top of deck
+Stef - discards Talisman
+Stef - plays Herald
+Stef - draws Chapel
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Rabble
+Stef - draws Estate, Talisman, Talisman
+soulnet - reveals Scheme, Wandering Minstrel, Talisman
+soulnet - discards: Scheme, Wandering Minstrel, Talisman
+Stef - plays Scavenger
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - gains Scavenger
+Stef - gains Scavenger
+Stef - shuffles deck
+Stef - draws Chapel, Talisman, Rabble, Wandering Minstrel, Herald
+ 
+---------- soulnet: turn 10 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Chapel
+soulnet - shuffles deck
+soulnet - reveals: Talisman, Wandering Minstrel, Scheme
+soulnet - places Wandering Minstrel on top of deck
+soulnet - places Scheme on top of deck
+soulnet - discards Talisman
+soulnet - plays Scavenger
+soulnet - moves deck to discards
+soulnet - places Wandering Minstrel on top of deck
+soulnet - plays Chapel
+soulnet - trashes Copper
+soulnet - plays Talisman
+soulnet - plays Talisman
+soulnet - buys Herald
+soulnet - gains Herald
+soulnet - gains Herald
+soulnet - gains Herald
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Herald, Scavenger, Chapel, Wandering Minstrel
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Scavenger
+Stef - reveals: Wandering Minstrel, Scavenger, Scavenger
+Stef - places Scavenger on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Scavenger on top of deck
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Scavenger
+Stef - reveals: Herald, Scavenger, Talisman
+Stef - places Scavenger on top of deck
+Stef - places Herald on top of deck
+Stef - discards Talisman
+Stef - plays Rabble
+Stef - draws Herald, Scavenger, Herald
+soulnet - reveals Talisman, Herald, Talisman
+soulnet - discards: Talisman, Herald, Talisman
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Talisman
+Stef - plays Scavenger
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Herald
+Stef - gains Herald
+Stef - gains Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Scavenger, Wandering Minstrel, Rabble, Chapel, Herald
+ 
+---------- soulnet: turn 11 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Scheme
+soulnet - reveals: Talisman, Herald
+soulnet - shuffles deck
+soulnet - reveals: Talisman
+soulnet - places Herald on top of deck
+soulnet - discards: Talisman, Talisman
+soulnet - plays Wandering Minstrel
+soulnet - draws Herald
+soulnet - reveals: Herald, Talisman
+soulnet - shuffles deck
+soulnet - reveals: Talisman
+soulnet - places Herald on top of deck
+soulnet - discards: Talisman, Talisman
+soulnet - plays Herald
+soulnet - draws Herald
+soulnet - reveals: Talisman
+soulnet - places Talisman on top of deck
+soulnet - plays Herald
+soulnet - draws Talisman
+soulnet - shuffles deck
+soulnet - reveals: Talisman
+soulnet - places Talisman on top of deck
+soulnet - plays Herald
+soulnet - draws Talisman
+soulnet - reveals: Talisman
+soulnet - places Talisman on top of deck
+soulnet - plays Scheme
+soulnet - draws Talisman
+soulnet - plays Scavenger
+soulnet - plays Talisman
+soulnet - plays Talisman
+soulnet - plays Talisman
+soulnet - buys Scavenger
+soulnet - gains Scavenger
+soulnet - gains Scavenger
+soulnet - gains Scavenger
+soulnet - gains Scavenger
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Chapel, Talisman, Scavenger, Scavenger
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Herald
+Stef - reveals: Scavenger, Herald, Scavenger
+Stef - places Scavenger on top of deck
+Stef - places Herald on top of deck
+Stef - places Scavenger on top of deck
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Talisman
+Stef - places Talisman on top of deck
+Stef - plays Herald
+Stef - draws Talisman
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Talisman
+Stef - reveals: Herald, Herald
+Stef - places Herald on top of deck
+Stef - places Herald on top of deck
+Stef - plays Scavenger
+Stef - plays Scavenger
+Stef - plays Scavenger
+Stef - plays Scavenger
+Stef - buys Province
+Stef - gains Province
+Stef - draws Herald, Herald
+Stef - shuffles deck
+Stef - draws Herald, Talisman, Herald
+ 
+---------- soulnet: turn 12 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Scavenger
+soulnet - reveals: Scheme, Herald, Talisman
+soulnet - places Scheme on top of deck
+soulnet - places Herald on top of deck
+soulnet - discards Talisman
+soulnet - plays Scavenger
+soulnet - places Talisman on top of deck
+soulnet - plays Scavenger
+soulnet - plays Talisman
+soulnet - buys Rabble
+soulnet - gains Rabble
+soulnet - draws Talisman, Herald, Scheme, Wandering Minstrel, Herald
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Herald
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - plays Wandering Minstrel
+Stef - draws Talisman
+Stef - reveals: Scavenger, Province, Rabble
+Stef - places Rabble on top of deck
+Stef - places Scavenger on top of deck
+Stef - discards Province
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Rabble
+Stef - plays Rabble
+Stef - draws Herald, Wandering Minstrel, Chapel
+soulnet - reveals Scavenger, Scavenger, Herald
+soulnet - discards: Scavenger, Scavenger, Herald
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Herald on top of deck
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Province
+Stef - gains Province
+Stef - draws Herald
+Stef - shuffles deck
+Stef - draws Herald, Province, Scavenger, Talisman
+ 
+---------- soulnet: turn 13 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Talisman
+soulnet - shuffles deck
+soulnet - reveals: Scavenger, Talisman, Rabble
+soulnet - places Rabble on top of deck
+soulnet - places Scavenger on top of deck
+soulnet - discards Talisman
+soulnet - plays Herald
+soulnet - draws Scavenger
+soulnet - reveals: Rabble
+soulnet - plays Rabble
+soulnet - draws Scavenger, Herald, Wandering Minstrel
+Stef - reveals Scavenger, Chapel, Scavenger
+Stef - discards: Scavenger, Chapel, Scavenger
+soulnet - plays Wandering Minstrel
+soulnet - draws Scavenger
+soulnet - reveals: Scavenger, Chapel, Scavenger
+soulnet - places Scavenger on top of deck
+soulnet - places Scavenger on top of deck
+soulnet - places Chapel on top of deck
+soulnet - plays Herald
+soulnet - draws Chapel
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - moves deck to discards
+soulnet - places Talisman on top of deck
+soulnet - plays Herald
+soulnet - draws Talisman
+soulnet - shuffles deck
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - plays Scheme
+soulnet - plays Scavenger
+soulnet - plays Scavenger
+soulnet - plays Chapel
+soulnet - trashes Talisman, Talisman, Talisman
+soulnet - buys Province
+soulnet - gains Province
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Chapel, Scavenger, Scavenger, Scheme
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Herald
+Stef - draws Rabble
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Scavenger
+Stef - reveals: Herald, Province, Talisman
+Stef - places Herald on top of deck
+Stef - discards: Province, Talisman
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Talisman
+Stef - places Talisman on top of deck
+Stef - plays Herald
+Stef - draws Talisman
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Scavenger on top of deck
+Stef - plays Rabble
+Stef - draws Scavenger
+Stef - shuffles deck
+Stef - draws Province, Chapel
+soulnet - reveals Wandering Minstrel, Herald, Scavenger
+soulnet - discards: Wandering Minstrel, Herald, Scavenger
+Stef - plays Scavenger
+Stef - plays Scavenger
+Stef - plays Scavenger
+Stef - plays Chapel
+Stef - trashes Talisman, Talisman
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Herald, Wandering Minstrel, Herald, Scavenger, Scavenger
+ 
+---------- soulnet: turn 14 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Herald
+soulnet - reveals: Scavenger, Herald, Rabble
+soulnet - places Herald on top of deck
+soulnet - places Rabble on top of deck
+soulnet - places Scavenger on top of deck
+soulnet - plays Herald
+soulnet - draws Scavenger
+soulnet - reveals: Rabble
+soulnet - plays Rabble
+soulnet - draws Herald, Province, Scavenger
+Stef - reveals Herald, Chapel, Province
+Stef - discards: Herald, Chapel
+Stef - places Province on top of deck
+soulnet - plays Scheme
+soulnet - shuffles deck
+soulnet - draws Wandering Minstrel
+soulnet - plays Wandering Minstrel
+soulnet - draws Scavenger
+soulnet - reveals: Herald
+soulnet - places Herald on top of deck
+soulnet - plays Scavenger
+soulnet - plays Scavenger
+soulnet - plays Scavenger
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel, Herald
+soulnet - shuffles deck
+soulnet - draws Scavenger, Wandering Minstrel, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Rabble, Scavenger, Herald
+Stef - places Rabble on top of deck
+Stef - places Herald on top of deck
+Stef - places Scavenger on top of deck
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Rabble
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Province
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Province
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Scavenger
+Stef - places Herald on top of deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Herald, Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Herald, Herald, Wandering Minstrel
+ 
+---------- soulnet: turn 15 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Chapel
+soulnet - reveals: Herald, Scavenger, Scheme
+soulnet - places Herald on top of deck
+soulnet - places Scavenger on top of deck
+soulnet - places Scheme on top of deck
+soulnet - plays Herald
+soulnet - draws Scheme
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - moves deck to discards
+soulnet - places Herald on top of deck
+soulnet - plays Scheme
+soulnet - draws Herald
+soulnet - plays Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Rabble
+soulnet - reveals: Scavenger, Scavenger, Herald
+soulnet - places Scavenger on top of deck
+soulnet - places Scavenger on top of deck
+soulnet - places Herald on top of deck
+soulnet - plays Herald
+soulnet - draws Herald
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - moves deck to discards
+soulnet - places Duchy on top of deck
+soulnet - plays Herald
+soulnet - draws Duchy
+soulnet - shuffles deck
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - plays Rabble
+soulnet - draws Scavenger
+Stef - reveals Rabble, Province, Scavenger
+Stef - discards: Rabble, Scavenger
+Stef - places Province on top of deck
+soulnet - plays Chapel
+soulnet - trashes Scavenger
+soulnet - plays Scavenger
+soulnet - buys Province
+soulnet - gains Province
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Chapel, Scavenger, Province, Scheme
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Province, Province, Province
+Stef - discards: Province, Province, Province
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Scavenger on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Scavenger
+Stef - shuffles deck
+Stef - reveals: Province, Chapel, Scavenger
+Stef - places Scavenger on top of deck
+Stef - places Chapel on top of deck
+Stef - discards Province
+Stef - plays Herald
+Stef - draws Chapel
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Herald on top of deck
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Herald on top of deck
+Stef - plays Scavenger
+Stef - places Rabble on top of deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Rabble, Herald
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Scavenger, Wandering Minstrel
+ 
+---------- soulnet: turn 16 ----------
+soulnet - plays Wandering Minstrel
+soulnet - draws Scavenger
+soulnet - reveals: Rabble, Scavenger, Wandering Minstrel
+soulnet - places Scavenger on top of deck
+soulnet - places Wandering Minstrel on top of deck
+soulnet - places Rabble on top of deck
+soulnet - plays Scheme
+soulnet - draws Rabble
+soulnet - plays Rabble
+soulnet - draws Wandering Minstrel, Scavenger, Herald
+Stef - reveals Herald, Scavenger, Province
+Stef - discards: Herald, Scavenger
+Stef - places Province on top of deck
+soulnet - plays Wandering Minstrel
+soulnet - draws Herald
+soulnet - reveals: Herald, Scavenger, Province
+soulnet - places Scavenger on top of deck
+soulnet - places Herald on top of deck
+soulnet - discards Province
+soulnet - plays Herald
+soulnet - draws Herald
+soulnet - reveals: Scavenger
+soulnet - plays Scavenger
+soulnet - places Province on top of deck
+soulnet - plays Herald
+soulnet - draws Province
+soulnet - reveals: Duchy
+soulnet - places Duchy on top of deck
+soulnet - plays Herald
+soulnet - draws Duchy
+soulnet - plays Scavenger
+soulnet - plays Scavenger
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - Scheme choice: Wandering Minstrel
+soulnet - draws Wandering Minstrel
+soulnet - shuffles deck
+soulnet - draws Herald, Duchy, Scheme, Herald
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Province, Province, Herald
+Stef - places Herald on top of deck
+Stef - discards: Province, Province
+Stef - plays Wandering Minstrel
+Stef - draws Herald
+Stef - reveals: Province, Herald, Province
+Stef - places Herald on top of deck
+Stef - discards: Province, Province
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - places Herald on top of deck
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Chapel
+Stef - plays Chapel
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Scavenger
+Stef - shuffles deck
+Stef - reveals: Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Province on top of deck
+Stef - plays Scavenger
+Stef - places Province on top of deck
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Province on top of deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Chapel, Province, Rabble, Scavenger
+ 
+------------ Game Over ------------
+Stef - cards: 6 Herald, 4 Scavenger, 2 Wandering Minstrel, 1 Chapel, 1 Rabble, 6 Province
+Stef - total victory points: 36
+Stef - turns: 16
+ 
+soulnet - cards: 4 Scavenger, 3 Herald, 2 Wandering Minstrel, 1 Scheme, 1 Rabble, 1 Chapel, 2 Duchy, 2 Province
+soulnet - total victory points: 18
+soulnet - turns: 16
+ 
+1st place: Stef
+2nd place: soulnet
+ 

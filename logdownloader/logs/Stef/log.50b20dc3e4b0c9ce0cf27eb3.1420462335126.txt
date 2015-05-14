@@ -1,0 +1,498 @@
+------------ Game Setup ------------
+Supply cards: Wishing Well, Familiar, Caravan, Noble Brigand, Nomad Camp, Remake, Thief, Knights, Rogue, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hakase bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+hakase bot - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+hakase bot - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- hakase bot: turn 1 ----------
+hakase bot - plays 3 Copper
+hakase bot - buys Wishing Well
+hakase bot - gains Wishing Well
+hakase bot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- hakase bot: turn 2 ----------
+hakase bot - plays 4 Copper
+hakase bot - buys Silver
+hakase bot - gains Silver
+hakase bot - shuffles deck
+hakase bot - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - shuffles deck
+Stef - draws Copper, Copper, Wishing Well, Estate, Remake
+ 
+---------- hakase bot: turn 3 ----------
+hakase bot - plays 3 Copper
+hakase bot - buys Silver
+hakase bot - gains Silver
+hakase bot - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - trashes Copper
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- hakase bot: turn 4 ----------
+hakase bot - plays 4 Copper, 1 Silver
+hakase bot - buys Gold
+hakase bot - gains Gold
+hakase bot - draws Estate, Wishing Well
+hakase bot - shuffles deck
+hakase bot - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Wishing Well, Wishing Well, Estate, Estate
+ 
+---------- hakase bot: turn 5 ----------
+hakase bot - plays Wishing Well
+hakase bot - draws Gold
+hakase bot - names Estate
+hakase bot - reveals Silver
+hakase bot - plays 3 Copper, 1 Gold
+hakase bot - buys Gold
+hakase bot - gains Gold
+hakase bot - draws Silver, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Remake
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Wishing Well
+Stef - shuffles deck
+Stef - draws Wishing Well, Copper
+ 
+---------- hakase bot: turn 6 ----------
+hakase bot - plays 3 Copper, 2 Silver
+hakase bot - buys Torturer
+hakase bot - gains Torturer
+hakase bot - draws Copper, Estate, Estate
+hakase bot - shuffles deck
+hakase bot - draws Copper, Gold
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Remake
+Stef - plays Wishing Well
+Stef - draws Remake
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Potion
+Stef - plays Wishing Well
+Stef - draws Potion
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Wishing Well, Remake, Wishing Well
+ 
+---------- hakase bot: turn 7 ----------
+hakase bot - plays 2 Copper, 1 Gold
+hakase bot - buys Sir Martin
+hakase bot - gains Sir Martin
+hakase bot - draws Copper, Copper, Copper, Silver, Torturer
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wishing Well
+Stef - draws Potion
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper, Wishing Well, Wishing Well, Familiar, Copper
+ 
+---------- hakase bot: turn 8 ----------
+hakase bot - plays Torturer
+hakase bot - draws Estate, Copper, Wishing Well
+Stef - discards Copper
+Stef - discards Copper
+hakase bot - plays 4 Copper, 1 Silver
+hakase bot - buys Dame Sylvia
+hakase bot - gains Dame Sylvia
+hakase bot - draws Copper, Silver, Gold
+hakase bot - shuffles deck
+hakase bot - draws Dame Sylvia, Sir Martin
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Familiar
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Remake
+Stef - plays Familiar
+Stef - draws Remake
+hakase bot - gains Curse
+Stef - plays Familiar
+Stef - draws Copper
+hakase bot - gains Curse
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Potion, Copper, Copper, Wishing Well
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- hakase bot: turn 9 ----------
+hakase bot - plays Sir Martin
+Stef - reveals: Familiar, Wishing Well
+Stef - trashes Wishing Well
+Stef - discards Familiar
+hakase bot - plays 1 Copper, 1 Silver, 1 Gold
+hakase bot - buys Sir Vander
+hakase bot - gains Sir Vander
+hakase bot - draws Copper, Silver, Torturer, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Familiar
+Stef - plays Wishing Well
+Stef - draws Familiar
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Familiar
+Stef - draws Copper
+hakase bot - gains Curse
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Dame Molly
+Stef - gains Dame Molly
+Stef - draws Caravan, Wishing Well, Remake, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- hakase bot: turn 10 ----------
+hakase bot - plays Torturer
+hakase bot - draws Copper, Copper, Estate
+Stef - gains Curse
+hakase bot - plays 5 Copper, 1 Silver
+hakase bot - buys Dame Natalie
+hakase bot - gains Dame Natalie
+hakase bot - draws Estate, Wishing Well, Copper, Gold, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Caravan
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Dame Molly
+hakase bot - gains Curse
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Familiar
+Stef - plays Wishing Well
+Stef - draws Familiar
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Familiar
+Stef - draws Potion
+hakase bot - gains Curse
+Stef - plays Dame Molly
+hakase bot - shuffles deck
+hakase bot - reveals: Curse, Copper
+Stef - plays Remake
+Stef - trashes Curse
+Stef - trashes Potion
+Stef - gains Rogue
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Wishing Well, Copper
+Stef - shuffles deck
+Stef - draws Copper, Rogue
+ 
+---------- hakase bot: turn 11 ----------
+hakase bot - plays Wishing Well
+hakase bot - draws Curse
+hakase bot - names Copper
+hakase bot - reveals Estate
+hakase bot - plays 1 Copper, 1 Gold
+hakase bot - buys Caravan
+hakase bot - gains Caravan
+hakase bot - draws Estate, Gold, Copper, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Copper
+Stef - reveals Remake
+Stef - plays Caravan
+Stef - draws Remake
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Copper
+Stef - plays Rogue
+Stef - gains Wishing Well
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Familiar, Wishing Well, Copper, Wishing Well
+ 
+---------- hakase bot: turn 12 ----------
+hakase bot - plays 3 Copper, 1 Gold
+hakase bot - buys Dame Josephine
+hakase bot - gains Dame Josephine
+hakase bot - draws Torturer, Silver, Sir Vander, Dame Sylvia, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Dame Molly
+hakase bot - gains Curse
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Copper
+hakase bot - gains Curse
+Stef - plays Wishing Well
+Stef - draws Rogue
+Stef - names Copper
+Stef - reveals Caravan
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Remake
+Stef - reveals Wishing Well
+Stef - plays Dame Molly
+hakase bot - reveals: Copper, Curse
+Stef - plays 5 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Wishing Well, Copper, Remake, Caravan
+Stef - shuffles deck
+Stef - draws Wishing Well
+ 
+---------- hakase bot: turn 13 ----------
+hakase bot - plays Sir Vander
+Stef - reveals: Copper, Copper
+hakase bot - plays 2 Silver
+hakase bot - buys Caravan
+hakase bot - gains Caravan
+hakase bot - draws Copper, Curse, Curse, Dame Natalie, Sir Martin
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Familiar
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Familiar
+Stef - draws Wishing Well
+hakase bot - gains Curse
+Stef - plays Caravan
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Copper
+hakase bot - gains Curse
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Rogue
+Stef - names Copper
+Stef - reveals Caravan
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Dame Molly
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Dame Molly
+hakase bot - shuffles deck
+hakase bot - reveals: Silver, Curse
+hakase bot - trashes Silver
+hakase bot - discards Curse
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Caravan, Wishing Well, Familiar, Copper, Remake
+ 
+---------- hakase bot: turn 14 ----------
+hakase bot - plays Dame Natalie
+hakase bot - gains Wishing Well
+Stef - reveals: Dame Molly, Rogue
+Stef - trashes Rogue
+Stef - discards Dame Molly
+hakase bot - draws Silver, Copper, Curse, Copper, Dame Sylvia
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Wishing Well
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Familiar
+Stef - draws Wishing Well
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Familiar
+Stef - plays Wishing Well
+Stef - draws Familiar
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Dame Molly
+Stef - names Familiar
+Stef - plays Dame Molly
+hakase bot - reveals: Gold, Copper
+hakase bot - trashes Gold
+hakase bot - discards Copper
+Stef - plays Remake
+Stef - trashes Silver
+Stef - gains Nomad Camp
+Stef - trashes Copper
+Stef - plays Familiar
+Stef - draws Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Caravan, Copper, Wishing Well, Copper, Wishing Well
+ 
+---------- hakase bot: turn 15 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 6 Caravan, 5 Wishing Well, 2 Familiar, 1 Nomad Camp, 1 Remake, 1 Dame Molly, 3 Copper, 1 Gold
+Stef - total victory points: 0
+Stef - turns: 14
+ 
+hakase bot - resigned
+hakase bot - cards: 2 Wishing Well, 2 Caravan, 1 Dame Josephine, 1 Dame Sylvia, 1 Dame Natalie, 1 Sir Martin, 1 Sir Vander, 1 Torturer, 7 Copper, 1 Silver, 1 Gold, 3 Estate, 9 Curse
+hakase bot - total victory points: -4
+hakase bot - turns: 14
+ 
+1st place: Stef
+2nd place: hakase bot
+ 

@@ -1,0 +1,710 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Embargo, Vagrant, Loan, Caravan, Monument, Worker's Village, Ghost Ship, Upgrade, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - shuffles deck
+Stef - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Caravan
+shark_bait - gains Caravan
+shark_bait - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Loan
+shark_bait - gains Loan
+shark_bait - shuffles deck
+shark_bait - draws Caravan, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Copper, Estate, Caravan, Copper, Loan
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Caravan
+shark_bait - draws Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - draws Copper, Copper, Copper, Loan, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - duration Caravan
+shark_bait - draws Estate
+shark_bait - plays 3 Copper
+shark_bait - plays Loan
+shark_bait - shuffles deck
+shark_bait - reveals Copper
+shark_bait - trashes Copper
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - draws Copper, Worker's Village, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Candlestick Maker, Estate, Copper, Loan, Estate
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Worker's Village
+shark_bait - shuffles deck
+shark_bait - draws Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - draws Copper, Loan, Estate, Copper, Worker's Village
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Caravan, Estate
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Worker's Village
+shark_bait - draws Caravan
+shark_bait - plays Caravan
+shark_bait - draws Estate
+shark_bait - plays 2 Copper
+shark_bait - plays Loan
+shark_bait - shuffles deck
+shark_bait - reveals Estate, Copper
+shark_bait - trashes Copper
+shark_bait - discards Estate
+shark_bait - buys Candlestick Maker
+shark_bait - gains Candlestick Maker
+shark_bait - draws Copper, Copper, Worker's Village, Copper, Worker's Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Upgrade
+Stef - shuffles deck
+Stef - draws Copper, Candlestick Maker, Loan, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - duration Caravan
+shark_bait - shuffles deck
+shark_bait - draws Loan
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays 5 Copper
+shark_bait - plays Loan
+shark_bait - reveals Candlestick Maker, Estate, Estate, Worker's Village, Estate
+shark_bait - discards: Candlestick Maker, Estate, Estate, Worker's Village, Estate
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - shuffles deck
+shark_bait - draws Estate, Peddler, Copper, Worker's Village, Worker's Village
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Estate, Worker's Village, Estate, Copper
+Stef - trashes Copper
+Stef - discards: Estate, Worker's Village, Estate
+Stef - uses 2 coin tokens
+Stef - buys Ghost Ship
+Stef - gains Ghost Ship
+Stef - draws Copper, Vagrant
+Stef - shuffles deck
+Stef - draws Loan, Estate, Caravan
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Peddler
+shark_bait - draws Copper
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Worker's Village
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Ghost Ship
+shark_bait - gains Ghost Ship
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - draws Copper, Caravan, Candlestick Maker, Estate, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Worker's Village
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Upgrade, Copper
+Stef - trashes Copper
+Stef - discards Upgrade
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Ghost Ship, Candlestick Maker
+Stef - shuffles deck
+Stef - draws Peddler, Loan, Copper
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Caravan
+shark_bait - draws Loan
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 1 Copper
+shark_bait - plays Loan
+shark_bait - shuffles deck
+shark_bait - reveals Worker's Village, Worker's Village, Peddler, Copper
+shark_bait - trashes Copper
+shark_bait - discards: Worker's Village, Worker's Village, Peddler
+shark_bait - buys Vagrant
+shark_bait - gains Vagrant
+shark_bait - draws Estate, Copper, Peddler, Peddler, Worker's Village
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Upgrade
+Stef - plays Peddler
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays Ghost Ship
+Stef - draws Estate, Copper
+shark_bait - places Copper on top of deck
+shark_bait - places Estate on top of deck
+Stef - plays Upgrade
+Stef - draws Vagrant
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Loan
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - plays 2 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Copper, Copper, Caravan, Vagrant, Peddler
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - duration Caravan
+shark_bait - draws Estate
+shark_bait - plays Peddler
+shark_bait - draws Copper
+shark_bait - plays Peddler
+shark_bait - draws Peddler
+shark_bait - plays Worker's Village
+shark_bait - draws Ghost Ship
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Ghost Ship
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Ghost Ship
+shark_bait - gains Ghost Ship
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - draws Vagrant, Loan, Worker's Village, Candlestick Maker, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Upgrade
+Stef - places Upgrade on top of deck
+Stef - plays Caravan
+Stef - draws Upgrade
+Stef - plays Upgrade
+Stef - draws Candlestick Maker
+Stef - trashes Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Ghost Ship, Estate, Loan, Worker's Village, Peddler
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Worker's Village
+shark_bait - draws Peddler
+shark_bait - plays Peddler
+shark_bait - draws Estate
+shark_bait - plays Vagrant
+shark_bait - draws Worker's Village
+shark_bait - shuffles deck
+shark_bait - reveals: Peddler
+shark_bait - places Peddler on top of deck
+shark_bait - plays Worker's Village
+shark_bait - draws Peddler
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 2 Copper
+shark_bait - plays Loan
+shark_bait - reveals Copper
+shark_bait - trashes Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Caravan
+shark_bait - gains Caravan
+shark_bait - buys Vagrant
+shark_bait - gains Vagrant
+shark_bait - draws Ghost Ship, Copper, Peddler, Worker's Village, Peddler
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Peddler
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays Ghost Ship
+Stef - shuffles deck
+Stef - draws Vagrant, Copper
+shark_bait - places Copper on top of deck
+shark_bait - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Upgrade
+Stef - plays Vagrant
+Stef - draws Candlestick Maker
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Upgrade
+Stef - draws Vagrant
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Loan
+Stef - uses 1 coin token
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Ghost Ship
+Stef - gains Ghost Ship
+Stef - shuffles deck
+Stef - draws Upgrade, Peddler, Vagrant, Silver, Vagrant
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Peddler
+shark_bait - draws Peddler
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Peddler
+shark_bait - draws Caravan
+shark_bait - plays Caravan
+shark_bait - draws Ghost Ship
+shark_bait - plays Ghost Ship
+shark_bait - draws Peddler, Estate
+Stef - places Silver on top of deck
+Stef - places Vagrant on top of deck
+shark_bait - plays Peddler
+shark_bait - draws Peddler
+shark_bait - plays Peddler
+shark_bait - draws Estate
+shark_bait - plays Ghost Ship
+shark_bait - shuffles deck
+shark_bait - draws Copper, Caravan
+shark_bait - plays 2 Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Upgrade
+shark_bait - gains Upgrade
+shark_bait - buys Vagrant
+shark_bait - gains Vagrant
+shark_bait - draws Vagrant, Worker's Village, Peddler, Candlestick Maker, Loan
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Peddler
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Ghost Ship
+Stef - places Ghost Ship on top of deck
+Stef - plays Vagrant
+Stef - draws Ghost Ship
+Stef - reveals: Ghost Ship
+Stef - places Ghost Ship on top of deck
+Stef - plays Upgrade
+Stef - draws Ghost Ship
+Stef - trashes Silver
+Stef - gains Worker's Village
+Stef - plays Ghost Ship
+Stef - draws Copper, Estate
+shark_bait - places Candlestick Maker on top of deck
+shark_bait - places Loan on top of deck
+Stef - plays Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Caravan, Worker's Village, Loan, Candlestick Maker, Peddler
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - duration Caravan
+shark_bait - draws Loan
+shark_bait - plays Worker's Village
+shark_bait - draws Candlestick Maker
+shark_bait - plays Peddler
+shark_bait - draws Copper
+shark_bait - plays Vagrant
+shark_bait - draws Worker's Village
+shark_bait - reveals: Vagrant
+shark_bait - places Vagrant on top of deck
+shark_bait - plays Worker's Village
+shark_bait - draws Vagrant
+shark_bait - plays Vagrant
+shark_bait - draws Peddler
+shark_bait - reveals: Estate
+shark_bait - places Estate in hand
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - shuffles deck
+shark_bait - draws Peddler
+shark_bait - plays Peddler
+shark_bait - draws Estate
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 1 Copper
+shark_bait - plays Loan
+shark_bait - reveals Vagrant, Estate, Peddler, Peddler, Upgrade, Ghost Ship, Caravan, Ghost Ship, Copper
+shark_bait - trashes Copper
+shark_bait - discards: Vagrant, Estate, Peddler, Peddler, Upgrade, Ghost Ship, Caravan, Ghost Ship
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - draws Peddler, Copper, Worker's Village
+shark_bait - shuffles deck
+shark_bait - draws Worker's Village, Worker's Village
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Worker's Village
+Stef - draws Upgrade
+Stef - plays Caravan
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Vagrant
+Stef - draws Peddler
+Stef - reveals: Ghost Ship
+Stef - places Ghost Ship on top of deck
+Stef - plays Peddler
+Stef - draws Ghost Ship
+Stef - plays Ghost Ship
+Stef - draws Ghost Ship, Vagrant
+shark_bait - places Copper on top of deck
+shark_bait - places Peddler on top of deck
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Upgrade
+Stef - trashes Loan
+Stef - gains Monument
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Monument
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - uses 2 coin tokens
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Vagrant, Upgrade, Estate, Peddler, Worker's Village
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Worker's Village
+shark_bait - draws Peddler
+shark_bait - plays Worker's Village
+shark_bait - draws Copper
+shark_bait - plays Peddler
+shark_bait - draws Estate
+shark_bait - plays Worker's Village
+shark_bait - draws Vagrant
+shark_bait - plays Vagrant
+shark_bait - draws Caravan
+shark_bait - reveals: Ghost Ship
+shark_bait - places Ghost Ship on top of deck
+shark_bait - plays Caravan
+shark_bait - draws Ghost Ship
+shark_bait - plays Ghost Ship
+shark_bait - draws Loan, Vagrant
+Stef - places Estate on top of deck
+Stef - places Peddler on top of deck
+shark_bait - plays Vagrant
+shark_bait - draws Estate
+shark_bait - reveals: Peddler
+shark_bait - places Peddler on top of deck
+shark_bait - plays 1 Copper
+shark_bait - plays Loan
+shark_bait - reveals Peddler, Peddler, Caravan, Vagrant, Upgrade, Worker's Village, Copper
+shark_bait - trashes Copper
+shark_bait - discards: Peddler, Peddler, Caravan, Vagrant, Upgrade, Worker's Village
+shark_bait - uses 1 coin token
+shark_bait - buys Worker's Village
+shark_bait - gains Worker's Village
+shark_bait - draws Ghost Ship, Peddler, Candlestick Maker, Peddler, Peddler
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Peddler
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Worker's Village
+Stef - plays Vagrant
+Stef - draws Candlestick Maker
+Stef - reveals: Caravan
+Stef - places Caravan on top of deck
+Stef - plays Worker's Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Monument
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Ghost Ship, Ghost Ship, Vagrant, Peddler, Vagrant
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - duration Caravan
+shark_bait - draws Estate
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Peddler
+shark_bait - shuffles deck
+shark_bait - draws Estate
+shark_bait - plays Worker's Village
+shark_bait - draws Vagrant
+shark_bait - plays Vagrant
+shark_bait - draws Copper
+shark_bait - reveals: Worker's Village
+shark_bait - places Worker's Village on top of deck
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Peddler
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Upgrade
+shark_bait - plays Ghost Ship
+shark_bait - draws Peddler, Caravan
+Stef - places Ghost Ship on top of deck
+Stef - places Ghost Ship on top of deck
+shark_bait - plays Peddler
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Vagrant
+shark_bait - plays Vagrant
+shark_bait - draws Worker's Village
+shark_bait - reveals: Worker's Village
+shark_bait - places Worker's Village on top of deck
+shark_bait - plays Caravan
+shark_bait - draws Worker's Village
+shark_bait - plays Worker's Village
+shark_bait - draws Loan
+shark_bait - plays Worker's Village
+shark_bait - draws Ghost Ship
+shark_bait - plays Ghost Ship
+shark_bait - draws Peddler, Vagrant
+shark_bait - plays Upgrade
+shark_bait - draws Estate
+shark_bait - trashes Loan
+shark_bait - gains Monument
+shark_bait - plays Vagrant
+shark_bait - shuffles deck
+shark_bait - draws Monument
+shark_bait - plays Peddler
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Monument
+shark_bait - receives 1 victory point chips
+shark_bait - plays 1 Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - shuffles deck
+shark_bait - draws Peddler, Estate, Vagrant, Peddler, Peddler
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Ghost Ship
+Stef - plays Peddler
+Stef - draws Ghost Ship
+Stef - plays Vagrant
+Stef - draws Upgrade
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Vagrant
+Stef - draws Peddler
+Stef - reveals: Worker's Village
+Stef - places Worker's Village on top of deck
+Stef - plays Peddler
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Ghost Ship
+Stef - shuffles deck
+Stef - draws Worker's Village, Vagrant
+shark_bait - places Estate on top of deck
+shark_bait - places Peddler on top of deck
+Stef - plays Vagrant
+Stef - draws Upgrade
+Stef - reveals: Duchy
+Stef - places Duchy in hand
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Ghost Ship
+Stef - draws Caravan, Monument
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Caravan
+Stef - gains Duchy
+Stef - plays Upgrade
+Stef - draws Candlestick Maker
+Stef - trashes Worker's Village
+Stef - gains Duchy
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 3 coin tokens
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Peddler, Peddler
+Stef - shuffles deck
+Stef - draws Monument, Vagrant, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 7 Vagrant, 4 Peddler, 3 Worker's Village, 2 Upgrade, 2 Ghost Ship, 1 Monument, 1 Caravan, 1 Candlestick Maker, 1 Silver, 1 Copper, 3 Duchy, 1 Estate
+Stef - victory point chips: 3
+Stef - total victory points: 13
+Stef - turns: 15
+ 
+shark_bait - cards: 6 Peddler, 6 Worker's Village, 3 Vagrant, 2 Ghost Ship, 2 Caravan, 1 Candlestick Maker, 1 Monument, 1 Upgrade, 1 Copper, 4 Estate, 1 Province
+shark_bait - victory point chips: 1
+shark_bait - total victory points: 11
+shark_bait - turns: 15
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

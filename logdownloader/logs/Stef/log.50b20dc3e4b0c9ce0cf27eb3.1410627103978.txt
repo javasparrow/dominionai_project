@@ -1,0 +1,352 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Moat, Fishing Village, Menagerie, Shanty Town, Advisor, Remodel, Haggler, Rabble, Stables, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lagrangian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lagrangian - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+Lagrangian - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Lagrangian: turn 1 ----------
+Lagrangian - plays 3 Copper
+Lagrangian - buys Shanty Town
+Lagrangian - gains Shanty Town
+Lagrangian - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Lagrangian: turn 2 ----------
+Lagrangian - plays 4 Copper
+Lagrangian - buys Remodel
+Lagrangian - gains Remodel
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Remodel, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - shuffles deck
+Stef - draws Remodel, Estate, Copper, Copper, Copper
+ 
+---------- Lagrangian: turn 3 ----------
+Lagrangian - plays Remodel
+Lagrangian - trashes Estate
+Lagrangian - gains Fishing Village
+Lagrangian - plays 2 Copper
+Lagrangian - buys Moat
+Lagrangian - gains Moat
+Lagrangian - draws Copper, Shanty Town, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Remodel
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Lagrangian: turn 4 ----------
+Lagrangian - plays Shanty Town
+Lagrangian - reveals Copper, Copper, Copper, Copper
+Lagrangian - draws Copper, Estate
+Lagrangian - plays 5 Copper
+Lagrangian - buys Haggler
+Lagrangian - gains Haggler
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Moat, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Copper, Fishing Village
+Stef - shuffles deck
+Stef - draws Remodel, Copper, Estate
+ 
+---------- Lagrangian: turn 5 ----------
+Lagrangian - plays Moat
+Lagrangian - draws Copper, Estate
+Lagrangian - plays 5 Copper
+Lagrangian - buys Stables
+Lagrangian - gains Stables
+Lagrangian - draws Shanty Town, Haggler, Fishing Village, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fishing Village
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Remodel
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Fishing Village, Shanty Town, Remodel, Copper
+ 
+---------- Lagrangian: turn 6 ----------
+Lagrangian - plays Fishing Village
+Lagrangian - plays Haggler
+Lagrangian - plays Shanty Town
+Lagrangian - reveals Estate, Copper
+Lagrangian - draws Copper, Remodel
+Lagrangian - plays Remodel
+Lagrangian - trashes Estate
+Lagrangian - gains Remodel
+Lagrangian - plays 2 Copper
+Lagrangian - buys Stables
+Lagrangian - gains Silver
+Lagrangian - gains Stables
+Lagrangian - shuffles deck
+Lagrangian - draws Silver, Copper, Stables, Copper, Shanty Town
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Moat
+Stef - plays Shanty Town
+Stef - reveals Copper
+Stef - draws Copper, Copper
+Stef - plays 3 Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Shanty Town, Fishing Village
+ 
+---------- Lagrangian: turn 7 ----------
+Lagrangian - duration Fishing Village
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Copper, Stables, Copper
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Moat, Remodel, Copper
+Lagrangian - plays Moat
+Lagrangian - draws Remodel, Copper
+Lagrangian - plays Shanty Town
+Lagrangian - reveals Silver, Copper, Copper, Remodel, Copper, Remodel, Copper
+Lagrangian - plays Remodel
+Lagrangian - trashes Silver
+Lagrangian - gains Rabble
+Lagrangian - plays Remodel
+Lagrangian - trashes Copper
+Lagrangian - gains Moat
+Lagrangian - plays 3 Copper
+Lagrangian - buys Fishing Village
+Lagrangian - gains Fishing Village
+Lagrangian - draws Estate, Haggler, Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Shanty Town
+Stef - reveals Copper, Estate, Copper
+Stef - draws Haggler, Remodel
+Stef - plays Haggler
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Poor House
+Stef - plays 1 Copper
+Stef - buys Stables
+Stef - gains Menagerie
+Stef - gains Stables
+Stef - draws Moat, Remodel, Copper, Fishing Village, Remodel
+ 
+---------- Lagrangian: turn 8 ----------
+Lagrangian - plays Haggler
+Lagrangian - plays 3 Copper
+Lagrangian - buys Stables
+Lagrangian - gains Fishing Village
+Lagrangian - gains Stables
+Lagrangian - draws Stables, Moat, Copper, Shanty Town, Remodel
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Fishing Village
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Fishing Village
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Moat
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Poor House
+Stef - plays Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Stables, Copper, Moat, Copper
+ 
+---------- Lagrangian: turn 9 ----------
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Fishing Village, Copper, Fishing Village
+Lagrangian - plays Fishing Village
+Lagrangian - plays Fishing Village
+Lagrangian - plays Remodel
+Lagrangian - trashes Moat
+Lagrangian - gains Fishing Village
+Lagrangian - plays Shanty Town
+Lagrangian - reveals Copper
+Lagrangian - draws Copper, Remodel
+Lagrangian - plays Remodel
+Lagrangian - trashes Copper
+Lagrangian - gains Moat
+Lagrangian - plays Copper
+Lagrangian - buys Fishing Village
+Lagrangian - gains Fishing Village
+Lagrangian - draws Rabble, Moat, Stables
+Lagrangian - shuffles deck
+Lagrangian - draws Estate, Remodel
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Fishing Village
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Poor House, Estate, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Moat
+Stef - draws Remodel, Shanty Town
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Fishing Village
+Stef - plays 2 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Fishing Village, Fishing Village, Remodel, Poor House, Haggler
+ 
+---------- Lagrangian: turn 10 ----------
+Lagrangian - duration Fishing Village
+Lagrangian - duration Fishing Village
+Lagrangian - plays Rabble
+Lagrangian - draws Copper, Fishing Village, Copper
+Stef - reveals Moat, Remodel, Menagerie
+Stef - discards: Moat, Remodel, Menagerie
+Lagrangian - plays Fishing Village
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Haggler, Stables, Remodel
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Stables, Fishing Village, Copper
+Lagrangian - plays Fishing Village
+Lagrangian - plays Stables
+Lagrangian - discards Copper
+Lagrangian - draws Copper, Moat, Fishing Village
+Lagrangian - plays Fishing Village
+Lagrangian - plays Moat
+Lagrangian - draws Shanty Town, Copper
+Lagrangian - plays Remodel
+Lagrangian - trashes Estate
+Lagrangian - gains Remodel
+Lagrangian - plays Moat
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper
+Lagrangian - plays Haggler
+Lagrangian - plays Remodel
+Lagrangian - trashes Shanty Town
+Lagrangian - gains Haggler
+Lagrangian - plays 4 Copper
+Lagrangian - buys Province
+Lagrangian - gains Gold
+Lagrangian - gains Province
+Lagrangian - draws Copper, Remodel
+Lagrangian - shuffles deck
+Lagrangian - draws Rabble, Copper, Haggler
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Haggler
+Stef - plays Remodel
+Stef - trashes Poor House
+Stef - gains Menagerie
+Stef - buys Haggler
+Stef - gains Menagerie
+Stef - gains Haggler
+Stef - shuffles deck
+Stef - draws Menagerie, Fishing Village, Remodel, Moat, Stables
+ 
+---------- Lagrangian: turn 11 ----------
+Lagrangian - duration Fishing Village
+Lagrangian - duration Fishing Village
+Lagrangian - duration Fishing Village
+Lagrangian - plays Rabble
+Stef - reveals reaction Moat
+Lagrangian - draws Copper, Moat, Moat
+Lagrangian - plays Moat
+Lagrangian - draws Haggler, Copper
+Lagrangian - plays Moat
+Lagrangian - draws Remodel, Fishing Village
+Lagrangian - plays Fishing Village
+Lagrangian - plays Haggler
+Lagrangian - plays Haggler
+Lagrangian - plays 4 Copper
+Lagrangian - buys Province
+Lagrangian - gains Rabble
+Lagrangian - gains Gold
+Lagrangian - gains Province
+Lagrangian - draws Stables, Stables, Fishing Village, Stables, Province
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Menagerie
+Stef - reveals hand: Fishing Village, Remodel, Stables, Moat
+Stef - draws Fishing Village, Remodel, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Menagerie, Menagerie, Haggler
+Stef - plays Fishing Village
+Stef - plays Remodel
+Stef - trashes Moat
+Stef - gains Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Fishing Village, Remodel, Menagerie, Haggler
+Stef - draws Menagerie, Copper, Remodel
+Stef - plays Fishing Village
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Moat
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Remodel, Haggler
+Stef - draws Copper, Shanty Town, Moat
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Shanty Town, Moat, Remodel, Haggler
+Stef - draws Haggler, Fishing Village, Poor House
+Stef - plays Fishing Village
+Stef - plays Moat
+Stef - shuffles deck
+Stef - draws Menagerie, Moat
+Stef - plays Shanty Town
+Stef - reveals Haggler, Poor House, Copper, Remodel, Haggler, Menagerie, Moat
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Menagerie
+Stef - reveals hand: Poor House, Copper, Remodel, Moat
+Stef - draws Copper
+ 
+------------ Game Over ------------
+Stef - cards: 1 Poor House, 1 Remodel, 1 Moat, 2 Copper
+Stef - total victory points: 0
+Stef - turns: 10
+ 
+Lagrangian - resigned
+Lagrangian - cards: 5 Fishing Village, 3 Stables, 3 Remodel, 2 Rabble, 2 Moat, 2 Haggler, 5 Copper, 2 Gold, 2 Province
+Lagrangian - total victory points: 12
+Lagrangian - turns: 11
+ 
+1st place: Stef
+2nd place: Lagrangian
+ 

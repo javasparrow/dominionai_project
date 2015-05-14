@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Great Hall, Storeroom, Noble Brigand, Talisman, Junk Dealer, Mint, Soothsayer, Trading Post, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nalbert - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nalbert - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+nalbert - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- nalbert: turn 1 ----------
+nalbert - plays 4 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- nalbert: turn 2 ----------
+nalbert - plays 3 Copper
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - shuffles deck
+nalbert - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - draws Copper, Fortune Teller, Estate, Copper, Copper
+ 
+---------- nalbert: turn 3 ----------
+nalbert - plays 3 Copper, 1 Silver
+nalbert - buys Soothsayer
+nalbert - gains Soothsayer
+nalbert - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Fortune Teller
+nalbert - reveals Copper, Estate
+nalbert - discards Copper
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Silver, Estate
+Stef - shuffles deck
+Stef - draws Storeroom, Estate, Copper
+ 
+---------- nalbert: turn 4 ----------
+nalbert - plays 3 Copper, 1 Silver
+nalbert - buys Mint
+nalbert - trashes Copper, Copper, Copper, Silver
+nalbert - gains Mint
+nalbert - draws Estate
+nalbert - shuffles deck
+nalbert - draws Copper, Silver, Mint, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Fortune Teller, Copper, Estate, Copper, Copper
+ 
+---------- nalbert: turn 5 ----------
+nalbert - plays Mint
+nalbert - reveals Silver
+nalbert - gains Silver
+nalbert - plays 1 Copper, 1 Silver
+nalbert - buys Silver
+nalbert - gains Silver
+nalbert - draws Copper, Copper, Copper, Soothsayer, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortune Teller
+nalbert - shuffles deck
+nalbert - reveals Silver, Estate
+nalbert - discards Silver
+Stef - plays 3 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper
+Stef - gains Mint
+Stef - draws Junk Dealer, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Junk Dealer
+ 
+---------- nalbert: turn 6 ----------
+nalbert - plays Soothsayer
+nalbert - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+nalbert - plays 3 Copper
+nalbert - buys Great Hall
+nalbert - gains Great Hall
+nalbert - draws Estate, Silver, Silver, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Copper, Mint, Storeroom, Estate, Fortune Teller
+ 
+---------- nalbert: turn 7 ----------
+nalbert - plays 2 Silver, 1 Copper
+nalbert - buys Soothsayer
+nalbert - gains Soothsayer
+nalbert - draws Mint
+nalbert - shuffles deck
+nalbert - draws Estate, Silver, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortune Teller
+nalbert - reveals Gold, Soothsayer, Estate
+nalbert - discards: Gold, Soothsayer
+Stef - plays 1 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - shuffles deck
+Stef - draws Copper, Storeroom, Fortune Teller, Silver, Mint
+ 
+---------- nalbert: turn 8 ----------
+nalbert - plays 2 Silver, 1 Copper
+nalbert - buys Junk Dealer
+nalbert - gains Junk Dealer
+nalbert - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortune Teller
+nalbert - reveals Soothsayer, Great Hall
+nalbert - discards Soothsayer
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Junk Dealer, Copper, King's Court, Curse, Copper
+ 
+---------- nalbert: turn 9 ----------
+nalbert - plays 2 Copper, 1 Silver
+nalbert - buys Great Hall
+nalbert - gains Great Hall
+nalbert - draws Great Hall, Copper
+nalbert - shuffles deck
+nalbert - draws Silver, Mint, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays King's Court
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Curse
+Stef - plays Junk Dealer
+Stef - draws Great Hall
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - shuffles deck
+Stef - draws Fortune Teller, King's Court, Great Hall, Great Hall, Junk Dealer
+ 
+---------- nalbert: turn 10 ----------
+nalbert - plays Great Hall
+nalbert - draws Silver
+nalbert - plays Mint
+nalbert - reveals Gold
+nalbert - gains Gold
+nalbert - plays 2 Silver, 1 Copper, 1 Gold
+nalbert - buys King's Court
+nalbert - gains King's Court
+nalbert - draws Estate, Estate, Junk Dealer, Copper, Soothsayer
+ 
+---------- Stef: turn 11 ----------
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Silver
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Soothsayer
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Fortune Teller
+nalbert - reveals Silver, Copper, Great Hall
+nalbert - discards: Silver, Copper
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Mint
+Stef - trashes Mint
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - draws Great Hall
+Stef - plays 1 Silver, 1 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Storeroom
+Stef - shuffles deck
+Stef - draws Soothsayer, King's Court, Junk Dealer, Silver
+ 
+---------- nalbert: turn 11 ----------
+nalbert - plays Great Hall
+nalbert - draws Estate
+nalbert - plays Junk Dealer
+nalbert - draws Copper
+nalbert - trashes Estate
+nalbert - plays Soothsayer
+nalbert - gains Gold
+Stef - gains Curse
+Stef - draws King's Court
+nalbert - plays 2 Copper
+nalbert - buys Great Hall
+nalbert - gains Great Hall
+nalbert - draws Soothsayer
+nalbert - shuffles deck
+nalbert - draws Copper, Copper, Junk Dealer, Great Hall
+ 
+---------- Stef: turn 12 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Storeroom
+Stef - discards Junk Dealer
+Stef - discards Silver
+Stef - draws Fortune Teller, Great Hall
+Stef - plays Storeroom
+Stef - discards Fortune Teller
+Stef - draws Junk Dealer
+Stef - plays Storeroom
+Stef - discards Junk Dealer
+Stef - draws Gold
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - shuffles deck
+Stef - draws Fortune Teller
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws Silver
+Stef - plays Great Hall
+Stef - draws Curse
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - draws Gold
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Gold
+Stef - trashes Copper
+Stef - plays Fortune Teller
+nalbert - reveals Great Hall
+Stef - plays 2 Gold, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - shuffles deck
+Stef - draws Gold, Great Hall, King's Court, Storeroom, Junk Dealer
+ 
+---------- nalbert: turn 12 ----------
+nalbert - plays Great Hall
+nalbert - draws Great Hall
+nalbert - plays Great Hall
+nalbert - draws Copper
+nalbert - plays Junk Dealer
+nalbert - draws Curse
+nalbert - trashes Curse
+nalbert - plays Soothsayer
+nalbert - gains Gold
+Stef - gains Curse
+Stef - draws Great Hall
+nalbert - plays 3 Copper, 1 Gold
+nalbert - buys King's Court
+nalbert - gains King's Court
+nalbert - draws Silver, Silver, Estate, Copper, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws King's Court
+Stef - plays Storeroom
+Stef - discards Junk Dealer
+Stef - discards Junk Dealer
+Stef - discards Gold
+Stef - draws Silver, Fortune Teller, Gold
+Stef - plays Great Hall
+Stef - draws Soothsayer
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws King's Court
+Stef - plays Great Hall
+Stef - shuffles deck
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Silver
+Stef - plays Junk Dealer
+Stef - draws Curse
+Stef - trashes Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - draws Gold
+Stef - plays King's Court
+Stef - plays Fortune Teller
+nalbert - reveals King's Court, Estate
+nalbert - discards King's Court
+Stef - plays Fortune Teller
+nalbert - reveals Estate
+Stef - plays Fortune Teller
+nalbert - reveals Estate
+Stef - plays 2 Gold
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Gold, Storeroom, Great Hall, Gold, Junk Dealer
+ 
+---------- nalbert: turn 13 ----------
+nalbert - plays 2 Silver, 2 Gold, 1 Copper
+nalbert - buys Province
+nalbert - gains Province
+nalbert - draws Estate, Soothsayer, Great Hall, Mint, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Junk Dealer
+Stef - draws King's Court
+Stef - trashes Gold
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws King's Court
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws Soothsayer
+Stef - plays King's Court
+Stef - plays Storeroom
+Stef - discards Gold
+Stef - discards Junk Dealer
+Stef - discards Soothsayer
+Stef - draws Great Hall, King's Court, Fortune Teller
+Stef - plays Storeroom
+Stef - discards Fortune Teller
+Stef - draws Gold
+Stef - plays Storeroom
+Stef - discards Gold
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws King's Court
+Stef - plays Great Hall
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Soothsayer
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws Fortune Teller
+Stef - plays King's Court
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - shuffles deck
+nalbert - draws Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - draws Silver
+Stef - plays Soothsayer
+Stef - gains Gold
+nalbert - gains Curse
+nalbert - draws Gold
+Stef - plays King's Court
+Stef - plays Fortune Teller
+nalbert - reveals Curse
+Stef - plays Fortune Teller
+nalbert - reveals Curse
+Stef - plays Fortune Teller
+nalbert - reveals Curse
+Stef - plays 1 Gold
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Gold, Great Hall, Great Hall, Gold
+ 
+---------- nalbert: turn 14 ----------
+nalbert - plays Great Hall
+nalbert - draws Curse
+nalbert - plays Soothsayer
+nalbert - gains Gold
+Stef - gains Curse
+Stef - draws Great Hall
+nalbert - plays 2 Silver, 1 Gold
+nalbert - buys King's Court
+nalbert - gains King's Court
+nalbert - draws Estate, Silver, Curse, Gold, King's Court
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Great Hall
+Stef - draws Junk Dealer
+Stef - plays Great Hall
+Stef - draws Gold
+Stef - plays Junk Dealer
+Stef - draws King's Court
+Stef - trashes Gold
+Stef - plays King's Court
+Stef - plays Great Hall
+Stef - draws Gold
+Stef - plays Great Hall
+Stef - draws King's Court
+Stef - plays Great Hall
+Stef - draws Fortune Teller
+Stef - plays Fortune Teller
+nalbert - reveals Junk Dealer, Copper, Soothsayer, Copper, Province
+nalbert - discards: Junk Dealer, Copper, Soothsayer, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 4 King's Court, 2 Great Hall, 2 Storeroom, 1 Soothsayer, 1 Junk Dealer, 4 Gold, 1 Curse
+Stef - total victory points: 1
+Stef - turns: 14
+ 
+nalbert - resigned
+nalbert - cards: 3 Great Hall, 3 King's Court, 2 Soothsayer, 1 Mint, 1 Junk Dealer, 5 Gold, 4 Copper, 3 Silver, 2 Estate, 1 Province, 5 Curse
+nalbert - total victory points: 6
+nalbert - turns: 14
+ 
+1st place: Stef
+2nd place: nalbert
+ 

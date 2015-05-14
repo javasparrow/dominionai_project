@@ -1,0 +1,461 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Bishop, Feast, Counting House, Embassy, Knights, Library, Mine, Treasury, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dudeabides - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Estate
+dudeabides - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Sir Vander
+Stef - gains Sir Vander
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Sir Vander
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Bishop
+dudeabides - gains Bishop
+dudeabides - shuffles deck
+dudeabides - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Sir Vander
+dudeabides - reveals: Copper, Copper
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Sir Bailey
+dudeabides - gains Sir Bailey
+dudeabides - draws Estate, Copper, Bishop, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Vagrant, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper, Silver
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Estate
+dudeabides - receives 1 victory point chips
+Stef - trashes Estate
+dudeabides - plays 2 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Sir Vander
+Stef - places Sir Vander on top of deck
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Dame Molly
+Stef - gains Dame Molly
+Stef - draws Sir Vander, Estate, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays 4 Copper, 1 Silver
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - draws Sir Bailey, Copper, Estate, Copper, Bishop
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sir Vander
+dudeabides - reveals: Silver, Copper
+dudeabides - trashes Silver
+dudeabides - discards Copper
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Silver, Copper
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays Sir Bailey
+dudeabides - draws Estate
+Stef - reveals: Estate, Sir Vander
+Stef - trashes Sir Vander
+Stef - gains Gold
+Stef - discards Estate
+dudeabides - trashes Sir Bailey
+dudeabides - plays Bishop
+dudeabides - trashes Estate
+dudeabides - receives 1 victory point chips
+Stef - trashes Copper
+dudeabides - plays 2 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Copper, Gold, Silver, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Dame Molly, Vagrant, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays 2 Copper, 1 Gold, 1 Silver
+dudeabides - buys Bank
+dudeabides - gains Bank
+dudeabides - draws Copper, Bishop, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Dame Molly
+dudeabides - reveals: Silver, Copper
+dudeabides - trashes Silver
+dudeabides - discards Copper
+Stef - plays 4 Copper
+Stef - buys Bishop
+Stef - gains Bishop
+Stef - shuffles deck
+Stef - draws Estate, Copper, Gold, Silver, Copper
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Copper
+dudeabides - receives 0 victory point chips
+Stef - trashes Copper
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Silver, Copper, Gold, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 1 Copper, 1 Gold, 1 Silver
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Copper, Vagrant, Vagrant, Dame Molly, Copper
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays 3 Copper, 1 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Estate, Bank, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Bishop
+Stef - places Bishop on top of deck
+Stef - plays Dame Molly
+dudeabides - reveals: Silver, Bishop
+dudeabides - trashes Silver
+dudeabides - discards Bishop
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Bishop, Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Treasury
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays 3 Copper
+dudeabides - plays Bank
+dudeabides - buys Bank
+dudeabides - gains Bank
+dudeabides - shuffles deck
+dudeabides - draws Copper, Bank, Copper, Gold, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Treasury
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Treasury
+Stef - places Treasury on top of deck
+Stef - plays Bishop
+Stef - trashes Estate
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Treasury, Silver, Copper, Dame Molly
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Silver
+dudeabides - plays Gold
+dudeabides - plays Bank
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper, Bishop, Bank, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Dame Molly
+dudeabides - reveals: Estate, Province
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Vagrant, Estate, Gold
+Stef - shuffles deck
+Stef - draws Dame Molly
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Copper
+dudeabides - receives 0 victory point chips
+Stef - trashes Estate
+dudeabides - plays 2 Copper
+dudeabides - plays Bank
+dudeabides - buys Gold
+dudeabides - gains Gold
+dudeabides - draws Copper
+dudeabides - shuffles deck
+dudeabides - draws Province, Estate, Bishop, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Bishop
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Dame Molly
+dudeabides - reveals: Copper, Bank
+Stef - plays Bishop
+Stef - trashes Copper
+Stef - receives 0 victory point chips
+Stef - plays 1 Gold
+Stef - buys Bishop
+Stef - gains Bishop
+Stef - draws Silver, Copper, Treasury, Silver, Copper
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Estate
+dudeabides - receives 1 victory point chips
+Stef - trashes Copper
+dudeabides - plays 2 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Gold, Silver, Province, Copper, Bank
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Gold
+Stef - shuffles deck
+Stef - draws Bishop, Dame Molly
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays 1 Gold, 1 Silver, 1 Copper
+dudeabides - plays Bank
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Gold, Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper, Silver, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Dame Molly
+dudeabides - reveals: Bank, Province
+Stef - plays Bishop
+Stef - trashes Copper
+Stef - receives 0 victory point chips
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Province, Treasury, Treasury, Vagrant, Treasury
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays 2 Copper, 1 Gold, 1 Silver
+dudeabides - buys Bank
+dudeabides - gains Bank
+dudeabides - draws Silver, Bishop, Copper, Province, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Bishop
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Treasury
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Bishop
+Stef - trashes Copper
+Stef - receives 0 victory point chips
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Copper, Dame Molly, Province, Gold
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Province
+dudeabides - receives 4 victory point chips
+Stef - trashes Copper
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Bank, Copper, Gold
+dudeabides - shuffles deck
+dudeabides - draws Silver, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Dame Molly
+dudeabides - reveals: Bank, Bank
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Vagrant, Province, Silver, Vagrant, Province
+ 
+---------- dudeabides: turn 17 ----------
+dudeabides - plays 1 Copper, 1 Gold, 1 Silver
+dudeabides - plays Bank
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper, Bishop, Copper, Copper, Province
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Vagrant
+Stef - draws Bishop
+Stef - reveals: Treasury
+Stef - places Treasury on top of deck
+Stef - plays Vagrant
+Stef - draws Treasury
+Stef - reveals: Treasury
+Stef - places Treasury on top of deck
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Bishop
+Stef - trashes Silver
+Stef - receives 1 victory point chips
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Bishop
+Stef - shuffles deck
+Stef - draws Vagrant, Province, Duchy, Duchy
+ 
+---------- dudeabides: turn 18 ----------
+dudeabides - plays Bishop
+dudeabides - trashes Copper
+dudeabides - receives 0 victory point chips
+dudeabides - plays 2 Copper
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Silver, Copper, Gold, Duchy
+dudeabides - shuffles deck
+dudeabides - draws Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Bishop
+Stef - reveals: Dame Molly
+Stef - places Dame Molly on top of deck
+Stef - plays Bishop
+Stef - trashes Bishop
+Stef - receives 2 victory point chips
+Stef - draws Dame Molly, Treasury, Province, Province, Treasury
+ 
+---------- dudeabides: turn 19 ----------
+dudeabides - plays 1 Silver, 1 Copper, 1 Gold
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Copper, Province, Province, Bank, Bank
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Treasury
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Treasury
+Stef - places Treasury on top of deck
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Dame Molly
+dudeabides - reveals: Bishop, Silver
+dudeabides - trashes Silver
+dudeabides - discards Bishop
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Treasury, Province, Province, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 4 Treasury, 2 Vagrant, 1 Dame Molly, 1 Bishop, 2 Gold, 1 Silver, 4 Province, 2 Duchy
+Stef - victory point chips: 10
+Stef - total victory points: 40
+Stef - turns: 20
+ 
+dudeabides - cards: 1 Bishop, 4 Copper, 3 Bank, 2 Gold, 1 Silver, 3 Province, 2 Duchy, 1 Estate
+dudeabides - victory point chips: 14
+dudeabides - total victory points: 39
+dudeabides - turns: 19
+ 
+1st place: Stef
+2nd place: dudeabides
+ 

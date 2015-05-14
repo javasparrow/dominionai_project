@@ -1,0 +1,481 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Stonemason, Masquerade, Caravan, Smithy, Spice Merchant, Young Witch, Cache, Merchant Guild, Upgrade, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Masquerade
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+f_____t_ - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+f_____t_ - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+f_____t_ - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- f_____t_: turn 1 ----------
+f_____t_ - plays 4 Copper
+f_____t_ - buys Caravan
+f_____t_ - gains Caravan
+f_____t_ - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Estate, Caravan, Chapel, Estate
+ 
+---------- f_____t_: turn 2 ----------
+f_____t_ - plays 3 Copper
+f_____t_ - buys Masquerade
+f_____t_ - gains Masquerade
+f_____t_ - shuffles deck
+f_____t_ - draws Copper, Estate, Copper, Caravan, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- f_____t_: turn 3 ----------
+f_____t_ - plays Caravan
+f_____t_ - draws Estate
+f_____t_ - plays 3 Copper
+f_____t_ - buys Masquerade
+f_____t_ - gains Masquerade
+f_____t_ - draws Copper, Masquerade, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - shuffles deck
+Stef - draws Upgrade, Copper, Copper, Copper, Chapel
+ 
+---------- f_____t_: turn 4 ----------
+f_____t_ - duration Caravan
+f_____t_ - draws Copper
+f_____t_ - plays Masquerade
+f_____t_ - shuffles deck
+f_____t_ - draws Masquerade, Copper
+f_____t_ - passes Estate
+Stef - passes Copper
+f_____t_ - trashes Copper
+f_____t_ - plays 5 Copper
+f_____t_ - buys Upgrade
+f_____t_ - gains Upgrade
+f_____t_ - draws Copper, Estate, Copper, Estate
+f_____t_ - shuffles deck
+f_____t_ - draws Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - draws Copper, Estate, Caravan
+Stef - shuffles deck
+Stef - draws Upgrade, Silver
+ 
+---------- f_____t_: turn 5 ----------
+f_____t_ - plays 3 Copper
+f_____t_ - buys Silver
+f_____t_ - gains Silver
+f_____t_ - draws Copper, Copper, Copper, Masquerade, Caravan
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Upgrade
+Stef - draws Chapel
+Stef - trashes Chapel
+Stef - gains Silver
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - shuffles deck
+Stef - draws Estate, Copper, Silver, Upgrade, Silver
+ 
+---------- f_____t_: turn 6 ----------
+f_____t_ - plays Caravan
+f_____t_ - draws Copper
+f_____t_ - plays Masquerade
+f_____t_ - draws Masquerade, Upgrade
+f_____t_ - passes Copper
+Stef - passes Estate
+f_____t_ - trashes Estate
+f_____t_ - plays 3 Copper
+f_____t_ - buys Silver
+f_____t_ - gains Silver
+f_____t_ - shuffles deck
+f_____t_ - draws Copper, Masquerade, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Caravan
+Stef - draws Merchant Guild
+Stef - plays Upgrade
+Stef - trashes Copper
+Stef - plays Merchant Guild
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 4 coins
+Stef - gains Caravan
+Stef - gains Caravan
+Stef - receives 1 coin token
+Stef - gains Stonemason
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Silver, Merchant Guild, Stonemason, Caravan, Caravan
+ 
+---------- f_____t_: turn 7 ----------
+f_____t_ - duration Caravan
+f_____t_ - draws Copper
+f_____t_ - plays Masquerade
+f_____t_ - draws Upgrade, Copper
+f_____t_ - passes Estate
+Stef - passes Stonemason
+f_____t_ - trashes Stonemason
+f_____t_ - plays 5 Copper
+f_____t_ - buys Caravan
+f_____t_ - gains Caravan
+f_____t_ - draws Silver, Estate, Silver, Copper, Masquerade
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Merchant Guild
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 4 coins
+Stef - gains Caravan
+Stef - gains Caravan
+Stef - receives 1 coin token
+Stef - gains Stonemason
+Stef - draws Upgrade, Silver
+Stef - shuffles deck
+Stef - draws Estate, Stonemason, Copper
+ 
+---------- f_____t_: turn 8 ----------
+f_____t_ - plays Masquerade
+f_____t_ - shuffles deck
+f_____t_ - draws Copper, Caravan
+f_____t_ - passes Estate
+Stef - passes Estate
+f_____t_ - trashes Estate
+f_____t_ - plays 2 Silver, 2 Copper
+f_____t_ - buys Gold
+f_____t_ - gains Gold
+f_____t_ - draws Copper, Masquerade, Copper, Upgrade, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Merchant Guild
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Merchant Guild
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Caravan
+Stef - receives 1 coin token
+Stef - gains Caravan
+Stef - buys Caravan
+Stef - receives 1 coin token
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Caravan, Caravan, Copper, Silver, Caravan
+ 
+---------- f_____t_: turn 9 ----------
+f_____t_ - plays Upgrade
+f_____t_ - draws Copper
+f_____t_ - trashes Copper
+f_____t_ - plays Masquerade
+f_____t_ - draws Caravan
+f_____t_ - shuffles deck
+f_____t_ - draws Silver
+f_____t_ - passes Copper
+Stef - passes Copper
+f_____t_ - trashes Copper
+f_____t_ - plays 2 Copper, 1 Silver
+f_____t_ - buys Caravan
+f_____t_ - gains Caravan
+f_____t_ - draws Copper, Silver, Masquerade, Copper, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Stonemason
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Upgrade
+Stef - plays Upgrade
+Stef - draws Merchant Guild
+Stef - trashes Stonemason
+Stef - gains Silver
+Stef - plays Merchant Guild
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Upgrade, Silver, Silver, Merchant Guild
+ 
+---------- f_____t_: turn 10 ----------
+f_____t_ - plays Masquerade
+f_____t_ - draws Caravan
+f_____t_ - shuffles deck
+f_____t_ - draws Upgrade
+f_____t_ - passes Copper
+Stef - passes Copper
+f_____t_ - trashes Copper
+f_____t_ - plays 1 Copper, 1 Silver, 1 Gold
+f_____t_ - buys Gold
+f_____t_ - gains Gold
+f_____t_ - draws Caravan, Copper, Silver, Masquerade, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Upgrade
+Stef - draws Province
+Stef - trashes Copper
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - plays Merchant Guild
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Silver, Silver, Silver, Silver, Caravan
+ 
+---------- f_____t_: turn 11 ----------
+f_____t_ - plays Caravan
+f_____t_ - draws Caravan
+f_____t_ - plays Caravan
+f_____t_ - shuffles deck
+f_____t_ - draws Copper
+f_____t_ - plays Masquerade
+f_____t_ - draws Masquerade, Silver
+f_____t_ - passes Copper
+Stef - passes Silver
+f_____t_ - plays 3 Silver, 2 Copper
+f_____t_ - buys Province
+f_____t_ - gains Province
+f_____t_ - draws Gold, Caravan, Gold, Upgrade
+f_____t_ - shuffles deck
+f_____t_ - draws Province
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Province
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Upgrade
+Stef - plays Caravan
+Stef - draws Merchant Guild
+Stef - plays Upgrade
+Stef - draws Caravan
+Stef - trashes Copper
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Merchant Guild
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - draws Caravan
+Stef - shuffles deck
+Stef - draws Upgrade, Copper, Caravan, Copper
+ 
+---------- f_____t_: turn 12 ----------
+f_____t_ - duration Caravan
+f_____t_ - draws Silver
+f_____t_ - duration Caravan
+f_____t_ - draws Masquerade
+f_____t_ - plays Caravan
+f_____t_ - draws Copper
+f_____t_ - plays Upgrade
+f_____t_ - draws Silver
+f_____t_ - trashes Silver
+f_____t_ - gains Young Witch
+f_____t_ - plays Masquerade
+f_____t_ - draws Copper, Silver
+f_____t_ - passes Copper
+Stef - passes Copper
+f_____t_ - trashes Copper
+f_____t_ - plays 2 Gold, 2 Silver, 1 Copper
+f_____t_ - buys Province
+f_____t_ - gains Province
+f_____t_ - draws Masquerade
+f_____t_ - shuffles deck
+f_____t_ - draws Caravan, Copper, Gold, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Merchant Guild
+Stef - duration Caravan
+Stef - draws Province
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Merchant Guild
+Stef - plays 2 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - draws Silver, Caravan
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper
+ 
+---------- f_____t_: turn 13 ----------
+f_____t_ - duration Caravan
+f_____t_ - draws Masquerade
+f_____t_ - plays Caravan
+f_____t_ - draws Upgrade
+f_____t_ - plays Upgrade
+f_____t_ - draws Young Witch
+f_____t_ - trashes Young Witch
+f_____t_ - gains Duchy
+f_____t_ - plays Masquerade
+f_____t_ - draws Silver, Gold
+f_____t_ - passes Copper
+Stef - passes Copper
+f_____t_ - trashes Copper
+f_____t_ - plays 2 Gold, 1 Silver
+f_____t_ - buys Duchy
+f_____t_ - gains Duchy
+f_____t_ - draws Silver, Province, Caravan
+f_____t_ - shuffles deck
+f_____t_ - draws Upgrade, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Upgrade
+Stef - duration Caravan
+Stef - draws Province
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Upgrade
+Stef - draws Province
+Stef - trashes Caravan
+Stef - gains Duchy
+Stef - plays 2 Silver, 2 Copper
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - draws Caravan, Province, Caravan, Merchant Guild, Silver
+ 
+---------- f_____t_: turn 14 ----------
+f_____t_ - duration Caravan
+f_____t_ - draws Gold
+f_____t_ - plays Caravan
+f_____t_ - draws Silver
+f_____t_ - plays Upgrade
+f_____t_ - draws Masquerade
+f_____t_ - trashes Silver
+f_____t_ - gains Young Witch
+f_____t_ - plays Masquerade
+f_____t_ - draws Province, Masquerade
+f_____t_ - passes Masquerade
+Stef - passes Caravan
+f_____t_ - plays 1 Silver, 1 Gold
+f_____t_ - buys Duchy
+f_____t_ - gains Duchy
+f_____t_ - draws Caravan, Gold, Duchy
+f_____t_ - shuffles deck
+f_____t_ - draws Upgrade, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Merchant Guild
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 6 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Estate
+Stef - receives 1 coin token
+Stef - gains Estate
+Stef - draws Province, Silver, Province, Province, Upgrade
+ 
+------------ Game Over ------------
+Stef - cards: 5 Caravan, 1 Upgrade, 1 Merchant Guild, 1 Masquerade, 3 Silver, 2 Copper, 6 Province, 1 Estate, 1 Duchy
+Stef - total victory points: 40
+Stef - turns: 15
+ 
+f_____t_ - cards: 4 Caravan, 1 Upgrade, 1 Young Witch, 1 Masquerade, 2 Gold, 1 Silver, 3 Duchy, 2 Province
+f_____t_ - total victory points: 21
+f_____t_ - turns: 14
+ 
+1st place: Stef
+2nd place: f_____t_
+ 

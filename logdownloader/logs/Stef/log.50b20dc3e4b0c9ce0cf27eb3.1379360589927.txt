@@ -1,0 +1,586 @@
+------------ Game Setup ------------
+Supply cards: Moat, Great Hall, Urchin, Remodel, Spice Merchant, Bazaar, Highway, Minion, Stables, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+terminalCopper - shuffles deck
+Stef - draws Necropolis, Copper, Copper, Hovel, Copper
+terminalCopper - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Urchin
+terminalCopper - gains Urchin
+terminalCopper - draws Hovel, Copper, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Urchin
+terminalCopper - gains Urchin
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Copper, Hovel, Urchin
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Silver, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays Urchin
+terminalCopper - draws Copper
+Stef - discards Overgrown Estate
+terminalCopper - plays 4 Copper
+terminalCopper - buys Spice Merchant
+terminalCopper - gains Spice Merchant
+terminalCopper - draws Copper, Copper, Copper, Overgrown Estate, Necropolis
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Spice Merchant, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Urchin
+terminalCopper - gains Urchin
+terminalCopper - draws Urchin
+terminalCopper - shuffles deck
+terminalCopper - draws Overgrown Estate, Spice Merchant, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Hovel
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Urchin
+terminalCopper - draws Copper
+Stef - discards Copper
+terminalCopper - plays Spice Merchant
+terminalCopper - trashes Copper
+terminalCopper - chooses two cards and one action
+terminalCopper - draws Necropolis, Copper
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Urchin, Copper, Urchin
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Great Hall
+Stef - trashes Hovel
+Stef - gains Great Hall
+Stef - draws Silver, Copper, Urchin, Copper, Necropolis
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Urchin
+terminalCopper - draws Hovel
+Stef - discards Necropolis
+terminalCopper - plays Urchin
+terminalCopper - trashes Urchin
+terminalCopper - gains Mercenary
+terminalCopper - shuffles deck
+terminalCopper - draws Necropolis
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Overgrown Estate, Urchin, Mercenary, Copper, Spice Merchant
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Urchin
+Stef - draws Minion
+terminalCopper - discards Spice Merchant
+Stef - plays Minion
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - takes 2 coins
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Spice Merchant, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Copper, Great Hall, Copper
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Urchin
+terminalCopper - draws Copper
+Stef - discards Overgrown Estate
+terminalCopper - plays Mercenary
+terminalCopper - trashes Overgrown Estate, Copper
+terminalCopper - draws Copper
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+Stef - discards Copper
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Minion
+terminalCopper - gains Minion
+terminalCopper - draws Copper, Necropolis, Hovel, Urchin, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Minion, Mercenary
+Stef - plays Minion
+Stef - discards: Copper, Mercenary
+Stef - draws Copper, Copper, Copper, Necropolis
+terminalCopper - discards: Copper, Necropolis, Hovel, Urchin, Silver
+terminalCopper - draws Copper, Spice Merchant
+terminalCopper - shuffles deck
+terminalCopper - draws Urchin, Copper
+Stef - plays 3 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Silver, Minion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Urchin
+terminalCopper - draws Minion
+Stef - discards Overgrown Estate
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays Spice Merchant
+terminalCopper - trashes Copper
+terminalCopper - chooses two coins and one buy
+terminalCopper - plays 1 Copper
+terminalCopper - buys Minion
+terminalCopper - gains Minion
+terminalCopper - draws Copper, Urchin, Silver, Silver, Necropolis
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Minion
+Stef - discards: Silver, Copper, Copper
+Stef - draws Necropolis, Mercenary, Copper, Spice Merchant
+terminalCopper - discards: Copper, Urchin, Silver, Silver, Necropolis
+terminalCopper - draws Hovel, Copper, Copper, Mercenary
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Minion, Moat
+Stef - plays Necropolis
+Stef - plays Moat
+Stef - draws Copper, Great Hall
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Mercenary
+Stef - trashes Copper, Copper
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Copper
+terminalCopper - discards Copper
+Stef - plays 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper, Moat, Minion
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Mercenary
+terminalCopper - trashes Copper, Hovel
+terminalCopper - shuffles deck
+terminalCopper - draws Urchin, Copper
+Stef - discards Moat
+Stef - discards Copper
+terminalCopper - plays 1 Copper
+terminalCopper - buys Moat
+terminalCopper - gains Moat
+terminalCopper - draws Necropolis, Spice Merchant, Copper, Minion, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Minion
+Stef - discards: Copper, Silver
+Stef - draws Overgrown Estate, Necropolis, Bazaar, Spice Merchant
+terminalCopper - discards: Necropolis, Spice Merchant, Copper, Minion, Silver
+terminalCopper - draws Silver, Minion, Urchin, Copper
+Stef - plays Bazaar
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Minion
+Stef - plays Necropolis
+Stef - plays Minion
+Stef - discards: Overgrown Estate, Spice Merchant
+Stef - draws Mercenary
+Stef - shuffles deck
+Stef - draws Copper, Copper, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Overgrown Estate, Moat
+Stef - plays Mercenary
+Stef - trashes Overgrown Estate, Moat
+Stef - draws Silver
+terminalCopper - discards Urchin
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Goons
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws Bazaar, Goons, Silver, Minion, Copper
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Minion
+terminalCopper - gains Minion
+terminalCopper - shuffles deck
+terminalCopper - draws Urchin, Copper, Minion, Silver, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bazaar
+Stef - draws Necropolis
+Stef - plays Goons
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+Stef - plays Minion
+Stef - discards: Silver, Copper, Necropolis
+Stef - draws Minion, Spice Merchant, Mercenary, Great Hall
+Stef - plays Great Hall
+Stef - shuffles deck
+Stef - draws Necropolis
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Mercenary
+Stef - trashes Necropolis, Spice Merchant
+Stef - draws Copper, Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Minion
+Stef - receives 1 victory point chips
+Stef - gains Minion
+Stef - buys Bazaar
+Stef - receives 1 victory point chips
+Stef - gains Bazaar
+Stef - shuffles deck
+Stef - draws Copper, Mercenary, Minion, Silver, Great Hall
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Minion
+terminalCopper - discards: Urchin, Silver
+terminalCopper - draws Copper, Urchin, Necropolis, Moat
+Stef - discards: Copper, Mercenary, Minion, Silver, Great Hall
+Stef - draws Goons, Bazaar, Minion, Bazaar
+terminalCopper - plays Urchin
+terminalCopper - draws Mercenary
+terminalCopper - plays Necropolis
+terminalCopper - plays Mercenary
+terminalCopper - trashes Copper, Moat
+terminalCopper - draws Minion, Minion
+Stef - discards Bazaar
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - buys Minion
+terminalCopper - gains Minion
+terminalCopper - draws Spice Merchant, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Necropolis, Minion, Minion
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Minion
+Stef - plays Goons
+terminalCopper - discards Necropolis
+terminalCopper - discards Silver
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - shuffles deck
+Stef - draws Mercenary, Silver, Minion, Great Hall
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Minion
+Stef - discards: Mercenary, Silver, Copper
+Stef - draws Bazaar
+Stef - shuffles deck
+Stef - draws Copper, Silver, Mercenary
+Stef - plays Bazaar
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Minion
+Stef - receives 1 victory point chips
+Stef - gains Minion
+Stef - buys Remodel
+Stef - receives 1 victory point chips
+Stef - gains Remodel
+Stef - shuffles deck
+Stef - draws Minion, Remodel, Great Hall, Bazaar, Mercenary
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays Minion
+terminalCopper - discards Spice Merchant
+terminalCopper - draws Silver, Minion, Copper, Copper
+Stef - discards: Minion, Remodel, Great Hall, Bazaar, Mercenary
+Stef - draws Goons, Silver, Minion, Bazaar
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Minion
+terminalCopper - gains Minion
+terminalCopper - draws Minion, Urchin, Mercenary, Urchin
+terminalCopper - shuffles deck
+terminalCopper - draws Minion
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Goons
+terminalCopper - discards Mercenary
+terminalCopper - discards Urchin
+Stef - plays Minion
+Stef - discards: Silver, Copper
+Stef - draws Minion, Minion
+Stef - shuffles deck
+Stef - draws Copper, Remodel
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Remodel
+Stef - draws Great Hall, Minion, Silver, Mercenary
+Stef - plays Great Hall
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Minion
+Stef - discards: Silver, Mercenary, Copper
+Stef - draws Remodel
+Stef - shuffles deck
+Stef - draws Silver, Mercenary, Copper
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Minion
+Stef - plays Mercenary
+Stef - trashes Copper
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws Great Hall, Mercenary, Bazaar, Minion, Minion
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays Minion
+terminalCopper - discards Urchin
+terminalCopper - draws Silver, Minion, Spice Merchant, Silver
+Stef - discards: Great Hall, Mercenary, Bazaar, Minion, Minion
+Stef - draws Goons, Goons, Minion, Bazaar
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays 2 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Minion, Necropolis, Copper, Minion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Bazaar
+Stef - draws Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Goons
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+Stef - plays Minion
+Stef - discards Goons
+Stef - draws Remodel, Minion
+Stef - shuffles deck
+Stef - draws Minion, Great Hall
+Stef - plays Great Hall
+Stef - draws Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Remodel
+Stef - draws Bazaar, Mercenary, Goons
+Stef - shuffles deck
+Stef - draws Remodel
+Stef - plays Bazaar
+Stef - plays Goons
+Stef - plays Remodel
+Stef - trashes Mercenary
+Stef - gains Moat
+Stef - buys Highway
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Highway
+Stef - buys Bazaar
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Bazaar
+Stef - shuffles deck
+Stef - draws Moat, Highway, Minion, Minion, Goons
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Necropolis
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - takes 2 coins
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - shuffles deck
+terminalCopper - draws Urchin, Silver, Spice Merchant, Minion
+terminalCopper - plays Urchin
+Stef - reveals reaction Moat
+terminalCopper - draws Copper
+terminalCopper - plays Spice Merchant
+terminalCopper - trashes Copper
+terminalCopper - chooses two coins and one buy
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - discards Silver
+terminalCopper - draws Silver, Minion, Copper, Urchin
+terminalCopper - plays Urchin
+Stef - reveals reaction Moat
+terminalCopper - draws Province
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - takes 2 coins
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Minion, Mercenary
+terminalCopper - shuffles deck
+terminalCopper - draws Minion, Province, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Highway
+Stef - draws Goons
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Goons, Moat, Goons
+Stef - draws Minion, Minion, Remodel, Minion
+terminalCopper - discards: Minion, Mercenary, Minion, Province, Silver
+terminalCopper - draws Province, Minion, Spice Merchant, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Minion, Remodel
+Stef - draws Bazaar, Great Hall, Bazaar, Bazaar
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Remodel
+Stef - plays Bazaar
+Stef - draws Goons
+Stef - plays Bazaar
+Stef - draws Minion
+Stef - plays Goons
+terminalCopper - discards Province
+Stef - plays Remodel
+Stef - trashes Great Hall
+Stef - gains Highway
+Stef - plays Minion
+Stef - draws Moat, Goons
+Stef - shuffles deck
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Goons
+Stef - buys Bazaar
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Bazaar
+Stef - buys Highway
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Highway
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws Goons, Bazaar, Bazaar, Minion, Minion
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Minion
+terminalCopper - takes 2 coins
+terminalCopper - plays Minion
+terminalCopper - discards Spice Merchant
+terminalCopper - draws Necropolis, Minion, Urchin, Silver
+Stef - discards: Goons, Bazaar, Bazaar, Minion, Minion
+Stef - draws Goons, Moat, Minion, Minion
+terminalCopper - plays Necropolis
+terminalCopper - plays Urchin
+Stef - reveals reaction Moat
+terminalCopper - draws Urchin
+terminalCopper - plays Urchin
+Stef - reveals reaction Moat
+terminalCopper - draws Copper
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - discards: Silver, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Spice Merchant, Copper, Minion, Province
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - discards: Spice Merchant, Copper, Province
+terminalCopper - draws Minion, Province, Mercenary, Silver
+terminalCopper - plays Minion
+Stef - reveals reaction Moat
+terminalCopper - takes 2 coins
+terminalCopper - plays 1 Silver
+terminalCopper - buys Goons
+terminalCopper - gains Goons
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Province, Urchin, Minion, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Goons, Moat
+Stef - draws Goons, Bazaar, Highway, Minion
+terminalCopper - discards: Silver, Province, Urchin, Minion, Silver
+terminalCopper - draws Minion, Copper, Province, Urchin
+Stef - plays Bazaar
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Remodel
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Goons
+Stef - plays Goons
+ 
+------------ Game Over ------------
+Stef - cards: 3 Minion, 2 Goons, 2 Bazaar, 1 Remodel, 1 Moat
+Stef - victory point chips: 15
+Stef - total victory points: 15
+Stef - turns: 14
+ 
+terminalCopper - resigned
+terminalCopper - cards: 5 Minion, 2 Urchin, 1 Mercenary, 1 Spice Merchant, 1 Necropolis, 1 Goons, 2 Silver, 1 Copper, 2 Province
+terminalCopper - victory point chips: 0
+terminalCopper - total victory points: 12
+terminalCopper - turns: 15
+ 
+1st place: Stef
+2nd place: terminalCopper
+ 

@@ -1,0 +1,460 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Herbalist, University, Chancellor, Village, Nomad Camp, Tournament, Apprentice, City, Haggler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Hoam - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hoam - shuffles deck
+Stef - shuffles deck
+Hoam - draws Copper, Copper, Copper, Copper, Copper
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Hoam: turn 1 ----------
+Hoam - plays 5 Copper
+Hoam - buys Haggler
+Hoam - gains Haggler
+Hoam - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Potion, Copper, Copper, Chapel
+ 
+---------- Hoam: turn 2 ----------
+Hoam - plays 2 Copper
+Hoam - buys Chapel
+Hoam - gains Chapel
+Hoam - shuffles deck
+Hoam - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Hoam: turn 3 ----------
+Hoam - plays 4 Copper
+Hoam - buys Tournament
+Hoam - gains Tournament
+Hoam - draws Copper, Chapel, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Potion, Village, Chapel
+ 
+---------- Hoam: turn 4 ----------
+Hoam - plays Chapel
+Hoam - trashes Estate, Copper, Copper, Copper
+Hoam - draws Haggler, Estate
+Hoam - shuffles deck
+Hoam - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Estate, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Hoam: turn 5 ----------
+Hoam - plays Haggler
+Hoam - plays 2 Copper
+Hoam - buys Tournament
+Hoam - gains Silver
+Hoam - gains Tournament
+Hoam - draws Copper, Tournament, Chapel, Copper
+Hoam - shuffles deck
+Hoam - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws University, Potion, Copper, Chapel, Village
+ 
+---------- Hoam: turn 6 ----------
+Hoam - plays Tournament
+Hoam - draws Copper
+Hoam - plays Chapel
+Hoam - trashes Copper, Copper, Estate, Copper
+Hoam - draws Silver, Estate, Haggler, Tournament, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains Haggler
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Haggler
+Stef - plays Chapel
+Stef - trashes Potion, Copper
+Stef - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Hoam: turn 7 ----------
+Hoam - plays Tournament
+Hoam - shuffles deck
+Hoam - draws Tournament
+Hoam - plays Tournament
+Hoam - draws Chapel
+Hoam - plays Haggler
+Hoam - plays 1 Silver, 1 Copper
+Hoam - buys Gold
+Hoam - gains Tournament
+Hoam - gains Gold
+Hoam - shuffles deck
+Hoam - draws Silver, Tournament, Tournament, Gold, Tournament
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Chapel, Estate
+ 
+---------- Hoam: turn 8 ----------
+Hoam - plays Tournament
+Hoam - draws Estate
+Hoam - plays Tournament
+Hoam - draws Chapel
+Hoam - plays Tournament
+Hoam - draws Haggler
+Hoam - plays Haggler
+Hoam - plays 1 Silver, 1 Gold
+Hoam - buys Province
+Hoam - gains Apprentice
+Hoam - gains Province
+Hoam - draws Copper
+Hoam - shuffles deck
+Hoam - draws Tournament, Gold, Chapel, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper, Estate
+Stef - draws Copper, University, Village, Apprentice, Haggler
+ 
+---------- Hoam: turn 9 ----------
+Hoam - plays Tournament
+Hoam - draws Province
+Hoam - plays Chapel
+Hoam - trashes Copper
+Hoam - plays 1 Gold, 1 Silver
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Tournament, Haggler, Apprentice, Tournament, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays University
+Stef - gains Haggler
+Stef - plays Apprentice
+Stef - trashes Village
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Chapel, Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains City
+Stef - gains City
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Haggler, Gold, University, City, Silver
+ 
+---------- Hoam: turn 10 ----------
+Hoam - plays Apprentice
+Hoam - trashes Estate
+Hoam - shuffles deck
+Hoam - draws Chapel, Tournament
+Hoam - plays Tournament
+Hoam - draws Silver
+Hoam - plays Tournament
+Hoam - draws Province
+Hoam - plays Tournament
+Hoam - reveals Province
+Hoam - discards Province
+Hoam - gains Trusty Steed
+Hoam - draws Trusty Steed
+Hoam - plays Trusty Steed
+Hoam - takes 2 actions
+Hoam - draws Gold, Gold
+Hoam - plays Haggler
+Hoam - plays 2 Gold, 1 Silver
+Hoam - buys Province
+Hoam - gains Gold
+Hoam - gains Province
+Hoam - shuffles deck
+Hoam - draws Gold, Chapel, Gold, Province, Haggler
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Apprentice
+Stef - plays University
+Stef - gains Haggler
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws Copper, City, Chapel, Haggler
+Stef - shuffles deck
+Stef - draws Haggler
+Stef - plays City
+Stef - plays Chapel
+Stef - trashes Copper, Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Silver
+Stef - buys Gold
+Stef - gains Apprentice
+Stef - gains City
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Haggler, Apprentice, Haggler, University, Chapel
+ 
+---------- Hoam: turn 11 ----------
+Hoam - plays Haggler
+Hoam - plays 2 Gold
+Hoam - buys Province
+Hoam - gains Apprentice
+Hoam - gains Province
+Hoam - draws Silver, Tournament, Tournament, Gold, Tournament
+ 
+---------- Stef: turn 12 ----------
+Stef - plays University
+Stef - gains Haggler
+Stef - plays Apprentice
+Stef - trashes Haggler
+Stef - draws Gold, Silver, City, City, Apprentice
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Haggler
+Stef - plays Apprentice
+Stef - trashes Chapel
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains City
+Stef - gains City
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws City, Province, University, Gold, City
+ 
+---------- Hoam: turn 12 ----------
+Hoam - plays Tournament
+Stef - reveals Province
+Hoam - plays 1 Silver, 1 Gold
+Hoam - buys Apprentice
+Hoam - gains Apprentice
+Hoam - draws Apprentice, Trusty Steed, Province
+Hoam - shuffles deck
+Hoam - draws Apprentice, Haggler
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws Haggler
+Stef - plays City
+Stef - draws Apprentice
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws City, Haggler, Silver, Apprentice, City, City
+Stef - plays University
+Stef - gains Tournament
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Tournament
+Stef - plays Tournament
+Hoam - reveals Province
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - plays City
+Stef - draws Followers
+Stef - plays Followers
+Stef - shuffles deck
+Stef - draws Province
+Stef - gains Estate
+Hoam - gains Curse
+Hoam - discards Province
+Hoam - discards Haggler
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Silver
+Stef - buys Gold
+Stef - gains City
+Stef - gains Nomad Camp
+Stef - gains Gold
+Stef - draws Nomad Camp
+Stef - shuffles deck
+Stef - draws Silver, Apprentice, City, City
+ 
+---------- Hoam: turn 13 ----------
+Hoam - plays Trusty Steed
+Hoam - takes 2 actions
+Hoam - draws Gold, Apprentice
+Hoam - plays Apprentice
+Hoam - trashes Gold
+Hoam - draws Province, Tournament, Tournament, Tournament, Gold, Province
+Hoam - plays Tournament
+Hoam - reveals Province
+Hoam - discards Province
+Hoam - gains Princess
+Hoam - draws Princess
+Hoam - plays Tournament
+Hoam - reveals Province
+Hoam - discards Province
+Hoam - gains Bag of Gold
+Hoam - draws Bag of Gold
+Hoam - plays Bag of Gold
+Hoam - gains Gold
+Hoam - plays Apprentice
+Hoam - trashes Gold
+Hoam - draws Gold, Silver, Gold, Chapel
+Hoam - shuffles deck
+Hoam - draws Haggler, Province
+Hoam - plays Tournament
+Hoam - reveals Province
+Hoam - discards Province
+Hoam - gains Diadem
+Hoam - draws Diadem
+Hoam - plays Princess
+Hoam - plays Haggler
+Hoam - plays 2 Gold, 1 Silver, 1 Diadem
+Hoam - buys Province
+Hoam - gains Gold
+Hoam - gains Province
+Hoam - buys Province
+Hoam - gains Gold
+Hoam - gains Province
+Hoam - draws Province, Curse, Province
+Hoam - shuffles deck
+Hoam - draws Gold, Haggler
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws University
+Stef - plays Apprentice
+Stef - trashes City
+Stef - draws Gold, City, Province, City, Haggler
+Stef - plays City
+Stef - draws Apprentice
+Stef - plays City
+Stef - draws City
+Stef - plays University
+Stef - gains Haggler
+Stef - plays Apprentice
+Stef - trashes City
+Stef - draws Followers, Tournament, Haggler, City
+Stef - shuffles deck
+Stef - draws Haggler
+Stef - plays Followers
+Stef - gains Estate
+Hoam - gains Curse
+Hoam - discards Curse
+Hoam - discards Province
+Stef - plays Tournament
+Hoam - reveals Province
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Duchy
+Stef - plays City
+Stef - draws Duchy
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Nomad Camp
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Gold
+Stef - gains City
+Stef - gains City
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Herbalist
+Stef - gains Tournament
+Stef - gains Tournament
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Province, Tournament, Tournament, Apprentice, Herbalist
+ 
+---------- Hoam: turn 14 ----------
+Hoam - plays Haggler
+Hoam - plays 1 Gold
+Hoam - buys Duchy
+Hoam - gains Tournament
+Hoam - gains Duchy
+Hoam - draws Apprentice, Princess, Gold, Gold, Tournament
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Tournament
+Stef - draws City
+Stef - plays Apprentice
+Stef - trashes City
+Stef - draws Haggler, City, Tournament, City, Haggler
+Stef - plays City
+Stef - draws Gold
+Stef - plays City
+Stef - draws Followers
+Stef - plays Followers
+Stef - draws City, Duchy
+Stef - gains Estate
+Hoam - gains Curse
+Hoam - discards Tournament
+Hoam - discards Gold
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Duchy
+Stef - plays Tournament
+Stef - draws Gold
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Duchy
+Stef - draws Duchy
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Herbalist
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains City
+Stef - gains City
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Tournament
+Stef - gains Tournament
+Stef - gains Duchy
+Stef - draws Estate, Haggler, University, Apprentice, Nomad Camp
+ 
+------------ Game Over ------------
+Stef - cards: 7 City, 5 Tournament, 3 Haggler, 2 Apprentice, 1 University, 1 Nomad Camp, 1 Herbalist, 1 Followers, 2 Gold, 1 Silver, 4 Duchy, 3 Province, 2 Estate
+Stef - total victory points: 32
+Stef - turns: 15
+ 
+Hoam - cards: 4 Tournament, 3 Apprentice, 1 Haggler, 1 Bag of Gold, 1 Chapel, 1 Trusty Steed, 1 Princess, 4 Gold, 1 Silver, 1 Diadem, 5 Province, 1 Duchy, 3 Curse
+Hoam - total victory points: 30
+Hoam - turns: 14
+ 
+1st place: Stef
+2nd place: Hoam
+ 

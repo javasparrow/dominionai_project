@@ -1,0 +1,292 @@
+------------ Game Setup ------------
+Supply cards: Develop, Smugglers, Conspirator, Coppersmith, Treasure Map, Apprentice, Duke, Junk Dealer, Soothsayer, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - shuffles deck
+Stef - shuffles deck
+flies - draws Copper, Estate, Copper, Copper, Copper
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - shuffles deck
+flies - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Smugglers
+Stef - gains Smugglers
+Stef - shuffles deck
+Stef - draws Copper, Smugglers, Copper, Copper, Estate
+ 
+---------- flies: turn 3 ----------
+flies - plays 4 Copper
+flies - buys Smugglers
+flies - gains Smugglers
+flies - draws Silver, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Smugglers
+Stef - gains Smugglers
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays 2 Silver, 2 Copper
+flies - buys Soothsayer
+flies - gains Soothsayer
+flies - draws Copper, Estate
+flies - shuffles deck
+flies - draws Soothsayer, Estate, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Silver
+Stef - shuffles deck
+Stef - draws Estate, Smugglers, Copper
+ 
+---------- flies: turn 5 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+flies - plays 1 Copper, 1 Silver
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Smugglers
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- flies: turn 6 ----------
+flies - plays 4 Copper, 1 Silver
+flies - buys Soothsayer
+flies - gains Soothsayer
+flies - draws Copper, Smugglers, Copper, Estate
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Copper, Silver, Copper, Smugglers
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- flies: turn 7 ----------
+flies - plays Smugglers
+flies - gains Soothsayer
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Soothsayer, Silver, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Smugglers
+Stef - gains Soothsayer
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Soothsayer, Smugglers, Silver, Silver
+ 
+---------- flies: turn 8 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+flies - plays 2 Copper, 2 Silver
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Estate, Gold, Copper, Silver, Soothsayer
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Copper, Gold, Silver, Copper
+ 
+---------- flies: turn 9 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+flies - plays 1 Gold, 1 Copper, 1 Silver
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Estate, Copper
+flies - shuffles deck
+flies - draws Silver, Estate, Soothsayer
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 3 Copper, 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Smugglers, Curse, Duchy
+ 
+---------- flies: turn 10 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Curse
+flies - plays 1 Copper, 1 Silver
+flies - buys Silver
+flies - gains Silver
+flies - draws Gold, Silver, Copper, Smugglers, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Smugglers
+Stef - gains Gold
+Stef - draws Duchy, Soothsayer, Duchy, Copper, Soothsayer
+ 
+---------- flies: turn 11 ----------
+flies - plays Smugglers
+flies - gains Gold
+flies - plays 2 Copper, 1 Gold, 1 Silver
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Soothsayer, Estate, Copper, Copper, Duchy
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+flies - gains Curse
+flies - draws Silver
+Stef - draws Copper, Silver, Copper, Duchy, Copper
+ 
+---------- flies: turn 12 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+flies - plays 2 Copper, 1 Silver
+flies - buys Smugglers
+flies - gains Smugglers
+flies - draws Copper, Copper, Silver, Gold, Soothsayer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Copper, Copper, Silver, Curse
+ 
+---------- flies: turn 13 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Silver
+flies - plays 2 Copper, 1 Silver, 1 Gold
+flies - buys Duke
+flies - gains Duke
+flies - draws Gold, Duchy
+flies - shuffles deck
+flies - draws Estate, Silver, Soothsayer
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Silver, Smugglers, Gold
+Stef - shuffles deck
+Stef - draws Duke, Duchy
+ 
+---------- flies: turn 14 ----------
+flies - plays Soothsayer
+flies - gains Gold
+Stef - gains Curse
+Stef - draws Duchy
+flies - plays 1 Gold, 1 Silver
+flies - buys Duke
+flies - gains Duke
+flies - draws Copper, Silver, Smugglers, Copper, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Smugglers
+Stef - gains Duke
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Estate, Curse, Soothsayer, Copper, Curse
+ 
+---------- flies: turn 15 ----------
+flies - plays Smugglers
+flies - gains Duke
+flies - plays 2 Copper, 1 Silver, 1 Gold
+flies - buys Duke
+flies - gains Duke
+flies - draws Estate, Soothsayer, Copper, Copper, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+flies - gains Curse
+flies - draws Silver
+Stef - draws Silver, Duchy, Gold, Copper, Smugglers
+ 
+---------- flies: turn 16 ----------
+flies - plays 2 Copper, 1 Silver
+flies - buys Estate
+flies - gains Estate
+flies - draws Gold, Gold, Estate, Smugglers, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Smugglers
+Stef - gains Estate
+Stef - plays 1 Silver, 1 Gold, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Estate, Curse, Curse, Curse
+ 
+---------- flies: turn 17 ----------
+flies - plays Smugglers
+flies - gains Estate
+flies - plays 2 Gold, 1 Silver
+flies - buys Province
+flies - gains Province
+flies - draws Gold, Gold, Gold, Copper, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - buys Curse
+Stef - gains Curse
+Stef - draws Duchy, Copper, Gold, Curse, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 2 Smugglers, 2 Soothsayer, 7 Copper, 4 Gold, 4 Silver, 5 Duchy, 4 Duke, 4 Estate, 8 Curse
+Stef - total victory points: 31
+Stef - turns: 17
+ 
+flies - cards: 3 Soothsayer, 2 Smugglers, 8 Gold, 7 Copper, 5 Silver, 5 Estate, 4 Duke, 3 Duchy, 1 Province, 2 Curse
+flies - total victory points: 30
+flies - turns: 17
+ 
+1st place: Stef
+2nd place: flies
+ 

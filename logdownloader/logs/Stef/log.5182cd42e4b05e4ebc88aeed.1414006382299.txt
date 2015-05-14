@@ -1,0 +1,650 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Fishing Village, Fortune Teller, Advisor, Ghost Ship, Minion, Outpost, Treasury, Possession, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - shuffles deck
+Stef - shuffles deck
+silverspawn  - draws Copper, Copper, Copper, Estate, Estate
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays Copper
+silverspawn  - plays 2 Copper
+silverspawn  - buys Fishing Village
+silverspawn  - gains Fishing Village
+silverspawn  - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 4 Copper
+silverspawn  - buys Fortune Teller
+silverspawn  - gains Fortune Teller
+silverspawn  - shuffles deck
+silverspawn  - draws Fishing Village, Copper, Estate, Estate, Fortune Teller
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - shuffles deck
+Stef - draws Fortune Teller, Copper, Copper, Fishing Village, Copper
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays Fishing Village
+silverspawn  - plays Fortune Teller
+Stef - reveals Estate
+silverspawn  - buys Fishing Village
+silverspawn  - gains Fishing Village
+silverspawn  - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Copper, Estate
+silverspawn  - discards Copper
+Stef - plays 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays 5 Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - draws Estate
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Fishing Village
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Fishing Village, Fishing Village, Copper
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Fishing Village
+silverspawn  - gains Fishing Village
+silverspawn  - draws Copper, Copper, Copper, Minion, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays Minion
+silverspawn  - discards: Copper, Copper, Copper, Copper
+silverspawn  - draws Estate, Fortune Teller, Fishing Village, Fishing Village
+Stef - discards: Copper, Copper, Estate, Estate, Copper
+Stef - draws Copper, Fortune Teller, Copper, Minion
+silverspawn  - plays Fishing Village
+silverspawn  - plays Fishing Village
+silverspawn  - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Estate
+silverspawn  - buys Advisor
+silverspawn  - gains Advisor
+silverspawn  - shuffles deck
+silverspawn  - draws Estate, Fortune Teller, Estate, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Copper, Copper, Copper, Copper, Copper, Advisor, Copper, Fishing Village, Minion
+silverspawn  - discards: Copper, Copper, Copper, Copper, Copper, Advisor, Copper, Fishing Village, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Estate, Fishing Village, Copper, Copper
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - duration Fishing Village
+silverspawn  - plays Fortune Teller
+Stef - reveals Copper, Copper, Estate
+Stef - discards: Copper, Copper
+silverspawn  - plays Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - shuffles deck
+silverspawn  - draws Fortune Teller, Fishing Village, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Estate, Minion, Fortune Teller
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays Fishing Village
+silverspawn  - plays Fortune Teller
+Stef - reveals Fishing Village, Estate
+Stef - discards Fishing Village
+silverspawn  - plays Copper
+silverspawn  - plays Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - draws Estate, Copper, Advisor, Copper, Minion
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Fishing Village, Copper, Copper, Estate
+silverspawn  - discards: Fishing Village, Copper, Copper
+Stef - plays Minion
+Stef - discards: Estate, Copper, Estate
+Stef - draws Estate, Copper, Copper, Copper
+silverspawn  - discards: Estate, Copper, Advisor, Copper, Minion
+silverspawn  - draws Estate, Minion, Copper, Fishing Village
+Stef - plays 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Fortune Teller, Copper, Minion, Fishing Village, Copper
+ 
+---------- silverspawn : turn 9 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays Fishing Village
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Advisor, Copper, Copper, Estate
+Stef - discards: Fortune Teller, Copper, Minion, Fishing Village, Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fishing Village, Minion, Fortune Teller
+silverspawn  - plays Advisor
+silverspawn  - reveals: Copper, Minion, Estate
+Stef - discards Minion
+silverspawn  - places cards in hand:  Copper, Estate
+silverspawn  - plays 3 Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - draws Copper, Estate, Minion, Copper, Fortune Teller
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - shuffles deck
+silverspawn  - reveals Fishing Village, Copper, Copper, Copper, Minion, Estate
+silverspawn  - discards: Fishing Village, Copper, Copper, Copper, Minion
+Stef - plays Minion
+Stef - discards Copper
+Stef - draws Minion, Copper, Copper, Estate
+silverspawn  - discards: Copper, Estate, Minion, Copper, Fortune Teller
+silverspawn  - draws Estate, Copper, Estate, Minion
+Stef - plays Minion
+Stef - discards: Copper, Copper, Estate
+Stef - draws Fishing Village, Copper, Estate, Copper
+Stef - plays Fishing Village
+Stef - plays Copper
+Stef - buys Outpost
+Stef - gains Outpost
+Stef - draws Copper, Fortune Teller, Fishing Village, Copper, Estate
+ 
+---------- silverspawn : turn 10 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Copper, Estate
+silverspawn  - draws Minion, Fishing Village, Copper, Advisor
+Stef - discards: Copper, Fortune Teller, Fishing Village, Copper, Estate
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+silverspawn  - plays Advisor
+silverspawn  - shuffles deck
+silverspawn  - reveals: Fortune Teller, Copper, Estate
+Stef - discards Fortune Teller
+silverspawn  - places cards in hand:  Copper, Estate
+silverspawn  - plays Fishing Village
+silverspawn  - plays Minion
+silverspawn  - discards: Copper, Copper, Estate
+silverspawn  - draws Minion, Copper, Minion, Copper
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Copper
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - draws Copper, Copper, Copper, Fishing Village, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Minion
+Stef - discards: Estate, Copper, Copper
+Stef - draws Outpost, Copper, Estate, Fishing Village
+silverspawn  - discards: Copper, Copper, Copper, Fishing Village, Estate
+silverspawn  - draws Estate
+silverspawn  - shuffles deck
+silverspawn  - draws King's Court, Estate, Minion
+Stef - plays Fishing Village
+Stef - plays Outpost
+Stef - plays Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - duration Outpost
+Stef - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - draws Copper, Copper, Fortune Teller, Minion, Fortune Teller
+ 
+---------- silverspawn : turn 11 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays King's Court
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Estate
+silverspawn  - draws Fishing Village, Copper, Fishing Village, Minion
+Stef - discards: Copper, Copper, Fortune Teller, Minion, Fortune Teller
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Fishing Village
+silverspawn  - plays Fishing Village
+silverspawn  - plays Minion
+silverspawn  - discards Copper
+silverspawn  - draws Fortune Teller, Copper, Minion, Advisor
+silverspawn  - plays Advisor
+silverspawn  - reveals: Copper, Minion, Copper
+Stef - discards Minion
+silverspawn  - places cards in hand:  Copper, Copper
+silverspawn  - plays Fortune Teller
+Stef - reveals Fishing Village, Copper, Advisor, Estate
+Stef - discards: Fishing Village, Copper, Advisor
+silverspawn  - plays Minion
+silverspawn  - discards: Copper, Copper, Copper
+silverspawn  - draws Copper, Estate, Copper, Copper
+silverspawn  - plays 3 Copper
+silverspawn  - buys Outpost
+silverspawn  - gains Outpost
+silverspawn  - shuffles deck
+silverspawn  - draws King's Court, Advisor, Copper, Fortune Teller, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Minion
+Stef - discards: Estate, Copper, Copper
+Stef - draws Estate, Estate, Copper, Copper
+silverspawn  - discards: King's Court, Advisor, Copper, Fortune Teller, Copper
+silverspawn  - draws Copper, Estate, Copper, Outpost
+Stef - draws Fortune Teller, Minion, Copper, Outpost, Copper
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - duration Fishing Village
+silverspawn  - plays Outpost
+silverspawn  - plays 2 Copper
+silverspawn  - buys Advisor
+silverspawn  - gains Advisor
+silverspawn  - duration Outpost
+silverspawn  - draws Estate, Copper, Minion
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Copper
+silverspawn  - draws Estate, Minion, Copper, Minion
+Stef - discards: Fortune Teller, Minion, Copper, Outpost, Copper
+Stef - draws Fortune Teller, Minion, Fishing Village, Fishing Village
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Copper
+silverspawn  - draws Fishing Village, Minion, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Copper
+silverspawn  - plays Fishing Village
+silverspawn  - plays Minion
+silverspawn  - discards: Copper, Copper
+silverspawn  - draws Copper, Estate, Fishing Village, Copper
+silverspawn  - plays Fishing Village
+silverspawn  - plays Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - draws Advisor, Estate, Fishing Village, Estate, Fortune Teller
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - shuffles deck
+silverspawn  - reveals Copper, Copper, King's Court, Copper, Advisor, Estate
+silverspawn  - discards: Copper, Copper, King's Court, Copper, Advisor
+Stef - plays Minion
+Stef - shuffles deck
+Stef - draws Copper, Estate, Fishing Village, Advisor
+silverspawn  - discards: Advisor, Estate, Fishing Village, Estate, Fortune Teller
+silverspawn  - draws Estate, Minion, Minion, Copper
+Stef - plays Advisor
+Stef - reveals: Minion, Estate, Copper
+silverspawn  - discards Minion
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Fishing Village
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Copper, Outpost, Fortune Teller, Copper
+ 
+---------- silverspawn : turn 13 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - duration Fishing Village
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Minion
+silverspawn  - discards: Estate, Copper
+silverspawn  - draws Copper, Copper, Minion, Minion
+Stef - discards: Copper, Copper, Outpost, Fortune Teller, Copper
+Stef - draws Estate, Copper, Copper, Minion
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays Minion
+silverspawn  - takes 2 coins
+silverspawn  - plays 2 Copper
+silverspawn  - buys Minion
+silverspawn  - gains Minion
+silverspawn  - draws Outpost, Minion, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Fishing Village, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Minion
+Stef - discards: Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Minion, Copper, Copper, Copper
+silverspawn  - discards: Outpost, Minion, Copper, Fishing Village, Copper
+silverspawn  - draws Fishing Village, Copper, Estate, Advisor
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper
+Stef - draws Fortune Teller, Copper, Copper, Copper
+Stef - plays Fortune Teller
+silverspawn  - reveals King's Court, Fortune Teller, Minion, Copper, Advisor, Minion, Minion, Copper, Copper, Estate
+silverspawn  - discards: King's Court, Fortune Teller, Minion, Copper, Advisor, Minion, Minion, Copper, Copper
+Stef - plays 3 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Outpost, Advisor, Estate, Copper, Fortune Teller
+ 
+---------- silverspawn : turn 14 ----------
+silverspawn  - plays Advisor
+silverspawn  - reveals: Estate, Copper, Minion
+Stef - discards Minion
+silverspawn  - places cards in hand:  Estate, Copper
+silverspawn  - plays Fishing Village
+silverspawn  - plays 2 Copper
+silverspawn  - buys Fortune Teller
+silverspawn  - gains Fortune Teller
+silverspawn  - draws Estate, Fishing Village, Minion
+silverspawn  - shuffles deck
+silverspawn  - draws Minion, Minion
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Advisor
+Stef - reveals: Minion, Estate, Estate
+silverspawn  - discards Minion
+Stef - places cards in hand:  Estate, Estate
+Stef - plays Outpost
+Stef - duration Outpost
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Copper, Copper, Minion, Estate
+silverspawn  - discards: Estate, Fishing Village, Minion, Minion, Minion
+silverspawn  - draws Fortune Teller, Copper, Outpost, Fortune Teller
+Stef - plays Minion
+Stef - discards: Copper, Copper, Estate
+Stef - draws Fortune Teller, Fortune Teller, Minion, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Copper, Copper, Copper, Advisor, King's Court, Minion, Estate
+silverspawn  - discards: Copper, Copper, Copper, Advisor, King's Court, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Fortune Teller
+silverspawn  - reveals Estate
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Estate, Copper, Copper, Minion, Estate
+ 
+---------- silverspawn : turn 15 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals King's Court, Advisor, Fishing Village, Fishing Village, Copper, Minion, Estate
+Stef - discards: King's Court, Advisor, Fishing Village, Fishing Village, Copper, Minion
+silverspawn  - plays Outpost
+silverspawn  - plays Copper
+silverspawn  - buys Advisor
+silverspawn  - gains Advisor
+silverspawn  - duration Outpost
+silverspawn  - draws Estate, Fishing Village, Advisor
+ 
+---------- silverspawn : turn 15 ----------
+silverspawn  - plays Advisor
+silverspawn  - reveals: Estate, Copper, Copper
+Stef - discards Copper
+silverspawn  - places cards in hand:  Estate, Copper
+silverspawn  - plays Fishing Village
+silverspawn  - draws Copper, Minion, Minion
+silverspawn  - shuffles deck
+silverspawn  - draws Estate, Minion
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Fishing Village
+Stef - plays Minion
+Stef - discards: Estate, Copper, Copper, Estate
+Stef - draws Estate, Minion, Fortune Teller, Fortune Teller
+silverspawn  - discards: Copper, Minion, Minion, Estate, Minion
+silverspawn  - draws Copper, Advisor, Fortune Teller, Outpost
+Stef - plays Fortune Teller
+silverspawn  - reveals Copper, Copper, King's Court, Estate
+silverspawn  - discards: Copper, Copper, King's Court
+Stef - plays Minion
+Stef - discards: Estate, Fortune Teller
+Stef - draws Minion, Copper, King's Court, Copper
+Stef - plays King's Court
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Copper, Copper, Outpost
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Outpost
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - duration Outpost
+Stef - draws Fishing Village, Copper, Fortune Teller
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Estate
+Stef - plays Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Estate, Minion, Copper, Copper, Estate
+ 
+---------- silverspawn : turn 16 ----------
+silverspawn  - duration Fishing Village
+silverspawn  - plays Advisor
+silverspawn  - reveals: Estate, Minion, Copper
+Stef - discards Minion
+silverspawn  - places cards in hand:  Estate, Copper
+silverspawn  - plays Fortune Teller
+Stef - reveals Estate
+silverspawn  - plays Outpost
+silverspawn  - plays 2 Copper
+silverspawn  - buys Outpost
+silverspawn  - gains Outpost
+silverspawn  - duration Outpost
+silverspawn  - draws Advisor, Fortune Teller, Copper
+ 
+---------- silverspawn : turn 16 ----------
+silverspawn  - plays Advisor
+silverspawn  - reveals: Fishing Village, Estate, Copper
+Stef - discards Fishing Village
+silverspawn  - places cards in hand:  Estate, Copper
+silverspawn  - plays Fortune Teller
+Stef - reveals Estate
+silverspawn  - plays 2 Copper
+silverspawn  - buys Advisor
+silverspawn  - gains Advisor
+silverspawn  - draws Fishing Village, Advisor, Minion, Minion
+silverspawn  - shuffles deck
+silverspawn  - draws Minion
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Fishing Village
+Stef - plays Minion
+Stef - discards: Estate, Copper, Copper, Estate
+Stef - draws Estate, King's Court, Advisor, Fishing Village
+silverspawn  - discards: Fishing Village, Advisor, Minion, Minion, Minion
+silverspawn  - draws Advisor, Copper, Copper, Copper
+Stef - plays King's Court
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Minion, Minion
+silverspawn  - discards Minion
+Stef - places cards in hand:  Copper, Minion
+Stef - plays Advisor
+Stef - reveals: Fortune Teller, Estate, King's Court
+silverspawn  - discards King's Court
+Stef - places cards in hand:  Fortune Teller, Estate
+Stef - plays Advisor
+Stef - reveals: Copper, Outpost, Estate
+silverspawn  - discards Outpost
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Fishing Village, Advisor, Copper, Copper, King's Court, Estate
+silverspawn  - discards: Fishing Village, Advisor, Copper, Copper, King's Court
+Stef - plays Minion
+Stef - discards: Estate, Copper, Estate, Copper, Estate
+Stef - draws Fishing Village, Copper, Fortune Teller, Copper
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - reveals Estate
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws King's Court, Copper, Copper, Minion, Advisor
+ 
+---------- silverspawn : turn 17 ----------
+silverspawn  - plays Advisor
+silverspawn  - reveals: Estate, Copper, Estate
+Stef - discards Copper
+silverspawn  - places cards in hand:  Estate, Estate
+silverspawn  - plays 3 Copper
+silverspawn  - buys Fishing Village
+silverspawn  - gains Fishing Village
+silverspawn  - draws Fortune Teller, Outpost, Advisor, Minion, Fortune Teller
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Advisor
+silverspawn  - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays King's Court
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - draws Estate, King's Court, Fortune Teller, Copper
+silverspawn  - discards: Fortune Teller, Outpost, Advisor, Minion, Fortune Teller
+silverspawn  - draws Minion, Estate, Minion, Fishing Village
+Stef - plays Minion
+Stef - discards: Estate, King's Court, Fortune Teller, Copper
+Stef - draws Copper, Copper, King's Court, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays King's Court
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Province, Outpost, Estate, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Outpost
+Stef - buys Province
+Stef - gains Province
+Stef - duration Outpost
+Stef - draws Fishing Village, Fortune Teller, Minion
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Fishing Village
+Stef - plays Fortune Teller
+silverspawn  - shuffles deck
+silverspawn  - reveals Outpost, Copper, Fishing Village, Copper, Fortune Teller, Minion, Minion, Fishing Village, Fishing Village, Outpost, Copper, Copper, Copper, Advisor, Copper, Estate
+silverspawn  - discards: Outpost, Copper, Fishing Village, Copper, Fortune Teller, Minion, Minion, Fishing Village, Fishing Village, Outpost, Copper, Copper, Copper, Advisor, Copper
+Stef - plays Minion
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws King's Court, Minion, Fortune Teller
+Stef - plays King's Court
+Stef - plays Minion
+Stef - discards: Estate, Fortune Teller
+Stef - draws Copper, Advisor, Province, Copper
+Stef - plays Minion
+Stef - discards: Copper, Advisor, Province, Copper
+Stef - draws Minion, King's Court, Copper, Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays King's Court
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Copper, Minion, Estate, Copper
+Stef - plays Minion
+Stef - discards: Copper, Minion, Estate, Copper
+Stef - draws King's Court, Advisor, Fishing Village, Estate
+Stef - plays Minion
+Stef - takes 2 coins
+ 
+------------ Game Over ------------
+Stef - cards: 2 Advisor, 2 Fishing Village, 1 King's Court, 1 Fortune Teller, 1 Minion, 7 Copper, 3 Estate, 2 Province
+Stef - total victory points: 15
+Stef - turns: 16
+ 
+silverspawn  - resigned
+silverspawn  - cards: 6 Minion, 4 Fishing Village, 4 Advisor, 2 Outpost, 2 Fortune Teller, 1 King's Court, 7 Copper, 3 Estate
+silverspawn  - total victory points: 3
+silverspawn  - turns: 17
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

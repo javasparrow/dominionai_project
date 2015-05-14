@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Moat, Vagrant, Market Square, Workshop, Feast, Embassy, Harvest, Jester, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+walter-white - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+walter-white - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+walter-white - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- walter-white: turn 1 ----------
+walter-white - plays 4 Copper
+walter-white - buys Workshop
+walter-white - gains Workshop
+walter-white - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- walter-white: turn 2 ----------
+walter-white - plays 3 Copper
+walter-white - buys Workshop
+walter-white - gains Workshop
+walter-white - shuffles deck
+walter-white - draws Copper, Workshop, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- walter-white: turn 3 ----------
+walter-white - plays Workshop
+walter-white - gains Silver
+walter-white - plays 3 Copper
+walter-white - buys Silver
+walter-white - gains Silver
+walter-white - draws Copper, Copper, Estate, Workshop, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- walter-white: turn 4 ----------
+walter-white - plays Workshop
+walter-white - gains Market Square
+walter-white - plays 3 Copper
+walter-white - buys Silver
+walter-white - gains Silver
+walter-white - draws Copper, Estate
+walter-white - shuffles deck
+walter-white - draws Silver, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Silver, Estate, Silver, Silver, Copper
+ 
+---------- walter-white: turn 5 ----------
+walter-white - plays 1 Copper, 1 Silver
+walter-white - buys Vagrant
+walter-white - gains Vagrant
+walter-white - draws Copper, Workshop, Silver, Workshop, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Copper, Estate, Copper, Jester
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- walter-white: turn 6 ----------
+walter-white - plays Workshop
+walter-white - gains Vagrant
+walter-white - plays 2 Copper, 1 Silver
+walter-white - buys Vagrant
+walter-white - gains Vagrant
+walter-white - draws Copper, Copper, Copper, Copper, Market Square
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Jester
+walter-white - reveals Silver
+walter-white - discards Silver
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Altar, Copper, Estate, Copper, Copper
+ 
+---------- walter-white: turn 7 ----------
+walter-white - plays Market Square
+walter-white - shuffles deck
+walter-white - draws Silver
+walter-white - plays 4 Copper, 1 Silver
+walter-white - buys Altar
+walter-white - gains Altar
+walter-white - draws Copper, Vagrant, Vagrant, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Jester
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper, Silver, Silver, Market Square, Silver
+ 
+---------- walter-white: turn 8 ----------
+walter-white - plays Vagrant
+walter-white - draws Workshop
+walter-white - reveals: Vagrant
+walter-white - places Vagrant on top of deck
+walter-white - plays Vagrant
+walter-white - draws Vagrant
+walter-white - reveals: Silver
+walter-white - places Silver on top of deck
+walter-white - plays Vagrant
+walter-white - draws Silver
+walter-white - reveals: Estate
+walter-white - places Estate in hand
+walter-white - plays Workshop
+walter-white - gains Market Square
+walter-white - plays 2 Copper, 2 Silver
+walter-white - buys Altar
+walter-white - gains Altar
+walter-white - draws Estate, Workshop, Estate, Copper
+walter-white - shuffles deck
+walter-white - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Market Square, Altar, Copper, Market Square
+ 
+---------- walter-white: turn 9 ----------
+walter-white - plays Workshop
+walter-white - gains Potion
+walter-white - plays 2 Copper
+walter-white - buys Vagrant
+walter-white - gains Vagrant
+walter-white - draws Copper, Silver, Workshop, Copper, Vagrant
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Altar
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - gains Embassy
+walter-white - gains Silver
+Stef - draws Copper, Copper, Silver, Market Square, Copper
+ 
+---------- walter-white: turn 10 ----------
+walter-white - plays Vagrant
+walter-white - draws Silver
+walter-white - reveals: Market Square
+walter-white - places Market Square on top of deck
+walter-white - plays Workshop
+walter-white - gains Market Square
+walter-white - plays 2 Copper, 2 Silver
+walter-white - buys Altar
+walter-white - gains Altar
+walter-white - draws Market Square, Copper, Estate, Vagrant, Market Square
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Silver, Estate, Jester, Silver
+ 
+---------- walter-white: turn 11 ----------
+walter-white - plays Vagrant
+walter-white - draws Copper
+walter-white - reveals: Altar
+walter-white - places Altar on top of deck
+walter-white - plays Market Square
+walter-white - draws Altar
+walter-white - plays Market Square
+walter-white - draws Copper
+walter-white - plays Altar
+walter-white - trashes Estate
+walter-white - gains Potion
+walter-white - plays 3 Copper
+walter-white - buys Market Square
+walter-white - gains Market Square
+walter-white - draws Altar, Vagrant, Silver
+walter-white - shuffles deck
+walter-white - draws Copper, Vagrant
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Jester
+walter-white - reveals Workshop
+walter-white - discards Workshop
+Stef - gains Workshop
+Stef - plays Silver
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Potion, Silver, Market Square, Jester
+ 
+---------- walter-white: turn 12 ----------
+walter-white - plays Vagrant
+walter-white - draws Copper
+walter-white - reveals: Altar
+walter-white - places Altar on top of deck
+walter-white - plays Vagrant
+walter-white - draws Altar
+walter-white - reveals: Vagrant
+walter-white - places Vagrant on top of deck
+walter-white - plays Altar
+walter-white - trashes Copper
+walter-white - gains Potion
+walter-white - plays 1 Silver, 1 Copper
+walter-white - buys Market Square
+walter-white - gains Market Square
+walter-white - draws Vagrant, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Jester
+walter-white - reveals Market Square
+walter-white - discards Market Square
+Stef - gains Market Square
+Stef - plays 1 Copper, 1 Potion, 1 Silver
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Copper, Vagrant, Potion, Jester, Copper
+ 
+---------- walter-white: turn 13 ----------
+walter-white - plays Vagrant
+walter-white - draws Copper
+walter-white - reveals: Workshop
+walter-white - places Workshop on top of deck
+walter-white - plays 3 Copper, 1 Silver
+walter-white - buys Potion
+walter-white - gains Potion
+walter-white - draws Workshop, Copper, Market Square, Market Square, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Jester
+walter-white - reveals Silver
+walter-white - discards Silver
+Stef - gains Silver
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Gold, Market Square, Silver, Embassy, Market Square
+ 
+---------- walter-white: turn 14 ----------
+walter-white - plays Market Square
+walter-white - draws Vagrant
+walter-white - plays Market Square
+walter-white - draws Market Square
+walter-white - plays Vagrant
+walter-white - draws Silver
+walter-white - reveals: Altar
+walter-white - places Altar on top of deck
+walter-white - plays Market Square
+walter-white - draws Altar
+walter-white - plays Altar
+walter-white - trashes Estate
+walter-white - gains Vagrant
+walter-white - plays 1 Copper, 1 Silver
+walter-white - buys Vagrant
+walter-white - gains Vagrant
+walter-white - draws Potion, Potion, Copper
+walter-white - shuffles deck
+walter-white - draws Potion, Altar
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Embassy
+Stef - draws Workshop, Silver, Silver, Potion, Altar
+Stef - discards Workshop
+Stef - discards Altar
+Stef - discards Copper
+Stef - plays 3 Silver, 1 Gold, 1 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Copper, Market Square
+Stef - shuffles deck
+Stef - draws Copper, Vineyard
+ 
+---------- walter-white: turn 15 ----------
+walter-white - plays Altar
+walter-white - trashes Copper
+walter-white - gains Embassy
+Stef - gains Silver
+walter-white - plays 3 Potion
+walter-white - buys Vineyard
+walter-white - gains Vineyard
+walter-white - draws Market Square, Vagrant, Silver, Workshop, Market Square
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Workshop
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Silver, Copper, Jester, Market Square
+ 
+---------- walter-white: turn 16 ----------
+walter-white - plays Vagrant
+walter-white - draws Copper
+walter-white - reveals: Vagrant
+walter-white - places Vagrant on top of deck
+walter-white - plays Market Square
+walter-white - draws Vagrant
+walter-white - plays Market Square
+walter-white - draws Market Square
+walter-white - plays Vagrant
+walter-white - draws Altar
+walter-white - reveals: Altar
+walter-white - places Altar on top of deck
+walter-white - plays Market Square
+walter-white - draws Altar
+walter-white - plays Altar
+walter-white - trashes Copper
+walter-white - gains Moat
+walter-white - plays 1 Silver
+walter-white - buys Moat
+walter-white - gains Moat
+walter-white - draws Workshop, Copper, Silver, Copper, Vagrant
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Vagrant
+Stef - draws Potion
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Market Square
+Stef - draws Potion
+Stef - plays Jester
+walter-white - reveals Copper
+walter-white - discards Copper
+walter-white - gains Copper
+Stef - plays 2 Potion, 1 Silver, 1 Copper
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Jester, Altar, Silver, Province, Copper
+ 
+---------- walter-white: turn 17 ----------
+walter-white - plays Vagrant
+walter-white - draws Silver
+walter-white - reveals: Market Square
+walter-white - places Market Square on top of deck
+walter-white - plays Workshop
+walter-white - gains Moat
+walter-white - plays 2 Copper, 2 Silver
+walter-white - buys Embassy
+walter-white - gains Embassy
+Stef - gains Silver
+walter-white - draws Market Square, Estate, Vagrant, Silver, Vagrant
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Embassy
+walter-white - gains Silver
+Stef - plays Silver
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Market Square, Copper, Silver, Vineyard, Silver
+ 
+---------- walter-white: turn 18 ----------
+walter-white - plays Vagrant
+walter-white - draws Market Square
+walter-white - reveals: Potion
+walter-white - places Potion on top of deck
+walter-white - plays Vagrant
+walter-white - draws Potion
+walter-white - reveals: Copper
+walter-white - places Copper on top of deck
+walter-white - plays Market Square
+walter-white - draws Copper
+walter-white - plays Market Square
+walter-white - draws Vagrant
+walter-white - plays Vagrant
+walter-white - shuffles deck
+walter-white - draws Vagrant
+walter-white - reveals: Altar
+walter-white - places Altar on top of deck
+walter-white - plays Vagrant
+walter-white - draws Altar
+walter-white - reveals: Silver
+walter-white - places Silver on top of deck
+walter-white - plays Altar
+walter-white - trashes Copper
+walter-white - gains Embassy
+Stef - gains Silver
+walter-white - plays 1 Silver, 1 Potion
+walter-white - buys Vineyard
+walter-white - gains Vineyard
+walter-white - buys Moat
+walter-white - gains Moat
+walter-white - draws Silver, Vineyard, Altar, Potion, Embassy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Market Square
+Stef - draws Embassy
+Stef - plays Embassy
+Stef - draws Copper, Potion, Jester, Vagrant, Vineyard
+Stef - discards Vineyard
+Stef - discards Vineyard
+Stef - discards Jester
+Stef - plays 2 Copper, 2 Silver, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Estate, Gold, Market Square
+ 
+------------ Game Over ------------
+Stef - cards: 5 Market Square, 4 Vagrant, 3 Jester, 2 Workshop, 2 Embassy, 1 Moat, 1 Altar, 8 Silver, 5 Copper, 3 Potion, 2 Gold, 6 Vineyard, 2 Estate, 1 Province, 1 Duchy
+Stef - total victory points: 47
+Stef - turns: 19
+ 
+walter-white - cards: 6 Vagrant, 5 Market Square, 4 Moat, 3 Altar, 3 Embassy, 2 Workshop, 5 Silver, 4 Potion, 4 Copper, 2 Vineyard, 1 Estate
+walter-white - total victory points: 15
+walter-white - turns: 18
+ 
+1st place: Stef
+2nd place: walter-white
+ 

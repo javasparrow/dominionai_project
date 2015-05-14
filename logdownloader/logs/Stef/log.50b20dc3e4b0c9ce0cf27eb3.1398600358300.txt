@@ -1,0 +1,687 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Swindler, Tunnel, Gardens, Ironmonger, Silk Road, Council Room, Margrave, Upgrade, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ruroi - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 4 Copper
+ruroi - buys Swindler
+ruroi - gains Swindler
+ruroi - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 3 Copper
+ruroi - buys Swindler
+ruroi - gains Swindler
+ruroi - shuffles deck
+ruroi - draws Estate, Estate, Copper, Copper, Swindler
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Ironmonger
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+ruroi - plays 2 Copper
+ruroi - buys Ironmonger
+ruroi - gains Ironmonger
+ruroi - draws Copper, Estate, Copper, Swindler, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Swindler, Copper, Estate, Copper, Estate
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays Swindler
+Stef - shuffles deck
+Stef - reveals Ironmonger
+Stef - trashes Ironmonger
+Stef - gains Silk Road
+ruroi - plays 3 Copper
+ruroi - buys Upgrade
+ruroi - gains Upgrade
+ruroi - draws Copper, Copper
+ruroi - shuffles deck
+ruroi - draws Copper, Upgrade, Ironmonger
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+ruroi - reveals Copper
+ruroi - trashes Copper
+ruroi - gains Curse
+Stef - plays 2 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Copper, Copper, Ironmonger, Curse
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Ironmonger
+ruroi - draws Copper
+ruroi - reveals: Copper
+ruroi - discards Copper
+ruroi - plays Upgrade
+ruroi - draws Estate
+ruroi - trashes Estate
+ruroi - gains Silver
+ruroi - plays 4 Copper
+ruroi - buys Margrave
+ruroi - gains Margrave
+ruroi - draws Estate, Estate, Swindler, Swindler, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - shuffles deck
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays 4 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Estate, Estate, Copper, Swindler, Silk Road
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays Swindler
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+ruroi - plays 1 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - shuffles deck
+ruroi - draws Curse, Estate, Copper, Margrave, Swindler
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Swindler
+ruroi - reveals Estate
+ruroi - trashes Estate
+ruroi - gains Estate
+Stef - plays 1 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Ironmonger, Estate, Curse, Copper, Ironmonger
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays Margrave
+ruroi - draws Copper, Copper, Copper
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Copper
+ruroi - plays 4 Copper
+ruroi - buys Ironmonger
+ruroi - gains Ironmonger
+ruroi - draws Upgrade, Swindler, Silver, Ironmonger, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Upgrade
+Stef - places Upgrade on top of deck
+Stef - plays 3 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Upgrade
+Stef - shuffles deck
+Stef - draws Copper, Curse, Copper, Estate
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays Ironmonger
+ruroi - draws Copper
+ruroi - reveals: Copper
+ruroi - discards Copper
+ruroi - plays Upgrade
+ruroi - shuffles deck
+ruroi - draws Copper
+ruroi - trashes Copper
+ruroi - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Province
+ruroi - gains Province
+ruroi - draws Ironmonger, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Upgrade
+Stef - draws Ironmonger
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Silk Road
+Stef - discards Silk Road
+Stef - draws Swindler
+Stef - plays Swindler
+ruroi - reveals Swindler
+ruroi - trashes Swindler
+ruroi - gains Fortune Teller
+Stef - plays 2 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Swindler, Ironmonger, Ironmonger, Estate, Copper
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays Ironmonger
+ruroi - draws Estate
+ruroi - reveals: Margrave
+ruroi - places Margrave on top of deck
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Margrave, Curse, Copper
+ruroi - shuffles deck
+ruroi - draws Copper, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Curse
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Swindler
+ruroi - reveals Copper
+ruroi - trashes Copper
+ruroi - gains Curse
+Stef - plays Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Swindler, Copper, Ironmonger, Copper, Copper
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Margrave
+ruroi - draws Estate, Estate, Fortune Teller
+Stef - draws Curse
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+ruroi - plays 2 Copper, 1 Silver
+ruroi - buys Ironmonger
+ruroi - gains Ironmonger
+ruroi - draws Ironmonger, Silver, Swindler, Province, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Silk Road
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Swindler
+ruroi - reveals Copper
+ruroi - trashes Copper
+ruroi - gains Curse
+Stef - plays 1 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Silver, Ironmonger, Upgrade, Estate
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Ironmonger
+ruroi - draws Silver
+ruroi - reveals: Ironmonger
+ruroi - places Ironmonger on top of deck
+ruroi - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Ironmonger, Upgrade
+ruroi - shuffles deck
+ruroi - draws Copper, Curse, Ironmonger
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Upgrade
+Stef - draws Swindler
+Stef - trashes Curse
+Stef - plays Swindler
+ruroi - reveals Ironmonger
+ruroi - trashes Ironmonger
+ruroi - gains Gardens
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Ironmonger, Silk Road, Ironmonger, Estate, Swindler
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays Ironmonger
+ruroi - draws Curse
+ruroi - reveals: Province
+ruroi - discards Province
+ruroi - draws Estate
+ruroi - plays Ironmonger
+ruroi - draws Silver
+ruroi - reveals: Silver
+ruroi - places Silver on top of deck
+ruroi - plays Upgrade
+ruroi - draws Silver
+ruroi - trashes Curse
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Gardens
+ruroi - gains Gardens
+ruroi - draws Curse, Gold, Estate, Copper, Fortune Teller
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Curse
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Swindler
+Stef - discards Swindler
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Margrave
+Stef - places Margrave on top of deck
+Stef - plays Swindler
+ruroi - reveals Margrave
+ruroi - trashes Margrave
+ruroi - gains Duchy
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - draws Margrave, Copper, Copper, Upgrade, Copper
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Fortune Teller
+Stef - reveals Curse
+ruroi - plays 1 Gold, 1 Copper
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Silver, Swindler, Copper
+ruroi - shuffles deck
+ruroi - draws Upgrade, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Curse
+Stef - plays Margrave
+Stef - draws Silver, Estate
+Stef - shuffles deck
+Stef - draws Ironmonger
+ruroi - draws Gardens
+ruroi - discards Province
+ruroi - discards Gardens
+ruroi - discards Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Council Room, Swindler, Ironmonger, Estate, Ironmonger
+ 
+---------- ruroi: turn 14 ----------
+ruroi - plays Upgrade
+ruroi - draws Ironmonger
+ruroi - trashes Silver
+ruroi - gains Gardens
+ruroi - plays Ironmonger
+ruroi - draws Curse
+ruroi - reveals: Gardens
+ruroi - discards Gardens
+ruroi - draws Copper
+ruroi - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+ruroi - plays 1 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Silver, Gold, Silver, Gold, Ironmonger
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Silk Road
+Stef - discards Silk Road
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - shuffles deck
+Stef - reveals: Margrave
+Stef - places Margrave on top of deck
+Stef - plays Ironmonger
+Stef - draws Margrave
+Stef - reveals: Silk Road
+Stef - discards Silk Road
+Stef - draws Curse
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Upgrade
+Stef - plays Council Room
+Stef - draws Copper, Upgrade, Copper, Ironmonger
+ruroi - draws Curse
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Upgrade
+Stef - shuffles deck
+Stef - draws Estate
+Stef - trashes Curse
+Stef - plays Upgrade
+Stef - draws Silk Road
+Stef - trashes Copper
+Stef - plays Margrave
+Stef - draws Copper
+ruroi - draws Estate
+ruroi - discards Estate
+ruroi - discards Curse
+ruroi - discards Ironmonger
+ruroi - discards Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Council Room, Copper, Ironmonger, Upgrade, Estate
+ 
+---------- ruroi: turn 15 ----------
+ruroi - plays 2 Gold, 1 Silver
+ruroi - buys Province
+ruroi - gains Province
+ruroi - draws Copper, Estate, Duchy, Fortune Teller
+ruroi - shuffles deck
+ruroi - draws Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Ironmonger
+Stef - draws Silk Road
+Stef - reveals: Swindler
+Stef - discards Swindler
+Stef - plays Council Room
+Stef - draws Ironmonger, Swindler, Ironmonger, Copper
+ruroi - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Margrave
+Stef - places Margrave on top of deck
+Stef - plays Ironmonger
+Stef - draws Margrave
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Margrave
+Stef - draws Copper, Ironmonger, Gold
+ruroi - draws Gardens
+ruroi - discards Duchy
+ruroi - discards Estate
+ruroi - discards Gardens
+ruroi - discards Copper
+Stef - plays Ironmonger
+Stef - draws Upgrade
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Upgrade
+Stef - draws Ironmonger
+Stef - trashes Copper
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Swindler
+ruroi - reveals Silver
+ruroi - trashes Silver
+ruroi - gains Fortune Teller
+Stef - plays Swindler
+ruroi - reveals Gold
+ruroi - trashes Gold
+ruroi - gains Adventurer
+Stef - plays 1 Copper, 1 Gold, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Ironmonger, Council Room, Gold, Swindler, Ironmonger
+ 
+---------- ruroi: turn 16 ----------
+ruroi - plays Ironmonger
+ruroi - draws Upgrade
+ruroi - reveals: Copper
+ruroi - discards Copper
+ruroi - plays Upgrade
+ruroi - draws Province
+ruroi - trashes Fortune Teller
+ruroi - gains Gardens
+ruroi - plays 1 Copper
+ruroi - buys Curse
+ruroi - gains Curse
+ruroi - draws Estate, Gold, Gardens, Province, Swindler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Silk Road
+Stef - discards Silk Road
+Stef - draws Gold
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Upgrade
+Stef - places Upgrade on top of deck
+Stef - plays Ironmonger
+Stef - draws Upgrade
+Stef - reveals: Swindler
+Stef - discards Swindler
+Stef - plays Council Room
+Stef - draws Ironmonger, Upgrade, Ironmonger, Gold
+ruroi - draws Curse
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Margrave
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Silver
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - reveals: Silk Road
+Stef - discards Silk Road
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - shuffles deck
+Stef - draws Silk Road
+Stef - trashes Swindler
+Stef - gains Silk Road
+Stef - plays Margrave
+Stef - shuffles deck
+Stef - draws Silk Road
+ruroi - draws Silver
+ruroi - discards Curse
+ruroi - discards Province
+ruroi - discards Gardens
+ruroi - discards Estate
+Stef - plays Swindler
+ruroi - reveals Gardens
+ruroi - trashes Gardens
+ruroi - gains Silk Road
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Silver, Council Room, Ironmonger, Upgrade, Ironmonger
+ 
+---------- ruroi: turn 17 ----------
+ruroi - plays Swindler
+Stef - reveals Silk Road
+Stef - trashes Silk Road
+Stef - gains Gardens
+ruroi - plays 1 Gold, 1 Silver
+ruroi - buys Gardens
+ruroi - gains Gardens
+ruroi - draws Silver, Ironmonger, Curse
+ruroi - shuffles deck
+ruroi - draws Estate, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Margrave
+Stef - places Margrave on top of deck
+Stef - plays Council Room
+Stef - draws Margrave, Gold, Ironmonger, Silk Road
+ruroi - draws Copper
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Margrave
+Stef - draws Ironmonger, Gold, Gold
+ruroi - draws Copper
+ruroi - discards Duchy
+ruroi - discards Estate
+ruroi - discards Curse
+ruroi - discards Copper
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Upgrade
+Stef - plays Upgrade
+Stef - draws Province
+Stef - trashes Upgrade
+Stef - gains Gold
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Gardens
+Stef - reveals: Gold
+Stef - discards Gold
+Stef - plays 4 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Ironmonger, Ironmonger, Gold, Ironmonger
+ 
+---------- ruroi: turn 18 ----------
+ruroi - plays Ironmonger
+ruroi - draws Silver
+ruroi - reveals: Adventurer
+ruroi - discards Adventurer
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Gardens
+ruroi - gains Gardens
+ruroi - draws Curse, Gardens, Silk Road, Gardens, Fortune Teller
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Margrave
+Stef - places Margrave on top of deck
+Stef - plays Swindler
+ruroi - reveals Gold
+ruroi - trashes Gold
+ruroi - gains Adventurer
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Margrave, Ironmonger, Ironmonger, Province, Ironmonger
+ 
+---------- ruroi: turn 19 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 6 Ironmonger, 1 Margrave, 1 Swindler, 1 Upgrade, 1 Council Room, 5 Gold, 1 Silver, 4 Province, 2 Estate, 1 Silk Road, 1 Gardens
+Stef - total victory points: 30
+Stef - turns: 18
+ 
+ruroi - resigned
+ruroi - cards: 2 Adventurer, 2 Ironmonger, 1 Fortune Teller, 1 Swindler, 1 Upgrade, 3 Copper, 2 Silver, 5 Gardens, 2 Estate, 2 Province, 1 Silk Road, 1 Duchy, 3 Curse
+ruroi - total victory points: 26
+ruroi - turns: 18
+ 
+1st place: Stef
+2nd place: ruroi
+ 

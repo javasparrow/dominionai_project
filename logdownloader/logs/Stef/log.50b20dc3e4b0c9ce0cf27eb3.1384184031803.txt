@@ -1,0 +1,661 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Watchtower, Alchemist, Bureaucrat, Ironworks, Wandering Minstrel, Butcher, Haggler, Mint, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nnn - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+nnn - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 4 Copper
+nnn - buys Potion
+nnn - gains Potion
+nnn - shuffles deck
+nnn - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Watchtower
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 3 Copper
+nnn - buys Watchtower
+nnn - gains Watchtower
+nnn - draws Estate, Potion, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Watchtower
+Stef - draws Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper, Ironworks, Copper, Estate, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays 3 Copper, 1 Potion
+nnn - buys Alchemist
+nnn - gains Alchemist
+nnn - draws Silver, Copper
+nnn - shuffles deck
+nnn - draws Alchemist, Copper, Watchtower
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Ironworks
+Stef - gains Wandering Minstrel
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Ironworks, Copper, Copper, Estate
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Alchemist
+nnn - draws Copper, Estate
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Haggler
+nnn - gains Haggler
+nnn - applied Watchtower to place Haggler on top of the deck
+nnn - draws Haggler, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Estate, Watchtower
+Stef - places Wandering Minstrel on top of deck
+Stef - places Watchtower on top of deck
+Stef - discards Estate
+Stef - plays Ironworks
+Stef - gains Wandering Minstrel
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Watchtower, Wandering Minstrel, Copper, Watchtower, Copper
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Haggler
+nnn - plays 2 Copper
+nnn - buys Ironworks
+nnn - gains Silver
+nnn - gains Ironworks
+nnn - draws Potion, Copper, Copper
+nnn - shuffles deck
+nnn - draws Estate, Ironworks
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - discards: Copper, Copper, Estate
+Stef - plays Watchtower
+Stef - draws Wandering Minstrel, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Ironworks, Estate
+Stef - places Ironworks on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Watchtower
+Stef - draws Ironworks
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 4 Copper
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - draws Silver, Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Copper, Ironworks, Copper
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Ironworks
+nnn - gains Potion
+nnn - plays 2 Copper, 1 Potion
+nnn - buys Alchemist
+nnn - gains Alchemist
+nnn - draws Estate, Estate, Alchemist, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Wandering Minstrel, Estate
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Silver, Watchtower, Copper
+Stef - places Watchtower on top of deck
+Stef - discards: Silver, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Copper, Estate, Butcher
+Stef - places Butcher on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Ironworks
+Stef - gains Wandering Minstrel
+Stef - applied Watchtower to place Wandering Minstrel on top of the deck
+Stef - plays Watchtower
+Stef - draws Wandering Minstrel, Butcher, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Watchtower, Estate
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Watchtower on top of deck
+Stef - discards: Estate, Silver
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Silver
+Stef - uses 1 coin token
+Stef - gains Wandering Minstrel
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - draws Watchtower, Copper, Estate, Copper, Estate
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Alchemist
+nnn - draws Haggler, Silver
+nnn - plays Haggler
+nnn - plays 2 Silver, 1 Copper
+nnn - buys Butcher
+nnn - gains Wandering Minstrel
+nnn - gains Butcher
+nnn - draws Copper, Copper, Copper, Watchtower, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Watchtower
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - draws Wandering Minstrel, Silver, Ironworks, Mint, Wandering Minstrel
+ 
+---------- nnn: turn 9 ----------
+nnn - plays 4 Copper
+nnn - buys Wandering Minstrel
+nnn - gains Wandering Minstrel
+nnn - applied Watchtower to place Wandering Minstrel on top of the deck
+nnn - draws Wandering Minstrel
+nnn - shuffles deck
+nnn - draws Copper, Potion, Ironworks, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Butcher
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Watchtower
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Watchtower on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Wandering Minstrel, Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - applied Watchtower to place Ironworks on top of the deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Mint
+Stef - gains Butcher
+Stef - applied Watchtower to place Butcher on top of the deck
+Stef - plays Watchtower
+Stef - draws Butcher, Ironworks, Wandering Minstrel, Wandering Minstrel, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Watchtower, Estate
+Stef - places Watchtower on top of deck
+Stef - discards: Estate, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Copper, Secret Chamber
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Secret Chamber on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Ironworks
+Stef - gains Wandering Minstrel
+Stef - applied Watchtower to place Wandering Minstrel on top of the deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Wandering Minstrel
+Stef - applied Watchtower to place Wandering Minstrel on top of the deck
+Stef - plays Watchtower
+Stef - draws Wandering Minstrel, Wandering Minstrel, Secret Chamber, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Estate, Copper
+Stef - discards: Estate, Copper
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Mint
+Stef - trashes Silver, Copper, Copper
+Stef - gains Mint
+Stef - shuffles deck
+Stef - draws Secret Chamber, Copper, Mint, Estate, Estate
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Wandering Minstrel
+nnn - draws Alchemist
+nnn - reveals: Haggler, Wandering Minstrel, Estate
+nnn - places Haggler on top of deck
+nnn - places Wandering Minstrel on top of deck
+nnn - discards Estate
+nnn - plays Ironworks
+nnn - gains Wandering Minstrel
+nnn - plays Alchemist
+nnn - draws Wandering Minstrel, Haggler
+nnn - plays Wandering Minstrel
+nnn - draws Estate
+nnn - reveals: Silver, Watchtower, Silver
+nnn - places Watchtower on top of deck
+nnn - discards: Silver, Silver
+nnn - plays Haggler
+nnn - plays 2 Copper, 1 Potion
+nnn - buys Alchemist
+nnn - gains Secret Chamber
+nnn - gains Alchemist
+nnn - places Alchemist on top of deck
+nnn - draws Alchemist, Watchtower, Copper, Copper, Alchemist
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Secret Chamber
+Stef - discards Copper
+Stef - discards Mint
+Stef - discards Estate
+Stef - discards Estate
+Stef - uses 2 coin tokens
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Ironworks, Butcher, Wandering Minstrel, Wandering Minstrel, Watchtower
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Alchemist
+nnn - draws Copper, Copper
+nnn - plays Alchemist
+nnn - draws Butcher, Estate
+nnn - plays Butcher
+nnn - receives 2 coin tokens
+nnn - trashes Estate
+nnn - uses 1 coin token
+nnn - gains Silver
+nnn - plays 4 Copper
+nnn - uses 1 coin token
+nnn - buys Mint
+nnn - trashes Copper, Copper, Copper, Copper
+nnn - gains Mint
+nnn - draws Potion, Copper
+nnn - shuffles deck
+nnn - draws Wandering Minstrel, Copper, Alchemist
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Watchtower, Butcher, Wandering Minstrel
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Butcher, Watchtower, Ironworks
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - places Ironworks on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Ironworks
+Stef - reveals: Butcher, Watchtower, Wandering Minstrel
+Stef - places Butcher on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Watchtower, Butcher, Wandering Minstrel
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Butcher, Watchtower, Wandering Minstrel
+Stef - places Butcher on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Watchtower, Butcher
+Stef - shuffles deck
+Stef - reveals: Secret Chamber
+Stef - places Secret Chamber on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Butcher
+Stef - reveals: Watchtower, Secret Chamber, Estate
+Stef - places Watchtower on top of deck
+Stef - places Secret Chamber on top of deck
+Stef - discards Estate
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Ironworks
+Stef - uses 1 coin token
+Stef - gains Butcher
+Stef - applied Watchtower to place Butcher on top of the deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Ironworks
+Stef - uses 1 coin token
+Stef - gains Butcher
+Stef - plays Watchtower
+Stef - draws Butcher, Secret Chamber, Watchtower, Mint, Estate, Gold
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - applied Watchtower to place Gold on top of the deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Watchtower
+Stef - draws Gold, Copper
+Stef - shuffles deck
+Stef - draws Butcher, Province
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - gains Watchtower
+Stef - plays Secret Chamber
+Stef - discards Province
+Stef - plays 1 Gold, 1 Copper
+Stef - uses 1 coin token
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Butcher, Butcher, Copper
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Wandering Minstrel
+nnn - draws Mint
+nnn - reveals: Watchtower, Estate, Silver
+nnn - places Watchtower on top of deck
+nnn - discards: Estate, Silver
+nnn - plays Alchemist
+nnn - draws Watchtower, Butcher
+nnn - plays Butcher
+nnn - receives 2 coin tokens
+nnn - trashes Mint
+nnn - gains Rogue
+nnn - plays 2 Copper, 1 Potion
+nnn - uses 1 coin token
+nnn - buys Alchemist
+nnn - gains Alchemist
+nnn - applied Watchtower to place Alchemist on top of the deck
+nnn - places Alchemist on top of deck
+nnn - draws Alchemist, Alchemist, Wandering Minstrel, Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Mint, Butcher, Wandering Minstrel
+Stef - places Mint on top of deck
+Stef - places Butcher on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Butcher, Mint, Watchtower
+Stef - places Butcher on top of deck
+Stef - places Mint on top of deck
+Stef - places Watchtower on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Mint, Butcher, Gold
+Stef - places Mint on top of deck
+Stef - places Butcher on top of deck
+Stef - discards Gold
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Copper
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Rogue
+Stef - plays Watchtower
+Stef - draws Butcher, Mint, Province, Wandering Minstrel, Gold, Watchtower
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Secret Chamber, Wandering Minstrel, Wandering Minstrel
+Stef - places Secret Chamber on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Watchtower
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Secret Chamber, Wandering Minstrel, Butcher
+Stef - places Secret Chamber on top of deck
+Stef - places Butcher on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Butcher, Secret Chamber
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - places Secret Chamber on top of deck
+Stef - places Butcher on top of deck
+Stef - discards Gold
+Stef - plays Wandering Minstrel
+Stef - draws Butcher
+Stef - reveals: Secret Chamber, Rogue
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - places Secret Chamber on top of deck
+Stef - places Rogue on top of deck
+Stef - discards Gold
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - applied Watchtower to place Gold on top of the deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - applied Watchtower to place Province on top of the deck
+Stef - plays Watchtower
+Stef - draws Province, Gold, Rogue, Secret Chamber
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Butcher, Wandering Minstrel, Wandering Minstrel, Gold, Wandering Minstrel
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Wandering Minstrel
+nnn - draws Wandering Minstrel
+nnn - reveals: Silver, Ironworks, Alchemist
+nnn - places Ironworks on top of deck
+nnn - places Alchemist on top of deck
+nnn - discards Silver
+nnn - plays Alchemist
+nnn - draws Alchemist, Ironworks
+nnn - plays Wandering Minstrel
+nnn - draws Silver
+nnn - reveals: Haggler, Potion, Alchemist
+nnn - places Haggler on top of deck
+nnn - places Alchemist on top of deck
+nnn - discards Potion
+nnn - plays Alchemist
+nnn - draws Alchemist, Haggler
+nnn - plays Alchemist
+nnn - draws Secret Chamber
+nnn - shuffles deck
+nnn - draws Potion
+nnn - plays Alchemist
+nnn - draws Silver, Copper
+nnn - plays Ironworks
+nnn - gains Estate
+nnn - draws Estate
+nnn - plays Haggler
+nnn - plays Secret Chamber
+nnn - discards Estate
+nnn - discards Copper
+nnn - discards Copper
+nnn - discards Estate
+nnn - plays 2 Silver, 1 Potion
+nnn - buys Province
+nnn - gains Butcher
+nnn - gains Province
+nnn - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+nnn - draws Alchemist, Alchemist, Alchemist, Alchemist, Rogue
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Watchtower, Wandering Minstrel, Watchtower
+Stef - places Watchtower on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Watchtower, Watchtower, Butcher
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - places Watchtower on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Butcher, Watchtower, Butcher
+Stef - places Butcher on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Butcher
+Stef - reveals: Watchtower, Butcher, Wandering Minstrel
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Butcher, Watchtower, Province
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - discards Province
+Stef - plays Wandering Minstrel
+Stef - draws Butcher
+Stef - reveals: Watchtower, Secret Chamber, Butcher
+Stef - places Secret Chamber on top of deck
+Stef - places Watchtower on top of deck
+Stef - places Butcher on top of deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Butcher
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Watchtower
+Stef - draws Butcher, Watchtower, Secret Chamber, Wandering Minstrel, Mint, Province
+Stef - plays Wandering Minstrel
+Stef - draws Watchtower
+Stef - reveals: Province, Rogue
+Stef - shuffles deck
+Stef - reveals: Province
+Stef - places Rogue on top of deck
+Stef - discards: Province, Province
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Mint
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Watchtower
+Stef - draws Rogue, Province, Province
+Stef - plays Rogue
+Stef - gains Gold
+Stef - applied Watchtower to place Gold on top of the deck
+Stef - plays Secret Chamber
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Watchtower
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Province, Province, Province, Province, Province
+Stef - plays 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Wandering Minstrel, Province, Wandering Minstrel
+ 
+------------ Game Over ------------
+Stef - cards: 7 Wandering Minstrel, 3 Butcher, 3 Watchtower, 1 Rogue, 1 Secret Chamber, 1 Gold, 7 Province
+Stef - total victory points: 42
+Stef - turns: 13
+ 
+nnn - cards: 4 Alchemist, 3 Wandering Minstrel, 2 Butcher, 1 Rogue, 1 Ironworks, 1 Haggler, 1 Secret Chamber, 1 Watchtower, 3 Copper, 3 Silver, 2 Potion, 3 Estate, 1 Province
+nnn - total victory points: 9
+nnn - turns: 13
+ 
+1st place: Stef
+2nd place: nnn
+ 

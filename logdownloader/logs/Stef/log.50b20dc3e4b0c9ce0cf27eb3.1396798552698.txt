@@ -1,0 +1,367 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Courtyard, Chancellor, Lookout, Swindler, Junk Dealer, Rogue, Vault, Altar, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+jog - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+jog - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- jog: turn 1 ----------
+jog - plays 2 Copper
+jog - buys Courtyard
+jog - gains Courtyard
+jog - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 2 ----------
+jog - plays 5 Copper
+jog - buys Junk Dealer
+jog - gains Junk Dealer
+jog - shuffles deck
+jog - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Swindler, Copper, Estate, Copper, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays 3 Copper
+jog - buys Swindler
+jog - gains Swindler
+jog - draws Courtyard, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Swindler, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- jog: turn 4 ----------
+jog - plays Courtyard
+jog - draws Junk Dealer
+jog - shuffles deck
+jog - draws Curse, Estate
+jog - places Junk Dealer on top of deck
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Junk Dealer, Estate, Swindler, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Estate, Swindler, Junk Dealer
+ 
+---------- jog: turn 5 ----------
+jog - plays Junk Dealer
+jog - shuffles deck
+jog - draws Silver
+jog - trashes Estate
+jog - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Chancellor
+jog - plays 2 Copper, 1 Silver
+jog - buys Junk Dealer
+jog - gains Junk Dealer
+jog - draws Curse, Courtyard, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Stef - plays 3 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Swindler, Copper
+ 
+---------- jog: turn 6 ----------
+jog - plays Courtyard
+jog - draws Curse, Estate
+jog - shuffles deck
+jog - draws Silver
+jog - places Curse on top of deck
+jog - plays 2 Copper, 1 Silver
+jog - buys Silver
+jog - gains Silver
+jog - draws Curse, Curse, Copper, Swindler, Junk Dealer
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Swindler
+jog - reveals Junk Dealer
+jog - trashes Junk Dealer
+jog - gains Duchy
+Stef - plays 3 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - draws Chancellor, Copper, Swindler, Copper, Junk Dealer
+ 
+---------- jog: turn 7 ----------
+jog - plays Junk Dealer
+jog - draws Copper
+jog - trashes Curse
+jog - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+jog - plays 2 Copper
+jog - buys Rogue
+jog - gains Rogue
+jog - shuffles deck
+jog - draws Junk Dealer, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Copper
+Stef - plays Swindler
+jog - reveals Estate
+jog - trashes Estate
+jog - gains Estate
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Junk Dealer, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- jog: turn 8 ----------
+jog - plays Junk Dealer
+jog - draws Silver
+jog - trashes Copper
+jog - plays 2 Copper, 2 Silver
+jog - buys Gold
+jog - gains Gold
+jog - draws Curse, Courtyard, Curse, Duchy, Swindler
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold, Swindler, Gold, Copper, Swindler
+ 
+---------- jog: turn 9 ----------
+jog - plays Swindler
+Stef - reveals Junk Dealer
+Stef - trashes Junk Dealer
+Stef - gains Duchy
+jog - draws Copper, Rogue, Estate
+jog - shuffles deck
+jog - draws Courtyard, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Swindler
+jog - reveals Curse
+jog - trashes Curse
+jog - gains Curse
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Rogue, Curse, Chancellor
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- jog: turn 10 ----------
+jog - plays Rogue
+jog - gains Junk Dealer
+jog - plays 1 Copper, 1 Silver
+jog - buys Junk Dealer
+jog - gains Junk Dealer
+jog - draws Estate, Copper, Curse, Junk Dealer, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Rogue
+Stef - gains Junk Dealer
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Gold, Swindler, Estate, Silver, Swindler
+ 
+---------- jog: turn 11 ----------
+jog - plays Junk Dealer
+jog - draws Duchy
+jog - trashes Curse
+jog - plays 1 Copper, 1 Silver
+jog - buys Silver
+jog - gains Silver
+jog - draws Copper, Gold, Swindler
+jog - shuffles deck
+jog - draws Estate, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Swindler
+jog - reveals Rogue
+jog - trashes Rogue
+jog - gains Vault
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Junk Dealer, Copper, Copper, Copper, Gold
+ 
+---------- jog: turn 12 ----------
+jog - plays Swindler
+Stef - reveals Duchy
+Stef - trashes Duchy
+Stef - gains Vault
+jog - plays 1 Copper, 1 Gold
+jog - buys Gold
+jog - gains Gold
+jog - draws Silver, Junk Dealer, Junk Dealer, Curse, Junk Dealer
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Junk Dealer
+Stef - draws Province
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Copper, Gold
+ 
+---------- jog: turn 13 ----------
+jog - plays Junk Dealer
+jog - draws Copper
+jog - trashes Curse
+jog - plays Junk Dealer
+jog - draws Estate
+jog - trashes Copper
+jog - plays Junk Dealer
+jog - draws Copper
+jog - trashes Estate
+jog - plays 1 Silver, 1 Copper
+jog - buys Gold
+jog - gains Gold
+jog - draws Silver, Courtyard, Silver
+jog - shuffles deck
+jog - draws Gold, Swindler
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 3 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Junk Dealer, Gold, Curse, Chancellor, Silver
+ 
+---------- jog: turn 14 ----------
+jog - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Chancellor
+jog - plays 2 Silver, 1 Gold
+jog - buys Province
+jog - gains Province
+jog - draws Duchy, Silver, Copper, Junk Dealer, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Curse
+Stef - plays Chancellor
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Junk Dealer, Swindler, Vault, Gold
+ 
+---------- jog: turn 15 ----------
+jog - plays Junk Dealer
+jog - draws Gold
+jog - trashes Copper
+jog - plays 2 Gold, 1 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Vault, Junk Dealer, Copper, Estate, Junk Dealer
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Swindler
+jog - shuffles deck
+jog - reveals Swindler
+jog - trashes Swindler
+jog - gains Chancellor
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Rogue, Province
+Stef - shuffles deck
+Stef - draws Gold, Silver, Vault
+ 
+---------- jog: turn 16 ----------
+jog - plays Junk Dealer
+jog - draws Gold
+jog - trashes Junk Dealer
+jog - plays Vault
+jog - draws Gold, Junk Dealer
+jog - discards Estate
+jog - discards Junk Dealer
+jog - plays Gold
+jog - buys Farmland
+jog - trashes Gold
+jog - gains Province
+jog - gains Farmland
+jog - draws Duchy, Gold, Province, Silver, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Vault
+Stef - draws Silver, Province
+Stef - discards Rogue
+Stef - discards Province
+Stef - discards Province
+jog - discards Province
+jog - discards Duchy
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Farmland
+Stef - trashes Gold
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Chancellor, Chancellor, Junk Dealer, Swindler, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 2 Chancellor, 2 Junk Dealer, 1 Swindler, 1 Rogue, 1 Vault, 3 Copper, 3 Gold, 2 Silver, 5 Province, 1 Farmland, 1 Estate
+Stef - total victory points: 33
+Stef - turns: 17
+ 
+jog - cards: 2 Junk Dealer, 1 Chancellor, 1 Vault, 1 Courtyard, 3 Silver, 2 Gold, 1 Copper, 3 Province, 1 Estate, 1 Farmland, 1 Duchy
+jog - total victory points: 24
+jog - turns: 16
+ 
+1st place: Stef
+2nd place: jog
+ 

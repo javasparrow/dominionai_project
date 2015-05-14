@@ -1,0 +1,875 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Gardens, Moneylender, Throne Room, Cartographer, Council Room, Inn, Market, Tactician, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+2.71828..... - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+2.71828..... - shuffles deck
+Stef - shuffles deck
+2.71828..... - draws Copper, Copper, Copper, Estate, Estate
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- 2.71828.....: turn 1 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- 2.71828.....: turn 2 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Moneylender
+2.71828..... - gains Moneylender
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Estate, Moneylender
+ 
+---------- 2.71828.....: turn 3 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Throne Room
+2.71828..... - gains Throne Room
+2.71828..... - draws Moneylender, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- 2.71828.....: turn 4 ----------
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Silver, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Moneylender, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Moneylender, Copper, Silver
+ 
+---------- 2.71828.....: turn 5 ----------
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays 1 Silver, 1 Copper
+2.71828..... - buys Tactician
+2.71828..... - gains Tactician
+2.71828..... - draws Copper, Copper, Copper, Estate, Vagrant
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays Silver
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate, Vagrant, Tactician, Copper, Copper
+ 
+---------- 2.71828.....: turn 6 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays 3 Copper
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Copper, Throne Room
+2.71828..... - shuffles deck
+2.71828..... - draws Moneylender, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tactician
+Stef - discards: Estate, Vagrant, Copper, Copper
+Stef - draws Copper, Estate, Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- 2.71828.....: turn 7 ----------
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - buys Market
+2.71828..... - gains Market
+2.71828..... - draws Vagrant, Tactician, Estate, Vagrant, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Tactician
+Stef - draws Moneylender, Market, Copper, Silver, Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - shuffles deck
+Stef - draws Copper, Moneylender, Silver, Estate, Copper
+ 
+---------- 2.71828.....: turn 8 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Tactician
+2.71828..... - discards: Estate, Copper, Copper, Estate, Silver
+2.71828..... - draws Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Silver, Copper, Vagrant, Market
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate, Market, Estate, Copper, Platinum
+ 
+---------- 2.71828.....: turn 9 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Estate, Throne Room, Estate, Copper, Estate
+2.71828..... - plays Vagrant
+2.71828..... - draws Moneylender
+2.71828..... - reveals: Vagrant
+2.71828..... - places Vagrant on top of deck
+2.71828..... - plays Market
+2.71828..... - draws Vagrant
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Vagrant
+2.71828..... - plays 1 Copper, 1 Silver
+2.71828..... - buys Throne Room
+2.71828..... - gains Throne Room
+2.71828..... - buys Tactician
+2.71828..... - gains Tactician
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Estate, Tactician, Copper, Market, Throne Room
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays Tactician
+Stef - discards: Estate, Estate, Copper, Platinum
+Stef - draws Vagrant, Copper
+Stef - shuffles deck
+Stef - draws Market, Estate, Moneylender
+ 
+---------- 2.71828.....: turn 10 ----------
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Tactician
+2.71828..... - plays Market
+2.71828..... - draws Silver
+2.71828..... - plays Tactician
+2.71828..... - discards: Estate, Tactician, Copper, Silver
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Vagrant, Moneylender, Throne Room, Vagrant, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Tactician
+Stef - draws Copper, Estate, Estate, Platinum, Copper
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Market
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Platinum, 1 Silver
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Throne Room, Council Room, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Throne Room, Council Room, Inn
+Stef - shuffles deck
+Stef - draws Copper, Market
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Copper, Estate
+2.71828..... - shuffles deck
+2.71828..... - draws Market, Estate, Silver
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Market
+2.71828..... - draws Throne Room
+2.71828..... - plays Vagrant
+2.71828..... - draws Vagrant
+2.71828..... - reveals: Tactician
+2.71828..... - places Tactician on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Tactician
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Tactician
+2.71828..... - discards: Vagrant, Estate, Estate, Estate, Silver
+2.71828..... - buys Moneylender
+2.71828..... - gains Moneylender
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Throne Room, Vagrant, Moneylender, Vagrant
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Council Room
+Stef - draws Copper, Moneylender, Tactician, Market
+2.71828..... - draws Moneylender
+Stef - plays Vagrant
+Stef - draws Platinum
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Inn
+Stef - draws Estate, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Platinum, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Moneylender, Tactician, Platinum, Market, Silver
+ 
+---------- 2.71828.....: turn 12 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Throne Room, Market, Silver, Estate, Vagrant
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Estate
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Vagrant
+2.71828..... - draws Tactician
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - plays Vagrant
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Tactician
+2.71828..... - discards: Silver, Estate, Estate, Estate
+2.71828..... - buys Market
+2.71828..... - gains Market
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Vagrant, Moneylender, Market, Silver, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Inn
+Stef - draws Copper, Market
+Stef - discards Estate
+Stef - discards Tactician
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Platinum
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Platinum, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Throne Room, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Throne Room, Estate, Council Room, Inn, Estate
+ 
+---------- 2.71828.....: turn 13 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Vagrant, Market, Copper, Throne Room, Throne Room
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - reveals: Tactician
+2.71828..... - places Tactician on top of deck
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Tactician
+2.71828..... - plays Market
+2.71828..... - draws Moneylender
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Market
+2.71828..... - draws Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Tactician
+2.71828..... - discards: Moneylender, Silver, Estate, Estate, Estate
+2.71828..... - buys Throne Room
+2.71828..... - gains Throne Room
+2.71828..... - buys Market
+2.71828..... - gains Market
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - draws Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Vagrant, Tactician, Market, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Throne Room
+Stef - shuffles deck
+Stef - draws Market
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Council Room
+Stef - draws Market, Platinum, Inn, Platinum
+2.71828..... - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Market
+Stef - draws Platinum
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Moneylender
+Stef - plays Market
+Stef - draws Market
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Tactician
+Stef - places Tactician on top of deck
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays 3 Platinum, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Vagrant, Platinum, Platinum, Market
+ 
+---------- 2.71828.....: turn 14 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Market, Throne Room, Market, Throne Room, Moneylender
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Vagrant
+2.71828..... - places Vagrant on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Vagrant
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Market
+2.71828..... - draws Moneylender
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Estate
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Market
+2.71828..... - plays Tactician
+2.71828..... - discards: Silver, Estate, Estate, Estate
+2.71828..... - buys Council Room
+2.71828..... - gains Council Room
+2.71828..... - buys Throne Room
+2.71828..... - gains Throne Room
+2.71828..... - buys Inn
+2.71828..... - gains Inn
+2.71828..... - places Council Room, Throne Room, Inn on top of deck
+2.71828..... - shuffles deck
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - draws Council Room, Inn, Throne Room
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Vagrant
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Market
+Stef - places Market on top of deck
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays Market
+Stef - draws Throne Room
+Stef - plays 2 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Throne Room, Throne Room, Inn, Vagrant, Estate
+ 
+---------- 2.71828.....: turn 15 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Silver, Moneylender, Moneylender, Estate, Estate
+2.71828..... - plays Inn
+2.71828..... - draws Throne Room, Throne Room
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - plays Council Room
+2.71828..... - draws Market, Throne Room, Vagrant, Market
+Stef - draws Cartographer
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Market
+2.71828..... - draws Market
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Market
+2.71828..... - draws Tactician
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Vagrant
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - shuffles deck
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - plays Tactician
+2.71828..... - discards: Copper, Vagrant, Silver, Estate, Estate, Estate
+2.71828..... - buys Colony
+2.71828..... - gains Colony
+2.71828..... - buys Throne Room
+2.71828..... - gains Throne Room
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Moneylender, Market, Throne Room, Vagrant, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Cartographer
+Stef - draws Platinum
+Stef - looks at Estate, Council Room, Inn, Platinum
+Stef - places Platinum on top of deck
+Stef - places Inn on top of deck
+Stef - places Estate on top of deck
+Stef - places Council Room on top of deck
+Stef - plays Vagrant
+Stef - draws Council Room
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Council Room
+Stef - draws Inn, Platinum, Vagrant, Silver
+2.71828..... - draws Throne Room
+Stef - plays Council Room
+Stef - draws Moneylender
+Stef - shuffles deck
+Stef - draws Colony, Throne Room, Market
+2.71828..... - draws Inn
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Tactician
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Platinum
+Stef - reveals: Platinum
+Stef - places Platinum on top of deck
+Stef - plays Inn
+Stef - draws Platinum, Vagrant
+Stef - discards Vagrant
+Stef - discards Vagrant
+Stef - plays Inn
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - discards Vagrant
+Stef - discards Estate
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays 4 Platinum, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - shuffles deck
+Stef - draws Estate, Platinum, Colony, Platinum, Silver
+ 
+---------- 2.71828.....: turn 16 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Throne Room, Colony, Moneylender, Silver, Estate
+2.71828..... - plays Inn
+2.71828..... - draws Tactician, Throne Room
+2.71828..... - discards Colony
+2.71828..... - discards Estate
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Vagrant
+2.71828..... - plays Market
+2.71828..... - draws Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - reveals: Throne Room
+2.71828..... - places Throne Room on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Throne Room
+2.71828..... - reveals: Council Room
+2.71828..... - places Council Room on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Council Room
+2.71828..... - reveals: Market
+2.71828..... - places Market on top of deck
+2.71828..... - plays Council Room
+2.71828..... - draws Market, Market, Estate, Copper
+Stef - draws Vagrant
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Market
+2.71828..... - draws Estate
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - shuffles deck
+2.71828..... - draws Colony
+2.71828..... - plays Market
+2.71828..... - draws Estate
+2.71828..... - plays Tactician
+2.71828..... - discards: Silver, Estate, Estate, Colony, Estate
+2.71828..... - buys Colony
+2.71828..... - gains Colony
+2.71828..... - buys Moneylender
+2.71828..... - gains Moneylender
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Colony, Moneylender, Throne Room, Inn, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Market
+Stef - places Market on top of deck
+Stef - plays Inn
+Stef - draws Market, Throne Room
+Stef - discards Colony
+Stef - discards Estate
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Cartographer
+Stef - plays Market
+Stef - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Cartographer
+Stef - draws Colony
+Stef - looks at Vagrant, Cartographer, Colony, Estate
+Stef - discards Colony
+Stef - discards Estate
+Stef - places Vagrant on top of deck
+Stef - places Cartographer on top of deck
+Stef - plays Cartographer
+Stef - draws Cartographer
+Stef - looks at Vagrant, Moneylender, Throne Room, Inn
+Stef - discards Moneylender
+Stef - discards Throne Room
+Stef - discards Vagrant
+Stef - places Inn on top of deck
+Stef - plays Cartographer
+Stef - draws Inn
+Stef - looks at Platinum, Market, Platinum, Vagrant
+Stef - places Vagrant on top of deck
+Stef - places Platinum on top of deck
+Stef - places Platinum on top of deck
+Stef - places Market on top of deck
+Stef - plays Inn
+Stef - draws Market, Platinum
+Stef - discards Colony
+Stef - discards Silver
+Stef - plays Market
+Stef - draws Platinum
+Stef - plays 4 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Vagrant, Tactician, Vagrant, Estate, Council Room
+ 
+---------- 2.71828.....: turn 17 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Market, Estate, Vagrant, Tactician, Vagrant
+2.71828..... - plays Inn
+2.71828..... - draws Throne Room, Moneylender
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - plays Vagrant
+2.71828..... - draws Colony
+2.71828..... - reveals: Throne Room
+2.71828..... - places Throne Room on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Throne Room
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Silver
+2.71828..... - plays Market
+2.71828..... - draws Copper
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - plays Tactician
+2.71828..... - discards: Colony, Moneylender, Throne Room, Colony, Silver
+2.71828..... - buys Market
+2.71828..... - gains Market
+2.71828..... - draws Market, Moneylender, Vagrant, Vagrant, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Vagrant
+Stef - draws Market
+Stef - shuffles deck
+Stef - reveals: Platinum
+Stef - places Platinum on top of deck
+Stef - plays Vagrant
+Stef - draws Platinum
+Stef - reveals: Throne Room
+Stef - places Throne Room on top of deck
+Stef - plays Tactician
+Stef - discards: Estate, Council Room, Market, Platinum
+Stef - draws Throne Room, Platinum, Colony, Platinum, Colony
+ 
+---------- 2.71828.....: turn 18 ----------
+2.71828..... - duration Tactician
+2.71828..... - draws Estate, Council Room, Copper, Throne Room, Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Council Room
+2.71828..... - draws Copper, Market
+2.71828..... - shuffles deck
+2.71828..... - draws Tactician, Market
+Stef - draws Cartographer
+2.71828..... - plays Council Room
+2.71828..... - draws Throne Room, Vagrant, Moneylender, Vagrant
+Stef - draws Cartographer
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Moneylender
+2.71828..... - plays Market
+2.71828..... - draws Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Colony
+2.71828..... - plays Throne Room
+2.71828..... - plays Throne Room
+2.71828..... - plays Market
+2.71828..... - draws Inn
+2.71828..... - plays Market
+2.71828..... - draws Estate
+2.71828..... - plays Throne Room
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays Inn
+2.71828..... - draws Colony, Throne Room
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Market
+2.71828..... - places Market on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Market
+2.71828..... - shuffles deck
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - plays Market
+2.71828..... - plays Moneylender
+2.71828..... - trashes Copper
+2.71828..... - plays 1 Silver
+2.71828..... - buys Colony
+2.71828..... - gains Colony
+2.71828..... - buys Gardens
+2.71828..... - gains Gardens
+2.71828..... - buys Estate
+2.71828..... - gains Estate
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - buys Copper
+2.71828..... - gains Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Throne Room, Moneylender, Colony, Throne Room, Tactician
+ 
+------------ Game Over ------------
+Stef - cards: 4 Vagrant, 3 Throne Room, 3 Market, 2 Cartographer, 2 Inn, 1 Council Room, 1 Moneylender, 1 Tactician, 4 Platinum, 1 Silver, 5 Colony, 3 Estate
+Stef - total victory points: 53
+Stef - turns: 17
+ 
+2.71828..... - cards: 5 Throne Room, 4 Market, 4 Vagrant, 3 Moneylender, 2 Tactician, 1 Council Room, 1 Inn, 7 Copper, 1 Silver, 4 Estate, 3 Colony, 1 Gardens
+2.71828..... - total victory points: 37
+2.71828..... - turns: 18
+ 
+1st place: Stef
+2nd place: 2.71828.....
+ 

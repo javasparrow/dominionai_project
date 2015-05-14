@@ -1,0 +1,515 @@
+------------ Game Setup ------------
+Supply cards: Woodcutter, Cutpurse, Island, Thief, Apprentice, Duke, Rabble, Rogue, Altar, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+romanesque_pkm - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+romanesque_pkm - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+romanesque_pkm - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- romanesque_pkm: turn 1 ----------
+romanesque_pkm - plays 3 Copper
+romanesque_pkm - buys Silver
+romanesque_pkm - gains Silver
+romanesque_pkm - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- romanesque_pkm: turn 2 ----------
+romanesque_pkm - plays 4 Copper
+romanesque_pkm - buys Cutpurse
+romanesque_pkm - gains Cutpurse
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Cutpurse, Copper, Silver, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- romanesque_pkm: turn 3 ----------
+romanesque_pkm - plays Cutpurse
+Stef - discards Copper
+romanesque_pkm - plays Silver
+romanesque_pkm - plays Copper
+romanesque_pkm - plays Copper
+romanesque_pkm - buys Altar
+romanesque_pkm - gains Altar
+romanesque_pkm - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Estate, Copper, Copper, Cutpurse
+ 
+---------- romanesque_pkm: turn 4 ----------
+romanesque_pkm - draws Copper, Copper
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Cutpurse
+romanesque_pkm - discards Copper
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper, Cutpurse, Copper
+ 
+---------- romanesque_pkm: turn 5 ----------
+romanesque_pkm - plays 3 Copper
+romanesque_pkm - buys Silver
+romanesque_pkm - gains Silver
+romanesque_pkm - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cutpurse
+romanesque_pkm - discards Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Copper, Silver, Estate, Estate, Estate
+ 
+---------- romanesque_pkm: turn 6 ----------
+romanesque_pkm - plays 2 Copper, 1 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - draws Estate, Cutpurse, Altar
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Silver
+Stef - shuffles deck
+Stef - draws Altar
+ 
+---------- romanesque_pkm: turn 7 ----------
+romanesque_pkm - plays Altar
+romanesque_pkm - trashes Estate
+romanesque_pkm - gains Duchy
+romanesque_pkm - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Apprentice
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Estate, Estate, Silver
+ 
+---------- romanesque_pkm: turn 8 ----------
+romanesque_pkm - plays 2 Copper, 1 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - draws Copper, Island, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Copper, Estate, Copper, Cutpurse, Copper
+ 
+---------- romanesque_pkm: turn 9 ----------
+romanesque_pkm - plays Island
+romanesque_pkm - sets aside Copper
+romanesque_pkm - plays 2 Copper, 1 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Silver, Silver, Copper, Island, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cutpurse
+romanesque_pkm - discards Copper
+Stef - plays 3 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Apprentice, Apprentice, Copper, Copper
+ 
+---------- romanesque_pkm: turn 10 ----------
+romanesque_pkm - plays 2 Silver, 1 Copper
+romanesque_pkm - buys Duchy
+romanesque_pkm - gains Duchy
+romanesque_pkm - draws Duchy, Estate, Estate, Copper, Island
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - draws Copper, Copper, Altar, Silver, Estate
+ 
+---------- romanesque_pkm: turn 11 ----------
+romanesque_pkm - plays Island
+romanesque_pkm - sets aside Duchy
+romanesque_pkm - draws Copper, Copper, Copper, Altar, Cutpurse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Apprentice, Copper, Estate, Silver, Silver
+ 
+---------- romanesque_pkm: turn 12 ----------
+romanesque_pkm - plays Altar
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Duchy
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Copper, Altar, Duchy, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Silver, Copper
+Stef - plays 3 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Estate, Cutpurse
+Stef - shuffles deck
+Stef - draws Apprentice, Estate, Copper
+ 
+---------- romanesque_pkm: turn 13 ----------
+romanesque_pkm - plays Altar
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Duchy
+romanesque_pkm - plays 1 Copper, 1 Silver
+romanesque_pkm - buys Silver
+romanesque_pkm - gains Silver
+romanesque_pkm - draws Cutpurse, Silver, Estate, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apprentice
+Stef - trashes Cutpurse
+Stef - draws Silver, Silver, Copper, Silver
+Stef - plays 3 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Apprentice, Altar, Silver, Duchy, Copper
+ 
+---------- romanesque_pkm: turn 14 ----------
+romanesque_pkm - plays Cutpurse
+Stef - discards Copper
+romanesque_pkm - plays 1 Silver, 1 Copper
+romanesque_pkm - buys Duchy
+romanesque_pkm - gains Duchy
+romanesque_pkm - draws Duchy, Island, Copper, Copper
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apprentice
+Stef - trashes Duchy
+Stef - draws Apprentice, Silver, Grand Market, Silver
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Grand Market, Estate, Apprentice
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper, Silver
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays 5 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Grand Market, Apprentice, Apprentice
+ 
+---------- romanesque_pkm: turn 15 ----------
+romanesque_pkm - plays Island
+romanesque_pkm - sets aside Duchy
+romanesque_pkm - plays 2 Copper, 1 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - draws Silver, Copper, Estate, Duchy, Cutpurse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Duchy, Apprentice
+Stef - plays Apprentice
+Stef - trashes Duchy
+Stef - draws Copper, Platinum, Duchy, Silver, Silver
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Grand Market, Silver, Altar
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Apprentice
+Stef - plays 4 Silver, 1 Platinum
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - shuffles deck
+Stef - draws Platinum, Apprentice, Grand Market, Silver, Silver
+ 
+---------- romanesque_pkm: turn 16 ----------
+romanesque_pkm - plays Cutpurse
+Stef - reveals Platinum, Apprentice, Grand Market, Silver, Silver
+romanesque_pkm - plays 1 Silver, 1 Copper
+romanesque_pkm - buys Rogue
+romanesque_pkm - gains Rogue
+romanesque_pkm - draws Duchy, Altar, Copper, Silver, Duchy
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Apprentice, Platinum, Silver
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Altar, Grand Market, Apprentice
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Grand Market, Apprentice, Silver
+Stef - plays Grand Market
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Rogue
+Stef - plays 2 Platinum, 1 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - shuffles deck
+Stef - draws Altar, Grand Market, Platinum, Grand Market, Apprentice
+ 
+---------- romanesque_pkm: turn 17 ----------
+romanesque_pkm - plays Altar
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Duke
+romanesque_pkm - draws Estate
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Island, Cutpurse, Copper, Duke
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Apprentice
+Stef - trashes Altar
+Stef - draws Grand Market, Duchy, Apprentice, Grand Market, Grand Market, Apprentice
+Stef - plays Grand Market
+Stef - draws Apprentice
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Platinum
+Stef - plays Grand Market
+Stef - draws Rogue
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Grand Market
+Stef - plays Rogue
+Stef - gains Duchy
+Stef - plays 2 Platinum, 1 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Silver, Apprentice, Grand Market, Duchy, Platinum
+ 
+---------- romanesque_pkm: turn 18 ----------
+romanesque_pkm - plays Island
+romanesque_pkm - sets aside Duke
+romanesque_pkm - draws Duchy, Copper, Silver, Altar, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Grand Market
+Stef - draws Apprentice
+Stef - plays Apprentice
+Stef - trashes Apprentice
+Stef - draws Grand Market, Apprentice, Grand Market, Apprentice, Grand Market
+Stef - plays Grand Market
+Stef - draws Platinum
+Stef - plays Grand Market
+Stef - draws Colony
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Rogue
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Grand Market, Grand Market, Platinum
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Grand Market
+Stef - plays Rogue
+Stef - gains Duchy
+Stef - plays 3 Platinum
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Platinum, Duchy, Rogue, Grand Market, Grand Market
+ 
+---------- romanesque_pkm: turn 19 ----------
+romanesque_pkm - plays Altar
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Duke
+romanesque_pkm - plays 2 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - draws Duchy, Silver, Estate, Rogue, Duchy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Apprentice
+Stef - plays Apprentice
+Stef - trashes Duchy
+Stef - draws Grand Market, Colony, Duchy, Platinum, Colony
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Platinum
+Stef - plays Rogue
+Stef - gains Duchy
+Stef - plays 3 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Island
+Stef - gains Island
+Stef - draws Apprentice, Grand Market, Apprentice, Grand Market, Grand Market
+ 
+---------- romanesque_pkm: turn 20 ----------
+romanesque_pkm - plays Rogue
+romanesque_pkm - gains Altar
+romanesque_pkm - plays 1 Silver
+romanesque_pkm - buys Island
+romanesque_pkm - gains Island
+romanesque_pkm - draws Copper
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Cutpurse, Island, Duchy, Duchy
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Grand Market
+Stef - draws Colony
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Colony
+Stef - plays Grand Market
+Stef - draws Platinum
+Stef - plays Apprentice
+Stef - trashes Colony
+Stef - draws Grand Market, Island, Rogue, Apprentice, Grand Market, Colony, Grand Market, Platinum, Platinum, Duchy, Colony
+Stef - plays Grand Market
+Stef - draws Colony
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Rogue
+Stef - gains Apprentice
+Stef - plays 3 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Colony, Grand Market, Duchy
+ 
+---------- romanesque_pkm: turn 21 ----------
+romanesque_pkm - plays Island
+romanesque_pkm - sets aside Duchy
+romanesque_pkm - draws Copper, Estate, Silver, Silver, Altar
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Grand Market
+Stef - draws Apprentice
+Stef - plays Grand Market
+Stef - draws Colony
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Apprentice
+Stef - trashes Colony
+Stef - draws Apprentice, Apprentice, Platinum, Colony, Apprentice, Colony, Grand Market, Island, Platinum, Colony, Colony
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Apprentice
+Stef - trashes Apprentice
+Stef - draws Grand Market, Platinum, Grand Market, Rogue, Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Platinum
+Stef - plays Grand Market
+Stef - plays Grand Market
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays 4 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Grand Market, Province, Province, Grand Market, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 8 Grand Market, 3 Apprentice, 1 Island, 1 Rogue, 4 Platinum, 1 Silver, 6 Colony, 3 Province, 3 Duchy, 1 Estate
+Stef - total victory points: 90
+Stef - turns: 21
+ 
+romanesque_pkm - cards: 6 Island, 2 Altar, 1 Cutpurse, 1 Rogue, 3 Copper, 3 Silver, 5 Duchy, 2 Estate, 2 Duke
+romanesque_pkm - total victory points: 39
+romanesque_pkm - turns: 21
+ 
+1st place: Stef
+2nd place: romanesque_pkm
+ 

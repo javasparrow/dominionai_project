@@ -1,0 +1,581 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Steward, Familiar, Cutpurse, Feast, Apprentice, Band of Misfits, City, Festival, Graverobber, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+yed - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Potion
+yed - gains Potion
+yed - shuffles deck
+yed - draws Potion, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Potion
+ 
+---------- yed: turn 3 ----------
+yed - plays Copper
+yed - plays Copper
+yed - buys Courtyard
+yed - gains Courtyard
+yed - draws Copper, Copper, Copper, Copper, Steward
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Steward
+yed - trashes Copper, Copper
+yed - plays 2 Copper
+yed - buys Courtyard
+yed - gains Courtyard
+yed - draws Estate, Copper
+yed - shuffles deck
+yed - draws Estate, Estate, Steward
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Estate, Steward
+Stef - shuffles deck
+Stef - draws Copper, Familiar, Steward
+ 
+---------- yed: turn 5 ----------
+yed - plays Steward
+yed - trashes Estate, Estate
+yed - draws Courtyard, Potion, Courtyard, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Familiar
+Stef - draws Potion
+yed - gains Curse
+Stef - plays Steward
+Stef - trashes Copper, Estate
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- yed: turn 6 ----------
+yed - plays Courtyard
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Curse
+yed - places Copper on top of deck
+yed - plays 3 Copper, 1 Potion
+yed - buys Familiar
+yed - gains Familiar
+yed - draws Copper, Estate, Steward, Copper
+yed - shuffles deck
+yed - draws Curse
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Steward
+yed - trashes Curse, Estate
+yed - draws Copper, Potion, Copper, Courtyard, Courtyard
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Steward, Copper, Potion, Familiar
+ 
+---------- yed: turn 8 ----------
+yed - plays Courtyard
+yed - draws Familiar, Copper
+yed - shuffles deck
+yed - draws Copper
+yed - places Familiar on top of deck
+yed - plays 4 Copper, 1 Potion
+yed - buys Familiar
+yed - gains Familiar
+yed - draws Familiar, Steward, Copper
+yed - shuffles deck
+yed - draws Copper, Familiar
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Familiar
+Stef - draws Steward
+yed - gains Curse
+Stef - plays Steward
+Stef - trashes Estate, Potion
+Stef - draws Copper, Courtyard
+Stef - shuffles deck
+Stef - draws Steward, Familiar, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays Familiar
+yed - draws Courtyard
+Stef - gains Curse
+yed - plays Steward
+yed - takes 2 coins
+yed - plays 3 Copper
+yed - buys City
+yed - gains City
+yed - draws Courtyard, Potion, Copper, Copper
+yed - shuffles deck
+yed - draws Steward
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Familiar
+Stef - draws Copper
+yed - gains Curse
+Stef - plays Courtyard
+Stef - draws Copper, Silver, Steward
+Stef - places Steward on top of deck
+Stef - plays 4 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Steward, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- yed: turn 10 ----------
+yed - plays Courtyard
+yed - draws Copper, Courtyard, Copper
+yed - places Steward on top of deck
+yed - plays 4 Copper, 1 Potion
+yed - buys Silver
+yed - gains Silver
+yed - draws Steward, Familiar, Copper, City, Familiar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 2 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Familiar, Courtyard, Copper, City
+ 
+---------- yed: turn 11 ----------
+yed - plays City
+yed - draws Curse
+yed - plays Familiar
+yed - shuffles deck
+yed - draws Copper
+Stef - gains Curse
+yed - plays Familiar
+yed - draws Silver
+Stef - gains Curse
+yed - plays Steward
+yed - draws Potion, Curse
+yed - plays Silver
+yed - plays Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Courtyard, Courtyard, Copper, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Familiar
+Stef - draws Steward
+yed - gains Curse
+Stef - plays City
+Stef - draws Curse
+Stef - plays Courtyard
+Stef - draws Copper, Curse, Copper
+Stef - places Copper on top of deck
+Stef - plays Steward
+Stef - trashes Curse, Curse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Steward, Estate, Copper, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays Courtyard
+yed - shuffles deck
+yed - draws City, Steward, Steward
+yed - places City on top of deck
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws City, Curse, Curse, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Curse, Silver, Courtyard, Silver
+ 
+---------- yed: turn 13 ----------
+yed - plays City
+yed - draws Familiar
+yed - plays Familiar
+yed - draws Familiar
+Stef - gains Curse
+yed - plays Familiar
+yed - draws Silver
+Stef - gains Curse
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Curse, Potion
+yed - shuffles deck
+yed - draws Curse, Silver, Steward
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Courtyard
+Stef - draws Familiar, City, City
+Stef - places City on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws City, Copper, Copper, Steward, Curse
+ 
+---------- yed: turn 14 ----------
+yed - plays Steward
+yed - trashes Curse, Curse
+yed - draws Steward, Copper, Familiar, Curse, Courtyard
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Steward, Estate
+Stef - plays Steward
+Stef - draws Courtyard, Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Familiar, City, Curse, Copper, Curse
+ 
+---------- yed: turn 15 ----------
+yed - plays Familiar
+yed - draws Copper
+yed - plays Steward
+yed - trashes Curse, Copper
+yed - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Silver, Copper
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays 2 Copper, 2 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws City, Copper
+Stef - shuffles deck
+Stef - draws City, Copper, Familiar
+ 
+---------- yed: turn 16 ----------
+yed - plays 3 Copper, 2 Silver
+yed - buys City
+yed - gains City
+yed - draws Familiar, City, Courtyard
+yed - shuffles deck
+yed - draws Silver, Steward
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Curse, City
+Stef - plays City
+Stef - draws City, Estate
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws Copper, Courtyard
+Stef - plays City
+Stef - draws Copper, Steward
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Courtyard
+Stef - draws Curse, Silver, Copper
+Stef - places Silver on top of deck
+Stef - plays Steward
+Stef - trashes Curse, Curse
+Stef - plays 6 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Silver, Silver, Curse, Steward, City
+ 
+---------- yed: turn 17 ----------
+yed - plays City
+yed - draws Silver, Steward
+yed - plays Familiar
+yed - draws Copper
+yed - plays Steward
+yed - draws Copper, Silver
+yed - plays Courtyard
+yed - draws City, Copper, Copper
+yed - places City on top of deck
+yed - plays 4 Copper, 3 Silver
+yed - buys Province
+yed - gains Province
+yed - draws City, Potion, Courtyard, Familiar
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Copper, Courtyard
+Stef - plays Courtyard
+Stef - draws Copper, Steward, City
+Stef - places Copper on top of deck
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays Steward
+Stef - draws City, City
+Stef - plays City
+Stef - draws Curse, City
+Stef - plays City
+Stef - draws Estate, Copper
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays Steward
+Stef - trashes Curse, Curse
+Stef - plays 6 Copper, 2 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws City, City, Familiar
+Stef - shuffles deck
+Stef - draws City, Copper
+ 
+---------- yed: turn 18 ----------
+yed - plays City
+yed - draws Copper, City
+yed - plays City
+yed - draws Courtyard, Province
+yed - plays Familiar
+yed - draws Copper
+yed - plays Courtyard
+yed - draws Steward, Silver, Steward
+yed - places Courtyard on top of deck
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - plays 2 Silver, 2 Copper, 1 Potion
+yed - buys Province
+yed - gains Province
+yed - buys Feast
+yed - gains Feast
+yed - draws Courtyard, Copper, Familiar, Copper, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays City
+Stef - draws Courtyard, City
+Stef - plays City
+Stef - draws Copper, Steward
+Stef - plays City
+Stef - draws Copper, Steward
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays Familiar
+Stef - draws City
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - draws Estate, Silver
+Stef - plays City
+Stef - draws Copper
+Stef - plays Steward
+Stef - trashes Copper, Estate
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws Familiar, Province, Copper, City, City
+ 
+---------- yed: turn 19 ----------
+yed - plays Familiar
+yed - shuffles deck
+yed - draws Province
+yed - plays Courtyard
+yed - draws Copper, Steward, Silver
+yed - places Steward on top of deck
+yed - plays 3 Copper, 2 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Steward, Courtyard, Feast, Copper, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays City
+Stef - draws Copper, Silver
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Steward, Province
+Stef - plays City
+Stef - draws Courtyard, Copper
+Stef - plays Familiar
+Stef - draws City
+Stef - plays City
+Stef - draws Steward, City
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Steward, City
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Province, City, Familiar, Copper, City
+ 
+---------- yed: turn 20 ----------
+yed - plays Feast
+yed - trashes Feast
+yed - gains Duchy
+yed - plays 1 Copper, 1 Silver
+yed - buys Estate
+yed - gains Estate
+yed - draws Province, City, Steward, City, Potion
+ 
+---------- Stef: turn 20 ----------
+Stef - plays City
+Stef - draws Steward, Province
+Stef - plays City
+Stef - draws Steward, City
+Stef - plays City
+Stef - draws City, Courtyard
+Stef - plays City
+Stef - draws City, Province
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws City, Duchy
+Stef - plays City
+Stef - draws Silver, Steward
+Stef - plays Courtyard
+Stef - draws Silver
+Stef - places City on top of deck
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws City
+Stef - shuffles deck
+Stef - draws Courtyard, Duchy, City, City
+ 
+---------- yed: turn 21 ----------
+yed - plays City
+yed - draws Familiar
+yed - shuffles deck
+yed - draws Familiar
+yed - plays City
+yed - draws Courtyard, Copper
+yed - plays Familiar
+yed - draws Silver
+yed - plays Familiar
+yed - draws Copper
+yed - plays Steward
+yed - draws Copper, Silver
+yed - plays Courtyard
+yed - draws Courtyard, Duchy, Copper
+yed - places Duchy on top of deck
+yed - plays Courtyard
+yed - draws Duchy, Duchy, Silver
+yed - places Duchy on top of deck
+yed - plays 4 Copper, 3 Silver, 1 Potion
+yed - buys Province
+yed - gains Province
+yed - buys Estate
+yed - gains Estate
+yed - buys Estate
+yed - gains Estate
+yed - draws Duchy, Province, Steward, Estate
+yed - shuffles deck
+yed - draws Familiar
+ 
+---------- Stef: turn 21 ----------
+Stef - plays City
+Stef - draws Steward, City
+Stef - plays City
+Stef - draws Familiar, City
+Stef - plays City
+Stef - draws Province, Province
+Stef - plays City
+Stef - draws Duchy, City
+Stef - plays City
+Stef - draws Copper, Apprentice
+Stef - plays City
+Stef - draws City, Steward
+Stef - plays City
+Stef - draws Steward, Province
+Stef - plays 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Silver, Province, City
+Stef - shuffles deck
+Stef - draws City
+ 
+------------ Game Over ------------
+Stef - cards: 8 City, 3 Steward, 1 Apprentice, 1 Courtyard, 1 Familiar, 2 Silver, 1 Copper, 5 Province, 2 Duchy
+Stef - total victory points: 36
+Stef - turns: 21
+ 
+yed - cards: 2 Steward, 2 Familiar, 2 Courtyard, 2 City, 4 Copper, 3 Silver, 1 Potion, 3 Province, 3 Estate, 2 Duchy
+yed - total victory points: 27
+yed - turns: 21
+ 
+1st place: Stef
+2nd place: yed
+ 

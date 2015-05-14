@@ -1,0 +1,862 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Sage, Wishing Well, Cutpurse, Golem, City, Saboteur, Trading Post, Upgrade, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Fool's Gold
+yed - gains Fool's Gold
+yed - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Cutpurse
+yed - gains Cutpurse
+yed - shuffles deck
+yed - draws Estate, Copper, Fool's Gold, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - shuffles deck
+Stef - draws Estate, Copper, Wishing Well, Copper, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Fool's Gold
+yed - buys Fool's Gold
+yed - gains Fool's Gold
+yed - draws Copper, Copper, Copper, Copper, Cutpurse
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Estate
+Stef - reveals Wishing Well
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Wishing Well, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Cutpurse
+Stef - discards Copper
+yed - plays 4 Copper
+yed - buys Upgrade
+yed - gains Upgrade
+yed - draws Estate, Copper
+yed - shuffles deck
+yed - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Estate
+Stef - shuffles deck
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Wishing Well, Wishing Well, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays 4 Copper
+yed - buys Fool's Gold
+yed - gains Fool's Gold
+yed - draws Estate, Fool's Gold, Copper, Cutpurse, Upgrade
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Estate
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays 6 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Wishing Well, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Upgrade
+yed - draws Estate
+yed - trashes Estate
+yed - gains Wishing Well
+yed - plays Cutpurse
+Stef - discards Copper
+yed - plays 1 Fool's Gold, 1 Copper
+yed - buys Fool's Gold
+yed - gains Fool's Gold
+yed - draws Copper, Copper, Fool's Gold
+yed - shuffles deck
+yed - draws Fool's Gold, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Upgrade, Wishing Well, Copper, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays 3 Copper, 2 Fool's Gold
+yed - buys Forge
+yed - gains Forge
+yed - draws Fool's Gold, Copper, Upgrade, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Upgrade
+Stef - shuffles deck
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays 4 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Potion, Wishing Well, Copper, Copper, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Upgrade
+yed - draws Wishing Well
+yed - trashes Estate
+yed - gains Wishing Well
+yed - plays Wishing Well
+yed - draws Fool's Gold
+yed - names Copper
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays 3 Copper, 2 Fool's Gold
+yed - buys City
+yed - gains City
+yed - draws Estate, Cutpurse, Copper
+yed - shuffles deck
+yed - draws City, Fool's Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Wishing Well
+Stef - reveals Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper, Copper, Wishing Well, Upgrade, Wishing Well
+ 
+---------- yed: turn 9 ----------
+yed - plays City
+yed - draws Copper
+yed - plays Cutpurse
+Stef - discards Copper
+yed - plays 2 Copper, 1 Fool's Gold
+yed - buys City
+yed - gains City
+yed - draws Copper, Forge, Wishing Well, Fool's Gold, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Potion
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Upgrade
+Stef - draws Wishing Well
+Stef - trashes Copper
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Estate
+Stef - reveals Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper, Estate, Golem, Copper, Wishing Well
+ 
+---------- yed: turn 10 ----------
+yed - plays Wishing Well
+yed - draws Copper
+yed - names Fool's Gold
+yed - reveals Upgrade
+yed - plays Forge
+yed - trashes Copper, Copper, Copper, Fool's Gold
+yed - gains Fool's Gold
+yed - draws Upgrade, Fool's Gold, Copper, Wishing Well, Fool's Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Estate, Wishing Well, Wishing Well
+Stef - discards Estate
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Upgrade
+Stef - plays Wishing Well
+Stef - draws Upgrade
+Stef - names Copper
+Stef - reveals Potion
+Stef - plays Wishing Well
+Stef - draws Potion
+Stef - names Platinum
+Stef - reveals Golem
+Stef - plays Upgrade
+Stef - draws Golem
+Stef - trashes Potion
+Stef - gains Trading Post
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Trading Post, Estate
+Stef - discards: Copper, Estate
+Stef - plays Trading Post
+Stef - trashes Copper, Estate
+Stef - gains Silver
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - shuffles deck
+Stef - draws Trading Post, Golem, Copper, Upgrade, Wishing Well
+ 
+---------- yed: turn 11 ----------
+yed - plays Wishing Well
+yed - draws Copper
+yed - names Copper
+yed - shuffles deck
+yed - reveals City
+yed - plays Upgrade
+yed - draws City
+yed - trashes Copper
+yed - plays City
+yed - draws Copper
+yed - plays 2 Fool's Gold, 2 Copper
+yed - buys City
+yed - gains City
+yed - draws Copper, Wishing Well, Forge, Fool's Gold, Cutpurse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Golem
+Stef - reveals Silver, Copper, Estate, Wishing Well, Upgrade
+Stef - discards: Silver, Copper, Estate
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Golem
+Stef - plays Upgrade
+Stef - draws Golem
+Stef - trashes Copper
+Stef - plays Golem
+Stef - reveals Copper, Wishing Well, Wishing Well
+Stef - discards Copper
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Estate
+Stef - gains Sage
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - shuffles deck
+Stef - draws Wishing Well, Saboteur, Upgrade, Golem, Golem
+ 
+---------- yed: turn 12 ----------
+yed - plays Forge
+yed - trashes Copper, Wishing Well, Fool's Gold, Cutpurse
+yed - gains Platinum
+yed - draws City, Fool's Gold, Estate
+yed - shuffles deck
+yed - draws Fool's Gold, City
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Sage
+Stef - plays Golem
+Stef - reveals Sage, Copper, Wishing Well
+Stef - discards Copper
+Stef - plays Sage
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Wishing Well
+Stef - reveals Upgrade
+Stef - plays Wishing Well
+Stef - draws Upgrade
+Stef - names Wishing Well
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Trading Post
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Silver
+Stef - gains Potion
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Potion
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Upgrade
+Stef - trashes Potion
+Stef - gains Saboteur
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Saboteur
+Stef - plays Saboteur
+yed - reveals Upgrade
+yed - trashes Upgrade
+yed - gains Wishing Well
+Stef - plays 2 Silver
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - shuffles deck
+Stef - draws Golem, Wishing Well, Saboteur, Silver, Trading Post
+ 
+---------- yed: turn 13 ----------
+yed - plays City
+yed - draws Copper
+yed - plays City
+yed - draws City
+yed - plays City
+yed - draws Fool's Gold
+yed - plays 3 Fool's Gold, 1 Copper
+yed - buys Platinum
+yed - gains Platinum
+yed - draws Copper, Wishing Well, Forge, Platinum
+yed - shuffles deck
+yed - draws Platinum
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Golem
+Stef - reveals Wishing Well, Wishing Well
+Stef - plays Wishing Well
+Stef - draws Saboteur
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Upgrade
+Stef - names Wishing Well
+Stef - reveals Upgrade
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Trading Post
+Stef - gains Gold
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Sage
+Stef - plays Wishing Well
+Stef - draws Sage
+Stef - names Wishing Well
+Stef - reveals Golem
+Stef - plays Wishing Well
+Stef - draws Golem
+Stef - names Cutpurse
+Stef - reveals Cutpurse
+Stef - places Cutpurse in hand
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Silver, Wishing Well, Gold
+Stef - discards: Silver, Gold
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Silver
+Stef - names Gold
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Saboteur
+yed - reveals Fool's Gold, City
+yed - trashes City
+yed - gains Wishing Well
+yed - discards Fool's Gold
+Stef - plays Upgrade
+Stef - trashes Cutpurse
+Stef - gains City
+Stef - plays Saboteur
+yed - reveals Copper, Fool's Gold, City
+yed - trashes City
+yed - gains Fool's Gold
+yed - discards: Copper, Fool's Gold
+Stef - plays 2 Silver, 1 Gold
+Stef - buys City
+Stef - gains City
+Stef - shuffles deck
+Stef - draws Saboteur, Upgrade, Wishing Well, Upgrade, Wishing Well
+ 
+---------- yed: turn 14 ----------
+yed - plays Wishing Well
+yed - draws Wishing Well
+yed - names Fool's Gold
+yed - reveals City
+yed - plays Wishing Well
+yed - draws City
+yed - names Fool's Gold
+yed - reveals Fool's Gold
+yed - places Fool's Gold in hand
+yed - plays City
+yed - draws Estate
+yed - shuffles deck
+yed - draws Fool's Gold
+yed - plays Forge
+yed - trashes Estate, Copper
+yed - gains Fool's Gold
+yed - plays 2 Platinum, 2 Fool's Gold
+yed - buys Colony
+yed - gains Colony
+yed - draws Fool's Gold, Fool's Gold, Wishing Well, Copper
+yed - shuffles deck
+yed - draws Platinum
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wishing Well
+Stef - draws City
+Stef - names Wishing Well
+Stef - reveals Sage
+Stef - plays City
+Stef - draws Sage, Wishing Well
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Wishing Well
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Wishing Well
+Stef - reveals Golem
+Stef - plays Sage
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Golem
+Stef - reveals Wishing Well, Saboteur
+Stef - plays Saboteur
+yed - reveals Fool's Gold, Forge
+yed - trashes Forge
+yed - gains City
+yed - discards Fool's Gold
+Stef - plays Wishing Well
+Stef - draws City
+Stef - names Wishing Well
+Stef - reveals Golem
+Stef - plays City
+Stef - draws Golem, Wishing Well
+Stef - plays Golem
+Stef - reveals Wishing Well, Gold
+Stef - discards Gold
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Gold
+Stef - names Golem
+Stef - plays Saboteur
+yed - reveals Wishing Well
+yed - trashes Wishing Well
+Stef - plays Upgrade
+Stef - trashes Upgrade
+Stef - gains Gold
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Gold
+Stef - names Golem
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - shuffles deck
+Stef - draws Silver, Wishing Well, Gold, Silver, City
+ 
+---------- yed: turn 15 ----------
+yed - plays Wishing Well
+yed - draws Platinum
+yed - names Copper
+yed - reveals Colony
+yed - plays 2 Fool's Gold, 2 Platinum, 1 Copper
+yed - buys Colony
+yed - gains Colony
+yed - draws Colony, Fool's Gold, City, Fool's Gold, Wishing Well
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws Gold, Wishing Well
+Stef - plays Wishing Well
+Stef - draws Saboteur
+Stef - names Wishing Well
+Stef - reveals Sage
+Stef - plays Wishing Well
+Stef - draws Sage
+Stef - names Wishing Well
+Stef - reveals City
+Stef - plays Sage
+Stef - reveals City
+Stef - places City in hand
+Stef - plays City
+Stef - draws Wishing Well, Upgrade
+Stef - plays Upgrade
+Stef - draws Saboteur
+Stef - trashes Silver
+Stef - gains Cutpurse
+Stef - plays Wishing Well
+Stef - draws Golem
+Stef - names Platinum
+Stef - reveals Wishing Well
+Stef - plays Golem
+Stef - reveals Wishing Well, Platinum, Wishing Well
+Stef - discards Platinum
+Stef - plays Wishing Well
+Stef - draws Golem
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Platinum
+Stef - names Cutpurse
+Stef - reveals Cutpurse
+Stef - places Cutpurse in hand
+Stef - plays Cutpurse
+yed - reveals Colony, Fool's Gold, City, Fool's Gold, Wishing Well
+Stef - plays Saboteur
+yed - shuffles deck
+yed - reveals Fool's Gold, Wishing Well
+yed - trashes Wishing Well
+yed - discards Fool's Gold
+Stef - plays Saboteur
+yed - reveals Platinum
+yed - trashes Platinum
+yed - gains Forge
+Stef - plays 2 Gold, 1 Silver, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Colony, Silver, Wishing Well, Cutpurse, Wishing Well
+ 
+---------- yed: turn 16 ----------
+yed - plays City
+yed - draws Copper, Fool's Gold
+yed - plays Wishing Well
+yed - draws City
+yed - names Fool's Gold
+yed - reveals Colony
+yed - plays City
+yed - draws Colony, Platinum
+yed - plays 3 Fool's Gold, 1 Copper, 1 Platinum
+yed - buys Colony
+yed - gains Colony
+yed - draws Fool's Gold
+yed - shuffles deck
+yed - draws Colony, Colony, Platinum, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wishing Well
+Stef - draws Sage
+Stef - names Wishing Well
+Stef - reveals City
+Stef - plays Sage
+Stef - reveals City
+Stef - places City in hand
+Stef - plays City
+Stef - draws Gold, Saboteur
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Upgrade
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Golem
+Stef - names Platinum
+Stef - reveals Platinum
+Stef - places Platinum in hand
+Stef - plays Golem
+Stef - reveals Golem, Wishing Well, City
+Stef - discards Golem
+Stef - plays City
+Stef - draws Gold, Saboteur
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Golem
+Stef - names Wishing Well
+Stef - plays Upgrade
+Stef - trashes Cutpurse
+Stef - gains Saboteur
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Saboteur
+Stef - plays Saboteur
+yed - reveals Fool's Gold, City
+yed - trashes City
+yed - gains Fool's Gold
+yed - discards Fool's Gold
+Stef - plays Saboteur
+yed - reveals Wishing Well
+yed - trashes Wishing Well
+Stef - plays Saboteur
+yed - reveals Forge
+yed - trashes Forge
+yed - gains City
+Stef - plays 2 Gold, 1 Silver, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Platinum, Golem, City, Wishing Well, City
+ 
+---------- yed: turn 17 ----------
+yed - plays 1 Fool's Gold, 1 Platinum, 1 Copper
+yed - buys Forge
+yed - gains Forge
+yed - draws City, Fool's Gold, Fool's Gold, Colony, Fool's Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - draws Wishing Well, Colony
+Stef - plays Golem
+Stef - reveals Saboteur, Gold, Wishing Well
+Stef - discards Gold
+Stef - plays Saboteur
+yed - shuffles deck
+yed - reveals Forge
+yed - trashes Forge
+yed - gains City
+Stef - plays Wishing Well
+Stef - draws Sage
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays City
+Stef - draws Colony, Upgrade
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Saboteur
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Saboteur
+Stef - reveals Golem
+Stef - plays Sage
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Golem
+Stef - reveals Wishing Well, Saboteur
+Stef - plays Saboteur
+yed - reveals Fool's Gold, Fool's Gold, Colony
+yed - trashes Colony
+yed - gains Province
+yed - discards: Fool's Gold, Fool's Gold
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Saboteur
+Stef - reveals Saboteur
+Stef - places Saboteur in hand
+Stef - plays Saboteur
+yed - reveals Colony
+yed - trashes Colony
+yed - gains Province
+Stef - plays Upgrade
+Stef - shuffles deck
+Stef - draws Gold
+Stef - trashes Silver
+Stef - gains Cutpurse
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Cutpurse
+Stef - names Cutpurse
+Stef - plays Cutpurse
+yed - reveals City, Fool's Gold, Fool's Gold, Colony, Fool's Gold
+Stef - plays 2 Gold, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Cutpurse, Wishing Well, Wishing Well, Platinum, Gold
+ 
+---------- yed: turn 18 ----------
+yed - plays City
+yed - draws City, Fool's Gold
+yed - plays City
+yed - draws Copper, Platinum
+yed - plays 4 Fool's Gold, 1 Copper, 1 Platinum
+yed - buys Colony
+yed - gains Colony
+yed - shuffles deck
+yed - draws Colony, Fool's Gold, Fool's Gold, Copper, Fool's Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Wishing Well
+Stef - draws City
+Stef - names Colony
+Stef - reveals Golem
+Stef - plays City
+Stef - draws Golem, Sage
+Stef - plays Golem
+Stef - reveals Colony, Gold, Upgrade, Colony, Wishing Well
+Stef - discards: Colony, Gold, Colony
+Stef - plays Wishing Well
+Stef - draws Saboteur
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Upgrade
+Stef - draws Golem
+Stef - trashes Sage
+Stef - gains Cutpurse
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Saboteur
+Stef - reveals City
+Stef - plays Wishing Well
+Stef - draws City
+Stef - names Saboteur
+Stef - reveals Colony
+Stef - plays City
+Stef - draws Colony, Saboteur
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Saboteur
+Stef - reveals Saboteur
+Stef - places Saboteur in hand
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Gold, Cutpurse, Colony, Colony
+Stef - discards: Gold, Colony, Colony
+Stef - plays Cutpurse
+yed - discards Copper
+Stef - plays Cutpurse
+yed - reveals Colony, Fool's Gold, Fool's Gold, Fool's Gold
+Stef - plays 1 Platinum, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - shuffles deck
+Stef - draws Colony, Saboteur, Gold, Gold, Wishing Well
+ 
+------------ Game Over ------------
+Stef - cards: 6 Wishing Well, 3 Saboteur, 2 Cutpurse, 2 Golem, 2 City, 1 Upgrade, 2 Gold, 1 Platinum, 4 Colony
+Stef - total victory points: 40
+Stef - turns: 18
+ 
+yed - cards: 3 City, 6 Fool's Gold, 1 Copper, 1 Platinum, 2 Colony, 2 Province
+yed - total victory points: 32
+yed - turns: 18
+ 
+1st place: Stef
+2nd place: yed
+ 

@@ -1,0 +1,628 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Loan, Swindler, Trade Route, Urchin, Ironmonger, Graverobber, Inn, Mine, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+RTT - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Swindler
+RTT - gains Swindler
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - shuffles deck
+Stef - draws Copper, Hermit, Estate, Swindler, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Ironmonger
+RTT - gains Ironmonger
+RTT - shuffles deck
+RTT - draws Swindler, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Swindler
+RTT - reveals Copper
+RTT - trashes Copper
+RTT - gains Curse
+Stef - plays 2 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+RTT - plays 2 Copper
+RTT - buys Ironmonger
+RTT - gains Ironmonger
+RTT - draws Copper, Ironmonger, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - shuffles deck
+RTT - reveals: Estate
+RTT - discards Estate
+RTT - draws Swindler
+RTT - plays Swindler
+Stef - reveals Ironmonger
+Stef - trashes Ironmonger
+Stef - gains Ironmonger
+RTT - plays 4 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Estate, Copper, Curse, Ironmonger
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Copper, Estate, Hermit, Copper, Ironmonger
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Ironmonger
+RTT - shuffles deck
+RTT - draws Estate
+RTT - reveals: Ironmonger
+RTT - places Ironmonger on top of deck
+RTT - plays 2 Copper
+RTT - draws Ironmonger, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Urchin
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Swindler, Curse
+Stef - shuffles deck
+Stef - draws Copper, Copper, Ironmonger
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Ironmonger
+RTT - draws Swindler
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+RTT - plays 3 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Gold
+RTT - shuffles deck
+RTT - draws Estate, Gold, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Hermit
+Stef - reveals: Urchin
+Stef - places Urchin on top of deck
+Stef - plays Swindler
+RTT - reveals Copper
+RTT - trashes Copper
+RTT - gains Curse
+Stef - plays Hermit
+Stef - trashes Curse
+Stef - gains Urchin
+Stef - plays 2 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Urchin, Urchin, Copper, Copper, Ironmonger
+ 
+---------- RTT: turn 7 ----------
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Copper, Swindler, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Urchin
+Stef - draws Copper
+RTT - discards Copper
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Copper
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Urchin, Mercenary, Ironmonger, Estate, Hermit
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+RTT - plays 3 Copper
+RTT - buys Tactician
+RTT - gains Tactician
+RTT - draws Ironmonger, Ironmonger, Curse
+RTT - shuffles deck
+RTT - draws Gold, Tactician
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Urchin
+Stef - draws Ironmonger
+RTT - discards Curse
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Swindler, Copper
+RTT - discards Gold
+Stef - plays Swindler
+RTT - reveals Swindler
+RTT - trashes Swindler
+RTT - gains Loan
+Stef - plays 2 Copper
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Copper, Copper, Silver, Urchin, Tactician
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Curse
+RTT - discards Curse
+RTT - plays Ironmonger
+RTT - draws Estate
+RTT - reveals: Gold
+RTT - places Gold on top of deck
+RTT - plays Tactician
+RTT - discards: Copper, Estate
+RTT - draws Gold, Gold, Estate, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Urchin
+Stef - draws Estate
+RTT - discards Estate
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Silver, Estate
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - draws Copper, Urchin, Swindler, Copper
+ 
+---------- RTT: turn 10 ----------
+RTT - duration Tactician
+RTT - draws Copper, Copper, Copper
+RTT - shuffles deck
+RTT - draws Curse, Estate
+RTT - plays 4 Copper, 2 Gold
+RTT - buys Hermit
+RTT - gains Hermit
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Curse, Gold, Ironmonger, Ironmonger, Loan
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Tactician
+Stef - draws Mercenary, Copper, Copper, Ironmonger, Estate
+Stef - plays Ironmonger
+Stef - draws Urchin
+Stef - reveals: Hermit
+Stef - places Hermit on top of deck
+Stef - plays Ironmonger
+Stef - draws Hermit
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Ironmonger, Tactician
+RTT - discards Curse
+RTT - discards Loan
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Urchin
+Stef - draws Silver
+Stef - plays Hermit
+Stef - gains Trade Route
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays Tactician
+Stef - discards: Copper, Urchin, Copper, Copper, Copper, Silver
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - shuffles deck
+Stef - draws Copper, Ironmonger, Copper, Mercenary, Urchin
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - shuffles deck
+RTT - reveals: Hermit
+RTT - discards Hermit
+RTT - plays Ironmonger
+RTT - draws Estate
+RTT - reveals: Curse
+RTT - discards Curse
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Swindler
+RTT - gains Swindler
+RTT - draws Gold, Gold, Gold, Tactician, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Copper, Urchin, Ironmonger, Hermit, Swindler
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Tactician
+Stef - places Tactician on top of deck
+Stef - plays Ironmonger
+Stef - draws Tactician
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Urchin
+Stef - draws Ironmonger
+RTT - discards Estate
+Stef - plays Ironmonger
+Stef - draws Trade Route
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Urchin
+Stef - draws Silver
+Stef - plays Hermit
+Stef - gains Trade Route
+Stef - plays Graverobber
+Stef - trashes Trade Route
+Stef - gains Inn
+Stef - places Trade Route, Inn on top of deck
+Stef - shuffles deck
+Stef - plays Mercenary
+Stef - trashes Copper, Copper
+Stef - draws Trade Route, Inn
+RTT - discards Tactician
+Stef - plays Inn
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Swindler
+RTT - reveals Loan
+RTT - trashes Loan
+RTT - gains Loan
+Stef - plays Tactician
+Stef - discards: Silver, Trade Route
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - shuffles deck
+Stef - draws Hermit, Copper, Trade Route, Copper, Silver
+ 
+---------- RTT: turn 12 ----------
+RTT - plays 3 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Tactician
+Stef - draws Graverobber, Ironmonger, Graverobber, Urchin, Tactician
+Stef - plays Ironmonger
+Stef - draws Mercenary
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Urchin
+Stef - draws Ironmonger
+RTT - discards Estate
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - reveals: Inn
+Stef - places Inn on top of deck
+Stef - plays Graverobber
+Stef - gains Ironmonger
+Stef - plays Mercenary
+Stef - trashes Copper, Copper
+Stef - draws Ironmonger, Inn
+RTT - discards Copper
+Stef - plays Graverobber
+Stef - gains Swindler
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - reveals: Urchin
+Stef - places Urchin on top of deck
+Stef - plays Hermit
+Stef - gains Swindler
+Stef - plays Inn
+Stef - draws Urchin
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - discards Silver
+Stef - discards Trade Route
+Stef - plays Swindler
+RTT - reveals Curse
+RTT - trashes Curse
+RTT - gains Curse
+Stef - plays Swindler
+RTT - shuffles deck
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays Tactician
+Stef - discards: Swindler, Urchin
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Swindler, Urchin, Urchin, Ironmonger, Inn
+ 
+---------- RTT: turn 13 ----------
+RTT - plays 3 Copper
+RTT - buys Trade Route
+RTT - gains Trade Route
+RTT - draws Ironmonger, Gold, Curse, Swindler, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Tactician
+Stef - draws Graverobber, Mercenary, Silver, Ironmonger, Hermit
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Ironmonger
+Stef - draws Swindler
+Stef - reveals: Tactician
+Stef - places Tactician on top of deck
+Stef - plays Inn
+Stef - draws Tactician, Swindler
+Stef - discards Swindler
+Stef - discards Swindler
+Stef - plays Urchin
+Stef - draws Ironmonger
+RTT - discards Curse
+Stef - plays Ironmonger
+Stef - draws Trade Route
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Hermit
+Stef - gains Trade Route
+Stef - plays Mercenary
+Stef - trashes Silver, Swindler
+Stef - draws Ironmonger, Duchy
+RTT - discards Copper
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Swindler
+RTT - reveals Ironmonger
+RTT - trashes Ironmonger
+RTT - gains Ironmonger
+Stef - plays Graverobber
+Stef - gains Ironmonger
+Stef - plays Graverobber
+Stef - gains Urchin
+Stef - plays Trade Route
+Stef - trashes Urchin
+Stef - plays Tactician
+Stef - discards Duchy
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - draws Urchin, Ironmonger, Swindler, Trade Route
+Stef - shuffles deck
+Stef - draws Hermit
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Ironmonger
+RTT - draws Gold
+RTT - reveals: Province
+RTT - discards Province
+RTT - draws Loan
+RTT - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Loan
+RTT - plays 2 Gold
+RTT - plays Loan
+RTT - reveals Gold
+RTT - discards Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Hermit, Curse, Estate, Tactician, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Tactician
+Stef - draws Ironmonger, Mercenary, Ironmonger, Urchin, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Inn
+Stef - reveals: Graverobber
+Stef - places Graverobber on top of deck
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Graverobber
+Stef - places Graverobber on top of deck
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Tactician
+Stef - places Tactician on top of deck
+Stef - plays Ironmonger
+Stef - draws Tactician
+Stef - reveals: Graverobber
+Stef - places Graverobber on top of deck
+Stef - plays Hermit
+Stef - gains Swindler
+Stef - plays Urchin
+Stef - draws Graverobber
+RTT - discards Curse
+Stef - plays Urchin
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Trade Route
+Stef - reveals: Duchy
+Stef - discards Duchy
+Stef - shuffles deck
+Stef - draws Loan
+Stef - plays Trade Route
+Stef - trashes Mercenary
+Stef - plays Trade Route
+Stef - trashes Loan
+Stef - plays Swindler
+RTT - reveals Estate
+RTT - trashes Estate
+RTT - gains Estate
+Stef - plays Graverobber
+Stef - trashes Graverobber
+Stef - gains Province
+Stef - plays Inn
+Stef - draws Swindler, Duchy
+Stef - discards Swindler
+Stef - discards Duchy
+Stef - plays Tactician
+Stef - discards Graverobber
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Duchy, Urchin, Ironmonger, Swindler, Ironmonger
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Tactician
+RTT - discards: Hermit, Estate, Copper
+RTT - draws Gold
+RTT - shuffles deck
+RTT - draws Copper, Estate, Copper, Swindler
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Tactician
+Stef - draws Swindler, Ironmonger, Ironmonger, Trade Route, Province
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Urchin
+Stef - places Urchin on top of deck
+Stef - plays Ironmonger
+Stef - draws Urchin
+Stef - reveals: Hermit
+Stef - discards Hermit
+Stef - plays Ironmonger
+Stef - draws Inn
+Stef - reveals: Graverobber
+Stef - places Graverobber on top of deck
+Stef - plays Ironmonger
+Stef - draws Graverobber
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Urchin
+Stef - draws Ironmonger
+RTT - discards Estate
+Stef - plays Ironmonger
+Stef - draws Trade Route
+Stef - reveals: Tactician
+Stef - places Tactician on top of deck
+Stef - plays Inn
+Stef - draws Tactician, Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Urchin
+Stef - shuffles deck
+Stef - draws Hermit
+Stef - plays Hermit
+Stef - gains Trade Route
+Stef - plays Graverobber
+Stef - gains Graverobber
+Stef - plays Trade Route
+Stef - trashes Swindler
+Stef - plays Trade Route
+Stef - trashes Swindler
+Stef - plays Tactician
+Stef - discards: Duchy, Graverobber
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Trade Route, Graverobber, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Province, Inn, Graverobber, Trade Route, Graverobber
+ 
+---------- RTT: turn 16 ----------
+RTT - duration Tactician
+RTT - draws Copper, Curse, Copper, Gold, Hermit
+RTT - plays Hermit
+RTT - trashes Curse
+RTT - gains Swindler
+RTT - plays Swindler
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Province
+RTT - plays 4 Copper, 2 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Province, Province, Gold, Gold, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Tactician
+Stef - shuffles deck
+Stef - draws Ironmonger, Province, Trade Route, Inn, Urchin
+Stef - plays Graverobber
+Stef - trashes Inn
+Stef - gains Province
+Stef - plays Graverobber
+Stef - trashes Inn
+Stef - gains Province
+Stef - draws Ironmonger, Ironmonger, Urchin, Duchy, Graverobber
+ 
+------------ Game Over ------------
+Stef - cards: 5 Ironmonger, 3 Graverobber, 3 Trade Route, 2 Urchin, 2 Tactician, 1 Hermit, 4 Province, 1 Duchy
+Stef - total victory points: 27
+Stef - turns: 17
+ 
+RTT - cards: 2 Swindler, 2 Ironmonger, 1 Hermit, 1 Trade Route, 1 Tactician, 5 Copper, 4 Gold, 1 Loan, 4 Estate, 3 Province, 1 Curse
+RTT - total victory points: 21
+RTT - turns: 16
+ 
+1st place: Stef
+2nd place: RTT
+ 

@@ -1,0 +1,525 @@
+------------ Game Setup ------------
+Supply cards: Squire, Fortune Teller, Menagerie, Farming Village, Fortress, Scout, Worker's Village, Count, Graverobber, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Necropolis, Copper, Copper, Copper, Copper
+shark_bait - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays Necropolis
+shark_bait - plays 4 Copper
+shark_bait - buys Fortune Teller
+shark_bait - gains Fortune Teller
+shark_bait - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - shuffles deck
+shark_bait - draws Hovel, Copper, Copper, Fortune Teller, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Fortune Teller, Necropolis, Copper, Hovel, Copper, Menagerie, Overgrown Estate
+Stef - discards: Fortune Teller, Necropolis, Copper, Hovel, Copper, Menagerie
+shark_bait - plays 3 Copper
+shark_bait - buys Mint
+shark_bait - trashes Copper, Copper, Copper
+shark_bait - gains Mint
+shark_bait - draws Silver, Copper, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - draws Overgrown Estate, Copper
+Stef - shuffles deck
+Stef - draws Menagerie, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Necropolis
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Count
+shark_bait - gains Count
+shark_bait - draws Copper, Overgrown Estate
+shark_bait - shuffles deck
+shark_bait - draws Hovel, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Overgrown Estate, Copper, Copper, Copper
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Count, Copper, Fortune Teller, Copper, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Menagerie
+shark_bait - gains Menagerie
+shark_bait - draws Copper, Fortune Teller, Silver, Count, Necropolis
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Count
+Stef - places Fortune Teller on top of deck
+Stef - trashes Copper, Copper, Copper
+Stef - draws Fortune Teller, Necropolis, Hovel, Silver
+Stef - shuffles deck
+Stef - draws Worker's Village
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Necropolis
+shark_bait - plays Fortune Teller
+Stef - reveals Count, Copper, Copper, Menagerie, Copper, Overgrown Estate
+Stef - discards: Count, Copper, Copper, Menagerie, Copper
+shark_bait - plays Count
+shark_bait - places Silver on top of deck
+shark_bait - takes 3 coins
+shark_bait - plays 1 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Silver, Mint
+shark_bait - shuffles deck
+shark_bait - draws Necropolis, Menagerie, Count
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Worker's Village
+Stef - draws Overgrown Estate
+Stef - plays Fortune Teller
+shark_bait - reveals Copper, Overgrown Estate
+shark_bait - discards Copper
+Stef - plays Silver
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Menagerie, Copper, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Menagerie
+shark_bait - reveals hand: Silver, Mint, Necropolis, Count
+shark_bait - draws Overgrown Estate, Copper, Gold
+shark_bait - plays Necropolis
+shark_bait - plays Mint
+shark_bait - reveals Gold
+shark_bait - gains Gold
+shark_bait - plays Count
+shark_bait - places Gold on top of deck
+shark_bait - takes 3 coins
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Gold, Copper, Copper, Fortune Teller, Hovel
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Copper, Copper
+Stef - draws Necropolis
+Stef - plays 4 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Worker's Village, Hovel, Menagerie, Overgrown Estate, Silver
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Count, Fortune Teller, Copper, Copper, Worker's Village, Copper, Copper, Necropolis, Menagerie
+Stef - discards: Count, Fortune Teller, Copper, Copper, Worker's Village, Copper, Copper, Necropolis, Menagerie
+shark_bait - plays 2 Copper, 1 Gold
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - shuffles deck
+shark_bait - draws Hovel, Gold, Gold, Mint, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Worker's Village, Hovel, Overgrown Estate, Silver
+Stef - shuffles deck
+Stef - draws Copper, Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Necropolis
+Stef - plays Worker's Village
+Stef - draws Count
+Stef - plays Count
+Stef - places Silver on top of deck
+Stef - trashes Copper, Copper, Hovel, Overgrown Estate, Necropolis
+Stef - draws Silver
+Stef - plays 1 Silver
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Fortune Teller, Menagerie, Copper
+Stef - shuffles deck
+Stef - draws Worker's Village
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Mint
+shark_bait - reveals Gold
+shark_bait - gains Gold
+shark_bait - plays 2 Gold, 1 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Overgrown Estate, Silver, Copper, Gold, Fortune Teller
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Fortune Teller, Copper, Silver
+Stef - draws Count
+Stef - plays Fortune Teller
+shark_bait - shuffles deck
+shark_bait - reveals Count, Menagerie, Copper, Necropolis, Gold, Copper, Gold, Hovel, Gold, Copper, Gold, Mint, Gold
+shark_bait - discards: Count, Menagerie, Copper, Necropolis, Gold, Copper, Gold, Hovel, Gold, Copper, Gold, Mint, Gold
+Stef - plays Count
+Stef - places Copper on top of deck
+Stef - takes 3 coins
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Menagerie, Squire
+Stef - shuffles deck
+Stef - draws Count, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Fortune Teller
+Stef - reveals Silver, Menagerie, Fortune Teller, Worker's Village, Menagerie, Menagerie, Worker's Village, Squire
+Stef - discards: Silver, Menagerie, Fortune Teller, Worker's Village, Menagerie, Menagerie, Worker's Village, Squire
+shark_bait - plays 1 Silver, 1 Copper, 1 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - shuffles deck
+shark_bait - draws Mint, Menagerie, Copper, Hovel, Province
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Squire, Count, Copper
+Stef - shuffles deck
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Squire, Count, Copper
+Stef - draws Fortune Teller
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Fortune Teller
+shark_bait - reveals Copper, Gold, Count, Gold, Gold, Overgrown Estate
+shark_bait - discards: Copper, Gold, Count, Gold, Gold
+Stef - plays Count
+Stef - places Copper on top of deck
+Stef - trashes Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - draws Copper, Menagerie, Worker's Village, Silver, Squire
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Menagerie
+shark_bait - reveals hand: Mint, Copper, Hovel, Province
+shark_bait - draws Overgrown Estate, Necropolis, Gold
+shark_bait - plays Necropolis
+shark_bait - plays Mint
+shark_bait - reveals Gold
+shark_bait - gains Gold
+shark_bait - plays 1 Copper, 1 Gold
+shark_bait - buys Farming Village
+shark_bait - gains Farming Village
+shark_bait - draws Gold, Fortune Teller, Gold, Copper, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Worker's Village
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Silver, Squire
+Stef - draws Worker's Village
+Stef - shuffles deck
+Stef - draws Menagerie, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Worker's Village, Menagerie, Menagerie, Copper, Silver, Squire
+Stef - draws Fortune Teller
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Worker's Village, Menagerie, Copper, Silver, Squire
+Stef - draws Fortune Teller, Count, Squire
+Stef - plays Worker's Village
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Fortune Teller
+shark_bait - shuffles deck
+shark_bait - reveals Copper, Count, Mint, Hovel, Necropolis, Gold, Gold, Menagerie, Gold, Province
+shark_bait - discards: Copper, Count, Mint, Hovel, Necropolis, Gold, Gold, Menagerie, Gold
+Stef - plays Fortune Teller
+shark_bait - reveals Province
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Count
+Stef - places Menagerie on top of deck
+Stef - takes 3 coins
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws Menagerie, Fortress, Copper, Menagerie
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Fortune Teller
+Stef - reveals Count, Fortune Teller, Worker's Village, Graverobber, Worker's Village, Menagerie, Squire, Silver, Fortune Teller, Squire, Menagerie
+Stef - discards: Count, Fortune Teller, Worker's Village, Graverobber, Worker's Village, Menagerie, Squire, Silver, Fortune Teller, Squire, Menagerie
+shark_bait - plays 2 Gold, 1 Copper, 1 Silver
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Province, Gold, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Fortress, Copper
+Stef - shuffles deck
+Stef - draws Fortune Teller
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Menagerie, Fortress, Copper
+Stef - draws Fortune Teller, Worker's Village, Squire
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Fortune Teller
+shark_bait - shuffles deck
+shark_bait - reveals Farming Village, Gold, Necropolis, Fortune Teller, Gold, Count, Gold, Province
+shark_bait - discards: Farming Village, Gold, Necropolis, Fortune Teller, Gold, Count, Gold
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Squire, Fortress, Copper, Silver
+Stef - draws Menagerie, Worker's Village, Count
+Stef - plays Worker's Village
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Count, Fortune Teller, Squire, Fortress, Copper, Silver
+Stef - draws Squire, Graverobber
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Graverobber
+Stef - trashes Fortress
+Stef - gains Graverobber
+Stef - plays Menagerie
+Stef - reveals hand: Squire, Count, Fortune Teller, Copper, Silver, Fortress
+Stef - shuffles deck
+Stef - draws Graverobber
+Stef - plays Graverobber
+Stef - trashes Fortress
+Stef - gains Gold
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Fortune Teller
+shark_bait - reveals Province
+Stef - plays Count
+Stef - places Squire on top of deck
+Stef - gains Duchy
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Squire
+Stef - shuffles deck
+Stef - draws Worker's Village, Menagerie, Duchy, Squire
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays 2 Copper, 1 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Province, Silver, Gold, Copper, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Menagerie
+Stef - reveals hand: Squire, Worker's Village, Duchy
+Stef - draws Silver, Menagerie, Copper
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Copper, Squire, Worker's Village, Duchy
+Stef - draws Graverobber, Menagerie, Gold
+Stef - plays Menagerie
+Stef - reveals hand: Graverobber, Gold, Silver, Copper, Squire, Worker's Village, Duchy
+Stef - draws Worker's Village, Fortune Teller, Fortune Teller
+Stef - plays Worker's Village
+Stef - draws Count
+Stef - plays Worker's Village
+Stef - draws Fortress
+Stef - plays Graverobber
+Stef - trashes Fortress
+Stef - gains Fortress
+Stef - plays Fortress
+Stef - draws Menagerie
+Stef - plays Fortune Teller
+shark_bait - shuffles deck
+shark_bait - reveals Copper, Menagerie, Hovel, Mint, Gold, Gold, Copper, Fortune Teller, Necropolis, Gold, Copper, Gold, Count, Duchy
+shark_bait - discards: Copper, Menagerie, Hovel, Mint, Gold, Gold, Copper, Fortune Teller, Necropolis, Gold, Copper, Gold, Count
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Gold, Silver, Copper, Squire, Duchy, Count
+Stef - draws Menagerie, Graverobber, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Graverobber, Fortune Teller, Gold, Silver, Copper, Squire, Duchy, Count
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Fortress
+Stef - plays Graverobber
+Stef - trashes Fortress
+Stef - gains Count
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Count
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Count
+Stef - discards Duchy
+Stef - discards Province
+Stef - takes 3 coins
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Gold, Silver, Copper, Count
+Stef - shuffles deck
+Stef - draws Duchy, Province
+Stef - plays Count
+Stef - discards Duchy
+Stef - discards Province
+Stef - takes 3 coins
+Stef - plays Fortune Teller
+shark_bait - reveals Duchy
+Stef - plays 1 Gold, 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Squire, Duchy, Copper, Estate, Fortress
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays 2 Gold, 1 Silver, 1 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Duchy, Overgrown Estate, Farming Village, Gold, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fortress
+Stef - draws Fortune Teller
+Stef - plays Fortune Teller
+shark_bait - shuffles deck
+shark_bait - reveals Copper, Gold, Mint, Silver, Gold, Province
+shark_bait - discards: Copper, Gold, Mint, Silver, Gold
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 1 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Menagerie, Worker's Village, Count, Province, Gold
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays Farming Village
+shark_bait - reveals Province, Gold
+shark_bait - places Gold in hand
+shark_bait - discards Province
+shark_bait - plays 2 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Copper, Menagerie, Copper, Hovel, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Worker's Village, Count, Province, Gold
+Stef - draws Fortune Teller, Menagerie, Graverobber
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Graverobber, Worker's Village, Count, Province, Gold
+Stef - draws Graverobber, Menagerie, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Menagerie
+Stef - plays Graverobber
+Stef - trashes Count
+Stef - gains Province
+Stef - plays Menagerie
+Stef - reveals hand: Graverobber, Menagerie, Worker's Village, Fortune Teller, Province, Gold
+Stef - draws Silver, Province, Count
+Stef - plays Worker's Village
+Stef - draws Menagerie
+Stef - plays Count
+Stef - discards Province
+Stef - discards Province
+Stef - takes 3 coins
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Graverobber, Menagerie, Fortune Teller, Gold
+Stef - draws Squire, Fortress, Fortress
+Stef - plays Fortress
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Squire, Fortress, Silver, Graverobber, Menagerie, Fortune Teller, Gold
+Stef - shuffles deck
+Stef - draws Fortune Teller, Province, Province
+Stef - plays Graverobber
+Stef - gains Count
+Stef - plays Fortress
+Stef - draws Count
+Stef - plays Count
+Stef - discards Province
+Stef - discards Province
+Stef - takes 3 coins
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Fortune Teller
+shark_bait - reveals Fortune Teller, Province
+shark_bait - discards Fortune Teller
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Silver, Gold
+Stef - draws Copper, Duchy, Estate
+Stef - plays Fortune Teller
+shark_bait - reveals Province
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Fortress, Worker's Village, Squire
+Stef - shuffles deck
+Stef - draws Worker's Village
+ 
+------------ Game Over ------------
+Stef - cards: 6 Menagerie, 3 Fortress, 3 Worker's Village, 2 Squire, 2 Count, 2 Fortune Teller, 2 Graverobber, 1 Silver, 1 Copper, 1 Gold, 5 Province, 1 Duchy, 1 Estate
+Stef - total victory points: 34
+Stef - turns: 16
+ 
+shark_bait - cards: 1 Menagerie, 1 Mint, 1 Farming Village, 1 Fortune Teller, 1 Necropolis, 1 Count, 7 Gold, 4 Copper, 1 Silver, 3 Province, 2 Duchy, 1 Overgrown Estate, 1 Hovel
+shark_bait - total victory points: 24
+shark_bait - turns: 15
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

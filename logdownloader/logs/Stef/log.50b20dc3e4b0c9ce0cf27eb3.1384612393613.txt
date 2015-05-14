@@ -1,0 +1,577 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Vagrant, Chancellor, Develop, Watchtower, Wishing Well, Workshop, Junk Dealer, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Watchtower
+yed - gains Watchtower
+yed - shuffles deck
+yed - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Estate, Develop, Copper, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Witch
+yed - gains Witch
+yed - draws Estate, Copper, Copper, Watchtower, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Chancellor
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Chancellor, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Watchtower
+yed - draws Copper, Estate
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Copper, Copper, Witch, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper, Vagrant, Copper, Chancellor, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Witch
+yed - draws Watchtower, Copper
+Stef - gains Curse
+yed - plays 5 Copper
+yed - buys Junk Dealer
+yed - gains Junk Dealer
+yed - applied Watchtower to place Junk Dealer on top of the deck
+yed - draws Junk Dealer, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Junk Dealer
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper, Estate, Develop, Copper, Junk Dealer
+ 
+---------- yed: turn 6 ----------
+yed - plays Junk Dealer
+yed - draws Silver
+yed - trashes Estate
+yed - plays 2 Copper, 2 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Estate, Estate
+yed - shuffles deck
+yed - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Watchtower
+Stef - plays 2 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Watchtower, Chancellor, Estate, Copper, Curse
+ 
+---------- yed: turn 7 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Watchtower, Witch, Junk Dealer, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 1 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - applied Watchtower to place Wishing Well on top of the deck
+Stef - draws Wishing Well
+Stef - shuffles deck
+Stef - draws Estate, Wishing Well, Curse, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Copper
+yed - plays Witch
+yed - draws Gold, Silver
+Stef - gains Curse
+yed - plays 2 Silver, 1 Copper, 1 Gold
+yed - buys Gold
+yed - gains Gold
+yed - applied Watchtower to place Gold on top of the deck
+yed - draws Gold, Copper, Copper
+yed - shuffles deck
+yed - draws Estate, Junk Dealer
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Copper
+Stef - reveals Develop
+Stef - plays Junk Dealer
+Stef - draws Develop
+Stef - trashes Curse
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Wishing Well, Watchtower, Silver, Vagrant, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Estate
+yed - plays 3 Copper, 1 Gold
+yed - buys Gold
+yed - gains Gold
+yed - draws Silver, Estate, Copper, Silver, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Junk Dealer
+Stef - places Junk Dealer on top of deck
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Chancellor
+Stef - reveals Chancellor
+Stef - places Chancellor in hand
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Wishing Well
+Stef - trashes Copper
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Develop
+Stef - plays Wishing Well
+Stef - draws Develop
+Stef - names Junk Dealer
+Stef - reveals Copper
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Junk Dealer, Curse, Junk Dealer, Watchtower, Vagrant
+ 
+---------- yed: turn 10 ----------
+yed - plays 3 Silver, 1 Copper
+yed - buys Gold
+yed - gains Gold
+yed - draws Watchtower, Copper, Gold, Witch, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Chancellor
+Stef - places Chancellor on top of deck
+Stef - plays Junk Dealer
+Stef - draws Chancellor
+Stef - trashes Curse
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Copper
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Copper, Wishing Well, Vagrant, Silver, Wishing Well
+ 
+---------- yed: turn 11 ----------
+yed - plays Witch
+yed - shuffles deck
+yed - draws Gold, Silver
+Stef - gains Curse
+yed - plays 2 Copper, 2 Gold, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Copper, Copper, Silver, Junk Dealer
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Watchtower
+Stef - places Watchtower on top of deck
+Stef - plays Wishing Well
+Stef - draws Watchtower
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Junk Dealer
+Stef - draws Wishing Well
+Stef - trashes Copper
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Junk Dealer
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Develop
+Stef - reveals Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Watchtower
+Stef - draws Develop, Chancellor, Gold
+Stef - plays 2 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Curse, Wishing Well, Junk Dealer, Wishing Well, Develop
+ 
+---------- yed: turn 12 ----------
+yed - plays Junk Dealer
+yed - draws Gold
+yed - trashes Copper
+yed - plays 2 Copper, 1 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Gold, Estate, Silver
+yed - shuffles deck
+yed - draws Junk Dealer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Curse
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Wishing Well
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Watchtower
+Stef - reveals Chancellor
+Stef - plays Junk Dealer
+Stef - draws Chancellor
+Stef - trashes Copper
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Junk Dealer, Province, Chancellor, Wishing Well, Gold
+ 
+---------- yed: turn 13 ----------
+yed - plays Junk Dealer
+yed - draws Province
+yed - trashes Copper
+yed - plays 1 Gold, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - gains Duchess
+yed - draws Copper, Silver, Copper, Witch, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Gold
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Develop
+Stef - reveals Wishing Well
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Watchtower, Gold, Silver, Gold, Develop
+ 
+---------- yed: turn 14 ----------
+yed - plays Witch
+yed - draws Gold, Silver
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+yed - plays 3 Copper, 2 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Gold, Gold, Copper, Province, Watchtower
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Develop
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Duchess
+Stef - applied Watchtower to trash Duchess
+Stef - trashes Duchess
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Wishing Well, Province, Wishing Well, Vagrant
+ 
+---------- yed: turn 15 ----------
+yed - plays 2 Gold, 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - gains Duchess
+yed - applied Watchtower to place Duchess on top of the deck
+yed - draws Duchess
+yed - shuffles deck
+yed - draws Watchtower, Copper, Province, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Wishing Well
+Stef - places Wishing Well on top of deck
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Chancellor
+Stef - reveals Junk Dealer
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Chancellor
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Chancellor
+Stef - reveals Chancellor
+Stef - places Chancellor in hand
+Stef - plays Wishing Well
+Stef - draws Junk Dealer
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - trashes Junk Dealer
+Stef - plays Chancellor
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Watchtower, Develop, Gold
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- yed: turn 16 ----------
+yed - plays Duchess
+yed - places Gold on top of deck
+Stef - discards Province
+yed - plays 1 Copper, 1 Silver
+yed - buys Witch
+yed - gains Witch
+yed - applied Watchtower to place Witch on top of the deck
+yed - draws Witch, Gold, Witch, Silver, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - applied Watchtower to place Gold on top of the deck
+Stef - draws Gold, Wishing Well, Junk Dealer, Wishing Well, Duchy
+ 
+---------- yed: turn 17 ----------
+yed - plays Witch
+yed - draws Silver, Copper
+Stef - gains Curse
+yed - plays 2 Gold, 2 Silver, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Gold, Province, Copper, Province, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Wishing Well
+Stef - draws Chancellor
+Stef - names Province
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Province
+Stef - reveals Vagrant
+Stef - plays Wishing Well
+Stef - draws Vagrant
+Stef - names Province
+Stef - reveals Wishing Well
+Stef - plays Vagrant
+Stef - draws Wishing Well
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Wishing Well
+Stef - draws Province
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Chancellor
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Silver, Silver, Gold, Develop, Curse
+ 
+---------- yed: turn 18 ----------
+yed - plays Gold
+yed - buys Estate
+yed - gains Estate
+yed - draws Gold, Duchy, Duchess, Estate, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Develop
+Stef - trashes Curse
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Junk Dealer, Chancellor, Wishing Well, Vagrant, Province
+ 
+---------- yed: turn 19 ----------
+yed - plays Duchess
+yed - places Junk Dealer on top of deck
+Stef - discards Watchtower
+yed - plays Gold
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Junk Dealer
+yed - shuffles deck
+yed - draws Province, Copper, Duchy, Duchy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Wishing Well
+Stef - draws Duchy
+Stef - names Watchtower
+Stef - shuffles deck
+Stef - reveals Develop
+Stef - plays Junk Dealer
+Stef - draws Develop
+Stef - trashes Develop
+Stef - plays Chancellor
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - gains Duchess
+Stef - draws Silver, Watchtower, Gold, Silver, Duchy
+ 
+---------- yed: turn 20 ----------
+yed - plays Junk Dealer
+yed - draws Province
+yed - trashes Copper
+yed - draws Copper, Silver, Copper, Gold, Duchy
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - applied Watchtower to place Gold on top of the deck
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Silver, Junk Dealer, Wishing Well, Wishing Well
+ 
+---------- yed: turn 21 ----------
+yed - plays 2 Copper, 1 Silver, 1 Gold
+yed - buys Gold
+yed - gains Gold
+yed - draws Province, Silver, Duchess, Copper, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Wishing Well
+Stef - draws Chancellor
+Stef - names Duchy
+Stef - reveals Gold
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Vagrant
+Stef - reveals Province
+Stef - plays Chancellor
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Duchess, Duchy, Gold, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 4 Wishing Well, 1 Duchess, 1 Vagrant, 1 Chancellor, 1 Junk Dealer, 1 Watchtower, 3 Gold, 2 Silver, 5 Duchy, 4 Province
+Stef - total victory points: 39
+Stef - turns: 21
+ 
+yed - cards: 2 Duchess, 2 Witch, 1 Junk Dealer, 1 Watchtower, 5 Gold, 3 Silver, 3 Copper, 4 Province, 3 Duchy, 2 Estate
+yed - total victory points: 35
+yed - turns: 21
+ 
+1st place: Stef
+2nd place: yed
+ 

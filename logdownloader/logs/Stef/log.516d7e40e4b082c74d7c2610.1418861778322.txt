@@ -1,0 +1,641 @@
+------------ Game Setup ------------
+Supply cards: Haven, Pearl Diver, Oracle, Sage, Smugglers, Taxman, Highway, Market, Mine, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Heisenberg - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Heisenberg - shuffles deck
+Stef - shuffles deck
+Heisenberg - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 1 ----------
+Heisenberg - plays 3 Copper
+Heisenberg - buys Smugglers
+Heisenberg - gains Smugglers
+Heisenberg - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Mine
+Stef - gains Mine
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Mine
+ 
+---------- Heisenberg: turn 2 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - shuffles deck
+Heisenberg - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 3 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Copper, Smugglers, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Haven, Copper
+Stef - shuffles deck
+Stef - draws Copper, Silver, Sage
+ 
+---------- Heisenberg: turn 4 ----------
+Heisenberg - plays Smugglers
+Heisenberg - gains Sage
+Heisenberg - plays 2 Copper
+Heisenberg - buys Haven
+Heisenberg - gains Haven
+Heisenberg - draws Copper, Silver
+Heisenberg - shuffles deck
+Heisenberg - draws Estate, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Sage
+Stef - reveals Estate, Copper, Mine
+Stef - places Mine in hand
+Stef - discards: Estate, Copper
+Stef - plays Haven
+Stef - draws Sage
+Stef - sets aside Sage
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Heisenberg: turn 5 ----------
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Sage
+Heisenberg - gains Sage
+Heisenberg - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Haven
+Stef - places set aside Sage in hand
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Mine
+Stef - places Mine in hand
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Gold, Sage, Estate, Copper
+ 
+---------- Heisenberg: turn 6 ----------
+Heisenberg - plays 4 Copper, 1 Silver
+Heisenberg - buys Mine
+Heisenberg - gains Mine
+Heisenberg - draws Haven, Copper, Estate, Smugglers, Sage
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sage
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Market, Gold, Copper, Sage, Estate
+ 
+---------- Heisenberg: turn 7 ----------
+Heisenberg - plays Sage
+Heisenberg - shuffles deck
+Heisenberg - reveals Copper, Copper, Silver
+Heisenberg - places Silver in hand
+Heisenberg - discards: Copper, Copper
+Heisenberg - plays Haven
+Heisenberg - draws Estate
+Heisenberg - sets aside Estate
+Heisenberg - plays Smugglers
+Heisenberg - gains Highway
+Heisenberg - plays 1 Copper, 1 Silver
+Heisenberg - buys Sage
+Heisenberg - gains Sage
+Heisenberg - draws Estate, Copper, Silver, Mine, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Sage
+Stef - reveals Copper, Copper, Haven, Mine
+Stef - places Mine in hand
+Stef - discards: Copper, Copper, Haven
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Mine
+Stef - trashes Gold
+Stef - gains Platinum
+Stef - plays 1 Copper, 1 Platinum
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Haven, Pearl Diver, Silver, Estate, Copper
+ 
+---------- Heisenberg: turn 8 ----------
+Heisenberg - duration Haven
+Heisenberg - places set aside Estate in hand
+Heisenberg - plays Mine
+Heisenberg - trashes Copper
+Heisenberg - gains Silver
+Heisenberg - plays 2 Silver, 1 Copper
+Heisenberg - buys Market
+Heisenberg - gains Market
+Heisenberg - draws Sage, Copper, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Sage, Market
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Highway on top of deck
+Stef - plays Haven
+Stef - draws Highway
+Stef - sets aside Estate
+Stef - plays Highway
+Stef - draws Sage
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Copper, Platinum
+Stef - places Platinum in hand
+Stef - discards Copper
+Stef - plays Platinum
+Stef - buys Market
+Stef - gains Market
+Stef - draws Market, Pearl Diver, Estate, Copper, Estate
+ 
+---------- Heisenberg: turn 9 ----------
+Heisenberg - plays Sage
+Heisenberg - reveals Estate, Estate, Copper, Copper, Haven, Sage
+Heisenberg - places Sage in hand
+Heisenberg - discards: Estate, Estate, Copper, Copper, Haven
+Heisenberg - plays Sage
+Heisenberg - reveals Mine
+Heisenberg - places Mine in hand
+Heisenberg - plays Sage
+Heisenberg - reveals Smugglers
+Heisenberg - places Smugglers in hand
+Heisenberg - plays Market
+Heisenberg - draws Silver
+Heisenberg - plays Smugglers
+Heisenberg - gains Market
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Highway
+Heisenberg - gains Highway
+Heisenberg - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Pearl Diver
+Stef - draws Highway
+Stef - places Copper on bottom of deck
+Stef - plays Highway
+Stef - draws Sage
+Stef - plays Market
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Mine
+Stef - sets aside Estate
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Copper, Silver, Highway
+Stef - places Highway in hand
+Stef - discards: Copper, Silver
+Stef - plays Highway
+Stef - draws Platinum
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 1 Platinum, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Market, Pearl Diver, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 10 ----------
+Heisenberg - plays 2 Silver, 2 Copper
+Heisenberg - buys Highway
+Heisenberg - gains Highway
+Heisenberg - draws Highway
+Heisenberg - shuffles deck
+Heisenberg - draws Haven, Sage, Smugglers, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Pearl Diver
+Stef - draws Sage
+Stef - shuffles deck
+Stef - places Sage on bottom of deck
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Sage
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays Market
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Platinum, Mine, Highway, Highway, Haven
+ 
+---------- Heisenberg: turn 11 ----------
+Heisenberg - plays Highway
+Heisenberg - draws Sage
+Heisenberg - plays Sage
+Heisenberg - reveals Mine
+Heisenberg - places Mine in hand
+Heisenberg - plays Sage
+Heisenberg - reveals Estate, Silver, Copper, Highway
+Heisenberg - places Highway in hand
+Heisenberg - discards: Estate, Silver, Copper
+Heisenberg - plays Highway
+Heisenberg - draws Highway
+Heisenberg - plays Highway
+Heisenberg - draws Silver
+Heisenberg - plays Haven
+Heisenberg - draws Copper
+Heisenberg - sets aside Mine
+Heisenberg - plays Smugglers
+Heisenberg - gains Market
+Heisenberg - plays 1 Silver, 1 Copper
+Heisenberg - buys Highway
+Heisenberg - gains Highway
+Heisenberg - draws Silver, Copper, Market, Copper, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Haven
+Stef - draws Highway
+Stef - sets aside Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Gold
+Stef - plays 1 Platinum, 1 Silver, 1 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Silver, Pearl Diver, Sage
+Stef - shuffles deck
+Stef - draws Haven, Gold
+ 
+---------- Heisenberg: turn 12 ----------
+Heisenberg - duration Haven
+Heisenberg - places set aside Mine in hand
+Heisenberg - plays Market
+Heisenberg - draws Copper
+Heisenberg - plays Mine
+Heisenberg - trashes Silver
+Heisenberg - gains Gold
+Heisenberg - plays 3 Copper, 1 Gold
+Heisenberg - buys Pearl Diver
+Heisenberg - gains Pearl Diver
+Heisenberg - buys Highway
+Heisenberg - gains Highway
+Heisenberg - draws Market, Sage, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Silver, Sage
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Highway in hand
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Sage
+Stef - reveals Highway
+Stef - places Highway in hand
+Stef - plays Highway
+Stef - draws Mine
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Estate on bottom of deck
+Stef - plays Haven
+Stef - draws Market
+Stef - sets aside Estate
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Gold
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Pearl Diver, Platinum, Platinum, Copper, Highway
+ 
+---------- Heisenberg: turn 13 ----------
+Heisenberg - plays Sage
+Heisenberg - reveals Mine
+Heisenberg - places Mine in hand
+Heisenberg - plays Market
+Heisenberg - draws Highway
+Heisenberg - plays Highway
+Heisenberg - draws Market
+Heisenberg - plays Sage
+Heisenberg - reveals Highway
+Heisenberg - places Highway in hand
+Heisenberg - plays Market
+Heisenberg - draws Copper
+Heisenberg - plays Highway
+Heisenberg - draws Copper
+Heisenberg - plays Mine
+Heisenberg - trashes Copper
+Heisenberg - gains Silver
+Heisenberg - plays 2 Copper, 2 Silver
+Heisenberg - buys Platinum
+Heisenberg - gains Platinum
+Heisenberg - draws Estate, Gold, Copper, Copper, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Pearl Diver
+Stef - draws Market
+Stef - places Estate on bottom of deck
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Sage
+Stef - plays Sage
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 2 Platinum, 2 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Colony, Mine, Market
+ 
+---------- Heisenberg: turn 14 ----------
+Heisenberg - plays 2 Copper, 1 Gold, 1 Silver
+Heisenberg - buys Market
+Heisenberg - gains Market
+Heisenberg - draws Copper, Sage, Smugglers, Highway, Haven
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Market
+Stef - draws Sage
+Stef - plays Sage
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Mine
+Stef - trashes Gold
+Stef - gains Platinum
+Stef - plays 1 Copper, 1 Platinum
+Stef - buys Market
+Stef - gains Market
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Silver, Pearl Diver, Market, Market, Platinum
+ 
+---------- Heisenberg: turn 15 ----------
+Heisenberg - plays Highway
+Heisenberg - draws Highway
+Heisenberg - plays Highway
+Heisenberg - draws Pearl Diver
+Heisenberg - plays Sage
+Heisenberg - reveals Highway
+Heisenberg - places Highway in hand
+Heisenberg - plays Pearl Diver
+Heisenberg - draws Estate
+Heisenberg - places Estate on bottom of deck
+Heisenberg - plays Highway
+Heisenberg - draws Market
+Heisenberg - plays Market
+Heisenberg - draws Estate
+Heisenberg - plays Haven
+Heisenberg - shuffles deck
+Heisenberg - draws Sage
+Heisenberg - sets aside Estate
+Heisenberg - plays Sage
+Heisenberg - reveals Market, Sage, Copper, Platinum
+Heisenberg - places Platinum in hand
+Heisenberg - discards: Market, Sage, Copper
+Heisenberg - plays Smugglers
+Heisenberg - gains Platinum
+Heisenberg - plays 1 Copper, 1 Platinum
+Heisenberg - buys Platinum
+Heisenberg - gains Platinum
+Heisenberg - buys Sage
+Heisenberg - gains Sage
+Heisenberg - draws Gold, Silver, Market, Market, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Pearl Diver
+Stef - draws Haven
+Stef - places Haven on bottom of deck
+Stef - plays Market
+Stef - draws Gold
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Haven
+Stef - draws Highway
+Stef - sets aside Silver
+Stef - plays Highway
+Stef - draws Pearl Diver
+Stef - plays Pearl Diver
+Stef - draws Sage
+Stef - places Haven on bottom of deck
+Stef - plays Sage
+Stef - reveals Estate, Colony
+Stef - places Colony in hand
+Stef - discards Estate
+Stef - plays 1 Silver, 1 Platinum, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Copper, Platinum, Market, Estate, Highway
+ 
+---------- Heisenberg: turn 16 ----------
+Heisenberg - duration Haven
+Heisenberg - places set aside Estate in hand
+Heisenberg - plays Market
+Heisenberg - draws Copper
+Heisenberg - plays Market
+Heisenberg - draws Highway
+Heisenberg - plays Highway
+Heisenberg - draws Copper
+Heisenberg - plays 2 Copper, 1 Gold, 1 Silver
+Heisenberg - buys Province
+Heisenberg - gains Province
+Heisenberg - buys Haven
+Heisenberg - gains Haven
+Heisenberg - buys Haven
+Heisenberg - gains Haven
+Heisenberg - draws Mine, Silver, Copper, Highway, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Silver in hand
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Haven
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Mine
+Stef - plays Haven
+Stef - draws Sage
+Stef - sets aside Estate
+Stef - plays Sage
+Stef - reveals Platinum
+Stef - places Platinum in hand
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Gold
+Stef - plays 2 Platinum, 1 Silver, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Sage, Platinum, Pearl Diver, Estate, Copper
+ 
+---------- Heisenberg: turn 17 ----------
+Heisenberg - plays Highway
+Heisenberg - shuffles deck
+Heisenberg - draws Sage
+Heisenberg - plays Sage
+Heisenberg - reveals Sage, Market
+Heisenberg - places Market in hand
+Heisenberg - discards Sage
+Heisenberg - plays Market
+Heisenberg - draws Pearl Diver
+Heisenberg - plays Pearl Diver
+Heisenberg - draws Copper
+Heisenberg - places Market on top of deck
+Heisenberg - plays Mine
+Heisenberg - trashes Silver
+Heisenberg - gains Gold
+Heisenberg - plays 2 Copper, 1 Silver, 1 Gold
+Heisenberg - buys Province
+Heisenberg - gains Province
+Heisenberg - buys Pearl Diver
+Heisenberg - gains Pearl Diver
+Heisenberg - draws Market, Market, Copper, Estate, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Pearl Diver
+Stef - draws Market
+Stef - places Market on top of deck
+Stef - plays Market
+Stef - draws Market
+Stef - plays Sage
+Stef - reveals Pearl Diver, Sage
+Stef - places Sage in hand
+Stef - discards Pearl Diver
+Stef - plays Market
+Stef - draws Colony
+Stef - plays Sage
+Stef - reveals Colony
+Stef - places Colony in hand
+Stef - plays 1 Platinum, 1 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Highway, Market, Pearl Diver, Silver, Colony
+ 
+---------- Heisenberg: turn 18 ----------
+Heisenberg - plays Market
+Heisenberg - draws Sage
+Heisenberg - plays Market
+Heisenberg - draws Market
+Heisenberg - plays Market
+Heisenberg - draws Haven
+Heisenberg - plays Sage
+Heisenberg - reveals Platinum
+Heisenberg - places Platinum in hand
+Heisenberg - plays Haven
+Heisenberg - draws Sage
+Heisenberg - sets aside Estate
+Heisenberg - plays Sage
+Heisenberg - reveals Highway
+Heisenberg - places Highway in hand
+Heisenberg - plays Highway
+Heisenberg - draws Platinum
+Heisenberg - plays 2 Copper, 2 Platinum
+Heisenberg - buys Colony
+Heisenberg - gains Colony
+Heisenberg - buys Duchy
+Heisenberg - gains Duchy
+Heisenberg - draws Haven, Gold, Highway, Highway, Haven
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Pearl Diver
+Stef - draws Market
+Stef - places Gold on top of deck
+Stef - plays Market
+Stef - draws Gold
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Market
+Stef - gains Market
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Platinum, Colony, Colony, Estate, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 6 Sage, 6 Market, 5 Highway, 4 Pearl Diver, 2 Haven, 1 Mine, 3 Platinum, 2 Silver, 2 Gold, 1 Copper, 5 Colony, 3 Estate, 1 Duchy
+Stef - total victory points: 56
+Stef - turns: 19
+ 
+Heisenberg - cards: 5 Highway, 4 Sage, 4 Market, 3 Haven, 2 Pearl Diver, 1 Mine, 1 Smugglers, 5 Copper, 3 Platinum, 2 Gold, 2 Silver, 3 Estate, 2 Province, 1 Colony, 1 Duchy
+Heisenberg - total victory points: 28
+Heisenberg - turns: 18
+ 
+1st place: Stef
+2nd place: Heisenberg
+ 

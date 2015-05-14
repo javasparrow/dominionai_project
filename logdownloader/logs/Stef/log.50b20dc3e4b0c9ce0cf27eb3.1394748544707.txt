@@ -1,0 +1,581 @@
+------------ Game Setup ------------
+Supply cards: Scrying Pool, Masquerade, Trade Route, Workshop, Feast, Golem, Counting House, Hunting Party, Mine, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+fap_on_it - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+fap_on_it - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Potion
+fap_on_it - gains Potion
+fap_on_it - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Masquerade
+fap_on_it - gains Masquerade
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Masquerade, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays Masquerade
+fap_on_it - draws Estate, Copper
+fap_on_it - passes Estate
+Stef - passes Estate
+fap_on_it - trashes Estate
+fap_on_it - plays 5 Copper
+fap_on_it - buys Hunting Party
+fap_on_it - gains Hunting Party
+fap_on_it - draws Estate, Copper, Estate, Potion, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays 2 Copper, 1 Potion
+fap_on_it - buys Scrying Pool
+fap_on_it - gains Scrying Pool
+fap_on_it - shuffles deck
+fap_on_it - draws Hunting Party, Copper, Potion, Scrying Pool, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper, Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Copper, Golem
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Copper, Potion, Scrying Pool, Copper, Copper
+fap_on_it - reveals Estate
+fap_on_it - places Estate in hand
+fap_on_it - plays Scrying Pool
+fap_on_it - places Masquerade on top of deck
+Stef - places Copper on top of deck
+fap_on_it - reveals Masquerade, Copper
+fap_on_it - plays Masquerade
+fap_on_it - draws Copper, Copper
+fap_on_it - passes Estate
+Stef - passes Copper
+fap_on_it - trashes Copper
+fap_on_it - plays 6 Copper, 1 Potion
+fap_on_it - buys Golem
+fap_on_it - gains Golem
+fap_on_it - draws Copper, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Hunting Party, Potion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Estate
+fap_on_it - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Estate, Estate, Estate, Potion, Copper
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Masquerade
+fap_on_it - reveals hand: Copper, Copper, Potion, Estate, Masquerade
+fap_on_it - reveals Copper, Golem
+fap_on_it - places Golem in hand
+fap_on_it - discards Copper
+fap_on_it - plays Golem
+fap_on_it - shuffles deck
+fap_on_it - reveals Copper, Copper, Copper, Scrying Pool, Copper, Copper
+fap_on_it - discards: Copper, Copper, Copper, Copper, Copper
+fap_on_it - plays Scrying Pool
+fap_on_it - shuffles deck
+fap_on_it - discards Copper
+Stef - places Copper on top of deck
+fap_on_it - reveals Copper
+fap_on_it - plays Masquerade
+fap_on_it - draws Copper, Copper
+fap_on_it - passes Estate
+Stef - passes Estate
+fap_on_it - trashes Estate
+fap_on_it - plays 5 Copper, 1 Potion
+fap_on_it - buys Hunting Party
+fap_on_it - gains Hunting Party
+fap_on_it - draws Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Scrying Pool, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Golem, Potion, Estate
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays Scrying Pool
+fap_on_it - places Hunting Party on top of deck
+Stef - places Copper on top of deck
+fap_on_it - reveals Hunting Party, Copper
+fap_on_it - plays Hunting Party
+fap_on_it - draws Potion
+fap_on_it - reveals hand: Copper, Copper, Copper, Copper, Copper, Potion
+fap_on_it - reveals Hunting Party
+fap_on_it - places Hunting Party in hand
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Copper, Copper, Copper, Copper, Copper, Potion, Copper
+fap_on_it - reveals Masquerade
+fap_on_it - places Masquerade in hand
+fap_on_it - plays Masquerade
+fap_on_it - draws Golem, Copper
+fap_on_it - passes Copper
+Stef - passes Estate
+fap_on_it - trashes Estate
+fap_on_it - plays 6 Copper, 1 Potion
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Hunting Party, Hunting Party, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Golem
+Stef - reveals Copper, Masquerade, Copper, Masquerade
+Stef - discards: Copper, Copper
+Stef - plays Masquerade
+Stef - draws Copper, Estate
+Stef - passes Estate
+fap_on_it - passes Copper
+Stef - trashes Copper
+Stef - plays Masquerade
+Stef - draws Estate, Copper
+Stef - passes Estate
+fap_on_it - passes Copper
+Stef - trashes Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Mine
+Stef - gains Mine
+Stef - shuffles deck
+Stef - draws Copper, Copper, Golem, Copper, Potion
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Copper, Hunting Party, Estate, Estate, Copper
+fap_on_it - reveals Copper, Scrying Pool
+fap_on_it - places Scrying Pool in hand
+fap_on_it - discards Copper
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Copper, Estate, Estate, Copper, Scrying Pool, Copper
+fap_on_it - reveals Masquerade
+fap_on_it - places Masquerade in hand
+fap_on_it - plays Scrying Pool
+fap_on_it - places Golem on top of deck
+Stef - places Copper on top of deck
+fap_on_it - reveals Golem, Potion
+fap_on_it - plays Masquerade
+fap_on_it - draws Gold
+fap_on_it - shuffles deck
+fap_on_it - draws Copper
+fap_on_it - passes Estate
+Stef - passes Copper
+fap_on_it - trashes Estate
+fap_on_it - plays 5 Copper, 1 Potion, 1 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - shuffles deck
+fap_on_it - draws Hunting Party, Gold, Golem, Scrying Pool, Province
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Golem
+Stef - reveals Copper, Copper, Copper, Masquerade, Mine
+Stef - discards: Copper, Copper, Copper
+Stef - plays Masquerade
+Stef - draws Masquerade, Copper
+Stef - passes Estate
+fap_on_it - passes Golem
+Stef - trashes Copper
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 1 Copper, 1 Potion, 1 Silver
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Potion, Golem, Scrying Pool, Copper, Copper
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Gold, Scrying Pool, Province, Estate, Copper
+fap_on_it - reveals Masquerade
+fap_on_it - places Masquerade in hand
+fap_on_it - plays Scrying Pool
+fap_on_it - discards Copper
+Stef - places Copper on top of deck
+fap_on_it - reveals Copper
+fap_on_it - plays Masquerade
+fap_on_it - draws Copper, Hunting Party
+fap_on_it - passes Estate
+Stef - passes Copper
+fap_on_it - plays 4 Copper, 1 Gold
+fap_on_it - buys Expand
+fap_on_it - gains Expand
+fap_on_it - draws Copper, Potion
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+fap_on_it - discards Expand
+Stef - reveals Mine, Masquerade, Masquerade, Copper
+Stef - plays Masquerade
+Stef - draws Silver, Golem
+Stef - passes Estate
+fap_on_it - passes Potion
+Stef - trashes Copper
+Stef - plays 2 Potion, 1 Copper, 1 Silver
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Masquerade, Golem, Potion, Mine, Copper
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Scrying Pool, Copper, Copper, Gold, Province
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Golem
+Stef - reveals Copper, Potion, Silver, Masquerade, Golem, Scrying Pool
+Stef - discards: Copper, Potion, Silver, Golem
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+fap_on_it - discards Hunting Party
+Stef - shuffles deck
+Stef - reveals Scrying Pool, Potion
+Stef - plays Masquerade
+Stef - draws Silver, Copper
+Stef - passes Copper
+fap_on_it - passes Copper
+Stef - plays Scrying Pool
+Stef - places Golem on top of deck
+fap_on_it - discards Hunting Party
+Stef - reveals Golem
+Stef - plays Mine
+Stef - trashes Potion
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Potion, 1 Silver, 1 Gold
+Stef - buys Expand
+Stef - gains Expand
+Stef - shuffles deck
+Stef - draws Golem, Mine, Golem, Masquerade, Scrying Pool
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - plays Scrying Pool
+fap_on_it - places Masquerade on top of deck
+Stef - places Copper on top of deck
+fap_on_it - shuffles deck
+fap_on_it - reveals Masquerade, Silver
+fap_on_it - plays Masquerade
+fap_on_it - draws Hunting Party, Copper
+fap_on_it - passes Copper
+Stef - passes Masquerade
+fap_on_it - trashes Masquerade
+fap_on_it - plays 2 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Expand, Hunting Party, Estate, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Golem
+Stef - reveals Copper, Masquerade, Scrying Pool
+Stef - discards Copper
+Stef - plays Scrying Pool
+Stef - places Expand on top of deck
+fap_on_it - places Copper on top of deck
+Stef - reveals Expand, Copper
+Stef - plays Masquerade
+Stef - draws Silver, Gold
+Stef - passes Copper
+fap_on_it - passes Copper
+Stef - plays Scrying Pool
+Stef - places Potion on top of deck
+fap_on_it - places Copper on top of deck
+Stef - reveals Potion
+Stef - plays Expand
+Stef - trashes Silver
+Stef - gains Hunting Party
+Stef - plays 2 Copper, 1 Gold, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Scrying Pool, Golem, Mine, Potion, Copper
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Expand, Estate, Copper, Copper, Copper
+fap_on_it - shuffles deck
+fap_on_it - reveals Scrying Pool
+fap_on_it - places Scrying Pool in hand
+fap_on_it - plays Scrying Pool
+fap_on_it - discards Copper
+Stef - discards Scrying Pool
+fap_on_it - reveals Province
+fap_on_it - plays Expand
+fap_on_it - trashes Province
+fap_on_it - gains Province
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Masquerade, Silver, Copper, Gold, Hunting Party
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Golem
+Stef - reveals Gold, Hunting Party, Expand
+Stef - discards Gold
+Stef - plays Hunting Party
+Stef - draws Golem
+Stef - reveals hand: Scrying Pool, Mine, Potion, Copper, Golem
+Stef - reveals Copper, Scrying Pool, Masquerade
+Stef - places Masquerade in hand
+Stef - discards: Copper, Scrying Pool
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Workshop
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Gold, Scrying Pool, Workshop
+Stef - discards: Copper, Copper, Gold
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+fap_on_it - places Gold on top of deck
+Stef - shuffles deck
+Stef - reveals Scrying Pool, Gold
+Stef - plays Workshop
+Stef - gains Silver
+Stef - plays Scrying Pool
+Stef - discards Copper
+fap_on_it - places Gold on top of deck
+Stef - reveals Copper
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 1 Potion, 1 Gold, 1 Silver
+Stef - buys Golem
+Stef - gains Golem
+Stef - shuffles deck
+Stef - draws Scrying Pool, Scrying Pool, Golem, Copper, Mine
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Gold
+fap_on_it - reveals hand: Masquerade, Silver, Copper, Gold, Gold
+fap_on_it - shuffles deck
+fap_on_it - reveals Copper, Scrying Pool
+fap_on_it - places Scrying Pool in hand
+fap_on_it - discards Copper
+fap_on_it - plays Scrying Pool
+fap_on_it - discards Copper
+Stef - places Silver on top of deck
+fap_on_it - reveals Copper
+fap_on_it - plays Masquerade
+fap_on_it - draws Estate, Copper
+fap_on_it - passes Copper
+Stef - passes Copper
+fap_on_it - trashes Copper
+fap_on_it - plays 2 Copper, 2 Gold, 1 Silver
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Silver, Expand, Province, Hunting Party
+fap_on_it - shuffles deck
+fap_on_it - draws Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Golem
+Stef - reveals Silver, Potion, Silver, Expand, Golem, Golem, Hunting Party
+Stef - discards: Silver, Potion, Silver, Golem, Golem
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Scrying Pool, Scrying Pool, Mine, Copper, Gold
+Stef - reveals Workshop
+Stef - places Workshop in hand
+Stef - plays Expand
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Scrying Pool
+Stef - places Masquerade on top of deck
+fap_on_it - places Copper on top of deck
+Stef - shuffles deck
+Stef - reveals Masquerade, Scrying Pool, Province
+Stef - plays Scrying Pool
+Stef - discards Silver
+fap_on_it - places Copper on top of deck
+Stef - reveals Potion
+Stef - plays Scrying Pool
+Stef - places Golem on top of deck
+fap_on_it - places Copper on top of deck
+Stef - reveals Golem, Golem, Silver
+Stef - plays Workshop
+Stef - gains Silver
+Stef - plays 1 Copper, 1 Potion, 1 Silver
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Expand, Hunting Party, Copper, Province, Masquerade
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Silver, Expand, Province, Silver, Copper
+fap_on_it - reveals Gold
+fap_on_it - places Gold in hand
+fap_on_it - plays Expand
+fap_on_it - trashes Province
+fap_on_it - gains Province
+fap_on_it - plays 2 Silver, 1 Copper, 1 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Copper, Gold, Copper, Province, Hunting Party
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Hunting Party
+Stef - draws Scrying Pool
+Stef - reveals hand: Expand, Copper, Province, Masquerade, Scrying Pool
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Golem
+Stef - reveals Silver, Workshop, Scrying Pool
+Stef - discards Silver
+Stef - plays Scrying Pool
+Stef - discards Potion
+fap_on_it - discards Scrying Pool
+Stef - reveals Golem, Silver
+Stef - plays Workshop
+Stef - gains Estate
+Stef - plays Golem
+Stef - reveals Golem, Scrying Pool, Mine
+Stef - discards Golem
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+fap_on_it - places Copper on top of deck
+Stef - reveals Scrying Pool, Silver
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays Scrying Pool
+Stef - shuffles deck
+Stef - places Silver on top of deck
+fap_on_it - places Copper on top of deck
+Stef - reveals Silver
+Stef - plays Scrying Pool
+Stef - discards Estate
+fap_on_it - places Copper on top of deck
+Stef - reveals Golem, Potion
+Stef - plays Expand
+Stef - trashes Potion
+Stef - gains Duchy
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Golem, Golem, Mine, Copper, Duchy
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - plays Hunting Party
+fap_on_it - draws Copper
+fap_on_it - reveals hand: Copper, Gold, Copper, Province, Copper
+fap_on_it - reveals Masquerade
+fap_on_it - places Masquerade in hand
+fap_on_it - plays Masquerade
+fap_on_it - draws Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Scrying Pool
+fap_on_it - passes Estate
+Stef - passes Copper
+fap_on_it - trashes Copper
+fap_on_it - plays 3 Copper, 1 Gold
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Gold, Province, Copper, Silver, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Golem
+Stef - reveals Workshop, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Golem, Mine, Duchy, Estate, Silver
+Stef - reveals Scrying Pool
+Stef - places Scrying Pool in hand
+Stef - plays Workshop
+Stef - gains Trade Route
+Stef - plays Golem
+Stef - reveals Scrying Pool, Gold, Golem, Silver, Duchy, Scrying Pool
+Stef - discards: Gold, Golem, Silver, Duchy
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+fap_on_it - places Province on top of deck
+Stef - reveals Scrying Pool, Estate
+Stef - plays Scrying Pool
+Stef - discards Province
+fap_on_it - places Province on top of deck
+Stef - shuffles deck
+Stef - reveals Masquerade, Expand, Duchy
+Stef - plays Scrying Pool
+Stef - places Gold on top of deck
+fap_on_it - places Province on top of deck
+Stef - reveals Gold
+Stef - plays Scrying Pool
+Stef - discards Province
+fap_on_it - places Province on top of deck
+Stef - reveals Golem, Silver
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Trade Route, Province
+Stef - discards Province
+Stef - plays Trade Route
+Stef - trashes Masquerade
+Stef - plays Expand
+Stef - trashes Mine
+Stef - gains Province
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Province, Silver, Trade Route, Hunting Party, Golem
+ 
+------------ Game Over ------------
+Stef - cards: 4 Scrying Pool, 3 Golem, 1 Trade Route, 1 Hunting Party, 1 Workshop, 1 Expand, 2 Silver, 1 Gold, 3 Province, 3 Estate, 2 Duchy
+Stef - total victory points: 27
+Stef - turns: 15
+ 
+fap_on_it - cards: 2 Hunting Party, 1 Masquerade, 1 Scrying Pool, 1 Expand, 4 Copper, 2 Gold, 2 Silver, 3 Province, 1 Duchy
+fap_on_it - total victory points: 21
+fap_on_it - turns: 15
+ 
+1st place: Stef
+2nd place: fap_on_it
+ 

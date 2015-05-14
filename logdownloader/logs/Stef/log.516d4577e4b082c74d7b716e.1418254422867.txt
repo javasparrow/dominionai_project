@@ -1,0 +1,807 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Oasis, Philosopher's Stone, Monument, Taxman, Cache, Journeyman, Market, Mystic, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Dingan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dingan - shuffles deck
+Stef - shuffles deck
+Dingan - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Dingan: turn 1 ----------
+Dingan - plays 3 Copper
+Dingan - buys Oasis
+Dingan - gains Oasis
+Dingan - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Dingan: turn 2 ----------
+Dingan - plays 4 Copper
+Dingan - buys Monument
+Dingan - gains Monument
+Dingan - shuffles deck
+Dingan - draws Monument, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Monument
+ 
+---------- Dingan: turn 3 ----------
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 3 Copper
+Dingan - buys Market
+Dingan - gains Market
+Dingan - draws Copper, Oasis, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Dingan: turn 4 ----------
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Estate
+Dingan - plays 4 Copper
+Dingan - buys Market
+Dingan - gains Market
+Dingan - draws Estate
+Dingan - shuffles deck
+Dingan - draws Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Oasis
+Stef - shuffles deck
+Stef - draws Monument, Copper, Market
+ 
+---------- Dingan: turn 5 ----------
+Dingan - plays 3 Copper
+Dingan - buys Oasis
+Dingan - gains Oasis
+Dingan - draws Copper, Oasis, Estate, Market, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Dingan: turn 6 ----------
+Dingan - plays Market
+Dingan - draws Copper
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Estate
+Dingan - plays 4 Copper
+Dingan - buys Potion
+Dingan - gains Potion
+Dingan - buys Vagrant
+Dingan - gains Vagrant
+Dingan - draws Monument, Market
+Dingan - shuffles deck
+Dingan - draws Copper, Oasis, Market
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Oasis
+Stef - shuffles deck
+Stef - draws Mystic, Oasis, Copper
+ 
+---------- Dingan: turn 7 ----------
+Dingan - plays Market
+Dingan - draws Oasis
+Dingan - plays Market
+Dingan - draws Vagrant
+Dingan - plays Vagrant
+Dingan - draws Copper
+Dingan - reveals: Estate
+Dingan - places Estate in hand
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Estate
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Copper
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 3 Copper
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - buys Oasis
+Dingan - gains Oasis
+Dingan - draws Estate, Estate, Potion, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Oasis
+Stef - draws Monument
+Stef - discards Copper
+Stef - plays Mystic
+Stef - names Estate
+Stef - reveals Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Estate, Copper, Vagrant, Estate
+ 
+---------- Dingan: turn 8 ----------
+Dingan - plays 2 Copper, 1 Potion
+Dingan - buys Vagrant
+Dingan - gains Vagrant
+Dingan - draws Copper
+Dingan - shuffles deck
+Dingan - draws Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Vagrant, Copper, Estate
+Stef - shuffles deck
+Stef - draws Monument, Oasis
+ 
+---------- Dingan: turn 9 ----------
+Dingan - plays 4 Copper
+Dingan - buys Oasis
+Dingan - gains Oasis
+Dingan - draws Copper, Copper, Estate, Vagrant, Monument
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Market
+Stef - places Market on top of deck
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Estate
+Stef - plays Market
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Monument
+Stef - gains Monument
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Monument, Copper, Estate, Copper, Copper
+ 
+---------- Dingan: turn 10 ----------
+Dingan - plays Vagrant
+Dingan - draws Potion
+Dingan - reveals: Gold
+Dingan - places Gold on top of deck
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 2 Copper, 1 Potion
+Dingan - buys Philosopher's Stone
+Dingan - gains Philosopher's Stone
+Dingan - draws Gold, Oasis, Estate, Market, Oasis
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Mystic, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Monument
+ 
+---------- Dingan: turn 11 ----------
+Dingan - plays Market
+Dingan - draws Vagrant
+Dingan - plays Vagrant
+Dingan - draws Oasis
+Dingan - reveals: Market
+Dingan - places Market on top of deck
+Dingan - plays Oasis
+Dingan - draws Market
+Dingan - discards Estate
+Dingan - plays Market
+Dingan - draws Copper
+Dingan - plays 1 Gold, 1 Copper
+Dingan - buys Mystic
+Dingan - gains Mystic
+Dingan - buys Vagrant
+Dingan - gains Vagrant
+Dingan - shuffles deck
+Dingan - draws Oasis, Market, Monument, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Estate, Market, Vagrant, Vagrant, Vagrant
+ 
+---------- Dingan: turn 12 ----------
+Dingan - plays Market
+Dingan - draws Potion
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Copper
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 2 Copper, 1 Potion
+Dingan - buys Possession
+Dingan - gains Possession
+Dingan - draws Estate, Mystic, Market, Estate, Vagrant
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Vagrant
+Stef - draws Monument
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Monument, Oasis, Estate, Oasis, Mystic
+ 
+---------- Dingan: turn 13 ----------
+Dingan - plays Vagrant
+Dingan - draws Gold
+Dingan - reveals: Oasis
+Dingan - places Oasis on top of deck
+Dingan - plays Mystic
+Dingan - names Oasis
+Dingan - reveals Oasis
+Dingan - places Oasis in hand
+Dingan - plays Market
+Dingan - draws Oasis
+Dingan - plays Oasis
+Dingan - draws Philosopher's Stone
+Dingan - discards Estate
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Estate
+Dingan - plays 1 Gold, 1 Copper
+Dingan - plays Philosopher's Stone
+Dingan - has 17 cards in his deck and discard pile
+Dingan - receives 3 coins
+Dingan - buys Province
+Dingan - gains Province
+Dingan - buys Monument
+Dingan - gains Monument
+Dingan - draws Vagrant, Copper, Vagrant, Oasis, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - discards Estate
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Monument
+Stef - places Monument on top of deck
+Stef - plays Oasis
+Stef - draws Monument
+Stef - discards Monument
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Monument, Estate, Market, Vagrant
+ 
+---------- Dingan: turn 14 ----------
+Dingan - plays Vagrant
+Dingan - draws Copper
+Dingan - reveals: Copper
+Dingan - places Copper on top of deck
+Dingan - plays Vagrant
+Dingan - draws Copper
+Dingan - shuffles deck
+Dingan - reveals: Province
+Dingan - places Province in hand
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Province
+Dingan - plays 4 Copper
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - draws Copper, Market, Estate, Monument, Monument
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Market
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Vagrant
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Vagrant
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vagrant, Copper, Monument, Copper, Market
+ 
+---------- Dingan: turn 15 ----------
+Dingan - plays Market
+Dingan - draws Possession
+Dingan - plays Possession
+Dingan - plays Copper
+Dingan - buys Vagrant
+Dingan - gains Vagrant
+Dingan - draws Gold, Oasis, Copper, Estate, Potion
+ 
+---------- Stef: turn 15 [possessed] ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Oasis
+Stef - places Oasis on top of deck
+Stef - plays 4 Copper
+Stef - buys Duchy
+Dingan - gains Duchy
+Stef - draws Oasis, Mystic, Oasis, Estate, Mystic
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Oasis
+Stef - draws Vagrant
+Stef - discards Estate
+Stef - plays Vagrant
+Stef - draws Monument
+Stef - reveals: Market
+Stef - places Market on top of deck
+Stef - plays Mystic
+Stef - names Market
+Stef - reveals Market
+Stef - places Market in hand
+Stef - plays Market
+Stef - draws Monument
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Mystic
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Estate, Vagrant, Province, Estate
+ 
+---------- Dingan: turn 16 ----------
+Dingan - plays Oasis
+Dingan - draws Oasis
+Dingan - discards Estate
+Dingan - plays Oasis
+Dingan - draws Vagrant
+Dingan - discards Potion
+Dingan - plays Vagrant
+Dingan - draws Philosopher's Stone
+Dingan - reveals: Copper
+Dingan - places Copper on top of deck
+Dingan - plays 1 Gold, 1 Copper
+Dingan - plays Philosopher's Stone
+Dingan - has 24 cards in his deck and discard pile
+Dingan - receives 4 coins
+Dingan - buys Province
+Dingan - gains Province
+Dingan - draws Copper, Market, Oasis, Mystic
+Dingan - shuffles deck
+Dingan - draws Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Monument, Province, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Dingan: turn 17 ----------
+Dingan - plays Market
+Dingan - draws Vagrant
+Dingan - plays Vagrant
+Dingan - draws Monument
+Dingan - reveals: Oasis
+Dingan - places Oasis on top of deck
+Dingan - plays Mystic
+Dingan - names Oasis
+Dingan - reveals Oasis
+Dingan - places Oasis in hand
+Dingan - plays Oasis
+Dingan - draws Gold
+Dingan - discards Copper
+Dingan - plays Oasis
+Dingan - draws Vagrant
+Dingan - discards Copper
+Dingan - plays Vagrant
+Dingan - draws Duchy
+Dingan - reveals: Oasis
+Dingan - places Oasis on top of deck
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays Gold
+Dingan - buys Province
+Dingan - gains Province
+Dingan - buys Estate
+Dingan - gains Estate
+Dingan - draws Oasis, Vagrant, Estate, Philosopher's Stone, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Monument, Silver, Oasis, Market, Oasis
+ 
+---------- Dingan: turn 18 ----------
+Dingan - plays Vagrant
+Dingan - draws Province
+Dingan - reveals: Copper
+Dingan - places Copper on top of deck
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Province
+Dingan - plays Copper
+Dingan - plays Philosopher's Stone
+Dingan - has 27 cards in his deck and discard pile
+Dingan - receives 5 coins
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - draws Oasis, Vagrant, Duchy, Province, Monument
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Market
+Stef - draws Mystic
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Vagrant
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Vagrant, Market, Mystic, Vagrant, Monument
+ 
+---------- Dingan: turn 19 ----------
+Dingan - plays Vagrant
+Dingan - draws Copper
+Dingan - reveals: Copper
+Dingan - places Copper on top of deck
+Dingan - plays Oasis
+Dingan - draws Copper
+Dingan - discards Duchy
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 2 Copper
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - draws Possession, Copper, Market, Copper, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Mystic
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Monument
+Stef - places Monument on top of deck
+Stef - plays Mystic
+Stef - names Monument
+Stef - reveals Monument
+Stef - places Monument in hand
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Estate, Vagrant, Vagrant, Province, Copper
+ 
+---------- Dingan: turn 20 ----------
+Dingan - plays Market
+Dingan - draws Potion
+Dingan - plays Possession
+Dingan - plays 2 Copper, 1 Potion
+Dingan - buys Philosopher's Stone
+Dingan - gains Philosopher's Stone
+Dingan - shuffles deck
+Dingan - draws Estate, Province, Duchy, Gold, Copper
+ 
+---------- Stef: turn 20 [possessed] ----------
+Stef - plays Vagrant
+Stef - draws Province
+Stef - shuffles deck
+Stef - reveals: Mystic
+Stef - places Mystic on top of deck
+Stef - plays Vagrant
+Stef - draws Mystic
+Stef - reveals: Monument
+Stef - places Monument on top of deck
+Stef - plays Mystic
+Stef - names Monument
+Stef - reveals Monument
+Stef - places Monument in hand
+Stef - plays Copper
+Stef - buys Silver
+Dingan - gains Silver
+Stef - draws Silver, Estate, Vagrant, Monument, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Mystic, Monument, Duchy, Estate
+ 
+---------- Dingan: turn 21 ----------
+Dingan - plays 1 Gold, 1 Copper
+Dingan - buys Silver
+Dingan - gains Silver
+Dingan - draws Copper, Copper, Copper, Province, Monument
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Mystic
+Stef - names Vagrant
+Stef - reveals Oasis
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Oasis, Market, Monument, Copper, Vagrant
+ 
+---------- Dingan: turn 22 ----------
+Dingan - plays Monument
+Dingan - receives 1 victory point chips
+Dingan - plays 3 Copper
+Dingan - buys Cache
+Dingan - gains Cache
+Dingan - gains Copper
+Dingan - gains Copper
+Dingan - draws Vagrant, Estate, Estate, Mystic, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Market
+Stef - draws Mystic
+Stef - plays Vagrant
+Stef - draws Oasis
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Market
+Stef - discards Copper
+Stef - plays Market
+Stef - draws Duchy
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Dingan: turn 23 ----------
+Dingan - plays Vagrant
+Dingan - draws Duchy
+Dingan - reveals: Copper
+Dingan - places Copper on top of deck
+Dingan - plays Mystic
+Dingan - names Copper
+Dingan - reveals Copper
+Dingan - places Copper in hand
+Dingan - plays 2 Copper
+Dingan - buys Silver
+Dingan - gains Silver
+Dingan - draws Vagrant, Oasis, Philosopher's Stone, Philosopher's Stone, Duchy
+ 
+---------- Stef: turn 23 ----------
+Stef - plays 4 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Estate, Duchy, Duchy, Estate, Vagrant
+ 
+---------- Dingan: turn 24 ----------
+Dingan - plays Vagrant
+Dingan - draws Duchy
+Dingan - reveals: Potion
+Dingan - places Potion on top of deck
+Dingan - plays Oasis
+Dingan - draws Potion
+Dingan - discards Duchy
+Dingan - plays 1 Potion
+Dingan - plays Philosopher's Stone
+Dingan - has 36 cards in his deck and discard pile
+Dingan - receives 7 coins
+Dingan - plays Philosopher's Stone
+Dingan - has 36 cards in his deck and discard pile
+Dingan - receives 7 coins
+Dingan - buys Cache
+Dingan - gains Cache
+Dingan - gains Copper
+Dingan - gains Copper
+Dingan - draws Oasis, Market, Possession, Monument, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - draws Copper, Province, Mystic, Vagrant, Estate
+ 
+---------- Dingan: turn 25 ----------
+Dingan - plays Market
+Dingan - draws Oasis
+Dingan - plays Oasis
+Dingan - draws Estate
+Dingan - discards Estate
+Dingan - plays Oasis
+Dingan - draws Market
+Dingan - discards Monument
+Dingan - plays Market
+Dingan - draws Oasis
+Dingan - plays Oasis
+Dingan - draws Vagrant
+Dingan - discards Vagrant
+Dingan - plays Possession
+Dingan - plays Copper
+Dingan - buys Estate
+Dingan - gains Estate
+Dingan - buys Estate
+Dingan - gains Estate
+Dingan - buys Estate
+Dingan - gains Estate
+Dingan - draws Province, Vagrant
+Dingan - shuffles deck
+Dingan - draws Monument, Cache, Silver
+ 
+---------- Stef: turn 25 [possessed] ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Monument
+Stef - places Monument on top of deck
+Stef - plays Mystic
+Stef - names Monument
+Stef - reveals Monument
+Stef - places Monument in hand
+Stef - plays 2 Copper
+Stef - buys Monument
+Dingan - gains Monument
+Stef - draws Oasis, Monument, Estate, Mystic, Oasis
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Oasis
+Stef - draws Mystic
+Stef - discards Estate
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Monument
+Stef - plays Mystic
+Stef - names Monument
+Stef - reveals Monument
+Stef - places Monument in hand
+Stef - plays Oasis
+Stef - draws Province
+Stef - discards Province
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Estate, Market, Silver, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 4 Vagrant, 4 Monument, 3 Mystic, 2 Market, 2 Oasis, 7 Copper, 1 Silver, 7 Estate, 5 Province, 4 Duchy
+Stef - victory point chips: 17
+Stef - total victory points: 66
+Stef - turns: 25
+ 
+Dingan - cards: 4 Vagrant, 4 Oasis, 3 Monument, 2 Market, 11 Copper, 1 Mystic, 1 Possession, 3 Silver, 2 Cache, 2 Philosopher's Stone, 1 Potion, 1 Gold, 7 Estate, 4 Duchy, 3 Province
+Dingan - victory point chips: 7
+Dingan - total victory points: 44
+Dingan - turns: 25
+ 
+1st place: Stef
+2nd place: Dingan
+ 

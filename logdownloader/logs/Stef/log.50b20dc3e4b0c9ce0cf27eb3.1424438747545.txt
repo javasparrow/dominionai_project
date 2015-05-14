@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Steward, Armory, Conspirator, Moneylender, Harvest, Journeyman, Merchant Guild, Rebuild, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kassy - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+kassy - shuffles deck
+Stef - draws Copper, Necropolis, Copper, Copper, Hovel
+kassy - draws Overgrown Estate, Copper, Copper, Copper, Necropolis
+ 
+---------- kassy: turn 1 ----------
+kassy - plays Necropolis
+kassy - plays 3 Copper
+kassy - buys Steward
+kassy - gains Steward
+kassy - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- kassy: turn 2 ----------
+kassy - plays 4 Copper
+kassy - buys Silver
+kassy - gains Silver
+kassy - shuffles deck
+kassy - draws Copper, Silver, Steward, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - shuffles deck
+Stef - draws Copper, Necropolis, Copper, Armory, Copper
+ 
+---------- kassy: turn 3 ----------
+kassy - plays Steward
+kassy - trashes Copper, Copper
+kassy - plays 1 Copper, 1 Silver
+kassy - buys Silver
+kassy - gains Silver
+kassy - draws Copper, Necropolis, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Armory
+Stef - gains Vagrant
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Steward, Copper, Copper, Copper
+ 
+---------- kassy: turn 4 ----------
+kassy - plays 3 Copper
+kassy - buys Silver
+kassy - gains Silver
+kassy - draws Copper, Hovel
+kassy - shuffles deck
+kassy - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Vagrant
+Stef - draws Overgrown Estate
+Stef - reveals: Hovel
+Stef - places Hovel in hand
+Stef - plays Steward
+Stef - trashes Hovel, Overgrown Estate
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant, Copper, Copper, Copper
+ 
+---------- kassy: turn 5 ----------
+kassy - plays 3 Copper, 1 Silver
+kassy - buys Merchant Guild
+kassy - gains Merchant Guild
+kassy - draws Copper, Silver, Copper, Necropolis, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Armory
+Stef - reveals: Necropolis
+Stef - places Necropolis in hand
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Conspirator
+Stef - draws Steward
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Vagrant, Copper, Copper
+ 
+---------- kassy: turn 6 ----------
+kassy - plays Necropolis
+kassy - plays 2 Copper, 2 Silver
+kassy - buys Gold
+kassy - gains Gold
+kassy - draws Steward, Overgrown Estate
+kassy - shuffles deck
+kassy - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Steward
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Armory, Conspirator, Vagrant, Copper, Necropolis
+ 
+---------- kassy: turn 7 ----------
+kassy - plays Steward
+kassy - trashes Copper, Overgrown Estate
+kassy - draws Copper
+kassy - plays 3 Copper
+kassy - buys Silver
+kassy - gains Silver
+kassy - draws Necropolis, Silver, Silver, Merchant Guild, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Copper, Vagrant, Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant
+ 
+---------- kassy: turn 8 ----------
+kassy - plays Merchant Guild
+kassy - plays 3 Silver
+kassy - buys Merchant Guild
+kassy - receives 1 coin token
+kassy - gains Merchant Guild
+kassy - buys Vagrant
+kassy - receives 1 coin token
+kassy - gains Vagrant
+kassy - draws Copper, Hovel, Gold
+kassy - shuffles deck
+kassy - draws Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Conspirator
+Stef - draws Armory
+Stef - plays Vagrant
+Stef - draws Necropolis
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - plays Steward
+Stef - trashes Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant, Conspirator, Necropolis, Conspirator
+ 
+---------- kassy: turn 9 ----------
+kassy - plays 2 Copper, 1 Gold, 1 Silver
+kassy - uses 1 coin token
+kassy - buys Province
+kassy - trashes Hovel
+kassy - gains Province
+kassy - draws Copper, Silver, Silver, Merchant Guild, Vagrant
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Necropolis
+Stef - plays Vagrant
+Stef - draws Merchant Guild
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Conspirator
+Stef - draws Armory
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Steward
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Merchant Guild
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Necropolis, Vagrant, Steward
+ 
+---------- kassy: turn 10 ----------
+kassy - plays Vagrant
+kassy - draws Silver
+kassy - reveals: Copper
+kassy - places Copper on top of deck
+kassy - plays Merchant Guild
+kassy - plays 3 Silver, 1 Copper
+kassy - buys Province
+kassy - receives 1 coin token
+kassy - gains Province
+kassy - buys Copper
+kassy - receives 1 coin token
+kassy - gains Copper
+kassy - draws Copper, Merchant Guild, Steward, Necropolis
+kassy - shuffles deck
+kassy - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Conspirator
+Stef - draws Armory
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Merchant Guild
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - plays Merchant Guild
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Merchant Guild, Vagrant, Vagrant, Necropolis
+ 
+---------- kassy: turn 11 ----------
+kassy - plays Necropolis
+kassy - plays Steward
+kassy - draws Silver, Silver
+kassy - plays Merchant Guild
+kassy - plays 2 Copper, 2 Silver
+kassy - uses 1 coin token
+kassy - buys Province
+kassy - receives 1 coin token
+kassy - gains Province
+kassy - buys Copper
+kassy - receives 1 coin token
+kassy - gains Copper
+kassy - draws Merchant Guild, Silver, Copper, Copper, Vagrant
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Vagrant
+Stef - draws Armory
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Merchant Guild
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - draws Conspirator, Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Conspirator, Province
+ 
+---------- kassy: turn 12 ----------
+kassy - plays Vagrant
+kassy - draws Gold
+kassy - reveals: Province
+kassy - places Province in hand
+kassy - plays Merchant Guild
+kassy - plays 2 Copper, 1 Silver, 1 Gold
+kassy - uses 2 coin tokens
+kassy - buys Province
+kassy - receives 1 coin token
+kassy - gains Province
+kassy - buys Estate
+kassy - receives 1 coin token
+kassy - gains Estate
+kassy - draws Silver, Province, Copper
+kassy - shuffles deck
+kassy - draws Copper, Province
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Vagrant
+Stef - draws Necropolis
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Conspirator
+Stef - draws Armory
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Steward
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Merchant Guild
+Stef - places Merchant Guild on top of deck
+Stef - plays Vagrant
+Stef - draws Merchant Guild
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Necropolis
+Stef - plays Merchant Guild
+Stef - plays Armory
+Stef - gains Estate
+Stef - uses 4 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - draws Estate, Conspirator, Vagrant, Vagrant, Conspirator
+ 
+------------ Game Over ------------
+Stef - cards: 8 Vagrant, 6 Conspirator, 1 Necropolis, 1 Merchant Guild, 1 Armory, 1 Steward, 4 Province, 1 Estate, 1 Duchy
+Stef - total victory points: 28
+Stef - turns: 12
+ 
+kassy - cards: 2 Merchant Guild, 1 Vagrant, 1 Necropolis, 1 Steward, 6 Copper, 4 Silver, 1 Gold, 4 Province, 1 Estate
+kassy - total victory points: 25
+kassy - turns: 12
+ 
+1st place: Stef
+2nd place: kassy
+ 

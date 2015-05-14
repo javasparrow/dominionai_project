@@ -1,0 +1,753 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Menagerie, Armory, Farming Village, Pirate Ship, Count, Ghost Ship, Merchant Guild, Soothsayer, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qDread - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+qDread - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+qDread - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- qDread: turn 1 ----------
+qDread - plays 4 Copper
+qDread - buys Armory
+qDread - gains Armory
+qDread - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Armory, Silver, Estate, Estate, Copper
+ 
+---------- qDread: turn 2 ----------
+qDread - plays 3 Copper
+qDread - buys Silver
+qDread - gains Silver
+qDread - shuffles deck
+qDread - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Armory
+Stef - gains Fortune Teller
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Fortune Teller, Copper, Copper, Copper, Estate
+ 
+---------- qDread: turn 3 ----------
+qDread - plays 2 Copper, 1 Silver
+qDread - buys Farming Village
+qDread - gains Farming Village
+qDread - draws Estate, Copper, Copper, Copper, Armory
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Fortune Teller
+qDread - shuffles deck
+qDread - reveals Copper, Copper, Copper, Farming Village, Copper, Silver, Estate
+qDread - discards: Copper, Copper, Copper, Farming Village, Copper, Silver
+Stef - plays 3 Copper
+Stef - buys Count
+Stef - gains Count
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Menagerie, Copper
+ 
+---------- qDread: turn 4 ----------
+qDread - plays Armory
+qDread - gains Fortune Teller
+qDread - plays 3 Copper
+qDread - buys Menagerie
+qDread - gains Menagerie
+qDread - draws Fortune Teller, Estate, Estate
+qDread - shuffles deck
+qDread - draws Estate, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Copper, Copper
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - draws Estate, Copper, Estate, Fortune Teller, Silver
+ 
+---------- qDread: turn 5 ----------
+qDread - plays Fortune Teller
+Stef - reveals Copper, Armory, Estate
+Stef - discards: Copper, Armory
+qDread - plays Silver
+qDread - buys Menagerie
+qDread - gains Menagerie
+qDread - draws Armory, Copper, Farming Village, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortune Teller
+qDread - shuffles deck
+qDread - reveals Menagerie, Copper, Copper, Copper, Copper, Fortune Teller, Silver, Estate
+qDread - discards: Menagerie, Copper, Copper, Copper, Copper, Fortune Teller, Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Estate, Count
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper
+ 
+---------- qDread: turn 6 ----------
+qDread - plays Farming Village
+qDread - reveals Estate, Estate, Estate, Menagerie
+qDread - places Menagerie in hand
+qDread - discards: Estate, Estate, Estate
+qDread - plays Menagerie
+qDread - reveals hand: Armory, Copper, Copper, Copper
+qDread - shuffles deck
+qDread - draws Estate
+qDread - plays Armory
+qDread - gains Silver
+qDread - plays 3 Copper
+qDread - buys Menagerie
+qDread - gains Menagerie
+qDread - draws Silver, Copper, Copper, Fortune Teller, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Estate, Estate, Estate, Copper
+Stef - draws Copper, Copper, Copper, Farming Village, Silver
+ 
+---------- qDread: turn 7 ----------
+qDread - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Armory, Copper, Merchant Guild, Menagerie, Fortune Teller, Copper, Count
+Stef - discards: Copper, Copper, Armory, Copper, Merchant Guild, Menagerie, Fortune Teller, Copper, Count
+qDread - plays 2 Copper, 1 Silver
+qDread - buys Soothsayer
+qDread - gains Soothsayer
+qDread - draws Copper, Copper, Silver, Menagerie, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Count
+Stef - places Count in hand
+Stef - plays Count
+Stef - places Silver on top of deck
+Stef - trashes Copper, Copper, Copper
+Stef - draws Silver, Copper, Menagerie, Copper, Armory
+ 
+---------- qDread: turn 8 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Copper, Copper, Silver, Estate
+qDread - shuffles deck
+qDread - draws Copper
+qDread - plays 3 Copper, 1 Silver
+qDread - buys Count
+qDread - gains Count
+qDread - draws Silver, Soothsayer, Menagerie, Farming Village, Armory
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Copper, Copper, Armory
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains Farming Village
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Farming Village, Merchant Guild, Fortune Teller, Copper
+Stef - shuffles deck
+Stef - draws Menagerie
+ 
+---------- qDread: turn 9 ----------
+qDread - plays Farming Village
+qDread - reveals Estate, Copper
+qDread - places Copper in hand
+qDread - discards Estate
+qDread - plays Menagerie
+qDread - reveals hand: Silver, Soothsayer, Armory, Copper
+qDread - draws Menagerie, Estate, Copper
+qDread - plays Armory
+qDread - gains Farming Village
+qDread - plays Menagerie
+qDread - reveals hand: Estate, Copper, Silver, Soothsayer, Copper
+qDread - draws Farming Village
+qDread - plays Farming Village
+qDread - reveals Copper
+qDread - places Copper in hand
+qDread - plays Soothsayer
+qDread - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+qDread - plays 3 Copper, 1 Silver
+qDread - buys Merchant Guild
+qDread - gains Merchant Guild
+qDread - draws Copper, Fortune Teller
+qDread - shuffles deck
+qDread - draws Estate, Farming Village, Menagerie
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Menagerie
+Stef - reveals hand: Merchant Guild, Fortune Teller, Copper, Copper, Silver
+Stef - draws Armory
+Stef - plays Armory
+Stef - gains Farming Village
+Stef - plays Merchant Guild
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Ghost Ship
+Stef - receives 1 coin token
+Stef - gains Ghost Ship
+Stef - draws Farming Village, Farming Village, Copper, Farming Village, Count
+ 
+---------- qDread: turn 10 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Copper, Fortune Teller, Estate, Farming Village
+qDread - draws Menagerie, Menagerie, Copper
+qDread - plays Farming Village
+qDread - reveals Silver
+qDread - places Silver in hand
+qDread - plays Menagerie
+qDread - reveals hand: Menagerie, Copper, Copper, Fortune Teller, Estate, Silver
+qDread - draws Count
+qDread - plays Menagerie
+qDread - reveals hand: Count, Copper, Copper, Fortune Teller, Estate, Silver
+qDread - draws Soothsayer
+qDread - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Copper, Menagerie, Copper, Fortune Teller, Ghost Ship, Curse
+Stef - discards: Copper, Menagerie, Copper, Fortune Teller, Ghost Ship
+qDread - plays Count
+qDread - places Soothsayer on top of deck
+qDread - takes 3 coins
+qDread - plays Silver
+qDread - buys Grand Market
+qDread - gains Grand Market
+qDread - draws Soothsayer, Copper, Copper, Silver, Farming Village
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Farming Village
+Stef - reveals Curse, Armory
+Stef - places Armory in hand
+Stef - discards Curse
+Stef - plays Armory
+Stef - gains Menagerie
+Stef - plays Farming Village
+Stef - reveals Menagerie
+Stef - places Menagerie in hand
+Stef - plays Menagerie
+Stef - reveals hand: Farming Village, Copper, Count
+Stef - draws Farming Village, Copper, Merchant Guild
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Merchant Guild
+Stef - plays Count
+Stef - places Copper on top of deck
+Stef - takes 3 coins
+Stef - plays Silver
+Stef - buys Grand Market
+Stef - receives 1 coin token
+Stef - gains Grand Market
+Stef - draws Copper, Menagerie, Ghost Ship, Copper, Curse
+ 
+---------- qDread: turn 11 ----------
+qDread - plays Farming Village
+qDread - reveals Gold
+qDread - places Gold in hand
+qDread - plays Soothsayer
+qDread - gains Gold
+Stef - gains Curse
+Stef - draws Fortune Teller
+qDread - plays Gold
+qDread - plays Silver
+qDread - buys Ghost Ship
+qDread - gains Ghost Ship
+qDread - draws Armory, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Ghost Ship, Copper, Curse, Fortune Teller
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Ghost Ship
+Stef - draws Farming Village, Count
+qDread - places Armory on top of deck
+qDread - places Copper on top of deck
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Curse, Farming Village, Menagerie, Farming Village, Grand Market
+ 
+---------- qDread: turn 12 ----------
+qDread - draws Copper, Armory, Merchant Guild, Copper
+qDread - shuffles deck
+qDread - draws Menagerie
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Armory
+Stef - places Armory in hand
+Stef - plays Menagerie
+Stef - reveals hand: Curse, Farming Village, Grand Market, Armory
+Stef - draws Copper, Merchant Guild, Silver
+Stef - plays Armory
+Stef - gains Menagerie
+Stef - plays Farming Village
+Stef - reveals Menagerie
+Stef - places Menagerie in hand
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Merchant Guild, Silver, Curse, Grand Market
+Stef - shuffles deck
+Stef - draws Menagerie, Copper, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Copper, Copper, Merchant Guild, Silver, Curse, Grand Market
+Stef - draws Count
+Stef - plays Count
+Stef - discards Copper
+Stef - discards Curse
+Stef - takes 3 coins
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Merchant Guild, Silver, Grand Market
+Stef - draws Copper, Ghost Ship, Copper
+Stef - plays Grand Market
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Fortune Teller
+Stef - places Fortune Teller in hand
+Stef - plays Ghost Ship
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Copper
+qDread - places Merchant Guild on top of deck
+qDread - places Copper on top of deck
+Stef - plays Fortune Teller
+qDread - reveals Copper, Merchant Guild, Ghost Ship, Copper, Silver, Copper, Grand Market, Farming Village, Estate
+qDread - discards: Copper, Merchant Guild, Ghost Ship, Copper, Silver, Copper, Grand Market, Farming Village
+Stef - plays Merchant Guild
+Stef - plays Silver
+Stef - uses 2 coin tokens
+Stef - buys Grand Market
+Stef - receives 1 coin token
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - receives 1 coin token
+Stef - gains Grand Market
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Menagerie, Grand Market, Merchant Guild, Curse
+ 
+---------- qDread: turn 13 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Armory, Copper
+qDread - draws Estate, Copper, Copper
+qDread - plays Armory
+qDread - gains Farming Village
+qDread - plays 3 Copper
+qDread - buys Menagerie
+qDread - gains Menagerie
+qDread - draws Farming Village, Menagerie, Estate, Gold, Count
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Grand Market
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Count
+Stef - places Count in hand
+Stef - plays Count
+Stef - discards Curse
+Stef - discards Curse
+Stef - takes 3 coins
+Stef - plays Menagerie
+Stef - reveals hand: Merchant Guild
+Stef - draws Farming Village, Fortune Teller, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Farming Village, Fortune Teller, Merchant Guild
+Stef - draws Menagerie, Farming Village, Copper
+Stef - plays Farming Village
+Stef - reveals Grand Market
+Stef - places Grand Market in hand
+Stef - plays Menagerie
+Stef - reveals hand: Farming Village, Copper, Fortune Teller, Merchant Guild, Grand Market
+Stef - draws Grand Market, Copper, Copper
+Stef - plays Farming Village
+Stef - reveals Menagerie
+Stef - places Menagerie in hand
+Stef - plays Grand Market
+Stef - draws Armory
+Stef - plays Armory
+Stef - gains Farming Village
+Stef - plays Grand Market
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Copper, Fortune Teller, Merchant Guild, Silver
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Fortune Teller
+qDread - reveals Estate
+Stef - plays Merchant Guild
+Stef - plays 1 Silver
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Count
+Stef - receives 1 coin token
+Stef - gains Count
+Stef - buys Menagerie
+Stef - receives 1 coin token
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - receives 1 coin token
+Stef - gains Menagerie
+Stef - buys Farming Village
+Stef - receives 1 coin token
+Stef - gains Farming Village
+Stef - draws Ghost Ship
+Stef - shuffles deck
+Stef - draws Copper, Farming Village, Menagerie, Farming Village
+ 
+---------- qDread: turn 14 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Farming Village, Estate, Gold, Count
+qDread - draws Estate, Soothsayer, Gold
+qDread - plays Farming Village
+qDread - reveals Menagerie
+qDread - places Menagerie in hand
+qDread - plays Count
+qDread - discards Estate
+qDread - discards Gold
+qDread - takes 3 coins
+qDread - plays Menagerie
+qDread - reveals hand: Estate, Soothsayer, Gold
+qDread - draws Silver, Fortune Teller, Copper
+qDread - plays Fortune Teller
+Stef - reveals Fortune Teller, Farming Village, Farming Village, Farming Village, Menagerie, Count, Copper, Menagerie, Count, Grand Market, Silver, Menagerie, Curse
+Stef - discards: Fortune Teller, Farming Village, Farming Village, Farming Village, Menagerie, Count, Copper, Menagerie, Count, Grand Market, Silver, Menagerie
+qDread - plays Gold
+qDread - buys Grand Market
+qDread - gains Grand Market
+qDread - draws Farming Village
+qDread - shuffles deck
+qDread - draws Gold, Silver, Grand Market, Farming Village
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Farming Village
+Stef - reveals Curse, Copper
+Stef - places Copper in hand
+Stef - discards Curse
+Stef - plays Farming Village
+Stef - reveals Merchant Guild
+Stef - places Merchant Guild in hand
+Stef - plays Ghost Ship
+Stef - draws Menagerie, Armory
+qDread - places Farming Village on top of deck
+qDread - places Farming Village on top of deck
+Stef - plays Armory
+Stef - gains Farming Village
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Copper, Merchant Guild
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Grand Market
+Stef - places Grand Market in hand
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Merchant Guild, Copper
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Merchant Guild, Copper
+Stef - draws Curse
+Stef - plays Merchant Guild
+Stef - plays 3 Copper
+Stef - buys Soothsayer
+Stef - receives 1 coin token
+Stef - gains Soothsayer
+Stef - draws Farming Village, Grand Market
+Stef - shuffles deck
+Stef - draws Soothsayer, Farming Village, Curse
+ 
+---------- qDread: turn 15 ----------
+qDread - plays Grand Market
+qDread - draws Farming Village
+qDread - plays Farming Village
+qDread - reveals Farming Village
+qDread - places Farming Village in hand
+qDread - plays Farming Village
+qDread - reveals Copper
+qDread - places Copper in hand
+qDread - plays 1 Gold, 1 Silver
+qDread - plays Copper
+qDread - buys Province
+qDread - gains Province
+qDread - draws Copper, Copper, Merchant Guild, Menagerie, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Farming Village
+Stef - reveals Grand Market
+Stef - places Grand Market in hand
+Stef - plays Grand Market
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Fortune Teller
+Stef - places Fortune Teller in hand
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Grand Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Soothsayer, Curse, Fortune Teller, Copper
+Stef - draws Menagerie, Menagerie, Farming Village
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Farming Village, Soothsayer, Curse, Fortune Teller, Copper
+Stef - draws Farming Village, Curse, Copper
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Menagerie
+Stef - reveals hand: Curse, Copper, Soothsayer, Curse, Fortune Teller, Copper, Silver, Copper
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Curse, Copper, Soothsayer, Curse, Fortune Teller, Copper, Silver, Copper
+Stef - draws Merchant Guild
+Stef - plays Soothsayer
+Stef - gains Gold
+qDread - gains Curse
+qDread - draws Grand Market
+Stef - plays Fortune Teller
+qDread - reveals Farming Village, Count, Fortune Teller, Estate
+qDread - discards: Farming Village, Count, Fortune Teller
+Stef - plays Merchant Guild
+Stef - plays 1 Silver
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - uses 1 coin token
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - draws Count, Copper, Count, Farming Village, Armory
+ 
+---------- qDread: turn 16 ----------
+qDread - plays Grand Market
+qDread - draws Estate
+qDread - plays Menagerie
+qDread - reveals hand: Copper, Copper, Merchant Guild, Estate, Estate
+qDread - draws Soothsayer
+qDread - plays Merchant Guild
+qDread - plays 2 Copper
+qDread - buys Duchy
+qDread - receives 1 coin token
+qDread - gains Duchy
+qDread - buys Copper
+qDread - receives 1 coin token
+qDread - gains Copper
+qDread - draws Ghost Ship, Menagerie, Menagerie, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Menagerie
+Stef - places Menagerie in hand
+Stef - plays Count
+Stef - discards Copper
+Stef - discards Armory
+Stef - takes 3 coins
+Stef - plays Menagerie
+Stef - reveals hand: Count
+Stef - draws Menagerie, Ghost Ship, Grand Market
+Stef - plays Menagerie
+Stef - reveals hand: Ghost Ship, Grand Market, Count
+Stef - shuffles deck
+Stef - draws Soothsayer, Farming Village, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Soothsayer, Farming Village, Ghost Ship, Grand Market, Count
+Stef - draws Armory, Menagerie, Curse
+Stef - plays Menagerie
+Stef - reveals hand: Armory, Curse, Soothsayer, Farming Village, Ghost Ship, Grand Market, Count
+Stef - draws Copper, Farming Village, Province
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Farming Village
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Soothsayer
+Stef - gains Gold
+qDread - gains Curse
+qDread - draws Copper
+Stef - plays Ghost Ship
+Stef - draws Menagerie, Grand Market
+qDread - places Copper on top of deck
+qDread - places Copper on top of deck
+qDread - places Copper on top of deck
+Stef - plays Grand Market
+Stef - draws Merchant Guild
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Province, Armory, Curse, Count, Copper, Gold, Copper, Merchant Guild
+Stef - draws Curse
+Stef - plays Merchant Guild
+Stef - plays Armory
+Stef - gains Fortune Teller
+Stef - plays Count
+Stef - discards Province
+Stef - discards Gold
+Stef - trashes Curse, Copper, Curse, Copper, Copper
+Stef - uses 6 coin tokens
+Stef - buys Grand Market
+Stef - receives 1 coin token
+Stef - gains Grand Market
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - draws Fortune Teller, Grand Market, Farming Village, Duchy, Silver
+ 
+---------- qDread: turn 17 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Ghost Ship, Menagerie
+qDread - draws Copper, Copper, Copper
+qDread - plays Menagerie
+qDread - reveals hand: Copper, Copper, Copper, Ghost Ship
+qDread - draws Menagerie
+qDread - plays Menagerie
+qDread - reveals hand: Copper, Copper, Copper, Ghost Ship
+qDread - draws Armory
+qDread - plays Ghost Ship
+qDread - draws Gold, Silver
+Stef - places Silver on top of deck
+Stef - places Duchy on top of deck
+qDread - plays 3 Copper, 1 Gold, 1 Silver
+qDread - buys Province
+qDread - gains Province
+qDread - draws Estate, Copper
+qDread - shuffles deck
+qDread - draws Farming Village, Menagerie, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Farming Village
+Stef - reveals Duchy, Silver
+Stef - places Silver in hand
+Stef - discards Duchy
+Stef - plays Grand Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Fortune Teller, Silver
+Stef - draws Copper, Fortune Teller, Farming Village
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Menagerie
+Stef - places Menagerie in hand
+Stef - plays Fortune Teller
+qDread - reveals Copper, Soothsayer, Menagerie, Ghost Ship, Province
+qDread - discards: Copper, Soothsayer, Menagerie, Ghost Ship
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Fortune Teller, Silver
+Stef - draws Grand Market, Grand Market, Armory
+Stef - plays Grand Market
+Stef - draws Merchant Guild
+Stef - plays Grand Market
+Stef - draws Soothsayer
+Stef - plays Fortune Teller
+qDread - reveals Province
+Stef - plays Merchant Guild
+Stef - plays Soothsayer
+Stef - gains Gold
+qDread - gains Curse
+qDread - draws Province
+Stef - plays Silver
+Stef - plays Copper
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - draws Gold, Farming Village, Count, Province, Province
+ 
+---------- qDread: turn 18 ----------
+qDread - plays Menagerie
+qDread - reveals hand: Estate, Copper, Farming Village, Curse, Province
+qDread - draws Menagerie, Gold, Estate
+qDread - plays Farming Village
+qDread - reveals Farming Village
+qDread - places Farming Village in hand
+qDread - plays Farming Village
+qDread - reveals Armory
+qDread - places Armory in hand
+qDread - plays Menagerie
+qDread - reveals hand: Gold, Estate, Estate, Copper, Curse, Province, Armory
+qDread - draws Silver
+qDread - plays Armory
+qDread - gains Silver
+qDread - plays 1 Silver, 1 Gold, 1 Copper
+qDread - uses 2 coin tokens
+qDread - buys Province
+qDread - gains Province
+qDread - draws Silver, Copper, Copper, Province, Menagerie
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Farming Village
+Stef - reveals Grand Market
+Stef - places Grand Market in hand
+Stef - plays Grand Market
+Stef - draws Menagerie
+Stef - plays Count
+Stef - discards Province
+Stef - discards Province
+Stef - takes 3 coins
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Count, Menagerie, Farming Village, Ghost Ship, Farming Village
+ 
+------------ Game Over ------------
+Stef - cards: 7 Farming Village, 6 Menagerie, 4 Grand Market, 2 Count, 2 Fortune Teller, 1 Ghost Ship, 1 Merchant Guild, 1 Soothsayer, 1 Armory, 3 Gold, 1 Silver, 1 Copper, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 19
+ 
+qDread - cards: 4 Menagerie, 3 Farming Village, 2 Grand Market, 1 Soothsayer, 1 Ghost Ship, 1 Armory, 1 Fortune Teller, 1 Count, 1 Merchant Guild, 8 Copper, 3 Silver, 2 Gold, 3 Province, 3 Estate, 1 Duchy, 3 Curse
+qDread - total victory points: 21
+qDread - turns: 18
+ 
+1st place: Stef
+2nd place: qDread
+ 

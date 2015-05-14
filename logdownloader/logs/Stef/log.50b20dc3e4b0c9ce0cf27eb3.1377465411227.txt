@@ -1,0 +1,692 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Squire, Fishing Village, Loan, Familiar, Herald, Mining Village, Spy, Treasure Map, Cache, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Gherald - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+Gherald - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Fishing Village
+Gherald - gains Fishing Village
+Gherald - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Potion
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Potion
+Gherald - gains Potion
+Gherald - shuffles deck
+Gherald - draws Fishing Village, Copper, Estate, Potion, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Fishing Village, Copper, Copper, Estate, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Fishing Village
+Gherald - plays 2 Copper, 1 Potion
+Gherald - buys Familiar
+Gherald - gains Familiar
+Gherald - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Familiar, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - duration Fishing Village
+Gherald - plays 4 Copper
+Gherald - buys Herald
+Gherald - overpays for Herald with 1 coin
+Gherald - places Familiar on top of deck
+Gherald - gains Herald
+Gherald - draws Familiar, Copper, Estate
+Gherald - shuffles deck
+Gherald - draws Potion, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Fishing Village
+Stef - plays Familiar
+Stef - draws Copper
+Gherald - gains Curse
+Stef - plays 3 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Copper, Copper, Estate, Potion, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Familiar
+Gherald - draws Copper
+Stef - gains Curse
+Gherald - plays 2 Copper, 1 Potion
+Gherald - buys Squire
+Gherald - gains Squire
+Gherald - draws Copper, Copper, Copper, Herald, Fishing Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper, Loan
+Stef - shuffles deck
+Stef - draws Copper, Spy, Familiar
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Herald
+Gherald - draws Estate
+Gherald - reveals: Copper
+Gherald - places Copper on top of deck
+Gherald - plays Fishing Village
+Gherald - plays 3 Copper
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Estate, Potion, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Spy
+Stef - draws Copper
+Stef - discards Curse
+Gherald - places Estate on top of deck
+Stef - plays Familiar
+Stef - draws Familiar
+Gherald - gains Curse
+Stef - plays Familiar
+Stef - draws Estate
+Gherald - gains Curse
+Stef - plays 3 Copper
+Stef - plays Loan
+Stef - reveals Estate, Copper
+Stef - trashes Copper
+Stef - discards Estate
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Estate, Fishing Village, Copper, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - duration Fishing Village
+Gherald - plays 3 Copper, 1 Potion
+Gherald - buys Familiar
+Gherald - gains Familiar
+Gherald - draws Estate, Estate, Copper, Herald, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fishing Village
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Familiar, Herald, Copper, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Herald
+Gherald - draws Herald
+Gherald - reveals: Copper
+Gherald - places Copper on top of deck
+Gherald - plays Herald
+Gherald - draws Copper
+Gherald - reveals: Curse
+Gherald - places Curse on top of deck
+Gherald - plays 3 Copper
+Gherald - buys Fishing Village
+Gherald - gains Fishing Village
+Gherald - draws Curse, Squire, Copper, Familiar
+Gherald - shuffles deck
+Gherald - draws Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Fishing Village
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Familiar
+Stef - plays Familiar
+Stef - draws Estate
+Gherald - gains Curse
+Stef - plays Familiar
+Stef - draws Estate
+Gherald - gains Curse
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Herald, Copper, Copper, Copper, Curse
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Familiar
+Gherald - draws Copper
+Stef - gains Curse
+Gherald - plays Squire
+Gherald - gains Silver
+Gherald - plays 2 Copper
+Gherald - buys Fishing Village
+Gherald - gains Fishing Village
+Gherald - draws Potion, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays 3 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - draws Loan, Spy
+Stef - shuffles deck
+Stef - draws Estate, Fishing Village, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays 2 Copper, 1 Potion
+Gherald - buys Squire
+Gherald - gains Squire
+Gherald - draws Copper, Curse, Curse, Fishing Village, Herald
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Spy
+Stef - draws Familiar
+Stef - discards Copper
+Gherald - places Copper on top of deck
+Stef - plays Familiar
+Stef - draws Copper
+Gherald - gains Curse
+Stef - plays Fishing Village
+Stef - plays 1 Copper
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Herald, Estate, Crossroads, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Herald
+Gherald - draws Copper
+Gherald - reveals: Copper
+Gherald - places Copper on top of deck
+Gherald - plays Fishing Village
+Gherald - plays 2 Copper
+Gherald - buys Fishing Village
+Gherald - gains Fishing Village
+Gherald - draws Copper, Fishing Village, Familiar, Herald
+Gherald - shuffles deck
+Gherald - draws Squire
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Fishing Village
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Estate, Copper, Curse
+Stef - draws Curse
+Stef - plays Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - draws Potion, Familiar, Familiar, Herald, Copper
+ 
+---------- Gherald: turn 12 ----------
+Gherald - duration Fishing Village
+Gherald - plays Herald
+Gherald - draws Copper
+Gherald - reveals: Silver
+Gherald - places Silver on top of deck
+Gherald - plays Familiar
+Gherald - draws Silver
+Stef - gains Curse
+Gherald - plays Fishing Village
+Gherald - plays Squire
+Gherald - gains Silver
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Curse, Fishing Village, Potion, Curse, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Curse
+Gherald - gains Curse
+Stef - plays Familiar
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Spy
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Spy
+Stef - draws Estate
+Stef - discards Copper
+Gherald - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Crossroads
+Stef - reveals: Fishing Village
+Stef - plays Fishing Village
+Stef - plays Crossroads
+Stef - reveals hand: Potion, Copper, Curse, Estate
+Stef - draws Estate
+Stef - plays 1 Potion, 1 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Familiar, Copper, Copper, Estate, Loan
+ 
+---------- Gherald: turn 13 ----------
+Gherald - duration Fishing Village
+Gherald - plays Fishing Village
+Gherald - plays 1 Potion
+Gherald - buys Crossroads
+Gherald - gains Crossroads
+Gherald - draws Copper, Copper, Estate, Fishing Village, Curse
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Fishing Village
+Stef - plays Familiar
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Copper, Estate, Loan
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Fishing Village, Curse, Curse, Curse, Familiar, Estate, Potion
+Stef - trashes Potion
+Stef - discards: Fishing Village, Curse, Curse, Curse, Familiar, Estate
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places Fishing Village on top of deck
+Stef - gains Herald
+Stef - draws Fishing Village, Spy, Herald, Familiar, Squire
+ 
+---------- Gherald: turn 14 ----------
+Gherald - duration Fishing Village
+Gherald - plays Fishing Village
+Gherald - plays 2 Copper
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Curse, Familiar, Squire, Estate, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Fishing Village, Spy, Familiar, Squire, Estate, Copper
+Stef - draws Copper
+Stef - plays Spy
+Stef - shuffles deck
+Stef - draws Copper
+Stef - places Fishing Village on top of deck
+Gherald - discards Herald
+Stef - plays Familiar
+Stef - draws Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 3 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Familiar, Familiar, Estate, Curse, Herald
+ 
+---------- Gherald: turn 15 ----------
+Gherald - duration Fishing Village
+Gherald - plays Familiar
+Gherald - draws Estate
+Gherald - plays Squire
+Gherald - gains Silver
+Gherald - plays 1 Copper
+Gherald - buys Crossroads
+Gherald - gains Crossroads
+Gherald - draws Copper, Curse, Copper
+Gherald - shuffles deck
+Gherald - draws Fishing Village, Fishing Village
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Familiar
+Stef - draws Crossroads
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Curse, Curse, Estate
+Stef - draws Loan, Copper
+Stef - plays 1 Copper
+Stef - plays Loan
+Stef - reveals Curse, Copper
+Stef - trashes Copper
+Stef - discards Curse
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Herald, Spy, Crossroads, Herald, Estate
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Fishing Village
+Gherald - plays Fishing Village
+Gherald - plays 2 Copper
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Herald, Gold, Familiar, Crossroads, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Spy
+Stef - draws Familiar
+Stef - discards Familiar
+Gherald - discards Herald
+Stef - plays Familiar
+Stef - draws Fishing Village
+Stef - plays Herald
+Stef - draws Fishing Village
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Fishing Village
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Fishing Village, Copper
+Stef - draws Copper
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Herald, Curse, Copper, Curse
+ 
+---------- Gherald: turn 17 ----------
+Gherald - duration Fishing Village
+Gherald - duration Fishing Village
+Gherald - plays Herald
+Gherald - draws Fishing Village
+Gherald - reveals: Fishing Village
+Gherald - plays Fishing Village
+Gherald - plays Familiar
+Gherald - draws Copper
+Gherald - plays Fishing Village
+Gherald - plays Crossroads
+Gherald - reveals hand: Gold, Curse, Copper
+Gherald - plays 1 Gold, 1 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Estate, Silver, Curse, Curse, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Herald
+Stef - draws Familiar
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Curse, Copper, Curse, Familiar
+Stef - plays Familiar
+Stef - draws Squire
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Loan, Curse, Estate, Crossroads, Herald
+ 
+---------- Gherald: turn 18 ----------
+Gherald - duration Fishing Village
+Gherald - duration Fishing Village
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Estate, Potion, Copper, Squire, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Spy
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Loan, Curse, Estate, Crossroads, Estate, Spy
+Stef - draws Herald, Curse
+Stef - plays Spy
+Stef - draws Squire
+Stef - discards Familiar
+Gherald - discards Squire
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Curse, Loan, Curse, Estate, Estate, Squire, Curse
+Stef - draws Estate, Copper
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 1 Copper
+Stef - plays Loan
+Stef - reveals Familiar, Herald, Fishing Village, Fishing Village, Copper
+Stef - trashes Copper
+Stef - discards: Familiar, Herald, Fishing Village, Fishing Village
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Herald, Copper, Crossroads, Familiar, Copper
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays Squire
+Gherald - gains Silver
+Gherald - plays 1 Potion, 1 Copper
+Gherald - buys Crossroads
+Gherald - gains Crossroads
+Gherald - draws Crossroads, Copper, Curse, Copper, Herald
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Familiar
+Stef - draws Duchy
+Stef - plays Herald
+Stef - draws Herald
+Stef - shuffles deck
+Stef - reveals: Squire
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Familiar
+Stef - reveals: Fishing Village
+Stef - plays Fishing Village
+Stef - plays Familiar
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Crossroads, Copper, Duchy, Curse
+Stef - draws Loan
+Stef - plays Crossroads
+Stef - reveals hand: Loan, Copper, Copper, Duchy, Curse
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Fishing Village
+Stef - plays Fishing Village
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Estate, Estate, Fishing Village, Copper
+Stef - trashes Copper
+Stef - discards: Estate, Estate, Fishing Village
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Spy, Crossroads, Familiar, Herald
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays Herald
+Gherald - draws Silver
+Gherald - reveals: Curse
+Gherald - places Curse on top of deck
+Gherald - plays Crossroads
+Gherald - reveals hand: Copper, Curse, Copper, Silver
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Curse, Silver, Estate, Familiar
+Gherald - shuffles deck
+Gherald - draws Fishing Village
+ 
+---------- Stef: turn 21 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Familiar
+Stef - draws Estate
+Stef - plays Spy
+Stef - shuffles deck
+Stef - draws Familiar
+Stef - places Estate on top of deck
+Gherald - discards Herald
+Stef - plays Familiar
+Stef - draws Estate
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Squire
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Familiar
+Stef - plays Familiar
+Stef - draws Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Curse, Crossroads, Estate, Estate, Estate, Duchy
+Stef - draws Curse, Herald, Herald, Copper
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Loan
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Fishing Village
+Stef - plays Fishing Village
+Stef - plays Crossroads
+Stef - reveals hand: Curse, Copper, Curse, Estate, Estate, Estate, Duchy, Curse, Loan, Copper
+Stef - draws Crossroads, Duchy
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - shuffles deck
+Stef - draws Crossroads, Estate, Herald, Estate, Estate
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays Familiar
+Gherald - draws Squire
+Gherald - plays Fishing Village
+Gherald - plays Squire
+Gherald - gains Silver
+Gherald - plays 1 Silver
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Curse, Duchy, Copper, Crossroads, Fishing Village
+ 
+---------- Stef: turn 22 ----------
+Stef - duration Fishing Village
+Stef - plays Herald
+Stef - draws Crossroads
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Estate, Estate, Estate, Crossroads, Copper, Herald
+Stef - draws Familiar, Familiar, Squire
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Herald
+Stef - draws Loan
+Stef - reveals: Familiar
+Stef - plays Familiar
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Curse
+Stef - places Fishing Village on top of deck
+Gherald - discards Silver
+Stef - plays Familiar
+Stef - draws Fishing Village
+Stef - plays Familiar
+Stef - draws Duchy
+Stef - plays Fishing Village
+Stef - plays Crossroads
+Stef - reveals hand: Squire, Crossroads, Estate, Estate, Estate, Copper, Loan, Curse, Duchy
+Stef - draws Fishing Village, Duchy, Copper, Curse
+Stef - plays Fishing Village
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Crossroads
+Stef - reveals hand: Duchy, Copper, Curse, Estate, Estate, Estate, Copper, Loan, Curse, Duchy
+Stef - draws Duchy, Curse, Herald, Crossroads
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Silver, Familiar, Copper, Crossroads, Familiar
+ 
+---------- Gherald: turn 22 ----------
+Gherald - duration Fishing Village
+ 
+------------ Game Over ------------
+Stef - cards: 6 Herald, 4 Crossroads, 3 Familiar, 3 Fishing Village, 1 Squire, 1 Spy, 2 Copper, 1 Silver, 1 Loan, 3 Estate, 3 Duchy, 1 Province, 3 Curse
+Stef - total victory points: 15
+Stef - turns: 22
+ 
+Gherald - resigned
+Gherald - cards: 4 Herald, 3 Crossroads, 3 Fishing Village, 2 Familiar, 2 Squire, 7 Copper, 5 Silver, 1 Potion, 1 Gold, 5 Estate, 1 Duchy, 1 Province, 7 Curse
+Gherald - total victory points: 7
+Gherald - turns: 21
+ 
+1st place: Stef
+2nd place: Gherald
+ 

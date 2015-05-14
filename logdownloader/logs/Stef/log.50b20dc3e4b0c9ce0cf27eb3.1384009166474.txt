@@ -1,0 +1,377 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Loan, Shanty Town, Philosopher's Stone, Horse Traders, Marauder, Ill-Gotten Gains, Tribute, Adventurer, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Davio - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Davio - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+Davio - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Davio: turn 1 ----------
+Davio - plays 3 Copper
+Davio - buys Silver
+Davio - gains Silver
+Davio - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Davio: turn 2 ----------
+Davio - plays 4 Copper
+Davio - buys Marauder
+Davio - gains Marauder
+Davio - shuffles deck
+Davio - draws Marauder, Estate, Copper, Copper, Silver
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Marauder, Silver, Copper, Copper, Copper
+ 
+---------- Davio: turn 3 ----------
+Davio - plays Marauder
+Davio - gains Spoils
+Stef - gains Survivors
+Davio - plays 2 Copper, 1 Silver
+Davio - buys Horse Traders
+Davio - gains Horse Traders
+Davio - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Davio - gains Survivors
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+Davio - gains Curse
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Davio: turn 4 ----------
+Davio - plays 4 Copper
+Davio - buys Silver
+Davio - gains Silver
+Davio - draws Estate, Copper
+Davio - shuffles deck
+Davio - draws Marauder, Survivors, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Silver, Marauder, Copper
+ 
+---------- Davio: turn 5 ----------
+Davio - plays Marauder
+Davio - gains Spoils
+Stef - gains Ruined Library
+Davio - plays 2 Copper
+Davio - buys Vagrant
+Davio - gains Vagrant
+Davio - draws Silver, Spoils, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Davio - gains Abandoned Mine
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - draws Copper, Copper, Estate, Ill-Gotten Gains, Silver
+ 
+---------- Davio: turn 6 ----------
+Davio - plays 3 Copper, 1 Silver
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - draws Curse, Horse Traders, Copper, Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hoard
+Stef - gains Hoard
+Stef - draws Copper, Copper, Spoils, Survivors, Estate
+ 
+---------- Davio: turn 7 ----------
+Davio - plays Horse Traders
+Davio - discards Curse
+Davio - discards Copper
+Davio - plays 1 Copper, 1 Silver
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - draws Estate, Estate
+Davio - shuffles deck
+Davio - draws Silver, Estate, Spoils
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Survivors
+Stef - looks at Copper
+Stef - shuffles deck
+Stef - looks at Estate
+Stef - discards: Copper, Estate
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+Davio - gains Curse
+Stef - draws Copper, Copper, Copper, Ill-Gotten Gains, Hoard
+ 
+---------- Davio: turn 8 ----------
+Davio - plays 1 Silver
+Davio - plays Spoils
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - draws Spoils, Copper, Copper, Vagrant, Curse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Curse, Curse, Silver, Marauder, Estate
+ 
+---------- Davio: turn 9 ----------
+Davio - plays Vagrant
+Davio - draws Marauder
+Davio - reveals: Copper
+Davio - places Copper on top of deck
+Davio - plays Marauder
+Davio - gains Spoils
+Stef - gains Ruined Market
+Davio - plays 2 Copper
+Davio - plays Spoils
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - draws Copper, Copper, Copper, Survivors, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Davio - gains Ruined Market
+Stef - plays 1 Silver
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Ruined Library, Silver, Copper, Horse Traders, Copper
+ 
+---------- Davio: turn 10 ----------
+Davio - plays Survivors
+Davio - looks at Copper, Ill-Gotten Gains
+Davio - discards: Copper, Ill-Gotten Gains
+Davio - plays 4 Copper
+Davio - buys Horse Traders
+Davio - gains Horse Traders
+Davio - draws Ill-Gotten Gains, Horse Traders, Silver, Abandoned Mine
+Davio - shuffles deck
+Davio - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Horse Traders
+Stef - discards Ruined Library
+Stef - discards Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+Davio - gains Curse
+Stef - draws Spoils
+Stef - shuffles deck
+Stef - draws Horse Traders, Copper, Curse, Copper
+ 
+---------- Davio: turn 11 ----------
+Davio - plays Horse Traders
+Davio - discards Abandoned Mine
+Davio - discards Copper
+Davio - plays 1 Silver
+Davio - plays Ill-Gotten Gains
+Davio - gains Copper
+Davio - plays 1 Copper
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - buys Vagrant
+Davio - gains Vagrant
+Davio - draws Copper, Ill-Gotten Gains, Copper, Curse, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Horse Traders
+Stef - discards Spoils
+Stef - discards Curse
+Stef - plays 2 Copper
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+Davio - gains Curse
+Stef - draws Ruined Library, Estate, Silver, Duchy, Estate
+ 
+---------- Davio: turn 12 ----------
+Davio - plays 3 Copper
+Davio - plays Ill-Gotten Gains
+Davio - gains Copper
+Davio - plays 1 Copper
+Davio - buys Ill-Gotten Gains
+Davio - gains Ill-Gotten Gains
+Stef - gains Curse
+Davio - draws Horse Traders, Marauder, Survivors, Ill-Gotten Gains, Ill-Gotten Gains
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Marauder, Gold, Copper, Hoard
+ 
+---------- Davio: turn 13 ----------
+Davio - plays Horse Traders
+Davio - discards Marauder
+Davio - discards Survivors
+Davio - plays Ill-Gotten Gains
+Davio - plays Ill-Gotten Gains
+Davio - buys Duchy
+Davio - gains Duchy
+Davio - draws Ruined Market, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Davio - gains Survivors
+Stef - plays Gold
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Copper, Spoils, Curse, Curse, Vagrant
+ 
+---------- Davio: turn 14 ----------
+Davio - plays Ruined Market
+Davio - plays 2 Copper, 1 Silver
+Davio - buys Estate
+Davio - gains Estate
+Davio - buys Estate
+Davio - gains Estate
+Davio - draws Estate, Estate, Vagrant, Copper, Spoils
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Ill-Gotten Gains
+Stef - reveals: Ruined Market
+Stef - places Ruined Market in hand
+Stef - plays Ruined Market
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Copper, Ill-Gotten Gains, Silver, Survivors
+ 
+---------- Davio: turn 15 ----------
+Davio - plays Vagrant
+Davio - draws Curse
+Davio - shuffles deck
+Davio - reveals: Copper
+Davio - places Copper on top of deck
+Davio - buys Copper
+Davio - gains Copper
+Davio - draws Copper, Estate, Ruined Market, Abandoned Mine, Ill-Gotten Gains
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Survivors
+Stef - looks at Ill-Gotten Gains, Estate
+Stef - discards: Ill-Gotten Gains, Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Silver, Ill-Gotten Gains, Spoils, Copper
+ 
+---------- Davio: turn 16 ----------
+Davio - plays Ruined Market
+Davio - plays 1 Copper
+Davio - plays Ill-Gotten Gains
+Davio - gains Copper
+Davio - plays 1 Copper
+Davio - buys Estate
+Davio - gains Estate
+Davio - buys Copper
+Davio - gains Copper
+Davio - draws Marauder, Silver, Copper, Copper, Ill-Gotten Gains
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Spoils, Ill-Gotten Gains, Copper, Gold, Copper
+ 
+---------- Davio: turn 17 ----------
+Davio - plays Marauder
+Davio - gains Spoils
+Stef - gains Ruined Market
+Davio - plays 2 Copper, 1 Silver
+Davio - plays Ill-Gotten Gains
+Davio - gains Copper
+Davio - plays 1 Copper
+Davio - buys Duchy
+Davio - gains Duchy
+Davio - draws Copper, Curse, Ill-Gotten Gains, Curse, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Marauder, Survivors, Curse, Ruined Library
+ 
+---------- Davio: turn 18 ----------
+Davio - plays 2 Copper
+Davio - plays Ill-Gotten Gains
+Davio - gains Copper
+Davio - plays 1 Copper
+Davio - buys Estate
+Davio - gains Estate
+Davio - draws Survivors, Estate, Ill-Gotten Gains, Horse Traders, Ill-Gotten Gains
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Marauder
+Davio - reveals reaction Horse Traders
+Stef - gains Spoils
+Davio - gains Ruined Market
+Stef - buys Ruined Library
+Stef - gains Ruined Library
+Stef - draws Copper, Curse, Estate, Copper, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 2 Ruined Market, 2 Ruined Library, 13 Copper, 1 Marauder, 1 Survivors, 1 Horse Traders, 1 Vagrant, 4 Ill-Gotten Gains, 2 Silver, 2 Gold, 1 Spoils, 1 Hoard, 4 Estate, 4 Duchy, 2 Province, 6 Curse
+Stef - total victory points: 22
+Stef - turns: 18
+ 
+Davio - cards: 2 Survivors, 2 Vagrant, 2 Ruined Market, 2 Horse Traders, 14 Copper, 1 Abandoned Mine, 1 Marauder, 6 Ill-Gotten Gains, 2 Spoils, 2 Silver, 7 Estate, 2 Duchy, 4 Curse
+Davio - total victory points: 9
+Davio - turns: 18
+ 
+1st place: Stef
+2nd place: Davio
+ 

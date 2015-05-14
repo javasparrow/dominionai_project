@@ -1,0 +1,418 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Chapel, Lookout, Caravan, Moneylender, Butcher, Embassy, Stables, Border Village, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+yed - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays Copper
+yed - plays Copper
+yed - buys Chapel
+yed - gains Chapel
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 5 Copper
+yed - buys Butcher
+yed - gains Butcher
+yed - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Caravan, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Caravan
+yed - gains Caravan
+yed - draws Chapel, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - draws Estate, Copper, Copper, Estate, Silver
+ 
+---------- yed: turn 4 ----------
+yed - plays Chapel
+yed - trashes Estate, Estate, Copper, Copper
+yed - draws Butcher, Copper
+yed - shuffles deck
+yed - draws Copper, Chapel, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Butcher
+ 
+---------- yed: turn 5 ----------
+yed - plays Chapel
+yed - trashes Copper, Copper, Copper
+yed - draws Estate, Copper, Caravan, Copper
+yed - shuffles deck
+yed - draws Butcher
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - gains Chapel
+Stef - plays 2 Copper
+Stef - uses 2 coin tokens
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Caravan, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Caravan
+yed - draws Chapel
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - trashes Estate
+yed - uses 1 coin token
+yed - gains Silver
+yed - plays 2 Copper
+yed - uses 1 coin token
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Butcher, Silver, Silver, Copper, Chapel
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Estate, Chapel, Copper
+ 
+---------- yed: turn 7 ----------
+yed - duration Caravan
+yed - draws Copper
+yed - plays Chapel
+yed - trashes Copper, Copper
+yed - plays 2 Silver
+yed - buys Caravan
+yed - gains Caravan
+yed - shuffles deck
+yed - draws Butcher, Silver, Caravan, Caravan, Chapel
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Butcher, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - trashes Chapel
+yed - uses 1 coin token
+yed - gains Silver
+yed - plays 2 Silver
+yed - buys Caravan
+yed - gains Caravan
+yed - shuffles deck
+yed - draws Caravan, Silver, Silver, Butcher, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Caravan
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Stables
+Stef - draws Estate, Copper, Chapel, Caravan, Caravan
+ 
+---------- yed: turn 9 ----------
+yed - duration Caravan
+yed - duration Caravan
+yed - plays Caravan
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - plays 3 Silver
+yed - buys Gold
+yed - gains Gold
+yed - shuffles deck
+yed - draws Butcher, Silver, Silver, Silver, Caravan
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - draws Stables, Silver, Caravan, Caravan, Butcher
+ 
+---------- yed: turn 10 ----------
+yed - duration Caravan
+yed - draws Gold
+yed - plays Caravan
+yed - draws Caravan
+yed - plays Caravan
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - plays 3 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Silver, Silver, Butcher, Gold, Province
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Caravan
+Stef - draws Chapel
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Stables
+Stef - uses 1 coin token
+Stef - gains Border Village
+Stef - gains Butcher
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Butcher
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - plays 2 Silver, 1 Copper
+Stef - uses 3 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - draws Border Village
+Stef - shuffles deck
+Stef - draws Estate, Caravan, Caravan, Caravan
+ 
+---------- yed: turn 11 ----------
+yed - duration Caravan
+yed - draws Caravan
+yed - duration Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - trashes Province
+yed - gains Province
+yed - plays 3 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Province, Silver, Silver, Caravan, Caravan
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Chapel
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Border Village
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Border Village
+Stef - draws Butcher
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Border Village
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Butcher, Province
+Stef - shuffles deck
+Stef - draws Chapel, Province, Butcher
+ 
+---------- yed: turn 12 ----------
+yed - duration Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - draws Butcher
+yed - plays Caravan
+yed - draws Province
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - trashes Silver
+yed - uses 1 coin token
+yed - uses 1 coin token
+yed - uses 1 coin token
+yed - gains Border Village
+yed - gains Duchy
+yed - plays 2 Silver
+yed - uses 1 coin token
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Gold
+yed - shuffles deck
+yed - draws Silver, Duchy, Caravan, Border Village
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Chapel
+Stef - gains Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - uses 1 coin token
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Duchy
+Stef - draws Duchy, Caravan, Border Village, Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+ 
+---------- yed: turn 13 ----------
+yed - duration Caravan
+yed - draws Duchy
+yed - duration Caravan
+yed - draws Province
+yed - plays Caravan
+yed - draws Butcher
+yed - plays Butcher
+yed - receives 2 coin tokens
+yed - trashes Border Village
+yed - uses 1 coin token
+yed - uses 1 coin token
+yed - gains Province
+yed - plays 1 Gold, 1 Silver
+yed - uses 3 coin tokens
+yed - buys Province
+yed - gains Province
+yed - draws Province, Silver
+yed - shuffles deck
+yed - draws Province, Duchy, Duchy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Caravan
+Stef - draws Butcher
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Border Village
+Stef - gains Border Village
+Stef - gains Duchy
+Stef - draws Caravan, Duchy, Silver, Caravan, Silver
+ 
+---------- yed: turn 14 ----------
+yed - duration Caravan
+yed - draws Silver
+yed - plays 2 Silver
+yed - uses 1 coin token
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Province, Gold, Butcher, Province, Caravan
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Butcher
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Province
+Stef - plays Caravan
+Stef - draws Border Village
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Butcher
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Border Village
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Silver
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Duchy
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Estate, Duchy, Province
+Stef - shuffles deck
+Stef - draws Butcher
+ 
+------------ Game Over ------------
+Stef - cards: 5 Caravan, 2 Butcher, 1 Border Village, 1 Copper, 1 Silver, 5 Duchy, 3 Province, 1 Estate
+Stef - total victory points: 34
+Stef - turns: 14
+ 
+yed - cards: 3 Caravan, 1 Butcher, 2 Silver, 1 Gold, 4 Province, 3 Duchy
+yed - total victory points: 33
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

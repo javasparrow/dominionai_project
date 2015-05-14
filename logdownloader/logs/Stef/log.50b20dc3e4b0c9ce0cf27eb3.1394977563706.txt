@@ -1,0 +1,631 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Embargo, Apothecary, Marauder, Salvager, Silk Road, Taxman, Bazaar, Council Room, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+shark_bait - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Potion
+shark_bait - gains Potion
+shark_bait - shuffles deck
+shark_bait - draws Potion, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Potion, Copper, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays 3 Copper, 1 Potion
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Embargo, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Marauder
+shark_bait - gains Marauder
+shark_bait - draws Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Potion, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Embargo
+Stef - embargoes Bazaar
+Stef - trashes Embargo
+Stef - plays 4 Copper
+Stef - buys Trading Post
+Stef - gains Trading Post
+Stef - draws Estate, Apothecary, Courtyard, Estate, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 3 Copper, 1 Potion
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Marauder, Copper, Apothecary, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Courtyard
+Stef - draws Potion, Copper, Estate
+Stef - places Apothecary on top of deck
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Apothecary, Copper
+Stef - shuffles deck
+Stef - draws Courtyard, Trading Post, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Estate
+shark_bait - reveals: Silver, Estate, Copper
+shark_bait - shuffles deck
+shark_bait - reveals: Copper
+shark_bait - places Silver on top of deck
+shark_bait - places Estate on top of deck
+shark_bait - plays Marauder
+shark_bait - gains Spoils
+Stef - gains Ruined Library
+shark_bait - plays 5 Copper
+shark_bait - buys Trading Post
+shark_bait - gains Trading Post
+shark_bait - draws Estate, Silver, Apothecary, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Copper, Estate, Potion, Apothecary
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Trading Post
+Stef - trashes Estate, Copper
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Apothecary, Estate, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Estate
+shark_bait - reveals: Potion
+shark_bait - shuffles deck
+shark_bait - reveals: Copper, Estate, Apothecary
+shark_bait - places Apothecary on top of deck
+shark_bait - places Estate on top of deck
+shark_bait - plays 3 Copper, 1 Silver, 1 Potion
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Estate, Apothecary, Trading Post, Copper, Marauder
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Apothecary, Copper, Silver
+Stef - places Apothecary on top of deck
+Stef - places Silver on top of deck
+Stef - plays 5 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Silver, Apothecary, Copper, Ruined Library, Apothecary
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Copper, Spoils, Copper
+shark_bait - shuffles deck
+shark_bait - reveals: Copper
+shark_bait - places Spoils on top of deck
+shark_bait - plays Marauder
+shark_bait - gains Spoils
+Stef - gains Abandoned Mine
+shark_bait - plays 5 Copper
+shark_bait - buys Trading Post
+shark_bait - gains Trading Post
+shark_bait - draws Spoils, Estate, Apothecary, Estate, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Trading Post
+Stef - reveals: Courtyard, Potion
+Stef - shuffles deck
+Stef - reveals: Copper, Abandoned Mine
+Stef - places Courtyard on top of deck
+Stef - places Abandoned Mine on top of deck
+Stef - plays Apothecary
+Stef - draws Abandoned Mine
+Stef - reveals: Courtyard, Copper, Copper, Copper
+Stef - places Courtyard on top of deck
+Stef - plays Trading Post
+Stef - trashes Ruined Library, Abandoned Mine
+Stef - gains Silver
+Stef - plays 5 Copper, 2 Silver, 1 Potion
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - draws Courtyard, Estate, Estate, Marauder, Apothecary
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Potion, Copper, Apothecary
+shark_bait - shuffles deck
+shark_bait - reveals: Trading Post
+shark_bait - places Apothecary on top of deck
+shark_bait - places Trading Post on top of deck
+shark_bait - plays 2 Copper, 1 Silver, 1 Potion
+shark_bait - plays Spoils
+shark_bait - buys Bazaar
+shark_bait - gains Curse
+shark_bait - gains Bazaar
+shark_bait - draws Trading Post, Apothecary, Copper, Marauder, Apothecary
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - plays Courtyard
+Stef - draws Apothecary, Silver, Copper
+Stef - places Apothecary on top of deck
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - draws Apothecary, Copper, Curse, Potion, Trading Post
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Copper, Trading Post, Spoils, Copper
+shark_bait - places Trading Post on top of deck
+shark_bait - places Spoils on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Spoils
+shark_bait - reveals: Trading Post, Estate, Copper
+shark_bait - shuffles deck
+shark_bait - reveals: Estate
+shark_bait - places Trading Post on top of deck
+shark_bait - places Estate on top of deck
+shark_bait - places Estate on top of deck
+shark_bait - plays Marauder
+shark_bait - gains Spoils
+Stef - gains Ruined Village
+shark_bait - plays 5 Copper
+shark_bait - buys Bazaar
+shark_bait - gains Curse
+shark_bait - gains Bazaar
+shark_bait - draws Estate, Estate, Trading Post, Copper, Apothecary
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Bazaar
+Stef - reveals: Silver, Apothecary
+Stef - shuffles deck
+Stef - reveals: Marauder, Copper
+Stef - places Silver on top of deck
+Stef - places Marauder on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Bazaar
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Marauder
+Stef - reveals: Silver, Silver, Ruined Village, Copper
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - places Ruined Village on top of deck
+Stef - plays Marauder
+Stef - gains Spoils
+shark_bait - gains Ruined Village
+Stef - plays Trading Post
+Stef - trashes Curse, Copper
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Ruined Village, Silver, Silver, Copper, Estate
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Curse
+shark_bait - reveals: Copper, Estate, Potion, Silver
+shark_bait - places Estate on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - plays Trading Post
+shark_bait - trashes Curse, Estate
+shark_bait - gains Silver
+shark_bait - plays 2 Copper, 1 Potion, 1 Silver
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Silver, Estate, Bazaar
+shark_bait - shuffles deck
+shark_bait - draws Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - draws Apothecary, Estate, Courtyard, Copper, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Bazaar
+shark_bait - draws Apothecary
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Apothecary, Apothecary, Apothecary, Copper
+shark_bait - places Apothecary on top of deck
+shark_bait - places Apothecary on top of deck
+shark_bait - places Apothecary on top of deck
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Council Room
+shark_bait - gains Council Room
+shark_bait - draws Apothecary, Apothecary, Apothecary, Ruined Village, Spoils
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apothecary
+Stef - draws Bazaar
+Stef - reveals: Curse
+Stef - shuffles deck
+Stef - reveals: Silver, Spoils, Potion
+Stef - places Curse on top of deck
+Stef - places Silver on top of deck
+Stef - places Spoils on top of deck
+Stef - plays Courtyard
+Stef - draws Spoils, Silver, Curse
+Stef - places Bazaar on top of deck
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - plays Spoils
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Bazaar, Silver, Apothecary, Apothecary, Council Room
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Trading Post
+shark_bait - reveals: Copper, Trading Post, Marauder, Potion
+shark_bait - places Trading Post on top of deck
+shark_bait - places Marauder on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Marauder
+shark_bait - reveals: Trading Post, Curse, Copper, Spoils
+shark_bait - places Spoils on top of deck
+shark_bait - places Trading Post on top of deck
+shark_bait - places Curse on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Curse
+shark_bait - reveals: Trading Post, Spoils, Silver, Bazaar
+shark_bait - places Trading Post on top of deck
+shark_bait - places Spoils on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Bazaar on top of deck
+shark_bait - plays Trading Post
+shark_bait - trashes Curse, Ruined Village
+shark_bait - gains Silver
+shark_bait - plays 2 Copper, 1 Potion, 1 Silver
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Bazaar, Silver, Spoils, Trading Post, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Apothecary, Marauder, Copper
+Stef - places Estate on top of deck
+Stef - places Marauder on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Bazaar
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Marauder
+Stef - reveals: Estate, Trading Post, Silver, Copper
+Stef - places Estate on top of deck
+Stef - places Trading Post on top of deck
+Stef - places Silver on top of deck
+Stef - plays Council Room
+Stef - draws Silver, Trading Post, Estate, Bazaar
+shark_bait - draws Copper
+Stef - plays Apothecary
+Stef - draws Ruined Village
+Stef - shuffles deck
+Stef - reveals: Apothecary, Potion, Copper, Estate
+Stef - places Apothecary on top of deck
+Stef - places Estate on top of deck
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays Marauder
+Stef - gains Spoils
+shark_bait - gains Abandoned Mine
+Stef - plays Trading Post
+Stef - trashes Ruined Village, Estate
+Stef - gains Silver
+Stef - plays 4 Copper, 3 Silver, 1 Potion
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - draws Apothecary, Copper, Apothecary, Silver, Curse
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Bazaar
+shark_bait - shuffles deck
+shark_bait - draws Abandoned Mine
+shark_bait - plays Trading Post
+shark_bait - trashes Abandoned Mine, Copper
+shark_bait - gains Silver
+shark_bait - plays 2 Silver, 1 Copper
+shark_bait - buys Council Room
+shark_bait - gains Council Room
+shark_bait - draws Silver, Marauder, Estate, Copper, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Apothecary
+Stef - draws Courtyard
+Stef - shuffles deck
+Stef - reveals: Trading Post, Apothecary, Spoils, Potion
+Stef - places Trading Post on top of deck
+Stef - places Spoils on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Spoils, Trading Post, Copper, Copper
+Stef - places Spoils on top of deck
+Stef - places Trading Post on top of deck
+Stef - plays Apothecary
+Stef - draws Trading Post
+Stef - reveals: Spoils, Bazaar, Copper, Copper
+Stef - places Spoils on top of deck
+Stef - places Bazaar on top of deck
+Stef - plays Trading Post
+Stef - trashes Curse, Potion
+Stef - gains Silver
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Bazaar, Spoils, Bazaar, Estate, Marauder
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays Marauder
+shark_bait - gains Spoils
+Stef - gains Ruined Village
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Salvager
+shark_bait - gains Salvager
+shark_bait - draws Apothecary, Potion, Trading Post, Copper, Council Room
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Bazaar
+Stef - draws Council Room
+Stef - plays Council Room
+Stef - draws Apothecary, Apothecary, Salvager, Silver
+shark_bait - draws Copper
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Curse, Bazaar
+Stef - shuffles deck
+Stef - reveals: Courtyard, Copper
+Stef - places Curse on top of deck
+Stef - places Courtyard on top of deck
+Stef - places Bazaar on top of deck
+Stef - plays Apothecary
+Stef - draws Bazaar
+Stef - reveals: Courtyard, Curse, Copper, Silver
+Stef - places Silver on top of deck
+Stef - places Curse on top of deck
+Stef - places Courtyard on top of deck
+Stef - plays Bazaar
+Stef - draws Courtyard
+Stef - plays Courtyard
+Stef - draws Curse, Silver, Apothecary
+Stef - places Copper on top of deck
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Apothecary, Copper, Copper, Ruined Village
+Stef - places Ruined Village on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Marauder
+Stef - gains Spoils
+shark_bait - gains Ruined Village
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 4 Silver, 4 Copper
+Stef - plays Spoils
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Ruined Village, Copper, Apothecary, Trading Post
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Bazaar
+shark_bait - reveals: Apothecary, Apothecary, Silver, Estate
+shark_bait - places Apothecary on top of deck
+shark_bait - places Apothecary on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Estate on top of deck
+shark_bait - plays Bazaar
+shark_bait - draws Estate
+shark_bait - plays Council Room
+shark_bait - draws Silver, Apothecary, Apothecary, Copper
+Stef - draws Silver
+shark_bait - plays Apothecary
+shark_bait - draws Apothecary
+shark_bait - reveals: Apothecary, Spoils
+shark_bait - shuffles deck
+shark_bait - reveals: Silver, Council Room
+shark_bait - places Council Room on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Spoils on top of deck
+shark_bait - places Apothecary on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Apothecary
+shark_bait - reveals: Spoils, Silver, Council Room, Salvager
+shark_bait - places Council Room on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Salvager on top of deck
+shark_bait - places Spoils on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Spoils
+shark_bait - reveals: Salvager, Silver, Council Room, Silver
+shark_bait - places Council Room on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Salvager on top of deck
+shark_bait - plays Apothecary
+shark_bait - draws Salvager
+shark_bait - reveals: Silver, Silver, Council Room, Trading Post
+shark_bait - places Silver on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Council Room on top of deck
+shark_bait - places Trading Post on top of deck
+shark_bait - plays Salvager
+shark_bait - trashes Trading Post
+shark_bait - plays 3 Copper, 1 Potion, 1 Silver
+shark_bait - plays Spoils
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Bazaar
+shark_bait - gains Curse
+shark_bait - gains Bazaar
+shark_bait - draws Trading Post, Council Room, Silver, Silver, Spoils
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Apothecary
+Stef - draws Province
+Stef - shuffles deck
+Stef - reveals: Copper, Province, Copper, Council Room
+Stef - places Council Room on top of deck
+Stef - places Province on top of deck
+Stef - plays Apothecary
+Stef - draws Province
+Stef - reveals: Council Room, Spoils, Bazaar, Bazaar
+Stef - places Council Room on top of deck
+Stef - places Spoils on top of deck
+Stef - places Bazaar on top of deck
+Stef - places Bazaar on top of deck
+Stef - plays Trading Post
+Stef - trashes Ruined Village, Copper
+Stef - gains Silver
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Bazaar, Bazaar, Spoils, Council Room, Marauder
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays 2 Silver
+shark_bait - plays Spoils
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Council Room
+Stef - draws Copper, Courtyard, Bazaar, Silver
+shark_bait - draws Marauder
+Stef - plays Bazaar
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Curse, Copper, Council Room, Salvager
+Stef - places Curse on top of deck
+Stef - places Council Room on top of deck
+Stef - places Salvager on top of deck
+Stef - plays Courtyard
+Stef - draws Salvager, Council Room, Curse
+Stef - places Council Room on top of deck
+Stef - plays Apothecary
+Stef - draws Council Room
+Stef - reveals: Silver, Curse, Apothecary, Silver
+Stef - places Silver on top of deck
+Stef - places Curse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Silver on top of deck
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Council Room
+Stef - draws Apothecary, Curse, Silver
+Stef - shuffles deck
+Stef - draws Silver
+shark_bait - draws Bazaar
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Silver, Trading Post, Apothecary, Copper
+Stef - places Silver on top of deck
+Stef - places Trading Post on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Salvager
+Stef - trashes Marauder
+Stef - plays 5 Silver, 4 Copper
+Stef - plays Spoils
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - buys Bazaar
+Stef - gains Curse
+Stef - gains Bazaar
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Trading Post, Silver, Province, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 7 Bazaar, 5 Apothecary, 2 Council Room, 1 Trading Post, 1 Courtyard, 1 Salvager, 6 Silver, 4 Copper, 3 Province, 1 Duchy, 5 Curse
+Stef - total victory points: 16
+Stef - turns: 18
+ 
+shark_bait - cards: 5 Apothecary, 3 Bazaar, 2 Council Room, 1 Marauder, 1 Salvager, 1 Trading Post, 1 Ruined Village, 6 Copper, 4 Silver, 1 Potion, 1 Spoils, 2 Estate, 1 Province, 1 Duchy, 1 Curse
+shark_bait - total victory points: 10
+shark_bait - turns: 17
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

@@ -1,0 +1,439 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Stonemason, Develop, Death Cart, Treasure Map, City, Contraband, Inn, Mine, Mystic, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eof - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+eof - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+eof - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- eof: turn 1 ----------
+eof - plays 3 Copper
+eof - buys Silver
+eof - gains Silver
+eof - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Develop
+ 
+---------- eof: turn 2 ----------
+eof - plays 4 Copper
+eof - buys Silver
+eof - gains Silver
+eof - shuffles deck
+eof - draws Copper, Copper, Estate, Silver, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- eof: turn 3 ----------
+eof - plays 2 Copper, 2 Silver
+eof - buys Gold
+eof - gains Gold
+eof - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate
+ 
+---------- eof: turn 4 ----------
+eof - plays 4 Copper
+eof - buys Silver
+eof - gains Silver
+eof - draws Estate, Copper
+eof - shuffles deck
+eof - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mine
+Stef - gains Mine
+Stef - draws Silver, Silver, Copper, Copper, Develop
+ 
+---------- eof: turn 5 ----------
+eof - plays 3 Copper, 1 Silver
+eof - buys Mine
+eof - gains Mine
+eof - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Estate, Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- eof: turn 6 ----------
+eof - plays 3 Copper, 1 Silver
+eof - buys Mystic
+eof - gains Mystic
+eof - draws Silver, Gold, Copper, Estate
+eof - shuffles deck
+eof - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Silver, Silver, Copper, City, Develop
+ 
+---------- eof: turn 7 ----------
+eof - plays 2 Copper, 1 Silver, 1 Gold
+eof - buys Gold
+eof - gains Gold
+eof - draws Copper, Silver, Copper, Copper, Mystic
+ 
+---------- Stef: turn 8 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Mine, Copper, Estate, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- eof: turn 8 ----------
+eof - plays Mystic
+eof - names Copper
+eof - reveals Silver
+eof - plays 3 Copper, 1 Silver
+eof - buys Gold
+eof - gains Gold
+eof - draws Silver, Mine, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys City
+Stef - gains City
+Stef - draws City, City, City, Develop, Copper
+ 
+---------- eof: turn 9 ----------
+eof - plays Mine
+eof - trashes Silver
+eof - gains Gold
+eof - plays 2 Copper, 1 Gold
+eof - buys Mystic
+eof - gains Mystic
+eof - draws Estate
+eof - shuffles deck
+eof - draws Copper, Gold, Estate, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - draws Estate
+Stef - plays City
+Stef - draws Copper
+Stef - plays City
+Stef - draws Silver
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Silver
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Silver, Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Cellar
+ 
+---------- eof: turn 10 ----------
+eof - plays 2 Gold, 1 Copper
+eof - buys Gold
+eof - gains Gold
+eof - draws Silver, Copper, Mystic, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Silver, Estate
+Stef - plays 3 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Mine, City, Copper, Develop, Copper
+ 
+---------- eof: turn 11 ----------
+eof - plays Mystic
+eof - names Copper
+eof - reveals Copper
+eof - places Copper in hand
+eof - plays 4 Copper, 1 Silver
+eof - buys Province
+eof - gains Province
+eof - draws Gold, Gold, Mine, Estate, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Silver
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - buys City
+Stef - gains City
+Stef - draws City, City, Copper, Gold
+Stef - shuffles deck
+Stef - draws City
+ 
+---------- eof: turn 12 ----------
+eof - plays Mine
+eof - trashes Silver
+eof - gains Gold
+eof - plays 3 Gold
+eof - buys Province
+eof - gains Province
+eof - draws Copper, Copper, Mystic
+eof - shuffles deck
+eof - draws Gold, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Silver
+Stef - plays City
+Stef - draws Copper
+Stef - plays City
+Stef - draws Estate
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains City
+Stef - gains City
+Stef - gains Stonemason
+Stef - draws Copper, Copper, Gold, Silver, City
+ 
+---------- eof: turn 13 ----------
+eof - plays Mystic
+eof - names Copper
+eof - reveals Gold
+eof - plays 2 Copper, 1 Gold
+eof - buys Gold
+eof - gains Gold
+eof - draws Gold, Copper, Gold, Gold, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws Mine
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 2 Copper, 2 Gold
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains City
+Stef - gains City
+Stef - gains Stonemason
+Stef - draws Silver, Develop, Copper, Cellar, City
+ 
+---------- eof: turn 14 ----------
+eof - plays 3 Gold, 1 Copper
+eof - buys Province
+eof - gains Province
+eof - draws Copper, Mystic, Gold, Copper, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - shuffles deck
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws Gold, Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Silver
+Stef - discards Gold
+Stef - draws City, City, Mine, Copper, City
+Stef - plays City
+Stef - draws City, Gold
+Stef - plays City
+Stef - draws Copper, Gold
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Stonemason, Stonemason
+Stef - plays City
+Stef - draws City, Estate
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays City
+Stef - draws Silver, Gold
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Duchy
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 3 Gold, 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws City, Duchy, Gold, Stonemason
+ 
+---------- eof: turn 15 ----------
+eof - plays Mystic
+eof - names Estate
+eof - reveals Mine
+eof - plays 2 Copper, 2 Gold
+eof - buys Province
+eof - gains Province
+eof - draws Mine, Province, Copper, Copper, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Gold, Develop
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Duchy
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws City, Mine, City, Cellar, City
+ 
+---------- eof: turn 16 ----------
+eof - plays Mine
+eof - trashes Copper
+eof - gains Silver
+eof - plays Silver
+eof - buys Stonemason
+eof - gains Stonemason
+eof - draws Province, Silver
+eof - shuffles deck
+eof - draws Gold, Silver, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - draws City, Stonemason
+Stef - plays City
+Stef - draws Province, City
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws City, Duchy
+Stef - plays City
+Stef - draws Gold, Estate
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Duchy, Gold
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - draws Stonemason, Develop
+Stef - plays Cellar
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - draws Duchy, Duchy
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Duchy
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Duchy
+Stef - gains Duchy
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Copper, Develop, Duchy, City
+ 
+---------- eof: turn 17 ----------
+eof - plays 2 Silver, 1 Gold, 1 Copper
+eof - buys Province
+eof - gains Province
+eof - draws Copper, Estate, Mystic, Mystic, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays City
+Stef - draws Duchy, Copper
+Stef - plays Inn
+Stef - draws Duchy, City
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - plays City
+Stef - draws Cellar, Estate
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Duchy
+Stef - discards Copper
+Stef - discards Develop
+Stef - discards Copper
+Stef - draws Duchy, City, City, City, City
+Stef - plays City
+Stef - draws Province, City
+Stef - plays City
+Stef - draws Silver, Duchy
+Stef - plays City
+Stef - draws Duchy, Gold
+Stef - plays City
+Stef - draws Duchy, Stonemason
+Stef - plays City
+Stef - draws City, City
+ 
+------------ Game Over ------------
+Stef - cards: 3 City, 2 Stonemason, 1 Develop, 1 Mine, 2 Copper, 1 Silver, 1 Gold, 8 Duchy, 1 Province, 1 Estate
+Stef - total victory points: 31
+Stef - turns: 17
+ 
+eof - resigned
+eof - cards: 2 Mystic, 1 Stonemason, 1 Mine, 7 Gold, 6 Copper, 2 Silver, 5 Province, 3 Estate
+eof - total victory points: 33
+eof - turns: 17
+ 
+1st place: Stef
+2nd place: eof
+ 

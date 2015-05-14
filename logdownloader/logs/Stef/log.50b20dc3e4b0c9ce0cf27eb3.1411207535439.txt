@@ -1,0 +1,637 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Crossroads, Pawn, Trade Route, Nomad Camp, Apprentice, Embassy, Graverobber, Hunting Party, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+test00test00 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+test00test00 - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+test00test00 - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- test00test00: turn 1 ----------
+test00test00 - plays 3 Copper
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- test00test00: turn 2 ----------
+test00test00 - plays 4 Copper
+test00test00 - buys Nomad Camp
+test00test00 - gains Nomad Camp
+test00test00 - draws Nomad Camp
+test00test00 - shuffles deck
+test00test00 - draws Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- test00test00: turn 3 ----------
+test00test00 - plays Nomad Camp
+test00test00 - plays 2 Copper
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - draws Silver, Silver, Copper, Copper, Estate
+ 
+---------- test00test00: turn 4 ----------
+test00test00 - plays 3 Copper, 1 Silver
+test00test00 - buys Hunting Party
+test00test00 - gains Hunting Party
+test00test00 - draws Copper, Copper
+test00test00 - shuffles deck
+test00test00 - draws Copper, Estate, Hunting Party
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- test00test00: turn 5 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Copper, Copper, Copper, Estate, Copper
+test00test00 - reveals Silver
+test00test00 - places Silver in hand
+test00test00 - plays 4 Copper, 1 Silver
+test00test00 - buys Hunting Party
+test00test00 - gains Hunting Party
+test00test00 - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 5 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Hunting Party, Estate, Trade Route, Silver, Estate
+ 
+---------- test00test00: turn 6 ----------
+test00test00 - plays 3 Copper, 1 Silver
+test00test00 - buys Hunting Party
+test00test00 - gains Hunting Party
+test00test00 - draws Nomad Camp, Estate
+test00test00 - shuffles deck
+test00test00 - draws Silver, Hunting Party, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Estate, Trade Route, Silver, Estate, Estate
+Stef - reveals Silver, Copper
+Stef - places Copper in hand
+Stef - discards Silver
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Hunting Party, Copper, Copper
+ 
+---------- test00test00: turn 7 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Silver
+test00test00 - reveals hand: Nomad Camp, Estate, Silver, Copper, Silver
+test00test00 - reveals Copper, Copper, Copper, Copper, Estate, Copper, Estate, Copper, Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - discards: Copper, Copper, Copper, Copper, Estate, Copper, Estate, Copper
+test00test00 - plays Hunting Party
+test00test00 - draws Hunting Party
+test00test00 - reveals hand: Nomad Camp, Estate, Silver, Copper, Silver, Hunting Party
+test00test00 - shuffles deck
+test00test00 - reveals Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper
+test00test00 - discards: Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper
+test00test00 - plays Hunting Party
+test00test00 - shuffles deck
+test00test00 - draws Copper
+test00test00 - reveals hand: Nomad Camp, Estate, Silver, Copper, Silver, Copper
+test00test00 - reveals Copper, Estate, Copper, Copper, Estate, Copper, Copper
+test00test00 - discards: Copper, Estate, Copper, Copper, Estate, Copper, Copper
+test00test00 - plays Nomad Camp
+test00test00 - plays 2 Silver, 2 Copper
+test00test00 - buys Hunting Party
+test00test00 - gains Hunting Party
+test00test00 - buys Crossroads
+test00test00 - gains Crossroads
+test00test00 - shuffles deck
+test00test00 - draws Silver, Copper, Hunting Party, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Estate, Copper, Copper, Copper
+Stef - reveals Trade Route
+Stef - places Trade Route in hand
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Estate, Hunting Party, Copper
+ 
+---------- test00test00: turn 8 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Hunting Party
+test00test00 - reveals hand: Silver, Copper, Silver, Copper, Hunting Party
+test00test00 - reveals Estate
+test00test00 - places Estate in hand
+test00test00 - plays Hunting Party
+test00test00 - draws Estate
+test00test00 - reveals hand: Silver, Copper, Silver, Copper, Estate, Estate
+test00test00 - reveals Crossroads
+test00test00 - places Crossroads in hand
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Silver, Copper, Silver, Copper, Estate, Estate
+test00test00 - draws Copper, Copper
+test00test00 - plays 4 Copper, 2 Silver
+test00test00 - buys Province
+test00test00 - gains Province
+test00test00 - draws Copper, Hunting Party, Copper, Copper, Hunting Party
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Copper, Silver, Estate, Copper, Silver
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Estate, Copper, Silver, Copper
+Stef - reveals Copper, Trade Route
+Stef - places Trade Route in hand
+Stef - discards Copper
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Silver, Silver
+ 
+---------- test00test00: turn 9 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Nomad Camp
+test00test00 - reveals hand: Copper, Hunting Party, Copper, Copper, Nomad Camp
+test00test00 - reveals Estate
+test00test00 - places Estate in hand
+test00test00 - plays Hunting Party
+test00test00 - shuffles deck
+test00test00 - draws Estate
+test00test00 - reveals hand: Copper, Copper, Copper, Nomad Camp, Estate, Estate
+test00test00 - reveals Estate, Copper, Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - discards: Estate, Copper
+test00test00 - plays Hunting Party
+test00test00 - draws Silver
+test00test00 - reveals hand: Copper, Copper, Copper, Nomad Camp, Estate, Estate, Silver
+test00test00 - reveals Copper, Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - discards Copper
+test00test00 - plays Hunting Party
+test00test00 - draws Silver
+test00test00 - reveals hand: Copper, Copper, Copper, Nomad Camp, Estate, Estate, Silver, Silver
+test00test00 - reveals Province
+test00test00 - places Province in hand
+test00test00 - plays Nomad Camp
+test00test00 - plays 3 Copper, 2 Silver
+test00test00 - buys Province
+test00test00 - gains Province
+test00test00 - draws Crossroads, Copper, Copper
+test00test00 - shuffles deck
+test00test00 - draws Estate, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Hunting Party, Copper, Copper, Hunting Party, Copper
+ 
+---------- test00test00: turn 10 ----------
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Copper, Copper, Estate, Estate
+test00test00 - draws Province, Copper
+test00test00 - plays 3 Copper
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Province, Silver, Hunting Party, Copper, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Hunting Party, Copper, Copper, Copper, Copper
+Stef - reveals Copper, Silver
+Stef - places Silver in hand
+Stef - discards Copper
+Stef - plays Hunting Party
+Stef - draws Trade Route
+Stef - reveals hand: Copper, Copper, Copper, Copper, Silver, Trade Route
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Copper, Copper, Copper, Copper, Silver, Trade Route, Silver
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Copper, Silver, Copper, Gold
+Stef - places Gold in hand
+Stef - discards: Silver, Copper, Copper, Silver, Copper
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Copper, 2 Silver, 1 Gold
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Trade Route, Gold, Copper, Copper
+ 
+---------- test00test00: turn 11 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Hunting Party
+test00test00 - reveals hand: Province, Silver, Copper, Silver, Hunting Party
+test00test00 - reveals Hunting Party, Hunting Party, Copper, Nomad Camp
+test00test00 - places Nomad Camp in hand
+test00test00 - discards: Hunting Party, Hunting Party, Copper
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Province, Silver, Copper, Silver, Nomad Camp, Copper
+test00test00 - reveals Estate
+test00test00 - places Estate in hand
+test00test00 - plays Nomad Camp
+test00test00 - plays 2 Silver, 2 Copper
+test00test00 - buys Province
+test00test00 - gains Province
+test00test00 - draws Copper
+test00test00 - shuffles deck
+test00test00 - draws Hunting Party, Silver, Province, Hunting Party
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Gold, 1 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Hunting Party, Copper, Hunting Party, Silver, Hunting Party
+ 
+---------- test00test00: turn 12 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Estate
+test00test00 - reveals hand: Copper, Hunting Party, Silver, Province, Estate
+test00test00 - reveals Copper, Province, Nomad Camp
+test00test00 - places Nomad Camp in hand
+test00test00 - discards: Copper, Province
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Copper, Silver, Province, Estate, Nomad Camp, Copper
+test00test00 - reveals Estate, Copper, Silver, Copper, Estate, Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - discards: Estate, Copper, Silver, Copper, Estate
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Copper, Silver, Province, Estate, Nomad Camp, Copper, Copper
+test00test00 - reveals Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Copper, Silver, Province, Estate, Nomad Camp, Copper, Copper, Copper
+test00test00 - reveals Province, Crossroads
+test00test00 - places Crossroads in hand
+test00test00 - discards Province
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Copper, Silver, Province, Estate, Nomad Camp, Copper, Copper, Copper
+test00test00 - draws Silver
+test00test00 - shuffles deck
+test00test00 - draws Estate
+test00test00 - plays Nomad Camp
+test00test00 - plays 4 Copper, 2 Silver
+test00test00 - buys Province
+test00test00 - gains Province
+test00test00 - buys Crossroads
+test00test00 - gains Crossroads
+test00test00 - draws Copper, Copper, Estate, Province, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Hunting Party, Copper, Hunting Party, Silver, Silver
+Stef - shuffles deck
+Stef - reveals Hunting Party, Copper, Hunting Party, Silver, Copper, Silver, Copper, Gold
+Stef - places Gold in hand
+Stef - discards: Hunting Party, Copper, Hunting Party, Silver, Copper, Silver, Copper
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Hunting Party, Copper, Silver, Silver, Gold, Silver
+Stef - reveals Hunting Party, Trade Route
+Stef - places Trade Route in hand
+Stef - discards Hunting Party
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Silver, Gold, Silver, Trade Route, Copper
+Stef - shuffles deck
+Stef - reveals Copper, Silver, Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Silver, Silver
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Silver, Silver, Gold, Silver, Trade Route, Copper, Hunting Party
+Stef - shuffles deck
+Stef - reveals Copper, Hunting Party, Copper, Copper, Silver, Silver
+Stef - discards: Copper, Hunting Party, Copper, Copper, Silver, Silver
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Silver, Gold, Silver, Trade Route, Copper, Copper
+Stef - reveals Copper, Silver, Copper, Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Silver, Copper, Silver
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Silver, Gold, Silver, Trade Route, Copper, Copper, Copper
+Stef - reveals Copper, Silver, Silver
+Stef - discards: Copper, Silver, Silver
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Copper, 3 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Trade Route, Duchy, Hunting Party, Silver, Hunting Party
+ 
+---------- test00test00: turn 13 ----------
+test00test00 - plays 3 Copper
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Silver, Province
+test00test00 - shuffles deck
+test00test00 - draws Province, Crossroads, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Trade Route, Duchy, Hunting Party, Silver, Copper
+Stef - reveals Copper, Silver, Hunting Party, Hunting Party, Hunting Party, Silver, Gold
+Stef - places Gold in hand
+Stef - discards: Copper, Silver, Hunting Party, Hunting Party, Hunting Party, Silver
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Trade Route, Duchy, Silver, Copper, Gold, Copper
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Silver, Copper, Hunting Party
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- test00test00: turn 14 ----------
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Silver, Province, Province, Copper
+test00test00 - draws Copper, Province
+test00test00 - plays 2 Copper, 1 Silver
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Estate, Hunting Party, Hunting Party, Hunting Party, Crossroads
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Silver, Copper, Province, Copper
+Stef - reveals Silver, Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Silver
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Silver, Copper, Province, Copper, Copper
+Stef - reveals Province, Duchy
+Stef - places Duchy in hand
+Stef - discards Province
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Hunting Party, Silver, Trade Route, Hunting Party, Hunting Party
+ 
+---------- test00test00: turn 15 ----------
+test00test00 - plays Hunting Party
+test00test00 - draws Copper
+test00test00 - reveals hand: Estate, Hunting Party, Hunting Party, Crossroads, Copper
+test00test00 - reveals Copper, Copper, Estate, Province
+test00test00 - places Province in hand
+test00test00 - discards: Copper, Copper, Estate
+test00test00 - plays Hunting Party
+test00test00 - draws Silver
+test00test00 - reveals hand: Estate, Hunting Party, Crossroads, Copper, Province, Silver
+test00test00 - reveals Copper, Nomad Camp
+test00test00 - places Nomad Camp in hand
+test00test00 - discards Copper
+test00test00 - plays Hunting Party
+test00test00 - draws Estate
+test00test00 - reveals hand: Estate, Crossroads, Copper, Province, Silver, Nomad Camp, Estate
+test00test00 - reveals Silver, Hunting Party
+test00test00 - places Hunting Party in hand
+test00test00 - discards Silver
+test00test00 - plays Hunting Party
+test00test00 - draws Silver
+test00test00 - reveals hand: Estate, Crossroads, Copper, Province, Silver, Nomad Camp, Estate, Silver
+test00test00 - shuffles deck
+test00test00 - reveals Copper, Province, Copper, Province, Silver, Copper, Estate, Copper, Crossroads, Silver, Copper, Copper, Province, Silver
+test00test00 - discards: Copper, Province, Copper, Province, Silver, Copper, Estate, Copper, Crossroads, Silver, Copper, Copper, Province, Silver
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Estate, Copper, Province, Silver, Nomad Camp, Estate, Silver
+test00test00 - shuffles deck
+test00test00 - draws Crossroads, Copper, Copper
+test00test00 - plays Crossroads
+test00test00 - reveals hand: Copper, Copper, Estate, Copper, Province, Silver, Nomad Camp, Estate, Silver
+test00test00 - draws Estate, Copper, Silver
+test00test00 - plays Nomad Camp
+test00test00 - plays 4 Copper, 3 Silver
+test00test00 - buys Province
+test00test00 - gains Province
+test00test00 - buys Silver
+test00test00 - gains Silver
+test00test00 - draws Silver, Province, Province, Copper, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Hunting Party, Silver, Trade Route, Hunting Party, Hunting Party
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Province
+Stef - reveals hand: Hunting Party, Silver, Trade Route, Hunting Party, Gold, Province
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Hunting Party, Silver, Trade Route, Gold, Province, Copper, Silver
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Trade Route, Gold, Province, Copper, Silver, Duchy, Hunting Party
+Stef - reveals Copper, Hunting Party, Silver, Duchy, Province, Copper, Silver, Silver
+Stef - discards: Copper, Hunting Party, Silver, Duchy, Province, Copper, Silver, Silver
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - reveals hand: Silver, Trade Route, Gold, Province, Copper, Silver, Duchy, Duchy
+Stef - reveals Silver, Silver, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Silver, Copper
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Silver, Trade Route, Gold, Province, Copper, Silver, Duchy, Duchy, Silver
+Stef - shuffles deck
+Stef - reveals Copper, Province, Silver, Copper, Silver
+Stef - discards: Copper, Province, Silver, Copper, Silver
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Province, Hunting Party, Hunting Party, Silver, Hunting Party
+ 
+---------- test00test00: turn 16 ----------
+test00test00 - plays 1 Silver, 1 Copper
+test00test00 - buys Crossroads
+test00test00 - gains Crossroads
+test00test00 - draws Copper, Copper, Silver
+test00test00 - shuffles deck
+test00test00 - draws Silver, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Province, Hunting Party, Hunting Party, Silver, Copper
+Stef - reveals Silver, Duchy
+Stef - places Duchy in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Province, Hunting Party, Silver, Copper, Duchy, Copper
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Hunting Party
+Stef - draws Trade Route
+Stef - reveals hand: Province, Silver, Copper, Duchy, Copper, Gold, Trade Route
+Stef - reveals Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Province, Silver, Copper, Duchy, Copper, Gold, Trade Route, Silver
+Stef - reveals Duchy, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Duchy
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Province, Silver, Copper, Duchy, Copper, Gold, Trade Route, Silver, Hunting Party
+Stef - shuffles deck
+Stef - reveals Duchy, Province, Duchy, Silver, Duchy, Silver, Silver
+Stef - discards: Duchy, Province, Duchy, Silver, Duchy, Silver, Silver
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Silver
+Stef - reveals hand: Province, Silver, Copper, Duchy, Copper, Gold, Trade Route, Silver, Silver
+Stef - reveals Province, Silver, Silver, Duchy, Duchy, Duchy
+Stef - discards: Province, Silver, Silver, Duchy, Duchy, Duchy
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Silver, 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Hunting Party, Trade Route, Silver
+ 
+---------- test00test00: turn 17 ----------
+test00test00 - plays 2 Copper, 2 Silver
+test00test00 - buys Duchy
+test00test00 - gains Duchy
+test00test00 - draws Silver, Silver, Crossroads, Hunting Party, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Duchy, Trade Route, Silver, Hunting Party
+Stef - reveals Duchy, Duchy, Copper
+Stef - places Copper in hand
+Stef - discards: Duchy, Duchy
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Duchy, Trade Route, Silver, Copper, Hunting Party
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Hunting Party
+Stef - draws Province
+Stef - reveals hand: Silver, Duchy, Trade Route, Silver, Copper, Province, Province
+Stef - reveals Duchy, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Duchy
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Silver, Duchy, Trade Route, Silver, Copper, Province, Province, Silver
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Duchy
+Stef - reveals hand: Silver, Duchy, Trade Route, Silver, Copper, Province, Province, Silver, Duchy
+Stef - reveals Silver, Gold
+Stef - places Gold in hand
+Stef - discards Silver
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 3 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy, Hunting Party, Silver
+Stef - shuffles deck
+Stef - draws Hunting Party, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 6 Hunting Party, 1 Trade Route, 5 Silver, 1 Gold, 6 Duchy, 3 Province, 1 Estate
+Stef - total victory points: 37
+Stef - turns: 17
+ 
+test00test00 - cards: 4 Hunting Party, 3 Crossroads, 1 Nomad Camp, 7 Copper, 6 Silver, 5 Province, 3 Estate, 1 Duchy
+test00test00 - total victory points: 36
+test00test00 - turns: 17
+ 
+1st place: Stef
+2nd place: test00test00
+ 

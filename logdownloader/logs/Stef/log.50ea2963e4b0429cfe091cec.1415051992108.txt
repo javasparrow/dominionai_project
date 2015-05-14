@@ -1,0 +1,406 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Fishing Village, Lookout, Bureaucrat, Procession, Salvager, Scavenger, Treasure Map, Bazaar, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - shuffles deck
+Stef - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Estate, Estate
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Lookout
+shark_bait - gains Lookout
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Scavenger
+shark_bait - gains Scavenger
+shark_bait - shuffles deck
+shark_bait - draws Estate, Copper, Lookout, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - shuffles deck
+Stef - draws Copper, Copper, Lookout, Estate, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Lookout
+shark_bait - trashes Estate
+shark_bait - discards Copper
+shark_bait - places Copper on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Lookout
+shark_bait - gains Lookout
+shark_bait - draws Copper, Estate, Copper, Copper, Scavenger
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Copper, Estate, Copper, Copper, Scavenger
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Scavenger
+shark_bait - places Lookout on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Treasure Map
+shark_bait - gains Treasure Map
+shark_bait - draws Lookout
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Treasure Map
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scavenger
+Stef - places Lookout on top of deck
+Stef - plays 3 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Lookout
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Lookout
+shark_bait - trashes Estate
+shark_bait - discards Copper
+shark_bait - places Copper on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Fishing Village
+shark_bait - gains Fishing Village
+shark_bait - draws Copper, Scavenger, Copper, Copper, Lookout
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Scavenger
+Stef - places Lookout on top of deck
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Lookout, Copper, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Lookout
+shark_bait - shuffles deck
+shark_bait - trashes Estate
+shark_bait - discards Copper
+shark_bait - places Copper on top of deck
+shark_bait - plays Scavenger
+shark_bait - moves deck to discards
+shark_bait - places Treasure Map on top of deck
+shark_bait - plays 3 Copper
+shark_bait - buys Treasure Map
+shark_bait - gains Treasure Map
+shark_bait - draws Treasure Map
+shark_bait - shuffles deck
+shark_bait - draws Copper, Lookout, Scavenger, Lookout
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - discards Scavenger
+Stef - places Bazaar on top of deck
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Bazaar, Lookout, Copper, Vagrant, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Lookout
+shark_bait - trashes Copper
+shark_bait - discards Copper
+shark_bait - places Fishing Village on top of deck
+shark_bait - plays Lookout
+shark_bait - trashes Copper
+shark_bait - discards Treasure Map
+shark_bait - places Fishing Village on top of deck
+shark_bait - plays Scavenger
+shark_bait - moves deck to discards
+shark_bait - places Treasure Map on top of deck
+shark_bait - plays 1 Copper
+shark_bait - buys Vagrant
+shark_bait - gains Vagrant
+shark_bait - draws Treasure Map
+shark_bait - shuffles deck
+shark_bait - draws Lookout, Fishing Village, Copper, Treasure Map
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Scavenger on top of deck
+Stef - plays Bazaar
+Stef - draws Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Lookout on top of deck
+Stef - plays Vagrant
+Stef - draws Lookout
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Copper
+Stef - buys Procession
+Stef - gains Procession
+Stef - draws Copper, Vagrant
+Stef - shuffles deck
+Stef - draws Copper, Copper, Vagrant
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Fishing Village
+shark_bait - plays Lookout
+shark_bait - trashes Copper
+shark_bait - discards Vagrant
+shark_bait - places Scavenger on top of deck
+shark_bait - plays Treasure Map
+shark_bait - trashes Treasure Map, Treasure Map
+shark_bait - gains Gold
+shark_bait - gains Gold
+shark_bait - gains Gold
+shark_bait - gains Gold
+shark_bait - plays 1 Copper
+shark_bait - buys Vagrant
+shark_bait - gains Vagrant
+shark_bait - draws Gold, Gold, Gold, Gold, Scavenger
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Procession
+Stef - places Procession on top of deck
+Stef - plays 4 Copper
+Stef - buys Treasure Map
+Stef - gains Treasure Map
+Stef - draws Procession, Bazaar, Scavenger, Lookout, Lookout
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - duration Fishing Village
+shark_bait - plays Scavenger
+shark_bait - moves deck to discards
+shark_bait - places Copper on top of deck
+shark_bait - plays 4 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Gold, Scavenger, Copper, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Procession
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Treasure Map on top of deck
+Stef - trashes Lookout
+Stef - gains Treasure Map
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Vagrant
+Stef - places Treasure Map on top of deck
+Stef - plays Scavenger
+Stef - places Treasure Map on top of deck
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Treasure Map, Treasure Map, Vagrant
+Stef - shuffles deck
+Stef - draws Lookout, Procession
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Scavenger
+shark_bait - moves deck to discards
+shark_bait - places Gold on top of deck
+shark_bait - plays 2 Copper, 2 Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Gold
+shark_bait - shuffles deck
+shark_bait - draws Copper, Lookout, Vagrant, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Procession
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Vagrant
+Stef - places Bazaar on top of deck
+Stef - plays Lookout
+Stef - trashes Vagrant
+Stef - discards Bazaar
+Stef - places Scavenger on top of deck
+Stef - trashes Lookout
+Stef - gains Salvager
+Stef - plays Vagrant
+Stef - draws Scavenger
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Treasure Map
+Stef - trashes Treasure Map, Treasure Map
+Stef - gains Gold
+Stef - gains Gold
+Stef - gains Gold
+Stef - gains Gold
+Stef - plays Scavenger
+Stef - places Bazaar on top of deck
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Bazaar, Gold, Gold, Gold, Gold
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Lookout
+shark_bait - trashes Copper
+shark_bait - discards Fishing Village
+shark_bait - places Gold on top of deck
+shark_bait - plays Vagrant
+shark_bait - draws Gold
+shark_bait - reveals: Scavenger
+shark_bait - places Scavenger on top of deck
+shark_bait - plays 2 Gold, 2 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Scavenger, Vagrant, Gold, Province, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 4 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Salvager, Province, Vagrant, Procession, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Vagrant
+shark_bait - draws Province
+shark_bait - reveals: Gold
+shark_bait - places Gold on top of deck
+shark_bait - plays Scavenger
+shark_bait - moves deck to discards
+shark_bait - places Gold on top of deck
+shark_bait - plays 1 Gold, 1 Copper
+shark_bait - buys Salvager
+shark_bait - gains Salvager
+shark_bait - draws Gold
+shark_bait - shuffles deck
+shark_bait - draws Copper, Province, Scavenger, Salvager
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Salvager
+Stef - trashes Procession
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Bazaar, Vagrant, Gold, Scavenger
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Salvager
+shark_bait - trashes Scavenger
+shark_bait - plays 1 Gold, 1 Copper
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Lookout, Gold, Vagrant, Fishing Village, Lookout
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Bazaar
+Stef - draws Gold
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Salvager on top of deck
+Stef - plays Vagrant
+Stef - draws Salvager
+Stef - shuffles deck
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Salvager
+Stef - trashes Gold
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Province, Vagrant, Gold, Vagrant
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Lookout
+shark_bait - trashes Vagrant
+shark_bait - discards Province
+shark_bait - places Province on top of deck
+shark_bait - plays Lookout
+shark_bait - trashes Copper
+shark_bait - discards Province
+shark_bait - places Gold on top of deck
+shark_bait - plays Fishing Village
+shark_bait - plays Vagrant
+shark_bait - draws Gold
+shark_bait - reveals: Gold
+shark_bait - places Gold on top of deck
+shark_bait - plays 2 Gold
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Gold, Copper
+shark_bait - shuffles deck
+shark_bait - draws Lookout, Duchy, Lookout
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Vagrant
+Stef - draws Salvager
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Scavenger
+Stef - places Scavenger on top of deck
+Stef - plays Salvager
+Stef - trashes Gold
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Scavenger, Bazaar, Gold, Province, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 3 Vagrant, 1 Scavenger, 1 Bazaar, 1 Salvager, 2 Gold, 1 Copper, 4 Province, 1 Duchy, 1 Estate
+Stef - total victory points: 28
+Stef - turns: 14
+ 
+shark_bait - cards: 2 Lookout, 1 Vagrant, 1 Salvager, 1 Fishing Village, 4 Gold, 2 Copper, 4 Province, 1 Duchy
+shark_bait - total victory points: 27
+shark_bait - turns: 14
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

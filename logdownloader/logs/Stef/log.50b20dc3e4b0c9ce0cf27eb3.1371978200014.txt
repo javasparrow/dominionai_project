@@ -1,0 +1,533 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Scrying Pool, Fortune Teller, Militia, Navigator, Scout, Sea Hag, Bazaar, Council Room, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Sea Hag
+yed - gains Sea Hag
+yed - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Estate, Sea Hag
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Sea Hag, Copper, Copper, Silver
+ 
+---------- yed: turn 3 ----------
+yed - plays Sea Hag
+Stef - discards Estate
+Stef - gains Curse
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Sea Hag
+yed - discards Silver
+yed - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Curse, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Militia
+yed - gains Militia
+yed - draws Curse, Copper
+yed - shuffles deck
+yed - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Curse, Silver, Estate, Bazaar, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Sea Hag
+yed - gains Sea Hag
+yed - draws Estate, Copper, Sea Hag, Militia
+yed - shuffles deck
+yed - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Sea Hag, Copper, Estate
+Stef - shuffles deck
+Stef - draws Silver, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+yed - plays 1 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Silver, Curse, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sea Hag
+yed - discards Copper
+yed - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Bazaar, Copper, Copper, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Scout
+yed - gains Scout
+yed - draws Curse, Silver, Copper, Copper, Sea Hag
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Curse
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate, Copper, Estate, Sea Hag
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- yed: turn 9 ----------
+yed - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper
+yed - shuffles deck
+yed - draws Silver, Sea Hag, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Sea Hag
+yed - discards Copper
+yed - gains Curse
+Stef - draws Curse, Silver, Copper, Estate, Copper
+ 
+---------- yed: turn 10 ----------
+yed - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+yed - plays 2 Copper, 2 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Curse, Silver, Copper, Copper, Militia
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Navigator
+Stef - gains Navigator
+Stef - draws Curse, Bazaar, Copper, Copper, Bazaar
+ 
+---------- yed: turn 11 ----------
+yed - plays Militia
+Stef - discards Curse
+Stef - discards Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Curse, Sea Hag, Curse, Estate, Scout
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Gold
+Stef - plays Bazaar
+Stef - draws Sea Hag
+Stef - plays Sea Hag
+yed - discards Estate
+yed - gains Curse
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Sea Hag, Estate, Bazaar, Estate
+ 
+---------- yed: turn 12 ----------
+yed - plays Scout
+yed - reveals: Curse, Copper, Copper, Silver
+yed - places Curse on top of deck
+yed - places Copper on top of deck
+yed - places Copper on top of deck
+yed - places Silver on top of deck
+yed - plays Sea Hag
+Stef - discards Curse
+Stef - gains Curse
+yed - draws Silver, Copper, Copper, Curse, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Curse
+Stef - plays Sea Hag
+yed - shuffles deck
+yed - discards Scout
+yed - gains Curse
+Stef - draws Estate, Navigator, Silver, Curse, Sea Hag
+ 
+---------- yed: turn 13 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Curse, Copper, Gold, Curse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Sea Hag
+yed - discards Estate
+yed - gains Curse
+Stef - draws Gold, Copper, Gold, Bazaar, Curse
+ 
+---------- yed: turn 14 ----------
+yed - plays 2 Copper, 1 Gold
+yed - buys Bazaar
+yed - gains Bazaar
+yed - draws Curse, Silver, Militia, Copper, Sea Hag
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 2 Gold, 2 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- yed: turn 15 ----------
+yed - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+yed - plays 1 Silver, 1 Copper
+yed - buys Bazaar
+yed - gains Bazaar
+yed - draws Silver, Silver, Gold, Copper, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Navigator
+Stef - gains Navigator
+Stef - shuffles deck
+Stef - draws Copper, Sea Hag, Copper, Copper, Silver
+ 
+---------- yed: turn 16 ----------
+yed - plays 2 Silver, 1 Gold, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Sea Hag, Estate, Curse, Copper
+yed - shuffles deck
+yed - draws Scout
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Curse, Bazaar, Copper, Estate, Gold
+ 
+---------- yed: turn 17 ----------
+yed - plays Scout
+yed - reveals: Bazaar, Curse, Copper, Copper
+yed - places Curse on top of deck
+yed - places Bazaar on top of deck
+yed - places Copper on top of deck
+yed - places Copper on top of deck
+yed - plays Sea Hag
+Stef - discards Estate
+yed - plays 1 Copper
+yed - draws Copper, Copper, Bazaar, Curse, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Bazaar
+Stef - draws Curse
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Silver, Curse, Curse, Navigator, Navigator
+ 
+---------- yed: turn 18 ----------
+yed - plays Bazaar
+yed - draws Curse
+yed - plays 2 Copper, 1 Silver
+yed - buys Bazaar
+yed - gains Bazaar
+yed - draws Copper, Curse, Silver, Militia, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Navigator
+Stef - looks at Bazaar, Gold, Copper, Copper, Sea Hag
+Stef - places Bazaar on top of deck
+Stef - places Gold on top of deck
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - places Sea Hag on top of deck
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Sea Hag, Copper, Copper, Gold, Bazaar
+ 
+---------- yed: turn 19 ----------
+yed - plays Militia
+Stef - discards Copper
+Stef - discards Sea Hag
+yed - plays 2 Copper, 1 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Estate, Estate, Province, Curse, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Gold, Estate
+Stef - shuffles deck
+Stef - draws Bazaar, Sea Hag, Curse
+ 
+---------- yed: turn 20 ----------
+yed - draws Copper, Copper, Bazaar, Silver, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - draws Bazaar, Navigator, Bazaar, Silver, Copper
+ 
+---------- yed: turn 21 ----------
+yed - plays Bazaar
+yed - draws Silver
+yed - plays 2 Copper, 2 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Sea Hag, Silver, Gold
+yed - shuffles deck
+yed - draws Estate, Gold
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Navigator
+Stef - looks at Bazaar, Copper, Copper, Gold, Estate
+Stef - places Bazaar on top of deck
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - places Gold on top of deck
+Stef - places Estate on top of deck
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Copper, Copper, Bazaar, Curse
+ 
+---------- yed: turn 22 ----------
+yed - plays Sea Hag
+Stef - discards Curse
+yed - plays 2 Gold, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Bazaar, Estate, Silver, Gold, Curse
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Gold, Copper, Navigator, Sea Hag
+ 
+---------- yed: turn 23 ----------
+yed - plays Bazaar
+yed - draws Curse
+yed - plays 1 Silver, 1 Gold
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Curse, Silver, Silver, Curse, Curse
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Navigator
+Stef - looks at Curse, Copper, Gold, Estate
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - places Copper on top of deck
+Stef - places Estate on top of deck
+Stef - places Curse on top of deck
+Stef - places Copper on top of deck
+Stef - places Gold on top of deck
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Copper, Curse, Estate, Copper
+ 
+---------- yed: turn 24 ----------
+yed - plays 2 Silver
+yed - buys Estate
+yed - gains Estate
+yed - draws Curse, Sea Hag, Bazaar, Scout, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Bazaar, Copper, Bazaar, Gold
+ 
+---------- yed: turn 25 ----------
+yed - plays Scout
+yed - reveals: Province, Bazaar, Copper, Copper
+yed - places cards in hand:  Province
+yed - places Copper on top of deck
+yed - places Copper on top of deck
+yed - places Bazaar on top of deck
+yed - plays Bazaar
+yed - draws Bazaar
+yed - plays Bazaar
+yed - draws Copper
+yed - plays Sea Hag
+Stef - discards Silver
+yed - plays 2 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Silver, Province, Copper, Militia
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Bazaar
+Stef - draws Sea Hag
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Silver, Curse, Council Room, Curse
+ 
+---------- yed: turn 26 ----------
+yed - plays Militia
+Stef - discards Curse
+Stef - discards Curse
+yed - plays 2 Copper, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Copper, Estate, Copper, Copper
+yed - shuffles deck
+yed - draws Province
+ 
+---------- Stef: turn 26 ----------
+Stef - plays Council Room
+Stef - draws Gold, Province, Silver, Curse
+yed - draws Copper
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Bazaar, Copper, Navigator
+Stef - shuffles deck
+Stef - draws Duchy
+ 
+---------- yed: turn 27 ----------
+yed - plays 4 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Bazaar, Copper, Scout, Curse, Province
+ 
+---------- Stef: turn 27 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Navigator
+Stef - looks at Copper, Sea Hag, Bazaar, Copper, Copper
+Stef - discards: Copper, Sea Hag, Bazaar, Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Province, Province, Duchy, Sea Hag
+ 
+---------- yed: turn 28 ----------
+yed - plays Scout
+yed - reveals: Militia, Silver, Copper, Bazaar
+yed - places Copper on top of deck
+yed - places Silver on top of deck
+yed - places Militia on top of deck
+yed - places Bazaar on top of deck
+yed - plays Bazaar
+yed - draws Bazaar
+yed - plays Bazaar
+yed - draws Militia
+yed - plays Militia
+Stef - discards Province
+Stef - discards Duchy
+yed - plays 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Silver, Copper, Gold, Estate, Gold
+ 
+---------- Stef: turn 28 ----------
+Stef - plays 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Gold, Navigator, Silver, Curse
+ 
+---------- yed: turn 29 ----------
+yed - plays 2 Gold, 1 Silver, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Copper, Bazaar, Silver, Estate
+ 
+---------- Stef: turn 29 ----------
+Stef - plays Navigator
+Stef - looks at Silver, Bazaar, Duchy, Estate, Gold
+Stef - discards: Silver, Bazaar, Duchy, Estate, Gold
+Stef - plays 1 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Council Room, Bazaar, Gold, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 4 Bazaar, 2 Sea Hag, 2 Navigator, 1 Council Room, 7 Copper, 4 Gold, 3 Silver, 4 Duchy, 4 Province, 4 Estate, 4 Curse
+Stef - total victory points: 36
+Stef - turns: 29
+ 
+yed - cards: 3 Bazaar, 2 Sea Hag, 1 Scout, 1 Militia, 7 Copper, 6 Silver, 3 Gold, 5 Estate, 4 Province, 3 Duchy, 6 Curse
+yed - total victory points: 32
+yed - turns: 29
+ 
+1st place: Stef
+2nd place: yed
+ 

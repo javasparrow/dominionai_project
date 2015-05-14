@@ -1,0 +1,438 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Forager, Masterpiece, Watchtower, Spice Merchant, Catacombs, Highway, Market, Rebuild, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Pinot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinot - shuffles deck
+Stef - shuffles deck
+Pinot - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Pinot: turn 1 ----------
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pinot: turn 2 ----------
+Pinot - plays 4 Copper
+Pinot - buys Spice Merchant
+Pinot - gains Spice Merchant
+Pinot - shuffles deck
+Pinot - draws Copper, Estate, Estate, Silver, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Estate, Spice Merchant, Estate, Copper, Copper
+ 
+---------- Pinot: turn 3 ----------
+Pinot - plays 2 Copper, 1 Silver
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Copper, Spice Merchant, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Copper
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Forager, Copper
+ 
+---------- Pinot: turn 4 ----------
+Pinot - plays Spice Merchant
+Pinot - trashes Copper
+Pinot - chooses two cards and one action
+Pinot - draws Copper, Copper
+Pinot - plays 4 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - shuffles deck
+Pinot - draws Copper, Copper, Copper, Spice Merchant, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Silver, Copper, Forager, Copper, Spice Merchant
+ 
+---------- Pinot: turn 5 ----------
+Pinot - plays Spice Merchant
+Pinot - trashes Copper
+Pinot - chooses two cards and one action
+Pinot - draws Copper, Silver
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - draws Copper, Estate, Estate, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Copper, Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Estate, Copper, Estate, Vagrant, Vagrant
+ 
+---------- Pinot: turn 6 ----------
+Pinot - plays 2 Copper, 1 Silver
+Pinot - buys Forager
+Pinot - gains Forager
+Pinot - draws Silver
+Pinot - shuffles deck
+Pinot - draws Copper, Forager, Silver, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Spice Merchant
+Stef - places Spice Merchant on top of deck
+Stef - plays Vagrant
+Stef - draws Spice Merchant
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Highway, Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Forager
+Stef - shuffles deck
+Stef - draws Copper, Vagrant, Forager
+ 
+---------- Pinot: turn 7 ----------
+Pinot - plays Forager
+Pinot - trashes Copper
+Pinot - plays 3 Silver
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Spice Merchant
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Estate, Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 2 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Highway, Vagrant, Copper
+Stef - shuffles deck
+Stef - draws Forager, Highway
+ 
+---------- Pinot: turn 8 ----------
+Pinot - plays 3 Copper
+Pinot - buys Vagrant
+Pinot - gains Vagrant
+Pinot - draws Copper, Estate, Spice Merchant, Rebuild
+Pinot - shuffles deck
+Pinot - draws Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Highway
+Stef - draws Forager
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Spice Merchant
+Stef - shuffles deck
+Stef - draws Vagrant, Highway, Copper, Forager
+ 
+---------- Pinot: turn 9 ----------
+Pinot - plays Rebuild
+Pinot - names Curse
+Pinot - reveals Silver, Forager, Copper, Silver, Estate
+Pinot - discards: Silver, Forager, Copper, Silver
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays Spice Merchant
+Pinot - trashes Copper
+Pinot - chooses two cards and one action
+Pinot - draws Silver, Copper
+Pinot - plays 1 Silver, 1 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Rebuild, Vagrant, Estate
+Pinot - shuffles deck
+Pinot - draws Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Vagrant
+Stef - draws Highway
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Vagrant
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Spice Merchant
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Forager, Vagrant, Forager, Market, Vagrant
+ 
+---------- Pinot: turn 10 ----------
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - reveals Silver, Duchy, Estate
+Pinot - discards: Silver, Duchy
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays Vagrant
+Pinot - draws Silver
+Pinot - reveals: Copper
+Pinot - places Copper on top of deck
+Pinot - plays 2 Silver, 1 Copper
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - draws Copper, Forager, Estate, Silver, Spice Merchant
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Highway
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Highway
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Forager
+Stef - trashes Vagrant
+Stef - plays Vagrant
+Stef - plays Forager
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Forager, Vagrant, Highway, Highway, Vagrant
+ 
+---------- Pinot: turn 11 ----------
+Pinot - plays Spice Merchant
+Pinot - trashes Copper
+Pinot - chooses two cards and one action
+Pinot - draws Copper, Rebuild
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - shuffles deck
+Pinot - reveals Silver, Silver, Duchy, Copper, Vagrant, Silver, Duchy, Rebuild, Rebuild, Estate
+Pinot - discards: Silver, Silver, Duchy, Copper, Vagrant, Silver, Duchy, Rebuild, Rebuild
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays Forager
+Pinot - trashes Estate
+Pinot - plays 1 Silver, 1 Copper
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - shuffles deck
+Pinot - draws Copper, Forager, Duchy, Silver, Rebuild
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Highway
+Stef - draws Market
+Stef - plays Highway
+Stef - draws Market
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Market
+Stef - draws Forager
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Market
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Market
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Vagrant
+Stef - plays Forager
+Stef - trashes Vagrant
+Stef - plays Forager
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Market
+Stef - gains Market
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Market, Highway, Highway, Highway, Highway
+ 
+---------- Pinot: turn 12 ----------
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - reveals Duchy
+Pinot - trashes Duchy
+Pinot - gains Province
+Pinot - plays Forager
+Pinot - trashes Copper
+Pinot - plays 1 Silver
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Duchy, Duchy, Rebuild, Rebuild, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Highway
+Stef - draws Market
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Forager
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Market
+Stef - plays Highway
+Stef - draws Forager
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Market
+Stef - draws Vagrant
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Forager
+Stef - trashes Vagrant
+Stef - plays Forager
+Stef - trashes Vagrant
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Market, Highway, Province, Market, Market
+ 
+------------ Game Over ------------
+Stef - cards: 10 Highway, 6 Market, 2 Forager, 7 Province, 2 Duchy
+Stef - total victory points: 48
+Stef - turns: 12
+ 
+Pinot - cards: 3 Rebuild, 1 Forager, 1 Vagrant, 1 Spice Merchant, 4 Silver, 1 Copper, 3 Duchy, 2 Estate, 1 Province
+Pinot - total victory points: 17
+Pinot - turns: 12
+ 
+1st place: Stef
+2nd place: Pinot
+ 

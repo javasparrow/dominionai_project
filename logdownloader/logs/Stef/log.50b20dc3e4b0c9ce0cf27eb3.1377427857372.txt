@@ -1,0 +1,626 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Great Hall, Oracle, Urchin, Warehouse, Alchemist, Horse Traders, Scout, Spy, Hunting Party, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Breezy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Breezy - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+Breezy - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Breezy: turn 1 ----------
+Breezy - plays 4 Copper
+Breezy - buys Horse Traders
+Breezy - gains Horse Traders
+Breezy - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - shuffles deck
+Stef - draws Copper, Copper, Horse Traders, Silver, Copper
+ 
+---------- Breezy: turn 2 ----------
+Breezy - plays 3 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - shuffles deck
+Breezy - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Breezy: turn 3 ----------
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - draws Horse Traders, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate
+ 
+---------- Breezy: turn 4 ----------
+Breezy - plays Horse Traders
+Breezy - discards Copper
+Breezy - discards Copper
+Breezy - plays 2 Copper
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - draws Estate, Estate
+Breezy - shuffles deck
+Breezy - draws Copper, Copper, Horse Traders
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Horse Traders, Silver, Copper, Copper, Copper
+ 
+---------- Breezy: turn 5 ----------
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 2 Copper
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - draws Copper, Copper, Copper, Hunting Party, Hunting Party
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Horse Traders
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate, Hunting Party, Copper
+Stef - shuffles deck
+Stef - draws Silver, Estate
+ 
+---------- Breezy: turn 6 ----------
+Breezy - plays Hunting Party
+Breezy - draws Silver
+Breezy - reveals hand: Copper, Copper, Copper, Hunting Party, Silver
+Breezy - reveals Copper, Estate
+Breezy - places Estate in hand
+Breezy - discards Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Copper, Copper, Silver, Estate, Copper
+Breezy - shuffles deck
+Breezy - reveals Copper, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards Copper
+Breezy - plays Hunting Party
+Breezy - draws Horse Traders
+Breezy - reveals hand: Copper, Copper, Copper, Silver, Estate, Copper, Horse Traders
+Breezy - shuffles deck
+Breezy - reveals Estate, Estate, Copper, Copper, Copper
+Breezy - discards: Estate, Estate, Copper, Copper, Copper
+Breezy - plays Horse Traders
+Breezy - discards Copper
+Breezy - discards Estate
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - shuffles deck
+Breezy - draws Hunting Party, Silver, Copper, Horse Traders, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Estate, Copper, Silver, Estate, Silver
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Silver, Estate, Silver, Copper
+Stef - reveals Copper, Copper, Estate, Copper, Copper, Copper, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Copper, Copper, Estate, Copper, Copper, Copper
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Hunting Party, Horse Traders, Copper
+ 
+---------- Breezy: turn 7 ----------
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Silver, Copper, Horse Traders, Copper, Copper
+Breezy - reveals Estate
+Breezy - places Estate in hand
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Copper
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - draws Copper, Hunting Party, Silver, Copper, Hunting Party
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Copper, Horse Traders, Copper, Copper
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate, Hunting Party, Silver, Copper, Estate
+ 
+---------- Breezy: turn 8 ----------
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Copper, Hunting Party, Silver, Copper, Estate
+Breezy - shuffles deck
+Breezy - reveals Copper, Estate, Hunting Party, Copper, Hunting Party, Copper, Copper, Hunting Party, Silver, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards: Copper, Estate, Hunting Party, Copper, Hunting Party, Copper, Copper, Hunting Party, Silver
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Copper, Silver, Copper, Estate, Horse Traders, Estate
+Breezy - shuffles deck
+Breezy - reveals Copper, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards Copper
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Copper, Silver, Copper, Estate, Horse Traders, Estate, Hunting Party
+Breezy - shuffles deck
+Breezy - reveals Copper, Copper, Copper, Hunting Party, Silver, Copper, Estate, Copper
+Breezy - discards: Copper, Copper, Copper, Hunting Party, Silver, Copper, Estate, Copper
+Breezy - plays Hunting Party
+Breezy - shuffles deck
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Silver, Copper, Estate, Horse Traders, Estate, Copper
+Breezy - reveals Silver, Copper, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards: Silver, Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Silver, Copper, Estate, Horse Traders, Estate, Copper, Copper
+Breezy - shuffles deck
+Breezy - reveals Copper, Copper, Estate, Copper, Silver
+Breezy - discards: Copper, Copper, Estate, Copper, Silver
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 4 Copper, 1 Silver
+Breezy - buys Hunting Party
+Breezy - gains Hunting Party
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - shuffles deck
+Breezy - draws Hunting Party, Hunting Party, Copper, Estate, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Estate, Silver, Copper, Estate, Silver
+Stef - reveals Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Silver, Copper, Estate, Silver, Copper
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Silver, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Copper, Copper, Silver
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Hunting Party, Hunting Party, Copper
+ 
+---------- Breezy: turn 9 ----------
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Hunting Party, Copper, Estate, Estate, Hunting Party
+Breezy - reveals Silver
+Breezy - places Silver in hand
+Breezy - plays Hunting Party
+Breezy - draws Silver
+Breezy - reveals hand: Hunting Party, Copper, Estate, Estate, Silver, Silver
+Breezy - reveals Hunting Party, Hunting Party, Copper, Hunting Party, Copper, Silver, Copper, Copper, Copper, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards: Hunting Party, Hunting Party, Copper, Hunting Party, Copper, Silver, Copper, Copper, Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Estate, Estate, Silver, Silver, Horse Traders, Copper
+Breezy - shuffles deck
+Breezy - reveals Estate, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards Estate
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Estate, Estate, Silver, Silver, Horse Traders, Copper, Copper
+Breezy - reveals Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Estate, Estate, Silver, Silver, Horse Traders, Copper, Copper, Copper
+Breezy - reveals Copper, Copper, Copper, Silver, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards: Copper, Copper, Copper, Silver
+Breezy - plays Hunting Party
+Breezy - shuffles deck
+Breezy - draws Estate
+Breezy - reveals hand: Copper, Estate, Estate, Silver, Silver, Horse Traders, Copper, Copper, Copper, Estate
+Breezy - reveals Copper, Silver, Copper, Copper
+Breezy - discards: Copper, Silver, Copper, Copper
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 4 Copper, 2 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - shuffles deck
+Breezy - draws Hunting Party, Hunting Party, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Hunting Party, Copper, Copper
+Stef - shuffles deck
+Stef - reveals Hunting Party, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards Hunting Party
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Copper, Copper, Horse Traders, Copper
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Estate, Copper, Copper, Copper, Horse Traders, Copper, Silver
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Province
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- Breezy: turn 10 ----------
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Hunting Party, Copper, Copper, Copper, Hunting Party
+Breezy - reveals Estate
+Breezy - places Estate in hand
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Hunting Party, Copper, Copper, Copper, Estate, Estate
+Breezy - reveals Copper, Silver
+Breezy - places Silver in hand
+Breezy - discards Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Copper, Copper, Estate, Estate, Silver, Copper
+Breezy - reveals Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - plays Hunting Party
+Breezy - draws Silver
+Breezy - reveals hand: Copper, Copper, Copper, Estate, Estate, Silver, Copper, Silver
+Breezy - reveals Silver, Estate, Estate, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards: Silver, Estate, Estate
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 4 Copper, 2 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Province, Copper, Hunting Party, Copper, Hunting Party
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Hunting Party, Silver, Estate
+ 
+---------- Breezy: turn 11 ----------
+Breezy - plays Hunting Party
+Breezy - shuffles deck
+Breezy - draws Hunting Party
+Breezy - reveals hand: Province, Copper, Hunting Party, Copper, Hunting Party
+Breezy - reveals Silver
+Breezy - places Silver in hand
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Province, Copper, Hunting Party, Copper, Silver, Estate
+Breezy - reveals Hunting Party, Copper, Estate, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards: Hunting Party, Copper, Estate
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Province, Copper, Copper, Silver, Estate, Horse Traders, Estate
+Breezy - reveals Estate, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards Estate
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Province, Copper, Copper, Silver, Estate, Horse Traders, Estate, Hunting Party
+Breezy - shuffles deck
+Breezy - reveals Copper, Copper, Estate, Copper, Silver, Copper, Province, Silver, Hunting Party, Copper, Estate, Estate
+Breezy - discards: Copper, Copper, Estate, Copper, Silver, Copper, Province, Silver, Hunting Party, Copper, Estate, Estate
+Breezy - plays Hunting Party
+Breezy - shuffles deck
+Breezy - draws Estate
+Breezy - reveals hand: Province, Copper, Copper, Silver, Estate, Horse Traders, Estate, Estate
+Breezy - reveals Copper, Copper, Silver, Copper, Silver, Province, Copper, Estate, Estate, Copper, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards: Copper, Copper, Silver, Copper, Silver, Province, Copper, Estate, Estate, Copper
+Breezy - plays Hunting Party
+Breezy - shuffles deck
+Breezy - draws Silver
+Breezy - reveals hand: Province, Copper, Copper, Silver, Estate, Horse Traders, Estate, Estate, Silver
+Breezy - reveals Copper, Copper, Copper, Copper, Estate, Copper, Estate, Province, Silver
+Breezy - discards: Copper, Copper, Copper, Copper, Estate, Copper, Estate, Province, Silver
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 2 Copper, 2 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - shuffles deck
+Breezy - draws Copper, Estate, Estate, Hunting Party, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Silver, Estate, Copper
+Stef - reveals Copper, Province
+Stef - places Province in hand
+Stef - discards Copper
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Hunting Party, Copper, Province, Hunting Party
+ 
+---------- Breezy: turn 12 ----------
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Copper, Estate, Estate, Copper, Hunting Party
+Breezy - reveals Copper, Hunting Party, Copper, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards: Copper, Hunting Party, Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Estate, Estate, Copper, Horse Traders, Copper
+Breezy - reveals Silver
+Breezy - places Silver in hand
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - draws Estate, Hunting Party, Estate, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Copper, Hunting Party, Copper, Province, Estate
+Stef - reveals Hunting Party, Silver
+Stef - places Silver in hand
+Stef - discards Hunting Party
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Copper, Province, Estate, Silver, Copper
+Stef - reveals Horse Traders
+Stef - places Horse Traders in hand
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Province
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Silver, Copper
+Stef - shuffles deck
+Stef - draws Estate, Province
+ 
+---------- Breezy: turn 13 ----------
+Breezy - plays Hunting Party
+Breezy - draws Province
+Breezy - reveals hand: Estate, Estate, Copper, Estate, Province
+Breezy - reveals Silver
+Breezy - places Silver in hand
+Breezy - plays 1 Copper, 1 Silver
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Province, Silver, Hunting Party, Province, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver, Province, Silver
+ 
+---------- Breezy: turn 14 ----------
+Breezy - plays Hunting Party
+Breezy - draws Hunting Party
+Breezy - reveals hand: Province, Silver, Province, Copper, Hunting Party
+Breezy - shuffles deck
+Breezy - reveals Hunting Party, Province, Copper, Estate
+Breezy - places Estate in hand
+Breezy - discards: Hunting Party, Province, Copper
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Province, Silver, Province, Copper, Estate, Estate
+Breezy - reveals Estate, Horse Traders
+Breezy - places Horse Traders in hand
+Breezy - discards Estate
+Breezy - plays Horse Traders
+Breezy - discards Estate
+Breezy - discards Estate
+Breezy - plays 1 Silver, 1 Copper
+Breezy - buys Gold
+Breezy - gains Gold
+Breezy - draws Hunting Party, Copper, Silver, Silver, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Copper, Copper, Estate, Hunting Party
+ 
+---------- Breezy: turn 15 ----------
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Silver, Silver, Estate, Copper
+Breezy - reveals Copper, Hunting Party
+Breezy - places Hunting Party in hand
+Breezy - discards Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Copper, Silver, Silver, Estate, Copper, Copper
+Breezy - reveals Estate, Province
+Breezy - places Province in hand
+Breezy - discards Estate
+Breezy - plays 3 Copper, 2 Silver
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Estate, Copper, Hunting Party
+Breezy - shuffles deck
+Breezy - draws Hunting Party, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Copper, Copper, Estate, Copper
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Horse Traders, Hunting Party, Hunting Party, Province, Gold
+ 
+---------- Breezy: turn 16 ----------
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Estate, Copper, Hunting Party, Copper, Estate
+Breezy - reveals Copper, Estate, Copper, Province
+Breezy - places Province in hand
+Breezy - discards: Copper, Estate, Copper
+Breezy - plays Hunting Party
+Breezy - draws Copper
+Breezy - reveals hand: Estate, Copper, Copper, Estate, Province, Copper
+Breezy - reveals Gold
+Breezy - places Gold in hand
+Breezy - plays 3 Copper, 1 Gold
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Estate, Estate, Province, Silver, Hunting Party
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Horse Traders, Hunting Party, Province, Gold, Hunting Party
+Stef - shuffles deck
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Horse Traders, Hunting Party, Province, Gold, Silver, Copper
+Stef - reveals Silver, Estate
+Stef - places Estate in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Horse Traders, Province, Gold, Silver, Copper, Estate, Hunting Party
+Stef - reveals Silver, Copper, Copper, Silver, Copper, Estate, Copper, Province, Duchy
+Stef - places Duchy in hand
+Stef - discards: Silver, Copper, Copper, Silver, Copper, Estate, Copper, Province
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Horse Traders, Province, Gold, Silver, Copper, Estate, Duchy, Copper
+Stef - shuffles deck
+Stef - reveals Estate, Copper, Silver, Province, Duchy, Silver, Copper, Copper, Copper, Estate, Silver, Copper, Province, Silver
+Stef - discards: Estate, Copper, Silver, Province, Duchy, Silver, Copper, Copper, Copper, Estate, Silver, Copper, Province, Silver
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Duchy
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Hunting Party, Estate, Duchy, Hunting Party, Silver
+ 
+---------- Breezy: turn 17 ----------
+Breezy - plays Hunting Party
+Breezy - draws Estate
+Breezy - reveals hand: Estate, Estate, Province, Silver, Estate
+Breezy - reveals Duchy
+Breezy - places Duchy in hand
+Breezy - plays 1 Silver
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Copper, Silver, Hunting Party, Hunting Party, Horse Traders
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Hunting Party, Estate, Duchy, Silver, Silver
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Duchy, Silver, Silver, Copper, Copper
+Stef - reveals Estate, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards Estate
+Stef - plays Horse Traders
+Stef - discards Duchy
+Stef - discards Estate
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Silver, Hunting Party, Duchy, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 4 Hunting Party, 1 Horse Traders, 7 Copper, 5 Silver, 1 Gold, 4 Duchy, 4 Province, 3 Estate
+Stef - total victory points: 39
+Stef - turns: 18
+ 
+Breezy - cards: 6 Hunting Party, 1 Horse Traders, 7 Copper, 3 Silver, 1 Gold, 7 Estate, 4 Province, 2 Duchy
+Breezy - total victory points: 37
+Breezy - turns: 17
+ 
+1st place: Stef
+2nd place: Breezy
+ 

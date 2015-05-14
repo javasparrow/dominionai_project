@@ -1,0 +1,391 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Vineyard, Native Village, Develop, Baron, Throne Room, Market, Rogue, Adventurer, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qmech - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+qmech - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+qmech - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- qmech: turn 1 ----------
+qmech - plays 3 Copper
+qmech - buys Develop
+qmech - gains Develop
+qmech - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Baron
+Stef - gains Baron
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- qmech: turn 2 ----------
+qmech - plays 4 Copper
+qmech - buys Baron
+qmech - gains Baron
+qmech - shuffles deck
+qmech - draws Copper, Copper, Copper, Estate, Develop
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Develop
+ 
+---------- qmech: turn 3 ----------
+qmech - plays Develop
+qmech - trashes Copper
+qmech - plays 2 Copper
+qmech - buys Native Village
+qmech - gains Native Village
+qmech - draws Copper, Copper, Estate, Baron, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Silver, Copper, Baron, Estate, Copper
+ 
+---------- qmech: turn 4 ----------
+qmech - plays Baron
+qmech - discards Estate
+qmech - plays 3 Copper
+qmech - buys Expand
+qmech - gains Expand
+qmech - draws Copper, Estate
+qmech - shuffles deck
+qmech - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Market
+Stef - gains Market
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Develop
+ 
+---------- qmech: turn 5 ----------
+qmech - plays 3 Copper
+qmech - buys Native Village
+qmech - gains Native Village
+qmech - draws Baron, Copper, Native Village, Expand, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Native Village, Silver, Copper, Copper, Baron
+ 
+---------- qmech: turn 6 ----------
+qmech - plays Native Village
+qmech - sets aside Copper
+qmech - plays Baron
+qmech - discards Estate
+qmech - plays Expand
+qmech - trashes Copper
+qmech - gains Native Village
+qmech - buys Throne Room
+qmech - gains Throne Room
+qmech - draws Develop, Copper
+qmech - shuffles deck
+qmech - draws Native Village, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Native Village
+Stef - sets aside Market
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Copper, Copper, Develop, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- qmech: turn 7 ----------
+qmech - plays Native Village
+qmech - sets aside Native Village
+qmech - plays Develop
+qmech - trashes Estate
+qmech - gains Develop
+qmech - plays 2 Copper
+qmech - buys Native Village
+qmech - gains Native Village
+qmech - draws Develop, Copper, Throne Room, Native Village, Expand
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Native Village, Copper, Throne Room, Silver, Native Village
+ 
+---------- qmech: turn 8 ----------
+qmech - plays Native Village
+qmech - sets aside Estate
+qmech - plays Expand
+qmech - trashes Copper
+qmech - gains Native Village
+qmech - plays Develop
+qmech - trashes Throne Room
+qmech - gains Develop
+qmech - gains Market
+qmech - draws Market, Develop, Copper, Baron, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Native Village
+Stef - sets aside Baron
+Stef - plays Native Village
+Stef - takes set aside cards: Market, Baron
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Baron
+Stef - gains Market
+Stef - gains Develop
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Develop, Market, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- qmech: turn 9 ----------
+qmech - plays Market
+qmech - shuffles deck
+qmech - draws Native Village
+qmech - plays Native Village
+qmech - sets aside Develop
+qmech - plays Baron
+qmech - discards Estate
+qmech - plays Develop
+qmech - trashes Copper
+qmech - buys Potion
+qmech - gains Potion
+qmech - draws Expand, Copper, Copper, Native Village, Develop
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Develop
+Stef - trashes Market
+Stef - gains Adventurer
+Stef - gains Potion
+Stef - plays 2 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Potion, Adventurer, Native Village, Native Village, Silver
+ 
+---------- qmech: turn 10 ----------
+qmech - plays Native Village
+qmech - takes set aside cards: Copper, Native Village, Estate, Develop
+qmech - plays Native Village
+qmech - sets aside Native Village
+qmech - plays Expand
+qmech - trashes Estate
+qmech - gains Market
+qmech - plays Develop
+qmech - trashes Copper
+qmech - plays Develop
+qmech - trashes Copper
+qmech - draws Native Village
+qmech - shuffles deck
+qmech - draws Develop, Baron, Native Village, Market
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Native Village
+Stef - sets aside Native Village
+Stef - plays Adventurer
+Stef - reveals Copper, Estate, Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - discards Estate
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Market, Throne Room, Develop, Native Village, Throne Room
+ 
+---------- qmech: turn 11 ----------
+qmech - plays Native Village
+qmech - sets aside Estate
+qmech - plays Native Village
+qmech - sets aside Develop
+qmech - plays Market
+qmech - draws Native Village
+qmech - plays Native Village
+qmech - sets aside Potion
+qmech - plays Develop
+qmech - trashes Baron
+qmech - gains Market
+qmech - gains Develop
+qmech - draws Develop, Market, Develop, Native Village, Expand
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Throne Room
+Stef - plays Market
+Stef - draws Develop
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Native Village
+Stef - takes set aside cards: Copper, Native Village
+Stef - plays Develop
+Stef - trashes Develop
+Stef - gains Estate
+Stef - gains Potion
+Stef - plays Throne Room
+Stef - plays Native Village
+Stef - sets aside Potion
+Stef - plays Native Village
+Stef - takes set aside cards: Potion
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Estate, Vineyard, Copper, Native Village, Adventurer
+ 
+---------- qmech: turn 12 ----------
+qmech - plays Native Village
+qmech - takes set aside cards: Native Village, Estate, Develop, Potion
+qmech - plays Develop
+qmech - trashes Develop
+qmech - gains Estate
+qmech - gains Potion
+qmech - plays Market
+qmech - draws Potion
+qmech - plays Native Village
+qmech - sets aside Estate
+qmech - plays Expand
+qmech - trashes Estate
+qmech - gains Market
+qmech - plays Potion
+qmech - plays Potion
+qmech - buys Vineyard
+qmech - gains Vineyard
+qmech - buys Vineyard
+qmech - gains Vineyard
+qmech - draws Market, Copper
+qmech - shuffles deck
+qmech - draws Develop, Expand, Develop
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays Adventurer
+Stef - reveals Potion, Copper
+Stef - places cards in hand:  Potion, Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Develop, Native Village, Estate, Native Village, Silver
+ 
+---------- qmech: turn 13 ----------
+qmech - plays Market
+qmech - draws Develop
+qmech - plays Expand
+qmech - trashes Develop
+qmech - gains Market
+qmech - plays Copper
+qmech - buys Estate
+qmech - gains Estate
+qmech - draws Native Village, Native Village, Native Village, Potion, Market
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Native Village
+Stef - shuffles deck
+Stef - sets aside Copper
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Develop
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Develop, Market, Adventurer, Native Village, Develop
+ 
+---------- qmech: turn 14 ----------
+qmech - plays Native Village
+qmech - sets aside Market
+qmech - plays Native Village
+qmech - sets aside Vineyard
+qmech - plays Market
+qmech - draws Market
+qmech - plays Market
+qmech - draws Vineyard
+qmech - plays Native Village
+qmech - sets aside Native Village
+qmech - plays Potion
+qmech - buys Vineyard
+qmech - gains Vineyard
+qmech - buys Estate
+qmech - gains Estate
+qmech - draws Potion, Native Village
+qmech - shuffles deck
+qmech - draws Market, Vineyard, Vineyard
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Market
+Stef - draws Vineyard
+Stef - plays Native Village
+Stef - takes set aside cards: Estate, Copper, Copper
+Stef - plays Adventurer
+Stef - reveals Vineyard, Copper, Throne Room, Potion
+Stef - places cards in hand:  Copper, Potion
+Stef - discards: Vineyard, Throne Room
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Develop
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Develop, Native Village, Potion, Copper, Vineyard
+ 
+---------- qmech: turn 15 ----------
+qmech - plays Market
+qmech - draws Develop
+qmech - plays Native Village
+qmech - takes set aside cards: Estate, Market, Vineyard, Native Village
+qmech - plays Market
+qmech - draws Market
+qmech - plays Market
+qmech - draws Develop
+qmech - plays Develop
+qmech - trashes Estate
+qmech - gains Develop
+qmech - plays Potion
+qmech - buys Vineyard
+qmech - gains Vineyard
+qmech - buys Estate
+qmech - gains Estate
+qmech - draws Develop, Expand, Market, Estate, Market
+ 
+------------ Game Over ------------
+Stef - cards: 5 Native Village, 4 Develop, 4 Throne Room, 1 Market, 1 Adventurer, 5 Copper, 2 Potion, 1 Silver, 4 Vineyard, 2 Estate
+Stef - total victory points: 22
+Stef - turns: 14
+ 
+qmech - cards: 5 Market, 5 Native Village, 3 Develop, 1 Expand, 2 Potion, 1 Copper, 4 Vineyard, 3 Estate
+qmech - total victory points: 19
+qmech - turns: 15
+ 
+1st place: Stef
+2nd place: qmech
+ 

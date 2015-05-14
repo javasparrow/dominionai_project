@@ -1,0 +1,534 @@
+------------ Game Setup ------------
+Supply cards: Menagerie, Swindler, Baron, Moneylender, Rats, Taxman, Cultist, Journeyman, Pillage, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Dingan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dingan - shuffles deck
+Stef - shuffles deck
+Dingan - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Dingan: turn 1 ----------
+Dingan - plays 3 Copper
+Dingan - buys Swindler
+Dingan - gains Swindler
+Dingan - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Dingan: turn 2 ----------
+Dingan - plays 4 Copper
+Dingan - buys Silver
+Dingan - gains Silver
+Dingan - shuffles deck
+Dingan - draws Swindler, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Dingan: turn 3 ----------
+Dingan - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Dingan - plays 4 Copper
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Estate, Copper, Swindler, Copper
+ 
+---------- Dingan: turn 4 ----------
+Dingan - plays 3 Copper
+Dingan - buys Silver
+Dingan - gains Silver
+Dingan - draws Estate, Silver
+Dingan - shuffles deck
+Dingan - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+Dingan - reveals Silver
+Dingan - trashes Silver
+Dingan - gains Menagerie
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper
+ 
+---------- Dingan: turn 5 ----------
+Dingan - plays 2 Copper, 1 Silver
+Dingan - buys Silver
+Dingan - gains Silver
+Dingan - draws Estate, Copper, Swindler, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Cultist, Estate, Curse, Copper
+ 
+---------- Dingan: turn 6 ----------
+Dingan - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Dingan - plays 3 Copper
+Dingan - buys Cultist
+Dingan - gains Cultist
+Dingan - draws Copper, Copper, Gold
+Dingan - shuffles deck
+Dingan - draws Silver, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cultist
+Stef - draws Silver, Estate
+Dingan - gains Ruined Library
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Swindler
+Stef - shuffles deck
+Stef - draws Cultist, Copper, Curse, Curse
+ 
+---------- Dingan: turn 7 ----------
+Dingan - plays 2 Copper, 1 Gold, 1 Silver
+Dingan - buys Cultist
+Dingan - gains Cultist
+Dingan - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Cultist
+Stef - draws Silver, Cultist
+Dingan - gains Abandoned Mine
+Stef - plays Cultist
+Stef - draws Estate, Silver
+Dingan - gains Ruined Market
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Dingan: turn 8 ----------
+Dingan - plays 4 Copper
+Dingan - buys Rats
+Dingan - gains Rats
+Dingan - draws Silver, Estate, Swindler, Cultist, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Cultist, Swindler, Copper
+ 
+---------- Dingan: turn 9 ----------
+Dingan - plays Swindler
+Stef - reveals Cultist
+Stef - trashes Cultist
+Stef - draws Silver, Cultist, Estate
+Stef - gains Duchy
+Dingan - plays 1 Silver, 1 Copper
+Dingan - buys Cultist
+Dingan - gains Cultist
+Dingan - draws Menagerie
+Dingan - shuffles deck
+Dingan - draws Estate, Copper, Cultist, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cultist
+Stef - draws Estate, Silver
+Dingan - gains Ruined Library
+Stef - plays Cultist
+Stef - draws Cultist, Silver
+Dingan - gains Survivors
+Stef - plays Cultist
+Stef - draws Curse, Copper
+Dingan - gains Survivors
+Stef - plays 3 Copper, 3 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Curse, Copper, Copper
+Stef - shuffles deck
+Stef - draws Cultist, Copper
+ 
+---------- Dingan: turn 10 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Estate, Copper, Cultist, Copper
+Dingan - draws Estate
+Dingan - plays Cultist
+Dingan - draws Cultist, Ruined Market
+Stef - gains Ruined Library
+Dingan - plays Cultist
+Dingan - draws Abandoned Mine, Cultist
+Stef - gains Ruined Market
+Dingan - plays Cultist
+Dingan - draws Copper, Silver
+Stef - gains Ruined Library
+Dingan - plays 3 Copper, 1 Silver
+Dingan - buys Cultist
+Dingan - gains Cultist
+Dingan - draws Copper, Silver, Gold, Swindler, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cultist
+Stef - draws Estate, Swindler
+Dingan - gains Ruined Library
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Cultist, Cultist, Silver
+ 
+---------- Dingan: turn 11 ----------
+Dingan - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Dingan - plays 2 Copper, 1 Silver, 1 Gold
+Dingan - buys Forge
+Dingan - gains Forge
+Dingan - draws Copper, Ruined Library, Copper, Estate, Rats
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Cultist
+Stef - draws Silver, Estate
+Stef - plays Cultist
+Stef - draws Curse, Estate
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Duchy, Cultist
+Stef - shuffles deck
+Stef - draws Copper, Ruined Library, Ruined Market
+ 
+---------- Dingan: turn 12 ----------
+Dingan - plays Rats
+Dingan - shuffles deck
+Dingan - draws Cultist
+Dingan - gains Rats
+Dingan - trashes Ruined Library
+Dingan - plays Cultist
+Dingan - draws Ruined Market, Silver
+Dingan - plays 2 Copper, 1 Silver
+Dingan - buys Menagerie
+Dingan - gains Menagerie
+Dingan - draws Silver, Copper, Estate, Cultist, Abandoned Mine
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Cultist
+Stef - draws Cultist, Curse
+Stef - plays Cultist
+Stef - draws Copper, Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Silver, Ruined Library, Copper, Curse, Cultist
+ 
+---------- Dingan: turn 13 ----------
+Dingan - plays Cultist
+Dingan - draws Menagerie, Gold
+Dingan - plays 1 Silver, 1 Copper, 1 Gold
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - draws Swindler, Copper, Cultist, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cultist
+Stef - draws Estate, Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Swindler, Silver, Silver, Cultist, Silver
+ 
+---------- Dingan: turn 14 ----------
+Dingan - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+Dingan - plays Copper
+Dingan - buys Menagerie
+Dingan - gains Menagerie
+Dingan - draws Survivors, Cultist, Ruined Library, Copper, Forge
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Swindler
+Dingan - reveals Copper
+Dingan - trashes Copper
+Dingan - gains Curse
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Curse
+Stef - shuffles deck
+Stef - draws Ruined Market, Cultist, Silver
+ 
+---------- Dingan: turn 15 ----------
+Dingan - plays Forge
+Dingan - trashes Copper, Ruined Library, Cultist, Survivors
+Dingan - draws Ruined Library, Survivors
+Dingan - shuffles deck
+Dingan - draws Estate
+Dingan - gains Duchy
+Dingan - draws Menagerie, Copper, Silver, Rats, Rats
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Cultist
+Stef - draws Estate, Estate
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Estate, Copper, Swindler, Silver
+ 
+---------- Dingan: turn 16 ----------
+Dingan - plays Rats
+Dingan - draws Gold
+Dingan - gains Rats
+Dingan - trashes Copper
+Dingan - plays Menagerie
+Dingan - reveals hand: Silver, Rats, Gold
+Dingan - draws Silver, Curse, Copper
+Dingan - plays Rats
+Dingan - draws Copper
+Dingan - gains Rats
+Dingan - trashes Curse
+Dingan - plays 2 Silver, 2 Copper, 1 Gold
+Dingan - buys Forge
+Dingan - gains Forge
+Dingan - draws Estate, Menagerie, Menagerie, Copper, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Swindler
+Dingan - reveals Swindler
+Dingan - trashes Swindler
+Dingan - gains Swindler
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Curse, Ruined Library, Cultist, Province, Cultist
+ 
+---------- Dingan: turn 17 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Estate, Menagerie, Copper, Gold
+Dingan - draws Abandoned Mine, Estate, Cultist
+Dingan - plays Menagerie
+Dingan - reveals hand: Abandoned Mine, Estate, Cultist, Estate, Copper, Gold
+Dingan - draws Ruined Market
+Dingan - plays Cultist
+Dingan - draws Copper, Cultist
+Dingan - plays Cultist
+Dingan - draws Cultist
+Dingan - shuffles deck
+Dingan - draws Silver
+Dingan - plays Cultist
+Dingan - draws Forge, Copper
+Dingan - plays 3 Copper, 1 Gold, 1 Silver
+Dingan - buys Province
+Dingan - gains Province
+Dingan - draws Forge, Menagerie, Survivors, Rats, Swindler
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Cultist
+Stef - draws Duchy, Copper
+Stef - plays Cultist
+Stef - draws Ruined Library, Gold
+Stef - plays Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Curse, Cultist, Silver, Silver
+ 
+---------- Dingan: turn 18 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Forge, Survivors, Rats, Swindler
+Dingan - draws Gold, Ruined Library, Duchy
+Dingan - plays Forge
+Dingan - trashes Swindler, Rats, Survivors, Ruined Library
+Dingan - draws Rats
+Dingan - gains Forge
+Dingan - plays Gold
+Dingan - buys Menagerie
+Dingan - gains Menagerie
+Dingan - draws Copper, Estate, Rats, Rats, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Cultist
+Stef - draws Cultist
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Cultist
+Stef - draws Curse, Silver
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Ruined Library, Copper, Estate, Ruined Market, Gold
+ 
+---------- Dingan: turn 19 ----------
+Dingan - plays Rats
+Dingan - shuffles deck
+Dingan - draws Copper
+Dingan - gains Rats
+Dingan - trashes Estate
+Dingan - plays Rats
+Dingan - draws Rats
+Dingan - gains Rats
+Dingan - trashes Copper
+Dingan - plays Rats
+Dingan - draws Copper
+Dingan - gains Rats
+Dingan - trashes Copper
+Dingan - plays 1 Copper, 1 Silver
+Dingan - buys Menagerie
+Dingan - gains Menagerie
+Dingan - draws Menagerie, Ruined Market, Province, Forge, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Ruined Library
+Stef - draws Province
+Stef - plays Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Swindler, Cultist, Estate, Ruined Library
+ 
+---------- Dingan: turn 20 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Ruined Market, Province, Forge, Estate
+Dingan - draws Gold, Menagerie, Estate
+Dingan - plays Menagerie
+Dingan - reveals hand: Gold, Estate, Ruined Market, Province, Forge, Estate
+Dingan - draws Gold
+Dingan - plays Forge
+Dingan - trashes Estate, Ruined Market, Gold
+Dingan - gains Province
+Dingan - plays Gold
+Dingan - buys Menagerie
+Dingan - gains Menagerie
+Dingan - draws Cultist, Menagerie, Forge, Duchy, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Swindler
+Dingan - reveals Abandoned Mine
+Dingan - trashes Abandoned Mine
+Dingan - gains Curse
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Cultist, Duchy, Gold, Silver
+ 
+---------- Dingan: turn 21 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Cultist, Forge, Duchy, Copper
+Dingan - draws Cultist, Cultist, Forge
+Dingan - plays Forge
+Dingan - trashes Cultist, Copper
+Dingan - draws Menagerie, Silver
+Dingan - shuffles deck
+Dingan - draws Menagerie
+Dingan - gains Duchy
+Dingan - draws Province, Menagerie, Rats, Rats, Rats
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Cultist
+Stef - draws Silver, Silver
+Stef - plays 3 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Cultist, Copper, Silver
+Stef - shuffles deck
+Stef - draws Ruined Market, Swindler
+ 
+---------- Dingan: turn 22 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Province, Rats, Rats, Rats
+Dingan - draws Rats
+Dingan - draws Silver, Forge, Estate, Rats, Menagerie
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Swindler
+Dingan - reveals Province
+Dingan - trashes Province
+Dingan - gains Province
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Copper, Copper, Cultist, Silver
+ 
+---------- Dingan: turn 23 ----------
+Dingan - plays Menagerie
+Dingan - reveals hand: Silver, Forge, Estate, Rats
+Dingan - draws Curse, Gold, Copper
+Dingan - plays Rats
+Dingan - draws Rats
+Dingan - gains Rats
+Dingan - trashes Curse
+Dingan - plays Rats
+Dingan - draws Menagerie
+Dingan - gains Rats
+Dingan - trashes Copper
+Dingan - plays Menagerie
+Dingan - reveals hand: Gold, Silver, Forge, Estate
+Dingan - shuffles deck
+Dingan - draws Province, Menagerie, Rats
+Dingan - plays Menagerie
+Dingan - reveals hand: Province, Rats, Gold, Silver, Forge, Estate
+Dingan - draws Rats, Forge, Cultist
+Dingan - plays Forge
+Dingan - trashes Rats, Rats
+Dingan - applies the 'when you trash ability' of Rats
+Dingan - draws Menagerie
+Dingan - applies the 'when you trash ability' of Rats
+Dingan - draws Silver
+Dingan - gains Province
+Dingan - plays 2 Silver, 1 Gold
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - draws Menagerie, Rats, Rats, Duchy, Province
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Cultist
+Stef - draws Silver, Gold
+Stef - plays 2 Copper, 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Cultist, Silver, Gold, Copper, Curse
+ 
+---------- Dingan: turn 24 ----------
+Dingan - plays Rats
+Dingan - draws Duchy
+Dingan - gains Rats
+Dingan - trashes Menagerie
+Dingan - draws Rats, Rats, Menagerie, Forge, Cultist
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Cultist
+Stef - draws Silver, Duchy
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Ruined Library, Silver, Duchy, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 5 Cultist, 2 Ruined Library, 1 Swindler, 1 Ruined Market, 9 Silver, 4 Copper, 2 Gold, 4 Province, 3 Estate, 3 Duchy, 3 Curse
+Stef - total victory points: 33
+Stef - turns: 24
+ 
+Dingan - cards: 7 Rats, 5 Menagerie, 3 Forge, 2 Cultist, 2 Silver, 1 Gold, 3 Province, 3 Duchy, 1 Estate
+Dingan - total victory points: 28
+Dingan - turns: 24
+ 
+1st place: Stef
+2nd place: Dingan
+ 

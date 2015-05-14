@@ -1,0 +1,497 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Hamlet, Pawn, Vagrant, Doctor, Woodcutter, Philosopher's Stone, Catacombs, Counterfeit, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sprocketsAA - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+sprocketsAA - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+sprocketsAA - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- sprocketsAA: turn 1 ----------
+sprocketsAA - plays 4 Copper
+sprocketsAA - buys Doctor
+sprocketsAA - overpays for Doctor with 1 coin
+sprocketsAA - looks at Copper
+sprocketsAA - trashes Copper
+sprocketsAA - gains Doctor
+sprocketsAA - draws Estate, Estate, Copper, Copper
+sprocketsAA - shuffles deck
+sprocketsAA - draws Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Chapel, Copper
+ 
+---------- sprocketsAA: turn 2 ----------
+sprocketsAA - plays 3 Copper
+sprocketsAA - buys Chapel
+sprocketsAA - gains Chapel
+sprocketsAA - draws Estate, Copper, Copper, Doctor, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - plays 1 Silver
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- sprocketsAA: turn 3 ----------
+sprocketsAA - plays Doctor
+sprocketsAA - names Estate
+sprocketsAA - shuffles deck
+sprocketsAA - reveals: Copper, Copper, Copper
+sprocketsAA - places Copper on top of deck
+sprocketsAA - places Copper on top of deck
+sprocketsAA - places Copper on top of deck
+sprocketsAA - plays 3 Copper
+sprocketsAA - buys Silver
+sprocketsAA - gains Silver
+sprocketsAA - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Vagrant, Copper, Copper
+ 
+---------- sprocketsAA: turn 4 ----------
+sprocketsAA - plays 3 Copper
+sprocketsAA - buys Vagrant
+sprocketsAA - gains Vagrant
+sprocketsAA - draws Chapel
+sprocketsAA - shuffles deck
+sprocketsAA - draws Copper, Estate, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Pawn
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Chapel, Estate, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- sprocketsAA: turn 5 ----------
+sprocketsAA - plays Chapel
+sprocketsAA - trashes Copper, Estate, Estate
+sprocketsAA - plays 1 Silver
+sprocketsAA - buys Hamlet
+sprocketsAA - gains Hamlet
+sprocketsAA - draws Copper, Copper, Doctor, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper
+Stef - plays 1 Silver
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Estate, Copper, Silver, Vagrant, Estate
+ 
+---------- sprocketsAA: turn 6 ----------
+sprocketsAA - plays Doctor
+sprocketsAA - names Copper
+sprocketsAA - reveals: Copper, Copper, Vagrant
+sprocketsAA - trashes Copper, Copper
+sprocketsAA - places Vagrant on top of deck
+sprocketsAA - plays 3 Copper
+sprocketsAA - buys Silver
+sprocketsAA - gains Silver
+sprocketsAA - draws Vagrant
+sprocketsAA - shuffles deck
+sprocketsAA - draws Copper, Copper, Estate, Doctor
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Pawn
+Stef - places Pawn on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Pawn
+Stef - shuffles deck
+Stef - draws Silver, Silver, Estate, Copper
+ 
+---------- sprocketsAA: turn 7 ----------
+sprocketsAA - plays Vagrant
+sprocketsAA - draws Silver
+sprocketsAA - reveals: Silver
+sprocketsAA - places Silver on top of deck
+sprocketsAA - plays Doctor
+sprocketsAA - names Copper
+sprocketsAA - reveals: Silver, Chapel, Hamlet
+sprocketsAA - places Chapel on top of deck
+sprocketsAA - places Hamlet on top of deck
+sprocketsAA - places Silver on top of deck
+sprocketsAA - plays 2 Copper, 1 Silver
+sprocketsAA - buys Silver
+sprocketsAA - gains Silver
+sprocketsAA - draws Silver, Hamlet, Chapel, Copper
+sprocketsAA - shuffles deck
+sprocketsAA - draws Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Catacombs
+Stef - draws Silver, Vagrant, Copper, Chapel, Estate
+ 
+---------- sprocketsAA: turn 8 ----------
+sprocketsAA - plays Hamlet
+sprocketsAA - draws Silver
+sprocketsAA - plays Chapel
+sprocketsAA - trashes Copper
+sprocketsAA - plays 3 Silver
+sprocketsAA - buys Border Village
+sprocketsAA - gains Border Village
+sprocketsAA - gains Catacombs
+sprocketsAA - draws Vagrant, Copper, Estate, Doctor, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Hamlet
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Catacombs, Copper, Pawn, Estate, Silver
+ 
+---------- sprocketsAA: turn 9 ----------
+sprocketsAA - plays Vagrant
+sprocketsAA - shuffles deck
+sprocketsAA - draws Chapel
+sprocketsAA - reveals: Border Village
+sprocketsAA - places Border Village on top of deck
+sprocketsAA - plays Chapel
+sprocketsAA - trashes Copper, Doctor, Estate, Copper
+sprocketsAA - draws Border Village, Silver, Silver, Hamlet, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - shuffles deck
+Stef - draws Chapel
+Stef - plays Catacombs
+Stef - looks at Hamlet, Silver, Copper
+Stef - places cards in hand:  Hamlet, Silver, Copper
+Stef - plays Hamlet
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Catacombs
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Hamlet, Vagrant, Border Village, Pawn
+ 
+---------- sprocketsAA: turn 10 ----------
+sprocketsAA - plays Hamlet
+sprocketsAA - draws Catacombs
+sprocketsAA - discards Silver
+sprocketsAA - receives one buy
+sprocketsAA - plays Border Village
+sprocketsAA - shuffles deck
+sprocketsAA - draws Silver
+sprocketsAA - plays Catacombs
+sprocketsAA - looks at Vagrant, Chapel
+sprocketsAA - places cards in hand:  Vagrant, Chapel
+sprocketsAA - plays 3 Silver
+sprocketsAA - buys Woodcutter
+sprocketsAA - gains Woodcutter
+sprocketsAA - buys Pawn
+sprocketsAA - gains Pawn
+sprocketsAA - shuffles deck
+sprocketsAA - draws Silver, Silver, Vagrant, Border Village, Hamlet
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Border Village
+Stef - draws Chapel
+Stef - plays Vagrant
+Stef - draws Catacombs
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Catacombs
+Stef - looks at Copper, Silver, Pawn
+Stef - discards: Copper, Silver, Pawn
+Stef - draws Border Village, Silver, Catacombs
+Stef - plays Border Village
+Stef - draws Counterfeit
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Catacombs
+Stef - looks at Pawn, Silver
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - places cards in hand:  Pawn, Silver, Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Gold, Border Village, Pawn, Chapel, Vagrant
+ 
+---------- sprocketsAA: turn 11 ----------
+sprocketsAA - plays Vagrant
+sprocketsAA - draws Catacombs
+sprocketsAA - reveals: Silver
+sprocketsAA - places Silver on top of deck
+sprocketsAA - plays Border Village
+sprocketsAA - draws Silver
+sprocketsAA - plays Catacombs
+sprocketsAA - looks at Woodcutter, Pawn, Chapel
+sprocketsAA - places cards in hand:  Woodcutter, Pawn, Chapel
+sprocketsAA - plays Pawn
+sprocketsAA - takes 1 action
+sprocketsAA - takes 1 coin
+sprocketsAA - plays Hamlet
+sprocketsAA - discards Chapel
+sprocketsAA - receives one buy
+sprocketsAA - plays Woodcutter
+sprocketsAA - plays 3 Silver
+sprocketsAA - buys Border Village
+sprocketsAA - gains Border Village
+sprocketsAA - gains Catacombs
+sprocketsAA - buys Silver
+sprocketsAA - gains Silver
+sprocketsAA - shuffles deck
+sprocketsAA - draws Vagrant, Chapel, Catacombs, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Border Village
+Stef - places Border Village on top of deck
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Catacombs
+Stef - plays Catacombs
+Stef - looks at Silver, Catacombs, Silver
+Stef - places cards in hand:  Silver, Catacombs, Silver
+Stef - plays Catacombs
+Stef - looks at Counterfeit, Hamlet, Copper
+Stef - places cards in hand:  Counterfeit, Hamlet, Copper
+Stef - plays Hamlet
+Stef - draws Pawn
+Stef - discards Chapel
+Stef - receives one action
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Gold, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Catacombs
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Border Village, Gold, Catacombs, Pawn
+ 
+---------- sprocketsAA: turn 12 ----------
+sprocketsAA - plays Vagrant
+sprocketsAA - draws Woodcutter
+sprocketsAA - reveals: Border Village
+sprocketsAA - places Border Village on top of deck
+sprocketsAA - plays Woodcutter
+sprocketsAA - plays 2 Silver
+sprocketsAA - buys Border Village
+sprocketsAA - gains Border Village
+sprocketsAA - gains Catacombs
+sprocketsAA - buys Copper
+sprocketsAA - gains Copper
+sprocketsAA - draws Border Village, Pawn, Border Village, Hamlet, Catacombs
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Border Village
+Stef - draws Pawn
+Stef - plays Catacombs
+Stef - looks at Gold, Silver, Catacombs
+Stef - discards: Gold, Silver, Catacombs
+Stef - draws Silver, Border Village, Border Village
+Stef - plays Border Village
+Stef - draws Chapel
+Stef - plays Border Village
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Catacombs
+Stef - reveals: Hamlet
+Stef - places Hamlet on top of deck
+Stef - plays Catacombs
+Stef - looks at Hamlet, Gold, Counterfeit
+Stef - discards: Hamlet, Gold, Counterfeit
+Stef - shuffles deck
+Stef - draws Gold, Counterfeit, Gold
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Silver
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Catacombs
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 3 Gold, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Catacombs
+Stef - draws Hamlet
+Stef - shuffles deck
+Stef - draws Catacombs, Silver, Province, Border Village
+ 
+---------- sprocketsAA: turn 13 ----------
+sprocketsAA - plays Border Village
+sprocketsAA - draws Silver
+sprocketsAA - plays Border Village
+sprocketsAA - draws Silver
+sprocketsAA - plays Catacombs
+sprocketsAA - shuffles deck
+sprocketsAA - looks at Woodcutter, Vagrant, Chapel
+sprocketsAA - discards: Woodcutter, Vagrant, Chapel
+sprocketsAA - draws Catacombs, Silver, Silver
+sprocketsAA - plays Catacombs
+sprocketsAA - looks at Copper, Border Village, Catacombs
+sprocketsAA - places cards in hand:  Copper, Border Village, Catacombs
+sprocketsAA - plays Border Village
+sprocketsAA - shuffles deck
+sprocketsAA - draws Chapel
+sprocketsAA - plays Hamlet
+sprocketsAA - draws Woodcutter
+sprocketsAA - discards Silver
+sprocketsAA - receives one action
+sprocketsAA - discards Silver
+sprocketsAA - receives one buy
+sprocketsAA - plays Catacombs
+sprocketsAA - looks at Vagrant
+sprocketsAA - shuffles deck
+sprocketsAA - looks at Silver, Silver
+sprocketsAA - places cards in hand:  Vagrant, Silver, Silver
+sprocketsAA - plays Pawn
+sprocketsAA - takes 1 coin
+sprocketsAA - takes 1 buy
+sprocketsAA - plays Woodcutter
+sprocketsAA - plays 4 Silver, 1 Copper
+sprocketsAA - buys Gold
+sprocketsAA - gains Gold
+sprocketsAA - buys Gold
+sprocketsAA - gains Gold
+sprocketsAA - shuffles deck
+sprocketsAA - draws Border Village, Gold, Woodcutter, Catacombs, Border Village
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Border Village
+Stef - draws Gold
+Stef - plays Catacombs
+Stef - looks at Border Village, Silver, Border Village
+Stef - places cards in hand:  Border Village, Silver, Border Village
+Stef - plays Border Village
+Stef - draws Counterfeit
+Stef - plays Border Village
+Stef - draws Catacombs
+Stef - plays Catacombs
+Stef - looks at Border Village, Pawn, Catacombs
+Stef - places cards in hand:  Border Village, Pawn, Catacombs
+Stef - plays Border Village
+Stef - draws Pawn
+Stef - plays Catacombs
+Stef - looks at Gold, Catacombs, Vagrant
+Stef - places cards in hand:  Gold, Catacombs, Vagrant
+Stef - plays Hamlet
+Stef - draws Chapel
+Stef - discards Province
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Catacombs
+Stef - looks at Gold
+Stef - shuffles deck
+Stef - looks at Gold, Province
+Stef - places cards in hand:  Gold, Gold, Province
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+ 
+------------ Game Over ------------
+Stef - cards: 1 Vagrant, 1 Chapel, 3 Gold, 2 Silver, 1 Counterfeit, 1 Province
+Stef - total victory points: 6
+Stef - turns: 13
+ 
+sprocketsAA - resigned
+sprocketsAA - cards: 3 Border Village, 3 Catacombs, 1 Woodcutter, 1 Vagrant, 1 Hamlet, 1 Chapel, 1 Pawn, 4 Silver, 2 Gold, 1 Copper
+sprocketsAA - total victory points: 0
+sprocketsAA - turns: 13
+ 
+1st place: Stef
+2nd place: sprocketsAA
+ 

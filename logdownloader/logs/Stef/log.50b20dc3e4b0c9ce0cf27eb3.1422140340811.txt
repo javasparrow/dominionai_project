@@ -1,0 +1,540 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Loan, Feast, Remodel, Spy, Junk Dealer, Wharf, Hunting Grounds, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+gamesou - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+gamesou - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+gamesou - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- gamesou: turn 1 ----------
+gamesou - plays 3 Copper
+gamesou - buys Silver
+gamesou - gains Silver
+gamesou - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- gamesou: turn 2 ----------
+gamesou - plays 4 Copper
+gamesou - buys Feast
+gamesou - gains Feast
+gamesou - shuffles deck
+gamesou - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Estate, Wharf, Estate, Copper, Copper
+ 
+---------- gamesou: turn 3 ----------
+gamesou - plays 2 Copper, 1 Silver
+gamesou - buys Remodel
+gamesou - gains Remodel
+gamesou - draws Estate, Copper, Copper, Copper, Feast
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Chapel, Estate, Copper
+ 
+---------- gamesou: turn 4 ----------
+gamesou - plays Feast
+gamesou - trashes Feast
+gamesou - gains Junk Dealer
+gamesou - plays 3 Copper
+gamesou - buys Silver
+gamesou - gains Silver
+gamesou - draws Copper, Copper
+gamesou - shuffles deck
+gamesou - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Wharf
+Stef - shuffles deck
+Stef - draws Copper, Silver
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper, Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- gamesou: turn 5 ----------
+gamesou - plays 4 Copper
+gamesou - buys Spy
+gamesou - gains Spy
+gamesou - draws Copper, Estate, Silver, Silver, Remodel
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Silver, Silver, Estate
+ 
+---------- gamesou: turn 6 ----------
+gamesou - plays Remodel
+gamesou - trashes Estate
+gamesou - gains Spy
+gamesou - plays 2 Silver, 1 Copper
+gamesou - buys Wharf
+gamesou - gains Wharf
+gamesou - draws Copper, Junk Dealer, Estate, Copper
+gamesou - shuffles deck
+gamesou - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Silver, Copper, Copper, Copper, Wharf
+ 
+---------- gamesou: turn 7 ----------
+gamesou - plays Junk Dealer
+gamesou - draws Remodel
+gamesou - trashes Estate
+gamesou - plays Remodel
+gamesou - trashes Estate
+gamesou - gains Spy
+gamesou - plays 2 Copper
+gamesou - buys Silver
+gamesou - gains Silver
+gamesou - draws Spy, Spy, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wharf
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Silver, Estate, Junk Dealer, Silver
+ 
+---------- gamesou: turn 8 ----------
+gamesou - plays Spy
+gamesou - draws Copper
+gamesou - discards Copper
+Stef - shuffles deck
+Stef - places Copper on top of deck
+gamesou - plays Spy
+gamesou - draws Silver
+gamesou - discards Silver
+Stef - places Copper on top of deck
+gamesou - plays 4 Copper, 1 Silver
+gamesou - buys Hunting Grounds
+gamesou - gains Hunting Grounds
+gamesou - draws Wharf
+gamesou - shuffles deck
+gamesou - draws Spy, Copper, Copper, Hunting Grounds
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Wharf
+Stef - draws Copper, Chapel
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - plays 2 Copper, 2 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Wharf, Estate, Copper, Silver
+Stef - shuffles deck
+Stef - draws Chapel
+ 
+---------- gamesou: turn 9 ----------
+gamesou - plays Spy
+gamesou - draws Silver
+gamesou - places Copper on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Hunting Grounds
+gamesou - draws Copper, Copper, Silver, Copper
+gamesou - plays 5 Copper, 2 Silver
+gamesou - buys King's Court
+gamesou - gains King's Court
+gamesou - draws Spy, Silver, Copper, Copper, Junk Dealer
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws King's Court, Silver, Junk Dealer, Silver, Wharf
+ 
+---------- gamesou: turn 10 ----------
+gamesou - plays Spy
+gamesou - draws Remodel
+gamesou - places Spy on top of deck
+Stef - shuffles deck
+Stef - discards Wharf
+gamesou - plays Junk Dealer
+gamesou - draws Spy
+gamesou - trashes Copper
+gamesou - plays Spy
+gamesou - shuffles deck
+gamesou - draws Spy
+gamesou - places Silver on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Spy
+gamesou - draws Silver
+gamesou - discards Copper
+Stef - places Copper on top of deck
+gamesou - plays Remodel
+gamesou - trashes Silver
+gamesou - gains Wharf
+gamesou - plays 1 Silver, 1 Copper
+gamesou - buys Spy
+gamesou - gains Spy
+gamesou - draws Copper, Hunting Grounds, King's Court, Copper, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - plays King's Court
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Wharf
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Wharf
+Stef - plays Wharf
+Stef - plays 3 Silver, 1 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Chancellor
+Stef - gains Chancellor
+Stef - shuffles deck
+Stef - draws King's Court, Chapel, Silver, Copper, Silver
+ 
+---------- gamesou: turn 11 ----------
+gamesou - plays King's Court
+gamesou - plays Hunting Grounds
+gamesou - draws Wharf, Copper, Copper
+gamesou - shuffles deck
+gamesou - draws Copper
+gamesou - plays Hunting Grounds
+gamesou - draws Spy, Spy, Spy, Junk Dealer
+gamesou - plays Hunting Grounds
+gamesou - draws Remodel, Copper, Silver, Wharf
+gamesou - plays 6 Copper, 2 Silver
+gamesou - buys King's Court
+gamesou - gains King's Court
+gamesou - draws Spy
+gamesou - shuffles deck
+gamesou - draws Copper, Copper, Junk Dealer, Spy
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Wharf
+Stef - draws Silver, Chancellor
+Stef - duration Wharf
+Stef - draws Junk Dealer, Wharf
+Stef - plays Junk Dealer
+Stef - draws King's Court
+Stef - trashes Chapel
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays King's Court
+Stef - plays Wharf
+Stef - plays Wharf
+Stef - plays Wharf
+Stef - plays King's Court
+Stef - plays 3 Silver, 1 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - buys Chancellor
+Stef - gains Chancellor
+Stef - shuffles deck
+Stef - draws Chancellor, Junk Dealer, King's Court, Chancellor, Wharf
+ 
+---------- gamesou: turn 12 ----------
+gamesou - plays Spy
+gamesou - draws Remodel
+gamesou - discards Copper
+Stef - places Copper on top of deck
+gamesou - plays Junk Dealer
+gamesou - draws King's Court
+gamesou - trashes Copper
+gamesou - plays King's Court
+gamesou - plays Spy
+gamesou - draws Wharf
+gamesou - places Wharf on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Spy
+gamesou - draws Wharf
+gamesou - places Spy on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Spy
+gamesou - draws Spy
+gamesou - places King's Court on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Spy
+gamesou - draws King's Court
+gamesou - discards Silver
+Stef - places Copper on top of deck
+gamesou - plays King's Court
+gamesou - plays Wharf
+gamesou - draws Copper, Copper
+gamesou - plays Wharf
+gamesou - draws Spy, Silver
+gamesou - plays Wharf
+gamesou - draws Copper, Hunting Grounds
+gamesou - plays Spy
+gamesou - shuffles deck
+gamesou - draws Copper
+gamesou - places Silver on top of deck
+Stef - places Copper on top of deck
+gamesou - plays Remodel
+gamesou - trashes Hunting Grounds
+gamesou - gains Duchy
+gamesou - gains King's Court
+gamesou - plays Wharf
+gamesou - draws Silver
+gamesou - shuffles deck
+gamesou - draws King's Court
+gamesou - plays 5 Copper, 2 Silver
+gamesou - buys Wharf
+gamesou - gains Wharf
+gamesou - buys Wharf
+gamesou - gains Wharf
+gamesou - draws Duchy
+gamesou - shuffles deck
+gamesou - draws Wharf, Junk Dealer, Spy, Spy
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Wharf
+Stef - draws Copper, King's Court
+Stef - duration Wharf
+Stef - draws Remodel, Silver
+Stef - duration Wharf
+Stef - draws Silver, Wharf
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Remodel
+Stef - trashes Junk Dealer
+Stef - gains King's Court
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Remodel
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Junk Dealer
+Stef - plays King's Court
+Stef - plays Wharf
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Junk Dealer
+Stef - plays Wharf
+Stef - draws Remodel, King's Court
+Stef - plays Wharf
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Remodel
+Stef - trashes Junk Dealer
+Stef - gains King's Court
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Junk Dealer
+Stef - plays Remodel
+Stef - trashes Copper
+Stef - gains Estate
+Stef - plays King's Court
+Stef - plays Wharf
+Stef - shuffles deck
+Stef - draws King's Court, Estate
+Stef - plays Wharf
+Stef - draws Junk Dealer
+Stef - plays Wharf
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays King's Court
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays King's Court
+Stef - plays Junk Dealer
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - plays Junk Dealer
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Chancellor, King's Court, Remodel, Chancellor, King's Court
+ 
+---------- gamesou: turn 13 ----------
+gamesou - duration Wharf
+gamesou - draws Copper, Silver
+gamesou - duration Wharf
+gamesou - draws Spy, Spy
+gamesou - duration Wharf
+gamesou - draws Copper, Copper
+gamesou - duration Wharf
+gamesou - draws Silver, Copper
+gamesou - plays Spy
+gamesou - draws King's Court
+gamesou - places King's Court on top of deck
+Stef - discards King's Court
+gamesou - plays Spy
+gamesou - draws King's Court
+gamesou - places Remodel on top of deck
+Stef - places King's Court on top of deck
+gamesou - plays King's Court
+gamesou - plays King's Court
+gamesou - plays Junk Dealer
+gamesou - draws Remodel
+gamesou - trashes Copper
+gamesou - plays Junk Dealer
+gamesou - draws Wharf
+gamesou - trashes Copper
+gamesou - plays Junk Dealer
+gamesou - draws Copper
+gamesou - trashes Copper
+gamesou - plays King's Court
+gamesou - plays Remodel
+gamesou - trashes Duchy
+gamesou - gains Feast
+gamesou - plays Remodel
+gamesou - trashes Wharf
+gamesou - gains Feast
+gamesou - plays Remodel
+gamesou - trashes Spy
+gamesou - gains Feast
+gamesou - plays King's Court
+gamesou - plays Spy
+gamesou - shuffles deck
+gamesou - draws Feast
+gamesou - places Feast on top of deck
+Stef - places King's Court on top of deck
+gamesou - plays Spy
+gamesou - draws Feast
+gamesou - places Feast on top of deck
+Stef - places King's Court on top of deck
+gamesou - plays Spy
+gamesou - draws Feast
+Stef - places King's Court on top of deck
+gamesou - plays Feast
+gamesou - trashes Feast
+gamesou - gains Wharf
+gamesou - plays Feast
+gamesou - trashes Feast
+gamesou - gains Wharf
+gamesou - plays Feast
+gamesou - trashes Feast
+gamesou - gains Wharf
+gamesou - plays Wharf
+gamesou - shuffles deck
+gamesou - draws Wharf, Wharf
+gamesou - plays Wharf
+gamesou - draws Wharf
+gamesou - plays Wharf
+gamesou - plays 2 Copper, 2 Silver
+gamesou - buys Province
+gamesou - gains Province
+gamesou - shuffles deck
+gamesou - draws Wharf, Remodel, Spy, Wharf, King's Court
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Wharf
+Stef - draws King's Court, Wharf
+Stef - duration Wharf
+Stef - draws King's Court, Remodel
+Stef - duration Wharf
+Stef - draws Junk Dealer
+Stef - shuffles deck
+Stef - draws King's Court
+Stef - duration Wharf
+Stef - duration Wharf
+Stef - duration Wharf
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Remodel
+Stef - trashes Chancellor
+Stef - gains Feast
+Stef - plays Remodel
+Stef - trashes Chancellor
+Stef - gains Feast
+Stef - plays Remodel
+Stef - trashes Junk Dealer
+Stef - gains Feast
+Stef - plays King's Court
+Stef - plays Wharf
+Stef - shuffles deck
+Stef - draws Feast, Feast
+Stef - plays Wharf
+Stef - draws Feast
+Stef - plays Wharf
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Chancellor
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Chancellor
+Stef - shuffles deck
+Stef - draws Chancellor, Remodel, Duchy, King's Court, Remodel
+ 
+------------ Game Over ------------
+Stef - cards: 7 King's Court, 3 Wharf, 2 Chancellor, 2 Remodel, 7 Duchy
+Stef - total victory points: 21
+Stef - turns: 13
+ 
+gamesou - cards: 6 Wharf, 3 Spy, 3 King's Court, 1 Remodel, 1 Junk Dealer, 2 Silver, 2 Copper, 1 Province
+gamesou - total victory points: 6
+gamesou - turns: 13
+ 
+1st place: Stef
+2nd place: gamesou
+ 

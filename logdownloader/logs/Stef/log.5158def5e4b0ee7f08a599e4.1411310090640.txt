@@ -1,0 +1,567 @@
+------------ Game Setup ------------
+Supply cards: Black Market, Swindler, Watchtower, Ironworks, Marauder, City, Jester, Mystic, Trading Post, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Black market deck cards: Steward, Feodum, Journeyman, Royal Seal, Courtyard, Moat, Venture, Village, Farmland, Golem, Fishing Village, Merchant Guild, Fortress, Pearl Diver, Library, Forager, Gardens, Fool's Gold, Torturer, Cutpurse, Scavenger, Conspirator, Treasure Map, Bandit Camp, Crossroads
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Stef - shuffles deck
+Eevee - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 3 Copper
+Eevee - buys Black Market
+Eevee - gains Black Market
+Eevee - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 4 Copper
+Eevee - buys Marauder
+Eevee - gains Marauder
+Eevee - shuffles deck
+Eevee - draws Estate, Copper, Black Market, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Trading Post
+Stef - gains Trading Post
+Stef - shuffles deck
+Stef - draws Estate, Copper, Trading Post, Estate, Copper
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays Black Market
+Eevee - reveals Fool's Gold, Pearl Diver, Crossroads
+Eevee - plays 3 Copper
+Eevee - places Crossroads on bottom of the Black Market deck
+Eevee - places Pearl Diver on bottom of the Black Market deck
+Eevee - places Fool's Gold on bottom of the Black Market deck
+Eevee - buys Trading Post
+Eevee - gains Trading Post
+Eevee - draws Copper, Marauder, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Trading Post
+Stef - trashes Estate, Estate
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays Marauder
+Eevee - gains Spoils
+Stef - gains Ruined Library
+Eevee - plays 3 Copper
+Eevee - buys Swindler
+Eevee - gains Swindler
+Eevee - draws Copper, Estate
+Eevee - shuffles deck
+Eevee - draws Copper, Trading Post, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Ruined Library, Silver, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Trading Post
+Eevee - trashes Estate, Copper
+Eevee - gains Silver
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Watchtower
+Eevee - gains Watchtower
+Eevee - draws Marauder, Copper, Copper, Swindler, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Trading Post, Copper, Watchtower, Copper, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Swindler
+Stef - reveals Black Market
+Stef - trashes Black Market
+Stef - gains Silver
+Stef - applied Watchtower to trash Silver
+Stef - trashes Silver
+Eevee - plays 3 Copper
+Eevee - buys City
+Eevee - gains City
+Eevee - draws Spoils, Black Market, Copper, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - applied Watchtower to place Black Market on top of the deck
+Stef - draws Black Market, Estate
+Stef - shuffles deck
+Stef - draws Silver, Watchtower, Copper
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays Black Market
+Eevee - reveals Gardens, Feodum, Royal Seal
+Eevee - places Royal Seal on bottom of the Black Market deck
+Eevee - places Feodum on bottom of the Black Market deck
+Eevee - places Gardens on bottom of the Black Market deck
+Eevee - plays 1 Copper
+Eevee - plays Spoils
+Eevee - buys City
+Eevee - gains City
+Eevee - shuffles deck
+Eevee - draws Copper, Estate, Black Market, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Black Market
+Stef - reveals Golem, Village, Scavenger
+Stef - plays 1 Silver, 1 Copper
+Stef - places Scavenger on bottom of the Black Market deck
+Stef - places Village on bottom of the Black Market deck
+Stef - places Golem on bottom of the Black Market deck
+Stef - buys City
+Stef - gains City
+Stef - applied Watchtower to place City on top of the deck
+Stef - draws City, Copper, Copper, Trading Post, City
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Black Market
+Eevee - reveals Cutpurse, Torturer, Bandit Camp
+Eevee - plays 2 Copper
+Eevee - places Cutpurse on bottom of the Black Market deck
+Eevee - places Torturer on bottom of the Black Market deck
+Eevee - places Bandit Camp on bottom of the Black Market deck
+Eevee - buys Black Market
+Eevee - gains Black Market
+Eevee - draws City, Swindler, Trading Post, Copper, City
+ 
+---------- Stef: turn 8 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays City
+Stef - draws Copper
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Ruined Library, Copper
+Stef - shuffles deck
+Stef - draws Watchtower, Trading Post, Silver
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays City
+Eevee - draws Silver
+Eevee - plays City
+Eevee - draws Copper
+Eevee - plays Trading Post
+Eevee - trashes Copper, Copper
+Eevee - gains Silver
+Eevee - plays Swindler
+Stef - reveals Black Market
+Stef - trashes Black Market
+Stef - gains Silver
+Stef - applied Watchtower to trash Silver
+Stef - trashes Silver
+Eevee - plays 2 Silver
+Eevee - buys City
+Eevee - gains City
+Eevee - draws Watchtower, Marauder, Copper, Copper
+Eevee - shuffles deck
+Eevee - draws Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Trading Post
+Stef - trashes Copper, Ruined Library
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - applied Watchtower to place Ironworks on top of the deck
+Stef - draws Ironworks, City, City, Silver, Copper
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Watchtower
+Eevee - draws City, Copper
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys City
+Eevee - gains City
+Eevee - draws Estate, Black Market, Black Market, Trading Post, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays City
+Stef - draws Estate
+Stef - plays Ironworks
+Stef - gains Black Market
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws City, Copper
+Stef - shuffles deck
+Stef - draws Silver, Silver, Watchtower
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Black Market
+Eevee - reveals Conspirator, Moat, Library
+Eevee - plays 1 Silver
+Eevee - buys Conspirator
+Eevee - gains Conspirator
+Eevee - places Library on bottom of the Black Market deck
+Eevee - places Moat on bottom of the Black Market deck
+Eevee - draws Copper, Estate, City, City, Swindler
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays Watchtower
+Stef - draws Trading Post, Ironworks
+Stef - plays Ironworks
+Stef - gains Watchtower
+Stef - plays Trading Post
+Stef - trashes Silver, Copper
+Stef - gains Silver
+Stef - plays 3 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Silver, Estate, City, Black Market
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays City
+Eevee - shuffles deck
+Eevee - draws Silver
+Eevee - plays City
+Eevee - draws Copper
+Eevee - plays Swindler
+Stef - reveals City
+Stef - trashes City
+Stef - gains Duchy
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys City
+Eevee - gains City
+Eevee - draws Silver, Copper, Black Market, Conspirator, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays City
+Stef - draws City
+Stef - shuffles deck
+Stef - draws Watchtower
+Stef - plays City
+Stef - draws Trading Post, Watchtower
+Stef - plays Trading Post
+Stef - trashes Estate, Copper
+Stef - gains Silver
+Stef - applied Watchtower to trash Silver
+Stef - trashes Silver
+Stef - plays Watchtower
+Stef - draws Silver, Silver, Ironworks
+Stef - plays Ironworks
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - plays Black Market
+Stef - reveals Treasure Map, Steward, Courtyard
+Stef - plays 3 Silver
+Stef - places Courtyard on bottom of the Black Market deck
+Stef - places Steward on bottom of the Black Market deck
+Stef - places Treasure Map on bottom of the Black Market deck
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - applied Watchtower to place Mystic on top of the deck
+Stef - draws Mystic, Watchtower, Silver, City, City
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Black Market
+Eevee - reveals Venture, Merchant Guild, Fortress
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Merchant Guild
+Eevee - gains Merchant Guild
+Eevee - places Fortress on bottom of the Black Market deck
+Eevee - places Venture on bottom of the Black Market deck
+Eevee - draws Black Market, City, Trading Post, Watchtower, Marauder
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws Duchy
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - draws City, Watchtower
+Stef - plays City
+Stef - draws Ironworks, Silver
+Stef - plays Ironworks
+Stef - gains Black Market
+Stef - applied Watchtower to place Black Market on top of the deck
+Stef - plays Mystic
+Stef - names Black Market
+Stef - reveals Black Market
+Stef - places Black Market in hand
+Stef - plays Black Market
+Stef - reveals Farmland, Forager, Fishing Village
+Stef - plays 4 Silver
+Stef - buys Forager
+Stef - gains Forager
+Stef - places Fishing Village on bottom of the Black Market deck
+Stef - places Farmland on bottom of the Black Market deck
+Stef - plays Watchtower
+Stef - draws Watchtower, Black Market, Trading Post
+Stef - shuffles deck
+Stef - draws Forager
+Stef - plays Black Market
+Stef - reveals Pearl Diver, Crossroads, Journeyman
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - applied Watchtower to place Crossroads on top of the deck
+Stef - places Journeyman on bottom of the Black Market deck
+Stef - places Pearl Diver on bottom of the Black Market deck
+Stef - plays Forager
+Stef - trashes Trading Post
+Stef - buys Expand
+Stef - gains Expand
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Crossroads
+Stef - shuffles deck
+Stef - draws Swindler, Forager, Silver, Watchtower
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays City
+Eevee - draws Estate, City
+Eevee - plays City
+Eevee - shuffles deck
+Eevee - draws Copper, Silver
+Eevee - plays Trading Post
+Eevee - trashes Estate, Copper
+Eevee - gains Silver
+Eevee - applied Watchtower to trash Silver
+Eevee - trashes Silver
+Eevee - plays Watchtower
+Eevee - draws Copper, Black Market, Copper
+Eevee - plays Black Market
+Eevee - reveals Feodum, Royal Seal, Fool's Gold
+Eevee - places Fool's Gold on bottom of the Black Market deck
+Eevee - places Royal Seal on bottom of the Black Market deck
+Eevee - places Feodum on bottom of the Black Market deck
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Mystic
+Eevee - gains Mystic
+Eevee - draws Silver, City, Conspirator, Estate, Swindler
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Swindler, Forager, Silver, Watchtower
+Stef - plays Swindler
+Eevee - reveals City
+Eevee - trashes City
+Eevee - gains Trading Post
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Watchtower
+Stef - draws Black Market, Watchtower, City, Silver, Silver, Watchtower
+Stef - plays City
+Stef - draws Silver, Expand
+Stef - plays Black Market
+Stef - reveals Village, Scavenger, Gardens
+Stef - plays 3 Silver
+Stef - buys Village
+Stef - gains Village
+Stef - applied Watchtower to place Village on top of the deck
+Stef - places Scavenger on bottom of the Black Market deck
+Stef - places Gardens on bottom of the Black Market deck
+Stef - plays Expand
+Stef - trashes Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Watchtower, Village, City, City, Black Market
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays City
+Eevee - draws Merchant Guild, City
+Eevee - plays City
+Eevee - draws Copper
+Eevee - shuffles deck
+Eevee - draws Black Market
+Eevee - plays Conspirator
+Eevee - draws City
+Eevee - plays City
+Eevee - draws Black Market, Silver
+Eevee - plays Merchant Guild
+Eevee - plays Swindler
+Stef - reveals Duchy
+Stef - trashes Duchy
+Stef - gains Trading Post
+Stef - applied Watchtower to trash Trading Post
+Stef - trashes Trading Post
+Eevee - plays Black Market
+Eevee - reveals Torturer, Cutpurse, Golem
+Eevee - plays 2 Silver, 1 Copper
+Eevee - buys Torturer
+Eevee - receives 1 coin token
+Eevee - gains Torturer
+Eevee - places Cutpurse on bottom of the Black Market deck
+Eevee - places Golem on bottom of the Black Market deck
+Eevee - plays Black Market
+Eevee - reveals Moat, Library, Bandit Camp
+Eevee - buys Moat
+Eevee - receives 1 coin token
+Eevee - gains Moat
+Eevee - places Bandit Camp on bottom of the Black Market deck
+Eevee - places Library on bottom of the Black Market deck
+Eevee - uses 1 coin token
+Eevee - buys Province
+Eevee - receives 1 coin token
+Eevee - gains Province
+Eevee - draws Marauder, Watchtower, Trading Post, Mystic, City
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Village
+Stef - draws Ironworks
+Stef - plays City
+Stef - draws City, Mystic
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Province, Watchtower
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Expand, Black Market
+Stef - plays Ironworks
+Stef - gains Swindler
+Stef - applied Watchtower to place Swindler on top of the deck
+Stef - plays Mystic
+Stef - names Swindler
+Stef - reveals Swindler
+Stef - places Swindler in hand
+Stef - plays Swindler
+Eevee - reveals Trading Post
+Eevee - trashes Trading Post
+Eevee - gains Trading Post
+Eevee - applied Watchtower to trash Trading Post
+Eevee - trashes Trading Post
+Stef - plays Black Market
+Stef - reveals Treasure Map, Steward, Courtyard
+Stef - plays Silver
+Stef - places Courtyard on bottom of the Black Market deck
+Stef - places Steward on bottom of the Black Market deck
+Stef - places Treasure Map on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Fishing Village, Venture, Fortress
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - applied Watchtower to place Fishing Village on top of the deck
+Stef - places Venture on bottom of the Black Market deck
+Stef - places Fortress on bottom of the Black Market deck
+Stef - plays Watchtower
+Stef - draws Fishing Village, Watchtower, Forager
+Stef - plays Fishing Village
+Stef - plays Forager
+Stef - trashes Watchtower
+Stef - plays Watchtower
+Stef - draws Crossroads, Swindler, Silver, Silver
+Stef - plays Swindler
+Eevee - reveals Copper
+Eevee - trashes Copper
+Eevee - gains Curse
+Eevee - applied Watchtower to trash Curse
+Eevee - trashes Curse
+Stef - plays Expand
+Stef - trashes Province
+Stef - gains Province
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Black Market, Province, Crossroads, Expand, Ironworks
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays City
+Eevee - draws Copper
+Eevee - shuffles deck
+Eevee - draws Torturer
+Eevee - plays Torturer
+Eevee - draws Conspirator, City, Copper
+Stef - gains Curse
+Eevee - plays City
+Eevee - draws Black Market, Estate
+Eevee - plays Conspirator
+Eevee - draws Province
+Eevee - plays Mystic
+Eevee - names City
+Eevee - reveals Silver
+Eevee - plays Trading Post
+Eevee - trashes Copper, Copper
+Eevee - gains Silver
+Eevee - plays Black Market
+Eevee - reveals Pearl Diver, Journeyman, Farmland
+Eevee - places Farmland on bottom of the Black Market deck
+Eevee - places Journeyman on bottom of the Black Market deck
+Eevee - places Pearl Diver on bottom of the Black Market deck
+Eevee - plays 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Silver, Silver, Moat, Swindler, City
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Fishing Village
+Stef - plays Ironworks
+Stef - gains Estate
+Stef - draws Forager
+Stef - plays Crossroads
+Stef - reveals hand: Black Market, Province, Expand, Curse, Forager
+Stef - draws City
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Province, Black Market
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays Black Market
+Stef - reveals Feodum, Royal Seal, Fool's Gold
+Stef - places Fool's Gold on bottom of the Black Market deck
+Stef - places Royal Seal on bottom of the Black Market deck
+Stef - places Feodum on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Cutpurse, Gardens, Scavenger
+Stef - places Scavenger on bottom of the Black Market deck
+Stef - places Gardens on bottom of the Black Market deck
+Stef - places Cutpurse on bottom of the Black Market deck
+Stef - plays Expand
+Stef - trashes Province
+Stef - gains Province
+Stef - plays Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Village, Swindler, Mystic, Silver, Watchtower
+ 
+------------ Game Over ------------
+Stef - cards: 4 City, 2 Swindler, 2 Watchtower, 2 Black Market, 1 Village, 1 Mystic, 1 Fishing Village, 1 Ironworks, 1 Crossroads, 1 Forager, 1 Expand, 3 Silver, 4 Province, 1 Estate
+Stef - total victory points: 25
+Stef - turns: 16
+ 
+Eevee - cards: 4 City, 2 Black Market, 1 Moat, 1 Swindler, 1 Torturer, 1 Conspirator, 1 Mystic, 1 Trading Post, 1 Marauder, 1 Watchtower, 1 Merchant Guild, 3 Silver, 2 Province, 1 Estate
+Eevee - total victory points: 13
+Eevee - turns: 16
+ 
+1st place: Stef
+2nd place: Eevee
+ 

@@ -1,0 +1,380 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Stonemason, Philosopher's Stone, Conspirator, Sea Hag, Silk Road, Ghost Ship, Library, Tactician, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+fap_on_it - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+fap_on_it - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Sea Hag
+fap_on_it - gains Sea Hag
+fap_on_it - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - draws Sea Hag, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Sea Hag, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Tactician
+fap_on_it - gains Tactician
+fap_on_it - draws Copper, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Tactician, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Copper
+fap_on_it - gains Curse
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Curse, Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays Tactician
+fap_on_it - discards: Copper, Copper, Copper, Estate
+fap_on_it - draws Curse, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - draws Copper, Sea Hag, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - duration Tactician
+fap_on_it - draws Copper, Sea Hag, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Estate
+fap_on_it - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+fap_on_it - plays 4 Copper, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Copper, Copper, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Copper
+fap_on_it - gains Curse
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Silver, Sea Hag, Copper, Silver
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Curse, Silver, Copper, Copper, Tactician
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Estate
+fap_on_it - gains Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - gains Beggar
+Stef - gains Beggar
+Stef - gains Stonemason
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays Tactician
+fap_on_it - discards: Curse, Silver, Copper, Copper
+fap_on_it - draws Curse, Sea Hag, Gold, Estate, Curse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Sea Hag, Copper, Copper
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - duration Tactician
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Silver, Copper, Estate, Copper
+fap_on_it - plays Sea Hag
+Stef - discards Beggar
+Stef - gains Curse
+fap_on_it - plays 3 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Curse, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Silver
+fap_on_it - gains Curse
+Stef - plays 4 Copper
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Curse, Curse, Copper, Beggar, Stonemason
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Curse, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Curse, Gold, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - draws Silver, Curse, Estate, Sea Hag, Estate
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - plays 1 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Estate, Sea Hag, Tactician, Curse, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Copper
+fap_on_it - gains Curse
+Stef - plays 1 Silver
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - shuffles deck
+Stef - draws Beggar, Copper, Beggar, Curse, Copper
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - plays Tactician
+fap_on_it - discards: Estate, Sea Hag, Curse, Silver
+fap_on_it - draws Curse, Gold, Copper, Estate, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 5 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Silver, Copper, Sea Hag, Sea Hag
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - duration Tactician
+fap_on_it - draws Copper, Copper, Copper, Copper, Estate
+fap_on_it - plays 5 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - buys Stonemason
+fap_on_it - overpays for Stonemason with 2 coins
+fap_on_it - gains Stonemason
+fap_on_it - gains Stonemason
+fap_on_it - gains Stonemason
+fap_on_it - draws Curse
+fap_on_it - shuffles deck
+fap_on_it - draws Stonemason, Gold, Stonemason, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Gold
+fap_on_it - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Silk Road, Silver, Silver, Copper
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Stonemason
+fap_on_it - trashes Curse
+fap_on_it - plays 1 Gold
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Curse, Estate, Stonemason, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Curse, Stonemason, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - plays Stonemason
+fap_on_it - trashes Curse
+fap_on_it - draws Silver, Curse, Copper, Silver, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays 3 Copper
+Stef - buys Stonemason
+Stef - gains Stonemason
+Stef - draws Beggar, Gold, Estate
+Stef - shuffles deck
+Stef - draws Stonemason, Silver
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays 2 Silver, 1 Copper
+fap_on_it - buys Ghost Ship
+fap_on_it - gains Ghost Ship
+fap_on_it - draws Tactician, Copper, Gold, Copper, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Stonemason
+Stef - trashes Gold
+Stef - gains Silk Road
+Stef - gains Silk Road
+Stef - plays 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silk Road, Sea Hag, Estate, Silver, Copper
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - plays Tactician
+fap_on_it - discards: Copper, Gold, Copper, Estate
+fap_on_it - draws Copper, Sea Hag, Gold, Copper, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Sea Hag
+fap_on_it - discards Curse
+fap_on_it - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silk Road, Copper, Duchy, Copper, Copper
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - duration Tactician
+fap_on_it - draws Curse, Curse
+fap_on_it - shuffles deck
+fap_on_it - draws Estate, Stonemason, Curse
+fap_on_it - plays Stonemason
+fap_on_it - trashes Curse
+fap_on_it - plays 2 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Stonemason, Copper, Copper, Curse, Ghost Ship
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 3 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Stonemason, Estate, Copper, Copper
+ 
+---------- fap_on_it: turn 19 ----------
+fap_on_it - plays Ghost Ship
+fap_on_it - draws Gold, Silver
+Stef - places Stonemason on top of deck
+Stef - places Copper on top of deck
+fap_on_it - plays 2 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Silver, Estate, Stonemason, Gold, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Stonemason, Copper, Copper, Silver
+ 
+---------- fap_on_it: turn 20 ----------
+fap_on_it - plays Stonemason
+fap_on_it - trashes Gold
+fap_on_it - gains Duchy
+fap_on_it - gains Duchy
+fap_on_it - plays 2 Silver
+fap_on_it - buys Silk Road
+fap_on_it - gains Silk Road
+fap_on_it - draws Estate, Curse, Copper, Copper, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Copper, Sea Hag, Curse, Beggar, Beggar
+ 
+---------- fap_on_it: turn 21 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Gold
+fap_on_it - shuffles deck
+fap_on_it - draws Silver, Curse, Stonemason, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 4 Copper
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Silk Road, Stonemason, Copper
+ 
+---------- fap_on_it: turn 22 ----------
+fap_on_it - plays Stonemason
+fap_on_it - trashes Curse
+fap_on_it - plays 1 Gold, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Duchy, Copper, Stonemason, Gold, Tactician
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Stonemason
+Stef - trashes Silver
+Stef - gains Estate
+Stef - gains Estate
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Silk Road, Copper, Sea Hag, Copper
+ 
+---------- fap_on_it: turn 23 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 3 Beggar, 2 Sea Hag, 2 Stonemason, 13 Copper, 3 Silver, 10 Estate, 6 Silk Road, 1 Duchy, 1 Curse
+Stef - total victory points: 36
+Stef - turns: 22
+ 
+fap_on_it - resigned
+fap_on_it - cards: 3 Stonemason, 1 Tactician, 1 Ghost Ship, 1 Sea Hag, 7 Copper, 5 Gold, 5 Silver, 3 Duchy, 3 Estate, 1 Silk Road, 3 Curse
+fap_on_it - total victory points: 10
+fap_on_it - turns: 22
+ 
+1st place: Stef
+2nd place: fap_on_it
+ 

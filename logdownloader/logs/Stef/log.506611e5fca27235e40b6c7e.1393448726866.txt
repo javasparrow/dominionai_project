@@ -1,0 +1,925 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Native Village, Navigator, Rats, Harvest, Highway, Inn, Nobles, Possession, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+dawn_harbor - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dawn_harbor - shuffles deck
+Stef - shuffles deck
+dawn_harbor - draws Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Navigator
+Stef - gains Navigator
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- dawn_harbor: turn 1 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Navigator
+dawn_harbor - gains Navigator
+dawn_harbor - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- dawn_harbor: turn 2 ----------
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Silver
+dawn_harbor - gains Silver
+dawn_harbor - shuffles deck
+dawn_harbor - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Navigator, Copper, Silver, Copper
+ 
+---------- dawn_harbor: turn 3 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Navigator
+dawn_harbor - gains Navigator
+dawn_harbor - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Navigator
+Stef - looks at Estate, Estate
+Stef - shuffles deck
+Stef - looks at Copper, Native Village, Estate
+Stef - discards: Estate, Estate, Copper, Native Village, Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Nobles
+ 
+---------- dawn_harbor: turn 4 ----------
+dawn_harbor - plays 2 Copper, 1 Silver
+dawn_harbor - buys Silver
+dawn_harbor - gains Silver
+dawn_harbor - draws Navigator, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Silver, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Nobles
+Stef - draws Copper, Estate, Navigator
+Stef - plays 4 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Copper, Estate, Copper, Native Village
+ 
+---------- dawn_harbor: turn 5 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Copper, Copper, Navigator, Copper
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Navigator on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays 2 Silver, 1 Copper
+dawn_harbor - buys Gold
+dawn_harbor - gains Gold
+dawn_harbor - draws Copper, Copper, Copper, Navigator, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Native Village, Copper
+ 
+---------- dawn_harbor: turn 6 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Copper, Estate, Estate
+dawn_harbor - shuffles deck
+dawn_harbor - looks at Estate
+dawn_harbor - discards: Copper, Copper, Estate, Estate, Estate
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Gold
+dawn_harbor - gains Gold
+dawn_harbor - draws Copper, Navigator, Silver, Gold, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Native Village, Navigator, Copper, Copper, Copper
+ 
+---------- dawn_harbor: turn 7 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - shuffles deck
+dawn_harbor - looks at Copper, Navigator, Copper, Copper, Estate
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Navigator on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays 2 Silver, 1 Copper, 1 Gold
+dawn_harbor - buys Platinum
+dawn_harbor - gains Platinum
+dawn_harbor - draws Copper, Copper, Navigator, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays Navigator
+Stef - looks at Copper, Copper, Estate, Nobles
+Stef - shuffles deck
+Stef - looks at Nobles
+Stef - discards: Copper, Copper, Estate, Nobles, Nobles
+Stef - plays 3 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Nobles, Nobles, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Silver, Nobles, Inn, Copper, Silver
+ 
+---------- dawn_harbor: turn 8 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Copper, Gold, Copper, Estate
+dawn_harbor - discards: Copper, Copper, Gold, Copper, Estate
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Potion
+dawn_harbor - gains Potion
+dawn_harbor - draws Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Navigator, Copper, Platinum
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Inn
+Stef - draws Nobles, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Native Village
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays Nobles
+Stef - draws Native Village, Copper, Copper
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Navigator, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Nobles
+ 
+---------- dawn_harbor: turn 9 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Gold, Estate, Copper, Potion
+dawn_harbor - discards: Copper, Gold, Estate, Copper, Potion
+dawn_harbor - plays 2 Copper, 1 Platinum
+dawn_harbor - buys Platinum
+dawn_harbor - gains Platinum
+dawn_harbor - draws Copper, Gold, Copper, Copper, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Navigator
+Stef - looks at Native Village, Native Village, Potion, Inn, Copper
+Stef - places Native Village on top of deck
+Stef - places Native Village on top of deck
+Stef - places Potion on top of deck
+Stef - places Inn on top of deck
+Stef - places Copper on top of deck
+Stef - plays 3 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Inn, Potion, Native Village, Native Village
+ 
+---------- dawn_harbor: turn 10 ----------
+dawn_harbor - plays 3 Copper, 1 Gold, 1 Silver
+dawn_harbor - buys Nobles
+dawn_harbor - gains Nobles
+dawn_harbor - draws Silver, Navigator, Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Inn
+Stef - draws Copper, Nobles
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - draws Navigator, Nobles, Copper, Peddler, Copper
+ 
+---------- dawn_harbor: turn 11 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Nobles, Copper, Potion, Estate, Estate
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Nobles on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Potion on top of deck
+dawn_harbor - places Estate on top of deck
+dawn_harbor - plays 2 Copper, 1 Silver
+dawn_harbor - buys Nobles
+dawn_harbor - gains Nobles
+dawn_harbor - draws Estate, Potion, Copper, Nobles, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Navigator
+Stef - looks at Copper
+Stef - shuffles deck
+Stef - looks at Copper, Potion, Inn, Copper
+Stef - places Potion on top of deck
+Stef - places Inn on top of deck
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Copper, Copper, Inn, Potion, Copper
+ 
+---------- dawn_harbor: turn 12 ----------
+dawn_harbor - plays Nobles
+dawn_harbor - draws Silver, Platinum, Copper
+dawn_harbor - plays 2 Copper, 1 Potion, 1 Silver, 1 Platinum
+dawn_harbor - buys Possession
+dawn_harbor - gains Possession
+dawn_harbor - draws Copper, Gold, Platinum, Gold, Navigator
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Native Village, Native Village
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Native Village
+Stef - sets aside Nobles
+Stef - plays Native Village
+Stef - takes set aside cards: Estate, Estate, Estate, Copper, Silver, Silver, Nobles
+Stef - plays 2 Copper, 2 Silver, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - shuffles deck
+Stef - draws Native Village, Copper, Copper, Navigator, Potion
+ 
+---------- dawn_harbor: turn 13 ----------
+dawn_harbor - plays 2 Gold, 1 Copper, 1 Platinum
+dawn_harbor - buys Inn
+dawn_harbor - gains Inn
+dawn_harbor - places Nobles, Navigator, Possession, Nobles, Inn on top of deck
+dawn_harbor - shuffles deck
+dawn_harbor - draws Navigator, Inn, Nobles, Possession, Nobles
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Navigator
+Stef - looks at Copper, Inn, Nobles, Silver, Native Village
+Stef - discards: Copper, Inn, Nobles, Silver, Native Village
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Rats
+Stef - gains Rats
+Stef - draws Copper, Estate, Estate, Silver, Peddler
+ 
+---------- dawn_harbor: turn 14 ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Copper, Copper
+dawn_harbor - discards Nobles
+dawn_harbor - discards Navigator
+dawn_harbor - plays Nobles
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Nobles, Potion
+dawn_harbor - plays Possession
+dawn_harbor - draws Estate, Copper, Copper, Platinum, Platinum
+ 
+---------- Stef: turn 15 [possessed] ----------
+Stef - plays Peddler
+Stef - draws Estate
+Stef - draws Possession, Copper, Nobles, Copper, Nobles
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - shuffles deck
+Stef - draws Copper, Native Village, Estate
+Stef - plays Native Village
+Stef - sets aside Nobles
+Stef - plays Possession
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Estate, Navigator, Native Village, Silver
+ 
+---------- dawn_harbor: turn 15 [possessed] ----------
+dawn_harbor - plays 2 Copper, 2 Platinum
+dawn_harbor - buys Nobles
+Stef - gains Nobles
+dawn_harbor - draws Estate, Gold, Silver, Navigator, Copper
+ 
+---------- dawn_harbor: turn 15 ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Estate, Gold, Silver, Navigator, Copper
+dawn_harbor - discards: Estate, Gold, Silver, Navigator, Copper
+dawn_harbor - plays 1 Gold, 1 Silver, 1 Copper
+dawn_harbor - buys Inn
+dawn_harbor - gains Inn
+dawn_harbor - places Inn, Nobles, Possession on top of deck
+dawn_harbor - shuffles deck
+dawn_harbor - draws Inn, Possession, Nobles
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Native Village
+Stef - takes set aside cards: Copper, Nobles
+Stef - plays Navigator
+Stef - looks at Peddler, Silver, Copper, Potion, Estate
+Stef - places Estate on top of deck
+Stef - places Copper on top of deck
+Stef - places Silver on top of deck
+Stef - places Peddler on top of deck
+Stef - places Potion on top of deck
+Stef - plays Nobles
+Stef - draws Potion, Peddler, Silver
+Stef - plays 2 Copper, 2 Silver, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - draws Copper, Estate, Copper, Rats, Inn
+ 
+---------- dawn_harbor: turn 16 ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Platinum, Silver
+dawn_harbor - discards Copper
+dawn_harbor - discards Silver
+dawn_harbor - plays Nobles
+dawn_harbor - draws Copper, Estate, Estate
+dawn_harbor - plays Possession
+dawn_harbor - plays 1 Silver, 1 Platinum, 1 Copper
+dawn_harbor - buys Nobles
+dawn_harbor - gains Nobles
+dawn_harbor - draws Copper, Copper, Estate, Gold, Potion
+ 
+---------- Stef: turn 17 [possessed] ----------
+Stef - plays Inn
+Stef - shuffles deck
+Stef - draws Estate, Peddler
+Stef - discards Rats
+Stef - discards Estate
+Stef - plays Peddler
+Stef - draws Estate
+Stef - draws Possession, Copper, Peddler, Silver, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Peddler
+Stef - draws Nobles
+Stef - plays Possession
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Rats, Inn, Peddler, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Possession, Copper, Copper, Silver
+ 
+---------- dawn_harbor: turn 17 [possessed] ----------
+dawn_harbor - plays 2 Copper, 1 Gold, 1 Potion
+dawn_harbor - buys Inn
+Stef - gains Inn
+Stef - places Peddler, Possession, Nobles, Inn on top of deck
+Stef - shuffles deck
+dawn_harbor - draws Gold, Nobles, Copper, Navigator, Inn
+ 
+---------- dawn_harbor: turn 17 ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Copper, Copper
+dawn_harbor - discards Copper
+dawn_harbor - discards Copper
+dawn_harbor - plays Nobles
+dawn_harbor - draws Platinum, Navigator
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Estate, Estate, Potion, Possession, Estate
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Potion on top of deck
+dawn_harbor - places Possession on top of deck
+dawn_harbor - places Estate on top of deck
+dawn_harbor - plays 2 Copper, 1 Gold, 1 Platinum
+dawn_harbor - buys Colony
+dawn_harbor - gains Colony
+dawn_harbor - draws Estate, Possession, Potion, Estate, Estate
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Inn
+Stef - draws Native Village, Nobles
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Potion, Native Village, Rats
+Stef - plays Rats
+Stef - draws Peddler
+Stef - gains Rats
+Stef - trashes Native Village
+Stef - plays Peddler
+Stef - draws Navigator
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Navigator
+Stef - looks at Peddler, Inn, Nobles, Possession, Inn
+Stef - places Peddler on top of deck
+Stef - places Inn on top of deck
+Stef - places Nobles on top of deck
+Stef - places Possession on top of deck
+Stef - places Inn on top of deck
+Stef - plays Possession
+Stef - plays 1 Silver, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Inn, Possession, Nobles, Inn, Peddler
+ 
+---------- dawn_harbor: turn 18 [possessed] ----------
+dawn_harbor - plays Potion
+dawn_harbor - buys Vineyard
+Stef - gains Vineyard
+dawn_harbor - draws Inn, Platinum, Nobles, Copper, Copper
+ 
+---------- dawn_harbor: turn 18 ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Copper, Copper
+dawn_harbor - discards Copper
+dawn_harbor - discards Copper
+dawn_harbor - plays Nobles
+dawn_harbor - draws Copper, Gold, Silver
+dawn_harbor - plays 3 Copper, 1 Platinum, 1 Gold, 1 Silver
+dawn_harbor - buys Colony
+dawn_harbor - gains Colony
+dawn_harbor - draws Silver, Nobles
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Nobles, Inn
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Peddler
+Stef - draws Nobles
+Stef - plays Inn
+Stef - draws Nobles
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Silver
+Stef - discards Nobles
+Stef - plays Nobles
+Stef - draws Silver, Native Village, Potion
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Nobles
+Stef - draws Vineyard, Estate, Estate
+Stef - plays Inn
+Stef - draws Copper, Inn
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Inn
+Stef - draws Nobles, Copper
+Stef - discards Vineyard
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Copper, Copper, Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays 3 Copper, 1 Silver, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - draws Vineyard, Rats, Navigator, Peddler, Copper
+ 
+---------- dawn_harbor: turn 19 [possessed] ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Navigator, Potion
+dawn_harbor - discards Copper
+dawn_harbor - discards Potion
+dawn_harbor - plays Nobles
+dawn_harbor - draws Platinum, Copper, Estate
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Navigator, Platinum, Copper, Silver, Inn
+dawn_harbor - discards: Navigator, Platinum, Copper, Silver, Inn
+dawn_harbor - plays 1 Silver, 1 Platinum, 1 Copper
+dawn_harbor - buys Nobles
+Stef - gains Nobles
+dawn_harbor - draws Copper, Estate, Estate, Nobles, Gold
+ 
+---------- dawn_harbor: turn 19 [possessed] ----------
+dawn_harbor - plays Nobles
+dawn_harbor - draws Colony, Possession, Copper
+dawn_harbor - plays 2 Copper, 1 Gold
+dawn_harbor - buys Inn
+Stef - gains Inn
+Stef - places Nobles, Possession, Peddler, Inn, Nobles, Native Village, Nobles, Inn, Inn, Nobles, Possession, Possession, Nobles, Inn on top of deck
+Stef - shuffles deck
+dawn_harbor - draws Gold, Copper, Colony, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Colony
+ 
+---------- dawn_harbor: turn 19 ----------
+dawn_harbor - plays 2 Copper, 1 Gold
+dawn_harbor - buys Highway
+dawn_harbor - gains Highway
+dawn_harbor - draws Platinum, Silver, Platinum, Copper, Nobles
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Possession
+Stef - plays Rats
+Stef - draws Nobles
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Navigator
+Stef - looks at Rats, Estate, Possession, Inn, Native Village
+Stef - places Rats on top of deck
+Stef - places Estate on top of deck
+Stef - places Possession on top of deck
+Stef - places Inn on top of deck
+Stef - places Native Village on top of deck
+Stef - plays Possession
+Stef - buys Rats
+Stef - gains Rats
+Stef - draws Native Village, Inn, Possession, Estate, Rats
+ 
+---------- dawn_harbor: turn 20 [possessed] ----------
+dawn_harbor - plays 2 Platinum, 1 Silver, 1 Copper
+dawn_harbor - buys Colony
+Stef - gains Colony
+dawn_harbor - draws Copper, Estate, Navigator, Gold, Nobles
+ 
+---------- dawn_harbor: turn 20 ----------
+dawn_harbor - plays Nobles
+dawn_harbor - draws Navigator, Inn, Estate
+dawn_harbor - plays 1 Copper, 1 Gold
+dawn_harbor - buys Rats
+dawn_harbor - gains Rats
+dawn_harbor - draws Possession, Potion, Inn, Copper, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Native Village
+Stef - takes set aside cards: Copper, Copper
+Stef - plays Inn
+Stef - draws Nobles, Nobles
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Nobles, Inn, Inn
+Stef - plays Nobles
+Stef - draws Nobles, Inn, Possession
+Stef - plays Inn
+Stef - shuffles deck
+Stef - draws Rats, Potion
+Stef - discards Copper
+Stef - discards Rats
+Stef - plays Nobles
+Stef - draws Possession, Peddler, Copper
+Stef - plays Peddler
+Stef - draws Vineyard
+Stef - plays Inn
+Stef - draws Colony, Copper
+Stef - discards Vineyard
+Stef - discards Colony
+Stef - plays Nobles
+Stef - draws Rats, Copper, Estate
+Stef - plays Inn
+Stef - draws Nobles, Navigator
+Stef - discards Estate
+Stef - discards Navigator
+Stef - plays Rats
+Stef - draws Estate
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Silver, Rats, Silver, Estate, Vineyard
+ 
+---------- dawn_harbor: turn 21 [possessed] ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Nobles, Copper
+dawn_harbor - discards Copper
+dawn_harbor - discards Copper
+dawn_harbor - plays Nobles
+dawn_harbor - draws Copper, Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - plays 2 Copper, 1 Potion, 1 Silver
+dawn_harbor - buys Vineyard
+Stef - gains Vineyard
+dawn_harbor - draws Silver, Colony, Nobles, Navigator, Highway
+ 
+---------- dawn_harbor: turn 21 [possessed] ----------
+dawn_harbor - plays Highway
+dawn_harbor - draws Gold
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Inn, Gold, Rats, Colony
+dawn_harbor - discards: Copper, Inn, Gold, Rats, Colony
+dawn_harbor - plays 1 Silver, 1 Gold
+dawn_harbor - buys Inn
+Stef - gains Inn
+Stef - places Rats, Navigator, Rats, Rats, Native Village, Inn, Nobles, Nobles, Inn, Nobles, Peddler, Inn, Nobles, Inn, Rats, Rats, Nobles, Possession, Possession, Possession, Inn on top of deck
+Stef - shuffles deck
+dawn_harbor - draws Copper, Copper, Nobles, Platinum, Navigator
+ 
+---------- dawn_harbor: turn 21 [possessed] ----------
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Platinum, Copper, Copper, Estate, Estate
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Estate on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Copper on top of deck
+dawn_harbor - places Platinum on top of deck
+dawn_harbor - plays 2 Copper, 1 Platinum
+dawn_harbor - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+dawn_harbor - draws Platinum, Copper, Copper, Estate, Estate
+ 
+---------- dawn_harbor: turn 21 ----------
+dawn_harbor - plays 2 Copper, 1 Platinum
+dawn_harbor - buys Duchy
+dawn_harbor - gains Duchy
+dawn_harbor - shuffles deck
+dawn_harbor - draws Nobles, Possession, Duchy, Copper, Platinum
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays 2 Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Inn, Nobles, Rats, Rats, Inn
+ 
+---------- dawn_harbor: turn 22 ----------
+dawn_harbor - plays Possession
+dawn_harbor - plays 1 Copper, 1 Platinum
+dawn_harbor - buys Highway
+dawn_harbor - gains Highway
+dawn_harbor - draws Inn, Inn, Nobles, Rats, Gold
+ 
+---------- Stef: turn 23 [possessed] ----------
+Stef - plays Inn
+Stef - draws Inn, Rats
+Stef - discards Rats
+Stef - discards Rats
+Stef - plays Nobles
+Stef - draws Nobles, Nobles, Peddler
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Nobles, Rats
+Stef - discards Rats
+Stef - discards Rats
+Stef - plays Nobles
+Stef - draws Peddler, Native Village, Inn
+Stef - plays Peddler
+Stef - draws Nobles
+Stef - plays Inn
+Stef - draws Navigator, Possession
+Stef - discards Native Village
+Stef - discards Possession
+Stef - plays Nobles
+Stef - draws Possession, Possession, Rats
+Stef - plays Inn
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Rats
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Vineyard, Rats, Potion
+Stef - plays Rats
+Stef - draws Vineyard
+dawn_harbor - gains Rats
+Stef - trashes Vineyard
+Stef - plays Inn
+Stef - draws Possession, Rats
+Stef - discards Possession
+Stef - discards Possession
+Stef - plays Nobles
+Stef - draws Native Village, Silver, Rats
+Stef - plays Rats
+Stef - draws Estate
+dawn_harbor - gains Rats
+Stef - trashes Estate
+Stef - plays Rats
+Stef - draws Rats
+dawn_harbor - gains Rats
+Stef - trashes Vineyard
+Stef - plays Rats
+Stef - draws Colony
+dawn_harbor - gains Rats
+Stef - trashes Colony
+Stef - plays Inn
+Stef - draws Estate, Vineyard
+Stef - discards Vineyard
+Stef - discards Estate
+Stef - plays Navigator
+Stef - looks at Native Village, Vineyard, Rats, Silver, Estate
+Stef - places Estate on top of deck
+Stef - places Native Village on top of deck
+Stef - places Vineyard on top of deck
+Stef - places Rats on top of deck
+Stef - places Silver on top of deck
+Stef - plays 1 Potion, 1 Silver
+Stef - buys Vineyard
+dawn_harbor - gains Vineyard
+Stef - draws Silver, Rats, Vineyard, Native Village, Estate
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Rats
+Stef - draws Rats
+Stef - gains Rats
+Stef - trashes Estate
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays 1 Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - shuffles deck
+Stef - draws Estate, Native Village, Colony, Rats, Native Village
+ 
+---------- dawn_harbor: turn 23 ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Colony, Navigator
+dawn_harbor - discards Colony
+dawn_harbor - discards Rats
+dawn_harbor - plays Nobles
+dawn_harbor - draws Copper, Silver, Nobles
+dawn_harbor - plays Inn
+dawn_harbor - draws Copper, Navigator
+dawn_harbor - discards Copper
+dawn_harbor - discards Navigator
+dawn_harbor - plays Nobles
+dawn_harbor - draws Colony, Gold, Copper
+dawn_harbor - plays Navigator
+dawn_harbor - looks at Copper, Estate, Platinum, Potion, Silver
+dawn_harbor - discards: Copper, Estate, Platinum, Potion, Silver
+dawn_harbor - plays 2 Gold, 2 Copper, 1 Silver
+dawn_harbor - buys Colony
+dawn_harbor - gains Colony
+dawn_harbor - draws Estate, Copper, Copper, Estate, Highway
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Native Village
+Stef - sets aside Nobles
+Stef - plays Native Village
+Stef - takes set aside cards: Copper, Nobles
+Stef - plays Nobles
+Stef - draws Navigator, Rats, Possession
+Stef - plays Navigator
+Stef - looks at Nobles, Rats, Possession, Peddler, Rats
+Stef - places Rats on top of deck
+Stef - places Rats on top of deck
+Stef - places Possession on top of deck
+Stef - places Nobles on top of deck
+Stef - places Peddler on top of deck
+Stef - plays Rats
+Stef - draws Peddler
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Peddler
+Stef - draws Nobles
+Stef - plays Rats
+Stef - draws Possession
+Stef - gains Rats
+Stef - trashes Estate
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Possession
+Stef - plays Possession
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Rats, Rats, Nobles, Rats, Inn
+ 
+---------- dawn_harbor: turn 24 [possessed] ----------
+dawn_harbor - plays Highway
+dawn_harbor - shuffles deck
+dawn_harbor - draws Rats
+dawn_harbor - plays Rats
+dawn_harbor - draws Silver
+Stef - gains Rats
+dawn_harbor - trashes Estate
+dawn_harbor - plays 2 Copper, 1 Silver
+dawn_harbor - buys Native Village
+Stef - gains Native Village
+dawn_harbor - draws Copper, Rats, Potion, Gold, Inn
+ 
+---------- dawn_harbor: turn 24 [possessed] ----------
+dawn_harbor - plays Inn
+dawn_harbor - draws Navigator, Nobles
+dawn_harbor - discards Gold
+dawn_harbor - discards Copper
+dawn_harbor - plays Nobles
+dawn_harbor - draws Inn, Silver, Rats
+dawn_harbor - plays Rats
+dawn_harbor - draws Possession
+Stef - gains Rats
+dawn_harbor - trashes Possession
+dawn_harbor - plays Rats
+dawn_harbor - draws Nobles
+Stef - gains Rats
+dawn_harbor - trashes Silver
+dawn_harbor - plays Inn
+dawn_harbor - draws Platinum, Gold
+dawn_harbor - discards Gold
+dawn_harbor - discards Navigator
+dawn_harbor - plays Nobles
+dawn_harbor - draws Copper, Rats, Copper
+dawn_harbor - plays Rats
+dawn_harbor - draws Colony
+Stef - gains Rats
+dawn_harbor - trashes Copper
+dawn_harbor - plays Potion
+dawn_harbor - buys Vineyard
+Stef - gains Vineyard
+dawn_harbor - draws Vineyard, Estate, Colony, Nobles, Platinum
+ 
+---------- dawn_harbor: turn 24 ----------
+dawn_harbor - plays Nobles
+dawn_harbor - draws Highway, Copper, Copper
+dawn_harbor - plays 2 Copper, 1 Platinum
+dawn_harbor - buys Duchy
+dawn_harbor - gains Duchy
+dawn_harbor - draws Colony, Duchy, Rats, Navigator
+dawn_harbor - shuffles deck
+dawn_harbor - draws Potion
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Inn
+Stef - draws Inn, Silver
+Stef - discards Silver
+Stef - discards Rats
+Stef - plays Nobles
+Stef - draws Silver, Potion, Possession
+Stef - plays Inn
+Stef - draws Rats, Native Village
+Stef - discards Rats
+Stef - discards Rats
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Rats
+Stef - draws Vineyard
+Stef - trashes Silver
+Stef - plays Possession
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Estate, Vineyard, Vineyard, Rats, Nobles
+ 
+---------- dawn_harbor: turn 25 [possessed] ----------
+dawn_harbor - plays Potion
+dawn_harbor - buys Vineyard
+Stef - gains Vineyard
+dawn_harbor - draws Colony, Highway, Rats, Estate, Inn
+ 
+------------ Game Over ------------
+Stef - cards: 15 Rats, 6 Inn, 5 Nobles, 5 Native Village, 3 Possession, 2 Peddler, 1 Navigator, 1 Silver, 1 Potion, 1 Copper, 7 Vineyard, 1 Estate, 1 Colony
+Stef - total victory points: 105
+Stef - turns: 25
+ 
+dawn_harbor - cards: 5 Rats, 3 Nobles, 2 Highway, 2 Inn, 2 Navigator, 1 Possession, 7 Copper, 2 Platinum, 2 Silver, 2 Gold, 1 Potion, 3 Colony, 3 Estate, 2 Duchy, 1 Vineyard
+dawn_harbor - total victory points: 50
+dawn_harbor - turns: 24
+ 
+1st place: Stef
+2nd place: dawn_harbor
+ 

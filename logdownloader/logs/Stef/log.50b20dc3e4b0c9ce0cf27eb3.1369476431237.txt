@@ -1,0 +1,611 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Tunnel, Island, Moneylender, Noble Brigand, Highway, Laboratory, Saboteur, Witch, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+RTT - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Moneylender
+RTT - gains Moneylender
+RTT - shuffles deck
+RTT - draws Moneylender, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper
+RTT - buys Witch
+RTT - gains Witch
+RTT - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Moneylender, Copper, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Island
+RTT - gains Island
+RTT - draws Copper, Copper
+RTT - shuffles deck
+RTT - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Silver, Moneylender, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays 4 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Witch, Silver, Copper, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Estate, Copper, Copper, Witch, Estate
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Witch
+RTT - draws Moneylender, Copper
+Stef - gains Curse
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Island
+RTT - gains Island
+RTT - draws Island
+RTT - shuffles deck
+RTT - draws Silver, Estate, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Witch
+Stef - draws Copper, Silver
+RTT - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Laboratory, Estate, Silver
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Island
+RTT - sets aside Estate
+RTT - plays 1 Silver, 1 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Silver, Island, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Laboratory
+Stef - draws Moneylender, Witch
+Stef - plays Witch
+Stef - draws Copper, Silver
+RTT - gains Curse
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Curse, Copper, Estate, Witch
+ 
+---------- RTT: turn 8 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Moneylender, Copper, Copper, Estate, Witch
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Witch
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Silver
+RTT - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Moneylender, Silver, Copper, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Witch
+RTT - shuffles deck
+RTT - draws Silver, Copper
+Stef - gains Curse
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Laboratory, Copper, Copper, Island, Curse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Witch, Estate, Laboratory, Laboratory
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Laboratory
+RTT - draws Curse, Curse
+RTT - plays Island
+RTT - sets aside Curse
+RTT - plays 2 Copper
+RTT - buys Native Village
+RTT - gains Native Village
+RTT - draws Silver, Estate, Silver, Copper
+RTT - shuffles deck
+RTT - draws Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Laboratory
+Stef - draws Estate, Moneylender
+Stef - plays Laboratory
+Stef - draws Silver, Copper
+Stef - plays Witch
+Stef - draws Copper, Laboratory
+RTT - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Island
+Stef - gains Island
+Stef - draws Witch, Native Village, Copper, Curse, Copper
+ 
+---------- RTT: turn 11 ----------
+RTT - plays 3 Silver, 1 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Estate, Curse, Witch, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Native Village
+Stef - sets aside Curse
+Stef - plays Witch
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Estate
+RTT - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Island
+Stef - gains Island
+Stef - draws Silver, Estate, Laboratory, Estate, Copper
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Witch
+RTT - draws Moneylender, Laboratory
+Stef - gains Curse
+RTT - plays 2 Copper
+RTT - buys Native Village
+RTT - gains Native Village
+RTT - draws Copper, Copper, Copper, Curse, Laboratory
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Laboratory
+Stef - draws Moneylender, Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Laboratory, Laboratory, Witch, Island
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Laboratory
+RTT - draws Native Village
+RTT - shuffles deck
+RTT - draws Moneylender
+RTT - plays Native Village
+RTT - sets aside Curse
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Silver, Curse, Curse, Copper, Laboratory
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Laboratory
+Stef - draws Curse, Estate
+Stef - plays Laboratory
+Stef - draws Laboratory, Witch
+Stef - plays Laboratory
+Stef - draws Copper, Curse
+Stef - plays Witch
+Stef - draws Silver, Estate
+RTT - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Laboratory, Copper, Moneylender, Silver, Native Village
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Estate
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Island
+RTT - gains Island
+RTT - draws Native Village, Laboratory, Witch, Silver, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Island, Estate
+Stef - plays Native Village
+Stef - shuffles deck
+Stef - sets aside Curse
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Island
+Stef - gains Island
+Stef - draws Laboratory, Estate, Silver, Laboratory, Native Village
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Laboratory
+RTT - draws Copper, Silver
+RTT - plays Native Village
+RTT - shuffles deck
+RTT - sets aside Copper
+RTT - plays Witch
+RTT - draws Copper, Estate
+Stef - gains Curse
+RTT - plays 2 Silver, 2 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Curse, Laboratory, Island, Laboratory, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Laboratory
+Stef - draws Witch, Island
+Stef - plays Laboratory
+Stef - draws Witch, Laboratory
+Stef - plays Laboratory
+Stef - draws Estate, Copper
+Stef - plays Native Village
+Stef - sets aside Curse
+Stef - plays Witch
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Native Village
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Witch
+Stef - draws Island, Laboratory
+Stef - plays Laboratory
+Stef - draws Curse, Moneylender
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Laboratory, Island, Estate, Laboratory, Witch
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Curse
+RTT - plays Laboratory
+RTT - draws Curse, Curse
+RTT - plays Laboratory
+RTT - draws Silver, Moneylender
+RTT - plays Island
+RTT - sets aside Curse
+RTT - plays 1 Copper, 1 Silver
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Native Village
+RTT - shuffles deck
+RTT - draws Gold, Laboratory, Laboratory
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Laboratory
+Stef - draws Island, Gold
+Stef - plays Laboratory
+Stef - draws Witch, Native Village
+Stef - plays Native Village
+Stef - sets aside Laboratory
+Stef - plays Witch
+Stef - draws Moneylender, Estate
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Native Village, Silver, Curse, Laboratory
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Laboratory
+RTT - draws Moneylender, Curse
+RTT - plays Laboratory
+RTT - draws Copper, Curse
+RTT - plays Native Village
+RTT - sets aside Curse
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Silver, Laboratory, Estate, Witch, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Gold, Estate
+Stef - plays Native Village
+Stef - sets aside Native Village
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Laboratory, Island, Silver, Witch, Witch
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Copper
+RTT - plays Laboratory
+RTT - draws Estate, Silver
+RTT - plays Witch
+RTT - draws Native Village, Silver
+RTT - plays 4 Silver, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper
+RTT - shuffles deck
+RTT - draws Curse, Witch, Laboratory, Laboratory
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Laboratory
+Stef - draws Moneylender, Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Native Village, Laboratory
+Stef - plays Laboratory
+Stef - draws Gold, Copper
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Witch
+Stef - draws Estate, Gold
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Province, Witch, Gold, Gold
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Laboratory
+RTT - plays Laboratory
+RTT - draws Copper, Silver
+RTT - plays Laboratory
+RTT - draws Silver, Province
+RTT - plays Laboratory
+RTT - draws Silver, Laboratory
+RTT - plays Laboratory
+RTT - draws Copper, Estate
+RTT - plays Witch
+RTT - draws Native Village, Curse
+RTT - plays 3 Copper, 3 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Native Village, Estate, Gold, Silver, Moneylender
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Witch
+Stef - draws Native Village, Laboratory
+Stef - plays 2 Gold
+Stef - buys Island
+Stef - gains Island
+Stef - draws Witch, Silver, Laboratory, Island, Estate
+ 
+---------- RTT: turn 20 ----------
+RTT - plays Native Village
+RTT - takes set aside cards: Curse, Copper, Curse
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Gold, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - shuffles deck
+RTT - draws Province, Silver, Curse, Laboratory, Native Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Laboratory
+Stef - draws Moneylender, Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Gold, Witch
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Laboratory, Curse, Native Village, Island
+ 
+---------- RTT: turn 21 ----------
+RTT - plays Laboratory
+RTT - draws Province, Curse
+RTT - plays Native Village
+RTT - sets aside Silver
+RTT - plays 1 Silver
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Moneylender, Copper, Witch, Silver, Laboratory
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Laboratory
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Native Village
+Stef - sets aside Witch
+Stef - plays Island
+Stef - sets aside Province
+Stef - plays 1 Gold
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Moneylender, Gold, Laboratory, Silver, Laboratory
+ 
+---------- RTT: turn 22 ----------
+RTT - plays Laboratory
+RTT - draws Curse, Province
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 1 Silver
+RTT - buys Island
+RTT - gains Island
+RTT - draws Laboratory, Copper, Estate, Gold, Laboratory
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Laboratory
+Stef - draws Witch
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Laboratory
+Stef - draws Tunnel, Native Village
+Stef - plays Native Village
+Stef - takes set aside cards: Curse, Curse, Curse, Silver, Laboratory, Native Village, Silver, Witch
+Stef - plays Laboratory
+Stef - draws Laboratory, Gold
+Stef - plays Native Village
+Stef - sets aside Curse
+Stef - plays 3 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Laboratory, Gold, Laboratory, Province, Gold
+ 
+---------- RTT: turn 23 ----------
+RTT - plays Laboratory
+RTT - draws Estate, Silver
+RTT - plays Laboratory
+RTT - draws Copper, Native Village
+RTT - plays Native Village
+RTT - takes set aside cards: Silver
+RTT - plays 2 Copper, 2 Silver, 1 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Curse, Laboratory
+RTT - shuffles deck
+RTT - draws Curse, Curse, Province
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Laboratory
+Stef - draws Duchy, Silver
+Stef - plays Laboratory
+Stef - draws Curse, Silver
+Stef - plays 2 Gold, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Native Village, Witch, Silver, Laboratory
+ 
+---------- RTT: turn 24 ----------
+RTT - plays Laboratory
+RTT - draws Estate, Gold
+RTT - plays 1 Gold
+RTT - buys Tunnel
+RTT - gains Tunnel
+RTT - draws Moneylender, Province, Curse, Silver, Province
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Laboratory
+Stef - draws Witch, Moneylender
+Stef - plays Native Village
+Stef - sets aside Native Village
+Stef - plays Witch
+Stef - draws Tunnel, Laboratory
+Stef - plays Laboratory
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Witch
+Stef - draws Silver, Gold
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Silver, Curse, Duchy, Province
+ 
+---------- RTT: turn 25 ----------
+RTT - plays 1 Silver
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Island, Silver, Silver, Copper, Native Village
+ 
+---------- Stef: turn 25 ----------
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Laboratory, Laboratory
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Silver
+ 
+---------- RTT: turn 26 ----------
+RTT - plays Native Village
+RTT - sets aside Laboratory
+RTT - plays 2 Silver, 1 Copper
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Witch, Province, Native Village, Laboratory, Silver
+ 
+---------- Stef: turn 26 ----------
+Stef - plays Laboratory
+Stef - draws Native Village, Witch
+Stef - plays Laboratory
+Stef - draws Gold, Moneylender
+Stef - plays Native Village
+Stef - sets aside Curse
+Stef - plays Witch
+Stef - draws Gold, Silver
+Stef - plays 3 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Laboratory, Tunnel, Curse, Duchy, Province
+ 
+------------ Game Over ------------
+Stef - cards: 4 Island, 4 Laboratory, 2 Witch, 2 Native Village, 1 Moneylender, 3 Silver, 2 Gold, 4 Province, 3 Duchy, 3 Estate, 1 Tunnel, 4 Curse
+Stef - total victory points: 42
+Stef - turns: 26
+ 
+RTT - cards: 5 Laboratory, 4 Island, 2 Native Village, 1 Witch, 1 Moneylender, 4 Silver, 2 Copper, 1 Gold, 5 Estate, 4 Province, 1 Tunnel, 1 Duchy, 6 Curse
+RTT - total victory points: 36
+RTT - turns: 26
+ 
+1st place: Stef
+2nd place: RTT
+ 

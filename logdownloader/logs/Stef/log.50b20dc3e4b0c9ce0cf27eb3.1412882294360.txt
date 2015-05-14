@@ -1,0 +1,525 @@
+------------ Game Setup ------------
+Supply cards: Squire, Fortune Teller, Lookout, Sage, Conspirator, Feast, Pirate Ship, Journeyman, Hunting Grounds, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+silverspawn  - shuffles deck
+Stef - draws Copper, Estate, Estate, Estate, Copper
+silverspawn  - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays 4 Copper
+silverspawn  - buys Conspirator
+silverspawn  - gains Conspirator
+silverspawn  - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - shuffles deck
+Stef - draws Journeyman, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Lookout
+silverspawn  - gains Lookout
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Copper, Conspirator, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Estate, Copper, Estate, Copper, Squire
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Estate, Estate, Squire
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Squire, Copper, Copper
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays Conspirator
+silverspawn  - plays 4 Copper
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Lookout, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 4 Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - draws Lookout, Estate, Journeyman, Copper, Estate
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - plays Lookout
+silverspawn  - shuffles deck
+silverspawn  - trashes Copper
+silverspawn  - discards Copper
+silverspawn  - places Copper on top of deck
+silverspawn  - draws Copper, Copper, Gold, Copper, Conspirator
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Journeyman
+Stef - names Squire
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Journeyman
+Stef - places cards in hand:  Copper, Copper, Journeyman
+Stef - plays 3 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Copper, Silver, Copper, Squire, Copper
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays Conspirator
+silverspawn  - plays 3 Copper, 1 Gold
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - draws Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Gold, Conspirator, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper, Copper
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays Conspirator
+silverspawn  - plays 2 Copper, 1 Gold
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - draws Copper, Copper, King's Court, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Copper, Copper, Lookout, Copper, Journeyman
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - plays King's Court
+silverspawn  - plays 4 Copper
+silverspawn  - buys Lookout
+silverspawn  - gains Lookout
+silverspawn  - draws Estate, Lookout, Estate
+silverspawn  - shuffles deck
+silverspawn  - draws King's Court, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Hunting Grounds
+Stef - places Silver on top of deck
+Stef - plays Journeyman
+Stef - names Estate
+Stef - reveals Silver, Squire, Journeyman
+Stef - places cards in hand:  Silver, Squire, Journeyman
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Sage, Estate
+Stef - shuffles deck
+Stef - draws Silver, Copper, Silver
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays King's Court
+silverspawn  - plays Lookout
+silverspawn  - trashes Lookout
+silverspawn  - discards Conspirator
+silverspawn  - places King's Court on top of deck
+silverspawn  - plays Lookout
+silverspawn  - trashes Copper
+silverspawn  - discards King's Court
+silverspawn  - places Gold on top of deck
+silverspawn  - plays Lookout
+silverspawn  - trashes Estate
+silverspawn  - discards Copper
+silverspawn  - places Gold on top of deck
+silverspawn  - draws Gold, Copper, Copper, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Sage
+Stef - reveals Hunting Grounds
+Stef - places Hunting Grounds in hand
+Stef - plays Hunting Grounds
+Stef - draws Copper, Lookout, Journeyman, Copper
+Stef - plays 3 Copper, 2 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Copper, Squire, Copper, Conspirator, Journeyman
+ 
+---------- silverspawn : turn 9 ----------
+silverspawn  - plays 4 Copper, 1 Gold
+silverspawn  - buys Squire
+silverspawn  - gains Squire
+silverspawn  - draws Lookout, King's Court, Conspirator, Estate, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Squire, Estate, Copper, Copper, Lookout
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Squire, Estate, Lookout
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Silver
+Stef - places Journeyman on top of deck
+Stef - plays Conspirator
+Stef - draws Journeyman
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Sage, Hunting Grounds, Copper, King's Court
+Stef - discards Copper
+Stef - places cards in hand:  Sage, Hunting Grounds, King's Court
+Stef - plays King's Court
+Stef - plays Sage
+Stef - reveals Copper, Silver
+Stef - places Silver in hand
+Stef - discards Copper
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Copper, Silver
+Stef - places Silver in hand
+Stef - discards: Copper, Copper, Copper
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Copper, Copper
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - plays Hunting Grounds
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+Stef - plays 6 Copper, 2 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Copper, Copper, Journeyman, Silver, Squire
+ 
+---------- silverspawn : turn 10 ----------
+silverspawn  - plays King's Court
+silverspawn  - plays Conspirator
+silverspawn  - plays Conspirator
+silverspawn  - draws Copper
+silverspawn  - plays Conspirator
+silverspawn  - draws King's Court
+silverspawn  - plays King's Court
+silverspawn  - plays Lookout
+silverspawn  - shuffles deck
+silverspawn  - trashes Copper
+silverspawn  - discards Copper
+silverspawn  - places Gold on top of deck
+silverspawn  - plays Lookout
+silverspawn  - trashes Copper
+silverspawn  - discards Gold
+silverspawn  - places Copper on top of deck
+silverspawn  - plays Lookout
+silverspawn  - shuffles deck
+silverspawn  - trashes Copper
+silverspawn  - discards Gold
+silverspawn  - places Squire on top of deck
+silverspawn  - plays 1 Copper
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - draws Squire, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws King's Court, Lookout, King's Court
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Squire, Journeyman, Copper, Estate
+Stef - discards Copper
+Stef - places cards in hand:  Squire, Journeyman, Estate
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Lookout, Conspirator, Silver
+Stef - places cards in hand:  Lookout, Conspirator, Silver
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards King's Court
+Stef - places King's Court on top of deck
+Stef - plays 3 Copper, 2 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws King's Court, Sage, Copper, Hunting Grounds
+Stef - shuffles deck
+Stef - draws Squire
+ 
+---------- silverspawn : turn 11 ----------
+silverspawn  - plays King's Court
+silverspawn  - plays King's Court
+silverspawn  - plays Squire
+silverspawn  - takes 2 actions
+silverspawn  - plays Squire
+silverspawn  - takes 2 buys
+silverspawn  - plays Squire
+silverspawn  - gains Silver
+silverspawn  - plays King's Court
+silverspawn  - plays Lookout
+silverspawn  - trashes Estate
+silverspawn  - discards King's Court
+silverspawn  - places Copper on top of deck
+silverspawn  - plays Lookout
+silverspawn  - trashes Copper
+silverspawn  - discards Gold
+silverspawn  - places Conspirator on top of deck
+silverspawn  - plays Lookout
+silverspawn  - shuffles deck
+silverspawn  - trashes Estate
+silverspawn  - discards Silver
+silverspawn  - places Conspirator on top of deck
+silverspawn  - plays King's Court
+silverspawn  - plays Copper
+silverspawn  - buys Conspirator
+silverspawn  - gains Conspirator
+silverspawn  - draws Conspirator, Gold, King's Court
+silverspawn  - shuffles deck
+silverspawn  - draws Conspirator, King's Court
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays King's Court
+Stef - plays Hunting Grounds
+Stef - draws Lookout, Silver, Journeyman, Copper
+Stef - plays Hunting Grounds
+Stef - draws Copper, Conspirator, Journeyman, King's Court
+Stef - plays Hunting Grounds
+Stef - draws Copper, Estate, Squire, Silver
+Stef - plays Sage
+Stef - reveals King's Court
+Stef - places King's Court in hand
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays King's Court
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays King's Court
+Stef - plays 4 Copper, 3 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Squire
+Stef - gains Squire
+Stef - shuffles deck
+Stef - draws King's Court, Squire, Silver, Copper, King's Court
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - plays King's Court
+silverspawn  - plays King's Court
+silverspawn  - plays Conspirator
+silverspawn  - draws Lookout
+silverspawn  - plays Conspirator
+silverspawn  - draws Squire
+silverspawn  - plays Conspirator
+silverspawn  - draws Silver
+silverspawn  - plays King's Court
+silverspawn  - plays Squire
+silverspawn  - gains Silver
+silverspawn  - plays Squire
+silverspawn  - takes 2 buys
+silverspawn  - plays Squire
+silverspawn  - takes 2 actions
+silverspawn  - plays King's Court
+silverspawn  - plays Conspirator
+silverspawn  - draws Copper
+silverspawn  - plays Conspirator
+silverspawn  - draws King's Court
+silverspawn  - plays Conspirator
+silverspawn  - shuffles deck
+silverspawn  - draws Silver
+silverspawn  - plays King's Court
+silverspawn  - plays Lookout
+silverspawn  - plays Lookout
+silverspawn  - plays Lookout
+silverspawn  - plays 2 Silver, 1 Gold, 1 Copper
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - buys Conspirator
+silverspawn  - gains Conspirator
+silverspawn  - buys Conspirator
+silverspawn  - gains Conspirator
+silverspawn  - shuffles deck
+silverspawn  - draws Conspirator, Copper, Squire, Conspirator, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Feast
+Stef - gains Feast
+Stef - draws Hunting Grounds, King's Court, Conspirator, Estate, Squire
+ 
+---------- silverspawn : turn 13 ----------
+silverspawn  - plays Squire
+silverspawn  - takes 2 actions
+silverspawn  - plays Conspirator
+silverspawn  - plays Conspirator
+silverspawn  - draws Gold
+silverspawn  - plays 1 Copper, 1 Silver, 1 Gold
+silverspawn  - buys King's Court
+silverspawn  - gains King's Court
+silverspawn  - draws King's Court, Conspirator, King's Court, King's Court, Conspirator
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays King's Court
+Stef - plays Hunting Grounds
+Stef - draws Silver, Copper, King's Court, Lookout
+Stef - plays Hunting Grounds
+Stef - draws Copper, Journeyman, Sage, Squire
+Stef - plays Hunting Grounds
+Stef - draws Silver, Journeyman, King's Court, Copper
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Journeyman
+Stef - names Gold
+Stef - shuffles deck
+Stef - reveals Conspirator, Silver, Feast
+Stef - places cards in hand:  Conspirator, Silver, Feast
+Stef - plays Journeyman
+Stef - names Gold
+Stef - reveals King's Court, Squire, Copper
+Stef - places cards in hand:  King's Court, Squire, Copper
+Stef - plays Journeyman
+Stef - names Gold
+Stef - reveals King's Court
+Stef - places cards in hand:  King's Court
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Conspirator
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Conspirator
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Feast
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Feast
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Conspirator
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Conspirator
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Squire
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Squire
+Stef - plays King's Court
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays King's Court
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 4 Copper, 3 Silver
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws King's Court, Squire, King's Court, Lookout, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 9 Squire, 6 Conspirator, 5 King's Court, 2 Journeyman, 1 Lookout, 1 Sage, 1 Hunting Grounds, 4 Copper, 3 Silver, 3 Province, 1 Estate, 1 Duchy
+Stef - total victory points: 22
+Stef - turns: 14
+ 
+silverspawn  - cards: 5 King's Court, 4 Conspirator, 1 Squire, 1 Lookout, 2 Silver, 1 Copper, 1 Gold
+silverspawn  - total victory points: 0
+silverspawn  - turns: 13
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

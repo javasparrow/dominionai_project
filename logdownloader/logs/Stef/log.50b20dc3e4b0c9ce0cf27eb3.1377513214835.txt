@@ -1,0 +1,770 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Haven, Vagrant, University, Village, Caravan, Count, Mandarin, Vault, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Shark - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Shark - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+Shark - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Shark: turn 1 ----------
+Shark - plays 3 Copper
+Shark - buys Silver
+Shark - gains Silver
+Shark - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Shark: turn 2 ----------
+Shark - plays 4 Copper
+Shark - buys Potion
+Shark - gains Potion
+Shark - shuffles deck
+Shark - draws Estate, Potion, Copper, Copper, Silver
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Shark: turn 3 ----------
+Shark - plays 2 Copper, 1 Potion, 1 Silver
+Shark - buys University
+Shark - gains University
+Shark - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Caravan, Copper, Copper, Silver
+ 
+---------- Shark: turn 4 ----------
+Shark - plays 3 Copper
+Shark - buys Haven
+Shark - gains Haven
+Shark - draws Copper, Copper
+Shark - shuffles deck
+Shark - draws Haven, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate
+ 
+---------- Shark: turn 5 ----------
+Shark - plays Haven
+Shark - draws University
+Shark - sets aside Copper
+Shark - plays University
+Shark - gains Count
+Shark - plays 3 Copper
+Shark - buys Village
+Shark - gains Village
+Shark - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Caravan
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Count, Copper, Copper, Copper, Copper
+ 
+---------- Shark: turn 6 ----------
+Shark - duration Haven
+Shark - places set aside Copper in hand
+Shark - plays 4 Copper
+Shark - buys Caravan
+Shark - gains Caravan
+Shark - draws Potion, Estate, Silver
+Shark - shuffles deck
+Shark - draws Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Count
+ 
+---------- Shark: turn 7 ----------
+Shark - plays 1 Potion, 1 Silver, 1 Copper
+Shark - buys University
+Shark - gains University
+Shark - draws Copper, Estate, Copper, Count, Haven
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Count
+Stef - places Silver on top of deck
+Stef - trashes Copper, Copper, Copper
+Stef - draws Silver, Copper, Haven, Caravan, Potion
+ 
+---------- Shark: turn 8 ----------
+Shark - plays Haven
+Shark - draws Copper
+Shark - sets aside Copper
+Shark - plays Count
+Shark - gains Copper
+Shark - trashes Copper, Estate, Copper
+Shark - draws Village, Copper, Copper, Caravan, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Haven
+Stef - draws Estate
+Stef - sets aside Estate
+Stef - plays 1 Silver, 1 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - shuffles deck
+Stef - draws Copper, Estate, Silver, Count, University
+ 
+---------- Shark: turn 9 ----------
+Shark - duration Haven
+Shark - places set aside Copper in hand
+Shark - plays Village
+Shark - draws University
+Shark - plays Caravan
+Shark - shuffles deck
+Shark - draws University
+Shark - plays University
+Shark - gains Caravan
+Shark - plays University
+Shark - gains Caravan
+Shark - plays 4 Copper
+Shark - buys Caravan
+Shark - gains Caravan
+Shark - draws Count, Copper, Potion, Estate, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Potion
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays University
+Stef - gains Caravan
+Stef - plays Count
+Stef - discards Potion
+Stef - discards Silver
+Stef - trashes Copper, Estate, Estate
+Stef - shuffles deck
+Stef - draws Caravan, Caravan, University, Count, Potion
+ 
+---------- Shark: turn 10 ----------
+Shark - duration Caravan
+Shark - draws Copper
+Shark - plays Count
+Shark - places Potion on top of deck
+Shark - trashes Copper, Estate, Estate, Copper
+Shark - draws Potion, Silver
+Shark - shuffles deck
+Shark - draws University, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Haven
+Stef - plays University
+Stef - gains Caravan
+Stef - plays 1 Potion, 1 Silver
+Stef - buys University
+Stef - gains University
+Stef - shuffles deck
+Stef - draws Caravan, University, Potion, Haven, Silver
+ 
+---------- Shark: turn 11 ----------
+Shark - plays University
+Shark - gains Caravan
+Shark - plays 2 Copper, 1 Potion, 1 Silver
+Shark - buys University
+Shark - gains University
+Shark - draws Haven, Count, Caravan, Caravan, Village
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws University
+Stef - duration Caravan
+Stef - draws Count
+Stef - plays University
+Stef - gains Caravan
+Stef - plays University
+Stef - gains Caravan
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - plays Haven
+Stef - sets aside Count
+Stef - plays 1 Potion, 1 Silver
+Stef - buys University
+Stef - gains University
+Stef - shuffles deck
+Stef - draws University, University, Caravan, Potion, Caravan
+ 
+---------- Shark: turn 12 ----------
+Shark - plays Caravan
+Shark - draws Copper
+Shark - plays Caravan
+Shark - draws University
+Shark - plays Village
+Shark - draws Caravan
+Shark - plays Caravan
+Shark - draws Caravan
+Shark - plays Caravan
+Shark - draws Copper
+Shark - plays Haven
+Shark - shuffles deck
+Shark - draws University
+Shark - sets aside Count
+Shark - plays University
+Shark - gains Vault
+Shark - plays University
+Shark - gains Vagrant
+Shark - plays 2 Copper
+Shark - buys Vagrant
+Shark - gains Vagrant
+Shark - draws Copper, Potion, Copper, Silver, University
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws University
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - duration Haven
+Stef - places set aside Count in hand
+Stef - plays University
+Stef - gains Vault
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - plays Caravan
+Stef - draws Vault
+Stef - plays University
+Stef - gains Village
+Stef - plays Count
+Stef - places Potion on top of deck
+Stef - takes 3 coins
+Stef - plays Vault
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Village
+Stef - discards Village
+Stef - plays Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Potion, University, University, Caravan, Vagrant
+ 
+---------- Shark: turn 13 ----------
+Shark - duration Caravan
+Shark - draws Caravan
+Shark - duration Caravan
+Shark - shuffles deck
+Shark - draws Village
+Shark - duration Caravan
+Shark - draws University
+Shark - duration Caravan
+Shark - draws Vagrant
+Shark - duration Haven
+Shark - places set aside Count in hand
+Shark - plays Village
+Shark - draws Vault
+Shark - plays Caravan
+Shark - draws Copper
+Shark - plays Vagrant
+Shark - draws Copper
+Shark - reveals: Vagrant
+Shark - places Vagrant on top of deck
+Shark - plays University
+Shark - gains Mandarin
+Shark - plays University
+Shark - gains Haven
+Shark - plays Vault
+Shark - draws Vagrant, University
+Shark - plays Vagrant
+Shark - shuffles deck
+Shark - draws Haven
+Shark - reveals: Mandarin
+Shark - places Mandarin on top of deck
+Shark - plays Haven
+Shark - draws Mandarin
+Shark - sets aside Copper
+Shark - plays University
+Shark - gains Haven
+Shark - plays Count
+Shark - discards Copper
+Shark - discards Potion
+Shark - gains Duchy
+Shark - plays Mandarin
+Shark - places Copper on top of deck
+Shark - plays 1 Copper, 1 Silver
+Shark - buys Gold
+Shark - gains Gold
+Shark - draws Copper
+Shark - shuffles deck
+Shark - draws Caravan, Gold, Potion, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Village
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Village
+Stef - draws Count
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Vagrant
+Stef - draws Haven
+Stef - reveals: Vault
+Stef - places Vault on top of deck
+Stef - plays Haven
+Stef - draws Vault
+Stef - sets aside Potion
+Stef - plays University
+Stef - gains Vault
+Stef - plays University
+Stef - gains Vault
+Stef - plays Vault
+Stef - draws University
+Stef - shuffles deck
+Stef - draws Vault
+Shark - discards Potion
+Shark - discards Copper
+Stef - plays University
+Stef - gains Vault
+Stef - plays Vault
+Stef - draws Vault
+Stef - shuffles deck
+Stef - draws Vault
+Stef - discards Vault
+Stef - plays Count
+Stef - places Vault on top of deck
+Stef - gains Duchy
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Vault
+Stef - shuffles deck
+Stef - draws Vault, Village, Vagrant, Vault
+ 
+---------- Shark: turn 14 ----------
+Shark - duration Caravan
+Shark - draws Caravan
+Shark - duration Haven
+Shark - places set aside Copper in hand
+Shark - plays Caravan
+Shark - draws Copper
+Shark - plays Caravan
+Shark - draws Mandarin
+Shark - plays Vagrant
+Shark - draws University
+Shark - reveals: Vagrant
+Shark - places Vagrant on top of deck
+Shark - plays University
+Shark - gains Haven
+Shark - plays Count
+Shark - places Gold on top of deck
+Shark - takes 3 coins
+Shark - plays Mandarin
+Shark - places Copper on top of deck
+Shark - plays 1 Copper
+Shark - buys Fairgrounds
+Shark - gains Fairgrounds
+Shark - draws Copper, Gold, Vagrant, University, Haven
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Duchy
+Stef - duration Caravan
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Haven
+Stef - places set aside Potion in hand
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Vagrant
+Stef - draws University
+Stef - reveals: University
+Stef - places University on top of deck
+Stef - plays Caravan
+Stef - draws University
+Stef - plays Vault
+Stef - draws Fairgrounds, University
+Shark - discards Copper
+Shark - discards Gold
+Stef - plays University
+Stef - gains Vault
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays University
+Stef - gains Mandarin
+Stef - plays Vault
+Stef - draws Vault, Count
+Stef - plays Vault
+Stef - shuffles deck
+Stef - draws Mandarin, Vagrant
+Stef - discards Fairgrounds
+Stef - plays Vagrant
+Stef - draws Vault
+Stef - shuffles deck
+Stef - reveals: Fairgrounds
+Stef - places Fairgrounds in hand
+Stef - plays Mandarin
+Stef - places Vault on top of deck
+Stef - plays Count
+Stef - discards Fairgrounds
+Stef - discards Duchy
+Stef - gains Duchy
+Stef - plays 1 Gold, 1 Potion, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vault
+Stef - shuffles deck
+Stef - draws Province, Vault, Haven, Vault
+ 
+---------- Shark: turn 15 ----------
+Shark - duration Caravan
+Shark - draws Haven
+Shark - duration Caravan
+Shark - draws University
+Shark - plays Vagrant
+Shark - draws Village
+Shark - reveals: Vault
+Shark - places Vault on top of deck
+Shark - plays Village
+Shark - draws Vault
+Shark - plays Vault
+Shark - draws Copper, Caravan
+Shark - discards University
+Shark - discards University
+Shark - discards Haven
+Shark - discards Haven
+Stef - discards Province
+Stef - discards Vault
+Shark - plays Caravan
+Shark - draws Caravan
+Shark - plays Caravan
+Shark - draws Duchy
+Shark - plays 1 Silver, 1 Copper
+Shark - buys Fairgrounds
+Shark - gains Fairgrounds
+Shark - shuffles deck
+Shark - draws Copper, Haven, University, Caravan, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Village
+Stef - places Village on top of deck
+Stef - plays Haven
+Stef - draws Village
+Stef - sets aside Duchy
+Stef - plays Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Fairgrounds
+Stef - plays Vault
+Stef - draws Mandarin, Gold
+Shark - discards Duchy
+Shark - discards Copper
+Stef - plays University
+Stef - gains Village
+Stef - plays Vault
+Stef - draws Count, Vault
+Stef - discards Fairgrounds
+Stef - plays Mandarin
+Stef - places Vault on top of deck
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Vault, Vagrant, University, Caravan, Potion
+ 
+---------- Shark: turn 16 ----------
+Shark - duration Caravan
+Shark - draws Caravan
+Shark - duration Caravan
+Shark - draws Haven
+Shark - plays Caravan
+Shark - draws Haven
+Shark - plays Caravan
+Shark - draws Fairgrounds
+Shark - plays Haven
+Shark - draws Caravan
+Shark - sets aside Fairgrounds
+Shark - plays Caravan
+Shark - draws Vagrant
+Shark - plays Vagrant
+Shark - draws Vault
+Shark - reveals: Copper
+Shark - places Copper on top of deck
+Shark - plays University
+Shark - gains Village
+Shark - plays Vault
+Shark - draws Copper, University
+Shark - discards University
+Shark - plays Haven
+Shark - draws Mandarin
+Shark - sets aside Copper
+Shark - plays Haven
+Shark - draws Silver
+Shark - sets aside Copper
+Shark - plays Mandarin
+Shark - places Silver on top of deck
+Shark - buys Estate
+Shark - gains Estate
+Shark - draws Silver, Gold, Fairgrounds, Count, Haven
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws University
+Stef - duration Haven
+Stef - places set aside Duchy in hand
+Stef - duration Caravan
+Stef - draws Duchy
+Stef - plays Caravan
+Stef - draws Vault
+Stef - plays University
+Stef - gains Village
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Silver
+Stef - reveals: Fairgrounds
+Stef - places Fairgrounds in hand
+Stef - plays Vault
+Stef - draws Caravan, Count
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Fairgrounds
+Shark - discards Fairgrounds
+Shark - discards Haven
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Vault
+Stef - draws Vault, University
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Vault
+Stef - draws Vagrant, Village
+Stef - discards Potion
+Stef - plays Vagrant
+Stef - draws Village
+Stef - reveals: Mandarin
+Stef - places Mandarin on top of deck
+Stef - plays Village
+Stef - draws Mandarin
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Vault
+Stef - plays Vault
+Stef - draws Province, Vagrant
+Stef - discards Province
+Stef - plays Vagrant
+Stef - draws Caravan
+Stef - reveals: Fairgrounds
+Stef - places Fairgrounds in hand
+Stef - plays Caravan
+Stef - draws Vault
+Stef - plays Mandarin
+Stef - places Vault on top of deck
+Stef - plays Count
+Stef - gains Copper
+Stef - gains Duchy
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Vault
+Stef - shuffles deck
+Stef - draws Haven, Caravan, Duchy, Copper
+ 
+---------- Shark: turn 17 ----------
+Shark - duration Caravan
+Shark - draws Potion
+Shark - duration Caravan
+Shark - draws Copper
+Shark - duration Haven
+Shark - places set aside Fairgrounds in hand
+Shark - duration Caravan
+Shark - draws Vagrant
+Shark - duration Haven
+Shark - places set aside Copper in hand
+Shark - duration Haven
+Shark - places set aside Copper in hand
+Shark - plays Vagrant
+Shark - draws University
+Shark - shuffles deck
+Shark - reveals: Vagrant
+Shark - places Vagrant on top of deck
+Shark - plays University
+Shark - gains Vault
+Shark - plays Village
+Shark - draws Vagrant
+Shark - plays Vagrant
+Shark - draws University
+Shark - reveals: University
+Shark - places University on top of deck
+Shark - plays University
+Shark - gains Vault
+Shark - plays Count
+Shark - discards Fairgrounds
+Shark - discards Potion
+Shark - gains Duchy
+Shark - plays 3 Copper, 1 Silver, 1 Gold
+Shark - buys Province
+Shark - gains Province
+Shark - draws University, Estate, Caravan, Fairgrounds, Mandarin
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Vagrant
+Stef - duration Caravan
+Stef - draws Mandarin
+Stef - duration Caravan
+Stef - draws Vagrant
+Stef - plays Caravan
+Stef - draws Vault
+Stef - plays Vagrant
+Stef - draws Village
+Stef - reveals: Village
+Stef - places Village on top of deck
+Stef - plays Vagrant
+Stef - draws Village
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Village
+Stef - draws Silver
+Stef - plays Village
+Stef - draws Duchy
+Stef - plays Vault
+Stef - draws University, Fairgrounds
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Fairgrounds
+Shark - discards Estate
+Shark - discards Fairgrounds
+Stef - plays University
+Stef - gains Vault
+Stef - plays Vault
+Stef - draws Fairgrounds, University
+Stef - discards Fairgrounds
+Stef - plays Haven
+Stef - draws Province
+Stef - sets aside Mandarin
+Stef - plays University
+Stef - gains Vault
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Vault, University, Gold, Caravan, Potion
+ 
+---------- Shark: turn 18 ----------
+Shark - plays Caravan
+Shark - draws Caravan
+Shark - plays Caravan
+Shark - draws Vault
+Shark - plays University
+Shark - gains Vagrant
+Shark - plays Vault
+Shark - draws Haven, Village
+Shark - plays Village
+Shark - draws Copper
+Shark - plays Haven
+Shark - shuffles deck
+Shark - draws Silver
+Shark - sets aside Silver
+Shark - plays Mandarin
+Shark - places Copper on top of deck
+Shark - buys Village
+Shark - gains Village
+Shark - draws Copper, Vault, Copper, University, Vault
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Vagrant
+Stef - duration Haven
+Stef - places set aside Mandarin in hand
+Stef - plays Caravan
+Stef - draws Vault
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Fairgrounds
+Stef - places Fairgrounds in hand
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Vault
+Stef - draws Vagrant, Count
+Stef - plays Vagrant
+Stef - draws Village
+Stef - reveals: Vault
+Stef - places Vault on top of deck
+Stef - plays Village
+Stef - draws Vault
+Stef - plays Vault
+Stef - shuffles deck
+Stef - draws University, Vault
+Stef - discards Duchy
+Stef - discards Fairgrounds
+Shark - discards Copper
+Shark - discards Copper
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Count
+Stef - discards Mandarin
+Stef - discards Potion
+Stef - gains Duchy
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Caravan, Caravan, Fairgrounds, Village, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 7 Vagrant, 7 Vault, 5 Caravan, 3 Village, 3 University, 1 Mandarin, 1 Haven, 1 Count, 1 Potion, 1 Gold, 1 Copper, 1 Silver, 4 Fairgrounds, 4 Duchy, 1 Province
+Stef - total victory points: 42
+Stef - turns: 18
+ 
+Shark - cards: 5 Caravan, 4 Haven, 3 Vault, 3 University, 3 Village, 3 Vagrant, 1 Mandarin, 1 Count, 4 Copper, 1 Gold, 1 Potion, 1 Silver, 2 Duchy, 2 Fairgrounds, 1 Province, 1 Estate
+Shark - total victory points: 25
+Shark - turns: 18
+ 
+1st place: Stef
+2nd place: Shark
+ 

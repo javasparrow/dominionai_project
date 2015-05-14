@@ -1,0 +1,641 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Herbalist, Fishing Village, Tunnel, Caravan, Island, Explorer, Highway, Inn, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Rhun - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rhun - shuffles deck
+Stef - shuffles deck
+Rhun - draws Copper, Copper, Estate, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Rhun: turn 1 ----------
+Rhun - plays 4 Copper
+Rhun - buys Caravan
+Rhun - gains Caravan
+Rhun - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Rhun: turn 2 ----------
+Rhun - plays 3 Copper
+Rhun - buys Fishing Village
+Rhun - gains Fishing Village
+Rhun - shuffles deck
+Rhun - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Herbalist
+Stef - gains Herbalist
+Stef - shuffles deck
+Stef - draws Estate, Copper, Highway, Copper, Copper
+ 
+---------- Rhun: turn 3 ----------
+Rhun - plays 4 Copper
+Rhun - buys Caravan
+Rhun - gains Caravan
+Rhun - draws Copper, Fishing Village, Caravan, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Herbalist, Copper, Estate, Copper, Estate
+ 
+---------- Rhun: turn 4 ----------
+Rhun - plays Caravan
+Rhun - draws Estate
+Rhun - plays Fishing Village
+Rhun - plays 2 Copper
+Rhun - buys Tunnel
+Rhun - gains Tunnel
+Rhun - draws Copper
+Rhun - shuffles deck
+Rhun - draws Copper, Copper, Tunnel, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Herbalist
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fishing Village, Estate, Copper, Estate
+ 
+---------- Rhun: turn 5 ----------
+Rhun - duration Caravan
+Rhun - draws Copper
+Rhun - duration Fishing Village
+Rhun - plays 5 Copper
+Rhun - buys Nobles
+Rhun - gains Nobles
+Rhun - draws Estate, Copper, Copper, Estate, Caravan
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Highway, Herbalist, Copper, Highway
+ 
+---------- Rhun: turn 6 ----------
+Rhun - plays Caravan
+Rhun - draws Estate
+Rhun - plays 2 Copper
+Rhun - buys Herbalist
+Rhun - gains Herbalist
+Rhun - shuffles deck
+Rhun - draws Estate, Copper, Fishing Village, Herbalist, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Fishing Village
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Herbalist
+Stef - plays 4 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Island
+Stef - gains Island
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Highway, Fishing Village
+ 
+---------- Rhun: turn 7 ----------
+Rhun - duration Caravan
+Rhun - draws Caravan
+Rhun - plays Caravan
+Rhun - draws Copper
+Rhun - plays Fishing Village
+Rhun - plays Herbalist
+Rhun - plays 3 Copper
+Rhun - buys Inn
+Rhun - gains Inn
+Rhun - places Inn on top of deck
+Rhun - shuffles deck
+Rhun - draws Copper, Copper, Nobles, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Estate, Highway, Copper, Island
+ 
+---------- Rhun: turn 8 ----------
+Rhun - duration Caravan
+Rhun - draws Estate
+Rhun - duration Fishing Village
+Rhun - plays Nobles
+Rhun - draws Tunnel, Inn, Estate
+Rhun - plays Inn
+Rhun - shuffles deck
+Rhun - draws Copper, Herbalist
+Rhun - discards Tunnel
+Rhun - discards Estate
+Rhun - plays Herbalist
+Rhun - plays 5 Copper
+Rhun - buys Caravan
+Rhun - gains Caravan
+Rhun - buys Tunnel
+Rhun - gains Tunnel
+Rhun - draws Caravan, Estate, Copper, Copper
+Rhun - shuffles deck
+Rhun - draws Tunnel
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Fishing Village
+Stef - plays Highway
+Stef - draws Herbalist
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Herbalist
+Stef - plays 2 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Nobles, Fishing Village, Copper, Copper, Copper
+ 
+---------- Rhun: turn 9 ----------
+Rhun - plays Caravan
+Rhun - draws Caravan
+Rhun - plays Caravan
+Rhun - draws Copper
+Rhun - plays 3 Copper
+Rhun - buys Tunnel
+Rhun - gains Tunnel
+Rhun - draws Estate, Herbalist, Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fishing Village
+Stef - plays Nobles
+Stef - shuffles deck
+Stef - draws Highway, Fishing Village, Caravan
+Stef - plays Fishing Village
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Highway, Herbalist, Highway, Estate, Copper
+ 
+---------- Rhun: turn 10 ----------
+Rhun - duration Caravan
+Rhun - draws Fishing Village
+Rhun - duration Caravan
+Rhun - draws Tunnel
+Rhun - plays Fishing Village
+Rhun - plays Herbalist
+Rhun - plays 3 Copper
+Rhun - buys Inn
+Rhun - gains Inn
+Rhun - places Inn on top of deck
+Rhun - shuffles deck
+Rhun - draws Caravan, Copper, Inn, Estate, Nobles
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Herbalist
+Stef - plays 3 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Island
+Stef - gains Island
+Stef - draws Nobles, Copper, Copper, Nobles, Copper
+ 
+---------- Rhun: turn 11 ----------
+Rhun - duration Fishing Village
+Rhun - plays Caravan
+Rhun - draws Inn
+Rhun - plays Nobles
+Rhun - shuffles deck
+Rhun - draws Caravan, Caravan, Copper
+Rhun - plays Caravan
+Rhun - draws Copper
+Rhun - plays Caravan
+Rhun - draws Tunnel
+Rhun - plays Inn
+Rhun - draws Copper, Herbalist
+Rhun - discards Tunnel
+Rhun - discards Estate
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Inn
+Rhun - draws Estate, Tunnel
+Rhun - discards Estate
+Rhun - discards Tunnel
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Herbalist
+Rhun - plays 4 Copper
+Rhun - buys Nobles
+Rhun - gains Nobles
+Rhun - draws Copper, Tunnel, Copper, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Copper, Highway
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 6 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Island, Copper, Caravan, Fishing Village
+ 
+---------- Rhun: turn 12 ----------
+Rhun - duration Caravan
+Rhun - shuffles deck
+Rhun - draws Gold
+Rhun - duration Caravan
+Rhun - draws Copper
+Rhun - duration Caravan
+Rhun - draws Estate
+Rhun - plays 4 Copper, 1 Gold
+Rhun - buys Nobles
+Rhun - gains Nobles
+Rhun - draws Copper, Tunnel, Fishing Village, Inn, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Caravan
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Herbalist
+Stef - plays Fishing Village
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Herbalist
+Stef - plays 1 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Fishing Village, Estate, Nobles
+Stef - shuffles deck
+Stef - draws Highway, Copper
+ 
+---------- Rhun: turn 13 ----------
+Rhun - plays Fishing Village
+Rhun - plays Inn
+Rhun - draws Gold, Tunnel
+Rhun - discards Tunnel
+Rhun - discards Tunnel
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays 1 Copper, 1 Gold
+Rhun - buys Inn
+Rhun - gains Inn
+Rhun - places Nobles, Caravan, Caravan, Caravan, Inn on top of deck
+Rhun - shuffles deck
+Rhun - draws Nobles, Caravan, Copper, Caravan, Herbalist
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Island
+Stef - duration Fishing Village
+Stef - plays Nobles
+Stef - draws Copper, Herbalist, Highway
+Stef - plays Highway
+Stef - draws Fishing Village
+Stef - plays Fishing Village
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Fishing Village
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Herbalist
+Stef - plays 3 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - buys Herbalist
+Stef - gains Herbalist
+Stef - draws Nobles, Copper, Copper, Copper, Nobles
+ 
+---------- Rhun: turn 14 ----------
+Rhun - duration Fishing Village
+Rhun - plays Caravan
+Rhun - draws Inn
+Rhun - plays Caravan
+Rhun - draws Nobles
+Rhun - plays Nobles
+Rhun - draws Inn, Copper, Caravan
+Rhun - plays Caravan
+Rhun - draws Nobles
+Rhun - plays Inn
+Rhun - shuffles deck
+Rhun - draws Copper, Tunnel
+Rhun - discards Tunnel
+Rhun - discards Copper
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Nobles
+Rhun - draws Gold, Copper, Estate
+Rhun - plays Inn
+Rhun - draws Gold, Tunnel
+Rhun - discards Tunnel
+Rhun - discards Estate
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Nobles
+Rhun - draws Tunnel, Gold, Estate
+Rhun - plays Herbalist
+Rhun - plays 3 Copper, 3 Gold
+Rhun - buys Province
+Rhun - gains Province
+Rhun - buys Island
+Rhun - gains Island
+Rhun - places Gold on top of deck
+Rhun - draws Gold, Copper, Copper, Gold, Inn
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Nobles
+Stef - draws Nobles, Highway, Copper
+Stef - plays Nobles
+Stef - shuffles deck
+Stef - draws Copper, Nobles, Herbalist
+Stef - plays Highway
+Stef - draws Herbalist
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Highway, Nobles, Fishing Village
+Stef - plays Fishing Village
+Stef - plays Highway
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Herbalist
+Stef - plays Herbalist
+Stef - plays 6 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Highway, Inn
+Stef - shuffles deck
+Stef - draws Highway, Copper
+ 
+---------- Rhun: turn 15 ----------
+Rhun - duration Caravan
+Rhun - draws Estate
+Rhun - duration Caravan
+Rhun - draws Copper
+Rhun - duration Caravan
+Rhun - shuffles deck
+Rhun - draws Province
+Rhun - plays Inn
+Rhun - draws Tunnel, Inn
+Rhun - discards Tunnel
+Rhun - discards Province
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Inn
+Rhun - draws Estate, Estate
+Rhun - discards Estate
+Rhun - discards Estate
+Rhun - plays 3 Copper, 2 Gold
+Rhun - buys Province
+Rhun - gains Province
+Rhun - draws Gold, Island, Nobles, Copper, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Fishing Village
+Stef - duration Caravan
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Herbalist, Copper, Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Nobles
+Stef - plays Inn
+Stef - draws Nobles, Highway
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Copper, Fishing Village, Island
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Fishing Village
+Stef - plays Nobles
+Stef - draws Nobles, Nobles, Herbalist
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Island
+Stef - sets aside Province
+Stef - plays Herbalist
+Stef - plays Herbalist
+Stef - plays 4 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Fishing Village, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Highway
+ 
+---------- Rhun: turn 16 ----------
+Rhun - plays Nobles
+Rhun - draws Herbalist, Nobles, Gold
+Rhun - plays 3 Gold, 1 Copper
+Rhun - buys Province
+Rhun - gains Province
+Rhun - draws Copper, Fishing Village, Gold, Inn, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Fishing Village
+Stef - plays Highway
+Stef - draws Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays 3 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - shuffles deck
+Stef - draws Island, Highway, Copper, Copper, Highway
+ 
+---------- Rhun: turn 17 ----------
+Rhun - plays Fishing Village
+Rhun - plays Inn
+Rhun - draws Copper, Tunnel
+Rhun - discards Tunnel
+Rhun - discards Copper
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays 2 Copper, 1 Gold
+Rhun - buys Island
+Rhun - gains Island
+Rhun - draws Nobles, Tunnel
+Rhun - shuffles deck
+Rhun - draws Gold, Copper, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Highway
+Stef - draws Nobles
+Stef - plays Highway
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Copper, Nobles, Herbalist
+Stef - plays Nobles
+Stef - draws Highway, Nobles, Copper
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Nobles, Inn, Herbalist
+Stef - plays Inn
+Stef - draws Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Caravan
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Copper, Highway
+Stef - discards Nobles
+Stef - discards Copper
+Stef - plays Highway
+Stef - draws Fishing Village
+Stef - plays Fishing Village
+Stef - plays Island
+Stef - sets aside Province
+Stef - plays Herbalist
+Stef - plays Herbalist
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Nobles, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Copper, Nobles
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Rhun: turn 18 ----------
+Rhun - duration Fishing Village
+Rhun - plays Nobles
+Rhun - draws Inn, Copper, Inn
+Rhun - plays Inn
+Rhun - draws Caravan, Copper
+Rhun - discards Copper
+Rhun - discards Tunnel
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays Caravan
+Rhun - draws Tunnel
+Rhun - plays Inn
+Rhun - draws Copper, Tunnel
+Rhun - discards Tunnel
+Rhun - discards Tunnel
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - reveals reaction Tunnel
+Rhun - gains Gold
+Rhun - plays 3 Copper, 2 Gold
+Rhun - buys Province
+Rhun - gains Province
+Rhun - draws Estate, Nobles, Copper, Gold, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Inn
+Stef - duration Fishing Village
+Stef - plays Nobles
+Stef - draws Island, Nobles, Highway
+Stef - plays Highway
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Fishing Village, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - draws Province, Herbalist, Nobles
+Stef - plays Fishing Village
+Stef - plays Nobles
+Stef - draws Copper, Highway, Nobles
+Stef - plays Highway
+Stef - draws Herbalist
+Stef - plays Inn
+Stef - draws Fishing Village, Copper
+Stef - discards Island
+Stef - discards Province
+Stef - plays Nobles
+Stef - draws Highway, Nobles, Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Island
+Stef - plays Fishing Village
+Stef - plays Nobles
+Stef - draws Copper, Province, Copper
+Stef - plays Inn
+Stef - discards Island
+Stef - discards Province
+Stef - plays Herbalist
+Stef - plays Herbalist
+Stef - plays 7 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Inn, Highway, Caravan, Nobles, Island
+ 
+------------ Game Over ------------
+Stef - cards: 6 Island, 5 Nobles, 4 Highway, 3 Inn, 3 Fishing Village, 2 Herbalist, 1 Caravan, 7 Copper, 4 Province, 3 Estate, 2 Duchy
+Stef - total victory points: 55
+Stef - turns: 18
+ 
+Rhun - cards: 3 Nobles, 3 Caravan, 3 Inn, 2 Island, 11 Gold, 1 Fishing Village, 1 Herbalist, 7 Copper, 4 Province, 3 Tunnel, 3 Estate
+Rhun - total victory points: 43
+Rhun - turns: 18
+ 
+1st place: Stef
+2nd place: Rhun
+ 

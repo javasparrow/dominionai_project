@@ -1,0 +1,656 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Secret Chamber, Sage, Watchtower, Wishing Well, Fortress, Horse Traders, Scout, Young Witch, Mountebank, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Bane card: Secret Chamber
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+yed - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Watchtower
+yed - gains Watchtower
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Young Witch
+Stef - gains Young Witch
+Stef - shuffles deck
+Stef - draws Watchtower, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Young Witch
+yed - gains Young Witch
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Watchtower
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - draws Watchtower, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Watchtower
+yed - draws Copper, Copper
+yed - plays 5 Copper
+yed - buys Mountebank
+yed - gains Mountebank
+yed - draws Estate, Estate, Copper, Copper, Young Witch
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - draws Watchtower, Young Witch, Estate, Estate
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays Young Witch
+yed - shuffles deck
+yed - draws Mountebank, Estate
+yed - discards Estate
+yed - discards Estate
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+yed - plays 2 Copper
+yed - buys Secret Chamber
+yed - gains Secret Chamber
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Young Witch
+Stef - draws Copper, Copper
+Stef - discards Estate
+Stef - discards Estate
+yed - gains Curse
+Stef - plays 2 Copper
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - applied Watchtower to place Secret Chamber on top of the deck
+Stef - draws Secret Chamber, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays 5 Copper
+yed - buys Watchtower
+yed - gains Watchtower
+yed - draws Watchtower
+yed - shuffles deck
+yed - draws Copper, Watchtower, Mountebank, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper, Watchtower, Watchtower
+Stef - shuffles deck
+Stef - draws Watchtower, Estate
+ 
+---------- yed: turn 6 ----------
+yed - plays Mountebank
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - gains Copper
+Stef - applied Watchtower to trash Copper
+Stef - trashes Copper
+yed - plays 2 Copper
+yed - buys Watchtower
+yed - gains Watchtower
+yed - applied Watchtower to place Watchtower on top of the deck
+yed - draws Watchtower, Curse, Young Witch, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Watchtower
+Stef - draws Copper, Young Witch
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Young Witch
+yed - draws Copper, Estate
+yed - discards Estate
+yed - discards Estate
+Stef - gains Curse
+yed - plays 2 Copper
+yed - buys Secret Chamber
+yed - gains Secret Chamber
+yed - applied Watchtower to place Secret Chamber on top of the deck
+yed - draws Secret Chamber, Secret Chamber, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Estate, Fortress, Secret Chamber, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Secret Chamber
+yed - discards Secret Chamber
+yed - plays 3 Copper
+yed - buys Fortress
+yed - gains Fortress
+yed - draws Estate
+yed - shuffles deck
+yed - draws Copper, Copper, Young Witch, Secret Chamber
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper, Estate, Curse, Copper, Watchtower
+ 
+---------- yed: turn 9 ----------
+yed - plays Young Witch
+yed - draws Mountebank, Copper
+yed - discards Estate
+yed - discards Secret Chamber
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+yed - plays 3 Copper
+yed - buys Sage
+yed - gains Sage
+yed - draws Watchtower, Watchtower, Estate, Copper, Fortress
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Watchtower
+Stef - draws Young Witch, Copper
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Watchtower, Copper, Copper, Fortress, Watchtower
+ 
+---------- yed: turn 10 ----------
+yed - plays Fortress
+yed - draws Estate
+yed - plays Watchtower
+yed - draws Secret Chamber, Copper
+yed - plays Secret Chamber
+yed - discards Estate
+yed - discards Estate
+yed - plays 2 Copper
+yed - buys Fortress
+yed - gains Fortress
+yed - applied Watchtower to place Fortress on top of the deck
+yed - draws Fortress, Copper, Copper, Curse, Watchtower
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Watchtower
+Stef - draws Copper, Young Witch
+Stef - plays Young Witch
+Stef - draws Fortress, Fortress
+Stef - discards Fortress
+Stef - discards Fortress
+yed - gains Curse
+yed - applied Watchtower to trash Curse
+yed - trashes Curse
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - applied Watchtower to place Fortress on top of the deck
+Stef - draws Fortress, Estate, Estate, Copper, Watchtower
+ 
+---------- yed: turn 11 ----------
+yed - plays Fortress
+yed - shuffles deck
+yed - draws Copper
+yed - plays Watchtower
+yed - draws Copper, Estate
+yed - plays 4 Copper
+yed - buys Fortress
+yed - gains Fortress
+yed - draws Mountebank, Copper, Secret Chamber, Young Witch, Watchtower
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Watchtower
+Stef - draws Copper, Watchtower
+Stef - plays 2 Copper
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - draws Copper, Secret Chamber, Estate
+Stef - shuffles deck
+Stef - draws Copper, Fortress
+ 
+---------- yed: turn 12 ----------
+yed - plays Mountebank
+Stef - reveals reaction Secret Chamber
+Stef - draws Estate, Copper
+Stef - places Secret Chamber on top of deck
+Stef - places Fortress on top of deck
+Stef - gains Curse
+Stef - gains Copper
+yed - plays Copper
+yed - buys Sage
+yed - gains Sage
+yed - applied Watchtower to place Sage on top of the deck
+yed - draws Sage, Estate, Watchtower, Estate, Fortress
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Fortress, Secret Chamber, Copper, Watchtower, Secret Chamber
+ 
+---------- yed: turn 13 ----------
+yed - plays Fortress
+yed - draws Secret Chamber
+yed - plays Sage
+yed - reveals Sage
+yed - places Sage in hand
+yed - plays Sage
+yed - shuffles deck
+yed - reveals Copper, Copper, Fortress
+yed - places Fortress in hand
+yed - discards: Copper, Copper
+yed - plays Fortress
+yed - draws Copper
+yed - plays Secret Chamber
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays Watchtower
+yed - draws Mountebank, Estate, Watchtower, Secret Chamber, Copper, Curse
+yed - plays Mountebank
+Stef - reveals reaction Secret Chamber
+Stef - draws Watchtower, Copper
+Stef - places Secret Chamber on top of deck
+Stef - places Fortress on top of deck
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+Stef - gains Copper
+Stef - applied Watchtower to trash Copper
+Stef - trashes Copper
+yed - plays Copper
+yed - buys Gold
+yed - gains Gold
+yed - applied Watchtower to place Gold on top of the deck
+yed - draws Gold, Fortress, Copper, Young Witch, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Secret Chamber
+Stef - discards Watchtower
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Watchtower
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Secret Chamber, Watchtower, Fortress, Watchtower
+ 
+---------- yed: turn 14 ----------
+yed - plays Fortress
+yed - draws Watchtower
+yed - plays Young Witch
+Stef - reveals reaction Secret Chamber
+Stef - draws Copper, Fortress
+Stef - places Secret Chamber on top of deck
+Stef - places Watchtower on top of deck
+yed - draws Copper
+yed - shuffles deck
+yed - draws Watchtower
+yed - discards Copper
+yed - discards Copper
+Stef - gains Curse
+Stef - applied Watchtower to trash Curse
+Stef - trashes Curse
+yed - plays Watchtower
+yed - draws Curse, Estate, Sage
+yed - plays 1 Gold, 1 Copper
+yed - buys Fortress
+yed - gains Fortress
+yed - applied Watchtower to place Fortress on top of the deck
+yed - draws Fortress, Fortress, Watchtower, Estate, Fortress
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fortress
+Stef - draws Watchtower
+Stef - plays Fortress
+Stef - draws Secret Chamber
+Stef - plays Fortress
+Stef - draws Young Witch
+Stef - plays Young Witch
+Stef - draws Copper, Fortress
+Stef - discards Copper
+Stef - discards Copper
+yed - gains Curse
+yed - applied Watchtower to trash Curse
+yed - trashes Curse
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Watchtower
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Watchtower, Wishing Well
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Secret Chamber
+Stef - discards Watchtower
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Watchtower
+Stef - draws Copper, Estate, Curse, Watchtower, Fortress, Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Goons
+Stef - gains Goons
+Stef - applied Watchtower to place Goons on top of the deck
+Stef - draws Goons, Estate, Copper, Secret Chamber, Copper
+ 
+---------- yed: turn 15 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - plays Fortress
+yed - draws Mountebank
+yed - plays Fortress
+yed - draws Estate
+yed - plays Mountebank
+Stef - reveals reaction Secret Chamber
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Wishing Well
+Stef - places Secret Chamber on top of deck
+Stef - places Copper on top of deck
+Stef - gains Copper
+yed - plays Watchtower
+yed - draws Copper, Copper, Secret Chamber
+yed - plays Secret Chamber
+yed - discards Estate
+yed - discards Estate
+yed - plays 3 Copper
+yed - buys Goons
+yed - gains Goons
+yed - draws Secret Chamber, Copper, Sage
+yed - shuffles deck
+yed - draws Copper, Young Witch
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Scout
+Stef - reveals Secret Chamber
+Stef - plays Goons
+yed - reveals reaction Secret Chamber
+yed - draws Copper, Fortress
+yed - places Copper on top of deck
+yed - places Copper on top of deck
+yed - discards Copper
+yed - discards Secret Chamber
+Stef - plays 3 Copper
+Stef - buys Fortress
+Stef - receives 1 victory point chips
+Stef - gains Fortress
+Stef - draws Secret Chamber, Watchtower, Copper, Fortress, Copper
+ 
+---------- yed: turn 16 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - plays Sage
+yed - reveals Copper, Copper, Fortress
+yed - places Fortress in hand
+yed - discards: Copper, Copper
+yed - plays Fortress
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Secret Chamber
+yed - plays Young Witch
+Stef - reveals reaction Secret Chamber
+Stef - draws Fortress, Fortress
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+yed - draws Mountebank, Copper
+yed - discards Copper
+yed - discards Secret Chamber
+Stef - reveals bane Secret Chamber
+yed - plays Mountebank
+Stef - gains Copper
+Stef - applied Watchtower to trash Copper
+Stef - trashes Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Watchtower, Fortress, Watchtower, Gold, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Secret Chamber
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Watchtower
+Stef - draws Copper, Curse, Copper, Estate, Estate, Watchtower
+Stef - plays Watchtower
+Stef - draws Secret Chamber
+Stef - plays Secret Chamber
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Young Witch, Curse, Fortress, Fortress, Watchtower
+ 
+---------- yed: turn 17 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - plays Watchtower
+yed - draws Estate, Watchtower
+yed - plays Watchtower
+yed - draws Copper
+yed - plays 2 Copper, 1 Gold
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Sage, Goons, Estate, Curse
+yed - shuffles deck
+yed - draws Fortress
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Fortress
+Stef - draws Watchtower
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Secret Chamber
+Stef - plays Secret Chamber
+Stef - discards Watchtower
+Stef - discards Curse
+Stef - discards Young Witch
+Stef - plays Watchtower
+Stef - draws Copper, Copper, Watchtower, Fortress, Wishing Well, Goons
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Watchtower
+Stef - plays Fortress
+Stef - draws Watchtower
+Stef - plays Watchtower
+Stef - draws Estate
+Stef - plays Goons
+yed - discards Curse
+yed - discards Estate
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - applied Watchtower to trash Copper
+Stef - trashes Copper
+Stef - draws Curse, Copper, Copper, Copper, Fortress
+ 
+---------- yed: turn 18 ----------
+yed - plays Fortress
+yed - draws Young Witch
+yed - plays Sage
+yed - reveals Watchtower
+yed - places Watchtower in hand
+yed - plays Watchtower
+yed - draws Duchy, Copper, Estate, Copper
+yed - plays Goons
+Stef - discards Curse
+Stef - discards Copper
+yed - plays 2 Copper
+yed - buys Estate
+yed - receives 1 victory point chips
+yed - gains Estate
+yed - buys Estate
+yed - receives 1 victory point chips
+yed - gains Estate
+yed - draws Watchtower, Secret Chamber, Fortress, Copper, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Fortress
+Stef - draws Secret Chamber
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Fortress, Estate, Copper, Fortress, Copper
+ 
+---------- yed: turn 19 ----------
+yed - plays Fortress
+yed - draws Sage
+yed - plays Sage
+yed - reveals Mountebank
+yed - places Mountebank in hand
+yed - plays Watchtower
+yed - draws Copper, Estate
+yed - plays Mountebank
+Stef - gains Copper
+yed - plays Copper
+yed - plays Copper
+yed - plays Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Copper, Gold, Estate, Copper, Fortress
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Fortress
+Stef - draws Goons
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Goons
+yed - discards Estate
+yed - discards Copper
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Watchtower, Curse, Copper, Copper
+ 
+---------- yed: turn 20 ----------
+yed - plays Fortress
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Secret Chamber
+yed - plays 1 Copper, 1 Gold
+yed - buys Estate
+yed - gains Estate
+yed - draws Watchtower
+yed - shuffles deck
+yed - draws Goons, Young Witch, Watchtower, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Watchtower
+Stef - draws Fortress, Goons
+Stef - draws Fortress, Fortress, Copper, Estate, Wishing Well
+ 
+---------- yed: turn 21 ----------
+yed - plays Goons
+Stef - discards Estate
+Stef - discards Copper
+yed - plays Copper
+yed - buys Estate
+yed - receives 1 victory point chips
+yed - gains Estate
+yed - buys Copper
+yed - receives 1 victory point chips
+yed - gains Copper
+yed - draws Copper, Fortress, Copper, Duchy, Gold
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Fortress
+Stef - draws Goons
+Stef - plays Wishing Well
+Stef - draws Watchtower
+Stef - names Fortress
+Stef - reveals Fortress
+Stef - places Fortress in hand
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Goons
+yed - discards Duchy
+yed - discards Fortress
+Stef - plays Watchtower
+Stef - draws Estate, Secret Chamber, Young Witch, Estate
+Stef - plays Secret Chamber
+Stef - discards Young Witch
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - buys Estate
+Stef - receives 1 victory point chips
+Stef - gains Estate
+Stef - draws Province, Fortress, Copper, Fortress, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 6 Fortress, 4 Watchtower, 2 Goons, 2 Secret Chamber, 11 Copper, 1 Young Witch, 1 Wishing Well, 6 Estate, 1 Province, 1 Duchy, 2 Curse
+Stef - victory point chips: 7
+Stef - total victory points: 20
+Stef - turns: 22
+ 
+yed - cards: 4 Fortress, 3 Watchtower, 2 Secret Chamber, 2 Sage, 1 Goons, 1 Young Witch, 1 Mountebank, 8 Copper, 1 Gold, 8 Estate, 2 Duchy, 1 Curse
+yed - victory point chips: 4
+yed - total victory points: 17
+yed - turns: 21
+ 
+1st place: Stef
+2nd place: yed
+ 

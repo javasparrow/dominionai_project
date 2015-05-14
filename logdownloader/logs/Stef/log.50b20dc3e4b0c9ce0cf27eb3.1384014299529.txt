@@ -1,0 +1,644 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Fortune Teller, Scheme, Urchin, Advisor, Remake, Count, Highway, Tactician, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+yed - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Scheme
+yed - gains Scheme
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Remake
+yed - gains Remake
+yed - shuffles deck
+yed - draws Copper, Copper, Scheme, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Scheme
+yed - draws Estate
+yed - plays 4 Copper
+yed - buys Advisor
+yed - gains Advisor
+yed - Scheme choice: Scheme
+yed - draws Scheme, Copper, Remake, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Chapel, Remake, Copper, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Scheme
+yed - draws Estate
+yed - plays Remake
+yed - trashes Estate
+yed - gains Silver
+yed - trashes Copper
+yed - Scheme choice: Remake
+yed - draws Remake, Estate
+yed - shuffles deck
+yed - draws Copper, Scheme, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Estate
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Chapel, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Scheme
+yed - draws Silver
+yed - plays Remake
+yed - trashes Estate
+yed - gains Scheme
+yed - trashes Copper
+yed - plays 1 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - Scheme choice: Remake
+yed - draws Remake, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - draws Remake, Scheme, Estate, Estate, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Remake
+yed - trashes Estate
+yed - gains Scheme
+yed - trashes Copper
+yed - draws Advisor, Copper
+yed - shuffles deck
+yed - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Chapel
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Silver
+Stef - trashes Estate
+Stef - gains Silver
+Stef - Scheme choice: Scheme
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Copper, Silver, Silver, Chapel
+ 
+---------- yed: turn 7 ----------
+yed - plays Advisor
+yed - reveals: Scheme, Scheme, Remake
+Stef - discards Remake
+yed - places cards in hand:  Scheme, Scheme
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Copper
+yed - plays Scheme
+yed - draws Silver
+yed - plays 4 Copper, 2 Silver
+yed - buys Highway
+yed - gains Highway
+yed - Scheme choice: Scheme
+yed - Scheme choice: Scheme
+yed - Scheme choice: Scheme
+yed - draws Scheme, Scheme, Scheme
+yed - shuffles deck
+yed - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Remake
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Chapel
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - Scheme choice: Scheme
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Silver, Remake, Advisor, Silver
+ 
+---------- yed: turn 8 ----------
+yed - plays Scheme
+yed - draws Silver
+yed - plays Scheme
+yed - draws Remake
+yed - plays Scheme
+yed - draws Highway
+yed - plays Highway
+yed - draws Advisor
+yed - plays Advisor
+yed - reveals: Silver, Copper, Copper
+Stef - discards Silver
+yed - places cards in hand:  Copper, Copper
+yed - plays Remake
+yed - trashes Copper
+yed - gains Chapel
+yed - trashes Copper
+yed - gains Chapel
+yed - plays 2 Copper, 1 Silver
+yed - buys Highway
+yed - gains Highway
+yed - Scheme choice: Scheme
+yed - Scheme choice: Scheme
+yed - Scheme choice: Remake
+yed - draws Remake, Scheme, Scheme
+yed - shuffles deck
+yed - draws Highway, Highway
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays 3 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - Scheme choice: Scheme
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Silver, Grand Market, Silver, Advisor
+ 
+---------- yed: turn 9 ----------
+yed - plays Scheme
+yed - draws Copper
+yed - plays Scheme
+yed - draws Chapel
+yed - plays Highway
+yed - draws Silver
+yed - plays Highway
+yed - draws Advisor
+yed - plays Advisor
+yed - reveals: Chapel, Silver, Scheme
+Stef - discards Scheme
+yed - places cards in hand:  Chapel, Silver
+yed - plays Remake
+yed - trashes Chapel
+yed - gains Urchin
+yed - trashes Chapel
+yed - gains Scheme
+yed - plays Silver
+yed - plays Silver
+yed - buys Grand Market
+yed - gains Grand Market
+yed - Scheme choice: Highway
+yed - Scheme choice: Advisor
+yed - draws Advisor, Highway, Copper
+yed - shuffles deck
+yed - draws Scheme, Scheme
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Grand Market
+Stef - draws Remake
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Remake
+Stef - trashes Silver
+Stef - gains Advisor
+Stef - trashes Advisor
+Stef - gains Highway
+Stef - plays 2 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - Scheme choice: Grand Market
+Stef - draws Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Silver, Highway, Remake
+ 
+---------- yed: turn 10 ----------
+yed - plays Scheme
+yed - draws Remake
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Copper
+yed - plays Highway
+yed - draws Silver
+yed - plays Advisor
+yed - reveals: Urchin, Highway, Silver
+Stef - discards Highway
+yed - places cards in hand:  Urchin, Silver
+yed - plays Urchin
+yed - draws Scheme
+Stef - discards Silver
+yed - plays Scheme
+yed - draws Grand Market
+yed - plays Grand Market
+yed - shuffles deck
+yed - draws Highway
+yed - plays Highway
+yed - plays Remake
+yed - trashes Copper
+yed - gains Scheme
+yed - trashes Copper
+yed - gains Scheme
+yed - plays Silver
+yed - plays Silver
+yed - buys Grand Market
+yed - gains Grand Market
+yed - buys Advisor
+yed - gains Advisor
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Advisor
+yed - Scheme choice: Highway
+yed - Scheme choice: Highway
+yed - draws Highway, Highway, Advisor, Grand Market
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Grand Market
+Stef - draws Scheme
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Highway
+Stef - draws Advisor
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Remake
+Stef - trashes Advisor
+Stef - gains Highway
+Stef - trashes Silver
+Stef - gains Advisor
+Stef - plays 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Grand Market
+Stef - draws Grand Market
+Stef - shuffles deck
+Stef - draws Advisor, Grand Market, Remake, Scheme
+ 
+---------- yed: turn 11 ----------
+yed - plays Grand Market
+yed - draws Silver
+yed - plays Highway
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Urchin
+yed - plays Highway
+yed - draws Scheme
+yed - plays Urchin
+yed - draws Scheme
+Stef - discards Remake
+yed - plays Scheme
+yed - draws Remake
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Grand Market
+yed - plays Grand Market
+yed - draws Advisor
+yed - plays Advisor
+yed - reveals: Scheme, Scheme
+Stef - discards Scheme
+yed - places cards in hand:  Scheme
+yed - plays Scheme
+yed - shuffles deck
+yed - draws Scheme
+yed - plays Scheme
+yed - plays 2 Silver
+yed - buys Grand Market
+yed - gains Grand Market
+yed - buys Grand Market
+yed - gains Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Advisor
+yed - Scheme choice: Highway
+yed - Scheme choice: Highway
+yed - Scheme choice: Urchin
+yed - draws Urchin, Highway, Highway, Advisor, Grand Market
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Advisor
+Stef - reveals: Highway, Highway, Silver
+yed - discards Highway
+Stef - places cards in hand:  Highway, Silver
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Scheme
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Remake
+Stef - plays Grand Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Remake
+Stef - trashes Scheme
+Stef - gains Advisor
+Stef - trashes Scheme
+Stef - gains Advisor
+Stef - plays 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Grand Market, Highway, Highway, Grand Market, Highway
+ 
+---------- yed: turn 12 ----------
+yed - plays Highway
+yed - draws Grand Market
+yed - plays Grand Market
+yed - shuffles deck
+yed - draws Scheme
+yed - plays Grand Market
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Grand Market
+yed - plays Grand Market
+yed - draws Remake
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Urchin
+yed - draws Grand Market
+Stef - discards Highway
+yed - plays Grand Market
+yed - draws Silver
+yed - plays Highway
+yed - draws Advisor
+yed - plays Advisor
+yed - reveals: Scheme, Scheme, Silver
+Stef - discards Scheme
+yed - places cards in hand:  Scheme, Silver
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - shuffles deck
+yed - draws Scheme
+yed - plays Scheme
+yed - plays Remake
+yed - trashes Advisor
+yed - gains Highway
+yed - trashes Scheme
+yed - gains Advisor
+yed - plays 2 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Province
+yed - gains Province
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Advisor
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Highway
+yed - draws Highway, Grand Market, Advisor, Grand Market, Grand Market
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Grand Market
+Stef - draws Remake
+Stef - plays Grand Market
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver, Grand Market
+yed - discards Advisor
+Stef - places cards in hand:  Silver, Grand Market
+Stef - plays Highway
+Stef - draws Advisor
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Advisor
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Advisor
+Stef - plays Remake
+Stef - trashes Advisor
+Stef - gains Tactician
+Stef - trashes Advisor
+Stef - gains Duchy
+Stef - plays 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Highway
+Stef - shuffles deck
+Stef - draws Tactician, Urchin, Grand Market, Duchy
+ 
+---------- yed: turn 13 ----------
+yed - plays Advisor
+yed - shuffles deck
+yed - reveals: Highway, Scheme, Remake
+Stef - discards Highway
+yed - places cards in hand:  Scheme, Remake
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Urchin
+yed - plays Urchin
+yed - draws Silver
+Stef - discards Duchy
+yed - plays Grand Market
+yed - draws Scheme
+yed - plays Grand Market
+yed - draws Grand Market
+yed - plays Grand Market
+yed - draws Highway
+yed - plays Grand Market
+yed - draws Province
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Highway
+yed - draws Advisor
+yed - plays Highway
+yed - draws Province
+yed - plays Advisor
+yed - reveals: Silver, Scheme
+yed - shuffles deck
+yed - reveals: Highway
+Stef - discards Highway
+yed - places cards in hand:  Silver, Scheme
+yed - plays Scheme
+yed - shuffles deck
+yed - draws Highway
+yed - plays Highway
+yed - plays Scheme
+yed - plays 2 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Province
+yed - gains Province
+yed - buys Highway
+yed - gains Highway
+yed - buys Urchin
+yed - gains Urchin
+yed - buys Urchin
+yed - gains Urchin
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Highway
+yed - draws Highway, Grand Market, Grand Market, Grand Market, Grand Market
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Urchin
+Stef - draws Grand Market
+yed - discards Grand Market
+Stef - plays Grand Market
+Stef - draws Province
+Stef - plays Grand Market
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Urchin
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Urchin
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Remake, Duchy, Advisor
+yed - discards Advisor
+Stef - places cards in hand:  Remake, Duchy
+Stef - plays Tactician
+Stef - discards: Province, Silver, Remake, Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Count
+Stef - gains Count
+Stef - draws Highway
+Stef - shuffles deck
+Stef - draws Duchy, Silver, Advisor, Highway
+ 
+---------- yed: turn 14 ----------
+yed - plays Grand Market
+yed - shuffles deck
+yed - draws Scheme
+yed - plays Grand Market
+yed - draws Urchin
+yed - plays Grand Market
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Silver
+yed - plays Urchin
+yed - draws Urchin
+Stef - discards Duchy
+yed - plays Urchin
+yed - draws Silver
+yed - plays Scheme
+yed - draws Scheme
+yed - plays Scheme
+yed - draws Highway
+yed - plays Highway
+yed - draws Advisor
+yed - plays Advisor
+yed - reveals: Province, Grand Market, Province
+Stef - discards Grand Market
+yed - places cards in hand:  Province, Province
+yed - plays Highway
+yed - draws Province
+yed - plays 2 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Estate
+yed - gains Estate
+yed - buys Estate
+yed - gains Estate
+yed - Scheme choice: Grand Market
+yed - Scheme choice: Highway
+yed - Scheme choice: Highway
+yed - draws Highway, Highway, Grand Market, Highway, Highway
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Tactician
+Stef - draws Duchy, Advisor, Remake, Duchy, Province
+Stef - plays Advisor
+Stef - reveals: Highway, Grand Market, Grand Market
+yed - discards Grand Market
+Stef - places cards in hand:  Highway, Grand Market
+Stef - plays Advisor
+Stef - reveals: Count, Highway, Grand Market
+yed - discards Grand Market
+Stef - places cards in hand:  Count, Highway
+Stef - plays Grand Market
+Stef - draws Urchin
+Stef - plays Highway
+Stef - draws Urchin
+Stef - plays Highway
+Stef - draws Duchy
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Grand Market
+Stef - plays Highway
+Stef - draws Duchy
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - plays Remake
+Stef - trashes Urchin
+Stef - gains Duchy
+Stef - trashes Urchin
+Stef - gains Duchy
+Stef - plays Count
+Stef - discards Province
+Stef - discards Duchy
+Stef - gains Duchy
+Stef - plays 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Duchy, Duchy, Province, Remake, Highway
+ 
+------------ Game Over ------------
+Stef - cards: 4 Highway, 3 Grand Market, 2 Advisor, 1 Remake, 1 Tactician, 1 Count, 1 Silver, 7 Duchy, 3 Province, 3 Estate
+Stef - total victory points: 42
+Stef - turns: 14
+ 
+yed - cards: 5 Scheme, 4 Highway, 4 Grand Market, 3 Urchin, 2 Advisor, 1 Remake, 2 Silver, 5 Province, 2 Estate, 1 Duchy
+yed - total victory points: 35
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

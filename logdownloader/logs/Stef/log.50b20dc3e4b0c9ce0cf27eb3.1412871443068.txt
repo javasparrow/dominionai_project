@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Doctor, Oracle, Gardens, JackOfAllTrades, Navigator, Band of Misfits, Mountebank, Rabble, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+silverspawn  - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+silverspawn  - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys JackOfAllTrades
+Stef - gains JackOfAllTrades
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, JackOfAllTrades, Estate
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 4 Copper
+silverspawn  - buys JackOfAllTrades
+silverspawn  - gains JackOfAllTrades
+silverspawn  - shuffles deck
+silverspawn  - draws JackOfAllTrades, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - trashes Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - discards Estate
+silverspawn  - trashes Estate
+silverspawn  - plays 4 Copper
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, JackOfAllTrades, Mountebank, Copper, Silver
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - plays 3 Copper, 1 Silver
+silverspawn  - buys Mountebank
+silverspawn  - gains Mountebank
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Copper, Copper, JackOfAllTrades
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - discards Copper
+silverspawn  - plays 5 Copper
+silverspawn  - buys Band of Misfits
+silverspawn  - gains Band of Misfits
+silverspawn  - draws Silver, Estate, Silver, Estate, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Copper, Estate, Silver
+Stef - shuffles deck
+Stef - draws Mountebank
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays 3 Silver
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Mountebank, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+silverspawn  - plays 4 Copper
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Band of Misfits, Estate, Copper, Gold, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Mountebank, Copper, Copper, Estate, JackOfAllTrades
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays Band of Misfits
+silverspawn  - chooses JackOfAllTrades
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - places Copper on top of deck
+silverspawn  - trashes Estate
+silverspawn  - plays 3 Copper, 1 Gold
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Silver, Estate, Silver, Curse, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Gold on top of deck
+Stef - trashes Estate
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - shuffles deck
+Stef - draws Gold, Gold, Mountebank, Estate, Silver
+ 
+---------- silverspawn : turn 9 ----------
+silverspawn  - plays 3 Silver
+silverspawn  - buys Mountebank
+silverspawn  - gains Mountebank
+silverspawn  - draws Copper, Silver, JackOfAllTrades
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- silverspawn : turn 10 ----------
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - places Silver on top of deck
+silverspawn  - plays 3 Copper, 2 Silver
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Gold, Mountebank, Copper, Silver, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws JackOfAllTrades, Mountebank, Copper, Mountebank, Curse
+ 
+---------- silverspawn : turn 11 ----------
+silverspawn  - plays Mountebank
+Stef - discards Curse
+silverspawn  - plays 2 Copper, 1 Gold, 1 Silver
+silverspawn  - buys Platinum
+silverspawn  - gains Platinum
+silverspawn  - draws Copper, Copper, Gold, Copper, Band of Misfits
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - plays Band of Misfits
+silverspawn  - chooses Oracle
+silverspawn  - plays Oracle
+silverspawn  - reveals: Copper, Estate
+silverspawn  - discards: Copper, Estate
+Stef - reveals: Gold
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - discards: Gold, Silver
+silverspawn  - draws Curse, Gold
+silverspawn  - plays 3 Copper, 2 Gold
+silverspawn  - buys Platinum
+silverspawn  - gains Platinum
+silverspawn  - draws Silver, Mountebank, Curse, Silver
+silverspawn  - shuffles deck
+silverspawn  - draws Mountebank
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Estate, Copper, Curse, Mountebank, Silver
+ 
+---------- silverspawn : turn 13 ----------
+silverspawn  - plays Mountebank
+Stef - discards Curse
+silverspawn  - plays 2 Silver
+silverspawn  - buys Harem
+silverspawn  - gains Harem
+silverspawn  - draws Band of Misfits, Gold, Gold, Curse, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Mountebank
+silverspawn  - discards Curse
+Stef - plays Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Mountebank, Copper, Copper, Silver
+ 
+---------- silverspawn : turn 14 ----------
+silverspawn  - plays Band of Misfits
+silverspawn  - chooses JackOfAllTrades
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - places Silver on top of deck
+silverspawn  - plays 2 Gold, 1 Copper, 1 Silver
+silverspawn  - buys Platinum
+silverspawn  - gains Platinum
+silverspawn  - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Platinum, Mountebank, JackOfAllTrades, Gold, Harem
+ 
+---------- silverspawn : turn 15 ----------
+silverspawn  - plays 3 Copper, 1 Silver
+silverspawn  - buys Rabble
+silverspawn  - gains Rabble
+silverspawn  - draws Gold, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 1 Harem, 1 Platinum, 1 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Copper, Gold
+Stef - shuffles deck
+Stef - draws Copper, Copper, Platinum
+ 
+---------- silverspawn : turn 16 ----------
+silverspawn  - plays 3 Copper, 1 Gold, 1 Silver
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Curse, Platinum, Gold, Copper, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 3 Copper, 1 Gold, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Copper, Estate, Copper, Silver, Gold
+ 
+---------- silverspawn : turn 17 ----------
+silverspawn  - plays 1 Platinum, 1 Gold, 1 Copper, 1 Silver
+silverspawn  - buys Colony
+silverspawn  - gains Colony
+silverspawn  - draws Copper, Copper, Platinum, Copper, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Mountebank, Harem, Copper, Harem, Mountebank
+ 
+---------- silverspawn : turn 18 ----------
+silverspawn  - plays 3 Copper, 1 Platinum
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - shuffles deck
+silverspawn  - draws Harem, Copper, Copper, Gold, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 2 Harem, 1 Copper
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Silver, Harem, Platinum, Mountebank, Copper
+ 
+---------- silverspawn : turn 19 ----------
+silverspawn  - plays 3 Copper, 1 Harem, 1 Gold
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Gold, Curse, Silver, Band of Misfits, Colony
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Mountebank
+silverspawn  - discards Curse
+Stef - plays 1 Harem, 1 Silver, 1 Platinum, 1 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Silver, Curse, JackOfAllTrades, Silver, Copper
+ 
+---------- silverspawn : turn 20 ----------
+silverspawn  - plays Band of Misfits
+silverspawn  - chooses JackOfAllTrades
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - places Gold on top of deck
+silverspawn  - plays 2 Gold, 1 Silver, 1 Copper
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Curse, Gold, Curse, Rabble, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Silver on top of deck
+Stef - trashes Curse
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Silver, Gold
+Stef - shuffles deck
+Stef - draws Copper, Mountebank, Harem
+ 
+---------- silverspawn : turn 21 ----------
+silverspawn  - plays Rabble
+silverspawn  - draws Silver, Platinum, Copper
+Stef - reveals Copper, Harem, Silver
+Stef - discards: Copper, Harem, Silver
+silverspawn  - plays 1 Gold, 1 Silver, 1 Platinum, 1 Copper
+silverspawn  - buys Colony
+silverspawn  - gains Colony
+silverspawn  - draws Silver, Mountebank, Gold, JackOfAllTrades, Silver
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Mountebank
+silverspawn  - gains Curse
+silverspawn  - gains Copper
+Stef - plays 1 Harem, 1 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Silver, Copper, Gold, Copper
+ 
+---------- silverspawn : turn 22 ----------
+silverspawn  - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+silverspawn  - plays 2 Silver, 1 Gold
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Mountebank, Copper, Copper, Copper, Curse
+ 
+---------- Stef: turn 23 ----------
+Stef - plays 2 Silver, 2 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Platinum, Harem, Mountebank, Platinum
+ 
+---------- silverspawn : turn 23 ----------
+silverspawn  - plays Mountebank
+Stef - gains Copper
+silverspawn  - plays 3 Copper
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Silver, Estate, Copper, Curse, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Mountebank
+silverspawn  - discards Curse
+Stef - plays 2 Platinum, 1 Harem, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Harem, Copper, Silver, Harem, Silver
+ 
+---------- silverspawn : turn 24 ----------
+silverspawn  - plays 2 Copper, 1 Silver
+silverspawn  - buys Gardens
+silverspawn  - gains Gardens
+silverspawn  - draws Platinum, Silver, Gold, Platinum, Silver
+ 
+---------- Stef: turn 25 ----------
+Stef - plays 2 Harem, 2 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Harem, Copper, Copper, JackOfAllTrades, Estate
+ 
+---------- silverspawn : turn 25 ----------
+silverspawn  - plays 2 Platinum, 2 Silver, 1 Gold
+silverspawn  - buys Colony
+silverspawn  - gains Colony
+silverspawn  - draws Copper, Copper, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Band of Misfits, Copper
+ 
+---------- Stef: turn 26 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Copper on top of deck
+Stef - plays 3 Copper, 1 Harem
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Colony, Colony, Gold, Mountebank
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- silverspawn : turn 26 ----------
+silverspawn  - plays Band of Misfits
+silverspawn  - chooses Oracle
+silverspawn  - plays Oracle
+silverspawn  - reveals: Copper, Colony
+silverspawn  - discards: Copper, Colony
+Stef - reveals: Platinum, Silver
+Stef - discards: Platinum, Silver
+silverspawn  - draws Copper, Province
+silverspawn  - plays 5 Copper
+silverspawn  - buys Duchy
+silverspawn  - gains Duchy
+silverspawn  - draws Gold, Curse, Curse, Silver, Silver
+ 
+---------- Stef: turn 27 ----------
+Stef - plays Mountebank
+silverspawn  - discards Curse
+Stef - plays Gold
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Platinum, Copper, Copper, Duchy, Mountebank
+ 
+---------- silverspawn : turn 27 ----------
+silverspawn  - plays 2 Silver, 1 Gold
+silverspawn  - buys Gardens
+silverspawn  - gains Gardens
+silverspawn  - draws Gold, Gold, Copper, Silver, Silver
+ 
+---------- Stef: turn 28 ----------
+Stef - plays Mountebank
+silverspawn  - gains Copper
+Stef - plays 2 Copper, 1 Platinum
+Stef - buys Province
+Stef - gains Province
+Stef - draws Colony, Harem, Silver, Harem, Copper
+ 
+---------- silverspawn : turn 28 ----------
+silverspawn  - plays 2 Gold, 2 Silver, 1 Copper
+silverspawn  - buys Colony
+silverspawn  - gains Colony
+silverspawn  - draws Gold, Province, Silver, Colony, Silver
+ 
+---------- Stef: turn 29 ----------
+Stef - plays 2 Harem, 1 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Silver, Copper, Curse, Silver
+ 
+---------- silverspawn : turn 29 ----------
+silverspawn  - plays 2 Silver, 1 Gold
+silverspawn  - buys Gardens
+silverspawn  - gains Gardens
+silverspawn  - draws Copper, Curse, JackOfAllTrades, Curse, Copper
+ 
+---------- Stef: turn 30 ----------
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Harem, JackOfAllTrades, Harem, Silver
+ 
+---------- silverspawn : turn 30 ----------
+silverspawn  - plays JackOfAllTrades
+silverspawn  - gains Silver
+silverspawn  - places Platinum on top of deck
+silverspawn  - trashes Curse
+silverspawn  - plays 2 Copper, 1 Platinum
+silverspawn  - buys Gardens
+silverspawn  - gains Gardens
+silverspawn  - draws Gold, Copper, Curse, Platinum, Harem
+ 
+---------- Stef: turn 31 ----------
+Stef - plays 2 Harem, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Mountebank, Gold, Estate, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Mountebank, 10 Copper, 1 JackOfAllTrades, 8 Silver, 6 Harem, 3 Gold, 2 Platinum, 5 Province, 3 Gardens, 3 Colony, 1 Estate, 1 Duchy, 1 Curse
+Stef - total victory points: 87
+Stef - turns: 31
+ 
+silverspawn  - cards: 2 Mountebank, 16 Copper, 1 Band of Misfits, 1 JackOfAllTrades, 1 Rabble, 9 Silver, 6 Gold, 3 Platinum, 1 Harem, 4 Colony, 4 Gardens, 3 Province, 2 Duchy, 1 Estate, 7 Curse
+silverspawn  - total victory points: 84
+silverspawn  - turns: 30
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

@@ -1,0 +1,796 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Lighthouse, Great Hall, Market Square, Philosopher's Stone, Conspirator, Rabble, Tribute, Venture, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Estate
+RTT - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Lighthouse
+RTT - gains Lighthouse
+RTT - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Conspirator
+RTT - gains Conspirator
+RTT - shuffles deck
+RTT - draws Estate, Estate, Copper, Copper, Lighthouse
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Lighthouse
+RTT - plays 2 Copper
+RTT - buys Lighthouse
+RTT - gains Lighthouse
+RTT - draws Conspirator, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Copper, Witch, Estate, Copper, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - duration Lighthouse
+RTT - plays Conspirator
+RTT - plays 4 Copper
+RTT - buys Witch
+RTT - gains Witch
+RTT - draws Estate, Copper
+RTT - shuffles deck
+RTT - draws Lighthouse, Conspirator, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Witch
+Stef - draws Estate, Hamlet
+RTT - gains Curse
+Stef - plays 3 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Hamlet, Estate, Lighthouse, Copper, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Lighthouse
+RTT - plays Conspirator
+RTT - plays 2 Copper
+RTT - buys Tribute
+RTT - gains Tribute
+RTT - draws Copper, Estate, Copper, Estate, Lighthouse
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Copper, Copper, Witch, Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - duration Lighthouse
+RTT - plays Lighthouse
+RTT - plays 2 Copper
+RTT - buys Lighthouse
+RTT - gains Lighthouse
+RTT - draws Copper, Witch, Copper, Copper
+RTT - shuffles deck
+RTT - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Lighthouse
+Stef - plays Witch
+Stef - draws Estate, Conspirator
+Stef - plays 4 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Hamlet, Copper, Witch
+ 
+---------- RTT: turn 7 ----------
+RTT - duration Lighthouse
+RTT - plays Witch
+RTT - draws Lighthouse, Copper
+Stef - gains Curse
+RTT - plays 4 Copper
+RTT - buys Rabble
+RTT - gains Rabble
+RTT - draws Copper, Curse, Lighthouse, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Witch
+Stef - draws Lighthouse, Conspirator
+RTT - gains Curse
+Stef - plays Lighthouse
+Stef - plays Conspirator
+Stef - draws Rabble
+Stef - plays Rabble
+Stef - draws Copper, Copper, Hamlet
+RTT - reveals Copper, Tribute, Conspirator
+RTT - discards: Copper, Tribute, Conspirator
+Stef - plays 4 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Copper, Estate, Lighthouse, Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Lighthouse
+RTT - plays 2 Copper
+RTT - buys Hamlet
+RTT - gains Hamlet
+RTT - draws Estate
+RTT - shuffles deck
+RTT - draws Curse, Estate, Tribute, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - shuffles deck
+Stef - draws Copper, Rabble, Rabble, Hamlet, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - duration Lighthouse
+RTT - plays Tribute
+Stef - reveals: Copper, Witch
+RTT - receives 2 coins
+RTT - receives 2 actions
+Stef - discards: Copper, Witch
+RTT - plays 1 Copper
+RTT - buys Conspirator
+RTT - gains Conspirator
+RTT - draws Witch, Hamlet, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Lighthouse
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Hamlet, Lighthouse, Curse
+RTT - reveals Lighthouse, Curse, Copper
+RTT - discards: Lighthouse, Copper
+RTT - places Curse on top of deck
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Curse
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Rabble
+Stef - draws Estate, Conspirator, Copper
+RTT - reveals Curse, Copper, Lighthouse
+RTT - discards: Copper, Lighthouse
+RTT - places Curse on top of deck
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Hamlet, Copper, Rabble, Copper
+Stef - shuffles deck
+Stef - draws Hamlet
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Hamlet
+RTT - draws Curse
+RTT - discards Estate
+RTT - receives one action
+RTT - discards Curse
+RTT - receives one buy
+RTT - plays Witch
+RTT - draws Copper, Rabble
+RTT - plays Rabble
+RTT - draws Copper, Conspirator
+RTT - shuffles deck
+RTT - draws Curse
+RTT - plays 4 Copper
+RTT - buys Hamlet
+RTT - gains Hamlet
+RTT - buys Hamlet
+RTT - gains Hamlet
+RTT - draws Estate, Copper, Lighthouse, Estate, Tribute
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Conspirator, Copper, Conspirator
+RTT - reveals Conspirator, Curse, Lighthouse
+RTT - discards: Conspirator, Lighthouse
+RTT - places Curse on top of deck
+Stef - plays Conspirator
+Stef - draws Witch
+Stef - plays Conspirator
+Stef - draws Lighthouse
+Stef - plays Hamlet
+Stef - draws Market Square
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Market Square
+Stef - draws Hamlet
+Stef - plays Witch
+Stef - draws Copper, Rabble
+RTT - gains Curse
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Rabble, Copper, Estate
+RTT - reveals Curse, Copper, Copper
+RTT - discards: Copper, Copper
+RTT - places Curse on top of deck
+Stef - plays Lighthouse
+Stef - plays Rabble
+Stef - draws Estate, Curse, Copper
+RTT - reveals Curse, Lighthouse, Estate
+RTT - discards Lighthouse
+RTT - places Curse on top of deck
+RTT - places Estate on top of deck
+Stef - plays 5 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Estate, Rabble, Hamlet, Hamlet, Rabble
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Lighthouse
+RTT - plays Tribute
+Stef - reveals: Copper, Curse
+RTT - receives 2 coins
+Stef - discards: Copper, Curse
+RTT - plays 1 Copper
+RTT - buys Conspirator
+RTT - gains Conspirator
+RTT - draws Estate, Curse
+RTT - shuffles deck
+RTT - draws Hamlet, Copper, Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Rabble, Copper, Copper
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Hamlet, Conspirator, Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Rabble
+Stef - draws Copper, Rabble, Witch
+Stef - plays Rabble
+Stef - draws Market Square, Hamlet, Conspirator
+Stef - plays 5 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Lighthouse
+Stef - shuffles deck
+Stef - draws Conspirator, Hamlet, Hamlet, Hamlet
+ 
+---------- RTT: turn 12 ----------
+RTT - duration Lighthouse
+RTT - plays Hamlet
+RTT - draws Tribute
+RTT - discards Curse
+RTT - receives one action
+RTT - discards Estate
+RTT - receives one buy
+RTT - plays Tribute
+Stef - reveals: Copper, Copper
+RTT - receives 2 coins
+Stef - discards: Copper, Copper
+RTT - plays Conspirator
+RTT - draws Witch
+RTT - plays Witch
+RTT - draws Copper, Copper
+Stef - gains Curse
+RTT - plays 3 Copper
+RTT - buys Rabble
+RTT - gains Rabble
+RTT - buys Hamlet
+RTT - gains Hamlet
+RTT - draws Estate, Curse, Copper, Lighthouse, Hamlet
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hamlet
+Stef - draws Conspirator
+Stef - plays Lighthouse
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - draws Market Square, Rabble, Lighthouse, Conspirator, Copper
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Hamlet
+RTT - draws Copper
+RTT - discards Curse
+RTT - receives one action
+RTT - discards Estate
+RTT - receives one buy
+RTT - plays Lighthouse
+RTT - plays 2 Copper
+RTT - buys Great Hall
+RTT - gains Great Hall
+RTT - draws Curse, Conspirator, Copper, Conspirator, Rabble
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Lighthouse
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Rabble
+Stef - draws Witch, Rabble, Rabble
+Stef - plays 2 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Hamlet, Curse, Hamlet, Rabble, Estate
+ 
+---------- RTT: turn 14 ----------
+RTT - duration Lighthouse
+RTT - plays Conspirator
+RTT - plays 1 Copper
+RTT - buys Great Hall
+RTT - gains Great Hall
+RTT - draws Estate, Hamlet, Lighthouse, Copper
+RTT - shuffles deck
+RTT - draws Rabble
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Hamlet
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Copper, Conspirator, Market Square
+RTT - reveals Hamlet, Estate, Estate
+RTT - discards Hamlet
+RTT - places Estate on top of deck
+RTT - places Estate on top of deck
+Stef - plays Conspirator
+Stef - draws Rabble
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Hamlet
+Stef - draws Rabble
+Stef - discards Curse
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Conspirator, Copper, Copper
+RTT - reveals Estate, Estate, Copper
+RTT - discards Copper
+RTT - places Estate on top of deck
+RTT - places Estate on top of deck
+Stef - plays Conspirator
+Stef - draws Rabble
+Stef - plays Hamlet
+Stef - draws Rabble
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Market Square, Hamlet, Curse
+RTT - reveals Estate, Estate, Curse
+RTT - places Estate on top of deck
+RTT - places Estate on top of deck
+RTT - places Curse on top of deck
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Curse
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Copper, Lighthouse, Conspirator
+RTT - reveals Curse, Estate, Estate
+RTT - places Curse on top of deck
+RTT - places Estate on top of deck
+RTT - places Estate on top of deck
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Lighthouse
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Witch, Copper, Market Square
+RTT - reveals Estate, Estate, Curse
+RTT - places Estate on top of deck
+RTT - places Estate on top of deck
+RTT - places Curse on top of deck
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 7 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Rabble, Rabble, Market Square, Rabble, Copper
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Lighthouse
+RTT - plays Hamlet
+RTT - draws Curse
+RTT - discards Estate
+RTT - receives one action
+RTT - discards Curse
+RTT - receives one buy
+RTT - plays Rabble
+RTT - draws Estate, Estate, Witch
+RTT - plays Witch
+RTT - draws Tribute, Copper
+RTT - plays 2 Copper
+RTT - buys Great Hall
+RTT - gains Great Hall
+RTT - draws Lighthouse, Curse, Conspirator, Copper, Rabble
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Lighthouse
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Rabble
+Stef - draws Copper, Hamlet, Curse
+Stef - plays 2 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Hamlet, Curse, Copper, Witch, Conspirator
+ 
+---------- RTT: turn 16 ----------
+RTT - duration Lighthouse
+RTT - plays Lighthouse
+RTT - plays Rabble
+RTT - draws Copper, Copper, Conspirator
+Stef - reveals Conspirator, Province, Hamlet
+Stef - discards: Conspirator, Hamlet
+Stef - places Province on top of deck
+RTT - plays 3 Copper
+RTT - buys Rabble
+RTT - gains Rabble
+RTT - draws Copper, Lighthouse, Great Hall, Curse, Great Hall
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Hamlet
+Stef - draws Province
+Stef - discards Curse
+Stef - receives one action
+Stef - plays Witch
+Stef - draws Copper, Hamlet
+Stef - plays Conspirator
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Province
+Stef - receives one action
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Estate, Market Square, Conspirator
+ 
+---------- RTT: turn 17 ----------
+RTT - duration Lighthouse
+RTT - plays Lighthouse
+RTT - plays Great Hall
+RTT - draws Conspirator
+RTT - plays Great Hall
+RTT - draws Hamlet
+RTT - plays Conspirator
+RTT - draws Hamlet
+RTT - plays Hamlet
+RTT - shuffles deck
+RTT - draws Copper
+RTT - plays Hamlet
+RTT - draws Copper
+RTT - discards Curse
+RTT - receives one action
+RTT - plays 3 Copper
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Rabble, Estate, Great Hall, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Lighthouse
+Stef - plays Market Square
+Stef - draws Rabble
+Stef - plays Conspirator
+Stef - plays 1 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Rabble, Copper, Market Square
+Stef - shuffles deck
+Stef - draws Curse, Market Square
+ 
+---------- RTT: turn 18 ----------
+RTT - duration Lighthouse
+RTT - plays Great Hall
+RTT - draws Estate
+RTT - plays Rabble
+RTT - draws Estate, Lighthouse, Witch
+Stef - reveals Lighthouse, Curse, Copper
+Stef - discards: Lighthouse, Copper
+Stef - places Curse on top of deck
+RTT - plays 2 Copper
+RTT - buys Great Hall
+RTT - gains Great Hall
+RTT - draws Copper, Hamlet, Conspirator, Curse, Tribute
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Market Square
+Stef - draws Curse
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Rabble
+Stef - draws Witch, Rabble, Copper
+RTT - reveals Conspirator, Rabble, Curse
+RTT - discards: Conspirator, Rabble
+RTT - places Curse on top of deck
+Stef - plays 3 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Estate, Conspirator, Province, Estate, Great Hall
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Hamlet
+RTT - draws Curse
+RTT - discards Curse
+RTT - receives one action
+RTT - discards Curse
+RTT - receives one buy
+RTT - plays Tribute
+Stef - reveals: Conspirator, Lighthouse
+RTT - receives 4 actions
+Stef - discards: Conspirator, Lighthouse
+RTT - plays Conspirator
+RTT - draws Rabble
+RTT - plays Rabble
+RTT - draws Copper, Hamlet
+RTT - shuffles deck
+RTT - draws Hamlet
+Stef - reveals Copper, Market Square, Conspirator
+Stef - discards: Copper, Market Square, Conspirator
+RTT - plays Hamlet
+RTT - draws Curse
+RTT - plays Hamlet
+RTT - draws Curse
+RTT - discards Curse
+RTT - receives one action
+RTT - discards Curse
+RTT - receives one buy
+RTT - plays 2 Copper
+RTT - buys Estate
+RTT - gains Estate
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Lighthouse, Great Hall, Great Hall, Copper, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Great Hall
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Conspirator
+Stef - discards Province
+Stef - receives one action
+Stef - plays Conspirator
+Stef - draws Rabble
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Rabble
+Stef - draws Hamlet, Hamlet, Hamlet
+RTT - reveals Hamlet, Estate, Lighthouse
+RTT - discards: Hamlet, Lighthouse
+RTT - places Estate on top of deck
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Province
+Stef - plays Hamlet
+Stef - draws Rabble
+Stef - discards Rabble
+Stef - receives one action
+Stef - discards Province
+Stef - receives one buy
+Stef - plays 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Rabble, Copper
+Stef - shuffles deck
+Stef - draws Witch, Estate, Lighthouse
+ 
+---------- RTT: turn 20 ----------
+RTT - plays Great Hall
+RTT - draws Estate
+RTT - plays Great Hall
+RTT - draws Conspirator
+RTT - plays Lighthouse
+RTT - plays Conspirator
+RTT - draws Great Hall
+RTT - plays Great Hall
+RTT - draws Estate
+RTT - plays 1 Copper
+RTT - buys Great Hall
+RTT - gains Great Hall
+RTT - draws Copper, Copper, Copper, Witch, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Lighthouse
+Stef - plays Witch
+Stef - draws Lighthouse, Market Square
+Stef - plays 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Market Square, Copper, Great Hall, Rabble, Curse
+ 
+---------- RTT: turn 21 ----------
+RTT - duration Lighthouse
+RTT - plays Witch
+RTT - draws Rabble, Copper
+RTT - plays 4 Copper
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Duchy, Rabble, Conspirator, Lighthouse, Great Hall
+ 
+---------- Stef: turn 21 ----------
+Stef - duration Lighthouse
+Stef - plays Great Hall
+Stef - draws Hamlet
+Stef - plays Market Square
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Market Square
+Stef - discards Curse
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Estate, Copper, Copper
+RTT - shuffles deck
+RTT - reveals Great Hall, Hamlet, Curse
+RTT - discards: Great Hall, Hamlet
+RTT - places Curse on top of deck
+Stef - plays Market Square
+Stef - draws Rabble
+Stef - plays Hamlet
+Stef - draws Conspirator
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Rabble
+Stef - draws Great Hall, Hamlet, Conspirator
+RTT - reveals Curse, Witch, Estate
+RTT - discards Witch
+RTT - places Curse on top of deck
+RTT - places Estate on top of deck
+Stef - plays Conspirator
+Stef - draws Market Square
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Market Square
+Stef - draws Hamlet
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Province
+Stef - plays Hamlet
+Stef - draws Province
+Stef - discards Province
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Lighthouse
+Stef - discards Province
+Stef - receives one buy
+Stef - plays Lighthouse
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Duchy, Rabble, Copper, Estate, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 7 Conspirator, 6 Hamlet, 5 Rabble, 4 Market Square, 3 Great Hall, 3 Lighthouse, 1 Witch, 7 Copper, 4 Estate, 2 Province, 1 Duchy, 2 Curse
+Stef - total victory points: 20
+Stef - turns: 21
+ 
+RTT - cards: 5 Great Hall, 4 Hamlet, 3 Rabble, 3 Conspirator, 3 Lighthouse, 1 Witch, 1 Tribute, 7 Copper, 5 Estate, 2 Duchy, 3 Curse
+RTT - total victory points: 13
+RTT - turns: 21
+ 
+1st place: Stef
+2nd place: RTT
+ 

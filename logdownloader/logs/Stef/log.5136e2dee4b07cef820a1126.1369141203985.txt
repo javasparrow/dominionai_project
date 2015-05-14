@@ -1,0 +1,520 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Hermit, Smugglers, Fortress, Quarry, Remodel, Silk Road, City, Embassy, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+charlietuna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+charlietuna - shuffles deck
+Stef - shuffles deck
+charlietuna - draws Copper, Copper, Estate, Copper, Estate
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- charlietuna: turn 1 ----------
+charlietuna - plays 3 Copper
+charlietuna - buys Hermit
+charlietuna - gains Hermit
+charlietuna - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- charlietuna: turn 2 ----------
+charlietuna - plays 4 Copper
+charlietuna - buys Remodel
+charlietuna - gains Remodel
+charlietuna - shuffles deck
+charlietuna - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- charlietuna: turn 3 ----------
+charlietuna - plays 4 Copper
+charlietuna - buys Fortress
+charlietuna - gains Fortress
+charlietuna - draws Estate, Copper, Copper, Estate, Remodel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- charlietuna: turn 4 ----------
+charlietuna - plays Remodel
+charlietuna - trashes Estate
+charlietuna - gains Quarry
+charlietuna - plays 2 Copper
+charlietuna - buys Vagrant
+charlietuna - gains Vagrant
+charlietuna - draws Hermit, Copper
+charlietuna - shuffles deck
+charlietuna - draws Copper, Remodel, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 5 Copper
+Stef - buys Trading Post
+Stef - gains Trading Post
+Stef - draws Hermit, Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+ 
+---------- charlietuna: turn 5 ----------
+charlietuna - plays Remodel
+charlietuna - trashes Hermit
+charlietuna - gains Trading Post
+charlietuna - plays 3 Copper
+charlietuna - buys Hermit
+charlietuna - gains Hermit
+charlietuna - draws Estate, Copper, Copper, Copper, Fortress
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Vagrant
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Estate, Copper, Copper, Vagrant, Copper
+ 
+---------- charlietuna: turn 6 ----------
+charlietuna - plays Fortress
+charlietuna - draws Copper
+charlietuna - plays 4 Copper
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Estate, Quarry, Vagrant
+charlietuna - shuffles deck
+charlietuna - draws Hermit, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Trading Post, Copper
+Stef - shuffles deck
+Stef - draws Estate, Fortress, Copper
+ 
+---------- charlietuna: turn 7 ----------
+charlietuna - plays Vagrant
+charlietuna - draws Silver
+charlietuna - reveals: Trading Post
+charlietuna - places Trading Post on top of deck
+charlietuna - plays Hermit
+charlietuna - trashes Estate
+charlietuna - gains Silver
+charlietuna - plays 1 Copper, 1 Silver
+charlietuna - plays Quarry
+charlietuna - buys City
+charlietuna - gains City
+charlietuna - draws Trading Post, Copper, Copper, Copper, Remodel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Fortress
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Trading Post
+Stef - trashes Copper, Estate
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Copper, Copper, Copper, Hermit, Vagrant
+ 
+---------- charlietuna: turn 8 ----------
+charlietuna - plays Trading Post
+charlietuna - trashes Copper, Copper
+charlietuna - gains Silver
+charlietuna - plays 1 Copper, 1 Silver
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Estate, Copper, Fortress, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Fortress
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Hermit
+Stef - gains Hermit
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Silver, Estate
+Stef - shuffles deck
+Stef - draws Copper, Madman, Fortress
+ 
+---------- charlietuna: turn 9 ----------
+charlietuna - plays Fortress
+charlietuna - shuffles deck
+charlietuna - draws Silver
+charlietuna - plays 3 Copper, 1 Silver
+charlietuna - buys City
+charlietuna - gains City
+charlietuna - draws Trading Post, Hermit, Vagrant, Remodel, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Madman
+Stef - draws Copper, Copper, Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Remodel
+Stef - places Remodel on top of deck
+Stef - plays Fortress
+Stef - draws Remodel
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Embassy
+charlietuna - gains Silver
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Embassy
+Stef - gains Embassy
+charlietuna - gains Silver
+Stef - draws Vagrant, Copper, Fortress, Trading Post, Copper
+ 
+---------- charlietuna: turn 10 ----------
+charlietuna - plays Vagrant
+charlietuna - draws Quarry
+charlietuna - reveals: Copper
+charlietuna - places Copper on top of deck
+charlietuna - plays Remodel
+charlietuna - trashes Hermit
+charlietuna - gains City
+charlietuna - plays 1 Copper
+charlietuna - plays Quarry
+charlietuna - buys Fortress
+charlietuna - gains Fortress
+charlietuna - draws Copper, Silver, Silver, Silver, City
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fortress
+Stef - draws Hermit
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Smugglers
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Fortress
+Stef - places Fortress on top of deck
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Fortress, Smugglers, Remodel, Embassy, Vagrant
+ 
+---------- charlietuna: turn 11 ----------
+charlietuna - plays City
+charlietuna - shuffles deck
+charlietuna - draws Quarry
+charlietuna - plays 3 Silver, 1 Copper
+charlietuna - plays Quarry
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - draws Copper, Silver, Estate, Fortress, Trading Post
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Embassy
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Embassy
+Stef - draws Copper, Copper, Silver
+Stef - shuffles deck
+Stef - draws Fortress, Madman
+Stef - discards Smugglers
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Madman
+Stef - draws Copper, Vagrant, Silver, Trading Post
+Stef - shuffles deck
+Stef - draws Smugglers
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains City
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: City
+Stef - places City on top of deck
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 3 Silver, 2 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws City
+Stef - shuffles deck
+Stef - draws Copper, Vagrant, Trading Post, Embassy
+ 
+---------- charlietuna: turn 12 ----------
+charlietuna - plays Fortress
+charlietuna - draws Silver
+charlietuna - plays Trading Post
+charlietuna - trashes Copper, Estate
+charlietuna - gains Silver
+charlietuna - plays 3 Silver
+charlietuna - buys City
+charlietuna - gains City
+charlietuna - draws City, Silver, Fortress, Vagrant, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays Embassy
+Stef - draws Fortress, Remodel, Embassy, Silver, Smugglers
+Stef - discards Copper
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: City
+Stef - places City on top of deck
+Stef - plays Fortress
+Stef - draws City
+Stef - plays City
+Stef - draws Fortress
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains City
+Stef - plays Fortress
+Stef - draws Vagrant
+Stef - plays Smugglers
+Stef - gains City
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - shuffles deck
+Stef - reveals: City
+Stef - places City on top of deck
+Stef - plays Embassy
+Stef - draws City, Silver, Copper, Silver, City
+Stef - discards City
+Stef - discards City
+Stef - discards Silver
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 3 Silver
+Stef - buys City
+Stef - gains City
+Stef - shuffles deck
+Stef - draws Fortress, Silver, City, City, Remodel
+ 
+---------- charlietuna: turn 13 ----------
+charlietuna - plays Vagrant
+charlietuna - draws City
+charlietuna - reveals: Copper
+charlietuna - places Copper on top of deck
+charlietuna - plays City
+charlietuna - draws Copper
+charlietuna - plays City
+charlietuna - draws Remodel
+charlietuna - plays Fortress
+charlietuna - draws Copper
+charlietuna - plays Remodel
+charlietuna - trashes Silver
+charlietuna - gains City
+charlietuna - plays 3 Copper
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - shuffles deck
+charlietuna - draws City, Copper, City, Fortress, Quarry
+ 
+---------- Stef: turn 13 ----------
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Embassy, City
+Stef - plays City
+Stef - draws Vagrant, City
+Stef - plays City
+Stef - draws Silver, Silver
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains Remodel
+Stef - plays Embassy
+Stef - draws Trading Post, Fortress, Smugglers, Embassy, Vagrant
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Embassy
+Stef - shuffles deck
+Stef - draws Silver, Silver, Silver, Remodel
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Silver, Silver
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Remodel
+Stef - trashes Trading Post
+Stef - gains Gold
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws City, Silver, Embassy, Silver, City
+ 
+---------- charlietuna: turn 14 ----------
+charlietuna - plays City
+charlietuna - draws Copper, Silver
+charlietuna - plays City
+charlietuna - draws Silver, Silver
+charlietuna - plays Fortress
+charlietuna - draws Vagrant
+charlietuna - plays Vagrant
+charlietuna - draws Trading Post
+charlietuna - reveals: Fortress
+charlietuna - places Fortress on top of deck
+charlietuna - plays Trading Post
+charlietuna - trashes Copper, Copper
+charlietuna - gains Silver
+charlietuna - plays 4 Silver
+charlietuna - plays Quarry
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - draws Fortress, Silver, City, Remodel, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays City
+Stef - draws Gold, City
+Stef - plays City
+Stef - draws Embassy, Smugglers
+Stef - plays Embassy
+Stef - draws Vagrant, Silver, City, Vagrant, Fortress
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays City
+Stef - draws City, Province
+Stef - plays City
+Stef - draws Fortress, Remodel
+Stef - plays Remodel
+Stef - trashes Fortress
+Stef - gains Gold
+Stef - plays Fortress
+Stef - draws Remodel
+Stef - plays Embassy
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Gold, Silver, Silver
+Stef - discards Province
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Silver
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Duchy
+Stef - plays 3 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Remodel, City, Embassy
+ 
+---------- charlietuna: turn 15 ----------
+charlietuna - plays City
+charlietuna - draws City, Silver
+charlietuna - plays City
+charlietuna - draws City, Copper
+charlietuna - plays City
+charlietuna - draws Silver, Province
+charlietuna - plays Remodel
+charlietuna - trashes Fortress
+charlietuna - gains Duchy
+charlietuna - plays Fortress
+charlietuna - draws Copper
+charlietuna - plays 4 Silver, 2 Copper
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - shuffles deck
+charlietuna - draws City, Silver, Silver, Copper, City
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws Smugglers, Province
+Stef - plays Embassy
+Stef - draws Gold, Fortress, Gold, Embassy, City
+Stef - discards Province
+Stef - discards Duchy
+Stef - discards Silver
+Stef - plays City
+Stef - draws City, Vagrant
+Stef - plays City
+Stef - draws City, Fortress
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays Embassy
+Stef - draws Silver, Vagrant, Remodel, Province
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - discards Province
+Stef - discards Duchy
+Stef - discards Smugglers
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Province
+Stef - reveals: Smugglers
+Stef - places Smugglers on top of deck
+Stef - plays City
+Stef - draws Smugglers, Duchy
+Stef - plays Fortress
+Stef - plays Fortress
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Remodel
+Stef - trashes Province
+Stef - gains Province
+Stef - plays 3 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Remodel, Fortress, City, Remodel, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 5 City, 2 Remodel, 2 Fortress, 2 Vagrant, 2 Embassy, 1 Smugglers, 3 Silver, 1 Gold, 4 Province, 2 Duchy
+Stef - total victory points: 30
+Stef - turns: 15
+ 
+charlietuna - cards: 5 City, 2 Fortress, 1 Vagrant, 1 Remodel, 1 Trading Post, 8 Silver, 2 Copper, 1 Quarry, 3 Province, 1 Duchy
+charlietuna - total victory points: 21
+charlietuna - turns: 15
+ 
+1st place: Stef
+2nd place: charlietuna
+ 

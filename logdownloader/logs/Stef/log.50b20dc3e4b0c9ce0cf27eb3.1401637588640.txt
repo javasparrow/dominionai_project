@@ -1,0 +1,804 @@
+------------ Game Setup ------------
+Supply cards: Loan, Swindler, Warehouse, Coppersmith, Herald, Navigator, Bandit Camp, Highway, Rogue, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+yed - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Swindler
+yed - gains Swindler
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Warehouse
+yed - gains Warehouse
+yed - shuffles deck
+yed - draws Copper, Copper, Warehouse, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Loan
+ 
+---------- yed: turn 3 ----------
+yed - plays Warehouse
+yed - draws Swindler, Copper, Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+yed - plays 3 Copper
+yed - buys Bandit Camp
+yed - gains Bandit Camp
+yed - draws Estate, Copper, Copper, Copper
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Swindler, Copper, Copper, Estate, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Swindler
+yed - gains Swindler
+yed - draws Estate, Warehouse, Copper, Copper, Bandit Camp
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+yed - reveals Swindler
+yed - trashes Swindler
+yed - gains Silver
+Stef - plays 2 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Copper, Copper, Loan, Swindler, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Bandit Camp
+yed - draws Copper
+yed - gains Spoils
+yed - plays Warehouse
+yed - draws Estate
+yed - shuffles deck
+yed - draws Copper, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays 4 Copper
+yed - buys Loan
+yed - gains Loan
+yed - draws Copper, Spoils, Swindler, Estate, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+yed - reveals Copper
+yed - trashes Copper
+yed - gains Curse
+Stef - plays Loan
+Stef - reveals Herald, Copper
+Stef - trashes Copper
+Stef - discards Herald
+Stef - plays 3 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Herald, Curse, Estate, Estate, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+yed - plays 1 Copper, 1 Silver
+yed - plays Spoils
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Province, Copper, Bandit Camp, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Swindler
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Swindler
+yed - reveals Silver
+yed - trashes Silver
+yed - gains Silver
+Stef - plays 1 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Loan, Herald, Estate, Copper, Highway
+ 
+---------- yed: turn 7 ----------
+yed - plays Bandit Camp
+yed - draws Swindler
+yed - gains Spoils
+yed - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+yed - plays 3 Copper
+yed - buys Highway
+yed - gains Highway
+yed - draws Copper, Estate, Warehouse, Estate, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Swindler
+Stef - plays Swindler
+yed - reveals Curse
+yed - trashes Curse
+yed - gains Curse
+Stef - plays Loan
+Stef - reveals Curse, Herald, Estate, Curse, Estate, Swindler
+Stef - discards: Curse, Herald, Estate, Curse, Estate, Swindler
+Stef - plays 3 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - shuffles deck
+Stef - draws Swindler, Estate, Loan, Estate, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Warehouse
+yed - draws Copper, Loan, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Estate
+yed - plays 3 Copper
+yed - plays Loan
+yed - shuffles deck
+yed - reveals Swindler, Estate, Highway, Estate, Spoils
+yed - discards Spoils
+yed - discards: Swindler, Estate, Highway, Estate
+yed - buys Swindler
+yed - gains Swindler
+yed - draws Province, Curse, Copper, Bandit Camp, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Swindler
+yed - reveals Silver
+yed - trashes Silver
+yed - gains Silver
+Stef - plays Loan
+Stef - reveals Swindler, Copper
+Stef - trashes Copper
+Stef - discards Swindler
+Stef - plays Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Highway, Herald, Rogue, Curse
+ 
+---------- yed: turn 9 ----------
+yed - plays Bandit Camp
+yed - draws Estate
+yed - gains Spoils
+yed - draws Copper
+yed - shuffles deck
+yed - draws Bandit Camp, Silver, Loan, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Rogue
+yed - reveals: Copper, Curse
+Stef - plays 1 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Herald
+Stef - shuffles deck
+Stef - draws Rogue, Curse, Estate, Estate
+ 
+---------- yed: turn 10 ----------
+yed - plays Bandit Camp
+yed - draws Warehouse
+yed - gains Spoils
+yed - plays Warehouse
+yed - draws Spoils, Estate, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays 1 Copper, 1 Silver
+yed - plays Loan
+yed - reveals Estate, Swindler, Swindler, Spoils
+yed - discards Spoils
+yed - discards: Estate, Swindler, Swindler
+yed - plays Spoils
+yed - buys Rogue
+yed - gains Rogue
+yed - draws Province, Copper, Copper, Copper, Highway
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Swindler
+Stef - plays Swindler
+yed - shuffles deck
+yed - reveals Copper
+yed - trashes Copper
+yed - gains Curse
+Stef - plays Swindler
+yed - reveals Bandit Camp
+yed - trashes Bandit Camp
+yed - gains Duchy
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Highway, Curse, Estate, Herald, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Highway
+yed - draws Rogue
+yed - plays Rogue
+yed - gains Bandit Camp
+yed - plays 3 Copper
+yed - buys Herald
+yed - overpays for Herald with 2 coins
+yed - places Bandit Camp on top of deck
+yed - places Curse on top of deck
+yed - gains Herald
+yed - draws Curse, Bandit Camp, Loan, Warehouse, Swindler
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Warehouse
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Warehouse
+Stef - draws Loan
+Stef - shuffles deck
+Stef - draws Estate, Swindler
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Swindler
+yed - reveals Copper
+yed - trashes Copper
+yed - gains Curse
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Herald, Curse, Swindler, Herald, Rogue, Estate, Estate, Estate, Curse
+Stef - discards: Herald, Curse, Swindler, Herald, Rogue, Estate, Estate, Estate, Curse
+Stef - plays 2 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Curse, Herald, Swindler, Copper, Estate
+ 
+---------- yed: turn 12 ----------
+yed - plays Bandit Camp
+yed - draws Estate
+yed - gains Spoils
+yed - plays Warehouse
+yed - draws Curse, Silver, Spoils
+yed - discards Estate
+yed - discards Curse
+yed - discards Curse
+yed - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+yed - plays 1 Silver
+yed - plays Loan
+yed - reveals Estate, Copper
+yed - trashes Copper
+yed - discards Estate
+yed - plays Spoils
+yed - buys Province
+yed - gains Province
+yed - draws Swindler, Estate, Spoils
+yed - shuffles deck
+yed - draws Rogue, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Warehouse
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Warehouse
+Stef - draws Loan, Swindler, Highway
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Swindler
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Swindler
+yed - reveals Duchy
+yed - trashes Duchy
+yed - gains Duchy
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Estate, Highway, Herald, Herald, Rogue, Herald, Curse, Estate, Estate, Curse, Swindler
+Stef - discards: Estate, Highway, Herald, Herald, Rogue, Herald, Curse, Estate, Estate, Curse, Swindler
+Stef - plays 2 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Estate, Herald, Copper, Estate, Highway
+ 
+---------- yed: turn 13 ----------
+yed - plays Rogue
+yed - gains Swindler
+yed - plays Spoils
+yed - buys Highway
+yed - gains Highway
+yed - draws Curse, Swindler, Bandit Camp, Estate, Highway
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Loan
+Stef - places Loan on top of deck
+Stef - plays Herald
+Stef - draws Loan
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Swindler
+yed - reveals Silver
+yed - trashes Silver
+yed - gains Loan
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Estate, Curse, Curse, Warehouse, Highway
+ 
+---------- yed: turn 14 ----------
+yed - plays Bandit Camp
+yed - draws Herald
+yed - gains Spoils
+yed - plays Herald
+yed - draws Curse
+yed - reveals: Copper
+yed - places Copper on top of deck
+yed - plays Highway
+yed - draws Copper
+yed - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Loan
+yed - plays Copper
+yed - buys Herald
+yed - gains Herald
+yed - draws Province, Copper, Province, Copper, Curse
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Rogue
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Highway
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Warehouse
+Stef - draws Loan, Swindler, Loan
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Curse
+Stef - plays Rogue
+yed - reveals: Spoils, Warehouse
+Stef - plays Swindler
+yed - reveals Loan
+yed - trashes Loan
+yed - gains Curse
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Herald, Highway, Herald, Estate, Curse, Estate, Estate
+Stef - discards: Herald, Highway, Herald, Estate, Curse, Estate, Estate
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Highway, Highway, Loan, Herald, Highway
+ 
+---------- yed: turn 15 ----------
+yed - shuffles deck
+yed - draws Estate, Highway, Estate, Curse, Spoils
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Highway
+Stef - draws Swindler
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Rogue
+Stef - plays Rogue
+yed - reveals: Copper, Rogue
+Stef - plays Herald
+Stef - draws Loan
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays Swindler
+yed - reveals Curse
+yed - trashes Curse
+yed - gains Curse
+Stef - plays Loan
+Stef - reveals Curse, Highway, Estate, Warehouse, Herald, Highway, Curse, Herald
+Stef - discards: Curse, Highway, Estate, Warehouse, Herald, Highway, Curse, Herald
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Highway, Herald, Estate, Highway, Curse
+ 
+---------- yed: turn 16 ----------
+yed - plays Highway
+yed - draws Bandit Camp
+yed - plays Bandit Camp
+yed - draws Province
+yed - gains Spoils
+yed - plays Spoils
+yed - buys Herald
+yed - gains Herald
+yed - draws Copper, Swindler, Estate, Curse, Swindler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Herald
+Stef - draws Rogue
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Loan
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Rogue
+yed - reveals: Loan, Province
+yed - trashes Province
+yed - discards Loan
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Loan
+Stef - reveals Estate, Loan
+Stef - trashes Loan
+Stef - discards Estate
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Herald, Warehouse, Herald, Swindler, Highway
+ 
+---------- yed: turn 17 ----------
+yed - plays Swindler
+Stef - reveals Herald
+Stef - trashes Herald
+Stef - gains Coppersmith
+yed - plays 1 Copper
+yed - buys Warehouse
+yed - gains Warehouse
+yed - draws Herald, Highway, Herald, Curse, Swindler
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Rogue
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Warehouse
+Stef - draws Loan, Highway, Herald
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Rogue
+Stef - gains Province
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Coppersmith
+Stef - plays Coppersmith
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Swindler
+yed - reveals Duchy
+yed - trashes Duchy
+yed - gains Curse
+Stef - plays Loan
+Stef - reveals Estate, Estate, Estate
+Stef - discards: Estate, Estate, Estate
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Highway, Province, Herald, Highway, Loan
+ 
+---------- yed: turn 18 ----------
+yed - plays Highway
+yed - draws Copper
+yed - plays Herald
+yed - draws Spoils
+yed - reveals: Warehouse
+yed - plays Warehouse
+yed - shuffles deck
+yed - draws Warehouse, Copper, Estate
+yed - discards Curse
+yed - discards Estate
+yed - discards Warehouse
+yed - plays Herald
+yed - draws Estate
+yed - reveals: Province
+yed - places Province on top of deck
+yed - plays Swindler
+Stef - reveals Rogue
+Stef - trashes Rogue
+Stef - gains Royal Seal
+yed - plays 2 Copper
+yed - plays Spoils
+yed - buys Province
+yed - gains Province
+yed - draws Province, Swindler, Highway, Curse, Estate
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Herald
+Stef - draws Warehouse
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Swindler
+Stef - plays Warehouse
+Stef - draws Herald, Coppersmith, Highway
+Stef - discards Province
+Stef - discards Province
+Stef - discards Curse
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Curse
+Stef - places Curse on top of deck
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Swindler
+yed - reveals Curse
+yed - trashes Curse
+yed - gains Curse
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Highway, Highway, Estate, Estate, Royal Seal
+Stef - discards Royal Seal
+Stef - discards: Highway, Highway, Estate, Estate
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Province, Curse
+Stef - shuffles deck
+Stef - draws Highway, Estate
+ 
+---------- yed: turn 19 ----------
+yed - plays Highway
+yed - draws Swindler
+yed - plays Swindler
+Stef - reveals Highway
+Stef - trashes Highway
+Stef - gains Royal Seal
+yed - buys Warehouse
+yed - gains Warehouse
+yed - draws Bandit Camp, Herald, Copper, Rogue, Spoils
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - draws Herald, Highway, Warehouse, Herald, Highway
+ 
+---------- yed: turn 20 ----------
+yed - plays Bandit Camp
+yed - draws Curse
+yed - gains Spoils
+yed - plays Herald
+yed - draws Loan
+yed - reveals: Curse
+yed - places Curse on top of deck
+yed - plays Rogue
+yed - gains Duchy
+yed - plays 1 Copper
+yed - plays Loan
+yed - shuffles deck
+yed - reveals Curse, Warehouse, Curse, Swindler, Spoils
+yed - discards Spoils
+yed - discards: Curse, Warehouse, Curse, Swindler
+yed - plays Spoils
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Curse, Warehouse, Swindler, Highway, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Coppersmith
+Stef - plays Coppersmith
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Herald
+Stef - draws Royal Seal
+Stef - reveals: Swindler
+Stef - plays Swindler
+yed - reveals Herald
+yed - trashes Herald
+yed - gains Coppersmith
+Stef - plays Warehouse
+Stef - draws Herald, Highway, Loan
+Stef - discards Province
+Stef - discards Curse
+Stef - discards Estate
+Stef - plays 1 Royal Seal
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Herald, Highway, Curse, Highway, Coppersmith
+ 
+---------- yed: turn 21 ----------
+yed - plays Highway
+yed - draws Copper
+yed - plays Warehouse
+yed - draws Warehouse, Duchy, Province
+yed - discards Province
+yed - discards Province
+yed - discards Duchy
+yed - plays Warehouse
+yed - draws Estate, Highway, Swindler
+yed - discards Curse
+yed - discards Estate
+yed - discards Swindler
+yed - plays Highway
+yed - draws Copper
+yed - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Loan
+yed - plays 2 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Estate, Estate, Herald, Curse
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Loan
+Stef - plays Herald
+Stef - draws Warehouse
+Stef - reveals: Royal Seal
+Stef - places Royal Seal on top of deck
+Stef - plays Warehouse
+Stef - draws Royal Seal, Curse, Estate
+Stef - discards Province
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays Royal Seal
+Stef - plays Loan
+Stef - reveals Royal Seal
+Stef - discards Royal Seal
+Stef - buys Province
+Stef - gains Province
+Stef - draws Highway, Herald, Province, Province, Estate
+ 
+---------- yed: turn 22 ----------
+yed - plays Herald
+yed - draws Duchy
+yed - reveals: Highway
+yed - plays Highway
+yed - draws Warehouse
+yed - plays Warehouse
+yed - draws Highway, Warehouse, Swindler
+yed - discards Duchy
+yed - discards Estate
+yed - discards Estate
+yed - plays Highway
+yed - draws Curse
+yed - plays Warehouse
+yed - draws Bandit Camp, Swindler, Duchy
+yed - discards Curse
+yed - discards Curse
+yed - discards Duchy
+yed - plays Bandit Camp
+yed - draws Rogue
+yed - gains Spoils
+yed - plays Swindler
+Stef - reveals Herald
+Stef - trashes Herald
+Stef - gains Coppersmith
+yed - plays Swindler
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Province
+yed - plays Rogue
+yed - gains Province
+yed - plays Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Estate, Spoils, Province, Loan, Province
+ 
+------------ Game Over ------------
+Stef - cards: 6 Highway, 2 Herald, 2 Coppersmith, 1 Warehouse, 2 Loan, 2 Royal Seal, 5 Province, 3 Estate, 2 Curse
+Stef - total victory points: 31
+Stef - turns: 21
+ 
+yed - cards: 3 Warehouse, 3 Swindler, 2 Herald, 2 Highway, 1 Bandit Camp, 1 Rogue, 1 Coppersmith, 3 Copper, 2 Spoils, 1 Loan, 4 Duchy, 3 Estate, 3 Province, 5 Curse
+yed - total victory points: 28
+yed - turns: 22
+ 
+1st place: Stef
+2nd place: yed
+ 

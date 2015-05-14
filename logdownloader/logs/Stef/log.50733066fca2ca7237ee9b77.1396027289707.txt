@@ -1,0 +1,472 @@
+------------ Game Setup ------------
+Supply cards: Haven, Fortune Teller, Woodcutter, Bureaucrat, Baker, Catacombs, City, Jester, Torturer, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+faust - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+faust - shuffles deck
+Stef - shuffles deck
+faust - draws Copper, Copper, Copper, Copper, Copper
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- faust: turn 1 ----------
+faust - plays 5 Copper
+faust - buys Torturer
+faust - gains Torturer
+faust - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- faust: turn 2 ----------
+faust - plays 2 Copper
+faust - uses 1 coin token
+faust - buys Silver
+faust - gains Silver
+faust - shuffles deck
+faust - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Estate, Copper, Jester, Copper, Copper
+ 
+---------- faust: turn 3 ----------
+faust - plays 3 Copper
+faust - buys Silver
+faust - gains Silver
+faust - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Jester
+faust - reveals Torturer
+faust - discards Torturer
+Stef - gains Torturer
+Stef - plays 3 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- faust: turn 4 ----------
+faust - plays 3 Copper, 1 Silver
+faust - buys Jester
+faust - gains Jester
+faust - draws Copper
+faust - shuffles deck
+faust - draws Silver, Copper, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Jester, Torturer, Estate
+ 
+---------- faust: turn 5 ----------
+faust - plays 3 Copper, 2 Silver
+faust - buys City
+faust - gains City
+faust - draws Estate, Jester, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Jester
+faust - reveals Estate
+faust - discards Estate
+faust - gains Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- faust: turn 6 ----------
+faust - plays Jester
+Stef - reveals Torturer
+Stef - discards Torturer
+faust - gains Torturer
+faust - buys Haven
+faust - gains Haven
+faust - draws Copper, Copper, Torturer
+faust - shuffles deck
+faust - draws Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Copper, Haven
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- faust: turn 7 ----------
+faust - plays Torturer
+faust - draws Estate, Haven, Copper
+Stef - discards Estate
+Stef - discards Copper
+faust - plays 4 Copper
+faust - buys Haven
+faust - gains Haven
+faust - draws Copper, Silver, Copper, Curse, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Copper
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - draws Copper, City, Silver, Jester, Copper
+ 
+---------- faust: turn 8 ----------
+faust - plays 3 Copper, 1 Silver
+faust - buys City
+faust - gains City
+faust - draws Estate, City, Jester, Silver, Torturer
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays City
+Stef - draws Copper
+Stef - plays Jester
+faust - shuffles deck
+faust - reveals City
+faust - discards City
+Stef - gains City
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate, Torturer, Torturer, Estate
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- faust: turn 9 ----------
+faust - plays City
+faust - draws Copper
+faust - plays Torturer
+faust - draws Copper, Copper, Estate
+Stef - discards Estate
+Stef - discards Estate
+faust - plays Jester
+Stef - reveals Haven
+Stef - discards Haven
+faust - gains Haven
+faust - plays 3 Copper, 1 Silver
+faust - buys City
+faust - gains City
+faust - draws Haven, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Torturer
+Stef - draws City, Copper, Copper
+faust - discards Estate
+faust - discards Copper
+Stef - draws Copper, Copper, City, Silver, Jester
+ 
+---------- faust: turn 10 ----------
+faust - plays Haven
+faust - draws Torturer
+faust - sets aside Torturer
+faust - draws Curse, Silver, Haven, Copper
+faust - shuffles deck
+faust - draws City
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Jester
+faust - reveals City
+faust - discards City
+Stef - gains City
+Stef - plays 3 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Haven, Copper, Torturer
+Stef - shuffles deck
+Stef - draws City
+ 
+---------- faust: turn 11 ----------
+faust - duration Haven
+faust - places set aside Torturer in hand
+faust - plays City
+faust - draws Estate
+faust - plays Torturer
+faust - draws Jester, City, Copper
+Stef - discards Copper
+Stef - discards Copper
+faust - plays Haven
+faust - draws Estate
+faust - sets aside City
+faust - plays Jester
+Stef - reveals City
+Stef - discards City
+faust - gains City
+faust - plays 2 Copper, 1 Silver
+faust - buys City
+faust - gains City
+faust - draws Silver, Copper, Torturer, Haven, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws City, Haven, Torturer
+faust - discards Haven
+faust - discards Copper
+Stef - plays City
+Stef - draws Copper
+Stef - plays Torturer
+Stef - draws Copper, Copper, Copper
+faust - discards Copper
+faust - discards Silver
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Torturer
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Silver
+Stef - plays 5 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Estate, City, Estate, Estate, Jester
+ 
+---------- faust: turn 12 ----------
+faust - duration Haven
+faust - places set aside City in hand
+faust - plays City
+faust - draws Copper, Estate
+faust - plays Torturer
+faust - draws Copper, Copper
+faust - shuffles deck
+faust - draws Estate
+Stef - discards Estate
+Stef - discards Estate
+faust - plays 3 Copper
+faust - buys Woodcutter
+faust - gains Woodcutter
+faust - draws Copper, City, Silver, Copper, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Haven
+Stef - places set aside Torturer in hand
+Stef - duration Haven
+Stef - places set aside Silver in hand
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Torturer
+Stef - draws Copper, Estate, City
+faust - discards Estate
+faust - discards Copper
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Copper, Estate
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws Torturer, Copper
+Stef - plays Torturer
+Stef - draws Torturer, Copper
+faust - gains Curse
+Stef - plays Jester
+faust - reveals City
+faust - discards City
+Stef - plays Torturer
+faust - discards Curse
+faust - discards Copper
+Stef - plays 7 Copper, 1 Silver
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - shuffles deck
+Stef - draws Copper, Estate, Torturer, Estate, Copper
+ 
+---------- faust: turn 13 ----------
+faust - plays City
+faust - draws Curse, Haven
+faust - plays Haven
+faust - draws Copper
+faust - sets aside Silver
+faust - draws Silver, City, Jester, Torturer, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Torturer
+Stef - draws Copper, Jester, Copper
+faust - discards Copper
+faust - discards Silver
+Stef - plays 4 Copper
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - draws Haven, Haven, Torturer, Copper, Torturer
+ 
+---------- faust: turn 14 ----------
+faust - duration Haven
+faust - places set aside Silver in hand
+faust - plays City
+faust - draws City, Haven
+faust - plays City
+faust - shuffles deck
+faust - draws Estate, Copper
+faust - plays Torturer
+faust - draws Silver, Copper, Torturer
+Stef - gains Curse
+faust - plays Torturer
+faust - draws Haven, Copper, Curse
+Stef - discards Curse
+Stef - discards Copper
+faust - plays Haven
+faust - draws Copper
+faust - sets aside Silver
+faust - plays Haven
+faust - draws Copper
+faust - sets aside Silver
+faust - plays Jester
+Stef - reveals Estate
+Stef - discards Estate
+Stef - gains Curse
+faust - plays 5 Copper
+faust - buys Torturer
+faust - gains Torturer
+faust - draws City, City, Woodcutter, Estate, City
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Haven
+Stef - draws Torturer
+Stef - sets aside Torturer
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Torturer
+Stef - plays Torturer
+Stef - draws Copper, City, City
+faust - gains Curse
+Stef - draws City, City, Silver, City
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- faust: turn 15 ----------
+faust - duration Haven
+faust - places set aside Silver in hand
+faust - duration Haven
+faust - places set aside Silver in hand
+faust - plays City
+faust - draws Curse, Copper
+faust - plays City
+faust - draws Copper, Estate
+faust - plays City
+faust - shuffles deck
+faust - draws City, Copper
+faust - plays City
+faust - draws Curse, Copper
+faust - plays Woodcutter
+faust - plays 4 Copper, 2 Silver
+faust - buys Baker
+faust - gains Baker
+faust - buys Torturer
+faust - gains Torturer
+faust - draws Copper, Estate, Copper, Torturer, Jester
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Torturer in hand
+Stef - duration Haven
+Stef - places set aside Torturer in hand
+Stef - plays City
+Stef - draws Torturer, Copper
+Stef - plays Torturer
+Stef - draws Copper, Curse, City
+faust - discards Estate
+faust - discards Jester
+Stef - plays City
+Stef - draws Copper, Jester
+Stef - plays Torturer
+Stef - draws Copper, Estate, City
+faust - discards Copper
+faust - discards Copper
+Stef - plays City
+Stef - draws Estate, Copper
+Stef - plays Torturer
+Stef - draws Copper, Estate, Torturer
+faust - discards Torturer
+Stef - plays City
+Stef - draws Curse, Woodcutter
+Stef - plays Jester
+faust - reveals City
+faust - discards City
+Stef - plays City
+Stef - plays Woodcutter
+Stef - plays 7 Copper, 1 Silver
+Stef - buys Tribute
+Stef - gains Tribute
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - shuffles deck
+Stef - draws Copper, Copper, City, Copper, Estate
+ 
+---------- faust: turn 16 ----------
+faust - draws Torturer, Haven, Torturer, Copper
+faust - shuffles deck
+faust - draws Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Torturer, Tribute
+Stef - plays Torturer
+Stef - draws Torturer, Estate, Copper
+faust - discards Copper
+faust - discards Estate
+Stef - plays Tribute
+faust - reveals: Jester, City
+Stef - receives 4 actions
+faust - discards: Jester, City
+Stef - plays Torturer
+Stef - draws Copper, Haven, City
+faust - gains Curse
+Stef - plays City
+Stef - draws Jester, Estate
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Copper
+Stef - plays Jester
+faust - reveals Copper
+faust - discards Copper
+faust - gains Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, City, City, Curse, Woodcutter
+ 
+---------- faust: turn 17 ----------
+faust - plays Haven
+faust - draws Woodcutter
+faust - sets aside Torturer
+faust - plays Torturer
+faust - draws Copper, City, Baker
+Stef - gains Curse
+faust - draws Torturer, Copper, Curse, Copper, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays City
+Stef - draws Torturer, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 5 Torturer, 4 City, 1 Woodcutter, 1 Tribute, 1 Jester, 1 Haven, 7 Copper, 1 Silver, 3 Estate, 1 Province, 3 Curse
+Stef - total victory points: 6
+Stef - turns: 16
+ 
+faust - resigned
+faust - cards: 5 City, 4 Torturer, 3 Haven, 1 Jester, 1 Woodcutter, 1 Baker, 8 Copper, 2 Silver, 3 Estate, 4 Curse
+faust - total victory points: -1
+faust - turns: 17
+ 
+1st place: Stef
+2nd place: faust
+ 

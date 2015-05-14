@@ -1,0 +1,655 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Scrying Pool, Develop, Lookout, Scheme, Monument, Catacombs, Counting House, Upgrade, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+qmech - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qmech - shuffles deck
+Stef - shuffles deck
+qmech - draws Estate, Copper, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- qmech: turn 1 ----------
+qmech - plays 3 Copper
+qmech - buys Develop
+qmech - gains Develop
+qmech - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- qmech: turn 2 ----------
+qmech - plays 4 Copper
+qmech - buys Potion
+qmech - gains Potion
+qmech - shuffles deck
+qmech - draws Estate, Develop, Potion, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Upgrade, Copper
+ 
+---------- qmech: turn 3 ----------
+qmech - plays Develop
+qmech - trashes Estate
+qmech - gains Silver
+qmech - plays 2 Copper, 1 Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Scheme
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Hamlet, Estate, Estate
+ 
+---------- qmech: turn 4 ----------
+qmech - plays 3 Copper, 1 Silver
+qmech - buys Upgrade
+qmech - gains Upgrade
+qmech - draws Estate, Copper, Copper
+qmech - shuffles deck
+qmech - draws Upgrade, Potion
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Scheme
+ 
+---------- qmech: turn 5 ----------
+qmech - plays Upgrade
+qmech - draws Silver
+qmech - trashes Estate
+qmech - gains Scheme
+qmech - plays Silver
+qmech - plays Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - draws Copper, Copper, Copper, Scrying Pool, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Scheme
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Copper, Copper, Upgrade
+ 
+---------- qmech: turn 6 ----------
+qmech - plays Scrying Pool
+qmech - places Copper on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Copper
+qmech - plays 5 Copper
+qmech - buys Upgrade
+qmech - gains Upgrade
+qmech - draws Develop, Estate
+qmech - shuffles deck
+qmech - draws Copper, Copper, Upgrade
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Potion
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Upgrade
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Upgrade
+Stef - shuffles deck
+Stef - draws Estate, Hamlet, Copper
+ 
+---------- qmech: turn 7 ----------
+qmech - plays Upgrade
+qmech - draws Scrying Pool
+qmech - trashes Copper
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - places Copper on top of deck
+qmech - reveals Silver
+qmech - plays Develop
+qmech - trashes Estate
+qmech - gains Scheme
+qmech - plays Silver
+qmech - buys Hamlet
+qmech - gains Hamlet
+qmech - draws Scheme, Upgrade, Scheme, Potion, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Develop
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - Scheme choice: Upgrade
+Stef - draws Upgrade, Copper, Potion, Estate, Scheme
+ 
+---------- qmech: turn 8 ----------
+qmech - plays Scheme
+qmech - draws Scrying Pool
+qmech - plays Scheme
+qmech - draws Copper
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - discards Hamlet
+qmech - reveals Copper
+qmech - plays Upgrade
+qmech - shuffles deck
+qmech - draws Copper
+qmech - trashes Copper
+qmech - plays 3 Copper, 1 Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - Scheme choice: Upgrade
+qmech - Scheme choice: Scrying Pool
+qmech - draws Scrying Pool, Upgrade, Silver, Upgrade, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - discards Copper
+qmech - places Copper on top of deck
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - plays Upgrade
+Stef - draws Develop
+Stef - trashes Estate
+Stef - gains Scheme
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Upgrade
+Stef - draws Upgrade, Copper, Copper, Copper, Hamlet
+ 
+---------- qmech: turn 9 ----------
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - discards Monument
+qmech - shuffles deck
+qmech - reveals Scrying Pool, Develop, Hamlet, Scrying Pool, Scheme, Copper
+qmech - plays Hamlet
+qmech - draws Copper
+qmech - discards Copper
+qmech - receives one action
+qmech - discards Copper
+qmech - receives one buy
+qmech - plays Upgrade
+qmech - draws Copper
+qmech - trashes Copper
+qmech - plays Scrying Pool
+qmech - places Potion on top of deck
+Stef - discards Hamlet
+qmech - reveals Potion
+qmech - plays Develop
+qmech - trashes Upgrade
+qmech - gains Gold
+qmech - gains Monument
+qmech - plays Scrying Pool
+qmech - places Monument on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Monument, Gold
+qmech - plays Scheme
+qmech - draws Copper
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays 2 Copper, 1 Silver, 1 Potion, 1 Gold
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - buys Hamlet
+qmech - gains Hamlet
+qmech - Scheme choice: Scrying Pool
+qmech - draws Scrying Pool, Scheme
+qmech - shuffles deck
+qmech - draws Monument, Hamlet, Scrying Pool
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Hamlet
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Scrying Pool
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+qmech - places Silver on top of deck
+Stef - reveals Scrying Pool, Scheme, Copper
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+qmech - places Silver on top of deck
+Stef - reveals Scheme, Monument, Potion
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Develop
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Upgrade
+Stef - draws Upgrade, Scrying Pool, Scrying Pool
+Stef - shuffles deck
+Stef - draws Scheme, Scheme
+ 
+---------- qmech: turn 10 ----------
+qmech - plays Scheme
+qmech - draws Silver
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - places Potion on top of deck
+qmech - reveals Copper
+qmech - plays Scrying Pool
+qmech - places Upgrade on top of deck
+Stef - places Potion on top of deck
+qmech - reveals Upgrade, Scrying Pool, Gold
+qmech - plays Scrying Pool
+qmech - places Scheme on top of deck
+Stef - places Potion on top of deck
+qmech - reveals Scheme, Copper
+qmech - plays Upgrade
+qmech - draws Scrying Pool
+qmech - trashes Gold
+qmech - plays Scheme
+qmech - draws Hamlet
+qmech - plays Scrying Pool
+qmech - places Develop on top of deck
+Stef - places Potion on top of deck
+qmech - reveals Develop, Copper
+qmech - plays Hamlet
+qmech - draws Potion
+qmech - discards Copper
+qmech - receives one action
+qmech - discards Copper
+qmech - receives one buy
+qmech - plays Develop
+qmech - trashes Silver
+qmech - gains Monument
+qmech - gains Hamlet
+qmech - plays Hamlet
+qmech - draws Hamlet
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Copper
+qmech - receives one action
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - buys Hamlet
+qmech - gains Hamlet
+qmech - Scheme choice: Scrying Pool
+qmech - Scheme choice: Upgrade
+qmech - draws Upgrade, Scrying Pool
+qmech - shuffles deck
+qmech - draws Hamlet, Develop, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scrying Pool
+Stef - discards Potion
+qmech - discards Monument
+Stef - reveals Copper
+Stef - plays Scrying Pool
+Stef - places Monument on top of deck
+qmech - places Copper on top of deck
+Stef - reveals Monument, Copper
+Stef - plays Scheme
+Stef - draws Hamlet
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Upgrade
+Stef - draws Scheme
+Stef - trashes Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Develop on top of deck
+qmech - places Copper on top of deck
+Stef - reveals Develop, Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 4 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - draws Scrying Pool, Scrying Pool, Scrying Pool, Hamlet
+Stef - shuffles deck
+Stef - draws Upgrade
+ 
+---------- qmech: turn 11 ----------
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - places Copper on top of deck
+qmech - reveals Potion
+qmech - plays Upgrade
+qmech - draws Hamlet
+qmech - trashes Copper
+qmech - plays Hamlet
+qmech - draws Scheme
+qmech - plays Scheme
+qmech - draws Scrying Pool
+qmech - plays Scrying Pool
+qmech - places Scrying Pool on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Scrying Pool, Copper
+qmech - plays Scrying Pool
+qmech - places Scrying Pool on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Scrying Pool, Scheme, Copper
+qmech - plays Scrying Pool
+qmech - places Scrying Pool on top of deck
+Stef - places Copper on top of deck
+qmech - shuffles deck
+qmech - reveals Scrying Pool, Monument, Hamlet, Hamlet, Copper
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Develop
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - shuffles deck
+qmech - draws Monument
+qmech - discards Scheme
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Scrying Pool
+qmech - places Develop on top of deck
+Stef - places Copper on top of deck
+qmech - shuffles deck
+qmech - reveals Develop, Monument, Scheme
+qmech - plays Develop
+qmech - trashes Scheme
+qmech - gains Monument
+qmech - gains Hamlet
+qmech - plays Hamlet
+qmech - draws Hamlet
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Copper
+qmech - receives one action
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays 2 Copper, 1 Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - buys Monument
+qmech - gains Monument
+qmech - buys Hamlet
+qmech - gains Hamlet
+qmech - Scheme choice: Scrying Pool
+qmech - draws Scrying Pool
+qmech - shuffles deck
+qmech - draws Hamlet, Scrying Pool, Hamlet, Scrying Pool
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+qmech - discards Scrying Pool
+Stef - reveals Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+qmech - discards Monument
+Stef - reveals Upgrade, Develop, Monument, Hamlet, Potion
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+qmech - places Copper on top of deck
+Stef - reveals Scheme, Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Develop
+Stef - trashes Scheme
+Stef - gains Monument
+Stef - gains Hamlet
+Stef - plays Upgrade
+Stef - draws Hamlet
+Stef - trashes Potion
+Stef - gains Duchy
+Stef - plays Hamlet
+Stef - draws Monument
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - draws Scrying Pool, Scrying Pool
+Stef - shuffles deck
+Stef - draws Upgrade, Hamlet, Monument
+ 
+---------- qmech: turn 12 ----------
+qmech - plays Scrying Pool
+qmech - discards Copper
+Stef - places Copper on top of deck
+qmech - reveals Monument, Hamlet, Upgrade, Scrying Pool, Monument, Potion
+qmech - plays Scrying Pool
+qmech - places Hamlet on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Hamlet, Develop, Copper
+qmech - plays Scrying Pool
+qmech - places Scrying Pool on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Scrying Pool, Copper
+qmech - plays Scrying Pool
+qmech - places Hamlet on top of deck
+Stef - places Copper on top of deck
+qmech - shuffles deck
+qmech - reveals Hamlet, Scheme, Hamlet, Monument, Scrying Pool, Copper
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - shuffles deck
+qmech - draws Monument
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - shuffles deck
+qmech - draws Monument
+qmech - discards Upgrade
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Develop
+qmech - trashes Scheme
+qmech - gains Monument
+qmech - gains Hamlet
+qmech - plays Scrying Pool
+qmech - places Hamlet on top of deck
+Stef - places Copper on top of deck
+qmech - shuffles deck
+qmech - reveals Hamlet, Monument, Monument, Monument, Monument, Monument, Upgrade
+qmech - plays Hamlet
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - shuffles deck
+qmech - draws Monument
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Hamlet
+qmech - draws Monument
+qmech - discards Monument
+qmech - receives one action
+qmech - discards Monument
+qmech - receives one buy
+qmech - plays Scrying Pool
+qmech - shuffles deck
+qmech - places Monument on top of deck
+Stef - places Copper on top of deck
+qmech - reveals Monument, Monument, Monument, Monument
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Monument
+qmech - receives 1 victory point chips
+qmech - plays Upgrade
+qmech - trashes Copper
+qmech - plays 2 Copper, 1 Potion
+qmech - buys Scrying Pool
+qmech - gains Scrying Pool
+qmech - buys Province
+qmech - gains Province
+qmech - shuffles deck
+qmech - draws Hamlet, Monument, Monument, Upgrade, Monument
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+qmech - places Develop on top of deck
+Stef - reveals Hamlet, Upgrade, Monument, Copper
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+qmech - places Develop on top of deck
+Stef - reveals Scheme, Scheme, Upgrade, Scrying Pool, Develop, Hamlet, Copper
+Stef - plays Upgrade
+Stef - draws Duchy
+Stef - trashes Scheme
+Stef - gains Monument
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Develop
+Stef - receives one action
+Stef - discards Scheme
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Monument
+Stef - discards Monument
+Stef - receives one action
+Stef - discards Monument
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Develop
+Stef - discards Monument
+Stef - receives one action
+Stef - discards Upgrade
+Stef - receives one buy
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+qmech - places Develop on top of deck
+Stef - shuffles deck
+Stef - reveals Scheme, Monument, Monument, Upgrade, Monument
+Stef - plays Upgrade
+Stef - trashes Scheme
+Stef - gains Monument
+Stef - plays Develop
+Stef - trashes Upgrade
+Stef - gains Farmland
+Stef - gains Monument
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Monument, Farmland
+Stef - shuffles deck
+Stef - draws Monument, Hamlet, Upgrade
+ 
+------------ Game Over ------------
+Stef - cards: 5 Monument, 3 Hamlet, 3 Scrying Pool, 2 Upgrade, 1 Develop, 3 Copper, 1 Farmland, 1 Duchy, 1 Province
+Stef - victory point chips: 7
+Stef - total victory points: 18
+Stef - turns: 12
+ 
+qmech - cards: 7 Hamlet, 7 Scrying Pool, 5 Monument, 1 Upgrade, 1 Develop, 2 Copper, 1 Potion, 1 Province
+qmech - victory point chips: 11
+qmech - total victory points: 17
+qmech - turns: 12
+ 
+1st place: Stef
+2nd place: qmech
+ 

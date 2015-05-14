@@ -1,0 +1,545 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Shanty Town, Trade Route, Workshop, Death Cart, Spice Merchant, Explorer, Festival, Rabble, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ruroi - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 4 Copper
+ruroi - buys Spice Merchant
+ruroi - gains Spice Merchant
+ruroi - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - shuffles deck
+ruroi - draws Copper, Copper, Spice Merchant, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Estate, Spice Merchant, Copper, Copper
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Silver, Copper
+ruroi - plays 2 Copper, 1 Silver
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Shanty Town, Copper, Estate
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays 4 Copper
+ruroi - buys Shanty Town
+ruroi - gains Shanty Town
+ruroi - shuffles deck
+ruroi - draws Shanty Town, Copper, Spice Merchant, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Shanty Town
+Stef - reveals Copper, Estate, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 2 Copper
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Copper, Estate
+ruroi - plays Shanty Town
+ruroi - reveals Copper, Silver, Copper, Estate
+ruroi - draws Copper, Estate
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Rabble
+ruroi - gains Rabble
+ruroi - draws Silver, Copper, Estate, Copper
+ruroi - shuffles deck
+ruroi - draws Shanty Town
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - shuffles deck
+Stef - draws Trade Route, Silver, Festival, Copper, Shanty Town
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays Shanty Town
+ruroi - reveals Silver, Copper, Estate, Copper
+ruroi - draws Copper, Copper
+ruroi - plays 4 Copper, 1 Silver
+ruroi - buys Festival
+ruroi - gains Festival
+ruroi - draws Silver, Spice Merchant, Estate, Rabble, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Festival
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays Shanty Town
+Stef - reveals Silver
+Stef - draws Spice Merchant, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Copper, Estate, Copper, Estate
+Stef - shuffles deck
+Stef - draws Spice Merchant
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Estate
+ruroi - shuffles deck
+ruroi - draws Festival
+ruroi - plays Festival
+ruroi - plays Rabble
+ruroi - draws Copper, Shanty Town, Estate
+Stef - reveals Estate, Trade Route, Festival
+Stef - discards: Trade Route, Festival
+Stef - places Estate on top of deck
+ruroi - plays Shanty Town
+ruroi - reveals Silver, Estate, Estate, Copper, Estate
+ruroi - draws Silver, Copper
+ruroi - plays 2 Silver, 2 Copper
+ruroi - buys Trade Route
+ruroi - gains Trade Route
+ruroi - buys Festival
+ruroi - gains Festival
+ruroi - draws Copper, Copper
+ruroi - shuffles deck
+ruroi - draws Copper, Shanty Town, Festival
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Estate, Copper
+Stef - plays 2 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Festival, Silver, Shanty Town
+Stef - shuffles deck
+Stef - draws Festival, Copper
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays Festival
+ruroi - plays Shanty Town
+ruroi - reveals Copper, Copper, Copper
+ruroi - draws Spice Merchant, Copper
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Rabble, Trade Route
+ruroi - plays Rabble
+ruroi - draws Festival, Silver, Estate
+Stef - reveals Copper, Estate, Spice Merchant
+Stef - discards: Copper, Spice Merchant
+Stef - places Estate on top of deck
+ruroi - plays Festival
+ruroi - plays Trade Route
+ruroi - trashes Estate
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Rabble
+ruroi - gains Rabble
+ruroi - buys Shanty Town
+ruroi - gains Shanty Town
+ruroi - draws Estate, Silver, Estate
+ruroi - shuffles deck
+ruroi - draws Festival, Festival
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Shanty Town
+Stef - reveals Silver, Copper
+Stef - draws Estate, Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - draws Trade Route, Candlestick Maker, Estate
+Stef - shuffles deck
+Stef - draws Estate, Estate
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays Festival
+ruroi - plays Festival
+ruroi - plays 1 Silver
+ruroi - buys Rabble
+ruroi - gains Rabble
+ruroi - draws Copper, Copper, Trade Route, Rabble, Shanty Town
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - draws Copper, Festival, Shanty Town, Rabble, Silver
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Shanty Town
+ruroi - reveals Copper, Copper, Trade Route, Rabble
+ruroi - plays Rabble
+ruroi - draws Rabble, Spice Merchant, Silver
+Stef - reveals Festival, Spice Merchant, Copper
+Stef - discards: Festival, Spice Merchant, Copper
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Copper, Shanty Town
+ruroi - plays Shanty Town
+ruroi - reveals Copper, Trade Route, Rabble, Silver, Copper
+ruroi - plays Rabble
+ruroi - shuffles deck
+ruroi - draws Festival, Festival, Rabble
+Stef - shuffles deck
+Stef - reveals Copper, Estate, Estate
+Stef - discards Copper
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+ruroi - plays Festival
+ruroi - plays Festival
+ruroi - plays Rabble
+ruroi - draws Silver, Estate, Estate
+Stef - reveals Estate, Estate, Candlestick Maker
+Stef - discards Candlestick Maker
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+ruroi - plays Trade Route
+ruroi - trashes Estate
+ruroi - plays 2 Copper, 2 Silver
+ruroi - buys Farmland
+ruroi - trashes Estate
+ruroi - gains Death Cart
+ruroi - gains Survivors
+ruroi - gains Ruined Village
+ruroi - gains Farmland
+ruroi - buys Candlestick Maker
+ruroi - gains Candlestick Maker
+ruroi - buys Candlestick Maker
+ruroi - gains Candlestick Maker
+ruroi - shuffles deck
+ruroi - draws Copper, Ruined Village, Spice Merchant, Shanty Town, Rabble
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Estate, Estate, Festival
+ruroi - reveals Rabble, Trade Route, Rabble
+ruroi - discards: Rabble, Trade Route, Rabble
+Stef - plays Festival
+Stef - plays Shanty Town
+Stef - reveals Copper, Silver, Estate, Estate
+Stef - draws Trade Route, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Festival
+Stef - gains Festival
+Stef - shuffles deck
+Stef - draws Festival, Trade Route, Estate, Rabble, Spice Merchant
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Silver, Farmland
+ruroi - plays Shanty Town
+ruroi - reveals Ruined Village, Rabble, Silver, Farmland
+ruroi - plays Rabble
+ruroi - draws Shanty Town, Survivors, Candlestick Maker
+Stef - reveals Festival, Shanty Town, Silver
+Stef - discards: Festival, Shanty Town, Silver
+ruroi - plays Candlestick Maker
+ruroi - receives 1 coin token
+ruroi - plays Survivors
+ruroi - looks at Candlestick Maker, Festival
+ruroi - places Festival on top of deck
+ruroi - places Candlestick Maker on top of deck
+ruroi - plays 1 Silver
+ruroi - draws Candlestick Maker, Festival, Festival, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Copper, Candlestick Maker, Festival
+ruroi - reveals Death Cart
+ruroi - shuffles deck
+ruroi - reveals Spice Merchant, Trade Route
+ruroi - discards: Death Cart, Spice Merchant, Trade Route
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - draws Silver, Shanty Town
+Stef - shuffles deck
+Stef - draws Rabble, Festival, Candlestick Maker
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays Festival
+ruroi - plays Festival
+ruroi - plays Candlestick Maker
+ruroi - receives 1 coin token
+ruroi - plays 1 Copper, 1 Silver
+ruroi - buys Festival
+ruroi - gains Festival
+ruroi - draws Ruined Village, Farmland, Survivors, Rabble, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Festival, Rabble, Festival
+ruroi - reveals Rabble, Rabble, Shanty Town
+ruroi - discards: Rabble, Rabble, Shanty Town
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Spice Merchant, Festival, Trade Route
+ruroi - reveals Candlestick Maker, Shanty Town
+ruroi - shuffles deck
+ruroi - reveals Festival
+ruroi - discards: Candlestick Maker, Shanty Town, Festival
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Silver
+Stef - uses 1 coin token
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Farmland
+Stef - trashes Trade Route
+Stef - gains Rabble
+Stef - gains Farmland
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Rabble, Festival, Festival, Festival
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Rabble
+ruroi - draws Shanty Town, Spice Merchant, Rabble
+Stef - reveals Rabble, Silver, Rabble
+Stef - discards: Rabble, Silver, Rabble
+ruroi - draws Festival, Candlestick Maker, Death Cart, Silver, Trade Route
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Shanty Town, Festival, Festival
+ruroi - reveals Rabble, Copper, Festival
+ruroi - discards: Rabble, Copper, Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Shanty Town
+Stef - reveals 
+Stef - draws Farmland, Spice Merchant
+Stef - buys Farmland
+Stef - trashes Spice Merchant
+Stef - gains Gold
+Stef - gains Farmland
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Candlestick Maker
+Stef - shuffles deck
+Stef - draws Festival, Farmland, Festival, Festival
+ 
+---------- ruroi: turn 14 ----------
+ruroi - plays Candlestick Maker
+ruroi - receives 1 coin token
+ruroi - plays Festival
+ruroi - plays Death Cart
+ruroi - trashes Trade Route
+ruroi - plays 1 Silver
+ruroi - buys Province
+ruroi - gains Province
+ruroi - shuffles deck
+ruroi - draws Festival, Farmland, Candlestick Maker, Festival, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Rabble, Rabble, Silver, Festival, Festival
+ 
+---------- ruroi: turn 15 ----------
+ruroi - plays Festival
+ruroi - plays Festival
+ruroi - plays Candlestick Maker
+ruroi - receives 1 coin token
+ruroi - plays 1 Copper
+ruroi - uses 1 coin token
+ruroi - buys Farmland
+ruroi - trashes Farmland
+ruroi - gains Province
+ruroi - gains Farmland
+ruroi - draws Silver, Ruined Village, Candlestick Maker, Province, Shanty Town
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Rabble
+Stef - draws Gold, Province, Shanty Town
+ruroi - reveals Festival, Rabble, Survivors
+ruroi - discards: Festival, Rabble, Survivors
+Stef - plays Rabble
+Stef - draws Festival, Rabble, Farmland
+ruroi - reveals Rabble, Death Cart, Rabble
+ruroi - discards: Rabble, Death Cart, Rabble
+Stef - plays Festival
+Stef - plays Rabble
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Festival, Festival
+ruroi - reveals Spice Merchant, Silver, Shanty Town
+ruroi - discards: Spice Merchant, Silver, Shanty Town
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Shanty Town
+Stef - reveals Silver, Gold, Province, Farmland
+Stef - draws Farmland, Province
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Province, Silver, Farmland, Candlestick Maker
+ 
+---------- ruroi: turn 16 ----------
+ruroi - plays Candlestick Maker
+ruroi - receives 1 coin token
+ruroi - plays Ruined Village
+ruroi - plays Shanty Town
+ruroi - reveals Silver, Province
+ruroi - shuffles deck
+ruroi - draws Rabble, Shanty Town
+ruroi - plays Rabble
+ruroi - draws Province, Festival, Survivors
+Stef - reveals Rabble, Province, Rabble
+Stef - discards: Rabble, Rabble
+Stef - places Province on top of deck
+ruroi - plays Festival
+ruroi - plays Survivors
+ruroi - looks at Rabble, Festival
+ruroi - places Festival on top of deck
+ruroi - places Rabble on top of deck
+ruroi - plays Shanty Town
+ruroi - reveals Silver, Province, Province
+ruroi - draws Rabble, Festival
+ruroi - plays Festival
+ruroi - plays Rabble
+ruroi - draws Copper, Spice Merchant, Silver
+Stef - reveals Province, Province, Province
+Stef - places Province on top of deck
+Stef - places Province on top of deck
+Stef - places Province on top of deck
+ruroi - plays Spice Merchant
+ruroi - trashes Copper
+ruroi - chooses two cards and one action
+ruroi - draws Farmland, Death Cart
+ruroi - plays Death Cart
+ruroi - trashes Death Cart
+ruroi - plays 2 Silver
+ruroi - uses 4 coin tokens
+ruroi - buys Province
+ruroi - gains Province
+ruroi - buys Province
+ruroi - gains Province
+ruroi - draws Candlestick Maker, Rabble, Festival
+ruroi - shuffles deck
+ruroi - draws Province, Shanty Town
+ 
+------------ Game Over ------------
+Stef - cards: 6 Festival, 3 Rabble, 2 Shanty Town, 1 Candlestick Maker, 1 Silver, 1 Gold, 4 Province, 2 Farmland
+Stef - total victory points: 28
+Stef - turns: 15
+ 
+ruroi - cards: 3 Rabble, 3 Festival, 2 Candlestick Maker, 2 Shanty Town, 1 Survivors, 1 Ruined Village, 1 Spice Merchant, 2 Silver, 4 Province, 1 Farmland
+ruroi - total victory points: 26
+ruroi - turns: 16
+ 
+1st place: Stef
+2nd place: ruroi
+ 

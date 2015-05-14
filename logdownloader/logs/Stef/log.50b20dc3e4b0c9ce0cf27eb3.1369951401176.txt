@@ -1,0 +1,665 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Haven, Moat, Lookout, Swindler, Bureaucrat, Spy, Counterfeit, Mine, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+heron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+heron - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+heron - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- heron: turn 1 ----------
+heron - plays 4 Copper
+heron - buys Swindler
+heron - gains Swindler
+heron - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Swindler, Estate, Estate, Copper
+ 
+---------- heron: turn 2 ----------
+heron - plays 3 Copper
+heron - buys Swindler
+heron - gains Swindler
+heron - shuffles deck
+heron - draws Estate, Copper, Swindler, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Swindler
+heron - reveals Copper
+heron - trashes Copper
+heron - gains Curse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- heron: turn 3 ----------
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 2 Copper
+heron - buys Silver
+heron - gains Silver
+heron - draws Copper, Estate, Copper, Copper, Swindler
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Curse, Estate, Swindler
+ 
+---------- heron: turn 4 ----------
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 3 Copper
+heron - buys Counterfeit
+heron - gains Counterfeit
+heron - draws Copper
+heron - shuffles deck
+heron - draws Copper, Swindler, Copper, Counterfeit
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+heron - reveals Copper
+heron - trashes Copper
+heron - gains Curse
+Stef - plays 1 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Counterfeit, Copper, Silver, Copper, Copper
+ 
+---------- heron: turn 5 ----------
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays Counterfeit
+heron - plays Copper
+heron - plays Copper
+heron - trashes Copper
+heron - plays 2 Copper
+heron - buys Gold
+heron - gains Gold
+heron - draws Swindler, Copper, Estate, Estate, Curse
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Spy, Estate
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper
+ 
+---------- heron: turn 6 ----------
+heron - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+heron - plays 1 Copper
+heron - buys Lookout
+heron - gains Lookout
+heron - draws Silver, Copper, Estate
+heron - shuffles deck
+heron - draws Curse, Curse
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Spy
+Stef - draws Spy
+Stef - discards Estate
+heron - discards Swindler
+Stef - plays Spy
+Stef - draws Silver
+Stef - discards Estate
+heron - discards Swindler
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Swindler, Curse, Curse, Lookout, Curse
+ 
+---------- heron: turn 7 ----------
+heron - plays 1 Silver, 1 Copper
+heron - buys Silver
+heron - gains Silver
+heron - draws Counterfeit, Gold, Copper, Lookout, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Counterfeit on top of deck
+Stef - plays Swindler
+heron - reveals Estate
+heron - trashes Estate
+heron - gains Estate
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Counterfeit, Spy, Spy, Estate, Silver
+ 
+---------- heron: turn 8 ----------
+heron - plays Counterfeit
+heron - plays Copper
+heron - plays Copper
+heron - trashes Copper
+heron - plays 1 Gold, 1 Copper
+heron - buys Bureaucrat
+heron - gains Bureaucrat
+heron - buys Silver
+heron - gains Silver
+heron - draws Estate, Copper
+heron - shuffles deck
+heron - draws Swindler, Bureaucrat, Curse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Spy
+Stef - draws Copper
+Stef - discards Curse
+heron - places Curse on top of deck
+Stef - plays Spy
+Stef - draws Silver
+Stef - places Peddler on top of deck
+heron - places Curse on top of deck
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Peddler, Estate
+Stef - shuffles deck
+Stef - draws Counterfeit, Curse, Haven
+ 
+---------- heron: turn 9 ----------
+heron - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+heron - plays 1 Copper
+heron - buys Silver
+heron - gains Silver
+heron - draws Curse, Silver, Counterfeit, Copper, Lookout
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Peddler
+Stef - draws Swindler
+Stef - plays Haven
+Stef - draws Curse
+Stef - sets aside Curse
+Stef - plays Swindler
+heron - reveals Swindler
+heron - trashes Swindler
+heron - gains Swindler
+Stef - plays Counterfeit
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Estate, Spy, Curse, Peddler
+ 
+---------- heron: turn 10 ----------
+heron - plays Lookout
+heron - trashes Estate
+heron - discards Silver
+heron - places Gold on top of deck
+heron - plays Counterfeit
+heron - plays Silver
+heron - plays Silver
+heron - trashes Silver
+heron - plays 1 Copper
+heron - buys Gold
+heron - gains Gold
+heron - draws Gold, Estate, Copper, Silver
+heron - shuffles deck
+heron - draws Swindler
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Curse in hand
+Stef - plays Spy
+Stef - draws Peddler
+Stef - discards Copper
+heron - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Peddler
+Stef - draws Silver
+Stef - plays Spy
+Stef - draws Lookout
+Stef - shuffles deck
+Stef - places Counterfeit on top of deck
+heron - places Copper on top of deck
+Stef - plays Lookout
+Stef - trashes Swindler
+Stef - discards Peddler
+Stef - places Counterfeit on top of deck
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Counterfeit, Copper, Curse, Estate, Peddler
+ 
+---------- heron: turn 11 ----------
+heron - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+heron - plays 1 Gold, 1 Copper, 1 Silver
+heron - buys Province
+heron - gains Province
+heron - draws Copper, Silver, Bureaucrat, Silver, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Peddler, Peddler, Lookout, Spy
+ 
+---------- heron: turn 12 ----------
+heron - plays Bureaucrat
+heron - gains Silver
+Stef - reveals Copper, Peddler, Peddler, Lookout, Spy
+heron - plays 2 Silver, 1 Copper
+heron - buys Spy
+heron - gains Spy
+heron - draws Silver, Counterfeit, Gold, Curse, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Spy
+Stef - draws Curse
+Stef - places Curse on top of deck
+heron - places Copper on top of deck
+Stef - plays Lookout
+Stef - trashes Curse
+Stef - discards Haven
+Stef - places Spy on top of deck
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Spy
+Stef - places Peddler on top of deck
+heron - places Copper on top of deck
+Stef - plays Spy
+Stef - draws Peddler
+Stef - discards Curse
+heron - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Silver
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Counterfeit
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Province
+Stef - gains Province
+Stef - draws Peddler, Peddler, Curse, Estate, Estate
+ 
+---------- heron: turn 13 ----------
+heron - plays Counterfeit
+heron - plays Silver
+heron - plays Silver
+heron - trashes Silver
+heron - plays 1 Gold
+heron - buys Province
+heron - gains Province
+heron - draws Copper, Lookout, Swindler
+heron - shuffles deck
+heron - draws Curse, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Peddler
+Stef - draws Haven
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Peddler
+Stef - sets aside Estate
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Spy on top of deck
+heron - discards Silver
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Lookout
+Stef - discards Counterfeit
+heron - discards Counterfeit
+Stef - plays Lookout
+Stef - trashes Silver
+Stef - discards Peddler
+Stef - places Spy on top of deck
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Spy, Peddler, Curse, Province
+Stef - shuffles deck
+Stef - draws Swindler
+ 
+---------- heron: turn 14 ----------
+heron - plays Lookout
+heron - trashes Spy
+heron - discards Silver
+heron - places Bureaucrat on top of deck
+heron - plays Swindler
+Stef - reveals Peddler
+Stef - trashes Peddler
+Stef - gains Peddler
+heron - plays 1 Copper, 1 Gold
+heron - buys Duchy
+heron - gains Duchy
+heron - draws Bureaucrat, Estate, Estate, Silver, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Peddler on top of deck
+heron - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Lookout
+Stef - plays Lookout
+Stef - trashes Curse
+Stef - discards Estate
+Stef - places Counterfeit on top of deck
+Stef - plays Peddler
+Stef - draws Counterfeit
+Stef - plays Swindler
+heron - reveals Copper
+heron - trashes Copper
+heron - gains Curse
+Stef - plays Counterfeit
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Province
+Stef - gains Province
+Stef - draws Spy, Curse, Peddler, Spy
+Stef - shuffles deck
+Stef - draws Peddler
+ 
+---------- heron: turn 15 ----------
+heron - plays Bureaucrat
+heron - gains Silver
+Stef - reveals Spy, Curse, Peddler, Spy, Peddler
+heron - plays 1 Silver
+heron - buys Estate
+heron - gains Estate
+heron - draws Silver, Province, Copper, Gold, Swindler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Spy
+Stef - draws Haven
+Stef - discards Curse
+heron - discards Curse
+Stef - plays Spy
+Stef - draws Lookout
+Stef - places Peddler on top of deck
+heron - shuffles deck
+heron - discards Swindler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Province
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Counterfeit
+Stef - places Peddler on top of deck
+heron - discards Silver
+Stef - plays Haven
+Stef - draws Peddler
+Stef - sets aside Province
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Counterfeit
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Province, Peddler, Estate, Swindler, Peddler
+ 
+---------- heron: turn 16 ----------
+heron - plays Swindler
+Stef - shuffles deck
+Stef - reveals Peddler
+Stef - trashes Peddler
+Stef - gains Province
+heron - plays 1 Silver, 1 Copper, 1 Gold
+heron - buys Province
+heron - gains Province
+heron - draws Curse, Gold, Estate, Estate, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Province in hand
+Stef - plays Peddler
+Stef - draws Gold
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Counterfeit
+Stef - places Spy on top of deck
+heron - discards Counterfeit
+Stef - plays Swindler
+heron - reveals Bureaucrat
+heron - trashes Bureaucrat
+heron - gains Bureaucrat
+Stef - plays Counterfeit
+Stef - plays Gold
+Stef - plays Gold
+Stef - trashes Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Spy, Lookout, Peddler, Peddler, Curse
+ 
+---------- heron: turn 17 ----------
+heron - plays 1 Gold
+heron - buys Estate
+heron - gains Estate
+heron - draws Duchy, Estate, Copper, Curse, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Peddler on top of deck
+heron - places Lookout on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Peddler
+Stef - shuffles deck
+Stef - discards Province
+heron - places Lookout on top of deck
+Stef - plays Peddler
+Stef - draws Estate
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Peddler, Swindler, Spy, Counterfeit, Duchy
+ 
+---------- heron: turn 18 ----------
+heron - plays 1 Copper, 1 Silver
+heron - buys Estate
+heron - gains Estate
+heron - draws Lookout, Silver, Curse
+heron - shuffles deck
+heron - draws Bureaucrat, Duchy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Spy
+Stef - draws Province
+Stef - places Haven on top of deck
+heron - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Duchy
+Stef - sets aside Counterfeit
+Stef - plays Swindler
+heron - reveals Copper
+heron - trashes Copper
+heron - gains Curse
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Province, Peddler
+Stef - shuffles deck
+Stef - draws Spy, Silver, Spy
+ 
+---------- heron: turn 19 ----------
+heron - plays Lookout
+heron - trashes Silver
+heron - discards Estate
+heron - places Gold on top of deck
+heron - plays Bureaucrat
+heron - gains Silver
+Stef - reveals Province
+Stef - places Province on top of deck
+heron - plays 1 Silver
+heron - buys Estate
+heron - gains Estate
+heron - draws Silver, Gold, Province, Gold, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - duration Haven
+Stef - places set aside Counterfeit in hand
+Stef - plays Spy
+Stef - draws Province
+Stef - discards Estate
+heron - discards Silver
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Peddler on top of deck
+heron - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Province
+Stef - plays Peddler
+Stef - draws Swindler
+Stef - plays Swindler
+heron - reveals Copper
+heron - trashes Copper
+heron - gains Copper
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Peddler, Peddler, Lookout, Peddler, Peddler
+ 
+---------- heron: turn 20 ----------
+heron - plays 2 Gold, 1 Silver
+heron - buys Duchy
+heron - gains Duchy
+heron - draws Curse, Swindler, Silver, Counterfeit, Swindler
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Peddler
+Stef - draws Duchy
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Duchy
+Stef - places Peddler on top of deck
+heron - places Province on top of deck
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Peddler, Province, Gold, Estate
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- heron: turn 21 ----------
+heron - plays Swindler
+Stef - reveals Peddler
+Stef - trashes Peddler
+Stef - gains Province
+heron - plays Counterfeit
+heron - plays Silver
+heron - plays Silver
+heron - trashes Silver
+heron - buys Duchy
+heron - gains Duchy
+heron - buys Estate
+heron - gains Estate
+heron - draws Province, Estate, Province, Estate, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 7 Peddler, 3 Spy, 1 Haven, 1 Swindler, 1 Lookout, 1 Counterfeit, 1 Gold, 5 Province, 4 Estate, 2 Duchy, 2 Curse
+Stef - total victory points: 38
+Stef - turns: 21
+ 
+heron - cards: 2 Swindler, 1 Lookout, 1 Bureaucrat, 3 Silver, 2 Gold, 1 Counterfeit, 1 Copper, 7 Estate, 3 Duchy, 3 Province, 4 Curse
+heron - total victory points: 30
+heron - turns: 21
+ 
+1st place: Stef
+2nd place: heron
+ 

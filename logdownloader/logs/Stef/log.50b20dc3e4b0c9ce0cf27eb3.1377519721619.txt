@@ -1,0 +1,472 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Poor House, Pawn, Stonemason, Ambassador, Spice Merchant, Treasure Map, Witch, Bank, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+yed - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Ambassador
+yed - gains Ambassador
+yed - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Ambassador
+Stef - gains Ambassador
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Spice Merchant
+yed - gains Spice Merchant
+yed - shuffles deck
+yed - draws Copper, Ambassador, Spice Merchant, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Ambassador, Copper, Copper, Spice Merchant
+ 
+---------- yed: turn 3 ----------
+yed - plays Spice Merchant
+yed - trashes Copper
+yed - chooses two cards and one action
+yed - draws Estate, Copper
+yed - plays Ambassador
+yed - reveals Estate
+yed - returns Estate to the Supply
+yed - returns Estate to the Supply
+Stef - gains Estate
+yed - plays 2 Copper
+yed - buys Pawn
+yed - gains Pawn
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Estate, Estate
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+Stef - returns Estate to the Supply
+yed - gains Estate
+Stef - plays 2 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Spice Merchant
+yed - gains Spice Merchant
+yed - shuffles deck
+yed - draws Spice Merchant, Copper, Estate, Ambassador, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Spice Merchant, Ambassador
+ 
+---------- yed: turn 5 ----------
+yed - plays Spice Merchant
+yed - trashes Copper
+yed - chooses two cards and one action
+yed - draws Copper, Copper
+yed - plays Ambassador
+yed - reveals Copper
+yed - returns Copper to the Supply
+yed - returns Copper to the Supply
+Stef - gains Copper
+yed - plays Copper
+yed - buys Poor House
+yed - gains Poor House
+yed - draws Spice Merchant, Estate, Copper, Copper, Pawn
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Spice Merchant, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+Stef - returns Estate to the Supply
+yed - gains Estate
+Stef - plays 2 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Spice Merchant, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Spice Merchant
+yed - trashes Copper
+yed - chooses two cards and one action
+yed - shuffles deck
+yed - draws Poor House, Spice Merchant
+yed - plays Spice Merchant
+yed - trashes Copper
+yed - chooses two cards and one action
+yed - draws Ambassador, Estate
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Copper
+yed - plays Ambassador
+yed - reveals Estate
+yed - returns Estate to the Supply
+yed - returns Estate to the Supply
+Stef - gains Estate
+yed - draws Estate
+yed - shuffles deck
+yed - draws Poor House, Spice Merchant, Copper, Ambassador
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Spice Merchant, Pawn
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Pawn, Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Ambassador
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+yed - gains Estate
+Stef - plays 3 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Pawn, Ambassador, Copper, Pawn, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Spice Merchant
+yed - trashes Copper
+yed - chooses two cards and one action
+yed - draws Spice Merchant, Pawn
+yed - plays Pawn
+yed - takes 1 action
+yed - shuffles deck
+yed - draws Estate
+yed - plays Ambassador
+yed - reveals Estate
+yed - returns Estate to the Supply
+yed - returns Estate to the Supply
+Stef - gains Estate
+yed - shuffles deck
+yed - draws Spice Merchant, Poor House, Ambassador, Spice Merchant, Pawn
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Pawn, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+yed - gains Estate
+Stef - plays 1 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Pawn, Spice Merchant, Ambassador, Copper, Pawn
+ 
+---------- yed: turn 8 ----------
+yed - plays Poor House
+yed - reveals hand: Spice Merchant, Ambassador, Spice Merchant, Pawn
+yed - buys Potion
+yed - gains Potion
+yed - shuffles deck
+yed - draws Potion, Spice Merchant, Pawn, Poor House, Ambassador
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Spice Merchant, Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Ambassador
+Stef - reveals Spice Merchant
+Stef - returns Spice Merchant to the Supply
+yed - gains Spice Merchant
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - draws Pawn
+Stef - shuffles deck
+Stef - draws Ambassador, Pawn, Poor House, Pawn
+ 
+---------- yed: turn 9 ----------
+yed - plays Pawn
+yed - takes 1 action
+yed - takes 1 buy
+yed - plays Poor House
+yed - reveals hand: Potion, Spice Merchant, Ambassador
+yed - plays Potion
+yed - buys Vineyard
+yed - gains Vineyard
+yed - buys Stonemason
+yed - overpays for Stonemason with 1 coin
+yed - gains Poor House
+yed - gains Poor House
+yed - gains Stonemason
+yed - draws Estate, Spice Merchant
+yed - shuffles deck
+yed - draws Ambassador, Spice Merchant, Stonemason
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Poor House
+Stef - reveals hand: Ambassador
+Stef - buys Potion
+Stef - gains Potion
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Spice Merchant, Poor House, Pawn
+Stef - shuffles deck
+Stef - draws Potion, Pawn
+ 
+---------- yed: turn 10 ----------
+yed - plays Stonemason
+yed - trashes Spice Merchant
+yed - gains Pawn
+yed - gains Pawn
+yed - draws Poor House, Poor House, Poor House, Spice Merchant, Vineyard
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Poor House
+Stef - reveals hand: Spice Merchant, Potion
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - gains Pawn
+Stef - gains Pawn
+Stef - gains Stonemason
+Stef - draws Ambassador, Pawn, Poor House, Pawn, Pawn
+ 
+---------- yed: turn 11 ----------
+yed - plays Poor House
+yed - reveals hand: Poor House, Poor House, Spice Merchant, Vineyard
+yed - buys Potion
+yed - gains Potion
+yed - draws Potion, Pawn
+yed - shuffles deck
+yed - draws Estate, Pawn, Vineyard
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - shuffles deck
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Poor House
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Vineyard
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Potion
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Pawn, Stonemason, Pawn, Spice Merchant
+Stef - shuffles deck
+Stef - draws Vineyard
+ 
+---------- yed: turn 12 ----------
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Potion
+yed - plays Pawn
+yed - takes 1 buy
+yed - draws Poor House
+yed - plays 2 Potion
+yed - buys Vineyard
+yed - gains Vineyard
+yed - buys Vineyard
+yed - gains Vineyard
+yed - draws Stonemason, Pawn, Poor House, Poor House, Ambassador
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Vineyard
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Potion
+Stef - plays Stonemason
+Stef - trashes Spice Merchant
+Stef - gains Poor House
+Stef - gains Poor House
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Pawn, Ambassador, Pawn, Poor House, Poor House
+ 
+---------- yed: turn 13 ----------
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Spice Merchant
+yed - plays Poor House
+yed - reveals hand: Stonemason, Poor House, Ambassador, Spice Merchant
+yed - buys Spice Merchant
+yed - gains Spice Merchant
+yed - draws Spice Merchant
+yed - shuffles deck
+yed - draws Spice Merchant, Poor House, Spice Merchant, Potion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - shuffles deck
+Stef - draws Stonemason
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Vineyard
+Stef - plays Poor House
+Stef - reveals hand: Ambassador, Poor House, Stonemason, Vineyard
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - draws Poor House, Potion, Poor House, Pawn, Pawn
+ 
+---------- yed: turn 14 ----------
+yed - plays Potion
+yed - buys Vineyard
+yed - gains Vineyard
+yed - draws Pawn, Stonemason, Poor House, Estate, Pawn
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Potion
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 1 coin
+Stef - gains Poor House
+Stef - gains Poor House
+Stef - gains Stonemason
+Stef - draws Vineyard, Pawn, Vineyard, Pawn
+Stef - shuffles deck
+Stef - draws Potion
+ 
+---------- yed: turn 15 ----------
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Poor House
+yed - plays Pawn
+yed - takes 1 action
+yed - takes 1 coin
+yed - plays Poor House
+yed - reveals hand: Stonemason, Poor House, Estate
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Vineyard, Vineyard, Vineyard, Pawn, Potion
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - draws Poor House, Stonemason, Stonemason, Pawn, Pawn
+ 
+------------ Game Over ------------
+Stef - cards: 7 Poor House, 7 Pawn, 5 Stonemason, 1 Ambassador, 1 Potion, 4 Vineyard
+Stef - total victory points: 24
+Stef - turns: 15
+ 
+yed - cards: 3 Pawn, 3 Spice Merchant, 3 Poor House, 1 Stonemason, 1 Ambassador, 2 Potion, 4 Vineyard, 1 Duchy, 1 Estate
+yed - total victory points: 16
+yed - turns: 15
+ 
+1st place: Stef
+2nd place: yed
+ 

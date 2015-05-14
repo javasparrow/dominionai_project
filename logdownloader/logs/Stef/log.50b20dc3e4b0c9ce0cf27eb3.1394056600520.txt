@@ -1,0 +1,772 @@
+------------ Game Setup ------------
+Supply cards: Woodcutter, Farming Village, Fortress, Rats, Talisman, Taxman, Young Witch, City, Festival, Junk Dealer, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Woodcutter
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Copper, Estate, Estate, Estate, Copper
+Rabid - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Young Witch
+Rabid - gains Young Witch
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 4 Copper
+Rabid - buys Young Witch
+Rabid - gains Young Witch
+Rabid - draws Copper, Estate, Young Witch, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Young Witch
+Stef - gains Young Witch
+Stef - draws Copper, Estate, Estate, Junk Dealer, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Young Witch
+Rabid - draws Estate, Copper
+Rabid - discards Estate
+Rabid - discards Estate
+Stef - gains Curse
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Junk Dealer
+Rabid - gains Junk Dealer
+Rabid - shuffles deck
+Rabid - draws Estate, Copper, Young Witch, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Junk Dealer
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Young Witch
+Rabid - draws Copper, Junk Dealer
+Rabid - discards Estate
+Rabid - discards Junk Dealer
+Stef - gains Curse
+Rabid - plays 4 Copper
+Rabid - buys Young Witch
+Rabid - gains Young Witch
+Rabid - draws Young Witch, Estate, Estate, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Curse, Copper, Woodcutter
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Young Witch
+Rabid - draws Copper, Copper
+Rabid - discards Estate
+Rabid - discards Estate
+Stef - reveals bane Woodcutter
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Junk Dealer
+Rabid - gains Junk Dealer
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Junk Dealer, Young Witch, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Woodcutter
+Stef - plays 3 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Estate, Young Witch
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Junk Dealer
+Rabid - draws Young Witch
+Rabid - trashes Estate
+Rabid - plays Young Witch
+Rabid - draws Estate, Copper
+Rabid - discards Estate
+Rabid - discards Young Witch
+Stef - gains Curse
+Rabid - plays 3 Copper
+Rabid - buys Fortress
+Rabid - gains Fortress
+Rabid - draws Copper, Young Witch, Estate, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Young Witch
+Stef - draws Junk Dealer, Laboratory
+Stef - discards Estate
+Stef - discards Junk Dealer
+Rabid - gains Curse
+Stef - plays 3 Copper
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - draws Woodcutter, Junk Dealer, Curse, Copper, Curse
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Young Witch
+Rabid - draws Junk Dealer, Copper
+Rabid - discards Estate
+Rabid - discards Junk Dealer
+Stef - reveals bane Woodcutter
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Copper, Fortress
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Curse
+Stef - plays Woodcutter
+Stef - plays 2 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws City, Laboratory, Junk Dealer
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Fortress
+Rabid - draws Estate
+Rabid - plays 4 Copper
+Rabid - buys Taxman
+Rabid - gains Taxman
+Rabid - draws Junk Dealer, Young Witch, Laboratory, Junk Dealer, Curse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Laboratory
+Stef - draws Estate, Young Witch
+Stef - plays City
+Stef - draws Woodcutter
+Stef - plays Young Witch
+Stef - draws Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Rabid - gains Curse
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Woodcutter
+Stef - plays 3 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Curse, Curse, Copper, Junk Dealer, Woodcutter
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Junk Dealer
+Rabid - draws Copper
+Rabid - trashes Curse
+Rabid - plays Laboratory
+Rabid - draws Young Witch, Copper
+Rabid - plays Junk Dealer
+Rabid - draws Estate
+Rabid - trashes Estate
+Rabid - plays Young Witch
+Rabid - draws Copper, Young Witch
+Rabid - discards Young Witch
+Rabid - discards Young Witch
+Stef - reveals bane Woodcutter
+Rabid - plays 3 Copper
+Rabid - buys City
+Rabid - gains City
+Rabid - draws Silver
+Rabid - shuffles deck
+Rabid - draws Curse, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Curse
+Stef - plays Woodcutter
+Stef - plays 2 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Curse, Copper, Copper, Woodcutter, Laboratory
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys City
+Rabid - gains City
+Rabid - draws Young Witch, Junk Dealer, Young Witch, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Junk Dealer, City
+Stef - plays City
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Laboratory
+Stef - trashes Curse
+Stef - plays Laboratory
+Stef - draws Copper, Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Woodcutter
+Stef - trashes Copper
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys Taxman
+Stef - gains Taxman
+Stef - draws Young Witch, Copper, Copper, Laboratory, Copper
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Junk Dealer
+Rabid - draws Young Witch
+Rabid - trashes Estate
+Rabid - plays Young Witch
+Rabid - draws Junk Dealer, Copper
+Rabid - discards Young Witch
+Rabid - discards Young Witch
+Stef - gains Curse
+Rabid - plays 2 Copper
+Rabid - buys Woodcutter
+Rabid - gains Woodcutter
+Rabid - draws Copper, Taxman, City, Copper, Laboratory
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Taxman, Copper
+Stef - plays Young Witch
+Stef - draws Woodcutter, Curse
+Stef - discards Curse
+Stef - discards Taxman
+Rabid - gains Curse
+Stef - plays 4 Copper
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Copper, City, Laboratory, City, Laboratory
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays City
+Rabid - draws Fortress
+Rabid - plays Laboratory
+Rabid - shuffles deck
+Rabid - draws Copper, Copper
+Rabid - plays Taxman
+Rabid - trashes Copper
+Stef - discards Copper
+Rabid - gains Silver
+Rabid - plays Fortress
+Rabid - draws Silver
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys City
+Rabid - gains City
+Rabid - draws Junk Dealer, Young Witch, Curse, Junk Dealer, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Laboratory
+Stef - draws Woodcutter, Junk Dealer
+Stef - plays Laboratory
+Stef - draws Copper, Junk Dealer
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays City
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Young Witch
+Stef - trashes Copper
+Stef - plays Young Witch
+Stef - draws Copper, Taxman
+Stef - discards Copper
+Stef - discards Copper
+Rabid - gains Curse
+Stef - plays Woodcutter
+Stef - plays 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Curse, Laboratory, Woodcutter, Farming Village
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Junk Dealer
+Rabid - draws Silver
+Rabid - trashes Curse
+Rabid - plays Junk Dealer
+Rabid - draws Copper
+Rabid - trashes Copper
+Rabid - plays Young Witch
+Rabid - draws Young Witch, City
+Rabid - discards Young Witch
+Rabid - discards City
+Stef - reveals bane Woodcutter
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys City
+Rabid - gains City
+Rabid - draws Copper, Young Witch, Woodcutter, Curse
+Rabid - shuffles deck
+Rabid - draws City
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Laboratory
+Stef - places Laboratory in hand
+Stef - plays Laboratory
+Stef - draws Laboratory, Junk Dealer
+Stef - plays Laboratory
+Stef - draws Copper, Taxman
+Stef - plays Laboratory
+Stef - draws City, Woodcutter
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Curse
+Stef - plays Taxman
+Stef - trashes Copper
+Rabid - discards Copper
+Stef - gains Silver
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Young Witch, City, Copper
+Stef - shuffles deck
+Stef - draws Taxman, Farming Village
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays City
+Rabid - draws Silver
+Rabid - plays Young Witch
+Rabid - draws City, Laboratory
+Rabid - discards Curse
+Rabid - discards City
+Stef - gains Curse
+Rabid - plays Laboratory
+Rabid - draws Junk Dealer, Silver
+Rabid - plays Junk Dealer
+Rabid - draws Copper
+Rabid - trashes Copper
+Rabid - plays Woodcutter
+Rabid - plays Silver
+Rabid - buys City
+Rabid - gains City
+Rabid - draws Copper, Copper, City, City, Fortress
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Farming Village
+Stef - reveals City
+Stef - places City in hand
+Stef - plays Young Witch
+Stef - draws Junk Dealer, City
+Stef - discards Copper
+Stef - discards Taxman
+Rabid - gains Curse
+Stef - plays City
+Stef - draws Fortress, Silver
+Stef - plays City
+Stef - draws Copper, Laboratory
+Stef - plays City
+Stef - draws Woodcutter, Junk Dealer
+Stef - plays Laboratory
+Stef - draws Woodcutter, Laboratory
+Stef - plays Laboratory
+Stef - draws Laboratory, Festival
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Copper, Curse
+Stef - plays Junk Dealer
+Stef - draws Taxman
+Stef - trashes Curse
+Stef - plays Taxman
+Stef - trashes Copper
+Rabid - discards Copper
+Stef - gains Silver
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Festival
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays Fortress
+Stef - plays 2 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys City
+Stef - gains City
+Stef - shuffles deck
+Stef - draws Laboratory, Silver, Laboratory, Laboratory, Festival
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays City
+Rabid - draws Copper, Taxman
+Rabid - plays City
+Rabid - draws Junk Dealer, Curse
+Rabid - plays Junk Dealer
+Rabid - draws Young Witch
+Rabid - trashes Curse
+Rabid - plays Young Witch
+Rabid - draws Young Witch
+Rabid - shuffles deck
+Rabid - draws Young Witch
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - plays Fortress
+Rabid - draws Copper
+Rabid - plays Young Witch
+Rabid - draws Curse, City
+Rabid - discards Taxman
+Rabid - discards Copper
+Rabid - plays City
+Rabid - draws Laboratory, City
+Rabid - plays Laboratory
+Rabid - draws Copper, Silver
+Rabid - plays City
+Rabid - draws Junk Dealer, City
+Rabid - plays Junk Dealer
+Rabid - draws Silver
+Rabid - trashes Curse
+Rabid - plays City
+Rabid - draws Curse, Woodcutter
+Rabid - plays Woodcutter
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Laboratory
+Rabid - gains Laboratory
+Rabid - buys Rats
+Rabid - gains Rats
+Rabid - shuffles deck
+Rabid - draws Young Witch, City, Laboratory, Copper, City
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Laboratory
+Stef - draws Woodcutter, Fortress
+Stef - plays Laboratory
+Stef - draws City, City
+Stef - plays Laboratory
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Young Witch, Farming Village
+Stef - plays City
+Stef - draws Festival, Woodcutter
+Stef - plays City
+Stef - draws Junk Dealer, Taxman
+Stef - plays Taxman
+Stef - trashes Silver
+Rabid - reveals Young Witch, City, Laboratory, Copper, City
+Stef - gains Gold
+Stef - plays Farming Village
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Fortress
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws City
+Stef - trashes Young Witch
+Stef - plays City
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Woodcutter
+Stef - plays Woodcutter
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Junk Dealer, Laboratory, Festival, Farming Village, Woodcutter
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Laboratory
+Rabid - draws City, Rats
+Rabid - plays City
+Rabid - draws City, Laboratory
+Rabid - plays Laboratory
+Rabid - draws Copper, Young Witch
+Rabid - plays City
+Rabid - draws Fortress, City
+Rabid - plays City
+Rabid - draws Woodcutter, Junk Dealer
+Rabid - plays City
+Rabid - draws Young Witch, Copper
+Rabid - plays City
+Rabid - draws Curse, Junk Dealer
+Rabid - plays Junk Dealer
+Rabid - draws Taxman
+Rabid - trashes Curse
+Rabid - plays Woodcutter
+Rabid - plays Junk Dealer
+Rabid - draws Silver
+Rabid - trashes Young Witch
+Rabid - plays Rats
+Rabid - draws Copper
+Rabid - gains Rats
+Rabid - trashes Fortress
+Rabid - plays Young Witch
+Rabid - draws Silver
+Rabid - shuffles deck
+Rabid - draws Rats
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - plays Rats
+Rabid - shuffles deck
+Rabid - draws Copper
+Rabid - gains Rats
+Rabid - trashes Fortress
+Rabid - plays Young Witch
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Rats
+Rabid - discards Rats
+Rabid - discards Copper
+Stef - reveals bane Woodcutter
+Rabid - plays Taxman
+Rabid - trashes Silver
+Stef - reveals Junk Dealer, Laboratory, Festival, Farming Village, Woodcutter
+Rabid - gains Gold
+Rabid - plays Fortress
+Rabid - draws Gold
+Rabid - plays 3 Copper, 1 Silver, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Woodcutter
+Rabid - gains Woodcutter
+Rabid - shuffles deck
+Rabid - draws Woodcutter, Laboratory, Young Witch, Copper, Junk Dealer
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Laboratory
+Stef - draws Taxman, Laboratory
+Stef - plays Farming Village
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Laboratory
+Stef - draws Festival, Gold
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Taxman
+Stef - plays Junk Dealer
+Stef - draws City
+Stef - trashes Woodcutter
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Woodcutter, Gold
+Stef - plays City
+Stef - draws Silver, Laboratory
+Stef - plays Laboratory
+Stef - draws Fortress, City
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Woodcutter
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws City, Gold, Laboratory, Festival, Laboratory
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Laboratory
+Rabid - draws Gold, Rats
+Rabid - plays Junk Dealer
+Rabid - draws Copper
+Rabid - trashes Copper
+Rabid - plays Rats
+Rabid - draws Junk Dealer
+Rabid - gains Rats
+Rabid - trashes Woodcutter
+Rabid - plays Junk Dealer
+Rabid - draws Fortress
+Rabid - trashes Fortress
+Rabid - plays Fortress
+Rabid - draws Young Witch
+Rabid - plays Young Witch
+Rabid - draws City, City
+Rabid - discards Copper
+Rabid - discards Young Witch
+Rabid - plays City
+Rabid - draws Taxman, Woodcutter
+Rabid - plays City
+Rabid - draws Copper, Rats
+Rabid - plays Woodcutter
+Rabid - plays 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Rats, Silver, Copper, City, Laboratory
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Laboratory
+Stef - draws Junk Dealer, City
+Stef - plays Laboratory
+Stef - draws Festival, City
+Stef - plays City
+Stef - draws Gold, Silver
+Stef - plays City
+Stef - draws Farming Village, Fortress
+Stef - plays City
+Stef - draws Province, Gold
+Stef - plays Farming Village
+Stef - reveals Woodcutter
+Stef - places Woodcutter in hand
+Stef - plays Fortress
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Gold, City
+Stef - plays City
+Stef - draws Junk Dealer, Laboratory
+Stef - plays Junk Dealer
+Stef - trashes Junk Dealer
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Woodcutter
+Stef - plays 4 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Gold, Gold, Festival, City, Province
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Laboratory
+Rabid - draws Province, City
+Rabid - plays City
+Rabid - draws City
+Rabid - shuffles deck
+Rabid - draws Laboratory
+Rabid - plays Laboratory
+Rabid - draws Copper, Copper
+Rabid - plays City
+Rabid - draws Junk Dealer, City
+Rabid - plays City
+Rabid - draws Junk Dealer, Young Witch
+Rabid - plays Young Witch
+Rabid - draws City, Young Witch
+Rabid - discards Copper
+Rabid - discards Province
+Rabid - plays Young Witch
+Rabid - draws Taxman, Rats
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - plays Junk Dealer
+Rabid - draws Rats
+Rabid - trashes Rats
+Rabid - draws Province
+Rabid - plays Junk Dealer
+Rabid - draws Fortress
+Rabid - trashes Taxman
+Rabid - plays City
+Rabid - draws Woodcutter, Rats
+Rabid - plays City
+Rabid - draws Gold
+Rabid - shuffles deck
+Rabid - draws Province
+Rabid - plays Woodcutter
+Rabid - plays Rats
+Rabid - draws Copper
+Rabid - gains Rats
+Rabid - trashes Fortress
+Rabid - plays Rats
+Rabid - draws Copper
+Rabid - gains Rats
+Rabid - trashes Fortress
+Rabid - plays Rats
+Rabid - draws Copper
+Rabid - gains Rats
+Rabid - trashes Copper
+Rabid - plays 2 Copper, 1 Silver, 1 Gold
+Rabid - buys City
+Rabid - gains City
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - shuffles deck
+Rabid - draws City, City, City, City, Junk Dealer
+ 
+---------- Stef: turn 19 ----------
+Stef - plays City
+Stef - draws Laboratory, Farming Village
+Stef - plays Laboratory
+Stef - draws Laboratory, City
+Stef - plays City
+Stef - draws Woodcutter, Province
+Stef - plays Laboratory
+Stef - draws Laboratory, Fortress
+Stef - plays Laboratory
+Stef - draws Laboratory, Silver
+Stef - plays Laboratory
+Stef - draws City, Province
+Stef - plays City
+Stef - draws Laboratory, Gold
+Stef - plays Laboratory
+Stef - draws City, Junk Dealer
+Stef - plays City
+Stef - draws Gold, Festival
+Stef - plays Junk Dealer
+Stef - trashes Fortress
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Woodcutter
+Stef - plays 4 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Gold, Province, City, Laboratory, Province
+ 
+------------ Game Over ------------
+Stef - cards: 5 Laboratory, 4 City, 2 Festival, 1 Woodcutter, 1 Fortress, 1 Farming Village, 1 Junk Dealer, 4 Gold, 1 Silver, 6 Province
+Stef - total victory points: 36
+Stef - turns: 19
+ 
+Rabid - cards: 6 City, 6 Rats, 2 Junk Dealer, 2 Laboratory, 2 Young Witch, 1 Woodcutter, 1 Fortress, 2 Copper, 1 Gold, 1 Silver, 2 Province, 1 Duchy
+Rabid - total victory points: 15
+Rabid - turns: 19
+ 
+1st place: Stef
+2nd place: Rabid
+ 

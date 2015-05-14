@@ -1,0 +1,801 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Masquerade, Smugglers, Procession, Sea Hag, Trader, Cartographer, Rogue, Tribute, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Estate
+new_tomitake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - buys Masquerade
+new_tomitake - gains Masquerade
+new_tomitake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - shuffles deck
+new_tomitake - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Procession
+new_tomitake - gains Procession
+new_tomitake - draws Masquerade, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Masquerade, Estate, Copper, Copper, Estate
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays Masquerade
+new_tomitake - draws Copper, Copper
+new_tomitake - passes Estate
+Stef - passes Estate
+new_tomitake - trashes Estate
+new_tomitake - plays 5 Copper
+new_tomitake - buys Smugglers
+new_tomitake - gains Smugglers
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Silver, Copper, Procession, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Masquerade
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - passes Estate
+new_tomitake - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Procession
+Stef - gains Procession
+Stef - draws Copper, Estate, Copper, Copper, Masquerade
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Procession
+new_tomitake - gains Procession
+new_tomitake - draws Copper, Copper, Masquerade, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Estate, Masquerade
+Stef - passes Estate
+new_tomitake - passes Copper
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Smugglers
+Stef - gains Smugglers
+Stef - draws Copper, Copper, Copper, Copper, Procession
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - plays Masquerade
+new_tomitake - draws Smugglers, Estate
+new_tomitake - passes Estate
+Stef - passes Copper
+new_tomitake - trashes Estate
+new_tomitake - plays Copper
+new_tomitake - plays Copper
+new_tomitake - plays Copper
+new_tomitake - buys Masquerade
+new_tomitake - gains Masquerade
+new_tomitake - draws Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Masquerade, Copper, Copper, Smugglers
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Smugglers
+Stef - gains Smugglers
+Stef - shuffles deck
+Stef - draws Copper, Smugglers, Smugglers, Copper, Masquerade
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays Smugglers
+new_tomitake - gains Smugglers
+new_tomitake - plays 3 Copper
+new_tomitake - buys Great Hall
+new_tomitake - gains Great Hall
+new_tomitake - draws Copper, Masquerade, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Copper
+new_tomitake - passes Estate
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Estate, Copper, Copper, Procession, Masquerade
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - plays Masquerade
+new_tomitake - draws Copper, Procession
+new_tomitake - passes Copper
+Stef - passes Estate
+new_tomitake - trashes Estate
+new_tomitake - plays 4 Copper
+new_tomitake - buys Procession
+new_tomitake - gains Procession
+new_tomitake - draws Silver, Procession
+new_tomitake - shuffles deck
+new_tomitake - draws Masquerade, Procession, Smugglers
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Procession
+Stef - plays Masquerade
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Great Hall
+Stef - passes Copper
+new_tomitake - passes Masquerade
+Stef - trashes Copper
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Copper
+new_tomitake - passes Copper
+Stef - trashes Copper
+Stef - trashes Masquerade
+Stef - gains Procession
+Stef - plays 3 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Smugglers, Masquerade, Copper, Smugglers
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Procession
+new_tomitake - plays Smugglers
+new_tomitake - gains Great Hall
+new_tomitake - plays Smugglers
+new_tomitake - gains Great Hall
+new_tomitake - trashes Smugglers
+new_tomitake - gains Sea Hag
+new_tomitake - plays Procession
+new_tomitake - trashes Procession
+new_tomitake - gains Rogue
+new_tomitake - plays 1 Silver, 1 Copper
+new_tomitake - buys Great Hall
+new_tomitake - gains Great Hall
+new_tomitake - draws Copper, Smugglers, Copper, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Smugglers
+Stef - gains Great Hall
+Stef - draws Great Hall, Copper, Masquerade, Great Hall, Procession
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - plays Smugglers
+new_tomitake - gains Great Hall
+new_tomitake - plays 4 Copper
+new_tomitake - buys Trader
+new_tomitake - gains Trader
+new_tomitake - draws Copper, Great Hall, Masquerade, Procession, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Procession
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Procession
+Stef - trashes Great Hall
+Stef - gains Procession
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Masquerade, Great Hall
+Stef - passes Copper
+new_tomitake - passes Copper
+Stef - trashes Copper
+Stef - plays Great Hall
+Stef - draws Smugglers
+Stef - plays Procession
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Smugglers
+Stef - trashes Great Hall
+Stef - gains Procession
+Stef - plays Masquerade
+Stef - draws Copper, Procession
+Stef - passes Copper
+new_tomitake - passes Copper
+Stef - trashes Copper
+Stef - plays Procession
+Stef - plays Smugglers
+Stef - gains Trader
+Stef - plays Smugglers
+Stef - gains Trader
+Stef - trashes Smugglers
+Stef - gains Procession
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Procession, Smugglers, Copper, Masquerade, Great Hall
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Great Hall
+new_tomitake - draws Copper
+new_tomitake - plays Great Hall
+new_tomitake - shuffles deck
+new_tomitake - draws Great Hall
+new_tomitake - trashes Great Hall
+new_tomitake - gains Procession
+new_tomitake - plays Masquerade
+new_tomitake - draws Great Hall, Smugglers
+new_tomitake - passes Copper
+Stef - passes Copper
+new_tomitake - trashes Copper
+new_tomitake - plays Great Hall
+new_tomitake - draws Procession
+new_tomitake - plays Procession
+new_tomitake - plays Great Hall
+new_tomitake - draws Copper
+new_tomitake - plays Great Hall
+new_tomitake - draws Copper
+new_tomitake - trashes Great Hall
+new_tomitake - gains Procession
+new_tomitake - plays Smugglers
+new_tomitake - gains Trader
+new_tomitake - plays 4 Copper
+new_tomitake - buys Peddler
+new_tomitake - gains Peddler
+new_tomitake - draws Trader, Sea Hag, Copper, Great Hall, Rogue
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Procession
+Stef - plays Great Hall
+Stef - draws Peddler
+Stef - plays Great Hall
+Stef - draws Trader
+Stef - trashes Great Hall
+Stef - gains Sea Hag
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Masquerade
+Stef - draws Procession, Procession
+Stef - passes Copper
+new_tomitake - passes Copper
+Stef - trashes Copper
+Stef - plays Procession
+Stef - plays Procession
+Stef - plays Smugglers
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - plays Smugglers
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - trashes Smugglers
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - plays Procession
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays Trader
+Stef - trashes Trader
+Stef - gains Tribute
+Stef - trashes Procession
+Stef - gains Tribute
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Procession, Masquerade, Trader, Procession
+Stef - shuffles deck
+Stef - draws Procession
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - plays Great Hall
+new_tomitake - draws Copper
+new_tomitake - plays Rogue
+new_tomitake - gains Great Hall
+new_tomitake - plays 2 Copper
+new_tomitake - buys Peddler
+new_tomitake - gains Peddler
+new_tomitake - draws Great Hall, Copper, Silver
+new_tomitake - shuffles deck
+new_tomitake - draws Trader, Rogue
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Procession
+Stef - plays Procession
+Stef - plays Masquerade
+Stef - draws Silver, Masquerade
+Stef - passes Silver
+new_tomitake - passes Copper
+Stef - plays Masquerade
+Stef - draws Tribute, Silver
+Stef - passes Copper
+new_tomitake - passes Silver
+Stef - trashes Masquerade
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - plays Procession
+Stef - plays Procession
+Stef - plays Tribute
+new_tomitake - reveals: Peddler, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+new_tomitake - discards: Peddler, Copper
+Stef - plays Tribute
+new_tomitake - reveals: Masquerade, Peddler
+Stef - receives 4 actions
+new_tomitake - discards: Masquerade, Peddler
+Stef - trashes Tribute
+Stef - plays Procession
+Stef - plays Masquerade
+Stef - draws Silver, Peddler
+Stef - passes Silver
+new_tomitake - passes Copper
+Stef - plays Masquerade
+Stef - draws Tribute, Sea Hag
+Stef - passes Copper
+new_tomitake - passes Silver
+Stef - trashes Silver
+Stef - trashes Masquerade
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - trashes Procession
+Stef - gains Tribute
+Stef - trashes Procession
+Stef - gains Rogue
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Procession
+Stef - plays Tribute
+new_tomitake - reveals: Procession, Procession
+Stef - receives 2 actions
+new_tomitake - discards: Procession, Procession
+Stef - plays Procession
+Stef - plays Sea Hag
+new_tomitake - discards Procession
+new_tomitake - reveals reaction Trader
+new_tomitake - gains Silver
+Stef - plays Sea Hag
+new_tomitake - discards Procession
+new_tomitake - reveals reaction Trader
+new_tomitake - gains Silver
+Stef - trashes Sea Hag
+Stef - gains Cartographer
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Procession, Province, Silver, Silver, Peddler
+ 
+---------- new_tomitake: turn 13 ----------
+new_tomitake - plays Great Hall
+new_tomitake - draws Sea Hag
+new_tomitake - plays Rogue
+new_tomitake - gains Procession
+new_tomitake - plays 1 Silver, 1 Copper
+new_tomitake - buys Masquerade
+new_tomitake - gains Masquerade
+new_tomitake - draws Great Hall, Copper, Copper, Great Hall, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Procession
+Stef - plays Peddler
+Stef - draws Procession
+Stef - plays Peddler
+Stef - draws Cartographer
+Stef - trashes Peddler
+Stef - plays Cartographer
+Stef - draws Tribute
+Stef - looks at Rogue, Peddler, Silver, Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - places Peddler on top of deck
+Stef - places Rogue on top of deck
+Stef - plays Procession
+Stef - plays Tribute
+new_tomitake - reveals: Copper, Trader
+Stef - receives 2 coins
+Stef - receives 2 actions
+new_tomitake - discards: Copper, Trader
+Stef - plays Tribute
+new_tomitake - reveals: Smugglers, Great Hall
+Stef - receives 4 actions
+Stef - draws Rogue, Peddler
+new_tomitake - discards: Smugglers, Great Hall
+Stef - trashes Tribute
+Stef - plays Peddler
+Stef - draws Trader
+Stef - plays Rogue
+Stef - gains Procession
+Stef - plays Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Tribute
+Stef - shuffles deck
+Stef - draws Province, Silver, Procession, Province
+ 
+---------- new_tomitake: turn 14 ----------
+new_tomitake - plays Great Hall
+new_tomitake - draws Copper
+new_tomitake - plays Great Hall
+new_tomitake - shuffles deck
+new_tomitake - draws Trader
+new_tomitake - plays 4 Copper
+new_tomitake - buys Peddler
+new_tomitake - gains Peddler
+new_tomitake - draws Peddler, Procession, Silver, Procession, Procession
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Procession
+Stef - plays Tribute
+new_tomitake - reveals: Procession, Smugglers
+Stef - receives 4 actions
+new_tomitake - discards: Procession, Smugglers
+Stef - plays Tribute
+new_tomitake - reveals: Rogue, Peddler
+Stef - receives 4 actions
+new_tomitake - discards: Rogue, Peddler
+Stef - trashes Tribute
+Stef - draws Peddler, Rogue, Silver, Procession, Silver
+ 
+---------- new_tomitake: turn 15 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Procession
+new_tomitake - plays Peddler
+new_tomitake - draws Copper
+new_tomitake - plays Peddler
+new_tomitake - draws Masquerade
+new_tomitake - trashes Peddler
+new_tomitake - plays Procession
+new_tomitake - plays Procession
+new_tomitake - plays Masquerade
+new_tomitake - draws Sea Hag, Great Hall
+new_tomitake - passes Copper
+Stef - passes Silver
+new_tomitake - plays Masquerade
+new_tomitake - draws Great Hall, Copper
+new_tomitake - passes Copper
+Stef - passes Copper
+new_tomitake - trashes Copper
+new_tomitake - trashes Masquerade
+new_tomitake - gains Sea Hag
+new_tomitake - plays Procession
+new_tomitake - plays Sea Hag
+Stef - discards Cartographer
+Stef - gains Curse
+new_tomitake - plays Sea Hag
+Stef - discards Curse
+Stef - gains Curse
+new_tomitake - trashes Sea Hag
+new_tomitake - gains Rogue
+new_tomitake - trashes Procession
+new_tomitake - gains Cartographer
+new_tomitake - trashes Procession
+new_tomitake - gains Cartographer
+new_tomitake - plays Great Hall
+new_tomitake - draws Silver
+new_tomitake - plays Great Hall
+new_tomitake - draws Masquerade
+new_tomitake - plays 3 Silver
+new_tomitake - buys Province
+new_tomitake - gains Province
+new_tomitake - draws Procession, Silver, Copper, Trader
+new_tomitake - shuffles deck
+new_tomitake - draws Rogue
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Procession
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Peddler
+Stef - draws Procession
+Stef - trashes Peddler
+Stef - plays Procession
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Rogue
+Stef - gains Tribute
+Stef - trashes Rogue
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Trader, Silver
+Stef - shuffles deck
+Stef - draws Procession, Cartographer, Tribute
+ 
+---------- new_tomitake: turn 16 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Rogue
+new_tomitake - gains Procession
+new_tomitake - plays Rogue
+new_tomitake - gains Masquerade
+new_tomitake - trashes Rogue
+new_tomitake - plays 1 Silver, 1 Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Cartographer, Peddler, Great Hall, Masquerade, Great Hall
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Province, Copper, Silver, Procession
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Silver
+Stef - places Procession on top of deck
+Stef - plays Procession
+Stef - plays Tribute
+new_tomitake - reveals: Procession, Trader
+Stef - receives 4 actions
+new_tomitake - discards: Procession, Trader
+Stef - plays Tribute
+new_tomitake - reveals: Great Hall, Rogue
+Stef - receives 4 actions
+Stef - draws Procession, Silver
+new_tomitake - discards: Great Hall, Rogue
+Stef - trashes Tribute
+Stef - plays 3 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Curse, Province, Province, Procession
+ 
+---------- new_tomitake: turn 17 ----------
+new_tomitake - plays Cartographer
+new_tomitake - draws Great Hall
+new_tomitake - looks at Procession, Copper, Copper, Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+new_tomitake - places Procession on top of deck
+new_tomitake - plays Great Hall
+new_tomitake - draws Procession
+new_tomitake - plays Procession
+new_tomitake - plays Great Hall
+new_tomitake - draws Province
+new_tomitake - plays Great Hall
+new_tomitake - draws Silver
+new_tomitake - trashes Great Hall
+new_tomitake - gains Sea Hag
+new_tomitake - plays Peddler
+new_tomitake - draws Silver
+new_tomitake - plays Great Hall
+new_tomitake - draws Silver
+new_tomitake - plays Masquerade
+new_tomitake - draws Cartographer, Smugglers
+new_tomitake - passes Smugglers
+Stef - passes Curse
+new_tomitake - trashes Curse
+new_tomitake - plays Cartographer
+new_tomitake - draws Copper
+new_tomitake - looks at Peddler, Sea Hag
+new_tomitake - shuffles deck
+new_tomitake - looks at Masquerade, Trader
+new_tomitake - discards Sea Hag
+new_tomitake - places Peddler on top of deck
+new_tomitake - places Masquerade on top of deck
+new_tomitake - places Trader on top of deck
+new_tomitake - plays 3 Silver, 1 Copper
+new_tomitake - buys Province
+new_tomitake - gains Province
+new_tomitake - draws Trader, Masquerade, Peddler, Copper, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - shuffles deck
+Stef - draws Curse, Smugglers, Procession, Procession, Province
+ 
+---------- new_tomitake: turn 18 ----------
+new_tomitake - plays Peddler
+new_tomitake - draws Great Hall
+new_tomitake - plays Great Hall
+new_tomitake - draws Procession
+new_tomitake - plays Procession
+new_tomitake - plays Masquerade
+new_tomitake - draws Sea Hag, Procession
+new_tomitake - passes Copper
+Stef - passes Curse
+new_tomitake - trashes Curse
+new_tomitake - plays Masquerade
+new_tomitake - draws Copper, Copper
+new_tomitake - passes Copper
+Stef - passes Copper
+new_tomitake - trashes Masquerade
+new_tomitake - reveals reaction Trader
+new_tomitake - gains Silver
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Trader, Duchy, Copper, Procession, Rogue
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Procession
+Stef - plays Procession
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - plays Smugglers
+Stef - gains Duchy
+Stef - trashes Smugglers
+Stef - gains Sea Hag
+Stef - plays Procession
+Stef - trashes Procession
+Stef - gains Tribute
+Stef - draws Silver, Duchy, Procession, Province, Silver
+ 
+---------- new_tomitake: turn 19 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Rogue
+new_tomitake - gains Tribute
+new_tomitake - plays Rogue
+new_tomitake - gains Great Hall
+new_tomitake - trashes Rogue
+new_tomitake - plays Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - shuffles deck
+new_tomitake - draws Procession, Cartographer, Silver, Province, Tribute
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Trader, Province, Silver, Copper, Cartographer
+ 
+---------- new_tomitake: turn 20 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Cartographer
+new_tomitake - draws Copper
+new_tomitake - looks at Silver, Duchy, Copper, Sea Hag
+new_tomitake - discards Duchy
+new_tomitake - discards Copper
+new_tomitake - places Sea Hag on top of deck
+new_tomitake - places Silver on top of deck
+new_tomitake - plays Cartographer
+new_tomitake - draws Silver
+new_tomitake - looks at Sea Hag, Great Hall, Silver, Masquerade
+new_tomitake - places Sea Hag on top of deck
+new_tomitake - places Masquerade on top of deck
+new_tomitake - places Silver on top of deck
+new_tomitake - places Great Hall on top of deck
+new_tomitake - trashes Cartographer
+new_tomitake - plays Tribute
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Duchy
+new_tomitake - receives 2 coins
+new_tomitake - draws Great Hall, Silver
+Stef - discards: Silver, Duchy
+new_tomitake - plays Great Hall
+new_tomitake - draws Masquerade
+new_tomitake - plays Masquerade
+new_tomitake - draws Sea Hag, Peddler
+new_tomitake - passes Copper
+Stef - passes Copper
+new_tomitake - trashes Copper
+new_tomitake - plays 3 Silver
+new_tomitake - buys Province
+new_tomitake - gains Province
+new_tomitake - draws Copper, Copper, Silver, Cartographer, Trader
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Sea Hag, Silver, Masquerade, Procession
+Stef - discards Silver
+Stef - places Procession on top of deck
+Stef - places Masquerade on top of deck
+Stef - places Sea Hag on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Sea Hag, Masquerade, Procession, Duchy, Procession
+ 
+---------- new_tomitake: turn 21 ----------
+new_tomitake - plays Cartographer
+new_tomitake - draws Duchy
+new_tomitake - looks at Province, Great Hall, Procession, Procession
+new_tomitake - discards Province
+new_tomitake - discards Procession
+new_tomitake - places Procession on top of deck
+new_tomitake - places Great Hall on top of deck
+new_tomitake - plays Trader
+new_tomitake - trashes Silver
+new_tomitake - gains Silver
+new_tomitake - gains Silver
+new_tomitake - gains Silver
+new_tomitake - plays 2 Copper
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Great Hall, Procession, Great Hall, Duchy, Peddler
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Procession
+Stef - plays Procession
+Stef - plays Masquerade
+Stef - draws Copper, Province
+Stef - passes Copper
+new_tomitake - passes Procession
+Stef - plays Masquerade
+Stef - draws Province, Tribute
+Stef - passes Procession
+new_tomitake - passes Copper
+Stef - trashes Masquerade
+Stef - gains Sea Hag
+Stef - plays Procession
+Stef - plays Tribute
+new_tomitake - reveals: Great Hall, Sea Hag
+Stef - receives 4 actions
+Stef - draws Duchy
+Stef - shuffles deck
+Stef - draws Copper
+new_tomitake - discards: Great Hall, Sea Hag
+Stef - plays Tribute
+new_tomitake - reveals: Procession, Trader
+Stef - receives 4 actions
+new_tomitake - discards: Procession, Trader
+Stef - trashes Tribute
+Stef - trashes Procession
+Stef - gains Rogue
+Stef - plays Sea Hag
+new_tomitake - discards Silver
+new_tomitake - gains Curse
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Duchy, Silver, Silver, Province
+ 
+---------- new_tomitake: turn 22 ----------
+new_tomitake - plays Procession
+new_tomitake - plays Peddler
+new_tomitake - draws Curse
+new_tomitake - plays Peddler
+new_tomitake - shuffles deck
+new_tomitake - draws Procession
+new_tomitake - trashes Peddler
+new_tomitake - plays Great Hall
+new_tomitake - draws Silver
+new_tomitake - plays Procession
+new_tomitake - plays Great Hall
+new_tomitake - draws Province
+new_tomitake - plays Great Hall
+new_tomitake - draws Estate
+new_tomitake - trashes Great Hall
+new_tomitake - gains Trader
+new_tomitake - plays Silver
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Silver, Copper, Silver, Silver, Trader
+ 
+---------- Stef: turn 22 ----------
+Stef - plays 3 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cartographer, Silver, Trader, Duchy, Sea Hag
+ 
+------------ Game Over ------------
+Stef - cards: 2 Sea Hag, 1 Cartographer, 1 Trader, 1 Rogue, 1 Procession, 4 Silver, 2 Copper, 5 Duchy, 3 Province, 1 Estate
+Stef - total victory points: 34
+Stef - turns: 22
+ 
+new_tomitake - cards: 4 Procession, 3 Great Hall, 3 Trader, 2 Sea Hag, 1 Peddler, 1 Masquerade, 1 Cartographer, 1 Tribute, 7 Silver, 3 Copper, 3 Duchy, 3 Province, 2 Estate, 1 Curse
+new_tomitake - total victory points: 31
+new_tomitake - turns: 22
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

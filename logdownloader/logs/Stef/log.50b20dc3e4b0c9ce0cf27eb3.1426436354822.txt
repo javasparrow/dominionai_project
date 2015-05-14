@@ -1,0 +1,889 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Oracle, Warehouse, Advisor, Armory, Plaza, Knights, Mandarin, Vault, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qmech - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+qmech - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+qmech - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- qmech: turn 1 ----------
+qmech - plays 4 Copper
+qmech - buys Armory
+qmech - gains Armory
+qmech - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- qmech: turn 2 ----------
+qmech - plays 3 Copper
+qmech - buys Warehouse
+qmech - gains Warehouse
+qmech - shuffles deck
+qmech - draws Armory, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- qmech: turn 3 ----------
+qmech - plays Armory
+qmech - gains Armory
+qmech - plays 3 Copper
+qmech - buys Warehouse
+qmech - gains Warehouse
+qmech - draws Armory, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Armory, Estate, Copper, Copper, Estate
+ 
+---------- qmech: turn 4 ----------
+qmech - plays Armory
+qmech - gains Advisor
+qmech - plays 3 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - draws Advisor, Copper, Warehouse, Estate
+qmech - shuffles deck
+qmech - draws Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Armory
+Stef - gains Advisor
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Advisor, Warehouse, Copper
+Stef - shuffles deck
+Stef - draws Copper, Vagrant
+ 
+---------- qmech: turn 5 ----------
+qmech - plays Warehouse
+qmech - draws Copper, Estate, Armory
+qmech - discards Armory
+qmech - discards Estate
+qmech - discards Estate
+qmech - plays Advisor
+qmech - reveals: Copper, Copper, Warehouse
+Stef - discards Warehouse
+qmech - places cards in hand:  Copper, Copper
+qmech - plays 5 Copper
+qmech - buys Vault
+qmech - gains Vault
+qmech - draws Armory, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Estate
+qmech - discards Copper
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Warehouse
+Stef - draws Copper, Plaza, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Plaza
+Stef - plays 5 Copper
+Stef - buys Dame Natalie
+Stef - gains Dame Natalie
+Stef - draws Copper, Armory, Estate
+Stef - shuffles deck
+Stef - draws Vagrant, Copper
+ 
+---------- qmech: turn 6 ----------
+qmech - plays Armory
+qmech - gains Plaza
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Plaza
+qmech - gains Plaza
+qmech - draws Plaza
+qmech - shuffles deck
+qmech - draws Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Armory
+Stef - gains Plaza
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Plaza, Copper, Estate, Copper, Estate
+ 
+---------- qmech: turn 7 ----------
+qmech - plays Plaza
+qmech - draws Copper
+qmech - plays 3 Copper, 1 Silver
+qmech - buys Dame Anna
+qmech - gains Dame Anna
+qmech - draws Copper, Estate, Advisor, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Copper, Advisor, Dame Natalie
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Advisor
+Stef - plays Dame Natalie
+Stef - gains Oracle
+qmech - reveals: Estate, Copper
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Warehouse
+ 
+---------- qmech: turn 8 ----------
+qmech - plays Advisor
+qmech - reveals: Plaza, Armory, Warehouse
+Stef - discards Plaza
+qmech - places cards in hand:  Armory, Warehouse
+qmech - plays Warehouse
+qmech - draws Armory, Vault, Warehouse
+qmech - discards Estate
+qmech - discards Copper
+qmech - discards Copper
+qmech - plays Warehouse
+qmech - shuffles deck
+qmech - draws Estate, Silver, Copper
+qmech - discards Vault
+qmech - discards Estate
+qmech - discards Armory
+qmech - plays Armory
+qmech - gains Advisor
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Advisor
+qmech - gains Advisor
+qmech - draws Advisor, Copper, Dame Anna, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Warehouse
+Stef - draws Plaza, Estate, Oracle
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Plaza
+Stef - draws Vagrant
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Plaza
+Stef - places Plaza on top of deck
+Stef - plays Oracle
+Stef - reveals: Plaza, Armory
+Stef - places Armory on top of deck
+Stef - places Plaza on top of deck
+qmech - reveals: Plaza, Copper
+qmech - discards: Plaza, Copper
+Stef - draws Plaza, Armory
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Armory
+Stef - gains Advisor
+Stef - plays 2 Copper
+Stef - uses 3 coin tokens
+Stef - buys Dame Molly
+Stef - gains Dame Molly
+Stef - draws Advisor, Advisor, Estate, Warehouse, Vagrant
+ 
+---------- qmech: turn 9 ----------
+qmech - plays Advisor
+qmech - reveals: Copper, Estate, Copper
+Stef - discards Estate
+qmech - places cards in hand:  Copper, Copper
+qmech - plays Dame Anna
+qmech - trashes Estate, Copper
+Stef - reveals: Estate, Dame Natalie
+Stef - trashes Dame Natalie
+Stef - discards Estate
+qmech - trashes Dame Anna
+qmech - plays 3 Copper
+qmech - buys Oracle
+qmech - gains Oracle
+qmech - draws Plaza
+qmech - shuffles deck
+qmech - draws Advisor, Warehouse, Oracle, Warehouse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Vagrant
+qmech - discards Vagrant
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Armory, Plaza, Copper
+qmech - discards Plaza
+Stef - places cards in hand:  Armory, Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Warehouse
+Stef - draws Copper, Copper, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Advisor
+Stef - plays 5 Copper
+Stef - buys Sir Vander
+Stef - gains Sir Vander
+Stef - draws Advisor, Plaza, Oracle, Estate, Warehouse
+ 
+---------- qmech: turn 10 ----------
+qmech - plays Advisor
+qmech - reveals: Copper, Copper, Plaza
+Stef - discards Plaza
+qmech - places cards in hand:  Copper, Copper
+qmech - plays Plaza
+qmech - draws Copper
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Oracle
+qmech - reveals: Vault, Armory
+qmech - places Armory on top of deck
+qmech - places Vault on top of deck
+Stef - reveals: Dame Molly, Copper
+Stef - discards: Dame Molly, Copper
+qmech - draws Vault, Armory
+qmech - plays Warehouse
+qmech - draws Copper, Estate, Silver
+qmech - discards Estate
+qmech - discards Copper
+qmech - discards Copper
+qmech - plays Warehouse
+qmech - draws Estate, Advisor, Armory
+qmech - discards Estate
+qmech - discards Copper
+qmech - discards Vault
+qmech - plays Advisor
+qmech - reveals: Copper, Advisor, Copper
+Stef - discards Advisor
+qmech - places cards in hand:  Copper, Copper
+qmech - plays Armory
+qmech - gains Advisor
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Advisor
+qmech - gains Advisor
+qmech - draws Advisor
+qmech - shuffles deck
+qmech - draws Vault, Warehouse, Copper, Armory
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper
+qmech - discards Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Plaza
+Stef - draws Advisor
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Advisor
+Stef - reveals: Vagrant, Dame Molly, Copper
+qmech - discards Dame Molly
+Stef - places cards in hand:  Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Armory
+Stef - reveals: Plaza
+Stef - places Plaza on top of deck
+Stef - plays Armory
+Stef - gains Advisor
+Stef - plays Oracle
+Stef - reveals: Advisor, Plaza
+Stef - places Plaza on top of deck
+Stef - places Advisor on top of deck
+qmech - reveals: Oracle, Plaza
+qmech - discards: Oracle, Plaza
+Stef - draws Advisor, Plaza
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Sir Vander, Advisor, Vagrant, Estate, Warehouse
+ 
+---------- qmech: turn 11 ----------
+qmech - plays Advisor
+qmech - reveals: Estate, Copper, Copper
+Stef - discards Copper
+qmech - places cards in hand:  Estate, Copper
+qmech - plays Warehouse
+qmech - draws Advisor, Copper, Advisor
+qmech - discards Estate
+qmech - discards Copper
+qmech - discards Copper
+qmech - plays Advisor
+qmech - reveals: Advisor, Estate, Copper
+Stef - discards Advisor
+qmech - places cards in hand:  Estate, Copper
+qmech - plays Advisor
+qmech - reveals: Plaza, Silver, Armory
+Stef - discards Plaza
+qmech - places cards in hand:  Silver, Armory
+qmech - plays Armory
+qmech - gains Plaza
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Plaza
+qmech - gains Plaza
+qmech - draws Plaza, Advisor, Copper, Warehouse
+qmech - shuffles deck
+qmech - draws Plaza
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Dame Molly, Plaza
+qmech - discards Dame Molly
+Stef - places cards in hand:  Copper, Plaza
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Advisor
+Stef - places Advisor on top of deck
+Stef - plays Warehouse
+Stef - draws Advisor, Vagrant, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Copper
+qmech - discards Advisor
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Armory, Advisor, Oracle
+qmech - discards Advisor
+Stef - places cards in hand:  Armory, Oracle
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+qmech - reveals: Estate, Plaza
+qmech - discards: Estate, Plaza
+Stef - draws Warehouse, Plaza
+Stef - plays Plaza
+Stef - draws Estate
+Stef - plays Armory
+Stef - gains Warehouse
+Stef - plays Warehouse
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Dame Molly
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Advisor, Estate, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Copper
+qmech - discards Copper
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Dame Molly
+qmech - reveals: Copper, Silver
+qmech - trashes Silver
+qmech - discards Copper
+Stef - plays Sir Vander
+qmech - reveals: Vault, Plaza
+qmech - trashes Plaza
+qmech - discards Vault
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Advisor
+Stef - shuffles deck
+Stef - draws Advisor, Warehouse, Plaza, Copper
+ 
+---------- qmech: turn 12 ----------
+qmech - plays Advisor
+qmech - reveals: Advisor, Copper, Advisor
+Stef - discards Advisor
+qmech - places cards in hand:  Advisor, Copper
+qmech - plays Advisor
+qmech - reveals: Oracle, Estate, Copper
+Stef - discards Oracle
+qmech - places cards in hand:  Estate, Copper
+qmech - plays Plaza
+qmech - draws Copper
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Plaza
+qmech - draws Advisor
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Advisor
+qmech - reveals: Armory, Armory, Advisor
+Stef - discards Advisor
+qmech - places cards in hand:  Armory, Armory
+qmech - plays Warehouse
+qmech - draws Warehouse, Copper
+qmech - shuffles deck
+qmech - draws Copper
+qmech - discards Estate
+qmech - discards Copper
+qmech - discards Copper
+qmech - plays Warehouse
+qmech - draws Advisor, Plaza, Advisor
+qmech - discards Copper
+qmech - discards Copper
+qmech - discards Plaza
+qmech - plays Armory
+qmech - gains Plaza
+qmech - plays Armory
+qmech - gains Plaza
+qmech - plays Advisor
+qmech - reveals: Plaza, Plaza, Copper
+Stef - discards Plaza
+qmech - places cards in hand:  Plaza, Copper
+qmech - plays Advisor
+qmech - reveals: Estate, Copper, Vault
+Stef - discards Vault
+qmech - places cards in hand:  Estate, Copper
+qmech - plays Plaza
+qmech - draws Oracle
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Copper
+qmech - uses 4 coin tokens
+qmech - buys Dame Sylvia
+qmech - gains Dame Sylvia
+qmech - shuffles deck
+qmech - draws Copper, Copper, Advisor, Advisor, Dame Sylvia
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Warehouse
+qmech - discards Advisor
+Stef - places cards in hand:  Copper, Warehouse
+Stef - plays Advisor
+Stef - reveals: Vagrant, Dame Molly, Vagrant
+qmech - discards Dame Molly
+Stef - places cards in hand:  Vagrant, Vagrant
+Stef - plays Vagrant
+Stef - draws Warehouse
+Stef - reveals: Advisor
+Stef - places Advisor on top of deck
+Stef - plays Vagrant
+Stef - draws Advisor
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Advisor
+Stef - reveals: Copper, Armory, Oracle
+qmech - discards Oracle
+Stef - places cards in hand:  Copper, Armory
+Stef - plays Warehouse
+Stef - draws Copper, Advisor, Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Copper
+qmech - discards Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Warehouse
+Stef - draws Estate, Estate, Vagrant
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Plaza
+Stef - draws Sir Vander
+Stef - plays Vagrant
+Stef - draws Plaza
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Armory
+Stef - gains Oracle
+Stef - plays Warehouse
+Stef - draws Oracle, Oracle, Advisor
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Oracle
+Stef - reveals: Dame Molly, Copper
+Stef - places Copper on top of deck
+Stef - places Dame Molly on top of deck
+qmech - reveals: Plaza, Copper
+qmech - discards: Plaza, Copper
+Stef - draws Dame Molly, Copper
+Stef - plays Dame Molly
+qmech - reveals: Plaza, Copper
+qmech - trashes Plaza
+qmech - discards Copper
+Stef - plays Oracle
+Stef - reveals: Estate, Copper
+Stef - discards: Estate, Copper
+qmech - reveals: Plaza, Oracle
+qmech - discards: Plaza, Oracle
+Stef - draws Copper, Estate
+Stef - plays Sir Vander
+qmech - reveals: Warehouse, Advisor
+qmech - trashes Warehouse
+qmech - discards Advisor
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Advisor, Vagrant, Vagrant, Advisor
+ 
+---------- qmech: turn 13 ----------
+qmech - plays Advisor
+qmech - reveals: Advisor, Advisor, Warehouse
+Stef - discards Advisor
+qmech - places cards in hand:  Advisor, Warehouse
+qmech - plays Advisor
+qmech - reveals: Plaza, Armory, Armory
+Stef - discards Plaza
+qmech - places cards in hand:  Armory, Armory
+qmech - plays Advisor
+qmech - reveals: Copper, Plaza, Estate
+Stef - discards Plaza
+qmech - places cards in hand:  Copper, Estate
+qmech - plays Warehouse
+qmech - draws Estate, Copper, Vault
+qmech - discards Estate
+qmech - discards Estate
+qmech - discards Armory
+qmech - plays Dame Sylvia
+Stef - reveals: Copper, Estate
+qmech - plays 4 Copper
+qmech - buys Goons
+qmech - gains Goons
+qmech - shuffles deck
+qmech - draws Plaza, Plaza, Dame Sylvia, Copper, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Plaza
+qmech - discards Advisor
+Stef - places cards in hand:  Advisor, Plaza
+Stef - plays Advisor
+Stef - reveals: Copper, Plaza, Armory
+qmech - discards Plaza
+Stef - places cards in hand:  Copper, Armory
+Stef - plays Advisor
+Stef - reveals: Warehouse, Copper, Copper
+qmech - discards Warehouse
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Vagrant
+Stef - draws Sir Vander
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Oracle
+Stef - places Oracle on top of deck
+Stef - plays Plaza
+Stef - draws Oracle
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Armory
+Stef - gains Plaza
+Stef - plays Vagrant
+Stef - draws Plaza
+Stef - reveals: Warehouse
+Stef - places Warehouse on top of deck
+Stef - plays Plaza
+Stef - draws Warehouse
+Stef - plays Oracle
+Stef - reveals: Copper, Vagrant
+Stef - discards: Copper, Vagrant
+qmech - reveals: Advisor, Plaza
+qmech - places Advisor on top of deck
+qmech - places Plaza on top of deck
+Stef - draws Dame Molly, Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Warehouse
+qmech - discards Warehouse
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Warehouse
+Stef - draws Estate, Oracle
+Stef - shuffles deck
+Stef - draws Warehouse
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Dame Molly
+qmech - reveals: Plaza, Advisor
+qmech - trashes Plaza
+qmech - discards Advisor
+Stef - plays Oracle
+Stef - reveals: Warehouse, Copper
+Stef - discards: Warehouse, Copper
+qmech - reveals: Advisor, Copper
+qmech - places Copper on top of deck
+qmech - places Advisor on top of deck
+Stef - draws Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Warehouse
+Stef - draws Copper, Advisor, Plaza
+Stef - discards Estate
+Stef - discards Advisor
+Stef - discards Plaza
+Stef - plays Sir Vander
+qmech - reveals: Advisor, Copper
+qmech - trashes Advisor
+qmech - discards Copper
+Stef - plays 5 Copper
+Stef - uses 1 coin token
+Stef - buys Goons
+Stef - gains Goons
+Stef - shuffles deck
+Stef - draws Copper, Warehouse, Vagrant, Estate, Copper
+ 
+---------- qmech: turn 14 ----------
+qmech - plays Plaza
+qmech - draws Advisor
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Advisor
+qmech - reveals: Estate, Oracle, Copper
+Stef - discards Oracle
+qmech - places cards in hand:  Estate, Copper
+qmech - plays Plaza
+qmech - draws Armory
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Armory
+qmech - gains Plaza
+qmech - plays Dame Sylvia
+Stef - reveals: Oracle, Dame Molly
+Stef - trashes Oracle
+Stef - discards Dame Molly
+qmech - plays Copper
+qmech - buys Warehouse
+qmech - gains Warehouse
+qmech - draws Plaza, Estate, Advisor, Copper, Warehouse
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Oracle
+Stef - reveals: Advisor
+Stef - places Advisor on top of deck
+Stef - plays Warehouse
+Stef - draws Advisor, Copper, Plaza
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Advisor
+Stef - reveals: Plaza, Advisor, Advisor
+qmech - discards Advisor
+Stef - places cards in hand:  Plaza, Advisor
+Stef - plays Advisor
+Stef - reveals: Vagrant, Advisor, Estate
+qmech - discards Advisor
+Stef - places cards in hand:  Vagrant, Estate
+Stef - plays Vagrant
+Stef - draws Plaza
+Stef - reveals: Armory
+Stef - places Armory on top of deck
+Stef - plays Plaza
+Stef - draws Armory
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+qmech - reveals: Goons, Advisor
+qmech - places Goons on top of deck
+qmech - places Advisor on top of deck
+Stef - draws Copper, Goons
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Armory
+Stef - gains Warehouse
+Stef - plays Plaza
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Sir Vander, Warehouse, Advisor
+Stef - discards Warehouse
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Advisor
+Stef - reveals: Estate, Warehouse, Vagrant
+qmech - discards Warehouse
+Stef - places cards in hand:  Estate, Vagrant
+Stef - plays Goons
+qmech - discards Estate
+qmech - discards Copper
+Stef - plays Sir Vander
+qmech - reveals: Advisor, Goons
+qmech - trashes Advisor
+qmech - discards Goons
+Stef - plays Copper
+Stef - buys Oracle
+Stef - receives 1 victory point chips
+Stef - gains Oracle
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - draws Estate, Advisor, Vagrant, Copper
+ 
+---------- qmech: turn 15 ----------
+qmech - plays Advisor
+qmech - reveals: Armory, Vault, Plaza
+Stef - discards Plaza
+qmech - places cards in hand:  Armory, Vault
+qmech - plays Plaza
+qmech - draws Copper
+qmech - plays Vault
+qmech - shuffles deck
+qmech - draws Copper, Plaza
+Stef - discards Estate
+Stef - discards Copper
+qmech - plays Plaza
+qmech - draws Copper
+qmech - plays Warehouse
+qmech - draws Plaza, Plaza, Oracle
+qmech - discards Armory
+qmech - discards Copper
+qmech - discards Copper
+qmech - plays Oracle
+qmech - reveals: Advisor, Copper
+qmech - places Copper on top of deck
+qmech - places Advisor on top of deck
+Stef - reveals: Dame Molly, Copper
+Stef - discards: Dame Molly, Copper
+qmech - draws Advisor, Copper
+qmech - plays Advisor
+qmech - reveals: Goons, Dame Sylvia, Copper
+Stef - discards Goons
+qmech - places cards in hand:  Dame Sylvia, Copper
+qmech - plays Plaza
+qmech - draws Estate
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Plaza
+qmech - draws Copper
+qmech - discards Copper
+qmech - receives 1 coin token
+qmech - plays Dame Sylvia
+Stef - reveals: Warehouse, Warehouse
+Stef - trashes Warehouse
+Stef - discards Warehouse
+qmech - plays 2 Copper
+qmech - uses 2 coin tokens
+qmech - buys Goons
+qmech - gains Goons
+qmech - draws Advisor, Armory, Warehouse, Estate
+qmech - shuffles deck
+qmech - draws Armory
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Advisor
+Stef - reveals: Oracle, Plaza, Copper
+qmech - discards Oracle
+Stef - places cards in hand:  Plaza, Copper
+Stef - plays Vagrant
+Stef - draws Goons
+Stef - reveals: Warehouse
+Stef - places Warehouse on top of deck
+Stef - plays Vagrant
+Stef - draws Warehouse
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Plaza
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Vagrant, Advisor, Copper
+qmech - discards Advisor
+Stef - places cards in hand:  Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Advisor
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Plaza
+qmech - discards Plaza
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Warehouse
+Stef - draws Sir Vander, Plaza, Warehouse
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Sir Vander
+Stef - plays Plaza
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Armory, Copper
+Stef - places Copper on top of deck
+Stef - places Armory on top of deck
+qmech - reveals: Copper, Copper
+qmech - discards: Copper, Copper
+Stef - draws Armory, Copper
+Stef - plays Armory
+Stef - gains Warehouse
+Stef - plays Goons
+qmech - discards Estate
+qmech - discards Armory
+Stef - plays 5 Copper
+Stef - buys Warehouse
+Stef - receives 1 victory point chips
+Stef - gains Warehouse
+Stef - buys Warehouse
+Stef - receives 1 victory point chips
+Stef - gains Warehouse
+Stef - draws Warehouse, Vagrant, Advisor
+Stef - shuffles deck
+Stef - draws Dame Molly, Oracle
+ 
+------------ Game Over ------------
+Stef - cards: 6 Warehouse, 5 Advisor, 4 Vagrant, 3 Plaza, 2 Oracle, 1 Dame Molly, 1 Sir Vander, 1 Goons, 1 Armory, 7 Copper, 3 Estate
+Stef - victory point chips: 3
+Stef - total victory points: 6
+Stef - turns: 15
+ 
+qmech - cards: 4 Plaza, 3 Advisor, 2 Armory, 2 Warehouse, 2 Goons, 1 Vault, 1 Oracle, 1 Dame Sylvia, 6 Copper, 2 Estate
+qmech - victory point chips: 0
+qmech - total victory points: 2
+qmech - turns: 15
+ 
+1st place: Stef
+2nd place: qmech
+ 

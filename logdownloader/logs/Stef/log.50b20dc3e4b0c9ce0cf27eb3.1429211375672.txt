@@ -1,0 +1,546 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Scheme, Steward, Swindler, Warehouse, Alchemist, Gardens, Talisman, Graverobber, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+DG - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+DG - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Swindler
+DG - gains Swindler
+DG - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - shuffles deck
+Stef - draws Estate, Talisman, Copper, Copper, Copper
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Steward
+DG - gains Steward
+DG - shuffles deck
+DG - draws Swindler, Steward, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - plays Talisman
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - gains Talisman
+Stef - draws Estate, Swindler, Copper, Copper, Estate
+ 
+---------- DG: turn 3 ----------
+DG - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+DG - plays 2 Copper
+DG - buys Potion
+DG - gains Potion
+DG - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+DG - reveals Copper
+DG - trashes Copper
+DG - gains Curse
+Stef - plays 2 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Talisman, Copper, Swindler
+ 
+---------- DG: turn 4 ----------
+DG - plays 4 Copper
+DG - buys Warehouse
+DG - gains Warehouse
+DG - draws Estate
+DG - shuffles deck
+DG - draws Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+DG - reveals Copper
+DG - trashes Copper
+DG - gains Curse
+Stef - plays Talisman
+Stef - plays Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - gains Talisman
+Stef - draws Talisman, Copper, Curse, Estate, Talisman
+ 
+---------- DG: turn 5 ----------
+DG - plays 3 Copper
+DG - buys Scheme
+DG - gains Scheme
+DG - draws Swindler, Steward, Copper, Estate, Potion
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 1 Copper
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - draws Estate, Copper, Swindler, Copper, Copper
+ 
+---------- DG: turn 6 ----------
+DG - plays Steward
+DG - draws Warehouse, Copper
+DG - draws Curse
+DG - shuffles deck
+DG - draws Steward, Warehouse, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Swindler
+DG - reveals Estate
+DG - trashes Estate
+DG - gains Estate
+Stef - plays 3 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - shuffles deck
+Stef - draws Gardens, Copper, Swindler, Copper, Estate
+ 
+---------- DG: turn 7 ----------
+DG - plays Steward
+DG - trashes Estate, Curse
+DG - draws Copper, Copper, Curse, Estate, Potion
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Swindler
+DG - reveals Copper
+DG - trashes Copper
+DG - gains Curse
+Stef - plays 2 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Talisman, Estate, Copper, Talisman, Warehouse
+ 
+---------- DG: turn 8 ----------
+DG - draws Copper, Swindler, Scheme
+DG - shuffles deck
+DG - draws Copper, Steward
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Warehouse
+Stef - draws Swindler, Curse, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Curse
+Stef - plays Swindler
+DG - reveals Curse
+DG - trashes Curse
+DG - gains Curse
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - draws Estate, Talisman, Copper, Talisman, Copper
+ 
+---------- DG: turn 9 ----------
+DG - plays Scheme
+DG - draws Estate
+DG - plays Steward
+DG - trashes Estate, Copper
+DG - Scheme choice: Steward
+DG - draws Steward, Estate, Warehouse, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - gains Talisman
+Stef - gains Talisman
+Stef - draws Warehouse, Talisman, Warehouse
+Stef - shuffles deck
+Stef - draws Silver, Talisman
+ 
+---------- DG: turn 10 ----------
+DG - plays Warehouse
+DG - draws Curse, Potion
+DG - shuffles deck
+DG - draws Swindler
+DG - discards Estate
+DG - discards Steward
+DG - discards Curse
+DG - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+DG - plays 2 Copper, 1 Potion
+DG - buys Alchemist
+DG - gains Alchemist
+DG - draws Scheme, Curse, Copper
+DG - shuffles deck
+DG - draws Curse, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Curse
+Stef - discards Estate
+Stef - discards Curse
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Copper, Silver, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Silver
+Stef - plays Silver
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Talisman, Estate, Talisman, Swindler, Copper
+ 
+---------- DG: turn 11 ----------
+DG - plays Scheme
+DG - draws Estate
+DG - Scheme choice: Scheme
+DG - draws Scheme, Potion, Swindler, Copper, Steward
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Swindler
+DG - reveals Alchemist
+DG - trashes Alchemist
+DG - gains Alchemist
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - draws Talisman, Swindler, Copper, Talisman, Gardens
+ 
+---------- DG: turn 12 ----------
+DG - plays Scheme
+DG - draws Warehouse
+DG - plays Swindler
+Stef - reveals Talisman
+Stef - trashes Talisman
+Stef - gains Potion
+DG - plays 1 Potion, 1 Copper
+DG - buys Alchemist
+DG - gains Alchemist
+DG - Scheme choice: Scheme
+DG - draws Scheme
+DG - shuffles deck
+DG - draws Alchemist, Estate, Curse, Warehouse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Swindler
+DG - reveals Copper
+DG - trashes Copper
+DG - gains Curse
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Estate, Gardens, Talisman, Silver, Warehouse
+ 
+---------- DG: turn 13 ----------
+DG - plays Scheme
+DG - draws Copper
+DG - plays Alchemist
+DG - draws Copper, Potion
+DG - plays Warehouse
+DG - draws Steward, Swindler, Curse
+DG - discards Estate
+DG - discards Curse
+DG - discards Curse
+DG - plays Swindler
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+DG - plays 2 Copper, 1 Potion
+DG - buys Alchemist
+DG - gains Alchemist
+DG - Scheme choice: Swindler
+DG - places Alchemist on top of deck
+DG - draws Swindler, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Copper, Curse
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Warehouse
+Stef - draws Talisman, Warehouse, Potion
+Stef - discards Gardens
+Stef - discards Estate
+Stef - discards Potion
+Stef - plays 1 Silver
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Swindler, Silver, Estate, Silver
+ 
+---------- DG: turn 14 ----------
+DG - plays Alchemist
+DG - draws Alchemist, Copper
+DG - plays Alchemist
+DG - draws Estate, Scheme
+DG - plays Alchemist
+DG - draws Potion, Warehouse
+DG - plays Scheme
+DG - draws Steward
+DG - plays Warehouse
+DG - draws Curse, Curse
+DG - discards Curse
+DG - discards Curse
+DG - discards Curse
+DG - plays Swindler
+Stef - reveals Talisman
+Stef - trashes Talisman
+Stef - gains Potion
+DG - plays 2 Copper, 1 Potion
+DG - buys Silver
+DG - gains Silver
+DG - Scheme choice: Alchemist
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Alchemist, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Estate, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Swindler
+DG - reveals Curse
+DG - trashes Curse
+DG - gains Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Warehouse, Warehouse, Curse, Estate
+ 
+---------- DG: turn 15 ----------
+DG - plays Alchemist
+DG - draws Curse, Copper
+DG - plays Alchemist
+DG - draws Scheme, Swindler
+DG - plays Alchemist
+DG - draws Silver, Warehouse
+DG - plays Scheme
+DG - draws Potion
+DG - plays Warehouse
+DG - draws Steward, Copper
+DG - shuffles deck
+DG - draws Curse
+DG - discards Swindler
+DG - discards Estate
+DG - discards Curse
+DG - plays Steward
+DG - trashes Curse, Curse
+DG - plays 2 Copper, 1 Silver, 1 Potion
+DG - buys Silver
+DG - gains Silver
+DG - Scheme choice: Warehouse
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Warehouse, Alchemist, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Warehouse
+Stef - draws Gardens, Copper, Swindler
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Gardens
+Stef - plays Swindler
+DG - reveals Swindler
+DG - trashes Swindler
+DG - gains Steward
+Stef - plays 2 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Talisman, Talisman, Talisman, Gardens, Gardens
+ 
+---------- DG: turn 16 ----------
+DG - plays Alchemist
+DG - draws Silver, Copper
+DG - plays Alchemist
+DG - draws Curse, Estate
+DG - plays Alchemist
+DG - draws Steward, Scheme
+DG - plays Scheme
+DG - draws Silver
+DG - plays Warehouse
+DG - draws Potion
+DG - shuffles deck
+DG - draws Steward
+DG - discards Curse
+DG - discards Estate
+DG - discards Steward
+DG - plays Steward
+DG - takes 2 coins
+DG - plays 2 Copper, 2 Silver, 1 Potion
+DG - buys Forge
+DG - gains Forge
+DG - Scheme choice: Scheme
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Scheme, Alchemist, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Forge
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - gains Warehouse
+Stef - draws Curse, Talisman, Copper, Warehouse, Warehouse
+ 
+---------- DG: turn 17 ----------
+DG - plays Scheme
+DG - draws Copper
+DG - plays Alchemist
+DG - draws Silver, Warehouse
+DG - plays Alchemist
+DG - draws Potion, Estate
+DG - plays Alchemist
+DG - draws Copper, Curse
+DG - plays Warehouse
+DG - draws Steward, Steward, Silver
+DG - discards Estate
+DG - discards Copper
+DG - discards Steward
+DG - plays Forge
+DG - trashes Curse, Steward
+DG - gains Swindler
+DG - plays 2 Silver, 1 Copper, 1 Potion
+DG - buys Graverobber
+DG - gains Graverobber
+DG - Scheme choice: Warehouse
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Warehouse, Alchemist, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Warehouse, Curse
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Gardens, Potion, Talisman
+Stef - discards Gardens
+Stef - discards Copper
+Stef - discards Potion
+Stef - plays Warehouse
+Stef - draws Silver, Warehouse, Warehouse
+Stef - discards Warehouse
+Stef - discards Warehouse
+Stef - discards Silver
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Curse
+Stef - gains Curse
+Stef - draws Copper, Gardens, Estate, Silver, Potion
+ 
+---------- DG: turn 18 ----------
+DG - plays Alchemist
+DG - draws Silver, Swindler
+DG - plays Alchemist
+DG - draws Scheme, Graverobber
+DG - plays Alchemist
+DG - draws Estate, Potion
+DG - plays Scheme
+DG - draws Copper
+DG - plays Warehouse
+DG - draws Forge, Steward, Copper
+DG - discards Graverobber
+DG - discards Estate
+DG - discards Forge
+DG - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Copper
+DG - plays 2 Silver, 2 Copper, 1 Potion
+DG - buys Province
+DG - gains Province
+DG - Scheme choice: Scheme
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Scheme, Alchemist, Alchemist, Alchemist
+DG - shuffles deck
+DG - draws Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gardens, Talisman, Warehouse, Warehouse, Silver
+ 
+---------- DG: turn 19 ----------
+DG - plays Scheme
+DG - draws Warehouse
+DG - plays Alchemist
+DG - draws Silver, Silver
+DG - plays Alchemist
+DG - draws Swindler, Copper
+DG - plays Alchemist
+DG - draws Copper, Graverobber
+DG - plays Warehouse
+DG - draws Potion, Forge, Steward
+DG - discards Estate
+DG - discards Forge
+DG - discards Steward
+DG - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Steward
+DG - plays 2 Silver, 2 Copper, 1 Potion
+DG - buys Province
+DG - gains Province
+DG - Scheme choice: Warehouse
+DG - places Alchemist, Alchemist, Alchemist on top of deck
+DG - draws Warehouse, Alchemist, Alchemist, Alchemist, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Warehouse
+Stef - draws Talisman, Estate, Gardens
+Stef - discards Gardens
+Stef - discards Gardens
+Stef - discards Warehouse
+Stef - plays 1 Silver
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Warehouse, Talisman, Curse, Gardens, Talisman
+ 
+------------ Game Over ------------
+Stef - cards: 9 Warehouse, 1 Steward, 1 Swindler, 6 Talisman, 4 Copper, 3 Silver, 2 Potion, 8 Gardens, 4 Estate, 4 Curse
+Stef - total victory points: 32
+Stef - turns: 20
+ 
+DG - cards: 3 Alchemist, 1 Warehouse, 1 Forge, 1 Steward, 1 Scheme, 1 Swindler, 1 Graverobber, 2 Silver, 2 Copper, 1 Potion, 2 Province, 1 Estate
+DG - total victory points: 13
+DG - turns: 19
+ 
+1st place: Stef
+2nd place: DG
+ 

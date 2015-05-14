@@ -1,0 +1,568 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Haven, Shanty Town, Steward, Horse Traders, Trader, City, Junk Dealer, Mine, Minion, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+yed - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - shuffles deck
+Stef - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Horse Traders
+yed - gains Horse Traders
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Estate, Horse Traders, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Horse Traders, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Junk Dealer
+yed - gains Junk Dealer
+yed - draws Horse Traders, Estate
+yed - shuffles deck
+yed - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 2 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Junk Dealer, Estate, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Horse Traders
+yed - discards Estate
+yed - discards Copper
+yed - plays 1 Silver, 1 Copper
+yed - buys Minion
+yed - gains Minion
+yed - draws Silver, Estate, Junk Dealer, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Junk Dealer, Estate, Copper
+Stef - shuffles deck
+Stef - draws Silver, Minion
+ 
+---------- yed: turn 6 ----------
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Estate
+yed - plays 2 Copper, 1 Silver
+yed - buys Minion
+yed - gains Minion
+yed - draws Copper, Copper, Copper
+yed - shuffles deck
+yed - draws Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Minion
+Stef - discards: Copper, Silver, Copper
+Stef - draws Minion, Copper, Copper, Horse Traders
+yed - discards: Copper, Copper, Copper, Silver, Copper
+yed - draws Estate, Junk Dealer, Copper, Copper
+Stef - plays Minion
+Stef - discards: Copper, Copper, Horse Traders
+Stef - draws Estate, Copper, Junk Dealer, Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Junk Dealer, Minion, Minion
+ 
+---------- yed: turn 7 ----------
+yed - plays Junk Dealer
+yed - draws Estate
+yed - trashes Estate
+yed - plays 2 Copper
+yed - buys Shanty Town
+yed - gains Shanty Town
+yed - draws Silver, Copper, Horse Traders, Minion, Minion
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Junk Dealer
+Stef - draws Minion
+Stef - trashes Copper
+Stef - plays Minion
+yed - reveals reaction Horse Traders
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Copper
+Stef - draws Copper, Copper, Junk Dealer, Silver
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Copper, Horse Traders
+Stef - shuffles deck
+Stef - draws Copper, Junk Dealer
+ 
+---------- yed: turn 8 ----------
+yed - duration Horse Traders
+yed - shuffles deck
+yed - draws Copper
+yed - plays Minion
+Stef - reveals reaction Horse Traders
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Horse Traders
+yed - discards Copper
+yed - discards Copper
+yed - plays 1 Silver
+yed - buys Minion
+yed - gains Minion
+yed - buys Horse Traders
+yed - gains Horse Traders
+yed - draws Silver, Junk Dealer, Copper, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Horse Traders
+Stef - draws Silver
+Stef - plays Junk Dealer
+Stef - draws Minion
+Stef - trashes Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Horse Traders
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Minion, Minion, Copper, Copper, Junk Dealer
+ 
+---------- yed: turn 9 ----------
+yed - plays Junk Dealer
+yed - draws Shanty Town
+yed - trashes Estate
+yed - plays Shanty Town
+yed - reveals Silver, Copper, Copper
+yed - draws Copper, Copper
+yed - plays 4 Copper, 1 Silver
+yed - buys Minion
+yed - gains Minion
+yed - draws Copper
+yed - shuffles deck
+yed - draws Minion, Silver, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Minion
+Stef - trashes Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Horse Traders, Junk Dealer, Copper, Copper
+yed - discards: Copper, Minion, Silver, Copper, Copper
+yed - draws Copper, Minion, Horse Traders, Copper
+Stef - plays Junk Dealer
+Stef - draws Minion
+Stef - trashes Copper
+Stef - plays Minion
+yed - reveals reaction Horse Traders
+Stef - takes 2 coins
+Stef - plays Horse Traders
+Stef - discards Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Shanty Town, Minion, Silver
+Stef - shuffles deck
+Stef - draws Minion
+ 
+---------- yed: turn 10 ----------
+yed - duration Horse Traders
+yed - draws Silver
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Horse Traders
+yed - discards Copper
+yed - discards Copper
+yed - plays 1 Silver
+yed - buys City
+yed - gains City
+yed - buys Haven
+yed - gains Haven
+yed - draws Copper, Horse Traders, Copper, Junk Dealer, Shanty Town
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Minion
+yed - reveals reaction Horse Traders
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Shanty Town
+Stef - reveals Copper, Silver
+Stef - draws Minion, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Silver
+Stef - draws Minion, Copper, Minion, Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Junk Dealer
+Stef - trashes Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Junk Dealer
+Stef - draws Horse Traders, City
+Stef - shuffles deck
+Stef - draws Silver, Copper
+Stef - plays City
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - trashes Copper
+Stef - plays Horse Traders
+Stef - discards Silver
+Stef - buys City
+Stef - gains City
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - shuffles deck
+Stef - draws Minion, Junk Dealer, Minion, Minion, Junk Dealer
+ 
+---------- yed: turn 11 ----------
+yed - duration Horse Traders
+yed - draws Minion
+yed - plays Junk Dealer
+yed - draws Minion
+yed - trashes Copper
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Horse Traders
+yed - discards Shanty Town
+yed - discards Copper
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Province, Copper, Copper, Haven, Minion
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Junk Dealer
+Stef - draws Horse Traders
+Stef - trashes Junk Dealer
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Horse Traders
+Stef - draws Silver, Minion, City, Minion
+yed - discards: Province, Copper, Copper, Haven, Minion
+yed - draws Copper, Silver, Copper, Minion
+Stef - plays City
+Stef - draws Shanty Town, City
+Stef - plays City
+Stef - draws Horse Traders, Minion
+Stef - plays Horse Traders
+Stef - discards Shanty Town
+Stef - discards Silver
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - shuffles deck
+Stef - draws Shanty Town, Horse Traders, Silver
+Stef - plays Horse Traders
+Stef - discards Silver
+Stef - discards Shanty Town
+Stef - buys Province
+Stef - gains Province
+Stef - buys City
+Stef - gains City
+Stef - buys Haven
+Stef - gains Haven
+Stef - shuffles deck
+Stef - draws City, Minion, Minion, Haven, Horse Traders
+ 
+---------- yed: turn 12 ----------
+yed - plays Minion
+Stef - reveals reaction Horse Traders
+yed - discards: Copper, Silver, Copper
+yed - draws Horse Traders, Minion, Minion, City
+yed - plays City
+yed - draws Horse Traders, Silver
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - discards: Horse Traders, Horse Traders, Silver
+yed - draws Junk Dealer, Copper, Shanty Town, Copper
+yed - plays Junk Dealer
+yed - shuffles deck
+yed - draws Copper
+yed - trashes Copper
+yed - plays Shanty Town
+yed - reveals Copper, Copper
+yed - draws Horse Traders, Copper
+yed - plays Horse Traders
+yed - discards Copper
+yed - discards Copper
+yed - plays 1 Copper
+yed - buys City
+yed - gains City
+yed - buys Haven
+yed - gains Haven
+yed - draws Silver, Province, Haven, Horse Traders, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Horse Traders
+Stef - draws Shanty Town
+Stef - plays City
+Stef - draws Horse Traders, City
+Stef - plays City
+Stef - draws Province, Minion
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Shanty Town
+Stef - plays Horse Traders
+Stef - discards Haven
+Stef - discards Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - draws Silver, Minion, Junk Dealer, Minion
+yed - discards: Silver, Province, Haven, Horse Traders, Copper
+yed - draws Minion, Silver, Copper
+yed - shuffles deck
+yed - draws Junk Dealer
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Junk Dealer
+Stef - draws City
+Stef - trashes Silver
+Stef - plays City
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Haven
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Haven
+Stef - draws Minion, Shanty Town, Province
+Stef - shuffles deck
+Stef - draws Haven
+Stef - plays Haven
+Stef - sets aside Shanty Town
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - shuffles deck
+Stef - draws Minion, Province, Minion, Province, Minion
+ 
+---------- yed: turn 13 ----------
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Copper
+yed - plays Minion
+yed - discards: Silver, Copper
+yed - draws Silver, Copper, City, Copper
+Stef - discards: Minion, Province, Minion, Province, Minion
+Stef - draws Horse Traders, City, Minion, Minion
+yed - plays City
+yed - draws Haven, Minion
+yed - plays Haven
+yed - draws Shanty Town
+yed - sets aside Copper
+yed - plays Minion
+Stef - reveals reaction Horse Traders
+yed - takes 2 coins
+yed - plays Shanty Town
+yed - reveals Silver, Copper
+yed - draws Horse Traders, Minion
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Horse Traders
+yed - discards Copper
+yed - discards Silver
+yed - buys Province
+yed - gains Province
+yed - draws City, Minion, Horse Traders, Copper, Haven
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Shanty Town in hand
+Stef - duration Horse Traders
+Stef - draws Shanty Town
+Stef - plays City
+Stef - draws City, Horse Traders
+Stef - plays City
+Stef - draws City, Junk Dealer
+Stef - plays City
+Stef - draws Horse Traders, Minion
+Stef - plays Horse Traders
+Stef - discards Junk Dealer
+Stef - discards Minion
+Stef - plays Horse Traders
+Stef - discards Horse Traders
+Stef - discards Shanty Town
+Stef - plays Minion
+yed - reveals reaction Horse Traders
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Shanty Town
+Stef - reveals 
+Stef - shuffles deck
+Stef - draws Province, Minion
+Stef - plays Minion
+Stef - discards Province
+Stef - draws Junk Dealer, Minion, Minion, Shanty Town
+Stef - plays Shanty Town
+Stef - reveals Junk Dealer, Minion, Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Junk Dealer
+Stef - draws Province, Horse Traders, Minion
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Junk Dealer
+Stef - shuffles deck
+Stef - draws City, Province, Horse Traders, Horse Traders
+ 
+---------- yed: turn 14 ----------
+yed - duration Haven
+yed - places set aside Copper in hand
+yed - duration Horse Traders
+yed - draws Province
+yed - plays City
+yed - shuffles deck
+yed - draws Silver, Shanty Town
+yed - plays Haven
+yed - draws Minion
+yed - sets aside Horse Traders
+yed - plays Minion
+Stef - reveals reaction Horse Traders
+Stef - reveals reaction Horse Traders
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Shanty Town
+yed - reveals Copper, Copper, Province, Silver
+yed - draws Copper, Junk Dealer
+yed - plays Junk Dealer
+yed - draws Silver
+yed - trashes Copper
+yed - plays 2 Copper, 2 Silver
+yed - buys Province
+yed - gains Province
+yed - draws City, Copper, Horse Traders, Province, Minion
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Horse Traders
+Stef - draws Haven
+Stef - duration Horse Traders
+Stef - draws Minion
+Stef - plays City
+Stef - draws City, Minion
+Stef - plays Minion
+yed - reveals reaction Horse Traders
+Stef - takes 2 coins
+Stef - plays Horse Traders
+Stef - discards City
+Stef - discards Minion
+Stef - plays Horse Traders
+Stef - discards Haven
+Stef - discards Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Shanty Town, Minion, Province, Minion, City
+ 
+------------ Game Over ------------
+Stef - cards: 6 Minion, 3 City, 3 Horse Traders, 2 Shanty Town, 1 Haven, 1 Junk Dealer, 5 Province
+Stef - total victory points: 30
+Stef - turns: 15
+ 
+yed - cards: 4 Minion, 2 City, 2 Haven, 2 Horse Traders, 1 Shanty Town, 1 Junk Dealer, 3 Copper, 2 Silver, 3 Province
+yed - total victory points: 18
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

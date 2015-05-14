@@ -1,0 +1,540 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Beggar, Native Village, Fortune Teller, Bazaar, Catacombs, Festival, Market, Mountebank, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+wicket - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+wicket - shuffles deck
+Stef - shuffles deck
+wicket - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- wicket: turn 1 ----------
+wicket - plays 4 Copper
+wicket - buys Fortune Teller
+wicket - gains Fortune Teller
+wicket - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- wicket: turn 2 ----------
+wicket - plays 3 Copper
+wicket - buys Fortune Teller
+wicket - gains Fortune Teller
+wicket - shuffles deck
+wicket - draws Copper, Copper, Fortune Teller, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- wicket: turn 3 ----------
+wicket - plays Fortune Teller
+Stef - reveals Copper, Estate
+Stef - discards Copper
+wicket - plays 2 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Copper, Fortune Teller, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Mountebank, Silver, Copper
+ 
+---------- wicket: turn 4 ----------
+wicket - plays Fortune Teller
+Stef - reveals Silver, Estate
+Stef - discards Silver
+wicket - plays 3 Copper
+wicket - buys Bazaar
+wicket - gains Bazaar
+wicket - draws Copper, Copper
+wicket - shuffles deck
+wicket - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- wicket: turn 5 ----------
+wicket - plays 5 Copper
+wicket - buys Mountebank
+wicket - gains Mountebank
+wicket - draws Fortune Teller, Estate, Fortune Teller, Estate, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Copper, Mountebank
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- wicket: turn 6 ----------
+wicket - plays Fortune Teller
+Stef - reveals Native Village, Copper, Estate
+Stef - discards: Native Village, Copper
+wicket - plays 1 Silver
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Estate, Copper, Bazaar, Copper
+wicket - shuffles deck
+wicket - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays 4 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Estate, Estate, Copper, Mountebank, Silver
+ 
+---------- wicket: turn 7 ----------
+wicket - plays Bazaar
+wicket - draws Fortune Teller
+wicket - plays Fortune Teller
+Stef - reveals Estate
+wicket - plays 3 Copper
+wicket - buys Bazaar
+wicket - gains Bazaar
+wicket - draws Fortune Teller, Silver, Curse, Mountebank, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mountebank
+wicket - discards Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Estate, Copper, Silver, Bazaar
+Stef - shuffles deck
+Stef - draws Catacombs
+ 
+---------- wicket: turn 8 ----------
+wicket - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+wicket - plays 1 Silver
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Copper, Mountebank, Bazaar
+Stef - places cards in hand:  Copper, Mountebank, Bazaar
+Stef - plays Bazaar
+Stef - draws Mountebank
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays Copper
+Stef - buys Farmland
+Stef - trashes Silver
+Stef - gains Festival
+Stef - gains Farmland
+Stef - draws Estate, Copper, Silver, Copper, Native Village
+ 
+---------- wicket: turn 9 ----------
+wicket - plays 4 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Copper, Silver
+wicket - shuffles deck
+wicket - draws Estate, Copper, Bazaar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Mountebank, Copper, Copper
+ 
+---------- wicket: turn 10 ----------
+wicket - plays Bazaar
+wicket - draws Curse
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Bazaar
+wicket - gains Bazaar
+wicket - draws Estate, Fortune Teller, Copper, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays 4 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper, Farmland, Native Village, Estate, Curse
+ 
+---------- wicket: turn 11 ----------
+wicket - plays Fortune Teller
+Stef - reveals Silver, Festival, Bazaar, Copper, Native Village, Copper, Catacombs, Estate
+Stef - discards: Silver, Festival, Bazaar, Copper, Native Village, Copper, Catacombs
+wicket - plays 3 Copper
+wicket - buys Mountebank
+wicket - gains Mountebank
+wicket - draws Copper, Mountebank, Fortune Teller, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - draws Copper, Bazaar, Mountebank
+Stef - shuffles deck
+Stef - draws Native Village, Catacombs
+ 
+---------- wicket: turn 12 ----------
+wicket - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+wicket - plays 2 Silver, 1 Copper
+wicket - buys Farmland
+wicket - trashes Fortune Teller
+wicket - gains Bazaar
+wicket - gains Farmland
+wicket - draws Copper, Curse, Copper, Curse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Bazaar
+Stef - draws Native Village
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Copper
+Stef - places cards in hand:  Catacombs, Copper, Copper
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Catacombs
+Stef - looks at Farmland, Festival, Bazaar
+Stef - places cards in hand:  Farmland, Festival, Bazaar
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Festival
+Stef - plays Mountebank
+wicket - discards Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Estate, Copper, Copper, Curse, Copper
+ 
+---------- wicket: turn 13 ----------
+wicket - plays 3 Copper
+wicket - buys Native Village
+wicket - gains Native Village
+wicket - draws Copper, Estate, Silver, Curse, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 3 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Mountebank
+Stef - shuffles deck
+Stef - draws Catacombs, Copper, Bazaar, Native Village
+ 
+---------- wicket: turn 14 ----------
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Fortune Teller
+wicket - gains Fortune Teller
+wicket - draws Bazaar
+wicket - shuffles deck
+wicket - draws Curse, Copper, Copper, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Catacombs, Festival, Estate
+Stef - places cards in hand:  Catacombs, Festival, Estate
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Copper, Curse, Farmland
+Stef - discards: Copper, Curse, Farmland
+Stef - draws Native Village, Copper, Copper
+Stef - plays Native Village
+Stef - sets aside Native Village
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Mountebank
+wicket - discards Curse
+Stef - plays 4 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Bazaar, Catacombs, Bazaar, Curse
+ 
+---------- wicket: turn 15 ----------
+wicket - plays Bazaar
+wicket - draws Copper
+wicket - plays 4 Copper
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Bazaar, Silver, Copper, Copper, Farmland
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Bazaar
+Stef - draws Mountebank
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Festival, Estate, Copper
+Stef - discards: Festival, Estate, Copper
+Stef - draws Catacombs, Curse, Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Province, Native Village, Mountebank
+Stef - places cards in hand:  Province, Native Village, Mountebank
+Stef - plays Native Village
+Stef - sets aside Catacombs
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays Mountebank
+wicket - gains Curse
+wicket - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Native Village, Farmland, Copper
+ 
+---------- wicket: turn 16 ----------
+wicket - plays Bazaar
+wicket - draws Copper
+wicket - plays 3 Copper, 1 Silver
+wicket - buys Farmland
+wicket - trashes Farmland
+wicket - gains Province
+wicket - gains Farmland
+wicket - draws Silver, Native Village, Estate, Fortune Teller, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Native Village
+Stef - shuffles deck
+Stef - sets aside Bazaar
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Silver, Catacombs, Copper, Copper
+ 
+---------- wicket: turn 17 ----------
+wicket - plays Native Village
+wicket - sets aside Copper
+wicket - plays Fortune Teller
+Stef - reveals Catacombs, Estate
+Stef - discards Catacombs
+wicket - plays 1 Silver, 1 Copper
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Curse, Mountebank, Estate, Silver, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Catacombs
+Stef - looks at Estate, Bazaar, Province
+Stef - discards: Estate, Bazaar, Province
+Stef - draws Mountebank, Curse, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Mountebank, Bazaar, Festival, Province, Native Village
+ 
+---------- wicket: turn 18 ----------
+wicket - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+wicket - plays 1 Silver
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Fortune Teller, Copper, Mountebank, Bazaar, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Festival
+Stef - plays Mountebank
+wicket - gains Copper
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays 1 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Catacombs, Catacombs, Native Village, Copper, Copper
+ 
+---------- wicket: turn 19 ----------
+wicket - plays Bazaar
+wicket - draws Silver
+wicket - plays Mountebank
+Stef - gains Copper
+wicket - plays Fortune Teller
+Stef - reveals Province
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Province
+wicket - gains Province
+wicket - draws Estate, Copper, Curse, Bazaar, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Native Village
+Stef - sets aside Province
+Stef - plays Catacombs
+Stef - looks at Mountebank, Copper, Curse
+Stef - discards: Mountebank, Copper, Curse
+Stef - draws Bazaar, Festival, Curse
+Stef - plays Bazaar
+Stef - draws Curse
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Copper, Farmland, Silver
+Stef - discards: Copper, Farmland, Silver
+Stef - draws Copper, Silver, Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Province, Province, Native Village, Copper, Farmland
+ 
+---------- wicket: turn 20 ----------
+wicket - plays Bazaar
+wicket - shuffles deck
+wicket - draws Fortune Teller
+wicket - plays Fortune Teller
+Stef - reveals Copper, Silver, Bazaar, Silver, Mountebank, Copper, Estate
+Stef - discards: Copper, Silver, Bazaar, Silver, Mountebank, Copper
+wicket - plays 1 Copper
+wicket - buys Estate
+wicket - gains Estate
+wicket - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - draws Native Village, Copper, Catacombs, Mountebank, Curse
+ 
+---------- wicket: turn 21 ----------
+wicket - plays 3 Copper, 1 Silver
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Fortune Teller, Copper, Bazaar, Curse, Mountebank
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Native Village
+Stef - sets aside Festival
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Bazaar
+Stef - places cards in hand:  Catacombs, Copper, Bazaar
+Stef - plays Bazaar
+Stef - draws Festival
+Stef - plays Catacombs
+Stef - looks at Catacombs, Curse, Curse
+Stef - discards: Catacombs, Curse, Curse
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Festival
+Stef - plays Mountebank
+wicket - discards Curse
+Stef - plays 4 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Silver, Mountebank, Curse, Farmland
+ 
+---------- wicket: turn 22 ----------
+wicket - plays Bazaar
+wicket - draws Farmland
+wicket - plays Mountebank
+Stef - discards Curse
+wicket - plays Fortune Teller
+Stef - reveals Catacombs, Native Village, Province
+Stef - discards: Catacombs, Native Village
+wicket - plays 1 Copper
+wicket - buys Farmland
+wicket - trashes Farmland
+wicket - gains Province
+wicket - gains Farmland
+wicket - draws Bazaar, Copper, Copper, Curse, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Mountebank
+wicket - discards Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Bazaar, Copper, Silver, Copper
+ 
+---------- wicket: turn 23 ----------
+wicket - plays Bazaar
+wicket - draws Province
+wicket - plays 3 Copper
+wicket - buys Estate
+wicket - gains Estate
+wicket - draws Curse, Silver, Copper, Curse, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Bazaar
+Stef - draws Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Copper, Province, Farmland, Native Village, Catacombs
+ 
+---------- wicket: turn 24 ----------
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Estate
+wicket - gains Estate
+wicket - draws Copper, Estate, Copper, Mountebank, Curse
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Native Village
+Stef - takes set aside cards: Estate, Estate, Copper, Copper, Native Village, Copper, Catacombs, Bazaar, Copper, Province, Estate, Festival
+Stef - plays Festival
+Stef - plays Bazaar
+Stef - draws Mountebank
+Stef - plays 5 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Copper, Copper, Curse, Bazaar
+ 
+------------ Game Over ------------
+Stef - cards: 4 Catacombs, 3 Bazaar, 3 Native Village, 2 Festival, 2 Mountebank, 11 Copper, 2 Silver, 5 Province, 3 Estate, 2 Duchy, 1 Farmland, 3 Curse
+Stef - total victory points: 38
+Stef - turns: 25
+ 
+wicket - cards: 4 Bazaar, 2 Fortune Teller, 2 Mountebank, 15 Copper, 1 Native Village, 5 Silver, 6 Estate, 3 Duchy, 3 Province, 1 Farmland, 7 Curse
+wicket - total victory points: 28
+wicket - turns: 24
+ 
+1st place: Stef
+2nd place: wicket
+ 

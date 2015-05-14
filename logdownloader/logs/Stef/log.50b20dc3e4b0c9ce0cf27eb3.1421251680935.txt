@@ -1,0 +1,805 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Apothecary, Masquerade, Swindler, Herald, Haggler, Highway, Inn, Margrave, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+DG - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+DG - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 4 Copper
+DG - buys Masquerade
+DG - gains Masquerade
+DG - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Potion
+ 
+---------- DG: turn 2 ----------
+DG - plays 3 Copper
+DG - buys Lighthouse
+DG - gains Lighthouse
+DG - shuffles deck
+DG - draws Copper, Copper, Lighthouse, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Copper, Masquerade, Estate, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays Lighthouse
+DG - plays 3 Copper
+DG - buys Potion
+DG - gains Potion
+DG - draws Copper, Estate, Copper, Estate, Masquerade
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Estate
+Stef - passes Estate
+DG - passes Copper
+Stef - trashes Estate
+Stef - plays 5 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Margrave, Copper
+ 
+---------- DG: turn 4 ----------
+DG - duration Lighthouse
+DG - plays Masquerade
+DG - draws Copper, Copper
+DG - passes Estate
+Stef - passes Estate
+DG - trashes Estate
+DG - plays 3 Copper
+DG - buys Herald
+DG - gains Herald
+DG - shuffles deck
+DG - draws Estate, Herald, Copper, Estate, Masquerade
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Margrave
+Stef - draws Copper, Masquerade, Copper
+DG - draws Lighthouse
+DG - discards Copper
+DG - discards Estate
+DG - discards Estate
+Stef - plays 5 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Copper, Potion, Apothecary, Inn
+ 
+---------- DG: turn 5 ----------
+DG - plays Lighthouse
+DG - plays Herald
+DG - draws Potion
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Masquerade
+DG - draws Estate, Copper
+DG - passes Estate
+Stef - passes Copper
+DG - trashes Copper
+DG - plays 1 Potion, 1 Copper
+DG - buys Apothecary
+DG - gains Apothecary
+DG - draws Copper, Copper, Copper, Copper
+DG - shuffles deck
+DG - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper, Estate
+Stef - places Estate on top of deck
+Stef - plays Inn
+Stef - draws Estate, Masquerade
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Masquerade
+Stef - draws Copper, Margrave
+Stef - passes Estate
+DG - passes Estate
+Stef - trashes Estate
+Stef - plays Margrave
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Highway, Potion, Margrave, Copper, Apothecary
+ 
+---------- DG: turn 6 ----------
+DG - duration Lighthouse
+DG - plays 4 Copper
+DG - buys Margrave
+DG - gains Margrave
+DG - draws Masquerade, Apothecary, Herald, Potion, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Copper, Copper, Copper
+Stef - places Estate on top of deck
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Margrave
+Stef - draws Inn, Apothecary, Masquerade
+DG - draws Estate
+DG - discards Masquerade
+DG - discards Potion
+DG - discards Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places Apothecary on top of deck
+Stef - gains Herald
+Stef - draws Apothecary, Copper, Copper
+Stef - shuffles deck
+Stef - draws Apothecary, Copper
+ 
+---------- DG: turn 7 ----------
+DG - plays Apothecary
+DG - draws Copper
+DG - shuffles deck
+DG - reveals: Potion, Copper, Margrave, Copper
+DG - places Margrave on top of deck
+DG - plays Herald
+DG - draws Margrave
+DG - reveals: Copper
+DG - places Copper on top of deck
+DG - plays Margrave
+DG - draws Copper, Copper, Estate
+Stef - draws Masquerade
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+DG - plays 5 Copper, 1 Potion
+DG - buys Apothecary
+DG - gains Apothecary
+DG - buys Lighthouse
+DG - gains Lighthouse
+DG - draws Copper, Masquerade, Lighthouse
+DG - shuffles deck
+DG - draws Copper, Apothecary
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Inn
+Stef - reveals: Margrave, Highway, Apothecary, Copper
+Stef - places Margrave on top of deck
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Inn
+Stef - draws Apothecary, Highway
+Stef - discards Copper
+Stef - discards Highway
+Stef - plays Apothecary
+Stef - draws Margrave
+Stef - reveals: Potion, Copper, Copper, Herald
+Stef - places Herald on top of deck
+Stef - plays Apothecary
+Stef - draws Herald
+Stef - reveals: Copper, Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Highway
+Stef - places Highway on top of deck
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Copper, Copper
+DG - draws Potion
+DG - discards Copper
+DG - discards Potion
+DG - discards Masquerade
+Stef - plays Masquerade
+Stef - passes Estate
+DG - passes Copper
+Stef - trashes Copper
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Copper, Margrave, Copper, Apothecary, Apothecary
+ 
+---------- DG: turn 8 ----------
+DG - plays Apothecary
+DG - draws Estate
+DG - reveals: Herald, Apothecary, Copper, Copper
+DG - places Herald on top of deck
+DG - places Apothecary on top of deck
+DG - plays Lighthouse
+DG - plays 2 Copper
+DG - buys Swindler
+DG - gains Swindler
+DG - draws Apothecary, Herald, Margrave, Lighthouse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Inn, Copper, Copper, Copper
+Stef - places Inn on top of deck
+Stef - plays Apothecary
+Stef - draws Inn
+Stef - reveals: Potion, Apothecary, Highway, Masquerade
+Stef - places Masquerade on top of deck
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Inn
+Stef - draws Apothecary, Highway
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Masquerade
+Stef - reveals: Copper, Herald, Apothecary, Margrave
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Herald on top of deck
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Apothecary
+Stef - reveals: Margrave
+Stef - plays Margrave
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Margrave
+Stef - plays Masquerade
+Stef - passes Copper
+DG - passes Copper
+Stef - trashes Copper
+Stef - plays 6 Copper, 1 Potion
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Inn, Copper, Potion, Apothecary, Margrave
+ 
+---------- DG: turn 9 ----------
+DG - duration Lighthouse
+DG - plays Apothecary
+DG - draws Copper
+DG - reveals: Estate
+DG - shuffles deck
+DG - reveals: Estate, Copper, Swindler
+DG - places Estate on top of deck
+DG - places Swindler on top of deck
+DG - places Estate on top of deck
+DG - plays Lighthouse
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Swindler
+DG - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+DG - plays Margrave
+DG - draws Estate, Apothecary, Potion
+Stef - draws Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+DG - plays 3 Copper, 1 Potion
+DG - buys Apothecary
+DG - gains Apothecary
+DG - buys Inn
+DG - gains Inn
+DG - places Apothecary, Inn on top of deck
+DG - shuffles deck
+DG - draws Copper, Inn, Apothecary, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Masquerade
+Stef - reveals: Herald, Apothecary, Lighthouse, Highway
+Stef - places Apothecary on top of deck
+Stef - places Highway on top of deck
+Stef - places Herald on top of deck
+Stef - places Lighthouse on top of deck
+Stef - plays Inn
+Stef - draws Lighthouse, Herald
+Stef - discards Masquerade
+Stef - discards Lighthouse
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Apothecary
+Stef - plays Apothecary
+Stef - draws Margrave
+Stef - reveals: Apothecary, Copper, Apothecary, Highway
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Margrave
+Stef - draws Apothecary, Apothecary, Highway
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Lighthouse, Curse, Masquerade
+Stef - places Masquerade on top of deck
+Stef - places Curse on top of deck
+Stef - places Lighthouse on top of deck
+Stef - plays Highway
+Stef - draws Lighthouse
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Lighthouse
+Stef - plays Margrave
+Stef - draws Masquerade
+Stef - plays Masquerade
+Stef - passes Curse
+DG - passes Estate
+Stef - trashes Estate
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Copper, Apothecary, Highway, Margrave, Highway
+ 
+---------- DG: turn 10 ----------
+DG - duration Lighthouse
+DG - plays Apothecary
+DG - draws Masquerade
+DG - shuffles deck
+DG - reveals: Swindler, Margrave, Apothecary, Estate
+DG - places Estate on top of deck
+DG - places Swindler on top of deck
+DG - places Margrave on top of deck
+DG - places Apothecary on top of deck
+DG - plays Inn
+DG - draws Apothecary, Margrave
+DG - discards Copper
+DG - discards Copper
+DG - plays Apothecary
+DG - draws Swindler
+DG - reveals: Estate, Copper, Lighthouse, Apothecary
+DG - places Estate on top of deck
+DG - places Lighthouse on top of deck
+DG - places Apothecary on top of deck
+DG - plays Margrave
+DG - draws Apothecary, Lighthouse, Estate
+DG - plays Apothecary
+DG - draws Potion
+DG - reveals: Copper, Estate, Herald, Copper
+DG - places Herald on top of deck
+DG - places Estate on top of deck
+DG - plays Lighthouse
+DG - plays Masquerade
+DG - draws Estate, Herald
+DG - passes Curse
+Stef - passes Copper
+DG - trashes Estate
+DG - plays 4 Copper, 1 Potion
+DG - buys Apothecary
+DG - gains Apothecary
+DG - buys Herald
+DG - gains Herald
+DG - shuffles deck
+DG - draws Copper, Swindler, Copper, Estate, Apothecary
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - plays Apothecary
+Stef - draws Inn
+Stef - reveals: Apothecary, Highway, Copper, Apothecary
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Highway
+Stef - draws Apothecary
+Stef - plays Highway
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Highway
+Stef - reveals: Copper, Apothecary, Copper, Margrave
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Margrave, Masquerade, Margrave, Apothecary
+Stef - places Masquerade on top of deck
+Stef - places Margrave on top of deck
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Inn
+Stef - draws Apothecary, Margrave
+Stef - discards Apothecary
+Stef - discards Margrave
+Stef - plays Margrave
+Stef - draws Margrave, Masquerade, Copper
+Stef - plays Apothecary
+Stef - draws Herald
+Stef - reveals: Potion, Apothecary
+Stef - shuffles deck
+Stef - reveals: Apothecary, Margrave
+Stef - places Apothecary on top of deck
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Herald
+Stef - draws Apothecary
+Stef - reveals: Margrave
+Stef - plays Margrave
+Stef - draws Apothecary
+Stef - plays Highway
+Stef - plays Margrave
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Herald
+Stef - gains Herald
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places Herald on top of deck
+Stef - gains Herald
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Herald
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Apothecary, Curse
+ 
+---------- DG: turn 11 ----------
+DG - duration Lighthouse
+DG - plays Apothecary
+DG - draws Lighthouse
+DG - reveals: Inn, Margrave, Herald, Copper
+DG - places Inn on top of deck
+DG - places Margrave on top of deck
+DG - places Herald on top of deck
+DG - plays Lighthouse
+DG - plays Swindler
+Stef - reveals Apothecary
+Stef - trashes Apothecary
+DG - plays 3 Copper
+DG - buys Haggler
+DG - gains Haggler
+DG - draws Herald, Margrave, Inn, Copper, Apothecary
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Margrave
+Stef - reveals: Lighthouse, Margrave, Highway, Herald
+Stef - places Lighthouse on top of deck
+Stef - places Margrave on top of deck
+Stef - places Herald on top of deck
+Stef - places Highway on top of deck
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Margrave
+Stef - reveals: Lighthouse
+Stef - plays Lighthouse
+Stef - plays Margrave
+Stef - draws Margrave, Highway, Inn
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Highway
+Stef - draws Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Apothecary, Lighthouse
+Stef - places Apothecary on top of deck
+Stef - places Lighthouse on top of deck
+Stef - plays Herald
+Stef - draws Lighthouse
+Stef - reveals: Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Masquerade, Apothecary, Highway
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Masquerade on top of deck
+Stef - plays Margrave
+Stef - draws Masquerade, Apothecary, Highway
+Stef - plays Inn
+Stef - discards Curse
+Stef - discards Copper
+Stef - plays Margrave
+Stef - shuffles deck
+Stef - draws Copper, Curse
+Stef - plays Highway
+Stef - plays Masquerade
+Stef - passes Curse
+DG - passes Copper
+Stef - trashes Potion
+Stef - plays 5 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Copper, Herald, Apothecary, Highway, Margrave
+ 
+---------- DG: turn 12 ----------
+DG - duration Lighthouse
+DG - plays Apothecary
+DG - draws Apothecary
+DG - reveals: Herald, Potion, Masquerade, Copper
+DG - places Masquerade on top of deck
+DG - places Herald on top of deck
+DG - plays Herald
+DG - draws Herald
+DG - reveals: Masquerade
+DG - plays Masquerade
+DG - draws Apothecary, Copper
+DG - passes Curse
+Stef - passes Copper
+DG - trashes Potion
+DG - plays Apothecary
+DG - shuffles deck
+DG - draws Apothecary
+DG - reveals: Copper, Lighthouse, Haggler, Swindler
+DG - places Haggler on top of deck
+DG - places Lighthouse on top of deck
+DG - places Swindler on top of deck
+DG - plays Herald
+DG - draws Swindler
+DG - reveals: Lighthouse
+DG - plays Lighthouse
+DG - plays Apothecary
+DG - draws Haggler
+DG - reveals: Estate, Copper, Copper
+DG - places Estate on top of deck
+DG - plays Apothecary
+DG - draws Estate
+DG - plays Margrave
+DG - plays Haggler
+DG - plays 6 Copper
+DG - buys Province
+DG - gains Highway
+DG - gains Province
+DG - buys Lighthouse
+DG - gains Copper
+DG - gains Lighthouse
+DG - shuffles deck
+DG - draws Swindler, Copper, Copper, Apothecary, Masquerade
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Apothecary
+Stef - draws Herald
+Stef - reveals: Masquerade, Copper, Highway, Herald
+Stef - places Masquerade on top of deck
+Stef - places Herald on top of deck
+Stef - places Highway on top of deck
+Stef - plays Herald
+Stef - draws Highway
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Masquerade
+Stef - reveals: Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Margrave, Copper, Copper
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Herald
+Stef - draws Apothecary
+Stef - reveals: Margrave
+Stef - plays Margrave
+Stef - draws Highway, Highway, Highway
+Stef - plays Apothecary
+Stef - draws Highway
+Stef - reveals: Margrave, Lighthouse, Apothecary, Herald
+Stef - places Lighthouse on top of deck
+Stef - places Margrave on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Herald on top of deck
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Apothecary
+Stef - reveals: Margrave
+Stef - plays Margrave
+Stef - draws Lighthouse, Copper, Margrave
+Stef - plays Margrave
+Stef - draws Inn
+Stef - plays Margrave
+Stef - plays Lighthouse
+Stef - plays Highway
+Stef - plays Highway
+Stef - plays Highway
+Stef - plays Highway
+Stef - plays Highway
+Stef - plays Inn
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - passes Curse
+DG - passes Copper
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Highway, Copper
+ 
+---------- DG: turn 13 ----------
+DG - duration Lighthouse
+DG - plays Apothecary
+DG - draws Lighthouse
+DG - reveals: Lighthouse, Estate, Herald, Apothecary
+DG - places Herald on top of deck
+DG - places Apothecary on top of deck
+DG - places Lighthouse on top of deck
+DG - places Estate on top of deck
+DG - plays Lighthouse
+DG - plays Masquerade
+DG - draws Estate, Lighthouse
+DG - passes Curse
+Stef - passes Copper
+DG - plays 2 Copper
+DG - buys Herald
+DG - gains Herald
+DG - draws Apothecary, Herald, Copper, Highway, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Apothecary
+Stef - draws Herald
+Stef - reveals: Margrave, Highway, Margrave, Masquerade
+Stef - places Margrave on top of deck
+Stef - places Highway on top of deck
+Stef - places Margrave on top of deck
+Stef - places Masquerade on top of deck
+Stef - plays Herald
+Stef - draws Masquerade
+Stef - reveals: Margrave
+Stef - plays Margrave
+Stef - draws Highway, Margrave, Apothecary
+Stef - plays Apothecary
+Stef - draws Highway
+Stef - reveals: Haggler, Highway, Highway, Inn
+Stef - places Haggler on top of deck
+Stef - places Inn on top of deck
+Stef - places Highway on top of deck
+Stef - places Highway on top of deck
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Inn
+Stef - plays Highway
+Stef - draws Haggler
+Stef - plays Highway
+Stef - draws Margrave
+Stef - plays Inn
+Stef - draws Herald, Margrave
+Stef - discards Haggler
+Stef - discards Margrave
+Stef - plays Herald
+Stef - draws Lighthouse
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Inn
+Stef - draws Copper, Apothecary
+Stef - discards Masquerade
+Stef - discards Curse
+Stef - plays Apothecary
+Stef - draws Highway
+Stef - reveals: Apothecary, Copper, Margrave, Herald
+Stef - places Apothecary on top of deck
+Stef - places Margrave on top of deck
+Stef - places Herald on top of deck
+Stef - plays Highway
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Margrave
+Stef - reveals: Apothecary
+Stef - plays Apothecary
+Stef - draws Herald
+Stef - reveals: Highway, Apothecary, Highway
+Stef - shuffles deck
+Stef - reveals: Masquerade
+Stef - places Highway on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Highway on top of deck
+Stef - places Masquerade on top of deck
+Stef - plays Herald
+Stef - draws Masquerade
+Stef - reveals: Highway
+Stef - plays Highway
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Highway
+Stef - reveals: Curse, Margrave, Haggler
+Stef - places Haggler on top of deck
+Stef - places Margrave on top of deck
+Stef - places Curse on top of deck
+Stef - plays Lighthouse
+Stef - plays Highway
+Stef - draws Curse
+Stef - plays Margrave
+Stef - draws Margrave, Haggler
+Stef - plays Margrave
+Stef - plays Margrave
+Stef - plays Margrave
+Stef - plays Haggler
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Herald
+Stef - gains Herald
+Stef - buys Herald
+Stef - gains Herald
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Herald, Margrave, Highway, Highway, Province
+ 
+------------ Game Over ------------
+Stef - cards: 9 Highway, 7 Herald, 5 Margrave, 5 Apothecary, 2 Lighthouse, 2 Inn, 1 Haggler, 1 Masquerade, 3 Copper, 2 Province, 1 Curse
+Stef - total victory points: 11
+Stef - turns: 14
+ 
+DG - cards: 4 Apothecary, 3 Herald, 3 Lighthouse, 1 Highway, 1 Masquerade, 1 Swindler, 1 Inn, 1 Haggler, 1 Margrave, 7 Copper, 1 Estate, 1 Province
+DG - total victory points: 7
+DG - turns: 13
+ 
+1st place: Stef
+2nd place: DG
+ 

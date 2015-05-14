@@ -1,0 +1,401 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Candlestick Maker, Fortune Teller, Lookout, Workshop, Rats, Taxman, Counting House, Governor, Horn of Plenty, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+faust - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+faust - shuffles deck
+Stef - shuffles deck
+faust - draws Copper, Copper, Estate, Copper, Copper
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- faust: turn 1 ----------
+faust - plays 4 Copper
+faust - buys Rats
+faust - gains Rats
+faust - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Governor
+Stef - gains Governor
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- faust: turn 2 ----------
+faust - plays 3 Copper
+faust - buys Fortune Teller
+faust - gains Fortune Teller
+faust - shuffles deck
+faust - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Estate, Copper, Governor, Copper, Copper
+ 
+---------- faust: turn 3 ----------
+faust - plays 4 Copper
+faust - buys Lookout
+faust - gains Lookout
+faust - draws Fortune Teller, Estate, Copper, Rats, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Governor
+Stef - chooses to gain a gold
+Stef - gains Gold
+faust - gains Silver
+Stef - plays 3 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Candlestick Maker, Copper
+Stef - shuffles deck
+Stef - draws Workshop, Copper, Copper
+ 
+---------- faust: turn 4 ----------
+faust - plays Rats
+faust - draws Copper
+faust - gains Rats
+faust - trashes Estate
+faust - plays Fortune Teller
+Stef - reveals Gold, Candlestick Maker, Estate
+Stef - discards: Gold, Candlestick Maker
+faust - plays 3 Copper
+faust - buys Governor
+faust - gains Governor
+faust - draws Estate
+faust - shuffles deck
+faust - draws Estate, Rats, Copper, Rats
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Workshop
+Stef - gains Potion
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Rats
+Stef - gains Rats
+Stef - draws Estate, Copper, Governor, Copper, Estate
+ 
+---------- faust: turn 5 ----------
+faust - plays Rats
+faust - draws Lookout
+faust - gains Rats
+faust - trashes Estate
+faust - plays Lookout
+faust - trashes Copper
+faust - discards Silver
+faust - places Fortune Teller on top of deck
+faust - plays Rats
+faust - draws Fortune Teller
+faust - gains Rats
+faust - trashes Estate
+faust - plays Fortune Teller
+Stef - reveals Copper, Copper, Estate
+Stef - discards: Copper, Copper
+faust - plays 1 Copper
+faust - buys Workshop
+faust - gains Workshop
+faust - draws Copper, Copper, Copper, Copper, Governor
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Governor
+Stef - chooses to gain a gold
+Stef - gains Gold
+faust - gains Silver
+Stef - plays 2 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Copper, Gold, Copper
+ 
+---------- faust: turn 6 ----------
+faust - plays Governor
+faust - chooses to gain a gold
+faust - gains Gold
+Stef - gains Silver
+faust - plays 4 Copper
+faust - buys Potion
+faust - gains Potion
+faust - draws Copper
+faust - shuffles deck
+faust - draws Copper, Copper, Lookout, Rats
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper, 1 Gold
+Stef - uses 1 coin token
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Governor, Potion, Estate, Workshop, Copper
+ 
+---------- faust: turn 7 ----------
+faust - plays Lookout
+faust - trashes Rats
+faust - draws Rats
+faust - discards Workshop
+faust - places Gold on top of deck
+faust - plays Rats
+faust - draws Gold
+faust - gains Rats
+faust - trashes Copper
+faust - plays 2 Copper, 1 Gold
+faust - buys Governor
+faust - gains Governor
+faust - draws Governor, Silver, Potion, Rats, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Governor
+Stef - chooses to trash a card
+Stef - trashes Estate
+Stef - gains Rats
+faust - trashes Rats
+faust - draws Copper
+faust - gains Governor
+Stef - plays Workshop
+Stef - gains Rats
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Copper, Candlestick Maker, Candlestick Maker, Gold, Estate
+ 
+---------- faust: turn 8 ----------
+faust - plays Governor
+faust - chooses to trash a card
+faust - trashes Silver
+faust - gains Governor
+Stef - trashes Estate
+Stef - gains Workshop
+faust - plays Potion
+faust - buys Vineyard
+faust - gains Vineyard
+faust - draws Silver, Copper, Fortune Teller
+faust - shuffles deck
+faust - draws Vineyard, Governor
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Copper, 1 Gold
+Stef - uses 2 coin tokens
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Copper, Rats
+Stef - shuffles deck
+Stef - draws Candlestick Maker
+ 
+---------- faust: turn 9 ----------
+faust - plays Governor
+faust - chooses to trash a card
+faust - trashes Silver
+faust - gains Governor
+faust - plays Fortune Teller
+Stef - reveals Workshop, Gold, Gold, Potion, Estate
+Stef - discards: Workshop, Gold, Gold, Potion
+faust - buys Candlestick Maker
+faust - gains Candlestick Maker
+faust - draws Potion, Copper, Rats, Copper, Governor
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Rats
+Stef - draws Estate
+Stef - gains Rats
+Stef - trashes Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Potion, Copper, Vineyard, Candlestick Maker, Copper
+ 
+---------- faust: turn 10 ----------
+faust - plays Rats
+faust - draws Copper
+faust - gains Rats
+faust - trashes Copper
+faust - plays Governor
+faust - chooses to trash a card
+faust - trashes Copper
+faust - gains Candlestick Maker
+faust - plays Potion
+faust - buys Vineyard
+faust - gains Vineyard
+faust - draws Governor, Rats, Copper, Workshop, Rats
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Candlestick Maker, Rats, Candlestick Maker, Rats, Governor
+ 
+---------- faust: turn 11 ----------
+faust - plays Rats
+faust - draws Gold
+faust - gains Rats
+faust - trashes Copper
+faust - plays Governor
+faust - chooses to draw cards
+faust - draws Governor, Lookout
+faust - shuffles deck
+faust - draws Potion
+Stef - draws Copper
+faust - plays Lookout
+faust - trashes Copper
+faust - discards Fortune Teller
+faust - places Governor on top of deck
+faust - plays Governor
+faust - chooses to gain a gold
+faust - gains Gold
+Stef - gains Silver
+faust - plays Workshop
+faust - gains Potion
+faust - plays 1 Gold, 1 Potion
+faust - buys Vineyard
+faust - gains Vineyard
+faust - draws Governor, Rats, Governor, Candlestick Maker, Rats
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Rats
+Stef - draws Workshop
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Copper, Silver, Candlestick Maker
+faust - draws Candlestick Maker
+Stef - plays Rats
+Stef - draws Potion
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Workshop
+Stef - gains Rats
+Stef - plays 1 Silver, 1 Potion
+Stef - uses 1 coin token
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - shuffles deck
+Stef - draws Copper, Workshop, Candlestick Maker, Potion, Potion
+ 
+---------- faust: turn 12 ----------
+faust - plays Governor
+faust - chooses to draw cards
+faust - draws Copper, Vineyard, Vineyard
+Stef - draws Silver
+faust - plays Governor
+faust - chooses to draw cards
+faust - draws Rats, Governor
+faust - shuffles deck
+faust - draws Governor
+Stef - draws Governor
+faust - plays Governor
+faust - chooses to draw cards
+faust - draws Governor, Lookout, Rats
+Stef - draws Rats
+faust - plays Rats
+faust - draws Potion
+faust - gains Rats
+faust - trashes Copper
+faust - plays Lookout
+faust - trashes Fortune Teller
+faust - discards Vineyard
+faust - places Gold on top of deck
+faust - plays Governor
+faust - chooses to draw cards
+faust - draws Gold, Workshop, Rats
+Stef - draws Copper
+faust - plays Rats
+faust - draws Potion
+faust - gains Rats
+faust - trashes Gold
+faust - plays Candlestick Maker
+faust - receives 1 coin token
+faust - plays Candlestick Maker
+faust - receives 1 coin token
+faust - plays Governor
+faust - chooses to gain a gold
+faust - gains Gold
+Stef - gains Silver
+faust - plays Workshop
+faust - gains Rats
+faust - plays 2 Potion
+faust - uses 2 coin tokens
+faust - buys Vineyard
+faust - gains Vineyard
+faust - buys Vineyard
+faust - gains Vineyard
+faust - buys Estate
+faust - gains Estate
+faust - draws Gold
+faust - shuffles deck
+faust - draws Gold, Lookout, Governor, Rats
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Rats
+Stef - draws Candlestick Maker
+Stef - gains Rats
+Stef - trashes Potion
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Copper, Workshop, Rats
+faust - draws Rats
+Stef - plays Rats
+Stef - draws Fortune Teller
+Stef - gains Rats
+Stef - trashes Potion
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Workshop
+Stef - gains Rats
+Stef - plays 3 Copper, 1 Silver
+Stef - uses 5 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Rats, Copper, Gold, Vineyard, Candlestick Maker
+ 
+------------ Game Over ------------
+Stef - cards: 10 Rats, 8 Candlestick Maker, 2 Workshop, 1 Governor, 1 Fortune Teller, 5 Copper, 3 Silver, 2 Gold, 1 Potion, 3 Vineyard, 1 Province, 1 Estate
+Stef - total victory points: 28
+Stef - turns: 13
+ 
+faust - cards: 8 Rats, 5 Governor, 2 Candlestick Maker, 1 Lookout, 1 Workshop, 2 Gold, 2 Potion, 5 Vineyard, 1 Estate
+faust - total victory points: 26
+faust - turns: 12
+ 
+1st place: Stef
+2nd place: faust
+ 

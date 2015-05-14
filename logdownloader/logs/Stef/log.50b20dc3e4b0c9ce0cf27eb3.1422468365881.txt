@@ -1,0 +1,433 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, Great Hall, Steward, Tunnel, Baron, Cartographer, Library, Border Village, Farmland, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - buys Steward
+shark_bait - gains Steward
+shark_bait - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Steward
+shark_bait - gains Steward
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Steward, Estate, Steward
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Estate, Copper, Steward, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Steward
+shark_bait - trashes Estate, Estate
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - draws Potion, Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Copper, Steward, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Baron
+shark_bait - gains Baron
+shark_bait - draws Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Baron, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - draws Estate, Copper, Copper, Steward, Potion
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Copper, Steward, Steward, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Steward
+Stef - draws Apothecary, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Steward, Apothecary
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Steward
+shark_bait - trashes Copper, Copper
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Steward, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Apothecary, Copper, Potion, Copper
+Stef - places Apothecary on top of deck
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Farmland
+Stef - trashes Potion
+Stef - gains Grand Market
+Stef - gains Farmland
+Stef - draws Apothecary, Steward, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Steward
+shark_bait - trashes Copper, Copper
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Baron, Copper, Copper, Estate, Steward
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Farmland
+Stef - reveals: Steward, Grand Market, Copper, Apothecary
+Stef - places Steward on top of deck
+Stef - places Grand Market on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 3 Copper
+Stef - buys Baron
+Stef - gains Baron
+Stef - draws Apothecary, Grand Market, Steward, Copper, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Steward
+shark_bait - trashes Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Baron, Silver, Copper, Silver, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Apothecary, Baron, Farmland
+Stef - places Baron on top of deck
+Stef - places Farmland on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Grand Market
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Farmland
+Stef - reveals: Baron, Copper, Steward, Copper
+Stef - places Steward on top of deck
+Stef - places Baron on top of deck
+Stef - plays Steward
+Stef - trashes Farmland, Copper
+Stef - plays 5 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Cartographer
+Stef - draws Baron, Steward, Copper, Estate
+Stef - shuffles deck
+Stef - draws Grand Market
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Baron
+shark_bait - discards Estate
+shark_bait - plays Silver
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - draws Steward, Steward
+shark_bait - shuffles deck
+shark_bait - draws Silver, Silver, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Baron
+Stef - discards Estate
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Copper, Border Village, Apothecary, Cartographer, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Steward
+shark_bait - takes 2 coins
+shark_bait - plays 2 Silver
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - draws Copper, Baron, Grand Market
+shark_bait - shuffles deck
+shark_bait - draws Grand Market, Steward
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Steward
+Stef - reveals: Copper, Copper, Apothecary
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Apothecary on top of deck
+Stef - plays Cartographer
+Stef - draws Apothecary
+Stef - looks at Grand Market, Copper, Estate, Grand Market
+Stef - discards Estate
+Stef - places Grand Market on top of deck
+Stef - places Copper on top of deck
+Stef - places Grand Market on top of deck
+Stef - plays Apothecary
+Stef - draws Grand Market
+Stef - reveals: Copper, Grand Market, Steward, Baron
+Stef - places Baron on top of deck
+Stef - places Steward on top of deck
+Stef - places Grand Market on top of deck
+Stef - plays Border Village
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Grand Market
+Stef - draws Baron
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Baron
+Stef - shuffles deck
+Stef - draws Copper, Grand Market, Steward, Border Village, Cartographer
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Grand Market
+shark_bait - draws Steward
+shark_bait - plays Grand Market
+shark_bait - draws Silver
+shark_bait - plays Steward
+shark_bait - trashes Copper, Steward
+shark_bait - plays 1 Silver
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - draws Estate, Silver
+shark_bait - shuffles deck
+shark_bait - draws Steward, Silver, Baron
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Cartographer
+Stef - draws Estate
+Stef - looks at Apothecary, Baron, Baron, Grand Market
+Stef - discards Baron
+Stef - discards Baron
+Stef - places Grand Market on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Border Village
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Grand Market
+Stef - reveals: Steward, Apothecary, Copper, Border Village
+Stef - places Steward on top of deck
+Stef - places Border Village on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Grand Market
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Border Village
+Stef - reveals: Steward
+Stef - shuffles deck
+Stef - reveals: Baron, Baron
+Stef - places Baron on top of deck
+Stef - places Steward on top of deck
+Stef - places Baron on top of deck
+Stef - plays Border Village
+Stef - draws Baron
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Baron
+Stef - shuffles deck
+Stef - draws Grand Market, Baron, Border Village, Border Village
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Baron
+shark_bait - discards Estate
+shark_bait - plays 2 Silver
+shark_bait - buys Border Village
+shark_bait - gains Border Village
+shark_bait - gains Silver
+shark_bait - draws Grand Market, Grand Market, Grand Market
+shark_bait - shuffles deck
+shark_bait - draws Silver, Steward
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Border Village
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Grand Market, Cartographer, Grand Market, Copper
+Stef - places Grand Market on top of deck
+Stef - places Cartographer on top of deck
+Stef - places Grand Market on top of deck
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Cartographer
+Stef - plays Cartographer
+Stef - draws Grand Market
+Stef - looks at Steward, Apothecary, Steward, Grand Market
+Stef - discards Steward
+Stef - places Apothecary on top of deck
+Stef - places Grand Market on top of deck
+Stef - places Steward on top of deck
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Steward
+Stef - draws Grand Market, Apothecary
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Grand Market, Steward, Grand Market, Grand Market
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Grand Market
+shark_bait - draws Estate
+shark_bait - plays Grand Market
+shark_bait - draws Silver
+shark_bait - plays Grand Market
+shark_bait - draws Border Village
+shark_bait - plays Border Village
+shark_bait - draws Baron
+shark_bait - plays Baron
+shark_bait - discards Estate
+shark_bait - plays Steward
+shark_bait - takes 2 coins
+shark_bait - plays 2 Silver
+shark_bait - buys Grand Market
+shark_bait - gains Grand Market
+shark_bait - buys Border Village
+shark_bait - gains Border Village
+shark_bait - gains Steward
+shark_bait - buys Great Hall
+shark_bait - gains Great Hall
+shark_bait - draws Silver
+shark_bait - shuffles deck
+shark_bait - draws Grand Market, Silver, Steward, Grand Market
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Grand Market
+Stef - draws Baron
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Grand Market
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Border Village
+Stef - reveals: Grand Market, Estate, Baron, Grand Market
+Stef - places Estate on top of deck
+Stef - places Baron on top of deck
+Stef - places Grand Market on top of deck
+Stef - places Grand Market on top of deck
+Stef - plays Border Village
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Baron
+Stef - plays Steward
+Stef - draws Estate, Border Village
+Stef - plays Border Village
+Stef - draws Cartographer
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Cartographer
+Stef - draws Apothecary
+Stef - shuffles deck
+Stef - looks at Estate
+Stef - places Estate on top of deck
+Stef - plays Grand Market
+Stef - draws Estate
+Stef - plays Baron
+Stef - discards Estate
+Stef - buys Farmland
+Stef - trashes Steward
+Stef - gains Library
+Stef - gains Farmland
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Tunnel
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Grand Market, Farmland, Grand Market, Apothecary, Estate
+ 
+---------- shark_bait: turn 14 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 6 Grand Market, 3 Border Village, 2 Apothecary, 2 Baron, 1 Steward, 1 Cartographer, 1 Library, 1 Farmland, 1 Estate, 1 Tunnel, 1 Province
+Stef - total victory points: 11
+Stef - turns: 14
+ 
+shark_bait - resigned
+shark_bait - cards: 4 Grand Market, 2 Steward, 2 Border Village, 1 Great Hall, 1 Baron, 3 Silver, 1 Estate
+shark_bait - total victory points: 2
+shark_bait - turns: 13
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

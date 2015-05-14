@@ -1,0 +1,667 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Forager, Oasis, Smugglers, Baron, Rats, Worker's Village, Laboratory, Tribute, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Stef - shuffles deck
+SheCantSayNo - draws Copper, Copper, Estate, Copper, Copper
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Baron
+Stef - gains Baron
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Rats
+SheCantSayNo - gains Rats
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Copper, Copper, Oasis, Copper, Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Copper, Estate, Rats, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Baron, Copper, Estate
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Rats
+SheCantSayNo - draws Estate
+SheCantSayNo - gains Rats
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Laboratory, Baron, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Silver, Gold, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Estate
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Oasis, Copper, Copper, Forager
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver, 1 Gold
+SheCantSayNo - buys Bank
+SheCantSayNo - gains Bank
+SheCantSayNo - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Oasis
+Stef - draws Vagrant
+Stef - discards Estate
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant, Copper, Baron, Laboratory
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Copper, Vagrant, Rats, Rats
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Laboratory
+Stef - draws Estate, Copper
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Oasis
+Stef - places Oasis on top of deck
+Stef - plays Laboratory
+Stef - draws Oasis, Copper
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Forager, Copper, Worker's Village, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Gold
+SheCantSayNo - places Gold on top of deck
+SheCantSayNo - plays Rats
+SheCantSayNo - draws Gold
+SheCantSayNo - gains Rats
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 2 Copper, 1 Gold
+SheCantSayNo - buys Laboratory
+SheCantSayNo - gains Laboratory
+SheCantSayNo - draws Copper, Bank, Copper, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Worker's Village
+Stef - shuffles deck
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Laboratory, Baron, Copper, Laboratory, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Laboratory
+SheCantSayNo - gains Laboratory
+SheCantSayNo - draws Forager, Silver, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Laboratory
+Stef - draws Vagrant, Copper
+Stef - plays Laboratory
+Stef - draws Copper, Vagrant
+Stef - plays Vagrant
+Stef - draws Worker's Village
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Copper, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Oasis
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 6 Copper
+Stef - buys Bank
+Stef - gains Bank
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Forager, Vagrant
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 1 Silver, 1 Copper, 1 Gold
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Rats, Copper, Estate, Rats, Laboratory
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Laboratory
+Stef - draws Vagrant, Laboratory
+Stef - plays Laboratory
+Stef - draws Baron, Oasis
+Stef - plays Vagrant
+Stef - draws Worker's Village
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Worker's Village
+Stef - discards Forager
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 5 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Worker's Village, Copper, Copper, Bank, Vagrant
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays Rats
+SheCantSayNo - draws Vagrant
+SheCantSayNo - gains Rats
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Bank
+SheCantSayNo - reveals: Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Bank
+SheCantSayNo - gains Bank
+SheCantSayNo - draws Copper, Copper, Rats, Laboratory
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Rats
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - plays Bank
+Stef - buys Bank
+Stef - gains Bank
+Stef - draws Worker's Village, Laboratory, Vagrant, Estate, Laboratory
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Silver, Gold
+SheCantSayNo - plays Rats
+SheCantSayNo - draws Rats
+SheCantSayNo - gains Rats
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 1 Copper, 1 Silver, 1 Gold
+SheCantSayNo - buys Laboratory
+SheCantSayNo - gains Laboratory
+SheCantSayNo - draws Vagrant, Laboratory, Rats, Forager, Bank
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Laboratory
+Stef - draws Vagrant, Laboratory
+Stef - plays Laboratory
+Stef - draws Oasis, Worker's Village
+Stef - plays Laboratory
+Stef - draws Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Forager, Copper
+Stef - plays Worker's Village
+Stef - draws Baron
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Bank
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Forager
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 6 Copper
+Stef - plays Bank
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vagrant, Bank, Copper
+Stef - shuffles deck
+Stef - draws Estate, Worker's Village
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Copper, Forager
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Rats
+SheCantSayNo - draws Bank
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - plays Bank
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Forager, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Laboratory, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Baron
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Vagrant, Laboratory
+Stef - plays Laboratory
+Stef - draws Laboratory, Oasis
+Stef - plays Laboratory
+Stef - draws Worker's Village, Forager
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Oasis
+Stef - draws Vagrant
+Stef - discards Estate
+Stef - plays Vagrant
+Stef - draws Worker's Village
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Worker's Village
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Laboratory, Copper
+Stef - plays Laboratory
+Stef - draws Bank, Province
+Stef - plays Forager
+Stef - trashes Baron
+Stef - plays 6 Copper
+Stef - plays Bank
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Province, Laboratory
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Silver, Rats
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Rats
+SheCantSayNo - draws Laboratory
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Bank, Rats
+SheCantSayNo - plays Rats
+SheCantSayNo - draws Vagrant
+SheCantSayNo - gains Rats
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Gold
+SheCantSayNo - reveals: Bank
+SheCantSayNo - places Bank on top of deck
+SheCantSayNo - plays 2 Copper, 1 Silver, 1 Gold
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Bank, Copper, Forager, Province, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Copper
+Stef - plays Laboratory
+Stef - draws Copper, Oasis
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Province
+Stef - plays Oasis
+Stef - draws Vagrant
+Stef - discards Estate
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays 4 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Bank, Vagrant, Worker's Village, Copper
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Vagrant, Rats, Rats, Forager, Laboratory
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - plays Bank
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Worker's Village, Laboratory, Bank, Laboratory, Worker's Village
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Laboratory
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Duchy, Province
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Bank
+SheCantSayNo - reveals: Silver
+SheCantSayNo - places Silver on top of deck
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Rats
+SheCantSayNo - draws Silver
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Vagrant, Copper, Duchy, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Laboratory
+Stef - draws Province, Vagrant
+Stef - plays Laboratory
+Stef - draws Laboratory, Laboratory
+Stef - plays Laboratory
+Stef - draws Laboratory, Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - reveals: Bank
+Stef - places Bank on top of deck
+Stef - plays Laboratory
+Stef - draws Bank, Laboratory
+Stef - plays Vagrant
+Stef - draws Worker's Village
+Stef - reveals: Duchy
+Stef - places Duchy in hand
+Stef - plays Vagrant
+Stef - draws Oasis
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Laboratory
+Stef - draws Laboratory, Province
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Laboratory
+Stef - draws Vagrant, Copper
+Stef - plays Worker's Village
+Stef - draws Vagrant
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Worker's Village
+Stef - draws Oasis
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Duchy
+Stef - plays Oasis
+Stef - draws Province
+Stef - discards Duchy
+Stef - plays 6 Copper
+Stef - plays Bank
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Forager, Vagrant, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Laboratory
+SheCantSayNo - reveals: Gold
+SheCantSayNo - places Gold on top of deck
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Gold, Forager
+SheCantSayNo - plays 2 Copper, 1 Gold
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Laboratory, Forager, Rats, Copper, Bank
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Laboratory
+Stef - draws Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays 3 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Laboratory, Vagrant, Vagrant, Laboratory, Oasis
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Laboratory
+SheCantSayNo - draws Copper, Rats
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Rats
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Duchy
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - plays Bank
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Bank, Duchy, Vagrant, Laboratory, Forager
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Duchy
+Stef - plays Laboratory
+Stef - draws Laboratory, Worker's Village
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Bank
+Stef - places Bank on top of deck
+Stef - plays Laboratory
+Stef - draws Bank, Worker's Village
+Stef - plays Laboratory
+Stef - draws Province, Province
+Stef - plays Laboratory
+Stef - draws Duchy, Copper
+Stef - plays Worker's Village
+Stef - draws Province
+Stef - plays Worker's Village
+Stef - draws Province
+Stef - plays Oasis
+Stef - draws Laboratory
+Stef - discards Province
+Stef - plays Laboratory
+Stef - draws Oasis, Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Bank
+Stef - places Bank on top of deck
+Stef - plays Oasis
+Stef - draws Bank
+Stef - discards Province
+Stef - plays 3 Copper
+Stef - plays Bank
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Vagrant, Vagrant
+Stef - shuffles deck
+Stef - draws Worker's Village, Province
+ 
+------------ Game Over ------------
+Stef - cards: 7 Vagrant, 7 Laboratory, 3 Worker's Village, 2 Oasis, 1 Forager, 7 Copper, 2 Bank, 6 Province, 4 Estate, 3 Duchy
+Stef - total victory points: 49
+Stef - turns: 18
+ 
+SheCantSayNo - cards: 3 Laboratory, 3 Forager, 2 Vagrant, 2 Rats, 4 Copper, 2 Bank, 1 Silver, 1 Gold, 5 Duchy, 2 Province
+SheCantSayNo - total victory points: 27
+SheCantSayNo - turns: 17
+ 
+1st place: Stef
+2nd place: SheCantSayNo
+ 

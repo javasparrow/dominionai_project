@@ -1,0 +1,881 @@
+------------ Game Setup ------------
+Supply cards: Haven, Vagrant, Apothecary, Chancellor, Develop, Storeroom, Advisor, Silk Road, Golem, Apprentice, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hdu88 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+hdu88 - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+hdu88 - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- hdu88: turn 1 ----------
+hdu88 - plays 5 Copper
+hdu88 - buys Potion
+hdu88 - gains Potion
+hdu88 - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Storeroom
+ 
+---------- hdu88: turn 2 ----------
+hdu88 - plays 2 Copper
+hdu88 - buys Haven
+hdu88 - gains Haven
+hdu88 - shuffles deck
+hdu88 - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Estate, Copper, Copper, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Potion, Copper
+Stef - shuffles deck
+Stef - draws Estate, Potion
+ 
+---------- hdu88: turn 3 ----------
+hdu88 - plays 3 Copper
+hdu88 - buys Storeroom
+hdu88 - gains Storeroom
+hdu88 - draws Potion, Copper, Haven, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 2 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Estate, Storeroom, Copper, Copper
+ 
+---------- hdu88: turn 4 ----------
+hdu88 - plays Haven
+hdu88 - draws Estate
+hdu88 - sets aside Copper
+hdu88 - plays 2 Copper, 1 Potion
+hdu88 - buys Apothecary
+hdu88 - gains Apothecary
+hdu88 - draws Copper
+hdu88 - shuffles deck
+hdu88 - draws Estate, Copper, Apothecary, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Potion, Copper, Copper, Copper, Apothecary
+ 
+---------- hdu88: turn 5 ----------
+hdu88 - duration Haven
+hdu88 - places set aside Copper in hand
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Copper, Estate, Copper, Copper
+hdu88 - places Estate on top of deck
+hdu88 - plays 7 Copper
+hdu88 - buys Potion
+hdu88 - gains Potion
+hdu88 - draws Estate, Potion, Storeroom
+hdu88 - shuffles deck
+hdu88 - draws Haven, Apothecary
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Estate, Estate
+Stef - shuffles deck
+Stef - reveals: Storeroom
+Stef - places Storeroom on top of deck
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Estate, Estate, Storeroom, Estate, Copper
+ 
+---------- hdu88: turn 6 ----------
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Copper, Copper, Potion, Copper
+hdu88 - plays Haven
+hdu88 - draws Estate
+hdu88 - sets aside Copper
+hdu88 - plays Storeroom
+hdu88 - discards Estate
+hdu88 - discards Estate
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - draws Copper, Copper, Copper, Estate
+hdu88 - discards Estate
+hdu88 - plays 4 Copper, 2 Potion
+hdu88 - buys Apothecary
+hdu88 - gains Apothecary
+hdu88 - buys Apothecary
+hdu88 - gains Apothecary
+hdu88 - shuffles deck
+hdu88 - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - draws Potion, Apothecary, Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Copper, Copper, Estate
+ 
+---------- hdu88: turn 7 ----------
+hdu88 - duration Haven
+hdu88 - places set aside Copper in hand
+hdu88 - plays 4 Copper
+hdu88 - buys Advisor
+hdu88 - gains Advisor
+hdu88 - draws Apothecary, Copper, Potion, Copper, Storeroom
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Potion
+Stef - reveals: Copper, Copper, Estate, Apothecary
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Apothecary, Estate, Apothecary, Estate, Copper
+ 
+---------- hdu88: turn 8 ----------
+hdu88 - plays Apothecary
+hdu88 - draws Apothecary
+hdu88 - reveals: Estate, Copper, Apothecary, Potion
+hdu88 - places Estate on top of deck
+hdu88 - places Apothecary on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Apothecary
+hdu88 - reveals: Estate
+hdu88 - shuffles deck
+hdu88 - reveals: Estate, Copper, Estate
+hdu88 - places Estate on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Estate
+hdu88 - reveals: Estate, Estate, Haven, Copper
+hdu88 - places Estate on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - places Haven on top of deck
+hdu88 - plays Storeroom
+hdu88 - discards Estate
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - draws Haven, Estate, Estate, Copper, Copper, Advisor
+hdu88 - discards Estate
+hdu88 - discards Estate
+hdu88 - discards Haven
+hdu88 - discards Advisor
+hdu88 - plays 2 Potion, 2 Copper
+hdu88 - buys Golem
+hdu88 - gains Golem
+hdu88 - buys Apothecary
+hdu88 - gains Apothecary
+hdu88 - shuffles deck
+hdu88 - draws Advisor, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Golem
+Stef - reveals: Storeroom, Potion, Copper
+Stef - shuffles deck
+Stef - reveals: Golem
+Stef - places Golem on top of deck
+Stef - places Storeroom on top of deck
+Stef - plays Apothecary
+Stef - draws Storeroom
+Stef - reveals: Golem, Copper, Copper, Potion
+Stef - places Golem on top of deck
+Stef - plays Golem
+Stef - reveals Golem, Copper, Estate, Copper, Copper, Apothecary
+Stef - discards: Golem, Copper, Estate, Copper, Copper
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Golem
+Stef - reveals: Estate, Copper, Copper, Copper
+Stef - places Estate on top of deck
+Stef - plays Storeroom
+Stef - discards Golem
+Stef - discards Estate
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Golem
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Golem
+Stef - plays 7 Copper, 2 Potion
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Golem, Copper
+ 
+---------- hdu88: turn 9 ----------
+hdu88 - plays Advisor
+hdu88 - reveals: Copper, Storeroom, Haven
+Stef - discards Storeroom
+hdu88 - places cards in hand:  Copper, Haven
+hdu88 - plays Haven
+hdu88 - draws Estate
+hdu88 - sets aside Copper
+hdu88 - plays 2 Copper
+hdu88 - buys Vagrant
+hdu88 - gains Vagrant
+hdu88 - draws Potion, Apothecary, Golem, Apothecary, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Golem
+Stef - reveals Apothecary, Potion, Apothecary
+Stef - discards Potion
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Copper, Copper, Storeroom, Potion
+Stef - places Storeroom on top of deck
+Stef - plays Apothecary
+Stef - draws Storeroom
+Stef - reveals: Copper, Storeroom, Golem, Apprentice
+Stef - places Apprentice on top of deck
+Stef - places Storeroom on top of deck
+Stef - places Golem on top of deck
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Storeroom, Apprentice
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Apothecary, Copper
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - draws Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Potion, Copper
+Stef - plays 7 Copper, 2 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Potion, Potion, Apothecary, Storeroom, Golem
+ 
+---------- hdu88: turn 10 ----------
+hdu88 - duration Haven
+hdu88 - places set aside Copper in hand
+hdu88 - plays Golem
+hdu88 - reveals Potion, Copper, Apothecary, Copper, Apothecary
+hdu88 - discards: Potion, Copper, Copper
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - shuffles deck
+hdu88 - reveals: Vagrant, Estate, Copper, Estate
+hdu88 - places Estate on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - places Vagrant on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Vagrant
+hdu88 - reveals: Estate, Estate, Copper, Potion
+hdu88 - places Estate on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - plays Vagrant
+hdu88 - draws Estate
+hdu88 - reveals: Estate
+hdu88 - places Estate in hand
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Copper, Storeroom, Advisor, Estate
+hdu88 - places Estate on top of deck
+hdu88 - places Advisor on top of deck
+hdu88 - places Storeroom on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Storeroom
+hdu88 - reveals: Advisor, Estate
+hdu88 - places Advisor on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - plays Storeroom
+hdu88 - discards Estate
+hdu88 - draws Estate
+hdu88 - discards Estate
+hdu88 - discards Estate
+hdu88 - plays 7 Copper, 2 Potion
+hdu88 - buys Apothecary
+hdu88 - gains Apothecary
+hdu88 - buys Golem
+hdu88 - gains Golem
+hdu88 - draws Advisor
+hdu88 - shuffles deck
+hdu88 - draws Vagrant, Golem, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Estate, Apothecary, Golem, Apprentice
+Stef - places Golem on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apprentice on top of deck
+Stef - places Estate on top of deck
+Stef - plays Golem
+Stef - reveals Estate, Apprentice, Apothecary
+Stef - discards Estate
+Stef - plays Apothecary
+Stef - draws Golem
+Stef - reveals: Storeroom, Apothecary, Copper, Copper
+Stef - places Apothecary on top of deck
+Stef - places Storeroom on top of deck
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Storeroom, Apothecary
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Apothecary, Copper, Copper
+Stef - places Apothecary on top of deck
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+Stef - discards Potion
+Stef - plays Golem
+Stef - reveals Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Storeroom
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Potion, Estate
+Stef - places Estate on top of deck
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Copper, Copper, Copper, Copper
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Copper
+Stef - draws Potion, Copper
+Stef - plays Storeroom
+Stef - discards Potion
+Stef - plays 6 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Copper
+Stef - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Storeroom, Apothecary, Estate
+ 
+---------- hdu88: turn 11 ----------
+hdu88 - plays Golem
+hdu88 - reveals Potion, Copper, Copper, Storeroom, Golem, Apothecary
+hdu88 - discards: Potion, Copper, Copper, Golem
+hdu88 - plays Apothecary
+hdu88 - draws Apothecary
+hdu88 - reveals: Apothecary, Copper, Estate, Copper
+hdu88 - places Apothecary on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - plays Storeroom
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - draws Estate, Apothecary, Copper
+hdu88 - discards Copper
+hdu88 - plays Advisor
+hdu88 - reveals: Apothecary, Haven, Apothecary
+Stef - discards Apothecary
+hdu88 - places cards in hand:  Apothecary, Haven
+hdu88 - plays Vagrant
+hdu88 - draws Estate
+hdu88 - reveals: Copper
+hdu88 - places Copper on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Potion
+hdu88 - shuffles deck
+hdu88 - reveals: Copper, Apothecary, Golem
+hdu88 - places Golem on top of deck
+hdu88 - places Apothecary on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Apothecary
+hdu88 - reveals: Golem, Copper, Copper, Copper
+hdu88 - places Golem on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Golem
+hdu88 - reveals: Copper, Potion, Copper
+hdu88 - plays Haven
+hdu88 - sets aside Golem
+hdu88 - plays 7 Copper, 2 Potion
+hdu88 - buys Storeroom
+hdu88 - gains Storeroom
+hdu88 - buys Apprentice
+hdu88 - gains Apprentice
+hdu88 - shuffles deck
+hdu88 - draws Copper, Copper, Copper, Copper, Apprentice
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Apprentice
+Stef - reveals: Golem, Copper, Golem, Potion
+Stef - places Golem on top of deck
+Stef - places Golem on top of deck
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Golem, Golem
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Province, Vagrant, Copper
+Stef - places Province on top of deck
+Stef - places Vagrant on top of deck
+Stef - plays Golem
+Stef - reveals Vagrant, Province, Storeroom
+Stef - discards Province
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Storeroom
+Stef - places Storeroom on top of deck
+Stef - plays Storeroom
+Stef - discards Potion
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Storeroom, Apothecary, Apothecary, Copper, Golem, Apothecary, Copper
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Potion, Copper, Copper, Copper, Apothecary, Copper, Potion, Province, Copper, Copper, Apothecary
+Stef - discards: Potion, Copper, Copper, Copper, Copper, Potion, Province, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Apothecary
+Stef - shuffles deck
+Stef - reveals: Potion, Province
+Stef - places Province on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Province, Copper, Copper, Copper
+Stef - places Province on top of deck
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Apothecary
+Stef - draws Province, Copper, Copper, Potion, Copper
+Stef - discards Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Apothecary, Copper, Copper, Copper, Copper
+Stef - discards: Copper, Copper, Copper, Copper, Copper
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper, Copper
+Stef - plays Storeroom
+Stef - discards Province
+Stef - discards Potion
+Stef - plays 8 Copper, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Haven
+Stef - gains Haven
+Stef - shuffles deck
+Stef - draws Vagrant, Storeroom, Copper, Apothecary, Copper
+ 
+---------- hdu88: turn 12 ----------
+hdu88 - duration Haven
+hdu88 - places set aside Golem in hand
+hdu88 - plays Golem
+hdu88 - reveals Estate, Apothecary, Potion, Copper, Copper, Estate, Copper, Golem, Apothecary
+hdu88 - discards: Estate, Potion, Copper, Copper, Estate, Copper, Golem
+hdu88 - plays Apothecary
+hdu88 - draws Estate
+hdu88 - reveals: Potion, Storeroom, Storeroom, Advisor
+hdu88 - places Storeroom on top of deck
+hdu88 - places Storeroom on top of deck
+hdu88 - places Advisor on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Advisor
+hdu88 - reveals: Storeroom, Storeroom, Vagrant, Apothecary
+hdu88 - places Apothecary on top of deck
+hdu88 - places Storeroom on top of deck
+hdu88 - places Storeroom on top of deck
+hdu88 - places Vagrant on top of deck
+hdu88 - plays Advisor
+hdu88 - reveals: Vagrant, Storeroom, Storeroom
+Stef - discards Storeroom
+hdu88 - places cards in hand:  Vagrant, Storeroom
+hdu88 - plays Vagrant
+hdu88 - draws Apothecary
+hdu88 - reveals: Apothecary
+hdu88 - places Apothecary on top of deck
+hdu88 - plays Apprentice
+hdu88 - trashes Estate
+hdu88 - draws Apothecary, Apothecary
+hdu88 - plays Storeroom
+hdu88 - discards Apothecary
+hdu88 - discards Potion
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - plays Apothecary
+hdu88 - shuffles deck
+hdu88 - draws Potion
+hdu88 - reveals: Copper, Copper, Estate, Golem
+hdu88 - places Estate on top of deck
+hdu88 - places Golem on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Golem
+hdu88 - reveals: Estate, Storeroom, Apothecary, Copper
+hdu88 - places Storeroom on top of deck
+hdu88 - places Apothecary on top of deck
+hdu88 - places Estate on top of deck
+hdu88 - plays Golem
+hdu88 - reveals Estate, Apothecary, Storeroom
+hdu88 - discards Estate
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Copper, Copper, Copper, Potion
+hdu88 - plays Storeroom
+hdu88 - discards Potion
+hdu88 - draws Estate
+hdu88 - discards Estate
+hdu88 - plays 7 Copper, 1 Potion
+hdu88 - buys Province
+hdu88 - gains Province
+hdu88 - buys Golem
+hdu88 - gains Golem
+hdu88 - buys Vagrant
+hdu88 - gains Vagrant
+hdu88 - shuffles deck
+hdu88 - draws Apothecary, Storeroom, Apothecary, Estate, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apothecary
+Stef - draws Storeroom
+Stef - reveals: Apothecary, Apprentice, Golem, Province
+Stef - places Apothecary on top of deck
+Stef - places Apprentice on top of deck
+Stef - places Province on top of deck
+Stef - places Golem on top of deck
+Stef - plays Vagrant
+Stef - draws Golem
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Golem
+Stef - reveals Apprentice, Apothecary
+Stef - plays Apothecary
+Stef - draws Storeroom
+Stef - reveals: Copper, Potion, Province, Vagrant
+Stef - places Vagrant on top of deck
+Stef - places Province on top of deck
+Stef - plays Apprentice
+Stef - trashes Province
+Stef - draws Province, Vagrant, Copper, Golem, Golem, Copper, Copper, Apothecary
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+Stef - draws Apothecary, Golem, Haven, Copper, Copper, Potion, Apothecary
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Apothecary, Copper, Apothecary
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Potion, Copper, Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - plays Storeroom
+Stef - discards Vagrant
+Stef - discards Apothecary
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Copper, Copper, Vagrant, Apothecary
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Golem
+Stef - plays Storeroom
+Stef - discards Potion
+Stef - discards Potion
+Stef - discards Province
+Stef - plays 8 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apothecary, Province, Province
+ 
+---------- hdu88: turn 13 ----------
+hdu88 - plays Apothecary
+hdu88 - draws Haven
+hdu88 - reveals: Vagrant, Potion, Copper, Copper
+hdu88 - places Vagrant on top of deck
+hdu88 - plays Apothecary
+hdu88 - draws Vagrant
+hdu88 - reveals: Storeroom, Copper, Apprentice, Apothecary
+hdu88 - places Storeroom on top of deck
+hdu88 - places Apothecary on top of deck
+hdu88 - places Apprentice on top of deck
+hdu88 - plays Haven
+hdu88 - draws Apprentice
+hdu88 - sets aside Estate
+hdu88 - plays Apprentice
+hdu88 - trashes Potion
+hdu88 - draws Apothecary, Storeroom, Potion, Copper
+hdu88 - plays Apothecary
+hdu88 - draws Vagrant
+hdu88 - reveals: Province, Apothecary, Copper, Golem
+hdu88 - places Apothecary on top of deck
+hdu88 - places Province on top of deck
+hdu88 - places Golem on top of deck
+hdu88 - plays Vagrant
+hdu88 - draws Golem
+hdu88 - reveals: Province
+hdu88 - places Province in hand
+hdu88 - plays Golem
+hdu88 - reveals Apothecary, Advisor
+hdu88 - plays Advisor
+hdu88 - reveals: Golem, Golem, Copper
+Stef - discards Golem
+hdu88 - places cards in hand:  Golem, Copper
+hdu88 - plays Apothecary
+hdu88 - draws Estate
+hdu88 - reveals: Apothecary
+hdu88 - shuffles deck
+hdu88 - reveals: Golem
+hdu88 - places Golem on top of deck
+hdu88 - places Apothecary on top of deck
+hdu88 - plays Storeroom
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - draws Apothecary, Golem
+hdu88 - discards Apothecary
+hdu88 - discards Vagrant
+hdu88 - discards Potion
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - discards Copper
+hdu88 - plays Golem
+hdu88 - shuffles deck
+hdu88 - reveals Vagrant, Copper, Copper, Potion, Copper, Copper, Copper, Apothecary
+hdu88 - discards: Copper, Copper, Potion, Copper, Copper, Copper
+hdu88 - plays Apothecary
+hdu88 - draws Copper
+hdu88 - reveals: Copper
+hdu88 - shuffles deck
+hdu88 - reveals: Copper, Potion, Copper
+hdu88 - plays Vagrant
+hdu88 - draws Copper
+hdu88 - reveals: Copper
+hdu88 - places Copper on top of deck
+hdu88 - plays Storeroom
+hdu88 - discards Province
+hdu88 - discards Golem
+hdu88 - draws Copper, Copper
+hdu88 - discards Estate
+hdu88 - discards Potion
+hdu88 - plays 7 Copper
+hdu88 - buys Duchy
+hdu88 - gains Duchy
+hdu88 - buys Duchy
+hdu88 - gains Duchy
+hdu88 - buys Duchy
+hdu88 - gains Duchy
+hdu88 - shuffles deck
+hdu88 - draws Golem, Copper, Province, Storeroom, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Golem in hand
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Province, Province, Vagrant, Storeroom
+Stef - places Province on top of deck
+Stef - places Province on top of deck
+Stef - places Vagrant on top of deck
+Stef - places Storeroom on top of deck
+Stef - plays Golem
+Stef - reveals Storeroom, Vagrant
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Storeroom
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Storeroom, Potion, Copper, Copper, Golem, Apothecary
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Potion, Golem, Apothecary, Golem
+Stef - places Golem on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Golem on top of deck
+Stef - plays Golem
+Stef - reveals Golem, Apothecary, Golem, Copper, Copper, Apothecary
+Stef - discards: Golem, Golem, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Vagrant
+Stef - reveals: Apothecary, Storeroom, Apprentice
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Apothecary on top of deck
+Stef - places Storeroom on top of deck
+Stef - places Apprentice on top of deck
+Stef - plays Apothecary
+Stef - draws Apprentice
+Stef - reveals: Storeroom, Apothecary, Copper, Golem
+Stef - places Storeroom on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Golem on top of deck
+Stef - plays Apprentice
+Stef - trashes Potion
+Stef - draws Golem, Apothecary, Storeroom, Province
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+Stef - draws Copper, Province, Province, Golem, Copper, Copper, Province
+Stef - discards Apothecary
+Stef - discards Vagrant
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Apothecary, Copper, Copper, Potion, Vagrant
+Stef - discards: Copper, Copper, Copper, Copper, Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Potion, Copper, Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Storeroom
+Stef - discards Potion
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Golem
+Stef - plays 8 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Haven, Copper, Copper, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 5 Apothecary, 4 Golem, 3 Storeroom, 2 Vagrant, 1 Haven, 1 Apprentice, 9 Copper, 1 Potion, 6 Province
+Stef - total victory points: 36
+Stef - turns: 14
+ 
+hdu88 - cards: 5 Apothecary, 3 Golem, 2 Storeroom, 2 Vagrant, 1 Apprentice, 1 Advisor, 1 Haven, 7 Copper, 1 Potion, 3 Duchy, 2 Estate, 1 Province
+hdu88 - total victory points: 17
+hdu88 - turns: 13
+ 
+1st place: Stef
+2nd place: hdu88
+ 

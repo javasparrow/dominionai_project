@@ -1,0 +1,501 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Masquerade, Cutpurse, Monument, Smithy, Worker's Village, Apprentice, Bazaar, Jester, Pillage, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+jog - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Estate
+jog - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 1 ----------
+jog - plays 4 Copper
+jog - buys Masquerade
+jog - gains Masquerade
+jog - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 2 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - shuffles deck
+jog - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Estate, Courtyard, Jester, Copper, Estate
+ 
+---------- jog: turn 3 ----------
+jog - plays 4 Copper
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - draws Masquerade, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Jester
+jog - reveals Estate
+jog - discards Estate
+jog - gains Curse
+Stef - plays 1 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Jester, Copper, Estate
+ 
+---------- jog: turn 4 ----------
+jog - plays Masquerade
+jog - draws Silver
+jog - shuffles deck
+jog - draws Estate
+jog - passes Estate
+Stef - passes Estate
+jog - trashes Estate
+jog - plays 3 Copper, 1 Silver
+jog - buys Bazaar
+jog - gains Bazaar
+jog - draws Copper, Worker's Village, Curse, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays 2 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Copper, Masquerade, Copper, Courtyard, Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays 3 Copper
+jog - buys Masquerade
+jog - gains Masquerade
+jog - shuffles deck
+jog - draws Silver, Bazaar, Copper, Worker's Village, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Masquerade
+Stef - draws Bazaar, Copper
+Stef - passes Copper
+jog - passes Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Masquerade
+ 
+---------- jog: turn 6 ----------
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Bazaar
+jog - draws Copper
+jog - plays 4 Copper, 1 Silver
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - buys Courtyard
+jog - gains Courtyard
+jog - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Worker's Village
+Stef - passes Estate
+jog - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Copper, Bazaar, Courtyard, Estate, Estate
+ 
+---------- jog: turn 7 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Masquerade, Copper, Curse, Masquerade
+jog - shuffles deck
+jog - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Bazaar
+Stef - draws Masquerade
+Stef - plays Courtyard
+Stef - draws Jester, Copper
+Stef - shuffles deck
+Stef - draws Worker's Village
+Stef - places Estate on top of deck
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Estate
+jog - passes Curse
+Stef - trashes Curse
+Stef - plays Jester
+jog - reveals Silver
+jog - discards Silver
+jog - gains Silver
+Stef - plays 4 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Masquerade, Copper, Worker's Village
+Stef - shuffles deck
+Stef - draws Worker's Village
+ 
+---------- jog: turn 8 ----------
+jog - plays Masquerade
+jog - draws Estate, Copper
+jog - passes Estate
+Stef - passes Copper
+jog - trashes Estate
+jog - plays 4 Copper
+jog - buys Cutpurse
+jog - gains Cutpurse
+jog - draws Worker's Village, Silver, Copper, Courtyard, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Worker's Village
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Masquerade
+Stef - draws Masquerade, Estate
+Stef - passes Estate
+jog - passes Estate
+Stef - trashes Estate
+Stef - plays Masquerade
+Stef - draws Bazaar, Courtyard
+Stef - passes Estate
+jog - passes Estate
+Stef - trashes Estate
+Stef - plays Courtyard
+Stef - draws Copper, Jester, Copper
+Stef - places Copper on top of deck
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - shuffles deck
+Stef - draws Copper, Jester, Masquerade, Bazaar, Worker's Village
+ 
+---------- jog: turn 9 ----------
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Courtyard
+jog - draws Worker's Village, Copper, Copper
+jog - places Worker's Village on top of deck
+jog - plays 4 Copper, 1 Silver
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - buys Courtyard
+jog - gains Courtyard
+jog - draws Worker's Village, Bazaar
+jog - shuffles deck
+jog - draws Masquerade, Courtyard, Cutpurse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Worker's Village
+Stef - draws Masquerade
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Copper
+jog - passes Courtyard
+Stef - trashes Copper
+Stef - plays Courtyard
+Stef - draws Worker's Village, Copper, Jester
+Stef - places Copper on top of deck
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Masquerade
+Stef - draws Bazaar, Courtyard
+Stef - passes Copper
+jog - passes Copper
+Stef - trashes Copper
+Stef - plays Bazaar
+Stef - draws Worker's Village
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays Worker's Village
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays Courtyard
+Stef - places Copper on top of deck
+Stef - plays Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Worker's Village, Courtyard, Bazaar, Jester
+ 
+---------- jog: turn 10 ----------
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Bazaar
+jog - draws Copper
+jog - plays Cutpurse
+Stef - discards Copper
+jog - plays Masquerade
+jog - draws Copper, Silver
+jog - passes Copper
+Stef - passes Courtyard
+jog - trashes Copper
+jog - plays Courtyard
+jog - draws Copper, Courtyard, Estate
+jog - places Courtyard on top of deck
+jog - plays 3 Copper, 1 Silver
+jog - buys Masquerade
+jog - gains Masquerade
+jog - buys Bazaar
+jog - gains Bazaar
+jog - draws Courtyard, Worker's Village, Copper, Copper, Masquerade
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Courtyard
+Stef - plays Worker's Village
+Stef - draws Masquerade
+Stef - plays Masquerade
+Stef - draws Jester, Masquerade
+Stef - passes Copper
+jog - passes Copper
+Stef - plays Masquerade
+Stef - draws Copper, Bazaar
+Stef - passes Copper
+jog - passes Copper
+Stef - plays Bazaar
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays Jester
+jog - reveals Silver
+jog - discards Silver
+Stef - gains Silver
+Stef - plays Worker's Village
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Courtyard
+Stef - draws Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Masquerade, Jester, Worker's Village, Copper
+ 
+---------- jog: turn 11 ----------
+jog - plays Worker's Village
+jog - draws Silver
+jog - plays Courtyard
+jog - draws Worker's Village, Copper
+jog - shuffles deck
+jog - draws Copper
+jog - places Copper on top of deck
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Masquerade
+jog - draws Bazaar, Silver
+jog - passes Copper
+Stef - passes Copper
+jog - trashes Copper
+jog - plays Bazaar
+jog - draws Estate
+jog - plays 3 Copper, 2 Silver
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - buys Smithy
+jog - gains Smithy
+jog - draws Copper, Worker's Village, Courtyard, Silver, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Worker's Village
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Pillage
+Stef - plays Masquerade
+Stef - draws Worker's Village, Copper
+Stef - passes Copper
+jog - passes Copper
+Stef - plays Worker's Village
+Stef - draws Masquerade
+Stef - plays Pillage
+Stef - trashes Pillage
+jog - reveals Copper, Worker's Village, Courtyard, Silver, Copper
+jog - discards Worker's Village
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Jester, Courtyard
+Stef - passes Copper
+jog - passes Copper
+Stef - plays Courtyard
+Stef - draws Worker's Village, Silver, Bazaar
+Stef - places Copper on top of deck
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Monument
+Stef - gains Monument
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Spoils
+Stef - shuffles deck
+Stef - draws Copper, Worker's Village, Bazaar, Masquerade
+ 
+---------- jog: turn 12 ----------
+jog - plays Courtyard
+jog - draws Copper, Bazaar, Copper
+jog - places Bazaar on top of deck
+jog - plays 4 Copper, 1 Silver
+jog - buys Bazaar
+jog - gains Bazaar
+jog - draws Bazaar, Cutpurse, Masquerade, Masquerade, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Monument
+Stef - plays Masquerade
+Stef - draws Worker's Village, Bazaar
+Stef - passes Copper
+jog - passes Copper
+Stef - plays Worker's Village
+Stef - draws Jester
+Stef - plays Bazaar
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Monument
+Stef - plays Jester
+jog - reveals Copper
+jog - discards Copper
+jog - gains Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Copper, Masquerade, Worker's Village, Bazaar, Jester
+ 
+---------- jog: turn 13 ----------
+jog - plays Bazaar
+jog - shuffles deck
+jog - draws Silver
+jog - plays Masquerade
+jog - draws Copper, Worker's Village
+jog - passes Copper
+Stef - passes Copper
+jog - trashes Copper
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Masquerade
+jog - draws Copper, Smithy
+jog - passes Copper
+Stef - passes Copper
+jog - trashes Copper
+jog - plays Cutpurse
+Stef - discards Copper
+jog - plays 2 Copper, 1 Silver
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - buys Masquerade
+jog - gains Masquerade
+jog - draws Bazaar, Copper, Courtyard, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Worker's Village
+Stef - draws Courtyard
+Stef - plays Bazaar
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Courtyard
+Stef - shuffles deck
+Stef - draws Bazaar, Bazaar, Pillage
+ 
+------------ Game Over ------------
+Stef - cards: 4 Bazaar, 3 Worker's Village, 2 Masquerade, 2 Jester, 2 Monument, 1 Pillage, 1 Smithy, 3 Copper, 1 Silver
+Stef - victory point chips: 2
+Stef - total victory points: 2
+Stef - turns: 13
+ 
+jog - resigned
+jog - cards: 5 Worker's Village, 4 Masquerade, 3 Bazaar, 2 Courtyard, 12 Copper, 1 Cutpurse, 1 Smithy, 3 Silver, 1 Estate
+jog - victory point chips: 0
+jog - total victory points: 1
+jog - turns: 13
+ 
+1st place: Stef
+2nd place: jog
+ 

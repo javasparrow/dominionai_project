@@ -1,0 +1,781 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Chancellor, Market Square, Masquerade, Mining Village, Catacombs, Duke, Hunting Party, Market, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+wicket - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+wicket - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+wicket - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- wicket: turn 1 ----------
+wicket - plays 4 Copper
+wicket - buys Mining Village
+wicket - gains Mining Village
+wicket - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Masquerade, Masquerade
+ 
+---------- wicket: turn 2 ----------
+wicket - plays 3 Copper
+wicket - buys Masquerade
+wicket - gains Masquerade
+wicket - shuffles deck
+wicket - draws Estate, Copper, Masquerade, Mining Village, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Copper
+wicket - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- wicket: turn 3 ----------
+wicket - plays Mining Village
+wicket - draws Estate
+wicket - plays Masquerade
+wicket - draws Copper, Estate
+wicket - passes Estate
+Stef - passes Estate
+wicket - trashes Estate
+wicket - plays 4 Copper
+wicket - buys Masquerade
+wicket - gains Masquerade
+wicket - draws Copper, Copper, Copper, Copper
+wicket - shuffles deck
+wicket - draws Masquerade
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Mining Village
+ 
+---------- wicket: turn 4 ----------
+wicket - plays Masquerade
+wicket - draws Masquerade, Mining Village
+wicket - passes Copper
+Stef - passes Estate
+wicket - trashes Estate
+wicket - plays 3 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mining Village
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Copper, Estate, Masquerade, Copper, Copper
+ 
+---------- wicket: turn 5 ----------
+wicket - plays 4 Copper
+wicket - buys Market Square
+wicket - gains Market Square
+wicket - shuffles deck
+wicket - draws Copper, Masquerade, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Masquerade
+Stef - draws Masquerade, Pearl Diver
+Stef - passes Estate
+wicket - passes Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Masquerade, Copper, Estate, Copper, Pearl Diver
+ 
+---------- wicket: turn 6 ----------
+wicket - plays Masquerade
+wicket - draws Estate, Masquerade
+wicket - passes Estate
+Stef - passes Estate
+wicket - trashes Estate
+wicket - plays 3 Copper
+wicket - buys Market Square
+wicket - gains Market Square
+wicket - draws Market Square, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Pearl Diver
+Stef - draws Masquerade
+Stef - places Market Square on top of deck
+Stef - plays Masquerade
+Stef - draws Market Square, Mining Village
+Stef - passes Estate
+wicket - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 2 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Copper, Copper, Copper, Mining Village, Copper
+ 
+---------- wicket: turn 7 ----------
+wicket - plays Market Square
+wicket - draws Mining Village
+wicket - plays Mining Village
+wicket - shuffles deck
+wicket - draws Masquerade
+wicket - plays Masquerade
+wicket - draws Copper, Estate
+wicket - passes Estate
+Stef - passes Copper
+wicket - trashes Estate
+wicket - plays 4 Copper, 1 Silver
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Masquerade, Copper, Copper, Market Square
+wicket - shuffles deck
+wicket - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Masquerade, Copper, Market Square, Copper, Copper
+ 
+---------- wicket: turn 8 ----------
+wicket - plays Masquerade
+wicket - draws Duchy, Masquerade
+wicket - passes Copper
+Stef - passes Copper
+wicket - trashes Copper
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - draws Silver, Copper, Copper, Market Square, Mining Village
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - draws Pearl Diver, Masquerade
+Stef - passes Copper
+wicket - passes Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Mining Village, Estate, Pearl Diver, Copper, Copper
+ 
+---------- wicket: turn 9 ----------
+wicket - plays Mining Village
+wicket - draws Copper
+wicket - plays Market Square
+wicket - shuffles deck
+wicket - draws Masquerade
+wicket - plays Masquerade
+wicket - draws Masquerade, Copper
+wicket - passes Copper
+Stef - passes Estate
+wicket - trashes Estate
+wicket - plays Masquerade
+wicket - draws Duchy, Market Square
+wicket - passes Copper
+Stef - passes Copper
+wicket - trashes Copper
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Market Square
+wicket - gains Market Square
+wicket - draws Copper, Gold
+wicket - shuffles deck
+wicket - draws Duchy, Mining Village, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Pearl Diver
+Stef - draws Market Square
+Stef - places Mining Village on top of deck
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Copper, Copper, Mining Village, Gold, Pearl Diver
+ 
+---------- wicket: turn 10 ----------
+wicket - plays Mining Village
+wicket - draws Market Square
+wicket - plays Market Square
+wicket - draws Masquerade
+wicket - plays Masquerade
+wicket - draws Market Square, Copper
+wicket - passes Copper
+Stef - passes Copper
+wicket - trashes Copper
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - plays 2 Copper, 1 Gold
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Silver, Gold, Masquerade, Market Square
+wicket - shuffles deck
+wicket - draws Market Square
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Pearl Diver
+Stef - draws Market Square
+Stef - places Copper on bottom of deck
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Hunting Party, Pearl Diver, Market Square, Masquerade, Masquerade
+ 
+---------- wicket: turn 11 ----------
+wicket - plays Masquerade
+wicket - draws Gold, Duchy
+wicket - passes Silver
+Stef - passes Pearl Diver
+wicket - trashes Pearl Diver
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - plays 2 Gold
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Duchy, Market Square, Copper, Mining Village, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Masquerade, Masquerade, Silver, Copper, Copper
+Stef - shuffles deck
+Stef - reveals Copper, Mining Village
+Stef - places Mining Village in hand
+Stef - discards Copper
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Masquerade
+Stef - draws Gold, Copper
+Stef - passes Copper
+wicket - passes Copper
+Stef - trashes Copper
+Stef - plays Masquerade
+Stef - draws Pearl Diver, Pearl Diver
+Stef - passes Copper
+wicket - passes Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Mining Village, Mining Village, Copper, Hunting Party, Market Square
+ 
+---------- wicket: turn 12 ----------
+wicket - plays Mining Village
+wicket - draws Masquerade
+wicket - plays Masquerade
+wicket - draws Gold
+wicket - shuffles deck
+wicket - draws Gold
+wicket - passes Copper
+Stef - passes Copper
+wicket - trashes Copper
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - plays 2 Gold, 1 Copper
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Market Square, Gold, Gold, Masquerade, Duchy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Masquerade
+Stef - plays Hunting Party
+Stef - draws Mining Village
+Stef - reveals hand: Mining Village, Market Square, Copper, Masquerade, Mining Village
+Stef - reveals Market Square, Masquerade, Pearl Diver
+Stef - places Pearl Diver in hand
+Stef - discards: Market Square, Masquerade
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Mining Village
+Stef - draws Hunting Party
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Market Square, Copper, Masquerade, Pearl Diver, Copper, Gold
+Stef - reveals Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Copper
+Stef - plays Masquerade
+Stef - draws Silver, Copper
+Stef - passes Copper
+wicket - passes Market Square
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Hunting Party
+Stef - draws Pearl Diver
+Stef - reveals hand: Copper, Pearl Diver, Gold, Silver, Pearl Diver
+Stef - shuffles deck
+Stef - reveals Gold, Masquerade
+Stef - places Masquerade in hand
+Stef - discards Gold
+Stef - plays Pearl Diver
+Stef - draws Market Square
+Stef - places Market Square on top of deck
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - draws Copper, Market Square
+Stef - passes Copper
+wicket - passes Copper
+Stef - trashes Copper
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays 3 Gold, 1 Silver, 1 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Market Square, Pearl Diver, Mining Village, Hunting Party, Gold
+ 
+---------- wicket: turn 13 ----------
+wicket - plays Masquerade
+wicket - draws Gold, Market Square
+wicket - passes Copper
+Stef - passes Pearl Diver
+wicket - trashes Pearl Diver
+wicket - reveals reaction Market Square
+wicket - discards Market Square
+wicket - gains Gold
+wicket - plays 3 Gold
+wicket - buys Duchy
+wicket - gains Duchy
+wicket - draws Duchy
+wicket - shuffles deck
+wicket - draws Gold, Duchy, Mining Village, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Market Square, Mining Village, Gold, Copper, Hunting Party
+Stef - reveals Mining Village, Pearl Diver
+Stef - places Pearl Diver in hand
+Stef - discards Mining Village
+Stef - plays Hunting Party
+Stef - draws Masquerade
+Stef - reveals hand: Market Square, Mining Village, Gold, Copper, Pearl Diver, Masquerade
+Stef - reveals Gold, Copper, Market Square, Masquerade, Catacombs
+Stef - places Catacombs in hand
+Stef - discards: Gold, Copper, Market Square, Masquerade
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Catacombs
+Stef - plays Catacombs
+Stef - looks at Gold, Market Square, Hunting Party
+Stef - places cards in hand:  Gold, Market Square, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Pearl Diver
+Stef - reveals hand: Market Square, Gold, Copper, Pearl Diver, Masquerade, Catacombs, Gold, Market Square, Pearl Diver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Gold
+Stef - passes Copper
+wicket - passes Mining Village
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Mining Village
+Stef - draws Market Square
+Stef - plays Pearl Diver
+Stef - draws Masquerade
+Stef - places Mining Village on top of deck
+Stef - plays Pearl Diver
+Stef - draws Mining Village
+Stef - shuffles deck
+Stef - places Gold on bottom of deck
+Stef - plays Mining Village
+Stef - draws Market Square
+Stef - plays Masquerade
+Stef - draws Gold, Market Square
+Stef - passes Silver
+wicket - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Catacombs
+Stef - looks at Gold
+Stef - shuffles deck
+Stef - looks at Gold, Market Square
+Stef - places cards in hand:  Gold, Gold, Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - plays 7 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - shuffles deck
+Stef - draws Masquerade, Masquerade, Market Square, Mining Village, Hunting Party
+ 
+---------- wicket: turn 14 ----------
+wicket - plays 1 Gold, 1 Silver
+wicket - buys Duke
+wicket - gains Duke
+wicket - draws Market Square, Market Square, Gold, Gold, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Masquerade, Masquerade, Market Square, Mining Village, Gold
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Duchy
+Stef - reveals hand: Masquerade, Masquerade, Market Square, Mining Village, Gold, Duchy
+Stef - reveals Market Square, Gold, Mining Village, Gold, Gold, Mining Village, Catacombs
+Stef - places Catacombs in hand
+Stef - discards: Market Square, Gold, Mining Village, Gold, Gold, Mining Village
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Catacombs
+Stef - looks at Pearl Diver, Mining Village, Market Square
+Stef - places cards in hand:  Pearl Diver, Mining Village, Market Square
+Stef - plays Mining Village
+Stef - draws Catacombs
+Stef - plays Pearl Diver
+Stef - draws Hunting Party
+Stef - places Gold on top of deck
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Masquerade, Masquerade, Market Square, Gold, Duchy, Gold, Market Square, Catacombs, Gold
+Stef - reveals Pearl Diver
+Stef - places Pearl Diver in hand
+Stef - plays Pearl Diver
+Stef - draws Gold
+Stef - places Duchy on top of deck
+Stef - plays Catacombs
+Stef - looks at Duchy, Catacombs, Duchy
+Stef - discards: Duchy, Catacombs, Duchy
+Stef - shuffles deck
+Stef - draws Mining Village, Duchy, Mining Village
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - draws Catacombs, Market Square
+Stef - passes Masquerade
+wicket - passes Market Square
+Stef - trashes Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Catacombs
+Stef - looks at Duchy, Gold
+Stef - shuffles deck
+Stef - looks at Gold
+Stef - discards: Duchy, Gold, Gold
+Stef - draws Market Square, Market Square, Gold
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays 8 Gold
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Gold, Hunting Party, Gold, Mining Village
+ 
+---------- wicket: turn 15 ----------
+wicket - plays Market Square
+wicket - draws Gold
+wicket - plays Masquerade
+wicket - draws Duchy, Copper
+wicket - passes Copper
+Stef - passes Gold
+wicket - plays 5 Gold
+wicket - buys Province
+wicket - gains Province
+wicket - buys Duke
+wicket - gains Duke
+wicket - draws Gold, Gold, Duchy, Masquerade, Masquerade
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Hunting Party
+Stef - draws Market Square
+Stef - reveals hand: Gold, Gold, Mining Village, Copper, Market Square
+Stef - reveals Market Square, Catacombs
+Stef - places Catacombs in hand
+Stef - discards Market Square
+Stef - plays Mining Village
+Stef - draws Hunting Party
+Stef - plays Catacombs
+Stef - looks at Catacombs, Pearl Diver, Mining Village
+Stef - places cards in hand:  Catacombs, Pearl Diver, Mining Village
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Duchy
+Stef - plays Hunting Party
+Stef - draws Mining Village
+Stef - reveals hand: Gold, Gold, Copper, Market Square, Catacombs, Pearl Diver, Duchy, Mining Village
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Catacombs
+Stef - looks at Pearl Diver, Gold, Mining Village
+Stef - discards: Pearl Diver, Gold, Mining Village
+Stef - draws Mining Village, Masquerade, Duchy
+Stef - plays Mining Village
+Stef - draws Gold
+Stef - plays Pearl Diver
+Stef - draws Gold
+Stef - places Market Square on bottom of deck
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Hunting Party
+Stef - plays Hunting Party
+Stef - draws Duchy
+Stef - reveals hand: Gold, Gold, Copper, Duchy, Province, Gold, Masquerade, Duchy, Gold, Gold, Duchy
+Stef - reveals Province, Gold, Catacombs
+Stef - places Catacombs in hand
+Stef - discards: Province, Gold
+Stef - plays Catacombs
+Stef - looks at Gold, Market Square
+Stef - shuffles deck
+Stef - looks at Mining Village
+Stef - discards: Gold, Market Square, Mining Village
+Stef - draws Pearl Diver, Province, Gold
+Stef - plays Masquerade
+Stef - draws Market Square, Gold
+Stef - passes Copper
+wicket - passes Masquerade
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - draws Mining Village, Market Square
+Stef - passes Pearl Diver
+wicket - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays 9 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Gold, Duchy, Gold, Masquerade, Market Square
+ 
+---------- wicket: turn 16 ----------
+wicket - plays Pearl Diver
+wicket - shuffles deck
+wicket - draws Masquerade
+wicket - places Province on bottom of deck
+wicket - plays Masquerade
+wicket - draws Gold, Gold
+wicket - passes Masquerade
+Stef - passes Gold
+wicket - plays 5 Gold
+wicket - buys Province
+wicket - gains Province
+wicket - draws Market Square, Gold, Duchy, Duchy, Duke
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Market Square
+Stef - draws Hunting Party
+Stef - plays Hunting Party
+Stef - draws Mining Village
+Stef - reveals hand: Gold, Duchy, Masquerade, Masquerade, Mining Village
+Stef - reveals Gold, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Gold
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - trashes Mining Village
+Stef - plays Mining Village
+Stef - draws Catacombs
+Stef - trashes Mining Village
+Stef - plays Hunting Party
+Stef - draws Duchy
+Stef - reveals hand: Gold, Duchy, Masquerade, Masquerade, Catacombs, Duchy
+Stef - reveals Mining Village
+Stef - places Mining Village in hand
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - trashes Mining Village
+Stef - plays Mining Village
+Stef - draws Market Square
+Stef - trashes Mining Village
+Stef - plays Catacombs
+Stef - looks at Catacombs, Province, Hunting Party
+Stef - places cards in hand:  Catacombs, Province, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Gold, Duchy, Masquerade, Masquerade, Duchy, Market Square, Catacombs, Province, Gold
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Catacombs
+Stef - reveals hand: Gold, Duchy, Masquerade, Masquerade, Duchy, Market Square, Catacombs, Province, Gold, Catacombs
+Stef - reveals Province, Gold, Masquerade, Market Square, Gold, Gold, Catacombs, Mining Village
+Stef - places Mining Village in hand
+Stef - discards: Province, Gold, Masquerade, Market Square, Gold, Gold, Catacombs
+Stef - plays Mining Village
+Stef - draws Market Square
+Stef - trashes Mining Village
+Stef - plays Catacombs
+Stef - looks at Province, Duchy, Gold
+Stef - discards: Province, Duchy, Gold
+Stef - draws Province, Gold, Mining Village
+Stef - plays Mining Village
+Stef - draws Pearl Diver
+Stef - trashes Mining Village
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Duchy, Province, Gold
+Stef - discards: Duchy, Province, Gold
+Stef - draws Market Square, Gold, Gold
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Catacombs
+Stef - plays Market Square
+Stef - draws Masquerade
+Stef - plays Catacombs
+Stef - looks at Province, Gold
+Stef - shuffles deck
+Stef - looks at Province
+Stef - discards: Province, Gold, Province
+Stef - draws Duchy, Gold
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Pearl Diver
+Stef - draws Province
+Stef - places Province on bottom of deck
+Stef - plays 8 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Province, Market Square, Market Square, Catacombs
+ 
+------------ Game Over ------------
+Stef - cards: 4 Market Square, 4 Catacombs, 4 Hunting Party, 3 Masquerade, 1 Pearl Diver, 8 Gold, 6 Province, 3 Duke, 3 Duchy
+Stef - total victory points: 54
+Stef - turns: 17
+ 
+wicket - cards: 1 Market Square, 1 Pearl Diver, 1 Masquerade, 9 Gold, 1 Silver, 5 Duchy, 2 Duke, 2 Province
+wicket - total victory points: 37
+wicket - turns: 16
+ 
+1st place: Stef
+2nd place: wicket
+ 

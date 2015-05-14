@@ -1,0 +1,485 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Moat, Philosopher's Stone, Bishop, Cutpurse, Monument, Salvager, Council Room, Duke, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+incandenza - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+incandenza - shuffles deck
+Stef - shuffles deck
+incandenza - draws Estate, Copper, Estate, Copper, Estate
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- incandenza: turn 1 ----------
+incandenza - plays 2 Copper
+incandenza - buys Lighthouse
+incandenza - gains Lighthouse
+incandenza - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- incandenza: turn 2 ----------
+incandenza - plays 5 Copper
+incandenza - buys Torturer
+incandenza - gains Torturer
+incandenza - shuffles deck
+incandenza - draws Lighthouse, Torturer, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Monument, Lighthouse
+ 
+---------- incandenza: turn 3 ----------
+incandenza - plays Lighthouse
+incandenza - plays Torturer
+incandenza - draws Copper, Copper, Estate
+Stef - discards Estate
+Stef - discards Copper
+incandenza - plays 4 Copper
+incandenza - buys Bishop
+incandenza - gains Bishop
+incandenza - draws Copper, Copper, Estate, Copper
+incandenza - shuffles deck
+incandenza - draws Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- incandenza: turn 4 ----------
+incandenza - duration Lighthouse
+incandenza - plays 4 Copper
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Estate, Torturer, Copper, Bishop, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Lighthouse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Monument, Lighthouse, Copper
+ 
+---------- incandenza: turn 5 ----------
+incandenza - plays Bishop
+incandenza - trashes Estate
+incandenza - receives 1 victory point chips
+Stef - trashes Copper
+incandenza - plays 2 Copper
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Copper, Estate
+incandenza - shuffles deck
+incandenza - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Copper, Estate, Estate
+ 
+---------- incandenza: turn 6 ----------
+incandenza - plays 3 Copper, 1 Silver
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Copper, Lighthouse, Copper, Bishop, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Lighthouse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Monument, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Lighthouse
+ 
+---------- incandenza: turn 7 ----------
+incandenza - plays Lighthouse
+incandenza - plays Bishop
+incandenza - trashes Copper
+incandenza - receives 0 victory point chips
+Stef - trashes Estate
+incandenza - plays 1 Copper, 1 Silver
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Copper, Torturer, Copper, Estate
+incandenza - shuffles deck
+incandenza - draws Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Monument, Duchy, Estate, Estate
+ 
+---------- incandenza: turn 8 ----------
+incandenza - duration Lighthouse
+incandenza - plays Torturer
+incandenza - draws Copper, Silver, Silver
+incandenza - plays 3 Copper, 3 Silver
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Copper, Silver, Bishop, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- incandenza: turn 9 ----------
+incandenza - plays Bishop
+incandenza - trashes Estate
+incandenza - receives 1 victory point chips
+incandenza - plays 2 Copper, 1 Silver
+incandenza - buys Torturer
+incandenza - gains Torturer
+incandenza - draws Copper
+incandenza - shuffles deck
+incandenza - draws Torturer, Torturer, Province, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Silver, Duchy, Copper, Silver, Monument
+ 
+---------- incandenza: turn 10 ----------
+incandenza - plays Torturer
+incandenza - draws Silver, Copper, Silver
+Stef - discards Duchy
+Stef - discards Silver
+incandenza - plays 3 Copper, 2 Silver
+incandenza - buys Gold
+incandenza - gains Gold
+incandenza - draws Silver, Lighthouse, Copper, Bishop, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Copper, Estate, Monument, Estate
+ 
+---------- incandenza: turn 11 ----------
+incandenza - plays Lighthouse
+incandenza - plays Bishop
+incandenza - trashes Copper
+incandenza - receives 0 victory point chips
+Stef - trashes Estate
+incandenza - plays 2 Silver
+incandenza - buys Gold
+incandenza - gains Gold
+incandenza - draws Copper, Estate, Copper
+incandenza - shuffles deck
+incandenza - draws Silver, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Duchy, Lighthouse, Copper, Duchy
+ 
+---------- incandenza: turn 12 ----------
+incandenza - duration Lighthouse
+incandenza - plays 2 Copper, 2 Silver
+incandenza - buys Gold
+incandenza - gains Gold
+incandenza - draws Gold, Bishop, Gold, Copper, Torturer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Lighthouse
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver, Monument, Copper
+ 
+---------- incandenza: turn 13 ----------
+incandenza - plays Bishop
+incandenza - trashes Torturer
+incandenza - receives 2 victory point chips
+Stef - trashes Copper
+incandenza - plays 2 Gold, 1 Copper
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Copper, Torturer, Province, Silver, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Copper, Duchy, Gold, Duchy
+ 
+---------- incandenza: turn 14 ----------
+incandenza - plays Torturer
+incandenza - draws Copper
+incandenza - shuffles deck
+incandenza - draws Silver, Gold
+Stef - discards Duchy
+Stef - discards Duchy
+incandenza - plays 3 Silver, 2 Copper, 1 Gold
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Gold, Bishop, Province, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 1 Silver, 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Gold, Copper, Silver, Duchy
+ 
+---------- incandenza: turn 15 ----------
+incandenza - plays Bishop
+incandenza - trashes Copper
+incandenza - receives 0 victory point chips
+Stef - trashes Estate
+incandenza - plays 1 Gold, 1 Copper
+incandenza - buys Duchy
+incandenza - gains Duchy
+incandenza - draws Lighthouse, Estate, Silver, Copper, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 1 Gold, 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Duchy, Monument
+Stef - shuffles deck
+Stef - draws Duchy, Copper
+ 
+---------- incandenza: turn 16 ----------
+incandenza - plays Lighthouse
+incandenza - plays 1 Silver, 1 Copper, 1 Gold
+incandenza - buys Gold
+incandenza - gains Gold
+incandenza - shuffles deck
+incandenza - draws Gold, Copper, Estate, Gold, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Duchy, Duchy, Duchy, Silver, Silver
+ 
+---------- incandenza: turn 17 ----------
+incandenza - duration Lighthouse
+incandenza - plays 2 Gold, 1 Copper, 1 Silver
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Duchy, Copper, Copper, Silver, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 2 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Lighthouse, Gold, Copper, Monument, Gold
+ 
+---------- incandenza: turn 18 ----------
+incandenza - plays 2 Copper, 1 Silver
+incandenza - buys Salvager
+incandenza - gains Salvager
+incandenza - draws Gold, Bishop, Gold, Province, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Silver, Duchy, Duchy, Copper
+ 
+---------- incandenza: turn 19 ----------
+incandenza - plays Bishop
+incandenza - trashes Copper
+incandenza - receives 0 victory point chips
+incandenza - plays 2 Gold
+incandenza - buys Duke
+incandenza - gains Duke
+incandenza - draws Silver, Silver, Torturer, Province
+incandenza - shuffles deck
+incandenza - draws Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Lighthouse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - shuffles deck
+Stef - draws Silver, Duke, Copper, Silver, Duchy
+ 
+---------- incandenza: turn 20 ----------
+incandenza - plays Torturer
+incandenza - draws Lighthouse, Gold, Province
+Stef - discards Duke
+Stef - discards Duchy
+incandenza - plays 3 Silver, 1 Gold
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Copper, Province, Gold, Estate, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Gold, Duchy, Silver, Gold, Duchy
+ 
+---------- incandenza: turn 21 ----------
+incandenza - plays 2 Copper, 1 Gold
+incandenza - buys Duke
+incandenza - gains Duke
+incandenza - draws Bishop, Salvager, Duke, Copper, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Lighthouse, Silver, Duchy, Duchy, Monument
+ 
+---------- incandenza: turn 22 ----------
+incandenza - plays Salvager
+incandenza - trashes Duke
+incandenza - plays 1 Copper, 1 Silver
+incandenza - buys Duke
+incandenza - gains Duke
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Gold, Province, Gold, Duchy
+incandenza - shuffles deck
+incandenza - draws Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Silver
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Copper, Duchy, Duchy, Monument
+ 
+---------- incandenza: turn 23 ----------
+incandenza - plays 2 Gold, 1 Copper
+incandenza - buys Gold
+incandenza - gains Gold
+incandenza - draws Province, Gold, Silver, Silver, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - duration Lighthouse
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Silver, Copper, Duke, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- incandenza: turn 24 ----------
+incandenza - plays 2 Silver, 1 Gold, 1 Copper
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Lighthouse, Duke, Estate, Salvager, Province
+ 
+---------- Stef: turn 24 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Gold, Silver, Duchy, Duchy
+ 
+---------- incandenza: turn 25 ----------
+incandenza - plays Lighthouse
+incandenza - plays Salvager
+incandenza - trashes Estate
+incandenza - buys Estate
+incandenza - gains Estate
+incandenza - draws Duke, Silver, Province, Province, Silver
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gold, Duchy, Duke, Duchy, Duchy
+ 
+---------- incandenza: turn 26 ----------
+incandenza - duration Lighthouse
+incandenza - plays 2 Silver
+incandenza - buys Salvager
+incandenza - gains Salvager
+incandenza - draws Bishop, Gold, Silver, Torturer, Copper
+ 
+---------- Stef: turn 26 ----------
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duke, Monument, Duke, Duchy, Copper
+ 
+---------- incandenza: turn 27 ----------
+incandenza - plays Torturer
+incandenza - shuffles deck
+incandenza - draws Silver, Province, Province
+Stef - discards Duke
+Stef - discards Duchy
+incandenza - plays 2 Silver, 1 Gold, 1 Copper
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Gold, Gold, Lighthouse, Duchy, Silver
+ 
+---------- Stef: turn 27 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Monument, Monument, Copper, Silver, Duchy
+ 
+---------- incandenza: turn 28 ----------
+incandenza - plays Lighthouse
+incandenza - plays 2 Gold, 1 Silver
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Gold, Province, Copper, Estate, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Monument, 1 Lighthouse, 5 Copper, 5 Silver, 2 Gold, 7 Duchy, 5 Duke, 4 Estate
+Stef - victory point chips: 12
+Stef - total victory points: 72
+Stef - turns: 27
+ 
+incandenza - cards: 2 Salvager, 1 Lighthouse, 1 Bishop, 1 Torturer, 5 Gold, 5 Silver, 3 Copper, 8 Province, 2 Duke, 1 Estate, 1 Duchy
+incandenza - victory point chips: 11
+incandenza - total victory points: 65
+incandenza - turns: 28
+ 
+1st place: Stef
+2nd place: incandenza
+ 

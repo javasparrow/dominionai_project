@@ -1,0 +1,584 @@
+------------ Game Setup ------------
+Supply cards: Haven, Herbalist, Marauder, Moneylender, Plaza, Thief, Highway, Hunting Party, Soothsayer, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Destierro - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Destierro - shuffles deck
+Stef - shuffles deck
+Destierro - draws Copper, Copper, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Destierro: turn 1 ----------
+Destierro - plays 5 Copper
+Destierro - buys Soothsayer
+Destierro - gains Soothsayer
+Destierro - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Marauder
+ 
+---------- Destierro: turn 2 ----------
+Destierro - plays 2 Copper
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - shuffles deck
+Destierro - draws Copper, Haven, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Market
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Destierro: turn 3 ----------
+Destierro - plays Haven
+Destierro - draws Estate
+Destierro - sets aside Estate
+Destierro - plays 4 Copper
+Destierro - buys Marauder
+Destierro - gains Marauder
+Destierro - draws Copper, Copper, Copper, Estate, Soothsayer
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Spoils, Haven, Copper
+ 
+---------- Destierro: turn 4 ----------
+Destierro - duration Haven
+Destierro - places set aside Estate in hand
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+Destierro - plays 3 Copper
+Destierro - buys Silver
+Destierro - gains Silver
+Destierro - draws Estate
+Destierro - shuffles deck
+Destierro - draws Copper, Copper, Marauder, Soothsayer
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Spoils
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Marauder, Copper, Haven, Copper, Estate
+ 
+---------- Destierro: turn 5 ----------
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+Destierro - plays 2 Copper
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Haven
+Stef - places set aside Spoils in hand
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Village
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Haven, Copper, Curse, Hunting Party
+ 
+---------- Destierro: turn 6 ----------
+Destierro - plays 3 Copper, 1 Silver
+Destierro - buys Hunting Party
+Destierro - gains Hunting Party
+Destierro - draws Estate, Ruined Market, Copper, Haven, Gold
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Estate, Haven, Copper, Curse, Copper, Silver
+Stef - reveals Copper, Estate, Copper, Copper, Soothsayer
+Stef - places Soothsayer in hand
+Stef - discards: Copper, Estate, Copper, Copper
+Stef - plays Haven
+Stef - draws Curse
+Stef - sets aside Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+Destierro - gains Curse
+Destierro - draws Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Spoils, Copper, Copper, Marauder, Estate
+ 
+---------- Destierro: turn 7 ----------
+Destierro - plays 2 Copper, 1 Gold
+Destierro - buys Soothsayer
+Destierro - gains Soothsayer
+Destierro - shuffles deck
+Destierro - draws Curse, Copper, Marauder, Copper, Soothsayer
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Curse in hand
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Village
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Soothsayer, Copper
+ 
+---------- Destierro: turn 8 ----------
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+Destierro - plays 2 Copper
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Estate, Copper, Copper, Copper, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Destierro - gains Curse
+Destierro - draws Hunting Party
+Stef - plays 5 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Estate, Marauder, Copper, Estate
+ 
+---------- Destierro: turn 9 ----------
+Destierro - plays Hunting Party
+Destierro - draws Soothsayer
+Destierro - reveals hand: Estate, Copper, Copper, Copper, Gold, Soothsayer
+Destierro - reveals Copper, Silver
+Destierro - places Silver in hand
+Destierro - discards Copper
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Hunting Party
+Destierro - plays 3 Copper, 1 Gold, 1 Silver
+Destierro - buys Province
+Destierro - gains Province
+Destierro - draws Ruined Village, Estate, Ruined Market, Estate, Haven
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Hunting Party
+Stef - draws Haven
+Stef - reveals hand: Copper, Estate, Marauder, Copper, Estate, Haven
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Plaza
+Stef - reveals hand: Copper, Estate, Marauder, Copper, Estate, Haven, Plaza
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Plaza
+Stef - draws Gold
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Copper
+Stef - plays Haven
+Stef - draws Estate
+Stef - sets aside Estate
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Market
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Curse, Curse, Spoils
+Stef - shuffles deck
+Stef - draws Copper, Curse
+ 
+---------- Destierro: turn 10 ----------
+Destierro - plays Haven
+Destierro - draws Haven
+Destierro - sets aside Ruined Market
+Destierro - plays Haven
+Destierro - draws Copper
+Destierro - sets aside Estate
+Destierro - draws Gold
+Destierro - shuffles deck
+Destierro - draws Estate, Gold, Gold, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Soothsayer, Gold, Copper, Copper, Gold
+ 
+---------- Destierro: turn 11 ----------
+Destierro - duration Haven
+Destierro - places set aside Ruined Market in hand
+Destierro - duration Haven
+Destierro - places set aside Estate in hand
+Destierro - plays Ruined Market
+Destierro - plays 3 Gold, 1 Copper
+Destierro - buys Province
+Destierro - gains Province
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Soothsayer, Gold, Province, Silver, Hunting Party
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Destierro - gains Curse
+Destierro - draws Copper
+Stef - plays 2 Gold, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Hunting Party, Hunting Party, Copper, Hunting Party, Estate
+ 
+---------- Destierro: turn 12 ----------
+Destierro - plays Hunting Party
+Destierro - draws Estate
+Destierro - reveals hand: Soothsayer, Gold, Province, Silver, Copper, Estate
+Destierro - reveals Ruined Village
+Destierro - places Ruined Village in hand
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Silver
+Destierro - plays 1 Gold, 1 Silver, 1 Copper
+Destierro - buys Hunting Party
+Destierro - gains Hunting Party
+Destierro - draws Copper, Curse, Ruined Market, Curse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - draws Curse
+Stef - reveals hand: Hunting Party, Hunting Party, Copper, Estate, Silver, Curse
+Stef - reveals Plaza
+Stef - places Plaza in hand
+Stef - plays Hunting Party
+Stef - draws Marauder
+Stef - reveals hand: Hunting Party, Copper, Estate, Silver, Curse, Plaza, Marauder
+Stef - reveals Hunting Party, Copper, Copper, Estate, Spoils
+Stef - places Spoils in hand
+Stef - discards: Hunting Party, Copper, Copper, Estate
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Copper, Estate, Silver, Curse, Plaza, Marauder, Spoils, Copper
+Stef - reveals Copper, Gold
+Stef - places Gold in hand
+Stef - discards Copper
+Stef - plays Plaza
+Stef - draws Haven
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Haven
+Stef - draws Curse
+Stef - sets aside Copper
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Village
+Stef - plays 1 Silver, 1 Gold
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Hunting Party, Soothsayer, Province, Copper
+ 
+---------- Destierro: turn 13 ----------
+Destierro - plays 2 Copper
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Marauder, Copper, Ruined Village, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Copper, Soothsayer, Province, Copper, Copper, Gold
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Soothsayer
+Stef - gains Gold
+Destierro - gains Curse
+Destierro - draws Soothsayer
+Stef - plays 3 Copper, 1 Gold
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Copper, Estate, Gold, Hunting Party
+ 
+---------- Destierro: turn 14 ----------
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+Destierro - plays 3 Copper
+Destierro - buys Silver
+Destierro - gains Silver
+Destierro - draws Haven
+Destierro - shuffles deck
+Destierro - draws Province, Gold, Copper, Hunting Party
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Curse, Copper, Estate, Gold, Estate, Copper
+Stef - reveals Curse, Haven
+Stef - places Haven in hand
+Stef - discards Curse
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Marauder, Hunting Party, Copper, Copper
+ 
+---------- Destierro: turn 15 ----------
+Destierro - plays Hunting Party
+Destierro - draws Haven
+Destierro - reveals hand: Haven, Province, Gold, Copper, Haven
+Destierro - reveals Haven, Silver
+Destierro - places Silver in hand
+Destierro - discards Haven
+Destierro - plays Haven
+Destierro - draws Curse
+Destierro - sets aside Curse
+Destierro - plays Haven
+Destierro - draws Estate
+Destierro - sets aside Estate
+Destierro - plays 1 Gold, 1 Copper, 1 Silver
+Destierro - buys Duchy
+Destierro - gains Duchy
+Destierro - draws Copper, Gold, Copper, Haven, Hunting Party
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Gold, Marauder, Copper, Copper, Copper, Gold
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Marauder
+Stef - gains Spoils
+Destierro - gains Ruined Library
+Stef - plays 3 Copper, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Silver, Estate, Copper, Hunting Party
+ 
+---------- Destierro: turn 16 ----------
+Destierro - duration Haven
+Destierro - places set aside Curse in hand
+Destierro - duration Haven
+Destierro - places set aside Estate in hand
+Destierro - plays Hunting Party
+Destierro - draws Ruined Village
+Destierro - reveals hand: Copper, Gold, Copper, Haven, Curse, Estate, Ruined Village
+Destierro - reveals Ruined Market
+Destierro - places Ruined Market in hand
+Destierro - plays Haven
+Destierro - draws Province
+Destierro - sets aside Curse
+Destierro - plays Ruined Village
+Destierro - plays Ruined Market
+Destierro - plays 2 Copper, 1 Gold
+Destierro - buys Duchy
+Destierro - gains Duchy
+Destierro - draws Estate, Copper, Ruined Market, Copper, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Gold, Silver, Estate, Copper, Hunting Party
+Stef - reveals Soothsayer
+Stef - places Soothsayer in hand
+Stef - plays Hunting Party
+Stef - draws Plaza
+Stef - reveals hand: Gold, Silver, Estate, Copper, Soothsayer, Plaza
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Plaza
+Stef - draws Curse
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Soothsayer
+Stef - gains Gold
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Curse, Hunting Party, Haven, Curse
+ 
+---------- Destierro: turn 17 ----------
+Destierro - duration Haven
+Destierro - places set aside Curse in hand
+Destierro - plays 2 Copper, 1 Gold
+Destierro - buys Duchy
+Destierro - gains Duchy
+Destierro - draws Copper, Haven, Copper, Marauder, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Hunting Party
+Stef - draws Province
+Stef - reveals hand: Curse, Curse, Haven, Curse, Province
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Haven
+Stef - draws Spoils
+Stef - sets aside Spoils
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Spoils, Curse, Gold, Province
+ 
+---------- Destierro: turn 18 ----------
+Destierro - plays Haven
+Destierro - draws Silver
+Destierro - sets aside Silver
+Destierro - plays Marauder
+Destierro - gains Spoils
+Stef - gains Survivors
+Destierro - draws Estate, Soothsayer, Ruined Village, Ruined Village, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Haven
+Stef - places set aside Spoils in hand
+Stef - plays Gold
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Hunting Party, Hunting Party, Gold
+ 
+---------- Destierro: turn 19 ----------
+Destierro - duration Haven
+Destierro - places set aside Silver in hand
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Destierro - plays 1 Gold, 1 Silver
+Destierro - buys Duchy
+Destierro - gains Duchy
+Destierro - draws Gold, Curse, Gold, Soothsayer, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Hunting Party, Gold, Copper
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Gold, Copper, Duchy, Copper
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Duchy, Curse, Copper, Province
+ 
+---------- Destierro: turn 20 ----------
+Destierro - plays Soothsayer
+Destierro - gains Gold
+Destierro - plays 2 Gold
+Destierro - buys Duchy
+Destierro - gains Duchy
+Destierro - shuffles deck
+Destierro - draws Ruined Village, Estate, Haven, Duchy, Gold
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Hunting Party, Estate, Curse, Silver, Curse
+ 
+---------- Destierro: turn 21 ----------
+Destierro - plays Haven
+Destierro - draws Estate
+Destierro - sets aside Estate
+Destierro - plays Gold
+Destierro - buys Estate
+Destierro - gains Estate
+Destierro - draws Curse, Gold, Curse, Copper, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Estate, Curse, Silver, Curse, Gold
+Stef - reveals Soothsayer
+Stef - places Soothsayer in hand
+Stef - plays Soothsayer
+Stef - gains Gold
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Gold, Estate, Province, Curse
+ 
+---------- Destierro: turn 22 ----------
+Destierro - duration Haven
+Destierro - places set aside Estate in hand
+Destierro - plays 2 Copper, 1 Gold
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Gold, Silver, Silver, Haven, Estate
+ 
+---------- Stef: turn 23 ----------
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Hunting Party, Copper, Gold, Haven, Marauder
+ 
+---------- Destierro: turn 23 ----------
+Destierro - plays Gold
+Destierro - buys Haven
+Destierro - gains Haven
+Destierro - draws Haven, Gold, Soothsayer, Province, Curse
+ 
+------------ Game Over ------------
+Stef - cards: 5 Hunting Party, 3 Haven, 1 Marauder, 1 Survivors, 1 Soothsayer, 1 Plaza, 7 Copper, 6 Gold, 1 Silver, 5 Province, 5 Estate, 3 Duchy, 6 Curse
+Stef - total victory points: 38
+Stef - turns: 23
+ 
+Destierro - cards: 7 Haven, 3 Ruined Village, 2 Soothsayer, 2 Ruined Market, 2 Hunting Party, 1 Marauder, 1 Ruined Library, 8 Gold, 7 Copper, 2 Silver, 1 Spoils, 5 Duchy, 4 Estate, 2 Province, 4 Curse
+Destierro - total victory points: 27
+Destierro - turns: 23
+ 
+1st place: Stef
+2nd place: Destierro
+ 

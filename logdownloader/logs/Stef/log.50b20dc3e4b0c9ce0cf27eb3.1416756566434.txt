@@ -1,0 +1,417 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Philosopher's Stone, Bishop, Remake, Tournament, Inn, Journeyman, Pillage, Rabble, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ruroi - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 3 Copper
+ruroi - buys Fortune Teller
+ruroi - gains Fortune Teller
+ruroi - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 4 Copper
+ruroi - buys Remake
+ruroi - gains Remake
+ruroi - shuffles deck
+ruroi - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays 4 Copper
+ruroi - buys Tournament
+ruroi - gains Tournament
+ruroi - draws Estate, Fortune Teller, Copper, Copper, Remake
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - draws Copper, Estate, Estate, Remake, Copper
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays Remake
+ruroi - trashes Estate
+ruroi - gains Silver
+ruroi - trashes Copper
+ruroi - draws Copper, Estate
+ruroi - shuffles deck
+ruroi - draws Fortune Teller, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Silver
+Stef - trashes Estate
+Stef - gains Silver
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Fortune Teller
+Stef - reveals Copper, Silver, Copper, Silver, Copper, Silver, Remake, Journeyman
+Stef - discards: Copper, Silver, Copper, Silver, Copper, Silver, Remake, Journeyman
+ruroi - plays 3 Copper
+ruroi - buys Journeyman
+ruroi - gains Journeyman
+ruroi - draws Copper, Silver, Estate, Remake, Tournament
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays Remake
+ruroi - trashes Tournament
+ruroi - gains Inn
+ruroi - places Journeyman, Fortune Teller, Inn on top of deck
+ruroi - shuffles deck
+ruroi - trashes Estate
+ruroi - gains Silver
+ruroi - plays 1 Copper, 1 Silver
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Inn, Copper, Journeyman, Fortune Teller
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Journeyman, Copper, Copper, Tournament, Silver
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays Inn
+ruroi - shuffles deck
+ruroi - draws Estate, Copper
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - plays Journeyman
+ruroi - names Copper
+ruroi - reveals Copper, Silver, Silver, Copper, Remake
+ruroi - discards: Copper, Copper
+ruroi - places cards in hand:  Silver, Silver, Remake
+ruroi - plays Remake
+ruroi - trashes Fortune Teller
+ruroi - gains Tournament
+ruroi - trashes Estate
+ruroi - gains Silver
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Journeyman
+ruroi - gains Journeyman
+ruroi - draws Copper, Silver
+ruroi - shuffles deck
+ruroi - draws Copper, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Journeyman
+Stef - names Remake
+Stef - shuffles deck
+Stef - reveals Remake, Silver, Silver, Estate
+Stef - discards Remake
+Stef - places cards in hand:  Silver, Silver, Estate
+Stef - plays 3 Copper, 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Tournament, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays 3 Copper, 2 Silver
+ruroi - buys Goons
+ruroi - gains Goons
+ruroi - draws Copper, Journeyman, Silver, Silver, Journeyman
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Silver, Copper, Tournament, Estate, Province
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays Journeyman
+ruroi - names Tournament
+ruroi - reveals Remake, Tournament, Copper, Inn
+ruroi - discards Tournament
+ruroi - places cards in hand:  Remake, Copper, Inn
+ruroi - plays 2 Copper, 2 Silver
+ruroi - buys Inn
+ruroi - gains Inn
+ruroi - places Goons, Tournament, Inn on top of deck
+ruroi - shuffles deck
+ruroi - draws Copper, Goons, Inn, Tournament
+ruroi - shuffles deck
+ruroi - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Silver, Inn
+Stef - plays Inn
+Stef - draws Remake, Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Silver
+Stef - trashes Copper
+Stef - draws Journeyman, Copper
+Stef - shuffles deck
+Stef - draws Remake, Copper, Tournament
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Tournament
+ruroi - draws Silver
+ruroi - plays Inn
+ruroi - draws Copper, Silver
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - plays Goons
+Stef - discards Journeyman
+Stef - discards Tournament
+ruroi - plays 2 Silver, 1 Copper
+ruroi - buys Goons
+ruroi - receives 1 victory point chips
+ruroi - gains Goons
+ruroi - draws Copper, Silver, Inn, Silver, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - draws Inn, Silver, Copper, Copper, Copper
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Inn
+ruroi - draws Journeyman, Copper
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - plays Journeyman
+ruroi - names Copper
+ruroi - shuffles deck
+ruroi - reveals Journeyman, Remake, Silver
+ruroi - places cards in hand:  Journeyman, Remake, Silver
+ruroi - plays Remake
+ruroi - trashes Silver
+ruroi - gains Tournament
+ruroi - trashes Copper
+ruroi - plays 2 Silver
+ruroi - buys Tournament
+ruroi - gains Tournament
+ruroi - draws Goons, Tournament, Copper, Goons, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Inn
+Stef - draws Silver, Tournament
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Tournament
+Stef - draws Province
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - draws Trusty Steed, Copper, Silver, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays Tournament
+ruroi - draws Copper
+ruroi - plays Goons
+Stef - discards Copper
+Stef - discards Silver
+ruroi - plays 3 Copper
+ruroi - buys Inn
+ruroi - receives 1 victory point chips
+ruroi - gains Inn
+ruroi - places Inn, Inn, Journeyman, Journeyman on top of deck
+ruroi - shuffles deck
+ruroi - draws Inn, Inn, Copper, Copper, Journeyman
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Inn, Journeyman
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Copper, Copper, Silver, Province, Remake
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Silver, Province, Remake
+Stef - plays Inn
+Stef - draws Tournament, Copper
+Stef - discards Copper
+Stef - discards Silver
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - draws Followers
+Stef - plays Followers
+Stef - draws Tournament, Journeyman
+Stef - gains Estate
+ruroi - gains Curse
+ruroi - discards Copper
+ruroi - discards Copper
+Stef - plays Remake
+Stef - trashes Journeyman
+Stef - gains Goons
+Stef - trashes Tournament
+Stef - gains Journeyman
+Stef - plays 2 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn, Journeyman on top of deck
+Stef - shuffles deck
+Stef - draws Journeyman, Inn
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Inn
+ruroi - draws Journeyman, Inn
+ruroi - discards Inn
+ruroi - discards Journeyman
+ruroi - plays Journeyman
+ruroi - names Copper
+ruroi - shuffles deck
+ruroi - reveals Silver, Copper, Tournament, Silver
+ruroi - discards Copper
+ruroi - places cards in hand:  Silver, Tournament, Silver
+ruroi - plays Tournament
+ruroi - draws Curse
+ruroi - plays Inn
+ruroi - draws Inn, Copper
+ruroi - discards Curse
+ruroi - discards Copper
+ruroi - plays Inn
+ruroi - draws Copper, Copper
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - plays 2 Silver
+ruroi - buys Journeyman
+ruroi - gains Journeyman
+ruroi - draws Copper, Goons, Goons, Remake, Tournament
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Remake, Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Trusty Steed, Followers, Estate
+Stef - places cards in hand:  Trusty Steed, Followers, Estate
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Journeyman, Silver
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Goons, Tournament, Silver
+Stef - places cards in hand:  Goons, Tournament, Silver
+Stef - plays Tournament
+Stef - draws Silver
+Stef - plays Goons
+ruroi - discards Goons
+ruroi - discards Goons
+Stef - plays 4 Silver
+Stef - buys Journeyman
+Stef - receives 1 victory point chips
+Stef - gains Journeyman
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Journeyman, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Inn, Copper, Inn, Journeyman
+ 
+---------- ruroi: turn 14 ----------
+ruroi - plays Remake
+ruroi - trashes Tournament
+ruroi - gains Inn
+ruroi - places Inn, Journeyman, Journeyman, Inn, Inn, Goons, Inn, Goons on top of deck
+ruroi - shuffles deck
+ruroi - trashes Copper
+ruroi - draws Journeyman, Goons, Tournament, Goons, Inn
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Inn
+Stef - shuffles deck
+Stef - draws Copper, Goons
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Journeyman
+Stef - names Silver
+Stef - reveals Silver, Tournament, Silver, Trusty Steed, Journeyman
+Stef - discards: Silver, Silver
+Stef - places cards in hand:  Tournament, Trusty Steed, Journeyman
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Silver, Remake
+Stef - plays Journeyman
+Stef - names Estate
+Stef - reveals Province, Followers, Copper
+Stef - places cards in hand:  Province, Followers, Copper
+Stef - plays Inn
+Stef - draws Estate, Inn
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Inn
+Stef - draws Silver, Journeyman
+Stef - discards Followers
+Stef - discards Estate
+Stef - plays Journeyman
+Stef - names Silver
+Stef - shuffles deck
+Stef - reveals Copper, Silver, Copper, Copper
+Stef - discards Silver
+Stef - places cards in hand:  Copper, Copper, Copper
+Stef - plays Tournament
+Stef - draws Estate
+Stef - plays Goons
+ 
+------------ Game Over ------------
+Stef - cards: 1 Remake, 1 Followers, 4 Silver, 4 Copper, 1 Province, 1 Estate
+Stef - victory point chips: 2
+Stef - total victory points: 9
+Stef - turns: 13
+ 
+ruroi - resigned
+ruroi - cards: 4 Inn, 3 Journeyman, 2 Goons, 2 Tournament, 1 Remake, 4 Copper, 3 Silver, 1 Curse
+ruroi - victory point chips: 2
+ruroi - total victory points: 1
+ruroi - turns: 14
+ 
+1st place: Stef
+2nd place: ruroi
+ 
