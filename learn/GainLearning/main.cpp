@@ -25,6 +25,27 @@ using namespace std;
 
 int main(int argc, const char * argv[])
 {
+    /*コサイン類似度
+    vector< vector<double> > weightVector = readWeightVector("weight.txt");
+    for(int i=0;i<32;i++) {
+        cout << getString(i+1) << ":";
+        int maxIndex = -1;
+        double maxValue = -10;
+        for(int j=0;j<32;j++) {
+            if(i == j) continue;
+            double v = getCosSimilarity(weightVector[i],weightVector[j]);
+            if(v > maxValue) {
+                maxValue = v;
+                maxIndex = j;
+            }
+        }
+        cout << getString(maxIndex+1) << endl;
+    }
+    
+    exit(0);
+    */
+    
+    
     srand((unsigned)time(NULL));
     bool readFlag = false;
     

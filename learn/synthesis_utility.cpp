@@ -13,6 +13,7 @@
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
+#include <math.h>
 
 using namespace std;
 
@@ -42,6 +43,24 @@ double getInnerProduct(const vector<double> &a,const vector<double> &b) {
         sum += a[i] * b[i];
     }
     return sum;
+}
+
+double getCosSimilarity(const vector<double> &a,const vector<double> &b) {
+    if(a.size() != b.size()) {
+        cout << "error: size of vector don't match @getCosSimilarity in synthesis_utility.cpp" << endl;
+        cout << "a:" << a.size() << " b:" << b.size() << endl;
+        exit(0);
+    }
+    double alength = 0.0;
+    double blength = 0.0;
+    for(int i=0;i<a.size();i++) {
+        alength += a[i] * a[i];
+        blength += b[i] * b[i];
+    }
+    alength = sqrt(alength);
+    blength = sqrt(blength);
+    
+    return getInnerProduct(a,b) / (alength * blength);
 }
 
 void showVector(vector<double> a) {

@@ -25,6 +25,7 @@ vector<string> SpritString(const string &src,const string &delim);
 
 double getInnerProduct(const vector<double> &a,const vector<double> &b,const vector<int> &notZero);
 double getInnerProduct(const vector<double> &a,const vector<double> &b);
+double getCosSimilarity(const vector<double> &a,const vector<double> &b);
 vector<double> addVector(const vector<double> &a,const vector<double> &b);
 vector<double> mulVector(const vector<double> &a,double b);
 void showVector(vector<double> a);
