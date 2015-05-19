@@ -1,0 +1,682 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Vagrant, Fortune Teller, Scavenger, Cache, Highway, Junk Dealer, Pillage, Stables, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SM.SM - shuffles deck
+Stef - draws Copper, Copper, Copper, Overgrown Estate, Copper
+SM.SM - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Scavenger
+SM.SM - gains Scavenger
+SM.SM - draws Necropolis, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Necropolis, Copper, Copper, Copper, Hovel
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Scavenger, Copper, Silver, Hovel, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Silver, Necropolis, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Copper on top of deck
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Junk Dealer
+SM.SM - gains Junk Dealer
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Overgrown Estate, Junk Dealer, Hovel, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Junk Dealer
+SM.SM - draws Copper
+SM.SM - trashes Overgrown Estate
+SM.SM - draws Scavenger
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Silver on top of deck
+SM.SM - plays 3 Copper
+SM.SM - buys Junk Dealer
+SM.SM - gains Junk Dealer
+SM.SM - draws Silver
+SM.SM - shuffles deck
+SM.SM - draws Junk Dealer, Scavenger, Necropolis, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Scavenger, Hovel
+Stef - shuffles deck
+Stef - draws Vagrant, Necropolis, Junk Dealer
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Necropolis
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Hovel on top of deck
+SM.SM - plays Junk Dealer
+SM.SM - draws Hovel
+SM.SM - trashes Hovel
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - shuffles deck
+SM.SM - draws Copper, Junk Dealer, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Overgrown Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Overgrown Estate
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Silver on top of deck
+Stef - plays 2 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Scavenger, Vagrant, Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Junk Dealer
+SM.SM - draws Copper
+SM.SM - trashes Necropolis
+SM.SM - plays 4 Copper
+SM.SM - buys Stables
+SM.SM - gains Stables
+SM.SM - draws Copper, Junk Dealer, Copper, Scavenger, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Necropolis
+Stef - places Necropolis in hand
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Junk Dealer on top of deck
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Junk Dealer
+Stef - shuffles deck
+Stef - draws Scavenger, Copper, Hovel, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Junk Dealer
+SM.SM - draws Copper
+SM.SM - trashes Copper
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Stables on top of deck
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Stables
+SM.SM - gains Stables
+SM.SM - draws Stables
+SM.SM - shuffles deck
+SM.SM - draws Copper, Junk Dealer, Scavenger, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Stables
+Stef - trashes Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Necropolis, Copper, Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Stables on top of deck
+Stef - plays 2 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Stables
+Stef - shuffles deck
+Stef - draws Copper, Hovel, Stables, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Gold, Copper, Copper
+SM.SM - plays Junk Dealer
+SM.SM - draws Junk Dealer
+SM.SM - trashes Junk Dealer
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Stables on top of deck
+SM.SM - plays 3 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Stables
+SM.SM - shuffles deck
+SM.SM - draws Copper, Gold, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Vagrant
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Junk Dealer, Silver
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Stables
+Stef - places Stables on top of deck
+Stef - plays Junk Dealer
+Stef - draws Stables
+Stef - trashes Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Scavenger, Necropolis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Copper on top of deck
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Stables, Necropolis, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Copper, Stables, Scavenger
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Junk Dealer on top of deck
+SM.SM - plays 2 Copper, 1 Gold, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Junk Dealer
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Stables, Province
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Scavenger, Vagrant
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Junk Dealer, Copper
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Necropolis
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Copper on top of deck
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Stables, Junk Dealer, Copper, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Copper, Stables, Copper
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Scavenger, Province, Gold
+SM.SM - plays Junk Dealer
+SM.SM - draws Silver
+SM.SM - trashes Copper
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Copper on top of deck
+SM.SM - plays 1 Copper, 1 Gold, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Silver, Copper, Copper, Junk Dealer
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Scavenger, Province, Province
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Stables on top of deck
+Stef - plays 2 Copper
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - draws Stables
+Stef - shuffles deck
+Stef - draws Scavenger, Copper, Copper, Vagrant
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Junk Dealer
+SM.SM - draws Province
+SM.SM - trashes Copper
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Pillage
+SM.SM - gains Pillage
+SM.SM - draws Gold, Scavenger, Stables, Copper, Stables
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Province, Junk Dealer
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Stables
+Stef - places Stables on top of deck
+Stef - plays Junk Dealer
+Stef - draws Stables
+Stef - trashes Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Pillage, Copper, Province
+Stef - plays Pillage
+Stef - trashes Pillage
+SM.SM - reveals Gold, Scavenger, Stables, Copper, Stables
+SM.SM - discards Copper
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Stables
+Stef - shuffles deck
+Stef - draws Silver, Stables, Scavenger, Province
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Stables
+SM.SM - discards Gold
+SM.SM - draws Province, Province, Copper
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Province
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Pillage on top of deck
+SM.SM - plays 2 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Pillage
+SM.SM - shuffles deck
+SM.SM - draws Silver, Copper, Copper, Scavenger
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Junk Dealer, Spoils, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Province, Stables, Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Spoils
+Stef - places Spoils on top of deck
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Spoils, Copper, Silver
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Silver on top of deck
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Province, Stables
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Silver, Silver, Copper, Province, Stables
+Stef - discards Stables
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays Silver
+SM.SM - plays Copper
+SM.SM - buys Fortune Teller
+SM.SM - gains Fortune Teller
+SM.SM - draws Copper, Stables, Stables, Province, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Vagrant, Scavenger, Stables, Stables, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Silver, Gold, Province
+SM.SM - plays Stables
+SM.SM - discards Silver
+SM.SM - draws Junk Dealer, Copper
+SM.SM - shuffles deck
+SM.SM - draws Spoils
+SM.SM - plays Junk Dealer
+SM.SM - draws Scavenger
+SM.SM - trashes Copper
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Fortune Teller on top of deck
+SM.SM - plays Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Fortune Teller
+SM.SM - shuffles deck
+SM.SM - draws Copper, Silver, Silver, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Junk Dealer, Spoils, Province
+Stef - plays Vagrant
+Stef - draws Province
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Stables
+Stef - discards Spoils
+Stef - draws Silver, Stables, Duchy
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Silver, Copper, Copper
+Stef - plays Junk Dealer
+Stef - draws Province
+Stef - trashes Copper
+Stef - plays Scavenger
+Stef - places Silver on top of deck
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Province, Spoils, Stables, Province
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Fortune Teller
+Stef - reveals Province
+SM.SM - plays Copper
+SM.SM - plays Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Province, Gold, Province, Duchy, Scavenger
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Province, Copper, Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Junk Dealer, Stables, Duchy, Vagrant, Duchy
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Stables on top of deck
+SM.SM - plays 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Stables
+SM.SM - shuffles deck
+SM.SM - draws Copper, Gold, Copper, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Stables
+Stef - reveals: Scavenger
+Stef - places Scavenger on top of deck
+Stef - plays Junk Dealer
+Stef - draws Scavenger
+Stef - trashes Stables
+Stef - plays Scavenger
+Stef - places Silver on top of deck
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Province, Duchy, Duchy, Copper
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Spoils, Scavenger, Silver
+SM.SM - plays Scavenger
+SM.SM - moves deck to discards
+SM.SM - places Stables on top of deck
+SM.SM - plays 2 Copper, 1 Gold, 1 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Stables
+SM.SM - shuffles deck
+SM.SM - draws Fortune Teller, Duchy, Duchy, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Junk Dealer, Province, Scavenger, Silver, Vagrant
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Duchy, Scavenger, Spoils
+SM.SM - plays Fortune Teller
+Stef - reveals Stables, Stables, Silver, Duchy
+Stef - discards: Stables, Stables, Silver
+SM.SM - plays Spoils
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Gold, Stables, Copper, Duchy, Province
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Scavenger
+Stef - places Silver on top of deck
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Stables, Scavenger, Silver, Province
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Stables
+SM.SM - discards Copper
+SM.SM - draws Province, Junk Dealer, Spoils
+SM.SM - plays 1 Gold
+SM.SM - plays Spoils
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Silver, Province, Silver, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Duchy, Copper, Duchy
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Silver on top of deck
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Pillage
+Stef - gains Pillage
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Duchy, Scavenger, Province, Copper
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays 2 Silver, 2 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Stables, Stables, Duchy, Province, Duchy
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Pillage on top of deck
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Cache
+Stef - gains Cache
+Stef - gains Copper
+Stef - gains Copper
+Stef - draws Pillage
+Stef - shuffles deck
+Stef - draws Copper, Duchy, Scavenger, Province
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - draws Province, Scavenger, Gold, Duchy, Junk Dealer
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Pillage
+Stef - trashes Pillage
+SM.SM - reveals Province, Scavenger, Gold, Duchy, Junk Dealer
+SM.SM - discards Scavenger
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - draws Junk Dealer, Stables, Silver, Province, Copper
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays Gold
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Gold, Fortune Teller, Duchy, Duchy
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Duchy, Silver, Silver
+Stef - plays 3 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Province, Vagrant, Cache, Copper, Silver
+ 
+---------- SM.SM: turn 23 ----------
+SM.SM - plays Fortune Teller
+Stef - reveals Stables, Silver, Duchy
+Stef - discards: Stables, Silver
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - shuffles deck
+SM.SM - draws Duchy, Copper, Copper, Duchy, Fortune Teller
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays 1 Cache, 1 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Stables, Gold, Province, Silver
+ 
+---------- SM.SM: turn 24 ----------
+SM.SM - plays Fortune Teller
+Stef - reveals Duchy
+SM.SM - plays 2 Copper
+SM.SM - buys Scavenger
+SM.SM - gains Scavenger
+SM.SM - draws Silver, Province, Province, Junk Dealer, Province
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Stables
+Stef - discards Silver
+Stef - draws Duchy, Silver, Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Spoils
+Stef - trashes Spoils
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Spoils, Silver, Copper, Province, Stables
+ 
+---------- SM.SM: turn 25 ----------
+SM.SM - plays Junk Dealer
+SM.SM - draws Gold
+SM.SM - trashes Silver
+SM.SM - plays 1 Gold
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Duchy, Silver, Gold, Gold, Copper
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Scavenger, Duchy
+Stef - plays Scavenger
+Stef - places Cache on top of deck
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Cache
+Stef - shuffles deck
+Stef - draws Scavenger, Silver, Province, Stables
+ 
+------------ Game Over ------------
+Stef - cards: 2 Stables, 1 Scavenger, 1 Vagrant, 1 Junk Dealer, 5 Silver, 3 Copper, 2 Gold, 1 Cache, 5 Province, 3 Duchy
+Stef - total victory points: 39
+Stef - turns: 25
+ 
+SM.SM - cards: 2 Scavenger, 2 Stables, 1 Fortune Teller, 1 Junk Dealer, 4 Gold, 3 Copper, 2 Silver, 5 Duchy, 3 Province, 1 Estate
+SM.SM - total victory points: 34
+SM.SM - turns: 25
+ 
+1st place: Stef
+2nd place: SM.SM
+ 

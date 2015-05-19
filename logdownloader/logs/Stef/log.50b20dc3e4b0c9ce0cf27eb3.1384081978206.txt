@@ -1,0 +1,919 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Squire, Fortress, Gardens, Navigator, Smithy, Spice Merchant, Torturer, Witch, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qmech - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+qmech - shuffles deck
+Stef - draws Copper, Hovel, Overgrown Estate, Copper, Necropolis
+qmech - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- qmech: turn 1 ----------
+qmech - plays 3 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- qmech: turn 2 ----------
+qmech - plays 4 Copper
+qmech - buys Smithy
+qmech - gains Smithy
+qmech - shuffles deck
+qmech - draws Copper, Necropolis, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - shuffles deck
+Stef - draws Copper, Copper, Witch, Copper, Overgrown Estate
+ 
+---------- qmech: turn 3 ----------
+qmech - plays 3 Copper
+qmech - buys Silver
+qmech - gains Silver
+qmech - draws Copper, Copper, Silver, Smithy, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Witch
+Stef - draws Copper, Necropolis
+qmech - gains Curse
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - draws Copper, Copper, Hovel, Copper, Squire
+ 
+---------- qmech: turn 4 ----------
+qmech - plays 3 Copper, 1 Silver
+qmech - buys Witch
+qmech - gains Witch
+qmech - draws Hovel, Copper
+qmech - shuffles deck
+qmech - draws Copper, Overgrown Estate, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Smithy
+ 
+---------- qmech: turn 5 ----------
+qmech - plays 2 Copper
+qmech - buys Squire
+qmech - gains Squire
+qmech - draws Witch, Copper, Silver, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Smithy
+Stef - draws Squire, Copper, Spice Merchant
+Stef - plays 5 Copper
+Stef - buys Witch
+Stef - gains Witch
+Stef - draws Copper, Hovel, Necropolis, Overgrown Estate, Witch
+ 
+---------- qmech: turn 6 ----------
+qmech - plays Witch
+qmech - draws Curse, Copper
+Stef - gains Curse
+qmech - plays 3 Copper, 2 Silver
+qmech - buys Border Village
+qmech - gains Border Village
+qmech - gains Witch
+qmech - draws Copper, Copper, Smithy
+qmech - shuffles deck
+qmech - draws Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Necropolis
+Stef - plays Witch
+Stef - draws Silver, Copper
+qmech - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Smithy, Copper, Squire, Spice Merchant, Copper
+ 
+---------- qmech: turn 7 ----------
+qmech - plays Smithy
+qmech - draws Copper, Copper, Border Village
+qmech - plays 5 Copper, 1 Silver
+qmech - buys Border Village
+qmech - gains Border Village
+qmech - gains Torturer
+qmech - draws Witch, Copper, Squire, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Witch
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Smithy
+Stef - draws Hovel, Copper, Overgrown Estate
+Stef - plays Witch
+Stef - draws Witch, Copper
+qmech - gains Curse
+Stef - plays 4 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Copper, Fortress, Curse, Necropolis
+ 
+---------- qmech: turn 8 ----------
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Witch
+qmech - draws Hovel, Overgrown Estate
+Stef - gains Curse
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Torturer
+qmech - gains Torturer
+qmech - draws Curse, Witch, Necropolis
+qmech - shuffles deck
+qmech - draws Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Fortress, Copper, Fortress, Copper, Spice Merchant
+ 
+---------- qmech: turn 9 ----------
+qmech - plays Necropolis
+qmech - plays Witch
+qmech - draws Silver, Copper
+Stef - gains Curse
+qmech - plays 3 Copper, 1 Silver
+qmech - buys Torturer
+qmech - gains Torturer
+qmech - draws Curse, Hovel, Witch, Silver, Torturer
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortress
+Stef - draws Overgrown Estate
+Stef - plays Fortress
+Stef - draws Witch
+Stef - plays Witch
+Stef - draws Torturer, Necropolis
+qmech - gains Curse
+Stef - plays Torturer
+Stef - draws Squire, Copper, Witch
+qmech - discards Hovel
+qmech - discards Curse
+Stef - plays Necropolis
+Stef - plays Witch
+Stef - draws Curse, Copper
+qmech - gains Curse
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Curse, Copper
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 4 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Hovel, Silver, Smithy, Copper
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- qmech: turn 10 ----------
+qmech - plays Witch
+qmech - draws Torturer, Border Village
+Stef - gains Curse
+qmech - plays Silver
+qmech - buys Squire
+qmech - gains Squire
+qmech - draws Squire, Border Village, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Smithy
+Stef - draws Witch, Squire, Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Witch, Overgrown Estate, Curse, Copper, Torturer
+ 
+---------- qmech: turn 11 ----------
+qmech - plays Border Village
+qmech - draws Overgrown Estate
+qmech - plays Squire
+qmech - gains Silver
+qmech - plays 3 Copper
+qmech - buys Fortress
+qmech - gains Fortress
+qmech - draws Copper, Curse, Smithy
+qmech - shuffles deck
+qmech - draws Squire, Border Village
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Witch
+Stef - draws Necropolis, Torturer
+qmech - gains Curse
+Stef - draws Spice Merchant, Copper, Curse, Copper, Fortress
+ 
+---------- qmech: turn 12 ----------
+qmech - plays Border Village
+qmech - draws Witch
+qmech - plays Smithy
+qmech - draws Curse, Torturer, Torturer
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Torturer
+qmech - draws Fortress, Copper, Curse
+qmech - plays Fortress
+qmech - draws Copper
+qmech - plays Torturer
+qmech - draws Necropolis, Witch, Copper
+qmech - plays Necropolis
+qmech - plays Witch
+qmech - draws Copper, Silver
+qmech - plays Witch
+qmech - draws Border Village, Silver
+qmech - plays 5 Copper, 2 Silver
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Curse, Torturer, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - shuffles deck
+Stef - draws Necropolis, Copper
+Stef - plays Silver
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Curse, Copper, Curse, Torturer, Copper
+ 
+---------- qmech: turn 13 ----------
+qmech - plays Torturer
+qmech - draws Curse, Silver, Hovel
+qmech - plays 2 Copper, 1 Silver
+qmech - buys Fortress
+qmech - gains Fortress
+qmech - draws Squire
+qmech - shuffles deck
+qmech - draws Curse, Torturer, Silver, Torturer
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Torturer
+Stef - draws Squire, Torturer, Fortress
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Witch, Hovel, Smithy, Witch, Curse
+ 
+---------- qmech: turn 14 ----------
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Torturer
+qmech - draws Copper, Hovel, Silver
+Stef - discards Witch
+Stef - discards Witch
+qmech - plays Torturer
+qmech - draws Curse, Copper, Border Village
+qmech - plays 2 Silver, 2 Copper
+qmech - buys Gold
+qmech - gains Gold
+qmech - draws Fortress, Overgrown Estate, Smithy, Necropolis, Torturer
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Smithy
+Stef - draws Silver, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Torturer, Fortress, Spice Merchant, Fortress, Copper
+ 
+---------- qmech: turn 15 ----------
+qmech - plays Fortress
+qmech - draws Witch
+qmech - plays Torturer
+qmech - draws Fortress, Curse, Squire
+qmech - plays Necropolis
+qmech - plays Smithy
+qmech - draws Copper, Silver, Gold
+qmech - plays Fortress
+qmech - draws Copper
+qmech - plays Witch
+qmech - draws Border Village, Copper
+qmech - plays Border Village
+qmech - draws Copper
+qmech - plays Squire
+qmech - takes 2 buys
+qmech - plays 4 Copper, 1 Silver, 1 Gold
+qmech - buys Province
+qmech - gains Province
+qmech - buys Cellar
+qmech - gains Cellar
+qmech - draws Curse, Copper, Witch, Curse, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Torturer
+Stef - draws Silver, Cellar, Squire
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Witch, Squire
+Stef - plays Witch
+Stef - draws Fortress, Necropolis
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Cellar
+Stef - discards Necropolis
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Copper
+Stef - draws Witch, Copper, Torturer, Curse
+Stef - plays Torturer
+Stef - shuffles deck
+Stef - draws Copper, Overgrown Estate, Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Witch
+Stef - draws Curse, Curse
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Smithy
+Stef - draws Hovel, Silver, Necropolis, Smithy, Cellar
+ 
+---------- qmech: turn 16 ----------
+qmech - plays Witch
+qmech - shuffles deck
+qmech - draws Squire, Copper
+qmech - plays 2 Copper
+qmech - buys Cellar
+qmech - gains Cellar
+qmech - draws Torturer, Curse, Torturer, Necropolis, Border Village
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Torturer, Spice Merchant
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Fortress, Copper
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Torturer
+Stef - draws Squire, Cellar, Squire
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Hovel
+Stef - draws Curse, Curse, Witch
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Witch
+Stef - draws Fortress, Silver
+Stef - plays Fortress
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Overgrown Estate
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Overgrown Estate
+Stef - draws Smithy, Silver, Curse
+Stef - plays Smithy
+Stef - draws Copper, Fortress, Torturer
+Stef - plays Fortress
+Stef - draws Witch
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Smithy
+Stef - shuffles deck
+Stef - draws Smithy, Fortress, Silver, Border Village, Necropolis
+ 
+---------- qmech: turn 17 ----------
+qmech - plays Border Village
+qmech - draws Silver
+qmech - plays Torturer
+qmech - draws Copper, Squire, Hovel
+qmech - plays Necropolis
+qmech - plays Torturer
+qmech - draws Curse, Gold, Copper
+qmech - plays Squire
+qmech - gains Silver
+qmech - plays 2 Copper, 1 Silver, 1 Gold
+qmech - buys Province
+qmech - trashes Hovel
+qmech - gains Province
+qmech - draws Witch, Copper, Fortress, Copper, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Border Village
+Stef - draws Squire
+Stef - plays Smithy
+Stef - draws Curse, Curse, Silver
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Smithy
+Stef - draws Spice Merchant, Torturer, Witch, Silver, Smithy
+ 
+---------- qmech: turn 18 ----------
+qmech - plays Fortress
+qmech - draws Curse
+qmech - plays Witch
+qmech - draws Overgrown Estate, Cellar
+qmech - plays Cellar
+qmech - discards Overgrown Estate
+qmech - discards Curse
+qmech - draws Province, Silver
+qmech - plays 2 Copper, 2 Silver
+qmech - buys Border Village
+qmech - gains Border Village
+qmech - gains Torturer
+qmech - draws Gold, Copper, Torturer, Border Village, Smithy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Curse, Silver
+Stef - plays Smithy
+Stef - draws Copper, Witch, Torturer
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Cellar, Overgrown Estate, Border Village, Squire, Smithy
+ 
+---------- qmech: turn 19 ----------
+qmech - plays Border Village
+qmech - draws Fortress
+qmech - plays Torturer
+qmech - shuffles deck
+qmech - draws Copper, Overgrown Estate, Squire
+qmech - plays Fortress
+qmech - draws Silver
+qmech - plays Smithy
+qmech - draws Necropolis, Copper, Gold
+qmech - plays Necropolis
+qmech - plays Squire
+qmech - takes 2 buys
+qmech - plays 3 Copper, 2 Gold, 1 Silver
+qmech - buys Province
+qmech - gains Province
+qmech - buys Squire
+qmech - gains Squire
+qmech - buys Squire
+qmech - gains Squire
+qmech - draws Copper, Curse, Torturer, Cellar, Witch
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Border Village
+Stef - draws Hovel
+Stef - plays Smithy
+Stef - draws Fortress, Cellar, Curse
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Cellar
+Stef - discards Overgrown Estate
+Stef - discards Hovel
+Stef - discards Curse
+Stef - draws Torturer, Smithy, Copper
+Stef - plays Smithy
+Stef - draws Fortress, Witch, Torturer
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Torturer
+Stef - draws Necropolis, Spice Merchant, Border Village
+Stef - plays Border Village
+Stef - draws Curse
+Stef - plays Torturer
+Stef - draws Smithy, Copper, Witch
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Squire, Silver, Fortress
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Witch
+Stef - draws Smithy, Curse
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Curse
+Stef - draws Silver, Border Village
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Witch, Smithy, Fortress, Silver, Border Village
+ 
+---------- qmech: turn 20 ----------
+qmech - plays Cellar
+qmech - discards Copper
+qmech - discards Curse
+qmech - discards Witch
+qmech - draws Province, Curse, Torturer
+qmech - plays Torturer
+qmech - draws Witch, Copper, Silver
+qmech - plays Silver
+qmech - buys Squire
+qmech - gains Squire
+qmech - draws Copper, Curse, Copper, Curse, Border Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Hovel, Border Village, Curse
+Stef - plays Border Village
+Stef - draws Fortress
+Stef - plays Witch
+Stef - draws Copper, Squire
+Stef - plays Border Village
+Stef - draws Witch
+Stef - plays Fortress
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Torturer, Torturer, Curse
+Stef - plays Torturer
+Stef - draws Cellar, Fortress, Overgrown Estate
+Stef - plays Fortress
+Stef - draws Squire
+Stef - plays Torturer
+Stef - draws Spice Merchant, Cellar, Curse
+Stef - plays Cellar
+Stef - discards Overgrown Estate
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Curse
+Stef - draws Fortress, Necropolis, Smithy, Province, Silver
+Stef - plays Fortress
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Silver, Silver, Border Village
+Stef - plays Necropolis
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Border Village
+Stef - shuffles deck
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Curse, Silver, Curse
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Curse
+Stef - draws Overgrown Estate, Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 5 Silver
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Gardens
+Stef - shuffles deck
+Stef - draws Silver, Smithy, Fortress, Fortress, Curse
+ 
+---------- qmech: turn 21 ----------
+qmech - plays Border Village
+qmech - draws Province
+qmech - plays 2 Copper
+qmech - buys Estate
+qmech - gains Estate
+qmech - draws Curse, Silver, Squire, Fortress, Torturer
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Silver, Cellar, Silver
+Stef - plays Fortress
+Stef - draws Squire
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Squire
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - draws Border Village, Smithy, Cellar, Witch, Overgrown Estate, Silver
+Stef - plays Smithy
+Stef - draws Torturer, Province, Squire
+Stef - plays Border Village
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Gardens, Silver, Torturer
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Torturer
+Stef - draws Province, Curse, Fortress
+Stef - plays Fortress
+Stef - draws Border Village
+Stef - plays Torturer
+Stef - draws Necropolis, Border Village, Spice Merchant
+Stef - plays Border Village
+Stef - draws Smithy
+Stef - plays Border Village
+Stef - draws Witch
+Stef - plays Smithy
+Stef - draws Fortress, Curse, Border Village
+Stef - plays Border Village
+Stef - shuffles deck
+Stef - draws Curse
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Witch
+Stef - draws Silver, Squire
+Stef - plays Witch
+Stef - draws Curse, Silver
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 5 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - shuffles deck
+Stef - draws Border Village, Cellar, Smithy, Fortress, Fortress
+ 
+---------- qmech: turn 22 ----------
+qmech - plays Fortress
+qmech - draws Cellar
+qmech - plays Torturer
+qmech - draws Curse, Silver, Border Village
+qmech - plays Border Village
+qmech - shuffles deck
+qmech - draws Torturer
+qmech - plays Torturer
+qmech - draws Torturer, Silver, Squire
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Torturer
+qmech - draws Silver, Copper, Curse
+qmech - plays Cellar
+qmech - discards Copper
+qmech - discards Curse
+qmech - discards Curse
+qmech - discards Curse
+qmech - draws Copper, Estate, Smithy, Squire
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Smithy
+qmech - draws Squire, Province, Copper
+qmech - plays Squire
+qmech - takes 2 actions
+qmech - plays Squire
+qmech - takes 2 buys
+qmech - plays 4 Silver, 2 Copper
+qmech - buys Gardens
+qmech - gains Gardens
+qmech - buys Gardens
+qmech - gains Gardens
+qmech - buys Border Village
+qmech - gains Border Village
+qmech - gains Gardens
+qmech - draws Cellar, Province, Copper, Gold, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Fortress
+Stef - draws Gardens
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Torturer, Fortress, Fortress
+Stef - plays Torturer
+Stef - draws Silver, Border Village, Squire
+Stef - plays Fortress
+Stef - draws Torturer
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Torturer
+Stef - draws Border Village, Gardens, Smithy
+Stef - plays Border Village
+Stef - draws Smithy
+Stef - plays Smithy
+Stef - draws Witch, Overgrown Estate, Province
+Stef - plays Border Village
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Cellar, Border Village, Silver
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays Border Village
+Stef - draws Province
+Stef - plays Witch
+Stef - draws Silver, Witch
+Stef - plays Witch
+Stef - draws Squire, Smithy
+Stef - plays Smithy
+Stef - draws Silver, Spice Merchant, Necropolis
+Stef - plays Necropolis
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Cellar
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - discards Silver
+Stef - draws Province, Curse
+Stef - shuffles deck
+Stef - draws Silver, Silver
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - draws Silver, Silver, Silver
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 6 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - shuffles deck
+Stef - draws Silver, Silver, Gardens, Witch, Cellar
+ 
+---------- qmech: turn 23 ----------
+qmech - plays Cellar
+qmech - discards Province
+qmech - discards Copper
+qmech - discards Copper
+qmech - draws Necropolis, Curse, Province
+qmech - plays Gold
+qmech - buys Cellar
+qmech - gains Cellar
+qmech - draws Fortress, Copper, Gold, Border Village, Torturer
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Cellar
+Stef - discards Gardens
+Stef - discards Silver
+Stef - discards Silver
+Stef - draws Curse, Province, Curse
+Stef - plays Witch
+Stef - draws Curse, Necropolis
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Torturer, Silver, Gardens, Province, Silver
+ 
+---------- qmech: turn 24 ----------
+qmech - plays Fortress
+qmech - draws Witch
+qmech - plays Torturer
+qmech - draws Squire, Overgrown Estate, Curse
+qmech - plays Border Village
+qmech - draws Witch
+qmech - plays Witch
+qmech - draws Copper, Border Village
+qmech - plays Border Village
+qmech - draws Curse
+qmech - plays Witch
+qmech - shuffles deck
+qmech - draws Fortress, Curse
+qmech - plays Fortress
+qmech - draws Squire
+qmech - plays Squire
+qmech - takes 2 buys
+qmech - plays Squire
+qmech - takes 2 buys
+qmech - plays 2 Copper, 1 Gold
+qmech - buys Duchy
+qmech - gains Duchy
+qmech - buys Estate
+qmech - gains Estate
+qmech - buys Copper
+qmech - gains Copper
+qmech - buys Copper
+qmech - gains Copper
+qmech - buys Copper
+qmech - gains Copper
+qmech - draws Gardens, Gardens, Gold, Copper, Silver
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Torturer
+Stef - draws Border Village, Fortress, Overgrown Estate
+Stef - plays 2 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Squire, Silver, Curse, Smithy, Cellar
+ 
+---------- qmech: turn 25 ----------
+qmech - plays 1 Gold, 1 Copper, 1 Silver
+qmech - buys Duchy
+qmech - gains Duchy
+qmech - draws Cellar, Copper, Copper, Torturer, Cellar
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Smithy
+Stef - draws Gardens, Silver, Gardens
+Stef - plays Cellar
+Stef - discards Gardens
+Stef - discards Gardens
+Stef - discards Curse
+Stef - draws Smithy, Torturer, Border Village
+Stef - plays Border Village
+Stef - draws Fortress
+Stef - plays Smithy
+Stef - draws Border Village, Smithy, Squire
+Stef - plays Fortress
+Stef - draws Province
+Stef - plays Smithy
+Stef - draws Witch, Fortress, Spice Merchant
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Torturer
+Stef - draws Smithy, Gardens, Fortress
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Smithy
+Stef - draws Fortress, Gardens, Torturer
+Stef - plays Border Village
+Stef - draws Curse
+Stef - plays Fortress
+Stef - draws Gardens
+Stef - plays Torturer
+Stef - draws Curse, Border Village, Silver
+Stef - plays Border Village
+Stef - draws Province
+Stef - plays Witch
+Stef - draws Silver, Province
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 5 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Duchy
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Duchy
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Fortress, Gardens, Silver, Cellar, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 6 Border Village, 5 Fortress, 4 Smithy, 2 Cellar, 2 Squire, 2 Torturer, 2 Witch, 1 Spice Merchant, 1 Necropolis, 6 Silver, 2 Copper, 5 Gardens, 3 Province, 2 Duchy, 1 Overgrown Estate, 4 Curse
+Stef - total victory points: 40
+Stef - turns: 25
+ 
+qmech - cards: 5 Squire, 4 Torturer, 4 Border Village, 3 Cellar, 2 Fortress, 2 Witch, 10 Copper, 1 Necropolis, 1 Smithy, 4 Silver, 2 Gold, 3 Gardens, 3 Province, 2 Duchy, 2 Estate, 1 Overgrown Estate, 6 Curse
+qmech - total victory points: 35
+qmech - turns: 25
+ 
+1st place: Stef
+2nd place: qmech
+ 

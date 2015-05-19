@@ -1,0 +1,530 @@
+------------ Game Setup ------------
+Supply cards: Ambassador, Forager, Great Hall, Wishing Well, Armory, JackOfAllTrades, Mining Village, Band of Misfits, Cartographer, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hdu88 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+hdu88 - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Copper
+hdu88 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Ambassador
+Stef - gains Ambassador
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- hdu88: turn 1 ----------
+hdu88 - plays 4 Copper
+hdu88 - buys Armory
+hdu88 - gains Armory
+hdu88 - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Ambassador, Copper
+ 
+---------- hdu88: turn 2 ----------
+hdu88 - plays 3 Copper
+hdu88 - buys Ambassador
+hdu88 - gains Ambassador
+hdu88 - shuffles deck
+hdu88 - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+Stef - returns Estate to the Supply
+hdu88 - gains Estate
+Stef - draws Estate, Armory, Copper, Copper, Copper
+ 
+---------- hdu88: turn 3 ----------
+hdu88 - plays 4 Copper
+hdu88 - buys Mining Village
+hdu88 - gains Mining Village
+hdu88 - draws Estate, Copper, Armory, Copper, Ambassador
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Armory
+Stef - gains Mining Village
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Mining Village, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Forager
+ 
+---------- hdu88: turn 4 ----------
+hdu88 - plays Ambassador
+hdu88 - reveals Copper
+hdu88 - returns Copper to the Supply
+hdu88 - returns Copper to the Supply
+Stef - gains Copper
+hdu88 - draws Estate, Copper
+hdu88 - shuffles deck
+hdu88 - draws Copper, Mining Village, Armory
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Copper, Ambassador, Copper, Estate, Armory
+ 
+---------- hdu88: turn 5 ----------
+hdu88 - plays Mining Village
+hdu88 - draws Ambassador
+hdu88 - plays Armory
+hdu88 - gains Forager
+hdu88 - plays Ambassador
+hdu88 - reveals Copper
+hdu88 - returns Copper to the Supply
+hdu88 - returns Copper to the Supply
+Stef - gains Copper
+hdu88 - draws Forager, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+hdu88 - gains Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Forager
+ 
+---------- hdu88: turn 6 ----------
+hdu88 - plays Forager
+hdu88 - trashes Estate
+hdu88 - draws Copper, Copper
+hdu88 - shuffles deck
+hdu88 - draws Armory, Mining Village, Ambassador
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Ambassador, Mining Village, Armory, Mining Village, Copper
+ 
+---------- hdu88: turn 7 ----------
+hdu88 - plays Mining Village
+hdu88 - draws Copper
+hdu88 - plays Armory
+hdu88 - gains JackOfAllTrades
+hdu88 - plays Ambassador
+hdu88 - reveals Copper
+hdu88 - returns Copper to the Supply
+hdu88 - returns Copper to the Supply
+Stef - gains Copper
+hdu88 - draws JackOfAllTrades, Forager, Copper, Estate, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains JackOfAllTrades
+Stef - plays Mining Village
+Stef - draws JackOfAllTrades
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+hdu88 - gains Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - shuffles deck
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Silver, Copper, Mining Village
+Stef - shuffles deck
+Stef - draws Armory, Mining Village
+ 
+---------- hdu88: turn 8 ----------
+hdu88 - plays Forager
+hdu88 - trashes Estate
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - discards Estate
+hdu88 - shuffles deck
+hdu88 - trashes Estate
+hdu88 - plays 2 Copper
+hdu88 - buys Forager
+hdu88 - gains Forager
+hdu88 - draws Ambassador, Estate, Copper, Silver
+hdu88 - shuffles deck
+hdu88 - draws Armory
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains JackOfAllTrades
+Stef - plays Mining Village
+Stef - draws JackOfAllTrades
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Mining Village, Forager, JackOfAllTrades, Ambassador
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- hdu88: turn 9 ----------
+hdu88 - plays Armory
+hdu88 - gains Mining Village
+hdu88 - plays 1 Copper, 1 Silver
+hdu88 - buys Forager
+hdu88 - gains Forager
+hdu88 - draws Mining Village, Copper, Forager, Mining Village, JackOfAllTrades
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+hdu88 - gains Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Tactician on top of deck
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Copper, Silver
+Stef - draws Armory, Copper, Mining Village, Mining Village, JackOfAllTrades
+ 
+---------- hdu88: turn 10 ----------
+hdu88 - plays Mining Village
+hdu88 - draws Copper
+hdu88 - plays Mining Village
+hdu88 - draws Forager
+hdu88 - plays Forager
+hdu88 - trashes Copper
+hdu88 - plays Forager
+hdu88 - trashes Copper
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - shuffles deck
+hdu88 - places Forager on top of deck
+hdu88 - plays Forager
+hdu88 - trashes Estate
+hdu88 - plays 2 Silver
+hdu88 - buys Tactician
+hdu88 - gains Tactician
+hdu88 - buys Band of Misfits
+hdu88 - gains Band of Misfits
+hdu88 - draws Copper, Copper, Armory
+hdu88 - shuffles deck
+hdu88 - draws Forager, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Tactician
+Stef - shuffles deck
+Stef - draws Forager, Mining Village, Copper, Ambassador, Silver
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Silver
+Stef - plays Mining Village
+Stef - draws JackOfAllTrades
+Stef - plays Armory
+Stef - gains Armory
+Stef - plays Mining Village
+Stef - draws Armory
+Stef - plays Armory
+Stef - gains Forager
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+hdu88 - gains Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Forager on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - shuffles deck
+Stef - places Silver on top of deck
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Ambassador, Armory, Tactician, JackOfAllTrades, Armory
+ 
+---------- hdu88: turn 11 ----------
+hdu88 - plays Forager
+hdu88 - trashes Copper
+hdu88 - plays Armory
+hdu88 - gains Mining Village
+hdu88 - plays 1 Copper, 1 Silver
+hdu88 - buys Band of Misfits
+hdu88 - gains Band of Misfits
+hdu88 - draws Mining Village, Mining Village, Silver, Tactician, Forager
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Tactician
+Stef - discards: Ambassador, Armory, JackOfAllTrades, Armory
+Stef - draws Silver, Mining Village, JackOfAllTrades, Forager, Mining Village
+ 
+---------- hdu88: turn 12 ----------
+hdu88 - plays Mining Village
+hdu88 - draws Forager
+hdu88 - plays Mining Village
+hdu88 - draws Mining Village
+hdu88 - plays Mining Village
+hdu88 - draws Ambassador
+hdu88 - plays Forager
+hdu88 - trashes Ambassador
+hdu88 - plays Tactician
+hdu88 - discards: Silver, Forager
+hdu88 - draws Band of Misfits, JackOfAllTrades
+hdu88 - shuffles deck
+hdu88 - draws Copper, Band of Misfits, Mining Village
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Tactician
+Stef - draws Silver, Mining Village, Tactician, Mining Village, Copper
+Stef - plays Mining Village
+Stef - draws Silver
+Stef - plays Mining Village
+Stef - draws Forager
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Armory
+Stef - plays Armory
+Stef - gains Forager
+Stef - plays Mining Village
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Armory on top of deck
+Stef - plays Armory
+Stef - gains Forager
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Forager on top of deck
+Stef - shuffles deck
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Tactician
+Stef - discards: Silver, Ambassador
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Copper
+Stef - gains Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Armory, Copper, Mining Village, Mining Village
+ 
+---------- hdu88: turn 13 ----------
+hdu88 - duration Tactician
+hdu88 - draws Silver, Silver, Mining Village, Forager, Mining Village
+hdu88 - plays Mining Village
+hdu88 - draws Forager
+hdu88 - plays Mining Village
+hdu88 - draws Copper
+hdu88 - plays Mining Village
+hdu88 - draws Forager
+hdu88 - plays Forager
+hdu88 - trashes Copper
+hdu88 - plays Forager
+hdu88 - trashes Copper
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - places Armory on top of deck
+hdu88 - plays Forager
+hdu88 - trashes Silver
+hdu88 - plays Band of Misfits
+hdu88 - chooses JackOfAllTrades
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - places Armory on top of deck
+hdu88 - shuffles deck
+hdu88 - trashes Armory
+hdu88 - plays Band of Misfits
+hdu88 - chooses JackOfAllTrades
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - shuffles deck
+hdu88 - places Silver on top of deck
+hdu88 - plays 4 Silver
+hdu88 - buys Tactician
+hdu88 - gains Tactician
+hdu88 - buys Province
+hdu88 - gains Province
+hdu88 - shuffles deck
+hdu88 - draws Band of Misfits, Silver, Mining Village, Mining Village, Forager
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Tactician
+Stef - draws Copper, JackOfAllTrades, Forager, Mining Village, Mining Village
+Stef - plays Mining Village
+Stef - draws JackOfAllTrades
+Stef - plays Mining Village
+Stef - draws Silver
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Ambassador
+Stef - plays Armory
+Stef - gains Forager
+Stef - plays Mining Village
+Stef - draws Forager
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+hdu88 - gains Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Armory on top of deck
+Stef - plays Armory
+Stef - gains Copper
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Forager on top of deck
+Stef - shuffles deck
+Stef - plays Mining Village
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Tactician
+Stef - discards: Forager, Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Armory, Tactician, Mining Village, Forager, Mining Village
+ 
+---------- hdu88: turn 14 ----------
+hdu88 - plays Mining Village
+hdu88 - draws Tactician
+hdu88 - plays Mining Village
+hdu88 - draws Silver
+hdu88 - plays Forager
+hdu88 - trashes Silver
+hdu88 - plays Band of Misfits
+hdu88 - chooses JackOfAllTrades
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - places Mining Village on top of deck
+hdu88 - plays Mining Village
+hdu88 - draws Band of Misfits
+hdu88 - plays Forager
+hdu88 - trashes Silver
+hdu88 - plays Band of Misfits
+hdu88 - chooses JackOfAllTrades
+hdu88 - plays JackOfAllTrades
+hdu88 - gains Silver
+hdu88 - discards Province
+hdu88 - plays Forager
+hdu88 - trashes Silver
+hdu88 - plays Tactician
+hdu88 - discards: Tactician, Silver
+hdu88 - buys Forager
+hdu88 - gains Forager
+hdu88 - buys Forager
+hdu88 - gains Forager
+hdu88 - draws JackOfAllTrades
+hdu88 - shuffles deck
+hdu88 - draws Forager, Band of Misfits, Forager, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Tactician
+Stef - draws Forager, JackOfAllTrades, Silver, Mining Village, JackOfAllTrades
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - trashes Mining Village
+Stef - plays Armory
+Stef - gains Armory
+Stef - plays Mining Village
+Stef - draws Armory
+Stef - trashes Mining Village
+Stef - plays Armory
+Stef - gains Armory
+Stef - plays Mining Village
+Stef - draws Armory
+Stef - trashes Mining Village
+Stef - plays Armory
+Stef - gains Armory
+Stef - plays Mining Village
+Stef - draws Armory
+Stef - trashes Mining Village
+Stef - plays Armory
+Stef - gains Armory
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Tactician
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Armory on top of deck
+Stef - plays Mining Village
+Stef - draws Forager
+Stef - trashes Mining Village
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays Armory
+Stef - gains Armory
+Stef - buys Armory
+Stef - gains Armory
+Stef - buys Armory
+Stef - gains Armory
+Stef - buys Province
+Stef - gains Province
+Stef - draws Armory, Mining Village, Mining Village, Forager, Armory
+ 
+------------ Game Over ------------
+Stef - cards: 9 Armory, 4 Forager, 2 Mining Village, 2 JackOfAllTrades, 1 Tactician, 1 Ambassador, 1 Silver, 2 Province
+Stef - total victory points: 12
+Stef - turns: 15
+ 
+hdu88 - cards: 5 Forager, 3 Mining Village, 2 Band of Misfits, 2 Tactician, 1 JackOfAllTrades, 3 Silver, 1 Copper, 1 Province
+hdu88 - total victory points: 6
+hdu88 - turns: 14
+ 
+1st place: Stef
+2nd place: hdu88
+ 

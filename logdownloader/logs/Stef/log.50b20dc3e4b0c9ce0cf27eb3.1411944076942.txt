@@ -1,0 +1,608 @@
+------------ Game Setup ------------
+Supply cards: Develop, Woodcutter, Plaza, Count, Library, Mountebank, Outpost, Hunting Grounds, Nobles, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+lightbulb - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+lightbulb - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Develop
+lightbulb - gains Develop
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Copper, Develop, Copper, Estate
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Plaza
+lightbulb - gains Plaza
+lightbulb - shuffles deck
+lightbulb - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Estate, Copper, Copper, Develop, Plaza
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Copper, Plaza, Copper
+Stef - shuffles deck
+Stef - draws Plaza, Silver
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Develop
+lightbulb - trashes Estate
+lightbulb - gains Silver
+lightbulb - draws Silver, Copper
+lightbulb - shuffles deck
+lightbulb - draws Plaza, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Plaza
+Stef - draws Develop
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Develop
+Stef - trashes Copper
+Stef - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays 1 Silver, 1 Copper
+lightbulb - uses 2 coin tokens
+lightbulb - buys Mountebank
+lightbulb - gains Mountebank
+lightbulb - draws Copper, Develop, Silver, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Silver, Estate
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Develop
+lightbulb - trashes Copper
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Plaza
+lightbulb - gains Plaza
+lightbulb - draws Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate, Mountebank, Plaza
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Count
+Stef - gains Count
+Stef - draws Plaza, Silver, Develop, Copper, Copper
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+lightbulb - plays 2 Copper
+lightbulb - uses 1 coin token
+lightbulb - buys Library
+lightbulb - gains Library
+lightbulb - draws Silver, Silver, Copper, Plaza, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 1 coin token
+Stef - buys Library
+Stef - gains Library
+Stef - draws Copper, Mountebank, Plaza
+Stef - shuffles deck
+Stef - draws Library, Silver
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Plaza
+lightbulb - draws Develop
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Develop
+lightbulb - trashes Copper
+lightbulb - plays 2 Silver
+lightbulb - uses 1 coin token
+lightbulb - buys Count
+lightbulb - gains Count
+lightbulb - draws Copper, Estate
+lightbulb - shuffles deck
+lightbulb - draws Copper, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Library
+Stef - draws Copper
+Stef - discards Develop
+Stef - draws Silver
+Stef - draws Copper
+Stef - draws Curse
+Stef - discards Develop
+Stef - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Copper, Count, Estate, Copper
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Library
+lightbulb - gains Library
+lightbulb - draws Estate, Library, Count, Plaza, Plaza
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Estate, Copper, Estate, Copper
+Stef - draws Plaza
+Stef - shuffles deck
+Stef - draws Count, Copper, Nobles, Silver
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Plaza
+lightbulb - draws Develop
+lightbulb - plays Plaza
+lightbulb - draws Silver
+lightbulb - discards Silver
+lightbulb - receives 1 coin token
+lightbulb - plays Develop
+lightbulb - trashes Estate
+lightbulb - gains Silver
+lightbulb - plays Library
+lightbulb - draws Silver
+lightbulb - draws Copper
+lightbulb - draws Copper
+lightbulb - discards Mountebank
+lightbulb - shuffles deck
+lightbulb - draws Copper
+lightbulb - draws Estate
+lightbulb - draws Copper
+lightbulb - discards Mountebank
+lightbulb - plays Count
+lightbulb - places Silver on top of deck
+lightbulb - trashes Copper, Copper, Copper, Estate, Copper
+lightbulb - draws Silver, Curse, Silver, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Nobles
+Stef - draws Copper, Develop, Curse
+Stef - plays Count
+Stef - places Develop on top of deck
+Stef - trashes Copper, Silver, Copper, Curse
+Stef - draws Develop, Copper, Copper, Silver, Plaza
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Nobles
+lightbulb - gains Nobles
+lightbulb - draws Library, Silver
+lightbulb - shuffles deck
+lightbulb - draws Silver, Copper, Library
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Plaza
+Stef - draws Mountebank
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Library
+Stef - shuffles deck
+Stef - draws Nobles, Plaza, Plaza, Develop
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Library
+lightbulb - discards Count
+lightbulb - discards Develop
+lightbulb - discards Plaza
+lightbulb - draws Curse
+lightbulb - discards Mountebank
+lightbulb - discards Nobles
+lightbulb - draws Copper
+lightbulb - discards Plaza
+lightbulb - draws Silver
+lightbulb - discards: Count, Develop, Plaza, Mountebank, Nobles, Plaza
+lightbulb - plays 3 Silver, 2 Copper
+lightbulb - buys Nobles
+lightbulb - gains Nobles
+lightbulb - shuffles deck
+lightbulb - draws Curse, Plaza, Nobles, Mountebank, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Develop
+Stef - trashes Nobles
+Stef - gains Bank
+Stef - gains Mountebank
+Stef - plays Plaza
+Stef - draws Mountebank
+Stef - plays Mountebank
+lightbulb - discards Curse
+Stef - plays Library
+Stef - draws Bank
+Stef - draws Copper
+Stef - moves Mountebank to hand
+Stef - draws Silver
+Stef - moves Count to hand
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Stef - plays Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - shuffles deck
+Stef - draws Develop, Plaza, Mountebank, Copper, Nobles
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Plaza
+lightbulb - draws Library
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - takes 2 actions
+lightbulb - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+lightbulb - plays Library
+lightbulb - moves Plaza to hand
+lightbulb - draws Silver
+lightbulb - moves Library to hand
+lightbulb - draws Copper
+lightbulb - draws Curse
+lightbulb - moves Count to hand
+lightbulb - moves Develop to hand
+lightbulb - plays Plaza
+lightbulb - draws Silver
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Develop
+lightbulb - trashes Library
+lightbulb - gains Nobles
+lightbulb - gains Plaza
+lightbulb - plays Count
+lightbulb - places Silver on top of deck
+lightbulb - takes 3 coins
+lightbulb - plays 1 Silver
+lightbulb - buys Bank
+lightbulb - gains Bank
+lightbulb - draws Silver, Plaza, Nobles, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Nobles
+Stef - draws Plaza, Plaza, Count
+Stef - plays Plaza
+Stef - draws Bank
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Develop
+Stef - trashes Mountebank
+Stef - gains Nobles
+Stef - gains Plaza
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Bank
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Silver, Mountebank, Library
+Stef - plays Library
+Stef - shuffles deck
+Stef - draws Copper
+Stef - draws Copper
+Stef - draws Copper
+Stef - draws Bank
+Stef - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Develop, Bank, Nobles, Plaza
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Plaza
+lightbulb - draws Nobles
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - shuffles deck
+lightbulb - draws Plaza, Curse, Bank
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - draws Mountebank, Develop, Curse
+lightbulb - plays Develop
+lightbulb - trashes Bank
+lightbulb - gains Province
+lightbulb - gains Nobles
+lightbulb - plays 2 Silver
+lightbulb - uses 1 coin token
+lightbulb - buys Library
+lightbulb - gains Library
+lightbulb - draws Nobles, Province, Plaza, Curse, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Plaza
+Stef - draws Count
+Stef - plays Nobles
+Stef - draws Nobles, Copper, Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Develop
+Stef - trashes Bank
+Stef - gains Province
+Stef - gains Hunting Grounds
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Curse, Copper, Copper
+Stef - uses 4 coin tokens
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Hunting Grounds, Province, Plaza, Silver, Library
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - draws Curse, Copper, Copper
+lightbulb - plays 3 Copper
+lightbulb - uses 1 coin token
+lightbulb - buys Plaza
+lightbulb - gains Plaza
+lightbulb - draws Library, Nobles, Count, Silver
+lightbulb - shuffles deck
+lightbulb - draws Library
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Library
+Stef - moves Plaza to hand
+Stef - moves Nobles to hand
+Stef - moves Mountebank to hand
+Stef - moves Plaza to hand
+Stef - plays Plaza
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Hunting Grounds
+Stef - draws Copper, Count, Plaza, Nobles
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Develop
+Stef - discards Silver
+Stef - receives 1 coin token
+Stef - plays Nobles
+Stef - draws Nobles
+Stef - shuffles deck
+Stef - draws Copper, Silver
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Stef - plays Nobles
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Count
+Stef - discards Province
+Stef - discards Develop
+Stef - trashes Copper, Silver, Copper
+Stef - uses 4 coin tokens
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - shuffles deck
+Stef - draws Plaza, Nobles, Plaza, Library, Nobles
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Nobles
+lightbulb - takes 2 actions
+lightbulb - plays Library
+lightbulb - draws Province
+lightbulb - moves Nobles to hand
+lightbulb - draws Curse
+lightbulb - moves Plaza to hand
+lightbulb - plays Plaza
+lightbulb - draws Mountebank
+lightbulb - discards Silver
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - takes 2 actions
+lightbulb - plays Count
+lightbulb - discards Curse
+lightbulb - discards Province
+lightbulb - takes 3 coins
+lightbulb - plays Library
+lightbulb - draws Copper
+lightbulb - moves Plaza to hand
+lightbulb - moves Nobles to hand
+lightbulb - draws Curse
+lightbulb - draws Silver
+lightbulb - draws Copper
+lightbulb - plays Plaza
+lightbulb - draws Plaza
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Plaza
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - draws Nobles, Silver, Plaza
+lightbulb - plays Plaza
+lightbulb - draws Develop
+lightbulb - discards Copper
+lightbulb - receives 1 coin token
+lightbulb - plays Nobles
+lightbulb - draws Curse, Copper, Copper
+lightbulb - plays Develop
+lightbulb - trashes Curse
+lightbulb - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Curse
+lightbulb - shuffles deck
+lightbulb - draws Library, Copper, Curse, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Count
+Stef - plays Plaza
+Stef - draws Province
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Library
+Stef - moves Hunting Grounds to hand
+Stef - moves Hunting Grounds to hand
+Stef - moves Nobles to hand
+Stef - moves Plaza to hand
+Stef - moves Develop to hand
+Stef - plays Nobles
+Stef - draws Mountebank, Plaza
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Develop
+Stef - trashes Mountebank
+Stef - gains Hunting Grounds
+Stef - gains Plaza
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Hunting Grounds
+Stef - plays Count
+Stef - discards Province
+Stef - discards Plaza
+Stef - trashes Hunting Grounds, Hunting Grounds, Hunting Grounds
+Stef - applies the 'when you trash ability' of Hunting Grounds
+Stef - gains Estate
+Stef - gains Estate
+Stef - gains Estate
+Stef - applies the 'when you trash ability' of Hunting Grounds
+Stef - gains Estate
+Stef - gains Estate
+Stef - gains Estate
+Stef - applies the 'when you trash ability' of Hunting Grounds
+Stef - gains Estate
+Stef - gains Estate
+Stef - uses 5 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Plaza, Plaza, Estate, Develop
+ 
+------------ Game Over ------------
+Stef - cards: 6 Plaza, 3 Nobles, 1 Develop, 1 Library, 1 Count, 1 Copper, 8 Estate, 1 Province, 1 Duchy, 1 Curse
+Stef - total victory points: 22
+Stef - turns: 17
+ 
+lightbulb - cards: 4 Nobles, 4 Plaza, 2 Library, 1 Count, 1 Develop, 1 Mountebank, 6 Copper, 3 Silver, 2 Province, 4 Curse
+lightbulb - total victory points: 16
+lightbulb - turns: 16
+ 
+1st place: Stef
+2nd place: lightbulb
+ 

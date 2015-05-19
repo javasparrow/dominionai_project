@@ -1,0 +1,562 @@
+------------ Game Setup ------------
+Supply cards: Squire, Wishing Well, Familiar, Philosopher's Stone, Baron, Salvager, Scout, Counterfeit, Wharf, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Dingan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dingan - shuffles deck
+Stef - shuffles deck
+Dingan - draws Estate, Copper, Estate, Estate, Copper
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Dingan: turn 1 ----------
+Dingan - plays 2 Copper
+Dingan - buys Squire
+Dingan - gains Squire
+Dingan - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - shuffles deck
+Stef - draws Copper, Estate, Squire, Estate, Copper
+ 
+---------- Dingan: turn 2 ----------
+Dingan - plays 5 Copper
+Dingan - buys Wharf
+Dingan - gains Wharf
+Dingan - shuffles deck
+Dingan - draws Copper, Estate, Copper, Estate, Squire
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Copper, Wharf, Copper, Copper
+ 
+---------- Dingan: turn 3 ----------
+Dingan - plays Squire
+Dingan - gains Silver
+Dingan - plays 2 Copper
+Dingan - buys Squire
+Dingan - gains Squire
+Dingan - draws Estate, Copper, Wharf, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wharf
+Stef - draws Copper, Estate
+Stef - plays 5 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - shuffles deck
+Stef - draws Copper, Counterfeit, Copper, Estate, Squire
+ 
+---------- Dingan: turn 4 ----------
+Dingan - plays Wharf
+Dingan - draws Copper, Copper
+Dingan - plays 5 Copper
+Dingan - buys Counterfeit
+Dingan - gains Counterfeit
+Dingan - shuffles deck
+Dingan - draws Estate, Copper, Squire, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Wharf
+Stef - draws Copper, Estate
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Copper, Squire, Silver, Copper
+ 
+---------- Dingan: turn 5 ----------
+Dingan - duration Wharf
+Dingan - draws Counterfeit, Copper
+Dingan - plays Squire
+Dingan - gains Silver
+Dingan - plays Counterfeit
+Dingan - plays Copper
+Dingan - plays Copper
+Dingan - trashes Copper
+Dingan - plays 2 Copper
+Dingan - buys Wharf
+Dingan - gains Wharf
+Dingan - draws Silver, Copper, Squire, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Wharf, Silver, Squire
+ 
+---------- Dingan: turn 6 ----------
+Dingan - plays Squire
+Dingan - gains Silver
+Dingan - plays 2 Copper, 1 Silver
+Dingan - buys Counterfeit
+Dingan - gains Counterfeit
+Dingan - draws Copper, Copper
+Dingan - shuffles deck
+Dingan - draws Estate, Wharf, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Wharf, Estate
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Copper, Squire, Silver, Copper
+ 
+---------- Dingan: turn 7 ----------
+Dingan - plays Wharf
+Dingan - draws Silver, Estate
+Dingan - plays 3 Copper, 1 Silver
+Dingan - buys Wharf
+Dingan - gains Wharf
+Dingan - draws Copper, Counterfeit, Silver, Squire, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Wharf
+Stef - draws Copper, Counterfeit
+Stef - duration Wharf
+Stef - draws Wharf
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Wharf, Silver
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Estate, Copper, Squire
+Stef - shuffles deck
+Stef - draws Copper, Estate
+ 
+---------- Dingan: turn 8 ----------
+Dingan - duration Wharf
+Dingan - draws Wharf, Copper
+Dingan - plays Squire
+Dingan - takes 2 actions
+Dingan - plays Wharf
+Dingan - draws Counterfeit, Estate
+Dingan - plays Counterfeit
+Dingan - plays Copper
+Dingan - plays Copper
+Dingan - trashes Copper
+Dingan - plays Counterfeit
+Dingan - plays Copper
+Dingan - plays Copper
+Dingan - trashes Copper
+Dingan - plays 2 Silver
+Dingan - buys Wharf
+Dingan - gains Wharf
+Dingan - buys Adventurer
+Dingan - gains Adventurer
+Dingan - draws Squire, Copper
+Dingan - shuffles deck
+Dingan - draws Estate, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Wharf
+Stef - draws Silver, Copper
+Stef - duration Wharf
+Stef - draws Wharf, Wharf
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Estate, Copper
+Stef - plays Wharf
+Stef - draws Squire, Counterfeit
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Potion
+Stef - gains Potion
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Copper, Squire, Wharf, Silver, Wharf
+ 
+---------- Dingan: turn 9 ----------
+Dingan - duration Wharf
+Dingan - draws Silver, Adventurer
+Dingan - plays Squire
+Dingan - takes 2 actions
+Dingan - plays Adventurer
+Dingan - reveals Silver, Counterfeit
+Dingan - places cards in hand:  Silver, Counterfeit
+Dingan - plays Counterfeit
+Dingan - plays Silver
+Dingan - plays Silver
+Dingan - trashes Silver
+Dingan - plays 2 Copper, 1 Silver
+Dingan - buys Potion
+Dingan - gains Potion
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - draws Counterfeit, Copper, Estate, Wharf, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Wharf
+Stef - shuffles deck
+Stef - draws Wharf, Squire
+Stef - duration Wharf
+Stef - draws Silver, Estate
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Potion, Estate
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Counterfeit, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Estate, Squire
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Counterfeit
+Stef - plays Potion
+Stef - plays Potion
+Stef - trashes Potion
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Squire, Wharf
+ 
+---------- Dingan: turn 10 ----------
+Dingan - plays Wharf
+Dingan - draws Copper, Squire
+Dingan - plays Counterfeit
+Dingan - plays Copper
+Dingan - plays Copper
+Dingan - trashes Copper
+Dingan - plays 1 Copper, 1 Silver
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - draws Wharf, Wharf
+Dingan - shuffles deck
+Dingan - draws Estate, Squire, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Wharf
+Stef - shuffles deck
+Stef - draws Estate, Silver
+Stef - duration Wharf
+Stef - draws Familiar, Squire
+Stef - duration Wharf
+Stef - draws Silver, Wharf
+Stef - plays Familiar
+Stef - draws Squire
+Dingan - gains Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Wharf, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Counterfeit, Silver
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Familiar, Squire
+Stef - plays Familiar
+Stef - draws Estate
+Dingan - gains Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Estate, Copper
+Stef - shuffles deck
+Stef - draws Counterfeit, Estate
+ 
+---------- Dingan: turn 11 ----------
+Dingan - duration Wharf
+Dingan - draws Copper, Potion
+Dingan - plays Squire
+Dingan - takes 2 actions
+Dingan - plays Wharf
+Dingan - draws Gold, Counterfeit
+Dingan - plays Wharf
+Dingan - draws Gold, Silver
+Dingan - plays Counterfeit
+Dingan - plays Potion
+Dingan - plays Potion
+Dingan - trashes Potion
+Dingan - plays 2 Silver, 2 Gold, 1 Copper
+Dingan - buys Familiar
+Dingan - gains Familiar
+Dingan - buys Familiar
+Dingan - gains Familiar
+Dingan - buys Gold
+Dingan - gains Gold
+Dingan - draws Estate, Copper, Adventurer, Counterfeit, Squire
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Wharf
+Stef - draws Squire, Squire
+Stef - duration Wharf
+Stef - draws Silver, Squire
+Stef - duration Wharf
+Stef - draws Counterfeit, Familiar
+Stef - plays Familiar
+Stef - draws Province
+Dingan - gains Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Squire, Familiar, Silver, Silver, Squire
+ 
+---------- Dingan: turn 12 ----------
+Dingan - duration Wharf
+Dingan - draws Estate, Copper
+Dingan - duration Wharf
+Dingan - draws Wharf
+Dingan - shuffles deck
+Dingan - draws Curse
+Dingan - plays Squire
+Dingan - takes 2 actions
+Dingan - plays Wharf
+Dingan - draws Gold, Squire
+Dingan - plays Squire
+Dingan - takes 2 actions
+Dingan - plays Adventurer
+Dingan - reveals Familiar, Copper, Silver
+Dingan - places cards in hand:  Copper, Silver
+Dingan - discards Familiar
+Dingan - plays Counterfeit
+Dingan - plays Silver
+Dingan - plays Silver
+Dingan - trashes Silver
+Dingan - plays 3 Copper, 1 Gold
+Dingan - buys Province
+Dingan - gains Province
+Dingan - buys Counterfeit
+Dingan - gains Counterfeit
+Dingan - draws Wharf, Silver, Familiar, Gold, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Familiar
+Stef - draws Wharf
+Dingan - gains Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Copper, Estate
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Wishing Well, Wharf, Copper, Wharf
+Stef - shuffles deck
+Stef - draws Duchy
+ 
+---------- Dingan: turn 13 ----------
+Dingan - duration Wharf
+Dingan - draws Counterfeit, Curse
+Dingan - plays Familiar
+Dingan - draws Curse
+Stef - gains Curse
+Dingan - plays Wharf
+Dingan - draws Estate
+Dingan - shuffles deck
+Dingan - draws Counterfeit
+Dingan - plays Counterfeit
+Dingan - plays Counterfeit
+Dingan - plays Gold
+Dingan - plays Gold
+Dingan - trashes Gold
+Dingan - plays Counterfeit
+Dingan - plays Gold
+Dingan - plays Gold
+Dingan - trashes Gold
+Dingan - trashes Counterfeit
+Dingan - plays Silver
+Dingan - buys Province
+Dingan - gains Province
+Dingan - buys Province
+Dingan - gains Province
+Dingan - draws Estate, Estate, Copper, Copper, Wharf
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Wharf
+Stef - draws Counterfeit, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Copper, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Wharf, Silver
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Squire
+Stef - reveals Province
+Stef - plays Wharf
+Stef - draws Province, Familiar
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 2 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Estate, Counterfeit, Estate, Silver, Squire
+ 
+---------- Dingan: turn 14 ----------
+Dingan - duration Wharf
+Dingan - draws Curse, Familiar
+Dingan - plays Familiar
+Dingan - draws Counterfeit
+Stef - gains Curse
+Dingan - plays Wharf
+Dingan - draws Adventurer, Squire
+Dingan - plays Counterfeit
+Dingan - plays Copper
+Dingan - plays Copper
+Dingan - trashes Copper
+Dingan - plays Copper
+Dingan - buys Salvager
+Dingan - gains Salvager
+Dingan - draws Province, Wharf, Gold, Copper, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Wharf
+Stef - draws Province, Squire
+Stef - duration Wharf
+Stef - draws Familiar, Silver
+Stef - duration Wharf
+Stef - draws Wharf, Wharf
+Stef - plays Familiar
+Stef - draws Silver
+Dingan - gains Curse
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Counterfeit, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Wharf
+Stef - draws Squire
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Counterfeit
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - trashes Counterfeit
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Squire
+Stef - gains Squire
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy, Wishing Well, Estate, Familiar, Province
+ 
+------------ Game Over ------------
+Stef - cards: 8 Squire, 6 Wharf, 2 Familiar, 1 Wishing Well, 2 Counterfeit, 2 Copper, 11 Estate, 1 Silver, 2 Duchy, 2 Province, 2 Curse
+Stef - total victory points: 27
+Stef - turns: 15
+ 
+Dingan - cards: 4 Wharf, 2 Familiar, 2 Squire, 1 Salvager, 1 Adventurer, 2 Copper, 2 Counterfeit, 1 Gold, 1 Silver, 3 Province, 3 Estate, 5 Curse
+Dingan - total victory points: 16
+Dingan - turns: 14
+ 
+1st place: Stef
+2nd place: Dingan
+ 

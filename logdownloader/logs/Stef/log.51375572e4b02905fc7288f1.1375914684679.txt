@@ -1,0 +1,616 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Feodum, Sea Hag, Smithy, Wandering Minstrel, Inn, Rogue, Saboteur, Fairgrounds, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Troninho - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Troninho - shuffles deck
+Stef - shuffles deck
+Troninho - draws Hovel, Copper, Copper, Necropolis, Copper
+Stef - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Copper, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- Troninho: turn 1 ----------
+Troninho - plays Necropolis
+Troninho - plays 3 Copper
+Troninho - buys Silver
+Troninho - gains Silver
+Troninho - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Necropolis, Hovel, Copper, Overgrown Estate
+ 
+---------- Troninho: turn 2 ----------
+Troninho - plays 4 Copper
+Troninho - buys Sea Hag
+Troninho - gains Sea Hag
+Troninho - shuffles deck
+Troninho - draws Copper, Copper, Overgrown Estate, Copper, Hovel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Silver, Copper, Sea Hag, Copper, Copper
+ 
+---------- Troninho: turn 3 ----------
+Troninho - plays 3 Copper
+Troninho - buys Silver
+Troninho - gains Silver
+Troninho - draws Silver, Copper, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Sea Hag
+Troninho - discards Sea Hag
+Troninho - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Vagrant, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Vagrant, Copper, Copper, Inn
+Stef - shuffles deck
+Stef - draws Necropolis
+ 
+---------- Troninho: turn 4 ----------
+Troninho - plays Necropolis
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Rogue
+Troninho - gains Rogue
+Troninho - draws Curse, Copper
+Troninho - shuffles deck
+Troninho - draws Rogue, Silver, Hovel
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Necropolis
+Stef - discards Copper
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper, Copper, Hovel, Silver, Overgrown Estate
+ 
+---------- Troninho: turn 5 ----------
+Troninho - plays Rogue
+Stef - reveals: Sea Hag
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - trashes Sea Hag
+Stef - discards Copper
+Troninho - plays 1 Copper, 1 Silver
+Troninho - buys Inn
+Troninho - gains Inn
+Troninho - places Inn on top of deck
+Troninho - shuffles deck
+Troninho - draws Copper, Copper, Silver, Necropolis, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Necropolis, Copper, Copper, Vagrant, Copper
+ 
+---------- Troninho: turn 6 ----------
+Troninho - plays Necropolis
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Inn
+Troninho - gains Inn
+Troninho - places Inn, Rogue on top of deck
+Troninho - shuffles deck
+Troninho - draws Copper, Copper, Copper, Inn, Inn
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Inn
+Stef - draws Copper, Wandering Minstrel
+Stef - discards Necropolis
+Stef - discards Wandering Minstrel
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - shuffles deck
+Stef - draws Inn, Hovel, Copper, Sea Hag, Sea Hag
+ 
+---------- Troninho: turn 7 ----------
+Troninho - plays Inn
+Troninho - draws Sea Hag, Overgrown Estate
+Troninho - discards Copper
+Troninho - discards Overgrown Estate
+Troninho - plays Inn
+Troninho - draws Rogue
+Troninho - shuffles deck
+Troninho - draws Hovel
+Troninho - discards Copper
+Troninho - discards Hovel
+Troninho - plays Rogue
+Troninho - gains Sea Hag
+Troninho - plays Sea Hag
+Stef - discards Vagrant
+Stef - gains Curse
+Troninho - plays 1 Copper
+Troninho - buys Silver
+Troninho - gains Silver
+Troninho - draws Copper, Copper, Necropolis, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Inn
+Stef - draws Curse, Copper
+Stef - discards Curse
+Stef - discards Hovel
+Stef - plays Sea Hag
+Troninho - discards Curse
+Troninho - gains Curse
+Stef - plays Sea Hag
+Troninho - discards Curse
+Troninho - gains Curse
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Necropolis, Copper, Wandering Minstrel, Copper
+ 
+---------- Troninho: turn 8 ----------
+Troninho - plays Necropolis
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Smithy
+Troninho - gains Smithy
+Troninho - draws Curse, Overgrown Estate, Copper, Copper, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - reveals: Copper, Copper, Overgrown Estate
+Stef - discards: Copper, Copper, Overgrown Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Sea Hag, Sea Hag, Inn, Vagrant, Vagrant on top of deck
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant, Sea Hag, Sea Hag, Inn
+ 
+---------- Troninho: turn 9 ----------
+Troninho - plays 2 Copper, 1 Silver
+Troninho - buys Wandering Minstrel
+Troninho - gains Wandering Minstrel
+Troninho - shuffles deck
+Troninho - draws Overgrown Estate, Curse, Copper, Curse, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Curse, Copper, Copper
+Stef - discards: Curse, Copper, Copper
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Sea Hag
+Troninho - discards Copper
+Troninho - gains Curse
+Stef - plays Sea Hag
+Troninho - discards Curse
+Troninho - gains Curse
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Hovel, Silver, Necropolis, Overgrown Estate
+ 
+---------- Troninho: turn 10 ----------
+Troninho - plays 2 Copper
+Troninho - buys Vagrant
+Troninho - gains Vagrant
+Troninho - draws Curse, Copper, Inn, Silver, Wandering Minstrel
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Silver, Sea Hag, Vagrant, Vagrant
+ 
+---------- Troninho: turn 11 ----------
+Troninho - plays Wandering Minstrel
+Troninho - draws Necropolis
+Troninho - reveals: Silver, Copper, Curse
+Troninho - discards: Silver, Copper, Curse
+Troninho - plays Inn
+Troninho - draws Sea Hag, Copper
+Troninho - discards Necropolis
+Troninho - discards Curse
+Troninho - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+Troninho - plays 2 Copper, 1 Silver
+Troninho - buys Smithy
+Troninho - gains Smithy
+Troninho - draws Hovel, Copper, Sea Hag, Rogue, Inn
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Curse
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Inn
+Stef - draws Copper, Necropolis
+Stef - discards Necropolis
+Stef - discards Curse
+Stef - plays Sea Hag
+Troninho - discards Smithy
+Troninho - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Copper, Copper, Vagrant, Curse, Sea Hag
+ 
+---------- Troninho: turn 12 ----------
+Troninho - plays Inn
+Troninho - draws Curse, Silver
+Troninho - discards Curse
+Troninho - discards Hovel
+Troninho - plays Rogue
+Stef - reveals: Wandering Minstrel, Overgrown Estate
+Stef - trashes Wandering Minstrel
+Stef - discards Overgrown Estate
+Troninho - plays Sea Hag
+Stef - discards Inn
+Stef - gains Curse
+Troninho - plays 1 Copper, 1 Silver
+Troninho - buys Inn
+Troninho - gains Inn
+Troninho - places Vagrant, Inn, Wandering Minstrel, Sea Hag, Inn, Smithy, Smithy, Necropolis on top of deck
+Troninho - shuffles deck
+Troninho - draws Smithy, Vagrant, Necropolis, Sea Hag, Wandering Minstrel
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Curse
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Sea Hag
+Troninho - discards Inn
+Troninho - gains Curse
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Silver, Copper, Copper, Hovel
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- Troninho: turn 13 ----------
+Troninho - plays Necropolis
+Troninho - plays Smithy
+Troninho - draws Curse, Inn, Smithy
+Troninho - plays Vagrant
+Troninho - shuffles deck
+Troninho - draws Silver
+Troninho - reveals: Copper
+Troninho - places Copper on top of deck
+Troninho - plays Inn
+Troninho - draws Copper, Inn
+Troninho - discards Curse
+Troninho - discards Copper
+Troninho - plays Wandering Minstrel
+Troninho - draws Copper
+Troninho - reveals: Curse, Rogue, Silver
+Troninho - places Rogue on top of deck
+Troninho - discards: Curse, Silver
+Troninho - plays Inn
+Troninho - draws Rogue, Copper
+Troninho - discards Sea Hag
+Troninho - discards Copper
+Troninho - plays Smithy
+Troninho - draws Curse, Curse, Sea Hag
+Troninho - plays Rogue
+Troninho - gains Wandering Minstrel
+Troninho - plays Sea Hag
+Stef - discards Copper
+Troninho - plays 1 Silver, 1 Copper
+Troninho - buys Smithy
+Troninho - gains Smithy
+Troninho - draws Hovel, Curse, Silver, Curse, Inn
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Nobles
+Stef - trashes Hovel
+Stef - gains Nobles
+Stef - draws Sea Hag, Copper, Copper, Overgrown Estate, Curse
+ 
+---------- Troninho: turn 14 ----------
+Troninho - plays Inn
+Troninho - draws Curse, Copper
+Troninho - discards Curse
+Troninho - discards Curse
+Troninho - plays 1 Silver, 1 Copper
+Troninho - buys Vagrant
+Troninho - gains Vagrant
+Troninho - draws Overgrown Estate, Copper, Copper, Copper
+Troninho - shuffles deck
+Troninho - draws Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Curse, Inn, Vagrant, Vagrant
+ 
+---------- Troninho: turn 15 ----------
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Saboteur
+Troninho - gains Saboteur
+Troninho - draws Copper, Copper, Rogue, Curse, Curse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Sea Hag
+Stef - places Sea Hag on top of deck
+Stef - plays Vagrant
+Stef - draws Sea Hag
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Inn
+Stef - places Inn on top of deck
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Necropolis
+Stef - places Necropolis in hand
+Stef - plays Inn
+Stef - draws Copper, Curse
+Stef - discards Curse
+Stef - discards Necropolis
+Stef - plays Inn
+Stef - draws Smithy
+Stef - shuffles deck
+Stef - draws Necropolis
+Stef - discards Curse
+Stef - discards Sea Hag
+Stef - plays Smithy
+Stef - draws Copper, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - draws Curse, Curse, Silver, Silver, Overgrown Estate
+ 
+---------- Troninho: turn 16 ----------
+Troninho - plays Rogue
+Stef - reveals: Copper, Sea Hag
+Stef - trashes Sea Hag
+Stef - discards Copper
+Troninho - plays 2 Copper
+Troninho - buys Wandering Minstrel
+Troninho - gains Wandering Minstrel
+Troninho - draws Copper, Smithy, Vagrant, Smithy, Hovel
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 2 Silver
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Nobles, Vagrant
+Stef - shuffles deck
+Stef - draws Smithy, Copper
+ 
+---------- Troninho: turn 17 ----------
+Troninho - plays Vagrant
+Troninho - draws Curse
+Troninho - reveals: Silver
+Troninho - places Silver on top of deck
+Troninho - plays Smithy
+Troninho - draws Silver, Inn, Wandering Minstrel
+Troninho - plays 1 Copper, 1 Silver
+Troninho - buys Silver
+Troninho - gains Silver
+Troninho - draws Wandering Minstrel, Vagrant, Sea Hag, Sea Hag, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Vagrant
+Stef - draws Curse
+Stef - reveals: Inn
+Stef - places Inn on top of deck
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Smithy
+Stef - draws Inn, Overgrown Estate, Copper
+Stef - plays Inn
+Stef - draws Curse, Silver
+Stef - discards Overgrown Estate
+Stef - discards Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Vagrant, Necropolis, Copper, Vagrant, Silver
+ 
+---------- Troninho: turn 18 ----------
+Troninho - plays Wandering Minstrel
+Troninho - draws Copper
+Troninho - reveals: Necropolis, Smithy, Curse
+Troninho - places Necropolis on top of deck
+Troninho - places Smithy on top of deck
+Troninho - discards Curse
+Troninho - plays Vagrant
+Troninho - draws Smithy
+Troninho - reveals: Necropolis
+Troninho - places Necropolis in hand
+Troninho - plays Smithy
+Troninho - draws Silver, Curse, Inn
+Troninho - plays Inn
+Troninho - draws Curse, Inn
+Troninho - discards Curse
+Troninho - discards Curse
+Troninho - plays Inn
+Troninho - shuffles deck
+Troninho - draws Silver, Hovel
+Troninho - discards Sea Hag
+Troninho - discards Curse
+Troninho - plays Necropolis
+Troninho - plays Sea Hag
+Stef - discards Copper
+Troninho - plays 2 Silver, 1 Copper
+Troninho - buys Smithy
+Troninho - gains Smithy
+Troninho - draws Wandering Minstrel, Smithy, Curse, Copper, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Sea Hag
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Curse
+Stef - places Curse in hand
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Vagrant, Rogue, Copper, Inn
+Stef - shuffles deck
+Stef - draws Inn
+ 
+---------- Troninho: turn 19 ----------
+Troninho - plays Wandering Minstrel
+Troninho - draws Copper
+Troninho - reveals: Silver, Copper, Rogue
+Troninho - places Rogue on top of deck
+Troninho - discards: Silver, Copper
+Troninho - plays Smithy
+Troninho - draws Rogue, Smithy, Copper
+Troninho - plays Smithy
+Troninho - draws Inn, Curse, Copper
+Troninho - plays 4 Copper
+Troninho - buys Wandering Minstrel
+Troninho - gains Wandering Minstrel
+Troninho - draws Overgrown Estate, Curse, Saboteur, Wandering Minstrel, Silver
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Vagrant
+Stef - draws Curse
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Inn
+Stef - draws Vagrant, Silver
+Stef - discards Curse
+Stef - discards Inn
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Sea Hag
+Stef - places Sea Hag on top of deck
+Stef - plays Vagrant
+Stef - draws Sea Hag
+Stef - reveals: Nobles
+Stef - places Nobles in hand
+Stef - plays Nobles
+Stef - draws Copper, Necropolis, Copper
+Stef - plays Rogue
+Stef - gains Sea Hag
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Curse, Vagrant, Smithy, Wandering Minstrel, Copper
+ 
+---------- Troninho: turn 20 ----------
+Troninho - plays Wandering Minstrel
+Troninho - draws Curse
+Troninho - reveals: Copper, Curse, Vagrant
+Troninho - places Vagrant on top of deck
+Troninho - discards: Copper, Curse
+Troninho - plays Saboteur
+Stef - reveals Vagrant, Smithy
+Stef - trashes Smithy
+Stef - gains Vagrant
+Stef - discards Vagrant
+Troninho - plays 1 Silver
+Troninho - buys Vagrant
+Troninho - gains Vagrant
+Troninho - draws Vagrant
+Troninho - shuffles deck
+Troninho - draws Curse, Inn, Silver, Smithy
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - reveals: Curse, Copper, Copper
+Stef - discards: Curse, Copper, Copper
+Stef - plays Smithy
+Stef - draws Vagrant, Overgrown Estate, Copper
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Curse
+Stef - reveals: Nobles
+Stef - places Nobles in hand
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Curse
+Stef - places Curse in hand
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Inn
+Stef - draws Copper, Vagrant
+Stef - discards Curse
+Stef - discards Curse
+Stef - plays Vagrant
+Stef - draws Inn
+Stef - reveals: Necropolis
+Stef - places Necropolis in hand
+Stef - plays Nobles
+Stef - draws Vagrant, Copper, Sea Hag
+Stef - plays Inn
+Stef - draws Vagrant, Nobles
+Stef - discards Overgrown Estate
+Stef - discards Curse
+Stef - plays Nobles
+Stef - draws Silver, Vagrant, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Vagrant, 2 Sea Hag, 1 Necropolis, 1 Rogue, 7 Copper, 2 Silver, 1 Overgrown Estate, 3 Curse
+Stef - total victory points: -3
+Stef - turns: 20
+ 
+Troninho - resigned
+Troninho - cards: 4 Smithy, 4 Wandering Minstrel, 3 Vagrant, 3 Inn, 2 Sea Hag, 1 Necropolis, 1 Saboteur, 1 Rogue, 7 Copper, 4 Silver, 1 Overgrown Estate, 7 Curse, 1 Hovel
+Troninho - total victory points: -7
+Troninho - turns: 20
+ 
+1st place: Stef
+2nd place: Troninho
+ 

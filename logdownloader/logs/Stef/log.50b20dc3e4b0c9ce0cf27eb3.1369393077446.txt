@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Market Square, Shanty Town, Woodcutter, Worker's Village, Apprentice, Bazaar, Laboratory, Merchant Ship, Mine, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - shuffles deck
+Stef - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Shanty Town
+yed - gains Shanty Town
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Shanty Town, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Silver, Estate, Copper, Copper, Shanty Town
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Copper
+Stef - draws Estate, Estate
+Stef - plays 4 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - shuffles deck
+Stef - draws Estate, Shanty Town, Estate, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Shanty Town
+yed - reveals Silver, Estate, Copper, Copper
+yed - draws Copper, Estate
+yed - plays 3 Copper, 1 Silver
+yed - buys Mountebank
+yed - gains Mountebank
+yed - shuffles deck
+yed - draws Copper, Estate, Mountebank, Shanty Town, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Shanty Town
+Stef - reveals Estate, Estate, Copper, Copper
+Stef - draws Silver, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Worker's Village, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper
+yed - buys Worker's Village
+yed - gains Worker's Village
+yed - draws Silver, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Worker's Village
+Stef - draws Mountebank
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 3 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Laboratory, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 3 Copper, 2 Silver
+yed - buys Apprentice
+yed - gains Apprentice
+yed - draws Estate, Copper, Estate, Copper
+yed - shuffles deck
+yed - draws Mountebank
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Silver
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Estate, Estate, Mountebank, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper
+yed - buys Worker's Village
+yed - gains Worker's Village
+yed - draws Copper, Silver, Estate, Curse, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mountebank
+yed - discards Curse
+Stef - plays 1 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Shanty Town, Worker's Village, Copper, Apprentice, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Market Square
+yed - gains Market Square
+yed - draws Apprentice, Copper, Worker's Village, Shanty Town, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Worker's Village
+Stef - draws Curse
+Stef - plays Apprentice
+Stef - trashes Curse
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper
+Stef - shuffles deck
+Stef - draws Laboratory, Estate
+Stef - plays Laboratory
+Stef - draws Copper, Mountebank
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 3 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Worker's Village
+yed - draws Copper
+yed - plays Apprentice
+yed - trashes Copper
+yed - plays Shanty Town
+yed - reveals Copper, Copper
+yed - draws Silver, Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - shuffles deck
+yed - draws Mountebank, Copper, Silver, Laboratory, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Copper, Copper, Estate, Laboratory
+ 
+---------- yed: turn 10 ----------
+yed - plays Laboratory
+yed - draws Curse, Apprentice
+yed - plays Apprentice
+yed - trashes Curse
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Market Square, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Market Square, Curse
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Laboratory, Curse, Laboratory, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Market Square
+yed - draws Worker's Village
+yed - plays Worker's Village
+yed - draws Copper
+yed - plays 3 Copper
+yed - buys Market Square
+yed - gains Market Square
+yed - draws Worker's Village, Silver, Copper, Shanty Town, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Estate
+Stef - plays Laboratory
+Stef - draws Shanty Town, Copper
+Stef - plays Laboratory
+Stef - draws Copper, Estate
+Stef - plays Shanty Town
+Stef - reveals Copper, Curse, Copper, Estate, Copper, Copper, Estate
+Stef - draws Copper, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Apprentice
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper, Mountebank
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 6 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Shanty Town, Copper, Copper, Laboratory
+ 
+---------- yed: turn 12 ----------
+yed - plays Worker's Village
+yed - draws Copper
+yed - plays Shanty Town
+yed - reveals Silver, Copper, Estate, Copper
+yed - draws Curse, Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - shuffles deck
+yed - draws Market Square, Worker's Village, Silver, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Laboratory
+Stef - draws Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Estate
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper, Shanty Town
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper, Silver
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Copper, Laboratory, Laboratory, Copper, Market Square
+ 
+---------- yed: turn 13 ----------
+yed - plays Worker's Village
+yed - draws Estate
+yed - plays Market Square
+yed - draws Worker's Village
+yed - plays Worker's Village
+yed - draws Curse
+yed - plays 1 Silver, 1 Copper
+yed - buys Market Square
+yed - gains Market Square
+yed - draws Copper, Copper, Laboratory, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Apprentice
+Stef - plays Laboratory
+Stef - draws Laboratory, Curse
+Stef - plays Laboratory
+Stef - draws Mountebank, Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Copper, Curse
+Stef - plays Apprentice
+Stef - trashes Curse
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 4 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Gold, Copper, Shanty Town
+ 
+---------- yed: turn 14 ----------
+yed - plays Laboratory
+yed - draws Copper, Copper
+yed - plays 6 Copper
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Copper, Laboratory, Market Square, Apprentice, Shanty Town
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Shanty Town
+Stef - reveals Estate, Copper, Gold, Copper
+Stef - draws Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Market Square, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Mountebank
+Stef - plays Market Square
+Stef - draws Shanty Town
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Estate, Copper, Gold, Copper, Copper
+Stef - draws Apprentice, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Laboratory, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Laboratory
+Stef - draws Estate, Laboratory
+Stef - plays Laboratory
+Stef - draws Curse, Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 9 Copper, 1 Gold
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Shanty Town, Apprentice, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- yed: turn 15 ----------
+yed - plays Laboratory
+yed - draws Silver, Laboratory
+yed - plays Laboratory
+yed - draws Curse, Estate
+yed - plays Apprentice
+yed - trashes Estate
+yed - reveals reaction Market Square
+yed - discards Market Square
+yed - gains Gold
+yed - draws Copper, Mountebank
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Apprentice
+yed - gains Apprentice
+yed - shuffles deck
+yed - draws Copper, Copper, Laboratory, Copper, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Silver
+Stef - draws Shanty Town, Mountebank
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Silver
+Stef - draws Laboratory, Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Laboratory, Copper, Market Square, Laboratory, Apprentice
+ 
+---------- yed: turn 16 ----------
+yed - plays Laboratory
+yed - draws Apprentice, Apprentice
+yed - plays Apprentice
+yed - trashes Apprentice
+yed - draws Curse, Curse, Laboratory, Estate, Silver
+yed - plays Laboratory
+yed - draws Copper, Curse
+yed - plays 5 Copper, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Market Square, Copper, Worker's Village, Market Square, Mountebank
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Copper, Mountebank
+Stef - plays Laboratory
+Stef - draws Curse, Worker's Village
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Apprentice
+Stef - trashes Mountebank
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - draws Apprentice, Gold, Bazaar, Estate, Laboratory
+Stef - plays Laboratory
+Stef - draws Shanty Town
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - draws Gold
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Mountebank, Silver
+Stef - plays Mountebank
+yed - gains Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Curse, Copper, Gold, Copper, Gold, Silver
+Stef - draws Market Square, Apprentice
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Laboratory, Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Shanty Town, Copper
+Stef - plays Laboratory
+Stef - draws Bazaar, Copper
+Stef - plays Bazaar
+Stef - draws Shanty Town
+Stef - plays Shanty Town
+Stef - reveals Market Square, Copper, Copper, Copper, Curse, Copper, Gold, Copper, Gold, Copper, Shanty Town, Copper, Copper
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Curse, Copper, Gold, Copper, Gold, Copper, Copper, Copper, Copper
+Stef - draws Province, Curse
+Stef - plays 9 Copper, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Curse, Province, Apprentice, Shanty Town
+ 
+---------- yed: turn 17 ----------
+yed - plays Worker's Village
+yed - draws Copper
+yed - plays Market Square
+yed - draws Curse
+yed - plays Market Square
+yed - draws Laboratory
+yed - plays Laboratory
+yed - draws Worker's Village, Copper
+yed - plays Worker's Village
+yed - draws Copper
+yed - plays Mountebank
+Stef - discards Curse
+ 
+------------ Game Over ------------
+Stef - cards: 6 Laboratory, 3 Apprentice, 3 Shanty Town, 2 Bazaar, 2 Market Square, 1 Worker's Village, 10 Copper, 1 Mountebank, 2 Gold, 3 Province, 2 Curse
+Stef - total victory points: 16
+Stef - turns: 17
+ 
+yed - resigned
+yed - cards: 3 Laboratory, 13 Copper, 1 Apprentice, 1 Shanty Town, 1 Market Square, 2 Silver, 1 Gold, 2 Estate, 1 Duchy, 5 Curse
+yed - total victory points: 0
+yed - turns: 16
+ 
+1st place: Stef
+2nd place: yed
+ 

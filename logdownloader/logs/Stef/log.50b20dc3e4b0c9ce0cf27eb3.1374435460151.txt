@@ -1,0 +1,525 @@
+------------ Game Setup ------------
+Supply cards: Forager, Lookout, Masterpiece, Cutpurse, Spy, Wandering Minstrel, Haggler, Harvest, Saboteur, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Java Sparrow - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+Java Sparrow - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Cutpurse
+Java Sparrow - gains Cutpurse
+Java Sparrow - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Forager
+Java Sparrow - gains Forager
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Estate, Forager, Cutpurse, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Cutpurse, Estate, Copper, Copper, Copper
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays Forager
+Java Sparrow - trashes Estate
+Java Sparrow - plays Cutpurse
+Stef - discards Copper
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Estate, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 2 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Forager, Estate
+Stef - shuffles deck
+Stef - draws Copper, Wandering Minstrel, Copper
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays 2 Copper, 1 Silver
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Estate, Forager, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Cutpurse, Copper, Copper
+Stef - places Cutpurse on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Cutpurse, Estate, Estate, Copper, Wandering Minstrel
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - plays Forager
+Java Sparrow - trashes Estate
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Cutpurse, Copper, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Forager, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Forager, Copper
+Stef - places Forager on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 2 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Forager, Copper, Silver, Copper, Copper
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays Forager
+Java Sparrow - trashes Copper
+Java Sparrow - plays Cutpurse
+Stef - discards Copper
+Java Sparrow - plays 1 Silver
+Java Sparrow - buys Haggler
+Java Sparrow - gains Haggler
+Java Sparrow - draws Copper, Estate, Copper, Silver, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Estate, Spy, Cutpurse
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays 2 Copper, 2 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper, Copper, Silver, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Copper, Copper
+Stef - discards: Estate, Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Silver, Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Silver, Copper
+Stef - plays Spy
+Stef - draws Wandering Minstrel
+Stef - places Copper on top of deck
+Java Sparrow - discards Gold
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Forager
+Stef - shuffles deck
+Stef - reveals: Silver, Copper
+Stef - places Forager on top of deck
+Stef - discards: Silver, Copper
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 3 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Forager, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays 2 Copper, 2 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Silver, Forager, Silver, Haggler, Cutpurse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Wandering Minstrel, Copper, Copper, Spy, Wandering Minstrel
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays Haggler
+Java Sparrow - plays 2 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Treasury
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper, Estate, Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Spy
+Stef - draws Cutpurse
+Stef - places Wandering Minstrel on top of deck
+Java Sparrow - places Copper on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Treasury, Silver
+Stef - places Treasury on top of deck
+Stef - discards: Copper, Silver
+Stef - plays Wandering Minstrel
+Stef - draws Treasury
+Stef - reveals: Estate
+Stef - shuffles deck
+Stef - reveals: Silver, Copper
+Stef - discards: Estate, Silver, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Forager, Copper, Copper
+Stef - places Forager on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Treasury
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Forager
+Stef - shuffles deck
+Stef - draws Haggler, Copper, Copper
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper, Haggler, Forager, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Haggler
+Stef - plays 2 Copper
+Stef - buys Gold
+Stef - gains Treasury
+Stef - gains Gold
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Cutpurse, Copper, Silver
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays Forager
+Java Sparrow - trashes Copper
+Java Sparrow - plays Haggler
+Java Sparrow - plays 1 Copper, 1 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Harvest
+Java Sparrow - gains Gold
+Java Sparrow - draws Treasury, Silver, Silver, Cutpurse, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Forager
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Cutpurse
+Java Sparrow - reveals Treasury, Silver, Silver, Cutpurse, Gold
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Wandering Minstrel, Wandering Minstrel, Spy
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays Treasury
+Java Sparrow - draws Gold
+Java Sparrow - plays Cutpurse
+Stef - reveals Treasury, Wandering Minstrel, Wandering Minstrel, Spy, Gold
+Java Sparrow - plays 2 Silver, 2 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Silver, Gold
+Java Sparrow - shuffles deck
+Java Sparrow - draws Gold, Harvest, Forager
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - reveals: Haggler, Copper, Forager
+Stef - places Haggler on top of deck
+Stef - places Forager on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Forager
+Stef - reveals: Haggler, Haggler, Wandering Minstrel
+Stef - places Haggler on top of deck
+Stef - places Haggler on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Treasury
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Haggler
+Stef - reveals: Haggler, Treasury, Copper
+Stef - places Treasury on top of deck
+Stef - places Haggler on top of deck
+Stef - discards Copper
+Stef - plays Spy
+Stef - draws Haggler
+Stef - places Treasury on top of deck
+Java Sparrow - discards Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 1 Gold
+Stef - buys Province
+Stef - gains Treasury
+Stef - gains Treasury
+Stef - gains Province
+Stef - draws Treasury, Cutpurse, Copper, Copper, Forager
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Harvest
+Java Sparrow - reveals: Silver, Copper, Gold, Copper
+Java Sparrow - discards: Silver, Copper, Gold, Copper
+Java Sparrow - plays 2 Gold, 1 Silver
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Treasury, Cutpurse, Copper, Silver, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Treasury
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Forager, Treasury, Wandering Minstrel, Spy, Copper
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - plays Treasury
+Java Sparrow - draws Copper
+Java Sparrow - plays Cutpurse
+Stef - discards Copper
+Java Sparrow - plays 1 Silver, 1 Gold, 1 Copper
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Haggler, Copper, Province, Estate, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Treasury
+Stef - reveals: Copper, Wandering Minstrel, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Treasury
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Haggler, Haggler, Province
+Stef - places Haggler on top of deck
+Stef - places Haggler on top of deck
+Stef - discards Province
+Stef - plays Wandering Minstrel
+Stef - draws Haggler
+Stef - reveals: Haggler, Treasury
+Stef - shuffles deck
+Stef - reveals: Treasury
+Stef - places Haggler on top of deck
+Stef - places Treasury on top of deck
+Stef - places Treasury on top of deck
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Spy
+Stef - draws Haggler
+Stef - places Gold on top of deck
+Java Sparrow - shuffles deck
+Java Sparrow - discards Forager
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Forager
+Stef - trashes Treasury
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Treasury
+Stef - gains Province
+Stef - draws Gold, Cutpurse, Province, Forager, Copper
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - plays Haggler
+Java Sparrow - plays 1 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Wandering Minstrel
+Java Sparrow - gains Duchy
+Java Sparrow - draws Copper, Gold, Province, Silver, Treasury
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Province, Copper, Copper
+Stef - shuffles deck
+Stef - draws Province, Spy
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - plays Treasury
+Java Sparrow - draws Copper
+Java Sparrow - plays 1 Gold, 1 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Cutpurse, Silver, Silver, Silver, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Spy
+Stef - draws Forager
+Stef - discards Duchy
+Java Sparrow - discards Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Treasury, Haggler, Haggler, Forager, Gold
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - plays Cutpurse
+Stef - reveals Treasury, Haggler, Haggler, Forager, Gold
+Java Sparrow - plays 3 Silver, 1 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Gold, Harvest, Province, Copper, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Cutpurse
+Stef - plays Forager
+Stef - trashes Haggler
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Estate, Wandering Minstrel, Province, Treasury
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays Harvest
+Java Sparrow - shuffles deck
+Java Sparrow - reveals: Province, Gold, Copper, Copper
+Java Sparrow - discards: Province, Gold, Copper, Copper
+Java Sparrow - plays 1 Gold, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Cutpurse, Silver, Silver, Copper, Wandering Minstrel
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Wandering Minstrel
+Stef - shuffles deck
+Stef - reveals: Treasury, Cutpurse
+Stef - places Cutpurse on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Treasury on top of deck
+Stef - plays Treasury
+Stef - draws Treasury
+Stef - plays Treasury
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Cutpurse
+Stef - reveals: Province, Forager, Treasury
+Stef - places Forager on top of deck
+Stef - places Treasury on top of deck
+Stef - discards Province
+Stef - plays Wandering Minstrel
+Stef - draws Treasury
+Stef - reveals: Forager, Duchy, Gold
+Stef - places Forager on top of deck
+Stef - discards: Duchy, Gold
+Stef - plays Treasury
+Stef - draws Forager
+Stef - plays Cutpurse
+Java Sparrow - discards Copper
+Stef - plays 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Copper, Spy, Duchy, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 4 Treasury, 3 Wandering Minstrel, 2 Forager, 1 Spy, 1 Cutpurse, 1 Haggler, 2 Gold, 1 Copper, 4 Province, 3 Duchy, 2 Estate
+Stef - total victory points: 35
+Stef - turns: 19
+ 
+Java Sparrow - cards: 1 Cutpurse, 1 Wandering Minstrel, 1 Harvest, 1 Haggler, 1 Forager, 1 Treasury, 5 Silver, 5 Copper, 4 Gold, 4 Province, 3 Duchy, 1 Estate
+Java Sparrow - total victory points: 34
+Java Sparrow - turns: 19
+ 
+1st place: Stef
+2nd place: Java Sparrow
+ 

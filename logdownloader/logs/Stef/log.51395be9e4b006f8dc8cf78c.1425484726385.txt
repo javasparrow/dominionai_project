@@ -1,0 +1,519 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Scheme, Warehouse, Scavenger, Bazaar, Count, Graverobber, Merchant Ship, Mint, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+sangatsu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sangatsu - shuffles deck
+Stef - shuffles deck
+sangatsu - draws Copper, Copper, Estate, Estate, Copper
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- sangatsu: turn 1 ----------
+sangatsu - plays 3 Copper
+sangatsu - buys Silver
+sangatsu - gains Silver
+sangatsu - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- sangatsu: turn 2 ----------
+sangatsu - plays 4 Copper
+sangatsu - buys Scavenger
+sangatsu - gains Scavenger
+sangatsu - shuffles deck
+sangatsu - draws Copper, Copper, Estate, Scavenger, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- sangatsu: turn 3 ----------
+sangatsu - plays Scavenger
+sangatsu - moves deck to discards
+sangatsu - places Silver on top of deck
+sangatsu - plays 3 Copper
+sangatsu - buys Count
+sangatsu - gains Count
+sangatsu - draws Silver
+sangatsu - shuffles deck
+sangatsu - draws Copper, Copper, Copper, Scavenger
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Warehouse, Scavenger, Copper, Estate, Copper
+ 
+---------- sangatsu: turn 4 ----------
+sangatsu - plays Scavenger
+sangatsu - moves deck to discards
+sangatsu - places Count on top of deck
+sangatsu - plays 3 Copper, 1 Silver
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - draws Count
+sangatsu - shuffles deck
+sangatsu - draws Estate, Estate, Copper, Scavenger
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Warehouse
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Scheme on top of deck
+Stef - plays 3 Copper
+Stef - buys Count
+Stef - gains Count
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Scavenger, Estate, Copper, Copper
+ 
+---------- sangatsu: turn 5 ----------
+sangatsu - plays Count
+sangatsu - places Scavenger on top of deck
+sangatsu - trashes Estate, Estate, Copper
+sangatsu - draws Scavenger, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - draws Count
+Stef - plays Count
+Stef - places Scavenger on top of deck
+Stef - trashes Estate, Copper, Copper
+Stef - Scheme choice: Count
+Stef - draws Count, Scavenger, Warehouse, Copper, Copper
+ 
+---------- sangatsu: turn 6 ----------
+sangatsu - plays Scavenger
+sangatsu - moves deck to discards
+sangatsu - places Count on top of deck
+sangatsu - plays 3 Copper
+sangatsu - buys Warehouse
+sangatsu - gains Warehouse
+sangatsu - draws Count
+sangatsu - shuffles deck
+sangatsu - draws Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Estate
+Stef - discards Scavenger
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Estate, Estate
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Warehouse, Scavenger, Scheme
+ 
+---------- sangatsu: turn 7 ----------
+sangatsu - plays Count
+sangatsu - places Silver on top of deck
+sangatsu - trashes Copper, Copper, Copper
+sangatsu - draws Silver, Gold, Copper, Warehouse, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Count on top of deck
+Stef - plays 3 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - Scheme choice: Scavenger
+Stef - draws Scavenger, Count
+Stef - shuffles deck
+Stef - draws Scheme, Bazaar, Copper
+ 
+---------- sangatsu: turn 8 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Scavenger, Copper, Estate
+sangatsu - discards Copper
+sangatsu - discards Estate
+sangatsu - discards Copper
+sangatsu - plays Scavenger
+sangatsu - places Count on top of deck
+sangatsu - plays 1 Silver, 1 Gold, 1 Copper
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - draws Count
+sangatsu - shuffles deck
+sangatsu - draws Silver, Copper, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Warehouse on top of deck
+Stef - plays 3 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - Scheme choice: Bazaar
+Stef - draws Bazaar, Warehouse
+Stef - shuffles deck
+Stef - draws Scheme, Count, Copper
+ 
+---------- sangatsu: turn 9 ----------
+sangatsu - plays Count
+sangatsu - discards Estate
+sangatsu - discards Copper
+sangatsu - takes 3 coins
+sangatsu - plays 1 Silver, 1 Copper
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - draws Province, Scavenger, Gold, Warehouse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Bazaar
+Stef - draws Gold
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Scavenger, Copper, Copper
+Stef - discards Gold
+Stef - discards Scavenger
+Stef - discards Count
+Stef - plays 4 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - Scheme choice: Bazaar
+Stef - draws Bazaar, Copper
+Stef - shuffles deck
+Stef - draws Count, Scavenger, Gold
+ 
+---------- sangatsu: turn 10 ----------
+sangatsu - plays Warehouse
+sangatsu - shuffles deck
+sangatsu - draws Copper, Silver, Estate
+sangatsu - discards Estate
+sangatsu - discards Province
+sangatsu - discards Copper
+sangatsu - plays Scavenger
+sangatsu - places Copper on top of deck
+sangatsu - plays 1 Gold, 1 Copper, 1 Silver
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - draws Copper, Count, Copper, Gold
+sangatsu - shuffles deck
+sangatsu - draws Warehouse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bazaar
+Stef - draws Mint
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Gold on top of deck
+Stef - plays Gold
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Graverobber, Scavenger, Mint, Warehouse
+ 
+---------- sangatsu: turn 11 ----------
+sangatsu - plays Count
+sangatsu - places Warehouse on top of deck
+sangatsu - takes 3 coins
+sangatsu - plays 2 Copper, 1 Gold
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - draws Warehouse, Copper, Estate, Province, Province
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Warehouse
+Stef - draws Gold, Count, Bazaar
+Stef - discards Graverobber
+Stef - discards Scavenger
+Stef - discards Mint
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Count
+Stef - gains Copper
+Stef - gains Duchy
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Copper, Copper, Graverobber, Mint
+ 
+---------- sangatsu: turn 12 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Silver, Scavenger, Gold
+sangatsu - discards Estate
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - plays Scavenger
+sangatsu - places Count on top of deck
+sangatsu - plays 1 Copper, 1 Silver, 1 Gold
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - draws Count
+sangatsu - shuffles deck
+sangatsu - draws Province, Gold, Silver, Province
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - draws Scavenger
+Stef - plays Graverobber
+Stef - trashes Mint
+Stef - gains Province
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Count, Gold, Duchy, Province
+ 
+---------- sangatsu: turn 13 ----------
+sangatsu - plays Count
+sangatsu - gains Copper
+sangatsu - takes 3 coins
+sangatsu - plays 1 Gold, 1 Silver
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - draws Estate, Scavenger, Warehouse, Province, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Count
+Stef - discards Province
+Stef - discards Duchy
+Stef - gains Duchy
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Count
+Stef - draws Count, Bazaar, Warehouse
+Stef - shuffles deck
+Stef - draws Graverobber, Gold
+ 
+---------- sangatsu: turn 14 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Copper, Province, Copper
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - discards Estate
+sangatsu - plays Scavenger
+sangatsu - places Count on top of deck
+sangatsu - plays 2 Copper, 1 Gold
+sangatsu - buys Duchy
+sangatsu - gains Duchy
+sangatsu - draws Count, Copper
+sangatsu - shuffles deck
+sangatsu - draws Silver, Province, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Bazaar
+Stef - draws Gold
+Stef - plays Count
+Stef - gains Copper
+Stef - gains Duchy
+Stef - plays Graverobber
+Stef - trashes Warehouse
+Stef - gains Duchy
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Scheme, Scavenger, Duchy, Copper
+ 
+---------- sangatsu: turn 15 ----------
+sangatsu - plays Count
+sangatsu - places Silver on top of deck
+sangatsu - gains Duchy
+sangatsu - plays 2 Copper
+sangatsu - buys Estate
+sangatsu - gains Estate
+sangatsu - draws Silver, Province, Scavenger, Warehouse, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Scheme
+Stef - draws Duchy
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Bazaar on top of deck
+Stef - buys Estate
+Stef - gains Estate
+Stef - Scheme choice: Scavenger
+Stef - draws Scavenger, Bazaar
+Stef - shuffles deck
+Stef - draws Duchy, Province, Province
+ 
+---------- sangatsu: turn 16 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Duchy, Estate, Province
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - discards Duchy
+sangatsu - plays Scavenger
+sangatsu - places Count on top of deck
+sangatsu - plays 1 Silver, 1 Gold
+sangatsu - buys Estate
+sangatsu - gains Estate
+sangatsu - draws Count, Gold, Province, Copper, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Bazaar
+Stef - draws Scheme
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Graverobber on top of deck
+Stef - plays Scheme
+Stef - draws Graverobber
+Stef - plays Graverobber
+Stef - gains Warehouse
+Stef - buys Estate
+Stef - gains Estate
+Stef - Scheme choice: Bazaar
+Stef - draws Bazaar, Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Copper, Scavenger
+ 
+---------- sangatsu: turn 17 ----------
+sangatsu - plays Count
+sangatsu - gains Copper
+sangatsu - takes 3 coins
+sangatsu - buys Estate
+sangatsu - gains Estate
+sangatsu - draws Copper
+sangatsu - shuffles deck
+sangatsu - draws Estate, Duchy, Province, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Bazaar
+Stef - draws Duchy
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Graverobber on top of deck
+Stef - plays Warehouse
+Stef - draws Graverobber
+Stef - shuffles deck
+Stef - draws Duchy, Count
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Copper
+Stef - plays Graverobber
+Stef - trashes Count
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Province, Scheme, Copper, Duchy, Gold
+ 
+---------- sangatsu: turn 18 ----------
+sangatsu - buys Copper
+sangatsu - gains Copper
+sangatsu - draws Province, Warehouse, Province, Silver, Duchy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Duchy, Estate, Duchy, Gold
+ 
+---------- sangatsu: turn 19 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Copper, Gold, Copper
+sangatsu - discards Duchy
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - plays 2 Copper, 1 Silver, 1 Gold
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - draws Gold, Estate, Estate, Copper, Scavenger
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Scheme
+Stef - draws Duchy
+Stef - plays 1 Gold
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Province
+Stef - shuffles deck
+Stef - draws Warehouse, Estate, Duchy
+ 
+---------- sangatsu: turn 20 ----------
+sangatsu - plays Scavenger
+sangatsu - moves deck to discards
+sangatsu - places Warehouse on top of deck
+sangatsu - plays 1 Gold, 1 Copper
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - draws Warehouse
+sangatsu - shuffles deck
+sangatsu - draws Province, Copper, Copper, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Duchy, Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Duchy
+Stef - plays 2 Copper
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - Scheme choice: Warehouse
+Stef - draws Warehouse, Gold, Gold, Estate, Graverobber
+ 
+---------- sangatsu: turn 21 ----------
+sangatsu - plays Warehouse
+sangatsu - draws Province, Gold, Scavenger
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - discards Copper
+sangatsu - plays Scavenger
+sangatsu - moves deck to discards
+sangatsu - places Count on top of deck
+sangatsu - plays 2 Copper, 1 Gold
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - draws Count
+sangatsu - shuffles deck
+sangatsu - draws Province, Copper, Copper, Duchy
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Warehouse
+Stef - draws Province, Bazaar, Scheme
+Stef - discards Estate
+Stef - discards Province
+Stef - discards Gold
+Stef - plays Graverobber
+Stef - trashes Bazaar
+Stef - gains Province
+Stef - draws Duchy, Copper, Duchy, Estate, Scavenger
+ 
+------------ Game Over ------------
+Stef - cards: 2 Scheme, 1 Scavenger, 1 Beggar, 1 Warehouse, 1 Graverobber, 3 Copper, 2 Gold, 6 Duchy, 5 Estate, 3 Province
+Stef - total victory points: 41
+Stef - turns: 21
+ 
+sangatsu - cards: 1 Count, 1 Warehouse, 1 Scavenger, 6 Copper, 5 Gold, 1 Silver, 5 Province, 4 Estate, 2 Duchy
+sangatsu - total victory points: 40
+sangatsu - turns: 21
+ 
+1st place: Stef
+2nd place: sangatsu
+ 

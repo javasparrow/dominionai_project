@@ -1,0 +1,401 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Secret Chamber, University, Fortune Teller, Feodum, Scavenger, Apprentice, Counting House, Graverobber, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Estate, Estate, Estate, Copper, Copper
+RTT - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Potion
+RTT - gains Potion
+RTT - shuffles deck
+RTT - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - shuffles deck
+Stef - draws Copper, Pawn, Copper, Estate, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 5 Copper
+RTT - buys Apprentice
+RTT - gains Apprentice
+RTT - draws Estate, Copper, Silver, Potion, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Apprentice, Estate, Copper, Copper, Estate
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 2 Copper, 1 Silver, 1 Potion
+RTT - buys University
+RTT - gains University
+RTT - draws Estate, Estate
+RTT - shuffles deck
+RTT - draws University, Potion, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Estate, Copper, Copper, Pawn, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays University
+RTT - gains Library
+RTT - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Library
+Stef - gains Library
+Stef - shuffles deck
+Stef - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Apprentice
+RTT - gains Apprentice
+RTT - draws Copper, Copper, Apprentice, Copper
+RTT - shuffles deck
+RTT - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws University, Pawn, Library, Estate, Copper
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Apprentice
+RTT - trashes Copper
+RTT - plays 3 Copper
+RTT - buys Pawn
+RTT - gains Pawn
+RTT - draws University, Copper, Copper, Potion, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains Library
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Library
+Stef - moves Apprentice to hand
+Stef - draws Estate
+Stef - draws Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Library, Potion
+Stef - plays Library
+Stef - discards University
+Stef - draws Copper
+Stef - discards University
+Stef - plays 5 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Pawn, Copper, Library
+ 
+---------- RTT: turn 8 ----------
+RTT - plays University
+RTT - gains Graverobber
+RTT - plays 3 Copper, 1 Potion
+RTT - buys University
+RTT - gains University
+RTT - draws Estate, Estate, Silver, Apprentice, Library
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Library
+Stef - discards University
+Stef - draws Estate
+Stef - draws Potion
+Stef - draws Copper
+Stef - draws Copper
+Stef - discards University
+Stef - plays 5 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Library, University, Pawn, Apprentice
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Apprentice
+RTT - trashes Estate
+RTT - draws Estate
+RTT - shuffles deck
+RTT - draws Graverobber
+RTT - plays Graverobber
+RTT - trashes Library
+RTT - gains Province
+RTT - plays 1 Silver
+RTT - buys Pawn
+RTT - gains Pawn
+RTT - draws Copper, Apprentice, Copper, University, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Apprentice
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Library
+Stef - moves University to hand
+Stef - draws Copper
+Stef - shuffles deck
+Stef - moves Pawn to hand
+Stef - draws Estate
+Stef - draws Copper
+Stef - moves Pawn to hand
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays University
+Stef - gains Library
+Stef - plays 5 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Apprentice, Library, Potion, University, University
+ 
+---------- RTT: turn 10 ----------
+RTT - plays University
+RTT - gains Library
+RTT - plays Apprentice
+RTT - trashes Copper
+RTT - plays 2 Copper
+RTT - buys Pawn
+RTT - gains Pawn
+RTT - draws Potion, University, Pawn, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays University
+Stef - gains Graverobber
+Stef - plays University
+Stef - gains Graverobber
+Stef - plays Library
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - moves Library to hand
+Stef - draws Copper
+Stef - moves Pawn to hand
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Library
+Stef - draws Copper
+Stef - draws Copper
+Stef - discards Pawn
+Stef - discards Pawn
+Stef - moves Apprentice to hand
+Stef - moves University to hand
+Stef - discards: Pawn, Pawn
+Stef - plays Apprentice
+Stef - trashes Potion
+Stef - draws Graverobber, Graverobber, Copper, Apprentice
+Stef - plays University
+Stef - gains Apprentice
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Library, Copper
+Stef - plays Graverobber
+Stef - trashes Library
+Stef - gains Province
+Stef - plays Graverobber
+Stef - gains Library
+Stef - plays 5 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Library, University
+Stef - shuffles deck
+Stef - draws University, University, Apprentice
+ 
+---------- RTT: turn 11 ----------
+RTT - plays University
+RTT - gains Library
+RTT - plays Pawn
+RTT - takes 1 buy
+RTT - draws Copper
+RTT - plays 3 Copper, 1 Potion
+RTT - buys University
+RTT - gains University
+RTT - shuffles deck
+RTT - draws Copper, University, Copper, Library, University
+ 
+---------- Stef: turn 11 ----------
+Stef - plays University
+Stef - gains Library
+Stef - plays University
+Stef - gains Apprentice
+Stef - plays University
+Stef - gains Scavenger
+Stef - plays Library
+Stef - moves Apprentice to hand
+Stef - draws Copper
+Stef - discards Apprentice
+Stef - discards Apprentice
+Stef - draws Copper
+Stef - draws Province
+Stef - moves Graverobber to hand
+Stef - draws Copper
+Stef - discards: Apprentice, Apprentice
+Stef - plays Apprentice
+Stef - trashes Graverobber
+Stef - draws Library, Copper, Graverobber, Pawn, University
+Stef - plays University
+Stef - gains Apprentice
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Graverobber
+Stef - gains Graverobber
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Library
+Stef - moves Graverobber to hand
+Stef - moves Library to hand
+Stef - moves Pawn to hand
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Graverobber
+Stef - trashes Library
+Stef - gains Province
+Stef - plays 3 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Apprentice, Pawn
+Stef - shuffles deck
+Stef - draws Library, University
+ 
+---------- RTT: turn 12 ----------
+RTT - plays University
+RTT - gains Library
+RTT - plays University
+RTT - gains Apprentice
+RTT - plays Library
+RTT - draws Copper
+RTT - moves Pawn to hand
+RTT - draws Estate
+RTT - draws Copper
+RTT - moves Apprentice to hand
+RTT - plays Apprentice
+RTT - trashes Estate
+RTT - draws Estate, Pawn
+RTT - plays Pawn
+RTT - takes 1 buy
+RTT - draws Silver
+RTT - plays Pawn
+RTT - takes 1 action
+RTT - draws Graverobber
+RTT - plays Graverobber
+RTT - gains Library
+RTT - plays 4 Copper, 1 Silver
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Library, Apprentice, Potion, University, Library
+ 
+---------- Stef: turn 12 ----------
+Stef - plays University
+Stef - gains Library
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Library
+Stef - moves Library to hand
+Stef - moves Scavenger to hand
+Stef - moves University to hand
+Stef - moves Apprentice to hand
+Stef - draws Copper
+Stef - draws Copper
+Stef - moves Pawn to hand
+Stef - plays University
+Stef - gains Library
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Library
+Stef - moves Apprentice to hand
+Stef - moves Graverobber to hand
+Stef - moves Pawn to hand
+Stef - moves University to hand
+Stef - moves Pawn to hand
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Scavenger
+Stef - places Library on top of deck
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Library, Pawn, University, Apprentice, Province
+ 
+------------ Game Over ------------
+Stef - cards: 7 Pawn, 7 Apprentice, 5 Library, 4 University, 2 Graverobber, 1 Scavenger, 2 Copper, 2 Province
+Stef - total victory points: 12
+Stef - turns: 12
+ 
+RTT - cards: 4 Library, 3 Pawn, 3 Apprentice, 3 University, 1 Graverobber, 5 Copper, 1 Potion, 1 Silver, 1 Duchy, 1 Estate, 1 Province
+RTT - total victory points: 10
+RTT - turns: 12
+ 
+1st place: Stef
+2nd place: RTT
+ 

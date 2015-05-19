@@ -1,0 +1,740 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, Familiar, Monument, Trader, Jester, Margrave, Merchant Guild, Mine, Minion, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+shark_bait - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 5 Copper
+shark_bait - buys Minion
+shark_bait - gains Minion
+shark_bait - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Potion, Estate, Silver, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 1 Potion, 1 Silver, 1 Copper
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Potion
+shark_bait - gains Potion
+shark_bait - draws Copper, Estate, Estate, Copper, Minion
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Trader
+Stef - gains Trader
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Minion
+shark_bait - discards: Copper, Estate, Estate, Copper
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate, Copper, Estate
+Stef - discards: Copper, Copper, Copper, Estate, Copper
+Stef - draws Potion, Apothecary, Trader, Silver
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Copper, Copper, Estate, Copper
+Stef - places Estate on top of deck
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Familiar, Trader, Estate
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Trader
+shark_bait - gains Trader
+shark_bait - draws Potion, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Familiar
+Stef - draws Silver
+shark_bait - gains Curse
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 2 Copper, 1 Potion
+shark_bait - buys Apothecary
+shark_bait - gains Apothecary
+shark_bait - draws Copper, Trader, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Apothecary, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Trader
+shark_bait - trashes Copper
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Minion, Estate
+shark_bait - shuffles deck
+shark_bait - draws Trader, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Potion, Familiar, Copper, Copper
+Stef - places Familiar on top of deck
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Familiar, Silver, Copper, Familiar, Silver
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Minion
+shark_bait - discards: Copper, Estate, Trader, Copper
+shark_bait - draws Estate, Copper, Silver, Apothecary
+Stef - discards: Familiar, Silver, Copper, Familiar, Silver
+Stef - draws Trader, Silver
+Stef - shuffles deck
+Stef - draws Apothecary, Estate
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Estate, Potion, Curse, Copper
+shark_bait - places Estate on top of deck
+shark_bait - places Curse on top of deck
+shark_bait - plays 3 Copper, 1 Silver, 1 Potion
+shark_bait - buys Familiar
+shark_bait - gains Familiar
+shark_bait - draws Curse, Estate, Copper
+shark_bait - shuffles deck
+shark_bait - draws Minion, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Apothecary, Copper, Copper
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Apothecary, Estate, Copper, Copper, Familiar
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Minion
+shark_bait - discards: Curse, Estate, Copper, Copper
+shark_bait - draws Estate, Estate, Copper, Apothecary
+Stef - discards: Apothecary, Estate, Copper, Copper, Familiar
+Stef - draws Silver, Potion, Copper, Silver
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Silver, Copper, Familiar, Copper
+shark_bait - places Silver on top of deck
+shark_bait - places Familiar on top of deck
+shark_bait - plays 4 Copper
+shark_bait - buys Trader
+shark_bait - gains Trader
+shark_bait - draws Familiar, Silver, Potion, Trader
+shark_bait - shuffles deck
+shark_bait - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Silver, 1 Potion, 1 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Familiar
+Stef - shuffles deck
+Stef - draws Copper, Minion, Familiar, Trader
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Familiar
+shark_bait - draws Estate
+Stef - reveals reaction Trader
+Stef - gains Silver
+shark_bait - plays Trader
+shark_bait - trashes Estate
+shark_bait - gains Silver
+shark_bait - gains Silver
+shark_bait - plays 1 Silver, 1 Potion, 1 Copper
+shark_bait - buys Familiar
+shark_bait - gains Familiar
+shark_bait - draws Copper, Copper, Apothecary, Copper, Trader
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Familiar
+Stef - draws Silver
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+Stef - plays Familiar
+Stef - draws Potion
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Silver, Apothecary, Silver, Copper
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Copper
+shark_bait - reveals: Estate, Minion, Copper, Curse
+shark_bait - places Estate on top of deck
+shark_bait - places Minion on top of deck
+shark_bait - places Curse on top of deck
+shark_bait - plays 5 Copper
+shark_bait - buys Minion
+shark_bait - gains Minion
+shark_bait - draws Curse, Minion, Estate, Estate
+shark_bait - shuffles deck
+shark_bait - draws Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Apothecary, Estate
+Stef - places Apothecary on top of deck
+Stef - places Estate on top of deck
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Apothecary, Minion, Silver, Silver
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Minion
+shark_bait - discards: Curse, Estate, Estate, Silver
+shark_bait - draws Copper, Minion, Copper, Silver
+Stef - discards: Estate, Apothecary, Minion, Silver, Silver
+Stef - shuffles deck
+Stef - draws Silver, Silver, Apothecary, Estate
+shark_bait - plays Minion
+shark_bait - discards: Copper, Copper, Silver
+shark_bait - draws Trader, Apothecary, Copper, Familiar
+shark_bait - plays Apothecary
+shark_bait - draws Potion
+shark_bait - reveals: Copper, Silver, Copper, Familiar
+shark_bait - places Silver on top of deck
+shark_bait - places Familiar on top of deck
+shark_bait - plays Familiar
+shark_bait - draws Familiar
+Stef - gains Curse
+shark_bait - plays Familiar
+shark_bait - draws Silver
+Stef - gains Curse
+shark_bait - plays 3 Copper, 1 Potion, 1 Silver
+shark_bait - buys Minion
+shark_bait - gains Minion
+shark_bait - draws Silver, Silver, Trader, Copper
+shark_bait - shuffles deck
+shark_bait - draws Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apothecary
+Stef - draws Minion
+Stef - reveals: Apothecary, Copper, Familiar, Potion
+Stef - places Apothecary on top of deck
+Stef - places Familiar on top of deck
+Stef - plays Minion
+Stef - discards: Silver, Silver, Estate, Copper, Potion
+Stef - draws Familiar, Apothecary, Silver, Minion
+shark_bait - discards: Silver, Silver, Trader, Copper, Estate
+shark_bait - draws Estate, Silver, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Silver, Silver, Copper, Silver
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - plays Familiar
+Stef - draws Silver
+shark_bait - gains Curse
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Silver, Trader, Copper, Copper
+Stef - places Silver on top of deck
+Stef - places Trader on top of deck
+Stef - plays 3 Silver, 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Trader, Silver, Minion, Familiar, Copper
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Trader
+shark_bait - gains Trader
+shark_bait - draws Copper, Minion, Trader, Silver, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Minion
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Apothecary, Minion, Apothecary, Potion
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Minion
+shark_bait - takes 2 coins
+shark_bait - plays Trader
+shark_bait - trashes Copper
+shark_bait - plays 2 Silver
+shark_bait - buys Minion
+shark_bait - gains Minion
+shark_bait - draws Curse, Copper, Familiar, Minion, Minion
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Curse, Familiar, Silver, Copper
+Stef - places Silver on top of deck
+Stef - places Familiar on top of deck
+Stef - places Curse on top of deck
+Stef - plays Apothecary
+Stef - draws Curse
+Stef - reveals: Familiar, Silver, Silver, Silver
+Stef - places Familiar on top of deck
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - plays Minion
+Stef - discards: Copper, Potion, Copper, Copper, Curse
+Stef - draws Silver, Silver, Silver, Familiar
+shark_bait - discards: Curse, Copper, Familiar, Minion, Minion
+shark_bait - draws Apothecary, Familiar, Potion, Copper
+Stef - plays Familiar
+Stef - draws Curse
+shark_bait - gains Curse
+Stef - plays 3 Silver
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Copper, Apothecary, Silver, Silver
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays Apothecary
+shark_bait - shuffles deck
+shark_bait - draws Minion
+shark_bait - reveals: Curse, Silver, Minion, Silver
+shark_bait - places Curse on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Minion on top of deck
+shark_bait - plays Familiar
+shark_bait - draws Minion
+Stef - gains Curse
+shark_bait - plays Minion
+shark_bait - takes 2 coins
+shark_bait - plays Minion
+shark_bait - discards: Potion, Copper
+shark_bait - draws Silver, Silver, Curse, Copper
+Stef - discards: Estate, Copper, Apothecary, Silver, Silver
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Familiar, Minion, Silver
+shark_bait - plays 2 Silver, 1 Copper
+shark_bait - buys Margrave
+shark_bait - gains Margrave
+shark_bait - draws Curse, Copper, Silver, Estate, Curse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Familiar
+Stef - draws Curse
+shark_bait - gains Curse
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Silver, Curse
+Stef - draws Silver, Silver, Estate, Silver
+shark_bait - discards: Curse, Copper, Silver, Estate, Curse
+shark_bait - draws Silver, Trader, Copper, Copper
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Copper, Silver, Curse, Minion
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Trader
+shark_bait - trashes Copper
+shark_bait - plays 1 Silver, 1 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Trader, Silver, Trader, Estate, Minion
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Apothecary
+Stef - draws Minion
+Stef - reveals: Trader, Minion, Copper, Minion
+Stef - places Trader on top of deck
+Stef - places Minion on top of deck
+Stef - places Minion on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Silver, Curse, Copper
+Stef - draws Minion, Minion, Trader, Potion
+shark_bait - discards: Trader, Silver, Trader, Estate, Minion
+shark_bait - draws Minion, Silver, Familiar
+shark_bait - shuffles deck
+shark_bait - draws Familiar
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Trader, Potion
+Stef - draws Copper, Apothecary, Familiar, Curse
+Stef - plays Familiar
+Stef - draws Copper
+shark_bait - gains Curse
+Stef - plays 2 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - draws Silver, Apothecary
+Stef - shuffles deck
+Stef - draws Curse, Minion, Copper
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays Familiar
+shark_bait - draws Trader
+Stef - gains Curse
+shark_bait - plays Familiar
+shark_bait - draws Copper
+Stef - gains Curse
+shark_bait - plays Minion
+shark_bait - discards: Silver, Trader, Copper
+shark_bait - draws Margrave, Apothecary, Copper, Curse
+Stef - discards: Silver, Apothecary, Curse, Minion, Copper
+Stef - draws Familiar, Copper, Curse, Minion
+shark_bait - plays Apothecary
+shark_bait - draws Estate
+shark_bait - reveals: Trader, Silver, Minion, Silver
+shark_bait - places Minion on top of deck
+shark_bait - places Trader on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - places Silver on top of deck
+shark_bait - plays Margrave
+shark_bait - draws Silver, Silver, Trader
+Stef - draws Curse
+Stef - discards Copper
+Stef - discards Curse
+shark_bait - plays 2 Silver, 1 Copper
+shark_bait - buys Margrave
+shark_bait - gains Margrave
+shark_bait - buys Copper
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+shark_bait - draws Minion, Silver, Curse, Potion, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Familiar
+Stef - draws Silver
+Stef - plays Minion
+Stef - discards: Curse, Silver
+Stef - draws Familiar, Silver, Minion, Silver
+shark_bait - discards: Minion, Silver, Curse, Potion, Curse
+shark_bait - draws Minion, Minion, Trader, Silver
+Stef - plays Familiar
+Stef - draws Estate
+Stef - plays Minion
+Stef - discards: Silver, Silver, Estate
+Stef - draws Trader, Apothecary, Silver, Potion
+Stef - plays Apothecary
+Stef - draws Minion
+Stef - reveals: Silver, Minion, Copper, Apothecary
+Stef - places Silver on top of deck
+Stef - places Minion on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Minion
+Stef - discards: Trader, Silver, Potion, Copper
+Stef - draws Apothecary, Minion, Silver, Minion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Merchant Guild, Province
+Stef - shuffles deck
+Stef - reveals: Curse, Silver
+Stef - places Merchant Guild on top of deck
+Stef - places Province on top of deck
+Stef - places Curse on top of deck
+Stef - places Silver on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Silver, Copper
+Stef - draws Silver, Curse, Province, Merchant Guild
+Stef - plays Merchant Guild
+Stef - plays 1 Silver
+Stef - buys Merchant Guild
+Stef - receives 1 coin token
+Stef - gains Merchant Guild
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - draws Curse, Silver, Curse, Silver, Silver
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays Minion
+shark_bait - takes 2 coins
+shark_bait - plays Minion
+shark_bait - discards: Trader, Silver
+shark_bait - draws Curse, Copper, Estate, Silver
+Stef - discards: Curse, Silver, Curse, Silver, Silver
+Stef - draws Curse, Copper, Curse, Copper
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Silver, Copper
+shark_bait - shuffles deck
+shark_bait - draws Margrave, Copper, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - draws Trader, Potion, Estate, Copper, Apothecary
+ 
+---------- shark_bait: turn 19 ----------
+shark_bait - plays Margrave
+shark_bait - draws Familiar, Trader, Curse
+Stef - draws Silver
+Stef - discards Estate
+Stef - discards Trader
+Stef - discards Potion
+shark_bait - plays 2 Silver, 2 Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - buys Copper
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+shark_bait - draws Silver, Silver, Silver, Estate, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Apothecary
+Stef - draws Minion
+Stef - shuffles deck
+Stef - reveals: Potion, Minion, Copper, Merchant Guild
+Stef - places Minion on top of deck
+Stef - places Merchant Guild on top of deck
+Stef - plays Minion
+Stef - discards: Copper, Silver, Potion, Copper
+Stef - draws Merchant Guild, Minion, Estate, Curse
+shark_bait - discards: Silver, Silver, Silver, Estate, Estate
+shark_bait - draws Minion, Silver, Minion, Copper
+Stef - plays Minion
+Stef - discards: Merchant Guild, Estate, Curse
+Stef - draws Curse, Minion, Familiar, Silver
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Minion
+Stef - discards: Curse, Silver, Copper
+Stef - draws Silver, Minion, Copper, Apothecary
+Stef - plays Apothecary
+Stef - draws Province
+Stef - reveals: Curse, Silver, Familiar, Curse
+Stef - places Curse on top of deck
+Stef - places Silver on top of deck
+Stef - places Familiar on top of deck
+Stef - places Curse on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Familiar, Silver, Curse, Minion
+ 
+---------- shark_bait: turn 20 ----------
+shark_bait - plays Minion
+shark_bait - takes 2 coins
+shark_bait - plays Minion
+shark_bait - discards: Silver, Copper
+shark_bait - draws Copper, Curse, Familiar, Potion
+Stef - discards: Curse, Familiar, Silver, Curse, Minion
+Stef - draws Copper, Merchant Guild, Minion, Curse
+shark_bait - plays Familiar
+shark_bait - draws Minion
+shark_bait - plays Minion
+shark_bait - discards: Copper, Curse, Potion
+shark_bait - draws Margrave, Trader, Trader, Silver
+shark_bait - plays Margrave
+shark_bait - draws Minion, Curse, Curse
+Stef - draws Apothecary
+Stef - discards Curse
+Stef - discards Copper
+shark_bait - plays 1 Silver
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Silver, Apothecary, Curse, Duchy
+shark_bait - shuffles deck
+shark_bait - draws Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Trader, Silver
+Stef - shuffles deck
+Stef - reveals: Minion, Copper
+Stef - places Trader on top of deck
+Stef - places Silver on top of deck
+Stef - places Minion on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Merchant Guild
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - draws Minion, Silver, Trader, Curse, Curse
+ 
+---------- shark_bait: turn 21 ----------
+shark_bait - plays Apothecary
+shark_bait - draws Potion
+shark_bait - reveals: Minion, Margrave, Familiar, Familiar
+shark_bait - places Minion on top of deck
+shark_bait - places Margrave on top of deck
+shark_bait - places Familiar on top of deck
+shark_bait - places Familiar on top of deck
+shark_bait - plays 1 Silver, 1 Copper, 1 Potion
+shark_bait - buys Estate
+shark_bait - gains Estate
+shark_bait - draws Familiar, Familiar, Margrave, Minion, Curse
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Trader
+Stef - trashes Curse
+Stef - plays 1 Silver
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Copper, Curse, Minion, Silver
+ 
+---------- shark_bait: turn 22 ----------
+shark_bait - plays Familiar
+shark_bait - draws Trader
+shark_bait - plays Familiar
+shark_bait - draws Copper
+shark_bait - plays Minion
+shark_bait - takes 2 coins
+shark_bait - plays Margrave
+shark_bait - draws Silver, Estate, Estate
+Stef - draws Apothecary
+Stef - discards Curse
+Stef - discards Duchy
+Stef - discards Copper
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - buys Copper
+shark_bait - reveals reaction Trader
+shark_bait - gains Silver
+shark_bait - draws Margrave, Silver, Curse, Copper, Minion
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Silver, Potion, Merchant Guild, Silver
+Stef - places Silver on top of deck
+Stef - places Merchant Guild on top of deck
+Stef - places Silver on top of deck
+Stef - plays Minion
+Stef - discards: Silver, Silver, Potion
+Stef - draws Silver, Merchant Guild, Silver, Copper
+shark_bait - discards: Margrave, Silver, Curse, Copper, Minion
+shark_bait - draws Silver, Silver, Curse, Silver
+Stef - plays Merchant Guild
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - buys Copper
+Stef - receives 1 coin token
+Stef - gains Copper
+Stef - draws Familiar, Curse, Copper, Apothecary, Minion
+ 
+---------- shark_bait: turn 23 ----------
+shark_bait - plays 3 Silver
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Curse, Minion, Duchy, Estate, Silver
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Apothecary
+Stef - draws Familiar
+Stef - reveals: Minion, Province, Copper, Estate
+Stef - places Minion on top of deck
+Stef - places Province on top of deck
+Stef - places Estate on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays 2 Copper
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Province, Minion, Curse, Minion
+ 
+------------ Game Over ------------
+Stef - cards: 6 Minion, 3 Apothecary, 2 Merchant Guild, 2 Familiar, 1 Trader, 7 Copper, 6 Silver, 1 Potion, 4 Duchy, 2 Province, 1 Estate, 4 Curse
+Stef - victory point chips: 0
+Stef - total victory points: 21
+Stef - turns: 24
+ 
+shark_bait - cards: 4 Minion, 3 Trader, 2 Familiar, 2 Margrave, 10 Silver, 1 Apothecary, 4 Copper, 1 Potion, 5 Estate, 4 Duchy, 5 Curse
+shark_bait - victory point chips: 0
+shark_bait - total victory points: 12
+shark_bait - turns: 23
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

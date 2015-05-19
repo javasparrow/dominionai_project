@@ -41,6 +41,9 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "bureaucrat")
     featureMode = GokoLogParser::MODE_ACTION_BUREAUCRAT
     puts "bureaucratMode"
+  elsif(ARGV[0] == "tactics")
+    featureMode = GokoLogParser::MODE_ARAI
+    puts "tacticsMode"
   else
     puts "unknown feature type"
     return
@@ -49,6 +52,23 @@ else
   puts "usage: ruby parseLogs.rb featuretype"
   return
 end
+
+if(featureMode == GokoLogParser::MODE_ARAI)
+
+  Dir::glob("./logfiles/*").each{|f|
+
+    File.open("./tacticsFeature/result_" + File.basename(f), 'w'){|out|
+    parser = GokoLogParser.new
+    File.open(f, 'r') {|file|
+
+      puts f
+      parser.parse(file, out, featureMode, nil)
+    }
+  }
+
+}
+
+else
 
 File.open("result_" + ARGV[0] + ".txt", 'w'){|out|
 
@@ -61,3 +81,4 @@ File.open("result_" + ARGV[0] + ".txt", 'w'){|out|
   }
 
 }
+end

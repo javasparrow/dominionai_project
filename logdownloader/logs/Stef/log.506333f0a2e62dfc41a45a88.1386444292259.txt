@@ -1,0 +1,559 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Pearl Diver, Conspirator, Envoy, Farming Village, Trader, Worker's Village, Mine, Possession, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - shuffles deck
+Stef - shuffles deck
+nnn - draws Copper, Copper, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Trader
+Stef - gains Trader
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- nnn: turn 1 ----------
+nnn - plays Copper
+nnn - plays Copper
+nnn - plays Copper
+nnn - plays Copper
+nnn - buys Conspirator
+nnn - gains Conspirator
+nnn - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Pearl Diver, Copper, Trader, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 2 Copper
+nnn - buys Lighthouse
+nnn - gains Lighthouse
+nnn - shuffles deck
+nnn - draws Lighthouse, Conspirator, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Pearl Diver
+Stef - draws Estate
+Stef - places Copper on bottom of deck
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- nnn: turn 3 ----------
+nnn - plays Lighthouse
+nnn - plays Conspirator
+nnn - plays 2 Copper
+nnn - buys Worker's Village
+nnn - gains Worker's Village
+nnn - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - duration Lighthouse
+nnn - plays 3 Copper
+nnn - buys Envoy
+nnn - gains Envoy
+nnn - draws Copper, Copper
+nnn - shuffles deck
+nnn - draws Estate, Estate, Envoy
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Silver, Copper, Copper, Pearl Diver, Pearl Diver
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Envoy
+nnn - reveals: Copper, Lighthouse, Estate, Copper, Copper
+Stef - discards Copper
+nnn - discards Copper
+nnn - places cards in hand:  Copper, Lighthouse, Estate, Copper
+nnn - plays 4 Copper
+nnn - buys Worker's Village
+nnn - gains Worker's Village
+nnn - draws Copper, Copper, Worker's Village, Conspirator
+nnn - shuffles deck
+nnn - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Pearl Diver
+Stef - draws Trader
+Stef - places Silver on bottom of deck
+Stef - plays Pearl Diver
+Stef - draws Pearl Diver
+Stef - places Silver on bottom of deck
+Stef - plays Pearl Diver
+Stef - draws Estate
+Stef - places Silver on top of deck
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Envoy
+Stef - gains Envoy
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper, Pearl Diver, Farming Village
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Worker's Village
+nnn - draws Worker's Village
+nnn - plays Worker's Village
+nnn - draws Lighthouse
+nnn - plays Conspirator
+nnn - draws Copper
+nnn - plays Lighthouse
+nnn - plays 4 Copper
+nnn - buys Envoy
+nnn - gains Envoy
+nnn - buys Pearl Diver
+nnn - gains Pearl Diver
+nnn - draws Copper, Envoy, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Pearl Diver
+Stef - draws Trader
+Stef - places Silver on top of deck
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Copper, Estate, Silver, Envoy, Pearl Diver
+ 
+---------- nnn: turn 7 ----------
+nnn - duration Lighthouse
+nnn - plays Envoy
+nnn - reveals: Estate, Estate
+nnn - shuffles deck
+nnn - reveals: Copper, Worker's Village, Conspirator
+Stef - discards Copper
+nnn - discards Copper
+nnn - places cards in hand:  Estate, Estate, Worker's Village, Conspirator
+nnn - plays 3 Copper
+nnn - buys Worker's Village
+nnn - gains Worker's Village
+nnn - draws Worker's Village, Pearl Diver, Copper, Copper, Envoy
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Pearl Diver
+Stef - draws Pearl Diver
+Stef - places Silver on bottom of deck
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Silver on bottom of deck
+Stef - plays Envoy
+Stef - reveals: Copper, Copper, Copper, Silver
+Stef - shuffles deck
+Stef - reveals: Copper
+nnn - discards Silver
+Stef - discards Silver
+Stef - places cards in hand:  Copper, Copper, Copper, Copper
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Expand
+Stef - gains Expand
+Stef - draws Trader, Farming Village, Pearl Diver, Silver, Worker's Village
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Pearl Diver
+nnn - draws Copper
+nnn - shuffles deck
+nnn - places Worker's Village on top of deck
+nnn - plays Worker's Village
+nnn - draws Worker's Village
+nnn - plays Envoy
+nnn - reveals: Estate, Copper, Copper, Conspirator, Copper
+Stef - discards Conspirator
+nnn - discards Conspirator
+nnn - places cards in hand:  Estate, Copper, Copper, Copper
+nnn - plays Worker's Village
+nnn - draws Copper
+nnn - plays 7 Copper
+nnn - buys Expand
+nnn - gains Expand
+nnn - draws Estate, Worker's Village, Lighthouse, Estate, Envoy
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pearl Diver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - places Envoy on top of deck
+Stef - plays Farming Village
+Stef - reveals Envoy
+Stef - places Envoy in hand
+Stef - plays Envoy
+Stef - reveals: Silver, Copper, Copper, Copper, Copper
+nnn - discards Silver
+Stef - discards Silver
+Stef - places cards in hand:  Copper, Copper, Copper, Copper
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Envoy
+Stef - gains Envoy
+Stef - draws Pearl Diver, Estate, Expand, Pearl Diver, Silver
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Worker's Village
+nnn - shuffles deck
+nnn - draws Worker's Village
+nnn - plays Envoy
+nnn - reveals: Conspirator, Envoy, Copper, Worker's Village, Copper
+Stef - discards Worker's Village
+nnn - discards Worker's Village
+nnn - places cards in hand:  Conspirator, Envoy, Copper, Copper
+nnn - plays Worker's Village
+nnn - draws Pearl Diver
+nnn - plays Envoy
+nnn - reveals: Estate, Copper, Expand, Copper, Copper
+Stef - discards Expand
+nnn - discards Expand
+nnn - places cards in hand:  Estate, Copper, Copper, Copper
+nnn - plays Conspirator
+nnn - draws Copper
+nnn - plays Pearl Diver
+nnn - draws Copper
+nnn - shuffles deck
+nnn - places Expand on top of deck
+nnn - plays Lighthouse
+nnn - plays 7 Copper
+nnn - buys Potion
+nnn - gains Potion
+nnn - buys Conspirator
+nnn - gains Conspirator
+nnn - buys Pearl Diver
+nnn - gains Pearl Diver
+nnn - draws Expand, Worker's Village
+nnn - shuffles deck
+nnn - draws Estate, Conspirator, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - places Silver on top of deck
+Stef - plays Pearl Diver
+Stef - draws Silver
+Stef - places Envoy on top of deck
+Stef - plays Expand
+Stef - trashes Estate
+Stef - gains Envoy
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Envoy, Farming Village, Pearl Diver, Worker's Village, Trader
+ 
+---------- nnn: turn 10 ----------
+nnn - duration Lighthouse
+nnn - plays Worker's Village
+nnn - draws Estate
+nnn - plays Expand
+nnn - trashes Estate
+nnn - gains Envoy
+nnn - plays Conspirator
+nnn - draws Envoy
+nnn - plays Envoy
+nnn - reveals: Copper, Copper, Worker's Village, Copper, Conspirator
+Stef - discards Copper
+nnn - discards Copper
+nnn - places cards in hand:  Copper, Copper, Worker's Village, Conspirator
+nnn - plays 3 Copper
+nnn - buys Worker's Village
+nnn - gains Worker's Village
+nnn - buys Pearl Diver
+nnn - gains Pearl Diver
+nnn - draws Worker's Village, Copper, Copper, Estate, Pearl Diver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Envoy
+Stef - reveals: Copper, Silver, Envoy, Worker's Village, Copper
+nnn - discards Envoy
+Stef - discards Envoy
+Stef - places cards in hand:  Copper, Silver, Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - places Copper on bottom of deck
+Stef - plays Worker's Village
+Stef - draws Expand
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays Expand
+Stef - trashes Silver
+Stef - gains Envoy
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Pearl Diver, Pearl Diver, Worker's Village, Silver, Envoy
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Pearl Diver
+nnn - draws Potion
+nnn - places Pearl Diver on top of deck
+nnn - plays Worker's Village
+nnn - draws Pearl Diver
+nnn - plays Pearl Diver
+nnn - draws Envoy
+nnn - places Copper on bottom of deck
+nnn - plays Envoy
+nnn - reveals: Copper
+nnn - shuffles deck
+nnn - reveals: Conspirator, Estate, Expand, Envoy
+Stef - discards Envoy
+nnn - discards Envoy
+nnn - places cards in hand:  Copper, Conspirator, Estate, Expand
+nnn - plays Conspirator
+nnn - draws Copper
+nnn - plays Expand
+nnn - trashes Estate
+nnn - gains Worker's Village
+nnn - plays 4 Copper, 1 Potion
+nnn - buys Possession
+nnn - gains Possession
+nnn - draws Conspirator, Worker's Village, Pearl Diver, Lighthouse, Envoy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Pearl Diver
+Stef - draws Envoy
+Stef - places Copper on bottom of deck
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Envoy
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Expand, Worker's Village, Worker's Village, Trader
+nnn - discards Expand
+Stef - discards Expand
+Stef - places cards in hand:  Copper, Worker's Village, Worker's Village, Trader
+Stef - plays Worker's Village
+Stef - draws Envoy
+Stef - plays Envoy
+Stef - reveals: Pearl Diver, Copper, Copper, Copper, Farming Village
+nnn - discards Farming Village
+Stef - discards Farming Village
+Stef - places cards in hand:  Pearl Diver, Copper, Copper, Copper
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Envoy
+Stef - reveals: Silver, Envoy
+Stef - shuffles deck
+Stef - reveals: Expand, Farming Village
+nnn - discards Expand
+Stef - discards Expand
+Stef - places cards in hand:  Silver, Envoy, Farming Village
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Expand
+Stef - places Expand in hand
+Stef - plays Expand
+Stef - trashes Silver
+Stef - gains Potion
+Stef - plays Worker's Village
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 3 Copper, 2 Silver, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - shuffles deck
+Stef - draws Copper, Possession, Expand, Worker's Village, Envoy
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Worker's Village
+nnn - draws Copper
+nnn - plays Envoy
+nnn - reveals: Copper, Copper, Worker's Village, Worker's Village
+nnn - shuffles deck
+nnn - reveals: Pearl Diver
+Stef - discards Worker's Village
+nnn - discards Worker's Village
+nnn - places cards in hand:  Copper, Copper, Worker's Village, Pearl Diver
+nnn - plays Pearl Diver
+nnn - draws Estate
+nnn - places Copper on bottom of deck
+nnn - plays Worker's Village
+nnn - draws Copper
+nnn - plays Pearl Diver
+nnn - draws Worker's Village
+nnn - places Copper on bottom of deck
+nnn - plays Worker's Village
+nnn - draws Copper
+nnn - plays Conspirator
+nnn - draws Possession
+nnn - plays Lighthouse
+nnn - plays Possession
+nnn - plays 5 Copper
+nnn - buys Envoy
+nnn - gains Envoy
+nnn - buys Worker's Village
+nnn - gains Worker's Village
+nnn - draws Potion, Expand, Worker's Village, Copper, Envoy
+ 
+---------- Stef: turn 13 [possessed] ----------
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays Envoy
+Stef - reveals: Worker's Village, Envoy, Trader, Copper, Pearl Diver
+nnn - discards Trader
+Stef - discards Trader
+Stef - places cards in hand:  Worker's Village, Envoy, Copper, Pearl Diver
+Stef - plays Worker's Village
+Stef - draws Envoy
+Stef - plays Envoy
+Stef - reveals: Worker's Village, Copper, Pearl Diver, Silver, Farming Village
+nnn - discards Copper
+Stef - discards Copper
+Stef - places cards in hand:  Worker's Village, Pearl Diver, Silver, Farming Village
+Stef - plays Worker's Village
+Stef - draws Potion
+Stef - plays Envoy
+Stef - reveals: Envoy, Worker's Village, Pearl Diver
+Stef - shuffles deck
+Stef - reveals: Trader, Copper
+nnn - discards Trader
+Stef - discards Trader
+Stef - places cards in hand:  Envoy, Worker's Village, Pearl Diver, Copper
+Stef - plays Worker's Village
+Stef - shuffles deck
+Stef - draws Trader
+Stef - plays Trader
+Stef - trashes Potion
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+Stef - plays Farming Village
+Stef - plays Expand
+Stef - trashes Possession
+nnn - gains Province
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Envoy
+nnn - gains Envoy
+Stef - buys Pearl Diver
+nnn - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Envoy, Silver, Silver, Expand, Pearl Diver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Pearl Diver
+Stef - draws Worker's Village
+Stef - places Copper on bottom of deck
+Stef - plays Worker's Village
+Stef - draws Envoy
+Stef - plays Envoy
+Stef - reveals: Pearl Diver, Worker's Village, Farming Village, Copper, Pearl Diver
+nnn - discards Worker's Village
+Stef - discards Worker's Village
+Stef - places cards in hand:  Pearl Diver, Farming Village, Copper, Pearl Diver
+Stef - plays Farming Village
+Stef - reveals Envoy
+Stef - places Envoy in hand
+Stef - plays Envoy
+Stef - reveals: Envoy, Worker's Village, Worker's Village, Copper, Trader
+nnn - discards Envoy
+Stef - discards Envoy
+Stef - places cards in hand:  Worker's Village, Worker's Village, Copper, Trader
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Pearl Diver
+Stef - shuffles deck
+Stef - draws Potion
+Stef - places Worker's Village on top of deck
+Stef - plays Pearl Diver
+Stef - draws Worker's Village
+Stef - places Envoy on top of deck
+Stef - plays Worker's Village
+Stef - draws Envoy
+Stef - plays Worker's Village
+Stef - draws Possession
+Stef - plays Trader
+Stef - trashes Expand
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Envoy
+Stef - shuffles deck
+Stef - reveals: Silver, Silver, Silver, Silver, Silver
+nnn - discards Silver
+Stef - discards Silver
+Stef - places cards in hand:  Silver, Silver, Silver, Silver
+Stef - plays Envoy
+Stef - reveals: Silver, Silver
+Stef - shuffles deck
+Stef - reveals: Silver
+nnn - discards Silver
+Stef - discards Silver
+Stef - places cards in hand:  Silver, Silver
+Stef - plays Possession
+Stef - plays 8 Silver, 3 Copper, 1 Potion
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Envoy
+Stef - gains Envoy
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - shuffles deck
+Stef - draws Envoy, Silver, Pearl Diver, Envoy, Farming Village
+ 
+---------- nnn: turn 13 [possessed] ----------
+nnn - duration Lighthouse
+nnn - plays Worker's Village
+nnn - draws Pearl Diver
+nnn - plays Expand
+nnn - trashes Envoy
+Stef - gains Pearl Diver
+nnn - draws Envoy, Conspirator, Copper
+nnn - shuffles deck
+nnn - draws Lighthouse, Worker's Village
+ 
+------------ Game Over ------------
+Stef - cards: 6 Pearl Diver, 5 Envoy, 4 Worker's Village, 1 Farming Village, 1 Trader, 1 Possession, 9 Silver, 3 Copper, 1 Potion, 1 Colony
+Stef - total victory points: 10
+Stef - turns: 13
+ 
+nnn - cards: 6 Worker's Village, 5 Envoy, 4 Pearl Diver, 2 Conspirator, 1 Lighthouse, 1 Possession, 1 Expand, 7 Copper, 4 Silver, 1 Potion, 1 Province, 1 Estate
+nnn - total victory points: 7
+nnn - turns: 12
+ 
+1st place: Stef
+2nd place: nnn
+ 

@@ -1,0 +1,406 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Embargo, Oasis, Harvest, Margrave, Market, Mine, Soothsayer, Adventurer, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HNT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+HNT - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+HNT - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- HNT: turn 1 ----------
+HNT - plays 3 Copper
+HNT - buys Oasis
+HNT - gains Oasis
+HNT - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Oasis
+ 
+---------- HNT: turn 2 ----------
+HNT - plays 4 Copper
+HNT - buys Silver
+HNT - gains Silver
+HNT - shuffles deck
+HNT - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Copper, Oasis
+ 
+---------- HNT: turn 3 ----------
+HNT - plays 3 Copper
+HNT - buys Embargo
+HNT - gains Embargo
+HNT - draws Silver, Oasis, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - shuffles deck
+Stef - draws Copper, Copper, Soothsayer, Copper, Copper
+ 
+---------- HNT: turn 4 ----------
+HNT - plays Oasis
+HNT - draws Copper
+HNT - discards Copper
+HNT - plays 3 Copper, 1 Silver
+HNT - buys Soothsayer
+HNT - gains Soothsayer
+HNT - draws Estate
+HNT - shuffles deck
+HNT - draws Soothsayer, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+HNT - gains Curse
+HNT - draws Silver
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Oasis, Copper, Estate, Oasis
+ 
+---------- HNT: turn 5 ----------
+HNT - plays Soothsayer
+HNT - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+HNT - plays 3 Copper, 1 Silver
+HNT - buys Soothsayer
+HNT - gains Soothsayer
+HNT - draws Oasis, Estate, Copper, Embargo, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Silver
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Curse, Gold, Copper, Copper
+ 
+---------- HNT: turn 6 ----------
+HNT - plays Oasis
+HNT - draws Estate
+HNT - discards Estate
+HNT - plays Embargo
+HNT - embargoes Peddler
+HNT - trashes Embargo
+HNT - plays 2 Copper
+HNT - buys Soothsayer
+HNT - gains Soothsayer
+HNT - draws Copper, Copper
+HNT - shuffles deck
+HNT - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Silver, Copper, Oasis, Silver, Soothsayer
+ 
+---------- HNT: turn 7 ----------
+HNT - plays 4 Copper
+HNT - buys Oasis
+HNT - gains Oasis
+HNT - draws Soothsayer, Curse, Silver, Gold, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Oasis
+Stef - draws Oasis
+Stef - discards Oasis
+Stef - plays Soothsayer
+Stef - gains Gold
+HNT - gains Curse
+HNT - draws Copper
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- HNT: turn 8 ----------
+HNT - plays Soothsayer
+HNT - gains Gold
+Stef - gains Curse
+Stef - draws Soothsayer
+HNT - plays 2 Copper, 1 Silver, 1 Gold
+HNT - buys Gold
+HNT - gains Gold
+HNT - draws Copper, Soothsayer, Oasis, Estate, Soothsayer
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+HNT - gains Curse
+HNT - draws Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Gold, Silver, Copper, Soothsayer
+ 
+---------- HNT: turn 9 ----------
+HNT - plays Soothsayer
+HNT - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+HNT - shuffles deck
+HNT - draws Curse, Copper, Estate, Curse, Oasis
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+HNT - gains Curse
+HNT - draws Gold
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Margrave, Soothsayer, Oasis, Gold, Gold
+ 
+---------- HNT: turn 10 ----------
+HNT - plays Oasis
+HNT - draws Gold
+HNT - discards Curse
+HNT - plays 2 Gold, 1 Copper
+HNT - buys Province
+HNT - gains Province
+HNT - draws Soothsayer, Curse, Silver, Gold, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Margrave
+Stef - plays Soothsayer
+Stef - gains Gold
+HNT - gains Curse
+HNT - draws Copper
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Silver, Silver, Curse, Copper
+ 
+---------- HNT: turn 11 ----------
+HNT - plays Soothsayer
+HNT - gains Gold
+Stef - gains Curse
+Stef - draws Curse
+HNT - plays 2 Copper, 1 Silver, 1 Gold
+HNT - buys Gold
+HNT - gains Gold
+HNT - draws Oasis, Soothsayer, Copper, Gold, Soothsayer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Oasis, Copper, Estate, Copper, Gold
+ 
+---------- HNT: turn 12 ----------
+HNT - plays Oasis
+HNT - draws Copper
+HNT - discards Soothsayer
+HNT - plays Soothsayer
+HNT - gains Gold
+Stef - gains Curse
+Stef - draws Estate
+HNT - plays 2 Copper, 1 Gold
+HNT - buys Margrave
+HNT - gains Margrave
+HNT - draws Copper, Estate, Copper, Estate
+HNT - shuffles deck
+HNT - draws Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Soothsayer, Curse, Oasis, Copper
+ 
+---------- HNT: turn 13 ----------
+HNT - plays 3 Copper
+HNT - buys Silver
+HNT - gains Silver
+HNT - draws Silver, Copper, Gold, Gold, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Oasis
+Stef - draws Curse
+Stef - discards Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Margrave, Copper, Gold, Province, Margrave
+ 
+---------- HNT: turn 14 ----------
+HNT - plays 2 Copper, 2 Gold, 1 Silver
+HNT - buys Province
+HNT - gains Province
+HNT - draws Soothsayer, Margrave, Curse, Oasis, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Margrave
+Stef - draws Gold, Gold, Silver
+HNT - draws Gold
+HNT - discards Estate
+HNT - discards Curse
+HNT - discards Soothsayer
+Stef - plays 3 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Copper, Curse, Gold, Estate
+ 
+---------- HNT: turn 15 ----------
+HNT - plays Oasis
+HNT - draws Gold
+HNT - discards Gold
+HNT - plays Margrave
+HNT - draws Copper, Soothsayer, Province
+Stef - draws Curse
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Curse
+HNT - plays 1 Gold, 1 Copper
+HNT - buys Duchy
+HNT - gains Duchy
+HNT - draws Gold, Curse, Curse, Curse, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Soothsayer, Gold, Silver, Silver
+ 
+---------- HNT: turn 16 ----------
+HNT - plays 2 Gold
+HNT - buys Duchy
+HNT - gains Duchy
+HNT - draws Gold, Curse, Soothsayer, Copper, Oasis
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Estate, Curse, Gold, Duchy, Gold
+ 
+---------- HNT: turn 17 ----------
+HNT - plays Oasis
+HNT - shuffles deck
+HNT - draws Copper
+HNT - discards Curse
+HNT - plays Soothsayer
+HNT - gains Gold
+HNT - plays 2 Copper, 1 Gold
+HNT - buys Duchy
+HNT - gains Duchy
+HNT - draws Soothsayer, Province, Gold, Curse, Duchy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Copper, Gold, Soothsayer, Estate
+ 
+---------- HNT: turn 18 ----------
+HNT - plays Soothsayer
+HNT - gains Gold
+HNT - plays 1 Gold
+HNT - buys Estate
+HNT - gains Estate
+HNT - draws Copper, Curse, Duchy, Copper, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Soothsayer
+Stef - gains Gold
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Copper, Gold, Estate, Curse
+ 
+---------- HNT: turn 19 ----------
+HNT - plays 2 Copper
+HNT - buys Estate
+HNT - gains Estate
+HNT - draws Gold, Oasis, Curse, Estate, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 1 Silver, 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Margrave, Silver, Gold, Copper, Province
+ 
+---------- HNT: turn 20 ----------
+HNT - plays Oasis
+HNT - draws Gold
+HNT - discards Curse
+HNT - plays 3 Gold
+HNT - buys Province
+HNT - gains Province
+HNT - draws Gold, Silver, Estate, Silver, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Margrave
+Stef - draws Duchy, Curse, Silver
+HNT - draws Gold
+HNT - discards Estate
+HNT - discards Curse
+HNT - discards Silver
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Margrave, Copper, Oasis, Copper, Gold
+ 
+---------- HNT: turn 21 ----------
+HNT - plays 2 Gold, 1 Silver
+HNT - buys Province
+HNT - gains Province
+HNT - draws Margrave, Copper, Province, Soothsayer, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 2 Margrave, 2 Oasis, 2 Soothsayer, 10 Gold, 7 Copper, 5 Silver, 4 Duchy, 4 Estate, 4 Province, 5 Curse
+Stef - total victory points: 35
+Stef - turns: 21
+ 
+HNT - cards: 3 Soothsayer, 2 Oasis, 1 Margrave, 9 Gold, 7 Copper, 2 Silver, 5 Estate, 4 Province, 3 Duchy, 5 Curse
+HNT - total victory points: 33
+HNT - turns: 21
+ 
+1st place: Stef
+2nd place: HNT
+ 

@@ -1,0 +1,565 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Doctor, Hermit, Lookout, Farming Village, Quarry, Young Witch, Baker, Ill-Gotten Gains, Laboratory, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Doctor
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+jog - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+jog - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- jog: turn 1 ----------
+jog - plays 3 Copper
+jog - buys Hermit
+jog - gains Hermit
+jog - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Doctor
+Stef - gains Doctor
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- jog: turn 2 ----------
+jog - plays 4 Copper
+jog - uses 1 coin token
+jog - buys Laboratory
+jog - gains Laboratory
+jog - shuffles deck
+jog - draws Copper, Laboratory, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - shuffles deck
+Stef - draws Copper, Estate, Quarry, Doctor, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays Laboratory
+jog - draws Copper, Hermit
+jog - plays Hermit
+jog - trashes Estate
+jog - gains Lookout
+jog - plays 4 Copper
+jog - buys Quarry
+jog - gains Quarry
+jog - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Copper, Copper
+Stef - trashes Copper, Copper, Copper
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Baker
+Stef - gains Baker
+Stef - draws Copper, Copper, Estate, Estate
+Stef - shuffles deck
+Stef - draws Doctor
+ 
+---------- jog: turn 4 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - shuffles deck
+jog - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Estate, Baker, Copper
+Stef - trashes Copper
+Stef - places Estate on top of deck
+Stef - places Baker on top of deck
+Stef - plays 2 Copper
+Stef - uses 1 coin token
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Baker, Estate, Copper, Quarry
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays 4 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Hermit, Lookout, Copper, Laboratory, Quarry
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Estate
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Baker
+Stef - gains Baker
+Stef - draws Copper, Estate, Hermit, Doctor
+Stef - shuffles deck
+Stef - draws Baker
+ 
+---------- jog: turn 6 ----------
+jog - plays Lookout
+jog - trashes Estate
+jog - discards Copper
+jog - places Copper on top of deck
+jog - plays Laboratory
+jog - draws Copper, Silver
+jog - plays Hermit
+jog - trashes Estate
+jog - gains Silver
+jog - plays 2 Copper, 1 Silver
+jog - plays Quarry
+jog - buys Baker
+jog - gains Baker
+jog - shuffles deck
+jog - draws Baker, Silver, Laboratory, Lookout, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Copper
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Cellar
+Stef - plays 2 Copper
+Stef - uses 2 coin tokens
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Baker, Copper, Estate, Estate, Quarry
+ 
+---------- jog: turn 7 ----------
+jog - plays Laboratory
+jog - draws Copper, Silver
+jog - plays Lookout
+jog - trashes Copper
+jog - discards Copper
+jog - places Hermit on top of deck
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Hermit
+jog - plays Hermit
+jog - gains Silver
+jog - plays 2 Silver, 2 Copper
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Copper, Silver, Copper, Quarry, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - shuffles deck
+Stef - draws Hermit
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Quarry
+Stef - plays Copper
+Stef - uses 1 coin token
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Doctor, Copper, Copper, Cellar, Farming Village
+ 
+---------- jog: turn 8 ----------
+jog - plays 3 Copper, 1 Silver
+jog - plays Quarry
+jog - buys Laboratory
+jog - gains Laboratory
+jog - shuffles deck
+jog - draws Lookout, Laboratory, Copper, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Farming Village
+Stef - reveals Baker
+Stef - places Baker in hand
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Hermit, Copper, Laboratory
+Stef - plays Laboratory
+Stef - draws Silver, Quarry
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Baker
+Stef - shuffles deck
+Stef - reveals: Silver, Copper
+Stef - trashes Copper
+Stef - places Silver on top of deck
+Stef - places Baker on top of deck
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Quarry
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Baker, Silver, Copper
+Stef - shuffles deck
+Stef - draws Laboratory, Copper
+ 
+---------- jog: turn 9 ----------
+jog - plays Laboratory
+jog - draws Copper, Copper
+jog - plays Lookout
+jog - trashes Hermit
+jog - discards Silver
+jog - places Laboratory on top of deck
+jog - plays 4 Copper, 1 Silver
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Laboratory, Quarry, Silver, Copper, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Laboratory
+Stef - draws Silver, Farming Village
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Laboratory
+Stef - plays Farming Village
+Stef - reveals Hermit
+Stef - places Hermit in hand
+Stef - plays Laboratory
+Stef - draws Cellar, Quarry
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Doctor, Baker
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - trashes Copper, Copper
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - plays Hermit
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - plays Quarry
+Stef - uses 3 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Silver, Silver, Hermit, Cellar, Province
+ 
+---------- jog: turn 10 ----------
+jog - plays Laboratory
+jog - draws Copper, Baker
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Laboratory
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Lookout, Copper
+jog - plays Lookout
+jog - trashes Copper
+jog - discards Silver
+jog - places Laboratory on top of deck
+jog - plays 3 Copper, 2 Silver
+jog - plays Quarry
+jog - buys Province
+jog - gains Province
+jog - draws Laboratory, Laboratory, Silver, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Hermit
+Stef - discards Silver
+Stef - discards Silver
+Stef - draws Laboratory, Farming Village, Baker, Baker
+Stef - plays Laboratory
+Stef - draws Silver, Quarry
+Stef - plays Farming Village
+Stef - reveals Doctor
+Stef - places Doctor in hand
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Hermit, Silver
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Province
+Stef - plays Hermit
+Stef - trashes Doctor
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - plays Quarry
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Province, Laboratory, Cellar, Baker
+ 
+---------- jog: turn 11 ----------
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Copper, Copper
+jog - plays Laboratory
+jog - draws Silver, Copper
+jog - plays 5 Copper, 2 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Baker, Silver, Province, Lookout, Quarry
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Silver, Hermit
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Quarry
+Stef - plays Cellar
+Stef - discards Hermit
+Stef - discards Province
+Stef - discards Quarry
+Stef - draws Laboratory, Baker, Silver
+Stef - plays Laboratory
+Stef - draws Silver, Farming Village
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Laboratory
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Hermit, Baker, Silver, Province, Silver
+ 
+---------- jog: turn 12 ----------
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Laboratory
+jog - plays Laboratory
+jog - draws Silver, Laboratory
+jog - plays Lookout
+jog - shuffles deck
+jog - trashes Laboratory
+jog - discards Province
+jog - places Laboratory on top of deck
+jog - plays Laboratory
+jog - draws Laboratory, Copper
+jog - plays Laboratory
+jog - draws Silver, Copper
+jog - plays 3 Silver, 2 Copper
+jog - buys Province
+jog - gains Province
+jog - draws Copper, Copper, Silver, Copper
+jog - shuffles deck
+jog - draws Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Baker, Laboratory
+Stef - plays Laboratory
+Stef - draws Silver, Cellar
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Province
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - draws Silver, Farming Village
+Stef - plays Hermit
+Stef - gains Estate
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Laboratory, Quarry
+Stef - shuffles deck
+Stef - draws Silver, Baker, Laboratory
+ 
+---------- jog: turn 13 ----------
+jog - plays 4 Copper, 1 Silver
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Copper, Province, Silver, Laboratory, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Laboratory
+Stef - draws Province, Cellar
+Stef - plays Laboratory
+Stef - draws Farming Village, Silver
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Province
+Stef - plays Farming Village
+Stef - reveals Baker
+Stef - places Baker in hand
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Silver
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - discards Quarry
+Stef - draws Silver, Laboratory, Hermit
+Stef - plays Laboratory
+Stef - draws Estate, Province
+Stef - plays Hermit
+Stef - gains Cellar
+Stef - plays 4 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Duchy, Baker, Laboratory, Province, Silver
+ 
+---------- jog: turn 14 ----------
+jog - plays Laboratory
+jog - draws Baker, Silver
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Quarry
+jog - plays 2 Silver, 1 Copper
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Laboratory, Laboratory, Province, Lookout, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Cellar, Cellar
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Hermit
+Stef - plays Cellar
+Stef - discards Hermit
+Stef - discards Province
+Stef - discards Duchy
+Stef - draws Silver, Estate, Baker
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Silver, Silver
+Stef - plays 4 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Farming Village, Laboratory, Quarry, Province, Province
+ 
+---------- jog: turn 15 ----------
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Duchy, Province
+jog - plays Lookout
+jog - trashes Quarry
+jog - discards Duchy
+jog - places Silver on top of deck
+jog - plays Laboratory
+jog - draws Silver, Copper
+jog - plays 2 Silver, 1 Copper
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Copper, Copper, Laboratory, Baker, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Duchy, Cellar
+Stef - plays Farming Village
+Stef - reveals Laboratory
+Stef - places Laboratory in hand
+Stef - plays Laboratory
+Stef - draws Silver, Estate
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - discards Duchy
+Stef - discards Estate
+Stef - discards Quarry
+Stef - draws Baker, Cellar, Baker, Silver, Silver
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Duchy
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Province
+Stef - plays Cellar
+Stef - discards Duchy
+Stef - discards Province
+Stef - draws Silver, Laboratory
+Stef - plays 4 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Hermit
+Stef - shuffles deck
+Stef - draws Duchy, Quarry, Baker, Laboratory
+ 
+---------- jog: turn 16 ----------
+jog - plays Laboratory
+jog - draws Silver, Silver
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Province
+jog - plays 3 Copper, 2 Silver
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Copper
+jog - shuffles deck
+jog - draws Silver, Lookout, Duchy, Baker
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Laboratory
+Stef - draws Province, Laboratory
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Silver
+Stef - plays Laboratory
+Stef - draws Farming Village, Estate
+Stef - plays Farming Village
+Stef - reveals Baker
+Stef - places Baker in hand
+Stef - plays Baker
+Stef - receives 1 coin token
+Stef - draws Duchy
+Stef - plays Hermit
+Stef - gains Estate
+Stef - plays 1 Silver
+Stef - plays Quarry
+Stef - uses 2 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Province, Cellar, Cellar, Duchy
+ 
+---------- jog: turn 17 ----------
+jog - plays Baker
+jog - receives 1 coin token
+jog - draws Silver
+jog - plays Lookout
+jog - trashes Copper
+jog - discards Province
+jog - places Copper on top of deck
+jog - plays 2 Silver, 1 Copper
+jog - uses 3 coin tokens
+jog - buys Province
+jog - gains Province
+jog - draws Copper, Duchy, Silver, Laboratory, Laboratory
+ 
+---------- Stef: turn 17 ----------
+Stef - uses 9 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - draws Laboratory, Silver, Silver, Silver
+Stef - shuffles deck
+Stef - draws Province
+ 
+------------ Game Over ------------
+Stef - cards: 3 Laboratory, 2 Cellar, 2 Baker, 1 Hermit, 1 Farming Village, 4 Silver, 1 Quarry, 4 Province, 4 Duchy, 2 Estate
+Stef - total victory points: 38
+Stef - turns: 17
+ 
+jog - cards: 3 Laboratory, 1 Baker, 1 Lookout, 4 Copper, 4 Silver, 4 Duchy, 4 Province
+jog - total victory points: 36
+jog - turns: 17
+ 
+1st place: Stef
+2nd place: jog
+ 

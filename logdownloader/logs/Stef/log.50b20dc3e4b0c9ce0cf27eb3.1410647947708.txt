@@ -1,0 +1,731 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Apothecary, Develop, Warehouse, Spice Merchant, Harvest, Mystic, Outpost, Harem, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+2.71828..... - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+2.71828..... - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+2.71828..... - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- 2.71828.....: turn 1 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Warehouse
+2.71828..... - gains Warehouse
+2.71828..... - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Estate, Develop, Potion, Copper, Copper
+ 
+---------- 2.71828.....: turn 2 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Potion
+2.71828..... - gains Potion
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Warehouse
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Warehouse, Estate, Copper, Copper, Copper
+ 
+---------- 2.71828.....: turn 3 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Spice Merchant
+2.71828..... - gains Spice Merchant
+2.71828..... - draws Estate, Copper, Warehouse, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Warehouse
+Stef - draws Estate, Copper, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Develop, Spice Merchant, Copper, Estate, Potion
+ 
+---------- 2.71828.....: turn 4 ----------
+2.71828..... - plays Warehouse
+2.71828..... - draws Estate, Potion
+2.71828..... - shuffles deck
+2.71828..... - draws Spice Merchant
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - discards Spice Merchant
+2.71828..... - plays 3 Copper, 1 Potion
+2.71828..... - buys Apothecary
+2.71828..... - gains Apothecary
+2.71828..... - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Copper
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Warehouse
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Warehouse, Estate, Copper, Warehouse, Apothecary
+ 
+---------- 2.71828.....: turn 5 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Develop
+2.71828..... - gains Develop
+2.71828..... - shuffles deck
+2.71828..... - draws Estate, Copper, Copper, Potion, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Develop, Copper
+Stef - places Develop on top of deck
+Stef - plays Warehouse
+Stef - draws Develop, Spice Merchant, Potion
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Warehouse
+Stef - plays Develop
+Stef - trashes Spice Merchant
+Stef - gains Outpost
+Stef - gains Warehouse
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Warehouse, Outpost, Copper, Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- 2.71828.....: turn 6 ----------
+2.71828..... - plays 3 Copper, 1 Potion
+2.71828..... - buys Apothecary
+2.71828..... - gains Apothecary
+2.71828..... - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Apothecary, Potion, Warehouse
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Outpost
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - duration Outpost
+Stef - draws Apothecary, Warehouse, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Develop, Estate, Warehouse
+Stef - places Estate on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Develop on top of deck
+Stef - plays Warehouse
+Stef - draws Develop, Warehouse, Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Potion, Copper, Warehouse, Apothecary
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Apothecary, Warehouse, Copper, Apothecary, Copper
+ 
+---------- 2.71828.....: turn 7 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Warehouse
+2.71828..... - gains Warehouse
+2.71828..... - draws Copper, Develop, Apothecary, Warehouse, Spice Merchant
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Warehouse, Apothecary, Outpost, Potion
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Outpost on top of deck
+Stef - plays Apothecary
+Stef - draws Outpost
+Stef - reveals: Apothecary, Warehouse, Apothecary, Copper
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Outpost
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - duration Outpost
+Stef - draws Apothecary, Apothecary, Warehouse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Develop
+Stef - reveals: Warehouse, Copper, Copper, Apothecary
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Warehouse, Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Apothecary
+Stef - places Warehouse on top of deck
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Warehouse
+Stef - draws Apothecary, Estate, Warehouse
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Potion, Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Copper, Warehouse
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Apothecary on top of deck
+Stef - places Warehouse on top of deck
+Stef - plays Warehouse
+Stef - draws Warehouse, Apothecary, Copper
+Stef - discards Apothecary
+Stef - discards Warehouse
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Apothecary, Copper, Warehouse
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 6 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Silver, Apothecary, Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Apothecary
+ 
+---------- 2.71828.....: turn 8 ----------
+2.71828..... - plays Apothecary
+2.71828..... - shuffles deck
+2.71828..... - draws Copper
+2.71828..... - reveals: Estate, Copper, Copper, Warehouse
+2.71828..... - places Warehouse on top of deck
+2.71828..... - places Estate on top of deck
+2.71828..... - plays Warehouse
+2.71828..... - draws Estate, Warehouse, Apothecary
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - plays Warehouse
+2.71828..... - draws Copper, Estate, Estate
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Estate
+2.71828..... - plays Apothecary
+2.71828..... - draws Copper
+2.71828..... - reveals: Copper, Potion
+2.71828..... - shuffles deck
+2.71828..... - reveals: Copper, Copper
+2.71828..... - plays Spice Merchant
+2.71828..... - trashes Copper
+2.71828..... - chooses two cards and one action
+2.71828..... - draws Copper, Copper
+2.71828..... - plays Develop
+2.71828..... - trashes Estate
+2.71828..... - gains Warehouse
+2.71828..... - plays 5 Copper, 1 Potion
+2.71828..... - buys Apothecary
+2.71828..... - gains Apothecary
+2.71828..... - draws Warehouse, Estate, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Apothecary, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Apothecary, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Warehouse
+Stef - draws Apothecary, Apothecary, Apothecary
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Apothecary
+Stef - plays Apothecary
+Stef - draws Develop
+Stef - reveals: Copper, Apothecary, Warehouse, Outpost
+Stef - places Apothecary on top of deck
+Stef - places Outpost on top of deck
+Stef - places Warehouse on top of deck
+Stef - plays Apothecary
+Stef - draws Warehouse
+Stef - reveals: Outpost, Apothecary, Copper, Copper
+Stef - places Outpost on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Warehouse
+Stef - draws Apothecary, Outpost, Potion
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Warehouse
+Stef - shuffles deck
+Stef - reveals: Copper, Apothecary, Apothecary
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Outpost
+Stef - plays 4 Copper, 1 Silver, 1 Potion
+Stef - buys Gold
+Stef - gains Gold
+Stef - duration Outpost
+Stef - draws Apothecary, Apothecary, Warehouse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Silver, Copper
+Stef - places Silver on top of deck
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Copper, Develop, Gold, Potion
+Stef - places Develop on top of deck
+Stef - places Gold on top of deck
+Stef - plays Warehouse
+Stef - draws Gold, Develop, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Apothecary, Warehouse, Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Develop
+Stef - trashes Gold
+Stef - gains Bank
+Stef - gains Mystic
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Mystic, Bank, Apothecary, Apothecary, Warehouse
+ 
+---------- 2.71828.....: turn 9 ----------
+2.71828..... - plays Apothecary
+2.71828..... - draws Potion
+2.71828..... - reveals: Copper, Develop, Copper, Copper
+2.71828..... - places Develop on top of deck
+2.71828..... - plays Warehouse
+2.71828..... - draws Develop, Apothecary, Warehouse
+2.71828..... - discards Estate
+2.71828..... - discards Warehouse
+2.71828..... - discards Apothecary
+2.71828..... - plays Develop
+2.71828..... - trashes Potion
+2.71828..... - gains Mystic
+2.71828..... - gains Warehouse
+2.71828..... - plays 5 Copper
+2.71828..... - buys Outpost
+2.71828..... - gains Outpost
+2.71828..... - draws Warehouse, Mystic, Apothecary, Estate, Warehouse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Warehouse
+Stef - shuffles deck
+Stef - reveals: Outpost, Silver
+Stef - places Silver on top of deck
+Stef - places Outpost on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mystic
+Stef - names Apothecary
+Stef - reveals Apothecary
+Stef - places Apothecary in hand
+Stef - plays Warehouse
+Stef - draws Warehouse, Outpost, Silver
+Stef - discards Apothecary
+Stef - discards Bank
+Stef - discards Silver
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Apothecary, Copper, Copper, Warehouse
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mystic
+Stef - names Apothecary
+Stef - reveals Apothecary
+Stef - places Apothecary in hand
+Stef - plays Apothecary
+Stef - draws Warehouse
+Stef - reveals: Copper, Copper, Apothecary, Potion
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Apothecary, Copper, Develop
+Stef - places Develop on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Warehouse
+Stef - draws Apothecary, Develop
+Stef - shuffles deck
+Stef - draws Apothecary
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - discards Potion
+Stef - plays Apothecary
+Stef - draws Bank
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Apothecary, Apothecary, Potion
+Stef - places Silver on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Outpost
+Stef - plays 6 Copper, 1 Potion
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - duration Outpost
+Stef - draws Apothecary, Apothecary, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Apothecary, Bank
+Stef - places Bank on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Bank, Apothecary, Potion, Mystic
+Stef - places Bank on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Mystic on top of deck
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Apothecary, Bank, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Bank on top of deck
+Stef - plays Mystic
+Stef - names Bank
+Stef - reveals Bank
+Stef - places Bank in hand
+Stef - plays 4 Copper, 1 Silver, 1 Potion
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Apothecary, Warehouse, Copper, Apothecary
+ 
+---------- 2.71828.....: turn 10 ----------
+2.71828..... - plays Apothecary
+2.71828..... - draws Spice Merchant
+2.71828..... - reveals: Copper
+2.71828..... - shuffles deck
+2.71828..... - reveals: Apothecary, Copper, Copper
+2.71828..... - places Apothecary on top of deck
+2.71828..... - plays Mystic
+2.71828..... - names Apothecary
+2.71828..... - reveals Apothecary
+2.71828..... - places Apothecary in hand
+2.71828..... - plays Apothecary
+2.71828..... - draws Estate
+2.71828..... - reveals: Outpost, Apothecary, Copper, Warehouse
+2.71828..... - places Warehouse on top of deck
+2.71828..... - places Apothecary on top of deck
+2.71828..... - places Outpost on top of deck
+2.71828..... - plays Warehouse
+2.71828..... - draws Outpost, Apothecary, Warehouse
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - plays Warehouse
+2.71828..... - draws Warehouse, Copper, Copper
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - plays Apothecary
+2.71828..... - draws Develop
+2.71828..... - shuffles deck
+2.71828..... - reveals: Copper, Copper, Copper, Copper
+2.71828..... - plays Warehouse
+2.71828..... - draws Copper, Copper
+2.71828..... - discards Warehouse
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - plays Develop
+2.71828..... - trashes Spice Merchant
+2.71828..... - gains Mystic
+2.71828..... - gains Warehouse
+2.71828..... - plays 6 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Warehouse, Mystic
+2.71828..... - shuffles deck
+2.71828..... - draws Apothecary, Copper, Warehouse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Warehouse, Warehouse, Develop, Mystic
+Stef - places Warehouse on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Develop on top of deck
+Stef - places Mystic on top of deck
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Develop, Warehouse, Warehouse, Province
+Stef - places Province on top of deck
+Stef - places Develop on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Warehouse on top of deck
+Stef - plays Mystic
+Stef - names Warehouse
+Stef - reveals Warehouse
+Stef - places Warehouse in hand
+Stef - plays Warehouse
+Stef - draws Warehouse, Develop, Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Province
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - shuffles deck
+Stef - reveals: Province, Copper, Outpost, Potion
+Stef - places Province on top of deck
+Stef - places Outpost on top of deck
+Stef - plays Warehouse
+Stef - draws Outpost, Province, Apothecary
+Stef - discards Copper
+Stef - discards Potion
+Stef - discards Province
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Bank, Copper, Province
+Stef - places Province on top of deck
+Stef - places Bank on top of deck
+Stef - plays Warehouse
+Stef - draws Bank, Province, Copper
+Stef - discards Province
+Stef - discards Develop
+Stef - discards Apothecary
+Stef - plays Outpost
+Stef - plays 4 Copper
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - duration Outpost
+Stef - draws Apothecary, Apothecary, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Copper, Warehouse, Apothecary
+Stef - places Silver on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mystic
+Stef - names Apothecary
+Stef - reveals Apothecary
+Stef - places Apothecary in hand
+Stef - plays Apothecary
+Stef - draws Warehouse
+Stef - reveals: Silver, Copper, Copper, Potion
+Stef - places Silver on top of deck
+Stef - plays Apothecary
+Stef - draws Silver
+Stef - reveals: Warehouse, Apothecary, Copper, Province
+Stef - places Warehouse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Province on top of deck
+Stef - plays Warehouse
+Stef - draws Province, Apothecary, Warehouse
+Stef - discards Province
+Stef - discards Potion
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Warehouse
+Stef - reveals: Copper, Develop, Mystic, Province
+Stef - places Province on top of deck
+Stef - places Mystic on top of deck
+Stef - places Develop on top of deck
+Stef - plays Warehouse
+Stef - draws Develop, Mystic, Province
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Province, Apothecary, Apothecary
+Stef - discards Province
+Stef - discards Apothecary
+Stef - discards Apothecary
+Stef - plays Mystic
+Stef - names Bank
+Stef - reveals Apothecary
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Bank
+Stef - shuffles deck
+Stef - draws Develop, Province, Copper
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - plays Apothecary
+2.71828..... - draws Warehouse
+2.71828..... - reveals: Copper, Apothecary, Province, Warehouse
+2.71828..... - places Warehouse on top of deck
+2.71828..... - places Province on top of deck
+2.71828..... - places Apothecary on top of deck
+2.71828..... - plays Mystic
+2.71828..... - names Apothecary
+2.71828..... - reveals Apothecary
+2.71828..... - places Apothecary in hand
+2.71828..... - plays Warehouse
+2.71828..... - draws Province, Warehouse, Estate
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Estate
+2.71828..... - plays Apothecary
+2.71828..... - draws Apothecary
+2.71828..... - reveals: Warehouse, Develop, Mystic, Copper
+2.71828..... - places Mystic on top of deck
+2.71828..... - places Develop on top of deck
+2.71828..... - places Warehouse on top of deck
+2.71828..... - plays Warehouse
+2.71828..... - draws Warehouse, Develop, Mystic
+2.71828..... - discards Copper
+2.71828..... - discards Develop
+2.71828..... - discards Province
+2.71828..... - plays Apothecary
+2.71828..... - draws Copper
+2.71828..... - reveals: Outpost, Estate, Copper, Copper
+2.71828..... - places Estate on top of deck
+2.71828..... - places Outpost on top of deck
+2.71828..... - plays Mystic
+2.71828..... - names Outpost
+2.71828..... - reveals Outpost
+2.71828..... - places Outpost in hand
+2.71828..... - plays Warehouse
+2.71828..... - draws Estate
+2.71828..... - shuffles deck
+2.71828..... - draws Develop, Copper
+2.71828..... - discards Estate
+2.71828..... - discards Develop
+2.71828..... - discards Warehouse
+2.71828..... - plays Warehouse
+2.71828..... - draws Copper, Copper, Estate
+2.71828..... - discards Estate
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - plays Outpost
+2.71828..... - plays 4 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - duration Outpost
+2.71828..... - draws Province
+2.71828..... - shuffles deck
+2.71828..... - draws Mystic, Copper
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - plays Mystic
+2.71828..... - names Apothecary
+2.71828..... - reveals Estate
+2.71828..... - plays 1 Copper
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Estate, Apothecary, Warehouse, Copper, Apothecary
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Copper, Apothecary, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mystic
+Stef - names Apothecary
+Stef - reveals Apothecary
+Stef - places Apothecary in hand
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Potion, Copper, Copper, Mystic
+Stef - places Mystic on top of deck
+Stef - plays Apothecary
+Stef - draws Mystic
+Stef - reveals: Apothecary, Silver, Apothecary, Warehouse
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Silver on top of deck
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Develop
+Stef - trashes Bank
+Stef - gains Province
+Stef - gains Harem
+Stef - plays 5 Copper, 1 Potion, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Harem, Province, Warehouse, Apothecary, Apothecary
+ 
+------------ Game Over ------------
+Stef - cards: 7 Apothecary, 3 Warehouse, 2 Mystic, 1 Develop, 1 Outpost, 6 Copper, 1 Harem, 1 Potion, 1 Silver, 6 Province
+Stef - total victory points: 38
+Stef - turns: 12
+ 
+2.71828..... - cards: 5 Warehouse, 3 Apothecary, 2 Mystic, 1 Vagrant, 1 Outpost, 1 Develop, 6 Copper, 2 Estate, 2 Province
+2.71828..... - total victory points: 14
+2.71828..... - turns: 11
+ 
+1st place: Stef
+2nd place: 2.71828.....
+ 

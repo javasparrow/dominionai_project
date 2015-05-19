@@ -1,0 +1,669 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Duchess, Scheme, Bureaucrat, Sea Hag, Young Witch, Count, Embassy, Mountebank, Mystic, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Scheme
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+Rabid - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Scheme
+Rabid - gains Scheme
+Rabid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Chapel
+Rabid - gains Chapel
+Rabid - shuffles deck
+Rabid - draws Chapel, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Scheme, Copper, Chapel, Copper, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Chapel
+Rabid - trashes Estate, Copper, Estate, Copper
+Rabid - draws Copper, Copper, Copper, Scheme, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Copper, Estate, Copper, Copper
+Stef - Scheme choice: Chapel
+Stef - draws Chapel, Copper
+Stef - shuffles deck
+Stef - draws Scheme, Estate, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays 4 Copper
+Rabid - buys Scheme
+Rabid - gains Scheme
+Rabid - Scheme choice: Scheme
+Rabid - draws Scheme, Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Estate, Copper
+Stef - plays 2 Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - Scheme choice: Chapel
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Chapel, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Scheme
+Rabid - draws Scheme
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays 4 Copper
+Rabid - buys Peddler
+Rabid - gains Peddler
+Rabid - Scheme choice: Scheme
+Rabid - Scheme choice: Scheme
+Rabid - draws Scheme, Scheme, Chapel, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme
+Stef - shuffles deck
+Stef - draws Peddler, Copper, Chapel
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays Scheme
+Rabid - draws Peddler
+Rabid - plays Peddler
+Rabid - draws Estate
+Rabid - plays Chapel
+Rabid - trashes Estate, Copper
+Rabid - plays 2 Copper
+Rabid - buys Peddler
+Rabid - gains Peddler
+Rabid - Scheme choice: Peddler
+Rabid - Scheme choice: Scheme
+Rabid - draws Scheme, Peddler, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Peddler
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - plays 3 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler
+Stef - shuffles deck
+Stef - draws Copper, Chapel, Scheme
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Scheme
+Rabid - draws Chapel
+Rabid - plays Peddler
+Rabid - draws Peddler
+Rabid - plays Peddler
+Rabid - draws Copper
+Rabid - plays Chapel
+Rabid - trashes Copper
+Rabid - plays 3 Copper
+Rabid - buys Mystic
+Rabid - gains Mystic
+Rabid - Scheme choice: Peddler
+Rabid - draws Peddler, Scheme
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Scheme
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Peddler
+Stef - draws Scheme
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Sea Hag
+Stef - plays Chapel
+Stef - trashes Copper, Copper
+Stef - plays 1 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler
+Stef - shuffles deck
+Stef - draws Mystic, Scheme, Mystic
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Peddler
+Rabid - draws Chapel
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays Scheme
+Rabid - draws Mystic
+Rabid - plays Mystic
+Rabid - names Peddler
+Rabid - reveals Peddler
+Rabid - places Peddler in hand
+Rabid - plays Peddler
+Rabid - plays Chapel
+Rabid - trashes Copper, Copper
+Rabid - plays 1 Copper
+Rabid - buys Mountebank
+Rabid - gains Mountebank
+Rabid - Scheme choice: Peddler
+Rabid - Scheme choice: Peddler
+Rabid - draws Peddler, Peddler
+Rabid - shuffles deck
+Rabid - draws Scheme, Chapel, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Peddler
+Stef - draws Chapel
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Mystic
+Stef - names Bureaucrat
+Stef - plays Mystic
+Stef - names Bureaucrat
+Stef - plays Scheme
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler
+Stef - shuffles deck
+Stef - draws Scheme, Scheme, Chapel
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Peddler
+Rabid - draws Mystic
+Rabid - plays Peddler
+Rabid - draws Mountebank
+Rabid - plays Scheme
+Rabid - draws Scheme
+Rabid - plays Scheme
+Rabid - plays Mystic
+Rabid - names Sea Hag
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - buys Mystic
+Rabid - gains Mystic
+Rabid - Scheme choice: Peddler
+Rabid - Scheme choice: Peddler
+Rabid - draws Peddler, Peddler
+Rabid - shuffles deck
+Rabid - draws Mountebank, Mystic, Scheme
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Peddler
+Stef - draws Mystic
+Stef - plays Peddler
+Stef - draws Mountebank
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Bureaucrat
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - plays Mystic
+Stef - names Bureaucrat
+Stef - reveals Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler, Curse
+Stef - shuffles deck
+Stef - draws Mountebank, Scheme
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Peddler
+Rabid - draws Mystic
+Rabid - plays Peddler
+Rabid - draws Scheme
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays Scheme
+Rabid - draws Chapel
+Rabid - plays Mystic
+Rabid - names Copper
+Rabid - shuffles deck
+Rabid - reveals Curse
+Rabid - plays Mystic
+Rabid - names Copper
+Rabid - reveals Curse
+Rabid - plays Mountebank
+Stef - discards Curse
+Rabid - buys Province
+Rabid - gains Province
+Rabid - Scheme choice: Peddler
+Rabid - Scheme choice: Peddler
+Rabid - draws Peddler, Peddler, Curse, Copper
+Rabid - shuffles deck
+Rabid - draws Chapel
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Peddler
+Stef - draws Province
+Stef - plays Peddler
+Stef - draws Chapel
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Mountebank
+Rabid - discards Curse
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Scheme, Copper, Mystic
+Stef - shuffles deck
+Stef - draws Mountebank
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Peddler
+Rabid - draws Scheme
+Rabid - plays Peddler
+Rabid - draws Mountebank
+Rabid - plays Scheme
+Rabid - draws Province
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - plays 1 Copper
+Rabid - buys Mystic
+Rabid - gains Mystic
+Rabid - Scheme choice: Mountebank
+Rabid - draws Mountebank, Copper, Scheme, Mystic, Mystic
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Peddler
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Mystic
+Stef - names Chapel
+Stef - reveals Mystic
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler, Mystic, Mystic, Chapel
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Scheme
+Rabid - shuffles deck
+Rabid - draws Scheme
+Rabid - plays Scheme
+Rabid - draws Curse
+Rabid - plays Mystic
+Rabid - names Peddler
+Rabid - reveals Chapel
+Rabid - plays Mystic
+Rabid - names Chapel
+Rabid - reveals Chapel
+Rabid - places Chapel in hand
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - buys Mystic
+Rabid - gains Mystic
+Rabid - Scheme choice: Mountebank
+Rabid - Scheme choice: Mystic
+Rabid - draws Mystic, Mountebank, Copper, Curse, Peddler
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Curse
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Chapel
+Stef - trashes Copper, Curse, Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Mystic, Curse, Province, Mountebank
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Peddler
+Rabid - draws Peddler
+Rabid - plays Peddler
+Rabid - draws Mystic
+Rabid - plays Mystic
+Rabid - names Copper
+Rabid - reveals Province
+Rabid - plays Mystic
+Rabid - names Province
+Rabid - reveals Province
+Rabid - places Province in hand
+Rabid - plays Mountebank
+Stef - discards Curse
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Mystic, Peddler, Copper, Peddler
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Scheme, Copper
+Stef - shuffles deck
+Stef - draws Peddler, Mystic, Mystic
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Peddler
+Rabid - draws Mountebank
+Rabid - plays Peddler
+Rabid - draws Copper
+Rabid - plays Mystic
+Rabid - names Copper
+Rabid - reveals Province
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - plays 3 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Province, Curse, Scheme, Scheme, Mystic
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Peddler
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Chapel
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Province
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mystic
+Stef - names Mountebank
+Stef - reveals Curse
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Peddler
+Stef - Scheme choice: Peddler
+Stef - draws Peddler, Peddler, Curse, Mountebank, Mystic
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Scheme
+Rabid - draws Mystic
+Rabid - plays Scheme
+Rabid - draws Chapel
+Rabid - plays Mystic
+Rabid - names Curse
+Rabid - reveals Province
+Rabid - plays Mystic
+Rabid - names Province
+Rabid - reveals Province
+Rabid - places Province in hand
+Rabid - plays Chapel
+Rabid - trashes Curse
+Rabid - buys Peddler
+Rabid - gains Peddler
+Rabid - Scheme choice: Scheme
+Rabid - Scheme choice: Scheme
+Rabid - draws Scheme, Scheme, Curse, Mystic
+Rabid - shuffles deck
+Rabid - draws Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Peddler
+Stef - draws Curse
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Mystic
+Stef - names Curse
+Stef - reveals Mystic
+Stef - plays Peddler
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Chapel
+Stef - plays Mountebank
+Rabid - discards Curse
+Stef - buys Province
+Stef - gains Province
+Stef - draws Chapel, Province, Copper, Mystic, Mystic
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Scheme
+Rabid - draws Chapel
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays Mystic
+Rabid - names Mystic
+Rabid - reveals Province
+Rabid - plays Chapel
+Rabid - trashes Copper
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - Scheme choice: Scheme
+Rabid - Scheme choice: Scheme
+Rabid - draws Scheme, Scheme, Province, Province, Mystic
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Curse
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Curse
+Stef - shuffles deck
+Stef - draws Scheme, Curse
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Scheme
+Rabid - draws Mystic
+Rabid - plays Scheme
+Rabid - draws Copper
+Rabid - plays Mystic
+Rabid - names Peddler
+Rabid - reveals Copper
+Rabid - plays Mystic
+Rabid - names Copper
+Rabid - reveals Copper
+Rabid - places Copper in hand
+Rabid - plays 2 Copper
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - gains Duchess
+Rabid - Scheme choice: Mystic
+Rabid - Scheme choice: Mystic
+Rabid - draws Mystic, Mystic, Mystic, Peddler, Mountebank
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Scheme
+Stef - draws Curse
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Peddler
+Stef - plays Mystic
+Stef - names Peddler
+Stef - reveals Peddler
+Stef - places Peddler in hand
+Stef - plays Peddler
+Stef - draws Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Scheme, Province, Province, Mystic
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Peddler
+Rabid - draws Peddler
+Rabid - plays Peddler
+Rabid - draws Curse
+Rabid - plays Mystic
+Rabid - names Chapel
+Rabid - reveals Peddler
+Rabid - plays Mystic
+Rabid - names Peddler
+Rabid - reveals Peddler
+Rabid - places Peddler in hand
+Rabid - plays Mystic
+Rabid - names Chapel
+Rabid - reveals Copper
+Rabid - plays Peddler
+Rabid - draws Copper
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - shuffles deck
+Rabid - draws Province, Duchy, Mountebank, Peddler, Mystic
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Scheme
+Stef - draws Mountebank
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Peddler
+Stef - plays Mystic
+Stef - names Peddler
+Stef - reveals Peddler
+Stef - places Peddler in hand
+Stef - plays Peddler
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Peddler
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Peddler, Mystic, Chapel, Province
+Stef - shuffles deck
+Stef - draws Curse
+ 
+------------ Game Over ------------
+Stef - cards: 5 Mystic, 3 Peddler, 2 Scheme, 1 Chapel, 1 Mountebank, 1 Copper, 4 Province, 2 Duchy, 4 Curse
+Stef - total victory points: 26
+Stef - turns: 19
+ 
+Rabid - cards: 4 Mystic, 3 Peddler, 2 Scheme, 1 Chapel, 1 Mountebank, 1 Duchess, 4 Copper, 4 Province, 1 Duchy, 1 Estate, 3 Curse
+Rabid - total victory points: 25
+Rabid - turns: 18
+ 
+1st place: Stef
+2nd place: Rabid
+ 

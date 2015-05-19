@@ -1,0 +1,646 @@
+------------ Game Setup ------------
+Supply cards: Squire, Apothecary, Swindler, Baron, Feast, Scout, Thief, Hunting Party, Rabble, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+faust - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+faust - shuffles deck
+Stef - shuffles deck
+faust - draws Estate, Copper, Copper, Copper, Copper
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- faust: turn 1 ----------
+faust - plays 4 Copper
+faust - buys Baron
+faust - gains Baron
+faust - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- faust: turn 2 ----------
+faust - plays 3 Copper
+faust - buys Swindler
+faust - gains Swindler
+faust - shuffles deck
+faust - draws Estate, Copper, Copper, Swindler, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- faust: turn 3 ----------
+faust - plays Swindler
+Stef - reveals Potion
+Stef - trashes Potion
+Stef - gains Scout
+faust - plays 3 Copper
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - draws Copper, Estate, Copper, Estate, Baron
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Swindler, Estate, Copper
+ 
+---------- faust: turn 4 ----------
+faust - plays Baron
+faust - discards Estate
+faust - plays 2 Copper
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - draws Copper, Copper
+faust - shuffles deck
+faust - draws Estate, Copper, Hunting Party
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Swindler
+faust - reveals Baron
+faust - trashes Baron
+faust - gains Thief
+Stef - plays 2 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Scout, Swindler, Copper, Copper
+ 
+---------- faust: turn 5 ----------
+faust - plays Hunting Party
+faust - draws Hunting Party
+faust - reveals hand: Copper, Copper, Estate, Copper, Hunting Party
+faust - reveals Copper, Estate, Copper, Copper, Swindler
+faust - places Swindler in hand
+faust - discards: Copper, Estate, Copper, Copper
+faust - plays Hunting Party
+faust - draws Estate
+faust - reveals hand: Copper, Copper, Estate, Copper, Swindler, Estate
+faust - shuffles deck
+faust - reveals Copper, Copper, Thief
+faust - places Thief in hand
+faust - discards: Copper, Copper
+faust - plays Swindler
+Stef - reveals Potion
+Stef - trashes Potion
+Stef - gains Thief
+faust - plays 3 Copper
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - draws Copper, Copper, Estate
+faust - shuffles deck
+faust - draws Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scout
+Stef - reveals: Estate, Copper, Swindler, Estate
+Stef - places cards in hand:  Estate, Estate
+Stef - places Copper on top of deck
+Stef - places Swindler on top of deck
+Stef - plays Swindler
+faust - reveals Copper
+faust - trashes Copper
+faust - gains Curse
+Stef - plays 3 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Swindler, Copper, Copper, Copper, Copper
+ 
+---------- faust: turn 6 ----------
+faust - plays 4 Copper
+faust - buys Squire
+faust - gains Squire
+faust - draws Thief, Copper, Swindler, Hunting Party, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Swindler
+faust - reveals Estate
+faust - trashes Estate
+faust - gains Estate
+Stef - plays 4 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Swindler
+ 
+---------- faust: turn 7 ----------
+faust - plays Hunting Party
+faust - draws Hunting Party
+faust - reveals hand: Thief, Copper, Swindler, Estate, Hunting Party
+faust - shuffles deck
+faust - reveals Hunting Party, Copper, Curse
+faust - places Curse in hand
+faust - discards: Hunting Party, Copper
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Thief, Copper, Swindler, Estate, Curse, Copper
+faust - reveals Estate, Copper, Copper, Squire
+faust - places Squire in hand
+faust - discards: Estate, Copper, Copper
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+faust - plays 2 Copper
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - draws Estate, Copper
+faust - shuffles deck
+faust - draws Copper, Thief, Hunting Party
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Swindler
+faust - reveals Copper
+faust - trashes Copper
+faust - gains Curse
+Stef - plays 3 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Swindler, Thief, Copper, Scout, Estate
+ 
+---------- faust: turn 8 ----------
+faust - plays Hunting Party
+faust - draws Estate
+faust - reveals hand: Estate, Copper, Copper, Thief, Estate
+faust - reveals Swindler
+faust - places Swindler in hand
+faust - plays Swindler
+Stef - reveals Hunting Party
+Stef - trashes Hunting Party
+Stef - gains Duchy
+faust - plays 2 Copper
+faust - buys Silver
+faust - gains Silver
+faust - draws Hunting Party, Copper, Squire, Copper, Hunting Party
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scout
+Stef - reveals: Estate, Copper, Copper, Hunting Party
+Stef - places cards in hand:  Estate
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - places Hunting Party on top of deck
+Stef - plays Swindler
+faust - reveals Hunting Party
+faust - trashes Hunting Party
+faust - gains Duchy
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Hunting Party, Copper, Copper
+Stef - shuffles deck
+Stef - draws Duchy, Estate
+ 
+---------- faust: turn 9 ----------
+faust - plays Hunting Party
+faust - draws Curse
+faust - reveals hand: Copper, Squire, Copper, Hunting Party, Curse
+faust - reveals Estate
+faust - places Estate in hand
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Copper, Squire, Copper, Curse, Estate, Copper
+faust - shuffles deck
+faust - reveals Copper, Curse, Hunting Party
+faust - places Hunting Party in hand
+faust - discards: Copper, Curse
+faust - plays Hunting Party
+faust - draws Estate
+faust - reveals hand: Copper, Squire, Copper, Curse, Estate, Copper, Estate
+faust - reveals Thief
+faust - places Thief in hand
+faust - plays Squire
+faust - gains Silver
+faust - plays 3 Copper
+faust - buys Swindler
+faust - gains Swindler
+faust - draws Estate, Swindler, Duchy, Copper, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Copper, Duchy, Estate, Copper
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Thief, Swindler, Swindler, Copper
+ 
+---------- faust: turn 10 ----------
+faust - plays Swindler
+Stef - reveals Hunting Party
+Stef - trashes Hunting Party
+Stef - gains Duchy
+faust - plays 1 Copper, 1 Silver
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - shuffles deck
+faust - draws Swindler, Hunting Party, Copper, Hunting Party, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Swindler
+faust - reveals Hunting Party
+faust - trashes Hunting Party
+faust - gains Rabble
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Scout, Copper, Estate, Copper
+ 
+---------- faust: turn 11 ----------
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Swindler, Hunting Party, Copper, Estate, Copper
+faust - reveals Copper, Copper, Thief
+faust - places Thief in hand
+faust - discards: Copper, Copper
+faust - plays Hunting Party
+faust - draws Silver
+faust - reveals hand: Swindler, Copper, Estate, Copper, Thief, Silver
+faust - reveals Duchy
+faust - places Duchy in hand
+faust - plays Swindler
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+faust - plays 2 Copper, 1 Silver
+faust - buys Hunting Party
+faust - gains Hunting Party
+faust - draws Copper, Curse, Estate, Swindler, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Scout
+Stef - reveals: Estate, Hunting Party, Estate, Copper
+Stef - places cards in hand:  Estate, Estate
+Stef - places Hunting Party on top of deck
+Stef - places Copper on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Hunting Party, Duchy, Swindler, Silver
+ 
+---------- faust: turn 12 ----------
+faust - plays Swindler
+Stef - reveals Thief
+Stef - trashes Thief
+Stef - gains Thief
+faust - buys Squire
+faust - gains Squire
+faust - draws Silver, Curse, Hunting Party, Squire
+faust - shuffles deck
+faust - draws Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hunting Party
+Stef - draws Duchy
+Stef - reveals hand: Copper, Duchy, Swindler, Silver, Duchy
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Swindler
+faust - reveals Duchy
+faust - trashes Duchy
+faust - gains Duchy
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Silver, Swindler, Copper, Copper
+Stef - shuffles deck
+Stef - draws Hunting Party
+ 
+---------- faust: turn 13 ----------
+faust - plays Hunting Party
+faust - draws Hunting Party
+faust - reveals hand: Silver, Curse, Squire, Silver, Hunting Party
+faust - reveals Swindler
+faust - places Swindler in hand
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Silver, Curse, Squire, Silver, Swindler, Copper
+faust - reveals Squire, Hunting Party
+faust - places Hunting Party in hand
+faust - discards Squire
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Swindler
+faust - plays Hunting Party
+faust - draws Curse
+faust - reveals hand: Silver, Curse, Silver, Copper, Curse
+faust - reveals Copper, Copper, Estate
+faust - places Estate in hand
+faust - discards: Copper, Copper
+faust - plays 2 Silver, 1 Copper
+faust - buys Province
+faust - gains Province
+faust - draws Thief, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - draws Swindler
+Stef - reveals hand: Silver, Swindler, Copper, Copper, Swindler
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Swindler
+faust - reveals Hunting Party
+faust - trashes Hunting Party
+faust - gains Rabble
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Estate, Copper, Scout, Estate
+ 
+---------- faust: turn 14 ----------
+faust - plays Thief
+Stef - reveals: Duchy, Silver
+Stef - trashes Silver
+Stef - discards Duchy
+faust - gains Silver
+faust - plays 2 Copper
+faust - buys Squire
+faust - gains Squire
+faust - draws Swindler, Rabble
+faust - shuffles deck
+faust - draws Province, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Scout
+Stef - reveals: Estate, Thief, Copper, Silver
+Stef - places cards in hand:  Estate
+Stef - places Thief on top of deck
+Stef - places Copper on top of deck
+Stef - places Silver on top of deck
+Stef - plays 2 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Silver, Copper, Thief, Curse, Curse
+ 
+---------- faust: turn 15 ----------
+faust - plays Swindler
+Stef - reveals Hunting Party
+Stef - trashes Hunting Party
+Stef - gains Rabble
+faust - plays 1 Silver, 1 Copper
+faust - buys Silver
+faust - gains Silver
+faust - draws Rabble, Copper, Hunting Party, Silver, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper, Gold, Duchy
+ 
+---------- faust: turn 16 ----------
+faust - plays Hunting Party
+faust - draws Squire
+faust - reveals hand: Rabble, Copper, Silver, Estate, Squire
+faust - reveals Copper, Hunting Party
+faust - places Hunting Party in hand
+faust - discards Copper
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Rabble, Copper, Silver, Estate, Squire, Copper
+faust - reveals Swindler
+faust - places Swindler in hand
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Rabble
+faust - draws Estate, Curse, Estate
+Stef - reveals Swindler, Rabble, Copper
+Stef - discards: Swindler, Rabble, Copper
+faust - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Swindler
+faust - plays 2 Copper, 1 Silver
+faust - buys Gold
+faust - gains Gold
+faust - draws Squire, Silver, Hunting Party, Squire, Thief
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 1 Silver, 1 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Swindler, Squire, Copper, Scout, Hunting Party
+ 
+---------- faust: turn 17 ----------
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Squire, Silver, Squire, Thief, Copper
+faust - reveals Curse
+faust - places Curse in hand
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Squire
+faust - gains Silver
+faust - plays Thief
+Stef - reveals: Estate, Duchy
+Stef - discards: Estate, Duchy
+faust - plays 1 Silver, 1 Copper
+faust - buys Silver
+faust - gains Silver
+faust - draws Duchy
+faust - shuffles deck
+faust - draws Hunting Party, Squire, Copper, Squire
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Scout
+Stef - reveals: Curse, Thief, Estate, Copper
+Stef - places cards in hand:  Estate
+Stef - places Thief on top of deck
+Stef - places Copper on top of deck
+Stef - places Curse on top of deck
+Stef - plays Hunting Party
+Stef - draws Curse
+Stef - reveals hand: Swindler, Squire, Copper, Estate, Curse
+Stef - reveals Copper, Thief
+Stef - places Thief in hand
+Stef - discards Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Swindler
+faust - reveals Squire
+faust - trashes Squire
+faust - gains Rabble
+faust - gains Estate
+Stef - plays Thief
+faust - reveals: Hunting Party, Silver
+faust - trashes Silver
+faust - discards Hunting Party
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Swindler, Curse, Silver
+Stef - shuffles deck
+Stef - draws Thief
+ 
+---------- faust: turn 18 ----------
+faust - plays Hunting Party
+faust - draws Gold
+faust - reveals hand: Duchy, Squire, Copper, Squire, Gold
+faust - reveals Copper, Thief
+faust - places Thief in hand
+faust - discards Copper
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Squire
+faust - gains Silver
+faust - plays Thief
+Stef - reveals: Silver, Swindler
+Stef - trashes Silver
+Stef - discards Swindler
+faust - gains Silver
+faust - plays 1 Copper, 1 Gold
+faust - buys Gold
+faust - gains Gold
+faust - draws Copper, Hunting Party, Estate, Province, Rabble
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Swindler
+faust - reveals Curse
+faust - trashes Curse
+faust - gains Curse
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Hunting Party, Gold, Gold, Estate
+ 
+---------- faust: turn 19 ----------
+faust - plays Hunting Party
+faust - draws Copper
+faust - reveals hand: Copper, Estate, Province, Rabble, Copper
+faust - reveals Estate, Swindler
+faust - places Swindler in hand
+faust - discards Estate
+faust - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+faust - buys Squire
+faust - gains Squire
+faust - draws Silver, Estate, Silver, Copper, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Hunting Party
+Stef - draws Rabble
+Stef - reveals hand: Duchy, Gold, Gold, Estate, Rabble
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Rabble
+Stef - draws Copper, Copper, Scout
+faust - reveals Swindler, Rabble, Silver
+faust - discards: Swindler, Rabble, Silver
+Stef - plays 2 Gold, 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Curse, Swindler, Copper, Estate
+ 
+---------- faust: turn 20 ----------
+faust - plays 3 Silver, 1 Copper
+faust - buys Duchy
+faust - gains Duchy
+faust - draws Silver, Curse
+faust - shuffles deck
+faust - draws Squire, Swindler, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Swindler
+faust - reveals Estate
+faust - trashes Estate
+faust - gains Squire
+Stef - plays 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Swindler, Silver, Duchy, Squire
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- faust: turn 21 ----------
+faust - plays Squire
+faust - takes 2 actions
+faust - plays Swindler
+Stef - reveals Hunting Party
+Stef - trashes Hunting Party
+Stef - gains Rabble
+faust - plays 1 Silver
+faust - buys Duchy
+faust - gains Duchy
+faust - draws Squire, Gold, Copper, Duchy, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Swindler
+faust - reveals Gold
+faust - trashes Gold
+faust - gains Adventurer
+Stef - plays 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Estate, Swindler, Estate, Swindler, Gold
+ 
+---------- faust: turn 22 ----------
+faust - plays Squire
+faust - takes 2 buys
+faust - plays 1 Gold, 1 Copper, 1 Silver
+faust - buys Estate
+faust - gains Estate
+faust - buys Estate
+faust - gains Estate
+faust - buys Estate
+faust - gains Estate
+faust - draws Rabble, Rabble, Thief, Silver, Silver
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Swindler
+faust - reveals Squire
+faust - trashes Squire
+faust - gains Rabble
+faust - gains Squire
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Curse, Province, Scout, Copper, Gold
+ 
+---------- faust: turn 23 ----------
+faust - plays Rabble
+faust - draws Rabble, Copper, Silver
+Stef - reveals Thief, Estate, Silver
+Stef - discards: Thief, Silver
+Stef - places Estate on top of deck
+faust - plays 3 Silver, 1 Copper
+faust - buys Gold
+faust - gains Gold
+faust - draws Province, Copper, Duchy, Hunting Party, Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Estate, Silver, Curse, Duchy, Swindler
+ 
+------------ Game Over ------------
+Stef - cards: 4 Swindler, 2 Rabble, 1 Squire, 1 Thief, 1 Scout, 4 Copper, 3 Silver, 2 Gold, 6 Estate, 4 Duchy, 1 Province, 3 Curse
+Stef - total victory points: 21
+Stef - turns: 23
+ 
+faust - cards: 4 Squire, 4 Rabble, 3 Hunting Party, 2 Swindler, 1 Adventurer, 1 Thief, 7 Silver, 5 Copper, 2 Gold, 6 Estate, 3 Duchy, 1 Province, 2 Curse
+faust - total victory points: 19
+faust - turns: 23
+ 
+1st place: Stef
+2nd place: faust
+ 

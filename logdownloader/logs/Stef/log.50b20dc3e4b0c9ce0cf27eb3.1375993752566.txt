@@ -1,0 +1,501 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Menagerie, Watchtower, Workshop, Advisor, Ironworks, Noble Brigand, Rebuild, Treasury, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sami1 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+sami1 - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+sami1 - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- sami1: turn 1 ----------
+sami1 - plays 3 Copper
+sami1 - buys Watchtower
+sami1 - gains Watchtower
+sami1 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- sami1: turn 2 ----------
+sami1 - plays 4 Copper
+sami1 - buys Ironworks
+sami1 - gains Ironworks
+sami1 - shuffles deck
+sami1 - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- sami1: turn 3 ----------
+sami1 - plays 4 Copper
+sami1 - buys Noble Brigand
+Stef - reveals: Silver, Ironworks
+Stef - trashes Silver
+Stef - discards Ironworks
+sami1 - gains Silver
+sami1 - gains Noble Brigand
+sami1 - draws Copper, Copper, Copper, Estate, Watchtower
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- sami1: turn 4 ----------
+sami1 - plays 3 Copper
+sami1 - buys Menagerie
+sami1 - gains Menagerie
+sami1 - applied Watchtower to place Menagerie on top of the deck
+sami1 - draws Menagerie, Estate, Ironworks
+sami1 - shuffles deck
+sami1 - draws Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Silver, Ironworks, Estate, Copper
+ 
+---------- sami1: turn 5 ----------
+sami1 - plays Menagerie
+sami1 - reveals hand: Estate, Ironworks, Copper, Estate
+sami1 - draws Watchtower
+sami1 - plays Ironworks
+sami1 - gains Advisor
+sami1 - applied Watchtower to place Advisor on top of the deck
+sami1 - draws Advisor, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- sami1: turn 6 ----------
+sami1 - plays Advisor
+sami1 - reveals: Copper, Estate, Copper
+Stef - discards Copper
+sami1 - places cards in hand:  Copper, Estate
+sami1 - plays 5 Copper
+sami1 - buys Treasury
+sami1 - gains Treasury
+sami1 - draws Noble Brigand, Silver
+sami1 - shuffles deck
+sami1 - draws Ironworks, Advisor, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Estate
+Stef - shuffles deck
+Stef - draws Treasury, Silver
+ 
+---------- sami1: turn 7 ----------
+sami1 - plays Ironworks
+sami1 - gains Advisor
+sami1 - plays Advisor
+sami1 - reveals: Copper, Copper, Copper
+Stef - discards Copper
+sami1 - places cards in hand:  Copper, Copper
+sami1 - plays Noble Brigand
+Stef - reveals: Copper, Ironworks
+Stef - discards: Copper, Ironworks
+sami1 - plays 3 Copper, 1 Silver
+sami1 - buys Hoard
+sami1 - gains Hoard
+sami1 - draws Copper, Menagerie, Estate, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Copper, Copper, Estate
+ 
+---------- sami1: turn 8 ----------
+sami1 - plays Menagerie
+sami1 - reveals hand: Copper, Estate, Copper, Estate
+sami1 - draws Estate
+sami1 - draws Copper, Treasury, Watchtower
+sami1 - shuffles deck
+sami1 - draws Noble Brigand, Advisor
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- sami1: turn 9 ----------
+sami1 - plays Advisor
+sami1 - reveals: Copper, Copper, Estate
+Stef - discards Copper
+sami1 - places cards in hand:  Copper, Estate
+sami1 - plays Treasury
+sami1 - draws Hoard
+sami1 - plays Noble Brigand
+Stef - reveals: Silver, Copper
+Stef - trashes Silver
+Stef - discards Copper
+sami1 - gains Silver
+sami1 - plays 2 Copper
+sami1 - plays Hoard
+sami1 - buys Duchy
+sami1 - gains Gold
+sami1 - applied Watchtower to place Gold on top of the deck
+sami1 - gains Duchy
+sami1 - draws Gold, Copper, Estate, Menagerie, Advisor
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Hoard
+Stef - gains Hoard
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Estate, Estate, Estate
+ 
+---------- sami1: turn 10 ----------
+sami1 - plays Menagerie
+sami1 - reveals hand: Gold, Copper, Estate, Advisor
+sami1 - draws Silver, Copper, Copper
+sami1 - plays Advisor
+sami1 - reveals: Copper, Estate, Ironworks
+Stef - discards Ironworks
+sami1 - places cards in hand:  Copper, Estate
+sami1 - plays 4 Copper, 1 Silver, 1 Gold
+sami1 - buys Province
+sami1 - gains Province
+sami1 - shuffles deck
+sami1 - draws Ironworks, Copper, Menagerie, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Silver, Rebuild, Ironworks, Copper
+ 
+---------- sami1: turn 11 ----------
+sami1 - plays Menagerie
+sami1 - reveals hand: Ironworks, Copper, Estate, Copper
+sami1 - draws Copper
+sami1 - plays Ironworks
+sami1 - gains Advisor
+sami1 - plays 3 Copper
+sami1 - buys Vagrant
+sami1 - gains Vagrant
+sami1 - draws Province, Silver, Estate, Estate, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Rebuild
+Stef - names Province
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Silver, Silver, Copper, Estate
+Stef - discards: Silver, Copper, Silver, Silver, Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Ironworks
+Stef - gains Menagerie
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Silver, Estate, Estate
+ 
+---------- sami1: turn 12 ----------
+sami1 - plays 2 Silver
+sami1 - buys Advisor
+sami1 - gains Advisor
+sami1 - draws Copper, Advisor, Advisor, Noble Brigand, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Hoard
+Stef - shuffles deck
+Stef - draws Rebuild, Silver
+ 
+---------- sami1: turn 13 ----------
+sami1 - plays Advisor
+sami1 - reveals: Copper, Hoard, Treasury
+Stef - discards Hoard
+sami1 - places cards in hand:  Copper, Treasury
+sami1 - plays Treasury
+sami1 - draws Copper
+sami1 - plays Advisor
+sami1 - reveals: Copper, Watchtower, Gold
+Stef - discards Gold
+sami1 - places cards in hand:  Copper, Watchtower
+sami1 - plays Noble Brigand
+Stef - reveals: Silver, Ironworks
+Stef - trashes Silver
+Stef - discards Ironworks
+sami1 - gains Silver
+sami1 - plays 4 Copper
+sami1 - buys Rebuild
+sami1 - gains Rebuild
+sami1 - applied Watchtower to place Rebuild on top of the deck
+sami1 - places Treasury on top of deck
+sami1 - draws Treasury, Rebuild
+sami1 - shuffles deck
+sami1 - draws Copper, Vagrant, Noble Brigand
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - reveals Duchy, Silver, Estate
+Stef - discards: Duchy, Silver
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Rebuild, Copper, Copper, Menagerie, Copper
+ 
+---------- sami1: turn 14 ----------
+sami1 - plays Vagrant
+sami1 - draws Gold
+sami1 - reveals: Estate
+sami1 - places Estate in hand
+sami1 - plays Treasury
+sami1 - draws Silver
+sami1 - plays Rebuild
+sami1 - names Province
+sami1 - reveals Watchtower, Advisor, Advisor, Copper, Advisor, Silver, Hoard, Estate
+sami1 - discards: Watchtower, Advisor, Advisor, Copper, Advisor, Silver, Hoard
+sami1 - trashes Estate
+sami1 - gains Duchy
+sami1 - plays Noble Brigand
+Stef - reveals: Silver, Silver
+Stef - trashes Silver
+Stef - discards Silver
+sami1 - gains Silver
+sami1 - plays 1 Copper, 1 Gold, 1 Silver
+sami1 - buys Province
+sami1 - gains Province
+sami1 - draws Province, Duchy, Copper, Advisor, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Rebuild, Copper, Copper, Copper
+Stef - draws Copper
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - reveals Copper, Estate
+Stef - discards Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 4 Copper
+Stef - buys Noble Brigand
+sami1 - reveals: Copper, Ironworks
+sami1 - discards: Copper, Ironworks
+Stef - gains Noble Brigand
+Stef - draws Rebuild
+Stef - shuffles deck
+Stef - draws Silver, Hoard, Duchy, Copper
+ 
+---------- sami1: turn 15 ----------
+sami1 - plays Advisor
+sami1 - reveals: Copper, Copper, Menagerie
+Stef - discards Menagerie
+sami1 - places cards in hand:  Copper, Copper
+sami1 - plays 3 Copper, 1 Silver
+sami1 - buys Duchy
+sami1 - gains Duchy
+sami1 - draws Estate, Copper
+sami1 - shuffles deck
+sami1 - draws Copper, Rebuild, Advisor
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - reveals Copper, Duchy
+Stef - discards Copper
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Copper, Rebuild, Copper, Copper, Duchy
+ 
+---------- sami1: turn 16 ----------
+sami1 - plays Advisor
+sami1 - reveals: Copper, Copper, Silver
+Stef - discards Silver
+sami1 - places cards in hand:  Copper, Copper
+sami1 - plays Rebuild
+sami1 - names Estate
+sami1 - reveals Watchtower, Province
+sami1 - discards Watchtower
+sami1 - trashes Province
+sami1 - gains Province
+sami1 - plays 4 Copper
+sami1 - buys Advisor
+sami1 - gains Advisor
+sami1 - draws Silver, Treasury, Hoard, Copper, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Treasury, Copper, Silver, Silver, Noble Brigand, Menagerie, Gold, Ironworks, Rebuild, Duchy
+Stef - discards: Copper, Treasury, Copper, Silver, Silver, Noble Brigand, Menagerie, Gold, Ironworks, Rebuild
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 3 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Province, Rebuild, Copper, Province, Treasury
+ 
+---------- sami1: turn 17 ----------
+sami1 - plays Treasury
+sami1 - draws Advisor
+sami1 - plays Advisor
+sami1 - reveals: Advisor, Noble Brigand, Duchy
+Stef - discards Advisor
+sami1 - places cards in hand:  Noble Brigand, Duchy
+sami1 - plays Noble Brigand
+Stef - reveals: Copper, Rebuild
+Stef - discards: Copper, Rebuild
+sami1 - plays 1 Silver, 1 Copper
+sami1 - plays Hoard
+sami1 - buys Estate
+sami1 - gains Gold
+sami1 - gains Estate
+sami1 - draws Gold, Ironworks, Copper, Advisor, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Treasury
+Stef - draws Duchy
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Ironworks, Silver, Copper, Copper, Copper, Rebuild, Copper, Noble Brigand, Hoard, Duchy
+Stef - discards: Ironworks, Silver, Copper, Copper, Copper, Rebuild, Copper, Noble Brigand, Hoard
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Menagerie, Duchy, Silver, Silver, Gold
+ 
+---------- sami1: turn 18 ----------
+sami1 - plays Advisor
+sami1 - reveals: Estate, Silver, Duchy
+Stef - discards Silver
+sami1 - places cards in hand:  Estate, Duchy
+sami1 - plays Ironworks
+sami1 - gains Estate
+sami1 - draws Menagerie
+sami1 - plays 1 Gold, 1 Copper, 1 Silver
+sami1 - buys Estate
+sami1 - gains Estate
+sami1 - draws Vagrant, Copper, Duchy
+sami1 - shuffles deck
+sami1 - draws Copper, Treasury
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Duchy, Silver, Silver, Gold
+Stef - draws Estate
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gold, Copper
+Stef - shuffles deck
+Stef - draws Menagerie, Province, Estate
+ 
+---------- sami1: turn 19 ----------
+sami1 - plays Vagrant
+sami1 - draws Advisor
+sami1 - reveals: Copper
+sami1 - places Copper on top of deck
+sami1 - plays Advisor
+sami1 - reveals: Copper, Province, Silver
+Stef - discards Silver
+sami1 - places cards in hand:  Copper, Province
+sami1 - plays Treasury
+sami1 - draws Gold
+sami1 - plays 3 Copper, 1 Gold
+sami1 - buys Estate
+sami1 - gains Estate
+sami1 - draws Estate, Estate, Estate, Menagerie, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Gold, Copper, Province, Estate
+Stef - draws Copper, Silver, Treasury
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays 2 Copper, 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Duchy, Gold, Rebuild
+ 
+---------- sami1: turn 20 ----------
+sami1 - plays Menagerie
+sami1 - reveals hand: Estate, Estate, Estate, Gold
+sami1 - draws Ironworks
+sami1 - plays Ironworks
+sami1 - gains Estate
+sami1 - draws Copper
+sami1 - plays 1 Gold, 1 Copper
+sami1 - buys Menagerie
+sami1 - gains Menagerie
+sami1 - draws Silver, Duchy, Watchtower, Estate, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - reveals Estate, Silver, Copper, Estate, Hoard, Duchy
+Stef - discards: Estate, Silver, Copper, Estate, Hoard
+Stef - trashes Duchy
+Stef - gains Province
+Stef - draws Rebuild, Noble Brigand, Province, Province, Ironworks
+ 
+------------ Game Over ------------
+Stef - cards: 3 Rebuild, 1 Noble Brigand, 1 Ironworks, 1 Menagerie, 1 Treasury, 7 Copper, 3 Silver, 2 Gold, 1 Hoard, 5 Province, 3 Estate, 1 Duchy
+Stef - total victory points: 36
+Stef - turns: 20
+ 
+sami1 - cards: 5 Advisor, 2 Menagerie, 1 Watchtower, 1 Vagrant, 1 Treasury, 1 Ironworks, 1 Rebuild, 1 Noble Brigand, 7 Copper, 4 Silver, 2 Gold, 1 Hoard, 7 Estate, 3 Duchy, 2 Province
+sami1 - total victory points: 28
+sami1 - turns: 20
+ 
+1st place: Stef
+2nd place: sami1
+ 

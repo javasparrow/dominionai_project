@@ -33,6 +33,8 @@ class GokoLogParser
   MODE_ACTION_LIBRARY_ACTIVE = 21
   MODE_ACTION_SPY_ACTIVE = 23
 
+  MODE_ARAI = 25
+
   PHASE_END = -1
   PHASE_ACTION = 0
   PHASE_BUY = 1
@@ -121,6 +123,16 @@ class GokoLogParser
     @reveal[1] = Array.new(0)
 
     @winner = nil
+
+    @gainHistoryString = Array.new(2)
+    @gainHistoryString[0] = ""
+    @gainHistoryString[1] = ""
+    @trashHistoryString = Array.new(2)
+    @trashHistoryString[0] = ""
+    @trashHistoryString[1] = ""
+
+    @finalScore = Array.new(2)
+    @firstPlayer = nil
 
     #add pass text to log
     log = addPass(rawlog)
@@ -230,6 +242,17 @@ class GokoLogParser
 
       if(line.index("pass") !=  nil)
         cleanup(nil)
+
+        #UpdateHistory
+          if(@trashHistoryString[@currentPlayer][-1] == ",")
+            @trashHistoryString[@currentPlayer] = @trashHistoryString[@currentPlayer][0...-1]
+          end
+          @trashHistoryString[@currentPlayer] << "/"
+          if(@gainHistoryString[@currentPlayer][-1] == ",")
+            @gainHistoryString[@currentPlayer] = @gainHistoryString[@currentPlayer][0...-1]
+          end
+          @gainHistoryString[@currentPlayer] << "/"
+
         if(haveActionInHand() && @currentAction >= 1)
           generatePlayActionData(nil)
         end
@@ -260,6 +283,11 @@ class GokoLogParser
         elsif
           puts "error!"
         end
+
+        if(@firstPlayer == nil)
+          @firstPlayer = @currentPlayer
+        end
+
         @currentTurn = @currentTurn + 1
         if(DEBUG_PRINT)
           puts("Turn#{@currentTurn / 2}")
@@ -271,6 +299,8 @@ class GokoLogParser
         @lastTrash = nil
         @currentPhase = PHASE_ACTION
         @lastBuy = Array.new(0)
+
+        @gainHistory
       end
 
       if(line.index("plays") != nil)
@@ -313,6 +343,16 @@ class GokoLogParser
           #cleanup
           cleanup(line)
 
+          #UpdateHistory
+          if(@trashHistoryString[@currentPlayer][-1] == ",")
+            @trashHistoryString[@currentPlayer] = @trashHistoryString[@currentPlayer][0...-1]
+          end
+          @trashHistoryString[@currentPlayer] << "/"
+          if(@gainHistoryString[@currentPlayer][-1] == ",")
+            @gainHistoryString[@currentPlayer] = @gainHistoryString[@currentPlayer][0...-1]
+          end
+          @gainHistoryString[@currentPlayer] << "/"
+
           if(shuffleflag == true)
             reshuffle(line)
             shuffleflag = false
@@ -336,8 +376,16 @@ class GokoLogParser
         parseDiscard(line)
       end
 
+      if(line.include?("total victory points"))
+        parseScore(line)
+      end
       checkMinis
     }
+
+    if(@featureMode == MODE_ARAI && @canVerify == true)
+      generateTacticsData
+    end
+
   end
 
   def checkMinis()
@@ -479,6 +527,33 @@ class GokoLogParser
     end
 
     resultlog
+  end
+
+  def generateTacticsData()
+    result = ""
+
+    for i in 0...MAX_CARDNUM
+      if(@supplyExist[i] > 0)
+        result << i.to_s + ","
+      end
+    end
+    result = result[0...-1]
+    result << "\n"
+    result << @gainHistoryString[0]
+    result << "\n"
+    result << @gainHistoryString[1]
+    result << "\n"
+    result << @trashHistoryString[0]
+    result << "\n"
+    result << @trashHistoryString[1]
+    result << "\n"
+    result << @finalScore[0]
+    result << "\n"
+    result << @finalScore[1]
+    result << "\n"
+    result << @firstPlayer.to_s
+
+    @output.write(result)
   end
 
   def generateGroundData(gain, coin, buy)
@@ -688,6 +763,17 @@ class GokoLogParser
     end
   end
 
+  def parseScore(data)
+    if(data[0..getLastIndex(data, "- ") - 2] == @playerName[0])
+      currentPlayer = 0
+    else currentPlayer = 1
+    end
+
+    score = data[getLastIndex(data, " ")..-1].to_i
+    @finalScore[currentPlayer] = score.to_s
+    puts "score" + currentPlayer.to_s + ":" + score.to_s
+  end
+
   def parseMoveCardInHand(data)
     if(data[0..getLastIndex(data, "-") - 2] == @playerName[0])
       currentPlayer = 0
@@ -892,10 +978,11 @@ class GokoLogParser
     else currentPlayer = 1
     end
 
-
     data[data.index("trashes") + 8..-2].split(", ").each{|card|
 
       currentCard = @cardData.getCard(card)
+
+      @trashHistoryString[currentPlayer] << (currentCard.num.to_s + ",")
 
       if(@featureMode == MODE_ACTION_REMODEL_ACTIVE)
         generateUseRemodelFeature(currentCard)
@@ -950,6 +1037,7 @@ class GokoLogParser
     end
     gainCard = @cardData.getCard(data[data.index("gains") + 6 .. -2])
 
+    @gainHistoryString[currentPlayer] << (gainCard.num.to_s + ",")
     @lastBuy << gainCard
 
     if(DEBUG_PRINT)
@@ -964,6 +1052,8 @@ class GokoLogParser
     else currentPlayer = 1
     end
     gainCard = @cardData.getCard(data[data.index("gains") + 6 .. -2])
+
+    @gainHistoryString[currentPlayer] << (gainCard.num.to_s + ",")
 
     if(@lastPlay.name == "Feast")
       generateGroundData(Array.new(1, gainCard), 5, 1)

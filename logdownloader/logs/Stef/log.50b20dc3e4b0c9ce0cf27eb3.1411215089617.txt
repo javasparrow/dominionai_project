@@ -1,0 +1,756 @@
+------------ Game Setup ------------
+Supply cards: Loan, Steward, Warehouse, Alchemist, Armory, Quarry, Golem, Cache, Mystic, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lekkit - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+Lekkit - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Armory
+Lekkit - gains Armory
+Lekkit - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - shuffles deck
+Stef - draws Warehouse, Armory, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Steward
+Lekkit - gains Steward
+Lekkit - shuffles deck
+Lekkit - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Steward
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Steward, Copper, Estate, Estate, Copper
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Potion
+Lekkit - gains Potion
+Lekkit - draws Copper, Estate, Armory, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Armory
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays Armory
+Lekkit - gains Quarry
+Lekkit - draws Quarry, Copper, Steward
+Lekkit - shuffles deck
+Lekkit - draws Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Armory
+Stef - gains Potion
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Potion, Silver, Copper, Steward, Warehouse
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays Steward
+Lekkit - trashes Estate, Copper
+Lekkit - plays 1 Copper
+Lekkit - plays Quarry
+Lekkit - buys Warehouse
+Lekkit - gains Warehouse
+Lekkit - draws Estate, Estate, Armory, Copper, Potion
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Copper, Copper
+Stef - discards Steward
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Golem
+Stef - gains Golem
+Stef - shuffles deck
+Stef - draws Silver, Estate, Golem, Copper, Warehouse
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays Armory
+Lekkit - gains Warehouse
+Lekkit - draws Warehouse, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Warehouse
+Stef - draws Steward, Copper, Copper
+Stef - discards Steward
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Golem
+Stef - reveals Copper, Warehouse, Armory
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Quarry
+Stef - plays Warehouse
+Stef - draws Quarry, Potion, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays 1 Silver, 1 Potion
+Stef - plays Quarry
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Alchemist, Potion, Copper
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Warehouse
+Lekkit - shuffles deck
+Lekkit - draws Warehouse, Potion, Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Estate, Armory
+Lekkit - discards Estate
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - plays Armory
+Lekkit - gains Quarry
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - buys Alchemist
+Lekkit - gains Alchemist
+Lekkit - draws Quarry, Copper, Steward, Estate
+Lekkit - shuffles deck
+Lekkit - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Quarry, Estate, Golem, Armory
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays Steward
+Lekkit - trashes Estate, Copper
+Lekkit - plays 1 Copper
+Lekkit - plays Quarry
+Lekkit - buys Warehouse
+Lekkit - gains Warehouse
+Lekkit - draws Estate, Copper, Copper, Armory, Quarry
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Alchemist
+Stef - draws Steward, Silver
+Stef - plays Golem
+Stef - reveals Copper, Copper, Warehouse, Warehouse
+Stef - discards: Copper, Copper
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Potion, Copper
+Stef - discards Armory
+Stef - discards Copper
+Stef - discards Silver
+Stef - plays Warehouse
+Stef - draws Golem, Copper, Copper
+Stef - discards Golem
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - plays 1 Potion
+Stef - plays Quarry
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Alchemist
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Armory
+Lekkit - gains Quarry
+Lekkit - plays 2 Copper
+Lekkit - plays Quarry
+Lekkit - buys Mystic
+Lekkit - gains Mystic
+Lekkit - draws Quarry, Copper, Potion, Warehouse, Warehouse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Golem
+Stef - plays Alchemist
+Stef - draws Quarry, Copper
+Stef - plays Golem
+Stef - reveals Potion, Golem, Armory, Copper, Warehouse
+Stef - discards: Potion, Golem, Copper
+Stef - plays Warehouse
+Stef - draws Steward, Silver, Warehouse
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Potion
+Stef - plays Warehouse
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Silver
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Potion
+Stef - plays Quarry
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Golem, Copper, Potion
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Warehouse
+Lekkit - draws Alchemist, Copper
+Lekkit - shuffles deck
+Lekkit - draws Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - plays Alchemist
+Lekkit - draws Quarry, Copper
+Lekkit - plays Warehouse
+Lekkit - draws Armory, Steward, Mystic
+Lekkit - discards Copper
+Lekkit - discards Armory
+Lekkit - discards Steward
+Lekkit - plays Mystic
+Lekkit - names Estate
+Lekkit - reveals Estate
+Lekkit - places Estate in hand
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Golem
+Lekkit - gains Golem
+Lekkit - places Alchemist on top of deck
+Lekkit - draws Alchemist, Quarry, Copper, Warehouse
+Lekkit - shuffles deck
+Lekkit - draws Mystic
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Warehouse
+Stef - plays Alchemist
+Stef - draws Armory, Copper
+Stef - plays Golem
+Stef - reveals Quarry, Golem, Steward, Warehouse
+Stef - discards: Quarry, Golem
+Stef - plays Warehouse
+Stef - draws Copper, Alchemist, Silver
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Steward
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Golem, Quarry, Copper
+Stef - discards Alchemist
+Stef - discards Armory
+Stef - discards Potion
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Alchemist, Armory
+Stef - discards Copper
+Stef - plays Alchemist
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains Silver
+Stef - plays 4 Copper, 2 Potion, 1 Silver
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays Alchemist
+Lekkit - draws Armory, Copper
+Lekkit - plays Mystic
+Lekkit - names Copper
+Lekkit - reveals Quarry
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Golem, Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - plays Golem
+Lekkit - reveals Potion, Steward, Copper, Warehouse
+Lekkit - discards: Potion, Copper
+Lekkit - plays Warehouse
+Lekkit - draws Warehouse, Estate, Copper
+Lekkit - discards Quarry
+Lekkit - discards Quarry
+Lekkit - discards Warehouse
+Lekkit - plays Steward
+Lekkit - trashes Estate, Copper
+Lekkit - plays Armory
+Lekkit - gains Steward
+Lekkit - draws Steward, Quarry
+Lekkit - shuffles deck
+Lekkit - draws Warehouse, Mystic, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Alchemist
+Stef - draws Quarry, Golem
+Stef - plays Golem
+Stef - reveals Potion, Alchemist, Potion, Copper, Steward
+Stef - discards: Potion, Potion, Copper
+Stef - plays Alchemist
+Stef - draws Silver, Warehouse
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Alchemist
+Stef - draws Warehouse, Golem
+Stef - plays Warehouse
+Stef - draws Copper, Armory, Copper
+Stef - discards Warehouse
+Stef - discards Armory
+Stef - discards Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Armory, Copper, Copper, Warehouse
+Stef - discards: Copper, Copper
+Stef - plays Armory
+Stef - gains Silver
+Stef - plays Warehouse
+Stef - draws Silver, Potion, Potion
+Stef - discards Potion
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Copper, Potion
+Stef - plays 3 Silver, 2 Potion, 1 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Mystic
+Lekkit - names Copper
+Lekkit - reveals Quarry
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Armory, Quarry
+Lekkit - discards Copper
+Lekkit - discards Steward
+Lekkit - discards Quarry
+Lekkit - plays Armory
+Lekkit - gains Warehouse
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Mystic
+Lekkit - gains Mystic
+Lekkit - draws Warehouse, Potion, Warehouse, Alchemist, Golem
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Armory, Quarry
+Stef - plays Alchemist
+Stef - draws Golem, Potion
+Stef - plays Alchemist
+Stef - draws Copper, Golem
+Stef - plays Golem
+Stef - reveals Silver, Platinum, Steward, Silver, Potion, Warehouse
+Stef - discards: Silver, Platinum, Silver, Potion
+Stef - plays Warehouse
+Stef - draws Silver, Warehouse
+Stef - shuffles deck
+Stef - draws Potion
+Stef - discards Warehouse
+Stef - discards Armory
+Stef - discards Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Platinum, Silver, Silver, Warehouse, Copper, Armory
+Stef - discards: Platinum, Silver, Silver, Copper
+Stef - plays Armory
+Stef - gains Warehouse
+Stef - plays Warehouse
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Platinum, Copper
+Stef - discards Potion
+Stef - discards Quarry
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Silver, Silver
+Stef - shuffles deck
+Stef - draws Quarry
+Stef - discards Quarry
+Stef - discards Silver
+Stef - discards Copper
+Stef - plays 2 Silver, 1 Potion, 1 Platinum
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Potion
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Alchemist
+Lekkit - draws Copper, Steward
+Lekkit - plays Golem
+Lekkit - shuffles deck
+Lekkit - reveals Copper, Warehouse, Copper, Warehouse
+Lekkit - discards: Copper, Copper
+Lekkit - plays Warehouse
+Lekkit - draws Copper, Armory, Steward
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Armory
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Mystic, Quarry
+Lekkit - discards Warehouse
+Lekkit - discards Warehouse
+Lekkit - discards Steward
+Lekkit - plays Steward
+Lekkit - draws Mystic, Quarry
+Lekkit - plays Mystic
+Lekkit - names Warehouse
+Lekkit - shuffles deck
+Lekkit - reveals Warehouse
+Lekkit - places Warehouse in hand
+Lekkit - plays Mystic
+Lekkit - names Copper
+Lekkit - reveals Copper
+Lekkit - places Copper in hand
+Lekkit - plays Warehouse
+Lekkit - draws Copper, Armory, Warehouse
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Armory
+Lekkit - plays Warehouse
+Lekkit - draws Steward, Copper, Copper
+Lekkit - discards Steward
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Golem
+Lekkit - gains Golem
+Lekkit - places Alchemist on top of deck
+Lekkit - draws Alchemist
+Lekkit - shuffles deck
+Lekkit - draws Golem, Warehouse, Warehouse, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Alchemist
+Stef - draws Armory, Silver
+Stef - plays Alchemist
+Stef - draws Warehouse, Quarry
+Stef - plays Alchemist
+Stef - draws Silver, Silver
+Stef - plays Warehouse
+Stef - draws Golem, Warehouse, Platinum
+Stef - discards Warehouse
+Stef - discards Quarry
+Stef - discards Copper
+Stef - plays Golem
+Stef - reveals Potion, Golem, Platinum, Warehouse, Steward
+Stef - discards: Potion, Golem, Platinum
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Golem, Potion, Platinum
+Stef - discards Golem
+Stef - discards Silver
+Stef - discards Silver
+Stef - plays Steward
+Stef - trashes Armory, Copper
+Stef - plays 2 Potion, 2 Platinum, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Alchemist
+Lekkit - draws Quarry, Copper
+Lekkit - plays Golem
+Lekkit - reveals Potion, Quarry, Steward, Mystic
+Lekkit - discards: Potion, Quarry
+Lekkit - plays Mystic
+Lekkit - names Quarry
+Lekkit - reveals Copper
+Lekkit - plays Steward
+Lekkit - trashes Copper, Copper
+Lekkit - plays Warehouse
+Lekkit - draws Copper, Armory, Steward
+Lekkit - discards Copper
+Lekkit - discards Armory
+Lekkit - discards Steward
+Lekkit - plays Warehouse
+Lekkit - draws Golem, Mystic, Quarry
+Lekkit - discards Mystic
+Lekkit - discards Quarry
+Lekkit - discards Quarry
+Lekkit - plays Golem
+Lekkit - reveals Warehouse, Copper, Warehouse
+Lekkit - discards Copper
+Lekkit - plays Warehouse
+Lekkit - shuffles deck
+Lekkit - draws Copper, Armory, Potion
+Lekkit - discards Armory
+Lekkit - discards Potion
+Lekkit - discards Copper
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Mystic, Quarry
+Lekkit - discards Mystic
+Lekkit - discards Quarry
+Lekkit - discards Quarry
+Lekkit - draws Steward, Quarry, Copper
+Lekkit - shuffles deck
+Lekkit - draws Quarry, Warehouse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Alchemist
+Stef - draws Warehouse, Quarry
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Platinum, Potion
+Stef - plays Alchemist
+Stef - draws Golem, Warehouse
+Stef - plays Warehouse
+Stef - draws Colony, Warehouse, Silver
+Stef - discards Alchemist
+Stef - discards Warehouse
+Stef - discards Colony
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Steward, Potion, Platinum, Golem, Silver, Silver, Warehouse
+Stef - discards: Potion, Platinum, Golem, Silver, Silver
+Stef - plays Warehouse
+Stef - draws Alchemist, Colony
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Colony
+Stef - discards Warehouse
+Stef - discards Potion
+Stef - plays Steward
+Stef - trashes Quarry, Copper
+Stef - plays Alchemist
+Stef - draws Platinum, Potion
+Stef - plays 2 Platinum, 2 Silver, 1 Potion
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Silver
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays Warehouse
+Lekkit - draws Quarry, Potion, Warehouse
+Lekkit - discards Warehouse
+Lekkit - discards Copper
+Lekkit - discards Steward
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Golem
+Lekkit - gains Golem
+Lekkit - draws Mystic, Golem, Copper, Mystic, Warehouse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Alchemist
+Stef - draws Golem
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Alchemist
+Stef - draws Warehouse, Golem
+Stef - plays Alchemist
+Stef - draws Colony, Colony
+Stef - plays Alchemist
+Stef - draws Silver, Warehouse
+Stef - plays Warehouse
+Stef - draws Potion, Silver, Platinum
+Stef - discards Colony
+Stef - discards Colony
+Stef - discards Golem
+Stef - plays Warehouse
+Stef - draws Platinum, Potion, Warehouse
+Stef - discards Golem
+Stef - discards Steward
+Stef - discards Warehouse
+Stef - plays 3 Silver, 2 Potion, 2 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Warehouse
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Mystic
+Lekkit - names Quarry
+Lekkit - reveals Warehouse
+Lekkit - plays Mystic
+Lekkit - names Warehouse
+Lekkit - reveals Warehouse
+Lekkit - places Warehouse in hand
+Lekkit - plays Golem
+Lekkit - reveals Steward, Golem, Alchemist
+Lekkit - discards Golem
+Lekkit - plays Alchemist
+Lekkit - draws Armory
+Lekkit - shuffles deck
+Lekkit - draws Quarry
+Lekkit - plays Steward
+Lekkit - draws Steward, Warehouse
+Lekkit - plays Warehouse
+Lekkit - draws Potion, Golem, Warehouse
+Lekkit - discards Armory
+Lekkit - discards Steward
+Lekkit - discards Warehouse
+Lekkit - plays Golem
+Lekkit - shuffles deck
+Lekkit - reveals Copper, Golem, Quarry, Quarry, Steward, Warehouse
+Lekkit - discards: Copper, Golem, Quarry, Quarry
+Lekkit - plays Steward
+Lekkit - draws Armory
+Lekkit - shuffles deck
+Lekkit - draws Quarry
+Lekkit - plays Warehouse
+Lekkit - draws Golem, Quarry, Copper
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Warehouse
+Lekkit - plays Armory
+Lekkit - gains Steward
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Mystic
+Lekkit - gains Mystic
+Lekkit - places Alchemist on top of deck
+Lekkit - draws Alchemist, Steward
+Lekkit - shuffles deck
+Lekkit - draws Warehouse, Quarry, Quarry
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Alchemist
+Stef - draws Potion, Platinum
+Stef - plays Alchemist
+Stef - draws Warehouse, Silver
+Stef - plays Alchemist
+Stef - draws Golem, Colony
+Stef - plays Alchemist
+Stef - draws Warehouse, Silver
+Stef - plays Warehouse
+Stef - draws Colony, Silver, Platinum
+Stef - discards Golem
+Stef - discards Warehouse
+Stef - discards Warehouse
+Stef - plays 3 Silver, 2 Platinum, 1 Potion
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Colony
+ 
+---------- Lekkit: turn 17 ----------
+Lekkit - plays Alchemist
+Lekkit - draws Mystic, Mystic
+Lekkit - plays Mystic
+Lekkit - names Copper
+Lekkit - reveals Golem
+Lekkit - plays Mystic
+Lekkit - names Golem
+Lekkit - reveals Golem
+Lekkit - places Golem in hand
+Lekkit - plays Golem
+Lekkit - reveals Golem, Armory, Golem, Warehouse
+Lekkit - discards: Golem, Golem
+Lekkit - plays Warehouse
+Lekkit - draws Steward, Potion, Steward
+Lekkit - discards Steward
+Lekkit - discards Steward
+Lekkit - discards Steward
+Lekkit - plays Armory
+Lekkit - gains Steward
+Lekkit - plays Warehouse
+Lekkit - draws Steward, Warehouse, Quarry
+Lekkit - discards Warehouse
+Lekkit - discards Steward
+Lekkit - discards Quarry
+Lekkit - plays 1 Potion
+Lekkit - plays Quarry
+Lekkit - plays Quarry
+Lekkit - buys Alchemist
+Lekkit - gains Alchemist
+Lekkit - places Alchemist on top of deck
+Lekkit - draws Alchemist, Warehouse, Copper, Mystic, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Alchemist
+Stef - draws Potion, Golem
+Stef - plays Alchemist
+Stef - draws Steward
+Stef - shuffles deck
+Stef - draws Colony
+Stef - plays Alchemist
+Stef - draws Warehouse, Silver
+Stef - plays Alchemist
+Stef - draws Golem, Platinum
+ 
+------------ Game Over ------------
+Stef - cards: 3 Warehouse, 2 Golem, 1 Steward, 3 Silver, 2 Potion, 2 Platinum, 4 Colony
+Stef - total victory points: 40
+Stef - turns: 17
+ 
+Lekkit - resigned
+Lekkit - cards: 4 Warehouse, 4 Steward, 3 Mystic, 3 Golem, 2 Alchemist, 1 Armory, 3 Quarry, 2 Copper, 1 Potion
+Lekkit - total victory points: 0
+Lekkit - turns: 17
+ 
+1st place: Stef
+2nd place: Lekkit
+ 

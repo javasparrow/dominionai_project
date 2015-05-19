@@ -1,0 +1,626 @@
+------------ Game Setup ------------
+Supply cards: Loan, Scheme, Coppersmith, Militia, Remodel, Apprentice, Council Room, Embassy, Mystic, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Stef - shuffles deck
+lightbulb - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Loan
+lightbulb - gains Loan
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Militia
+Stef - gains Militia
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Militia
+lightbulb - gains Militia
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Copper, Loan
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Militia
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 4 Copper
+lightbulb - plays Loan
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - buys Embassy
+lightbulb - gains Embassy
+Stef - gains Silver
+lightbulb - draws Estate, Copper, Estate, Copper, Militia
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Militia
+lightbulb - discards Estate
+lightbulb - discards Estate
+Stef - plays 3 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Estate
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Loan, Embassy
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Loan, Estate
+Stef - shuffles deck
+Stef - draws Silver, Copper, Apprentice
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Embassy
+lightbulb - draws Copper, Copper, Estate, Silver, Copper
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - discards Copper
+lightbulb - plays 4 Copper, 1 Silver
+lightbulb - plays Loan
+lightbulb - reveals Militia, Estate, Copper
+lightbulb - trashes Copper
+lightbulb - discards: Militia, Estate
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Loan, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper, Copper
+Stef - plays Loan
+Stef - reveals Militia, Copper
+Stef - trashes Copper
+Stef - discards Militia
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Estate, Scheme, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays 4 Copper
+lightbulb - plays Loan
+lightbulb - reveals Estate, Silver
+lightbulb - discards Silver
+lightbulb - discards Estate
+lightbulb - buys Embassy
+lightbulb - gains Embassy
+Stef - gains Silver
+lightbulb - draws Militia, Gold, Copper, Estate, Embassy
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Copper, Loan, Copper, Estate
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Embassy
+lightbulb - draws Estate
+lightbulb - shuffles deck
+lightbulb - draws Copper, Embassy, Loan, Estate
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - discards Embassy
+lightbulb - plays 2 Copper, 1 Gold
+lightbulb - plays Loan
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - draws Copper, Copper, Silver
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Apprentice, Copper, Goons, Silver
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays 4 Copper, 1 Silver
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - draws Gold, Militia, Estate, Estate, Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Copper, Militia, Copper
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - Scheme choice: Goons
+Stef - draws Goons, Scheme
+Stef - shuffles deck
+Stef - draws Loan, Silver, Mystic
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Militia
+Stef - discards Silver
+Stef - discards Scheme
+lightbulb - plays 2 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Embassy, Estate, Embassy, Loan
+lightbulb - shuffles deck
+lightbulb - draws Province
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Scheme
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Province
+Stef - plays Loan
+Stef - reveals Scheme, Militia, Estate, Copper
+Stef - trashes Copper
+Stef - discards: Scheme, Militia, Estate
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - draws Copper, Copper, Copper, Scheme, Apprentice
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Embassy
+lightbulb - draws Gold, Copper, Estate, Copper, Militia
+lightbulb - discards Militia
+lightbulb - discards Estate
+lightbulb - discards Embassy
+lightbulb - plays 2 Copper, 1 Gold
+lightbulb - plays Loan
+lightbulb - reveals Silver
+lightbulb - discards Silver
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - draws Gold, Copper, Gold, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Goons
+Stef - reveals Estate
+Stef - plays 4 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Apprentice
+Stef - draws Apprentice, Estate, Militia, Scheme, Scheme
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays 2 Gold, 2 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - shuffles deck
+lightbulb - draws Gold, Copper, Estate, Province, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Mystic, Loan
+Stef - plays Scheme
+Stef - draws Goons
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Goons
+lightbulb - discards Province
+lightbulb - discards Estate
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - buys Scheme
+Stef - receives 1 victory point chips
+Stef - gains Scheme
+Stef - Scheme choice: Goons
+Stef - Scheme choice: Apprentice
+Stef - draws Apprentice, Goons, Mystic, Copper, Copper
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays 1 Gold, 1 Copper, 1 Silver
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - draws Gold, Estate, Militia, Province, Loan
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Scheme
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Goons
+lightbulb - discards Province
+lightbulb - discards Estate
+Stef - plays Copper
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - draws Scheme, Mystic
+Stef - shuffles deck
+Stef - draws Loan, Militia, Goons
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Militia
+Stef - discards Militia
+Stef - discards Scheme
+lightbulb - plays 1 Gold
+lightbulb - plays Loan
+lightbulb - reveals Gold
+lightbulb - discards Gold
+lightbulb - buys Apprentice
+lightbulb - gains Apprentice
+lightbulb - draws Gold, Copper, Embassy, Copper, Embassy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Goons
+lightbulb - discards Embassy
+lightbulb - discards Copper
+Stef - plays Loan
+Stef - reveals Scheme, Scheme, Scheme, Silver
+Stef - trashes Silver
+Stef - discards: Scheme, Scheme, Scheme
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - draws Mystic, Mystic, Apprentice, Mystic, Copper
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Embassy
+lightbulb - draws Estate, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Province, Gold
+lightbulb - discards Estate
+lightbulb - discards Province
+lightbulb - discards Copper
+lightbulb - plays 2 Gold, 2 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Gold, Apprentice, Militia, Estate, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Apprentice
+Stef - trashes Mystic
+Stef - shuffles deck
+Stef - draws Scheme, Mystic, Mystic, Scheme, Militia
+Stef - plays Scheme
+Stef - draws Loan
+Stef - plays Scheme
+Stef - draws Goons
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Apprentice
+Stef - plays Loan
+Stef - plays 2 Copper
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - Scheme choice: Goons
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Mystic, Goons
+Stef - shuffles deck
+Stef - draws Loan
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Militia
+Stef - discards Mystic
+Stef - discards Mystic
+lightbulb - plays 2 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Gold, Estate, Copper, Embassy, Loan
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Copper
+Stef - plays Loan
+Stef - reveals Mystic, Scheme, Mystic, Militia, Apprentice, Scheme, Mystic, Scheme, Copper
+Stef - trashes Copper
+Stef - discards: Mystic, Scheme, Mystic, Militia, Apprentice, Scheme, Mystic, Scheme
+Stef - plays Copper
+Stef - buys Scheme
+Stef - receives 1 victory point chips
+Stef - gains Scheme
+Stef - buys Scheme
+Stef - receives 1 victory point chips
+Stef - gains Scheme
+Stef - Scheme choice: Goons
+Stef - draws Goons, Mystic
+Stef - shuffles deck
+Stef - draws Scheme, Mystic, Mystic
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Embassy
+lightbulb - draws Silver, Province
+lightbulb - shuffles deck
+lightbulb - draws Gold, Copper, Copper
+lightbulb - discards Province
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - plays 2 Gold, 1 Silver
+lightbulb - plays Loan
+lightbulb - reveals Gold
+lightbulb - discards Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Province, Estate, Apprentice, Militia, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Scheme
+Stef - draws Militia
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Estate
+Stef - plays Copper
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Mystic
+Stef - receives 1 victory point chips
+Stef - gains Mystic
+Stef - Scheme choice: Goons
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Goons, Scheme, Scheme, Scheme
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Apprentice
+lightbulb - trashes Province
+lightbulb - draws Province, Copper, Copper, Gold, Estate, Gold, Province, Embassy
+lightbulb - plays Militia
+Stef - discards Scheme
+Stef - discards Scheme
+lightbulb - plays 2 Copper, 2 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - shuffles deck
+lightbulb - draws Silver, Copper, Estate, Gold, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Scheme
+Stef - draws Loan
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Apprentice
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Copper
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - Scheme choice: Goons
+Stef - draws Goons, Apprentice, Mystic, Scheme
+Stef - shuffles deck
+Stef - draws Mystic
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays 1 Silver, 1 Copper, 1 Gold
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Province, Copper, Gold, Province, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Province
+Stef - plays Apprentice
+Stef - trashes Mystic
+Stef - draws Province, Militia, Mystic, Mystic, Scheme
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Mystic
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Goons
+lightbulb - discards Province
+lightbulb - discards Province
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - Scheme choice: Apprentice
+Stef - Scheme choice: Goons
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Goons, Apprentice, Loan
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Province, Gold, Estate, Gold, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Apprentice
+Stef - trashes Loan
+Stef - draws Mystic, Scheme, Mystic
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Duchy
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Duchy
+Stef - plays Mystic
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Scheme
+Stef - plays Goons
+lightbulb - discards Estate
+lightbulb - discards Province
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - draws Scheme, Militia, Copper, Province, Scheme
+ 
+------------ Game Over ------------
+Stef - cards: 7 Mystic, 6 Scheme, 1 Militia, 1 Apprentice, 1 Goons, 2 Copper, 4 Duchy, 2 Province
+Stef - victory point chips: 18
+Stef - total victory points: 42
+Stef - turns: 19
+ 
+lightbulb - cards: 2 Embassy, 1 Militia, 1 Apprentice, 5 Gold, 4 Copper, 1 Silver, 1 Loan, 5 Province, 3 Estate, 2 Duchy
+lightbulb - victory point chips: 0
+lightbulb - total victory points: 39
+lightbulb - turns: 19
+ 
+1st place: Stef
+2nd place: lightbulb
+ 

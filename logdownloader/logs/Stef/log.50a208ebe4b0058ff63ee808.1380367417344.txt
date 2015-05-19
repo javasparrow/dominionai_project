@@ -1,0 +1,402 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Sage, Feodum, Spy, Graverobber, Harvest, Rebuild, Rogue, Wharf, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Stef - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Estate, Estate, Silver, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Feodum
+SM.SM - gains Feodum
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Wharf
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Wharf, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - draws Silver, Wharf
+Stef - shuffles deck
+Stef - draws Rebuild, Copper, Estate
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Wharf
+SM.SM - draws Feodum, Copper
+SM.SM - plays 4 Copper, 1 Silver
+SM.SM - buys Rebuild
+SM.SM - gains Rebuild
+SM.SM - draws Estate, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Rebuild
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Wharf
+Stef - draws Copper, Silver
+Stef - plays Rebuild
+Stef - names Feodum
+Stef - reveals Silver, Copper, Copper, Copper, Copper, Estate
+Stef - discards: Silver, Copper, Copper, Copper, Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Wharf
+Stef - draws Copper, Estate
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - shuffles deck
+Stef - draws Cellar, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - duration Wharf
+SM.SM - draws Silver, Copper
+SM.SM - plays Rebuild
+SM.SM - names Estate
+SM.SM - reveals Silver, Copper, Silver, Estate, Copper, Feodum
+SM.SM - discards: Silver, Copper, Silver, Estate, Copper
+SM.SM - trashes Feodum
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Duchy
+SM.SM - plays 4 Copper, 1 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Silver, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Wharf
+Stef - draws Wharf, Duchy
+Stef - plays Cellar
+Stef - discards Duchy
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Copper, Rebuild, Silver, Estate
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - shuffles deck
+Stef - reveals Copper, Rebuild, Copper, Silver, Silver, Estate
+Stef - discards: Copper, Rebuild, Copper, Silver, Silver
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Wharf
+Stef - draws Copper, Duchy
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Wharf, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - draws Rebuild, Wharf, Silver, Wharf, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Wharf
+Stef - draws Rebuild, Estate
+Stef - plays Rebuild
+Stef - names Spy
+Stef - reveals Duchy
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 6 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Silver, Duchy, Cellar
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Rebuild
+SM.SM - names Duchy
+SM.SM - reveals Copper, Copper, Silver, Duchy, Copper, Copper, Silver, Silver, Estate
+SM.SM - discards: Copper, Copper, Silver, Duchy, Copper, Copper, Silver, Silver
+SM.SM - trashes Estate
+SM.SM - gains Duchy
+SM.SM - plays Wharf
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Silver
+SM.SM - plays 3 Silver, 1 Copper
+SM.SM - buys Rebuild
+SM.SM - gains Rebuild
+SM.SM - buys Cellar
+SM.SM - gains Cellar
+SM.SM - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Wharf
+Stef - draws Copper, Rebuild
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - shuffles deck
+Stef - reveals Rebuild, Copper, Wharf, Copper, Copper, Duchy, Rebuild, Copper, Copper, Copper, Estate
+Stef - discards: Rebuild, Copper, Wharf, Copper, Copper, Duchy, Rebuild, Copper, Copper, Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays Cellar
+Stef - discards Duchy
+Stef - draws Province
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - shuffles deck
+Stef - draws Wharf, Silver, Copper, Graverobber, Silver
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Wharf
+SM.SM - draws Silver, Silver
+SM.SM - plays 4 Copper, 2 Silver, 1 Potion
+SM.SM - buys Possession
+SM.SM - gains Possession
+SM.SM - buys Cellar
+SM.SM - gains Cellar
+SM.SM - draws Duchy, Estate, Silver, Copper, Duchy
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wharf
+Stef - draws Province, Rebuild
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Duchy, Copper, Duchy, Copper, Rebuild
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Sage
+SM.SM - gains Sage
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Rebuild, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Copper, Cellar, Cellar, Silver, Copper, Wharf, Duchy
+Stef - discards: Copper, Cellar, Cellar, Silver, Copper, Wharf
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Rebuild
+Stef - shuffles deck
+Stef - draws Rebuild, Copper, Province, Wharf
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Rebuild
+SM.SM - names Duchy
+SM.SM - reveals Duchy, Sage, Copper, Silver, Estate
+SM.SM - discards: Duchy, Sage, Copper, Silver
+SM.SM - trashes Estate
+SM.SM - gains Duchy
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Spy
+SM.SM - gains Spy
+SM.SM - draws Potion, Silver, Wharf, Duchy, Wharf
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Cellar, Duchy
+Stef - discards Cellar
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Silver, Copper, Silver, Duchy
+Stef - discards: Silver, Copper, Silver
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Wharf
+Stef - draws Cellar, Rebuild
+Stef - draws Duchy, Copper, Graverobber, Copper, Wharf
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Wharf
+SM.SM - draws Silver, Possession
+SM.SM - plays 2 Silver, 1 Potion
+SM.SM - buys Feodum
+SM.SM - gains Feodum
+SM.SM - draws Copper, Silver, Cellar, Silver, Rebuild
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Wharf
+Stef - draws Province, Silver
+Stef - plays Graverobber
+Stef - gains Duchy
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - draws Duchy, Copper, Copper, Copper, Silver
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - duration Wharf
+SM.SM - draws Copper, Cellar
+SM.SM - plays Rebuild
+SM.SM - names Province
+SM.SM - shuffles deck
+SM.SM - reveals Copper, Copper, Rebuild, Silver, Duchy
+SM.SM - discards: Copper, Copper, Rebuild, Silver
+SM.SM - trashes Duchy
+SM.SM - gains Province
+SM.SM - plays Cellar
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Silver
+SM.SM - discards Silver
+SM.SM - draws Silver, Potion, Copper, Wharf
+SM.SM - plays Cellar
+SM.SM - discards Potion
+SM.SM - discards Copper
+SM.SM - draws Copper, Feodum
+SM.SM - plays Wharf
+SM.SM - draws Sage, Silver
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Rogue
+SM.SM - gains Rogue
+SM.SM - draws Silver, Spy, Estate, Possession, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - shuffles deck
+Stef - draws Silver, Copper, Rebuild, Rebuild, Duchy
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - duration Wharf
+SM.SM - draws Copper, Duchy
+SM.SM - plays Spy
+SM.SM - shuffles deck
+SM.SM - draws Feodum
+SM.SM - places Silver on top of deck
+Stef - places Duchy on top of deck
+SM.SM - plays Possession
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Silver, Wharf, Silver, Copper, Silver
+ 
+---------- Stef: turn 16 [possessed] ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Duchy
+Stef - trashes Duchy
+SM.SM - gains Province
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Silver, Cellar, Province, Copper, Cellar, Copper, Silver, Province, Copper, Copper, Province, Copper, Silver, Graverobber, Feodum
+Stef - discards: Silver, Cellar, Province, Copper, Cellar, Copper, Silver, Province, Copper, Copper, Province, Copper, Silver, Graverobber
+Stef - trashes Feodum
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Feodum
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+SM.SM - gains Silver
+Stef - draws Wharf, Province, Graverobber, Wharf, Rebuild
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Rebuild
+Stef - names Feodum
+Stef - shuffles deck
+Stef - reveals Copper, Province
+Stef - discards Copper
+Stef - trashes Province
+Stef - gains Province
+Stef - plays Graverobber
+Stef - trashes Wharf
+Stef - gains Province
+Stef - draws Duchy, Silver, Silver, Rebuild, Graverobber
+ 
+------------ Game Over ------------
+Stef - cards: 3 Rebuild, 2 Graverobber, 2 Cellar, 1 Wharf, 7 Copper, 4 Silver, 5 Province, 2 Duchy, 1 Feodum
+Stef - total victory points: 37
+Stef - turns: 16
+ 
+SM.SM - cards: 2 Wharf, 2 Cellar, 2 Rebuild, 11 Silver, 1 Spy, 1 Possession, 1 Sage, 1 Rogue, 7 Copper, 1 Potion, 2 Duchy, 2 Feodum, 2 Province, 1 Estate
+SM.SM - total victory points: 25
+SM.SM - turns: 15
+ 
+1st place: Stef
+2nd place: SM.SM
+ 

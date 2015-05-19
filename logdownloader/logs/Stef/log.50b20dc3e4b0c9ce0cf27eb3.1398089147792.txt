@@ -1,0 +1,914 @@
+------------ Game Setup ------------
+Supply cards: Moat, Woodcutter, Workshop, Plaza, Counting House, Ill-Gotten Gains, Inn, Jester, Torturer, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dhammer - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dhammer - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+dhammer - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- dhammer: turn 1 ----------
+dhammer - plays 4 Copper
+dhammer - buys Plaza
+dhammer - gains Plaza
+dhammer - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Plaza, Copper
+ 
+---------- dhammer: turn 2 ----------
+dhammer - plays 3 Copper
+dhammer - buys Silver
+dhammer - gains Silver
+dhammer - shuffles deck
+dhammer - draws Plaza, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- dhammer: turn 3 ----------
+dhammer - plays Plaza
+dhammer - draws Copper
+dhammer - plays 3 Copper, 1 Silver
+dhammer - buys Torturer
+dhammer - gains Torturer
+dhammer - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Estate
+ 
+---------- dhammer: turn 4 ----------
+dhammer - plays 4 Copper
+dhammer - buys Plaza
+dhammer - gains Plaza
+dhammer - draws Estate
+dhammer - shuffles deck
+dhammer - draws Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - draws Copper, Moat, Copper, Silver, Copper
+ 
+---------- dhammer: turn 5 ----------
+dhammer - plays 3 Copper
+dhammer - buys Moat
+dhammer - gains Moat
+dhammer - draws Copper, Copper, Plaza, Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Copper, Plaza, Torturer
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- dhammer: turn 6 ----------
+dhammer - plays Plaza
+dhammer - draws Torturer
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - draws Estate, Copper, Plaza
+Stef - discards Copper
+Stef - discards Copper
+dhammer - plays Plaza
+dhammer - shuffles deck
+dhammer - draws Estate
+dhammer - plays 3 Copper, 1 Silver
+dhammer - buys Torturer
+dhammer - gains Torturer
+dhammer - draws Copper, Estate, Moat, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Silver, Estate, Torturer
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Estate, Copper, Moat
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- dhammer: turn 7 ----------
+dhammer - plays Moat
+dhammer - draws Copper
+dhammer - shuffles deck
+dhammer - draws Estate
+dhammer - plays 4 Copper
+dhammer - uses 1 coin token
+dhammer - buys Jester
+dhammer - gains Jester
+dhammer - draws Plaza, Torturer, Plaza, Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Torturer, Torturer, Copper, Copper, Copper
+ 
+---------- dhammer: turn 8 ----------
+dhammer - plays Plaza
+dhammer - draws Copper
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - draws Copper, Torturer, Silver
+Stef - discards Torturer
+Stef - discards Copper
+dhammer - plays Plaza
+dhammer - shuffles deck
+dhammer - draws Copper
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - draws Copper, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+dhammer - plays 5 Copper, 1 Silver
+dhammer - buys Gold
+dhammer - gains Gold
+dhammer - draws Estate, Copper, Estate, Moat, Jester
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Plaza, Plaza, Moat
+Stef - draws Estate, Silver, Copper
+Stef - shuffles deck
+Stef - draws Moat, Copper
+ 
+---------- dhammer: turn 9 ----------
+dhammer - plays Jester
+Stef - reveals reaction Moat
+dhammer - buys Moat
+dhammer - gains Moat
+dhammer - shuffles deck
+dhammer - draws Copper, Moat, Plaza, Torturer, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Moat
+Stef - draws Estate, Plaza
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Torturer, Copper, Estate, Copper, Copper
+ 
+---------- dhammer: turn 10 ----------
+dhammer - plays Plaza
+dhammer - draws Torturer
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - draws Gold, Estate, Plaza
+Stef - discards Estate
+Stef - discards Copper
+dhammer - plays Plaza
+dhammer - draws Copper
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - draws Estate, Silver, Copper
+Stef - discards Copper
+Stef - discards Copper
+dhammer - plays Moat
+dhammer - draws Copper, Estate
+dhammer - plays 3 Copper, 1 Gold, 1 Silver
+dhammer - buys Province
+dhammer - gains Province
+dhammer - draws Copper, Jester, Moat, Copper
+dhammer - shuffles deck
+dhammer - draws Plaza
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Plaza, Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Torturer, Plaza
+Stef - shuffles deck
+Stef - draws Torturer, Copper, Plaza
+ 
+---------- dhammer: turn 11 ----------
+dhammer - plays Plaza
+dhammer - draws Silver
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Moat
+dhammer - draws Copper, Copper
+dhammer - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+dhammer - plays 3 Copper, 1 Silver
+dhammer - uses 1 coin token
+dhammer - buys Province
+dhammer - gains Province
+dhammer - draws Province, Torturer, Plaza, Gold, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Copper, Plaza, Estate
+dhammer - discards Estate
+dhammer - discards Province
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Silver, Estate, Moat
+dhammer - gains Curse
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Moat, Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Plaza, Copper, Plaza, Copper
+ 
+---------- dhammer: turn 12 ----------
+dhammer - plays Plaza
+dhammer - draws Estate
+dhammer - plays Torturer
+dhammer - draws Moat, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+dhammer - plays Moat
+dhammer - draws Estate, Copper
+dhammer - plays 3 Copper, 1 Gold
+dhammer - uses 2 coin tokens
+dhammer - buys Province
+dhammer - gains Province
+dhammer - draws Torturer
+dhammer - shuffles deck
+dhammer - draws Jester, Moat, Torturer, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Copper, Moat, Plaza
+Stef - plays Plaza
+Stef - draws Moat
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Silver, Estate
+Stef - plays Moat
+Stef - draws Plaza, Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Torturer, Inn, Torturer, Estate, Copper
+ 
+---------- dhammer: turn 13 ----------
+dhammer - plays Torturer
+dhammer - draws Copper, Curse, Plaza
+Stef - discards Estate
+Stef - discards Copper
+dhammer - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Inn
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Plaza
+Stef - discards Copper
+Stef - discards Plaza
+Stef - plays Torturer
+Stef - draws Silver, Plaza, Plaza
+dhammer - discards Estate
+dhammer - discards Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Copper, Copper, Moat
+dhammer - gains Curse
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Copper, Estate, Moat
+dhammer - discards Curse
+dhammer - discards Copper
+Stef - plays Moat
+Stef - draws Copper, Estate
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Torturer, Copper
+ 
+---------- dhammer: turn 14 ----------
+dhammer - plays 1 Copper, 1 Silver
+dhammer - uses 2 coin tokens
+dhammer - buys Inn
+dhammer - gains Inn
+dhammer - places Torturer, Torturer, Jester, Moat, Plaza, Inn on top of deck
+dhammer - shuffles deck
+dhammer - draws Province, Torturer, Copper, Torturer, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Torturer
+Stef - draws Copper, Copper, Plaza
+dhammer - discards Province
+dhammer - discards Province
+Stef - plays 4 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Copper, Copper, Inn, Moat, Torturer
+ 
+---------- dhammer: turn 15 ----------
+dhammer - plays Torturer
+Stef - reveals reaction Moat
+dhammer - draws Copper, Moat, Moat
+dhammer - plays 2 Copper
+dhammer - buys Moat
+dhammer - gains Moat
+dhammer - draws Gold, Copper, Plaza, Inn, Plaza
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Inn
+Stef - draws Plaza, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Torturer
+Stef - draws Torturer, Plaza, Copper
+dhammer - discards Copper
+dhammer - discards Gold
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - plays Torturer
+Stef - draws Estate, Silver, Torturer
+dhammer - discards Inn
+dhammer - discards Plaza
+Stef - plays Plaza
+Stef - draws Moat
+Stef - plays Torturer
+Stef - shuffles deck
+Stef - draws Plaza, Plaza, Copper
+dhammer - discards Plaza
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Copper, Torturer
+Stef - plays Torturer
+Stef - draws Copper, Copper, Estate
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - shuffles deck
+Stef - draws Torturer, Copper, Silver, Woodcutter, Plaza
+ 
+---------- dhammer: turn 16 ----------
+dhammer - draws Jester, Estate, Province
+dhammer - shuffles deck
+dhammer - draws Copper, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Moat, Copper, Plaza
+dhammer - discards Province
+dhammer - discards Estate
+Stef - plays Plaza
+Stef - draws Inn
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Plaza, Estate
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Inn
+Stef - draws Torturer, Torturer
+Stef - discards Estate
+Stef - discards Silver
+Stef - plays Torturer
+Stef - draws Copper, Copper, Estate
+dhammer - discards Curse
+dhammer - discards Copper
+Stef - plays Torturer
+Stef - draws Estate, Copper, Torturer
+dhammer - discards Jester
+Stef - plays Torturer
+Stef - draws Plaza, Moat, Copper
+Stef - plays Woodcutter
+Stef - plays 4 Copper
+Stef - uses 3 coin tokens
+Stef - buys Jester
+Stef - gains Jester
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - shuffles deck
+Stef - draws Silver, Plaza, Copper, Moat, Copper
+ 
+---------- dhammer: turn 17 ----------
+dhammer - draws Inn, Province, Copper, Copper, Estate
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Plaza
+Stef - draws Inn
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Plaza, Plaza
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Estate, Copper, Copper
+dhammer - discards Estate
+dhammer - discards Province
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Plaza, Torturer, Estate
+dhammer - discards Copper
+dhammer - discards Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Estate, Moat, Plaza
+dhammer - discards Inn
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Jester, Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Inn
+Stef - draws Torturer, Woodcutter
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Jester
+dhammer - reveals Copper
+dhammer - discards Copper
+dhammer - gains Copper
+Stef - plays Woodcutter
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 3 coin tokens
+Stef - buys Jester
+Stef - gains Jester
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Copper, Inn
+Stef - shuffles deck
+Stef - draws Plaza, Copper, Estate
+ 
+---------- dhammer: turn 18 ----------
+dhammer - draws Estate, Torturer, Gold, Moat, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Inn
+Stef - draws Copper, Jester
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Jester
+dhammer - reveals reaction Moat
+Stef - plays 2 Copper
+Stef - uses 1 coin token
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Moat, Plaza, Woodcutter, Inn, Copper
+ 
+---------- dhammer: turn 19 ----------
+dhammer - plays Torturer
+Stef - reveals reaction Moat
+dhammer - draws Moat, Plaza, Moat
+dhammer - plays 1 Gold, 1 Copper
+dhammer - buys Plaza
+dhammer - gains Plaza
+dhammer - draws Province, Plaza, Copper, Torturer, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Copper, Copper, Torturer
+dhammer - discards Curse
+dhammer - discards Province
+Stef - plays Inn
+Stef - draws Plaza, Silver
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Torturer
+Stef - draws Estate, Plaza, Plaza
+dhammer - gains Curse
+Stef - plays Plaza
+Stef - draws Torturer
+Stef - plays Torturer
+Stef - draws Torturer, Plaza, Copper
+dhammer - gains Curse
+Stef - plays Plaza
+Stef - draws Moat
+Stef - plays Torturer
+Stef - draws Copper, Jester
+Stef - shuffles deck
+Stef - draws Copper
+dhammer - discards Curse
+dhammer - discards Curse
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Inn
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Moat
+Stef - draws Torturer, Copper
+Stef - plays Inn
+Stef - draws Estate, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Torturer
+Stef - draws Copper, Plaza, Jester
+dhammer - gains Curse
+Stef - plays Jester
+dhammer - reveals Copper
+dhammer - discards Copper
+dhammer - gains Copper
+Stef - plays 6 Copper, 1 Silver
+Stef - uses 3 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Torturer, Inn, Plaza, Copper
+ 
+---------- dhammer: turn 20 ----------
+dhammer - plays Plaza
+dhammer - draws Silver
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+dhammer - shuffles deck
+dhammer - draws Copper, Gold, Moat
+Stef - discards Copper
+Stef - discards Copper
+dhammer - plays Moat
+dhammer - draws Plaza, Copper
+dhammer - plays 2 Copper, 1 Silver, 1 Gold
+dhammer - uses 1 coin token
+dhammer - buys Province
+dhammer - gains Province
+dhammer - draws Copper, Plaza, Province, Moat, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Plaza
+Stef - draws Woodcutter
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Torturer, Copper, Estate
+Stef - plays Inn
+Stef - draws Plaza, Inn
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Moat, Torturer, Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Plaza, Province, Moat
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Jester, Plaza
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Torturer, Silver
+Stef - plays Inn
+Stef - draws Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Plaza, Torturer, Plaza
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Jester
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Jester
+dhammer - reveals reaction Moat
+Stef - plays Jester
+dhammer - reveals reaction Moat
+Stef - plays Woodcutter
+Stef - plays Silver
+Stef - uses 5 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Torturer, Copper, Estate, Jester, Jester
+ 
+---------- dhammer: turn 21 ----------
+dhammer - plays Plaza
+dhammer - draws Curse
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Moat
+dhammer - draws Copper, Copper
+dhammer - plays 3 Copper
+dhammer - buys Estate
+dhammer - gains Estate
+dhammer - draws Province, Curse, Copper, Province, Moat
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Torturer, Copper, Plaza
+Stef - plays 2 Copper
+Stef - uses 3 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Torturer, Copper, Torturer, Moat, Copper
+ 
+---------- dhammer: turn 22 ----------
+dhammer - plays Moat
+dhammer - draws Copper, Curse
+dhammer - plays 2 Copper
+dhammer - buys Estate
+dhammer - gains Estate
+dhammer - draws Jester, Inn, Estate, Copper, Curse
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Torturer
+Stef - draws Copper, Woodcutter, Estate
+dhammer - discards Copper
+dhammer - discards Curse
+Stef - plays 3 Copper
+Stef - uses 2 coin tokens
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Plaza, Torturer, Estate, Plaza
+ 
+---------- dhammer: turn 23 ----------
+dhammer - plays Inn
+dhammer - draws Estate, Torturer
+dhammer - discards Estate
+dhammer - discards Estate
+dhammer - plays Torturer
+dhammer - draws Estate
+dhammer - shuffles deck
+dhammer - draws Gold, Copper
+Stef - discards Estate
+Stef - discards Province
+dhammer - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+dhammer - plays 1 Gold, 1 Copper
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - draws Silver, Moat, Copper, Plaza, Torturer
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Plaza
+Stef - draws Province
+Stef - plays Torturer
+dhammer - reveals reaction Moat
+Stef - draws Copper, Plaza, Inn
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Duchy
+Stef - plays Plaza
+Stef - draws Moat
+Stef - plays Moat
+Stef - draws Copper, Silver
+Stef - plays Inn
+Stef - draws Plaza, Inn
+Stef - discards Plaza
+Stef - discards Inn
+Stef - plays 1 Copper, 1 Silver
+Stef - uses 2 coin tokens
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Torturer, Torturer, Moat, Plaza, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Plaza, Moat, Inn, Torturer, Torturer
+ 
+---------- dhammer: turn 24 ----------
+dhammer - plays Plaza
+dhammer - draws Copper
+dhammer - discards Copper
+dhammer - receives 1 coin token
+dhammer - plays Torturer
+Stef - reveals reaction Moat
+dhammer - draws Estate, Copper, Moat
+dhammer - plays Moat
+dhammer - draws Estate, Province
+dhammer - plays 2 Copper, 1 Silver
+dhammer - uses 1 coin token
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - draws Province, Curse, Estate, Province, Plaza
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Plaza
+Stef - shuffles deck
+Stef - draws Plaza
+Stef - plays Torturer
+Stef - draws Copper, Plaza, Copper
+dhammer - discards Province
+dhammer - discards Estate
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Torturer, Moat, Jester
+dhammer - discards Curse
+dhammer - discards Province
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Silver, Duchy, Torturer
+dhammer - discards Plaza
+Stef - plays Plaza
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Torturer
+Stef - draws Inn, Plaza, Torturer
+Stef - plays Inn
+Stef - draws Inn, Province
+Stef - discards Duchy
+Stef - discards Estate
+Stef - plays Torturer
+Stef - draws Copper, Duchy, Copper
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Moat
+Stef - draws Duchy, Jester
+Stef - plays Inn
+Stef - draws Estate, Copper
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - plays Inn
+Stef - draws Province, Woodcutter
+Stef - discards Province
+Stef - discards Province
+Stef - plays Woodcutter
+Stef - plays Jester
+dhammer - reveals Copper
+dhammer - discards Copper
+dhammer - gains Copper
+Stef - plays Jester
+dhammer - reveals Curse
+dhammer - discards Curse
+dhammer - gains Curse
+Stef - plays 4 Copper, 1 Silver
+Stef - uses 4 coin tokens
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Jester, Woodcutter, Torturer
+ 
+------------ Game Over ------------
+Stef - cards: 6 Plaza, 5 Torturer, 3 Inn, 2 Jester, 2 Moat, 1 Woodcutter, 9 Copper, 1 Silver, 4 Province, 3 Estate, 3 Duchy
+Stef - total victory points: 36
+Stef - turns: 25
+ 
+dhammer - cards: 3 Plaza, 3 Moat, 2 Torturer, 1 Inn, 1 Jester, 10 Copper, 1 Gold, 1 Silver, 5 Estate, 4 Province, 2 Duchy, 6 Curse
+dhammer - total victory points: 29
+dhammer - turns: 24
+ 
+1st place: Stef
+2nd place: dhammer
+ 

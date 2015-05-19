@@ -1,0 +1,664 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Hermit, Oracle, Caravan, Death Cart, Knights, Mountebank, Outpost, Border Village, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+todo_boss - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+todo_boss - shuffles deck
+Stef - shuffles deck
+todo_boss - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- todo_boss: turn 1 ----------
+todo_boss - plays 3 Copper
+todo_boss - buys Hermit
+todo_boss - gains Hermit
+todo_boss - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Necropolis, Copper, Copper, Hovel, Copper
+ 
+---------- todo_boss: turn 2 ----------
+todo_boss - plays Necropolis
+todo_boss - plays 4 Copper
+todo_boss - buys Death Cart
+todo_boss - gains Death Cart
+todo_boss - gains Abandoned Mine
+todo_boss - gains Ruined Market
+todo_boss - shuffles deck
+todo_boss - draws Copper, Hermit, Copper, Copper, Death Cart
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Hovel, Silver, Necropolis, Copper, Overgrown Estate
+ 
+---------- todo_boss: turn 3 ----------
+todo_boss - plays Death Cart
+todo_boss - trashes Death Cart
+todo_boss - plays Copper
+todo_boss - buys Border Village
+todo_boss - gains Border Village
+todo_boss - gains Mountebank
+todo_boss - draws Abandoned Mine, Copper, Overgrown Estate, Hovel, Necropolis
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- todo_boss: turn 4 ----------
+todo_boss - draws Copper, Copper, Ruined Market, Copper
+todo_boss - shuffles deck
+todo_boss - draws Overgrown Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 5 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Caravan
+Stef - shuffles deck
+Stef - draws Hovel, Copper, Copper
+ 
+---------- todo_boss: turn 5 ----------
+todo_boss - plays 3 Copper
+todo_boss - buys Hermit
+todo_boss - gains Hermit
+todo_boss - draws Border Village, Hermit, Copper, Abandoned Mine, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Overgrown Estate, Hermit, Mountebank, Necropolis, Silver
+ 
+---------- todo_boss: turn 6 ----------
+todo_boss - plays Border Village
+todo_boss - draws Hovel
+todo_boss - plays Hermit
+todo_boss - trashes Overgrown Estate
+todo_boss - draws Copper
+todo_boss - gains Hermit
+todo_boss - plays Abandoned Mine
+todo_boss - plays 3 Copper
+todo_boss - buys Caravan
+todo_boss - gains Caravan
+todo_boss - draws Copper, Mountebank, Necropolis
+todo_boss - shuffles deck
+todo_boss - draws Hermit, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Necropolis
+Stef - plays Hermit
+Stef - trashes Overgrown Estate
+Stef - draws Copper
+Stef - gains Oracle
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Dame Molly
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Mountebank, Dame Molly, Border Village
+ 
+---------- todo_boss: turn 7 ----------
+todo_boss - plays Necropolis
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Silver
+todo_boss - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+todo_boss - plays 2 Copper
+todo_boss - buys Caravan
+todo_boss - gains Caravan
+todo_boss - draws Copper, Hermit, Abandoned Mine, Hermit, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays Dame Molly
+todo_boss - reveals: Hovel, Border Village
+todo_boss - trashes Border Village
+todo_boss - discards Hovel
+Stef - plays 3 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Necropolis, Hovel, Hermit, Oracle, Caravan
+ 
+---------- todo_boss: turn 8 ----------
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Silver
+todo_boss - trashes Hermit
+todo_boss - gains Madman
+todo_boss - draws Copper, Copper, Copper, Caravan, Ruined Market
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Necropolis
+Stef - plays Oracle
+Stef - reveals: Copper, Caravan
+Stef - places Caravan on top of deck
+Stef - places Copper on top of deck
+todo_boss - shuffles deck
+todo_boss - reveals: Hermit, Abandoned Mine
+todo_boss - places Abandoned Mine on top of deck
+todo_boss - places Hermit on top of deck
+Stef - draws Copper, Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Hermit
+Stef - trashes Hovel
+Stef - gains Oracle
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Border Village
+ 
+---------- todo_boss: turn 9 ----------
+todo_boss - plays Caravan
+todo_boss - draws Hermit
+todo_boss - plays Hermit
+todo_boss - trashes Ruined Market
+todo_boss - gains Silver
+todo_boss - plays 3 Copper
+todo_boss - buys Silver
+todo_boss - gains Silver
+todo_boss - draws Abandoned Mine, Caravan, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Border Village
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Copper, Curse
+Stef - discards: Copper, Curse
+todo_boss - reveals: Mountebank, Copper
+todo_boss - discards: Mountebank, Copper
+Stef - draws Oracle, Copper
+Stef - plays Necropolis
+Stef - plays Oracle
+Stef - reveals: Mountebank, Madman
+Stef - places Madman on top of deck
+Stef - places Mountebank on top of deck
+todo_boss - reveals: Copper, Copper
+todo_boss - places Copper on top of deck
+todo_boss - places Copper on top of deck
+Stef - draws Mountebank, Madman
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Hermit
+Stef - draws Dame Molly, Mountebank, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- todo_boss: turn 10 ----------
+todo_boss - duration Caravan
+todo_boss - draws Copper
+todo_boss - plays Caravan
+todo_boss - draws Copper
+todo_boss - plays Necropolis
+todo_boss - plays Abandoned Mine
+todo_boss - plays 4 Copper
+todo_boss - buys Dame Natalie
+todo_boss - gains Dame Natalie
+todo_boss - draws Silver, Silver, Madman, Hermit, Hovel
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Dame Molly
+todo_boss - reveals: Copper
+todo_boss - shuffles deck
+todo_boss - reveals: Mountebank
+todo_boss - trashes Mountebank
+todo_boss - discards Copper
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays 3 Copper
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - draws Copper, Madman, Copper, Copper, Border Village
+ 
+---------- todo_boss: turn 11 ----------
+todo_boss - duration Caravan
+todo_boss - draws Copper
+todo_boss - plays Madman
+todo_boss - draws Caravan, Necropolis, Copper, Copper, Copper
+todo_boss - plays Caravan
+todo_boss - draws Silver
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Oracle
+todo_boss - plays Necropolis
+todo_boss - plays 4 Copper, 3 Silver
+todo_boss - buys Border Village
+todo_boss - gains Border Village
+todo_boss - gains Mountebank
+todo_boss - draws Copper, Silver, Copper, Copper, Dame Natalie
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Border Village
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Madman
+Stef - draws Silver, Mountebank, Oracle, Curse
+Stef - plays Oracle
+Stef - reveals: Border Village, Copper
+Stef - discards: Border Village, Copper
+todo_boss - reveals: Copper, Copper
+todo_boss - places Copper on top of deck
+todo_boss - places Copper on top of deck
+Stef - draws Oracle, Necropolis
+Stef - plays Oracle
+Stef - reveals: Hermit
+Stef - shuffles deck
+Stef - reveals: Dame Molly
+Stef - places Dame Molly on top of deck
+Stef - places Hermit on top of deck
+todo_boss - reveals: Copper, Copper
+todo_boss - places Copper on top of deck
+todo_boss - places Copper on top of deck
+Stef - draws Hermit, Dame Molly
+Stef - plays Necropolis
+Stef - plays Hermit
+Stef - trashes Curse
+Stef - gains Oracle
+Stef - plays Dame Molly
+todo_boss - reveals: Copper, Copper
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Sir Martin
+Stef - draws Border Village, Copper, Copper, Mountebank, Copper
+ 
+---------- todo_boss: turn 12 ----------
+todo_boss - duration Caravan
+todo_boss - draws Curse
+todo_boss - plays Dame Natalie
+todo_boss - gains Silver
+Stef - reveals: Sir Destry, Copper
+Stef - trashes Sir Destry
+Stef - discards Copper
+todo_boss - trashes Dame Natalie
+todo_boss - plays 3 Copper, 1 Silver
+todo_boss - buys Dame Josephine
+todo_boss - gains Dame Josephine
+todo_boss - draws Abandoned Mine, Hermit
+todo_boss - shuffles deck
+todo_boss - draws Border Village, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Mountebank
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Dame Anna
+Stef - draws Oracle, Dame Molly, Copper, Copper, Border Village
+ 
+---------- todo_boss: turn 13 ----------
+todo_boss - plays Border Village
+todo_boss - draws Curse
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Silver
+todo_boss - plays Abandoned Mine
+todo_boss - plays 2 Copper
+todo_boss - buys Hermit
+todo_boss - gains Hermit
+todo_boss - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Border Village
+Stef - draws Sir Martin
+Stef - plays Oracle
+Stef - reveals: Necropolis, Hermit
+Stef - discards: Necropolis, Hermit
+todo_boss - reveals: Oracle, Curse
+todo_boss - places Curse on top of deck
+todo_boss - places Oracle on top of deck
+Stef - draws Border Village, Copper
+Stef - plays Dame Molly
+todo_boss - reveals: Oracle, Curse
+todo_boss - trashes Oracle
+todo_boss - discards Curse
+Stef - plays Border Village
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Oracle, Copper
+Stef - places Copper on top of deck
+Stef - places Oracle on top of deck
+todo_boss - reveals: Copper, Silver
+todo_boss - places Copper on top of deck
+todo_boss - places Silver on top of deck
+Stef - draws Oracle, Copper
+Stef - plays Oracle
+Stef - shuffles deck
+Stef - reveals: Caravan, Border Village
+Stef - places Border Village on top of deck
+Stef - places Caravan on top of deck
+todo_boss - reveals: Silver, Copper
+todo_boss - places Copper on top of deck
+todo_boss - places Silver on top of deck
+Stef - draws Caravan, Border Village
+Stef - plays Border Village
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays Sir Martin
+todo_boss - reveals: Silver, Copper
+todo_boss - trashes Silver
+todo_boss - discards Copper
+Stef - plays 5 Copper
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Dame Sylvia
+Stef - draws Silver, Copper, Necropolis, Hermit, Dame Anna
+ 
+---------- todo_boss: turn 14 ----------
+todo_boss - plays 4 Copper
+todo_boss - buys Caravan
+todo_boss - gains Caravan
+todo_boss - draws Silver, Silver, Caravan, Mountebank, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Mountebank
+Stef - plays Mountebank
+todo_boss - gains Curse
+todo_boss - gains Copper
+Stef - plays Dame Anna
+Stef - trashes Necropolis, Copper
+todo_boss - reveals: Hermit, Copper
+todo_boss - trashes Hermit
+todo_boss - discards Copper
+Stef - plays 1 Silver
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Border Village, Copper, Copper
+ 
+---------- todo_boss: turn 15 ----------
+todo_boss - plays Caravan
+todo_boss - draws Copper
+todo_boss - plays Mountebank
+Stef - gains Copper
+todo_boss - plays 2 Silver, 2 Copper
+todo_boss - buys Province
+todo_boss - gains Province
+todo_boss - draws Copper, Silver, Dame Josephine, Caravan, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Dame Sylvia
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Dame Sylvia
+todo_boss - reveals: Copper, Necropolis
+Stef - plays 5 Copper
+Stef - buys Sir Michael
+Stef - gains Sir Michael
+Stef - draws Mountebank, Copper, Oracle, Mountebank, Caravan
+ 
+---------- todo_boss: turn 16 ----------
+todo_boss - duration Caravan
+todo_boss - shuffles deck
+todo_boss - draws Copper
+todo_boss - plays Caravan
+todo_boss - draws Hovel
+todo_boss - plays Dame Josephine
+Stef - reveals: Sir Martin, Border Village
+Stef - trashes Sir Martin
+Stef - discards Border Village
+todo_boss - trashes Dame Josephine
+todo_boss - plays 2 Copper, 2 Silver
+todo_boss - buys Border Village
+todo_boss - gains Border Village
+todo_boss - gains Sir Bailey
+todo_boss - draws Copper, Hermit, Copper, Border Village, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Caravan
+Stef - draws Oracle
+Stef - plays Mountebank
+todo_boss - gains Copper
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Border Village, Oracle, Caravan, Copper, Silver
+ 
+---------- todo_boss: turn 17 ----------
+todo_boss - duration Caravan
+todo_boss - draws Mountebank
+todo_boss - plays Border Village
+todo_boss - draws Curse
+todo_boss - plays Mountebank
+Stef - gains Copper
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Silver
+todo_boss - plays 3 Copper
+todo_boss - buys Duchy
+todo_boss - gains Duchy
+todo_boss - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Dame Molly
+Stef - plays Border Village
+Stef - draws Hermit
+Stef - plays Caravan
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Dame Anna
+Stef - plays Oracle
+Stef - shuffles deck
+Stef - reveals: Border Village, Copper
+Stef - discards: Border Village, Copper
+todo_boss - reveals: Copper, Copper
+todo_boss - discards: Copper, Copper
+Stef - draws Dame Sylvia, Mountebank
+Stef - plays Dame Molly
+todo_boss - reveals: Province, Silver
+todo_boss - trashes Silver
+todo_boss - discards Province
+Stef - plays Mountebank
+todo_boss - gains Copper
+Stef - plays Dame Sylvia
+todo_boss - reveals: Copper, Abandoned Mine
+Stef - plays Hermit
+Stef - gains Silver
+Stef - plays Dame Anna
+Stef - trashes Copper
+todo_boss - reveals: Curse, Copper
+Stef - plays 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Border Village, Copper, Caravan, Sir Michael
+ 
+---------- todo_boss: turn 18 ----------
+todo_boss - plays 5 Copper
+todo_boss - buys Sir Vander
+todo_boss - gains Sir Vander
+todo_boss - draws Curse, Curse, Curse, Silver, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Border Village
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Copper, Silver
+Stef - places Silver on top of deck
+Stef - places Copper on top of deck
+todo_boss - reveals: Hermit, Necropolis
+todo_boss - places Hermit on top of deck
+todo_boss - places Necropolis on top of deck
+Stef - draws Copper, Silver
+Stef - plays Mountebank
+todo_boss - discards Curse
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Oracle, Copper, Copper
+Stef - shuffles deck
+Stef - draws Oracle
+ 
+---------- todo_boss: turn 19 ----------
+todo_boss - plays 1 Silver, 1 Copper
+todo_boss - buys Estate
+todo_boss - gains Estate
+todo_boss - draws Necropolis, Hermit, Copper, Silver, Caravan
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Caravan
+Stef - draws Mountebank
+Stef - plays Mountebank
+todo_boss - gains Copper
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Silver, Dame Molly, Border Village, Caravan
+ 
+---------- todo_boss: turn 20 ----------
+todo_boss - plays Necropolis
+todo_boss - plays Hermit
+todo_boss - trashes Curse
+todo_boss - gains Estate
+todo_boss - plays Caravan
+todo_boss - shuffles deck
+todo_boss - draws Copper
+todo_boss - plays 2 Copper, 1 Silver
+todo_boss - buys Death Cart
+todo_boss - gains Death Cart
+todo_boss - gains Survivors
+todo_boss - gains Ruined Library
+todo_boss - draws Copper, Caravan, Silver, Copper, Border Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Border Village
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Dame Sylvia
+Stef - plays Dame Molly
+todo_boss - reveals: Copper, Copper
+Stef - plays Dame Sylvia
+todo_boss - reveals: Duchy, Silver
+todo_boss - trashes Silver
+todo_boss - discards Duchy
+Stef - plays Mountebank
+todo_boss - gains Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Dame Anna, Oracle, Copper, Border Village
+ 
+---------- todo_boss: turn 21 ----------
+todo_boss - duration Caravan
+todo_boss - draws Copper
+todo_boss - plays Border Village
+todo_boss - draws Copper
+todo_boss - plays Caravan
+todo_boss - draws Province
+todo_boss - plays 4 Copper, 1 Silver
+todo_boss - buys Border Village
+todo_boss - gains Border Village
+todo_boss - gains Duchy
+todo_boss - draws Copper, Copper, Hermit, Curse, Caravan
+ 
+---------- Stef: turn 21 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Oracle
+Stef - reveals: Silver, Sir Michael
+Stef - places Sir Michael on top of deck
+Stef - places Silver on top of deck
+todo_boss - reveals: Copper, Sir Bailey
+todo_boss - discards: Copper, Sir Bailey
+Stef - draws Silver, Sir Michael
+Stef - plays Sir Michael
+todo_boss - discards Curse
+todo_boss - discards Hermit
+todo_boss - reveals: Mountebank, Estate
+todo_boss - trashes Mountebank
+todo_boss - discards Estate
+Stef - plays Dame Anna
+todo_boss - reveals: Hovel, Copper
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Duchy
+Stef - draws Province, Duchy, Caravan, Border Village, Hermit
+ 
+------------ Game Over ------------
+Stef - cards: 6 Border Village, 3 Caravan, 3 Oracle, 2 Mountebank, 1 Hermit, 1 Dame Molly, 1 Dame Sylvia, 1 Sir Michael, 1 Dame Anna, 8 Copper, 3 Silver, 4 Duchy, 1 Province
+Stef - total victory points: 18
+Stef - turns: 21
+ 
+todo_boss - cards: 3 Caravan, 3 Border Village, 20 Copper, 2 Hermit, 1 Death Cart, 1 Survivors, 1 Ruined Library, 1 Necropolis, 1 Sir Bailey, 1 Abandoned Mine, 1 Sir Vander, 4 Silver, 2 Duchy, 2 Estate, 1 Province, 3 Curse, 1 Hovel
+todo_boss - total victory points: 11
+todo_boss - turns: 21
+ 
+1st place: Stef
+2nd place: todo_boss
+ 

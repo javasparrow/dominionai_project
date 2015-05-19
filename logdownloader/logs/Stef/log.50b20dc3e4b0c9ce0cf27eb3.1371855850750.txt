@@ -1,0 +1,467 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Lighthouse, Chancellor, Forager, Trade Route, Advisor, Trader, Inn, Mystic, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ben Smith - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Ben Smith - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+Ben Smith - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Trader
+Stef - gains Trader
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Ben Smith: turn 1 ----------
+Ben Smith - plays 3 Copper
+Ben Smith - buys Forager
+Ben Smith - gains Forager
+Ben Smith - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Trader
+ 
+---------- Ben Smith: turn 2 ----------
+Ben Smith - plays 4 Copper
+Ben Smith - buys Forager
+Ben Smith - gains Forager
+Ben Smith - shuffles deck
+Ben Smith - draws Copper, Copper, Estate, Forager, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 2 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Ben Smith: turn 3 ----------
+Ben Smith - plays Forager
+Ben Smith - trashes Copper
+Ben Smith - plays 2 Copper
+Ben Smith - buys Silver
+Ben Smith - gains Silver
+Ben Smith - draws Forager, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Forager
+Stef - shuffles deck
+Stef - draws Lighthouse, Estate, Copper
+ 
+---------- Ben Smith: turn 4 ----------
+Ben Smith - plays Forager
+Ben Smith - trashes Estate
+Ben Smith - plays 2 Copper
+Ben Smith - buys Silver
+Ben Smith - gains Silver
+Ben Smith - draws Copper, Copper
+Ben Smith - shuffles deck
+Ben Smith - draws Forager, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 2 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Silver, Trader, Copper, Copper, Forager
+ 
+---------- Ben Smith: turn 5 ----------
+Ben Smith - plays Forager
+Ben Smith - trashes Estate
+Ben Smith - plays 3 Copper
+Ben Smith - buys Advisor
+Ben Smith - gains Advisor
+Ben Smith - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Lighthouse
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Trader
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Ben Smith: turn 6 ----------
+Ben Smith - plays 3 Copper, 1 Silver
+Ben Smith - buys Rogue
+Ben Smith - gains Rogue
+Ben Smith - draws Forager, Silver
+Ben Smith - shuffles deck
+Ben Smith - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - shuffles deck
+Stef - draws Copper, Estate, Forager, Silver, Copper
+ 
+---------- Ben Smith: turn 7 ----------
+Ben Smith - plays Forager
+Ben Smith - trashes Copper
+Ben Smith - plays 2 Copper, 1 Silver
+Ben Smith - buys Rogue
+Ben Smith - gains Rogue
+Ben Smith - draws Copper, Advisor, Copper, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Mystic, Advisor, Copper, Silver, Forager
+ 
+---------- Ben Smith: turn 8 ----------
+Ben Smith - plays Advisor
+Ben Smith - reveals: Rogue, Estate, Forager
+Stef - discards Forager
+Ben Smith - places cards in hand:  Rogue, Estate
+Ben Smith - plays Rogue
+Ben Smith - gains Silver
+Ben Smith - plays 3 Copper, 1 Silver
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - shuffles deck
+Ben Smith - draws Copper, Advisor, Copper, Silver, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Lighthouse, Trader
+Ben Smith - discards Trader
+Stef - places cards in hand:  Copper, Lighthouse
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Advisor
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Advisor, Copper
+Stef - shuffles deck
+Stef - draws Forager, Mystic, Lighthouse
+ 
+---------- Ben Smith: turn 9 ----------
+Ben Smith - plays Advisor
+Ben Smith - reveals: Copper, Estate, Forager
+Stef - discards Forager
+Ben Smith - places cards in hand:  Copper, Estate
+Ben Smith - plays 3 Copper, 1 Silver, 1 Gold
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Copper, Rogue, Silver, Silver, Rogue
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Copper, Trader, Advisor
+Ben Smith - discards Advisor
+Stef - places cards in hand:  Copper, Trader
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Advisor
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Trader
+Stef - trashes Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Advisor, Silver, Copper, Mystic, Copper
+ 
+---------- Ben Smith: turn 10 ----------
+Ben Smith - plays Rogue
+Ben Smith - plays 2 Silver, 1 Copper
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Copper, Forager
+Ben Smith - shuffles deck
+Ben Smith - draws Forager, Copper, Advisor
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Forager, Estate
+Stef - shuffles deck
+Stef - reveals: Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Forager, Estate
+Stef - plays Mystic
+Stef - names Advisor
+Stef - reveals Advisor
+Stef - places Advisor in hand
+Stef - plays Advisor
+Stef - reveals: Advisor, Mystic, Lighthouse
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Advisor, Lighthouse
+Stef - plays Advisor
+Stef - reveals: Trader, Forager
+Stef - shuffles deck
+Stef - reveals: Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Trader, Forager
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic
+Stef - shuffles deck
+Stef - draws Mystic, Advisor, Copper, Silver
+ 
+---------- Ben Smith: turn 11 ----------
+Ben Smith - plays Advisor
+Ben Smith - reveals: Silver, Rogue, Copper
+Stef - discards Silver
+Ben Smith - places cards in hand:  Rogue, Copper
+Ben Smith - plays Forager
+Ben Smith - trashes Copper
+Ben Smith - plays Forager
+Ben Smith - trashes Copper
+Ben Smith - plays Rogue
+Ben Smith - gains Silver
+Ben Smith - plays 1 Copper
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Gold, Estate, Copper, Silver, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Mystic, Trader, Forager
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Trader, Forager
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Advisor
+Stef - plays Mystic
+Stef - names Advisor
+Stef - reveals Advisor
+Stef - places Advisor in hand
+Stef - plays Advisor
+Stef - reveals: Advisor, Lighthouse, Silver
+Ben Smith - discards Advisor
+Stef - places cards in hand:  Lighthouse, Silver
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Trader
+Stef - trashes Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Advisor, Advisor, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Forager, Advisor, Advisor, Province
+ 
+---------- Ben Smith: turn 12 ----------
+Ben Smith - plays 2 Gold, 1 Copper, 1 Silver
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - draws Gold, Rogue, Copper, Silver
+Ben Smith - shuffles deck
+Ben Smith - draws Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Advisor, Silver, Lighthouse
+Ben Smith - discards Advisor
+Stef - places cards in hand:  Silver, Lighthouse
+Stef - plays Advisor
+Stef - reveals: Silver, Advisor, Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Silver, Advisor
+Stef - plays Advisor
+Stef - reveals: Silver, Mystic, Trader
+Ben Smith - discards Trader
+Stef - places cards in hand:  Silver, Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Silver
+Stef - plays Inn
+Stef - draws Silver, Forager
+Stef - discards Province
+Stef - discards Silver
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Advisor, Silver, Province, Mystic, Advisor
+ 
+---------- Ben Smith: turn 13 ----------
+Ben Smith - plays Rogue
+Ben Smith - gains Silver
+Ben Smith - plays 2 Copper, 1 Gold, 1 Silver
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - draws Province, Advisor, Estate, Forager, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Inn, Trader, Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Inn, Trader
+Stef - plays Advisor
+Stef - reveals: Forager, Silver, Advisor
+Ben Smith - discards Advisor
+Stef - places cards in hand:  Forager, Silver
+Stef - plays Mystic
+Stef - names Advisor
+Stef - reveals Silver
+Stef - plays Inn
+Stef - draws Silver, Mystic
+Stef - discards Province
+Stef - discards Silver
+Stef - plays Mystic
+Stef - names Advisor
+Stef - reveals Advisor
+Stef - places Advisor in hand
+Stef - plays Advisor
+Stef - reveals: Advisor, Forager, Province
+Ben Smith - discards Advisor
+Stef - places cards in hand:  Forager, Province
+Stef - plays Trader
+Stef - trashes Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Lighthouse
+Stef - shuffles deck
+Stef - draws Silver, Trader, Silver, Province
+ 
+---------- Ben Smith: turn 14 ----------
+Ben Smith - plays Advisor
+Ben Smith - reveals: Silver, Copper, Rogue
+Stef - discards Rogue
+Ben Smith - places cards in hand:  Silver, Copper
+Ben Smith - plays Forager
+Ben Smith - trashes Copper
+Ben Smith - plays 1 Gold, 1 Silver
+Ben Smith - buys Duchy
+Ben Smith - gains Duchy
+Ben Smith - buys Herbalist
+Ben Smith - gains Herbalist
+Ben Smith - draws Silver, Forager, Gold, Gold, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Lighthouse
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Advisor, Province, Advisor, Silver, Inn
+ 
+---------- Ben Smith: turn 15 ----------
+Ben Smith - plays 2 Silver, 2 Gold
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - shuffles deck
+Ben Smith - draws Gold, Copper, Silver, Province, Rogue
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Forager, Silver, Province
+Ben Smith - discards Silver
+Stef - places cards in hand:  Forager, Province
+Stef - plays Advisor
+Stef - reveals: Mystic, Advisor, Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Mystic, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Mystic, Lighthouse
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Advisor, Lighthouse
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver
+Stef - shuffles deck
+Stef - reveals: Mystic
+Ben Smith - discards Mystic
+Stef - places cards in hand:  Advisor, Silver
+Stef - plays Advisor
+Stef - reveals: Mystic, Silver, Silver
+Ben Smith - discards Silver
+Stef - places cards in hand:  Mystic, Silver
+Stef - plays Inn
+Stef - draws Silver, Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Mystic
+Stef - names Trader
+Stef - reveals Trader
+Stef - places Trader in hand
+Stef - plays Mystic
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - plays Lighthouse
+Stef - plays Forager
+Stef - trashes Trader
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Province, Advisor, Silver, Duchy, Mystic
+ 
+------------ Game Over ------------
+Stef - cards: 5 Advisor, 3 Mystic, 2 Lighthouse, 1 Forager, 1 Inn, 5 Silver, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 16
+ 
+Ben Smith - cards: 2 Rogue, 2 Forager, 1 Advisor, 1 Herbalist, 5 Silver, 4 Gold, 2 Copper, 3 Province, 1 Duchy, 1 Estate
+Ben Smith - total victory points: 22
+Ben Smith - turns: 15
+ 
+1st place: Stef
+2nd place: Ben Smith
+ 

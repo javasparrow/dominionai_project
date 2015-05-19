@@ -1,0 +1,805 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Develop, Fortune Teller, Trade Route, Wishing Well, Caravan, Nomad Camp, City, Counterfeit, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+thedominionfamily - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+thedominionfamily - shuffles deck
+Stef - draws Estate, Copper, Estate, Estate, Copper
+thedominionfamily - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- thedominionfamily: turn 1 ----------
+thedominionfamily - plays 3 Copper
+thedominionfamily - buys Fortune Teller
+thedominionfamily - gains Fortune Teller
+thedominionfamily - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - shuffles deck
+Stef - draws Estate, Counterfeit, Copper, Copper, Copper
+ 
+---------- thedominionfamily: turn 2 ----------
+thedominionfamily - plays 4 Copper
+thedominionfamily - buys Caravan
+thedominionfamily - gains Caravan
+thedominionfamily - shuffles deck
+thedominionfamily - draws Copper, Fortune Teller, Estate, Copper, Caravan
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Vagrant, Copper, Copper, Estate, Copper
+ 
+---------- thedominionfamily: turn 3 ----------
+thedominionfamily - plays Caravan
+thedominionfamily - draws Copper
+thedominionfamily - plays Fortune Teller
+Stef - reveals Copper, Estate
+Stef - discards Copper
+thedominionfamily - plays 3 Copper
+thedominionfamily - buys Counterfeit
+thedominionfamily - gains Counterfeit
+thedominionfamily - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Counterfeit, Copper, Estate, Copper, City
+ 
+---------- thedominionfamily: turn 4 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays 4 Copper
+thedominionfamily - buys Silver
+thedominionfamily - gains Silver
+thedominionfamily - shuffles deck
+thedominionfamily - draws Copper, Copper, Estate, Copper, Counterfeit
+ 
+---------- Stef: turn 5 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - shuffles deck
+Stef - draws City, Estate, Develop, Copper, Copper
+ 
+---------- thedominionfamily: turn 5 ----------
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - buys City
+thedominionfamily - gains City
+thedominionfamily - draws Silver, Copper, Estate, Copper, Caravan
+ 
+---------- Stef: turn 6 ----------
+Stef - plays City
+Stef - draws Rabble
+Stef - plays Rabble
+Stef - draws Copper, Estate, Copper
+thedominionfamily - reveals Copper, Estate, Fortune Teller
+thedominionfamily - discards: Copper, Fortune Teller
+thedominionfamily - places Estate on top of deck
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Silver, Copper, Vagrant, Estate, Counterfeit
+ 
+---------- thedominionfamily: turn 6 ----------
+thedominionfamily - plays Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays 2 Copper, 1 Silver
+thedominionfamily - buys Caravan
+thedominionfamily - gains Caravan
+thedominionfamily - draws Copper
+thedominionfamily - shuffles deck
+thedominionfamily - draws Copper, City, Copper, Counterfeit
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Estate, Rabble, City, Copper
+ 
+---------- thedominionfamily: turn 7 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays City
+thedominionfamily - draws Estate
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - buys Rabble
+thedominionfamily - gains Rabble
+thedominionfamily - draws Caravan, Estate, Copper, Fortune Teller, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays City
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Develop
+Stef - plays Rabble
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Vagrant
+thedominionfamily - reveals Copper, Copper
+thedominionfamily - shuffles deck
+thedominionfamily - reveals Caravan
+thedominionfamily - discards: Copper, Copper, Caravan
+Stef - plays Vagrant
+Stef - draws Caravan
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Caravan
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Silver, Silver
+Stef - shuffles deck
+Stef - draws Copper, City, Vagrant
+ 
+---------- thedominionfamily: turn 8 ----------
+thedominionfamily - plays Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays Fortune Teller
+Stef - reveals Copper, Copper, Develop, Counterfeit, Estate
+Stef - discards: Copper, Copper, Develop, Counterfeit
+thedominionfamily - plays 1 Copper, 1 Silver
+thedominionfamily - buys City
+thedominionfamily - gains City
+thedominionfamily - draws Copper, City, Copper, Rabble, Counterfeit
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - duration Caravan
+Stef - draws Rabble
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Vagrant
+Stef - plays Rabble
+Stef - shuffles deck
+Stef - draws Counterfeit, Copper, Copper
+thedominionfamily - reveals Estate
+thedominionfamily - shuffles deck
+thedominionfamily - reveals Fortune Teller, City
+thedominionfamily - discards: Fortune Teller, City
+thedominionfamily - places Estate on top of deck
+Stef - plays Vagrant
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys City
+Stef - gains City
+Stef - shuffles deck
+Stef - draws City, Silver, Vagrant, Copper, City
+ 
+---------- thedominionfamily: turn 9 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays City
+thedominionfamily - draws Caravan
+thedominionfamily - plays Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays Rabble
+thedominionfamily - draws Copper, Copper, Copper
+Stef - reveals Develop, City, Rabble
+Stef - discards: Develop, City, Rabble
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays 4 Copper
+thedominionfamily - buys City
+thedominionfamily - gains City
+thedominionfamily - buys Vagrant
+thedominionfamily - gains Vagrant
+thedominionfamily - draws Silver, Estate
+thedominionfamily - shuffles deck
+thedominionfamily - draws City, Rabble, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays City
+Stef - draws Copper
+Stef - plays City
+Stef - draws Silver
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - buys Nomad Camp
+Stef - gains Nomad Camp
+Stef - draws Nomad Camp, City, Silver, Vagrant, Caravan
+ 
+---------- thedominionfamily: turn 10 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Copper
+thedominionfamily - plays City
+thedominionfamily - draws City
+thedominionfamily - plays City
+thedominionfamily - draws Estate
+thedominionfamily - plays Rabble
+thedominionfamily - draws Vagrant, Fortune Teller, Counterfeit
+Stef - reveals Caravan
+Stef - shuffles deck
+Stef - reveals City, Copper
+Stef - discards: Caravan, City, Copper
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Caravan
+thedominionfamily - reveals: City
+thedominionfamily - places City on top of deck
+thedominionfamily - plays Caravan
+thedominionfamily - draws City
+thedominionfamily - plays City
+thedominionfamily - draws Copper
+thedominionfamily - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Rabble, Copper, Develop, Silver, City, Vagrant, City, Counterfeit, City, City, Caravan, Copper
+Stef - discards: Rabble, Copper, Develop, Silver, City, Vagrant, City, Counterfeit, City, City, Caravan, Copper
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays 2 Copper, 1 Silver
+thedominionfamily - buys City
+thedominionfamily - gains City
+thedominionfamily - buys Nomad Camp
+thedominionfamily - gains Nomad Camp
+thedominionfamily - draws Nomad Camp, Copper, Estate
+thedominionfamily - shuffles deck
+thedominionfamily - draws City, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Counterfeit
+Stef - plays City
+Stef - draws City
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Develop
+Stef - places Develop on top of deck
+Stef - plays City
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Nomad Camp
+Stef - gains Rabble
+Stef - gains Wishing Well
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Wishing Well, Rabble, Copper, City, Silver
+ 
+---------- thedominionfamily: turn 11 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Copper
+thedominionfamily - plays City
+thedominionfamily - draws City, Rabble
+thedominionfamily - plays City
+thedominionfamily - draws City, Copper
+thedominionfamily - plays City
+thedominionfamily - draws Caravan, Estate
+thedominionfamily - plays Caravan
+thedominionfamily - draws City
+thedominionfamily - plays City
+thedominionfamily - draws Vagrant, Estate
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Fortune Teller
+thedominionfamily - reveals: Counterfeit
+thedominionfamily - places Counterfeit on top of deck
+thedominionfamily - plays Rabble
+thedominionfamily - draws Counterfeit
+Stef - reveals City, Rabble, Caravan
+Stef - discards: City, Rabble, Caravan
+thedominionfamily - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Vagrant, City, City, Silver, Rabble, City, Counterfeit, City, Caravan, Develop, Vagrant, City
+Stef - discards: Vagrant, City, City, Silver, Rabble, City, Counterfeit, City, Caravan, Develop, Vagrant, City
+thedominionfamily - plays Nomad Camp
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays 2 Copper, 1 Silver
+thedominionfamily - buys Rabble
+thedominionfamily - gains Rabble
+thedominionfamily - buys Gold
+thedominionfamily - gains Gold
+thedominionfamily - shuffles deck
+thedominionfamily - draws City, Copper, Estate, Caravan, City
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws City
+Stef - plays City
+Stef - draws Caravan, City
+Stef - plays City
+Stef - draws Counterfeit, Silver
+Stef - plays Caravan
+Stef - draws City
+Stef - plays City
+Stef - draws Vagrant, Develop
+Stef - plays City
+Stef - draws Rabble, Vagrant
+Stef - plays Rabble
+Stef - draws City, City
+thedominionfamily - reveals Gold, City, Fortune Teller
+thedominionfamily - discards: Gold, City, Fortune Teller
+Stef - plays Develop
+Stef - trashes Vagrant
+Stef - gains Develop
+Stef - plays City
+Stef - draws Develop
+Stef - plays Develop
+Stef - trashes Rabble
+Stef - gains Gold
+Stef - gains Nomad Camp
+Stef - plays Wishing Well
+Stef - draws Nomad Camp
+Stef - names Gold
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Nomad Camp
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Counterfeit, Gold, City, Caravan, Vagrant
+ 
+---------- thedominionfamily: turn 12 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Vagrant
+thedominionfamily - plays City
+thedominionfamily - draws Rabble, City
+thedominionfamily - plays Caravan
+thedominionfamily - draws Silver
+thedominionfamily - plays City
+thedominionfamily - draws Estate, Copper
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Counterfeit
+thedominionfamily - reveals: Rabble
+thedominionfamily - places Rabble on top of deck
+thedominionfamily - plays City
+thedominionfamily - draws Rabble, Nomad Camp
+thedominionfamily - plays Rabble
+thedominionfamily - draws Estate
+thedominionfamily - shuffles deck
+thedominionfamily - draws Fortune Teller, City
+Stef - reveals City, City, Develop
+Stef - discards: City, City, Develop
+thedominionfamily - plays City
+thedominionfamily - draws Gold
+thedominionfamily - plays Nomad Camp
+thedominionfamily - plays Fortune Teller
+Stef - reveals Caravan, City, Develop, Nomad Camp, Rabble, City, Wishing Well, Silver, Silver, City, Province
+Stef - discards: Caravan, City, Develop, Nomad Camp, Rabble, City, Wishing Well, Silver, Silver, City
+thedominionfamily - plays Rabble
+Stef - reveals Province
+Stef - shuffles deck
+Stef - reveals City, Silver
+Stef - discards: City, Silver
+Stef - places Province on top of deck
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays 1 Copper, 1 Silver, 1 Gold
+thedominionfamily - buys Province
+thedominionfamily - gains Province
+thedominionfamily - buys Duchy
+thedominionfamily - gains Duchy
+thedominionfamily - shuffles deck
+thedominionfamily - draws City, Counterfeit, City, City, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Province
+Stef - plays City
+Stef - draws Caravan, Silver
+Stef - plays Caravan
+Stef - draws Wishing Well
+Stef - plays Caravan
+Stef - draws City
+Stef - plays City
+Stef - draws Develop, Rabble
+Stef - plays Rabble
+Stef - draws City, City, Nomad Camp
+thedominionfamily - reveals Estate, Fortune Teller, Rabble
+thedominionfamily - discards: Fortune Teller, Rabble
+thedominionfamily - places Estate on top of deck
+Stef - plays City
+Stef - draws City, Develop
+Stef - plays Develop
+Stef - trashes Counterfeit
+Stef - gains Nomad Camp
+Stef - gains Gold
+Stef - plays Wishing Well
+Stef - draws Gold
+Stef - names Nomad Camp
+Stef - reveals Nomad Camp
+Stef - places Nomad Camp in hand
+Stef - plays City
+Stef - shuffles deck
+Stef - draws Silver, City
+Stef - plays Develop
+Stef - trashes Vagrant
+Stef - gains Fortune Teller
+Stef - plays City
+Stef - draws Fortune Teller
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays Fortune Teller
+thedominionfamily - reveals Estate
+Stef - plays 2 Gold, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - shuffles deck
+Stef - draws City, Develop, City, Gold, City
+ 
+---------- thedominionfamily: turn 13 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays City
+thedominionfamily - draws Duchy, Caravan
+thedominionfamily - plays City
+thedominionfamily - draws Gold, City
+thedominionfamily - plays Caravan
+thedominionfamily - draws Estate
+thedominionfamily - plays City
+thedominionfamily - draws Copper, Vagrant
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Province
+thedominionfamily - reveals: Nomad Camp
+thedominionfamily - places Nomad Camp on top of deck
+thedominionfamily - plays City
+thedominionfamily - draws Nomad Camp, Estate
+thedominionfamily - plays Nomad Camp
+thedominionfamily - plays Counterfeit
+thedominionfamily - plays Copper
+thedominionfamily - plays Copper
+thedominionfamily - trashes Copper
+thedominionfamily - plays 1 Silver, 1 Gold
+thedominionfamily - buys Province
+thedominionfamily - gains Province
+thedominionfamily - buys Vagrant
+thedominionfamily - gains Vagrant
+thedominionfamily - draws Rabble
+thedominionfamily - shuffles deck
+thedominionfamily - draws City, City, Gold, Vagrant
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Nomad Camp
+Stef - duration Caravan
+Stef - draws Fortune Teller
+Stef - plays City
+Stef - draws Nomad Camp, Silver
+Stef - plays City
+Stef - draws Province, Wishing Well
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Rabble, Gold
+Stef - plays City
+Stef - draws Caravan, Silver
+Stef - plays Fortune Teller
+thedominionfamily - reveals Province
+Stef - plays Rabble
+Stef - draws City, Develop, Wishing Well
+thedominionfamily - reveals Province, Estate, Fortune Teller
+thedominionfamily - discards Fortune Teller
+thedominionfamily - places Estate on top of deck
+thedominionfamily - places Province on top of deck
+Stef - plays City
+Stef - draws Rabble, Province
+Stef - plays Develop
+Stef - trashes Rabble
+Stef - gains Gold
+Stef - gains Caravan
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Gold
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Develop
+Stef - trashes Wishing Well
+Stef - gains Caravan
+Stef - gains Vagrant
+Stef - plays Caravan
+Stef - draws Vagrant
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays 3 Gold, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - shuffles deck
+Stef - draws Duchy, Fortune Teller, Develop, Province, Vagrant
+ 
+---------- thedominionfamily: turn 14 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Province
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Estate
+thedominionfamily - reveals: Rabble
+thedominionfamily - places Rabble on top of deck
+thedominionfamily - plays City
+thedominionfamily - draws Rabble, Counterfeit
+thedominionfamily - plays City
+thedominionfamily - draws Estate, Estate
+thedominionfamily - plays Rabble
+thedominionfamily - draws Vagrant, Silver, City
+Stef - reveals Province, Rabble, City
+Stef - discards: Rabble, City
+Stef - places Province on top of deck
+thedominionfamily - plays Vagrant
+thedominionfamily - draws Nomad Camp
+thedominionfamily - reveals: Duchy
+thedominionfamily - places Duchy in hand
+thedominionfamily - plays City
+thedominionfamily - draws City, Province
+thedominionfamily - plays City
+thedominionfamily - draws Caravan
+thedominionfamily - shuffles deck
+thedominionfamily - draws Fortune Teller
+thedominionfamily - plays Fortune Teller
+Stef - reveals Province
+thedominionfamily - plays Caravan
+thedominionfamily - plays Rabble
+Stef - reveals Province, Gold, City
+Stef - discards: Gold, City
+Stef - places Province on top of deck
+thedominionfamily - plays Nomad Camp
+thedominionfamily - plays 1 Gold, 1 Silver
+thedominionfamily - plays Counterfeit
+thedominionfamily - buys Duchy
+thedominionfamily - gains Duchy
+thedominionfamily - buys Duchy
+thedominionfamily - gains Duchy
+thedominionfamily - shuffles deck
+thedominionfamily - draws Rabble, Duchy, Duchy, Estate, Counterfeit
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Province
+Stef - duration Caravan
+Stef - draws City
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Vagrant
+Stef - draws City
+Stef - reveals: Nomad Camp
+Stef - places Nomad Camp on top of deck
+Stef - plays City
+Stef - draws Nomad Camp, Gold
+Stef - plays City
+Stef - draws Silver, Gold
+Stef - plays Develop
+Stef - trashes Nomad Camp
+Stef - gains Wishing Well
+Stef - gains Rabble
+Stef - plays Caravan
+Stef - draws Rabble
+Stef - plays Rabble
+Stef - draws Wishing Well, Wishing Well, Nomad Camp
+thedominionfamily - reveals Silver, Vagrant, Rabble
+thedominionfamily - discards: Silver, Vagrant, Rabble
+Stef - plays Wishing Well
+Stef - draws City
+Stef - names Province
+Stef - reveals Caravan
+Stef - plays City
+Stef - draws Caravan, City
+Stef - plays City
+Stef - draws Develop, Rabble
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Rabble
+Stef - plays Rabble
+Stef - draws City, City, Gold
+thedominionfamily - reveals Duchy, City, Province
+thedominionfamily - discards City
+thedominionfamily - places Province on top of deck
+thedominionfamily - places Duchy on top of deck
+Stef - plays Develop
+Stef - trashes Silver
+Stef - gains Nomad Camp
+Stef - gains Vagrant
+Stef - plays City
+Stef - draws Vagrant, Nomad Camp
+Stef - plays City
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays Fortune Teller
+thedominionfamily - reveals Duchy
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws City, Gold, Wishing Well, City, Duchy
+ 
+---------- thedominionfamily: turn 15 ----------
+thedominionfamily - duration Caravan
+thedominionfamily - draws Duchy
+thedominionfamily - plays Rabble
+thedominionfamily - draws Province, City, Nomad Camp
+Stef - reveals Province, Caravan, Nomad Camp
+Stef - discards: Caravan, Nomad Camp
+Stef - places Province on top of deck
+thedominionfamily - plays Counterfeit
+thedominionfamily - buys Copper
+thedominionfamily - gains Copper
+thedominionfamily - draws City, City, Gold, Estate, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Province
+Stef - duration Caravan
+Stef - draws Province
+Stef - plays City
+Stef - draws Wishing Well, Nomad Camp
+Stef - plays City
+Stef - draws City, Rabble
+Stef - plays City
+Stef - draws Develop, Silver
+Stef - plays Rabble
+Stef - draws Rabble, Caravan, City
+thedominionfamily - reveals Fortune Teller, Vagrant, Caravan
+thedominionfamily - discards: Fortune Teller, Vagrant, Caravan
+Stef - plays City
+Stef - draws Province, Province
+Stef - plays Rabble
+Stef - draws City, Develop, Caravan
+thedominionfamily - reveals Estate
+thedominionfamily - shuffles deck
+thedominionfamily - reveals Silver, City
+thedominionfamily - discards: Silver, City
+thedominionfamily - places Estate on top of deck
+Stef - plays City
+Stef - draws Vagrant, City
+Stef - plays City
+Stef - draws Caravan, Gold
+Stef - plays Caravan
+Stef - draws Vagrant
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Caravan
+Stef - draws Rabble
+Stef - plays Rabble
+Stef - draws Duchy, Fortune Teller
+Stef - shuffles deck
+Stef - draws Nomad Camp
+thedominionfamily - reveals Estate, Vagrant, Caravan
+thedominionfamily - discards: Vagrant, Caravan
+thedominionfamily - places Estate on top of deck
+Stef - plays Wishing Well
+Stef - draws Caravan
+Stef - names Wishing Well
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays Fortune Teller
+thedominionfamily - reveals Estate
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Gold, Gold, Vagrant, Silver, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 6 Caravan, 6 City, 3 Rabble, 2 Vagrant, 2 Develop, 2 Nomad Camp, 2 Wishing Well, 1 Fortune Teller, 3 Gold, 1 Silver, 6 Province, 2 Duchy
+Stef - total victory points: 42
+Stef - turns: 16
+ 
+thedominionfamily - cards: 4 City, 2 Vagrant, 2 Caravan, 2 Rabble, 1 Fortune Teller, 1 Nomad Camp, 1 Gold, 1 Silver, 1 Copper, 1 Counterfeit, 3 Estate, 3 Duchy, 2 Province
+thedominionfamily - total victory points: 24
+thedominionfamily - turns: 15
+ 
+1st place: Stef
+2nd place: thedominionfamily
+ 

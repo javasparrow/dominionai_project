@@ -1,0 +1,502 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Squire, Woodcutter, Conspirator, Taxman, Walled Village, Baker, Counterfeit, Governor, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - shuffles deck
+Stef - shuffles deck
+flies - draws Copper, Copper, Estate, Copper, Copper
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - uses 1 coin token
+flies - buys Counterfeit
+flies - gains Counterfeit
+flies - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Courtyard, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Courtyard
+flies - gains Courtyard
+flies - shuffles deck
+flies - draws Counterfeit, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Courtyard
+Stef - draws Copper, Copper, Copper
+Stef - places Copper on top of deck
+Stef - plays 5 Copper
+Stef - buys Governor
+Stef - gains Governor
+Stef - draws Copper, Counterfeit, Estate, Copper, Estate
+ 
+---------- flies: turn 3 ----------
+flies - plays Counterfeit
+flies - plays Copper
+flies - plays Copper
+flies - trashes Copper
+flies - plays 2 Copper
+flies - buys Governor
+flies - gains Governor
+flies - draws Copper, Estate, Copper, Courtyard, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Estate, Governor, Copper, Copper, Counterfeit
+ 
+---------- flies: turn 4 ----------
+flies - plays Courtyard
+flies - draws Estate, Copper
+flies - shuffles deck
+flies - draws Estate
+flies - places Estate on top of deck
+flies - plays 4 Copper
+flies - buys Conspirator
+flies - gains Conspirator
+flies - draws Estate, Copper, Counterfeit, Governor, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Governor
+Stef - chooses to trash a card
+Stef - trashes Estate
+Stef - gains Walled Village
+flies - trashes Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Courtyard, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 5 ----------
+flies - plays Governor
+flies - chooses to trash a card
+flies - trashes Estate
+flies - gains Walled Village
+Stef - trashes Estate
+Stef - gains Silver
+flies - plays Counterfeit
+flies - plays Copper
+flies - plays Copper
+flies - trashes Copper
+flies - buys Silver
+flies - gains Silver
+flies - shuffles deck
+flies - draws Estate, Copper, Copper, Estate, Walled Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Courtyard
+Stef - draws Conspirator, Estate, Copper
+Stef - places Conspirator on top of deck
+Stef - plays 4 Copper
+Stef - buys Walled Village
+Stef - gains Walled Village
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper, Copper
+ 
+---------- flies: turn 6 ----------
+flies - plays Walled Village
+flies - draws Copper
+flies - plays 3 Copper
+flies - buys Courtyard
+flies - gains Courtyard
+flies - places Walled Village on top of deck
+flies - draws Walled Village, Counterfeit, Courtyard, Conspirator, Governor
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Conspirator
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Conspirator, Copper, Governor, Walled Village, Copper
+ 
+---------- flies: turn 7 ----------
+flies - plays Walled Village
+flies - draws Silver
+flies - plays Governor
+flies - chooses to trash a card
+flies - trashes Silver
+flies - gains Governor
+Stef - trashes Copper
+flies - plays Conspirator
+flies - draws Copper
+flies - plays Courtyard
+flies - shuffles deck
+flies - draws Courtyard, Copper, Copper
+flies - places Copper on top of deck
+flies - plays Courtyard
+flies - draws Copper, Copper, Estate
+flies - places Estate on top of deck
+flies - plays Counterfeit
+flies - plays Copper
+flies - plays Copper
+flies - trashes Copper
+flies - plays 3 Copper
+flies - buys Governor
+flies - gains Governor
+flies - buys Squire
+flies - gains Squire
+flies - draws Estate, Governor, Estate
+flies - shuffles deck
+flies - draws Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Walled Village
+Stef - draws Walled Village
+Stef - plays Walled Village
+Stef - draws Courtyard
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Governor
+Stef - chooses to trash a card
+Stef - trashes Copper
+Stef - gains Courtyard
+flies - trashes Copper
+Stef - plays Courtyard
+Stef - draws Counterfeit
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - places Copper on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - buys Governor
+Stef - gains Governor
+Stef - draws Copper, Estate, Silver, Counterfeit, Courtyard
+ 
+---------- flies: turn 8 ----------
+flies - plays Governor
+flies - chooses to draw cards
+flies - draws Governor, Walled Village, Conspirator
+Stef - draws Conspirator
+flies - plays Walled Village
+flies - draws Courtyard
+flies - plays Conspirator
+flies - draws Squire
+flies - plays Courtyard
+flies - draws Copper, Governor, Courtyard
+flies - places Estate on top of deck
+flies - plays Governor
+flies - chooses to trash a card
+flies - trashes Estate
+flies - gains Conspirator
+Stef - trashes Silver
+Stef - gains Conspirator
+flies - plays Squire
+flies - takes 2 actions
+flies - plays Courtyard
+flies - draws Estate, Counterfeit
+flies - shuffles deck
+flies - draws Conspirator
+flies - places Estate on top of deck
+flies - plays Conspirator
+flies - draws Estate
+flies - plays Governor
+flies - chooses to trash a card
+flies - trashes Estate
+flies - gains Walled Village
+Stef - trashes Conspirator
+Stef - gains Governor
+flies - plays Counterfeit
+flies - plays Copper
+flies - plays Copper
+flies - trashes Copper
+flies - plays 1 Copper
+flies - buys Governor
+flies - gains Governor
+flies - buys Conspirator
+flies - gains Conspirator
+flies - shuffles deck
+flies - draws Governor, Governor, Walled Village, Conspirator, Conspirator
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Courtyard
+Stef - shuffles deck
+Stef - draws Walled Village, Courtyard, Walled Village
+Stef - places Walled Village on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Walled Village, Counterfeit, Conspirator, Governor, Copper
+ 
+---------- flies: turn 9 ----------
+flies - plays Walled Village
+flies - draws Conspirator
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Conspirator
+flies - draws Counterfeit
+flies - plays Conspirator
+flies - draws Walled Village
+flies - plays Conspirator
+flies - draws Courtyard
+flies - plays Walled Village
+flies - draws Courtyard
+flies - plays Courtyard
+flies - draws Copper, Governor, Squire
+flies - places Copper on top of deck
+flies - plays Courtyard
+flies - draws Copper, Governor
+flies - shuffles deck
+flies - draws Gold
+flies - places Copper on top of deck
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Governor
+flies - chooses to draw cards
+flies - draws Copper
+flies - shuffles deck
+flies - draws Gold, Gold
+Stef - draws Conspirator
+flies - plays Squire
+flies - takes 2 buys
+flies - plays Counterfeit
+flies - plays Gold
+flies - plays Gold
+flies - trashes Gold
+flies - plays 2 Gold, 1 Copper
+flies - buys Governor
+flies - gains Governor
+flies - buys Governor
+flies - gains Governor
+flies - buys Governor
+flies - gains Governor
+flies - buys Counterfeit
+flies - gains Counterfeit
+flies - shuffles deck
+flies - draws Governor, Governor, Courtyard, Walled Village, Conspirator
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Walled Village
+Stef - draws Governor
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Governor
+Stef - shuffles deck
+Stef - draws Counterfeit, Silver
+flies - draws Squire
+Stef - plays Conspirator
+Stef - draws Silver
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Courtyard, Courtyard, Silver
+flies - draws Gold
+Stef - plays Governor
+Stef - chooses to trash a card
+Stef - trashes Estate
+Stef - gains Conspirator
+Stef - plays Courtyard
+Stef - draws Walled Village, Squire
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - places Squire on top of deck
+Stef - plays Conspirator
+Stef - draws Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Courtyard
+Stef - places Walled Village on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Walled Village
+Stef - shuffles deck
+Stef - draws Squire, Conspirator, Silver, Governor
+ 
+---------- flies: turn 10 ----------
+flies - plays Walled Village
+flies - draws Walled Village
+flies - plays Walled Village
+flies - draws Governor
+flies - plays Conspirator
+flies - draws Gold
+flies - plays Courtyard
+flies - draws Courtyard, Governor, Conspirator
+flies - places Gold on top of deck
+flies - plays Conspirator
+flies - draws Gold
+flies - plays Courtyard
+flies - draws Copper, Counterfeit, Governor
+flies - places Copper on top of deck
+flies - plays Governor
+flies - chooses to trash a card
+flies - trashes Gold
+flies - gains Province
+Stef - trashes Silver
+Stef - gains Conspirator
+flies - plays Governor
+flies - chooses to draw cards
+flies - draws Copper, Governor, Conspirator
+Stef - draws Governor
+flies - plays Conspirator
+flies - draws Governor
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Governor
+flies - chooses to draw cards
+flies - draws Counterfeit
+flies - shuffles deck
+flies - draws Gold, Province
+Stef - draws Silver
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Governor
+flies - chooses to gain a gold
+flies - gains Gold
+Stef - gains Silver
+flies - plays Governor
+flies - chooses to draw cards
+flies - shuffles deck
+flies - draws Gold, Gold
+Stef - draws Province
+flies - plays Squire
+flies - takes 2 buys
+flies - plays Counterfeit
+flies - plays Gold
+flies - plays Gold
+flies - trashes Gold
+flies - plays Counterfeit
+flies - plays Gold
+flies - plays Gold
+flies - trashes Gold
+flies - plays 2 Gold, 1 Copper
+flies - buys Province
+flies - gains Province
+flies - buys Province
+flies - gains Province
+flies - buys Harem
+flies - gains Harem
+flies - buys Walled Village
+flies - gains Walled Village
+flies - buys Courtyard
+flies - gains Courtyard
+flies - shuffles deck
+flies - draws Conspirator, Walled Village, Governor, Walled Village, Walled Village
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Walled Village
+Stef - draws Conspirator
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Province, Courtyard, Counterfeit
+flies - draws Governor
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Courtyard
+Stef - plays Conspirator
+Stef - draws Squire
+Stef - plays Courtyard
+Stef - draws Governor, Walled Village, Counterfeit
+Stef - places Province on top of deck
+Stef - plays Walled Village
+Stef - draws Province
+Stef - plays Governor
+Stef - chooses to gain a gold
+Stef - gains Gold
+flies - gains Silver
+Stef - plays Courtyard
+Stef - shuffles deck
+Stef - draws Silver, Conspirator, Silver
+Stef - places Province on top of deck
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - gains Silver
+Stef - plays Governor
+Stef - chooses to draw cards
+Stef - draws Gold, Silver
+Stef - shuffles deck
+Stef - draws Silver
+flies - draws Gold
+Stef - plays Counterfeit
+Stef - plays Counterfeit
+Stef - plays Gold
+Stef - plays Gold
+Stef - trashes Gold
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - trashes Counterfeit
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Conspirator, Walled Village, Silver, Governor, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 4 Conspirator, 3 Governor, 2 Walled Village, 2 Courtyard, 2 Squire, 4 Silver, 1 Counterfeit, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 11
+ 
+flies - cards: 7 Governor, 3 Conspirator, 3 Walled Village, 3 Courtyard, 1 Squire, 2 Gold, 2 Counterfeit, 1 Harem, 1 Silver, 1 Copper, 3 Province
+flies - total victory points: 20
+flies - turns: 10
+ 
+1st place: Stef
+2nd place: flies
+ 

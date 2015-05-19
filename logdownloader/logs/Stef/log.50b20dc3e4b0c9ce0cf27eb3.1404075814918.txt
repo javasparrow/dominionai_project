@@ -1,0 +1,441 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Haven, Pawn, Hermit, Watchtower, Feast, Moneylender, Apprentice, Contraband, Ill-Gotten Gains, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+yed - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Hermit
+yed - gains Hermit
+yed - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Chapel
+yed - gains Chapel
+yed - shuffles deck
+yed - draws Chapel, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Chapel
+yed - trashes Copper, Copper, Copper, Copper
+yed - draws Estate, Copper, Hermit, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Estate, Chapel, Hermit
+ 
+---------- yed: turn 4 ----------
+yed - plays Hermit
+yed - trashes Estate
+yed - gains Silver
+yed - plays 2 Copper
+yed - buys Haven
+yed - gains Haven
+yed - draws Copper, Estate
+yed - shuffles deck
+yed - draws Estate, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Haven, Chapel
+ 
+---------- yed: turn 5 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Haven, Copper, Chapel, Hermit
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Haven
+Stef - draws Hermit
+Stef - sets aside Chapel
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Hermit
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Estate, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Madman
+ 
+---------- yed: turn 6 ----------
+yed - plays Haven
+yed - draws Copper
+yed - sets aside Chapel
+yed - plays Hermit
+yed - gains Hermit
+yed - trashes Hermit
+yed - gains Madman
+yed - draws Estate, Estate, Silver, Copper
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Haven
+Stef - places set aside Chapel in hand
+Stef - plays Madman
+Stef - draws Copper, Hermit, Copper
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - buys Curse
+Stef - gains Curse
+Stef - shuffles deck
+Stef - draws Hermit, Haven, Copper, Curse, Silver
+ 
+---------- yed: turn 7 ----------
+yed - duration Haven
+yed - places set aside Chapel in hand
+yed - plays Chapel
+yed - trashes Estate, Estate, Copper, Copper
+yed - plays 1 Silver
+yed - buys Pawn
+yed - gains Pawn
+yed - draws Copper, Madman, Silver, Hermit
+yed - shuffles deck
+yed - draws Chapel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Haven
+Stef - draws Chapel
+Stef - sets aside Chapel
+Stef - plays Hermit
+Stef - trashes Curse
+Stef - gains Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Silver, Silver, Hermit, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Madman
+yed - draws Haven, Pawn, Silver
+yed - plays Hermit
+yed - trashes Chapel
+yed - gains Pawn
+yed - plays Haven
+yed - shuffles deck
+yed - draws Pawn
+yed - sets aside Copper
+yed - plays Pawn
+yed - takes 1 action
+yed - takes 1 coin
+yed - plays Pawn
+yed - takes 1 coin
+yed - takes 1 buy
+yed - plays 2 Silver
+yed - buys Gold
+yed - gains Gold
+yed - shuffles deck
+yed - draws Silver, Gold, Pawn, Silver, Hermit
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Chapel in hand
+Stef - plays Hermit
+Stef - trashes Chapel
+Stef - gains Pawn
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Silver, Copper, Haven, Gold, Pawn
+ 
+---------- yed: turn 9 ----------
+yed - duration Haven
+yed - places set aside Copper in hand
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Pawn
+yed - plays Pawn
+yed - takes 1 action
+yed - takes 1 coin
+yed - plays Hermit
+yed - gains Silver
+yed - plays 2 Silver, 1 Gold, 1 Copper
+yed - buys Gold
+yed - gains Gold
+yed - shuffles deck
+yed - draws Silver, Gold, Haven, Gold, Hermit
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Silver
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Gold
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Hermit
+Stef - shuffles deck
+Stef - draws Pawn, Silver, Silver, Gold
+ 
+---------- yed: turn 10 ----------
+yed - plays Haven
+yed - draws Silver
+yed - sets aside Silver
+yed - plays Hermit
+yed - gains Silver
+yed - plays 2 Gold, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Silver, Pawn, Pawn
+yed - shuffles deck
+yed - draws Province
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Hermit
+Stef - gains Silver
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Haven
+Stef - gains Haven
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Silver, Hermit, Pawn
+ 
+---------- yed: turn 11 ----------
+yed - duration Haven
+yed - places set aside Silver in hand
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Gold
+yed - plays Pawn
+yed - takes 1 coin
+yed - takes 1 buy
+yed - plays 2 Silver, 1 Copper, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Silver, Gold, Hermit
+yed - shuffles deck
+yed - draws Province
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Silver
+Stef - sets aside Copper
+Stef - plays Hermit
+Stef - gains Silver
+Stef - plays 3 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Haven, Gold, Gold, Province
+ 
+---------- yed: turn 12 ----------
+yed - plays Hermit
+yed - gains Silver
+yed - plays 2 Silver, 1 Gold
+yed - buys Gold
+yed - gains Gold
+yed - draws Pawn, Pawn, Silver, Haven, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Silver
+Stef - sets aside Gold
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Silver, Hermit, Gold, Pawn
+ 
+---------- yed: turn 13 ----------
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Silver
+yed - plays Haven
+yed - draws Province
+yed - sets aside Province
+yed - plays Pawn
+yed - takes 1 coin
+yed - takes 1 buy
+yed - plays 2 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Copper
+yed - shuffles deck
+yed - draws Gold, Province, Hermit, Pawn
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Silver
+Stef - plays 3 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Feast
+Stef - gains Feast
+Stef - shuffles deck
+Stef - draws Haven, Gold, Feast, Province, Pawn
+ 
+---------- yed: turn 14 ----------
+yed - duration Haven
+yed - places set aside Province in hand
+yed - plays Pawn
+yed - takes 1 action
+yed - takes 1 coin
+yed - plays Hermit
+yed - gains Estate
+yed - plays 1 Copper, 1 Gold
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Gold, Silver, Silver, Pawn, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Silver
+Stef - plays Haven
+Stef - draws Hermit
+Stef - sets aside Hermit
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Duchy
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Silver, Gold, Province
+ 
+---------- yed: turn 15 ----------
+yed - plays Pawn
+yed - takes 1 buy
+yed - draws Gold
+yed - plays 2 Gold, 2 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Silver, Silver, Silver
+yed - shuffles deck
+yed - draws Pawn, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Hermit in hand
+Stef - plays Hermit
+Stef - gains Estate
+Stef - plays Silver
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Haven, Silver, Province, Copper
+ 
+---------- yed: turn 16 ----------
+yed - plays Pawn
+yed - takes 1 coin
+yed - draws Gold
+yed - plays 3 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Hermit, Silver, Duchy, Province, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Province
+Stef - sets aside Copper
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Hermit, Gold, Duchy, Haven, Silver
+ 
+---------- yed: turn 17 ----------
+yed - plays Hermit
+yed - gains Estate
+yed - trashes Hermit
+yed - gains Madman
+yed - draws Haven, Pawn, Province, Gold, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Haven
+Stef - draws Duchy
+Stef - sets aside Gold
+Stef - plays Hermit
+Stef - gains Estate
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gold, Silver, Pawn, Province, Estate
+ 
+---------- yed: turn 18 ----------
+yed - plays Haven
+yed - draws Duchy
+yed - sets aside Gold
+yed - plays Pawn
+yed - takes 1 action
+yed - draws Silver
+yed - plays Silver
+yed - buys Haven
+yed - gains Haven
+yed - draws Gold, Estate
+yed - shuffles deck
+yed - draws Silver, Haven, Duchy
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Silver, Silver
+Stef - shuffles deck
+Stef - draws Duchy, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 2 Haven, 1 Pawn, 1 Hermit, 5 Silver, 3 Gold, 1 Copper, 4 Duchy, 4 Province, 3 Estate
+Stef - total victory points: 39
+Stef - turns: 18
+ 
+yed - cards: 2 Haven, 2 Pawn, 1 Madman, 5 Silver, 3 Gold, 1 Copper, 4 Province, 3 Duchy, 2 Estate
+yed - total victory points: 35
+yed - turns: 18
+ 
+1st place: Stef
+2nd place: yed
+ 

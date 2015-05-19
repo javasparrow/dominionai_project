@@ -1,0 +1,411 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Scheme, Steward, Militia, Pirate Ship, Butcher, Duke, Mystic, Tribute, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Jeebus - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Jeebus - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+Jeebus - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Jeebus: turn 1 ----------
+Jeebus - plays 3 Copper
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Jeebus: turn 2 ----------
+Jeebus - plays 4 Copper
+Jeebus - buys Chapel
+Jeebus - gains Chapel
+Jeebus - shuffles deck
+Jeebus - draws Copper, Chapel, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Jeebus: turn 3 ----------
+Jeebus - plays Chapel
+Jeebus - trashes Estate, Copper, Copper, Copper
+Jeebus - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Silver, Chapel
+ 
+---------- Jeebus: turn 4 ----------
+Jeebus - plays 3 Copper, 1 Silver
+Jeebus - buys Wharf
+Jeebus - gains Wharf
+Jeebus - draws Copper, Estate
+Jeebus - shuffles deck
+Jeebus - draws Copper, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Silver, Wharf, Copper
+ 
+---------- Jeebus: turn 5 ----------
+Jeebus - plays 3 Copper, 1 Silver
+Jeebus - buys Wharf
+Jeebus - gains Wharf
+Jeebus - draws Copper, Chapel, Wharf, Estate
+Jeebus - shuffles deck
+Jeebus - draws Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- Jeebus: turn 6 ----------
+Jeebus - plays Wharf
+Jeebus - draws Silver, Copper
+Jeebus - plays 3 Copper, 1 Silver
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Estate, Wharf, Copper
+Jeebus - shuffles deck
+Jeebus - draws Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Wharf
+Stef - draws Chapel, Copper
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper, Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Wharf, Copper, Copper, Copper, Silver
+ 
+---------- Jeebus: turn 7 ----------
+Jeebus - duration Wharf
+Jeebus - draws Estate, Silver
+Jeebus - plays Wharf
+Jeebus - draws Copper, Chapel
+Jeebus - plays 4 Copper, 1 Silver
+Jeebus - buys Gold
+Jeebus - gains Gold
+Jeebus - draws Silver
+Jeebus - shuffles deck
+Jeebus - draws Chapel, Gold, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wharf
+Stef - draws Silver, Chapel
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Gold, Copper, Copper, Silver, Estate
+ 
+---------- Jeebus: turn 8 ----------
+Jeebus - duration Wharf
+Jeebus - draws Estate, Copper
+Jeebus - plays Chapel
+Jeebus - trashes Estate, Copper, Copper
+Jeebus - plays 1 Silver, 1 Gold, 1 Copper
+Jeebus - buys Gold
+Jeebus - gains Gold
+Jeebus - draws Estate, Wharf, Copper, Silver
+Jeebus - shuffles deck
+Jeebus - draws Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Wharf
+Stef - shuffles deck
+Stef - draws Copper, Silver
+Stef - plays 3 Copper, 2 Silver, 1 Gold
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Chapel, Silver, Wharf, Copper, Copper
+ 
+---------- Jeebus: turn 9 ----------
+Jeebus - plays Wharf
+Jeebus - draws Chapel, Copper
+Jeebus - plays 2 Copper, 2 Silver
+Jeebus - buys Gold
+Jeebus - gains Gold
+Jeebus - draws Wharf, Gold, Gold
+Jeebus - shuffles deck
+Jeebus - draws Silver, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wharf
+Stef - shuffles deck
+Stef - draws Estate, Silver
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Copper, Gold, Wharf, Copper
+ 
+---------- Jeebus: turn 10 ----------
+Jeebus - duration Wharf
+Jeebus - draws Copper, Chapel
+Jeebus - plays Chapel
+Jeebus - trashes Estate, Copper
+Jeebus - plays 2 Gold, 1 Silver
+Jeebus - buys Wharf
+Jeebus - gains Wharf
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Silver, Gold, Copper
+Jeebus - shuffles deck
+Jeebus - draws Silver, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Wharf
+Stef - draws Copper, Wharf
+Stef - plays Wharf
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 4 Copper, 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Copper, Gold, Chapel
+ 
+---------- Jeebus: turn 11 ----------
+Jeebus - plays 3 Silver, 1 Gold, 1 Copper
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - draws Wharf, Gold, Chapel, Wharf, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Wharf
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Chapel
+Stef - trashes Copper, Estate
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Wharf, Silver, Wharf, Copper
+ 
+---------- Jeebus: turn 12 ----------
+Jeebus - plays Wharf
+Jeebus - draws Wharf
+Jeebus - shuffles deck
+Jeebus - draws Silver
+Jeebus - plays 2 Gold, 1 Silver
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - draws Province, Silver, Silver, Copper, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wharf
+Stef - draws Gold, Duchy
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Gold
+ 
+---------- Jeebus: turn 13 ----------
+Jeebus - duration Wharf
+Jeebus - shuffles deck
+Jeebus - draws Wharf, Chapel
+Jeebus - plays Wharf
+Jeebus - draws Gold, Wharf
+Jeebus - plays 2 Silver, 2 Gold, 1 Copper
+Jeebus - buys Duchy
+Jeebus - gains Duchy
+Jeebus - buys Duchy
+Jeebus - gains Duchy
+Jeebus - draws Province, Gold, Silver
+Jeebus - shuffles deck
+Jeebus - draws Silver, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Wharf
+Stef - draws Duchy, Silver
+Stef - plays 4 Copper, 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Wharf, Duchy, Silver, Silver, Silver
+ 
+---------- Jeebus: turn 14 ----------
+Jeebus - duration Wharf
+Jeebus - draws Province, Chapel
+Jeebus - plays 2 Gold, 2 Silver
+Jeebus - buys Duchy
+Jeebus - gains Duchy
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Silver, Gold, Copper, Duchy, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wharf
+Stef - draws Duchy, Chapel
+Stef - plays 3 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Duchy, Wharf, Gold, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- Jeebus: turn 15 ----------
+Jeebus - plays 1 Silver, 1 Gold, 1 Copper
+Jeebus - buys Gold
+Jeebus - gains Gold
+Jeebus - draws Wharf, Wharf
+Jeebus - shuffles deck
+Jeebus - draws Duchy, Duchy, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Wharf
+Stef - draws Chapel, Duchy
+Stef - plays Wharf
+Stef - draws Duchy, Duchy
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Gold, Copper, Duchy, Wharf, Silver
+ 
+---------- Jeebus: turn 16 ----------
+Jeebus - plays Wharf
+Jeebus - draws Wharf, Silver
+Jeebus - plays 2 Silver
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Gold, Duchy, Copper, Chapel, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Wharf
+Stef - draws Gold, Copper
+Stef - plays Wharf
+Stef - draws Silver, Silver
+Stef - plays 3 Silver, 2 Gold, 2 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver
+Stef - shuffles deck
+Stef - draws Gold, Duchy
+ 
+---------- Jeebus: turn 17 ----------
+Jeebus - duration Wharf
+Jeebus - draws Gold, Silver
+Jeebus - plays Chapel
+Jeebus - trashes Copper
+Jeebus - plays 3 Gold, 1 Silver
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Province, Silver, Province, Gold
+Jeebus - shuffles deck
+Jeebus - draws Wharf
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Wharf
+Stef - draws Silver, Duchy
+Stef - plays 2 Copper, 2 Silver, 1 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Duke, Duchy, Copper, Silver
+ 
+---------- Jeebus: turn 18 ----------
+Jeebus - plays Wharf
+Jeebus - draws Silver, Silver
+Jeebus - plays 3 Silver, 1 Gold
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - draws Duchy, Gold, Wharf, Silver, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Wharf, Silver, Chapel, Gold, Gold
+ 
+---------- Jeebus: turn 19 ----------
+Jeebus - duration Wharf
+Jeebus - draws Silver, Gold
+Jeebus - plays Wharf
+Jeebus - draws Wharf, Duchy
+Jeebus - plays 3 Silver, 2 Gold
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - buys Silver
+Jeebus - gains Silver
+Jeebus - draws Duchy, Province, Chapel, Gold
+Jeebus - shuffles deck
+Jeebus - draws Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Wharf
+Stef - draws Duke, Duchy
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Wharf, Duke, Silver, Silver
+ 
+---------- Jeebus: turn 20 ----------
+Jeebus - duration Wharf
+Jeebus - draws Duchy, Gold
+Jeebus - plays 2 Gold, 1 Silver
+Jeebus - buys Province
+Jeebus - gains Province
+Jeebus - draws Silver, Gold, Silver, Province, Silver
+ 
+---------- Stef: turn 20 ----------
+Stef - duration Wharf
+Stef - draws Duchy
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Wharf
+Stef - draws Silver, Silver
+Stef - plays 5 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Copper, Copper, Gold, Duchy, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Wharf, 1 Chapel, 9 Silver, 4 Copper, 3 Gold, 5 Duchy, 5 Duke, 2 Province
+Stef - total victory points: 52
+Stef - turns: 20
+ 
+Jeebus - cards: 3 Wharf, 1 Chapel, 7 Silver, 4 Gold, 6 Province, 3 Duchy
+Jeebus - total victory points: 45
+Jeebus - turns: 20
+ 
+1st place: Stef
+2nd place: Jeebus
+ 

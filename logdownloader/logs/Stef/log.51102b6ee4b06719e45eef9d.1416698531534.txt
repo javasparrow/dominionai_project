@@ -1,0 +1,875 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Lookout, Oracle, Tunnel, Conspirator, Island, Nomad Camp, Scavenger, Inn, Prince, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Lookout
+yed - gains Lookout
+yed - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Estate, Copper, Lookout, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - shuffles deck
+yed - draws Copper, Conspirator, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Copper, Copper, Conspirator, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Conspirator
+yed - plays 4 Copper
+yed - buys Inn
+yed - gains Inn
+yed - places Inn on top of deck
+yed - shuffles deck
+yed - draws Estate, Estate, Copper, Lookout, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Conspirator
+Stef - plays 3 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Lookout
+yed - trashes Copper
+yed - discards Copper
+yed - places Inn on top of deck
+yed - draws Inn
+yed - shuffles deck
+yed - draws Estate, Lookout, Conspirator, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Conspirator, Copper, Estate, Copper, Cellar
+ 
+---------- yed: turn 5 ----------
+yed - plays Lookout
+yed - trashes Copper
+yed - discards Copper
+yed - places Copper on top of deck
+yed - plays Inn
+yed - draws Copper, Estate
+yed - discards Estate
+yed - discards Estate
+yed - plays Conspirator
+yed - draws Estate
+yed - plays 2 Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Conspirator, Lookout, Estate
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays 2 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Estate, Conspirator, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 4 Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - draws Copper, Conspirator, Estate, Lookout, Inn
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Inn
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Conspirator
+Stef - plays 3 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Lookout, Estate, Inn, Cellar, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Lookout
+yed - shuffles deck
+yed - trashes Estate
+yed - discards Estate
+yed - places Conspirator on top of deck
+yed - plays Inn
+yed - draws Conspirator, Copper
+yed - discards Estate
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Conspirator
+yed - draws Copper
+yed - plays 3 Copper
+yed - buys Prince
+yed - gains Prince
+yed - draws Copper
+yed - shuffles deck
+yed - draws Copper, Conspirator, Copper, Conspirator
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Inn
+Stef - draws Conspirator, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - discards Estate
+Stef - places Conspirator on top of deck
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Copper, Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - draws Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Copper, Copper, Conspirator
+Stef - shuffles deck
+Stef - draws Lookout, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Conspirator
+yed - plays 3 Copper
+yed - buys Inn
+yed - gains Inn
+yed - places Inn on top of deck
+yed - shuffles deck
+yed - draws Copper, Estate, Inn, Inn, Prince
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Conspirator on top of deck
+Stef - plays Conspirator
+Stef - plays 2 Copper
+Stef - buys Nomad Camp
+Stef - gains Nomad Camp
+Stef - draws Nomad Camp, Conspirator, Copper, Conspirator, Inn
+ 
+---------- yed: turn 9 ----------
+yed - plays Inn
+yed - draws Lookout, Conspirator
+yed - discards Estate
+yed - discards Copper
+yed - plays Lookout
+yed - shuffles deck
+yed - trashes Estate
+yed - discards Copper
+yed - places Conspirator on top of deck
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Inn
+yed - draws Copper, Copper
+yed - discards Copper
+yed - discards Copper
+yed - plays Prince
+yed - sets aside Prince
+yed - sets aside Conspirator
+yed - buys Cellar
+yed - gains Cellar
+yed - draws Copper, Estate, Conspirator, Copper
+yed - shuffles deck
+yed - draws Inn
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Inn
+Stef - draws Conspirator, Inn
+Stef - discards Copper
+Stef - discards Inn
+Stef - plays Nomad Camp
+Stef - plays Conspirator
+Stef - draws Cellar
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Lookout
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - draws Copper
+Stef - plays 1 Copper
+Stef - buys Prince
+Stef - gains Prince
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Inn, Copper, Copper
+Stef - shuffles deck
+Stef - draws Nomad Camp, Conspirator
+ 
+---------- yed: turn 10 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Inn
+yed - draws Inn, Conspirator
+yed - discards Estate
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Inn
+yed - draws Lookout, Copper
+yed - discards Copper
+yed - discards Copper
+yed - plays Lookout
+yed - shuffles deck
+yed - trashes Copper
+yed - discards Copper
+yed - places Cellar on top of deck
+yed - plays 2 Copper
+yed - buys Nomad Camp
+yed - gains Nomad Camp
+yed - draws Nomad Camp, Cellar, Estate, Copper
+yed - shuffles deck
+yed - draws Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Inn
+Stef - draws Inn, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Inn
+Stef - draws Prince, Conspirator
+Stef - discards Copper
+Stef - discards Conspirator
+Stef - plays Conspirator
+Stef - draws Cellar
+Stef - plays Prince
+Stef - sets aside Prince
+Stef - sets aside Nomad Camp
+Stef - draws Copper, Copper, Oracle, Conspirator, Conspirator
+ 
+---------- yed: turn 11 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Cellar
+yed - discards Estate
+yed - discards Copper
+yed - draws Copper, Copper
+yed - plays Conspirator
+yed - draws Lookout
+yed - plays Lookout
+yed - trashes Copper
+yed - discards Conspirator
+yed - places Inn on top of deck
+yed - plays Nomad Camp
+yed - plays 2 Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - buys Conspirator
+yed - gains Conspirator
+yed - draws Inn, Inn
+yed - shuffles deck
+yed - draws Lookout, Conspirator, Nomad Camp
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - plays Conspirator
+Stef - plays 2 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Conspirator, Conspirator, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Conspirator, Lookout, Conspirator
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- yed: turn 12 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Inn
+yed - draws Conspirator, Estate
+yed - discards Estate
+yed - discards Inn
+yed - plays Conspirator
+yed - draws Cellar
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Cellar
+yed - discards Copper
+yed - draws Copper
+yed - plays Nomad Camp
+yed - plays Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - buys Inn
+yed - gains Inn
+yed - places Inn, Conspirator, Inn on top of deck
+yed - shuffles deck
+yed - draws Conspirator, Inn, Inn, Copper, Conspirator
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - plays Lookout
+Stef - trashes Cellar
+Stef - discards Inn
+Stef - places Conspirator on top of deck
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays 3 Copper
+Stef - buys Prince
+Stef - gains Prince
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Inn, Oracle, Conspirator
+Stef - shuffles deck
+Stef - draws Inn, Prince
+ 
+---------- yed: turn 13 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Inn
+yed - draws Conspirator
+yed - shuffles deck
+yed - draws Copper
+yed - discards Copper
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Inn
+yed - plays Conspirator
+yed - draws Lookout
+yed - plays Conspirator
+yed - draws Estate
+yed - plays Inn
+yed - draws Conspirator, Nomad Camp
+yed - discards Estate
+yed - discards Inn
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Lookout
+yed - shuffles deck
+yed - trashes Copper
+yed - discards Copper
+yed - places Cellar on top of deck
+yed - plays Nomad Camp
+yed - plays Copper
+yed - buys Prince
+yed - gains Prince
+yed - buys Oracle
+yed - gains Oracle
+yed - draws Cellar, Inn, Estate
+yed - shuffles deck
+yed - draws Inn, Oracle
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - plays Inn
+Stef - draws Conspirator, Copper
+Stef - discards Copper
+Stef - discards Inn
+Stef - plays Prince
+Stef - sets aside Prince
+Stef - sets aside Oracle
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Conspirator, Conspirator
+Stef - discards Copper
+Stef - discards Conspirator
+Stef - plays Conspirator
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Copper, Lookout
+Stef - discards: Copper, Lookout
+yed - reveals: Conspirator, Copper
+yed - discards: Conspirator, Copper
+Stef - draws Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Conspirator, Cellar, Conspirator, Inn, Inn
+ 
+---------- yed: turn 14 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Inn
+yed - draws Nomad Camp, Lookout
+yed - discards Estate
+yed - discards Cellar
+yed - plays Oracle
+yed - reveals: Conspirator, Conspirator
+yed - places Conspirator on top of deck
+yed - places Conspirator on top of deck
+Stef - reveals: Copper, Copper
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+yed - draws Conspirator, Conspirator
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Inn
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Prince
+yed - plays Lookout
+yed - shuffles deck
+yed - trashes Copper
+yed - discards Copper
+yed - places Conspirator on top of deck
+yed - plays Inn
+yed - draws Conspirator, Cellar
+yed - discards Cellar
+yed - discards Inn
+yed - plays Conspirator
+yed - draws Estate
+yed - plays Prince
+yed - sets aside Prince
+yed - sets aside Nomad Camp
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Lookout, Copper, Inn, Inn, Inn
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - duration Prince
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+yed - reveals: Conspirator, Conspirator
+yed - discards: Conspirator, Conspirator
+Stef - draws Copper, Lookout
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Inn
+Stef - draws Inn, Conspirator
+Stef - discards Province
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Conspirator, Oracle
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Oracle
+Stef - reveals: Copper, Province
+Stef - discards: Copper, Province
+yed - reveals: Estate, Cellar
+yed - places Estate on top of deck
+yed - places Cellar on top of deck
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Copper, Province
+Stef - discards Province
+Stef - discards Cellar
+Stef - plays 4 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - shuffles deck
+Stef - draws Copper, Conspirator, Province, Inn, Conspirator
+ 
+---------- yed: turn 15 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - duration Prince
+yed - plays Nomad Camp
+yed - plays Lookout
+yed - trashes Estate
+yed - discards Province
+yed - places Cellar on top of deck
+yed - plays Inn
+yed - draws Cellar, Conspirator
+yed - discards Copper
+yed - discards Cellar
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Oracle
+yed - plays Oracle
+yed - reveals: Conspirator
+yed - shuffles deck
+yed - reveals: Copper
+yed - places Copper on top of deck
+yed - places Conspirator on top of deck
+Stef - reveals: Copper, Island
+Stef - places Copper on top of deck
+Stef - places Island on top of deck
+yed - draws Conspirator, Copper
+yed - plays Conspirator
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Province
+yed - plays Inn
+yed - draws Conspirator, Cellar
+yed - discards Province
+yed - discards Cellar
+yed - plays Conspirator
+yed - shuffles deck
+yed - draws Cellar
+yed - plays Cellar
+yed - discards Inn
+yed - draws Province
+yed - plays Copper
+yed - buys Province
+yed - gains Province
+yed - buys Duchy
+yed - gains Duchy
+yed - shuffles deck
+yed - draws Inn, Conspirator, Province, Cellar, Inn
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - duration Prince
+Stef - plays Oracle
+Stef - reveals: Island, Copper
+Stef - discards: Island, Copper
+yed - reveals: Inn, Conspirator
+yed - discards: Inn, Conspirator
+Stef - draws Conspirator, Inn
+Stef - plays Conspirator
+Stef - draws Oracle
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Inn
+Stef - draws Inn, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Oracle
+Stef - reveals: Lookout, Conspirator
+Stef - places Conspirator on top of deck
+Stef - places Lookout on top of deck
+yed - reveals: Conspirator, Province
+yed - places Conspirator on top of deck
+yed - places Province on top of deck
+Stef - draws Lookout, Conspirator
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Cellar on top of deck
+Stef - plays Conspirator
+Stef - draws Cellar
+Stef - plays Inn
+Stef - draws Island, Copper
+Stef - discards Inn
+Stef - discards Province
+Stef - plays Island
+Stef - sets aside Province
+Stef - plays 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Nomad Camp
+Stef - gains Nomad Camp
+Stef - draws Nomad Camp
+Stef - shuffles deck
+Stef - draws Oracle, Cellar, Conspirator, Copper
+ 
+---------- yed: turn 16 ----------
+yed - duration Prince
+yed - plays Conspirator
+yed - duration Prince
+yed - plays Nomad Camp
+yed - plays Inn
+yed - draws Province, Conspirator
+yed - discards Province
+yed - discards Province
+yed - plays Conspirator
+yed - draws Oracle
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Oracle
+yed - reveals: Lookout, Duchy
+yed - discards: Lookout, Duchy
+Stef - reveals: Lookout, Province
+Stef - places Province on top of deck
+Stef - places Lookout on top of deck
+yed - draws Conspirator, Conspirator
+yed - plays Conspirator
+yed - shuffles deck
+yed - draws Province
+yed - plays Conspirator
+yed - draws Duchy
+yed - plays Inn
+yed - draws Inn, Province
+yed - discards Province
+yed - discards Province
+yed - plays Inn
+yed - draws Lookout, Conspirator
+yed - discards Duchy
+yed - discards Cellar
+yed - plays Conspirator
+yed - shuffles deck
+yed - draws Province
+yed - plays 1 Copper
+yed - buys Province
+yed - gains Province
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Province, Duchy, Cellar
+yed - shuffles deck
+yed - draws Province, Conspirator
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - duration Prince
+Stef - plays Oracle
+Stef - reveals: Lookout, Province
+Stef - discards: Lookout, Province
+yed - reveals: Copper, Conspirator
+yed - discards: Copper, Conspirator
+Stef - draws Copper, Conspirator
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Conspirator, Conspirator
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Oracle
+Stef - reveals: Province
+Stef - shuffles deck
+Stef - reveals: Lookout
+Stef - discards: Province, Lookout
+yed - reveals: Inn, Lookout
+yed - discards: Inn, Lookout
+Stef - draws Province, Copper
+Stef - plays Inn
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Lookout
+Stef - discards Province
+Stef - discards Lookout
+Stef - plays Cellar
+Stef - discards Inn
+Stef - draws Province
+Stef - plays Nomad Camp
+Stef - buys Island
+Stef - gains Island
+Stef - buys Island
+Stef - gains Island
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - shuffles deck
+Stef - draws Island, Tunnel, Province, Copper, Nomad Camp
+ 
+---------- yed: turn 17 ----------
+yed - duration Prince
+yed - plays Nomad Camp
+yed - duration Prince
+yed - plays Conspirator
+yed - plays Conspirator
+yed - draws Duchy
+yed - plays Cellar
+yed - discards Duchy
+yed - discards Duchy
+yed - discards Province
+yed - discards Province
+yed - draws Conspirator, Inn, Inn, Province
+yed - plays Conspirator
+yed - draws Oracle
+yed - plays Inn
+yed - draws Conspirator, Conspirator
+yed - discards Province
+yed - discards Inn
+yed - plays Conspirator
+yed - shuffles deck
+yed - draws Conspirator
+yed - plays Conspirator
+yed - draws Inn
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Oracle
+yed - reveals: Duchy, Lookout
+yed - discards: Duchy, Lookout
+Stef - reveals: Inn, Conspirator
+Stef - discards: Inn, Conspirator
+yed - draws Province, Duchy
+yed - plays Inn
+yed - draws Province, Inn
+yed - discards Province
+yed - discards Province
+yed - plays Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Province
+yed - shuffles deck
+yed - draws Cellar, Province, Duchy, Inn
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Prince
+Stef - plays Nomad Camp
+Stef - duration Prince
+Stef - plays Oracle
+Stef - reveals: Province, Inn
+Stef - places Inn on top of deck
+Stef - places Province on top of deck
+yed - reveals: Province, Conspirator
+yed - places Conspirator on top of deck
+yed - places Province on top of deck
+Stef - draws Province, Inn
+Stef - plays Inn
+Stef - draws Conspirator, Copper
+Stef - discards Province
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays Conspirator
+Stef - draws Cellar
+Stef - plays Cellar
+Stef - discards Island
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Conspirator, Copper, Oracle, Lookout
+Stef - plays Conspirator
+Stef - draws Island
+Stef - plays Oracle
+Stef - reveals: Inn, Conspirator
+Stef - places Conspirator on top of deck
+Stef - places Inn on top of deck
+yed - reveals: Province, Conspirator
+yed - places Conspirator on top of deck
+yed - places Province on top of deck
+Stef - draws Inn, Conspirator
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Province, Tunnel
+Stef - discards Province
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Gold on top of deck
+Stef - plays Inn
+Stef - draws Gold, Province
+Stef - discards Island
+Stef - discards Province
+Stef - plays Nomad Camp
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Island
+Stef - shuffles deck
+Stef - draws Province, Gold, Gold, Lookout
+ 
+------------ Game Over ------------
+Stef - cards: 4 Conspirator, 3 Island, 3 Inn, 2 Oracle, 2 Nomad Camp, 2 Prince, 1 Lookout, 1 Cellar, 2 Gold, 2 Copper, 5 Province, 1 Tunnel
+Stef - total victory points: 38
+Stef - turns: 18
+ 
+yed - cards: 6 Conspirator, 3 Inn, 2 Prince, 1 Cellar, 1 Oracle, 1 Lookout, 1 Nomad Camp, 1 Copper, 4 Duchy, 3 Province
+yed - total victory points: 30
+yed - turns: 17
+ 
+1st place: Stef
+2nd place: yed
+ 

@@ -1,0 +1,861 @@
+------------ Game Setup ------------
+Supply cards: Scheme, Feast, Scavenger, Journeyman, Junk Dealer, Merchant Guild, Mountebank, Mystic, Upgrade, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dhammer - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dhammer - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+dhammer - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- dhammer: turn 1 ----------
+dhammer - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- dhammer: turn 2 ----------
+dhammer - plays 5 Copper
+dhammer - buys Upgrade
+dhammer - gains Upgrade
+dhammer - shuffles deck
+dhammer - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dhammer: turn 3 ----------
+dhammer - plays 4 Copper
+dhammer - buys Feast
+dhammer - gains Feast
+dhammer - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Estate, Copper, Copper, Mountebank, Copper
+ 
+---------- dhammer: turn 4 ----------
+dhammer - plays 3 Copper
+dhammer - buys Scheme
+dhammer - gains Scheme
+dhammer - draws Upgrade
+dhammer - shuffles deck
+dhammer - draws Copper, Copper, Copper, Feast
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Junk Dealer, Mountebank
+ 
+---------- dhammer: turn 5 ----------
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays Feast
+dhammer - trashes Feast
+dhammer - gains Mountebank
+dhammer - plays 3 Copper
+dhammer - buys Scheme
+dhammer - gains Scheme
+dhammer - draws Copper, Copper, Estate, Copper, Scheme
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - plays 2 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Scheme, Estate, Copper
+ 
+---------- dhammer: turn 6 ----------
+dhammer - plays Scheme
+dhammer - draws Estate
+dhammer - plays 3 Copper
+dhammer - buys Silver
+dhammer - gains Silver
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Estate
+dhammer - shuffles deck
+dhammer - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- dhammer: turn 7 ----------
+dhammer - plays Scheme
+dhammer - draws Curse
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Silver, Copper, Copper, Upgrade
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Junk Dealer, Mountebank, Estate, Junk Dealer
+ 
+---------- dhammer: turn 8 ----------
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays 3 Copper, 1 Silver
+dhammer - buys Junk Dealer
+dhammer - gains Junk Dealer
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Upgrade
+dhammer - draws Upgrade, Scheme, Copper, Curse, Mountebank
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Mountebank
+dhammer - discards Curse
+Stef - plays 2 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Junk Dealer
+Stef - Scheme choice: Junk Dealer
+Stef - draws Junk Dealer, Junk Dealer
+Stef - shuffles deck
+Stef - draws Mountebank, Estate, Copper
+ 
+---------- dhammer: turn 9 ----------
+dhammer - plays Scheme
+dhammer - draws Estate
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Estate
+dhammer - gains Scheme
+dhammer - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dhammer - plays 2 Copper
+dhammer - buys Feast
+dhammer - gains Feast
+dhammer - Scheme choice: Upgrade
+dhammer - draws Upgrade
+dhammer - shuffles deck
+dhammer - draws Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Scheme
+Stef - trashes Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - plays 2 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Junk Dealer
+Stef - draws Junk Dealer, Copper, Copper, Scheme, Copper
+ 
+---------- dhammer: turn 10 ----------
+dhammer - plays Upgrade
+dhammer - draws Curse
+dhammer - trashes Curse
+dhammer - plays 3 Copper
+dhammer - buys Scheme
+dhammer - gains Scheme
+dhammer - draws Scheme, Copper, Estate, Scheme, Scheme
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Mystic
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Curse
+Stef - plays Mystic
+Stef - names Curse
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Junk Dealer
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Junk Dealer, Copper, Junk Dealer, Mountebank
+ 
+---------- dhammer: turn 11 ----------
+dhammer - plays Scheme
+dhammer - draws Curse
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Mountebank
+dhammer - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+dhammer - plays 2 Copper
+dhammer - buys Scheme
+dhammer - gains Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Mountebank
+dhammer - draws Mountebank, Scheme, Scheme, Feast, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Scheme
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Mystic, Curse, Mountebank, Junk Dealer
+ 
+---------- dhammer: turn 12 ----------
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Silver
+dhammer - plays Mountebank
+Stef - discards Curse
+dhammer - plays 2 Copper, 1 Silver
+dhammer - buys Junk Dealer
+dhammer - gains Junk Dealer
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Scheme, Junk Dealer
+dhammer - shuffles deck
+dhammer - draws Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - draws Junk Dealer
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Mountebank
+Stef - draws Mountebank, Mystic, Copper, Scheme, Copper
+ 
+---------- dhammer: turn 13 ----------
+dhammer - plays Scheme
+dhammer - draws Upgrade
+dhammer - plays Scheme
+dhammer - draws Curse
+dhammer - plays Junk Dealer
+dhammer - draws Feast
+dhammer - trashes Curse
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Estate
+dhammer - gains Scheme
+dhammer - plays Feast
+dhammer - trashes Feast
+dhammer - gains Upgrade
+dhammer - plays 2 Copper
+dhammer - buys Scheme
+dhammer - gains Scheme
+dhammer - Scheme choice: Junk Dealer
+dhammer - Scheme choice: Upgrade
+dhammer - draws Upgrade, Junk Dealer, Copper, Curse, Junk Dealer
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scheme
+Stef - draws Curse
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Mountebank
+dhammer - discards Curse
+Stef - plays Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Mountebank
+Stef - draws Mountebank, Scheme, Junk Dealer, Mystic
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- dhammer: turn 14 ----------
+dhammer - plays Junk Dealer
+dhammer - draws Curse
+dhammer - trashes Curse
+dhammer - plays Junk Dealer
+dhammer - draws Silver
+dhammer - trashes Copper
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays 1 Silver
+dhammer - buys Feast
+dhammer - gains Feast
+dhammer - draws Copper, Scheme, Mountebank, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Junk Dealer
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Mountebank
+Stef - Scheme choice: Junk Dealer
+Stef - draws Junk Dealer, Mountebank, Junk Dealer, Curse, Curse
+ 
+---------- dhammer: turn 15 ----------
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Estate
+dhammer - plays Mountebank
+Stef - discards Curse
+dhammer - plays 3 Copper
+dhammer - buys Upgrade
+dhammer - gains Upgrade
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Scheme, Copper, Scheme, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Junk Dealer
+Stef - draws Scheme
+Stef - trashes Curse
+Stef - plays Scheme
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Junk Dealer
+Stef - plays Mystic
+Stef - names Mystic
+Stef - shuffles deck
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Curse
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Mountebank
+Stef - draws Mountebank, Curse, Mystic, Copper, Mystic
+ 
+---------- dhammer: turn 16 ----------
+dhammer - plays Scheme
+dhammer - shuffles deck
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Silver
+dhammer - plays 4 Copper, 1 Silver
+dhammer - buys Gold
+dhammer - gains Gold
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Province
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mountebank
+dhammer - gains Curse
+dhammer - gains Copper
+Stef - plays Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Scheme, Scheme, Mystic
+Stef - shuffles deck
+Stef - draws Scheme, Junk Dealer
+ 
+---------- dhammer: turn 17 ----------
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Curse
+dhammer - plays Scheme
+dhammer - draws Mountebank
+dhammer - plays Scheme
+dhammer - draws Junk Dealer
+dhammer - plays Scheme
+dhammer - draws Curse
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Junk Dealer
+dhammer - draws Copper
+dhammer - trashes Curse
+dhammer - plays Mountebank
+Stef - gains Copper
+dhammer - plays 2 Copper
+dhammer - buys Upgrade
+dhammer - gains Upgrade
+dhammer - Scheme choice: Junk Dealer
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Scheme
+Stef - draws Junk Dealer
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Scheme
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Curse
+Stef - plays Mystic
+Stef - names Curse
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Curse
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mountebank
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Mystic, Mountebank, Province
+ 
+---------- dhammer: turn 18 ----------
+dhammer - plays Scheme
+dhammer - draws Junk Dealer
+dhammer - plays Scheme
+dhammer - draws Feast
+dhammer - plays Scheme
+dhammer - draws Upgrade
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Upgrade
+dhammer - draws Curse
+dhammer - trashes Curse
+dhammer - plays Junk Dealer
+dhammer - draws Curse
+dhammer - trashes Curse
+dhammer - plays Feast
+dhammer - trashes Feast
+dhammer - gains Duchy
+dhammer - plays 2 Copper
+dhammer - buys Silver
+dhammer - gains Silver
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Scheme
+dhammer - Scheme choice: Upgrade
+dhammer - Scheme choice: Junk Dealer
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Junk Dealer, Upgrade, Scheme, Scheme
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mountebank
+dhammer - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Province
+Stef - shuffles deck
+Stef - draws Mountebank, Mystic, Province
+ 
+---------- dhammer: turn 19 ----------
+dhammer - plays Scheme
+dhammer - draws Scheme
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Scheme
+dhammer - draws Junk Dealer
+dhammer - plays Scheme
+dhammer - draws Estate
+dhammer - plays Junk Dealer
+dhammer - draws Copper
+dhammer - trashes Estate
+dhammer - plays Upgrade
+dhammer - draws Upgrade
+dhammer - trashes Copper
+dhammer - plays Junk Dealer
+dhammer - draws Upgrade
+dhammer - trashes Copper
+dhammer - plays Upgrade
+dhammer - shuffles deck
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - Scheme choice: Upgrade
+dhammer - Scheme choice: Upgrade
+dhammer - Scheme choice: Junk Dealer
+dhammer - Scheme choice: Junk Dealer
+dhammer - draws Junk Dealer, Junk Dealer, Upgrade, Upgrade, Curse
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Scheme
+Stef - plays Mystic
+Stef - names Scheme
+Stef - reveals Scheme
+Stef - places Scheme in hand
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Mountebank
+dhammer - gains Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Mystic
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Mystic, Province, Scheme
+ 
+---------- dhammer: turn 20 ----------
+dhammer - plays Junk Dealer
+dhammer - draws Copper
+dhammer - trashes Curse
+dhammer - plays Junk Dealer
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays Upgrade
+dhammer - draws Scheme
+dhammer - trashes Upgrade
+dhammer - gains Gold
+dhammer - plays Scheme
+dhammer - draws Silver
+dhammer - plays 1 Copper, 1 Silver
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - Scheme choice: Upgrade
+dhammer - draws Upgrade, Copper, Copper, Curse, Upgrade
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Scheme
+Stef - draws Junk Dealer
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Junk Dealer
+Stef - plays Mystic
+Stef - names Junk Dealer
+Stef - reveals Junk Dealer
+Stef - places Junk Dealer in hand
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Junk Dealer
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mystic, Mystic
+Stef - shuffles deck
+Stef - draws Province, Mystic
+ 
+---------- dhammer: turn 21 ----------
+dhammer - plays Upgrade
+dhammer - draws Silver
+dhammer - trashes Curse
+dhammer - plays Upgrade
+dhammer - draws Mountebank
+dhammer - trashes Copper
+dhammer - plays Mountebank
+Stef - gains Copper
+dhammer - plays 1 Copper, 1 Silver
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - draws Copper, Duchy, Gold, Copper, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Junk Dealer
+Stef - plays Mystic
+Stef - names Junk Dealer
+Stef - reveals Junk Dealer
+Stef - places Junk Dealer in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Province, Province, Scheme, Mountebank
+ 
+---------- dhammer: turn 22 ----------
+dhammer - plays 3 Copper, 1 Gold
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - draws Scheme, Copper, Scheme
+dhammer - shuffles deck
+dhammer - draws Duchy, Gold
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Scheme
+Stef - plays Mountebank
+dhammer - gains Copper
+Stef - plays Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - Scheme choice: Mountebank
+Stef - draws Mountebank, Scheme, Mystic, Scheme, Mystic
+ 
+---------- dhammer: turn 23 ----------
+dhammer - plays Scheme
+dhammer - draws Junk Dealer
+dhammer - plays Scheme
+dhammer - draws Copper
+dhammer - plays Junk Dealer
+dhammer - draws Scheme
+dhammer - trashes Copper
+dhammer - plays Scheme
+dhammer - draws Upgrade
+dhammer - plays Upgrade
+dhammer - draws Duchy
+dhammer - trashes Gold
+dhammer - gains Forge
+dhammer - plays 1 Copper
+dhammer - buys Estate
+dhammer - gains Estate
+dhammer - Scheme choice: Upgrade
+dhammer - Scheme choice: Junk Dealer
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Junk Dealer, Upgrade, Scheme, Duchy
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Junk Dealer
+Stef - plays Mystic
+Stef - names Junk Dealer
+Stef - reveals Junk Dealer
+Stef - places Junk Dealer in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mountebank
+dhammer - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Mountebank
+Stef - Scheme choice: Mystic
+Stef - draws Mystic, Mountebank, Province, Province, Copper
+ 
+---------- dhammer: turn 24 ----------
+dhammer - plays Scheme
+dhammer - draws Gold
+dhammer - plays Scheme
+dhammer - draws Mountebank
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Junk Dealer
+dhammer - gains Gold
+dhammer - plays Mountebank
+Stef - gains Copper
+dhammer - plays 1 Gold, 1 Copper
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - Scheme choice: Upgrade
+dhammer - Scheme choice: Scheme
+dhammer - draws Scheme, Upgrade, Duchy, Silver, Silver
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Province
+Stef - plays Mountebank
+dhammer - gains Copper
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Mystic, Copper, Mystic, Mystic
+ 
+---------- dhammer: turn 25 ----------
+dhammer - plays Scheme
+dhammer - draws Upgrade
+dhammer - plays Upgrade
+dhammer - draws Copper
+dhammer - trashes Copper
+dhammer - plays Upgrade
+dhammer - draws Junk Dealer
+dhammer - trashes Duchy
+dhammer - gains Gold
+dhammer - plays Junk Dealer
+dhammer - draws Upgrade
+dhammer - trashes Upgrade
+dhammer - plays 2 Silver
+dhammer - buys Duchy
+dhammer - gains Duchy
+dhammer - Scheme choice: Upgrade
+dhammer - draws Upgrade, Copper, Scheme, Copper, Copper
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Scavenger
+Stef - reveals Scheme
+Stef - plays Mystic
+Stef - names Scavenger
+Stef - reveals Scheme
+Stef - buys Province
+Stef - gains Province
+Stef - draws Scheme, Mystic, Province
+Stef - shuffles deck
+Stef - draws Mystic, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 8 Mystic, 3 Scheme, 1 Junk Dealer, 1 Mountebank, 3 Copper, 8 Province, 1 Duchy
+Stef - total victory points: 51
+Stef - turns: 25
+ 
+dhammer - cards: 7 Scheme, 2 Upgrade, 1 Forge, 1 Mountebank, 1 Junk Dealer, 8 Copper, 3 Gold, 2 Silver, 5 Duchy, 1 Estate
+dhammer - total victory points: 16
+dhammer - turns: 25
+ 
+1st place: Stef
+2nd place: dhammer
+ 

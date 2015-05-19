@@ -1,0 +1,555 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Hamlet, Hermit, Tunnel, Remake, Spice Merchant, Ghost Ship, Horn of Plenty, Mine, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+new_tomitake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - buys Hermit
+new_tomitake - gains Hermit
+new_tomitake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Copper, Hermit, Copper, Spice Merchant
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Spice Merchant
+new_tomitake - gains Spice Merchant
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Copper, Estate, Spice Merchant, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Estate
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Hermit
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - draws Estate, Estate
+new_tomitake - plays 2 Copper
+new_tomitake - buys Hamlet
+new_tomitake - gains Hamlet
+new_tomitake - draws Copper, Hermit, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Hamlet, Estate, Copper, Copper, Copper
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays Hermit
+new_tomitake - trashes Estate
+new_tomitake - gains Hermit
+new_tomitake - plays 4 Copper
+new_tomitake - buys Spice Merchant
+new_tomitake - gains Spice Merchant
+new_tomitake - shuffles deck
+new_tomitake - draws Hamlet, Spice Merchant, Estate, Copper, Hermit
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Copper, Copper, Copper, Hermit, Madman
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - draws Copper, Hermit
+new_tomitake - plays Hamlet
+new_tomitake - draws Copper
+new_tomitake - discards Estate
+new_tomitake - receives one action
+new_tomitake - plays Hermit
+new_tomitake - trashes Estate
+new_tomitake - gains Tunnel
+new_tomitake - plays Hermit
+new_tomitake - gains Hermit
+new_tomitake - trashes Hermit
+new_tomitake - gains Madman
+new_tomitake - trashes Hermit
+new_tomitake - gains Madman
+new_tomitake - draws Copper, Estate, Copper, Spice Merchant, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Madman
+Stef - draws Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Estate, Hamlet
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Hamlet
+Stef - plays 5 Copper
+Stef - buys Ghost Ship
+Stef - gains Ghost Ship
+Stef - draws Hermit
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Hamlet
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Spice Merchant
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - draws Copper, Hamlet
+new_tomitake - plays Hamlet
+new_tomitake - draws Hermit
+new_tomitake - discards Estate
+new_tomitake - receives one buy
+new_tomitake - plays Hermit
+new_tomitake - trashes Estate
+new_tomitake - gains Hamlet
+new_tomitake - plays 3 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Tunnel, Madman, Madman
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Hamlet
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Hermit
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Hamlet, Ghost Ship, Copper, Spice Merchant, Copper
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays Madman
+new_tomitake - draws Silver, Spice Merchant, Copper, Hamlet
+new_tomitake - plays Hamlet
+new_tomitake - draws Hermit
+new_tomitake - discards Tunnel
+new_tomitake - reveals reaction Tunnel
+new_tomitake - gains Gold
+new_tomitake - receives one action
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - draws Spice Merchant, Copper
+new_tomitake - plays Spice Merchant
+new_tomitake - trashes Copper
+new_tomitake - chooses two cards and one action
+new_tomitake - shuffles deck
+new_tomitake - draws Gold, Tunnel
+new_tomitake - plays Hamlet
+new_tomitake - discards Tunnel
+new_tomitake - reveals reaction Tunnel
+new_tomitake - gains Gold
+new_tomitake - receives one action
+new_tomitake - plays Hermit
+new_tomitake - gains Hamlet
+new_tomitake - plays 1 Copper, 1 Silver, 1 Gold
+new_tomitake - buys Ghost Ship
+new_tomitake - gains Ghost Ship
+new_tomitake - shuffles deck
+new_tomitake - draws Spice Merchant, Tunnel, Hamlet, Gold, Hamlet
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Hermit
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Hermit
+Stef - discards Hermit
+Stef - receives one action
+Stef - plays Ghost Ship
+Stef - draws Madman, Hamlet
+new_tomitake - places Gold on top of deck
+new_tomitake - places Tunnel on top of deck
+Stef - plays Madman
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Hermit
+Stef - plays Hermit
+Stef - gains Tunnel
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Tunnel
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - plays Hermit
+Stef - gains Hamlet
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - shuffles deck
+Stef - draws Madman, Madman, Copper, Tunnel, Copper
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - plays Hamlet
+new_tomitake - draws Tunnel
+new_tomitake - discards Tunnel
+new_tomitake - reveals reaction Tunnel
+new_tomitake - gains Gold
+new_tomitake - receives one action
+new_tomitake - plays Hamlet
+new_tomitake - draws Gold
+new_tomitake - discards Spice Merchant
+new_tomitake - receives one action
+new_tomitake - plays Gold
+new_tomitake - buys Hamlet
+new_tomitake - gains Hamlet
+new_tomitake - draws Silver, Madman, Copper, Ghost Ship, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Madman
+Stef - draws Hamlet, Copper, Spice Merchant, Copper
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Madman
+Stef - draws Hamlet, Ghost Ship, Hamlet
+Stef - shuffles deck
+Stef - draws Tunnel, Copper
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Ghost Ship
+Stef - shuffles deck
+Stef - draws Gold, Tunnel
+new_tomitake - places Copper on top of deck
+new_tomitake - places Ghost Ship on top of deck
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Tunnel
+Stef - receives one buy
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 3 Copper, 3 Gold
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Tunnel, Ghost Ship, Hunting Grounds, Hamlet, Hamlet
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - plays Madman
+new_tomitake - draws Ghost Ship, Copper
+new_tomitake - plays Ghost Ship
+new_tomitake - draws Hermit, Spice Merchant
+Stef - places Ghost Ship on top of deck
+Stef - places Hamlet on top of deck
+new_tomitake - plays Hermit
+new_tomitake - trashes Spice Merchant
+new_tomitake - gains Hermit
+new_tomitake - plays 1 Silver, 1 Gold, 1 Copper
+new_tomitake - buys Hunting Grounds
+new_tomitake - gains Hunting Grounds
+new_tomitake - draws Hamlet
+new_tomitake - shuffles deck
+new_tomitake - draws Hamlet, Gold, Hermit, Ghost Ship
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Ghost Ship, Spice Merchant, Hamlet, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Gold
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Ghost Ship
+Stef - draws Gold, Copper
+new_tomitake - places Hermit on top of deck
+new_tomitake - places Gold on top of deck
+Stef - plays Hamlet
+Stef - draws Hunting Grounds
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - shuffles deck
+Stef - draws Copper, Gold, Copper, Tunnel
+Stef - plays 3 Gold, 2 Copper
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Hunting Grounds, Gold, Hamlet, Copper
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - plays Hamlet
+new_tomitake - draws Gold
+new_tomitake - plays Hamlet
+new_tomitake - draws Hermit
+new_tomitake - discards Hermit
+new_tomitake - receives one action
+new_tomitake - plays Ghost Ship
+new_tomitake - draws Spice Merchant, Hunting Grounds
+Stef - places Gold on top of deck
+Stef - places Gold on top of deck
+new_tomitake - plays Hunting Grounds
+new_tomitake - draws Tunnel, Copper, Hamlet, Silver
+new_tomitake - plays 1 Gold, 1 Copper, 1 Silver
+new_tomitake - buys Hunting Grounds
+new_tomitake - gains Hunting Grounds
+new_tomitake - draws Gold, Hermit, Hamlet, Gold
+new_tomitake - shuffles deck
+new_tomitake - draws Ghost Ship
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Gold, Hunting Grounds, Hamlet, Tunnel
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Gold, Hunting Grounds, Copper, Hamlet
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Copper
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Spice Merchant, Gold, Ghost Ship, Hamlet
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Tunnel
+Stef - discards Tunnel
+Stef - receives one action
+Stef - plays Ghost Ship
+Stef - draws Gold, Copper
+new_tomitake - places Gold on top of deck
+new_tomitake - places Hermit on top of deck
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Tunnel
+Stef - plays Hamlet
+Stef - discards Tunnel
+Stef - receives one buy
+Stef - plays 5 Gold, 1 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - buys Horn of Plenty
+Stef - gains Horn of Plenty
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - shuffles deck
+Stef - draws Hamlet, Horn of Plenty, Hunting Grounds, Hunting Grounds, Hamlet
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays Hamlet
+new_tomitake - draws Hermit
+new_tomitake - discards Hermit
+new_tomitake - receives one action
+new_tomitake - plays Ghost Ship
+new_tomitake - draws Gold, Hunting Grounds
+Stef - places Hunting Grounds on top of deck
+Stef - places Hamlet on top of deck
+new_tomitake - plays Hunting Grounds
+new_tomitake - draws Hamlet, Hamlet, Copper, Gold
+new_tomitake - plays 3 Gold, 1 Copper
+new_tomitake - buys Province
+new_tomitake - gains Province
+new_tomitake - draws Hunting Grounds, Silver, Tunnel, Hermit, Spice Merchant
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Horn of Plenty
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Gold, Gold, Hunting Grounds
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Gold
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Hamlet, Spice Merchant, Ghost Ship
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Hamlet, Hamlet
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Gold
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Gold, Hunting Grounds, Gold, Tunnel
+Stef - plays Hamlet
+Stef - draws Hermit
+Stef - discards Tunnel
+Stef - reveals reaction Tunnel
+Stef - gains Gold
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - shuffles deck
+Stef - draws Gold, Gold, Tunnel, Gold
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Tunnel
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - plays Ghost Ship
+Stef - draws Horn of Plenty
+Stef - shuffles deck
+Stef - draws Tunnel
+new_tomitake - places Hunting Grounds on top of deck
+new_tomitake - places Silver on top of deck
+Stef - plays 6 Gold
+Stef - plays Horn of Plenty
+Stef - gains Hunting Grounds
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Gold, Hamlet, Hamlet, Hunting Grounds, Spice Merchant
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - plays Hermit
+new_tomitake - trashes Spice Merchant
+new_tomitake - gains Hermit
+new_tomitake - trashes Hermit
+new_tomitake - gains Madman
+new_tomitake - draws Silver, Hunting Grounds, Hamlet
+new_tomitake - shuffles deck
+new_tomitake - draws Tunnel, Hermit
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Spice Merchant
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Hunting Grounds, Gold, Hamlet
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Gold
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Hamlet, Hermit, Hunting Grounds
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Gold
+Stef - receives one action
+Stef - discards Gold
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Ghost Ship, Province, Hamlet
+Stef - plays Hamlet
+Stef - draws Horn of Plenty
+Stef - discards Province
+Stef - receives one action
+Stef - discards Hunting Grounds
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Tunnel, Province, Gold
+Stef - shuffles deck
+Stef - draws Gold
+ 
+------------ Game Over ------------
+Stef - cards: 2 Hamlet, 1 Hermit, 1 Ghost Ship, 1 Spice Merchant, 1 Hunting Grounds, 6 Gold, 1 Horn of Plenty, 2 Province, 1 Tunnel
+Stef - total victory points: 14
+Stef - turns: 12
+ 
+new_tomitake - resigned
+new_tomitake - cards: 4 Hamlet, 2 Hunting Grounds, 2 Hermit, 1 Ghost Ship, 1 Madman, 3 Gold, 1 Silver, 1 Copper, 1 Tunnel, 1 Province
+new_tomitake - total victory points: 8
+new_tomitake - turns: 12
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

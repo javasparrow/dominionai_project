@@ -1,0 +1,536 @@
+------------ Game Setup ------------
+Supply cards: Black Market, Philosopher's Stone, Conspirator, Coppersmith, Ironmonger, Throne Room, Tournament, Butcher, Journeyman, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion, Ruins
+Black market deck cards: Cultist, Transmute, Village, Goons, Bank, Herbalist, Tactician, Nomad Camp, Horse Traders, Caravan, Harvest, Hunting Grounds, Band of Misfits, Jester, Ironworks, Militia, Forager, Cartographer, Spy, Sea Hag, Lookout, Hoard, Familiar, Courtyard, Chancellor
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Necropolis
+new_tomitake - draws Copper, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Overgrown Estate, Copper, Copper, Copper, Hovel
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - buys Black Market
+new_tomitake - gains Black Market
+new_tomitake - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - shuffles deck
+Stef - draws Copper, Copper, Ironmonger, Necropolis, Copper
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays Necropolis
+new_tomitake - plays 4 Copper
+new_tomitake - buys Tournament
+new_tomitake - gains Tournament
+new_tomitake - shuffles deck
+new_tomitake - draws Black Market, Copper, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ironmonger
+Stef - draws Overgrown Estate
+Stef - reveals: Hovel
+Stef - discards Hovel
+Stef - plays 3 Copper
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - draws Copper, Copper, Copper, Copper, Black Market
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays Necropolis
+new_tomitake - plays Black Market
+new_tomitake - reveals Bank, Tactician, Hoard
+new_tomitake - plays 3 Copper
+new_tomitake - buys Tactician
+new_tomitake - gains Tactician
+new_tomitake - places Bank on bottom of the Black Market deck
+new_tomitake - places Hoard on bottom of the Black Market deck
+new_tomitake - draws Copper, Copper, Tournament, Copper, Overgrown Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Black Market
+Stef - reveals Harvest, Herbalist, Band of Misfits
+Stef - plays 4 Copper
+Stef - places Band of Misfits on bottom of the Black Market deck
+Stef - places Herbalist on bottom of the Black Market deck
+Stef - places Harvest on bottom of the Black Market deck
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - shuffles deck
+Stef - draws Ironmonger, Journeyman, Copper, Copper, Overgrown Estate
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays Tournament
+new_tomitake - draws Copper
+new_tomitake - plays 4 Copper
+new_tomitake - buys Butcher
+new_tomitake - gains Butcher
+new_tomitake - draws Hovel
+new_tomitake - shuffles deck
+new_tomitake - draws Tournament, Copper, Copper, Tactician
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Journeyman
+Stef - names Black Market
+Stef - reveals Copper, Copper, Black Market, Hovel
+Stef - discards Black Market
+Stef - places cards in hand:  Copper, Copper, Hovel
+Stef - plays 5 Copper
+Stef - buys Journeyman
+Stef - gains Journeyman
+Stef - draws Black Market, Copper, Copper, Necropolis
+Stef - shuffles deck
+Stef - draws Ironmonger
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays Tactician
+new_tomitake - discards: Hovel, Tournament, Copper, Copper
+new_tomitake - draws Necropolis, Copper, Copper, Copper, Black Market
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Journeyman
+Stef - discards Journeyman
+Stef - plays Black Market
+Stef - reveals Nomad Camp, Cultist, Transmute
+Stef - plays 3 Copper
+Stef - places Transmute on bottom of the Black Market deck
+Stef - places Cultist on bottom of the Black Market deck
+Stef - places Nomad Camp on bottom of the Black Market deck
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Hovel, Copper, Copper, Journeyman, Copper
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - duration Tactician
+new_tomitake - draws Overgrown Estate, Copper, Copper, Butcher
+new_tomitake - shuffles deck
+new_tomitake - draws Hovel
+new_tomitake - plays Butcher
+new_tomitake - receives 2 coin tokens
+new_tomitake - trashes Overgrown Estate
+new_tomitake - draws Tournament
+new_tomitake - uses 1 coin token
+new_tomitake - gains Estate
+new_tomitake - plays Tournament
+new_tomitake - draws Copper
+new_tomitake - plays Necropolis
+new_tomitake - plays Black Market
+new_tomitake - reveals Chancellor, Village, Sea Hag
+new_tomitake - plays 6 Copper
+new_tomitake - places Chancellor on bottom of the Black Market deck
+new_tomitake - places Village on bottom of the Black Market deck
+new_tomitake - places Sea Hag on bottom of the Black Market deck
+new_tomitake - buys Platinum
+new_tomitake - gains Platinum
+new_tomitake - draws Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Hovel, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Journeyman
+Stef - names Abandoned Mine
+Stef - reveals Black Market, Overgrown Estate, Copper
+Stef - places cards in hand:  Black Market, Overgrown Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Ironmonger, Black Market, Copper, Overgrown Estate, Black Market
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - uses 1 coin token
+new_tomitake - buys Ironmonger
+new_tomitake - gains Ironmonger
+new_tomitake - draws Copper, Copper, Butcher, Tactician, Black Market
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Hovel
+Stef - discards Hovel
+Stef - plays Black Market
+Stef - reveals Goons, Hunting Grounds, Jester
+Stef - plays 2 Copper
+Stef - places Jester on bottom of the Black Market deck
+Stef - places Hunting Grounds on bottom of the Black Market deck
+Stef - places Goons on bottom of the Black Market deck
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Throne Room, Necropolis, Journeyman, Copper, Ironmonger
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - plays Tactician
+new_tomitake - discards: Copper, Copper, Butcher, Black Market
+new_tomitake - draws Tournament, Platinum, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Throne Room
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Journeyman
+Stef - places Journeyman on top of deck
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Journeyman, Copper, Black Market, Black Market
+Stef - discards Copper
+Stef - places cards in hand:  Journeyman, Black Market, Black Market
+Stef - plays Necropolis
+Stef - plays Journeyman
+Stef - names Overgrown Estate
+Stef - reveals Hovel, Throne Room, Copper
+Stef - places cards in hand:  Hovel, Throne Room, Copper
+Stef - plays Black Market
+Stef - reveals Courtyard, Cartographer, Lookout
+Stef - plays 4 Copper
+Stef - places Lookout on bottom of the Black Market deck
+Stef - places Cartographer on bottom of the Black Market deck
+Stef - places Courtyard on bottom of the Black Market deck
+Stef - plays Throne Room
+Stef - plays Black Market
+Stef - reveals Familiar, Spy, Forager
+Stef - places Forager on bottom of the Black Market deck
+Stef - places Spy on bottom of the Black Market deck
+Stef - places Familiar on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Horse Traders, Ironworks, Caravan
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - places Caravan on bottom of the Black Market deck
+Stef - places Horse Traders on bottom of the Black Market deck
+Stef - buys Forge
+Stef - gains Forge
+Stef - draws Copper, Copper, Ironmonger, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Journeyman
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - duration Tactician
+new_tomitake - shuffles deck
+new_tomitake - draws Hovel, Copper, Copper, Copper, Black Market
+new_tomitake - plays Tournament
+new_tomitake - draws Estate
+new_tomitake - plays Necropolis
+new_tomitake - plays Black Market
+new_tomitake - reveals Hoard, Bank, Militia
+new_tomitake - plays 5 Copper, 1 Platinum
+new_tomitake - buys Militia
+new_tomitake - gains Militia
+new_tomitake - places Hoard on bottom of the Black Market deck
+new_tomitake - places Bank on bottom of the Black Market deck
+new_tomitake - buys Forge
+new_tomitake - gains Forge
+new_tomitake - buys Estate
+new_tomitake - trashes Hovel
+new_tomitake - gains Estate
+new_tomitake - draws Ironmonger, Butcher, Copper, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Forge
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Hovel
+Stef - discards Hovel
+Stef - plays Journeyman
+Stef - names Black Market
+Stef - reveals Journeyman, Ironmonger, Forge
+Stef - places cards in hand:  Journeyman, Ironmonger, Forge
+Stef - draws Necropolis, Black Market, Copper, Black Market, Copper
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - plays Ironmonger
+new_tomitake - draws Copper
+new_tomitake - reveals: Estate
+new_tomitake - discards Estate
+new_tomitake - draws Militia
+new_tomitake - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+new_tomitake - plays 3 Copper
+new_tomitake - buys Journeyman
+new_tomitake - gains Journeyman
+new_tomitake - draws Necropolis, Copper, Tournament, Copper, Platinum
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Necropolis
+Stef - plays Black Market
+Stef - reveals Harvest, Herbalist, Band of Misfits
+Stef - places Band of Misfits on bottom of the Black Market deck
+Stef - places Herbalist on bottom of the Black Market deck
+Stef - places Harvest on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Nomad Camp, Cultist, Transmute
+Stef - places Transmute on bottom of the Black Market deck
+Stef - places Cultist on bottom of the Black Market deck
+Stef - places Nomad Camp on bottom of the Black Market deck
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Ironworks, Throne Room, Copper, Throne Room, Copper
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays Tournament
+new_tomitake - draws Black Market
+new_tomitake - plays Necropolis
+new_tomitake - plays Black Market
+new_tomitake - reveals Sea Hag, Village, Chancellor
+new_tomitake - plays 2 Copper, 1 Platinum
+new_tomitake - places Sea Hag on bottom of the Black Market deck
+new_tomitake - places Village on bottom of the Black Market deck
+new_tomitake - places Chancellor on bottom of the Black Market deck
+new_tomitake - buys Province
+new_tomitake - gains Province
+new_tomitake - draws Tactician, Copper, Copper, Estate
+new_tomitake - shuffles deck
+new_tomitake - draws Ironmonger
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Throne Room
+Stef - plays Ironworks
+Stef - gains Ironmonger
+Stef - plays Ironworks
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Copper, Black Market, Throne Room, Hovel, Forge
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - plays Ironmonger
+new_tomitake - draws Copper
+new_tomitake - reveals: Tournament
+new_tomitake - places Tournament on top of deck
+new_tomitake - plays Tactician
+new_tomitake - discards: Copper, Copper, Estate, Copper
+new_tomitake - draws Tournament, Copper, Forge, Necropolis, Butcher
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Throne Room
+Stef - plays Black Market
+Stef - reveals Goons, Hunting Grounds, Jester
+Stef - places Jester on bottom of the Black Market deck
+Stef - places Hunting Grounds on bottom of the Black Market deck
+Stef - places Goons on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Courtyard, Cartographer, Lookout
+Stef - plays 1 Copper
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - places Lookout on bottom of the Black Market deck
+Stef - places Courtyard on bottom of the Black Market deck
+Stef - draws Ironmonger, Ironmonger, Ironmonger, Copper, Copper
+ 
+---------- new_tomitake: turn 13 ----------
+new_tomitake - duration Tactician
+new_tomitake - draws Copper, Estate, Copper, Militia, Province
+new_tomitake - plays Tournament
+new_tomitake - reveals Province
+new_tomitake - discards Province
+new_tomitake - gains Trusty Steed
+new_tomitake - draws Trusty Steed
+new_tomitake - plays Trusty Steed
+new_tomitake - takes 2 actions
+new_tomitake - draws Journeyman, Copper
+new_tomitake - plays Necropolis
+new_tomitake - plays Journeyman
+new_tomitake - names Province
+new_tomitake - shuffles deck
+new_tomitake - reveals Black Market, Platinum, Province, Ironmonger
+new_tomitake - discards Province
+new_tomitake - places cards in hand:  Black Market, Platinum, Ironmonger
+new_tomitake - plays Ironmonger
+new_tomitake - draws Copper
+new_tomitake - reveals: Copper
+new_tomitake - discards Copper
+new_tomitake - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+new_tomitake - plays Forge
+new_tomitake - trashes Copper, Copper, Copper, Copper, Copper, Estate, Black Market
+new_tomitake - gains Butcher
+new_tomitake - plays Butcher
+new_tomitake - receives 2 coin tokens
+new_tomitake - plays 1 Platinum
+new_tomitake - buys Ironmonger
+new_tomitake - gains Ironmonger
+new_tomitake - buys Throne Room
+new_tomitake - gains Throne Room
+new_tomitake - draws Copper, Estate
+new_tomitake - shuffles deck
+new_tomitake - draws Necropolis, Journeyman, Ironmonger
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Journeyman
+Stef - places Journeyman on top of deck
+Stef - plays Ironmonger
+Stef - draws Journeyman
+Stef - reveals: Journeyman
+Stef - places Journeyman on top of deck
+Stef - plays Ironmonger
+Stef - draws Journeyman
+Stef - reveals: Throne Room
+Stef - places Throne Room on top of deck
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Throne Room, Copper, Throne Room, Ironworks
+Stef - discards Copper
+Stef - places cards in hand:  Throne Room, Throne Room, Ironworks
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Ironworks
+Stef - gains Ironmonger
+Stef - plays Ironworks
+Stef - gains Conspirator
+Stef - plays Throne Room
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Overgrown Estate, Necropolis, Ironmonger
+Stef - places cards in hand:  Overgrown Estate, Necropolis, Ironmonger
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Black Market, Conspirator, Ironmonger
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Black Market, Conspirator, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Cartographer
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Cartographer
+Stef - draws Forge
+Stef - looks at Copper, Hovel, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - places Hovel on top of deck
+Stef - plays Ironmonger
+Stef - draws Hovel
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Forge
+Stef - trashes Hovel, Necropolis, Overgrown Estate, Copper, Copper
+Stef - draws Throne Room
+Stef - gains Black Market
+Stef - plays Throne Room
+Stef - plays Black Market
+Stef - reveals Familiar, Spy, Forager
+Stef - buys Forager
+Stef - gains Forager
+Stef - places Spy on bottom of the Black Market deck
+Stef - places Familiar on bottom of the Black Market deck
+Stef - plays Black Market
+Stef - reveals Hoard, Horse Traders, Caravan
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - places Horse Traders on bottom of the Black Market deck
+Stef - places Hoard on bottom of the Black Market deck
+Stef - draws Black Market
+Stef - shuffles deck
+Stef - draws Forge, Ironmonger, Caravan, Journeyman
+ 
+---------- new_tomitake: turn 14 ----------
+new_tomitake - plays Necropolis
+new_tomitake - plays Journeyman
+new_tomitake - names Copper
+new_tomitake - reveals Ironmonger, Tactician, Trusty Steed
+new_tomitake - places cards in hand:  Ironmonger, Tactician, Trusty Steed
+new_tomitake - plays Ironmonger
+new_tomitake - draws Butcher
+new_tomitake - reveals: Platinum
+new_tomitake - places Platinum on top of deck
+new_tomitake - plays Ironmonger
+new_tomitake - draws Platinum
+new_tomitake - reveals: Province
+new_tomitake - discards Province
+new_tomitake - draws Butcher
+new_tomitake - plays Trusty Steed
+new_tomitake - takes 2 actions
+new_tomitake - draws Forge, Tournament
+new_tomitake - plays Tournament
+new_tomitake - draws Militia
+new_tomitake - plays Butcher
+new_tomitake - receives 2 coin tokens
+new_tomitake - trashes Tactician
+new_tomitake - gains Throne Room
+new_tomitake - plays Militia
+Stef - discards Black Market
+Stef - discards Forge
+new_tomitake - plays 1 Copper, 1 Platinum
+new_tomitake - buys Platinum
+new_tomitake - gains Platinum
+new_tomitake - draws Throne Room, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Forge, Estate, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Ironmonger
+Stef - draws Black Market
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Caravan
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Throne Room
+Stef - plays Throne Room
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Journeyman, Copper, Copper, Ironmonger, Throne Room
+Stef - discards: Copper, Copper
+Stef - places cards in hand:  Journeyman, Ironmonger, Throne Room
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Ironworks, Throne Room, Black Market
+Stef - places cards in hand:  Ironworks, Throne Room, Black Market
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Journeyman
+Stef - names Copper
+Stef - reveals Cartographer, Copper, Ironmonger, Forager
+Stef - discards Copper
+Stef - places cards in hand:  Cartographer, Ironmonger, Forager
+Stef - plays Journeyman
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Ironmonger, Ironmonger, Copper, Copper, Copper, Copper, Forge
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - places cards in hand:  Ironmonger, Ironmonger, Forge
+Stef - plays Throne Room
+ 
+------------ Game Over ------------
+Stef - cards: 4 Ironmonger, 3 Black Market, 1 Ironworks, 1 Cartographer, 1 Forager, 1 Forge, 5 Copper
+Stef - victory point chips: 0
+Stef - total victory points: 0
+Stef - turns: 14
+ 
+new_tomitake - resigned
+new_tomitake - cards: 2 Throne Room, 2 Ironmonger, 2 Butcher, 1 Forge, 1 Militia, 1 Necropolis, 1 Journeyman, 1 Tournament, 1 Trusty Steed, 2 Copper, 2 Platinum, 1 Estate, 1 Province
+new_tomitake - victory point chips: 0
+new_tomitake - total victory points: 7
+new_tomitake - turns: 14
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

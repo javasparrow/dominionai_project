@@ -1,0 +1,513 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Black Market, Steward, Armory, Bishop, Conspirator, Noble Brigand, Golem, Merchant Guild, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Black market deck cards: Baker, Cartographer, Butcher, Hunting Party, Squire, Salvager, Masterpiece, Silk Road, Journeyman, Bandit Camp, Bazaar, Remodel, Wandering Minstrel, Rogue, Baron, Junk Dealer, Storeroom, Possession, Apprentice, Counterfeit, Moat, Taxman, Hoard, Tribute, King's Court
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Darter - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Darter - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+Darter - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Darter: turn 1 ----------
+Darter - plays 2 Copper
+Darter - uses 1 coin token
+Darter - buys Steward
+Darter - gains Steward
+Darter - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Darter: turn 2 ----------
+Darter - plays 5 Copper
+Darter - buys Merchant Guild
+Darter - gains Merchant Guild
+Darter - shuffles deck
+Darter - draws Steward, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Merchant Guild, Copper, Steward, Copper
+ 
+---------- Darter: turn 3 ----------
+Darter - plays Steward
+Darter - trashes Estate, Copper
+Darter - plays 2 Copper
+Darter - buys Vagrant
+Darter - gains Vagrant
+Darter - draws Copper, Estate, Copper, Estate, Merchant Guild
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Merchant Guild
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Merchant Guild
+ 
+---------- Darter: turn 4 ----------
+Darter - plays Merchant Guild
+Darter - plays 2 Copper
+Darter - buys Vagrant
+Darter - receives 1 coin token
+Darter - gains Vagrant
+Darter - draws Copper, Copper
+Darter - shuffles deck
+Darter - draws Copper, Vagrant, Steward
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Merchant Guild
+Stef - plays 2 Copper
+Stef - uses 1 coin token
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - receives 1 coin token
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Copper, Steward
+ 
+---------- Darter: turn 5 ----------
+Darter - plays Vagrant
+Darter - draws Copper
+Darter - reveals: Estate
+Darter - places Estate in hand
+Darter - plays Steward
+Darter - trashes Estate, Copper
+Darter - plays 3 Copper
+Darter - uses 1 coin token
+Darter - buys Peddler
+Darter - gains Peddler
+Darter - draws Vagrant, Merchant Guild, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Estate, Vagrant, Vagrant, Copper
+ 
+---------- Darter: turn 6 ----------
+Darter - plays Vagrant
+Darter - shuffles deck
+Darter - draws Vagrant
+Darter - reveals: Steward
+Darter - places Steward on top of deck
+Darter - plays Vagrant
+Darter - draws Steward
+Darter - reveals: Peddler
+Darter - places Peddler on top of deck
+Darter - plays Merchant Guild
+Darter - plays 2 Copper
+Darter - buys Peddler
+Darter - receives 1 coin token
+Darter - gains Peddler
+Darter - draws Peddler, Copper, Copper, Copper
+Darter - shuffles deck
+Darter - draws Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Steward
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Vagrant, Merchant Guild, Vagrant, Estate, Estate
+ 
+---------- Darter: turn 7 ----------
+Darter - plays Peddler
+Darter - draws Copper
+Darter - plays 4 Copper
+Darter - buys Potion
+Darter - gains Potion
+Darter - draws Copper, Peddler, Merchant Guild, Vagrant, Vagrant
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Merchant Guild
+Stef - plays 2 Copper
+Stef - uses 3 coin tokens
+Stef - buys Peddler
+Stef - receives 1 coin token
+Stef - gains Peddler
+Stef - buys Potion
+Stef - receives 1 coin token
+Stef - gains Potion
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - draws Estate, Merchant Guild, Potion, Copper
+ 
+---------- Darter: turn 8 ----------
+Darter - plays Vagrant
+Darter - draws Steward
+Darter - shuffles deck
+Darter - reveals: Copper
+Darter - places Copper on top of deck
+Darter - plays Vagrant
+Darter - draws Copper
+Darter - reveals: Copper
+Darter - places Copper on top of deck
+Darter - plays Peddler
+Darter - draws Copper
+Darter - plays Steward
+Darter - trashes Copper, Copper
+Darter - plays 1 Copper
+Darter - buys Peddler
+Darter - gains Peddler
+Darter - draws Peddler, Estate, Copper, Potion, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Merchant Guild
+Stef - plays 2 Copper, 1 Potion
+Stef - uses 1 coin token
+Stef - buys Golem
+Stef - receives 1 coin token
+Stef - gains Golem
+Stef - draws Vagrant, Copper, Vagrant, Vagrant, Vagrant
+ 
+---------- Darter: turn 9 ----------
+Darter - plays Peddler
+Darter - shuffles deck
+Darter - draws Copper
+Darter - plays 3 Copper, 1 Potion
+Darter - buys Golem
+Darter - gains Golem
+Darter - draws Vagrant, Vagrant, Peddler, Merchant Guild, Steward
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Vagrant
+Stef - draws Peddler
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - shuffles deck
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Vagrant
+Stef - draws Potion
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Peddler
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Copper, Merchant Guild, Copper
+Stef - discards: Copper, Copper
+Stef - plays Merchant Guild
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Golem
+Stef - receives 1 coin token
+Stef - gains Golem
+Stef - buys Peddler
+Stef - receives 1 coin token
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Vagrant, Copper
+ 
+---------- Darter: turn 10 ----------
+Darter - plays Vagrant
+Darter - draws Peddler
+Darter - shuffles deck
+Darter - reveals: Copper
+Darter - places Copper on top of deck
+Darter - plays Vagrant
+Darter - draws Copper
+Darter - reveals: Estate
+Darter - places Estate in hand
+Darter - plays Peddler
+Darter - draws Copper
+Darter - plays Peddler
+Darter - draws Golem
+Darter - plays Golem
+Darter - reveals Copper, Peddler, Potion
+Darter - discards: Copper, Potion
+Darter - plays Peddler
+Darter - shuffles deck
+Darter - draws Potion
+Darter - plays Merchant Guild
+Darter - plays 2 Copper, 1 Potion
+Darter - buys Golem
+Darter - receives 1 coin token
+Darter - gains Golem
+Darter - buys Peddler
+Darter - receives 1 coin token
+Darter - gains Peddler
+Darter - draws Copper
+Darter - shuffles deck
+Darter - draws Copper, Estate, Golem, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - uses 1 coin token
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - draws Vagrant, Vagrant, Vagrant, Peddler, Merchant Guild
+ 
+---------- Darter: turn 11 ----------
+Darter - plays Golem
+Darter - reveals Vagrant, Peddler
+Darter - plays Vagrant
+Darter - draws Peddler
+Darter - reveals: Merchant Guild
+Darter - places Merchant Guild on top of deck
+Darter - plays Peddler
+Darter - draws Merchant Guild
+Darter - plays Peddler
+Darter - draws Peddler
+Darter - plays Peddler
+Darter - draws Vagrant
+Darter - plays Vagrant
+Darter - draws Golem
+Darter - reveals: Potion
+Darter - places Potion on top of deck
+Darter - plays Golem
+Darter - reveals Potion, Peddler, Steward
+Darter - discards Potion
+Darter - plays Peddler
+Darter - shuffles deck
+Darter - draws Potion
+Darter - plays Steward
+Darter - trashes Estate, Copper
+Darter - plays Merchant Guild
+Darter - plays 2 Copper, 1 Potion
+Darter - buys Golem
+Darter - receives 1 coin token
+Darter - gains Golem
+Darter - buys Black Market
+Darter - receives 1 coin token
+Darter - gains Black Market
+Darter - shuffles deck
+Darter - draws Vagrant, Copper, Vagrant, Potion, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Golem
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Golem
+Stef - reveals Estate, Vagrant, Peddler
+Stef - discards Estate
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Vagrant
+Stef - draws Golem
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Potion, Vagrant, Copper, Vagrant
+Stef - discards: Potion, Copper
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Peddler
+Stef - draws Black Market
+Stef - plays Merchant Guild
+Stef - plays Black Market
+Stef - reveals Squire, Rogue, Baker
+Stef - buys Squire
+Stef - receives 1 coin token
+Stef - gains Squire
+Stef - places Rogue on bottom of the Black Market deck
+Stef - places Baker on bottom of the Black Market deck
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Potion
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Squire
+Stef - places Squire on top of deck
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - uses 2 coin tokens
+Stef - buys Golem
+Stef - receives 1 coin token
+Stef - gains Golem
+Stef - buys Conspirator
+Stef - receives 1 coin token
+Stef - gains Conspirator
+Stef - draws Squire
+Stef - shuffles deck
+Stef - draws Black Market, Golem, Golem, Copper
+ 
+---------- Darter: turn 12 ----------
+Darter - plays Vagrant
+Darter - draws Golem
+Darter - reveals: Peddler
+Darter - places Peddler on top of deck
+Darter - plays Golem
+Darter - reveals Peddler, Peddler
+Darter - plays Peddler
+Darter - draws Peddler
+Darter - plays Peddler
+Darter - draws Golem
+Darter - plays Golem
+Darter - reveals Steward, Golem, Black Market
+Darter - discards Golem
+Darter - plays Black Market
+Darter - reveals Apprentice, Cartographer, Taxman
+Darter - plays Copper
+Darter - buys Cartographer
+Darter - gains Cartographer
+Darter - places Taxman on bottom of the Black Market deck
+Darter - places Apprentice on bottom of the Black Market deck
+Darter - plays Steward
+Darter - draws Merchant Guild, Peddler
+Darter - plays Peddler
+Darter - shuffles deck
+Darter - draws Golem
+Darter - plays Peddler
+Darter - draws Cartographer
+Darter - plays Merchant Guild
+Darter - plays 1 Copper, 1 Potion
+Darter - uses 4 coin tokens
+Darter - buys Golem
+Darter - receives 1 coin token
+Darter - gains Golem
+Darter - buys Armory
+Darter - receives 1 coin token
+Darter - gains Armory
+Darter - shuffles deck
+Darter - draws Cartographer, Black Market, Peddler, Golem, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Golem
+Stef - reveals Copper, Steward, Vagrant
+Stef - discards Copper
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Golem
+Stef - reveals Peddler, Vagrant
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Vagrant
+Stef - draws Merchant Guild
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Golem
+Stef - places Golem on top of deck
+Stef - plays Conspirator
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Vagrant, Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Vagrant
+Stef - draws Peddler
+Stef - reveals: Peddler
+Stef - places Peddler on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Merchant Guild
+Stef - plays Black Market
+Stef - reveals Baron, Remodel, Possession
+Stef - plays Potion
+Stef - buys Possession
+Stef - receives 1 coin token
+Stef - gains Possession
+Stef - places Remodel on bottom of the Black Market deck
+Stef - places Baron on bottom of the Black Market deck
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Possession
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+ 
+------------ Game Over ------------
+Stef - cards: 1 Squire, 1 Possession, 2 Copper
+Stef - victory point chips: 0
+Stef - total victory points: 0
+Stef - turns: 12
+ 
+Darter - resigned
+Darter - cards: 4 Peddler, 4 Golem, 2 Vagrant, 1 Cartographer, 1 Black Market, 1 Armory, 1 Merchant Guild, 1 Steward, 2 Copper, 1 Potion
+Darter - victory point chips: 0
+Darter - total victory points: 0
+Darter - turns: 12
+ 
+1st place: Stef
+2nd place: Darter
+ 

@@ -1,0 +1,892 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Scrying Pool, Workshop, Advisor, Feodum, Herald, Horse Traders, Hunting Party, Inn, Knights, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dawn_harbor - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dawn_harbor - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+dawn_harbor - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- dawn_harbor: turn 1 ----------
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Workshop
+dawn_harbor - gains Workshop
+dawn_harbor - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- dawn_harbor: turn 2 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Potion
+dawn_harbor - gains Potion
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- dawn_harbor: turn 3 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Advisor
+dawn_harbor - gains Advisor
+dawn_harbor - draws Copper, Copper, Estate, Workshop, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- dawn_harbor: turn 4 ----------
+dawn_harbor - plays Workshop
+dawn_harbor - gains Horse Traders
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Pawn
+dawn_harbor - gains Pawn
+dawn_harbor - draws Potion, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Estate, Pawn, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Horse Traders, Estate
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper
+ 
+---------- dawn_harbor: turn 5 ----------
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - draws Horse Traders
+dawn_harbor - plays 2 Copper, 1 Potion
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - draws Copper, Copper, Copper, Advisor, Workshop
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Silver, Hunting Party, Copper, Copper, Estate
+ 
+---------- dawn_harbor: turn 6 ----------
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Estate, Copper, Copper
+Stef - discards Copper
+dawn_harbor - places cards in hand:  Estate, Copper
+dawn_harbor - plays Workshop
+dawn_harbor - gains Herald
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Herald
+dawn_harbor - gains Herald
+dawn_harbor - draws Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Copper, Potion, Herald
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Copper, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Estate, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Copper, Estate
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Silver, Copper, Copper, Estate, Copper, Estate
+Stef - reveals Copper, Silver, Copper, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Copper, Silver, Copper
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Hunting Party, Copper
+ 
+---------- dawn_harbor: turn 7 ----------
+dawn_harbor - plays Herald
+dawn_harbor - draws Copper
+dawn_harbor - reveals: Copper
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays 3 Copper, 1 Potion
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - draws Copper, Scrying Pool, Horse Traders, Herald, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Copper, Silver, Copper, Hunting Party
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Copper, Copper, Silver, Copper, Estate, Silver
+Stef - reveals Copper, Copper, Copper, Copper, Estate, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Copper, Copper, Copper, Copper, Estate
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Hunting Party, Estate
+Stef - shuffles deck
+Stef - draws Copper, Silver
+ 
+---------- dawn_harbor: turn 8 ----------
+dawn_harbor - plays Herald
+dawn_harbor - draws Estate
+dawn_harbor - reveals: Copper
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Copper
+Stef - discards Silver
+dawn_harbor - reveals Advisor, Copper
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Workshop, Pawn, Estate
+Stef - discards Workshop
+dawn_harbor - places cards in hand:  Pawn, Estate
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - takes 1 coin
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Estate
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Dame Molly
+dawn_harbor - gains Dame Molly
+dawn_harbor - buys Pawn
+dawn_harbor - gains Pawn
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Copper, Copper, Dame Molly, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Estate, Copper, Silver, Hunting Party
+Stef - reveals Estate, Copper, Copper, Copper, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Estate, Copper, Copper, Copper
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Estate, Copper, Silver, Horse Traders, Hunting Party
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Estate, Copper, Copper, Hunting Party, Copper, Copper, Copper, Estate, Silver
+Stef - discards: Silver, Copper, Estate, Copper, Copper, Hunting Party, Copper, Copper, Copper, Estate, Silver
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Silver
+Stef - reveals hand: Silver, Estate, Copper, Silver, Horse Traders, Silver
+Stef - reveals Copper, Copper, Estate, Copper, Estate, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Copper, Estate, Copper, Estate, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Estate, Copper, Silver, Horse Traders, Silver, Copper
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Estate, Estate, Copper, Copper, Copper, Copper
+Stef - discards: Silver, Copper, Estate, Estate, Copper, Copper, Copper, Copper
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Dame Natalie
+Stef - gains Dame Natalie
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Hunting Party, Copper, Copper, Copper, Estate
+ 
+---------- dawn_harbor: turn 9 ----------
+dawn_harbor - plays Dame Molly
+Stef - reveals: Copper, Copper
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Pawn
+dawn_harbor - gains Pawn
+dawn_harbor - draws Copper, Workshop, Pawn, Horse Traders, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Copper, Copper, Estate, Hunting Party
+Stef - reveals Estate, Hunting Party, Copper, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Estate, Hunting Party, Copper
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Copper, Copper, Copper, Estate, Horse Traders, Silver
+Stef - reveals Silver, Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Silver
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Copper, Copper, Estate, Horse Traders, Silver, Hunting Party
+Stef - reveals Dame Natalie
+Stef - places Dame Natalie in hand
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Copper, Copper, Copper, Estate, Horse Traders, Silver, Dame Natalie, Estate
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Estate, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Copper, Estate
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Copper, Copper, Estate, Horse Traders, Silver, Dame Natalie, Estate, Copper
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Copper, Silver, Estate, Copper, Silver
+Stef - discards: Silver, Copper, Copper, Silver, Estate, Copper, Silver
+Stef - plays Dame Natalie
+dawn_harbor - reveals reaction Horse Traders
+Stef - gains Silver
+dawn_harbor - reveals: Estate, Herald
+dawn_harbor - trashes Herald
+dawn_harbor - discards Estate
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Silver, Copper, Silver, Copper, Horse Traders
+ 
+---------- dawn_harbor: turn 10 ----------
+dawn_harbor - duration Horse Traders
+dawn_harbor - draws Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Potion
+dawn_harbor - plays Workshop
+dawn_harbor - gains Advisor
+dawn_harbor - plays 3 Copper, 1 Potion
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - draws Scrying Pool, Advisor, Copper, Pawn, Herald
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Hunting Party, Silver, Estate, Estate
+ 
+---------- dawn_harbor: turn 11 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Scrying Pool on top of deck
+Stef - discards Hunting Party
+dawn_harbor - reveals Scrying Pool, Estate
+dawn_harbor - plays Advisor
+dawn_harbor - shuffles deck
+dawn_harbor - reveals: Pawn, Estate, Pawn
+Stef - discards Pawn
+dawn_harbor - places cards in hand:  Pawn, Estate
+dawn_harbor - plays Herald
+dawn_harbor - draws Scrying Pool
+dawn_harbor - reveals: Advisor
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Potion, Workshop, Copper
+Stef - discards Potion
+dawn_harbor - places cards in hand:  Workshop, Copper
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Copper
+Stef - discards Dame Natalie
+dawn_harbor - reveals Estate
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Dame Molly on top of deck
+Stef - discards Copper
+dawn_harbor - reveals Dame Molly, Copper
+dawn_harbor - plays Dame Molly
+Stef - reveals: Estate, Silver
+Stef - trashes Silver
+Stef - discards Estate
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - draws Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 buy
+dawn_harbor - draws Horse Traders
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Workshop
+dawn_harbor - discards Estate
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Dame Sylvia
+dawn_harbor - gains Dame Sylvia
+dawn_harbor - buys Pawn
+dawn_harbor - gains Pawn
+dawn_harbor - draws Copper, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Potion, Copper, Scrying Pool
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Estate, Estate, Copper
+Stef - reveals Copper, Copper, Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Copper, Silver
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Silver, Estate, Estate, Copper, Hunting Party
+Stef - shuffles deck
+Stef - reveals Hunting Party, Hunting Party, Estate, Silver, Copper, Copper, Dame Natalie
+Stef - places Dame Natalie in hand
+Stef - discards: Hunting Party, Hunting Party, Estate, Silver, Copper, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Estate, Estate, Copper, Dame Natalie, Copper
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Silver, Estate, Estate, Copper, Dame Natalie, Copper, Copper
+Stef - reveals Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Silver
+Stef - reveals hand: Copper, Silver, Estate, Estate, Copper, Dame Natalie, Copper, Copper, Silver
+Stef - reveals Horse Traders
+Stef - places Horse Traders in hand
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Dame Natalie
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Dame Natalie, Estate, Hunting Party, Silver
+ 
+---------- dawn_harbor: turn 12 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Pawn on top of deck
+Stef - discards Horse Traders
+dawn_harbor - reveals Pawn, Scrying Pool, Workshop, Scrying Pool, Herald, Dame Sylvia, Copper
+dawn_harbor - plays Herald
+dawn_harbor - draws Estate
+dawn_harbor - reveals: Copper
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Copper
+Stef - discards Silver
+dawn_harbor - reveals Dame Molly, Estate
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Advisor on top of deck
+Stef - places Hunting Party on top of deck
+dawn_harbor - reveals Advisor, Pawn, Copper
+dawn_harbor - plays Dame Molly
+Stef - reveals: Hunting Party, Gold
+Stef - trashes Hunting Party
+Stef - discards Gold
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Copper, Estate, Horse Traders
+Stef - discards Horse Traders
+dawn_harbor - places cards in hand:  Copper, Estate
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Pawn
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Advisor
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Pawn
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - shuffles deck
+dawn_harbor - draws Horse Traders
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Copper
+Stef - discards Copper
+dawn_harbor - plays Dame Sylvia
+Stef - reveals: Hunting Party, Estate
+Stef - trashes Hunting Party
+Stef - discards Estate
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Estate
+dawn_harbor - plays 6 Copper, 1 Potion
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - buys Inn
+dawn_harbor - gains Inn
+dawn_harbor - places Inn, Scrying Pool on top of deck
+dawn_harbor - shuffles deck
+dawn_harbor - draws Inn, Scrying Pool
+dawn_harbor - shuffles deck
+dawn_harbor - draws Scrying Pool, Dame Sylvia, Dame Molly
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Hunting Party
+Stef - shuffles deck
+Stef - reveals Copper, Hunting Party, Hunting Party, Copper, Hunting Party, Hunting Party, Silver, Silver, Estate, Copper, Copper, Copper, Copper, Estate, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards: Copper, Hunting Party, Hunting Party, Copper, Hunting Party, Hunting Party, Silver, Silver, Estate, Copper, Copper, Copper, Copper, Estate
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Horse Traders, Gold
+Stef - shuffles deck
+Stef - reveals Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Horse Traders, Gold, Copper
+Stef - reveals Estate, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Estate, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Horse Traders, Gold, Copper, Copper
+Stef - reveals Copper, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Horse Traders, Gold, Copper, Copper, Copper
+Stef - reveals Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Copper, Dame Natalie, Estate, Silver, Horse Traders, Gold, Copper, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Copper, Estate, Silver, Silver, Copper
+Stef - discards: Silver, Copper, Copper, Estate, Silver, Silver, Copper
+Stef - plays Dame Natalie
+Stef - gains Silver
+dawn_harbor - reveals: Scrying Pool, Copper
+Stef - plays 4 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Hunting Party, Gold
+ 
+---------- dawn_harbor: turn 13 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Advisor on top of deck
+Stef - discards Copper
+dawn_harbor - reveals Advisor, Copper
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Copper, Pawn, Advisor
+Stef - discards Advisor
+dawn_harbor - places cards in hand:  Copper, Pawn
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Estate
+Stef - discards Dame Natalie
+dawn_harbor - reveals Copper
+dawn_harbor - plays Inn
+dawn_harbor - draws Copper, Horse Traders
+dawn_harbor - discards Copper
+dawn_harbor - discards Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Herald
+dawn_harbor - plays Herald
+dawn_harbor - draws Pawn
+dawn_harbor - reveals: Pawn
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - draws Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Estate
+dawn_harbor - plays Dame Molly
+Stef - reveals: Hunting Party, Estate
+Stef - trashes Hunting Party
+Stef - discards Estate
+dawn_harbor - plays Dame Sylvia
+Stef - reveals: Hunting Party, Silver
+Stef - trashes Silver
+Stef - discards Hunting Party
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Copper
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Sir Martin
+dawn_harbor - gains Sir Martin
+dawn_harbor - buys Herald
+dawn_harbor - gains Herald
+dawn_harbor - draws Copper, Workshop, Estate, Scrying Pool, Pawn
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - draws Horse Traders
+Stef - reveals hand: Copper, Copper, Silver, Gold, Horse Traders
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Copper, Copper, Silver, Gold, Horse Traders, Copper
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Province
+Stef - reveals hand: Copper, Copper, Silver, Gold, Horse Traders, Copper, Province
+Stef - reveals Copper, Estate
+Stef - places Estate in hand
+Stef - discards Copper
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Estate, Silver, Hunting Party, Copper
+ 
+---------- dawn_harbor: turn 14 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Potion
+Stef - discards Silver
+dawn_harbor - shuffles deck
+dawn_harbor - reveals Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Horse Traders
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Workshop
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Hunting Party
+dawn_harbor - gains Hunting Party
+dawn_harbor - draws Copper, Pawn, Potion, Copper, Scrying Pool
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Estate, Silver, Copper, Copper
+Stef - shuffles deck
+Stef - reveals Silver, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards Silver
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Silver, Estate, Silver, Copper, Copper, Estate
+Stef - reveals Silver, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Silver, Copper
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Silver, Estate, Silver, Copper, Copper, Estate, Copper
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays 3 Copper, 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Province, Estate, Copper, Silver
+ 
+---------- dawn_harbor: turn 15 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Pawn on top of deck
+Stef - places Hunting Party on top of deck
+dawn_harbor - reveals Pawn, Herald, Estate
+dawn_harbor - plays Herald
+dawn_harbor - draws Dame Sylvia
+dawn_harbor - reveals: Inn
+dawn_harbor - plays Inn
+dawn_harbor - draws Scrying Pool, Copper
+dawn_harbor - discards Estate
+dawn_harbor - discards Copper
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Advisor on top of deck
+Stef - places Hunting Party on top of deck
+dawn_harbor - reveals Advisor, Dame Molly, Pawn, Copper
+dawn_harbor - plays Dame Molly
+Stef - reveals: Hunting Party, Province
+Stef - trashes Hunting Party
+Stef - discards Province
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Advisor, Sir Martin, Scrying Pool
+Stef - discards Scrying Pool
+dawn_harbor - places cards in hand:  Advisor, Sir Martin
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Herald, Copper, Estate
+Stef - discards Herald
+dawn_harbor - places cards in hand:  Copper, Estate
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - shuffles deck
+dawn_harbor - draws Scrying Pool
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Herald on top of deck
+Stef - places Hunting Party on top of deck
+dawn_harbor - reveals Herald, Horse Traders, Hunting Party, Workshop, Copper
+dawn_harbor - plays Hunting Party
+dawn_harbor - draws Estate
+dawn_harbor - reveals hand: Copper, Pawn, Potion, Pawn, Dame Sylvia, Copper, Copper, Sir Martin, Copper, Estate, Herald, Horse Traders, Workshop, Copper, Estate
+dawn_harbor - reveals Scrying Pool
+dawn_harbor - places Scrying Pool in hand
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Copper
+Stef - places Hunting Party on top of deck
+dawn_harbor - reveals Estate
+dawn_harbor - plays Dame Sylvia
+Stef - reveals: Hunting Party, Dame Natalie
+Stef - trashes Dame Natalie
+Stef - discards Hunting Party
+dawn_harbor - trashes Dame Sylvia
+dawn_harbor - plays Herald
+dawn_harbor - draws Copper
+dawn_harbor - reveals: Pawn
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - plays Sir Martin
+Stef - reveals: Copper, Horse Traders
+Stef - trashes Horse Traders
+Stef - discards Copper
+dawn_harbor - plays Workshop
+dawn_harbor - gains Herald
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - takes 1 coin
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - takes 1 coin
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Estate
+dawn_harbor - plays 7 Copper, 1 Potion
+dawn_harbor - buys Province
+dawn_harbor - gains Province
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - buys Hunting Party
+dawn_harbor - gains Hunting Party
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Pawn, Copper, Copper, Scrying Pool
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - shuffles deck
+Stef - draws Province, Copper, Copper, Horse Traders, Gold
+ 
+---------- dawn_harbor: turn 16 ----------
+dawn_harbor - plays Scrying Pool
+Stef - reveals reaction Horse Traders
+dawn_harbor - discards Copper
+Stef - discards Silver
+dawn_harbor - reveals Inn, Hunting Party, Copper
+dawn_harbor - plays Hunting Party
+dawn_harbor - draws Pawn
+dawn_harbor - reveals hand: Copper, Pawn, Copper, Copper, Inn, Copper, Pawn
+dawn_harbor - reveals Dame Molly
+dawn_harbor - places Dame Molly in hand
+dawn_harbor - plays Inn
+dawn_harbor - draws Estate, Herald
+dawn_harbor - discards Estate
+dawn_harbor - discards Copper
+dawn_harbor - plays Herald
+dawn_harbor - draws Herald
+dawn_harbor - reveals: Advisor
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Herald, Potion, Scrying Pool
+Stef - discards Scrying Pool
+dawn_harbor - places cards in hand:  Herald, Potion
+dawn_harbor - plays Herald
+dawn_harbor - draws Copper
+dawn_harbor - reveals: Horse Traders
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Copper
+dawn_harbor - discards Copper
+dawn_harbor - plays Herald
+dawn_harbor - draws Estate
+dawn_harbor - reveals: Estate
+dawn_harbor - places Estate on top of deck
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - draws Estate
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Province
+dawn_harbor - plays Dame Molly
+Stef - reveals: Silver, Hunting Party
+Stef - trashes Silver
+Stef - discards Hunting Party
+dawn_harbor - plays 2 Copper, 1 Potion
+dawn_harbor - buys Scrying Pool
+dawn_harbor - gains Scrying Pool
+dawn_harbor - buys Horse Traders
+dawn_harbor - gains Horse Traders
+dawn_harbor - draws Scrying Pool, Scrying Pool, Workshop, Pawn, Pawn
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Horse Traders
+Stef - draws Estate
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Province
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Estate, Hunting Party, Copper, Copper
+ 
+---------- dawn_harbor: turn 17 ----------
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Advisor on top of deck
+Stef - discards Province
+dawn_harbor - reveals Advisor, Sir Martin, Hunting Party, Copper
+dawn_harbor - plays Hunting Party
+dawn_harbor - draws Scrying Pool
+dawn_harbor - reveals hand: Scrying Pool, Workshop, Pawn, Pawn, Advisor, Sir Martin, Copper, Scrying Pool
+dawn_harbor - shuffles deck
+dawn_harbor - reveals Copper, Herald
+dawn_harbor - places Herald in hand
+dawn_harbor - discards Copper
+dawn_harbor - plays Herald
+dawn_harbor - draws Herald
+dawn_harbor - reveals: Copper
+dawn_harbor - places Copper on top of deck
+dawn_harbor - plays Herald
+dawn_harbor - draws Copper
+dawn_harbor - reveals: Herald
+dawn_harbor - plays Herald
+dawn_harbor - draws Copper
+dawn_harbor - reveals: Hunting Party
+dawn_harbor - plays Hunting Party
+dawn_harbor - draws Estate
+dawn_harbor - reveals hand: Scrying Pool, Workshop, Pawn, Pawn, Advisor, Sir Martin, Copper, Scrying Pool, Copper, Copper, Estate
+dawn_harbor - reveals Scrying Pool, Estate, Scrying Pool, Copper, Estate, Advisor, Horse Traders
+dawn_harbor - places Horse Traders in hand
+dawn_harbor - discards: Scrying Pool, Estate, Scrying Pool, Copper, Estate, Advisor
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Inn on top of deck
+Stef - discards Copper
+dawn_harbor - reveals Inn, Copper
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Province
+Stef - discards Copper
+dawn_harbor - reveals Scrying Pool, Pawn, Horse Traders, Potion
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Pawn on top of deck
+Stef - discards Silver
+dawn_harbor - reveals Pawn, Copper
+dawn_harbor - plays Inn
+dawn_harbor - draws Dame Molly
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - discards Estate
+dawn_harbor - discards Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - draws Scrying Pool
+dawn_harbor - plays Scrying Pool
+dawn_harbor - places Scrying Pool on top of deck
+Stef - discards Copper
+dawn_harbor - reveals Scrying Pool, Copper
+dawn_harbor - plays Scrying Pool
+dawn_harbor - discards Province
+Stef - discards Estate
+dawn_harbor - reveals Advisor, Estate
+dawn_harbor - plays Dame Molly
+Stef - reveals: Silver, Hunting Party
+Stef - trashes Silver
+Stef - discards Hunting Party
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Estate
+dawn_harbor - shuffles deck
+dawn_harbor - reveals: Estate, Copper
+Stef - discards Copper
+dawn_harbor - places cards in hand:  Estate, Estate
+dawn_harbor - plays Advisor
+dawn_harbor - reveals: Province
+dawn_harbor - shuffles deck
+dawn_harbor - reveals: Copper
+Stef - discards Copper
+dawn_harbor - places cards in hand:  Province
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 coin
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - takes 1 coin
+dawn_harbor - plays Pawn
+dawn_harbor - takes 1 action
+dawn_harbor - takes 1 coin
+dawn_harbor - plays Sir Martin
+Stef - reveals: Silver, Hunting Party
+Stef - trashes Silver
+Stef - discards Hunting Party
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Estate
+dawn_harbor - discards Estate
+dawn_harbor - plays Horse Traders
+dawn_harbor - discards Province
+dawn_harbor - discards Estate
+dawn_harbor - plays Workshop
+dawn_harbor - gains Estate
+dawn_harbor - plays 7 Copper, 1 Potion
+dawn_harbor - buys Province
+dawn_harbor - gains Province
+dawn_harbor - buys Province
+dawn_harbor - gains Province
+dawn_harbor - shuffles deck
+dawn_harbor - draws Advisor, Province, Hunting Party, Dame Molly, Scrying Pool
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Province, Estate, Copper, Copper, Copper
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Province, Estate, Copper, Copper, Copper, Copper
+Stef - reveals Copper, Province, Copper, Hunting Party
+Stef - places Hunting Party in hand
+Stef - discards: Copper, Province, Copper
+Stef - plays Hunting Party
+Stef - draws Horse Traders
+Stef - reveals hand: Province, Estate, Copper, Copper, Copper, Copper, Horse Traders
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Province
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Province, Estate, Province, Gold
+ 
+------------ Game Over ------------
+Stef - cards: 4 Hunting Party, 1 Horse Traders, 7 Copper, 2 Silver, 1 Gold, 5 Province, 3 Estate
+Stef - total victory points: 33
+Stef - turns: 17
+ 
+dawn_harbor - cards: 6 Scrying Pool, 4 Pawn, 3 Herald, 2 Advisor, 2 Hunting Party, 2 Horse Traders, 1 Dame Molly, 1 Sir Martin, 1 Inn, 1 Workshop, 7 Copper, 1 Potion, 4 Estate, 3 Province
+dawn_harbor - total victory points: 22
+dawn_harbor - turns: 17
+ 
+1st place: Stef
+2nd place: dawn_harbor
+ 

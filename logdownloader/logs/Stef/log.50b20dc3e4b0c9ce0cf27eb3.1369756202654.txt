@@ -1,0 +1,567 @@
+------------ Game Setup ------------
+Supply cards: Haven, Market Square, Masquerade, Woodcutter, Cutpurse, Island, Duke, Outpost, Tribute, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Estate
+theParty - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 3 Copper
+theParty - buys Masquerade
+theParty - gains Masquerade
+theParty - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 4 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - shuffles deck
+theParty - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Haven, Copper, Copper, Estate, Masquerade
+ 
+---------- theParty: turn 3 ----------
+theParty - plays 4 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Market Square, Masquerade, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Copper
+Stef - passes Estate
+theParty - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Estate, Masquerade, Masquerade, Copper, Copper
+ 
+---------- theParty: turn 4 ----------
+theParty - plays Masquerade
+theParty - draws Copper, Estate
+theParty - passes Estate
+Stef - passes Estate
+theParty - trashes Estate
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - plays 3 Copper
+theParty - buys Masquerade
+theParty - gains Masquerade
+theParty - shuffles deck
+theParty - draws Copper, Copper, Market Square, Copper, Market Square
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Masquerade
+Stef - draws Estate, Copper
+Stef - passes Estate
+theParty - passes Copper
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper, Copper, Market Square, Copper, Haven
+ 
+---------- theParty: turn 5 ----------
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays 3 Copper, 1 Gold
+theParty - buys Gold
+theParty - gains Gold
+theParty - draws Masquerade, Estate, Estate, Copper, Masquerade
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Market Square
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Copper, Copper, Market Square, Copper, Copper
+ 
+---------- theParty: turn 6 ----------
+theParty - plays Masquerade
+theParty - draws Copper, Copper
+theParty - passes Estate
+Stef - passes Copper
+theParty - trashes Estate
+theParty - plays 4 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - shuffles deck
+theParty - draws Copper, Copper, Masquerade, Estate, Gold
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Haven
+Stef - places set aside Market Square in hand
+Stef - plays Market Square
+Stef - draws Masquerade
+Stef - plays Masquerade
+Stef - draws Market Square, Copper
+Stef - passes Estate
+theParty - passes Estate
+Stef - trashes Estate
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 4 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Masquerade, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Haven
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Masquerade
+theParty - draws Copper, Copper
+theParty - passes Estate
+Stef - passes Copper
+theParty - plays 5 Copper, 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Gold, Market Square, Copper, Masquerade, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Haven
+Stef - plays Masquerade
+Stef - draws Gold, Copper
+Stef - passes Estate
+theParty - passes Copper
+Stef - trashes Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Market Square, Haven, Copper, Copper, Market Square
+ 
+---------- theParty: turn 8 ----------
+theParty - plays Masquerade
+theParty - draws Copper, Market Square
+theParty - passes Estate
+Stef - passes Copper
+theParty - trashes Copper
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - plays 2 Copper, 1 Gold
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Market Square
+theParty - shuffles deck
+theParty - draws Market Square, Duchy, Copper, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Haven
+Stef - places set aside Haven in hand
+Stef - plays Haven
+Stef - draws Market Square
+Stef - sets aside Copper
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays Market Square
+Stef - draws Masquerade
+Stef - plays Masquerade
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Copper
+Stef - passes Estate
+theParty - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper, Gold, Copper, Duchy, Masquerade
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays 2 Gold, 1 Copper
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - buys Haven
+theParty - gains Haven
+theParty - draws Copper, Masquerade, Gold, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Market Square, Haven
+Stef - passes Copper
+theParty - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Gold, Market Square, Masquerade, Gold
+ 
+---------- theParty: turn 10 ----------
+theParty - plays Masquerade
+theParty - draws Copper, Copper
+theParty - passes Copper
+Stef - passes Copper
+theParty - trashes Copper
+theParty - plays 4 Copper, 1 Gold
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Gold, Masquerade, Province
+theParty - shuffles deck
+theParty - draws Gold, Masquerade
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Copper, Gold
+Stef - passes Copper
+theParty - passes Masquerade
+Stef - trashes Masquerade
+Stef - plays 4 Gold, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Duchy, Gold, Copper, Haven, Market Square
+ 
+---------- theParty: turn 11 ----------
+theParty - plays Masquerade
+theParty - draws Haven, Copper
+theParty - passes Copper
+Stef - passes Copper
+theParty - trashes Copper
+theParty - plays 2 Gold, 1 Copper
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Market Square, Gold, Duchy, Gold, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Masquerade, Haven, Haven
+Stef - shuffles deck
+Stef - draws Island, Gold
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays 2 Gold, 1 Copper
+theParty - buys Duke
+theParty - gains Duke
+theParty - buys Haven
+theParty - gains Haven
+theParty - draws Copper, Estate, Duchy, Copper, Market Square
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Island
+Stef - plays Haven
+Stef - draws Gold
+Stef - sets aside Gold
+Stef - plays Masquerade
+Stef - draws Gold, Duchy
+Stef - passes Copper
+theParty - passes Estate
+Stef - trashes Estate
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Market Square, Market Square, Duchy, Gold, Duchy
+ 
+---------- theParty: turn 13 ----------
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays 4 Copper
+theParty - buys Island
+theParty - gains Island
+theParty - shuffles deck
+theParty - draws Copper, Duke, Duchy, Island, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Island in hand
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Island
+Stef - sets aside Duchy
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Market Square, Market Square, Gold, Masquerade, Market Square
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Island
+theParty - sets aside Duchy
+theParty - draws Haven, Gold, Gold, Duchy, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Duke
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Haven
+Stef - plays Haven
+Stef - draws Duchy
+Stef - sets aside Masquerade
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Gold, Copper, Haven, Duchy, Duchy
+ 
+---------- theParty: turn 15 ----------
+theParty - plays Haven
+theParty - draws Gold
+theParty - sets aside Gold
+theParty - plays 2 Gold, 1 Copper
+theParty - buys Duke
+theParty - gains Duke
+theParty - draws Copper, Masquerade, Gold, Copper, Market Square
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Haven
+Stef - places set aside Masquerade in hand
+Stef - plays Haven
+Stef - draws Gold
+Stef - sets aside Gold
+Stef - plays Masquerade
+Stef - draws Gold, Duke
+Stef - passes Copper
+theParty - passes Copper
+Stef - trashes Copper
+Stef - plays 2 Gold
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Masquerade, Gold, Haven, Market Square
+Stef - shuffles deck
+Stef - draws Market Square
+ 
+---------- theParty: turn 16 ----------
+theParty - duration Haven
+theParty - places set aside Gold in hand
+theParty - plays Market Square
+theParty - draws Haven
+theParty - plays Haven
+theParty - draws Market Square
+theParty - sets aside Copper
+theParty - plays Masquerade
+theParty - draws Duchy, Province
+theParty - passes Copper
+Stef - passes Haven
+theParty - trashes Haven
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - plays 2 Gold
+theParty - buys Duke
+theParty - gains Duke
+theParty - draws Market Square, Copper, Copper
+theParty - shuffles deck
+theParty - draws Haven, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Masquerade
+Stef - draws Duke, Haven
+Stef - passes Haven
+theParty - passes Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 3 Gold, 1 Copper
+Stef - buys Duke
+Stef - gains Duke
+Stef - buys Duke
+Stef - gains Duke
+Stef - draws Masquerade, Market Square, Gold, Duke, Island
+ 
+---------- theParty: turn 17 ----------
+theParty - duration Haven
+theParty - places set aside Copper in hand
+theParty - plays Haven
+theParty - draws Copper
+theParty - sets aside Copper
+theParty - plays Haven
+theParty - draws Masquerade
+theParty - sets aside Copper
+theParty - plays Masquerade
+theParty - draws Market Square, Gold
+theParty - passes Copper
+Stef - passes Masquerade
+theParty - trashes Masquerade
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - plays 2 Gold
+theParty - buys Island
+theParty - gains Island
+theParty - draws Market Square, Duchy, Duchy, Duchy, Duke
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Island
+Stef - sets aside Duchy
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Copper, Market Square, Duchy, Duke, Market Square
+ 
+---------- theParty: turn 18 ----------
+theParty - duration Haven
+theParty - places set aside Copper in hand
+theParty - duration Haven
+theParty - places set aside Copper in hand
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays 2 Copper, 1 Gold
+theParty - buys Island
+theParty - gains Island
+theParty - draws Province, Gold, Gold, Duke, Duke
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Island
+Stef - gains Island
+Stef - shuffles deck
+Stef - draws Island, Masquerade, Gold, Duke, Duchy
+ 
+---------- theParty: turn 19 ----------
+theParty - plays 2 Gold
+theParty - buys Estate
+theParty - gains Estate
+theParty - draws Copper
+theParty - shuffles deck
+theParty - draws Masquerade, Market Square, Haven, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Island
+Stef - sets aside Duchy
+Stef - plays 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Island, Copper, Duke, Haven, Gold
+ 
+---------- theParty: turn 20 ----------
+theParty - plays Market Square
+theParty - draws Duchy
+theParty - plays Haven
+theParty - draws Copper
+theParty - sets aside Duchy
+theParty - plays Masquerade
+theParty - draws Gold, Market Square
+theParty - passes Market Square
+Stef - passes Haven
+theParty - plays 2 Copper, 2 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Duchy, Gold, Island, Copper, Duke
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy, Market Square, Market Square, Duke, Duke
+ 
+------------ Game Over ------------
+Stef - cards: 6 Market Square, 5 Island, 1 Masquerade, 6 Gold, 3 Copper, 5 Duke, 4 Duchy, 2 Estate
+Stef - total victory points: 44
+Stef - turns: 21
+ 
+theParty - cards: 4 Haven, 3 Island, 2 Market Square, 1 Masquerade, 7 Gold, 3 Copper, 4 Duchy, 3 Duke, 2 Province, 1 Estate
+theParty - total victory points: 43
+theParty - turns: 20
+ 
+1st place: Stef
+2nd place: theParty
+ 

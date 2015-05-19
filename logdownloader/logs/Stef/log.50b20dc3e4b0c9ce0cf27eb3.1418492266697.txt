@@ -1,0 +1,792 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Squire, Stonemason, Apothecary, Oracle, Scavenger, Young Witch, Journeyman, Pillage, Trading Post, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Stonemason
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 5 Copper
+yed - buys Trading Post
+yed - gains Trading Post
+yed - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 2 Copper
+yed - buys Squire
+yed - gains Squire
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Oracle, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 3 Copper
+yed - buys Oracle
+yed - gains Oracle
+yed - draws Copper, Trading Post, Squire, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Oracle
+Stef - reveals: Potion, Estate
+Stef - places Estate on top of deck
+Stef - places Potion on top of deck
+yed - reveals: Copper, Copper
+yed - places Copper on top of deck
+yed - places Copper on top of deck
+Stef - draws Potion, Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apothecary, Estate, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays Trading Post
+yed - trashes Estate, Squire
+yed - gains Young Witch
+yed - gains Silver
+yed - plays 2 Copper, 1 Silver
+yed - buys Stonemason
+yed - overpays for Stonemason with 2 coins
+yed - gains Squire
+yed - gains Cellar
+yed - gains Stonemason
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Young Witch, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Apothecary
+Stef - draws Potion
+Stef - reveals: Oracle, Copper, Estate, Copper
+Stef - places Estate on top of deck
+Stef - places Oracle on top of deck
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - draws Oracle, Estate, Copper, Cellar, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Young Witch
+yed - draws Stonemason, Trading Post
+yed - discards Estate
+yed - discards Stonemason
+Stef - gains Curse
+yed - plays 3 Copper
+yed - buys Oracle
+yed - gains Oracle
+yed - draws Silver, Squire, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Oracle
+Stef - reveals: Estate, Estate
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+yed - reveals: Copper, Cellar
+yed - discards: Copper, Cellar
+Stef - draws Estate, Estate
+Stef - plays 3 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Apothecary, Copper, Copper, Apothecary, Curse
+ 
+---------- yed: turn 6 ----------
+yed - plays Squire
+yed - gains Silver
+yed - plays 3 Copper, 1 Silver
+yed - buys Hoard
+yed - gains Hoard
+yed - draws Oracle, Estate
+yed - shuffles deck
+yed - draws Copper, Young Witch, Trading Post
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Apothecary, Stonemason, Copper
+Stef - places Estate on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Stonemason, Estate, Potion
+Stef - shuffles deck
+Stef - reveals: Oracle
+Stef - places Oracle on top of deck
+Stef - places Estate on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Estate, Oracle, Copper, Cellar
+Stef - places Cellar on top of deck
+Stef - places Oracle on top of deck
+Stef - places Estate on top of deck
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - draws Estate, Oracle, Cellar, Copper, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Young Witch
+yed - draws Silver, Stonemason
+yed - discards Trading Post
+yed - discards Estate
+Stef - gains Curse
+yed - plays 1 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Oracle, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - draws Squire, Estate, Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - shuffles deck
+Stef - reveals: Stonemason, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+yed - reveals: Copper, Cellar
+yed - places Cellar on top of deck
+yed - places Copper on top of deck
+Stef - draws Stonemason, Apothecary
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Apothecary, Apothecary, Copper, Copper
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Stonemason
+Stef - trashes Estate
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 4 Copper
+Stef - buys Squire
+Stef - gains Squire
+Stef - draws Apothecary, Apothecary, Apothecary, Copper, Curse
+ 
+---------- yed: turn 8 ----------
+yed - plays Oracle
+yed - reveals: Copper, Cellar
+yed - discards: Copper, Cellar
+Stef - reveals: Copper, Potion
+Stef - discards: Copper, Potion
+yed - draws Squire, Copper
+yed - plays 4 Copper, 1 Silver
+yed - buys Hoard
+yed - gains Hoard
+yed - draws Estate, Hoard, Copper
+yed - shuffles deck
+yed - draws Copper, Trading Post
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Estate, Estate, Copper, Stonemason
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Estate, Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Oracle
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Oracle on top of deck
+Stef - plays Apothecary
+Stef - draws Oracle
+Stef - reveals: Estate, Estate, Apothecary, Copper
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Estate, Estate, Cellar, Copper
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Cellar on top of deck
+Stef - plays Apothecary
+Stef - draws Cellar
+Stef - reveals: Estate, Estate, Stonemason, Squire
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Squire on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Curse
+Stef - draws Squire, Stonemason, Estate, Estate, Potion, Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+yed - reveals: Hoard, Silver
+yed - discards: Hoard, Silver
+Stef - draws Copper, Squire
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Stonemason
+Stef - trashes Estate
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays Stonemason
+Stef - trashes Estate
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - shuffles deck
+Stef - draws Oracle, Apothecary, Apothecary, Copper, Apothecary
+ 
+---------- yed: turn 9 ----------
+yed - plays Trading Post
+yed - trashes Estate, Copper
+yed - gains Silver
+yed - plays 1 Copper, 1 Silver
+yed - plays Hoard
+yed - buys Duchy
+yed - gains Gold
+yed - gains Duchy
+yed - draws Oracle, Silver, Copper, Copper, Squire
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Squire, Curse, Copper, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Curse on top of deck
+Stef - places Squire on top of deck
+Stef - plays Apothecary
+Stef - draws Squire
+Stef - reveals: Curse, Stonemason, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Curse on top of deck
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - reveals: Curse, Stonemason
+Stef - discards: Curse, Stonemason
+yed - reveals: Silver, Copper
+yed - discards: Silver, Copper
+Stef - draws Apothecary, Potion
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Stonemason, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Stonemason, Copper, Apothecary, Squire
+Stef - places Squire on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays 8 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - draws Stonemason, Apothecary, Squire, Apothecary, Copper
+ 
+---------- yed: turn 10 ----------
+yed - plays Squire
+yed - takes 2 actions
+yed - plays Oracle
+yed - reveals: Cellar, Oracle
+yed - discards: Cellar, Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+yed - draws Young Witch, Copper
+yed - plays Young Witch
+yed - draws Copper, Estate
+yed - discards Estate
+yed - discards Copper
+Stef - reveals bane Stonemason
+yed - plays 3 Copper, 1 Silver
+yed - buys Journeyman
+yed - gains Journeyman
+yed - draws Stonemason
+yed - shuffles deck
+yed - draws Silver, Copper, Duchy, Trading Post
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Cellar, Apothecary
+Stef - shuffles deck
+Stef - reveals: Apothecary
+Stef - places Cellar on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Cellar, Squire, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Squire on top of deck
+Stef - places Cellar on top of deck
+Stef - plays Apothecary
+Stef - draws Cellar
+Stef - reveals: Squire, Apothecary, Apothecary, Copper
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Squire on top of deck
+Stef - plays Cellar
+Stef - discards Stonemason
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Squire
+Stef - draws Squire, Apothecary, Apothecary, Apothecary, Potion, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Stonemason, Apothecary, Stonemason, Oracle
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Oracle on top of deck
+Stef - plays Apothecary
+Stef - draws Oracle
+Stef - reveals: Stonemason, Stonemason, Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - reveals: Stonemason, Stonemason
+Stef - discards: Stonemason, Stonemason
+yed - reveals: Journeyman, Hoard
+yed - discards: Journeyman, Hoard
+Stef - draws Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Curse, Copper, Copper, Copper
+Stef - places Curse on top of deck
+Stef - plays Apothecary
+Stef - draws Curse
+Stef - reveals: Copper, Stonemason, Copper, Copper
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Stonemason, Squire, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Squire on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Squire, Stonemason, Copper, Copper
+Stef - places Stonemason on top of deck
+Stef - places Squire on top of deck
+Stef - plays Stonemason
+Stef - trashes Potion
+Stef - gains Cellar
+Stef - gains Cellar
+Stef - plays 11 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Squire, Stonemason, Copper, Copper, Stonemason
+ 
+---------- yed: turn 11 ----------
+yed - plays Trading Post
+yed - trashes Copper, Stonemason
+yed - gains Silver
+yed - plays 2 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Young Witch, Silver, Hoard, Copper, Squire
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Stonemason
+Stef - trashes Stonemason
+Stef - gains Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Copper, Cellar, Province
+ 
+---------- yed: turn 12 ----------
+yed - plays Squire
+yed - takes 2 actions
+yed - plays Young Witch
+yed - draws Copper, Gold
+yed - discards Copper
+yed - discards Copper
+Stef - gains Curse
+yed - plays 1 Silver, 1 Gold
+yed - plays Hoard
+yed - buys Province
+yed - gains Gold
+yed - gains Province
+yed - draws Estate, Copper, Cellar, Oracle, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apothecary
+Stef - draws Squire
+Stef - reveals: Copper, Copper, Apothecary, Cellar
+Stef - places Cellar on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Apothecary, Cellar, Oracle, Stonemason, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Curse, Copper, Apothecary, Apothecary
+Stef - places Curse on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - reveals: Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+yed - reveals: Silver, Silver
+yed - discards: Silver, Silver
+Stef - draws Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Curse
+Stef - reveals: Copper, Apothecary, Squire, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Squire on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Squire, Stonemason, Copper, Apothecary
+Stef - places Squire on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Stonemason, Squire, Copper, Apothecary
+Stef - places Stonemason on top of deck
+Stef - places Squire on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Curse
+Stef - draws Apothecary, Squire, Stonemason, Apothecary, Copper, Copper, Cellar
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Stonemason, Copper, Apothecary
+Stef - places Stonemason on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Stonemason
+Stef - shuffles deck
+Stef - reveals: Copper, Province, Copper
+Stef - places Province on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Province, Copper, Copper, Copper
+Stef - places Province on top of deck
+Stef - plays Apothecary
+Stef - draws Province
+Stef - reveals: Copper, Copper, Curse, Copper
+Stef - places Curse on top of deck
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Curse, Copper, Curse, Copper
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays 12 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Stonemason, Apothecary, Cellar, Apothecary, Copper
+ 
+---------- yed: turn 13 ----------
+yed - plays Cellar
+yed - discards Estate
+yed - discards Copper
+yed - discards Copper
+yed - draws Oracle, Copper
+yed - shuffles deck
+yed - draws Silver
+yed - plays Oracle
+yed - reveals: Silver, Silver
+yed - places Silver on top of deck
+yed - places Silver on top of deck
+Stef - reveals: Apothecary, Copper
+Stef - discards: Apothecary, Copper
+yed - draws Silver, Silver
+yed - plays 3 Silver, 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Hoard, Trading Post, Young Witch, Squire, Journeyman
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Squire, Copper, Copper, Apothecary
+Stef - places Squire on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Squire, Copper, Copper, Copper
+Stef - places Squire on top of deck
+Stef - plays Apothecary
+Stef - draws Squire
+Stef - reveals: Apothecary, Oracle, Copper, Apothecary
+Stef - places Oracle on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Apothecary, Apothecary, Oracle, Copper, Stonemason, Copper, Apothecary, Cellar
+Stef - plays Apothecary
+Stef - draws Province
+Stef - reveals: Copper, Province, Apothecary, Copper
+Stef - places Province on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Province, Copper, Cellar, Apothecary
+Stef - places Province on top of deck
+Stef - places Cellar on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Apothecary, Cellar, Province, Stonemason, Squire
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Apothecary, Copper
+Stef - places Apothecary on top of deck
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays Stonemason
+Stef - trashes Stonemason
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 14 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Apothecary, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apothecary
+ 
+---------- yed: turn 14 ----------
+yed - plays Squire
+yed - takes 2 actions
+yed - plays Journeyman
+yed - names Copper
+yed - reveals Estate, Silver, Hoard
+yed - places cards in hand:  Estate, Silver, Hoard
+yed - plays Young Witch
+yed - draws Gold, Duchy
+yed - discards Estate
+yed - discards Duchy
+Stef - gains Curse
+yed - plays 1 Silver, 1 Gold
+yed - plays Hoard
+yed - plays Hoard
+yed - buys Province
+yed - gains Gold
+yed - gains Gold
+yed - gains Province
+yed - draws Silver, Copper, Province, Silver, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Apothecary
+Stef - draws Province
+Stef - reveals: Copper, Cellar, Copper, Copper
+Stef - places Cellar on top of deck
+Stef - plays Apothecary
+Stef - draws Cellar
+Stef - reveals: Copper, Copper, Copper, Squire
+Stef - places Squire on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Province
+Stef - draws Squire, Apothecary, Stonemason, Stonemason, Province, Copper, Squire, Copper, Apothecary, Copper
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Oracle, Cellar, Province, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Province on top of deck
+Stef - places Cellar on top of deck
+Stef - places Oracle on top of deck
+Stef - plays Apothecary
+Stef - draws Oracle
+Stef - reveals: Cellar, Province, Apothecary, Apothecary
+Stef - places Province on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Cellar on top of deck
+Stef - plays Squire
+Stef - takes 2 actions
+Stef - plays Oracle
+Stef - reveals: Cellar, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Cellar on top of deck
+yed - reveals: Copper, Gold
+yed - discards: Copper, Gold
+Stef - draws Cellar, Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Province, Copper, Province, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Province on top of deck
+Stef - places Province on top of deck
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Province, Province, Apothecary, Cellar
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Province, Copper, Copper, Curse
+Stef - places Province on top of deck
+Stef - places Curse on top of deck
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Stonemason
+Stef - draws Curse, Province, Copper, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Stonemason
+Stef - places Stonemason on top of deck
+Stef - plays Squire
+Stef - takes 2 buys
+Stef - plays 17 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Stonemason, Province, Province, Province
+Stef - shuffles deck
+Stef - draws Squire
+ 
+------------ Game Over ------------
+Stef - cards: 9 Apothecary, 3 Cellar, 2 Stonemason, 2 Squire, 17 Copper, 1 Oracle, 6 Province, 1 Estate, 1 Curse
+Stef - total victory points: 36
+Stef - turns: 15
+ 
+yed - cards: 2 Oracle, 1 Cellar, 1 Squire, 1 Journeyman, 1 Young Witch, 1 Trading Post, 6 Silver, 5 Copper, 4 Gold, 2 Hoard, 2 Province, 2 Duchy, 1 Estate
+yed - total victory points: 19
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

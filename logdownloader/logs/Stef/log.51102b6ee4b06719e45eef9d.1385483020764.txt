@@ -1,0 +1,387 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Stonemason, Scheme, Familiar, Band of Misfits, Cartographer, Council Room, Merchant Ship, Forge, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Copper, Copper, Estate, Copper, Copper
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Potion
+yed - gains Potion
+yed - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - draws Estate, Silver, Copper, Estate, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Merchant Ship
+yed - gains Merchant Ship
+yed - draws Copper, Potion, Estate, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Estate
+ 
+---------- yed: turn 4 ----------
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Estate, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Copper, Copper, Copper, Merchant Ship, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays 3 Copper
+yed - buys Scheme
+yed - gains Scheme
+yed - draws Copper, Merchant Ship, Silver, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Merchant Ship
+Stef - plays 3 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - draws Estate, Copper, Scheme, Copper
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- yed: turn 6 ----------
+yed - plays Merchant Ship
+yed - plays 2 Copper, 1 Silver
+yed - buys Merchant Ship
+yed - gains Merchant Ship
+yed - draws Copper, Potion, Copper
+yed - shuffles deck
+yed - draws Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Merchant Ship
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 7 ----------
+yed - duration Merchant Ship
+yed - plays 3 Copper, 1 Potion
+yed - buys Familiar
+yed - gains Familiar
+yed - draws Copper, Estate, Silver, Copper, Merchant Ship
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Merchant Ship
+Stef - plays Merchant Ship
+Stef - plays 3 Copper
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, Silver, Cartographer, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Merchant Ship
+yed - plays 2 Copper, 1 Silver
+yed - buys Cartographer
+yed - gains Cartographer
+yed - draws Estate, Scheme, Copper, Copper
+yed - shuffles deck
+yed - draws Familiar
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Merchant Ship
+Stef - plays Cartographer
+Stef - shuffles deck
+Stef - draws Estate
+Stef - looks at Copper, Merchant Ship, Copper, Estate
+Stef - discards Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - places Merchant Ship on top of deck
+Stef - plays Scheme
+Stef - draws Merchant Ship
+Stef - plays Merchant Ship
+Stef - plays 2 Copper, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - Scheme choice: Merchant Ship
+Stef - draws Merchant Ship, Copper, Silver, Council Room, Estate
+ 
+---------- yed: turn 9 ----------
+yed - duration Merchant Ship
+yed - plays Scheme
+yed - draws Copper
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays 4 Copper
+yed - buys Cartographer
+yed - gains Cartographer
+yed - Scheme choice: Merchant Ship
+yed - draws Merchant Ship, Estate, Potion, Silver, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Merchant Ship
+Stef - plays Merchant Ship
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Forge
+Stef - gains Forge
+Stef - draws Cartographer, Copper, Copper
+Stef - shuffles deck
+Stef - draws Council Room, Curse
+ 
+---------- yed: turn 10 ----------
+yed - plays Merchant Ship
+yed - plays 1 Potion, 1 Silver
+yed - buys Familiar
+yed - gains Familiar
+yed - draws Copper, Merchant Ship, Copper, Cartographer, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Merchant Ship
+Stef - plays Cartographer
+Stef - draws Forge
+Stef - looks at Merchant Ship, Copper, Scheme, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Merchant Ship on top of deck
+Stef - places Scheme on top of deck
+Stef - plays Forge
+Stef - trashes Curse, Copper, Copper, Council Room
+Stef - gains Council Room
+Stef - draws Scheme, Merchant Ship, Copper, Estate, Estate
+ 
+---------- yed: turn 11 ----------
+yed - duration Merchant Ship
+yed - plays Merchant Ship
+yed - plays 3 Copper
+yed - buys King's Court
+yed - gains King's Court
+yed - shuffles deck
+yed - draws Copper, Copper, Familiar, Copper, Merchant Ship
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Merchant Ship
+Stef - plays 2 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, Cartographer, King's Court, Silver
+ 
+---------- yed: turn 12 ----------
+yed - duration Merchant Ship
+yed - plays Familiar
+yed - draws Estate
+Stef - gains Curse
+yed - plays Merchant Ship
+yed - plays 3 Copper
+yed - buys King's Court
+yed - gains King's Court
+yed - draws Copper, Copper, Estate, Copper, King's Court
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Merchant Ship
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Estate
+Stef - shuffles deck
+Stef - looks at Copper, Curse, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Curse
+Stef - discards Copper
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Merchant Ship
+Stef - plays Scheme
+Stef - draws Forge
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Merchant Ship
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 7 coins
+Stef - gains King's Court
+Stef - gains King's Court
+Stef - gains Stonemason
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Cartographer
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Cartographer, Scheme, King's Court, Estate
+ 
+---------- yed: turn 13 ----------
+yed - duration Merchant Ship
+yed - plays 3 Copper
+yed - buys Cartographer
+yed - gains Cartographer
+yed - draws Silver, Cartographer, Potion, Estate, Familiar
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Merchant Ship
+Stef - plays Scheme
+Stef - draws Council Room
+Stef - plays Cartographer
+Stef - draws Cartographer
+Stef - looks at Estate, Copper
+Stef - shuffles deck
+Stef - looks at Silver, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Silver
+Stef - discards Copper
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Forge
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Council Room
+Stef - draws Copper, King's Court, Silver, Merchant Ship
+yed - draws Scheme
+Stef - plays King's Court
+Stef - plays Cartographer
+Stef - draws Curse
+Stef - looks at King's Court, Copper, Stonemason
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - discards Copper
+Stef - discards Stonemason
+Stef - discards Copper
+Stef - places King's Court on top of deck
+Stef - plays Cartographer
+Stef - draws King's Court
+Stef - looks at Estate, Copper, Silver
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - discards Copper
+Stef - places Silver on top of deck
+Stef - places Copper on top of deck
+Stef - places Estate on top of deck
+Stef - plays Cartographer
+Stef - draws Estate
+Stef - looks at Copper, Silver, Copper, Stonemason
+Stef - discards Copper
+Stef - discards Silver
+Stef - discards Copper
+Stef - discards Stonemason
+Stef - plays King's Court
+Stef - plays Merchant Ship
+Stef - plays Merchant Ship
+Stef - plays Merchant Ship
+Stef - plays Forge
+Stef - trashes Estate, Estate, Estate, Copper, Copper, Curse
+Stef - gains Gold
+Stef - plays Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 7 coins
+Stef - gains King's Court
+Stef - gains King's Court
+Stef - gains Stonemason
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: Council Room
+Stef - Scheme choice: King's Court
+Stef - draws Council Room, King's Court, King's Court
+Stef - shuffles deck
+Stef - draws Gold, Forge
+ 
+---------- yed: turn 14 ----------
+yed - plays Cartographer
+yed - draws Copper
+yed - looks at Cartographer
+yed - shuffles deck
+yed - looks at Estate, Copper, Cartographer
+yed - discards Estate
+yed - discards Copper
+yed - places Cartographer on top of deck
+yed - places Cartographer on top of deck
+yed - plays Scheme
+yed - draws Cartographer
+yed - plays Cartographer
+yed - draws Cartographer
+yed - looks at Estate, Merchant Ship, King's Court, Copper
+yed - discards Copper
+yed - discards Estate
+yed - places Merchant Ship on top of deck
+yed - places King's Court on top of deck
+yed - plays Cartographer
+yed - draws King's Court
+yed - looks at Merchant Ship, Copper, Merchant Ship, Copper
+yed - discards Copper
+yed - discards Copper
+yed - places Merchant Ship on top of deck
+yed - places Merchant Ship on top of deck
+yed - plays King's Court
+yed - plays Familiar
+yed - draws Merchant Ship
+Stef - gains Curse
+yed - plays Familiar
+yed - draws Merchant Ship
+Stef - gains Curse
+yed - plays Familiar
+yed - draws Copper
+Stef - gains Curse
+yed - plays Merchant Ship
+yed - plays Merchant Ship
+yed - plays 2 Copper, 1 Silver, 1 Potion
+yed - buys Stonemason
+yed - overpays for Stonemason with 6 coins
+yed - overpays for Stonemason with 1 potion
+yed - gains Stonemason
+ 
+------------ Game Over ------------
+Stef - cards: 5 King's Court, 2 Stonemason, 2 Scheme, 2 Cartographer, 2 Merchant Ship, 1 Council Room, 1 Forge, 3 Copper, 2 Silver, 1 Gold, 3 Curse
+Stef - total victory points: -3
+Stef - turns: 14
+ 
+yed - resigned
+yed - cards: 1 Stonemason, 1 Familiar, 1 King's Court, 5 Copper, 3 Estate
+yed - total victory points: 3
+yed - turns: 13
+ 
+1st place: Stef
+2nd place: yed
+ 

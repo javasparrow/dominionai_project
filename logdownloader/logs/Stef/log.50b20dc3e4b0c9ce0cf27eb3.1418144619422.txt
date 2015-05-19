@@ -1,0 +1,922 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Duchess, Hamlet, Moat, Secret Chamber, Fortune Teller, Herald, Pirate Ship, Counterfeit, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+RTT - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+RTT - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 5 Copper
+RTT - buys Counterfeit
+RTT - gains Counterfeit
+RTT - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - shuffles deck
+Stef - draws Estate, Copper, Fortune Teller, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 2 Copper
+RTT - buys Moat
+RTT - gains Moat
+RTT - shuffles deck
+RTT - draws Copper, Estate, Copper, Estate, Moat
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays 3 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Moat
+RTT - draws Copper, Copper
+RTT - plays 4 Copper
+RTT - buys Herald
+RTT - gains Herald
+RTT - draws Estate, Counterfeit, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Estate, Herald
+Stef - shuffles deck
+Stef - draws Copper, Herald, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays 2 Copper
+RTT - buys Fortune Teller
+RTT - gains Fortune Teller
+RTT - buys Hamlet
+RTT - gains Hamlet
+RTT - shuffles deck
+RTT - draws Herald, Copper, Copper, Copper, Moat
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Herald
+RTT - draws Copper
+RTT - reveals: Estate
+RTT - places Estate on top of deck
+RTT - plays Moat
+RTT - draws Estate, Copper
+RTT - plays 5 Copper
+RTT - buys Herald
+RTT - gains Herald
+RTT - draws Copper, Hamlet, Estate, Estate, Counterfeit
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Fortune Teller, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Hamlet
+RTT - draws Fortune Teller
+RTT - plays Fortune Teller
+Stef - reveals Estate
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - buys Moat
+RTT - gains Moat
+RTT - buys Crossroads
+RTT - gains Crossroads
+RTT - shuffles deck
+RTT - draws Estate, Moat, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Estate, Copper, Herald, Estate, Counterfeit
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Moat
+RTT - draws Estate, Copper
+RTT - plays 4 Copper
+RTT - buys Herald
+RTT - gains Herald
+RTT - draws Moat, Copper, Estate, Herald, Herald
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Moat
+Stef - plays Moat
+Stef - draws Crossroads
+Stef - shuffles deck
+Stef - draws Fortune Teller
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Copper, Estate, Counterfeit, Copper, Copper, Fortune Teller
+Stef - draws Estate, Copper
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Copper, Herald
+Stef - shuffles deck
+Stef - draws Estate, Moat
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Herald
+RTT - draws Crossroads
+RTT - reveals: Hamlet
+RTT - plays Hamlet
+RTT - draws Fortune Teller
+RTT - plays Herald
+RTT - draws Counterfeit
+RTT - shuffles deck
+RTT - reveals: Copper
+RTT - places Copper on top of deck
+RTT - plays Moat
+RTT - draws Copper, Herald
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Copper
+RTT - places Copper on top of deck
+RTT - plays Crossroads
+RTT - reveals hand: Copper, Estate, Fortune Teller, Counterfeit, Copper, Estate
+RTT - draws Copper, Moat
+RTT - plays Moat
+RTT - draws Estate, Copper
+RTT - plays Fortune Teller
+Stef - reveals reaction Moat
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays 3 Copper
+RTT - buys Herald
+RTT - gains Herald
+RTT - buys Fortune Teller
+RTT - gains Fortune Teller
+RTT - draws Copper
+RTT - shuffles deck
+RTT - draws Herald, Counterfeit, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Moat
+Stef - draws Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - draws Herald, Herald, Herald, Herald, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Herald
+RTT - draws Copper
+RTT - reveals: Herald
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Herald
+RTT - plays Herald
+RTT - draws Moat
+RTT - reveals: Copper
+RTT - places Copper on top of deck
+RTT - plays Moat
+RTT - draws Copper, Estate
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays 3 Copper
+RTT - buys Harem
+RTT - gains Harem
+RTT - draws Crossroads, Moat, Herald, Fortune Teller, Fortune Teller
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Fortune Teller
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Herald
+Stef - draws Crossroads
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Counterfeit, Estate, Copper, Estate
+Stef - draws Copper, Moat
+Stef - plays Moat
+Stef - draws Copper, Estate
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Herald, Fortune Teller, Copper
+Stef - shuffles deck
+Stef - draws Herald, Crossroads
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Herald
+RTT - draws Hamlet
+RTT - shuffles deck
+RTT - reveals: Copper
+RTT - places Copper on top of deck
+RTT - plays Hamlet
+RTT - draws Copper
+RTT - discards Copper
+RTT - receives one action
+RTT - plays Moat
+RTT - draws Estate, Moat
+RTT - plays Crossroads
+RTT - reveals hand: Fortune Teller, Fortune Teller, Estate, Moat
+RTT - draws Harem
+RTT - plays Moat
+RTT - draws Copper, Herald
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Herald
+RTT - plays Herald
+RTT - draws Copper
+RTT - reveals: Estate
+RTT - places Estate on top of deck
+RTT - plays Fortune Teller
+Stef - reveals Herald, Copper, Estate
+Stef - discards: Herald, Copper
+RTT - plays Fortune Teller
+Stef - reveals Estate
+RTT - plays 2 Copper, 1 Harem
+RTT - buys Province
+RTT - gains Province
+RTT - draws Estate, Herald, Counterfeit
+RTT - shuffles deck
+RTT - draws Copper, Hamlet
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Fortune Teller
+Stef - plays Fortune Teller
+RTT - reveals Herald, Herald, Harem
+RTT - discards: Herald, Herald
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Hamlet
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Harem
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Crossroads
+Stef - reveals hand: Fortune Teller, Estate, Counterfeit, Harem, Estate
+Stef - draws Herald, Moat, Estate
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Moat
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Fortune Teller
+RTT - reveals Harem
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Harem
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Moat
+Stef - gains Moat
+Stef - buys Harem
+Stef - gains Harem
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fortune Teller, Herald, Hamlet, Copper
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Herald
+RTT - draws Harem
+RTT - reveals: Fortune Teller
+RTT - plays Fortune Teller
+Stef - reveals Herald, Estate
+Stef - discards Herald
+RTT - plays Hamlet
+RTT - draws Herald
+RTT - plays Herald
+RTT - draws Province
+RTT - reveals: Estate
+RTT - places Estate on top of deck
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays Harem
+RTT - buys Crossroads
+RTT - gains Crossroads
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - gains Duchess
+RTT - draws Estate, Crossroads, Moat, Fortune Teller, Moat
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Hamlet
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Crossroads, Fortune Teller, Herald, Estate, Moat
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Crossroads
+RTT - reveals hand: Estate, Fortune Teller, Moat, Moat
+RTT - draws Copper
+RTT - plays Moat
+RTT - draws Estate, Copper
+RTT - plays Moat
+RTT - shuffles deck
+RTT - draws Duchy, Herald
+RTT - plays Herald
+RTT - draws Fortune Teller
+RTT - reveals: Duchess
+RTT - plays Duchess
+RTT - discards Crossroads
+Stef - places Harem on top of deck
+RTT - plays Fortune Teller
+Stef - reveals Harem
+RTT - plays 2 Copper
+RTT - buys Harem
+RTT - gains Harem
+RTT - draws Herald, Counterfeit, Harem, Hamlet, Herald
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Herald
+Stef - draws Harem
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Moat
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Harem
+Stef - shuffles deck
+Stef - reveals: Hamlet
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Moat
+Stef - receives one buy
+Stef - plays Moat
+Stef - draws Copper, Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Crossroads, Fortune Teller, Estate, Harem, Harem, Estate, Copper
+Stef - draws Herald, Hamlet, Fortune Teller, Hamlet
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Crossroads
+Stef - reveals hand: Hamlet, Fortune Teller, Fortune Teller, Estate, Harem, Harem, Estate, Copper, Estate
+Stef - draws Fortune Teller, Counterfeit, Herald, Herald
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Moat
+Stef - discards Herald
+Stef - receives one action
+Stef - discards Herald
+Stef - receives one buy
+Stef - plays Fortune Teller
+RTT - reveals Herald, Province
+RTT - discards Herald
+Stef - plays Fortune Teller
+RTT - reveals Province
+Stef - plays Fortune Teller
+RTT - reveals Province
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Harem, 1 Copper
+Stef - buys Harem
+Stef - gains Harem
+Stef - buys Harem
+Stef - gains Harem
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - shuffles deck
+Stef - draws Harem, Copper, Herald, Estate, Hamlet
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Herald
+RTT - draws Province
+RTT - reveals: Estate
+RTT - places Estate on top of deck
+RTT - plays Herald
+RTT - draws Estate
+RTT - shuffles deck
+RTT - reveals: Estate
+RTT - places Estate on top of deck
+RTT - plays Hamlet
+RTT - draws Estate
+RTT - discards Province
+RTT - receives one action
+RTT - discards Estate
+RTT - receives one buy
+RTT - plays 1 Harem
+RTT - plays Counterfeit
+RTT - buys Crossroads
+RTT - gains Crossroads
+RTT - draws Herald, Moat, Fortune Teller, Copper, Moat
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Herald
+Stef - draws Moat
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Moat
+Stef - draws Herald, Hamlet
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Harem, Estate, Estate, Hamlet, Estate
+Stef - draws Harem, Harem, Moat, Hamlet
+Stef - plays Moat
+Stef - draws Crossroads, Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Crossroads
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Harem
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Fortune Teller
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Hamlet
+Stef - draws Fortune Teller
+Stef - discards Counterfeit
+Stef - receives one action
+Stef - discards Fortune Teller
+Stef - receives one buy
+Stef - plays Crossroads
+Stef - reveals hand: Harem, Harem, Hamlet, Harem, Estate, Estate, Estate, Crossroads, Harem
+Stef - draws Fortune Teller
+Stef - shuffles deck
+Stef - draws Counterfeit, Fortune Teller, Copper
+Stef - plays Hamlet
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Crossroads
+Stef - reveals hand: Fortune Teller, Counterfeit, Fortune Teller, Copper, Harem, Harem, Harem, Estate, Harem
+Stef - shuffles deck
+Stef - draws Estate, Estate
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 4 Harem
+Stef - buys Harem
+Stef - gains Harem
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Fortune Teller, Herald, Moat, Harem, Herald
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Herald
+RTT - draws Fortune Teller
+RTT - reveals: Crossroads
+RTT - plays Crossroads
+RTT - reveals hand: Fortune Teller, Copper, Moat, Moat, Fortune Teller
+RTT - plays Moat
+RTT - draws Harem, Duchy
+RTT - plays Moat
+RTT - draws Herald, Copper
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Crossroads
+RTT - plays Crossroads
+RTT - reveals hand: Fortune Teller, Copper, Fortune Teller, Harem, Duchy, Copper, Estate
+RTT - draws Duchess
+RTT - shuffles deck
+RTT - draws Province, Counterfeit
+RTT - plays Fortune Teller
+Stef - reveals Hamlet, Herald, Crossroads, Fortune Teller, Estate
+Stef - discards: Hamlet, Herald, Crossroads, Fortune Teller
+RTT - plays Fortune Teller
+Stef - reveals Estate
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays 1 Harem, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Estate, Harem, Estate, Crossroads, Herald
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Hamlet
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Moat
+Stef - draws Hamlet, Herald
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Hamlet
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Herald
+Stef - draws Counterfeit
+Stef - reveals: Moat
+Stef - plays Moat
+Stef - draws Estate, Province
+Stef - plays Fortune Teller
+RTT - shuffles deck
+RTT - reveals Herald, Hamlet, Estate
+RTT - discards: Herald, Hamlet
+Stef - plays 4 Harem
+Stef - plays Counterfeit
+Stef - buys Harem
+Stef - gains Harem
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - gains Duchess
+Stef - draws Fortune Teller, Crossroads, Herald, Crossroads, Harem
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Duchess
+RTT - plays Duchess
+RTT - places Crossroads on top of deck
+Stef - shuffles deck
+Stef - places Moat on top of deck
+RTT - plays Crossroads
+RTT - reveals hand: Estate, Harem, Estate, Estate
+RTT - draws Crossroads, Moat, Province, Harem
+RTT - plays Crossroads
+RTT - reveals hand: Moat, Province, Harem, Estate, Harem, Estate, Estate
+RTT - draws Copper, Counterfeit, Herald, Fortune Teller, Crossroads, Duchy
+RTT - plays Herald
+RTT - draws Estate
+RTT - reveals: Moat
+RTT - plays Moat
+RTT - draws Herald, Province
+RTT - plays Herald
+RTT - draws Fortune Teller
+RTT - shuffles deck
+RTT - reveals: Hamlet
+RTT - plays Hamlet
+RTT - draws Herald
+RTT - discards Copper
+RTT - receives one action
+RTT - discards Fortune Teller
+RTT - receives one buy
+RTT - plays Herald
+RTT - shuffles deck
+RTT - draws Fortune Teller
+RTT - reveals: Copper
+RTT - places Copper on top of deck
+RTT - plays Crossroads
+RTT - reveals hand: Counterfeit, Fortune Teller, Duchy, Moat, Province, Harem, Estate, Harem, Estate, Estate, Estate, Province, Fortune Teller
+RTT - draws Copper
+RTT - plays Fortune Teller
+Stef - reveals Moat, Fortune Teller, Harem
+Stef - discards: Moat, Fortune Teller
+RTT - plays Fortune Teller
+Stef - reveals Harem
+RTT - plays Counterfeit
+RTT - plays Copper
+RTT - plays Copper
+RTT - trashes Copper
+RTT - plays 2 Harem
+RTT - buys Province
+RTT - gains Province
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - gains Duchess
+RTT - shuffles deck
+RTT - draws Herald, Duchess, Harem, Fortune Teller, Moat
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Herald
+Stef - draws Harem
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Fortune Teller, Crossroads, Harem, Harem
+Stef - draws Harem, Estate
+Stef - plays Crossroads
+Stef - reveals hand: Harem, Estate, Fortune Teller, Harem, Harem
+Stef - draws Moat, Herald, Herald, Crossroads
+Stef - plays Herald
+Stef - draws Hamlet
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Herald
+Stef - draws Harem
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays Moat
+Stef - draws Counterfeit, Estate
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - discards Fortune Teller
+Stef - receives one action
+Stef - discards Counterfeit
+Stef - receives one buy
+Stef - plays Crossroads
+Stef - reveals hand: Harem, Estate, Harem, Harem, Harem, Estate, Harem
+Stef - draws Estate, Hamlet, Province, Herald, Duchess, Herald, Hamlet
+Stef - plays Herald
+Stef - draws Hamlet
+Stef - reveals: Duchy
+Stef - places Duchy on top of deck
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Fortune Teller
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Fortune Teller
+Stef - discards Province
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Counterfeit
+Stef - discards Duchy
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays Duchess
+Stef - discards Fortune Teller
+RTT - places Hamlet on top of deck
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays Fortune Teller
+RTT - reveals reaction Moat
+Stef - plays 6 Harem
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Secret Chamber
+Stef - gains Secret Chamber
+Stef - draws Moat
+Stef - shuffles deck
+Stef - draws Hamlet, Estate, Province, Hamlet
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Herald
+RTT - draws Hamlet
+RTT - reveals: Counterfeit
+RTT - places Counterfeit on top of deck
+RTT - plays Hamlet
+RTT - draws Counterfeit
+RTT - plays Fortune Teller
+Stef - reveals reaction Moat
+RTT - plays 1 Harem
+RTT - plays Counterfeit
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Duchy, Crossroads, Herald, Duchy, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - discards Province
+Stef - receives one action
+Stef - plays Moat
+Stef - draws Herald, Herald
+Stef - plays Herald
+Stef - draws Hamlet
+Stef - reveals: Hamlet
+Stef - plays Hamlet
+Stef - draws Crossroads
+Stef - plays Herald
+Stef - draws Fortune Teller
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Hamlet
+Stef - draws Harem
+Stef - plays Hamlet
+Stef - draws Herald
+Stef - plays Herald
+Stef - draws Duchess
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Duchess
+Stef - discards Harem
+RTT - places Estate on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Estate, Fortune Teller, Harem
+Stef - draws Crossroads, Estate, Harem
+Stef - plays Crossroads
+Stef - reveals hand: Estate, Harem, Estate, Estate, Fortune Teller, Harem
+Stef - draws Harem, Fortune Teller, Duchy, Herald, Hamlet
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Crossroads
+Stef - plays Crossroads
+Stef - reveals hand: Harem, Fortune Teller, Duchy, Hamlet, Estate, Harem, Estate, Estate, Fortune Teller, Harem, Duchy
+Stef - draws Herald, Counterfeit, Harem, Crossroads, Secret Chamber, Fortune Teller, Herald, Province
+Stef - plays Herald
+Stef - draws Moat
+Stef - reveals: Harem
+Stef - places Harem on top of deck
+Stef - plays Herald
+Stef - draws Harem
+Stef - shuffles deck
+Stef - reveals: Province
+Stef - places Province on top of deck
+Stef - plays Hamlet
+Stef - draws Province
+Stef - discards Moat
+Stef - receives one buy
+Stef - plays Fortune Teller
+RTT - reveals Estate
+Stef - plays Secret Chamber
+Stef - discards Crossroads
+Stef - discards Fortune Teller
+Stef - discards Fortune Teller
+Stef - discards Province
+Stef - discards Province
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 5 Harem
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Harem
+Stef - shuffles deck
+Stef - draws Counterfeit, Hamlet, Duchy, Herald
+ 
+------------ Game Over ------------
+Stef - cards: 6 Herald, 5 Hamlet, 4 Crossroads, 3 Fortune Teller, 2 Moat, 1 Duchess, 1 Secret Chamber, 6 Harem, 1 Counterfeit, 5 Province, 3 Estate, 2 Duchy
+Stef - total victory points: 51
+Stef - turns: 17
+ 
+RTT - cards: 4 Herald, 3 Crossroads, 2 Fortune Teller, 2 Duchess, 2 Moat, 1 Hamlet, 2 Harem, 1 Counterfeit, 4 Estate, 3 Duchy, 3 Province
+RTT - total victory points: 35
+RTT - turns: 16
+ 
+1st place: Stef
+2nd place: RTT
+ 

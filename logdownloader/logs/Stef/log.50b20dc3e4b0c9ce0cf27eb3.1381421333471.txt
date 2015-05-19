@@ -1,0 +1,540 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Chapel, Forager, Oracle, Alchemist, Ironmonger, Butcher, Catacombs, Journeyman, Soothsayer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+achmed_sender - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+achmed_sender - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+achmed_sender - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- achmed_sender: turn 1 ----------
+achmed_sender - plays 2 Copper
+achmed_sender - buys Chapel
+achmed_sender - gains Chapel
+achmed_sender - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Forager
+ 
+---------- achmed_sender: turn 2 ----------
+achmed_sender - plays 5 Copper
+achmed_sender - buys Soothsayer
+achmed_sender - gains Soothsayer
+achmed_sender - shuffles deck
+achmed_sender - draws Copper, Soothsayer, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Ironmonger, Copper, Copper, Estate
+ 
+---------- achmed_sender: turn 3 ----------
+achmed_sender - plays Soothsayer
+achmed_sender - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+achmed_sender - plays 3 Copper
+achmed_sender - draws Copper, Copper, Chapel, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Forager
+ 
+---------- achmed_sender: turn 4 ----------
+achmed_sender - plays Chapel
+achmed_sender - trashes Estate, Estate, Copper, Copper
+achmed_sender - draws Copper, Copper
+achmed_sender - shuffles deck
+achmed_sender - draws Copper, Estate, Soothsayer
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Potion, Curse, Copper, Copper, Forager
+ 
+---------- achmed_sender: turn 5 ----------
+achmed_sender - plays Soothsayer
+achmed_sender - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+achmed_sender - draws Gold, Copper, Copper, Chapel
+achmed_sender - shuffles deck
+achmed_sender - draws Soothsayer
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Copper, Ironmonger, Estate
+Stef - shuffles deck
+Stef - draws Alchemist, Copper
+ 
+---------- achmed_sender: turn 6 ----------
+achmed_sender - plays Soothsayer
+achmed_sender - gains Gold
+Stef - gains Curse
+Stef - draws Copper
+achmed_sender - plays 2 Copper, 1 Gold
+achmed_sender - buys Butcher
+achmed_sender - gains Butcher
+achmed_sender - draws Copper, Estate, Copper, Gold, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Alchemist
+Stef - draws Curse, Copper
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - draws Forager, Copper, Ironmonger, Copper, Potion
+ 
+---------- achmed_sender: turn 7 ----------
+achmed_sender - plays 3 Copper, 1 Gold
+achmed_sender - buys Ironmonger
+achmed_sender - gains Ironmonger
+achmed_sender - shuffles deck
+achmed_sender - draws Copper, Soothsayer, Estate, Copper, Ironmonger
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Ironmonger, Forager, Copper, Copper, Copper
+ 
+---------- achmed_sender: turn 8 ----------
+achmed_sender - plays Ironmonger
+achmed_sender - draws Chapel
+achmed_sender - reveals: Gold
+achmed_sender - places Gold on top of deck
+achmed_sender - plays Chapel
+achmed_sender - trashes Copper, Estate, Copper
+achmed_sender - draws Gold, Copper, Copper, Gold, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Alchemist
+Stef - reveals: Chapel
+Stef - places Chapel on top of deck
+Stef - plays Alchemist
+Stef - draws Chapel, Estate
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper, Copper
+Stef - draws Ironmonger, Copper, Curse
+Stef - shuffles deck
+Stef - draws Alchemist, Ironmonger
+ 
+---------- achmed_sender: turn 9 ----------
+achmed_sender - plays Gold
+achmed_sender - plays Gold
+achmed_sender - buys Catacombs
+achmed_sender - gains Catacombs
+achmed_sender - draws Butcher, Gold
+achmed_sender - shuffles deck
+achmed_sender - draws Copper, Copper, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Alchemist
+Stef - places Alchemist on top of deck
+Stef - plays Ironmonger
+Stef - draws Alchemist
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Alchemist
+Stef - draws Potion, Chapel
+Stef - plays Alchemist
+Stef - draws Forager, Forager
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays Forager
+Stef - trashes Chapel
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Forager, Ironmonger, Copper
+ 
+---------- achmed_sender: turn 10 ----------
+achmed_sender - plays Butcher
+achmed_sender - receives 2 coin tokens
+achmed_sender - trashes Gold
+achmed_sender - gains Ironmonger
+achmed_sender - plays 2 Copper, 1 Gold
+achmed_sender - buys Catacombs
+achmed_sender - gains Catacombs
+achmed_sender - draws Copper, Chapel, Catacombs, Gold, Soothsayer
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Alchemist
+Stef - draws Potion, Butcher
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Alchemist
+Stef - draws Ironmonger, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Potion
+Stef - gains Potion
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Potion
+Stef - discards Potion
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - shuffles deck
+Stef - draws Ironmonger, Butcher, Alchemist, Copper, Soothsayer
+ 
+---------- achmed_sender: turn 11 ----------
+achmed_sender - plays Chapel
+achmed_sender - trashes Copper
+achmed_sender - plays 1 Gold
+achmed_sender - buys Forager
+achmed_sender - gains Forager
+achmed_sender - draws Ironmonger
+achmed_sender - shuffles deck
+achmed_sender - draws Butcher, Soothsayer, Gold, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Alchemist
+Stef - draws Forager, Alchemist
+Stef - plays Ironmonger
+Stef - draws Potion
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Alchemist
+Stef - draws Ironmonger, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Soothsayer
+Stef - gains Gold
+achmed_sender - gains Curse
+achmed_sender - draws Gold
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays 1 Potion
+Stef - uses 1 coin token
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Ironmonger, Potion, Soothsayer
+ 
+---------- achmed_sender: turn 12 ----------
+achmed_sender - plays Ironmonger
+achmed_sender - draws Chapel
+achmed_sender - reveals: Catacombs
+achmed_sender - places Catacombs on top of deck
+achmed_sender - plays Butcher
+achmed_sender - receives 2 coin tokens
+achmed_sender - trashes Soothsayer
+achmed_sender - gains Catacombs
+achmed_sender - plays Chapel
+achmed_sender - trashes Copper
+achmed_sender - plays 2 Gold
+achmed_sender - buys Ironmonger
+achmed_sender - gains Ironmonger
+achmed_sender - draws Catacombs, Copper, Ironmonger, Forager, Catacombs
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Forager, Alchemist
+Stef - plays Alchemist
+Stef - draws Butcher, Province
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Alchemist
+Stef - draws Ironmonger, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Beggar
+Stef - places Beggar on top of deck
+Stef - plays Soothsayer
+Stef - gains Gold
+achmed_sender - gains Curse
+achmed_sender - shuffles deck
+achmed_sender - draws Catacombs
+Stef - plays Ironmonger
+Stef - draws Beggar
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays 1 Potion, 1 Copper
+Stef - uses 1 coin token
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Forager
+Stef - gains Forager
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Soothsayer, Potion
+ 
+---------- achmed_sender: turn 13 ----------
+achmed_sender - plays Ironmonger
+achmed_sender - draws Curse
+achmed_sender - reveals: Gold
+achmed_sender - places Gold on top of deck
+achmed_sender - plays Forager
+achmed_sender - trashes Curse
+achmed_sender - plays Catacombs
+achmed_sender - looks at Gold, Chapel, Ironmonger
+achmed_sender - discards: Gold, Chapel, Ironmonger
+achmed_sender - draws Curse, Gold, Butcher
+achmed_sender - plays 1 Copper, 1 Gold
+achmed_sender - uses 2 coin tokens
+achmed_sender - buys Ironmonger
+achmed_sender - gains Ironmonger
+achmed_sender - buys Gold
+achmed_sender - gains Gold
+achmed_sender - draws Ironmonger
+achmed_sender - shuffles deck
+achmed_sender - draws Butcher, Gold, Chapel, Ironmonger
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Ironmonger, Forager
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Forager
+Stef - discards Forager
+Stef - plays Alchemist
+Stef - draws Copper, Beggar
+Stef - plays Alchemist
+Stef - draws Ironmonger, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Province
+Stef - discards Province
+Stef - draws Forager
+Stef - plays Ironmonger
+Stef - draws Province
+Stef - reveals: Butcher
+Stef - places Butcher on top of deck
+Stef - plays Ironmonger
+Stef - draws Butcher
+Stef - reveals: Alchemist
+Stef - places Alchemist on top of deck
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Soothsayer
+Stef - gains Gold
+achmed_sender - gains Curse
+achmed_sender - draws Catacombs
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Province
+Stef - gains Province
+Stef - plays 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- achmed_sender: turn 14 ----------
+achmed_sender - plays Ironmonger
+achmed_sender - draws Gold
+achmed_sender - reveals: Ironmonger
+achmed_sender - places Ironmonger on top of deck
+achmed_sender - plays Catacombs
+achmed_sender - looks at Ironmonger, Curse, Ironmonger
+achmed_sender - places cards in hand:  Ironmonger, Curse, Ironmonger
+achmed_sender - plays Ironmonger
+achmed_sender - draws Copper
+achmed_sender - reveals: Catacombs
+achmed_sender - places Catacombs on top of deck
+achmed_sender - plays Ironmonger
+achmed_sender - draws Catacombs
+achmed_sender - reveals: Gold
+achmed_sender - places Gold on top of deck
+achmed_sender - plays Catacombs
+achmed_sender - looks at Gold, Catacombs, Forager
+achmed_sender - places cards in hand:  Gold, Catacombs, Forager
+achmed_sender - plays Ironmonger
+achmed_sender - shuffles deck
+achmed_sender - draws Curse
+achmed_sender - plays Forager
+achmed_sender - trashes Curse
+achmed_sender - plays Butcher
+achmed_sender - receives 2 coin tokens
+achmed_sender - trashes Chapel
+achmed_sender - uses 1 coin token
+achmed_sender - uses 1 coin token
+achmed_sender - gains Ironmonger
+achmed_sender - plays 3 Gold, 1 Copper
+achmed_sender - buys Province
+achmed_sender - gains Province
+achmed_sender - buys Duchy
+achmed_sender - gains Duchy
+achmed_sender - shuffles deck
+achmed_sender - draws Ironmonger, Gold, Forager, Ironmonger, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Alchemist
+Stef - draws Province, Forager
+Stef - plays Alchemist
+Stef - draws Gold, Forager
+Stef - plays Alchemist
+Stef - draws Potion, Beggar
+Stef - plays Alchemist
+Stef - draws Soothsayer, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Province
+Stef - discards Province
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Butcher
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Soothsayer
+Stef - gains Gold
+achmed_sender - gains Curse
+achmed_sender - draws Copper
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - discards Gold
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Potion
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Province, Ironmonger, Ironmonger, Gold
+ 
+------------ Game Over ------------
+Stef - cards: 4 Ironmonger, 4 Alchemist, 3 Forager, 1 Beggar, 1 Butcher, 1 Soothsayer, 2 Gold, 6 Province
+Stef - total victory points: 36
+Stef - turns: 15
+ 
+achmed_sender - cards: 5 Ironmonger, 3 Catacombs, 1 Forager, 1 Butcher, 3 Gold, 1 Copper, 1 Duchy, 1 Province, 2 Curse
+achmed_sender - total victory points: 7
+achmed_sender - turns: 14
+ 
+1st place: Stef
+2nd place: achmed_sender
+ 

@@ -1,0 +1,712 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Pearl Diver, Market Square, Menagerie, Armory, Caravan, Bazaar, Harvest, Junk Dealer, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Money Spender - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Money Spender - shuffles deck
+Stef - draws Copper, Necropolis, Copper, Copper, Copper
+Money Spender - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Money Spender: turn 1 ----------
+Money Spender - plays 4 Copper
+Money Spender - buys Caravan
+Money Spender - gains Caravan
+Money Spender - draws Necropolis, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - draws Copper, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- Money Spender: turn 2 ----------
+Money Spender - plays 3 Copper
+Money Spender - buys Silver
+Money Spender - gains Silver
+Money Spender - shuffles deck
+Money Spender - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Armory, Copper, Copper, Hovel
+ 
+---------- Money Spender: turn 3 ----------
+Money Spender - plays 4 Copper
+Money Spender - buys Market Square
+Money Spender - gains Market Square
+Money Spender - draws Copper, Silver, Caravan, Overgrown Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Armory
+Stef - gains Caravan
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Caravan, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- Money Spender: turn 4 ----------
+Money Spender - plays Caravan
+Money Spender - draws Hovel
+Money Spender - plays 2 Copper, 1 Silver
+Money Spender - buys Caravan
+Money Spender - gains Caravan
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Caravan, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Hovel
+ 
+---------- Money Spender: turn 5 ----------
+Money Spender - duration Caravan
+Money Spender - draws Market Square
+Money Spender - plays Caravan
+Money Spender - draws Copper
+Money Spender - plays Market Square
+Money Spender - draws Overgrown Estate
+Money Spender - plays 4 Copper
+Money Spender - buys Market Square
+Money Spender - gains Market Square
+Money Spender - draws Copper, Hovel, Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Market Square, Armory, Overgrown Estate, Necropolis, Copper
+ 
+---------- Money Spender: turn 6 ----------
+Money Spender - duration Caravan
+Money Spender - shuffles deck
+Money Spender - draws Copper
+Money Spender - plays 4 Copper, 1 Silver
+Money Spender - buys Junk Dealer
+Money Spender - gains Junk Dealer
+Money Spender - draws Necropolis, Copper, Market Square, Caravan, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Necropolis
+Stef - plays Armory
+Stef - gains Menagerie
+Stef - plays Market Square
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Overgrown Estate, Copper
+Stef - draws Menagerie, Copper, Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Overgrown Estate, Copper
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Money Spender: turn 7 ----------
+Money Spender - plays Caravan
+Money Spender - draws Copper
+Money Spender - plays Market Square
+Money Spender - draws Market Square
+Money Spender - plays Market Square
+Money Spender - draws Overgrown Estate
+Money Spender - plays 3 Copper
+Money Spender - buys Menagerie
+Money Spender - gains Menagerie
+Money Spender - shuffles deck
+Money Spender - draws Silver, Market Square, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Caravan, Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper, Overgrown Estate, Copper
+ 
+---------- Money Spender: turn 8 ----------
+Money Spender - duration Caravan
+Money Spender - draws Hovel
+Money Spender - plays Market Square
+Money Spender - draws Market Square
+Money Spender - plays Market Square
+Money Spender - draws Copper
+Money Spender - plays 3 Copper, 1 Silver
+Money Spender - buys Junk Dealer
+Money Spender - gains Junk Dealer
+Money Spender - draws Copper, Copper, Menagerie, Overgrown Estate, Junk Dealer
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Junk Dealer
+Stef - draws Menagerie
+Stef - trashes Copper
+Stef - plays Menagerie
+Stef - reveals hand: Caravan, Copper, Overgrown Estate
+Stef - draws Market Square, Menagerie, Market Square
+Stef - plays Market Square
+Stef - draws Junk Dealer
+Stef - plays Menagerie
+Stef - reveals hand: Market Square, Caravan, Copper, Overgrown Estate, Junk Dealer
+Stef - draws Copper, Copper, Necropolis
+Stef - plays Caravan
+Stef - draws Hovel
+Stef - plays Junk Dealer
+Stef - draws Armory
+Stef - trashes Overgrown Estate
+Stef - draws Silver
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains Menagerie
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Menagerie, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Money Spender: turn 9 ----------
+Money Spender - plays Junk Dealer
+Money Spender - draws Copper
+Money Spender - trashes Overgrown Estate
+Money Spender - draws Caravan
+Money Spender - plays Caravan
+Money Spender - draws Copper
+Money Spender - plays Menagerie
+Money Spender - reveals hand: Copper, Copper, Copper, Copper
+Money Spender - shuffles deck
+Money Spender - draws Copper
+Money Spender - plays 5 Copper
+Money Spender - buys Junk Dealer
+Money Spender - gains Junk Dealer
+Money Spender - draws Necropolis, Market Square, Silver, Junk Dealer, Caravan
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Copper, Copper, Copper
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Hovel
+Stef - plays 5 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Silver, Armory, Copper, Market Square, Menagerie
+ 
+---------- Money Spender: turn 10 ----------
+Money Spender - duration Caravan
+Money Spender - draws Copper
+Money Spender - plays Caravan
+Money Spender - draws Hovel
+Money Spender - plays Junk Dealer
+Money Spender - draws Copper
+Money Spender - trashes Hovel
+Money Spender - reveals reaction Market Square
+Money Spender - discards Market Square
+Money Spender - gains Gold
+Money Spender - plays 2 Copper, 1 Silver
+Money Spender - buys Bazaar
+Money Spender - gains Bazaar
+Money Spender - draws Market Square
+Money Spender - shuffles deck
+Money Spender - draws Copper, Gold, Silver, Junk Dealer
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Armory, Copper, Market Square
+Stef - draws Menagerie, Menagerie, Market Square
+Stef - plays Market Square
+Stef - draws Junk Dealer
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Market Square, Silver, Armory, Copper, Junk Dealer
+Stef - draws Junk Dealer, Necropolis
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Hovel
+Stef - trashes Copper
+Stef - plays Menagerie
+Stef - reveals hand: Junk Dealer, Necropolis, Copper, Market Square, Silver, Armory, Hovel
+Stef - draws Copper, Bazaar, Copper
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Junk Dealer
+Stef - draws Caravan
+Stef - trashes Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Necropolis, Market Square, Silver, Armory, Hovel, Copper
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - shuffles deck
+Stef - draws Copper, Junk Dealer, Market Square, Copper, Copper
+ 
+---------- Money Spender: turn 11 ----------
+Money Spender - duration Caravan
+Money Spender - draws Market Square
+Money Spender - plays Junk Dealer
+Money Spender - draws Junk Dealer
+Money Spender - trashes Copper
+Money Spender - reveals reaction Market Square
+Money Spender - discards Market Square
+Money Spender - gains Gold
+Money Spender - reveals reaction Market Square
+Money Spender - discards Market Square
+Money Spender - gains Gold
+Money Spender - plays Junk Dealer
+Money Spender - draws Necropolis
+Money Spender - trashes Necropolis
+Money Spender - plays 1 Gold, 1 Silver
+Money Spender - buys Adventurer
+Money Spender - gains Adventurer
+Money Spender - draws Junk Dealer, Copper, Copper, Menagerie, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Armory
+Stef - plays Junk Dealer
+Stef - draws Menagerie
+Stef - trashes Copper
+Stef - plays Market Square
+Stef - draws Hovel
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Armory, Hovel
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Armory, Hovel
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Armory, Hovel
+Stef - draws Necropolis
+Stef - plays Armory
+Stef - gains Menagerie
+Stef - plays 2 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Menagerie, Silver, Menagerie, Bazaar, Menagerie
+ 
+---------- Money Spender: turn 12 ----------
+Money Spender - plays Junk Dealer
+Money Spender - draws Copper
+Money Spender - trashes Copper
+Money Spender - plays Menagerie
+Money Spender - reveals hand: Copper, Copper, Copper
+Money Spender - draws Copper
+Money Spender - plays 4 Copper
+Money Spender - buys Bazaar
+Money Spender - gains Bazaar
+Money Spender - draws Bazaar, Caravan, Copper
+Money Spender - shuffles deck
+Money Spender - draws Copper, Junk Dealer
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Silver, Menagerie, Bazaar
+Stef - draws Market Square
+Stef - plays Menagerie
+Stef - reveals hand: Market Square, Menagerie, Silver, Bazaar
+Stef - draws Menagerie, Menagerie, Copper
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Copper, Market Square, Silver, Bazaar
+Stef - draws Junk Dealer
+Stef - plays Menagerie
+Stef - reveals hand: Junk Dealer, Menagerie, Copper, Market Square, Silver, Bazaar
+Stef - draws Bazaar, Market Square
+Stef - shuffles deck
+Stef - draws Armory
+Stef - plays Bazaar
+Stef - draws Hovel
+Stef - plays Junk Dealer
+Stef - draws Necropolis
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Menagerie
+Stef - reveals hand: Bazaar, Market Square, Armory, Silver, Hovel, Necropolis
+Stef - draws Copper, Menagerie, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Bazaar, Market Square, Armory, Silver, Hovel, Necropolis
+Stef - draws Menagerie, Menagerie, Copper
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Copper, Copper, Bazaar, Market Square, Armory, Silver, Hovel, Necropolis
+Stef - draws Caravan
+Stef - plays Bazaar
+Stef - draws Market Square
+Stef - plays Caravan
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Gold
+Stef - trashes Copper
+Stef - plays Armory
+Stef - gains Lighthouse
+Stef - plays Market Square
+Stef - draws Lighthouse
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Lighthouse
+Stef - plays Market Square
+Stef - plays 1 Copper, 1 Silver, 1 Gold
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Harvest
+Stef - gains Harvest
+Stef - shuffles deck
+Stef - draws Gold, Menagerie, Menagerie, Market Square, Menagerie
+ 
+---------- Money Spender: turn 13 ----------
+Money Spender - plays Caravan
+Money Spender - draws Copper
+Money Spender - plays Bazaar
+Money Spender - draws Adventurer
+Money Spender - plays Junk Dealer
+Money Spender - draws Junk Dealer
+Money Spender - trashes Copper
+Money Spender - plays Junk Dealer
+Money Spender - draws Gold
+Money Spender - trashes Copper
+Money Spender - plays Adventurer
+Money Spender - reveals Gold, Copper
+Money Spender - places cards in hand:  Gold, Copper
+Money Spender - plays 2 Copper, 2 Gold
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - draws Market Square, Menagerie, Bazaar, Market Square, Junk Dealer
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Bazaar
+Stef - duration Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Gold, Menagerie, Menagerie, Market Square, Bazaar
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Gold, Menagerie, Market Square, Bazaar
+Stef - draws Junk Dealer, Menagerie, Necropolis
+Stef - plays Menagerie
+Stef - reveals hand: Junk Dealer, Menagerie, Necropolis, Copper, Gold, Market Square, Bazaar
+Stef - draws Menagerie, Silver, Harvest
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Harvest
+Stef - reveals: Bazaar, Armory, Hovel, Junk Dealer
+Stef - discards: Bazaar, Armory, Hovel, Junk Dealer
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Silver, Junk Dealer, Menagerie, Necropolis, Copper, Gold, Market Square
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Silver, Junk Dealer, Necropolis, Copper, Gold, Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Market Square, Menagerie, Menagerie, Silver, Junk Dealer, Necropolis, Copper, Gold
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Market Square, Menagerie, Silver, Junk Dealer, Necropolis, Copper, Gold
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - shuffles deck
+Stef - draws Armory
+Stef - plays Armory
+Stef - gains Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Market Square, Silver, Junk Dealer, Necropolis, Copper, Gold
+Stef - draws Lighthouse, Junk Dealer, Hovel
+Stef - plays Lighthouse
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Necropolis
+Stef - plays Junk Dealer
+Stef - trashes Copper
+Stef - plays Bazaar
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Junk Dealer, Market Square, Menagerie, Caravan, Junk Dealer
+ 
+---------- Money Spender: turn 14 ----------
+Money Spender - duration Caravan
+Money Spender - draws Caravan
+Money Spender - plays Market Square
+Money Spender - draws Copper
+Money Spender - plays Menagerie
+Money Spender - reveals hand: Market Square, Bazaar, Junk Dealer, Caravan, Copper
+Money Spender - draws Gold, Silver
+Money Spender - shuffles deck
+Money Spender - draws Gold
+Money Spender - plays Bazaar
+Money Spender - draws Copper
+Money Spender - plays Caravan
+Money Spender - draws Copper
+Money Spender - plays Junk Dealer
+Money Spender - draws Junk Dealer
+Money Spender - trashes Copper
+Money Spender - plays Junk Dealer
+Money Spender - draws Adventurer
+Money Spender - trashes Copper
+Money Spender - plays Market Square
+Money Spender - draws Bazaar
+Money Spender - plays Bazaar
+Money Spender - draws Junk Dealer
+Money Spender - plays Adventurer
+Money Spender - reveals Province, Gold
+Money Spender - places cards in hand:  Gold
+Money Spender - discards Province
+Money Spender - plays Junk Dealer
+Money Spender - shuffles deck
+Money Spender - draws Province
+Money Spender - trashes Copper
+Money Spender - plays 3 Gold, 1 Silver
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - buys Copper
+Money Spender - gains Copper
+Money Spender - shuffles deck
+Money Spender - draws Caravan, Gold, Silver, Junk Dealer, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Junk Dealer
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Menagerie
+Stef - reveals hand: Caravan, Silver
+Stef - draws Armory, Province, Market Square
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Armory, Province, Silver, Gold
+Stef - draws Menagerie, Menagerie, Bazaar
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Bazaar, Armory, Province, Silver, Gold
+Stef - draws Menagerie, Market Square, Bazaar
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Market Square, Menagerie, Armory, Province, Silver, Gold, Menagerie
+Stef - draws Harvest
+Stef - plays Harvest
+Stef - reveals: Menagerie, Bazaar, Menagerie, Bazaar
+Stef - discards: Menagerie, Bazaar, Menagerie, Bazaar
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Market Square, Menagerie, Armory, Province, Silver, Gold
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Market Square, Menagerie, Armory, Province, Silver, Gold, Lighthouse
+Stef - shuffles deck
+Stef - draws Gold, Market Square, Bazaar
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Market Square
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Armory
+Stef - gains Lighthouse
+Stef - plays Market Square
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Menagerie, Menagerie, Bazaar, Market Square, Market Square
+ 
+---------- Money Spender: turn 15 ----------
+Money Spender - duration Caravan
+Money Spender - draws Province
+Money Spender - plays Caravan
+Money Spender - draws Junk Dealer
+Money Spender - plays Junk Dealer
+Money Spender - draws Market Square
+Money Spender - trashes Junk Dealer
+Money Spender - plays Market Square
+Money Spender - draws Copper
+Money Spender - plays 1 Gold, 1 Silver, 1 Copper
+Money Spender - buys Duchy
+Money Spender - gains Duchy
+Money Spender - buys Lighthouse
+Money Spender - gains Lighthouse
+Money Spender - draws Menagerie, Bazaar, Gold, Junk Dealer, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Market Square
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Bazaar, Market Square, Duchy
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Bazaar, Market Square, Duchy
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Bazaar, Market Square, Duchy
+Stef - draws Gold
+Stef - plays Menagerie
+Stef - reveals hand: Gold, Menagerie, Bazaar, Market Square, Duchy
+Stef - draws Duchy, Province, Harvest
+Stef - plays Bazaar
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Duchy, Province, Harvest, Gold, Menagerie, Market Square, Duchy
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Armory
+Stef - plays Harvest
+Stef - reveals: Menagerie, Market Square, Silver, Lighthouse
+Stef - discards: Menagerie, Market Square, Silver, Lighthouse
+Stef - plays Market Square
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Province
+Stef - trashes Menagerie
+Stef - plays Armory
+Stef - gains Caravan
+Stef - plays 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Caravan, Gold, Menagerie, Bazaar, Menagerie
+ 
+---------- Money Spender: turn 16 ----------
+Money Spender - duration Caravan
+Money Spender - draws Adventurer
+Money Spender - plays Bazaar
+Money Spender - draws Province
+Money Spender - plays Adventurer
+Money Spender - shuffles deck
+Money Spender - reveals Bazaar, Market Square, Copper, Lighthouse, Province, Duchy, Silver
+Money Spender - places cards in hand:  Copper, Silver
+Money Spender - discards: Bazaar, Market Square, Lighthouse, Province, Duchy
+Money Spender - plays Junk Dealer
+Money Spender - draws Gold
+Money Spender - trashes Copper
+Money Spender - plays Menagerie
+Money Spender - reveals hand: Gold, Gold, Province, Silver, Gold
+Money Spender - draws Junk Dealer
+Money Spender - plays Junk Dealer
+Money Spender - draws Province
+Money Spender - trashes Silver
+Money Spender - plays 3 Gold
+Money Spender - buys Duchy
+Money Spender - gains Duchy
+Money Spender - draws Caravan, Market Square
+Money Spender - shuffles deck
+Money Spender - draws Market Square, Adventurer, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Caravan, Gold, Menagerie, Bazaar
+Stef - shuffles deck
+Stef - draws Bazaar, Menagerie, Duchy
+Stef - plays Bazaar
+Stef - draws Market Square
+Stef - plays Menagerie
+Stef - reveals hand: Bazaar, Menagerie, Duchy, Caravan, Gold, Market Square
+Stef - draws Market Square, Junk Dealer, Silver
+Stef - plays Market Square
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Market Square, Junk Dealer, Silver, Bazaar, Menagerie, Duchy, Caravan, Gold
+Stef - draws Menagerie, Duchy, Lighthouse
+Stef - plays Bazaar
+Stef - draws Armory
+Stef - plays Caravan
+Stef - draws Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Duchy, Lighthouse, Market Square, Junk Dealer, Silver, Duchy, Gold, Armory, Lighthouse
+Stef - draws Harvest
+Stef - plays Harvest
+Stef - reveals: Province, Menagerie, Gold, Market Square
+Stef - discards: Province, Menagerie, Gold, Market Square
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Armory
+Stef - gains Silver
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Market Square
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Lighthouse, Market Square, Menagerie, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 8 Menagerie, 4 Bazaar, 3 Lighthouse, 3 Market Square, 2 Caravan, 1 Harvest, 1 Armory, 1 Junk Dealer, 2 Gold, 2 Silver, 5 Province, 3 Duchy
+Stef - total victory points: 39
+Stef - turns: 16
+ 
+Money Spender - cards: 2 Caravan, 2 Market Square, 2 Junk Dealer, 2 Bazaar, 1 Adventurer, 1 Lighthouse, 1 Menagerie, 3 Gold, 3 Province, 2 Duchy
+Money Spender - total victory points: 24
+Money Spender - turns: 16
+ 
+1st place: Stef
+2nd place: Money Spender
+ 

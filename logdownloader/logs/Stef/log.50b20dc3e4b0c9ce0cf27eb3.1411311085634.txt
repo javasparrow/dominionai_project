@@ -1,0 +1,286 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Lookout, Storeroom, Caravan, Cutpurse, Sea Hag, Tournament, Pillage, Soothsayer, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hakase bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+hakase bot - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+hakase bot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- hakase bot: turn 1 ----------
+hakase bot - plays 4 Copper
+hakase bot - buys Caravan
+hakase bot - gains Caravan
+hakase bot - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- hakase bot: turn 2 ----------
+hakase bot - plays 3 Copper
+hakase bot - buys Lookout
+hakase bot - gains Lookout
+hakase bot - shuffles deck
+hakase bot - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Lookout, Tournament, Copper, Copper, Estate
+ 
+---------- hakase bot: turn 3 ----------
+hakase bot - plays 3 Copper
+hakase bot - buys Lookout
+hakase bot - gains Lookout
+hakase bot - draws Copper, Copper, Copper, Estate, Lookout
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Tournament on top of deck
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Estate
+Stef - plays 2 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Tournament
+ 
+---------- hakase bot: turn 4 ----------
+hakase bot - plays Lookout
+hakase bot - shuffles deck
+hakase bot - trashes Copper
+hakase bot - discards Caravan
+hakase bot - places Lookout on top of deck
+hakase bot - plays 3 Copper
+hakase bot - buys Silver
+hakase bot - gains Silver
+hakase bot - draws Lookout, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Estate, Estate, Lookout, Tournament, Tournament
+ 
+---------- hakase bot: turn 5 ----------
+hakase bot - plays Lookout
+hakase bot - shuffles deck
+hakase bot - trashes Estate
+hakase bot - discards Copper
+hakase bot - places Silver on top of deck
+hakase bot - plays 3 Copper
+hakase bot - buys Silver
+hakase bot - gains Silver
+hakase bot - draws Silver, Estate, Caravan, Copper, Lookout
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Gold on top of deck
+Stef - plays Tournament
+Stef - draws Gold
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Tournament, Copper, Copper, Copper, Copper
+ 
+---------- hakase bot: turn 6 ----------
+hakase bot - plays Lookout
+hakase bot - shuffles deck
+hakase bot - trashes Estate
+hakase bot - discards Copper
+hakase bot - places Copper on top of deck
+hakase bot - plays Caravan
+hakase bot - draws Copper
+hakase bot - plays 2 Copper, 1 Silver
+hakase bot - buys Tournament
+hakase bot - gains Tournament
+hakase bot - draws Lookout, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Tournament, Tournament, Lookout, Gold, Copper
+ 
+---------- hakase bot: turn 7 ----------
+hakase bot - duration Caravan
+hakase bot - shuffles deck
+hakase bot - draws Silver
+hakase bot - plays Lookout
+hakase bot - trashes Copper
+hakase bot - discards Copper
+hakase bot - places Lookout on top of deck
+hakase bot - plays 3 Copper, 2 Silver
+hakase bot - buys Gold
+hakase bot - gains Gold
+hakase bot - draws Lookout, Estate, Tournament, Copper
+hakase bot - shuffles deck
+hakase bot - draws Lookout
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Lookout
+Stef - trashes Estate
+Stef - discards Copper
+Stef - places Caravan on top of deck
+Stef - plays Tournament
+Stef - draws Caravan
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Copper, Caravan, Copper, Copper
+ 
+---------- hakase bot: turn 8 ----------
+hakase bot - plays Lookout
+hakase bot - trashes Copper
+hakase bot - discards Caravan
+hakase bot - places Copper on top of deck
+hakase bot - plays Lookout
+hakase bot - trashes Copper
+hakase bot - discards Copper
+hakase bot - places Copper on top of deck
+hakase bot - plays Tournament
+hakase bot - draws Copper
+hakase bot - plays 2 Copper
+hakase bot - buys Silver
+hakase bot - gains Silver
+hakase bot - draws Silver, Gold, Silver
+hakase bot - shuffles deck
+hakase bot - draws Silver, Lookout
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Tournament
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Lookout
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Tournament
+Stef - places Province on top of deck
+Stef - plays 3 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Province, Copper, Tournament, Gold, Copper
+ 
+---------- hakase bot: turn 9 ----------
+hakase bot - plays Lookout
+hakase bot - trashes Lookout
+hakase bot - discards Copper
+hakase bot - places Caravan on top of deck
+hakase bot - plays 3 Silver, 1 Gold
+hakase bot - buys Province
+hakase bot - gains Province
+hakase bot - draws Caravan, Copper, Copper, Estate, Tournament
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Copper, Candlestick Maker
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Lookout, Tournament, Caravan, Tournament
+ 
+---------- hakase bot: turn 10 ----------
+hakase bot - plays Caravan
+hakase bot - shuffles deck
+hakase bot - draws Lookout
+hakase bot - plays Lookout
+hakase bot - trashes Copper
+hakase bot - discards Province
+hakase bot - places Silver on top of deck
+hakase bot - plays Tournament
+hakase bot - draws Silver
+hakase bot - plays 2 Copper, 1 Silver
+hakase bot - buys Tournament
+hakase bot - gains Tournament
+hakase bot - draws Silver, Silver, Gold
+hakase bot - shuffles deck
+hakase bot - draws Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - draws Followers
+Stef - plays Followers
+Stef - draws Province, Copper
+Stef - gains Estate
+hakase bot - gains Curse
+hakase bot - discards Copper
+hakase bot - discards Silver
+Stef - plays 2 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Caravan, Candlestick Maker, Tournament, Copper, Gold
+ 
+---------- hakase bot: turn 11 ----------
+hakase bot - duration Caravan
+hakase bot - draws Province
+ 
+------------ Game Over ------------
+Stef - cards: 3 Caravan, 3 Tournament, 1 Candlestick Maker, 1 Lookout, 1 Followers, 1 Trusty Steed, 4 Copper, 1 Gold, 2 Province, 2 Estate
+Stef - total victory points: 14
+Stef - turns: 11
+ 
+hakase bot - resigned
+hakase bot - cards: 2 Tournament, 1 Lookout, 3 Silver, 2 Copper, 1 Gold, 1 Province, 1 Estate, 1 Curse
+hakase bot - total victory points: 6
+hakase bot - turns: 10
+ 
+1st place: Stef
+2nd place: hakase bot
+ 

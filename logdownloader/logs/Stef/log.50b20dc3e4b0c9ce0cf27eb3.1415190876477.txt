@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Fortune Teller, Oracle, Swindler, Alchemist, Bridge, Procession, Sea Hag, Wandering Minstrel, Young Witch, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Oracle
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ruroi - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 4 Copper
+ruroi - buys Young Witch
+ruroi - gains Young Witch
+ruroi - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 3 Copper
+ruroi - buys Swindler
+ruroi - gains Swindler
+ruroi - shuffles deck
+ruroi - draws Copper, Copper, Copper, Copper, Young Witch
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - shuffles deck
+Stef - draws Oracle, Potion, Copper, Copper, Estate
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays Young Witch
+ruroi - draws Estate, Swindler
+ruroi - discards Estate
+ruroi - discards Swindler
+Stef - reveals bane Oracle
+ruroi - plays 4 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oracle
+Stef - reveals: Copper, Estate
+Stef - discards: Copper, Estate
+ruroi - shuffles deck
+ruroi - reveals: Young Witch, Copper
+ruroi - discards: Young Witch, Copper
+Stef - draws Copper, Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Alchemist, Oracle
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Swindler, Estate, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Estate
+Stef - plays Oracle
+Stef - reveals: Estate, Potion
+Stef - places Potion on top of deck
+Stef - places Estate on top of deck
+ruroi - reveals: Copper
+ruroi - shuffles deck
+ruroi - reveals: Copper
+ruroi - places Copper on top of deck
+ruroi - places Copper on top of deck
+Stef - draws Estate, Potion
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Estate, Copper, Copper, Copper
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Swindler
+Stef - shuffles deck
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+ruroi - plays 2 Copper, 1 Silver
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Potion
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Estate, Copper, Copper, Alchemist
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays 3 Copper
+ruroi - buys Oracle
+ruroi - gains Oracle
+ruroi - draws Copper, Young Witch, Silver, Copper
+ruroi - shuffles deck
+ruroi - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Oracle
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Copper, Estate
+Stef - plays Oracle
+Stef - reveals: Estate, Alchemist
+Stef - discards: Estate, Alchemist
+ruroi - reveals: Estate, Estate
+ruroi - places Estate on top of deck
+ruroi - places Estate on top of deck
+Stef - draws Copper, Potion
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Copper, Copper
+Stef - shuffles deck
+Stef - draws Alchemist
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays Young Witch
+ruroi - draws Estate, Estate
+ruroi - discards Estate
+ruroi - discards Estate
+Stef - gains Curse
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Wandering Minstrel
+ruroi - gains Wandering Minstrel
+ruroi - draws Oracle, Swindler, Copper, Gold, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Potion
+Stef - plays Alchemist
+Stef - draws Estate, Estate
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Copper, Estate
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays Swindler
+Stef - reveals Oracle
+Stef - trashes Oracle
+Stef - gains Silver
+ruroi - plays 2 Copper, 1 Gold
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Copper, Estate, Copper, Silver
+ruroi - shuffles deck
+ruroi - draws Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Alchemist
+Stef - draws Alchemist, Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Estate, Silver
+Stef - plays Alchemist
+Stef - draws Copper, Curse
+Stef - plays Alchemist
+Stef - draws Copper, Potion
+Stef - plays 4 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Wandering Minstrel
+ruroi - gains Wandering Minstrel
+ruroi - draws Copper, Young Witch, Copper, Gold, Oracle
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Alchemist
+Stef - draws Bridge, Copper
+Stef - plays Alchemist
+Stef - draws Estate, Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Estate, Curse
+Stef - plays Alchemist
+Stef - draws Copper, Potion
+Stef - plays Bridge
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Young Witch
+ruroi - draws Copper, Estate
+ruroi - discards Oracle
+ruroi - discards Estate
+Stef - gains Curse
+ruroi - plays 3 Copper, 1 Gold
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Estate, Swindler, Silver, Copper, Wandering Minstrel
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Alchemist
+Stef - draws Silver, Alchemist
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Alchemist
+Stef - draws Estate, Curse
+Stef - plays Alchemist
+Stef - draws Estate, Copper
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Young Witch
+Stef - gains Young Witch
+Stef - draws Wandering Minstrel, Curse, Alchemist, Bridge, Copper
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Swindler
+Stef - reveals Potion
+Stef - trashes Potion
+Stef - gains Young Witch
+ruroi - plays 1 Silver, 1 Copper
+ruroi - buys Wandering Minstrel
+ruroi - gains Wandering Minstrel
+ruroi - draws Gold
+ruroi - shuffles deck
+ruroi - draws Wandering Minstrel, Young Witch, Oracle, Swindler
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Alchemist, Copper, Alchemist
+Stef - places Alchemist on top of deck
+Stef - places Alchemist on top of deck
+Stef - discards Copper
+Stef - plays Alchemist
+Stef - draws Alchemist, Alchemist
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Estate, Copper
+Stef - plays Alchemist
+Stef - draws Estate, Copper
+Stef - plays Bridge
+Stef - plays 5 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Young Witch, Alchemist, Curse, Silver
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays Wandering Minstrel
+ruroi - draws Gold
+ruroi - reveals: Estate, Copper, Copper
+ruroi - discards: Estate, Copper, Copper
+ruroi - plays Oracle
+ruroi - reveals: Copper, Copper
+ruroi - discards: Copper, Copper
+Stef - reveals: Young Witch, Alchemist
+Stef - discards: Young Witch, Alchemist
+ruroi - draws Copper, Copper
+ruroi - plays Young Witch
+ruroi - draws Wandering Minstrel, Copper
+ruroi - discards Wandering Minstrel
+ruroi - discards Swindler
+Stef - gains Curse
+ruroi - plays 3 Copper, 2 Gold
+ruroi - buys Province
+ruroi - gains Province
+ruroi - draws Silver, Estate, Silver, Wandering Minstrel, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Young Witch
+Stef - draws Wandering Minstrel, Copper
+Stef - discards Curse
+Stef - discards Estate
+ruroi - gains Curse
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Alchemist, Alchemist, Estate, Copper, Wandering Minstrel
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Wandering Minstrel
+ruroi - draws Gold
+ruroi - shuffles deck
+ruroi - reveals: Wandering Minstrel, Province, Copper
+ruroi - places Wandering Minstrel on top of deck
+ruroi - discards: Province, Copper
+ruroi - plays 2 Silver, 1 Gold
+ruroi - buys Wandering Minstrel
+ruroi - gains Wandering Minstrel
+ruroi - draws Wandering Minstrel, Oracle, Wandering Minstrel, Copper, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Young Witch, Potion
+Stef - plays Alchemist
+Stef - draws Alchemist, Copper
+Stef - plays Alchemist
+Stef - draws Curse, Alchemist
+Stef - plays Alchemist
+Stef - draws Bridge, Curse
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Alchemist, Estate
+Stef - places Alchemist on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Young Witch
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Young Witch
+Stef - discards Curse
+Stef - discards Curse
+ruroi - reveals bane Oracle
+Stef - plays Alchemist
+Stef - draws Estate, Copper
+Stef - plays Bridge
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- ruroi: turn 14 ----------
+ruroi - plays Wandering Minstrel
+ruroi - draws Copper
+ruroi - reveals: Copper, Curse, Gold
+ruroi - discards: Copper, Curse, Gold
+ruroi - plays Wandering Minstrel
+ruroi - draws Estate
+ruroi - reveals: Copper, Gold, Young Witch
+ruroi - places Young Witch on top of deck
+ruroi - discards: Copper, Gold
+ruroi - plays Oracle
+ruroi - reveals: Young Witch, Swindler
+ruroi - places Swindler on top of deck
+ruroi - places Young Witch on top of deck
+Stef - reveals: Estate, Copper
+Stef - places Copper on top of deck
+Stef - places Estate on top of deck
+ruroi - draws Young Witch, Swindler
+ruroi - plays Young Witch
+ruroi - draws Copper
+ruroi - shuffles deck
+ruroi - draws Estate
+ruroi - discards Estate
+ruroi - discards Estate
+Stef - gains Curse
+ruroi - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+ruroi - plays 4 Copper
+ruroi - buys Gold
+ruroi - gains Gold
+ruroi - draws Gold, Estate, Copper, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - draws Copper, Wandering Minstrel
+Stef - plays Alchemist
+Stef - draws Curse, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Alchemist
+Stef - reveals: Silver
+Stef - shuffles deck
+Stef - reveals: Alchemist, Estate
+Stef - places Alchemist on top of deck
+Stef - discards: Silver, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Alchemist
+Stef - reveals: Estate, Copper, Bridge
+Stef - places Bridge on top of deck
+Stef - discards: Estate, Copper
+Stef - plays Alchemist
+Stef - draws Bridge, Potion
+Stef - plays Alchemist
+Stef - draws Wandering Minstrel, Young Witch
+Stef - plays Alchemist
+Stef - draws Copper, Curse
+Stef - plays Alchemist
+Stef - draws Copper, Curse
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Curse, Young Witch
+Stef - places Young Witch on top of deck
+Stef - discards: Copper, Curse
+Stef - plays Wandering Minstrel
+Stef - draws Young Witch
+Stef - reveals: Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Estate
+Stef - discards: Estate, Copper, Estate
+Stef - plays Young Witch
+Stef - draws Estate, Curse
+Stef - discards Curse
+Stef - discards Curse
+ruroi - gains Curse
+Stef - plays Young Witch
+Stef - draws Silver, Copper
+Stef - discards Estate
+Stef - discards Curse
+ruroi - gains Curse
+Stef - plays Bridge
+Stef - plays 6 Copper, 1 Potion, 1 Silver
+ 
+------------ Game Over ------------
+Stef - cards: 1 Copper, 3 Estate, 4 Curse
+Stef - total victory points: -1
+Stef - turns: 13
+ 
+ruroi - resigned
+ruroi - cards: 4 Wandering Minstrel, 1 Oracle, 1 Young Witch, 1 Swindler, 7 Copper, 4 Gold, 2 Silver, 3 Estate, 1 Province, 3 Curse
+ruroi - total victory points: 6
+ruroi - turns: 14
+ 
+1st place: Stef
+2nd place: ruroi
+ 

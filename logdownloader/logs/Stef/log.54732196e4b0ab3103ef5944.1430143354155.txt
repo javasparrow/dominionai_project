@@ -1,0 +1,528 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Cellar, Pawn, Storeroom, Conspirator, Fortress, Noble Brigand, Mandarin, Pillage, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+RUA - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RUA - shuffles deck
+Stef - shuffles deck
+RUA - draws Copper, Estate, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- RUA: turn 1 ----------
+RUA - plays 3 Copper
+RUA - buys Silver
+RUA - gains Silver
+RUA - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- RUA: turn 2 ----------
+RUA - plays 4 Copper
+RUA - buys Conspirator
+RUA - gains Conspirator
+RUA - shuffles deck
+RUA - draws Copper, Copper, Copper, Copper, Conspirator
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- RUA: turn 3 ----------
+RUA - plays Conspirator
+RUA - plays 4 Copper
+RUA - buys Gold
+RUA - gains Gold
+RUA - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Cellar, Copper, Conspirator, Estate, Copper
+ 
+---------- RUA: turn 4 ----------
+RUA - plays 2 Copper, 1 Silver
+RUA - buys Fortress
+RUA - gains Fortress
+RUA - draws Copper, Estate
+RUA - shuffles deck
+RUA - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Copper, Estate
+Stef - plays Conspirator
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Fortress, Copper
+ 
+---------- RUA: turn 5 ----------
+RUA - plays 2 Copper
+RUA - buys Cellar
+RUA - gains Cellar
+RUA - draws Copper, Copper, Conspirator, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Cellar, Copper, Conspirator, Copper, Fortress
+ 
+---------- RUA: turn 6 ----------
+RUA - plays Conspirator
+RUA - plays 3 Copper, 1 Silver
+RUA - buys Forge
+RUA - gains Forge
+RUA - draws Fortress, Copper, Gold, Copper
+RUA - shuffles deck
+RUA - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Cellar
+Stef - discards Estate
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Cellar, Estate, Copper, Copper, Copper
+ 
+---------- RUA: turn 7 ----------
+RUA - plays Fortress
+RUA - draws Forge
+RUA - plays Forge
+RUA - trashes Copper, Copper
+RUA - gains Copper
+RUA - plays 1 Copper, 1 Gold
+RUA - buys Fortress
+RUA - gains Fortress
+RUA - draws Estate, Copper, Copper, Cellar, Conspirator
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Estate, Estate, Conspirator
+Stef - plays Conspirator
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Conspirator, Copper, Copper, Fortress
+ 
+---------- RUA: turn 8 ----------
+RUA - plays Cellar
+RUA - discards Estate
+RUA - discards Copper
+RUA - discards Copper
+RUA - draws Silver, Estate, Copper
+RUA - plays Conspirator
+RUA - plays Silver
+RUA - buys Fortress
+RUA - gains Fortress
+RUA - draws Estate, Copper
+RUA - shuffles deck
+RUA - draws Estate, Copper, Conspirator
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Cellar
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Copper, Conspirator, Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Forge
+Stef - gains Forge
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Fortress, Fortress, Cellar
+ 
+---------- RUA: turn 9 ----------
+RUA - plays Conspirator
+RUA - plays 2 Copper
+RUA - buys Conspirator
+RUA - gains Conspirator
+RUA - draws Fortress, Copper, Copper, Fortress, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Fortress
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - draws Pawn, Copper, Forge, Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays Forge
+Stef - trashes Copper, Copper, Copper
+Stef - gains Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Conspirator, Estate, Copper, Fortress
+ 
+---------- RUA: turn 10 ----------
+RUA - plays Fortress
+RUA - draws Forge
+RUA - plays Forge
+RUA - trashes Copper, Copper, Copper, Fortress
+RUA - gains Conspirator
+RUA - plays Fortress
+RUA - draws Estate
+RUA - draws Fortress, Silver, Gold, Cellar, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Cellar
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Copper, Forge, Conspirator
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Forge
+Stef - trashes Estate, Copper, Copper
+Stef - gains Pawn
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Pawn, Fortress, Fortress, Estate, Pawn
+ 
+---------- RUA: turn 11 ----------
+RUA - plays Fortress
+RUA - shuffles deck
+RUA - draws Copper
+RUA - plays Cellar
+RUA - discards Silver
+RUA - discards Gold
+RUA - discards Copper
+RUA - discards Copper
+RUA - draws Estate, Conspirator, Fortress, Estate
+RUA - plays Conspirator
+RUA - draws Copper
+RUA - plays Fortress
+RUA - draws Conspirator
+RUA - plays Conspirator
+RUA - draws Estate
+RUA - buys Pawn
+RUA - gains Pawn
+RUA - draws Fortress, Conspirator, Forge
+RUA - shuffles deck
+RUA - draws Cellar, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Forge
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Cellar
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Copper, Copper
+Stef - plays Forge
+Stef - trashes Copper, Copper, Estate
+Stef - gains Pawn
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Pawn, Conspirator, Pawn, Cellar, Fortress
+ 
+---------- RUA: turn 12 ----------
+RUA - plays Fortress
+RUA - draws Estate
+RUA - plays Cellar
+RUA - discards Copper
+RUA - discards Estate
+RUA - draws Estate, Silver
+RUA - plays Conspirator
+RUA - draws Fortress
+RUA - plays Fortress
+RUA - draws Copper
+RUA - plays Forge
+RUA - trashes Estate, Copper
+RUA - gains Pawn
+RUA - plays Silver
+RUA - buys Fortress
+RUA - gains Fortress
+RUA - draws Conspirator, Gold, Copper, Conspirator, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Conspirator
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Forge
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Estate
+Stef - plays Forge
+Stef - trashes Cellar, Fortress, Copper, Estate
+Stef - gains Province
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Pawn
+Stef - shuffles deck
+Stef - draws Conspirator, Conspirator, Pawn, Forge
+ 
+---------- RUA: turn 13 ----------
+RUA - plays Conspirator
+RUA - plays Gold
+RUA - buys Duchy
+RUA - gains Duchy
+RUA - draws Fortress, Pawn
+RUA - shuffles deck
+RUA - draws Conspirator, Estate, Conspirator
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Conspirator
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Province
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Pawn
+Stef - plays Forge
+Stef - trashes Fortress, Fortress
+Stef - applies the 'when you trash ability' of Fortress
+Stef - applies the 'when you trash ability' of Fortress
+Stef - gains Province
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - buys Province
+Stef - gains Province
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Pawn, Conspirator, Pawn, Province, Conspirator
+ 
+---------- RUA: turn 14 ----------
+RUA - plays Fortress
+RUA - draws Copper
+RUA - plays Pawn
+RUA - takes 1 buy
+RUA - draws Cellar
+RUA - plays Conspirator
+RUA - draws Silver
+RUA - plays Conspirator
+RUA - draws Estate
+RUA - plays Cellar
+RUA - discards Estate
+RUA - discards Estate
+RUA - discards Copper
+RUA - discards Silver
+RUA - draws Fortress, Duchy, Copper, Pawn
+RUA - plays Fortress
+RUA - draws Fortress
+RUA - plays Pawn
+RUA - takes 1 coin
+RUA - draws Conspirator
+RUA - plays Conspirator
+RUA - draws Fortress
+RUA - plays Fortress
+RUA - draws Gold
+RUA - plays Fortress
+RUA - draws Forge
+RUA - plays 1 Copper, 1 Gold
+RUA - buys Province
+RUA - gains Province
+RUA - buys Storeroom
+RUA - gains Storeroom
+RUA - shuffles deck
+RUA - draws Silver, Estate, Fortress, Cellar, Fortress
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Fortress
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Conspirator
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Forge
+Stef - plays Forge
+Stef - trashes Fortress, Fortress
+Stef - applies the 'when you trash ability' of Fortress
+Stef - applies the 'when you trash ability' of Fortress
+Stef - gains Province
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Province
+Stef - plays Fortress
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - buys Province
+Stef - gains Province
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - shuffles deck
+Stef - draws Cellar, Fortress, Province, Pawn, Pawn
+ 
+---------- RUA: turn 15 ----------
+RUA - plays Fortress
+RUA - draws Gold
+RUA - plays Fortress
+RUA - draws Estate
+RUA - plays Cellar
+RUA - discards Silver
+RUA - discards Estate
+RUA - discards Estate
+RUA - discards Gold
+RUA - draws Conspirator, Forge, Fortress, Pawn
+RUA - plays Conspirator
+RUA - draws Duchy
+RUA - plays Pawn
+RUA - takes 1 buy
+RUA - draws Copper
+RUA - plays Fortress
+RUA - draws Storeroom
+RUA - plays Storeroom
+RUA - discards Copper
+RUA - discards Duchy
+RUA - discards Forge
+RUA - draws Pawn, Province, Conspirator
+RUA - plays Conspirator
+RUA - draws Copper
+RUA - plays Pawn
+RUA - takes 1 coin
+RUA - draws Fortress
+RUA - plays Fortress
+RUA - draws Conspirator
+RUA - plays Conspirator
+RUA - shuffles deck
+RUA - draws Copper
+ 
+------------ Game Over ------------
+Stef - cards: 6 Conspirator, 5 Fortress, 5 Pawn, 1 Cellar, 1 Forge, 5 Province
+Stef - total victory points: 30
+Stef - turns: 14
+ 
+RUA - resigned
+RUA - cards: 1 Forge, 2 Copper, 1 Gold, 1 Silver, 2 Estate, 1 Province, 1 Duchy
+RUA - total victory points: 11
+RUA - turns: 14
+ 
+1st place: Stef
+2nd place: RUA
+ 

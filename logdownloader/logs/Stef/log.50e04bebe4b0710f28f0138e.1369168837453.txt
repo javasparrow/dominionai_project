@@ -1,0 +1,509 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Vagrant, Cutpurse, Island, Marauder, Bazaar, Catacombs, Explorer, Graverobber, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+stirfry_pal - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+stirfry_pal - shuffles deck
+Stef - shuffles deck
+stirfry_pal - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- stirfry_pal: turn 1 ----------
+stirfry_pal - plays 4 Copper
+stirfry_pal - buys Marauder
+stirfry_pal - gains Marauder
+stirfry_pal - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Silver, Marauder, Estate, Copper
+ 
+---------- stirfry_pal: turn 2 ----------
+stirfry_pal - plays 3 Copper
+stirfry_pal - buys Silver
+stirfry_pal - gains Silver
+stirfry_pal - shuffles deck
+stirfry_pal - draws Copper, Copper, Estate, Marauder, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Abandoned Mine
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- stirfry_pal: turn 3 ----------
+stirfry_pal - plays Marauder
+stirfry_pal - gains Spoils
+Stef - gains Ruined Village
+stirfry_pal - plays 2 Copper
+stirfry_pal - buys Vagrant
+stirfry_pal - gains Vagrant
+stirfry_pal - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Spoils, Estate, Copper
+ 
+---------- stirfry_pal: turn 4 ----------
+stirfry_pal - plays 4 Copper, 1 Silver
+stirfry_pal - buys Gold
+stirfry_pal - gains Gold
+stirfry_pal - draws Estate, Copper
+stirfry_pal - shuffles deck
+stirfry_pal - draws Estate, Copper, Vagrant
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - plays Spoils
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Estate, Ruined Village, Copper, Marauder
+ 
+---------- stirfry_pal: turn 5 ----------
+stirfry_pal - plays Vagrant
+stirfry_pal - draws Copper
+stirfry_pal - reveals: Copper
+stirfry_pal - places Copper on top of deck
+stirfry_pal - plays 3 Copper
+stirfry_pal - buys Silver
+stirfry_pal - gains Silver
+stirfry_pal - draws Copper, Copper, Gold, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Survivors
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Vagrant, Estate, Silver, Copper
+ 
+---------- stirfry_pal: turn 6 ----------
+stirfry_pal - plays 3 Copper, 1 Gold
+stirfry_pal - buys Gold
+stirfry_pal - gains Gold
+stirfry_pal - draws Marauder, Copper, Spoils, Abandoned Mine, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Island
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Island
+Stef - gains Island
+Stef - draws Copper, Bazaar, Copper, Copper, Estate
+ 
+---------- stirfry_pal: turn 7 ----------
+stirfry_pal - plays Marauder
+stirfry_pal - gains Spoils
+Stef - gains Survivors
+stirfry_pal - plays 1 Copper, 1 Silver
+stirfry_pal - plays Spoils
+stirfry_pal - buys Gold
+stirfry_pal - gains Gold
+stirfry_pal - shuffles deck
+stirfry_pal - draws Estate, Estate, Gold, Copper, Abandoned Mine
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Spoils, Marauder, Copper, Vagrant, Ruined Village
+ 
+---------- stirfry_pal: turn 8 ----------
+stirfry_pal - plays Abandoned Mine
+stirfry_pal - plays 1 Gold, 1 Copper
+stirfry_pal - buys Explorer
+stirfry_pal - gains Explorer
+stirfry_pal - draws Copper, Silver, Spoils, Gold, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Island
+Stef - places Island in hand
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Abandoned Mine
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Copper, Bazaar, Copper, Estate
+ 
+---------- stirfry_pal: turn 9 ----------
+stirfry_pal - plays 2 Silver, 1 Copper, 1 Gold
+stirfry_pal - buys Province
+stirfry_pal - gains Province
+stirfry_pal - draws Copper, Marauder, Vagrant, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper, Estate, Survivors, Island, Vagrant
+ 
+---------- stirfry_pal: turn 10 ----------
+stirfry_pal - plays Vagrant
+stirfry_pal - draws Survivors
+stirfry_pal - reveals: Copper
+stirfry_pal - places Copper on top of deck
+stirfry_pal - plays Marauder
+stirfry_pal - gains Spoils
+Stef - gains Ruined Village
+stirfry_pal - plays 3 Copper
+stirfry_pal - buys Silver
+stirfry_pal - gains Silver
+stirfry_pal - draws Copper, Estate, Gold, Copper
+stirfry_pal - shuffles deck
+stirfry_pal - draws Vagrant
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - shuffles deck
+Stef - reveals: Bazaar
+Stef - places Bazaar on top of deck
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Bazaar, Catacombs, Ruined Village, Copper, Copper
+ 
+---------- stirfry_pal: turn 11 ----------
+stirfry_pal - plays Vagrant
+stirfry_pal - draws Explorer
+stirfry_pal - reveals: Gold
+stirfry_pal - places Gold on top of deck
+stirfry_pal - plays Explorer
+stirfry_pal - gains Silver
+stirfry_pal - plays 2 Copper, 1 Gold, 1 Silver
+stirfry_pal - buys Gold
+stirfry_pal - gains Gold
+stirfry_pal - draws Gold, Spoils, Silver, Silver, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Estate
+Stef - plays Catacombs
+Stef - looks at Ruined Village, Island, Vagrant
+Stef - places cards in hand:  Ruined Village, Island, Vagrant
+Stef - plays Vagrant
+Stef - draws Bazaar
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Ruined Village
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 3 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Spoils, Copper, Marauder, Copper, Copper
+ 
+---------- stirfry_pal: turn 12 ----------
+stirfry_pal - plays 2 Gold, 2 Silver
+stirfry_pal - buys Province
+stirfry_pal - gains Province
+stirfry_pal - draws Silver, Marauder, Abandoned Mine, Province, Survivors
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Ruined Village
+Stef - plays 3 Copper
+Stef - plays Spoils
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - shuffles deck
+Stef - draws Catacombs, Ruined Village, Marauder, Spoils, Bazaar
+ 
+---------- stirfry_pal: turn 13 ----------
+stirfry_pal - plays Marauder
+stirfry_pal - gains Spoils
+Stef - gains Survivors
+stirfry_pal - plays Silver
+stirfry_pal - buys Vagrant
+stirfry_pal - gains Vagrant
+stirfry_pal - draws Abandoned Mine, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Bazaar
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Catacombs
+Stef - looks at Copper, Survivors, Bazaar
+Stef - places cards in hand:  Copper, Survivors, Bazaar
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Survivors
+Stef - looks at Vagrant, Copper
+Stef - discards: Vagrant, Copper
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Ruined Village
+Stef - plays Silver
+Stef - plays Copper
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - draws Copper, Copper, Vagrant, Copper, Bazaar
+ 
+---------- stirfry_pal: turn 14 ----------
+stirfry_pal - plays Abandoned Mine
+stirfry_pal - plays 2 Copper
+stirfry_pal - buys Silver
+stirfry_pal - gains Silver
+stirfry_pal - draws Copper, Spoils, Copper, Copper
+stirfry_pal - shuffles deck
+stirfry_pal - draws Spoils
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Catacombs
+Stef - reveals: Ruined Village
+Stef - places Ruined Village in hand
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Graverobber, Silver, Ruined Village
+Stef - places cards in hand:  Graverobber, Silver, Ruined Village
+Stef - plays Graverobber
+Stef - trashes Ruined Village
+Stef - gains Vagrant
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Vagrant, Catacombs, Survivors, Copper
+ 
+---------- stirfry_pal: turn 15 ----------
+stirfry_pal - plays 3 Copper
+stirfry_pal - plays Spoils
+stirfry_pal - plays Spoils
+stirfry_pal - buys Province
+stirfry_pal - gains Province
+stirfry_pal - draws Estate, Gold, Province, Survivors, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Bazaar
+Stef - places Bazaar on top of deck
+Stef - plays Vagrant
+Stef - draws Bazaar
+Stef - reveals: Survivors
+Stef - places Survivors in hand
+Stef - plays Bazaar
+Stef - draws Spoils
+Stef - plays Catacombs
+Stef - looks at Copper, Spoils, Bazaar
+Stef - places cards in hand:  Copper, Spoils, Bazaar
+Stef - plays Bazaar
+Stef - draws Marauder
+Stef - plays Marauder
+Stef - gains Spoils
+stirfry_pal - gains Survivors
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Copper, Survivors, Ruined Village, Bazaar
+ 
+---------- stirfry_pal: turn 16 ----------
+stirfry_pal - plays Survivors
+stirfry_pal - looks at Gold, Silver
+stirfry_pal - places Gold on top of deck
+stirfry_pal - places Silver on top of deck
+stirfry_pal - plays 1 Gold
+stirfry_pal - buys Silver
+stirfry_pal - gains Silver
+stirfry_pal - draws Silver, Gold, Abandoned Mine, Ruined Village, Marauder
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Survivors
+Stef - looks at Catacombs, Spoils
+Stef - places Catacombs on top of deck
+Stef - places Spoils on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Island
+Stef - gains Island
+Stef - draws Spoils, Catacombs, Bazaar, Copper, Vagrant
+ 
+---------- stirfry_pal: turn 17 ----------
+stirfry_pal - plays Marauder
+stirfry_pal - gains Spoils
+stirfry_pal - plays 1 Silver, 1 Gold
+stirfry_pal - buys Island
+stirfry_pal - gains Island
+stirfry_pal - draws Abandoned Mine, Silver, Spoils, Vagrant, Gold
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Bazaar
+Stef - draws Survivors
+Stef - plays Catacombs
+Stef - looks at Copper, Bazaar, Copper
+Stef - places cards in hand:  Copper, Bazaar, Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Survivors
+Stef - looks at Graverobber, Spoils
+Stef - places Spoils on top of deck
+Stef - places Graverobber on top of deck
+Stef - plays 4 Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Graverobber, Spoils, Marauder, Vagrant, Province
+ 
+---------- stirfry_pal: turn 18 ----------
+stirfry_pal - plays Vagrant
+stirfry_pal - draws Gold
+stirfry_pal - reveals: Copper
+stirfry_pal - places Copper on top of deck
+stirfry_pal - plays Abandoned Mine
+stirfry_pal - plays 2 Gold, 1 Silver
+stirfry_pal - buys Province
+stirfry_pal - gains Province
+stirfry_pal - draws Copper, Silver, Copper, Silver, Explorer
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Bazaar
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Graverobber
+Stef - trashes Marauder
+Stef - gains Duchy
+Stef - plays 1 Copper
+Stef - plays Spoils
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Vagrant, Catacombs, Vagrant
+Stef - shuffles deck
+Stef - draws Bazaar, Graverobber
+ 
+---------- stirfry_pal: turn 19 ----------
+stirfry_pal - plays Explorer
+stirfry_pal - gains Silver
+stirfry_pal - plays 3 Silver, 2 Copper
+stirfry_pal - buys Province
+stirfry_pal - gains Province
+stirfry_pal - draws Vagrant, Copper, Province, Silver, Ruined Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Province
+Stef - plays Catacombs
+Stef - looks at Island, Copper, Ruined Village
+Stef - discards: Island, Copper, Ruined Village
+Stef - draws Copper, Duchy, Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Duchy
+Stef - places Duchy in hand
+Stef - plays Vagrant
+Stef - draws Survivors
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Survivors
+Stef - looks at Vagrant, Copper
+Stef - discards: Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws Silver
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Copper, Catacombs, Province, Survivors
+ 
+---------- stirfry_pal: turn 20 ----------
+stirfry_pal - plays Vagrant
+stirfry_pal - draws Estate
+stirfry_pal - reveals: Copper
+stirfry_pal - places Copper on top of deck
+stirfry_pal - plays Silver
+stirfry_pal - buys Estate
+stirfry_pal - gains Estate
+stirfry_pal - draws Copper
+stirfry_pal - shuffles deck
+stirfry_pal - draws Silver, Abandoned Mine, Copper, Marauder
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Catacombs
+Stef - looks at Copper, Bazaar, Bazaar
+Stef - places cards in hand:  Copper, Bazaar, Bazaar
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Survivors, Graverobber, Catacombs
+ 
+---------- stirfry_pal: turn 21 ----------
+stirfry_pal - plays Abandoned Mine
+stirfry_pal - plays 2 Copper, 1 Silver
+stirfry_pal - buys Duchy
+stirfry_pal - gains Duchy
+stirfry_pal - draws Ruined Village, Gold, Estate, Survivors, Gold
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Graverobber
+Stef - trashes Catacombs
+Stef - gains Island
+Stef - gains Province
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Vagrant, Copper, Catacombs, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 5 Island, 4 Bazaar, 4 Vagrant, 2 Survivors, 1 Graverobber, 1 Ruined Village, 1 Catacombs, 7 Copper, 2 Silver, 4 Estate, 3 Province, 3 Duchy
+Stef - total victory points: 41
+Stef - turns: 22
+ 
+stirfry_pal - cards: 2 Ruined Village, 2 Vagrant, 2 Survivors, 2 Abandoned Mine, 1 Island, 1 Explorer, 1 Marauder, 7 Copper, 7 Silver, 4 Gold, 2 Spoils, 5 Province, 4 Estate, 1 Duchy
+stirfry_pal - total victory points: 39
+stirfry_pal - turns: 21
+ 
+1st place: Stef
+2nd place: stirfry_pal
+ 

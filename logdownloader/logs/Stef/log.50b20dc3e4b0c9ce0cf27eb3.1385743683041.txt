@@ -1,0 +1,462 @@
+------------ Game Setup ------------
+Supply cards: Loan, Market Square, Village, Pirate Ship, Quarry, Butcher, Explorer, Haggler, Laboratory, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Estate
+theParty - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 3 Copper
+theParty - buys Loan
+theParty - gains Loan
+theParty - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 4 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - shuffles deck
+theParty - draws Loan, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - draws Copper, Copper, Copper, Butcher, Copper
+ 
+---------- theParty: turn 3 ----------
+theParty - plays 3 Copper
+theParty - plays Loan
+theParty - reveals Estate, Estate, Copper
+theParty - trashes Copper
+theParty - discards: Estate, Estate
+theParty - buys Quarry
+theParty - gains Quarry
+theParty - draws Copper, Market Square, Copper, Copper
+theParty - shuffles deck
+theParty - draws Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate, Copper, Quarry, Copper
+ 
+---------- theParty: turn 4 ----------
+theParty - plays Market Square
+theParty - draws Estate
+theParty - plays 3 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Copper, Quarry, Loan, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - draws Copper, Loan, Copper, Copper, Estate
+ 
+---------- theParty: turn 5 ----------
+theParty - plays Loan
+theParty - shuffles deck
+theParty - reveals Estate, Copper
+theParty - trashes Copper
+theParty - discards Estate
+theParty - plays 3 Copper
+theParty - plays Quarry
+theParty - buys Tactician
+theParty - gains Tactician
+theParty - draws Estate, Market Square, Copper, Market Square, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Loan
+Stef - reveals Butcher, Copper
+Stef - trashes Copper
+Stef - discards Butcher
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Tactician, Haggler, Butcher, Estate
+ 
+---------- theParty: turn 6 ----------
+theParty - plays Market Square
+theParty - draws Estate
+theParty - plays Market Square
+theParty - shuffles deck
+theParty - draws Loan
+theParty - plays 2 Copper
+theParty - plays Loan
+theParty - reveals Copper
+theParty - trashes Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Estate, Tactician, Copper, Copper, Quarry
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tactician
+Stef - discards: Copper, Haggler, Butcher, Estate
+Stef - draws Copper, Copper, Copper, Loan, Estate
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Tactician
+theParty - discards: Estate, Copper, Copper, Quarry
+theParty - shuffles deck
+theParty - draws Copper, Loan, Quarry, Estate, Market Square
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Tactician
+Stef - draws Copper, Estate, Copper, Quarry
+Stef - shuffles deck
+Stef - draws Butcher
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - uses 1 coin token
+Stef - gains Market Square
+Stef - plays 5 Copper
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays Quarry
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Estate, Haggler
+Stef - shuffles deck
+Stef - draws Quarry, Estate, Copper
+ 
+---------- theParty: turn 8 ----------
+theParty - duration Tactician
+theParty - draws Silver, Copper, Copper, Market Square, Estate
+theParty - plays Loan
+theParty - reveals Estate, Copper
+theParty - trashes Copper
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - discards Estate
+theParty - plays 3 Copper, 1 Silver
+theParty - plays Quarry
+theParty - buys Haggler
+theParty - gains Haggler
+theParty - buys Tactician
+theParty - gains Tactician
+theParty - shuffles deck
+theParty - draws Tactician, Gold, Estate, Estate, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Haggler
+Stef - plays Quarry
+Stef - plays Copper
+Stef - buys Haggler
+Stef - gains Village
+Stef - gains Haggler
+Stef - draws Copper, Loan, Tactician, Laboratory, Copper
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Tactician
+theParty - discards: Gold, Estate, Estate, Silver
+theParty - draws Gold, Loan, Market Square, Copper, Quarry
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Tactician
+Stef - discards: Copper, Loan, Laboratory, Copper
+Stef - draws Copper, Butcher, Tactician, Copper, Market Square
+ 
+---------- theParty: turn 10 ----------
+theParty - duration Tactician
+theParty - draws Estate, Haggler, Copper, Copper, Tactician
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Haggler
+theParty - plays 3 Copper, 1 Gold
+theParty - plays Quarry
+theParty - buys Laboratory
+theParty - gains Village
+theParty - gains Laboratory
+theParty - buys Laboratory
+theParty - gains Village
+theParty - gains Laboratory
+theParty - buys Haggler
+theParty - gains Village
+theParty - gains Haggler
+theParty - shuffles deck
+theParty - draws Market Square, Village, Village, Loan, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Tactician
+Stef - shuffles deck
+Stef - draws Loan, Estate, Haggler, Estate, Haggler
+Stef - plays Market Square
+Stef - draws Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Tactician
+Stef - discards: Copper, Butcher, Copper, Loan, Estate, Estate, Copper
+Stef - uses 2 coin tokens
+Stef - buys Gold
+Stef - gains Laboratory
+Stef - gains Laboratory
+Stef - gains Gold
+Stef - draws Copper, Copper, Quarry, Laboratory
+Stef - shuffles deck
+Stef - draws Laboratory
+ 
+---------- theParty: turn 11 ----------
+theParty - plays Market Square
+theParty - draws Laboratory
+theParty - plays Village
+theParty - draws Market Square
+theParty - plays Laboratory
+theParty - draws Quarry, Estate
+theParty - plays Village
+theParty - draws Village
+theParty - plays Village
+theParty - draws Gold
+theParty - plays Loan
+theParty - reveals Laboratory, Tactician, Copper
+theParty - trashes Copper
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - discards: Laboratory, Tactician
+theParty - plays 1 Gold
+theParty - plays Quarry
+theParty - buys Laboratory
+theParty - gains Laboratory
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Haggler, Estate, Tactician, Silver, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Haggler, Copper, Laboratory, Copper, Market Square
+Stef - plays Laboratory
+Stef - draws Gold, Haggler
+Stef - plays Laboratory
+Stef - draws Butcher, Estate
+Stef - plays Laboratory
+Stef - draws Estate, Loan
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 5 Copper, 1 Gold
+Stef - plays Quarry
+Stef - buys Province
+Stef - gains Laboratory
+Stef - gains Laboratory
+Stef - gains Province
+Stef - buys Laboratory
+Stef - gains Village
+Stef - gains Village
+Stef - gains Laboratory
+Stef - buys Pirate Ship
+Stef - gains Village
+Stef - gains Market Square
+Stef - gains Pirate Ship
+Stef - draws Village, Tactician
+Stef - shuffles deck
+Stef - draws Copper, Laboratory, Haggler
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Tactician
+theParty - discards: Haggler, Estate, Silver, Copper
+theParty - draws Haggler, Gold, Copper
+theParty - shuffles deck
+theParty - draws Market Square, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Gold, Laboratory
+Stef - plays Laboratory
+Stef - draws Village, Market Square
+Stef - plays Village
+Stef - draws Province
+Stef - plays Market Square
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Quarry, Loan
+Stef - plays Tactician
+Stef - discards: Copper, Haggler, Copper, Gold, Province, Quarry, Loan
+Stef - draws Haggler, Butcher, Market Square, Estate, Estate
+ 
+---------- theParty: turn 13 ----------
+theParty - duration Tactician
+theParty - draws Estate, Village, Market Square, Village, Gold
+theParty - plays Village
+theParty - draws Laboratory
+theParty - plays Laboratory
+theParty - draws Village, Laboratory
+theParty - plays Laboratory
+theParty - draws Silver, Tactician
+theParty - plays Village
+theParty - draws Loan
+theParty - plays Village
+theParty - draws Gold
+theParty - plays Market Square
+theParty - draws Estate
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Haggler
+theParty - plays Haggler
+theParty - plays Haggler
+theParty - plays 3 Gold, 1 Copper, 1 Silver
+theParty - plays Loan
+theParty - reveals Laboratory, Quarry
+theParty - discards Quarry
+theParty - discards Laboratory
+theParty - buys Province
+theParty - gains Laboratory
+theParty - gains Butcher
+theParty - gains Province
+theParty - buys Province
+theParty - gains Village
+theParty - gains Market Square
+theParty - gains Province
+theParty - draws Copper
+theParty - shuffles deck
+theParty - draws Village, Laboratory, Gold, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Tactician
+Stef - draws Laboratory, Copper, Village, Pirate Ship, Copper
+Stef - plays Laboratory
+Stef - draws Village, Laboratory
+Stef - plays Village
+Stef - draws Tactician
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Laboratory
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Laboratory
+Stef - draws Copper, Loan
+Stef - plays Market Square
+Stef - draws Province
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Pirate Ship
+Stef - uses 1 coin token
+Stef - gains Haggler
+Stef - plays Tactician
+Stef - discards: Haggler, Estate, Estate, Copper, Copper, Copper, Gold, Copper, Loan, Province
+Stef - draws Quarry, Village, Laboratory, Village, Laboratory
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Laboratory
+theParty - draws Village, Province
+theParty - plays Village
+theParty - draws Loan
+theParty - plays Village
+theParty - draws Estate
+theParty - plays 2 Gold, 1 Copper
+theParty - plays Loan
+theParty - reveals Province, Gold
+theParty - discards Gold
+theParty - discards Province
+theParty - buys Province
+theParty - gains Province
+theParty - draws Laboratory, Tactician, Market Square, Quarry, Haggler
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Tactician
+Stef - draws Laboratory, Copper, Haggler, Market Square
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Estate, Village
+Stef - plays Laboratory
+Stef - draws Laboratory, Province
+Stef - plays Laboratory
+Stef - draws Butcher, Laboratory
+Stef - plays Laboratory
+Stef - draws Haggler, Haggler
+Stef - plays Laboratory
+Stef - draws Estate, Laboratory
+Stef - plays Laboratory
+Stef - draws Market Square, Copper
+Stef - plays Village
+Stef - draws Gold
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Village
+Stef - draws Tactician
+Stef - plays Market Square
+Stef - draws Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Loan
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Tactician
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - plays 5 Copper, 1 Gold
+Stef - plays Loan
+Stef - shuffles deck
+Stef - reveals Province
+Stef - discards Province
+Stef - plays Quarry
+Stef - buys Province
+Stef - gains Market Square
+Stef - gains Market Square
+Stef - gains Market Square
+Stef - gains Province
+Stef - buys Province
+Stef - gains Village
+Stef - gains Village
+Stef - gains Market Square
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Estate, Laboratory, Copper, Village, Market Square
+ 
+------------ Game Over ------------
+Stef - cards: 6 Laboratory, 6 Village, 6 Market Square, 3 Haggler, 1 Tactician, 1 Butcher, 5 Copper, 1 Loan, 1 Quarry, 1 Gold, 4 Province, 2 Estate
+Stef - total victory points: 26
+Stef - turns: 15
+ 
+theParty - cards: 4 Laboratory, 4 Market Square, 4 Village, 2 Tactician, 2 Haggler, 1 Butcher, 3 Gold, 2 Copper, 1 Quarry, 1 Loan, 1 Silver, 3 Province, 3 Estate
+theParty - total victory points: 21
+theParty - turns: 14
+ 
+1st place: Stef
+2nd place: theParty
+ 

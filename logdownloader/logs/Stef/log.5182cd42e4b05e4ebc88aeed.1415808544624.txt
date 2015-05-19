@@ -1,0 +1,453 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Forager, Village, Workshop, Fortress, Remake, Ill-Gotten Gains, Jester, Saboteur, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - shuffles deck
+Stef - shuffles deck
+silverspawn  - draws Estate, Copper, Copper, Copper, Estate
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Forager
+silverspawn  - gains Forager
+silverspawn  - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 4 Copper
+silverspawn  - buys Remake
+silverspawn  - gains Remake
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Estate, Remake, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - shuffles deck
+Stef - draws Estate, Copper, Remake, Copper, Estate
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays Remake
+silverspawn  - trashes Estate
+silverspawn  - gains Forager
+silverspawn  - trashes Estate
+silverspawn  - gains Forager
+silverspawn  - draws Copper, Copper, Copper, Estate, Forager
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Forager
+Stef - trashes Estate
+Stef - gains Village
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - plays Forager
+silverspawn  - trashes Estate
+silverspawn  - plays 3 Copper
+silverspawn  - buys Village
+silverspawn  - gains Village
+silverspawn  - draws Copper, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Forager, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper, Forager
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays Forager
+silverspawn  - trashes Copper
+silverspawn  - plays 3 Copper
+silverspawn  - buys Fortress
+silverspawn  - gains Fortress
+silverspawn  - draws Copper, Copper, Copper, Forager, Village
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Forager, Copper, Copper, Remake
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays Village
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - trashes Copper
+silverspawn  - plays Forager
+silverspawn  - trashes Copper
+silverspawn  - buys Peddler
+silverspawn  - gains Peddler
+silverspawn  - draws Remake
+silverspawn  - shuffles deck
+silverspawn  - draws Forager, Peddler, Fortress, Forager
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortress
+Stef - draws Village
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Fortress, Forager, Village, Copper
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - plays Peddler
+silverspawn  - draws Village
+silverspawn  - plays Village
+silverspawn  - draws Copper
+silverspawn  - plays Remake
+silverspawn  - trashes Fortress
+silverspawn  - gains Ill-Gotten Gains
+Stef - gains Curse
+silverspawn  - trashes Fortress
+silverspawn  - gains Ill-Gotten Gains
+Stef - gains Curse
+silverspawn  - plays Forager
+silverspawn  - trashes Copper
+silverspawn  - plays Forager
+silverspawn  - trashes Fortress
+silverspawn  - plays Fortress
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - buys Peddler
+silverspawn  - gains Peddler
+silverspawn  - buys Peddler
+silverspawn  - gains Peddler
+silverspawn  - buys Peddler
+silverspawn  - gains Peddler
+silverspawn  - buys Peddler
+silverspawn  - gains Peddler
+silverspawn  - draws Copper, Copper, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Village, Peddler
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Village
+Stef - draws Remake
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Forager
+Stef - trashes Copper
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Curse, Village, Curse
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays Village
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Ill-Gotten Gains
+silverspawn  - plays Peddler
+silverspawn  - draws Remake
+silverspawn  - plays Remake
+silverspawn  - trashes Copper
+silverspawn  - trashes Copper
+silverspawn  - plays 1 Copper
+silverspawn  - plays Ill-Gotten Gains
+silverspawn  - buys Fortress
+silverspawn  - gains Fortress
+silverspawn  - draws Peddler, Forager, Forager, Peddler, Fortress
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Village
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Remake, Forager, Peddler, Peddler
+ 
+---------- silverspawn : turn 9 ----------
+silverspawn  - plays Peddler
+silverspawn  - draws Ill-Gotten Gains
+silverspawn  - plays Peddler
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - trashes Ill-Gotten Gains
+silverspawn  - plays Fortress
+silverspawn  - shuffles deck
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Village
+silverspawn  - plays Village
+silverspawn  - draws Ill-Gotten Gains
+silverspawn  - plays Forager
+silverspawn  - trashes Ill-Gotten Gains
+silverspawn  - plays Forager
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - buys Village
+silverspawn  - gains Village
+silverspawn  - draws Remake, Fortress, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Peddler, Forager
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Peddler
+Stef - draws Fortress
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Curse
+Stef - plays Fortress
+Stef - draws Village
+Stef - plays Village
+Stef - draws Forager
+Stef - plays Remake
+Stef - trashes Fortress
+Stef - gains Ill-Gotten Gains
+silverspawn  - gains Curse
+Stef - trashes Fortress
+Stef - gains Jester
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays Forager
+Stef - trashes Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Peddler, Fortress
+Stef - shuffles deck
+Stef - draws Peddler, Ill-Gotten Gains
+ 
+---------- silverspawn : turn 10 ----------
+silverspawn  - plays Peddler
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Forager
+silverspawn  - plays Fortress
+silverspawn  - draws Village
+silverspawn  - plays Village
+silverspawn  - draws Province
+silverspawn  - plays Forager
+silverspawn  - trashes Remake
+silverspawn  - plays Forager
+silverspawn  - trashes Copper
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Peddler, Peddler, Village, Peddler, Fortress
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Fortress
+Stef - plays Peddler
+Stef - draws Remake
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Forager
+Stef - plays Fortress
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Ill-Gotten Gains
+Stef - buys Province
+Stef - gains Province
+Stef - draws Fortress, Peddler, Province, Jester, Village
+ 
+---------- silverspawn : turn 11 ----------
+silverspawn  - plays Peddler
+silverspawn  - draws Forager
+silverspawn  - plays Peddler
+silverspawn  - shuffles deck
+silverspawn  - draws Gold
+silverspawn  - plays Peddler
+silverspawn  - draws Forager
+silverspawn  - plays Village
+silverspawn  - draws Province
+silverspawn  - plays Forager
+silverspawn  - trashes Fortress
+silverspawn  - plays Fortress
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - trashes Forager
+silverspawn  - plays Gold
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Peddler, Village, Curse, Peddler, Fortress
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Village
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Forager
+Stef - plays Jester
+silverspawn  - shuffles deck
+silverspawn  - reveals Fortress
+silverspawn  - discards Fortress
+Stef - gains Fortress
+Stef - buys Province
+Stef - gains Province
+Stef - draws Remake, Peddler, Fortress
+Stef - shuffles deck
+Stef - draws Province, Fortress
+ 
+---------- silverspawn : turn 12 ----------
+silverspawn  - plays Village
+silverspawn  - draws Peddler
+silverspawn  - plays Peddler
+silverspawn  - draws Gold
+silverspawn  - plays Peddler
+silverspawn  - draws Province
+silverspawn  - plays Peddler
+silverspawn  - draws Village
+silverspawn  - plays Village
+silverspawn  - draws Province
+silverspawn  - plays Fortress
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - trashes Curse
+silverspawn  - plays Gold
+silverspawn  - buys Province
+silverspawn  - gains Province
+silverspawn  - draws Peddler, Peddler, Forager
+silverspawn  - shuffles deck
+silverspawn  - draws Fortress, Peddler
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Jester
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Village
+Stef - plays Village
+Stef - draws Province
+Stef - plays Remake
+Stef - trashes Fortress
+Stef - gains Duchy
+Stef - trashes Fortress
+Stef - gains Duchy
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Forager
+Stef - plays Jester
+silverspawn  - reveals Fortress
+silverspawn  - discards Fortress
+Stef - gains Fortress
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Fortress, Peddler, Peddler, Forager, Province
+ 
+---------- silverspawn : turn 13 ----------
+silverspawn  - plays Peddler
+silverspawn  - draws Province
+silverspawn  - plays Peddler
+silverspawn  - draws Province
+silverspawn  - plays Peddler
+silverspawn  - draws Village
+silverspawn  - plays Village
+silverspawn  - draws Forager
+silverspawn  - plays Forager
+silverspawn  - trashes Fortress
+silverspawn  - plays Forager
+silverspawn  - trashes Fortress
+silverspawn  - plays Fortress
+silverspawn  - draws Province
+silverspawn  - buys Gold
+silverspawn  - gains Gold
+silverspawn  - draws Gold, Village, Peddler, Peddler
+silverspawn  - shuffles deck
+silverspawn  - draws Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Duchy
+Stef - plays Peddler
+Stef - draws Village
+Stef - plays Village
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Peddler
+ 
+------------ Game Over ------------
+Stef - cards: 4 Fortress, 1 Peddler, 1 Remake, 1 Jester, 3 Province, 3 Duchy
+Stef - total victory points: 27
+Stef - turns: 12
+ 
+silverspawn  - resigned
+silverspawn  - cards: 5 Peddler, 2 Village, 2 Forager, 2 Fortress, 2 Gold, 3 Province
+silverspawn  - total victory points: 18
+silverspawn  - turns: 13
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

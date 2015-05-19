@@ -1,0 +1,529 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Beggar, Apothecary, Scrying Pool, Scheme, Spy, Horn of Plenty, Journeyman, Mine, Outpost, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - shuffles deck
+Stef - draws Copper, Potion, Copper, Scheme, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - shuffles deck
+flies - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, Estate, Copper, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Journeyman
+flies - gains Journeyman
+flies - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Estate
+Stef - shuffles deck
+Stef - draws Spy, Estate, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Journeyman
+flies - gains Journeyman
+flies - draws Copper, Estate
+flies - shuffles deck
+flies - draws Journeyman, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spy
+Stef - draws Apothecary
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Potion, Copper, Copper
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Horn of Plenty
+Stef - gains Horn of Plenty
+Stef - Scheme choice: Apothecary
+Stef - draws Apothecary, Copper
+Stef - shuffles deck
+Stef - draws Copper, Scheme, Horn of Plenty
+ 
+---------- flies: turn 5 ----------
+flies - plays Journeyman
+flies - names Estate
+flies - reveals Copper, Journeyman, Estate, Estate, Copper
+flies - discards: Estate, Estate
+flies - places cards in hand:  Copper, Journeyman, Copper
+flies - plays 5 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Copper, Silver, Silver
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Potion
+Stef - reveals: Estate, Estate, Copper, Estate
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - plays Horn of Plenty
+Stef - gains Outpost
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Apothecary
+Stef - draws Apothecary, Estate, Estate, Spy, Copper
+ 
+---------- flies: turn 6 ----------
+flies - plays 3 Copper, 2 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Estate, Journeyman, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Scheme, Copper
+Stef - places Scheme on top of deck
+Stef - plays Spy
+Stef - draws Scheme
+Stef - discards Estate
+flies - discards Journeyman
+Stef - plays Scheme
+Stef - draws Potion
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Apothecary
+Stef - draws Apothecary, Copper, Outpost, Scrying Pool, Horn of Plenty
+ 
+---------- flies: turn 7 ----------
+flies - plays Journeyman
+flies - names Copper
+flies - shuffles deck
+flies - reveals Estate, Copper, Copper, Silver, Copper, Copper, Copper, Silver
+flies - discards: Copper, Copper, Copper, Copper, Copper
+flies - places cards in hand:  Estate, Silver, Silver
+flies - plays 2 Copper, 2 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Silver, Journeyman, Gold
+flies - shuffles deck
+flies - draws Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Scheme, Copper, Copper, Copper
+Stef - places Scheme on top of deck
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+flies - places Copper on top of deck
+Stef - reveals Scheme, Potion
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Outpost
+Stef - plays 5 Copper, 1 Potion
+Stef - plays Horn of Plenty
+Stef - gains Scheme
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Apothecary
+Stef - duration Outpost
+Stef - draws Apothecary, Scrying Pool, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Estate, Spy
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Estate on top of deck
+Stef - places Spy on top of deck
+Stef - places Estate on top of deck
+Stef - plays Scrying Pool
+Stef - discards Estate
+flies - places Copper on top of deck
+Stef - reveals Spy, Estate
+Stef - plays Spy
+Stef - draws Potion
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Transmute
+Stef - gains Transmute
+Stef - draws Copper, Scheme, Estate, Horn of Plenty, Scrying Pool
+ 
+---------- flies: turn 8 ----------
+flies - plays Journeyman
+flies - names Estate
+flies - reveals Copper, Copper, Estate, Journeyman
+flies - discards Estate
+flies - places cards in hand:  Copper, Copper, Journeyman
+flies - plays 3 Copper, 1 Silver, 1 Gold
+flies - buys Province
+flies - gains Province
+flies - draws Silver, Silver, Copper, Estate, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+flies - places Copper on top of deck
+Stef - reveals Scheme, Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - plays Scheme
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Transmute
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays 4 Copper
+Stef - plays Horn of Plenty
+Stef - gains Spy
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - draws Scrying Pool, Scrying Pool, Apothecary, Copper, Estate
+ 
+---------- flies: turn 9 ----------
+flies - plays 2 Silver, 1 Copper, 1 Gold
+flies - buys Province
+flies - gains Province
+flies - draws Copper, Copper, Copper
+flies - shuffles deck
+flies - draws Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Outpost, Estate, Scrying Pool, Potion
+Stef - places Scrying Pool on top of deck
+Stef - places Outpost on top of deck
+Stef - places Estate on top of deck
+Stef - plays Scrying Pool
+Stef - discards Estate
+flies - places Province on top of deck
+Stef - shuffles deck
+Stef - reveals Outpost, Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+flies - places Province on top of deck
+Stef - reveals Spy, Spy, Copper
+Stef - plays Spy
+Stef - draws Scheme
+Stef - places Scheme on top of deck
+flies - places Province on top of deck
+Stef - plays Spy
+Stef - draws Scheme
+Stef - discards Copper
+flies - places Province on top of deck
+Stef - plays Scrying Pool
+Stef - places Transmute on top of deck
+flies - places Province on top of deck
+Stef - reveals Transmute, Estate
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Outpost
+Stef - plays 5 Copper, 1 Potion, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Apothecary
+Stef - Scheme choice: Scrying Pool
+Stef - duration Outpost
+Stef - draws Scrying Pool, Apothecary, Scheme
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Horn of Plenty
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Estate, Scrying Pool
+Stef - places Scrying Pool on top of deck
+Stef - places Estate on top of deck
+Stef - plays Scrying Pool
+Stef - discards Estate
+flies - places Province on top of deck
+Stef - reveals Scrying Pool, Copper
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+flies - places Province on top of deck
+Stef - reveals Scheme, Copper
+Stef - plays Scheme
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Transmute
+Stef - places Scrying Pool on top of deck
+flies - places Province on top of deck
+Stef - plays Scheme
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Potion on top of deck
+flies - places Province on top of deck
+Stef - reveals Potion
+Stef - plays Transmute
+Stef - trashes Copper
+Stef - gains Transmute
+Stef - plays 3 Copper, 1 Potion
+Stef - plays Horn of Plenty
+Stef - gains Scheme
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - Scheme choice: Apothecary
+Stef - Scheme choice: Scrying Pool
+Stef - draws Scrying Pool, Apothecary, Province, Scheme, Spy
+ 
+---------- flies: turn 10 ----------
+flies - plays 4 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Province, Silver, Estate, Silver, Journeyman
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Estate, Gold, Copper, Copper
+Stef - places Estate on top of deck
+Stef - places Gold on top of deck
+Stef - plays Spy
+Stef - draws Gold
+Stef - discards Estate
+flies - places Estate on top of deck
+Stef - plays Scrying Pool
+Stef - shuffles deck
+Stef - discards Copper
+flies - places Estate on top of deck
+Stef - reveals Scheme, Scrying Pool, Scheme, Estate
+Stef - plays Scrying Pool
+Stef - discards Copper
+flies - places Estate on top of deck
+Stef - reveals Transmute, Spy, Copper
+Stef - plays Spy
+Stef - draws Scrying Pool
+Stef - discards Potion
+flies - places Estate on top of deck
+Stef - plays Scheme
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Scheme on top of deck
+flies - places Estate on top of deck
+Stef - reveals Scheme, Horn of Plenty
+Stef - plays Scrying Pool
+Stef - places Outpost on top of deck
+flies - places Estate on top of deck
+Stef - reveals Outpost, Transmute, Estate
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Outpost
+Stef - plays 6 Copper, 1 Gold, 1 Potion
+Stef - plays Horn of Plenty
+Stef - gains Horn of Plenty
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Apothecary
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scrying Pool
+Stef - duration Outpost
+Stef - draws Scrying Pool, Scrying Pool, Apothecary
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Scrying Pool
+Stef - shuffles deck
+Stef - reveals: Copper, Transmute, Province, Copper
+Stef - places Transmute on top of deck
+Stef - places Province on top of deck
+Stef - plays Scrying Pool
+Stef - discards Province
+flies - places Estate on top of deck
+Stef - reveals Transmute, Horn of Plenty
+Stef - plays Scrying Pool
+Stef - discards Horn of Plenty
+flies - places Estate on top of deck
+Stef - reveals Copper
+Stef - plays Scrying Pool
+Stef - places Spy on top of deck
+flies - places Estate on top of deck
+Stef - reveals Spy, Estate
+Stef - plays Spy
+Stef - draws Transmute
+Stef - discards Potion
+flies - places Estate on top of deck
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays 3 Copper
+Stef - plays Horn of Plenty
+Stef - gains Spy
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Scheme, Copper, Scrying Pool, Scheme, Scheme
+ 
+---------- flies: turn 11 ----------
+flies - plays Journeyman
+flies - names Estate
+flies - reveals Estate, Copper, Silver, Copper
+flies - discards Estate
+flies - places cards in hand:  Copper, Silver, Copper
+flies - plays 3 Silver, 2 Copper
+flies - buys Province
+flies - gains Province
+flies - draws Gold, Province, Gold, Copper, Journeyman
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+flies - shuffles deck
+flies - places Copper on top of deck
+Stef - reveals Copper
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Spy
+Stef - gains Spy
+Stef - Scheme choice: Scrying Pool
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Scrying Pool, Scheme, Spy
+ 
+---------- flies: turn 12 ----------
+flies - plays Journeyman
+flies - names Journeyman
+flies - reveals Copper, Silver, Province
+flies - places cards in hand:  Copper, Silver, Province
+flies - plays 2 Gold, 2 Copper, 1 Silver
+flies - buys Province
+flies - gains Province
+flies - draws Estate, Copper, Province, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scrying Pool
+Stef - shuffles deck
+Stef - places Scheme on top of deck
+flies - discards Silver
+Stef - reveals Scheme, Scheme, Scrying Pool, Gold
+Stef - plays Scrying Pool
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - reveals Spy, Copper
+Stef - plays Spy
+Stef - draws Province
+Stef - places Apothecary on top of deck
+flies - places Copper on top of deck
+Stef - plays Scheme
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Horn of Plenty, Potion, Scrying Pool, Transmute
+Stef - places Transmute on top of deck
+Stef - places Scrying Pool on top of deck
+Stef - places Horn of Plenty on top of deck
+Stef - plays Scheme
+Stef - draws Horn of Plenty
+Stef - plays Scheme
+Stef - draws Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Transmute on top of deck
+flies - places Copper on top of deck
+Stef - reveals Transmute, Horn of Plenty
+Stef - plays Spy
+Stef - draws Province
+Stef - places Spy on top of deck
+flies - places Copper on top of deck
+Stef - plays Scheme
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Outpost
+Stef - discards Copper
+flies - places Copper on top of deck
+Stef - plays Transmute
+Stef - trashes Scheme
+Stef - gains Duchy
+Stef - plays 1 Gold, 1 Copper, 1 Potion
+Stef - plays Horn of Plenty
+Stef - gains Province
+Stef - trashes Horn of Plenty
+Stef - plays Horn of Plenty
+Stef - gains Province
+Stef - trashes Horn of Plenty
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Scrying Pool, Copper, Gold, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 4 Scrying Pool, 4 Spy, 4 Scheme, 2 Transmute, 1 Apothecary, 1 Outpost, 6 Copper, 2 Gold, 1 Potion, 4 Province, 2 Estate, 1 Duchy
+Stef - total victory points: 29
+Stef - turns: 13
+ 
+flies - cards: 2 Journeyman, 7 Copper, 4 Silver, 2 Gold, 4 Province, 3 Estate
+flies - total victory points: 27
+flies - turns: 12
+ 
+1st place: Stef
+2nd place: flies
+ 

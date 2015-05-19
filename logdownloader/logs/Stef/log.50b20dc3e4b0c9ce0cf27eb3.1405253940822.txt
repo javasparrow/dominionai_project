@@ -1,0 +1,630 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Herbalist, Hermit, Swindler, Herald, Silk Road, Duke, Trading Post, Upgrade, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+luser - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+luser - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Estate
+luser - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- luser: turn 1 ----------
+luser - plays 4 Copper
+luser - buys Swindler
+luser - gains Swindler
+luser - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- luser: turn 2 ----------
+luser - plays 3 Copper
+luser - buys Hermit
+luser - gains Hermit
+luser - shuffles deck
+luser - draws Hermit, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Trading Post
+Stef - gains Trading Post
+Stef - shuffles deck
+Stef - draws Copper, Estate, Trading Post, Copper, Estate
+ 
+---------- luser: turn 3 ----------
+luser - plays Hermit
+luser - trashes Estate
+luser - gains Hermit
+luser - plays 2 Copper
+luser - buys Fool's Gold
+luser - gains Fool's Gold
+luser - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Trading Post
+Stef - trashes Estate, Estate
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- luser: turn 4 ----------
+luser - plays 4 Copper
+luser - buys Herald
+luser - gains Herald
+luser - draws Swindler, Copper
+luser - shuffles deck
+luser - draws Fool's Gold, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Silver, Estate, Copper, Trading Post
+ 
+---------- luser: turn 5 ----------
+luser - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+luser - plays 3 Copper, 1 Fool's Gold
+luser - buys Upgrade
+luser - gains Upgrade
+luser - draws Copper, Copper, Copper, Hermit, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Trading Post
+Stef - trashes Estate, Copper
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Herald, Copper, Herald, Copper, Copper
+ 
+---------- luser: turn 6 ----------
+luser - plays Hermit
+luser - gains Swindler
+luser - plays 4 Copper
+luser - buys Herald
+luser - gains Herald
+luser - draws Hermit, Herald, Estate, Estate
+luser - shuffles deck
+luser - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Trading Post
+Stef - plays Trading Post
+Stef - trashes Copper, Copper
+Stef - gains Silver
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Curse, Upgrade, Copper, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- luser: turn 7 ----------
+luser - plays Herald
+luser - draws Copper
+luser - reveals: Fool's Gold
+luser - places Fool's Gold on top of deck
+luser - plays Hermit
+luser - trashes Estate
+luser - gains Swindler
+luser - plays 2 Copper
+luser - buys Fool's Gold
+luser - gains Fool's Gold
+luser - draws Fool's Gold, Copper, Copper, Hermit, Upgrade
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Upgrade
+Stef - draws Herald
+Stef - trashes Silver
+Stef - gains Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Silver, Upgrade, Trading Post, Herald
+ 
+---------- luser: turn 8 ----------
+luser - plays Upgrade
+luser - draws Copper
+luser - trashes Hermit
+luser - gains Herald
+luser - plays 3 Copper, 1 Fool's Gold
+luser - buys Herald
+luser - gains Herald
+luser - draws Copper, Herald, Copper, Swindler, Swindler
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Herald
+Stef - reveals: Swindler
+Stef - plays Swindler
+luser - shuffles deck
+luser - reveals Copper
+luser - trashes Copper
+luser - gains Curse
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Silver
+Stef - gains Herald
+Stef - plays Trading Post
+Stef - trashes Curse, Copper
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places Herald on top of deck
+Stef - gains Herald
+Stef - draws Herald, Upgrade, Copper, Copper, Herald
+ 
+---------- luser: turn 9 ----------
+luser - plays Swindler
+Stef - shuffles deck
+Stef - reveals Herald
+Stef - trashes Herald
+Stef - gains Silk Road
+luser - plays 2 Copper
+luser - buys Herald
+luser - gains Herald
+luser - draws Hermit, Copper, Swindler, Herald, Fool's Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Upgrade
+Stef - plays Upgrade
+Stef - draws Trading Post
+Stef - trashes Copper
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Swindler
+Stef - plays Swindler
+luser - reveals Estate
+luser - trashes Estate
+luser - gains Estate
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Silk Road
+Stef - plays Upgrade
+Stef - trashes Silk Road
+Stef - gains Venture
+Stef - plays Trading Post
+Stef - trashes Copper, Silver
+Stef - gains Silver
+Stef - plays 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Herald, Herald, Upgrade, Trading Post, Herald
+ 
+---------- luser: turn 10 ----------
+luser - plays Herald
+luser - draws Copper
+luser - reveals: Upgrade
+luser - plays Upgrade
+luser - draws Copper
+luser - trashes Hermit
+luser - gains Silk Road
+luser - plays Swindler
+Stef - reveals Venture
+Stef - trashes Venture
+Stef - gains Duke
+luser - plays 3 Copper, 1 Fool's Gold
+luser - buys Gold
+luser - gains Gold
+luser - draws Fool's Gold, Herald, Copper, Herald
+luser - shuffles deck
+luser - draws Fool's Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Upgrade
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Trading Post
+Stef - gains Gold
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Duke
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Upgrade
+Stef - draws Gold
+Stef - trashes Duke
+Stef - gains Gold
+Stef - plays Swindler
+luser - reveals Copper
+luser - trashes Copper
+luser - gains Curse
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - shuffles deck
+Stef - draws Upgrade, Platinum, Herald, Herald, Swindler
+ 
+---------- luser: turn 11 ----------
+luser - plays Herald
+luser - draws Curse
+luser - reveals: Gold
+luser - places Gold on top of deck
+luser - plays Herald
+luser - draws Gold
+luser - reveals: Herald
+luser - plays Herald
+luser - draws Copper
+luser - reveals: Herald
+luser - plays Herald
+luser - draws Estate
+luser - reveals: Copper
+luser - places Copper on top of deck
+luser - plays 2 Fool's Gold, 2 Copper, 1 Gold
+luser - buys Platinum
+luser - gains Platinum
+luser - draws Copper, Silk Road, Upgrade, Herald, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Upgrade
+Stef - plays Upgrade
+Stef - draws Gold
+Stef - trashes Upgrade
+Stef - gains Gold
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Swindler
+luser - reveals Swindler
+luser - trashes Swindler
+luser - gains Hermit
+Stef - plays 3 Gold, 1 Platinum, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Swindler, Herald, Herald, Herald
+ 
+---------- luser: turn 12 ----------
+luser - plays Upgrade
+luser - draws Swindler
+luser - trashes Silk Road
+luser - gains Venture
+luser - plays Herald
+luser - draws Swindler
+luser - reveals: Copper
+luser - places Copper on top of deck
+luser - plays Swindler
+Stef - reveals Gold
+Stef - trashes Gold
+Stef - gains Gold
+luser - plays 2 Copper
+luser - draws Copper
+luser - shuffles deck
+luser - draws Venture, Herald, Platinum, Swindler
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Platinum
+Stef - reveals: Upgrade
+Stef - plays Upgrade
+Stef - draws Gold
+Stef - trashes Silver
+Stef - gains Silk Road
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Colony
+Stef - places Colony on top of deck
+Stef - plays Swindler
+luser - reveals Herald
+luser - trashes Herald
+luser - gains Silk Road
+Stef - plays 2 Gold, 1 Platinum, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Colony, Gold
+Stef - shuffles deck
+Stef - draws Gold, Herald, Swindler
+ 
+---------- luser: turn 13 ----------
+luser - plays Herald
+luser - draws Fool's Gold
+luser - reveals: Copper
+luser - places Copper on top of deck
+luser - plays Swindler
+Stef - reveals Colony
+Stef - trashes Colony
+Stef - gains Colony
+luser - plays 1 Copper, 1 Platinum, 1 Fool's Gold
+luser - plays Venture
+luser - reveals Copper
+luser - plays Copper
+luser - buys Colony
+luser - gains Colony
+luser - draws Copper, Gold, Hermit, Estate, Herald
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Herald
+Stef - draws Silver
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Platinum
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Swindler
+luser - reveals Curse
+luser - trashes Curse
+luser - gains Curse
+Stef - plays 2 Gold, 1 Silver, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Gold, Upgrade, Herald, Herald, Silk Road
+ 
+---------- luser: turn 14 ----------
+luser - plays Herald
+luser - draws Swindler
+luser - reveals: Herald
+luser - plays Herald
+luser - draws Herald
+luser - reveals: Copper
+luser - places Copper on top of deck
+luser - plays Herald
+luser - draws Copper
+luser - reveals: Upgrade
+luser - plays Upgrade
+luser - draws Fool's Gold
+luser - trashes Estate
+luser - gains Silver
+luser - plays Swindler
+Stef - reveals Gold
+Stef - trashes Gold
+Stef - gains Gold
+luser - plays Hermit
+luser - trashes Curse
+luser - gains Swindler
+luser - plays 2 Copper, 1 Gold, 1 Fool's Gold
+luser - buys Province
+luser - gains Province
+luser - draws Curse, Copper
+luser - shuffles deck
+luser - draws Swindler, Copper, Platinum
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Gold
+Stef - reveals: Colony
+Stef - places Colony on top of deck
+Stef - plays Herald
+Stef - draws Colony
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Upgrade
+Stef - draws Gold
+Stef - trashes Silk Road
+Stef - gains Venture
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Platinum, Herald, Colony, Silver, Swindler
+ 
+---------- luser: turn 15 ----------
+luser - plays Swindler
+Stef - reveals Herald
+Stef - trashes Herald
+Stef - gains Silk Road
+luser - plays 2 Copper, 1 Platinum
+luser - buys Province
+luser - gains Province
+luser - draws Colony, Province, Herald, Swindler, Fool's Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Colony
+Stef - places Colony on top of deck
+Stef - plays Swindler
+luser - reveals Gold
+luser - trashes Gold
+luser - gains Gold
+Stef - plays 1 Platinum, 1 Silver, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Colony
+Stef - shuffles deck
+Stef - draws Herald, Silver, Colony, Herald
+ 
+---------- luser: turn 16 ----------
+luser - plays Herald
+luser - draws Herald
+luser - reveals: Silver
+luser - places Silver on top of deck
+luser - plays Herald
+luser - draws Silver
+luser - reveals: Silk Road
+luser - places Silk Road on top of deck
+luser - plays Swindler
+Stef - reveals Platinum
+Stef - trashes Platinum
+Stef - gains Platinum
+luser - plays 1 Fool's Gold, 1 Silver
+luser - buys Duchy
+luser - gains Duchy
+luser - draws Silk Road, Copper, Copper, Herald, Hermit
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Silk Road
+Stef - places Silk Road on top of deck
+Stef - plays Herald
+Stef - draws Silk Road
+Stef - reveals: Colony
+Stef - places Colony on top of deck
+Stef - plays Swindler
+luser - reveals Herald
+luser - trashes Herald
+luser - gains Silk Road
+Stef - plays Silver
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Colony, Gold, Herald, Colony, Venture
+ 
+---------- luser: turn 17 ----------
+luser - plays Herald
+luser - draws Upgrade
+luser - reveals: Fool's Gold
+luser - places Fool's Gold on top of deck
+luser - plays Upgrade
+luser - draws Fool's Gold
+luser - trashes Silk Road
+luser - gains Duchy
+luser - plays Hermit
+luser - trashes Curse
+luser - gains Hermit
+luser - trashes Hermit
+luser - gains Madman
+luser - draws Swindler, Copper, Venture
+luser - shuffles deck
+luser - draws Platinum, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Herald
+Stef - draws Gold
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Venture
+Stef - reveals Gold
+Stef - plays Gold
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Upgrade, Province, Gold
+Stef - shuffles deck
+Stef - draws Herald, Gold
+ 
+---------- luser: turn 18 ----------
+luser - plays Swindler
+Stef - reveals Colony
+Stef - trashes Colony
+Stef - gains Colony
+luser - plays 1 Copper, 1 Platinum
+luser - plays Venture
+luser - reveals Fool's Gold
+luser - plays Fool's Gold
+luser - buys Province
+luser - gains Province
+luser - draws Hermit, Herald, Herald, Province, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Herald
+Stef - draws Colony
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Swindler
+luser - reveals Copper
+luser - trashes Copper
+luser - gains Curse
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Platinum, Colony, Colony, Herald
+ 
+---------- luser: turn 19 ----------
+luser - plays Herald
+luser - draws Silver
+luser - reveals: Swindler
+luser - plays Swindler
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Province
+luser - plays Herald
+luser - draws Fool's Gold
+luser - reveals: Upgrade
+luser - plays Upgrade
+luser - draws Colony
+luser - trashes Hermit
+luser - gains Silk Road
+luser - plays 1 Copper, 1 Silver, 1 Fool's Gold
+luser - buys Duchy
+luser - gains Duchy
+luser - draws Copper, Swindler, Herald, Gold, Silk Road
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Herald
+Stef - draws Swindler
+Stef - reveals: Venture
+Stef - places Venture on top of deck
+Stef - plays Swindler
+luser - reveals Province
+luser - trashes Province
+luser - gains Province
+Stef - plays 1 Silver, 1 Platinum
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Venture, Gold, Gold, Silk Road
+Stef - shuffles deck
+Stef - draws Province
+ 
+------------ Game Over ------------
+Stef - cards: 3 Herald, 2 Swindler, 1 Upgrade, 4 Gold, 1 Venture, 1 Platinum, 1 Silver, 4 Colony, 3 Province, 1 Silk Road, 1 Duchy
+Stef - total victory points: 63
+Stef - turns: 19
+ 
+luser - cards: 3 Swindler, 3 Herald, 1 Upgrade, 1 Madman, 4 Copper, 2 Fool's Gold, 1 Gold, 1 Platinum, 1 Venture, 1 Silver, 3 Province, 3 Duchy, 2 Silk Road, 1 Colony, 1 Curse
+luser - total victory points: 40
+luser - turns: 19
+ 
+1st place: Stef
+2nd place: luser
+ 

@@ -1,0 +1,484 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Vagrant, University, Steward, Woodcutter, Coppersmith, Cutpurse, Jester, Minion, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+MacAber - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+MacAber - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+MacAber - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- MacAber: turn 1 ----------
+MacAber - plays 5 Copper
+MacAber - buys Jester
+MacAber - gains Jester
+MacAber - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- MacAber: turn 2 ----------
+MacAber - plays 2 Copper
+MacAber - buys Embargo
+MacAber - gains Embargo
+MacAber - shuffles deck
+MacAber - draws Jester, Estate, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Steward, Copper, Potion, Estate
+ 
+---------- MacAber: turn 3 ----------
+MacAber - plays Jester
+Stef - reveals Estate
+Stef - discards Estate
+Stef - gains Curse
+MacAber - plays 1 Copper
+MacAber - buys Steward
+MacAber - gains Steward
+MacAber - draws Copper, Embargo, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Potion, Copper
+ 
+---------- MacAber: turn 4 ----------
+MacAber - plays Embargo
+MacAber - embargoes Jester
+MacAber - trashes Embargo
+MacAber - plays 4 Copper
+MacAber - buys Minion
+MacAber - gains Minion
+MacAber - draws Copper, Copper
+MacAber - shuffles deck
+MacAber - draws Estate, Steward, Minion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Copper, University, Copper, Estate
+ 
+---------- MacAber: turn 5 ----------
+MacAber - plays Minion
+MacAber - takes 2 coins
+MacAber - plays Steward
+MacAber - trashes Estate, Copper
+MacAber - plays 1 Copper
+MacAber - buys Steward
+MacAber - gains Steward
+MacAber - draws Estate, Copper, Copper, Copper, Jester
+ 
+---------- Stef: turn 6 ----------
+Stef - plays University
+Stef - gains Minion
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Steward, Copper, Curse, Steward
+ 
+---------- MacAber: turn 6 ----------
+MacAber - plays Jester
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+MacAber - plays 3 Copper
+MacAber - buys Minion
+MacAber - gains Minion
+MacAber - draws Estate, Copper, Copper
+MacAber - shuffles deck
+MacAber - draws Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Steward
+Stef - trashes Curse, Estate
+Stef - draws Minion, University, University, Estate, Copper
+ 
+---------- MacAber: turn 7 ----------
+MacAber - plays 4 Copper
+MacAber - buys Potion
+MacAber - gains Potion
+MacAber - draws Minion, Estate, Steward, Jester, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays University
+Stef - gains Minion
+Stef - plays University
+Stef - gains Minion
+Stef - plays Minion
+Stef - discards: Estate, Copper
+Stef - draws Potion, Copper, Estate, Copper
+MacAber - discards: Minion, Estate, Steward, Jester, Copper
+MacAber - draws Copper, Minion, Steward
+MacAber - shuffles deck
+MacAber - draws Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Vagrant, Copper, Copper
+Stef - shuffles deck
+Stef - draws Minion, Copper
+ 
+---------- MacAber: turn 8 ----------
+MacAber - plays Minion
+MacAber - takes 2 coins
+MacAber - plays Steward
+MacAber - trashes Copper, Copper
+MacAber - buys Vagrant
+MacAber - gains Vagrant
+MacAber - draws Copper, Copper, Copper, Steward, Jester
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper, Estate
+Stef - draws Copper, Copper, University, Potion
+MacAber - discards: Copper, Copper, Copper, Steward, Jester
+MacAber - draws Estate, Potion, Estate, Minion
+Stef - plays University
+Stef - gains Minion
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws University, Minion, Copper, Copper, Steward
+ 
+---------- MacAber: turn 9 ----------
+MacAber - plays Minion
+MacAber - discards: Estate, Potion, Estate
+MacAber - draws Copper
+MacAber - shuffles deck
+MacAber - draws Copper, Potion, Minion
+Stef - discards: University, Minion, Copper, Copper, Steward
+Stef - draws Copper, Estate, University, Steward
+MacAber - plays Minion
+MacAber - takes 2 coins
+MacAber - plays 2 Copper, 1 Potion
+MacAber - buys University
+MacAber - gains University
+MacAber - draws Copper, Copper, Steward, Estate, Vagrant
+ 
+---------- Stef: turn 10 ----------
+Stef - plays University
+Stef - gains Minion
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - shuffles deck
+Stef - draws University, Vagrant, Minion, Copper, Minion
+ 
+---------- MacAber: turn 10 ----------
+MacAber - plays Vagrant
+MacAber - draws Jester
+MacAber - reveals: Estate
+MacAber - places Estate in hand
+MacAber - plays Jester
+Stef - reveals Steward
+Stef - discards Steward
+Stef - gains Steward
+MacAber - plays 2 Copper
+MacAber - buys Vagrant
+MacAber - gains Vagrant
+MacAber - draws Steward
+MacAber - shuffles deck
+MacAber - draws Steward, Copper, Jester, Vagrant
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Minion
+Stef - places Minion on top of deck
+Stef - plays University
+Stef - gains Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Copper
+Stef - draws Minion, Estate, University, Copper
+MacAber - discards: Steward, Steward, Copper, Jester, Vagrant
+MacAber - draws Copper, Estate, Minion, Vagrant
+Stef - plays University
+Stef - gains Minion
+Stef - plays Minion
+Stef - discards: Estate, Copper
+Stef - draws Copper, Copper, Copper, Vagrant
+Stef - plays Vagrant
+Stef - draws Potion
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Steward, Minion, Copper, University
+ 
+---------- MacAber: turn 11 ----------
+MacAber - plays Vagrant
+MacAber - draws Copper
+MacAber - reveals: University
+MacAber - places University on top of deck
+MacAber - plays Minion
+MacAber - discards: Copper, Estate, Copper
+MacAber - draws University, Copper, Estate, Potion
+Stef - discards: Copper, Steward, Minion, Copper, University
+Stef - shuffles deck
+Stef - draws Copper, Vagrant, Minion, Steward
+MacAber - plays University
+MacAber - gains Jester
+MacAber - plays 1 Copper, 1 Potion
+MacAber - draws Minion
+MacAber - shuffles deck
+MacAber - draws Steward, Vagrant, Potion, Minion
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Steward
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Minion
+Stef - discards: Copper, Steward, Steward, Estate
+Stef - draws Copper, Minion, Minion, Minion
+MacAber - discards: Minion, Steward, Vagrant, Potion, Minion
+MacAber - draws Estate, Jester, Copper, Steward
+Stef - plays Minion
+Stef - discards: Copper, Minion, Minion
+Stef - draws University, Minion, Vagrant, Minion
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays University
+Stef - gains Jester
+Stef - plays Minion
+Stef - discards: Minion, Minion
+Stef - draws Copper, Steward, Potion, Copper
+Stef - plays Steward
+Stef - trashes Potion, Copper
+Stef - draws Copper, Minion, Copper, University, Copper
+ 
+---------- MacAber: turn 12 ----------
+MacAber - plays Jester
+Stef - reveals University
+Stef - discards University
+MacAber - gains University
+MacAber - plays 1 Copper
+MacAber - buys Vagrant
+MacAber - gains Vagrant
+MacAber - draws Estate, University, Copper, Jester, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Minion, Steward, Copper, University
+MacAber - discards: Estate, University, Copper, Jester, Copper
+MacAber - draws Vagrant, Copper
+MacAber - shuffles deck
+MacAber - draws University, Jester
+Stef - plays University
+Stef - gains Jester
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Copper
+Stef - draws Minion, Steward, Steward, Minion
+Stef - plays Minion
+Stef - discards: Minion, Steward, Steward
+Stef - draws Minion, Estate, Copper, Vagrant
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Minion
+Stef - discards: Minion, Estate, Copper
+Stef - draws Copper, Jester, Minion, Vagrant
+Stef - plays Jester
+MacAber - reveals Steward
+MacAber - discards Steward
+MacAber - gains Steward
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Minion
+Stef - places Minion on top of deck
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Minion, Copper, Vagrant, Copper
+Stef - plays Vagrant
+Stef - draws University
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Copper, Minion, Estate, Copper
+Stef - plays Minion
+Stef - discards: Copper, Estate, Copper
+Stef - draws Steward, Steward, Copper, Jester
+Stef - plays Jester
+MacAber - reveals Jester
+MacAber - discards Jester
+Stef - gains Jester
+Stef - plays Steward
+Stef - trashes Copper, Steward
+Stef - draws Minion, Copper
+Stef - shuffles deck
+Stef - draws Jester, Vagrant, Minion
+ 
+---------- MacAber: turn 13 ----------
+MacAber - plays Vagrant
+MacAber - draws Copper
+MacAber - reveals: Vagrant
+MacAber - places Vagrant on top of deck
+MacAber - plays University
+MacAber - gains Vagrant
+MacAber - plays Jester
+Stef - reveals University
+Stef - discards University
+MacAber - gains University
+MacAber - plays 2 Copper
+MacAber - buys Estate
+MacAber - gains Estate
+MacAber - draws Vagrant, Estate, Vagrant, University, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Jester
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Jester, Jester
+Stef - draws Copper, Copper, Steward, Vagrant
+MacAber - discards: Vagrant, Estate, Vagrant, University, Copper
+MacAber - draws Minion, Minion, Steward, Estate
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Minion
+Stef - places Minion on top of deck
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws Minion, Vagrant, Minion, Minion, Steward
+ 
+---------- MacAber: turn 14 ----------
+MacAber - plays Minion
+MacAber - takes 2 coins
+MacAber - plays Minion
+MacAber - discards: Steward, Estate
+MacAber - draws Potion, Copper
+MacAber - shuffles deck
+MacAber - draws Estate, University
+Stef - discards: Minion, Vagrant, Minion, Minion, Steward
+Stef - draws Minion, Estate, University, Vagrant
+MacAber - plays University
+MacAber - gains Vagrant
+MacAber - plays 1 Potion, 1 Copper
+MacAber - buys Estate
+MacAber - gains Estate
+MacAber - draws Copper, Copper, Steward, University, Jester
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: University
+Stef - places University on top of deck
+Stef - plays University
+Stef - gains Vagrant
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Estate
+Stef - draws University, Minion, Jester, Copper
+MacAber - discards: Copper, Copper, Steward, University, Jester
+MacAber - draws Vagrant, Steward, Vagrant, Steward
+Stef - plays University
+Stef - plays Jester
+MacAber - reveals Vagrant
+MacAber - discards Vagrant
+Stef - plays Minion
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Steward, Steward, Minion, Jester
+Stef - plays Jester
+MacAber - reveals University
+MacAber - discards University
+Stef - gains University
+Stef - plays Minion
+Stef - discards: Steward, Steward
+Stef - draws Jester, Copper, Vagrant, Vagrant
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Minion
+Stef - places Minion on top of deck
+Stef - plays Vagrant
+Stef - draws Minion
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Jester, Copper
+Stef - draws Vagrant, Minion, Minion, Copper
+Stef - plays Vagrant
+Stef - draws University
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays University
+Stef - gains Woodcutter
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Copper
+Stef - draws Vagrant, Copper, Estate
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Steward
+Stef - places Steward on top of deck
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Steward, Jester, Woodcutter, Copper, University
+ 
+---------- MacAber: turn 15 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 8 Minion, 5 Vagrant, 4 University, 3 Jester, 2 Steward, 1 Woodcutter, 1 Copper, 1 Province, 1 Estate
+Stef - total victory points: 7
+Stef - turns: 15
+ 
+MacAber - resigned
+MacAber - cards: 5 Vagrant, 3 Steward, 3 University, 2 Minion, 2 Jester, 4 Copper, 1 Potion, 4 Estate
+MacAber - total victory points: 4
+MacAber - turns: 14
+ 
+1st place: Stef
+2nd place: MacAber
+ 

@@ -1,0 +1,775 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Farming Village, Marauder, Mining Village, Pirate Ship, Scout, Smithy, Golem, Graverobber, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+HiveMindEmulator - shuffles deck
+Stef - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+HiveMindEmulator - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Marauder
+HiveMindEmulator - gains Marauder
+HiveMindEmulator - draws Copper, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - shuffles deck
+Stef - draws Marauder, Copper, Copper, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Ruined Library
+Stef - plays 4 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Overgrown Estate, Copper, Hovel, Copper, Silver
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Copper, Necropolis
+Stef - shuffles deck
+Stef - draws Hovel, Silver, Smithy
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays 4 Copper, 1 Silver
+HiveMindEmulator - buys Gold
+HiveMindEmulator - gains Gold
+HiveMindEmulator - draws Necropolis, Marauder
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ruined Library, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Copper, Copper, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Copper, Copper, Spoils, Copper, Marauder
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays Necropolis
+HiveMindEmulator - plays Ruined Library
+HiveMindEmulator - draws Gold
+HiveMindEmulator - plays Marauder
+HiveMindEmulator - gains Spoils
+Stef - gains Ruined Library
+HiveMindEmulator - plays 2 Copper, 1 Gold
+HiveMindEmulator - buys Graverobber
+HiveMindEmulator - gains Graverobber
+HiveMindEmulator - draws Silver, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Survivors
+Stef - plays Spoils
+Stef - plays 3 Copper
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Overgrown Estate, Farming Village
+Stef - shuffles deck
+Stef - draws Marauder, Ruined Library, Necropolis
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Potion
+HiveMindEmulator - gains Potion
+HiveMindEmulator - draws Silver, Hovel, Copper, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Ruined Library
+Stef - draws Farming Village
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - draws Spoils, Silver, Copper
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Ruined Market
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - draws Necropolis, Copper, Silver, Overgrown Estate, Potion
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Smithy, Copper
+Stef - shuffles deck
+Stef - draws Silver, Farming Village, Smithy
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays 1 Copper, 1 Silver, 1 Potion
+HiveMindEmulator - draws Survivors, Copper, Spoils, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Farming Village
+Stef - reveals Ruined Library
+Stef - places Ruined Library in hand
+Stef - plays Smithy
+Stef - draws Farming Village, Marauder, Farming Village
+Stef - plays Farming Village
+Stef - reveals Overgrown Estate, Spoils
+Stef - places Spoils in hand
+Stef - discards Overgrown Estate
+Stef - plays Smithy
+Stef - draws Copper, Copper, Copper
+Stef - plays Farming Village
+Stef - reveals Hovel, Copper
+Stef - places Copper in hand
+Stef - discards Hovel
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Survivors
+Stef - plays 6 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Potion, Copper, Necropolis
+Stef - shuffles deck
+Stef - draws Smithy, Copper
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - plays Survivors
+HiveMindEmulator - looks at Ruined Library, Graverobber
+HiveMindEmulator - places Graverobber on top of deck
+HiveMindEmulator - places Ruined Library on top of deck
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - plays Spoils
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Ruined Library, Graverobber, Marauder, Gold
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Copper, Copper, Farming Village
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Ruined Library
+Stef - places Ruined Library in hand
+Stef - plays Ruined Library
+Stef - draws Hovel
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Silver, Farming Village, Smithy, Smithy, Overgrown Estate
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - plays Graverobber
+HiveMindEmulator - trashes Ruined Library
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 1 Gold, 1 Copper
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Potion, Silver, Ruined Market, Copper, Necropolis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Spoils, Copper, Marauder
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Abandoned Mine
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Spoils, Golem, Farming Village, Copper
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - draws Survivors, Mining Village, Silver, Hovel, Smithy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Golem
+Stef - reveals Potion, Ruined Library, Copper, Smithy
+Stef - discards: Potion, Copper
+Stef - plays Smithy
+Stef - draws Copper, Hovel, Copper
+Stef - plays Ruined Library
+Stef - draws Necropolis
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Graverobber, Copper, Farming Village
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - draws Silver, Copper, Farming Village
+Stef - plays Farming Village
+Stef - reveals Overgrown Estate, Marauder
+Stef - places Marauder in hand
+Stef - discards Overgrown Estate
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Abandoned Mine
+Stef - plays 6 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Spoils, Smithy, Ruined Library, Copper
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Overgrown Estate, Survivors, Copper
+HiveMindEmulator - plays Survivors
+HiveMindEmulator - looks at Copper, Copper
+HiveMindEmulator - discards: Copper, Copper
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Survivors, Ruined Market, Silver, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Smithy
+Stef - draws Copper, Copper, Marauder
+Stef - plays 4 Copper
+Stef - plays Spoils
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Graverobber, Necropolis, Copper, Farming Village, Province
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - plays Survivors
+HiveMindEmulator - looks at Abandoned Mine, Copper
+HiveMindEmulator - discards: Abandoned Mine, Copper
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Copper, Smithy, Necropolis, Gold, Hovel
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Farming Village
+Stef - reveals Potion
+Stef - places Potion in hand
+Stef - plays Graverobber
+Stef - trashes Necropolis
+Stef - gains Farming Village
+Stef - draws Smithy, Overgrown Estate, Copper, Farming Village, Golem
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - plays Necropolis
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Copper, Graverobber, Silver
+HiveMindEmulator - plays 2 Copper, 1 Gold, 1 Silver
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Mining Village, Potion, Smithy, Overgrown Estate, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Golem
+Stef - reveals Smithy, Farming Village
+Stef - plays Smithy
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Province
+Stef - plays Farming Village
+Stef - reveals Ruined Library
+Stef - places Ruined Library in hand
+Stef - plays Smithy
+Stef - draws Copper, Marauder, Copper
+Stef - plays Ruined Library
+Stef - draws Potion
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Ruined Village
+Stef - plays 5 Copper, 1 Silver, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper, Farming Village, Farming Village, Farming Village, Graverobber
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Abandoned Mine
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Copper, Survivors, Copper
+HiveMindEmulator - plays Abandoned Mine
+HiveMindEmulator - plays 3 Copper, 1 Potion
+HiveMindEmulator - buys Golem
+HiveMindEmulator - gains Golem
+HiveMindEmulator - draws Marauder, Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Survivors, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - shuffles deck
+Stef - draws Copper, Smithy, Overgrown Estate
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - draws Copper, Copper, Province
+Stef - plays Smithy
+Stef - draws Golem, Golem, Farming Village
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Golem
+Stef - reveals Silver, Ruined Library, Marauder
+Stef - discards Silver
+Stef - plays Marauder
+Stef - gains Spoils
+HiveMindEmulator - gains Ruined Library
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays Farming Village
+Stef - reveals Spoils
+Stef - places Spoils in hand
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Potion, Spoils, Silver
+Stef - discards: Copper, Potion, Spoils, Silver
+Stef - plays 6 Copper
+Stef - plays Spoils
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Marauder, Farming Village
+ 
+---------- HiveMindEmulator: turn 16 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Ruined Market
+HiveMindEmulator - plays Survivors
+HiveMindEmulator - looks at Graverobber, Ruined Village
+HiveMindEmulator - places Ruined Village on top of deck
+HiveMindEmulator - places Graverobber on top of deck
+HiveMindEmulator - plays Marauder
+HiveMindEmulator - gains Spoils
+Stef - gains Ruined Village
+HiveMindEmulator - draws Graverobber, Ruined Village, Abandoned Mine, Mining Village, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Copper, Copper, Golem, Potion, Smithy
+ 
+---------- HiveMindEmulator: turn 17 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Abandoned Mine
+HiveMindEmulator - plays Graverobber
+HiveMindEmulator - trashes Ruined Village
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 1 Silver, 1 Copper
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Golem, Potion, Abandoned Mine, Copper, Smithy
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Golem
+Stef - reveals Farming Village, Copper, Golem, Copper, Graverobber
+Stef - discards: Copper, Golem, Copper
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Graverobber
+Stef - plays Smithy
+Stef - draws Farming Village, Spoils, Copper
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - draws Ruined Library, Rogue, Province
+Stef - plays Rogue
+HiveMindEmulator - reveals: Survivors, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - plays Spoils
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Farming Village
+Stef - shuffles deck
+Stef - draws Rogue, Smithy, Farming Village, Silver
+ 
+---------- HiveMindEmulator: turn 18 ----------
+HiveMindEmulator - plays Golem
+HiveMindEmulator - reveals Silver, Smithy, Overgrown Estate, Hovel, Farming Village
+HiveMindEmulator - discards: Silver, Overgrown Estate, Hovel
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Copper, Copper, Necropolis
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Smithy, Gold
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ruined Library
+HiveMindEmulator - plays Necropolis
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Silver, Survivors, Abandoned Mine
+HiveMindEmulator - plays Survivors
+HiveMindEmulator - looks at Survivors, Overgrown Estate
+HiveMindEmulator - discards: Survivors, Overgrown Estate
+HiveMindEmulator - draws Copper, Silver, Mining Village, Spoils, Marauder
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Marauder, Potion, Farming Village
+Stef - plays Farming Village
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Golem
+Stef - reveals Smithy, Province, Copper, Farming Village
+Stef - discards: Province, Copper
+Stef - plays Farming Village
+Stef - reveals Graverobber
+Stef - places Graverobber in hand
+Stef - plays Smithy
+Stef - draws Copper, Golem, Overgrown Estate
+Stef - plays Rogue
+HiveMindEmulator - reveals: Hovel, Ruined Market
+Stef - plays Golem
+Stef - reveals Copper, Ruined Village, Golem, Copper, Copper, Farming Village
+Stef - discards: Copper, Golem, Copper, Copper
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Ruined Village
+Stef - plays Smithy
+Stef - draws Ruined Library, Smithy
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Smithy
+Stef - draws Province, Copper, Copper
+Stef - plays Graverobber
+Stef - trashes Ruined Library
+Stef - gains Silver
+Stef - plays 6 Copper, 1 Silver, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - draws Golem, Copper
+Stef - shuffles deck
+Stef - draws Ruined Village, Rogue, Province
+ 
+---------- HiveMindEmulator: turn 19 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Mining Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Silver
+HiveMindEmulator - plays Marauder
+HiveMindEmulator - gains Spoils
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - plays Spoils
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Smithy, Silver, Copper, Graverobber, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Golem
+Stef - reveals Potion, Copper, Copper, Smithy, Golem, Silver, Copper, Farming Village
+Stef - discards: Potion, Copper, Copper, Golem, Silver, Copper
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Marauder, Province, Copper
+Stef - plays Rogue
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals: Potion, Abandoned Mine
+HiveMindEmulator - trashes Potion
+HiveMindEmulator - discards Abandoned Mine
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays 3 Copper
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Smithy, Silver, Golem, Smithy, Farming Village
+ 
+---------- HiveMindEmulator: turn 20 ----------
+HiveMindEmulator - plays Graverobber
+HiveMindEmulator - trashes Smithy
+HiveMindEmulator - gains Rogue
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Spoils, Mining Village, Ruined Market, Copper, Overgrown Estate
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Farming Village
+Stef - reveals Overgrown Estate, Graverobber
+Stef - places Graverobber in hand
+Stef - discards Overgrown Estate
+Stef - plays Golem
+Stef - reveals Farming Village, Farming Village
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Smithy
+Stef - places Smithy in hand
+Stef - plays Smithy
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Farming Village
+Stef - plays Farming Village
+Stef - reveals Province, Rogue
+Stef - places Rogue in hand
+Stef - discards Province
+Stef - plays Farming Village
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Rogue
+Stef - gains Smithy
+Stef - plays Golem
+Stef - reveals Province, Overgrown Estate, Silver, Copper, Copper, Copper, Spoils, Copper, Farming Village, Smithy
+Stef - discards: Province, Overgrown Estate, Silver, Copper, Copper, Copper, Spoils, Copper
+Stef - plays Smithy
+Stef - draws Marauder, Ruined Village, Golem
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Spoils, Copper
+Stef - plays Smithy
+Stef - draws Silver, Province, Copper
+Stef - plays Graverobber
+Stef - trashes Ruined Village
+Stef - gains Silver
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Province, Copper, Copper, Overgrown Estate, Smithy, Silver
+Stef - discards: Province, Copper, Copper, Overgrown Estate, Silver
+Stef - plays Smithy
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Copper, Silver
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays 6 Copper, 3 Silver, 1 Potion
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Copper
+Stef - shuffles deck
+Stef - draws Smithy, Silver, Copper
+ 
+---------- HiveMindEmulator: turn 21 ----------
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays 2 Copper
+HiveMindEmulator - plays Spoils
+HiveMindEmulator - buys Smithy
+HiveMindEmulator - gains Smithy
+HiveMindEmulator - draws Survivors, Abandoned Mine, Marauder, Smithy, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Smithy
+Stef - draws Farming Village, Farming Village, Potion
+Stef - plays 2 Copper, 1 Silver, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Graverobber, Smithy, Province, Overgrown Estate, Farming Village
+ 
+---------- HiveMindEmulator: turn 22 ----------
+HiveMindEmulator - plays Smithy
+HiveMindEmulator - draws Smithy, Farming Village, Mining Village
+HiveMindEmulator - draws Necropolis, Silver, Survivors, Ruined Library, Silver
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Smithy, Province, Farming Village
+Stef - plays Farming Village
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Golem
+Stef - reveals Marauder, Copper, Rogue
+Stef - discards Copper
+Stef - plays Rogue
+Stef - gains Potion
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays Smithy
+Stef - draws Farming Village, Spoils, Silver
+Stef - plays 1 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Copper, Smithy, Golem, Smithy, Silver
+ 
+---------- HiveMindEmulator: turn 23 ----------
+HiveMindEmulator - plays Necropolis
+HiveMindEmulator - plays Ruined Library
+HiveMindEmulator - draws Hovel
+HiveMindEmulator - plays 2 Silver
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - draws Copper, Province, Smithy, Copper, Golem
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Golem, Copper, Copper, Farming Village, Golem, Silver, Copper, Graverobber
+Stef - discards: Golem, Copper, Copper, Golem, Silver, Copper
+Stef - plays Farming Village
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Graverobber
+Stef - plays Smithy
+Stef - draws Farming Village, Smithy, Farming Village
+Stef - plays Farming Village
+Stef - reveals Potion
+Stef - places Potion in hand
+Stef - plays Farming Village
+Stef - reveals Overgrown Estate, Farming Village
+Stef - places Farming Village in hand
+Stef - discards Overgrown Estate
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Smithy, Smithy, Spoils
+Stef - plays Smithy
+Stef - draws Marauder, Farming Village, Rogue
+Stef - plays Smithy
+Stef - draws Farming Village, Province, Province
+Stef - plays Farming Village
+Stef - reveals Golem
+Stef - places Golem in hand
+Stef - plays Farming Village
+Stef - reveals Province, Copper
+Stef - places Copper in hand
+Stef - discards Province
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Potion, Copper, Farming Village, Copper, Silver, Golem, Copper, Golem, Copper, Province, Overgrown Estate
+Stef - discards: Potion, Copper, Copper, Silver, Golem, Copper, Golem, Copper, Province, Overgrown Estate
+Stef - plays Farming Village
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Smithy
+Stef - draws Silver, Potion, Copper
+Stef - plays Rogue
+HiveMindEmulator - reveals: Silver, Gold
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - discards Gold
+Stef - plays 5 Copper, 3 Silver, 2 Potion
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Province, Golem, Golem, Overgrown Estate
+ 
+---------- HiveMindEmulator: turn 24 ----------
+HiveMindEmulator - plays Golem
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals Ruined Library, Rogue
+HiveMindEmulator - plays Ruined Library
+HiveMindEmulator - draws Overgrown Estate
+HiveMindEmulator - plays Rogue
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 2 Copper
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - draws Copper, Mining Village, Copper, Graverobber, Silver
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Marauder, Smithy
+Stef - discards Copper
+Stef - plays Smithy
+Stef - draws Farming Village, Potion, Copper
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays 2 Copper, 1 Potion
+ 
+------------ Game Over ------------
+Stef - cards: 7 Farming Village, 4 Smithy, 3 Golem, 1 Rogue, 1 Graverobber, 5 Copper, 3 Silver, 1 Spoils, 1 Potion, 4 Province, 1 Overgrown Estate
+Stef - total victory points: 24
+Stef - turns: 24
+ 
+HiveMindEmulator - resigned
+HiveMindEmulator - cards: 5 Smithy, 4 Mining Village, 2 Abandoned Mine, 2 Survivors, 1 Graverobber, 1 Golem, 1 Ruined Library, 1 Rogue, 1 Ruined Market, 1 Marauder, 1 Necropolis, 1 Farming Village, 7 Copper, 4 Silver, 1 Gold, 1 Province, 1 Overgrown Estate, 1 Hovel
+HiveMindEmulator - total victory points: 6
+HiveMindEmulator - turns: 24
+ 
+1st place: Stef
+2nd place: HiveMindEmulator
+ 

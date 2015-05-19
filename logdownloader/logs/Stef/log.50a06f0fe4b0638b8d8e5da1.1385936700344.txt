@@ -1,0 +1,601 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Village, Workshop, Ironmonger, Tournament, Apprentice, Horn of Plenty, Market, Farmland, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Destierro - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Destierro - shuffles deck
+Stef - shuffles deck
+Destierro - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Destierro: turn 1 ----------
+Destierro - plays 4 Copper
+Destierro - buys Ironmonger
+Destierro - gains Ironmonger
+Destierro - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Destierro: turn 2 ----------
+Destierro - plays 3 Copper
+Destierro - buys Workshop
+Destierro - gains Workshop
+Destierro - shuffles deck
+Destierro - draws Copper, Copper, Estate, Estate, Workshop
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Workshop, Estate, Copper, Estate, Copper
+ 
+---------- Destierro: turn 3 ----------
+Destierro - plays Workshop
+Destierro - gains Ironmonger
+Destierro - plays 2 Copper
+Destierro - buys Hamlet
+Destierro - gains Hamlet
+Destierro - draws Copper, Estate, Ironmonger, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Workshop
+Stef - gains Ironmonger
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Estate, Copper, Copper, Ironmonger, Copper
+ 
+---------- Destierro: turn 4 ----------
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - reveals: Copper
+Destierro - discards Copper
+Destierro - plays 4 Copper
+Destierro - buys Apprentice
+Destierro - gains Apprentice
+Destierro - shuffles deck
+Destierro - draws Estate, Copper, Ironmonger, Estate, Ironmonger
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays 4 Copper
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - shuffles deck
+Stef - draws Estate, Copper, Workshop, Copper, Copper
+ 
+---------- Destierro: turn 5 ----------
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - reveals: Hamlet
+Destierro - discards Hamlet
+Destierro - plays Ironmonger
+Destierro - draws Workshop
+Destierro - reveals: Copper
+Destierro - discards Copper
+Destierro - plays Workshop
+Destierro - gains Ironmonger
+Destierro - plays 2 Copper
+Destierro - buys Workshop
+Destierro - gains Workshop
+Destierro - draws Copper, Copper, Estate, Apprentice, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Workshop
+Stef - gains Ironmonger
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Apprentice, Copper, Estate, Ironmonger
+ 
+---------- Destierro: turn 6 ----------
+Destierro - plays Apprentice
+Destierro - trashes Estate
+Destierro - draws Copper
+Destierro - shuffles deck
+Destierro - draws Ironmonger
+Destierro - plays Ironmonger
+Destierro - draws Ironmonger
+Destierro - reveals: Copper
+Destierro - discards Copper
+Destierro - plays Ironmonger
+Destierro - draws Estate
+Destierro - reveals: Hamlet
+Destierro - places Hamlet on top of deck
+Destierro - plays 4 Copper
+Destierro - buys Apprentice
+Destierro - gains Apprentice
+Destierro - draws Hamlet, Workshop, Estate, Ironmonger, Workshop
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper, Copper
+Stef - plays Ironmonger
+Stef - draws Hamlet
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - draws Estate
+Stef - plays Hamlet
+Stef - draws Ironmonger
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - shuffles deck
+Stef - draws Ironmonger, Copper, Copper, Copper, Estate
+ 
+---------- Destierro: turn 7 ----------
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - reveals: Copper
+Destierro - places Copper on top of deck
+Destierro - plays Hamlet
+Destierro - draws Copper
+Destierro - discards Estate
+Destierro - receives one buy
+Destierro - plays Workshop
+Destierro - gains Ironmonger
+Destierro - plays 2 Copper
+Destierro - buys Silver
+Destierro - gains Silver
+Destierro - shuffles deck
+Destierro - draws Copper, Apprentice, Ironmonger, Workshop, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Workshop
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Workshop
+Stef - gains Ironmonger
+Stef - plays 3 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Ironmonger, Copper, Ironmonger, Estate
+ 
+---------- Destierro: turn 8 ----------
+Destierro - plays Ironmonger
+Destierro - draws Ironmonger
+Destierro - reveals: Apprentice
+Destierro - places Apprentice on top of deck
+Destierro - plays Ironmonger
+Destierro - draws Apprentice
+Destierro - reveals: Copper
+Destierro - discards Copper
+Destierro - plays Apprentice
+Destierro - trashes Copper
+Destierro - plays Apprentice
+Destierro - trashes Copper
+Destierro - plays Workshop
+Destierro - gains Tournament
+Destierro - draws Copper, Estate, Copper, Ironmonger, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - draws Hamlet
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Apprentice
+Stef - places Apprentice on top of deck
+Stef - plays Hamlet
+Stef - draws Apprentice
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Copper, Ironmonger
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Farmland
+Stef - trashes Ironmonger
+Stef - gains Hoard
+Stef - gains Farmland
+Stef - shuffles deck
+Stef - draws Ironmonger, Ironmonger, Hamlet, Ironmonger, Farmland
+ 
+---------- Destierro: turn 9 ----------
+Destierro - plays Ironmonger
+Destierro - draws Estate
+Destierro - reveals: Silver
+Destierro - discards Silver
+Destierro - plays 3 Copper
+Destierro - buys Tournament
+Destierro - gains Tournament
+Destierro - draws Copper, Hamlet, Workshop, Ironmonger
+Destierro - shuffles deck
+Destierro - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Apprentice
+Stef - places Apprentice on top of deck
+Stef - plays Ironmonger
+Stef - draws Apprentice
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Apprentice
+Stef - trashes Farmland
+Stef - draws Workshop, Hoard, Ironmonger, Estate, Copper, Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Silver
+Stef - places Silver on top of deck
+Stef - plays Workshop
+Stef - gains Tournament
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays 5 Copper, 1 Silver
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - shuffles deck
+Stef - draws Copper, Copper, Province, Copper, Copper
+ 
+---------- Destierro: turn 10 ----------
+Destierro - plays Ironmonger
+Destierro - draws Workshop
+Destierro - reveals: Apprentice
+Destierro - places Apprentice on top of deck
+Destierro - plays Hamlet
+Destierro - draws Apprentice
+Destierro - discards Copper
+Destierro - receives one action
+Destierro - plays Apprentice
+Destierro - trashes Workshop
+Destierro - draws Tournament, Estate, Ironmonger
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - reveals: Apprentice
+Destierro - places Apprentice on top of deck
+Destierro - plays Tournament
+Stef - reveals Province
+Destierro - plays Workshop
+Destierro - gains Tournament
+Destierro - plays 2 Copper
+Destierro - buys Hamlet
+Destierro - gains Hamlet
+Destierro - draws Apprentice, Ironmonger, Tournament, Estate, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Workshop, Hamlet, Gold, Apprentice, Ironmonger
+ 
+---------- Destierro: turn 11 ----------
+Destierro - plays Apprentice
+Destierro - trashes Estate
+Destierro - draws Ironmonger, Copper
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - shuffles deck
+Destierro - reveals: Copper
+Destierro - discards Copper
+Destierro - plays Ironmonger
+Destierro - draws Workshop
+Destierro - reveals: Hamlet
+Destierro - discards Hamlet
+Destierro - plays Tournament
+Destierro - draws Tournament
+Destierro - plays Tournament
+Destierro - draws Apprentice
+Destierro - plays Apprentice
+Destierro - trashes Silver
+Destierro - draws Ironmonger, Copper, Estate
+Destierro - plays Workshop
+Destierro - gains Tournament
+Destierro - plays 3 Copper
+Destierro - buys Farmland
+Destierro - trashes Ironmonger
+Destierro - gains Hoard
+Destierro - gains Farmland
+Destierro - draws Hamlet, Copper, Ironmonger, Tournament
+Destierro - shuffles deck
+Destierro - draws Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws Ironmonger, Copper, Tournament, Estate, Hoard, Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Tournament
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Apprentice
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Ironmonger, Silver
+Stef - plays Workshop
+Stef - gains Tournament
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Tournament
+Stef - places Tournament on top of deck
+Stef - plays 5 Copper, 1 Silver
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Tournament, Copper, Tournament, Province
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- Destierro: turn 12 ----------
+Destierro - plays Ironmonger
+Destierro - draws Apprentice
+Destierro - reveals: Ironmonger
+Destierro - places Ironmonger on top of deck
+Destierro - plays Hamlet
+Destierro - draws Ironmonger
+Destierro - plays Ironmonger
+Destierro - draws Hoard
+Destierro - reveals: Tournament
+Destierro - places Tournament on top of deck
+Destierro - plays Tournament
+Stef - reveals Province
+Destierro - plays Apprentice
+Destierro - trashes Hoard
+Destierro - draws Tournament, Tournament, Estate, Copper, Copper, Workshop
+Destierro - plays Workshop
+Destierro - gains Tournament
+Destierro - plays 4 Copper
+Destierro - buys Tournament
+Destierro - gains Tournament
+Destierro - draws Copper, Hamlet, Farmland, Apprentice, Ironmonger
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Copper, Workshop
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Workshop
+Stef - gains Tournament
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Horn of Plenty
+Stef - gains Horn of Plenty
+Stef - draws Hoard, Hamlet, Ironmonger, Tournament, Copper
+ 
+---------- Destierro: turn 13 ----------
+Destierro - plays Apprentice
+Destierro - trashes Farmland
+Destierro - draws Tournament
+Destierro - shuffles deck
+Destierro - draws Hamlet, Workshop, Tournament, Tournament, Tournament
+Destierro - plays Tournament
+Destierro - draws Tournament
+Destierro - plays Tournament
+Destierro - draws Copper
+Destierro - plays Tournament
+Destierro - draws Copper
+Destierro - plays Tournament
+Destierro - draws Copper
+Destierro - plays Tournament
+Destierro - draws Copper
+Destierro - plays Ironmonger
+Destierro - draws Tournament
+Destierro - reveals: Ironmonger
+Destierro - places Ironmonger on top of deck
+Destierro - plays Tournament
+Destierro - draws Ironmonger
+Destierro - plays Ironmonger
+Destierro - draws Ironmonger
+Destierro - reveals: Estate
+Destierro - discards Estate
+Destierro - draws Apprentice
+Destierro - plays Hamlet
+Destierro - shuffles deck
+Destierro - draws Estate
+Destierro - discards Estate
+Destierro - receives one buy
+Destierro - plays Hamlet
+Destierro - shuffles deck
+Destierro - draws Estate
+Destierro - discards Estate
+Destierro - receives one buy
+Destierro - plays Ironmonger
+Destierro - shuffles deck
+Destierro - draws Estate
+Destierro - plays Workshop
+Destierro - gains Silver
+Destierro - plays Apprentice
+Destierro - trashes Estate
+Destierro - shuffles deck
+Destierro - draws Silver
+Destierro - plays 5 Copper, 1 Silver
+Destierro - buys Province
+Destierro - gains Province
+Destierro - buys Horn of Plenty
+Destierro - gains Horn of Plenty
+Destierro - shuffles deck
+Destierro - draws Ironmonger, Tournament, Province, Silver, Hamlet
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Hamlet
+Stef - draws Ironmonger
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Ironmonger
+Stef - draws Apprentice
+Stef - reveals: Province
+Stef - places Province on top of deck
+Stef - draws Province
+Stef - plays Tournament
+Destierro - reveals Province
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws Followers, Copper, Copper, Ironmonger, Copper, Ironmonger
+Stef - plays Ironmonger
+Stef - draws Apprentice
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Followers
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - draws Tournament
+Stef - gains Estate
+Destierro - gains Curse
+Destierro - discards Silver
+Destierro - discards Hamlet
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Workshop
+Stef - places Workshop on top of deck
+Stef - plays Ironmonger
+Stef - draws Workshop
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Apprentice
+Stef - trashes Workshop
+Stef - draws Copper, Province, Copper
+Stef - plays Tournament
+Destierro - reveals Province
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Princess
+Stef - plays Hoard
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Princess, Trusty Steed, Horn of Plenty, Province, Tournament
+ 
+---------- Destierro: turn 14 ----------
+Destierro - plays Tournament
+Destierro - reveals Province
+Stef - reveals Province
+Destierro - discards Province
+Destierro - gains Bag of Gold
+Destierro - plays Ironmonger
+Destierro - draws Bag of Gold
+Destierro - reveals: Hamlet
+Destierro - discards Hamlet
+Destierro - plays Bag of Gold
+Destierro - gains Gold
+Destierro - draws Gold, Tournament, Copper, Workshop, Tournament
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Tournament, Silver
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Diadem
+Stef - draws Diadem
+Stef - plays Princess
+Stef - plays Silver
+Stef - plays Diadem
+Stef - plays Horn of Plenty
+Stef - gains Province
+Stef - trashes Horn of Plenty
+Stef - buys Province
+Stef - gains Province
+Stef - buys Village
+Stef - gains Village
+Stef - draws Gold, Ironmonger, Copper, Copper, Copper
+ 
+---------- Destierro: turn 15 ----------
+Destierro - plays Tournament
+Destierro - draws Tournament
+Destierro - plays Tournament
+Destierro - draws Ironmonger
+Destierro - plays Ironmonger
+Destierro - draws Copper
+Destierro - reveals: Apprentice
+Destierro - places Apprentice on top of deck
+Destierro - plays Tournament
+Destierro - draws Apprentice
+Destierro - plays Apprentice
+Destierro - trashes Gold
+Destierro - draws Copper, Ironmonger, Apprentice, Copper, Copper, Tournament
+Destierro - plays Tournament
+Destierro - draws Tournament
+Destierro - plays Tournament
+Destierro - draws Horn of Plenty
+Destierro - plays Ironmonger
+Destierro - shuffles deck
+Destierro - draws Bag of Gold
+Destierro - reveals: Hamlet
+Destierro - discards Hamlet
+Destierro - plays Bag of Gold
+Destierro - gains Gold
+Destierro - plays Apprentice
+Destierro - trashes Workshop
+Destierro - draws Gold, Silver, Curse
+Destierro - plays 5 Copper, 1 Gold, 1 Silver
+Destierro - plays Horn of Plenty
+Destierro - gains Province
+Destierro - trashes Horn of Plenty
+Destierro - buys Province
+Destierro - gains Province
+Destierro - draws Tournament, Ironmonger, Hamlet, Province
+Destierro - shuffles deck
+Destierro - draws Copper
+ 
+------------ Game Over ------------
+Stef - cards: 5 Ironmonger, 4 Tournament, 2 Apprentice, 1 Village, 1 Trusty Steed, 1 Princess, 1 Hamlet, 1 Followers, 7 Copper, 1 Gold, 1 Silver, 1 Diadem, 1 Hoard, 5 Province, 1 Estate
+Stef - total victory points: 31
+Stef - turns: 14
+ 
+Destierro - cards: 6 Tournament, 3 Ironmonger, 2 Hamlet, 2 Apprentice, 1 Bag of Gold, 5 Copper, 1 Gold, 1 Silver, 3 Province, 1 Curse
+Destierro - total victory points: 17
+Destierro - turns: 15
+ 
+1st place: Stef
+2nd place: Destierro
+ 

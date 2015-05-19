@@ -1,0 +1,327 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Fishing Village, Warehouse, Philosopher's Stone, Caravan, Feast, Gardens, Moneylender, Smithy, Knights, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+HelloKitty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HelloKitty - shuffles deck
+Stef - shuffles deck
+HelloKitty - draws Estate, Copper, Estate, Copper, Copper
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- HelloKitty: turn 1 ----------
+HelloKitty - plays 3 Copper
+HelloKitty - buys Fishing Village
+HelloKitty - gains Fishing Village
+HelloKitty - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Moneylender, Copper
+ 
+---------- HelloKitty: turn 2 ----------
+HelloKitty - plays 4 Copper
+HelloKitty - buys Moneylender
+HelloKitty - gains Moneylender
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Fishing Village, Moneylender, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Dame Sylvia
+Stef - gains Dame Sylvia
+Stef - draws Estate, Estate, Copper, Fishing Village, Copper
+ 
+---------- HelloKitty: turn 3 ----------
+HelloKitty - plays Fishing Village
+HelloKitty - plays Moneylender
+HelloKitty - trashes Copper
+HelloKitty - plays 1 Copper
+HelloKitty - buys Sir Vander
+HelloKitty - gains Sir Vander
+HelloKitty - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Estate, Dame Sylvia, Copper
+ 
+---------- HelloKitty: turn 4 ----------
+HelloKitty - duration Fishing Village
+HelloKitty - plays 4 Copper
+HelloKitty - buys Dame Anna
+HelloKitty - gains Dame Anna
+HelloKitty - draws Copper, Estate
+HelloKitty - shuffles deck
+HelloKitty - draws Fishing Village, Copper, Sir Vander
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Fishing Village
+Stef - plays Dame Sylvia
+HelloKitty - reveals: Estate, Moneylender
+HelloKitty - trashes Moneylender
+HelloKitty - discards Estate
+Stef - plays 2 Copper
+Stef - buys Dame Natalie
+Stef - gains Dame Natalie
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- HelloKitty: turn 5 ----------
+HelloKitty - plays Fishing Village
+HelloKitty - plays Sir Vander
+Stef - reveals: Warehouse, Moneylender
+Stef - trashes Moneylender
+Stef - discards Warehouse
+HelloKitty - plays 2 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Dame Anna, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Warehouse, Estate, Dame Natalie, Estate, Copper
+ 
+---------- HelloKitty: turn 6 ----------
+HelloKitty - duration Fishing Village
+HelloKitty - plays Dame Anna
+HelloKitty - trashes Estate, Copper
+Stef - reveals: Fishing Village, Estate
+Stef - trashes Fishing Village
+Stef - discards Estate
+HelloKitty - plays 2 Copper
+HelloKitty - buys Warehouse
+HelloKitty - gains Warehouse
+HelloKitty - draws Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Copper, Dame Anna, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Caravan, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Dame Natalie
+Stef - gains Fishing Village
+HelloKitty - reveals: Copper, Silver
+HelloKitty - trashes Silver
+HelloKitty - discards Copper
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Copper, Copper, Dame Sylvia
+Stef - shuffles deck
+Stef - draws Copper, Estate
+ 
+---------- HelloKitty: turn 7 ----------
+HelloKitty - plays Dame Anna
+HelloKitty - trashes Estate, Copper
+Stef - reveals: Fishing Village, Dame Natalie
+Stef - trashes Dame Natalie
+Stef - discards Fishing Village
+HelloKitty - trashes Dame Anna
+HelloKitty - plays 2 Copper
+HelloKitty - buys Embargo
+HelloKitty - gains Embargo
+HelloKitty - draws Estate, Warehouse, Fishing Village, Sir Vander, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Dame Sylvia
+HelloKitty - shuffles deck
+HelloKitty - reveals: Copper, Embargo
+Stef - plays 4 Copper
+Stef - buys Dame Molly
+Stef - gains Dame Molly
+Stef - draws Warehouse, Estate, Estate, Copper, Fishing Village
+ 
+---------- HelloKitty: turn 8 ----------
+HelloKitty - plays Fishing Village
+HelloKitty - plays Warehouse
+HelloKitty - draws Copper, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Copper
+HelloKitty - discards Estate
+HelloKitty - discards Sir Vander
+HelloKitty - discards Copper
+HelloKitty - plays 3 Copper
+HelloKitty - buys Moneylender
+HelloKitty - gains Moneylender
+HelloKitty - draws Embargo
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Copper, Moneylender, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Warehouse
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Fishing Village
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays 2 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Dame Sylvia, Copper, Copper, Dame Molly, Caravan
+ 
+---------- HelloKitty: turn 9 ----------
+HelloKitty - duration Fishing Village
+HelloKitty - plays Embargo
+HelloKitty - embargoes Moneylender
+HelloKitty - trashes Embargo
+HelloKitty - plays Moneylender
+HelloKitty - trashes Copper
+HelloKitty - plays Copper
+HelloKitty - buys Sir Bailey
+HelloKitty - gains Sir Bailey
+HelloKitty - draws Sir Vander, Warehouse, Copper, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Moneylender
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Dame Molly
+HelloKitty - reveals: Estate, Fishing Village
+HelloKitty - trashes Fishing Village
+HelloKitty - discards Estate
+Stef - plays Dame Sylvia
+HelloKitty - reveals: Copper, Sir Bailey
+HelloKitty - trashes Sir Bailey
+HelloKitty - discards Copper
+Stef - trashes Dame Sylvia
+Stef - buys Sir Martin
+Stef - gains Sir Martin
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fishing Village, Copper, Copper, Dame Molly
+ 
+---------- HelloKitty: turn 10 ----------
+HelloKitty - plays Warehouse
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Copper
+HelloKitty - discards Estate
+HelloKitty - discards Copper
+HelloKitty - discards Copper
+HelloKitty - plays Moneylender
+HelloKitty - trashes Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - shuffles deck
+HelloKitty - draws Warehouse, Copper, Sir Vander, Estate, Moneylender
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Fishing Village
+Stef - plays Dame Molly
+HelloKitty - reveals: Copper, Silver
+HelloKitty - trashes Silver
+HelloKitty - discards Copper
+Stef - plays 4 Copper
+Stef - buys Dame Josephine
+Stef - gains Dame Josephine
+Stef - draws Copper, Estate, Warehouse, Fishing Village, Estate
+ 
+---------- HelloKitty: turn 11 ----------
+HelloKitty - plays Warehouse
+HelloKitty - shuffles deck
+HelloKitty - draws Copper
+HelloKitty - discards Estate
+HelloKitty - discards Copper
+HelloKitty - discards Moneylender
+HelloKitty - plays Sir Vander
+Stef - reveals: Copper, Sir Martin
+Stef - trashes Sir Martin
+Stef - discards Copper
+HelloKitty - trashes Sir Vander
+HelloKitty - gains Gold
+HelloKitty - plays 1 Copper
+HelloKitty - buys Copper
+HelloKitty - gains Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Moneylender, Copper, Warehouse, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Fishing Village
+Stef - plays Warehouse
+Stef - draws Estate, Smithy
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Smithy
+Stef - draws Copper, Copper, Dame Molly
+Stef - plays Fishing Village
+Stef - plays Dame Molly
+HelloKitty - reveals: Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - draws Caravan, Copper, Dame Josephine, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- HelloKitty: turn 12 ----------
+HelloKitty - plays Moneylender
+HelloKitty - trashes Copper
+HelloKitty - plays 1 Copper, 1 Gold
+HelloKitty - buys Sir Michael
+HelloKitty - gains Sir Michael
+HelloKitty - shuffles deck
+HelloKitty - draws Gold, Warehouse, Copper, Moneylender, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Fishing Village
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Dame Josephine
+HelloKitty - reveals: Estate, Sir Michael
+HelloKitty - trashes Sir Michael
+HelloKitty - discards Estate
+Stef - trashes Dame Josephine
+Stef - plays 3 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Fishing Village, Sir Destry, Copper, Copper, Estate
+ 
+---------- HelloKitty: turn 13 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 2 Fishing Village, 2 Smithy, 1 Sir Destry, 1 Dame Molly, 1 Warehouse, 1 Caravan, 6 Copper, 3 Estate
+Stef - total victory points: 3
+Stef - turns: 13
+ 
+HelloKitty - resigned
+HelloKitty - cards: 1 Warehouse, 1 Moneylender, 2 Copper, 1 Gold, 1 Estate
+HelloKitty - total victory points: 1
+HelloKitty - turns: 12
+ 
+1st place: Stef
+2nd place: HelloKitty
+ 

@@ -1,0 +1,557 @@
+------------ Game Setup ------------
+Supply cards: Native Village, University, Ironmonger, Navigator, Scavenger, Talisman, Highway, Mandarin, Pillage, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Potion
+yed - gains Potion
+yed - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Potion, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Estate, Ironmonger, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Potion
+yed - buys University
+yed - gains University
+yed - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Highway
+yed - gains Highway
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Copper, Estate, Copper, Estate, Highway
+ 
+---------- yed: turn 5 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Silver, Copper, Copper, Highway, Potion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Talisman, Copper, Copper, Highway, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Highway
+yed - draws University
+yed - plays University
+yed - gains Highway
+yed - plays 2 Copper, 1 Silver, 1 Potion
+yed - buys Talisman
+yed - gains Talisman
+yed - draws Copper, Copper, Estate
+yed - shuffles deck
+yed - draws Highway, Talisman
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - plays Talisman
+Stef - buys Highway
+Stef - gains Highway
+Stef - gains Highway
+Stef - draws Copper, Copper, Copper, Silver, Ironmonger
+ 
+---------- yed: turn 7 ----------
+yed - plays Highway
+yed - draws Silver
+yed - plays 2 Copper, 1 Silver
+yed - plays Talisman
+yed - buys Highway
+yed - gains Highway
+yed - gains Highway
+yed - draws Estate, Copper, Copper, Potion, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Highway, Estate, Estate
+Stef - shuffles deck
+Stef - draws Highway, Highway
+ 
+---------- yed: turn 8 ----------
+yed - plays 2 Copper, 1 Potion, 1 Silver
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Copper, Copper, Estate, Copper, University
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Copper, Copper, Copper, Copper, Highway
+ 
+---------- yed: turn 9 ----------
+yed - plays University
+yed - gains Pillage
+yed - plays 3 Copper
+yed - draws Highway
+yed - shuffles deck
+yed - draws Highway, Pillage, Copper, Ironmonger
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays 5 Copper
+Stef - buys Expand
+Stef - gains Expand
+Stef - draws Talisman
+Stef - shuffles deck
+Stef - draws Copper, Highway, Copper, Highway
+ 
+---------- yed: turn 10 ----------
+yed - plays Ironmonger
+yed - draws Copper
+yed - reveals: Silver
+yed - places Silver on top of deck
+yed - plays Highway
+yed - draws Silver
+yed - plays Highway
+yed - draws Estate
+yed - plays Pillage
+yed - trashes Pillage
+Stef - reveals Talisman, Copper, Highway, Copper, Highway
+Stef - discards Highway
+yed - gains Spoils
+yed - gains Spoils
+yed - plays 2 Copper, 1 Silver
+yed - buys Expand
+yed - gains Expand
+yed - draws Copper, Talisman, Highway, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - plays Talisman
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - gains Ironmonger
+Stef - draws Highway, Copper, Ironmonger, Expand, Highway
+ 
+---------- yed: turn 11 ----------
+yed - plays Highway
+yed - draws Highway
+yed - plays Highway
+yed - draws Estate
+yed - plays 3 Copper
+yed - plays Talisman
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - gains Ironmonger
+yed - draws Silver, Potion, Copper, Estate, University
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Highway
+Stef - draws Estate
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Ironmonger
+Stef - plays Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Silver, Highway, Copper, Highway, Estate
+ 
+---------- yed: turn 12 ----------
+yed - plays University
+yed - gains Ironmonger
+yed - plays 1 Silver, 1 Potion, 1 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Talisman
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Expand
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Ironmonger
+Stef - plays 1 Silver
+Stef - plays Talisman
+Stef - buys Expand
+Stef - gains Expand
+Stef - gains Expand
+Stef - draws Estate, Highway, Copper, Estate, Copper
+ 
+---------- yed: turn 13 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Pillage
+yed - gains Pillage
+yed - draws Highway, Copper, Highway, Estate, Potion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Ironmonger, Copper, Ironmonger, Ironmonger, Ironmonger
+ 
+---------- yed: turn 14 ----------
+yed - plays Highway
+yed - draws Ironmonger
+yed - plays Ironmonger
+yed - draws Copper
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Highway
+yed - draws Estate
+yed - plays 2 Copper, 1 Potion
+yed - buys Pillage
+yed - gains Pillage
+yed - draws Ironmonger, Silver, Spoils, Spoils, Highway
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Highway
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Expand
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Highway
+Stef - plays Ironmonger
+Stef - draws Highway
+Stef - reveals: Silver
+Stef - discards Silver
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Expand
+Stef - reveals: Native Village
+Stef - places Native Village on top of deck
+Stef - plays Highway
+Stef - draws Native Village
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Native Village
+Stef - sets aside Highway
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Province
+Stef - plays Expand
+Stef - trashes Copper
+Stef - gains Province
+Stef - plays 3 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Expand, Talisman
+Stef - shuffles deck
+Stef - draws Province, Copper, Ironmonger
+ 
+---------- yed: turn 15 ----------
+yed - plays Ironmonger
+yed - draws Talisman
+yed - reveals: Ironmonger
+yed - places Ironmonger on top of deck
+yed - plays Highway
+yed - draws Ironmonger
+yed - plays Ironmonger
+yed - draws Ironmonger
+yed - reveals: Highway
+yed - places Highway on top of deck
+yed - plays Ironmonger
+yed - draws Highway
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Highway
+yed - draws Expand
+yed - plays Expand
+yed - trashes Talisman
+yed - gains Expand
+yed - plays 1 Silver
+yed - plays Spoils
+yed - plays Spoils
+yed - buys Colony
+yed - gains Colony
+yed - draws University, Silver
+yed - shuffles deck
+yed - draws Expand, Estate, Pillage
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Ironmonger
+Stef - draws Expand
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Expand
+Stef - trashes Province
+Stef - gains Colony
+Stef - plays 2 Copper
+Stef - plays Talisman
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - gains Scavenger
+Stef - draws Highway, Ironmonger, Platinum, Province, Highway
+ 
+---------- yed: turn 16 ----------
+yed - plays University
+yed - gains Pillage
+yed - plays Expand
+yed - trashes Estate
+yed - gains Duchy
+yed - plays Pillage
+yed - trashes Pillage
+Stef - reveals Highway, Ironmonger, Platinum, Province, Highway
+Stef - discards Platinum
+yed - gains Spoils
+yed - gains Spoils
+yed - plays Silver
+yed - buys Native Village
+yed - gains Native Village
+yed - draws Estate, Copper, Highway, Highway, Ironmonger
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Ironmonger
+Stef - draws Silver
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Highway
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Estate
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Expand
+Stef - gains Expand
+Stef - draws Ironmonger, Estate, Expand, Native Village
+Stef - shuffles deck
+Stef - draws Ironmonger
+ 
+---------- yed: turn 17 ----------
+yed - plays Ironmonger
+yed - draws Estate
+yed - reveals: Ironmonger
+yed - places Ironmonger on top of deck
+yed - plays Highway
+yed - draws Ironmonger
+yed - plays Ironmonger
+yed - draws Highway
+yed - reveals: Silver
+yed - discards Silver
+yed - plays Highway
+yed - draws Copper
+yed - plays Highway
+yed - draws Silver
+yed - plays 2 Copper, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Ironmonger, Copper, Copper, Copper, Ironmonger
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Ironmonger
+Stef - draws Highway
+Stef - reveals: Platinum
+Stef - places Platinum on top of deck
+Stef - plays Ironmonger
+Stef - draws Platinum
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Province
+Stef - reveals: Scavenger
+Stef - places Scavenger on top of deck
+Stef - plays Native Village
+Stef - takes set aside cards: Highway
+Stef - plays Highway
+Stef - draws Scavenger
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Highway on top of deck
+Stef - plays Expand
+Stef - trashes Province
+Stef - gains Colony
+Stef - plays 1 Platinum
+Stef - buys Province
+Stef - gains Province
+Stef - draws Highway
+Stef - shuffles deck
+Stef - draws Expand, Native Village, Estate, Highway
+ 
+---------- yed: turn 18 ----------
+yed - plays Ironmonger
+yed - draws Potion
+yed - reveals: Expand
+yed - places Expand on top of deck
+yed - plays Ironmonger
+yed - draws Expand
+yed - reveals: Pillage
+yed - places Pillage on top of deck
+yed - plays Expand
+yed - trashes Potion
+yed - gains Expand
+yed - plays 3 Copper
+yed - buys Native Village
+yed - gains Native Village
+yed - draws Pillage, Highway, Colony, Copper, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Highway
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Ironmonger
+Stef - draws Highway
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Talisman
+Stef - plays Highway
+Stef - draws Expand
+Stef - plays Expand
+Stef - trashes Expand
+Stef - gains Expand
+Stef - plays 1 Copper
+Stef - plays Talisman
+Stef - buys Expand
+Stef - gains Expand
+Stef - gains Expand
+Stef - draws Silver, Highway, Scavenger, Highway, Province
+ 
+------------ Game Over ------------
+Stef - cards: 6 Highway, 6 Expand, 6 Ironmonger, 2 Scavenger, 1 Native Village, 3 Copper, 1 Silver, 1 Talisman, 1 Platinum, 3 Estate, 2 Colony, 1 Province
+Stef - total victory points: 29
+Stef - turns: 18
+ 
+yed - cards: 4 Highway, 4 Ironmonger, 3 Expand, 2 Pillage, 2 Native Village, 1 University, 7 Copper, 3 Silver, 2 Spoils, 2 Estate, 1 Colony, 1 Duchy, 1 Province
+yed - total victory points: 21
+yed - turns: 18
+ 
+1st place: Stef
+2nd place: yed
+ 

@@ -1,0 +1,562 @@
+------------ Game Setup ------------
+Supply cards: Haven, Apothecary, Lookout, Market Square, Island, Festival, Harvest, Knights, Pillage, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ruroi - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 4 Copper
+ruroi - buys Island
+ruroi - gains Island
+ruroi - shuffles deck
+ruroi - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Potion, Market Square, Copper, Estate
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Pillage
+ruroi - gains Pillage
+ruroi - draws Copper, Island
+ruroi - shuffles deck
+ruroi - draws Copper, Silver, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Market Square
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Island
+ruroi - sets aside Estate
+ruroi - plays 2 Copper, 1 Silver
+ruroi - buys Island
+ruroi - gains Island
+ruroi - draws Copper, Copper, Pillage, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Market Square, Copper, Copper, Estate, Estate
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays Pillage
+ruroi - trashes Pillage
+Stef - reveals Market Square, Copper, Copper, Estate, Estate
+Stef - discards Market Square
+ruroi - gains Spoils
+ruroi - gains Spoils
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Festival
+ruroi - gains Festival
+ruroi - draws Copper, Estate, Estate, Copper
+ruroi - shuffles deck
+ruroi - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Apothecary, Estate, Potion
+Stef - shuffles deck
+Stef - draws Copper, Haven
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays 3 Copper
+ruroi - buys Haven
+ruroi - gains Haven
+ruroi - draws Copper, Copper, Festival, Silver, Island
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Market Square
+Stef - reveals: Estate, Island, Copper, Copper
+Stef - places Estate on top of deck
+Stef - places Island on top of deck
+Stef - plays Market Square
+Stef - draws Island
+Stef - plays Haven
+Stef - draws Estate
+Stef - sets aside Copper
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays Festival
+ruroi - plays 2 Copper, 1 Silver
+ruroi - buys Hoard
+ruroi - gains Hoard
+ruroi - draws Silver, Copper, Spoils, Spoils, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays 5 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Market Square
+Stef - shuffles deck
+Stef - draws Copper, Copper, Potion, Copper
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays 2 Copper, 1 Silver
+ruroi - plays Spoils
+ruroi - buys Hoard
+ruroi - gains Hoard
+ruroi - shuffles deck
+ruroi - draws Estate, Silver, Hoard, Estate, Hoard
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Apothecary, Copper, Estate, Apothecary, Haven
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays 1 Silver
+ruroi - plays Hoard
+ruroi - plays Hoard
+ruroi - buys Duchy
+ruroi - gains Gold
+ruroi - gains Gold
+ruroi - gains Duchy
+ruroi - draws Copper, Island, Silver, Festival, Spoils
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Copper, Island, Market Square, Copper
+Stef - places Island on top of deck
+Stef - places Market Square on top of deck
+Stef - plays Haven
+Stef - draws Market Square
+Stef - sets aside Estate
+Stef - plays Apothecary
+Stef - draws Island
+Stef - shuffles deck
+Stef - reveals: Potion, Copper, Copper, Copper
+Stef - plays Market Square
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Market Square, Haven
+Stef - places Haven on top of deck
+Stef - places Market Square on top of deck
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Market Square, Haven
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apothecary
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Festival
+ruroi - plays 1 Copper, 1 Silver
+ruroi - plays Spoils
+ruroi - buys Harvest
+ruroi - gains Harvest
+ruroi - buys Market Square
+ruroi - gains Market Square
+ruroi - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Apothecary
+Stef - draws Festival
+Stef - reveals: Apothecary, Apothecary, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Market Square
+Stef - draws Apothecary
+Stef - plays Haven
+Stef - draws Apothecary
+Stef - sets aside Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper, Copper, Market Square
+Stef - places Market Square on top of deck
+Stef - plays Apothecary
+Stef - draws Market Square
+Stef - reveals: Potion, Copper
+Stef - plays Market Square
+Stef - plays Festival
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Dame Josephine
+Stef - gains Dame Josephine
+Stef - buys Island
+Stef - gains Island
+Stef - shuffles deck
+Stef - draws Estate, Market Square, Haven, Apothecary, Copper
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays 5 Copper
+ruroi - buys Dame Natalie
+ruroi - gains Dame Natalie
+ruroi - draws Copper, Haven
+ruroi - shuffles deck
+ruroi - draws Estate, Copper, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Haven
+Stef - places set aside Apothecary in hand
+Stef - plays Apothecary
+Stef - draws Market Square
+Stef - reveals: Festival, Copper, Copper, Dame Josephine
+Stef - places Dame Josephine on top of deck
+Stef - places Festival on top of deck
+Stef - plays Market Square
+Stef - draws Festival
+Stef - plays Apothecary
+Stef - draws Dame Josephine
+Stef - reveals: Copper, Copper, Island, Copper
+Stef - places Island on top of deck
+Stef - plays Market Square
+Stef - draws Island
+Stef - plays Haven
+Stef - draws Apothecary
+Stef - sets aside Copper
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Potion, Copper
+Stef - plays Festival
+Stef - plays Dame Josephine
+ruroi - reveals: Festival, Gold
+ruroi - trashes Gold
+ruroi - discards Festival
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 6 Copper, 1 Potion
+Stef - buys Sir Bailey
+Stef - gains Sir Bailey
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - shuffles deck
+Stef - draws Copper, Dame Josephine, Copper, Copper, Potion
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Haven
+ruroi - draws Market Square
+ruroi - sets aside Duchy
+ruroi - plays Market Square
+ruroi - draws Copper
+ruroi - plays 3 Copper
+ruroi - buys Silver
+ruroi - gains Silver
+ruroi - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Dame Josephine
+ruroi - reveals: Harvest, Hoard
+ruroi - trashes Harvest
+ruroi - discards Hoard
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Market Square, Apothecary, Apothecary, Festival, Market Square
+ 
+---------- ruroi: turn 14 ----------
+ruroi - duration Haven
+ruroi - places set aside Duchy in hand
+ruroi - plays 3 Copper, 1 Silver
+ruroi - buys Dame Molly
+ruroi - gains Dame Molly
+ruroi - draws Island, Copper, Hoard, Silver, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper, Haven, Apothecary
+Stef - places Haven on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Haven, Sir Bailey, Apothecary, Copper
+Stef - places Haven on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Sir Bailey on top of deck
+Stef - plays Market Square
+Stef - draws Sir Bailey
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Haven
+Stef - shuffles deck
+Stef - reveals: Potion, Apothecary, Dame Josephine
+Stef - places Haven on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Dame Josephine on top of deck
+Stef - plays Sir Bailey
+Stef - draws Dame Josephine
+ruroi - reveals: Dame Natalie
+ruroi - shuffles deck
+ruroi - reveals: Copper
+ruroi - trashes Dame Natalie
+ruroi - discards Copper
+Stef - trashes Sir Bailey
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Haven, Copper, Copper, Haven
+Stef - places Haven on top of deck
+Stef - places Haven on top of deck
+Stef - plays Apothecary
+Stef - draws Haven
+Stef - reveals: Haven, Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Gold
+Stef - places Haven on top of deck
+Stef - places Gold on top of deck
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - reveals: Haven, Market Square
+Stef - places Market Square on top of deck
+Stef - places Haven on top of deck
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Haven
+Stef - plays Festival
+Stef - plays Dame Josephine
+ruroi - reveals: Silver, Copper
+ruroi - trashes Silver
+ruroi - discards Copper
+Stef - plays 7 Copper, 1 Potion, 1 Gold
+Stef - buys Sir Michael
+Stef - gains Sir Michael
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Market Square
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apothecary, Copper
+ 
+---------- ruroi: turn 15 ----------
+ruroi - plays 1 Copper, 1 Silver, 1 Gold
+ruroi - plays Hoard
+ruroi - buys Province
+ruroi - gains Gold
+ruroi - gains Province
+ruroi - draws Haven, Hoard, Silver, Copper, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Haven in hand
+Stef - plays Apothecary
+Stef - draws Sir Michael
+Stef - reveals: Apothecary, Market Square, Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Market Square on top of deck
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Apothecary
+Stef - plays Haven
+Stef - draws Apothecary
+Stef - sets aside Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Copper, Festival, Dame Josephine
+Stef - places Dame Josephine on top of deck
+Stef - places Festival on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Festival, Dame Josephine, Potion, Apothecary
+Stef - places Dame Josephine on top of deck
+Stef - places Festival on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Festival, Dame Josephine, Copper, Copper
+Stef - places Dame Josephine on top of deck
+Stef - places Festival on top of deck
+Stef - plays Apothecary
+Stef - draws Festival
+Stef - reveals: Dame Josephine, Copper, Gold, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Gold on top of deck
+Stef - places Dame Josephine on top of deck
+Stef - plays Festival
+Stef - plays Sir Michael
+ruroi - discards Estate
+ruroi - discards Haven
+ruroi - reveals: Duchy, Festival
+ruroi - trashes Duchy
+ruroi - discards Festival
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Island
+Stef - gains Island
+Stef - buys Copper
+Stef - gains Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Dame Josephine, Gold, Apothecary, Sir Destry
+Stef - shuffles deck
+Stef - draws Haven
+ 
+---------- ruroi: turn 16 ----------
+ruroi - plays 1 Silver, 1 Copper
+ruroi - plays Hoard
+ruroi - buys Duchy
+ruroi - gains Gold
+ruroi - gains Duchy
+ruroi - draws Market Square, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Haven
+Stef - places set aside Apothecary in hand
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Apothecary, Market Square, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Market Square on top of deck
+Stef - plays Haven
+Stef - draws Market Square
+Stef - sets aside Apothecary
+Stef - plays Market Square
+Stef - draws Apothecary
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Copper, Sir Michael, Copper
+Stef - places Sir Michael on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Sir Michael, Apothecary, Copper, Market Square
+Stef - places Sir Michael on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Market Square on top of deck
+Stef - plays Apothecary
+Stef - draws Market Square
+Stef - reveals: Apothecary, Sir Michael, Potion, Copper
+Stef - places Sir Michael on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Sir Michael, Copper, Festival, Copper
+Stef - places Sir Michael on top of deck
+Stef - places Festival on top of deck
+Stef - plays Apothecary
+Stef - draws Festival
+Stef - reveals: Sir Michael, Copper, Apothecary, Island
+Stef - places Sir Michael on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Island on top of deck
+Stef - plays Market Square
+Stef - draws Island
+Stef - plays Festival
+Stef - plays Sir Destry
+Stef - draws Apothecary, Sir Michael
+ruroi - reveals: Dame Molly
+ruroi - shuffles deck
+ruroi - reveals: Duchy
+ruroi - trashes Dame Molly
+ruroi - reveals reaction Market Square
+ruroi - discards Market Square
+ruroi - gains Gold
+ruroi - discards Duchy
+Stef - trashes Sir Destry
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - plays Island
+Stef - sets aside Dame Josephine
+Stef - plays 9 Copper, 1 Gold, 1 Potion
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Island, Copper, Copper, Apothecary, Copper
+ 
+---------- ruroi: turn 17 ----------
+ruroi - plays 3 Copper
+ruroi - buys Market Square
+ruroi - gains Market Square
+ruroi - draws Estate, Copper, Hoard, Copper, Haven
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Haven
+Stef - places set aside Apothecary in hand
+ 
+------------ Game Over ------------
+Stef - cards: 9 Apothecary, 5 Island, 2 Market Square, 1 Dame Josephine, 10 Copper, 1 Festival, 1 Haven, 1 Sir Michael, 1 Gold, 1 Potion, 3 Estate, 1 Province
+Stef - total victory points: 21
+Stef - turns: 16
+ 
+ruroi - resigned
+ruroi - cards: 2 Island, 2 Market Square, 1 Haven, 1 Festival, 7 Copper, 4 Gold, 2 Hoard, 2 Silver, 3 Estate, 1 Duchy, 1 Province
+ruroi - total victory points: 16
+ruroi - turns: 17
+ 
+1st place: Stef
+2nd place: ruroi
+ 

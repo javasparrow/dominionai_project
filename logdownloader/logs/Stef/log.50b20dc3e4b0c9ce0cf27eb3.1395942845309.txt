@@ -1,0 +1,721 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Chapel, Lighthouse, Remake, Cache, Counting House, Inn, Jester, Goons, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+gamesou - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+gamesou - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+gamesou - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- gamesou: turn 1 ----------
+gamesou - plays 4 Copper
+gamesou - buys Silver
+gamesou - gains Silver
+gamesou - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Remake, Copper, Copper, Chapel, Copper
+ 
+---------- gamesou: turn 2 ----------
+gamesou - plays 3 Copper
+gamesou - buys Chapel
+gamesou - gains Chapel
+gamesou - shuffles deck
+gamesou - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- gamesou: turn 3 ----------
+gamesou - plays 4 Copper
+gamesou - buys Silver
+gamesou - gains Silver
+gamesou - draws Copper, Chapel, Estate, Copper, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Chapel, Copper, Copper
+ 
+---------- gamesou: turn 4 ----------
+gamesou - plays Chapel
+gamesou - trashes Copper, Estate, Copper
+gamesou - plays 1 Silver
+gamesou - buys Lighthouse
+gamesou - gains Lighthouse
+gamesou - draws Copper, Estate
+gamesou - shuffles deck
+gamesou - draws Chapel, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Estate, Estate
+Stef - draws Remake, Copper, Estate, Copper, Lighthouse
+ 
+---------- gamesou: turn 5 ----------
+gamesou - plays Chapel
+gamesou - trashes Copper, Estate, Copper, Copper
+gamesou - draws Lighthouse, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Lighthouse
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Lighthouse, Chapel, Remake, Copper, Silver
+ 
+---------- gamesou: turn 6 ----------
+gamesou - plays Lighthouse
+gamesou - plays 2 Copper, 1 Silver
+gamesou - buys Lighthouse
+gamesou - gains Lighthouse
+gamesou - draws Silver
+gamesou - shuffles deck
+gamesou - draws Lighthouse, Copper, Estate, Chapel
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Silver
+Stef - gains Potion
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Lighthouse, Chapel, Remake, Potion, Peddler
+ 
+---------- gamesou: turn 7 ----------
+gamesou - duration Lighthouse
+gamesou - plays Lighthouse
+gamesou - plays Chapel
+gamesou - trashes Estate, Copper
+gamesou - draws Copper, Silver
+gamesou - shuffles deck
+gamesou - draws Lighthouse, Silver, Chapel
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Peddler
+Stef - plays Remake
+Stef - trashes Potion
+Stef - gains Jester
+Stef - trashes Chapel
+Stef - gains Silver
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Jester, Silver, Peddler, Peddler, Lighthouse
+ 
+---------- gamesou: turn 8 ----------
+gamesou - duration Lighthouse
+gamesou - plays Lighthouse
+gamesou - plays Chapel
+gamesou - trashes Copper
+gamesou - plays 2 Silver
+gamesou - buys Goons
+gamesou - gains Goons
+gamesou - shuffles deck
+gamesou - draws Goons, Chapel, Lighthouse, Silver, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Peddler
+Stef - draws Remake
+Stef - plays Peddler
+Stef - plays Remake
+Stef - trashes Jester
+Stef - gains Goons
+Stef - trashes Silver
+Stef - gains Potion
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - shuffles deck
+Stef - draws Goons, Peddler, Potion, Peddler, Peddler
+ 
+---------- gamesou: turn 9 ----------
+gamesou - duration Lighthouse
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays 2 Silver
+gamesou - buys Peddler
+gamesou - receives 1 victory point chips
+gamesou - gains Peddler
+gamesou - buys Inn
+gamesou - receives 1 victory point chips
+gamesou - gains Inn
+gamesou - places Peddler, Inn on top of deck
+gamesou - shuffles deck
+gamesou - draws Peddler, Inn
+gamesou - shuffles deck
+gamesou - draws Chapel, Silver, Goons
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Remake
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Peddler
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - buys Peddler
+Stef - receives 1 victory point chips
+Stef - gains Peddler
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Peddler, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Peddler
+Stef - shuffles deck
+Stef - draws Peddler, Peddler, Remake
+ 
+---------- gamesou: turn 10 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Silver
+gamesou - plays Inn
+gamesou - draws Lighthouse
+gamesou - discards Chapel
+gamesou - discards Silver
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays 1 Silver
+gamesou - buys Goons
+gamesou - receives 1 victory point chips
+gamesou - gains Goons
+gamesou - buys Peddler
+gamesou - receives 1 victory point chips
+gamesou - gains Peddler
+gamesou - shuffles deck
+gamesou - draws Peddler, Chapel, Peddler, Inn, Goons
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Inn
+Stef - draws Peddler, Goons
+Stef - discards Potion
+Stef - discards Remake
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Remake
+Stef - plays Peddler
+Stef - draws Potion
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - plays Remake
+Stef - trashes Potion
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - buys Peddler
+Stef - receives 1 victory point chips
+Stef - gains Peddler
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Peddler, Peddler, Goons, Peddler
+ 
+---------- gamesou: turn 11 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Goons
+gamesou - plays Peddler
+gamesou - draws Lighthouse
+gamesou - plays Inn
+gamesou - draws Silver, Silver
+gamesou - discards Chapel
+gamesou - discards Silver
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays Goons
+gamesou - plays 1 Silver
+gamesou - buys Peddler
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Peddler
+gamesou - buys Peddler
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Peddler
+gamesou - buys Peddler
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Peddler
+gamesou - shuffles deck
+gamesou - draws Chapel, Lighthouse, Peddler, Goons, Peddler
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Remake
+Stef - plays Peddler
+Stef - draws Goons
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Inn
+Stef - draws Peddler, Peddler
+Stef - discards Remake
+Stef - discards Peddler
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - plays Goons
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - buys Potion
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Potion, Goons, Peddler, Peddler, Goons
+ 
+---------- gamesou: turn 12 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - draws Silver
+gamesou - plays Peddler
+gamesou - draws Inn
+gamesou - plays Inn
+gamesou - draws Peddler, Silver
+gamesou - discards Chapel
+gamesou - discards Silver
+gamesou - plays Peddler
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - draws Goons
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays Goons
+gamesou - plays 1 Silver
+gamesou - buys Province
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Province
+gamesou - buys Potion
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Potion
+gamesou - shuffles deck
+gamesou - draws Peddler, Peddler, Silver, Peddler, Chapel
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Peddler
+Stef - draws Remake
+Stef - plays Inn
+Stef - draws Peddler, Goons
+Stef - discards Remake
+Stef - discards Goons
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - plays Goons
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Vineyard
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Lighthouse
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Lighthouse
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Potion, Lighthouse, Remake, Lighthouse
+ 
+---------- gamesou: turn 13 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Potion
+gamesou - plays Peddler
+gamesou - draws Inn
+gamesou - plays Peddler
+gamesou - draws Goons
+gamesou - plays Inn
+gamesou - draws Peddler, Silver
+gamesou - discards Chapel
+gamesou - discards Silver
+gamesou - plays Peddler
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - draws Lighthouse
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays 1 Potion, 1 Silver
+gamesou - buys Vineyard
+gamesou - receives 1 victory point chips
+gamesou - gains Vineyard
+gamesou - buys Goons
+gamesou - receives 1 victory point chips
+gamesou - gains Goons
+gamesou - draws Province, Goons
+gamesou - shuffles deck
+gamesou - draws Silver, Silver, Peddler
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Inn
+Stef - draws Peddler, Peddler
+Stef - discards Remake
+Stef - discards Lighthouse
+Stef - plays Peddler
+Stef - draws Goons
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Goons, Vineyard
+Stef - discards Vineyard
+Stef - discards Goons
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - receives 1 victory point chips
+Stef - gains Vineyard
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Goons, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Province, Goons, Goons, Peddler, Inn
+ 
+---------- gamesou: turn 14 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - draws Vineyard
+gamesou - plays Goons
+gamesou - plays 2 Silver
+gamesou - buys Lighthouse
+gamesou - receives 1 victory point chips
+gamesou - gains Lighthouse
+gamesou - buys Inn
+gamesou - receives 1 victory point chips
+gamesou - gains Inn
+gamesou - shuffles deck
+gamesou - draws Potion, Peddler, Lighthouse, Chapel, Goons
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - shuffles deck
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Inn
+Stef - draws Peddler, Remake
+Stef - discards Province
+Stef - discards Remake
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Goons, Inn
+Stef - discards Inn
+Stef - discards Lighthouse
+Stef - plays Goons
+gamesou - discards Peddler
+gamesou - discards Chapel
+Stef - plays Goons
+Stef - plays Goons
+Stef - buys Lighthouse
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Lighthouse
+Stef - buys Lighthouse
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Lighthouse
+Stef - buys Lighthouse
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Lighthouse
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Lighthouse, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Vineyard, Vineyard, Potion, Lighthouse, Peddler
+ 
+---------- gamesou: turn 15 ----------
+gamesou - plays Lighthouse
+gamesou - plays Goons
+Stef - discards Vineyard
+Stef - discards Vineyard
+gamesou - plays 1 Potion
+gamesou - buys Lighthouse
+gamesou - receives 1 victory point chips
+gamesou - gains Lighthouse
+gamesou - buys Vineyard
+gamesou - receives 1 victory point chips
+gamesou - gains Vineyard
+gamesou - draws Goons, Peddler, Inn, Peddler
+gamesou - shuffles deck
+gamesou - draws Peddler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Lighthouse
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Lighthouse
+Stef - shuffles deck
+Stef - draws Peddler, Lighthouse, Peddler, Vineyard
+ 
+---------- gamesou: turn 16 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Lighthouse
+gamesou - plays Peddler
+gamesou - draws Province
+gamesou - plays Peddler
+gamesou - draws Silver
+gamesou - plays Inn
+gamesou - draws Peddler, Chapel
+gamesou - discards Province
+gamesou - discards Chapel
+gamesou - plays Peddler
+gamesou - draws Silver
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays 2 Silver
+gamesou - buys Province
+gamesou - receives 1 victory point chips
+gamesou - gains Province
+gamesou - buys Potion
+gamesou - receives 1 victory point chips
+gamesou - gains Potion
+gamesou - draws Inn, Peddler, Potion, Lighthouse, Vineyard
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Vineyard
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Goons
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Peddler, Province, Remake, Potion, Lighthouse
+ 
+---------- gamesou: turn 17 ----------
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Vineyard
+gamesou - plays Inn
+gamesou - draws Goons, Lighthouse
+gamesou - discards Vineyard
+gamesou - discards Vineyard
+gamesou - plays Lighthouse
+gamesou - plays Lighthouse
+gamesou - plays Goons
+gamesou - plays 1 Potion
+gamesou - buys Vineyard
+gamesou - receives 1 victory point chips
+gamesou - gains Vineyard
+gamesou - buys Inn
+gamesou - receives 1 victory point chips
+gamesou - gains Inn
+gamesou - places Peddler, Peddler, Peddler, Peddler, Goons, Inn, Lighthouse on top of deck
+gamesou - shuffles deck
+gamesou - draws Lighthouse, Peddler, Peddler, Inn, Peddler
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Goons, Inn
+Stef - discards Province
+Stef - discards Remake
+Stef - plays Inn
+Stef - draws Inn, Inn
+Stef - discards Inn
+Stef - discards Inn
+Stef - plays Lighthouse
+Stef - plays Goons
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - receives 1 victory point chips
+Stef - gains Vineyard
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Peddler, Peddler, Peddler, Goons, Inn, Inn, Lighthouse on top of deck
+Stef - shuffles deck
+Stef - draws Peddler, Goons, Goons, Inn, Vineyard
+ 
+---------- gamesou: turn 18 ----------
+gamesou - duration Lighthouse
+gamesou - duration Lighthouse
+gamesou - plays Peddler
+gamesou - draws Goons
+gamesou - plays Peddler
+gamesou - draws Goons
+gamesou - plays Peddler
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - shuffles deck
+gamesou - draws Peddler
+gamesou - plays Peddler
+gamesou - draws Province
+gamesou - plays Inn
+gamesou - draws Vineyard, Inn
+gamesou - discards Province
+gamesou - discards Vineyard
+gamesou - plays Inn
+gamesou - draws Inn, Goons
+gamesou - discards Inn
+gamesou - discards Lighthouse
+gamesou - plays Goons
+gamesou - plays Goons
+gamesou - plays Goons
+gamesou - buys Province
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Province
+gamesou - buys Duchy
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Duchy
+gamesou - buys Copper
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Copper
+gamesou - buys Copper
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - receives 1 victory point chips
+gamesou - gains Copper
+gamesou - draws Potion, Province, Vineyard, Lighthouse, Potion
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Lighthouse
+Stef - plays Peddler
+Stef - draws Inn
+Stef - plays Inn
+Stef - draws Lighthouse, Peddler
+Stef - discards Vineyard
+Stef - discards Lighthouse
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Lighthouse
+Stef - plays Inn
+Stef - draws Lighthouse, Peddler
+Stef - discards Peddler
+Stef - discards Lighthouse
+Stef - plays Lighthouse
+Stef - plays Goons
+gamesou - discards Vineyard
+gamesou - discards Province
+Stef - plays Goons
+Stef - buys Chapel
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Chapel
+Stef - buys Chapel
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Chapel
+Stef - buys Inn
+Stef - receives 1 victory point chips
+Stef - receives 1 victory point chips
+Stef - gains Inn
+Stef - places Inn, Peddler, Goons, Peddler, Lighthouse on top of deck
+Stef - shuffles deck
+Stef - draws Peddler, Lighthouse, Goons, Inn, Peddler
+ 
+---------- gamesou: turn 19 ----------
+gamesou - plays Lighthouse
+gamesou - plays 2 Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Vineyard, Silver, Silver, Chapel
+gamesou - shuffles deck
+gamesou - draws Inn
+ 
+------------ Game Over ------------
+Stef - cards: 6 Lighthouse, 6 Inn, 5 Peddler, 3 Goons, 2 Chapel, 1 Remake, 1 Copper, 1 Potion, 4 Vineyard, 2 Province
+Stef - victory point chips: 38
+Stef - total victory points: 78
+Stef - turns: 19
+ 
+gamesou - cards: 5 Peddler, 4 Lighthouse, 3 Inn, 3 Goons, 1 Chapel, 2 Silver, 2 Potion, 2 Copper, 4 Vineyard, 3 Province, 1 Duchy
+gamesou - victory point chips: 36
+gamesou - total victory points: 77
+gamesou - turns: 19
+ 
+1st place: Stef
+2nd place: gamesou
+ 

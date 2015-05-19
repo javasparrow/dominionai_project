@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Lighthouse, Hermit, Steward, Swindler, Woodcutter, Workshop, Cache, Market, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Gherald - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+Gherald - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Hermit
+Gherald - gains Hermit
+Gherald - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Market, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Steward
+Gherald - gains Steward
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Market
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Lighthouse, Copper, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 4 Copper
+Gherald - buys Lighthouse
+Gherald - gains Lighthouse
+Gherald - draws Hermit, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Hermit, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays Hermit
+Gherald - trashes Estate
+Gherald - gains Lighthouse
+Gherald - plays 3 Copper
+Gherald - buys Lighthouse
+Gherald - gains Lighthouse
+Gherald - draws Steward, Estate
+Gherald - shuffles deck
+Gherald - draws Estate, Lighthouse, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Lighthouse
+Stef - plays Hermit
+Stef - gains Lighthouse
+Stef - plays 4 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Estate, Copper, Market, Estate, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Lighthouse
+Gherald - plays Steward
+Gherald - trashes Estate, Estate
+Gherald - plays 1 Copper
+Gherald - buys Lighthouse
+Gherald - gains Lighthouse
+Gherald - draws Hermit, Lighthouse, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Market
+Stef - draws Estate
+Stef - plays 2 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Steward, Copper
+Stef - shuffles deck
+Stef - draws Lighthouse, Estate, Estate
+ 
+---------- Gherald: turn 6 ----------
+Gherald - duration Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Hermit
+Gherald - gains Steward
+Gherald - plays 3 Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Lighthouse, Copper, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Lighthouse
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - draws Lighthouse, Hermit, Steward, Copper, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - duration Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays 4 Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Copper, Lighthouse, Copper, Steward, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws Copper, Market, Estate, Copper, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - duration Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Steward
+Gherald - trashes Copper, Copper
+Gherald - plays Copper
+Gherald - buys Steward
+Gherald - gains Steward
+Gherald - draws Steward, Market, Lighthouse, Hermit
+Gherald - shuffles deck
+Gherald - draws Steward
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Lighthouse
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Estate, King's Court, Market, Lighthouse, Lighthouse
+ 
+---------- Gherald: turn 9 ----------
+Gherald - duration Lighthouse
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Lighthouse
+Gherald - plays Hermit
+Gherald - gains Crossroads
+Gherald - plays Copper
+Gherald - buys Lighthouse
+Gherald - gains Lighthouse
+Gherald - buys Crossroads
+Gherald - gains Crossroads
+Gherald - draws Copper, Lighthouse, Copper, Copper, Market
+ 
+---------- Stef: turn 10 ----------
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Steward
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Steward
+Stef - draws Copper, Copper
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays 4 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Steward, Estate, Market, Hermit
+Stef - shuffles deck
+Stef - draws King's Court
+ 
+---------- Gherald: turn 10 ----------
+Gherald - duration Lighthouse
+Gherald - plays Market
+Gherald - draws Steward
+Gherald - plays Lighthouse
+Gherald - plays Steward
+Gherald - takes 2 coins
+Gherald - plays 3 Copper
+Gherald - buys King's Court
+Gherald - gains King's Court
+Gherald - draws Lighthouse, Copper
+Gherald - shuffles deck
+Gherald - draws Steward, Copper, Market
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Steward
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Steward
+Stef - draws Copper, King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Steward
+Stef - plays 2 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws Steward, Steward, Market, Hermit, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - duration Lighthouse
+Gherald - plays Market
+Gherald - draws Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Steward
+Gherald - takes 2 coins
+Gherald - plays 2 Copper
+Gherald - buys King's Court
+Gherald - gains King's Court
+Gherald - draws Lighthouse, Copper, Steward, Steward, Hermit
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws King's Court, Lighthouse, Market, Steward, Steward
+ 
+---------- Gherald: turn 12 ----------
+Gherald - duration Lighthouse
+Gherald - duration Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Steward
+Gherald - takes 2 coins
+Gherald - plays Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Market, King's Court, Crossroads, Lighthouse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Lighthouse
+Stef - plays King's Court
+Stef - plays Steward
+Stef - draws King's Court
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Steward
+Stef - draws Hermit, Market
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Hermit
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Steward
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Market
+Stef - plays Lighthouse
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws King's Court, Steward, Steward, King's Court, Silver
+ 
+---------- Gherald: turn 13 ----------
+Gherald - duration Lighthouse
+Gherald - plays King's Court
+Gherald - plays Market
+Gherald - draws Crossroads
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Market
+Gherald - shuffles deck
+Gherald - draws Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays Lighthouse
+Gherald - plays 2 Copper
+Gherald - buys King's Court
+Gherald - gains King's Court
+Gherald - draws Lighthouse, Copper, King's Court, Market, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Steward
+Stef - draws Steward, Market
+Stef - plays Steward
+Stef - draws King's Court, Market
+Stef - plays Steward
+Stef - draws King's Court, Steward
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Hermit
+Stef - plays Market
+Stef - draws Lighthouse
+Stef - plays King's Court
+Stef - plays Hermit
+Stef - gains Hermit
+Stef - plays Hermit
+Stef - gains Steward
+Stef - plays Hermit
+Stef - gains Steward
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Steward
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Market
+Stef - draws Steward
+Stef - plays King's Court
+Stef - plays Steward
+Stef - draws Hermit
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays King's Court
+Stef - plays Hermit
+Stef - gains Lighthouse
+Stef - plays Hermit
+Stef - gains Lighthouse
+Stef - plays Hermit
+Stef - gains Lighthouse
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays King's Court
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays King's Court
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Steward, Market, Hermit, Silver, King's Court
+ 
+------------ Game Over ------------
+Stef - cards: 7 Steward, 7 King's Court, 5 Lighthouse, 2 Market, 2 Hermit, 1 Silver, 1 Colony, 1 Province
+Stef - total victory points: 16
+Stef - turns: 14
+ 
+Gherald - cards: 5 Lighthouse, 3 King's Court, 3 Market, 3 Steward, 2 Crossroads, 1 Hermit, 5 Copper
+Gherald - total victory points: 0
+Gherald - turns: 13
+ 
+1st place: Stef
+2nd place: Gherald
+ 

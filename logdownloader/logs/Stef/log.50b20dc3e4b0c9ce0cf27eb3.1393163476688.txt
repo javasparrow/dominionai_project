@@ -1,0 +1,647 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Urchin, Bridge, Feast, Duke, Highway, Laboratory, Library, Trading Post, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Monsieur X - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+Monsieur X - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Urchin
+Monsieur X - gains Urchin
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Bridge
+Monsieur X - gains Bridge
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Urchin
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Estate, Copper, Copper, Wharf, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Urchin
+Monsieur X - draws Copper
+Stef - discards Estate
+Monsieur X - plays 4 Copper
+Monsieur X - buys Urchin
+Monsieur X - gains Urchin
+Monsieur X - draws Estate, Estate, Bridge, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wharf
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 4 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Estate, Urchin, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Bridge
+Monsieur X - plays 2 Copper
+Monsieur X - buys Urchin
+Monsieur X - gains Urchin
+Monsieur X - buys Vagrant
+Monsieur X - gains Vagrant
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Urchin, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Wharf
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Urchin
+Stef - draws Copper
+Monsieur X - discards Estate
+Stef - plays 4 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Copper, Urchin, Copper, Copper
+Stef - shuffles deck
+Stef - draws Urchin
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Urchin
+Monsieur X - draws Bridge
+Stef - discards Copper
+Monsieur X - plays Bridge
+Monsieur X - plays 3 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Copper, Estate, Copper, Copper, Urchin
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Urchin
+Stef - draws Urchin
+Monsieur X - discards Estate
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Copper
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Estate, Wharf
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Urchin
+Monsieur X - draws Urchin
+Stef - discards Estate
+Monsieur X - plays Urchin
+Monsieur X - trashes Urchin
+Monsieur X - gains Mercenary
+Monsieur X - draws Vagrant
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Mercenary, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wharf
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Urchin
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Mercenary, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Mercenary
+Monsieur X - trashes Estate, Copper
+Monsieur X - draws Estate, Laboratory
+Stef - discards Copper
+Stef - discards Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Feast
+Monsieur X - gains Feast
+Monsieur X - draws Copper, Silver, Estate, Urchin, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Wharf
+Stef - draws Silver, Copper
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Mercenary, Estate
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Wharf, Copper, Copper, Laboratory, Mercenary
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Urchin
+Monsieur X - draws Bridge
+Stef - discards Wharf
+Monsieur X - plays Bridge
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Highway
+Monsieur X - gains Highway
+Monsieur X - draws Vagrant, Copper, Copper, Urchin
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Estate
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Copper, Copper
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Stef - plays 4 Copper
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Estate, Urchin, Silver, Copper, Mercenary
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Urchin
+Monsieur X - draws Copper
+Stef - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Vagrant
+Monsieur X - gains Vagrant
+Monsieur X - draws Estate, Mercenary, Highway, Copper, Bridge
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Urchin
+Stef - draws Vagrant
+Monsieur X - discards Bridge
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Mercenary
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Mercenary
+Stef - trashes Mercenary, Estate
+Stef - draws Copper, Copper
+Monsieur X - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Laboratory, Wharf, Copper, Copper, Highway
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Highway
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Silver, Feast
+Monsieur X - plays Mercenary
+Monsieur X - trashes Estate, Feast
+Monsieur X - draws Urchin, Copper
+Stef - discards Copper
+Stef - discards Copper
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Highway
+Monsieur X - gains Highway
+Monsieur X - shuffles deck
+Monsieur X - draws Vagrant, Silver, Bridge, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Highway
+Stef - draws Urchin
+Stef - plays Urchin
+Stef - draws Vagrant
+Monsieur X - discards Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Wharf
+Stef - draws Copper, Mercenary
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Highway, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays Bridge
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Highway
+Monsieur X - gains Highway
+Monsieur X - buys Vagrant
+Monsieur X - gains Vagrant
+Monsieur X - draws Vagrant, Laboratory, Highway, Copper, Urchin
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Wharf
+Stef - draws Silver, Urchin
+Stef - plays Urchin
+Stef - draws Mercenary
+Monsieur X - discards Copper
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Highway
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Laboratory
+Stef - places Laboratory on top of deck
+Stef - plays Mercenary
+Stef - trashes Copper, Copper
+Stef - draws Laboratory, Highway
+Monsieur X - discards Urchin
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - shuffles deck
+Stef - draws Highway, Urchin, Copper, Laboratory, Vagrant
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Highway
+Monsieur X - places Highway on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Highway, Mercenary
+Monsieur X - plays Highway
+Monsieur X - draws Urchin
+Monsieur X - plays Highway
+Monsieur X - draws Copper
+Monsieur X - plays Urchin
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Stef - discards Copper
+Monsieur X - plays Mercenary
+Monsieur X - trashes Copper, Copper
+Monsieur X - draws Estate, Copper
+Stef - discards Vagrant
+Monsieur X - plays 2 Copper
+Monsieur X - buys Highway
+Monsieur X - gains Highway
+Monsieur X - draws Copper, Bridge, Vagrant, Vagrant, Urchin
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Urchin
+Stef - draws Copper
+Monsieur X - discards Copper
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Laboratory
+Stef - draws Highway, Vagrant
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Mercenary
+Stef - places Mercenary on top of deck
+Stef - plays Highway
+Stef - draws Mercenary
+Stef - plays Mercenary
+Stef - trashes Copper, Copper
+Stef - draws Wharf
+Stef - shuffles deck
+Stef - draws Copper
+Monsieur X - discards Urchin
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Highway, Wharf, Highway
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Highway
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Silver
+Monsieur X - places Silver on top of deck
+Monsieur X - plays Highway
+Monsieur X - draws Silver
+Monsieur X - plays Bridge
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Vagrant
+Monsieur X - gains Vagrant
+Monsieur X - shuffles deck
+Monsieur X - draws Mercenary, Bridge, Urchin, Vagrant, Highway
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Highway
+Stef - places Highway on top of deck
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Highway
+Stef - draws Urchin
+Stef - plays Laboratory
+Stef - draws Highway, Highway
+Stef - plays Highway
+Stef - draws Mercenary
+Stef - plays Highway
+Stef - plays Urchin
+Monsieur X - discards Mercenary
+Stef - plays Wharf
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Urchin, Copper, Silver, Laboratory, Highway
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Highway
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Highway
+Monsieur X - draws Copper
+Monsieur X - plays Urchin
+Monsieur X - draws Copper
+Stef - discards Copper
+Monsieur X - plays Highway
+Monsieur X - draws Silver
+Monsieur X - plays Bridge
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Copper, Highway, Highway, Copper, Vagrant
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Wharf
+Stef - draws Highway, Highway
+Stef - plays Laboratory
+Stef - draws Vagrant, Highway
+Stef - plays Highway
+Stef - draws Vagrant
+Stef - plays Highway
+Stef - draws Mercenary
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Wharf
+Stef - plays Highway
+Stef - draws Gold
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Urchin
+Monsieur X - discards Copper
+Stef - plays Wharf
+Stef - plays 1 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - shuffles deck
+Stef - draws Wharf, Gold, Laboratory, Vagrant, Highway
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Highway
+Monsieur X - draws Laboratory
+Monsieur X - plays Vagrant
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays Vagrant
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Laboratory
+Monsieur X - places Laboratory on top of deck
+Monsieur X - plays Vagrant
+Monsieur X - draws Laboratory
+Monsieur X - reveals: Urchin
+Monsieur X - places Urchin on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Urchin
+Monsieur X - shuffles deck
+Monsieur X - draws Highway
+Monsieur X - plays Laboratory
+Monsieur X - draws Mercenary, Laboratory
+Monsieur X - plays Urchin
+Monsieur X - draws Copper
+Stef - discards Gold
+Monsieur X - plays Highway
+Monsieur X - draws Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Highway
+Monsieur X - plays Highway
+Monsieur X - draws Urchin
+Monsieur X - plays Laboratory
+Monsieur X - draws Vagrant, Bridge
+Monsieur X - plays Highway
+Monsieur X - draws Copper
+Monsieur X - plays Urchin
+Monsieur X - draws Silver
+Monsieur X - plays Mercenary
+Monsieur X - trashes Estate, Copper
+Stef - discards Vagrant
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Vagrant, Laboratory, Vagrant, Copper, Vagrant
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Wharf
+Stef - draws Silver, Province
+Stef - plays Laboratory
+Stef - draws Highway, Urchin
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Laboratory
+Stef - plays Highway
+Stef - draws Laboratory
+Stef - plays Laboratory
+Stef - draws Highway, Vagrant
+Stef - plays Laboratory
+Stef - draws Mercenary, Highway
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Highway
+Stef - draws Gold
+Stef - plays Urchin
+Monsieur X - discards Copper
+Stef - plays Wharf
+Stef - plays 1 Silver, 1 Copper, 1 Gold
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Highway, Laboratory, Laboratory, Copper, Highway
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Urchin
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Laboratory
+Monsieur X - places Laboratory on top of deck
+Monsieur X - plays Vagrant
+Monsieur X - draws Laboratory
+Monsieur X - reveals: Mercenary
+Monsieur X - places Mercenary on top of deck
+Monsieur X - plays Laboratory
+Monsieur X - draws Mercenary, Urchin
+Monsieur X - plays Urchin
+Monsieur X - draws Laboratory
+Stef - discards Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Highway, Copper
+Monsieur X - plays Highway
+Monsieur X - draws Silver
+Monsieur X - plays Urchin
+Monsieur X - draws Province
+Monsieur X - plays Laboratory
+Monsieur X - draws Bridge, Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Highway, Vagrant
+Monsieur X - plays Vagrant
+Monsieur X - draws Highway
+Monsieur X - reveals: Highway
+Monsieur X - places Highway on top of deck
+Monsieur X - plays Highway
+Monsieur X - draws Highway
+Monsieur X - plays Highway
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Monsieur X - plays Highway
+Monsieur X - plays Bridge
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Laboratory, Highway, Province, Vagrant, Urchin
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Wharf
+Stef - draws Province, Vagrant
+Stef - plays Laboratory
+Stef - draws Gold, Province
+Stef - plays Laboratory
+Stef - draws Highway, Vagrant
+Stef - plays Highway
+Stef - draws Laboratory
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Laboratory
+Stef - plays Highway
+Stef - draws Province
+Stef - plays Laboratory
+Stef - draws Urchin, Silver
+Stef - plays Laboratory
+Stef - draws Mercenary, Highway
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Wharf
+Stef - plays Urchin
+Stef - shuffles deck
+Stef - draws Copper
+Monsieur X - discards Province
+Stef - plays Wharf
+Stef - plays 1 Gold, 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Laboratory, Mercenary, Urchin, Silver, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 6 Highway, 4 Laboratory, 2 Vagrant, 2 Wharf, 1 Mercenary, 1 Urchin, 1 Silver, 1 Copper, 1 Gold, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 17
+ 
+Monsieur X - cards: 4 Laboratory, 4 Highway, 4 Vagrant, 2 Urchin, 1 Mercenary, 1 Bridge, 3 Copper, 1 Silver, 3 Province
+Monsieur X - total victory points: 18
+Monsieur X - turns: 16
+ 
+1st place: Stef
+2nd place: Monsieur X
+ 

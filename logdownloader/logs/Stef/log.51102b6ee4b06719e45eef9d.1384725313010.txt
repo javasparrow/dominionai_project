@@ -1,0 +1,538 @@
+------------ Game Setup ------------
+Supply cards: Develop, Menagerie, Swindler, Feodum, Moneylender, Silk Road, Treasure Map, Laboratory, Grand Market, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Copper, Copper, Copper, Estate, Estate
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Swindler
+yed - gains Swindler
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Moneylender
+yed - gains Moneylender
+yed - shuffles deck
+yed - draws Copper, Copper, Estate, Estate, Moneylender
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Develop
+Stef - gains Develop
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Moneylender, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper
+yed - buys Develop
+yed - gains Develop
+yed - draws Copper, Copper, Copper, Swindler, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Develop, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+yed - plays 4 Copper
+yed - buys Gold
+yed - gains Gold
+yed - draws Estate, Copper
+yed - shuffles deck
+yed - draws Swindler, Copper, Gold
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Silver, Menagerie, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+yed - plays 2 Copper, 1 Gold
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Copper, Estate, Moneylender, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Copper, Silver, Estate
+Stef - draws Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Estate, Copper, Moneylender, Develop, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper
+yed - buys Menagerie
+yed - gains Menagerie
+yed - draws Copper, Copper, Develop
+yed - shuffles deck
+yed - draws Copper, Swindler
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Develop
+Stef - trashes Moneylender
+Stef - gains Laboratory
+Stef - gains Menagerie
+Stef - draws Menagerie, Laboratory, Copper
+Stef - shuffles deck
+Stef - draws Menagerie, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Swindler
+Stef - reveals Estate
+Stef - trashes Estate
+Stef - gains Estate
+yed - plays 3 Copper
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Gold, Menagerie, Copper, Estate, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Silver
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Copper, Copper, Copper, Silver
+Stef - draws Silver
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Copper, Copper, Copper, Silver
+Stef - draws Curse
+Stef - plays 3 Copper, 2 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Estate, Develop, Copper, Laboratory, Curse
+ 
+---------- yed: turn 8 ----------
+yed - plays Menagerie
+yed - reveals hand: Gold, Copper, Estate, Estate
+yed - draws Moneylender
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Gold
+yed - buys Grand Market
+yed - gains Grand Market
+yed - draws Laboratory, Copper, Estate
+yed - shuffles deck
+yed - draws Grand Market, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Silver, Silver
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Swindler
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Swindler, Menagerie, King's Court, Menagerie, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Laboratory
+yed - draws Gold, Laboratory
+yed - plays Grand Market
+yed - draws Estate
+yed - plays Laboratory
+yed - draws Moneylender, Swindler
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Gold
+yed - plays Copper
+yed - buys King's Court
+yed - gains King's Court
+yed - draws Copper, Menagerie, Estate, Copper, Develop
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Swindler, Menagerie, King's Court, Copper
+Stef - draws Copper, Curse, Estate
+Stef - plays King's Court
+Stef - plays Swindler
+yed - shuffles deck
+yed - reveals Grand Market
+yed - trashes Grand Market
+yed - gains Gold
+Stef - plays Swindler
+yed - reveals Swindler
+yed - trashes Swindler
+yed - gains Silver
+Stef - plays Swindler
+yed - reveals Moneylender
+yed - trashes Moneylender
+yed - gains Feodum
+Stef - plays Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Copper, Laboratory
+Stef - shuffles deck
+Stef - draws Silver, King's Court, Laboratory
+ 
+---------- yed: turn 10 ----------
+yed - plays Menagerie
+yed - reveals hand: Copper, Estate, Copper, Develop
+yed - draws King's Court
+yed - plays King's Court
+yed - plays Develop
+yed - trashes Estate
+yed - gains Swindler
+yed - plays Develop
+yed - trashes Copper
+yed - plays Develop
+yed - trashes Copper
+yed - draws Swindler, Estate, Gold, Laboratory, Laboratory
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Laboratory
+Stef - draws Menagerie, Silver
+Stef - plays King's Court
+Stef - plays Laboratory
+Stef - draws King's Court, Copper
+Stef - plays Laboratory
+Stef - draws Laboratory, Swindler
+Stef - plays Laboratory
+Stef - draws Copper, Copper
+Stef - plays Laboratory
+Stef - draws Menagerie, Curse
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Silver, Menagerie, Silver, King's Court, Copper, Swindler, Copper, Copper, Curse
+Stef - draws Develop
+Stef - plays Menagerie
+Stef - reveals hand: Develop, Copper, Silver, Silver, King's Court, Copper, Swindler, Copper, Copper, Curse
+Stef - draws Curse
+Stef - plays King's Court
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays Develop
+Stef - trashes Curse
+Stef - plays Swindler
+yed - reveals Copper
+yed - trashes Copper
+yed - gains Curse
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Silver, Laboratory, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Laboratory
+yed - draws Estate
+yed - shuffles deck
+yed - draws Silver
+yed - plays Laboratory
+yed - draws Feodum, Develop
+yed - plays Swindler
+Stef - reveals Develop
+Stef - trashes Develop
+Stef - gains Silver
+yed - plays 1 Gold, 1 Silver
+yed - buys King's Court
+yed - gains King's Court
+yed - draws Gold, Menagerie, Curse, King's Court
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Silver, King's Court
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Develop
+Stef - gains Develop
+Stef - draws Menagerie, Swindler, Grand Market, Laboratory, Curse
+ 
+---------- yed: turn 12 ----------
+yed - plays Menagerie
+yed - reveals hand: Gold, Curse, King's Court, Silver
+yed - draws Gold, Laboratory, Estate
+yed - plays Laboratory
+yed - draws Develop, Swindler
+yed - plays King's Court
+yed - plays Develop
+yed - trashes Gold
+yed - gains King's Court
+yed - gains Laboratory
+yed - plays Develop
+yed - trashes Gold
+yed - gains King's Court
+yed - gains Laboratory
+yed - plays Develop
+yed - trashes Curse
+yed - draws Laboratory, King's Court, Laboratory, King's Court, Laboratory
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Swindler, Grand Market, Laboratory, Curse
+Stef - draws King's Court, Menagerie, Laboratory
+Stef - plays Laboratory
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays King's Court
+Stef - plays Laboratory
+Stef - draws Silver, Estate
+Stef - plays Laboratory
+Stef - draws Silver, Develop
+Stef - plays Laboratory
+Stef - draws Silver, King's Court
+Stef - plays Develop
+Stef - trashes Estate
+Stef - gains Develop
+Stef - plays Grand Market
+Stef - draws Develop
+Stef - plays Menagerie
+Stef - reveals hand: Swindler, Curse, Copper, Copper, Silver, Silver, Silver, King's Court, Develop
+Stef - draws Laboratory
+Stef - plays Develop
+Stef - trashes Copper
+Stef - plays King's Court
+Stef - plays Swindler
+yed - reveals Estate
+yed - trashes Estate
+yed - gains Estate
+Stef - plays Swindler
+yed - reveals King's Court
+yed - trashes King's Court
+yed - gains King's Court
+Stef - plays Swindler
+yed - reveals Feodum
+yed - trashes Feodum
+yed - gains Silver
+yed - gains Silver
+yed - gains Silver
+yed - gains Feodum
+Stef - plays 3 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws King's Court, Grand Market, Laboratory, King's Court, Silver
+ 
+---------- yed: turn 13 ----------
+yed - plays King's Court
+yed - plays King's Court
+yed - plays Laboratory
+yed - shuffles deck
+yed - draws Estate, Silver
+yed - plays Laboratory
+yed - draws Silver, Swindler
+yed - plays Laboratory
+yed - draws Menagerie, King's Court
+yed - plays King's Court
+yed - plays King's Court
+yed - plays Laboratory
+yed - draws King's Court, Estate
+yed - plays Laboratory
+yed - draws Silver, Feodum
+yed - plays Laboratory
+yed - draws Silver, Develop
+yed - plays King's Court
+yed - plays King's Court
+yed - plays Develop
+yed - trashes Laboratory
+yed - gains Grand Market
+yed - gains Moneylender
+yed - plays Develop
+yed - trashes Estate
+yed - gains Menagerie
+yed - plays Develop
+yed - trashes Estate
+yed - gains Menagerie
+yed - plays King's Court
+yed - plays Menagerie
+yed - reveals hand: Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - draws Menagerie
+yed - plays Menagerie
+yed - reveals hand: Menagerie, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - draws Menagerie
+yed - plays Menagerie
+yed - reveals hand: Menagerie, Menagerie, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - draws Moneylender
+yed - plays King's Court
+yed - plays Menagerie
+yed - reveals hand: Moneylender, Menagerie, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - draws Grand Market
+yed - plays Menagerie
+yed - reveals hand: Grand Market, Moneylender, Menagerie, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - draws Laboratory
+yed - plays Menagerie
+yed - reveals hand: Laboratory, Grand Market, Moneylender, Menagerie, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - plays King's Court
+yed - plays Grand Market
+yed - plays Grand Market
+yed - plays Grand Market
+yed - plays King's Court
+yed - plays Laboratory
+yed - plays Laboratory
+yed - plays Laboratory
+yed - plays Menagerie
+yed - reveals hand: Moneylender, Silver, Silver, Swindler, Silver, Feodum, Silver
+yed - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Silver
+yed - plays 4 Silver
+yed - buys King's Court
+yed - gains King's Court
+yed - buys Grand Market
+yed - gains Grand Market
+yed - buys Develop
+yed - gains Develop
+yed - shuffles deck
+yed - draws King's Court, King's Court, Menagerie, Develop, Laboratory
+ 
+---------- Stef: turn 13 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Grand Market
+Stef - draws Laboratory
+Stef - plays Grand Market
+Stef - draws King's Court
+Stef - plays Grand Market
+Stef - draws Develop
+Stef - plays King's Court
+Stef - plays Laboratory
+Stef - draws Silver, Swindler
+Stef - plays Laboratory
+Stef - draws Copper, Develop
+Stef - plays Laboratory
+Stef - draws Menagerie, Laboratory
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Develop
+Stef - trashes Silver
+Stef - gains Silk Road
+Stef - gains Estate
+Stef - plays Develop
+Stef - trashes Laboratory
+Stef - gains Grand Market
+Stef - gains Feodum
+Stef - plays Develop
+Stef - trashes Laboratory
+Stef - gains Gold
+Stef - gains Treasure Map
+Stef - plays King's Court
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Develop, Swindler, Copper
+Stef - draws Treasure Map, Gold, Feodum
+Stef - plays Menagerie
+Stef - reveals hand: Treasure Map, Gold, Feodum, Silver, Develop, Swindler, Copper
+Stef - draws Grand Market, Estate, Silk Road
+Stef - plays Menagerie
+Stef - reveals hand: Grand Market, Estate, Silk Road, Treasure Map, Gold, Feodum, Silver, Develop, Swindler, Copper
+Stef - draws Curse, Menagerie, King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Develop
+Stef - trashes Treasure Map
+Stef - gains Laboratory
+Stef - gains Menagerie
+Stef - plays Develop
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Laboratory
+Stef - gains Menagerie
+Stef - plays Develop
+Stef - trashes Silk Road
+Stef - gains Laboratory
+Stef - gains Menagerie
+Stef - plays King's Court
+Stef - plays Grand Market
+Stef - draws Menagerie
+Stef - plays Grand Market
+Stef - draws Laboratory
+Stef - plays Grand Market
+Stef - draws Menagerie
+Stef - plays King's Court
+Stef - plays Swindler
+yed - reveals Grand Market
+yed - trashes Grand Market
+yed - gains Gold
+Stef - plays Swindler
+yed - reveals Silver
+yed - trashes Silver
+yed - gains Silver
+Stef - plays Swindler
+yed - reveals Feodum
+yed - trashes Feodum
+yed - gains Silver
+yed - gains Silver
+yed - gains Silver
+yed - gains Moneylender
+Stef - plays Laboratory
+Stef - draws Laboratory, Menagerie
+Stef - plays Laboratory
+Stef - draws Laboratory
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Laboratory
+Stef - draws Silver, Silver
+Stef - plays Menagerie
+Stef - reveals hand: Curse, Menagerie, Estate, Gold, Silver, Copper, Menagerie, Menagerie, Silver, Silver, Silver
+Stef - draws Silver
+Stef - plays 5 Silver, 1 Gold
+Stef - plays Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Estate, Swindler, Silver, Curse, Province
+ 
+------------ Game Over ------------
+Stef - cards: 7 Menagerie, 4 Laboratory, 4 King's Court, 2 Develop, 2 Grand Market, 1 Swindler, 5 Silver, 1 Gold, 1 Copper, 3 Province, 2 Estate, 1 Curse
+Stef - total victory points: 19
+Stef - turns: 13
+ 
+yed - cards: 5 King's Court, 3 Menagerie, 3 Laboratory, 2 Develop, 2 Moneylender, 1 Grand Market, 1 Swindler, 7 Silver, 1 Gold
+yed - total victory points: 0
+yed - turns: 13
+ 
+1st place: Stef
+2nd place: yed
+ 

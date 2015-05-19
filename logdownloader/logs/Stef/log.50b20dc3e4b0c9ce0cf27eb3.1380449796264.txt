@@ -1,0 +1,612 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Shanty Town, Storeroom, Familiar, Caravan, Gardens, Tournament, Royal Seal, Altar, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SM.SM - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Potion, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Storeroom
+SM.SM - gains Storeroom
+SM.SM - shuffles deck
+SM.SM - draws Potion, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - buys Vagrant
+SM.SM - gains Vagrant
+SM.SM - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - draws Estate, Storeroom
+Stef - shuffles deck
+Stef - draws Copper, Familiar, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 5 Copper
+SM.SM - buys Royal Seal
+SM.SM - gains Royal Seal
+SM.SM - draws Estate, Storeroom
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Familiar
+Stef - draws Copper
+SM.SM - gains Curse
+Stef - plays Storeroom
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Shanty Town, Copper, Copper, Estate
+Stef - discards Estate
+Stef - discards Shanty Town
+Stef - discards Copper
+Stef - discards Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Estate, Copper, Copper, Potion
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Storeroom
+SM.SM - discards Estate
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - draws Copper, Copper, Vagrant, Estate
+SM.SM - discards Vagrant
+SM.SM - discards Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Caravan
+SM.SM - gains Caravan
+SM.SM - draws Copper, Copper, Royal Seal, Potion, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Storeroom, Shanty Town, Copper, Familiar, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays 3 Copper, 1 Royal Seal, 1 Potion
+SM.SM - buys Familiar
+SM.SM - gains Familiar
+SM.SM - applied Royal Seal to place Familiar on top of the deck
+SM.SM - draws Familiar
+SM.SM - shuffles deck
+SM.SM - draws Royal Seal, Storeroom, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Familiar
+Stef - draws Copper
+SM.SM - gains Curse
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Shanty Town
+Stef - draws Copper, Estate, Caravan, Estate
+Stef - discards Caravan
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Shanty Town, Caravan, Potion, Familiar, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Familiar
+SM.SM - draws Copper
+Stef - gains Curse
+SM.SM - plays Storeroom
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - draws Estate, Copper, Copper
+SM.SM - discards Estate
+SM.SM - plays 2 Copper, 1 Royal Seal
+SM.SM - buys Shanty Town
+SM.SM - gains Shanty Town
+SM.SM - applied Royal Seal to place Shanty Town on top of the deck
+SM.SM - buys Vagrant
+SM.SM - gains Vagrant
+SM.SM - applied Royal Seal to place Vagrant on top of the deck
+SM.SM - draws Vagrant, Shanty Town, Caravan, Potion, Curse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Caravan
+Stef - draws Storeroom
+Stef - plays Familiar
+Stef - draws Copper
+SM.SM - gains Curse
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Shanty Town
+Stef - discards Potion
+Stef - draws Estate, Estate, Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Familiar, Copper, Caravan
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Vagrant
+SM.SM - draws Estate
+SM.SM - reveals: Estate
+SM.SM - places Estate in hand
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Shanty Town
+SM.SM - reveals Potion, Curse, Estate, Estate, Copper
+SM.SM - draws Vagrant, Copper
+SM.SM - plays Vagrant
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - reveals: Royal Seal
+SM.SM - places Royal Seal on top of deck
+SM.SM - plays 3 Copper, 1 Potion
+SM.SM - buys Familiar
+SM.SM - gains Familiar
+SM.SM - draws Royal Seal, Copper, Estate, Copper, Familiar
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Familiar
+Stef - draws Shanty Town
+SM.SM - gains Curse
+Stef - plays Shanty Town
+Stef - reveals Copper, Copper, Copper, Copper, Copper
+Stef - draws Caravan, Potion
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Familiar, Estate, Curse, Storeroom, Estate
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - duration Caravan
+SM.SM - draws Copper
+SM.SM - plays Familiar
+SM.SM - draws Curse
+Stef - gains Curse
+SM.SM - plays 3 Copper, 1 Royal Seal
+SM.SM - buys Caravan
+SM.SM - gains Caravan
+SM.SM - applied Royal Seal to place Caravan on top of the deck
+SM.SM - draws Caravan, Copper, Curse, Storeroom
+SM.SM - shuffles deck
+SM.SM - draws Shanty Town
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Curse
+SM.SM - gains Curse
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Curse
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Estate
+Stef - draws Copper, Familiar, Caravan, Copper, Copper, Copper
+Stef - discards Caravan
+Stef - discards Familiar
+Stef - plays 4 Copper
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Copper, Potion, Estate, Shanty Town, Caravan
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Caravan
+SM.SM - draws Estate
+SM.SM - plays Shanty Town
+SM.SM - reveals Copper, Curse, Storeroom, Estate
+SM.SM - plays Storeroom
+SM.SM - discards Curse
+SM.SM - discards Copper
+SM.SM - discards Estate
+SM.SM - draws Potion, Curse, Caravan
+SM.SM - discards Curse
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Copper
+SM.SM - buys Vagrant
+SM.SM - gains Vagrant
+SM.SM - draws Familiar, Copper, Copper, Copper, Royal Seal
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Estate
+SM.SM - gains Curse
+Stef - plays Shanty Town
+Stef - reveals Copper, Potion, Estate, Estate
+Stef - draws Copper, Curse
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Goons, Caravan, Copper, Storeroom, Caravan
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Caravan
+SM.SM - draws Curse
+SM.SM - duration Caravan
+SM.SM - draws Curse
+SM.SM - plays Familiar
+SM.SM - draws Familiar
+Stef - gains Curse
+SM.SM - plays Familiar
+SM.SM - draws Vagrant
+Stef - gains Curse
+SM.SM - plays Vagrant
+SM.SM - draws Estate
+SM.SM - reveals: Vagrant
+SM.SM - places Vagrant on top of deck
+SM.SM - plays 3 Copper, 1 Royal Seal
+SM.SM - buys Caravan
+SM.SM - gains Caravan
+SM.SM - applied Royal Seal to place Caravan on top of the deck
+SM.SM - draws Caravan, Vagrant, Copper, Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Goons
+SM.SM - discards Copper
+SM.SM - discards Estate
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - receives 1 victory point chips
+Stef - gains Caravan
+Stef - buys Vagrant
+Stef - receives 1 victory point chips
+Stef - gains Vagrant
+Stef - draws Curse, Familiar, Copper
+Stef - shuffles deck
+Stef - draws Vagrant, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Caravan
+SM.SM - shuffles deck
+SM.SM - draws Familiar
+SM.SM - plays Vagrant
+SM.SM - draws Estate
+SM.SM - reveals: Storeroom
+SM.SM - places Storeroom on top of deck
+SM.SM - plays Familiar
+SM.SM - draws Storeroom
+SM.SM - plays Storeroom
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - draws Potion, Copper
+SM.SM - discards Potion
+SM.SM - plays 1 Copper
+SM.SM - buys Vagrant
+SM.SM - gains Vagrant
+SM.SM - draws Estate, Curse, Estate, Copper, Caravan
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Goons
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Familiar
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Familiar
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Potion
+Stef - plays Goons
+SM.SM - discards Estate
+SM.SM - discards Estate
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Caravan
+Stef - receives 1 victory point chips
+Stef - gains Caravan
+Stef - buys Vagrant
+Stef - receives 1 victory point chips
+Stef - gains Vagrant
+Stef - draws Estate, Copper, Caravan, Copper, Curse
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - duration Caravan
+SM.SM - draws Curse
+SM.SM - plays Caravan
+SM.SM - draws Curse
+SM.SM - buys Copper
+SM.SM - gains Copper
+SM.SM - draws Royal Seal, Familiar, Curse, Caravan, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Storeroom
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Storeroom
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Curse, Vagrant, Curse, Estate, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Vagrant
+Stef - discards Curse
+Stef - discards Curse
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Caravan, Shanty Town
+Stef - shuffles deck
+Stef - draws Familiar, Caravan, Caravan
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - duration Caravan
+SM.SM - draws Copper
+SM.SM - plays Caravan
+SM.SM - draws Shanty Town
+SM.SM - plays Familiar
+SM.SM - draws Copper
+SM.SM - plays Shanty Town
+SM.SM - reveals Royal Seal, Curse, Copper, Copper, Copper
+SM.SM - draws Vagrant, Curse
+SM.SM - plays Vagrant
+SM.SM - draws Vagrant
+SM.SM - reveals: Curse
+SM.SM - places Curse in hand
+SM.SM - plays Vagrant
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - reveals: Curse
+SM.SM - places Curse in hand
+SM.SM - plays 4 Copper, 1 Royal Seal
+SM.SM - buys Goons
+SM.SM - gains Goons
+SM.SM - applied Royal Seal to place Goons on top of the deck
+SM.SM - draws Goons, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Potion
+Stef - plays Caravan
+Stef - draws Vagrant
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Vagrant
+Stef - draws Estate
+Stef - reveals: Storeroom
+Stef - places Storeroom on top of deck
+Stef - plays Shanty Town
+Stef - reveals Estate, Copper, Potion, Curse, Estate
+Stef - draws Storeroom, Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Storeroom
+Stef - discards Curse
+Stef - discards Potion
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - draws Copper, Caravan, Curse, Goons, Familiar, Copper
+Stef - discards Curse
+Stef - discards Familiar
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Goons
+SM.SM - discards Estate
+SM.SM - discards Copper
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - receives 1 victory point chips
+Stef - gains Vagrant
+Stef - buys Caravan
+Stef - receives 1 victory point chips
+Stef - gains Caravan
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Estate, Copper, Vagrant, Curse, Tournament
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - duration Caravan
+SM.SM - draws Vagrant
+SM.SM - plays Vagrant
+SM.SM - draws Vagrant
+SM.SM - reveals: Caravan
+SM.SM - places Caravan on top of deck
+SM.SM - plays Vagrant
+SM.SM - draws Caravan
+SM.SM - reveals: Curse
+SM.SM - places Curse in hand
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Goons
+Stef - discards Curse
+Stef - discards Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Gardens
+SM.SM - receives 1 victory point chips
+SM.SM - gains Gardens
+SM.SM - buys Copper
+SM.SM - receives 1 victory point chips
+SM.SM - gains Copper
+SM.SM - draws Familiar, Storeroom, Potion, Curse, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Curse
+Stef - duration Caravan
+Stef - draws Vagrant
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Caravan
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Curse
+Stef - places Curse in hand
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Tournament
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays 5 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Estate, Vagrant, Copper, Shanty Town, Estate
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - duration Caravan
+SM.SM - draws Estate
+SM.SM - plays Familiar
+SM.SM - shuffles deck
+SM.SM - draws Goons
+SM.SM - plays Goons
+Stef - discards Estate
+Stef - discards Estate
+SM.SM - buys Estate
+SM.SM - receives 1 victory point chips
+SM.SM - gains Estate
+SM.SM - buys Copper
+SM.SM - receives 1 victory point chips
+SM.SM - gains Copper
+SM.SM - draws Shanty Town, Copper, Curse, Caravan, Gardens
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Goons
+Stef - places Goons on top of deck
+Stef - plays Vagrant
+Stef - draws Goons
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Goons
+SM.SM - discards Curse
+SM.SM - discards Gardens
+Stef - plays Copper
+Stef - buys Vagrant
+Stef - receives 1 victory point chips
+Stef - gains Vagrant
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Potion, Copper, Caravan, Familiar, Copper
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Shanty Town
+SM.SM - reveals Copper, Copper
+SM.SM - draws Copper, Curse
+SM.SM - plays 3 Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Familiar, Curse, Vagrant, Copper, Caravan
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Storeroom
+Stef - shuffles deck
+Stef - draws Caravan, Caravan, Caravan, Potion
+ 
+------------ Game Over ------------
+Stef - cards: 7 Caravan, 6 Vagrant, 2 Familiar, 1 Storeroom, 1 Tournament, 1 Shanty Town, 1 Goons, 9 Copper, 1 Potion, 3 Estate, 1 Gardens, 4 Curse
+Stef - victory point chips: 9
+Stef - total victory points: 11
+Stef - turns: 18
+ 
+SM.SM - cards: 4 Vagrant, 3 Caravan, 2 Familiar, 10 Copper, 1 Goons, 1 Storeroom, 1 Shanty Town, 1 Potion, 1 Royal Seal, 5 Estate, 1 Gardens, 6 Curse
+SM.SM - victory point chips: 4
+SM.SM - total victory points: 6
+SM.SM - turns: 17
+ 
+1st place: Stef
+2nd place: SM.SM
+ 

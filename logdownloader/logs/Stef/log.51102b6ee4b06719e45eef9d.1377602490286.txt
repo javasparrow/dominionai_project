@@ -1,0 +1,452 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Scrying Pool, Doctor, Oasis, Sage, Tournament, Apprentice, Baker, Rebuild, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - uses 1 coin token
+yed - buys Rebuild
+yed - gains Rebuild
+yed - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Oasis
+yed - gains Oasis
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Oasis, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - shuffles deck
+Stef - draws Copper, Copper, Apprentice, Oasis, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Oasis
+yed - draws Estate
+yed - discards Estate
+yed - plays 3 Copper
+yed - buys Tournament
+yed - gains Tournament
+yed - draws Rebuild, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Apprentice
+Stef - plays 4 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 2 coins
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - gains Doctor
+Stef - draws Estate, Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Doctor
+ 
+---------- yed: turn 4 ----------
+yed - plays Rebuild
+yed - names Apprentice
+yed - shuffles deck
+yed - reveals Copper, Tournament, Estate
+yed - discards: Copper, Tournament
+yed - trashes Estate
+yed - gains Duchy
+yed - plays 3 Copper
+yed - buys Oasis
+yed - gains Oasis
+yed - draws Copper, Estate, Copper, Oasis, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Oasis, Apprentice, Copper
+Stef - trashes Copper
+Stef - places Oasis on top of deck
+Stef - places Apprentice on top of deck
+Stef - draws Apprentice, Oasis, Copper, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Oasis
+yed - shuffles deck
+yed - draws Copper
+yed - discards Estate
+yed - plays 4 Copper
+yed - buys Rebuild
+yed - gains Rebuild
+yed - draws Copper, Rebuild, Tournament, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Estate
+Stef - discards Copper
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Estate, Copper
+Stef - plays 3 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Doctor
+Stef - shuffles deck
+Stef - draws Apprentice, Copper, Tournament
+ 
+---------- yed: turn 6 ----------
+yed - plays Rebuild
+yed - names Estate
+yed - reveals Oasis, Estate, Duchy
+yed - discards: Oasis, Estate
+yed - trashes Duchy
+yed - gains Province
+yed - plays 3 Copper
+yed - buys Oasis
+yed - gains Oasis
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Estate, Province
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tournament
+yed - reveals Province
+Stef - plays Apprentice
+Stef - trashes Copper
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Oasis, Copper, Copper
+Stef - trashes Copper, Copper
+Stef - places Oasis on top of deck
+Stef - draws Oasis, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Doctor
+ 
+---------- yed: turn 7 ----------
+yed - plays 3 Copper
+yed - buys Oasis
+yed - gains Oasis
+yed - draws Copper, Rebuild, Tournament, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Oasis
+Stef - draws Apprentice
+Stef - discards Doctor
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Tournament
+Stef - shuffles deck
+Stef - draws Doctor
+Stef - plays Tournament
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Apprentice, Copper, Oasis, Doctor
+ 
+---------- yed: turn 8 ----------
+yed - plays Rebuild
+yed - names Province
+yed - shuffles deck
+yed - reveals Oasis, Copper, Oasis, Rebuild, Oasis, Copper, Oasis, Copper, Province, Copper, Copper, Estate
+yed - discards: Oasis, Copper, Oasis, Rebuild, Oasis, Copper, Oasis, Copper, Province, Copper, Copper
+yed - trashes Estate
+yed - gains Duchy
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - shuffles deck
+yed - draws Estate, Copper, Copper, Oasis, Rebuild
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Apprentice
+Stef - trashes Doctor
+Stef - draws Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Tournament
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Tournament, Copper, Gold, Copper, Oasis
+ 
+---------- yed: turn 9 ----------
+yed - plays Oasis
+yed - draws Province
+yed - discards Estate
+yed - plays Rebuild
+yed - names Estate
+yed - reveals Oasis, Estate, Duchy
+yed - discards: Oasis, Estate
+yed - trashes Duchy
+yed - gains Province
+yed - plays 2 Copper
+yed - buys Oasis
+yed - gains Oasis
+yed - draws Oasis, Copper, Copper, Copper, Tournament
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Tournament
+Stef - draws Apprentice
+Stef - plays Oasis
+Stef - draws Silver
+Stef - discards Apprentice
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Apprentice, Tournament, Copper, Silver, Copper
+ 
+---------- yed: turn 10 ----------
+yed - plays Oasis
+yed - draws Copper
+yed - discards Copper
+yed - plays Tournament
+yed - draws Oasis
+yed - plays Oasis
+yed - draws Copper
+yed - discards Copper
+yed - plays 3 Copper
+yed - buys Rebuild
+yed - gains Rebuild
+yed - draws Rebuild
+yed - shuffles deck
+yed - draws Copper, Estate, Rebuild, Rebuild
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Province, Oasis, Gold
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - draws Followers
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Province
+Stef - discards Copper
+Stef - plays Followers
+Stef - shuffles deck
+Stef - draws Copper
+Stef - gains Estate
+yed - gains Curse
+yed - discards Estate
+yed - discards Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - shuffles deck
+Stef - draws Copper, Province, Tournament, Oasis, Followers
+ 
+---------- yed: turn 11 ----------
+yed - plays Rebuild
+yed - names Province
+yed - reveals Province, Oasis, Copper, Copper, Copper, Oasis, Oasis, Copper, Copper, Province, Tournament, Estate
+yed - discards: Province, Oasis, Copper, Copper, Copper, Oasis, Oasis, Copper, Copper, Province, Tournament
+yed - trashes Estate
+yed - gains Duchy
+yed - plays Rebuild
+yed - names Province
+yed - shuffles deck
+yed - reveals Oasis, Oasis, Copper, Duchy
+yed - discards: Oasis, Oasis, Copper
+yed - trashes Duchy
+yed - gains Province
+yed - plays Rebuild
+yed - names Province
+yed - reveals Tournament, Province, Estate
+yed - discards: Tournament, Province
+yed - trashes Estate
+yed - gains Duchy
+yed - draws Copper, Copper, Copper, Copper, Oasis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Apprentice, Copper
+Stef - plays Followers
+Stef - draws Estate, Gold
+Stef - gains Estate
+yed - gains Curse
+yed - discards Copper
+yed - discards Copper
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Tournament
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Princess
+Stef - draws Princess
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Princess
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Sage
+Stef - gains Sage
+Stef - shuffles deck
+Stef - draws Apprentice, Trusty Steed, Tournament, Sage, Followers
+ 
+---------- yed: turn 12 ----------
+yed - plays Oasis
+yed - draws Oasis
+yed - discards Copper
+yed - plays Oasis
+yed - draws Copper
+yed - discards Copper
+yed - plays Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Oasis, Curse, Province, Copper
+yed - shuffles deck
+yed - draws Oasis
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Estate, Tournament
+Stef - plays Followers
+Stef - draws Copper, Copper
+Stef - gains Estate
+yed - gains Curse
+yed - discards Curse
+yed - discards Province
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Province, Province
+Stef - plays Sage
+Stef - reveals Oasis
+Stef - places Oasis in hand
+Stef - plays Oasis
+Stef - draws Princess
+Stef - discards Copper
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Diadem
+Stef - draws Diadem
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Bag of Gold
+Stef - draws Bag of Gold
+Stef - plays Bag of Gold
+Stef - gains Gold
+Stef - plays Princess
+Stef - plays 1 Copper, 1 Diadem
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Gold
+Stef - shuffles deck
+Stef - draws Copper, Sage, Copper
+ 
+---------- yed: turn 13 ----------
+yed - plays Oasis
+yed - draws Copper
+yed - discards Copper
+yed - plays Oasis
+yed - draws Copper
+yed - discards Copper
+yed - plays Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Oasis, Curse, Copper, Oasis, Rebuild
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Sage
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays 2 Gold, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Oasis, Estate, Province, Tournament
+ 
+---------- yed: turn 14 ----------
+yed - plays Oasis
+yed - draws Province
+yed - discards Province
+yed - plays Oasis
+yed - draws Oasis
+yed - discards Curse
+yed - plays Oasis
+yed - draws Copper
+yed - discards Rebuild
+yed - plays 2 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Rebuild, Tournament, Estate, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Oasis
+Stef - draws Apprentice
+Stef - discards Province
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Trusty Steed, Followers
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Diadem, Tournament
+Stef - plays Followers
+Stef - draws Bag of Gold, Princess
+Stef - gains Estate
+yed - gains Curse
+yed - discards Estate
+yed - discards Copper
+Stef - plays Bag of Gold
+Stef - gains Gold
+Stef - plays Tournament
+Stef - draws Gold
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Duchy
+Stef - draws Duchy
+Stef - plays Princess
+Stef - plays 1 Diadem, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Estate, Bag of Gold, Duchy, Followers, Tournament
+ 
+------------ Game Over ------------
+Stef - cards: 2 Tournament, 1 Bag of Gold, 1 Followers, 1 Oasis, 1 Apprentice, 1 Sage, 1 Trusty Steed, 1 Princess, 3 Gold, 2 Copper, 1 Diadem, 5 Province, 2 Estate, 1 Duchy
+Stef - total victory points: 35
+Stef - turns: 14
+ 
+yed - cards: 5 Oasis, 3 Rebuild, 1 Tournament, 7 Copper, 3 Province, 2 Estate, 2 Duchy, 4 Curse
+yed - total victory points: 22
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

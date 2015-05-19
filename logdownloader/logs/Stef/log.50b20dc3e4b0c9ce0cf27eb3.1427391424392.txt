@@ -1,0 +1,414 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Masquerade, Feodum, Talisman, Embassy, Harvest, Mint, Outpost, Upgrade, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Eevee - shuffles deck
+Stef - draws Hovel, Copper, Copper, Copper, Necropolis
+Eevee - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays Necropolis
+Eevee - plays 4 Copper
+Eevee - buys Talisman
+Eevee - gains Talisman
+Eevee - draws Copper, Copper, Copper, Overgrown Estate, Hovel
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Hovel, Copper, Necropolis, Copper
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays Necropolis
+Eevee - plays 4 Copper
+Eevee - buys Talisman
+Eevee - gains Talisman
+Eevee - draws Copper, Copper, Copper, Hovel, Overgrown Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - draws Copper, Copper, Copper, Copper, Masquerade
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Silver, Talisman
+Eevee - shuffles deck
+Eevee - draws Talisman, Copper, Hovel
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Masquerade
+Stef - passes Copper
+Eevee - passes Hovel
+Stef - plays 4 Copper
+Stef - buys Feodum
+Stef - trashes Hovel
+Stef - gains Feodum
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Masquerade, Copper, Feodum
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Talisman
+Eevee - plays Talisman
+Eevee - plays Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - draws Copper, Silver, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Necropolis
+Stef - plays Masquerade
+Stef - draws Masquerade, Copper
+Stef - passes Copper
+Eevee - passes Copper
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Masquerade
+Stef - draws Copper, Overgrown Estate
+Stef - passes Overgrown Estate
+Eevee - passes Copper
+Stef - plays 5 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - draws Hovel, Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver, Masquerade
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Feodum
+Eevee - gains Feodum
+Eevee - draws Copper, Copper, Overgrown Estate, Copper
+Eevee - shuffles deck
+Eevee - draws Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Masquerade
+Stef - draws Masquerade, Mint
+Stef - passes Hovel
+Eevee - passes Overgrown Estate
+Stef - trashes Overgrown Estate
+Stef - draws Silver
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Hoard
+Stef - gains Hoard
+Stef - draws Necropolis, Silver
+Stef - shuffles deck
+Stef - draws Mint, Masquerade, Masquerade
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Feodum
+Eevee - trashes Hovel
+Eevee - gains Feodum
+Eevee - draws Silver, Talisman, Copper, Necropolis, Overgrown Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Necropolis
+Stef - plays Masquerade
+Stef - draws Copper, Silver
+Stef - passes Copper
+Eevee - passes Overgrown Estate
+Stef - trashes Overgrown Estate
+Stef - draws Silver
+Stef - plays Masquerade
+Stef - draws Copper, Hoard
+Stef - passes Copper
+Eevee - passes Copper
+Stef - trashes Mint
+Stef - plays 3 Silver, 1 Copper
+Stef - plays Hoard
+Stef - buys Feodum
+Stef - gains Gold
+Stef - gains Feodum
+Stef - shuffles deck
+Stef - draws Hoard, Silver, Masquerade, Silver, Masquerade
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Necropolis
+Eevee - plays 2 Copper, 1 Silver
+Eevee - plays Talisman
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - draws Silver, Copper, Copper, Talisman, Feodum
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Masquerade
+Stef - draws Feodum, Gold
+Stef - passes Silver
+Eevee - passes Copper
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Hoard
+Stef - plays Silver
+Stef - plays Gold
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Necropolis, Silver, Copper
+Stef - shuffles deck
+Stef - draws Upgrade, Masquerade
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays 2 Silver, 1 Copper
+Eevee - plays Talisman
+Eevee - buys Feodum
+Eevee - gains Feodum
+Eevee - draws Copper, Silver, Silver
+Eevee - shuffles deck
+Eevee - draws Talisman, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Necropolis
+Stef - plays Masquerade
+Stef - draws Silver, Silver
+Stef - passes Copper
+Eevee - passes Copper
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - draws Hoard
+Stef - trashes Silver
+Stef - gains Feodum
+Stef - plays Hoard
+Stef - plays Silver
+Stef - buys Feodum
+Stef - gains Gold
+Stef - gains Feodum
+Stef - draws Masquerade, Gold, Silver, Copper, Silver
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays 3 Silver, 1 Copper
+Eevee - plays Talisman
+Eevee - buys Feodum
+Eevee - gains Feodum
+Eevee - draws Feodum, Copper, Silver, Feodum, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Hoard, Silver
+Stef - passes Copper
+Eevee - passes Copper
+Stef - trashes Copper
+Stef - plays 3 Silver, 1 Gold
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Feodum, Masquerade, Silver, Gold, Feodum
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Silver, Silver, Talisman, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Masquerade
+Stef - draws Necropolis, Upgrade
+Stef - passes Necropolis
+Eevee - passes Copper
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 1 Silver, 1 Gold, 1 Copper
+Stef - buys Embassy
+Stef - gains Embassy
+Eevee - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Embassy, Gold, Silver, Upgrade
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Necropolis
+Eevee - plays 3 Silver
+Eevee - plays Talisman
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - draws Necropolis, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Embassy
+Stef - draws Masquerade, Silver, Feodum, Masquerade, Silver
+Stef - discards Upgrade
+Stef - discards Masquerade
+Stef - discards Feodum
+Stef - plays 4 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Hoard, Gold, Silver, Copper, Silver
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Necropolis
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Feodum
+Eevee - shuffles deck
+Eevee - draws Silver, Feodum, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - draws Province, Silver, Gold
+Stef - shuffles deck
+Stef - draws Gold, Silver
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays 2 Silver, 1 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Silver, Copper, Silver, Silver, Feodum
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Silver, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Gold, Upgrade, Province, Silver
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays 3 Silver, 1 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Silver, Talisman, Copper, Copper, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Masquerade, Masquerade, Province, Hoard
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays 2 Silver, 2 Copper
+Eevee - plays Talisman
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - draws Copper, Copper, Silver, Necropolis, Talisman
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Masquerade
+Stef - draws Silver, Feodum
+Stef - passes Silver
+Eevee - passes Copper
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Hoard
+Stef - buys Duchy
+Stef - gains Gold
+Stef - gains Duchy
+Stef - draws Copper, Embassy, Gold, Silver
+Stef - shuffles deck
+Stef - draws Duchy
+ 
+---------- Eevee: turn 17 ----------
+Eevee - plays Necropolis
+Eevee - plays 2 Silver, 1 Copper
+Eevee - plays Talisman
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - gains Silver
+Eevee - draws Silver, Necropolis, Silver, Silver, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Embassy
+Stef - draws Province, Gold, Copper, Silver, Duchy
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Province
+Stef - plays 2 Copper, 2 Gold, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Province, Silver, Province, Gold
+ 
+---------- Eevee: turn 18 ----------
+Eevee - plays Necropolis
+Eevee - plays 4 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Silver, Feodum
+Eevee - shuffles deck
+Eevee - draws Necropolis, Silver, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Masquerade, Gold, Silver
+ 
+---------- Eevee: turn 19 ----------
+Eevee - plays Necropolis
+Eevee - plays 3 Silver
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Silver, Copper, Silver, Copper, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays 3 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Masquerade, Hoard, Silver, Gold, Upgrade
+ 
+---------- Eevee: turn 20 ----------
+Eevee - plays 3 Silver, 2 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Silver, Necropolis, Copper, Feodum, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Masquerade
+Stef - draws Silver, Province
+Stef - passes Upgrade
+Eevee - passes Necropolis
+Stef - plays 2 Silver, 1 Gold
+Stef - plays Hoard
+Stef - buys Province
+Stef - gains Gold
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Silver, Gold, Province, Silver, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 2 Masquerade, 1 Embassy, 1 Necropolis, 9 Silver, 6 Gold, 2 Copper, 1 Hoard, 7 Province, 3 Duchy
+Stef - total victory points: 51
+Stef - turns: 20
+ 
+Eevee - cards: 20 Silver, 1 Upgrade, 1 Necropolis, 5 Copper, 2 Talisman, 4 Feodum, 2 Duchy, 1 Province
+Eevee - total victory points: 36
+Eevee - turns: 20
+ 
+1st place: Stef
+2nd place: Eevee
+ 

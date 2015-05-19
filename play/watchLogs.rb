@@ -1,7 +1,7 @@
 require 'fssm'
 load("./gokoPlayer.rb")
 
-LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/07'
+LOGDIR = '/Users/oda/Library/Application Support/Google/Chrome/Default/File System/006/t/08'
 BUYFEATURE_DIR = "gainFeature.txt"
 PLAYFEATURE_DIR = "playFeature.txt"
 ACTIONFEATURE_DIR = "actionFeature.txt"

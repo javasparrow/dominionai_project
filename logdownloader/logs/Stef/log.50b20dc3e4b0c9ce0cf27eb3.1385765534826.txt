@@ -1,0 +1,456 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Chapel, Vagrant, University, Doctor, Menagerie, Bureaucrat, Nomad Camp, Cache, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+jog - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+jog - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- jog: turn 1 ----------
+jog - plays 3 Copper
+jog - buys Chapel
+jog - gains Chapel
+jog - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 2 ----------
+jog - plays 4 Copper
+jog - buys Potion
+jog - gains Potion
+jog - shuffles deck
+jog - draws Potion, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays 4 Copper, 1 Potion
+jog - buys University
+jog - gains University
+jog - draws Chapel, Estate, Estate, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper, Estate, Potion, Estate, Chapel
+ 
+---------- jog: turn 4 ----------
+jog - plays Chapel
+jog - trashes Estate, Estate, Estate, Copper
+jog - draws Copper, Copper
+jog - shuffles deck
+jog - draws University, Copper, Chapel
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper
+Stef - plays 1 Potion
+Stef - buys Transmute
+Stef - gains Transmute
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Chapel, Estate, Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays University
+jog - gains Laboratory
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Copper, Copper, Copper, Potion
+jog - shuffles deck
+jog - draws Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - draws Copper, Transmute, Copper, Potion, Menagerie
+ 
+---------- jog: turn 6 ----------
+jog - plays 3 Copper, 1 Potion, 1 Silver
+jog - buys University
+jog - gains University
+jog - draws Copper, Laboratory, University, Chapel, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Transmute, Copper, Potion
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - shuffles deck
+Stef - draws Estate, Menagerie, Potion, Copper, University
+ 
+---------- jog: turn 7 ----------
+jog - plays University
+jog - gains Nomad Camp
+jog - plays Laboratory
+jog - draws Nomad Camp, Copper
+jog - plays Nomad Camp
+jog - plays 3 Copper
+jog - buys Laboratory
+jog - gains Laboratory
+jog - shuffles deck
+jog - draws University, Chapel, Copper, Laboratory, University
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Estate, Potion, Copper, University
+Stef - draws Transmute, Chapel, Copper
+Stef - plays University
+Stef - gains Laboratory
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Potion, Chapel, University, Gold
+ 
+---------- jog: turn 8 ----------
+jog - plays Laboratory
+jog - draws Copper, Silver
+jog - plays University
+jog - gains Laboratory
+jog - plays University
+jog - gains Laboratory
+jog - plays Chapel
+jog - trashes Copper
+jog - plays 1 Copper, 1 Silver
+jog - buys Silver
+jog - gains Silver
+jog - draws Copper, Nomad Camp, Copper, Copper, Potion
+ 
+---------- Stef: turn 8 ----------
+Stef - plays University
+Stef - gains Laboratory
+Stef - plays Chapel
+Stef - trashes Potion, Copper
+Stef - plays 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, University, Laboratory, Transmute, Copper
+ 
+---------- jog: turn 9 ----------
+jog - plays Nomad Camp
+jog - plays 3 Copper, 1 Potion
+jog - buys University
+jog - gains University
+jog - buys Menagerie
+jog - gains Menagerie
+jog - draws Laboratory, Copper
+jog - shuffles deck
+jog - draws Laboratory, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Laboratory
+Stef - plays Laboratory
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws Chapel
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Transmute
+Stef - draws Laboratory, Silver, University
+Stef - plays Laboratory
+Stef - draws Gold, Laboratory
+Stef - plays University
+Stef - gains Nomad Camp
+Stef - plays Laboratory
+Stef - draws Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays Transmute
+Stef - trashes Copper
+Stef - gains Transmute
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Transmute, University, Laboratory, Menagerie, Silver
+ 
+---------- jog: turn 10 ----------
+jog - plays Laboratory
+jog - draws Laboratory, Nomad Camp
+jog - plays Laboratory
+jog - draws Copper, University
+jog - plays Laboratory
+jog - draws Potion, Copper
+jog - plays University
+jog - gains Laboratory
+jog - plays Nomad Camp
+jog - plays 5 Copper, 1 Potion
+jog - buys Laboratory
+jog - gains Laboratory
+jog - buys University
+jog - gains University
+jog - draws Laboratory, Menagerie, University, Silver, University
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Transmute, University, Laboratory, Silver
+Stef - draws Transmute, Laboratory, University
+Stef - plays Laboratory
+Stef - draws Nomad Camp, Gold
+Stef - plays Laboratory
+Stef - draws Estate, Laboratory
+Stef - plays Laboratory
+Stef - draws Chapel, Laboratory
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays University
+Stef - gains Nomad Camp
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays Laboratory
+Stef - draws Nomad Camp
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws University, Nomad Camp, Vagrant, Laboratory
+ 
+---------- jog: turn 11 ----------
+jog - plays University
+jog - gains Nomad Camp
+jog - plays Menagerie
+jog - reveals hand: Laboratory, Silver, University
+jog - draws Nomad Camp, Chapel, Silver
+jog - plays University
+jog - gains Menagerie
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Copper, University
+jog - plays University
+jog - gains Nomad Camp
+jog - plays Nomad Camp
+jog - plays Chapel
+jog - trashes Copper
+jog - plays 2 Silver
+jog - buys Gold
+jog - gains Gold
+jog - draws Nomad Camp, Copper, Copper, Menagerie, Laboratory
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Menagerie
+Stef - reveals hand: University, Nomad Camp, Vagrant, Laboratory
+Stef - draws Transmute, Laboratory, Chapel
+Stef - plays Laboratory
+Stef - draws Nomad Camp, University
+Stef - plays Laboratory
+Stef - draws Province, Laboratory
+Stef - plays Laboratory
+Stef - draws Gold, Menagerie
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays Nomad Camp
+Stef - plays Menagerie
+Stef - reveals hand: Transmute, Chapel, University, Nomad Camp, Vagrant, Province, Gold
+Stef - draws Gold, Laboratory, Silver
+Stef - plays Laboratory
+Stef - draws Vagrant, Transmute
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Menagerie
+Stef - reveals: Menagerie
+Stef - places Menagerie on top of deck
+Stef - plays Nomad Camp
+Stef - plays Transmute
+Stef - trashes Chapel
+Stef - gains Duchy
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws Menagerie, Vagrant, Menagerie, Province
+ 
+---------- jog: turn 12 ----------
+jog - plays Laboratory
+jog - draws Nomad Camp, Laboratory
+jog - plays Laboratory
+jog - draws University, Laboratory
+jog - plays Laboratory
+jog - draws Laboratory, Potion
+jog - plays Laboratory
+jog - draws Copper, Copper
+jog - plays University
+jog - gains Vagrant
+jog - plays Menagerie
+jog - reveals hand: Nomad Camp, Copper, Copper, Nomad Camp, Potion, Copper, Copper
+jog - draws Laboratory
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Laboratory, Nomad Camp
+jog - plays Laboratory
+jog - draws Gold, Vagrant
+jog - plays Vagrant
+jog - draws Silver
+jog - reveals: University
+jog - places University on top of deck
+jog - plays Nomad Camp
+jog - plays Nomad Camp
+jog - plays 4 Copper, 1 Potion, 1 Gold, 1 Silver
+jog - buys Province
+jog - gains Province
+jog - buys Duchy
+jog - gains Duchy
+jog - draws University, University, Silver, Menagerie, Chapel
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Vagrant, Province
+Stef - draws Transmute
+Stef - plays Menagerie
+Stef - reveals hand: Transmute, Menagerie, Vagrant, Province
+Stef - draws Transmute, Laboratory, Laboratory
+Stef - plays Laboratory
+Stef - draws University, University
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays Transmute
+Stef - trashes Transmute
+Stef - gains Duchy
+Stef - plays Menagerie
+Stef - reveals hand: Laboratory, Vagrant, Province, University
+Stef - draws Gold, Gold, Menagerie
+Stef - plays Laboratory
+Stef - draws Province, Laboratory
+Stef - plays Laboratory
+Stef - draws Duchy, Nomad Camp
+Stef - plays Vagrant
+Stef - draws Laboratory
+Stef - reveals: Menagerie
+Stef - places Menagerie on top of deck
+Stef - plays Menagerie
+Stef - reveals hand: Gold, Gold, Province, University, Province, Duchy, Nomad Camp, Laboratory
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Gold, Gold, Province, University, Province, Duchy, Nomad Camp, Laboratory
+Stef - draws Vagrant
+Stef - plays Laboratory
+Stef - draws Silver, Nomad Camp
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Duchy
+Stef - places Duchy in hand
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays 2 Gold, 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws University, Duchy, Transmute, Laboratory
+ 
+---------- jog: turn 13 ----------
+jog - plays University
+jog - plays Menagerie
+jog - reveals hand: University, Silver, Chapel
+jog - draws University
+jog - shuffles deck
+jog - draws Menagerie, Laboratory
+jog - plays University
+jog - plays Menagerie
+jog - reveals hand: University, Laboratory, Silver, Chapel
+jog - draws Laboratory, Gold, Nomad Camp
+jog - plays Laboratory
+jog - draws Duchy, Copper
+jog - plays Laboratory
+jog - draws Province, Nomad Camp
+jog - plays University
+jog - plays Nomad Camp
+jog - plays Nomad Camp
+jog - plays Chapel
+jog - trashes Copper
+jog - plays 1 Gold, 1 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Nomad Camp, Laboratory, Copper, Silver, Vagrant
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Menagerie
+Stef - reveals hand: University, Duchy, Transmute, Laboratory
+Stef - draws Copper, Gold, Laboratory
+Stef - plays Laboratory
+Stef - draws University, Vagrant
+Stef - plays Laboratory
+Stef - draws Menagerie, Nomad Camp
+Stef - plays University
+Stef - gains Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Gold, University, Duchy, Transmute, Vagrant, Nomad Camp
+Stef - draws Duchy, Province, Province
+Stef - plays University
+Stef - gains Nomad Camp
+Stef - plays Vagrant
+Stef - draws Nomad Camp
+Stef - reveals: Nomad Camp
+Stef - places Nomad Camp on top of deck
+Stef - plays Nomad Camp
+Stef - plays Nomad Camp
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Nomad Camp, Duchy, Laboratory, Menagerie, Menagerie
+ 
+---------- jog: turn 14 ----------
+jog - plays Laboratory
+jog - draws University, Copper
+jog - plays Vagrant
+jog - draws Potion
+jog - reveals: Copper
+jog - places Copper on top of deck
+ 
+------------ Game Over ------------
+Stef - cards: 8 Menagerie, 4 Laboratory, 3 Nomad Camp, 2 University, 2 Vagrant, 1 Transmute, 2 Gold, 1 Copper, 1 Silver, 4 Province, 3 Duchy
+Stef - total victory points: 33
+Stef - turns: 13
+ 
+jog - resigned
+jog - cards: 5 Laboratory, 4 University, 3 Nomad Camp, 2 Menagerie, 1 Chapel, 3 Copper, 2 Silver, 1 Potion, 1 Gold, 2 Province, 1 Duchy
+jog - total victory points: 15
+jog - turns: 13
+ 
+1st place: Stef
+2nd place: jog
+ 

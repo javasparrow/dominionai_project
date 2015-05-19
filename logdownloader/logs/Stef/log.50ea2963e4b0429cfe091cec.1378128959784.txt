@@ -1,0 +1,279 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Swindler, Warehouse, Philosopher's Stone, Conspirator, Feast, Thief, Wandering Minstrel, Inn, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - shuffles deck
+Stef - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Swindler
+shark_bait - gains Swindler
+shark_bait - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - shuffles deck
+Stef - draws Swindler, Estate, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Swindler
+shark_bait - gains Swindler
+shark_bait - shuffles deck
+shark_bait - draws Copper, Swindler, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Swindler
+shark_bait - reveals Swindler
+shark_bait - trashes Swindler
+shark_bait - gains Silver
+Stef - plays 3 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Estate, Wandering Minstrel, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+shark_bait - plays 4 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Swindler, Copper, Curse
+Stef - places Swindler on top of deck
+Stef - discards: Copper, Curse
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Swindler, Copper, Torturer, Estate, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Swindler
+shark_bait - gains Swindler
+shark_bait - draws Estate
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+shark_bait - reveals Gold
+shark_bait - trashes Gold
+shark_bait - gains Gold
+Stef - plays 2 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Copper, Copper, Wandering Minstrel, Estate, Swindler
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Wandering Minstrel
+shark_bait - gains Wandering Minstrel
+shark_bait - draws Copper, Estate, Estate, Copper, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Torturer, Copper, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Torturer on top of deck
+Stef - discards Copper
+Stef - plays Swindler
+shark_bait - reveals Swindler
+shark_bait - trashes Swindler
+shark_bait - gains Silver
+Stef - plays 3 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Torturer, Wandering Minstrel, Curse, Copper, Warehouse
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Wandering Minstrel
+shark_bait - gains Wandering Minstrel
+shark_bait - draws Swindler, Copper
+shark_bait - shuffles deck
+shark_bait - draws Wandering Minstrel, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Estate
+Stef - shuffles deck
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - discards: Estate, Estate
+Stef - plays Torturer
+Stef - draws Swindler, Copper, Torturer
+shark_bait - gains Curse
+Stef - plays Warehouse
+Stef - draws Wandering Minstrel, Copper, Copper
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Estate
+Stef - discards: Estate, Copper, Estate
+Stef - plays Torturer
+Stef - draws Estate, Copper, Curse
+shark_bait - discards Curse
+shark_bait - discards Copper
+Stef - plays Swindler
+shark_bait - reveals Estate
+shark_bait - trashes Estate
+shark_bait - gains Estate
+Stef - plays 5 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Wandering Minstrel, Copper, Torturer, Swindler
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Wandering Minstrel
+shark_bait - draws Estate
+shark_bait - reveals: Copper, Copper, Wandering Minstrel
+shark_bait - places Wandering Minstrel on top of deck
+shark_bait - discards: Copper, Copper
+shark_bait - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+shark_bait - plays 2 Copper
+shark_bait - buys Wandering Minstrel
+shark_bait - gains Wandering Minstrel
+shark_bait - draws Wandering Minstrel, Gold, Estate, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper, Torturer, Copper
+Stef - places Torturer on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Torturer
+Stef - draws Torturer, Torturer, Copper
+shark_bait - discards Copper
+shark_bait - discards Estate
+Stef - plays Wandering Minstrel
+Stef - draws Curse
+Stef - reveals: Estate, Copper, Warehouse
+Stef - places Warehouse on top of deck
+Stef - discards: Estate, Copper
+Stef - plays Torturer
+Stef - draws Warehouse, Estate
+Stef - shuffles deck
+Stef - draws Copper
+shark_bait - gains Curse
+Stef - plays Torturer
+Stef - draws Copper, Curse, Copper
+shark_bait - discards Curse
+shark_bait - discards Wandering Minstrel
+Stef - plays 5 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Curse, Wandering Minstrel, Warehouse
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays 1 Gold, 1 Silver
+shark_bait - buys Torturer
+shark_bait - gains Torturer
+shark_bait - draws Silver, Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver, Copper, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Curse, Swindler
+Stef - places Swindler on top of deck
+Stef - discards: Estate, Curse
+Stef - plays Warehouse
+Stef - draws Swindler, Torturer, Copper
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Torturer
+Stef - draws Wandering Minstrel, Copper, Wandering Minstrel
+shark_bait - discards Estate
+shark_bait - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper, Torturer, Torturer
+Stef - places Torturer on top of deck
+Stef - places Torturer on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Torturer
+Stef - reveals: Torturer
+Stef - shuffles deck
+Stef - reveals: Estate, Copper
+Stef - places Torturer on top of deck
+Stef - discards: Estate, Copper
+Stef - plays Torturer
+Stef - draws Torturer, Curse, Estate
+shark_bait - gains Curse
+Stef - plays Torturer
+Stef - draws Curse, Copper
+Stef - shuffles deck
+Stef - draws Copper
+shark_bait - gains Curse
+Stef - plays Swindler
+shark_bait - reveals Estate
+shark_bait - trashes Estate
+shark_bait - gains Estate
+Stef - plays 5 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper, Torturer, Warehouse
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - buys Curse
+shark_bait - gains Curse
+shark_bait - draws Copper, Torturer, Gold, Curse, Swindler
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Torturer, Estate, Copper
+Stef - places Torturer on top of deck
+Stef - discards: Estate, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Torturer, 3 Wandering Minstrel, 1 Warehouse, 1 Swindler, 5 Copper, 3 Estate, 2 Curse
+Stef - total victory points: 1
+Stef - turns: 9
+ 
+shark_bait - resigned
+shark_bait - cards: 3 Wandering Minstrel, 1 Torturer, 1 Swindler, 7 Copper, 2 Silver, 1 Gold, 3 Estate, 5 Curse
+shark_bait - total victory points: -2
+shark_bait - turns: 9
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

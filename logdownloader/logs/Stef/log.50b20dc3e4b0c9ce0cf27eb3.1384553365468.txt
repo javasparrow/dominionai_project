@@ -1,0 +1,494 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Baron, Coppersmith, Fortress, Gardens, Quarry, Council Room, Merchant Guild, Rogue, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+flies - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 4 Copper
+flies - buys Quarry
+flies - gains Quarry
+flies - shuffles deck
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Merchant Guild, Copper, Estate, Copper, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays 4 Copper
+flies - buys Quarry
+flies - gains Quarry
+flies - draws Copper, Quarry, Silver, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Merchant Guild
+Stef - plays 3 Copper
+Stef - buys Quarry
+Stef - receives 1 coin token
+Stef - gains Quarry
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- flies: turn 4 ----------
+flies - plays 2 Copper, 1 Silver
+flies - plays Quarry
+flies - buys Council Room
+flies - gains Council Room
+flies - draws Copper, Estate
+flies - shuffles deck
+flies - draws Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper
+ 
+---------- flies: turn 5 ----------
+flies - draws Quarry, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Merchant Guild, Copper, Quarry, Estate, Copper
+ 
+---------- flies: turn 6 ----------
+flies - plays 4 Copper
+flies - plays Quarry
+flies - buys Nobles
+flies - gains Nobles
+flies - draws Quarry, Copper, Council Room, Silver
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Merchant Guild
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Fortress
+Stef - receives 1 coin token
+Stef - gains Fortress
+Stef - buys Fortress
+Stef - receives 1 coin token
+Stef - gains Fortress
+Stef - draws Copper, Copper, Quarry
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- flies: turn 7 ----------
+flies - plays Council Room
+flies - draws Estate, Estate, Copper, Copper
+Stef - draws Copper
+flies - plays 4 Copper, 1 Silver
+flies - plays Quarry
+flies - buys Nobles
+flies - gains Nobles
+flies - buys Fortress
+flies - gains Fortress
+flies - draws Copper, Quarry, Copper, Copper, Nobles
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 4 Copper
+Stef - plays Quarry
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Estate, Fortress, Merchant Guild, Fortress, Copper
+ 
+---------- flies: turn 8 ----------
+flies - plays 3 Copper
+flies - plays Quarry
+flies - buys Merchant Guild
+flies - gains Merchant Guild
+flies - draws Estate
+flies - shuffles deck
+flies - draws Copper, Council Room, Quarry, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Quarry
+Stef - plays Merchant Guild
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - uses 2 coin tokens
+Stef - buys Council Room
+Stef - receives 1 coin token
+Stef - gains Council Room
+Stef - buys Council Room
+Stef - receives 1 coin token
+Stef - gains Council Room
+Stef - draws Estate, Copper, Silver
+Stef - shuffles deck
+Stef - draws Quarry, Fortress
+ 
+---------- flies: turn 9 ----------
+flies - plays Council Room
+flies - draws Copper, Estate, Estate, Nobles
+Stef - draws Estate
+flies - plays 3 Copper
+flies - plays Quarry
+flies - buys Fortress
+flies - gains Fortress
+flies - buys Fortress
+flies - gains Fortress
+flies - draws Merchant Guild, Copper, Silver, Quarry, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortress
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Copper, Estate, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Quarry
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Merchant Guild, Copper, Copper, Quarry, Council Room
+ 
+---------- flies: turn 10 ----------
+flies - plays Merchant Guild
+flies - plays 2 Copper, 1 Silver
+flies - plays Quarry
+flies - buys Council Room
+flies - receives 1 coin token
+flies - gains Council Room
+flies - buys Fortress
+flies - receives 1 coin token
+flies - gains Fortress
+flies - draws Copper, Fortress, Copper, Nobles
+flies - shuffles deck
+flies - draws Council Room
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Merchant Guild
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - uses 2 coin tokens
+Stef - buys Fortress
+Stef - receives 1 coin token
+Stef - gains Fortress
+Stef - buys Nobles
+Stef - receives 1 coin token
+Stef - gains Nobles
+Stef - draws Copper, Fortress, Council Room, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- flies: turn 11 ----------
+flies - plays Fortress
+flies - draws Nobles
+flies - plays Council Room
+flies - draws Copper, Copper, Fortress, Copper
+Stef - draws Quarry
+flies - plays Fortress
+flies - draws Quarry
+flies - plays Nobles
+flies - draws Estate, Estate, Merchant Guild
+flies - plays Merchant Guild
+flies - plays 5 Copper
+flies - plays Quarry
+flies - uses 1 coin token
+flies - buys Fortress
+flies - receives 1 coin token
+flies - gains Fortress
+flies - buys Fortress
+flies - receives 1 coin token
+flies - gains Fortress
+flies - buys Nobles
+flies - receives 1 coin token
+flies - gains Nobles
+flies - draws Council Room, Estate, Copper, Fortress, Fortress
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Council Room
+Stef - draws Copper, Merchant Guild, Copper, Fortress
+flies - draws Quarry
+Stef - plays Fortress
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Quarry, Silver, Copper
+Stef - plays Merchant Guild
+Stef - plays 5 Copper, 1 Silver
+Stef - plays Quarry
+Stef - plays Quarry
+Stef - buys Nobles
+Stef - receives 1 coin token
+Stef - gains Nobles
+Stef - buys Nobles
+Stef - receives 1 coin token
+Stef - gains Nobles
+Stef - buys Council Room
+Stef - receives 1 coin token
+Stef - gains Council Room
+Stef - draws Fortress, Nobles, Council Room, Copper, Estate
+ 
+---------- flies: turn 12 ----------
+flies - plays Fortress
+flies - draws Copper
+flies - plays Fortress
+flies - draws Silver
+flies - plays Council Room
+flies - shuffles deck
+flies - draws Fortress, Copper, Estate, Quarry
+Stef - draws Nobles
+flies - plays Fortress
+flies - draws Copper
+flies - plays 4 Copper, 1 Silver
+flies - plays Quarry
+flies - plays Quarry
+flies - uses 1 coin token
+flies - buys Province
+flies - gains Province
+flies - buys Rogue
+flies - gains Rogue
+flies - draws Fortress, Copper, Estate, Nobles, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Council Room
+Stef - shuffles deck
+Stef - draws Copper, Council Room, Fortress, Copper
+flies - draws Merchant Guild
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Council Room
+Stef - draws Nobles, Copper, Estate, Quarry
+flies - draws Nobles
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Nobles
+Stef - draws Merchant Guild, Estate, Council Room
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Council Room
+Stef - draws Nobles, Copper, Nobles, Silver
+flies - draws Fortress
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Quarry
+Stef - plays Merchant Guild
+Stef - plays 7 Copper, 1 Silver
+Stef - plays Quarry
+Stef - plays Quarry
+Stef - uses 5 coin tokens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Fortress
+Stef - receives 1 coin token
+Stef - gains Fortress
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Coppersmith
+Stef - receives 1 coin token
+Stef - gains Coppersmith
+Stef - buys Baron
+Stef - receives 1 coin token
+Stef - gains Baron
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Merchant Guild, Province
+ 
+---------- flies: turn 13 ----------
+flies - plays Fortress
+flies - draws Fortress
+flies - plays Fortress
+flies - draws Council Room
+flies - plays Fortress
+flies - draws Nobles
+flies - plays Council Room
+flies - draws Copper
+flies - shuffles deck
+flies - draws Fortress, Quarry, Copper
+Stef - draws Council Room
+flies - plays Fortress
+flies - draws Province
+flies - plays Nobles
+flies - draws Council Room, Copper, Estate
+flies - plays Nobles
+flies - draws Copper, Fortress, Silver
+flies - plays Fortress
+flies - draws Quarry
+flies - plays Nobles
+flies - draws Estate, Copper, Fortress
+flies - plays Fortress
+flies - draws Rogue
+flies - plays Rogue
+Stef - reveals: Copper, Council Room
+Stef - trashes Council Room
+Stef - discards Copper
+flies - plays Merchant Guild
+flies - plays 7 Copper, 1 Silver
+flies - plays Quarry
+flies - plays Quarry
+flies - uses 3 coin tokens
+flies - buys Province
+flies - receives 1 coin token
+flies - gains Province
+flies - buys Province
+flies - receives 1 coin token
+flies - gains Province
+flies - buys Rogue
+flies - receives 1 coin token
+flies - gains Rogue
+flies - shuffles deck
+flies - draws Estate, Province, Quarry, Rogue, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Merchant Guild
+Stef - plays 1 Copper
+Stef - uses 2 coin tokens
+Stef - buys Gardens
+Stef - receives 1 coin token
+Stef - gains Gardens
+Stef - draws Copper, Baron, Quarry, Copper, Coppersmith
+ 
+---------- flies: turn 14 ----------
+flies - plays Rogue
+flies - gains Council Room
+flies - uses 1 coin token
+flies - plays Quarry
+flies - uses 1 coin token
+flies - buys Gardens
+flies - gains Gardens
+flies - draws Estate, Fortress, Copper, Copper, Fortress
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Coppersmith
+Stef - plays 2 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Copper, Copper, Silver, Province
+ 
+---------- flies: turn 15 ----------
+flies - plays Fortress
+flies - draws Copper
+flies - plays Fortress
+flies - draws Nobles
+flies - plays Nobles
+flies - draws Copper, Fortress, Nobles
+flies - plays Fortress
+flies - draws Province
+flies - plays Nobles
+flies - draws Province, Merchant Guild, Council Room
+flies - plays Council Room
+flies - draws Quarry, Copper, Copper, Fortress
+Stef - draws Quarry
+flies - plays Fortress
+flies - draws Nobles
+flies - plays Nobles
+flies - draws Copper, Fortress, Silver
+flies - plays Fortress
+flies - draws Council Room
+flies - plays Council Room
+flies - draws Fortress, Rogue
+flies - shuffles deck
+flies - draws Estate, Gardens
+Stef - draws Nobles
+flies - plays Fortress
+flies - draws Province
+flies - plays Rogue
+Stef - reveals: Estate, Fortress
+Stef - trashes Fortress
+Stef - discards Estate
+flies - plays Merchant Guild
+flies - plays 7 Copper, 1 Silver
+flies - plays Quarry
+flies - uses 2 coin tokens
+flies - buys Gardens
+flies - receives 1 coin token
+flies - gains Gardens
+flies - buys Gardens
+flies - receives 1 coin token
+flies - gains Gardens
+flies - buys Gardens
+flies - receives 1 coin token
+flies - gains Gardens
+flies - buys Estate
+flies - receives 1 coin token
+flies - gains Estate
+flies - draws Council Room, Estate, Rogue, Quarry
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fortress
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Council Room, Fortress, Nobles
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Nobles
+Stef - plays Council Room
+Stef - draws Nobles
+Stef - shuffles deck
+Stef - draws Gardens, Estate, Baron
+flies - draws Province
+Stef - plays Nobles
+Stef - draws Estate, Copper, Merchant Guild
+Stef - plays Nobles
+Stef - draws Estate, Copper, Coppersmith
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Coppersmith
+Stef - plays Merchant Guild
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 5 Copper, 1 Silver
+Stef - plays Quarry
+Stef - uses 4 coin tokens
+Stef - buys Gardens
+Stef - receives 1 coin token
+Stef - gains Gardens
+Stef - buys Gardens
+Stef - receives 1 coin token
+Stef - gains Gardens
+Stef - buys Province
+Stef - receives 1 coin token
+Stef - gains Province
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - draws Copper, Council Room, Copper, Quarry, Gardens
+ 
+------------ Game Over ------------
+Stef - cards: 5 Nobles, 4 Fortress, 2 Council Room, 1 Coppersmith, 1 Merchant Guild, 1 Baron, 7 Copper, 2 Quarry, 1 Silver, 4 Gardens, 3 Estate, 3 Province, 1 Duchy
+Stef - total victory points: 46
+Stef - turns: 15
+ 
+flies - cards: 6 Fortress, 3 Nobles, 3 Council Room, 2 Rogue, 1 Merchant Guild, 7 Copper, 2 Quarry, 1 Silver, 4 Estate, 4 Gardens, 3 Province
+flies - total victory points: 40
+flies - turns: 15
+ 
+1st place: Stef
+2nd place: flies
+ 

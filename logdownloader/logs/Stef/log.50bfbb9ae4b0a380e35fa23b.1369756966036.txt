@@ -1,0 +1,518 @@
+------------ Game Setup ------------
+Supply cards: Tunnel, Death Cart, Catacombs, Contraband, Margrave, Mountebank, Adventurer, Altar, Bank, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: pro
+RTT - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - shuffles deck
+Stef - shuffles deck
+RTT - draws Copper, Copper, Copper, Hovel, Copper
+Stef - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 4 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Overgrown Estate, Copper, Copper, Copper, Necropolis
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Copper, Necropolis, Hovel, Silver
+ 
+---------- RTT: turn 3 ----------
+RTT - plays 4 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Copper, Necropolis, Silver, Overgrown Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Silver
+RTT - shuffles deck
+RTT - draws Silver, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Necropolis, Silver, Silver
+ 
+---------- RTT: turn 5 ----------
+RTT - plays 3 Silver, 2 Copper
+RTT - buys Forge
+RTT - gains Forge
+RTT - draws Hovel, Overgrown Estate, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Copper, Copper, Copper, Hovel
+ 
+---------- RTT: turn 6 ----------
+RTT - draws Copper, Copper, Copper, Silver
+RTT - shuffles deck
+RTT - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Overgrown Estate, Copper, Mountebank, Copper
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- RTT: turn 7 ----------
+RTT - plays 4 Copper, 1 Silver
+RTT - buys Altar
+RTT - gains Altar
+RTT - draws Copper, Silver, Silver, Necropolis, Hovel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Mountebank
+RTT - gains Curse
+RTT - gains Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Copper, Silver, Hovel, Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Necropolis
+RTT - plays 2 Silver, 1 Copper
+RTT - buys Mountebank
+RTT - gains Mountebank
+RTT - draws Overgrown Estate, Copper, Forge, Copper, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Silver, Mountebank, Copper, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Forge
+RTT - trashes Overgrown Estate, Copper, Copper
+RTT - shuffles deck
+RTT - draws Necropolis
+RTT - draws Silver, Altar, Silver, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Mountebank
+RTT - gains Curse
+RTT - gains Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Necropolis
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Gold
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Altar
+RTT - trashes Copper
+RTT - gains Mountebank
+RTT - plays 3 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Mountebank, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Hovel, Silver, Mountebank, Copper, Copper
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+RTT - plays 4 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Curse, Copper, Hovel
+RTT - shuffles deck
+RTT - draws Gold, Mountebank
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mountebank
+RTT - discards Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Silver, Copper, Gold, Overgrown Estate
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Silver, Copper, Mountebank, Forge, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Gold, Gold, Mountebank, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+RTT - plays 2 Silver, 1 Copper
+RTT - buys Bank
+RTT - gains Bank
+RTT - draws Silver, Gold, Copper, Copper, Altar
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mountebank
+RTT - gains Curse
+RTT - gains Copper
+Stef - plays 2 Gold, 2 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Curse, Gold, Copper, Gold, Overgrown Estate
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Altar
+RTT - trashes Copper
+RTT - gains Margrave
+RTT - plays 1 Silver, 1 Gold, 1 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Curse, Necropolis, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Gold, Margrave, Silver, Silver
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Necropolis
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Tunnel
+RTT - gains Tunnel
+RTT - shuffles deck
+RTT - draws Copper, Necropolis, Altar, Mountebank, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Margrave
+Stef - draws Copper, Hovel, Copper
+RTT - draws Gold
+RTT - discards Altar
+RTT - discards Necropolis
+RTT - discards Copper
+Stef - plays 3 Silver, 2 Copper, 1 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Mountebank, Curse, Gold, Copper, Copper
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Mountebank
+Stef - discards Curse
+RTT - plays 1 Silver, 1 Gold
+RTT - buys Forge
+RTT - gains Forge
+RTT - draws Tunnel, Curse, Copper, Hovel, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mountebank
+RTT - discards Curse
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Bank
+Stef - gains Bank
+Stef - draws Copper, Copper, Necropolis
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- RTT: turn 17 ----------
+RTT - plays 1 Copper, 1 Gold
+RTT - buys Tunnel
+RTT - trashes Hovel
+RTT - gains Tunnel
+RTT - draws Forge, Copper, Copper, Curse, Bank
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Hovel, Mountebank, Platinum, Curse, Copper
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Forge
+RTT - trashes Curse, Copper, Copper, Bank
+RTT - gains Bank
+RTT - draws Mountebank, Gold, Margrave, Copper, Curse
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Mountebank
+RTT - discards Curse
+Stef - plays 1 Platinum, 1 Copper
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - draws Curse, Silver, Gold, Silver, Margrave
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Mountebank
+Stef - discards Curse
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Adventurer
+RTT - gains Adventurer
+RTT - draws Copper, Gold, Silver, Silver, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Margrave
+Stef - draws Platinum, Gold, Mountebank
+RTT - shuffles deck
+RTT - draws Forge
+RTT - discards Gold
+RTT - discards Copper
+RTT - discards Forge
+Stef - plays 2 Silver, 2 Gold, 1 Platinum
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Overgrown Estate, Bank, Curse, Gold
+ 
+---------- RTT: turn 20 ----------
+RTT - plays 3 Silver
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Margrave, Curse, Adventurer, Forge, Mountebank
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 1 Copper, 1 Gold
+Stef - plays Bank
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- RTT: turn 21 ----------
+RTT - plays Forge
+RTT - trashes Curse, Adventurer, Mountebank
+RTT - gains Colony
+RTT - draws Curse, Copper, Gold, Gold, Altar
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Gold, Gold, Gold, Gold
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- RTT: turn 22 ----------
+RTT - plays Altar
+RTT - trashes Curse
+RTT - gains Mountebank
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Adventurer
+RTT - gains Adventurer
+RTT - draws Copper, Silver, Tunnel, Mountebank, Bank
+ 
+---------- Stef: turn 22 ----------
+Stef - plays 4 Gold, 1 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Copper, Silver, Province, Gold, Gold
+ 
+---------- RTT: turn 23 ----------
+RTT - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+RTT - plays 1 Copper, 1 Silver
+RTT - plays Bank
+RTT - buys Province
+RTT - gains Province
+RTT - draws Copper, Gold, Tunnel, Necropolis
+RTT - shuffles deck
+RTT - draws Copper
+ 
+---------- Stef: turn 23 ----------
+Stef - plays 2 Gold, 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Necropolis, Margrave, Platinum, Bank, Platinum
+ 
+---------- RTT: turn 24 ----------
+RTT - plays Necropolis
+RTT - plays 2 Copper, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Bank, Copper, Silver, Silver, Province
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Necropolis
+Stef - plays Margrave
+Stef - draws Silver, Overgrown Estate, Copper
+RTT - draws Forge
+RTT - discards Silver
+RTT - discards Copper
+RTT - discards Bank
+Stef - plays 2 Platinum, 1 Silver, 1 Copper
+Stef - plays Bank
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Mountebank, Mountebank, Copper, Copper, Copper
+ 
+---------- RTT: turn 25 ----------
+RTT - plays Forge
+RTT - trashes Province, Silver
+RTT - gains Colony
+RTT - draws Margrave, Colony, Gold, Gold, Tunnel
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Mountebank
+RTT - gains Curse
+RTT - gains Copper
+Stef - plays 3 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Silver, Platinum, Copper, Curse, Copper
+ 
+---------- RTT: turn 26 ----------
+RTT - plays Margrave
+RTT - draws Adventurer, Copper, Gold
+Stef - draws Silver
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+RTT - plays 3 Gold, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Gold, Forge, Altar, Silver, Mountebank
+ 
+---------- Stef: turn 26 ----------
+Stef - plays 2 Silver, 1 Platinum
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Gold, Gold, Copper, Gold
+ 
+---------- RTT: turn 27 ----------
+RTT - plays Forge
+RTT - trashes Altar, Mountebank
+RTT - gains Colony
+RTT - plays 1 Gold, 1 Silver
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Silver, Mountebank
+RTT - shuffles deck
+RTT - draws Bank, Gold, Gold
+ 
+---------- Stef: turn 27 ----------
+Stef - plays 3 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Curse, Copper
+Stef - shuffles deck
+Stef - draws Platinum, Silver
+ 
+---------- RTT: turn 28 ----------
+RTT - plays Mountebank
+Stef - discards Curse
+RTT - plays 2 Gold, 1 Silver
+RTT - plays Bank
+RTT - buys Colony
+RTT - gains Colony
+RTT - draws Duchy, Silver, Tunnel, Copper, Gold
+ 
+---------- Stef: turn 28 ----------
+Stef - plays 1 Gold, 1 Copper, 1 Platinum, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Copper, Gold, Mountebank, Overgrown Estate, Curse
+ 
+---------- RTT: turn 29 ----------
+RTT - plays 1 Silver, 1 Copper, 1 Gold
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Copper, Copper, Silver, Curse, Copper
+ 
+---------- Stef: turn 29 ----------
+Stef - plays Mountebank
+RTT - discards Curse
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Province, Copper, Gold
+ 
+---------- RTT: turn 30 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - draws Province, Duchy, Adventurer, Gold, Colony
+ 
+---------- Stef: turn 30 ----------
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Copper, Gold, Copper, Bank
+ 
+---------- RTT: turn 31 ----------
+RTT - plays Adventurer
+RTT - reveals Copper, Forge, Colony, Forge, Tunnel, Margrave, Colony, Necropolis, Gold
+RTT - places cards in hand:  Copper, Gold
+RTT - discards: Forge, Colony, Forge, Tunnel, Margrave, Colony, Necropolis
+RTT - reveals reaction Tunnel
+RTT - gains Gold
+RTT - plays 2 Gold, 1 Copper
+RTT - buys Duchy
+RTT - gains Duchy
+RTT - shuffles deck
+RTT - draws Gold, Tunnel, Duchy, Colony, Necropolis
+ 
+---------- Stef: turn 31 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - plays Gold
+Stef - plays Bank
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Gold, Colony, Copper, Province
+ 
+------------ Game Over ------------
+Stef - cards: 2 Margrave, 2 Mountebank, 11 Copper, 10 Gold, 1 Necropolis, 4 Silver, 3 Platinum, 1 Bank, 6 Province, 3 Colony, 2 Duchy, 1 Overgrown Estate, 4 Curse
+Stef - total victory points: 68
+Stef - turns: 31
+ 
+RTT - cards: 2 Forge, 1 Mountebank, 1 Margrave, 1 Adventurer, 1 Necropolis, 6 Gold, 5 Copper, 3 Silver, 1 Bank, 5 Duchy, 4 Colony, 2 Tunnel, 1 Province, 1 Curse
+RTT - total victory points: 64
+RTT - turns: 31
+ 
+1st place: Stef
+2nd place: RTT
+ 

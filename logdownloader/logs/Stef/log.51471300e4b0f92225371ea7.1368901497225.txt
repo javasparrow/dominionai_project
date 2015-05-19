@@ -1,0 +1,351 @@
+------------ Game Setup ------------
+Supply cards: Moat, Village, Woodcutter, Workshop, Feast, Gardens, Smithy, Festival, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+glw - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+glw - shuffles deck
+Stef - shuffles deck
+glw - draws Copper, Copper, Copper, Estate, Estate
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- glw: turn 1 ----------
+glw - plays 3 Copper
+glw - buys Village
+glw - gains Village
+glw - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- glw: turn 2 ----------
+glw - plays 4 Copper
+glw - buys Smithy
+glw - gains Smithy
+glw - shuffles deck
+glw - draws Estate, Copper, Copper, Copper, Smithy
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - shuffles deck
+Stef - draws Copper, Workshop, Copper, Copper, Copper
+ 
+---------- glw: turn 3 ----------
+glw - plays Smithy
+glw - draws Estate, Copper, Village
+glw - plays 4 Copper
+glw - buys Smithy
+glw - gains Smithy
+glw - draws Copper, Copper, Copper, Estate
+glw - shuffles deck
+glw - draws Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays 4 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Workshop, Copper, Copper, Estate, Estate
+ 
+---------- glw: turn 4 ----------
+glw - plays 3 Copper
+glw - buys Village
+glw - gains Village
+glw - draws Copper, Copper, Smithy, Village, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Workshop
+Stef - gains Village
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Village
+ 
+---------- glw: turn 5 ----------
+glw - plays Village
+glw - draws Copper
+glw - plays Smithy
+glw - draws Smithy, Estate
+glw - shuffles deck
+glw - draws Copper
+glw - plays Smithy
+glw - draws Copper, Village, Copper
+glw - plays 7 Copper
+glw - buys Gold
+glw - gains Gold
+glw - draws Estate, Estate
+glw - shuffles deck
+glw - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- glw: turn 6 ----------
+glw - plays 3 Copper
+glw - buys Workshop
+glw - gains Workshop
+glw - draws Copper, Gold, Copper, Smithy, Smithy
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Workshop
+Stef - gains Workshop
+Stef - draws Village, Workshop, Estate, Workshop, Workshop
+ 
+---------- glw: turn 7 ----------
+glw - plays Smithy
+glw - draws Copper, Village, Village
+glw - plays 3 Copper, 1 Gold
+glw - buys Gold
+glw - gains Gold
+glw - draws Estate, Copper
+glw - shuffles deck
+glw - draws Village, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Workshop
+Stef - gains Gardens
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Village, Workshop, Estate, Gardens, Copper
+ 
+---------- glw: turn 8 ----------
+glw - plays Village
+glw - draws Gold
+glw - plays 2 Copper, 1 Gold
+glw - buys Mine
+glw - gains Mine
+glw - draws Workshop, Smithy, Smithy, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Village
+Stef - draws Workshop
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays Workshop
+Stef - gains Village
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Workshop, Estate, Estate, Copper, Copper
+ 
+---------- glw: turn 9 ----------
+glw - plays Smithy
+glw - draws Gold, Village, Copper
+glw - plays 2 Copper, 1 Gold
+glw - buys Festival
+glw - gains Festival
+glw - draws Copper, Copper, Copper
+glw - shuffles deck
+glw - draws Gold, Festival
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Workshop
+Stef - gains Gardens
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Workshop, Copper, Copper, Copper, Copper
+ 
+---------- glw: turn 10 ----------
+glw - plays Festival
+glw - plays 3 Copper, 1 Gold
+glw - buys Province
+glw - gains Province
+glw - draws Village, Workshop, Copper, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Workshop
+Stef - gains Gardens
+Stef - plays 4 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Workshop, Village, Copper, Copper
+Stef - shuffles deck
+Stef - draws Gardens
+ 
+---------- glw: turn 11 ----------
+glw - plays Village
+glw - draws Village
+glw - plays Village
+glw - draws Copper
+glw - plays Workshop
+glw - gains Gardens
+glw - plays 3 Copper
+glw - buys Workshop
+glw - gains Workshop
+glw - draws Smithy, Smithy, Estate, Copper, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Village
+Stef - draws Estate
+Stef - plays Workshop
+Stef - gains Gardens
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Village, Copper, Copper, Copper, Copper
+ 
+---------- glw: turn 12 ----------
+glw - plays Smithy
+glw - draws Estate, Mine
+glw - shuffles deck
+glw - draws Estate
+glw - plays 1 Copper, 1 Gold
+glw - buys Gardens
+glw - gains Gardens
+glw - draws Province, Gold, Workshop, Workshop, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Gardens
+Stef - plays 4 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Workshop, Workshop, Copper, Workshop, Workshop
+ 
+---------- glw: turn 13 ----------
+glw - plays Workshop
+glw - gains Smithy
+glw - plays 1 Gold, 1 Copper
+glw - buys Smithy
+glw - gains Smithy
+glw - draws Copper, Copper, Festival, Gardens, Village
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Workshop
+Stef - gains Estate
+Stef - plays 1 Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Copper, Gardens, Workshop, Estate
+ 
+---------- glw: turn 14 ----------
+glw - plays Village
+glw - draws Village
+glw - plays Festival
+glw - plays Village
+glw - draws Copper
+glw - plays 3 Copper
+glw - buys Duchy
+glw - gains Duchy
+glw - draws Copper, Copper
+glw - shuffles deck
+glw - draws Estate, Smithy, Festival
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Workshop
+Stef - gains Estate
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gardens, Copper, Estate, Estate
+Stef - shuffles deck
+Stef - draws Gardens
+ 
+---------- glw: turn 15 ----------
+glw - plays Festival
+glw - plays Smithy
+glw - draws Smithy, Copper, Village
+glw - plays Village
+glw - draws Smithy
+glw - plays Smithy
+glw - draws Gold, Gardens, Copper
+glw - plays Smithy
+glw - draws Copper, Estate, Mine
+glw - plays 5 Copper, 1 Gold
+glw - buys Province
+glw - gains Province
+glw - buys Estate
+glw - gains Estate
+glw - draws Village, Copper, Workshop, Workshop, Smithy
+ 
+---------- Stef: turn 15 ----------
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Workshop, Workshop, Village, Workshop
+ 
+---------- glw: turn 16 ----------
+glw - plays Village
+glw - draws Province
+glw - plays Smithy
+glw - draws Estate, Copper, Gardens
+glw - plays Workshop
+glw - gains Silver
+glw - plays 2 Copper
+glw - buys Estate
+glw - gains Estate
+glw - draws Duchy, Gold
+glw - shuffles deck
+glw - draws Gardens, Copper, Mine
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Village
+Stef - draws Workshop
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays Workshop
+Stef - gains Estate
+Stef - plays 1 Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Gardens, Copper, Copper, Estate, Estate
+ 
+---------- glw: turn 17 ----------
+glw - plays Mine
+glw - trashes Copper
+glw - gains Silver
+glw - plays 1 Gold, 1 Silver
+glw - buys Duchy
+glw - gains Duchy
+glw - draws Province, Smithy, Copper, Estate, Smithy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Estate, Workshop, Copper, Village, Copper
+ 
+---------- glw: turn 18 ----------
+glw - plays Smithy
+glw - draws Smithy, Village, Copper
+glw - plays 2 Copper
+glw - buys Moat
+glw - gains Moat
+glw - draws Gold, Festival, Copper, Estate, Workshop
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Village
+Stef - draws Gardens
+Stef - plays Workshop
+Stef - gains Workshop
+Stef - plays 2 Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Estate, Copper, Village, Copper, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 8 Workshop, 3 Village, 14 Copper, 1 Moat, 9 Estate, 6 Gardens
+Stef - total victory points: 33
+Stef - turns: 18
+ 
+glw - cards: 4 Smithy, 2 Village, 2 Workshop, 1 Moat, 1 Mine, 1 Festival, 6 Copper, 2 Silver, 2 Gold, 5 Estate, 2 Duchy, 2 Gardens, 2 Province
+glw - total victory points: 29
+glw - turns: 18
+ 
+1st place: Stef
+2nd place: glw
+ 

@@ -1,0 +1,643 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Market Square, Ironmonger, Marauder, Moneylender, Quarry, Golem, Counterfeit, Mountebank, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+theParty - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 4 Copper
+theParty - buys Quarry
+theParty - gains Quarry
+theParty - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Copper, Estate, Market Square, Estate, Copper
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 3 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - shuffles deck
+theParty - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper, Copper, Copper, Estate, Quarry
+ 
+---------- theParty: turn 3 ----------
+theParty - plays 3 Copper
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Copper, Copper, Market Square, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Quarry
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Quarry, Copper, Copper, Market Square
+ 
+---------- theParty: turn 4 ----------
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays 4 Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - draws Quarry
+theParty - shuffles deck
+theParty - draws Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate, Copper, Copper, Copper, Market Square
+ 
+---------- theParty: turn 5 ----------
+theParty - plays 2 Copper
+theParty - plays Quarry
+theParty - buys Mountebank
+theParty - gains Mountebank
+theParty - draws Market Square, Copper, Copper, Ironmonger, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Mountebank, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper
+ 
+---------- theParty: turn 6 ----------
+theParty - plays Ironmonger
+theParty - draws Copper
+theParty - reveals: Estate
+theParty - discards Estate
+theParty - draws Copper
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays 5 Copper
+theParty - buys Counterfeit
+theParty - gains Counterfeit
+theParty - shuffles deck
+theParty - draws Market Square, Counterfeit, Copper, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Mountebank
+theParty - gains Curse
+theParty - gains Copper
+Stef - plays 3 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Copper, Ironmonger, Market Square, Copper, Estate
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Counterfeit
+theParty - plays Copper
+theParty - plays Copper
+theParty - trashes Copper
+theParty - reveals reaction Market Square
+theParty - discards Market Square
+theParty - gains Gold
+theParty - plays 1 Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - draws Copper, Estate, Ironmonger, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - draws Quarry
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Moneylender, Estate, Market Square
+Stef - shuffles deck
+Stef - draws Ironmonger, Copper
+ 
+---------- theParty: turn 8 ----------
+theParty - plays Ironmonger
+theParty - draws Copper
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays 3 Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - draws Mountebank, Market Square, Quarry, Copper
+theParty - shuffles deck
+theParty - draws Ironmonger
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Market Square
+Stef - discards Market Square
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Counterfeit, Mountebank, Copper, Estate, Quarry
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Ironmonger
+theParty - draws Curse
+theParty - reveals: Ironmonger
+theParty - places Ironmonger on top of deck
+theParty - plays Market Square
+theParty - draws Ironmonger
+theParty - plays Ironmonger
+theParty - draws Market Square
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays Market Square
+theParty - draws Estate
+theParty - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+theParty - plays Quarry
+theParty - plays Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Copper, Counterfeit, Copper, Gold, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Mountebank
+theParty - gains Curse
+theParty - gains Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Quarry
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Ironmonger, Copper, Copper, Copper, Market Square
+ 
+---------- theParty: turn 10 ----------
+theParty - plays Counterfeit
+theParty - plays Copper
+theParty - plays Copper
+theParty - trashes Copper
+theParty - plays 2 Copper, 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Copper, Estate, Ironmonger, Estate, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Ironmonger
+Stef - draws Market Square
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Market Square
+Stef - draws Ironmonger
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Ironmonger, Ironmonger, Copper, Quarry, Market Square
+ 
+---------- theParty: turn 11 ----------
+theParty - plays Ironmonger
+theParty - shuffles deck
+theParty - draws Counterfeit
+theParty - reveals: Market Square
+theParty - places Market Square on top of deck
+theParty - plays Counterfeit
+theParty - plays Copper
+theParty - plays Copper
+theParty - trashes Copper
+theParty - plays 1 Copper
+theParty - buys Marauder
+theParty - gains Marauder
+theParty - draws Market Square, Curse, Ironmonger, Estate, Quarry
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Moneylender
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Market Square
+Stef - plays Ironmonger
+Stef - draws Mountebank
+Stef - reveals: Mountebank
+Stef - places Mountebank on top of deck
+Stef - plays Mountebank
+theParty - discards Curse
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays Quarry
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Mountebank, Counterfeit, Estate, Curse, Copper
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Ironmonger
+theParty - draws Mountebank
+theParty - reveals: Gold
+theParty - places Gold on top of deck
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays Mountebank
+Stef - discards Curse
+theParty - plays 1 Gold
+theParty - plays Quarry
+theParty - buys Counterfeit
+theParty - gains Counterfeit
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - draws Copper, Market Square, Copper, Province, Ironmonger
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mountebank
+theParty - gains Curse
+theParty - gains Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - draws Pawn, Quarry, Copper, Copper
+ 
+---------- theParty: turn 13 ----------
+theParty - plays Ironmonger
+theParty - draws Ironmonger
+theParty - reveals: Curse
+theParty - discards Curse
+theParty - plays Ironmonger
+theParty - draws Copper
+theParty - reveals: Market Square
+theParty - places Market Square on top of deck
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays 4 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Ironmonger, Copper
+theParty - shuffles deck
+theParty - draws Counterfeit, Silver, Quarry
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Moneylender
+Stef - places Moneylender on top of deck
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Moneylender
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Marauder, Ironmonger, Ironmonger, Ironmonger, Curse
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Ironmonger
+theParty - draws Ironmonger
+theParty - reveals: Ironmonger
+theParty - places Ironmonger on top of deck
+theParty - plays Ironmonger
+theParty - draws Ironmonger
+theParty - reveals: Market Square
+theParty - places Market Square on top of deck
+theParty - plays Ironmonger
+theParty - draws Market Square
+theParty - reveals: Estate
+theParty - discards Estate
+theParty - draws Estate
+theParty - plays Market Square
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays Counterfeit
+theParty - plays Copper
+theParty - plays Copper
+theParty - trashes Copper
+theParty - plays 1 Silver, 1 Gold
+theParty - plays Quarry
+theParty - buys Province
+theParty - gains Province
+theParty - buys Market Square
+theParty - gains Market Square
+theParty - buys Pawn
+theParty - gains Pawn
+theParty - buys Pawn
+theParty - gains Pawn
+theParty - draws Copper, Counterfeit, Mountebank, Curse, Ironmonger
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Market Square
+Stef - plays Ironmonger
+Stef - draws Market Square
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Mountebank
+Stef - places Mountebank on top of deck
+Stef - plays Ironmonger
+Stef - draws Mountebank
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Mountebank
+theParty - discards Curse
+Stef - plays Marauder
+Stef - gains Spoils
+theParty - gains Ruined Library
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Counterfeit, Market Square, Counterfeit, Estate, Mountebank
+ 
+---------- theParty: turn 15 ----------
+theParty - plays Ironmonger
+theParty - draws Estate
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+theParty - plays Counterfeit
+theParty - plays Copper
+theParty - plays Copper
+theParty - trashes Copper
+theParty - buys Gold
+theParty - gains Gold
+theParty - draws Copper, Copper, Copper, Curse, Market Square
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mountebank
+theParty - discards Curse
+Stef - plays Counterfeit
+Stef - plays Counterfeit
+Stef - plays Counterfeit
+Stef - trashes Counterfeit
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Gold, Counterfeit, Estate, Province, Ironmonger
+ 
+---------- theParty: turn 16 ----------
+theParty - plays Market Square
+theParty - draws Province
+theParty - plays 3 Copper
+theParty - buys Estate
+theParty - gains Estate
+theParty - draws Marauder, Copper, Curse, Market Square, Ironmonger
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Ironmonger
+Stef - draws Curse
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Counterfeit
+Stef - plays Gold
+Stef - plays Gold
+Stef - trashes Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Estate, Curse, Copper, Copper
+ 
+---------- theParty: turn 17 ----------
+theParty - plays Ironmonger
+theParty - shuffles deck
+theParty - draws Ironmonger
+theParty - reveals: Province
+theParty - discards Province
+theParty - draws Ironmonger
+theParty - plays Ironmonger
+theParty - draws Mountebank
+theParty - reveals: Market Square
+theParty - places Market Square on top of deck
+theParty - plays Ironmonger
+theParty - draws Market Square
+theParty - reveals: Ironmonger
+theParty - places Ironmonger on top of deck
+theParty - plays Market Square
+theParty - draws Ironmonger
+theParty - plays Ironmonger
+theParty - draws Counterfeit
+theParty - reveals: Gold
+theParty - places Gold on top of deck
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays Marauder
+theParty - gains Spoils
+Stef - gains Ruined Library
+theParty - plays Mountebank
+Stef - discards Curse
+theParty - plays Counterfeit
+theParty - plays Gold
+theParty - plays Gold
+theParty - trashes Gold
+theParty - plays Copper
+theParty - buys Province
+theParty - gains Province
+theParty - buys Estate
+theParty - gains Estate
+theParty - draws Estate, Silver, Estate, Ironmonger, Market Square
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Market Square, Copper, Marauder, Moneylender, Market Square
+ 
+---------- theParty: turn 18 ----------
+theParty - plays Ironmonger
+theParty - draws Pawn
+theParty - reveals: Market Square
+theParty - places Market Square on top of deck
+theParty - plays Pawn
+theParty - takes 1 coin
+theParty - draws Market Square
+theParty - plays Market Square
+theParty - draws Gold
+theParty - plays Market Square
+theParty - draws Copper
+theParty - plays 1 Silver, 1 Gold, 1 Copper
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - buys Estate
+theParty - gains Estate
+theParty - draws Counterfeit, Quarry, Estate, Curse, Pawn
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Spoils, Gold, Ironmonger, Quarry, Mountebank
+ 
+---------- theParty: turn 19 ----------
+theParty - plays Pawn
+theParty - takes 1 coin
+theParty - draws Province
+theParty - plays Counterfeit
+theParty - plays Quarry
+theParty - plays Quarry
+theParty - trashes Quarry
+theParty - buys Estate
+theParty - gains Estate
+theParty - buys Estate
+theParty - gains Estate
+theParty - draws Estate, Curse, Copper, Market Square, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Ironmonger
+Stef - draws Mountebank
+Stef - reveals: Market Square
+Stef - places Market Square on top of deck
+Stef - plays Mountebank
+theParty - discards Curse
+Stef - plays Mountebank
+theParty - gains Curse
+theParty - gains Copper
+Stef - plays Gold
+Stef - plays Quarry
+Stef - buys Province
+Stef - gains Province
+Stef - draws Market Square, Ironmonger, Ironmonger, Market Square, Ironmonger
+ 
+---------- theParty: turn 20 ----------
+theParty - plays Market Square
+theParty - draws Ruined Library
+theParty - plays Ruined Library
+theParty - draws Copper
+theParty - shuffles deck
+theParty - draws Ruined Library, Ironmonger, Estate, Estate, Estate
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Ironmonger
+Stef - draws Pawn
+Stef - reveals: Market Square
+Stef - discards Market Square
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Duchy
+Stef - discards Duchy
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Ironmonger
+Stef - draws Market Square
+Stef - reveals: Moneylender
+Stef - discards Moneylender
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Duchy
+Stef - plays Market Square
+Stef - draws Curse
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Mountebank
+Stef - plays Mountebank
+theParty - gains Curse
+theParty - gains Copper
+Stef - plays 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Estate, Quarry, Ironmonger, Gold, Marauder
+ 
+------------ Game Over ------------
+Stef - cards: 5 Ironmonger, 5 Market Square, 2 Pawn, 2 Mountebank, 1 Marauder, 1 Moneylender, 1 Ruined Library, 3 Gold, 3 Copper, 1 Quarry, 1 Counterfeit, 1 Spoils, 6 Estate, 3 Province, 2 Duchy, 2 Curse
+Stef - total victory points: 28
+Stef - turns: 21
+ 
+theParty - cards: 5 Ironmonger, 5 Market Square, 2 Pawn, 1 Ruined Library, 1 Mountebank, 1 Marauder, 7 Copper, 2 Counterfeit, 1 Spoils, 1 Gold, 1 Silver, 8 Estate, 3 Province, 1 Duchy, 5 Curse
+theParty - total victory points: 24
+theParty - turns: 20
+ 
+1st place: Stef
+2nd place: theParty
+ 

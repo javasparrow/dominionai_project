@@ -1,0 +1,585 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Forager, Trade Route, Feodum, Ironworks, Apprentice, Explorer, Market, Saboteur, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SheCantSayNo - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Estate
+SheCantSayNo - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Estate, Forager, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Embargo
+SheCantSayNo - gains Embargo
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Estate, Copper, Embargo, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Estate, Forager
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Embargo
+Stef - embargoes Wharf
+Stef - trashes Embargo
+Stef - plays 3 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Wharf, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Wharf
+SheCantSayNo - draws Copper, Copper, Estate, Embargo, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wharf
+Stef - draws Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Estate, Market, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Embargo
+SheCantSayNo - embargoes Province
+SheCantSayNo - trashes Embargo
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Forager, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Wharf
+Stef - draws Forager
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Forager, Copper, Copper, Copper, Estate
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Wharf, Forager, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - shuffles deck
+Stef - draws Market, Copper, Forager, Copper, Wharf
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Curse, Estate
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Forager, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Curse, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Wharf
+Stef - draws Copper, Ironworks
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Gold, Copper, Estate, Forager
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Wharf
+SheCantSayNo - draws Copper, Copper, Silver, Silver, Forager
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Wharf
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 4 Copper, 1 Gold
+Stef - buys Wharf
+Stef - gains Curse
+Stef - gains Wharf
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Forager, Market, Copper, Embargo, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Forager
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Gold, Curse, Forager, Wharf
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Market
+Stef - draws Ironworks
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Embargo
+Stef - embargoes Province
+Stef - trashes Embargo
+Stef - plays 1 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Forager
+Stef - shuffles deck
+Stef - draws Ironworks, Market, Copper, Copper
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Silver, Estate
+SheCantSayNo - plays 1 Gold, 1 Silver
+SheCantSayNo - buys Ironworks
+SheCantSayNo - gains Ironworks
+SheCantSayNo - buys Embargo
+SheCantSayNo - gains Embargo
+SheCantSayNo - draws Silver, Forager, Copper, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Market
+Stef - draws Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Ironworks
+Stef - gains Feodum
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Forager, Silver, Ironworks, Curse, Market
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Wharf
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Forager
+SheCantSayNo - plays 3 Copper, 2 Silver
+SheCantSayNo - buys Feodum
+SheCantSayNo - gains Feodum
+SheCantSayNo - buys Feodum
+SheCantSayNo - gains Feodum
+SheCantSayNo - draws Forager, Gold, Silver, Ironworks, Embargo
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market
+Stef - draws Wharf
+Stef - plays Forager
+Stef - trashes Curse
+Stef - plays Ironworks
+Stef - gains Embargo
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - draws Wharf, Forager
+Stef - shuffles deck
+Stef - draws Embargo, Silver, Market
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays Ironworks
+SheCantSayNo - gains Silver
+SheCantSayNo - plays 1 Gold, 1 Silver, 1 Copper
+SheCantSayNo - buys Feodum
+SheCantSayNo - gains Feodum
+SheCantSayNo - buys Feodum
+SheCantSayNo - gains Feodum
+SheCantSayNo - draws Forager, Feodum, Copper, Feodum, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Wharf
+Stef - draws Ironworks, Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Ironworks
+Stef - gains Feodum
+Stef - draws Market
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - draws Copper, Ironworks, Gold, Silver, Forager
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Forager, Silver, Silver, Wharf
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Forager, Silver, Copper, Feodum, Feodum
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Wharf, Gold
+SheCantSayNo - plays 2 Silver, 1 Gold
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Embargo, Feodum, Feodum, Estate, Forager
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Market, Feodum, Silver, Feodum, Market
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Ironworks, Copper
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Embargo
+SheCantSayNo - plays Ironworks
+SheCantSayNo - gains Silver
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Silver, Feodum, Forager, Feodum, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Market
+Stef - draws Silver
+Stef - plays 3 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Wharf, Gold, Feodum, Copper, Silver
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays 2 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Feodum, Ironworks, Wharf, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Wharf
+Stef - draws Wharf, Silver
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Embargo, Ironworks, Feodum, Ironworks
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Ironworks
+SheCantSayNo - gains Ironworks
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 2 Copper, 2 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Silver, Copper, Feodum, Wharf, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Wharf
+Stef - draws Forager, Forager
+Stef - plays Forager
+Stef - trashes Embargo
+Stef - plays Forager
+Stef - trashes Ironworks
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Forager
+Stef - shuffles deck
+Stef - draws Silver, Silver, Forager
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Forager, Copper
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Forager, Feodum
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Estate, Silver, Silver, Silver, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays 3 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Feodum, Silver, Gold, Feodum, Feodum
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Estate, Silver
+SheCantSayNo - plays 4 Silver, 1 Gold
+SheCantSayNo - buys Province
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Province
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Feodum, Forager, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper, Wharf, Wharf, Silver
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Silver
+SheCantSayNo - plays 2 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Feodum, Silver, Silver, Copper, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Wharf
+Stef - draws Silver, Silver
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Market, Feodum, Forager, Silver
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays 3 Silver, 1 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Curse, Forager, Copper, Feodum, Forager
+ 
+---------- Stef: turn 22 ----------
+Stef - duration Wharf
+Stef - draws Silver, Ironworks
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 3 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Market, Silver, Silver
+Stef - shuffles deck
+Stef - draws Copper, Feodum
+ 
+---------- SheCantSayNo: turn 23 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Feodum, Copper, Estate, Curse, Silver
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Market
+Stef - draws Silver
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Forager, Silver, Silver
+ 
+---------- SheCantSayNo: turn 24 ----------
+SheCantSayNo - plays 1 Copper, 1 Silver
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Copper, Wharf, Estate, Silver, Ironworks
+ 
+---------- Stef: turn 24 ----------
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Curse
+Stef - gains Curse
+Stef - gains Province
+Stef - draws Silver, Feodum, Wharf, Silver, Wharf
+ 
+---------- SheCantSayNo: turn 25 ----------
+SheCantSayNo - plays Ironworks
+SheCantSayNo - gains Forager
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Silver, Silver
+SheCantSayNo - plays 3 Silver, 1 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Silver, Wharf, Silver, Gold, Province
+ 
+---------- Stef: turn 25 ----------
+Stef - plays Wharf
+Stef - draws Silver, Silver
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Curse
+Stef - gains Curse
+Stef - gains Province
+Stef - buys Curse
+Stef - gains Curse
+Stef - draws Silver, Forager, Silver, Ironworks, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 23 Silver, 2 Forager, 2 Market, 2 Wharf, 1 Ironworks, 1 Copper, 1 Gold, 4 Feodum, 2 Province, 1 Duchy, 5 Curse
+Stef - total victory points: 38
+Stef - turns: 25
+ 
+SheCantSayNo - cards: 4 Forager, 2 Wharf, 2 Ironworks, 16 Silver, 5 Copper, 1 Gold, 4 Feodum, 4 Estate, 2 Duchy, 1 Province, 1 Curse
+SheCantSayNo - total victory points: 35
+SheCantSayNo - turns: 25
+ 
+1st place: Stef
+2nd place: SheCantSayNo
+ 

@@ -1,0 +1,537 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Familiar, Salvager, Horn of Plenty, Inn, Margrave, Mystic, Treasury, Nobles, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - shuffles deck
+Stef - shuffles deck
+flies - draws Copper, Copper, Copper, Estate, Copper
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Potion
+flies - gains Potion
+flies - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Fortune Teller, Copper, Copper, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Fortune Teller
+flies - gains Fortune Teller
+flies - shuffles deck
+flies - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Fortune Teller
+flies - reveals Copper, Copper, Potion, Copper, Estate
+flies - discards: Copper, Copper, Potion, Copper
+Stef - plays 3 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Copper, Estate, Copper, Estate
+ 
+---------- flies: turn 3 ----------
+flies - plays 4 Copper
+flies - buys Salvager
+flies - gains Salvager
+flies - draws Estate, Estate, Fortune Teller
+flies - shuffles deck
+flies - draws Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Inn
+Stef - draws Potion, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fortune Teller, Inn, Copper, Estate
+ 
+---------- flies: turn 4 ----------
+flies - plays Fortune Teller
+Stef - reveals Estate
+flies - plays 1 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Copper, Copper, Salvager, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Inn
+Stef - draws Estate, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Fortune Teller
+flies - shuffles deck
+flies - reveals Copper, Potion, Copper, Silver, Estate
+flies - discards: Copper, Potion, Copper, Silver
+Stef - plays 2 Copper
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - draws Familiar, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 5 ----------
+flies - plays Salvager
+flies - trashes Copper
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Estate, Copper, Fortune Teller, Estate, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Familiar
+Stef - draws Potion
+flies - gains Curse
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Familiar, Estate, Potion, Copper
+ 
+---------- flies: turn 6 ----------
+flies - plays Fortune Teller
+Stef - reveals Copper, Copper, Fortune Teller, Copper, Inn, Copper, Estate
+Stef - discards: Copper, Copper, Fortune Teller, Copper, Inn, Copper
+flies - plays 1 Copper
+flies - buys Silver
+flies - gains Silver
+flies - shuffles deck
+flies - draws Copper, Silver, Curse, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Familiar
+Stef - draws Estate
+flies - gains Curse
+Stef - draws Familiar, Salvager, Estate, Copper
+Stef - shuffles deck
+Stef - draws Familiar
+ 
+---------- flies: turn 7 ----------
+flies - plays 2 Copper, 2 Silver
+flies - buys Treasury
+flies - gains Treasury
+flies - draws Estate, Copper, Estate, Salvager, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Familiar
+Stef - draws Copper
+flies - gains Curse
+Stef - plays Familiar
+Stef - draws Copper
+flies - gains Curse
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Inn, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 8 ----------
+flies - plays Salvager
+flies - trashes Estate
+flies - plays 2 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Potion, Fortune Teller, Estate, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Inn
+Stef - draws Potion, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Fortune Teller, Copper
+Stef - shuffles deck
+Stef - draws Estate, Inn, Potion
+ 
+---------- flies: turn 9 ----------
+flies - plays Fortune Teller
+Stef - reveals Salvager, Copper, Familiar, Treasury, Copper, Familiar, Copper, Copper, Estate
+Stef - discards: Salvager, Copper, Familiar, Treasury, Copper, Familiar, Copper, Copper
+flies - plays 2 Copper, 1 Potion
+flies - buys Familiar
+flies - gains Familiar
+flies - draws Silver
+flies - shuffles deck
+flies - draws Copper, Curse, Salvager, Familiar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Inn
+Stef - draws Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Fortune Teller
+flies - reveals Silver, Copper, Copper, Curse
+flies - discards: Silver, Copper, Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Familiar, Copper
+Stef - shuffles deck
+Stef - draws Fortune Teller, Potion, Copper
+ 
+---------- flies: turn 10 ----------
+flies - plays Familiar
+flies - draws Curse
+Stef - gains Curse
+flies - plays Salvager
+flies - trashes Curse
+flies - plays 1 Silver, 1 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Silver, Copper, Curse, Estate, Curse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Familiar
+Stef - draws Estate
+flies - gains Curse
+Stef - plays Fortune Teller
+flies - reveals Potion, Copper, Copper, Silver, Fortune Teller, Treasury, Estate
+flies - discards: Potion, Copper, Copper, Silver, Fortune Teller, Treasury
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Familiar, Copper, Salvager, Treasury, Estate
+ 
+---------- flies: turn 11 ----------
+flies - plays 1 Silver, 1 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Estate
+flies - shuffles deck
+flies - draws Treasury, Fortune Teller, Copper, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Familiar
+Stef - draws Copper
+flies - gains Curse
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Inn, Copper, Familiar, Familiar
+ 
+---------- flies: turn 12 ----------
+flies - plays Treasury
+flies - draws Copper
+flies - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Copper, Curse
+Stef - discards Copper
+flies - plays 2 Copper
+flies - buys Treasury
+flies - gains Treasury
+flies - places Treasury on top of deck
+flies - draws Treasury, Copper, Copper, Silver, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Familiar
+Stef - draws Curse
+flies - gains Curse
+Stef - plays Familiar
+Stef - draws Treasury
+flies - gains Curse
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays Treasury
+Stef - draws Fortune Teller
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Curse
+Stef - discards Estate
+Stef - plays Fortune Teller
+flies - reveals Curse
+Stef - plays 3 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Copper, Silver, Potion
+ 
+---------- flies: turn 13 ----------
+flies - plays Treasury
+flies - draws Curse
+flies - plays 2 Copper, 1 Silver
+flies - buys Inn
+flies - gains Inn
+flies - places Treasury, Fortune Teller, Inn on top of deck
+flies - shuffles deck
+flies - places Treasury on top of deck
+flies - draws Treasury, Silver, Familiar, Salvager, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Treasury
+Stef - draws Salvager
+Stef - plays Treasury
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Familiar
+flies - gains Curse
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Potion
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Margrave, Familiar, Familiar, Inn, Fortune Teller, Margrave, Inn on top of deck
+Stef - shuffles deck
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Inn, Copper, Margrave
+ 
+---------- flies: turn 14 ----------
+flies - plays Treasury
+flies - draws Copper
+flies - plays Familiar
+flies - draws Fortune Teller
+flies - plays Fortune Teller
+Stef - shuffles deck
+Stef - reveals Margrave, Inn, Familiar, Familiar, Fortune Teller, Copper, Salvager, Familiar, Copper, Silver, Curse
+Stef - discards: Margrave, Inn, Familiar, Familiar, Fortune Teller, Copper, Salvager, Familiar, Copper, Silver
+flies - plays 2 Silver, 1 Copper
+flies - buys Forge
+flies - gains Forge
+flies - places Treasury on top of deck
+flies - draws Treasury, Silver, Silver, Potion, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Treasury
+Stef - draws Curse
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Familiar, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Familiar
+Stef - draws Estate
+Stef - plays Margrave
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Margrave
+flies - draws Copper
+flies - discards Potion
+flies - discards Curse
+flies - discards Copper
+Stef - plays Margrave
+Stef - draws Inn, Fortune Teller, Copper
+flies - draws Treasury
+flies - discards Silver
+Stef - plays 4 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Familiar, Copper, Copper, Familiar, Salvager
+ 
+---------- flies: turn 15 ----------
+flies - plays Treasury
+flies - draws Curse
+flies - plays Treasury
+flies - draws Silver
+flies - plays 2 Silver
+flies - buys Inn
+flies - gains Inn
+flies - places Forge on top of deck
+flies - shuffles deck
+flies - places Treasury, Treasury on top of deck
+flies - draws Treasury, Treasury, Forge, Inn
+flies - shuffles deck
+flies - draws Curse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Familiar
+Stef - draws Silver
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Silver
+Stef - plays 3 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Familiar
+Stef - shuffles deck
+Stef - draws Inn, Treasury, Copper, Inn
+ 
+---------- flies: turn 16 ----------
+flies - plays Treasury
+flies - draws Silver
+flies - plays Treasury
+flies - draws Silver
+flies - plays Inn
+flies - draws Curse, Copper
+flies - discards Silver
+flies - discards Copper
+flies - plays Forge
+flies - trashes Curse, Silver, Curse
+flies - gains Silver
+flies - places Treasury, Treasury on top of deck
+flies - draws Treasury, Treasury, Fortune Teller, Salvager, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Treasury
+Stef - draws Salvager
+Stef - plays Inn
+Stef - draws Treasury, Margrave
+Stef - discards Copper
+Stef - discards Curse
+Stef - plays Treasury
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Nobles, Copper, Copper
+flies - draws Inn
+flies - discards Curse
+flies - discards Inn
+flies - discards Salvager
+Stef - plays Inn
+Stef - draws Fortune Teller, Familiar
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Familiar
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Copper, Copper, Margrave
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Margrave
+Stef - draws Copper, Estate, Familiar
+flies - draws Curse
+flies - discards Curse
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Forge
+Stef - gains Forge
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury
+Stef - shuffles deck
+Stef - draws Margrave, Margrave, Copper
+ 
+---------- flies: turn 17 ----------
+flies - plays Treasury
+flies - draws Estate
+flies - plays Treasury
+flies - draws Copper
+flies - plays Fortune Teller
+Stef - reveals Familiar, Salvager, Familiar, Inn, Nobles
+Stef - discards: Familiar, Salvager, Familiar, Inn
+flies - plays 1 Copper
+flies - buys Inn
+flies - gains Inn
+flies - places Forge, Inn on top of deck
+flies - shuffles deck
+flies - places Treasury, Treasury on top of deck
+flies - draws Treasury, Treasury, Silver, Silver, Inn
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Treasury
+Stef - draws Nobles
+Stef - plays Treasury
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Margrave
+Stef - draws Curse, Fortune Teller, Copper
+flies - draws Potion
+flies - discards Potion
+flies - discards Silver
+flies - discards Silver
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Margrave
+Stef - draws Copper, Copper, Inn
+flies - draws Silver
+flies - discards Inn
+Stef - plays Inn
+Stef - draws Copper, Copper
+Stef - discards Curse
+Stef - discards Fortune Teller
+Stef - plays 6 Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Forge, Familiar, Copper, Familiar
+Stef - shuffles deck
+Stef - draws Nobles
+ 
+---------- flies: turn 18 ----------
+flies - plays Treasury
+flies - draws Copper
+flies - plays Treasury
+flies - draws Forge
+flies - plays Forge
+flies - trashes Copper, Silver
+flies - gains Silver
+flies - places Treasury, Treasury on top of deck
+flies - draws Treasury, Treasury, Familiar, Curse, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Familiar
+Stef - draws Inn
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays Inn
+Stef - draws Nobles, Nobles
+Stef - discards Copper
+Stef - discards Curse
+Stef - plays Nobles
+Stef - draws Salvager, Copper, Treasury
+Stef - plays Treasury
+Stef - draws Familiar
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Treasury, Fortune Teller, Familiar
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Forge
+Stef - trashes Copper, Copper, Copper, Copper, Fortune Teller
+Stef - gains Silver
+Stef - places Treasury, Treasury on top of deck
+Stef - draws Treasury, Treasury, Margrave, Copper, Copper
+ 
+---------- flies: turn 19 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 4 Familiar, 3 Nobles, 2 Treasury, 2 Margrave, 2 Inn, 1 Forge, 1 Salvager, 3 Copper, 1 Silver, 1 Curse
+Stef - total victory points: 5
+Stef - turns: 19
+ 
+flies - resigned
+flies - cards: 3 Inn, 2 Treasury, 1 Familiar, 1 Salvager, 1 Fortune Teller, 1 Forge, 6 Silver, 5 Copper, 1 Potion, 2 Estate, 6 Curse
+flies - total victory points: -4
+flies - turns: 18
+ 
+1st place: Stef
+2nd place: flies
+ 

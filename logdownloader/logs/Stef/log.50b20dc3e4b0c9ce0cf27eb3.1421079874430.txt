@@ -1,0 +1,364 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Storeroom, Remodel, Baker, Counterfeit, Explorer, Ill-Gotten Gains, Junk Dealer, Market, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Copper, Overgrown Estate, Copper, Hovel, Copper
+theParty - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 4 Copper
+theParty - uses 1 coin token
+theParty - buys Junk Dealer
+theParty - gains Junk Dealer
+theParty - draws Necropolis, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Hermit
+Stef - gains Hermit
+Stef - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 3 Copper
+theParty - buys Hermit
+theParty - gains Hermit
+theParty - shuffles deck
+theParty - draws Hovel, Overgrown Estate, Junk Dealer, Hermit, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays Necropolis
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - shuffles deck
+Stef - draws Junk Dealer, Copper, Copper, Hermit, Copper
+ 
+---------- theParty: turn 3 ----------
+theParty - plays Junk Dealer
+theParty - draws Copper
+theParty - trashes Overgrown Estate
+theParty - draws Copper
+theParty - plays Hermit
+theParty - trashes Hovel
+theParty - gains Silver
+theParty - trashes Hermit
+theParty - gains Madman
+theParty - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Junk Dealer
+Stef - draws Overgrown Estate
+Stef - trashes Copper
+Stef - plays Hermit
+Stef - trashes Overgrown Estate
+Stef - draws Hovel
+Stef - gains Silver
+Stef - trashes Hermit
+Stef - gains Madman
+Stef - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- theParty: turn 4 ----------
+theParty - plays 4 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - shuffles deck
+theParty - draws Silver, Copper, Copper, Copper, Junk Dealer
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Junk Dealer, Silver, Necropolis, Copper, Copper
+ 
+---------- theParty: turn 5 ----------
+theParty - plays Junk Dealer
+theParty - draws Copper
+theParty - trashes Copper
+theParty - plays 3 Copper, 1 Silver
+theParty - buys Counterfeit
+theParty - gains Counterfeit
+theParty - draws Necropolis, Copper, Silver, Madman, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Junk Dealer
+Stef - draws Madman
+Stef - trashes Necropolis
+Stef - plays Madman
+Stef - draws Copper, Copper, Hovel
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Silver, Copper, Copper
+Stef - shuffles deck
+Stef - draws Counterfeit, Hovel
+ 
+---------- theParty: turn 6 ----------
+theParty - plays Madman
+theParty - draws Copper
+theParty - shuffles deck
+theParty - draws Copper, Junk Dealer, Copper
+theParty - plays Junk Dealer
+theParty - draws Copper
+theParty - trashes Necropolis
+theParty - plays Copper
+theParty - plays Copper
+theParty - plays Copper
+theParty - plays Copper
+theParty - plays Copper
+theParty - plays Copper
+theParty - buys Mint
+theParty - trashes Copper, Copper, Copper, Copper, Copper, Copper
+theParty - gains Mint
+theParty - draws Counterfeit, Silver
+theParty - shuffles deck
+theParty - draws Silver, Mint, Junk Dealer
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Copper, Silver, Junk Dealer
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Counterfeit
+theParty - plays Silver
+theParty - plays Silver
+theParty - trashes Silver
+theParty - plays 1 Silver
+theParty - buys Gold
+theParty - gains Gold
+theParty - shuffles deck
+theParty - draws Junk Dealer, Mint, Counterfeit, Gold, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Silver
+Stef - plays 4 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - shuffles deck
+Stef - draws Mint, Hovel, Counterfeit, Gold, Silver
+ 
+---------- theParty: turn 8 ----------
+theParty - plays Mint
+theParty - reveals Gold
+theParty - gains Gold
+theParty - plays Counterfeit
+theParty - plays Silver
+theParty - plays Silver
+theParty - trashes Silver
+theParty - plays 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - shuffles deck
+theParty - draws Gold, Mint, Province, Counterfeit, Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays Gold
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - draws Copper, Junk Dealer
+Stef - shuffles deck
+Stef - draws Gold, Gold, Province
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Mint
+theParty - reveals Gold
+theParty - gains Gold
+theParty - plays Counterfeit
+theParty - plays Gold
+theParty - plays Gold
+theParty - trashes Gold
+theParty - plays 1 Gold
+theParty - buys Baker
+theParty - gains Baker
+theParty - buys Baker
+theParty - gains Baker
+theParty - draws Junk Dealer
+theParty - shuffles deck
+theParty - draws Counterfeit, Baker, Mint, Baker
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Junk Dealer
+Stef - draws Mint
+Stef - trashes Copper
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - plays 2 Gold
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Counterfeit
+Stef - shuffles deck
+Stef - draws Mint, Remodel, Gold, Gold
+ 
+---------- theParty: turn 10 ----------
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - draws Gold
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - draws Gold
+theParty - plays Mint
+theParty - reveals Gold
+theParty - gains Gold
+theParty - plays 2 Gold
+theParty - plays Counterfeit
+theParty - uses 1 coin token
+theParty - buys Province
+theParty - gains Province
+theParty - draws Province
+theParty - shuffles deck
+theParty - draws Gold, Province, Gold, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - plays Counterfeit
+Stef - plays Gold
+Stef - plays Gold
+Stef - trashes Gold
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Junk Dealer, Province
+Stef - shuffles deck
+Stef - draws Gold, Remodel
+ 
+---------- theParty: turn 11 ----------
+theParty - plays 3 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Junk Dealer, Counterfeit, Mint, Baker, Baker
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Mint, Gold, Province, Counterfeit
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - shuffles deck
+theParty - draws Province
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - draws Gold
+theParty - plays Mint
+theParty - reveals Gold
+theParty - gains Gold
+theParty - plays Counterfeit
+theParty - plays Gold
+theParty - plays Gold
+theParty - trashes Gold
+theParty - uses 3 coin tokens
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Gold, Province, Province, Gold
+theParty - shuffles deck
+theParty - draws Baker
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mint
+Stef - reveals Gold
+Stef - gains Gold
+Stef - plays Gold
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Remodel, Province, Junk Dealer, Province, Gold
+ 
+---------- theParty: turn 13 ----------
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - draws Gold
+theParty - plays 3 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Duchy, Counterfeit, Province, Baker, Duchy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Remodel
+Stef - trashes Junk Dealer
+Stef - gains Duchy
+Stef - plays Gold
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Province, Province, Duchy, Gold, Silver
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Baker
+theParty - receives 1 coin token
+theParty - draws Junk Dealer
+theParty - draws Mint
+theParty - shuffles deck
+theParty - draws Province, Province, Gold, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 1 Gold, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Mint, Duchy, Silver, Remodel
+ 
+---------- theParty: turn 15 ----------
+theParty - plays Mint
+theParty - reveals Gold
+theParty - gains Gold
+theParty - plays 1 Gold
+theParty - uses 2 coin tokens
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Province, Duchy, Junk Dealer, Gold, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Counterfeit, Gold, Province
+Stef - shuffles deck
+Stef - draws Province, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 1 Mint, 1 Remodel, 2 Gold, 2 Silver, 1 Counterfeit, 4 Province, 3 Duchy, 1 Estate
+Stef - total victory points: 34
+Stef - turns: 15
+ 
+theParty - cards: 2 Baker, 1 Junk Dealer, 1 Mint, 4 Gold, 1 Counterfeit, 4 Province, 3 Duchy
+theParty - total victory points: 33
+theParty - turns: 15
+ 
+1st place: Stef
+2nd place: theParty
+ 

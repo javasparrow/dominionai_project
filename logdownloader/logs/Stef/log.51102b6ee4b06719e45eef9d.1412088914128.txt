@@ -1,0 +1,689 @@
+------------ Game Setup ------------
+Supply cards: Develop, Forager, Woodcutter, Familiar, Caravan, Trader, Graverobber, Market, Royal Seal, Stash, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Estate
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Caravan
+yed - gains Caravan
+yed - shuffles deck
+yed - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Forager, Caravan, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Market
+yed - gains Market
+yed - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Caravan
+Stef - draws Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper
+yed - buys Forager
+yed - gains Forager
+yed - draws Copper, Caravan
+yed - shuffles deck
+yed - draws Copper, Copper, Forager
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Copper, Caravan, Copper, Copper, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays Caravan
+yed - draws Estate
+yed - plays Forager
+yed - trashes Estate
+yed - plays 3 Copper
+yed - buys Forager
+yed - gains Forager
+yed - draws Copper, Silver, Copper, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Copper, Copper, Forager, Caravan
+ 
+---------- yed: turn 6 ----------
+yed - duration Caravan
+yed - draws Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Caravan
+yed - gains Caravan
+yed - draws Copper, Market
+yed - shuffles deck
+yed - draws Estate, Copper, Caravan
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Caravan
+Stef - draws Estate
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 2 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Market
+yed - draws Forager
+yed - plays Caravan
+yed - draws Estate
+yed - plays Forager
+yed - trashes Estate
+yed - plays 2 Copper
+yed - buys Caravan
+yed - gains Caravan
+yed - draws Copper, Copper, Caravan, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Caravan, Caravan, Copper, Copper, Forager
+ 
+---------- yed: turn 8 ----------
+yed - duration Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - draws Forager
+yed - plays Forager
+yed - trashes Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Caravan
+yed - gains Caravan
+yed - draws Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Caravan, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Caravan, Caravan, Forager, Copper
+ 
+---------- yed: turn 9 ----------
+yed - duration Caravan
+yed - draws Caravan
+yed - plays Caravan
+yed - draws Market
+yed - plays Caravan
+yed - draws Copper
+yed - plays Market
+yed - draws Caravan
+yed - plays Caravan
+yed - draws Copper
+yed - plays 5 Copper
+yed - buys Market
+yed - gains Market
+yed - draws Silver, Forager, Forager, Copper
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Forager
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Trader
+Stef - gains Trader
+Stef - shuffles deck
+Stef - draws Caravan, Caravan, Caravan, Copper, Copper
+ 
+---------- yed: turn 10 ----------
+yed - duration Caravan
+yed - draws Market
+yed - duration Caravan
+yed - draws Copper
+yed - duration Caravan
+yed - draws Copper
+yed - plays Market
+yed - draws Market
+yed - plays Market
+yed - draws Estate
+yed - plays Forager
+yed - trashes Estate
+yed - plays Forager
+yed - trashes Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Graverobber
+yed - gains Graverobber
+yed - buys Silver
+yed - gains Silver
+yed - draws Caravan, Copper, Copper
+yed - shuffles deck
+yed - draws Forager, Forager
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Caravan
+Stef - draws Forager
+Stef - duration Caravan
+Stef - draws Forager
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Trader
+Stef - plays Caravan
+Stef - plays Caravan
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Caravan, Silver, Silver, Caravan, Silver
+ 
+---------- yed: turn 11 ----------
+yed - plays Caravan
+yed - draws Silver
+yed - plays Forager
+yed - trashes Silver
+yed - plays Forager
+yed - trashes Copper
+yed - plays 1 Copper
+yed - buys Market
+yed - gains Market
+yed - draws Caravan, Caravan, Market, Copper, Market
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Trader
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Silver
+Stef - buys Market
+Stef - gains Market
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Forager, Silver, Trader, Market
+ 
+---------- yed: turn 12 ----------
+yed - duration Caravan
+yed - draws Graverobber
+yed - plays Caravan
+yed - draws Caravan
+yed - plays Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - draws Copper
+yed - plays Market
+yed - draws Copper
+yed - plays Market
+yed - shuffles deck
+yed - draws Copper
+yed - plays Graverobber
+yed - gains Silver
+yed - plays 4 Copper, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Market, Forager, Forager
+yed - shuffles deck
+yed - draws Caravan
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Forager
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Market
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Silver
+Stef - buys Market
+Stef - gains Market
+Stef - buys Potion
+Stef - gains Potion
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Caravan, Trader, Caravan, Potion, Silver
+ 
+---------- yed: turn 13 ----------
+yed - duration Caravan
+yed - draws Graverobber
+yed - duration Caravan
+yed - draws Copper
+yed - duration Caravan
+yed - draws Province
+yed - plays Caravan
+yed - draws Silver
+yed - plays Market
+yed - draws Copper
+yed - plays Forager
+yed - trashes Copper
+yed - plays Forager
+yed - trashes Copper
+yed - plays Graverobber
+yed - gains Silver
+yed - plays 2 Silver
+yed - buys Trader
+yed - gains Trader
+yed - buys Market
+yed - gains Market
+yed - draws Silver, Copper, Copper, Market, Market
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Market
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Silver, 1 Potion
+Stef - buys Market
+Stef - gains Market
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - draws Market
+Stef - shuffles deck
+Stef - draws Market, Forager, Familiar, Trader
+ 
+---------- yed: turn 14 ----------
+yed - duration Caravan
+yed - shuffles deck
+yed - draws Silver
+yed - plays Market
+yed - draws Forager
+yed - plays Market
+yed - draws Forager
+yed - plays Forager
+yed - trashes Copper
+yed - plays Forager
+yed - trashes Copper
+yed - plays 2 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Caravan, Trader, Market, Caravan, Province
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Market
+Stef - draws Caravan
+Stef - plays Market
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Potion
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Market
+Stef - plays Familiar
+Stef - draws Forager
+yed - reveals reaction Trader
+yed - gains Silver
+Stef - plays Market
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 1 Silver, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Graverobber, Market, Potion, Caravan, Silver
+ 
+---------- yed: turn 15 ----------
+yed - plays Market
+yed - draws Silver
+yed - plays Caravan
+yed - draws Market
+yed - plays Market
+yed - draws Caravan
+yed - plays Caravan
+yed - draws Graverobber
+yed - plays Caravan
+yed - shuffles deck
+yed - draws Forager
+yed - plays Forager
+yed - trashes Silver
+yed - plays Graverobber
+yed - gains Silver
+yed - buys Copper
+yed - reveals reaction Trader
+yed - gains Silver
+yed - buys Copper
+yed - reveals reaction Trader
+yed - gains Silver
+yed - buys Copper
+yed - reveals reaction Trader
+yed - gains Silver
+yed - buys Copper
+yed - reveals reaction Trader
+yed - gains Silver
+yed - draws Silver, Silver, Forager, Market, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Market
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Market
+Stef - draws Trader
+Stef - plays Market
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Graverobber
+Stef - gains Potion
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - draws Potion, Familiar, Familiar, Market
+Stef - shuffles deck
+Stef - draws Market
+ 
+---------- yed: turn 16 ----------
+yed - duration Caravan
+yed - draws Market
+yed - duration Caravan
+yed - draws Caravan
+yed - duration Caravan
+yed - draws Silver
+yed - plays Caravan
+yed - draws Province
+yed - plays Market
+yed - shuffles deck
+yed - draws Silver
+yed - plays Market
+yed - draws Market
+yed - plays Market
+yed - draws Province
+yed - plays Forager
+yed - trashes Silver
+yed - plays 4 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Trader
+yed - gains Trader
+yed - draws Silver, Silver, Market, Silver, Trader
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Familiar
+Stef - draws Graverobber
+yed - reveals reaction Trader
+yed - gains Silver
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Caravan
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Familiar
+Stef - draws Province
+yed - reveals reaction Trader
+yed - gains Silver
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays Graverobber
+Stef - gains Potion
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Potion, Trader, Forager
+Stef - shuffles deck
+Stef - draws Caravan, Silver
+ 
+---------- yed: turn 17 ----------
+yed - duration Caravan
+yed - draws Graverobber
+yed - plays Market
+yed - draws Forager
+yed - plays Forager
+yed - trashes Silver
+yed - plays Graverobber
+yed - trashes Trader
+yed - gains Duchy
+yed - plays 2 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Estate
+yed - gains Estate
+yed - shuffles deck
+yed - draws Silver, Silver, Caravan, Silver, Forager
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Province
+Stef - duration Caravan
+Stef - draws Familiar
+Stef - duration Caravan
+Stef - draws Market
+Stef - plays Familiar
+Stef - draws Caravan
+yed - gains Curse
+Stef - plays Caravan
+Stef - draws Market
+Stef - plays Market
+Stef - draws Province
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Market
+Stef - draws Duchy
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - buys Copper
+Stef - reveals reaction Trader
+Stef - gains Silver
+Stef - draws Silver, Familiar, Market, Graverobber, Forager
+ 
+---------- yed: turn 18 ----------
+yed - plays Caravan
+yed - draws Duchy
+yed - plays Forager
+yed - trashes Silver
+yed - plays 2 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Estate
+yed - gains Estate
+yed - draws Silver, Market, Duchy, Trader, Caravan
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Familiar
+Stef - plays Graverobber
+Stef - trashes Market
+Stef - gains Province
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Caravan, Silver, Market, Province
+ 
+------------ Game Over ------------
+Stef - cards: 6 Caravan, 2 Market, 2 Forager, 1 Graverobber, 1 Familiar, 1 Trader, 7 Silver, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 18
+ 
+yed - cards: 4 Market, 4 Caravan, 2 Forager, 1 Trader, 1 Graverobber, 7 Silver, 3 Duchy, 3 Province, 2 Estate, 1 Curse
+yed - total victory points: 28
+yed - turns: 18
+ 
+1st place: Stef
+2nd place: yed
+ 

@@ -1,0 +1,785 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Secret Chamber, Black Market, Storeroom, Familiar, Remake, Taxman, Jester, Hoard, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Black market deck cards: Mine, Smithy, Saboteur, Advisor, Vagrant, Navigator, Remodel, Oracle, Procession, Coppersmith, Chapel, Militia, Urchin, Fishing Village, Upgrade, Moat, Stables, Mountebank, Cellar, Trader, Cache, Warehouse, Scheme, Ironmonger, Sage
+Rating system: pro
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - shuffles deck
+Stef - shuffles deck
+flies - draws Copper, Copper, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- flies: turn 1 ----------
+flies - plays 5 Copper
+flies - buys Remake
+flies - gains Remake
+flies - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 2 Copper
+flies - buys Hamlet
+flies - gains Hamlet
+flies - shuffles deck
+flies - draws Estate, Remake, Copper, Hamlet, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Hamlet, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - plays Remake
+flies - trashes Estate
+flies - gains Black Market
+flies - trashes Estate
+flies - gains Silver
+flies - plays 2 Copper
+flies - buys Hamlet
+flies - gains Hamlet
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Hamlet
+Stef - draws Remake
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Hamlet, Copper, Hamlet, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays 4 Copper
+flies - buys Remake
+flies - gains Remake
+flies - draws Copper
+flies - shuffles deck
+flies - draws Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - plays Hamlet
+Stef - draws Remake
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Black Market
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Estate, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- flies: turn 5 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Jester
+flies - gains Jester
+flies - draws Hamlet, Black Market, Copper, Copper, Hamlet
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Black Market, Hamlet, Hamlet, Copper, Hamlet
+ 
+---------- flies: turn 6 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - plays Hamlet
+flies - draws Remake
+flies - discards Remake
+flies - receives one buy
+flies - plays Black Market
+flies - reveals Moat, Mine, Advisor
+flies - places Advisor on bottom of the Black Market deck
+flies - places Mine on bottom of the Black Market deck
+flies - places Moat on bottom of the Black Market deck
+flies - plays 3 Copper
+flies - buys Hamlet
+flies - gains Hamlet
+flies - buys Hamlet
+flies - gains Hamlet
+flies - draws Remake, Copper
+flies - shuffles deck
+flies - draws Hamlet, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hamlet
+Stef - draws Remake
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Black Market
+Stef - reveals Scheme, Procession, Vagrant
+Stef - places Vagrant on bottom of the Black Market deck
+Stef - places Procession on bottom of the Black Market deck
+Stef - places Scheme on bottom of the Black Market deck
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Silver
+Stef - trashes Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Estate, Copper, Hamlet, Copper
+Stef - shuffles deck
+Stef - draws Hamlet
+ 
+---------- flies: turn 7 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - plays Remake
+flies - trashes Copper
+flies - trashes Copper
+flies - draws Copper, Hamlet, Black Market, Hamlet, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Remake
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Silver
+Stef - trashes Copper
+Stef - draws Hamlet, Black Market, Hamlet, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- flies: turn 8 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - plays Hamlet
+flies - draws Hamlet
+flies - plays Hamlet
+flies - draws Jester
+flies - discards Estate
+flies - receives one action
+flies - plays Jester
+Stef - reveals Hamlet
+Stef - discards Hamlet
+flies - plays Black Market
+flies - reveals Cellar, Sage, Mountebank
+flies - plays 2 Copper
+flies - places Mountebank on bottom of the Black Market deck
+flies - places Sage on bottom of the Black Market deck
+flies - places Cellar on bottom of the Black Market deck
+flies - buys Hunting Grounds
+flies - gains Hunting Grounds
+flies - draws Silver, Copper, Remake
+flies - shuffles deck
+flies - draws Black Market, Hamlet
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Remake
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - discards Remake
+Stef - receives one buy
+Stef - plays Black Market
+Stef - reveals Saboteur, Fishing Village, Oracle
+Stef - plays 2 Silver, 1 Copper
+Stef - places Oracle on bottom of the Black Market deck
+Stef - places Fishing Village on bottom of the Black Market deck
+Stef - places Saboteur on bottom of the Black Market deck
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - draws Copper, Hamlet, Hamlet
+Stef - shuffles deck
+Stef - draws Hunting Grounds, Remake
+ 
+---------- flies: turn 9 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - discards Silver
+flies - receives one action
+flies - plays Black Market
+flies - reveals Cache, Remodel, Navigator
+flies - places Navigator on bottom of the Black Market deck
+flies - places Remodel on bottom of the Black Market deck
+flies - places Cache on bottom of the Black Market deck
+flies - plays Remake
+flies - trashes Copper
+flies - trashes Copper
+flies - draws Estate, Copper, Copper, Remake, Hamlet
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Copper, Hamlet, Black Market, Silver
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Black Market
+Stef - reveals Trader, Stables, Urchin
+Stef - plays Silver
+Stef - plays Silver
+Stef - places Urchin on bottom of the Black Market deck
+Stef - places Stables on bottom of the Black Market deck
+Stef - places Trader on bottom of the Black Market deck
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - shuffles deck
+Stef - draws Hamlet, Hamlet, Hamlet, Hunting Grounds, Silver
+ 
+---------- flies: turn 10 ----------
+flies - plays Hamlet
+flies - draws Hamlet
+flies - plays Hamlet
+flies - draws Hunting Grounds
+flies - discards Copper
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Hamlet, Jester, Copper
+flies - shuffles deck
+flies - draws Black Market
+flies - plays Hamlet
+flies - draws Remake
+flies - discards Copper
+flies - receives one action
+flies - plays Remake
+flies - trashes Estate
+flies - gains Silver
+flies - trashes Jester
+flies - gains Hunting Grounds
+flies - plays Black Market
+flies - reveals Coppersmith, Smithy, Ironmonger
+flies - places Ironmonger on bottom of the Black Market deck
+flies - places Smithy on bottom of the Black Market deck
+flies - places Coppersmith on bottom of the Black Market deck
+flies - plays 1 Copper
+flies - draws Hamlet, Silver, Copper
+flies - shuffles deck
+flies - draws Hamlet, Hamlet
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Hamlet
+Stef - draws Hunting Grounds
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Hamlet, Silver, Remake
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Remake
+Stef - receives one action
+Stef - plays Hamlet
+Stef - draws Black Market
+Stef - plays Black Market
+Stef - reveals Upgrade, Chapel, Militia
+Stef - plays Silver
+Stef - plays Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - places Chapel on bottom of the Black Market deck
+Stef - places Militia on bottom of the Black Market deck
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Hamlet
+Stef - discards Hamlet
+Stef - receives one action
+Stef - discards Hamlet
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Upgrade, Remake
+Stef - shuffles deck
+Stef - draws Hamlet, Hamlet
+Stef - plays Upgrade
+Stef - trashes Remake
+Stef - gains Jester
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Jester
+Stef - plays Jester
+flies - reveals Copper
+flies - discards Copper
+flies - gains Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Hamlet, Silver, Hunting Grounds, Jester
+ 
+---------- flies: turn 11 ----------
+flies - plays Hamlet
+flies - draws Black Market
+flies - plays Hamlet
+flies - draws Remake
+flies - plays Hamlet
+flies - draws Hamlet
+flies - plays Hamlet
+flies - draws Remake
+flies - discards Silver
+flies - receives one action
+flies - plays Black Market
+flies - reveals Mine, Advisor, Warehouse
+flies - places Warehouse on bottom of the Black Market deck
+flies - places Advisor on bottom of the Black Market deck
+flies - places Mine on bottom of the Black Market deck
+flies - plays Remake
+flies - trashes Copper
+flies - trashes Remake
+flies - gains Jester
+flies - draws Hunting Grounds, Hunting Grounds, Silver, Copper
+flies - shuffles deck
+flies - draws Hamlet
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Hamlet, Black Market, Hamlet
+Stef - plays Hamlet
+Stef - draws Upgrade
+Stef - discards Silver
+Stef - receives one action
+Stef - discards Jester
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Silver, Hamlet
+Stef - shuffles deck
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Jester
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Black Market
+Stef - reveals Procession, Vagrant, Moat
+Stef - plays Silver
+Stef - buys Procession
+Stef - gains Procession
+Stef - places Vagrant on bottom of the Black Market deck
+Stef - places Moat on bottom of the Black Market deck
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Procession
+Stef - discards Upgrade
+Stef - receives one buy
+Stef - plays Procession
+Stef - plays Jester
+flies - reveals Hamlet
+flies - discards Hamlet
+Stef - plays Jester
+flies - reveals Hamlet
+flies - discards Hamlet
+Stef - trashes Jester
+Stef - gains Hunting Grounds
+Stef - plays 2 Silver
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Hamlet, Hamlet, Hamlet, Silver, Hamlet
+ 
+---------- flies: turn 12 ----------
+flies - plays Hamlet
+flies - draws Remake
+flies - discards Remake
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Black Market, Copper, Hamlet, Copper
+flies - plays Hamlet
+flies - draws Jester
+flies - discards Copper
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Silver
+flies - shuffles deck
+flies - draws Copper, Hamlet, Remake
+flies - plays Hamlet
+flies - draws Hamlet
+flies - discards Copper
+flies - receives one action
+flies - plays Hamlet
+flies - shuffles deck
+flies - draws Copper
+flies - discards Copper
+flies - receives one action
+flies - plays Jester
+Stef - reveals Black Market
+Stef - discards Black Market
+flies - gains Black Market
+flies - plays Black Market
+flies - reveals Sage, Mountebank, Scheme
+flies - plays Silver
+flies - buys Mountebank
+flies - gains Mountebank
+flies - places Scheme on bottom of the Black Market deck
+flies - places Sage on bottom of the Black Market deck
+flies - plays Remake
+flies - trashes Copper
+flies - trashes Copper
+flies - shuffles deck
+flies - draws Hamlet, Hamlet, Hunting Grounds, Silver, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hamlet
+Stef - draws Hunting Grounds
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Upgrade, Procession, Hunting Grounds
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Silver, Jester, Hamlet, Hunting Grounds
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Procession
+Stef - plays Jester
+flies - reveals Hamlet
+flies - discards Hamlet
+Stef - plays Jester
+flies - reveals Hamlet
+flies - discards Hamlet
+Stef - trashes Jester
+Stef - gains Hunting Grounds
+Stef - plays Hamlet
+Stef - draws Black Market
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Silver, Hunting Grounds
+Stef - plays Hamlet
+Stef - discards Upgrade
+Stef - receives one action
+Stef - plays Black Market
+Stef - reveals Fishing Village, Oracle, Cellar
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - places Oracle on bottom of the Black Market deck
+Stef - places Cellar on bottom of the Black Market deck
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Fishing Village
+Stef - discards Silver
+Stef - receives one action
+Stef - discards Silver
+Stef - receives one buy
+Stef - plays Hunting Grounds
+Stef - draws Upgrade
+Stef - shuffles deck
+Stef - draws Silver, Silver
+Stef - plays Fishing Village
+Stef - plays 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Hunting Grounds, Hamlet, Upgrade, Hamlet, Procession
+ 
+---------- flies: turn 13 ----------
+flies - plays Hamlet
+flies - draws Hunting Grounds
+flies - discards Silver
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Mountebank, Remake, Jester, Black Market
+flies - plays Hamlet
+flies - draws Black Market
+flies - discards Black Market
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Copper
+flies - shuffles deck
+flies - draws Hamlet, Hamlet, Black Market
+flies - plays Hamlet
+flies - draws Silver
+flies - discards Black Market
+flies - receives one action
+flies - discards Remake
+flies - receives one buy
+flies - plays Jester
+Stef - reveals Silver
+Stef - discards Silver
+Stef - gains Silver
+flies - plays Hamlet
+flies - shuffles deck
+flies - draws Black Market
+flies - discards Black Market
+flies - receives one action
+flies - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+flies - plays Black Market
+flies - reveals Remodel, Navigator, Saboteur
+flies - plays 2 Silver, 1 Copper
+flies - places Saboteur on bottom of the Black Market deck
+flies - places Navigator on bottom of the Black Market deck
+flies - places Remodel on bottom of the Black Market deck
+flies - buys Hunting Grounds
+flies - gains Hunting Grounds
+flies - buys Potion
+flies - gains Potion
+flies - draws Remake
+flies - shuffles deck
+flies - draws Hunting Grounds, Hamlet, Black Market, Hamlet
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Fishing Village
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Silver, Black Market, Province
+Stef - plays Hamlet
+Stef - draws Silver
+Stef - discards Province
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hamlet, Hamlet, Hunting Grounds, Hunting Grounds
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Hamlet
+Stef - shuffles deck
+Stef - draws Silver, Silver, Silver
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Procession
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - draws Province
+Stef - trashes Silver
+Stef - gains Remake
+Stef - trashes Upgrade
+Stef - gains Hunting Grounds
+Stef - plays Black Market
+Stef - reveals Stables, Urchin, Cache
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - places Cache on bottom of the Black Market deck
+Stef - places Stables on bottom of the Black Market deck
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Urchin
+Stef - discards Province
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Remake, Hamlet, Hunting Grounds
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Remake
+Stef - trashes Curse
+Stef - trashes Silver
+Stef - gains Potion
+Stef - plays Urchin
+Stef - shuffles deck
+Stef - draws Potion
+flies - discards Black Market
+Stef - plays 2 Silver, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - shuffles deck
+Stef - draws Silver, Hamlet, Procession, Hamlet, Urchin
+ 
+---------- flies: turn 14 ----------
+flies - plays Hamlet
+flies - draws Copper
+flies - discards Copper
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Jester, Hunting Grounds, Hamlet, Silver
+flies - plays Hamlet
+flies - draws Hunting Grounds
+flies - discards Silver
+flies - receives one action
+flies - plays Hunting Grounds
+flies - draws Silver, Black Market, Hamlet, Potion
+flies - plays Hamlet
+flies - draws Mountebank
+flies - discards Hunting Grounds
+flies - receives one action
+flies - plays Hamlet
+flies - shuffles deck
+flies - draws Hunting Grounds
+flies - discards Remake
+flies - receives one action
+flies - discards Jester
+flies - receives one buy
+flies - plays Hunting Grounds
+flies - draws Black Market, Copper, Silver
+flies - shuffles deck
+flies - draws Jester
+flies - plays Black Market
+flies - reveals Smithy, Ironmonger, Trader
+flies - plays 2 Silver, 1 Potion, 1 Copper
+flies - buys Ironmonger
+flies - gains Ironmonger
+flies - places Trader on bottom of the Black Market deck
+flies - places Smithy on bottom of the Black Market deck
+flies - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+flies - buys Familiar
+flies - gains Familiar
+flies - draws Remake
+flies - shuffles deck
+flies - draws Black Market, Hunting Grounds, Silver, Hamlet
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Urchin
+Stef - draws Familiar
+flies - discards Black Market
+Stef - plays Familiar
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Silver
+flies - gains Curse
+Stef - plays Hamlet
+Stef - draws Hunting Grounds
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Fishing Village, Potion, Hamlet, Hunting Grounds
+Stef - plays Fishing Village
+Stef - plays Hunting Grounds
+Stef - draws Black Market, Hunting Grounds, Remake, Hamlet
+Stef - plays Hamlet
+Stef - draws Hunting Grounds
+Stef - discards Silver
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Province, Hunting Grounds, Hamlet, Hamlet
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Silver
+Stef - discards Province
+Stef - receives one action
+Stef - plays Hunting Grounds
+Stef - draws Curse, Silver, Mercenary, Copper
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Province
+Stef - discards Province
+Stef - receives one action
+Stef - plays Black Market
+Stef - reveals Militia, Chapel, Coppersmith
+Stef - places Coppersmith on bottom of the Black Market deck
+Stef - places Chapel on bottom of the Black Market deck
+Stef - places Militia on bottom of the Black Market deck
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Province
+Stef - discards Province
+Stef - receives one action
+Stef - plays Remake
+Stef - trashes Procession
+Stef - gains Jester
+Stef - trashes Copper
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Jester
+Stef - discards Hunting Grounds
+Stef - receives one action
+Stef - discards Silver
+Stef - receives one buy
+Stef - plays Mercenary
+Stef - trashes Curse, Silver
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Silver
+flies - discards Remake
+Stef - plays Jester
+flies - reveals Jester
+flies - discards Jester
+Stef - gains Jester
+Stef - plays 1 Potion, 1 Silver
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - draws Hunting Grounds
+Stef - shuffles deck
+Stef - draws Hamlet, Province, Hamlet, Hunting Grounds
+ 
+---------- flies: turn 15 ----------
+flies - plays Hamlet
+flies - draws Familiar
+flies - discards Silver
+flies - receives one action
+flies - plays Familiar
+flies - draws Silver
+Stef - gains Curse
+flies - plays Hunting Grounds
+flies - draws Ironmonger, Mountebank, Hunting Grounds, Black Market
+flies - plays Ironmonger
+flies - draws Copper
+flies - reveals: Potion
+flies - discards Potion
+ 
+------------ Game Over ------------
+Stef - cards: 6 Hunting Grounds, 6 Hamlet, 2 Familiar, 2 Jester, 1 Remake, 1 Mercenary, 1 Black Market, 1 Fishing Village, 1 Potion, 1 Silver, 1 Province, 1 Curse
+Stef - total victory points: 5
+Stef - turns: 15
+ 
+flies - resigned
+flies - cards: 3 Hamlet, 2 Hunting Grounds, 2 Black Market, 1 Mountebank, 1 Remake, 1 Jester, 2 Silver, 1 Copper, 1 Potion, 1 Curse
+flies - total victory points: -1
+flies - turns: 14
+ 
+1st place: Stef
+2nd place: flies
+ 

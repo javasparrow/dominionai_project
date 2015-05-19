@@ -1,0 +1,615 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Haven, Chancellor, Scheme, Bureaucrat, Throne Room, Jester, Knights, Hoard, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - shuffles deck
+Stef - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Chancellor
+Stef - gains Chancellor
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Chancellor
+shark_bait - gains Chancellor
+shark_bait - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Chancellor, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Silver, Chancellor
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 3 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Jester, Copper, Chancellor, Copper, Estate
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Chancellor
+shark_bait - moves deck to discards
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Jester
+shark_bait - gains Jester
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Jester
+shark_bait - reveals Copper
+shark_bait - discards Copper
+shark_bait - gains Copper
+Stef - plays 2 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Copper, Copper, Haven, Copper, Estate
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 5 Copper
+shark_bait - buys Sir Bailey
+shark_bait - gains Sir Bailey
+shark_bait - draws Estate, Estate, Estate, Jester, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Jester
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays 1 Silver
+shark_bait - buys Throne Room
+shark_bait - gains Throne Room
+shark_bait - draws Chancellor, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Jester
+shark_bait - reveals Sir Bailey
+shark_bait - discards Sir Bailey
+Stef - plays 4 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Estate, Scheme, Copper, Copper, Chancellor
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Chancellor
+shark_bait - moves deck to discards
+shark_bait - plays 3 Copper
+shark_bait - buys Jester
+shark_bait - gains Jester
+shark_bait - shuffles deck
+shark_bait - draws Estate, Copper, Jester, Throne Room, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Chancellor
+Stef - plays 2 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Throne Room
+Stef - shuffles deck
+Stef - draws Jester, Estate, Throne Room
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Throne Room
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays 2 Copper
+shark_bait - buys Sir Michael
+shark_bait - gains Sir Michael
+shark_bait - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Scheme
+Stef - draws Haven
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Throne Room
+Stef - plays Jester
+shark_bait - reveals Estate
+shark_bait - discards Estate
+shark_bait - gains Curse
+Stef - plays Jester
+shark_bait - reveals Chancellor
+shark_bait - discards Chancellor
+Stef - gains Chancellor
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays 1 Copper
+Stef - buys Sir Vander
+Stef - gains Sir Vander
+Stef - Scheme choice: Throne Room
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Throne Room, Copper, Chancellor, Estate
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Dame Anna
+shark_bait - gains Dame Anna
+shark_bait - draws Sir Bailey, Copper, Copper, Jester, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Throne Room
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays Chancellor
+Stef - plays 3 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - Scheme choice: Throne Room
+Stef - draws Throne Room
+Stef - shuffles deck
+Stef - draws Estate, Copper, Haven, Copper
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Sir Bailey
+shark_bait - shuffles deck
+shark_bait - draws Dame Anna
+Stef - reveals: Chancellor, Copper
+Stef - trashes Chancellor
+Stef - discards Copper
+shark_bait - plays Dame Anna
+shark_bait - trashes Copper, Copper
+Stef - reveals: Throne Room, Copper
+Stef - trashes Throne Room
+Stef - discards Copper
+shark_bait - draws Copper, Chancellor, Copper, Throne Room, Curse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Throne Room
+Stef - plays Haven
+Stef - draws Jester
+Stef - sets aside Estate
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays Jester
+shark_bait - reveals Estate
+shark_bait - discards Estate
+shark_bait - gains Curse
+Stef - plays 2 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Copper, Copper, Jester, Estate, Chancellor
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Throne Room
+shark_bait - plays Chancellor
+shark_bait - moves deck to discards
+shark_bait - plays Chancellor
+shark_bait - buys Throne Room
+shark_bait - gains Throne Room
+shark_bait - shuffles deck
+shark_bait - draws Chancellor, Jester, Dame Anna, Estate, Curse
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Jester
+shark_bait - reveals Copper
+shark_bait - discards Copper
+shark_bait - gains Copper
+Stef - plays 3 Copper
+Stef - buys Dame Sylvia
+Stef - gains Dame Sylvia
+Stef - draws Copper, Copper, Copper, Scheme, Estate
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Dame Anna
+shark_bait - trashes Curse, Estate
+Stef - reveals: Sir Vander, King's Court
+Stef - trashes Sir Vander
+Stef - gains Gold
+Stef - discards King's Court
+shark_bait - trashes Dame Anna
+shark_bait - draws Estate, Estate, Jester, Throne Room, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Haven, Throne Room, Copper, Jester
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Throne Room
+shark_bait - plays Jester
+Stef - reveals Dame Sylvia
+Stef - discards Dame Sylvia
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays 1 Copper
+shark_bait - buys Dame Natalie
+shark_bait - gains Dame Natalie
+shark_bait - draws Silver, Sir Michael, Copper, Curse, Throne Room
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Throne Room
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Estate
+Stef - plays Jester
+shark_bait - reveals Copper
+shark_bait - discards Copper
+shark_bait - gains Copper
+Stef - plays 3 Copper
+Stef - buys Dame Molly
+Stef - gains Dame Molly
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Throne Room
+Stef - draws Throne Room, Scheme, Gold, Chancellor, Copper
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Throne Room
+shark_bait - plays Sir Michael
+Stef - discards Copper
+Stef - discards Scheme
+Stef - reveals: King's Court, Copper
+shark_bait - plays Sir Michael
+Stef - reveals: Jester, Throne Room
+Stef - trashes Throne Room
+Stef - discards Jester
+shark_bait - plays 1 Silver, 1 Copper
+shark_bait - buys Scheme
+shark_bait - gains Scheme
+shark_bait - draws Sir Bailey, Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Throne Room
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays Chancellor
+Stef - plays 1 Gold
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Copper, King's Court, Scheme, Dame Sylvia, Copper
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Sir Bailey
+shark_bait - draws Chancellor
+Stef - reveals: Scheme, Copper
+Stef - trashes Scheme
+Stef - discards Copper
+shark_bait - plays Chancellor
+shark_bait - moves deck to discards
+shark_bait - plays 4 Copper
+shark_bait - buys Gold
+shark_bait - gains Gold
+shark_bait - shuffles deck
+shark_bait - draws Chancellor, Copper, Copper, Curse, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Haven
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Haven
+Stef - draws King's Court
+Stef - sets aside Copper
+Stef - plays King's Court
+Stef - plays Dame Sylvia
+shark_bait - reveals: Jester, Copper
+shark_bait - trashes Jester
+shark_bait - discards Copper
+Stef - plays Dame Sylvia
+shark_bait - reveals: Copper, Sir Bailey
+shark_bait - trashes Sir Bailey
+shark_bait - discards Copper
+Stef - trashes Dame Sylvia
+Stef - plays Dame Sylvia
+shark_bait - reveals: Silver, Copper
+shark_bait - trashes Silver
+shark_bait - discards Copper
+Stef - plays 2 Copper
+Stef - buys Dame Josephine
+Stef - gains Dame Josephine
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: King's Court
+Stef - draws King's Court, Scheme, King's Court, Estate, Copper
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays Chancellor
+shark_bait - moves deck to discards
+shark_bait - plays 3 Copper
+shark_bait - buys Sir Martin
+shark_bait - gains Sir Martin
+shark_bait - shuffles deck
+shark_bait - draws Scheme, Copper, Estate, Estate, Jester
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays 4 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: King's Court
+Stef - draws King's Court, King's Court, Scheme, Jester, Copper
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Scheme
+shark_bait - draws Sir Martin
+shark_bait - plays Jester
+Stef - reveals Chancellor
+Stef - discards Chancellor
+shark_bait - gains Chancellor
+shark_bait - plays 1 Copper
+shark_bait - buys Scheme
+shark_bait - gains Scheme
+shark_bait - Scheme choice: Jester
+shark_bait - draws Jester, Gold, Throne Room, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Dame Molly
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays Jester
+shark_bait - reveals Curse
+shark_bait - discards Curse
+shark_bait - gains Curse
+Stef - plays Jester
+shark_bait - reveals Copper
+shark_bait - discards Copper
+shark_bait - gains Copper
+Stef - plays Jester
+shark_bait - reveals Chancellor
+shark_bait - discards Chancellor
+Stef - gains Chancellor
+Stef - plays King's Court
+Stef - plays Dame Molly
+shark_bait - reveals: Copper, Sir Michael
+shark_bait - trashes Sir Michael
+shark_bait - discards Copper
+Stef - trashes Dame Molly
+Stef - plays Dame Molly
+shark_bait - reveals: Copper, Dame Natalie
+shark_bait - trashes Dame Natalie
+shark_bait - discards Copper
+Stef - trashes Dame Molly
+Stef - plays Dame Molly
+shark_bait - reveals: Copper, Throne Room
+shark_bait - trashes Throne Room
+shark_bait - discards Copper
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: King's Court
+Stef - draws King's Court, King's Court, Scheme, Throne Room, Copper
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays Throne Room
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays Jester
+Stef - reveals Jester
+Stef - discards Jester
+shark_bait - gains Jester
+shark_bait - plays 2 Copper, 1 Gold
+shark_bait - buys King's Court
+shark_bait - gains King's Court
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Copper, Scheme
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Throne Room
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Dame Josephine
+Stef - plays King's Court
+Stef - plays Dame Josephine
+shark_bait - reveals: Sir Martin, Copper
+shark_bait - trashes Sir Martin
+shark_bait - discards Copper
+Stef - trashes Dame Josephine
+Stef - plays Dame Josephine
+shark_bait - reveals: King's Court, Chancellor
+shark_bait - trashes Chancellor
+shark_bait - discards King's Court
+Stef - plays Dame Josephine
+shark_bait - reveals: Scheme, Jester
+shark_bait - trashes Scheme
+shark_bait - discards Jester
+Stef - plays King's Court
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: King's Court
+Stef - draws King's Court, King's Court, Scheme, Chancellor, Copper
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays Scheme
+shark_bait - draws Jester
+shark_bait - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+shark_bait - plays 3 Copper
+shark_bait - buys Jester
+shark_bait - gains Jester
+shark_bait - Scheme choice: Scheme
+shark_bait - draws Scheme, Copper, Chancellor, Gold, Copper
+ 
+---------- Stef: turn 19 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Gold
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays Chancellor
+Stef - plays King's Court
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Jester
+Stef - gains Jester
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: King's Court
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, King's Court, King's Court, Sir Destry, Estate
+ 
+---------- shark_bait: turn 19 ----------
+shark_bait - plays Scheme
+shark_bait - draws Copper
+shark_bait - plays Chancellor
+shark_bait - plays 3 Copper, 1 Gold
+shark_bait - buys King's Court
+shark_bait - gains King's Court
+shark_bait - Scheme choice: Scheme
+shark_bait - draws Scheme, Curse, Copper, Throne Room, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Sir Destry
+Stef - draws Haven, Copper
+shark_bait - reveals: Estate, Copper
+Stef - plays Sir Destry
+Stef - draws Copper, Estate
+shark_bait - shuffles deck
+shark_bait - reveals: Copper, Estate
+Stef - plays Sir Destry
+Stef - draws Jester, Copper
+shark_bait - reveals: Copper, Jester
+shark_bait - trashes Jester
+shark_bait - discards Copper
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays Scheme
+Stef - draws Jester
+Stef - plays Scheme
+Stef - draws Chancellor
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays Jester
+shark_bait - reveals Gold
+shark_bait - discards Gold
+Stef - gains Gold
+Stef - plays Jester
+shark_bait - reveals King's Court
+shark_bait - discards King's Court
+Stef - gains King's Court
+Stef - plays Chancellor
+Stef - moves deck to discards
+Stef - plays 5 Copper
+ 
+------------ Game Over ------------
+Stef - cards: 1 King's Court, 1 Throne Room, 1 Scheme, 1 Chancellor, 1 Jester, 8 Copper, 2 Gold, 3 Estate
+Stef - total victory points: 3
+Stef - turns: 19
+ 
+shark_bait - resigned
+shark_bait - cards: 2 King's Court, 2 Jester, 1 Scheme, 1 Throne Room, 1 Chancellor, 9 Copper, 1 Gold, 2 Estate, 2 Curse
+shark_bait - total victory points: 0
+shark_bait - turns: 19
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

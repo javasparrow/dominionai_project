@@ -1,0 +1,408 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Chapel, Haven, Chancellor, Sage, Village, Workshop, Armory, Scavenger, Soothsayer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ord_realdgame - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ord_realdgame - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ord_realdgame - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- ord_realdgame: turn 1 ----------
+ord_realdgame - plays 4 Copper
+ord_realdgame - buys Workshop
+ord_realdgame - gains Workshop
+ord_realdgame - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Copper, Copper, Scavenger, Copper, Copper
+ 
+---------- ord_realdgame: turn 2 ----------
+ord_realdgame - plays 3 Copper
+ord_realdgame - buys Chapel
+ord_realdgame - gains Chapel
+ord_realdgame - shuffles deck
+ord_realdgame - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Chapel on top of deck
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Copper, Gold, Scavenger, Copper
+ 
+---------- ord_realdgame: turn 3 ----------
+ord_realdgame - plays 3 Copper
+ord_realdgame - buys Village
+ord_realdgame - gains Village
+ord_realdgame - draws Workshop, Copper, Copper, Copper, Chapel
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper
+Stef - plays 1 Gold
+Stef - buys Village
+Stef - gains Village
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- ord_realdgame: turn 4 ----------
+ord_realdgame - plays Workshop
+ord_realdgame - gains Scavenger
+ord_realdgame - plays 3 Copper
+ord_realdgame - buys Village
+ord_realdgame - gains Village
+ord_realdgame - draws Copper, Estate
+ord_realdgame - shuffles deck
+ord_realdgame - draws Workshop, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Estate, Gold
+ 
+---------- ord_realdgame: turn 5 ----------
+ord_realdgame - plays Workshop
+ord_realdgame - gains Village
+ord_realdgame - plays 2 Copper
+ord_realdgame - buys Haven
+ord_realdgame - gains Haven
+ord_realdgame - draws Copper, Village, Copper, Scavenger, Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Soothsayer
+Stef - gains Soothsayer
+Stef - draws Scavenger, Village, Estate, Copper, Haven
+ 
+---------- ord_realdgame: turn 6 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Scavenger
+ord_realdgame - places Estate on top of deck
+ord_realdgame - plays 4 Copper
+ord_realdgame - buys Soothsayer
+ord_realdgame - gains Soothsayer
+ord_realdgame - draws Estate, Chapel, Estate, Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - places Soothsayer on top of deck
+Stef - plays Haven
+Stef - draws Soothsayer
+Stef - sets aside Estate
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Haven
+Stef - plays 2 Copper
+Stef - buys Village
+Stef - gains Village
+Stef - draws Copper, Chapel
+Stef - shuffles deck
+Stef - draws Gold, Copper, Copper
+ 
+---------- ord_realdgame: turn 7 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Haven
+ord_realdgame - draws Scavenger
+ord_realdgame - sets aside Scavenger
+ord_realdgame - plays Chapel
+ord_realdgame - trashes Estate, Estate, Copper, Copper
+ord_realdgame - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Estate in hand
+Stef - plays Chapel
+Stef - trashes Estate, Copper, Copper, Copper
+Stef - plays 1 Gold
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Scavenger, Village, Village, Soothsayer, Copper
+ 
+---------- ord_realdgame: turn 8 ----------
+ord_realdgame - duration Haven
+ord_realdgame - places set aside Scavenger in hand
+ord_realdgame - plays Scavenger
+ord_realdgame - places Chapel on top of deck
+ord_realdgame - plays 4 Copper
+ord_realdgame - buys Gold
+ord_realdgame - gains Gold
+ord_realdgame - draws Chapel, Village, Soothsayer, Copper, Workshop
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Village
+Stef - draws Copper
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Chapel on top of deck
+Stef - plays Village
+Stef - draws Chapel
+Stef - plays Chapel
+Stef - trashes Copper, Copper
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Village
+Stef - buys Haven
+Stef - gains Haven
+Stef - shuffles deck
+Stef - draws Soothsayer, Gold, Chapel, Haven, Gold
+ 
+---------- ord_realdgame: turn 9 ----------
+ord_realdgame - plays Village
+ord_realdgame - shuffles deck
+ord_realdgame - draws Estate
+ord_realdgame - plays Village
+ord_realdgame - draws Curse
+ord_realdgame - plays Soothsayer
+ord_realdgame - gains Gold
+Stef - gains Curse
+Stef - draws Gold
+ord_realdgame - plays Workshop
+ord_realdgame - gains Village
+ord_realdgame - plays Chapel
+ord_realdgame - trashes Copper, Estate, Curse
+ord_realdgame - draws Copper, Copper, Copper, Haven, Curse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Haven
+Stef - draws Scavenger
+Stef - sets aside Chapel
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Copper
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Haven, Village, Village, Estate, Estate
+ 
+---------- ord_realdgame: turn 10 ----------
+ord_realdgame - plays Haven
+ord_realdgame - draws Scavenger
+ord_realdgame - sets aside Curse
+ord_realdgame - plays Scavenger
+ord_realdgame - places Chapel on top of deck
+ord_realdgame - plays 4 Copper
+ord_realdgame - buys Soothsayer
+ord_realdgame - gains Soothsayer
+ord_realdgame - draws Chapel, Village, Gold
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Chapel in hand
+Stef - plays Village
+Stef - draws Haven
+Stef - plays Haven
+Stef - shuffles deck
+Stef - draws Curse
+Stef - sets aside Village
+Stef - plays Haven
+Stef - draws Gold
+Stef - sets aside Gold
+Stef - plays Chapel
+Stef - trashes Curse, Estate, Estate
+Stef - draws Province, Gold, Scavenger, Soothsayer, Gold
+ 
+---------- ord_realdgame: turn 11 ----------
+ord_realdgame - duration Haven
+ord_realdgame - places set aside Curse in hand
+ord_realdgame - plays Village
+ord_realdgame - draws Village
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Village
+ord_realdgame - draws Curse
+ord_realdgame - plays Chapel
+ord_realdgame - trashes Curse, Copper, Curse
+ord_realdgame - plays 2 Gold
+ord_realdgame - buys Gold
+ord_realdgame - gains Gold
+ord_realdgame - draws Soothsayer, Workshop, Village, Scavenger, Soothsayer
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Haven
+Stef - places set aside Village in hand
+Stef - duration Haven
+Stef - places set aside Gold in hand
+Stef - plays Village
+Stef - draws Gold
+Stef - plays Scavenger
+Stef - places Haven on top of deck
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Copper
+Stef - plays 4 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Haven
+Stef - shuffles deck
+Stef - draws Haven, Province, Gold, Haven
+ 
+---------- ord_realdgame: turn 12 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Copper
+ord_realdgame - plays Soothsayer
+ord_realdgame - gains Gold
+Stef - gains Curse
+Stef - draws Village
+ord_realdgame - plays Workshop
+ord_realdgame - gains Village
+ord_realdgame - plays 2 Copper
+ord_realdgame - buys Haven
+ord_realdgame - gains Haven
+ord_realdgame - draws Copper
+ord_realdgame - shuffles deck
+ord_realdgame - draws Village, Chapel, Village, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Village
+Stef - draws Village
+Stef - plays Haven
+Stef - draws Soothsayer
+Stef - sets aside Village
+Stef - plays Haven
+Stef - draws Province
+Stef - sets aside Province
+Stef - plays Haven
+Stef - draws Gold
+Stef - sets aside Province
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Soothsayer
+Stef - plays 2 Gold
+Stef - buys Scavenger
+Stef - gains Scavenger
+Stef - draws Gold, Scavenger, Gold, Gold, Chapel
+ 
+---------- ord_realdgame: turn 13 ----------
+ord_realdgame - plays Village
+ord_realdgame - draws Haven
+ord_realdgame - plays Village
+ord_realdgame - draws Soothsayer
+ord_realdgame - plays Haven
+ord_realdgame - draws Copper
+ord_realdgame - sets aside Chapel
+ord_realdgame - plays Soothsayer
+ord_realdgame - gains Gold
+Stef - gains Curse
+Stef - shuffles deck
+Stef - draws Village
+ord_realdgame - plays Soothsayer
+ord_realdgame - gains Gold
+Stef - gains Curse
+Stef - draws Gold
+ord_realdgame - plays 2 Copper, 1 Gold
+ord_realdgame - buys Haven
+ord_realdgame - gains Haven
+ord_realdgame - draws Haven, Gold, Village, Curse, Village
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Village in hand
+Stef - duration Haven
+Stef - places set aside Province in hand
+Stef - duration Haven
+Stef - places set aside Province in hand
+Stef - plays Village
+Stef - draws Soothsayer
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Curse on top of deck
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Chapel
+Stef - trashes Curse
+Stef - plays Soothsayer
+Stef - gains Gold
+ord_realdgame - gains Curse
+ord_realdgame - draws Gold
+Stef - plays 4 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Village, Chapel, Village, Scavenger, Gold
+ 
+---------- ord_realdgame: turn 14 ----------
+ord_realdgame - duration Haven
+ord_realdgame - places set aside Chapel in hand
+ord_realdgame - plays Village
+ord_realdgame - draws Gold
+ord_realdgame - plays Village
+ord_realdgame - draws Scavenger
+ord_realdgame - plays Scavenger
+ord_realdgame - moves deck to discards
+ord_realdgame - places Curse on top of deck
+ord_realdgame - plays Haven
+ord_realdgame - draws Curse
+ord_realdgame - sets aside Gold
+ord_realdgame - plays Chapel
+ord_realdgame - trashes Curse, Curse
+ord_realdgame - plays 2 Gold
+ord_realdgame - buys Province
+ord_realdgame - gains Province
+ord_realdgame - shuffles deck
+ord_realdgame - draws Soothsayer, Gold, Gold, Soothsayer, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Village
+Stef - draws Gold
+Stef - plays Scavenger
+Stef - moves deck to discards
+Stef - places Curse on top of deck
+Stef - plays Village
+Stef - draws Curse
+Stef - plays Chapel
+Stef - trashes Curse
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Scavenger, Chapel, Soothsayer, Haven, Gold
+ 
+---------- ord_realdgame: turn 15 ----------
+ord_realdgame - duration Haven
+ord_realdgame - places set aside Gold in hand
+ 
+------------ Game Over ------------
+Stef - cards: 3 Haven, 2 Scavenger, 2 Village, 1 Chapel, 1 Soothsayer, 7 Gold, 4 Province, 1 Curse
+Stef - total victory points: 23
+Stef - turns: 15
+ 
+ord_realdgame - resigned
+ord_realdgame - cards: 5 Village, 2 Soothsayer, 2 Haven, 1 Scavenger, 1 Chapel, 1 Workshop, 6 Gold, 3 Copper, 1 Province, 1 Curse
+ord_realdgame - total victory points: 5
+ord_realdgame - turns: 14
+ 
+1st place: Stef
+2nd place: ord_realdgame
+ 

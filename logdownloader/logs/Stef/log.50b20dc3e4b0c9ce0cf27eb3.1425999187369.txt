@@ -1,0 +1,371 @@
+------------ Game Setup ------------
+Supply cards: Masterpiece, Tunnel, Moneylender, Spice Merchant, Spy, Talisman, Trader, Apprentice, Duke, Graverobber, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Collatz - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Collatz - shuffles deck
+Stef - draws Necropolis, Copper, Hovel, Copper, Copper
+Collatz - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Collatz: turn 1 ----------
+Collatz - plays 4 Copper
+Collatz - buys Spice Merchant
+Collatz - gains Spice Merchant
+Collatz - draws Copper, Hovel, Copper, Copper, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - shuffles deck
+Stef - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+ 
+---------- Collatz: turn 2 ----------
+Collatz - plays Necropolis
+Collatz - plays 3 Copper
+Collatz - buys Silver
+Collatz - gains Silver
+Collatz - shuffles deck
+Collatz - draws Copper, Overgrown Estate, Copper, Copper, Hovel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Necropolis, Copper, Silver, Copper
+ 
+---------- Collatz: turn 3 ----------
+Collatz - plays 3 Copper
+Collatz - buys Silver
+Collatz - gains Silver
+Collatz - draws Copper, Copper, Spice Merchant, Copper, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Spice Merchant, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- Collatz: turn 4 ----------
+Collatz - plays Spice Merchant
+Collatz - trashes Copper
+Collatz - chooses two cards and one action
+Collatz - draws Copper, Silver
+Collatz - plays Necropolis
+Collatz - plays 3 Copper, 1 Silver
+Collatz - buys Apprentice
+Collatz - gains Apprentice
+Collatz - shuffles deck
+Collatz - draws Spice Merchant, Copper, Copper, Necropolis, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Hovel
+Stef - plays 4 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - draws Copper, Silver, Overgrown Estate, Apprentice, Necropolis
+ 
+---------- Collatz: turn 5 ----------
+Collatz - plays Spice Merchant
+Collatz - trashes Copper
+Collatz - chooses two cards and one action
+Collatz - draws Apprentice, Copper
+Collatz - plays Apprentice
+Collatz - trashes Copper
+Collatz - draws Hovel, Overgrown Estate, Copper, Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apprentice
+Stef - trashes Overgrown Estate
+Stef - draws Silver
+Stef - draws Copper
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Copper, Silver, Silver, Necropolis, Copper
+ 
+---------- Collatz: turn 6 ----------
+Collatz - plays 2 Copper, 1 Silver
+Collatz - buys Silver
+Collatz - gains Silver
+Collatz - draws Silver
+Collatz - shuffles deck
+Collatz - draws Copper, Overgrown Estate, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Copper, Spice Merchant, Gold, Apprentice
+ 
+---------- Collatz: turn 7 ----------
+Collatz - plays 2 Silver, 2 Copper
+Collatz - buys Gold
+Collatz - gains Gold
+Collatz - draws Silver, Hovel, Spice Merchant, Copper, Necropolis
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Spice Merchant, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Hovel, Copper
+Stef - plays Apprentice
+Stef - trashes Hovel
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Necropolis, Silver, Copper, Silver, Gold
+ 
+---------- Collatz: turn 8 ----------
+Collatz - plays Spice Merchant
+Collatz - trashes Copper
+Collatz - chooses two cards and one action
+Collatz - draws Apprentice, Copper
+Collatz - plays Apprentice
+Collatz - trashes Hovel
+Collatz - shuffles deck
+Collatz - draws Copper
+Collatz - plays 2 Copper, 1 Silver
+Collatz - buys Silver
+Collatz - gains Silver
+Collatz - draws Copper, Gold, Silver, Overgrown Estate, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Silver, 1 Copper, 1 Gold
+Stef - buys Graverobber
+Stef - gains Graverobber
+Stef - shuffles deck
+Stef - draws Copper, Apprentice, Copper, Copper, Necropolis
+ 
+---------- Collatz: turn 9 ----------
+Collatz - plays 2 Silver, 1 Copper, 1 Gold
+Collatz - buys Gold
+Collatz - gains Gold
+Collatz - shuffles deck
+Collatz - draws Silver, Silver, Spice Merchant, Overgrown Estate, Necropolis
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apprentice
+Stef - trashes Necropolis
+Stef - draws Graverobber
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Spice Merchant, Gold, Silver, Spice Merchant, Gold
+ 
+---------- Collatz: turn 10 ----------
+Collatz - plays Spice Merchant
+Collatz - trashes Silver
+Collatz - chooses two cards and one action
+Collatz - draws Copper, Gold
+Collatz - plays Necropolis
+Collatz - plays 1 Silver, 1 Copper, 1 Gold
+Collatz - buys Apprentice
+Collatz - gains Apprentice
+Collatz - draws Gold, Copper, Apprentice, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Gold, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 3 Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Gold, Platinum, Graverobber
+ 
+---------- Collatz: turn 11 ----------
+Collatz - plays Apprentice
+Collatz - trashes Silver
+Collatz - draws Silver
+Collatz - shuffles deck
+Collatz - draws Silver, Gold
+Collatz - plays 2 Gold, 2 Copper, 2 Silver
+Collatz - buys Platinum
+Collatz - gains Platinum
+Collatz - draws Overgrown Estate, Apprentice, Necropolis, Spice Merchant, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 1 Silver, 1 Copper, 1 Gold, 1 Platinum
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Apprentice, Spice Merchant, Gold, Silver, Copper
+ 
+---------- Collatz: turn 12 ----------
+Collatz - plays Apprentice
+Collatz - trashes Overgrown Estate
+Collatz - shuffles deck
+Collatz - draws Apprentice
+Collatz - draws Silver
+Collatz - plays Apprentice
+Collatz - trashes Necropolis
+Collatz - draws Silver
+Collatz - plays Spice Merchant
+Collatz - trashes Copper
+Collatz - chooses two cards and one action
+Collatz - draws Copper, Gold
+Collatz - plays 2 Silver, 1 Copper, 1 Gold
+Collatz - buys Gold
+Collatz - gains Gold
+Collatz - draws Gold, Platinum, Copper
+Collatz - shuffles deck
+Collatz - draws Gold, Apprentice
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Gold
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Spice Merchant
+Stef - shuffles deck
+Stef - draws Graverobber, Silver
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 2 Gold, 1 Silver
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Platinum, Gold, Copper, Platinum
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- Collatz: turn 13 ----------
+Collatz - plays Apprentice
+Collatz - trashes Copper
+Collatz - plays 2 Gold, 1 Platinum
+Collatz - buys Colony
+Collatz - gains Colony
+Collatz - draws Copper, Silver, Spice Merchant, Gold, Apprentice
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Platinum, 2 Gold, 1 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Graverobber, Gold, Apprentice, Spice Merchant, Silver
+ 
+---------- Collatz: turn 14 ----------
+Collatz - plays Apprentice
+Collatz - trashes Spice Merchant
+Collatz - draws Silver
+Collatz - shuffles deck
+Collatz - draws Apprentice, Gold, Gold
+Collatz - plays Apprentice
+Collatz - trashes Copper
+Collatz - plays 3 Gold, 2 Silver
+Collatz - buys Colony
+Collatz - gains Colony
+Collatz - draws Platinum, Colony
+Collatz - shuffles deck
+Collatz - draws Silver, Apprentice, Colony
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Apprentice
+Stef - trashes Spice Merchant
+Stef - draws Platinum, Spice Merchant
+Stef - shuffles deck
+Stef - draws Gold, Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays 2 Gold, 1 Silver, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Platinum, Colony, Gold, Platinum
+Stef - shuffles deck
+Stef - draws Graverobber
+ 
+---------- Collatz: turn 15 ----------
+Collatz - plays Apprentice
+Collatz - trashes Silver
+Collatz - draws Gold, Apprentice, Silver
+Collatz - plays 1 Platinum, 1 Gold, 1 Silver
+Collatz - buys Platinum
+Collatz - gains Platinum
+Collatz - draws Gold, Gold
+Collatz - shuffles deck
+Collatz - draws Apprentice, Silver, Platinum
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 2 Platinum, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Tunnel, Gold, Silver, Gold, Apprentice
+ 
+---------- Collatz: turn 16 ----------
+Collatz - plays 2 Gold, 1 Silver, 1 Platinum
+Collatz - buys Colony
+Collatz - gains Colony
+Collatz - draws Platinum, Colony, Gold, Colony, Apprentice
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Apprentice
+Stef - trashes Gold
+Stef - draws Platinum, Spice Merchant, Colony
+Stef - shuffles deck
+Stef - draws Graverobber, Gold, Platinum
+Stef - plays Spice Merchant
+Stef - trashes Silver
+Stef - chooses two cards and one action
+Stef - draws Colony, Platinum
+Stef - plays Graverobber
+Stef - gains Gold
+Stef - plays 3 Platinum, 2 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Gold, Colony
+Stef - shuffles deck
+Stef - draws Colony, Platinum, Gold
+ 
+---------- Collatz: turn 17 ----------
+Collatz - plays 1 Platinum, 1 Gold
+Collatz - buys Province
+Collatz - gains Province
+Collatz - shuffles deck
+Collatz - draws Apprentice, Silver, Gold, Colony, Platinum
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Gold, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Gold, Graverobber, Platinum, Tunnel, Apprentice
+ 
+------------ Game Over ------------
+Stef - cards: 1 Graverobber, 1 Apprentice, 1 Spice Merchant, 3 Gold, 3 Platinum, 5 Colony, 1 Tunnel
+Stef - total victory points: 52
+Stef - turns: 18
+ 
+Collatz - cards: 2 Apprentice, 3 Gold, 2 Platinum, 1 Silver, 3 Colony, 1 Province
+Collatz - total victory points: 36
+Collatz - turns: 17
+ 
+1st place: Stef
+2nd place: Collatz
+ 

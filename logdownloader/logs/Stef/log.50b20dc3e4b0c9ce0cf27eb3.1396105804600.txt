@@ -1,0 +1,677 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Forager, Smugglers, Swindler, Tunnel, Workshop, Conspirator, Feodum, Navigator, Scavenger, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SheCantSayNo - shuffles deck
+Stef - draws Copper, Copper, Copper, Necropolis, Hovel
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Workshop
+SheCantSayNo - gains Workshop
+SheCantSayNo - draws Overgrown Estate, Copper, Hovel, Necropolis, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - shuffles deck
+Stef - draws Hovel, Copper, Copper, Copper, Forager
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Overgrown Estate, Hovel, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Hovel
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Necropolis, Vagrant, Workshop, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Swindler, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Workshop
+SheCantSayNo - gains Conspirator
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Workshop, Vagrant, Forager, Necropolis
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Swindler
+SheCantSayNo - reveals Overgrown Estate
+SheCantSayNo - trashes Overgrown Estate
+SheCantSayNo - draws Copper
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper, Forager, Necropolis, Copper, Vagrant
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Workshop
+SheCantSayNo - gains Conspirator
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Overgrown Estate
+Stef - places Overgrown Estate in hand
+Stef - plays Forager
+Stef - trashes Overgrown Estate
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Necropolis
+Stef - plays 3 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Gold, Swindler, Copper, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Conspirator
+SheCantSayNo - gains Conspirator
+SheCantSayNo - draws Swindler, Conspirator
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Forager, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Swindler
+SheCantSayNo - reveals Workshop
+SheCantSayNo - trashes Workshop
+SheCantSayNo - gains Tunnel
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Vagrant, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Swindler
+Stef - reveals Forager
+Stef - trashes Forager
+Stef - gains Tunnel
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Copper, Copper, Vagrant, Conspirator
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays 5 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Conspirator, Forager, Copper, Swindler, Gold
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Conspirator
+SheCantSayNo - reveals: Hovel
+SheCantSayNo - places Hovel in hand
+SheCantSayNo - plays Conspirator
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Conspirator
+SheCantSayNo - gains Conspirator
+SheCantSayNo - draws Vagrant, Necropolis, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Conspirator, Conspirator
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Swindler
+SheCantSayNo - reveals Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - gains Curse
+Stef - plays Gold
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Tunnel, Vagrant
+Stef - shuffles deck
+Stef - draws Copper, Vagrant
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Conspirator
+SheCantSayNo - places Conspirator on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Conspirator
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Hovel
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Tunnel
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - trashes Hovel
+SheCantSayNo - gains Province
+SheCantSayNo - draws Conspirator, Vagrant, Forager, Copper, Vagrant
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Vagrant, Copper, Swindler, Conspirator, Gold
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Swindler
+SheCantSayNo - reveals: Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Vagrant
+SheCantSayNo - plays Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Province
+SheCantSayNo - reveals: Conspirator
+SheCantSayNo - places Conspirator on top of deck
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Swindler
+Stef - reveals Conspirator
+Stef - trashes Conspirator
+Stef - gains Feodum
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Conspirator, Conspirator, Tunnel, Necropolis, Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Swindler
+SheCantSayNo - reveals Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - gains Curse
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Vagrant, Vagrant, Copper, Forager, Vagrant
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - draws Copper, Curse, Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Conspirator, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Feodum
+Stef - places Feodum in hand
+Stef - plays Vagrant
+Stef - draws Tunnel
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Vagrant
+Stef - draws Swindler
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Swindler
+SheCantSayNo - reveals Gold
+SheCantSayNo - trashes Gold
+SheCantSayNo - gains Gold
+Stef - plays 1 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Vagrant, Vagrant
+Stef - shuffles deck
+Stef - draws Vagrant, Conspirator, Vagrant
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Forager
+SheCantSayNo - reveals: Swindler
+SheCantSayNo - places Swindler on top of deck
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Swindler
+SheCantSayNo - plays Swindler
+Stef - reveals Gold
+Stef - trashes Gold
+Stef - gains Gold
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Conspirator, Vagrant, Necropolis, Conspirator, Curse
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Feodum
+Stef - places Feodum in hand
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Vagrant
+Stef - draws Swindler
+Stef - reveals: Swindler
+Stef - places Swindler on top of deck
+Stef - plays Conspirator
+Stef - draws Swindler
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Conspirator
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Swindler
+SheCantSayNo - reveals Conspirator
+SheCantSayNo - trashes Conspirator
+SheCantSayNo - gains Navigator
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Copper, Tunnel
+Stef - shuffles deck
+Stef - draws Vagrant, Vagrant
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Province
+SheCantSayNo - places Province in hand
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Tunnel
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Vagrant
+SheCantSayNo - plays Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Province
+SheCantSayNo - reveals: Navigator
+SheCantSayNo - places Navigator on top of deck
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Navigator
+SheCantSayNo - plays Navigator
+SheCantSayNo - looks at Copper, Copper, Swindler, Gold, Forager
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - places Swindler on top of deck
+SheCantSayNo - places Gold on top of deck
+SheCantSayNo - places Forager on top of deck
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Forager, Gold, Swindler, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Feodum
+Stef - places Feodum in hand
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Conspirator, Conspirator, Swindler, Vagrant, Vagrant
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Workshop
+SheCantSayNo - plays 1 Gold, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Conspirator, Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Tunnel, Vagrant, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Province
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Tunnel
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Feodum
+Stef - places Feodum in hand
+Stef - plays Swindler
+SheCantSayNo - reveals Navigator
+SheCantSayNo - trashes Navigator
+SheCantSayNo - gains Feodum
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vagrant, Vagrant, Workshop, Copper, Vagrant
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Swindler
+SheCantSayNo - places Swindler on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Swindler
+SheCantSayNo - reveals: Forager
+SheCantSayNo - places Forager on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Forager
+SheCantSayNo - reveals: Curse
+SheCantSayNo - places Curse in hand
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Province
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Swindler
+Stef - reveals Gold
+Stef - trashes Gold
+Stef - gains Gold
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Necropolis, Province, Conspirator, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - shuffles deck
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Conspirator
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Workshop
+Stef - gains Tunnel
+Stef - plays 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vagrant, Gold, Province, Conspirator, Swindler
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Conspirator
+SheCantSayNo - plays 1 Copper, 1 Gold
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Vagrant, Gold, Conspirator
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Necropolis, Forager
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Vagrant
+Stef - draws Tunnel
+Stef - reveals: Feodum
+Stef - places Feodum in hand
+Stef - plays Swindler
+SheCantSayNo - reveals Conspirator
+SheCantSayNo - trashes Conspirator
+SheCantSayNo - gains Feodum
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Feodum, Duchy, Gold, Province, Province
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Tunnel
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Vagrant
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Conspirator
+SheCantSayNo - places Conspirator on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Conspirator
+SheCantSayNo - reveals: Feodum
+SheCantSayNo - places Feodum in hand
+SheCantSayNo - plays Conspirator
+SheCantSayNo - draws Province
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Feodum
+SheCantSayNo - gains Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - plays Gold
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Duchy, Swindler, Copper, Duchy, Vagrant
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Gold
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Swindler, Tunnel, Province, Vagrant, Vagrant
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Province
+SheCantSayNo - reveals: Gold
+SheCantSayNo - places Gold on top of deck
+SheCantSayNo - plays Swindler
+Stef - reveals Tunnel
+Stef - trashes Tunnel
+Stef - gains Workshop
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Gold, Province
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Necropolis, Feodum, Vagrant
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Vagrant
+Stef - draws Workshop
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Swindler
+SheCantSayNo - reveals Tunnel
+SheCantSayNo - trashes Tunnel
+SheCantSayNo - gains Workshop
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Vagrant, Vagrant, Vagrant, Gold, Vagrant
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Province
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Gold
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Vagrant, Swindler, Copper, Vagrant, Silver
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - reveals: Forager
+Stef - places Forager on top of deck
+Stef - plays Vagrant
+Stef - draws Forager
+Stef - reveals: Conspirator
+Stef - places Conspirator on top of deck
+Stef - plays Vagrant
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - reveals: Province
+Stef - places Province in hand
+Stef - plays Conspirator
+Stef - draws Feodum
+Stef - plays Vagrant
+Stef - draws Duchy
+Stef - reveals: Workshop
+Stef - places Workshop on top of deck
+Stef - plays Conspirator
+Stef - draws Workshop
+Stef - plays Forager
+Stef - trashes Feodum
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays Workshop
+Stef - gains Tunnel
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Tunnel, Swindler, Vagrant, Province
+ 
+------------ Game Over ------------
+Stef - cards: 6 Vagrant, 2 Conspirator, 2 Workshop, 1 Swindler, 1 Forager, 3 Gold, 3 Silver, 4 Province, 3 Tunnel, 2 Duchy
+Stef - total victory points: 36
+Stef - turns: 20
+ 
+SheCantSayNo - cards: 4 Vagrant, 2 Conspirator, 1 Swindler, 1 Workshop, 1 Necropolis, 1 Forager, 3 Silver, 2 Gold, 1 Copper, 4 Province, 2 Tunnel, 2 Duchy, 1 Feodum
+SheCantSayNo - total victory points: 35
+SheCantSayNo - turns: 19
+ 
+1st place: Stef
+2nd place: SheCantSayNo
+ 

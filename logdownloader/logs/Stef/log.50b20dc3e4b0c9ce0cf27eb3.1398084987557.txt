@@ -1,0 +1,607 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Sage, Alchemist, Feast, Tournament, Council Room, Market, Rogue, Tribute, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dawn_harbor - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+dawn_harbor - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+dawn_harbor - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- dawn_harbor: turn 1 ----------
+dawn_harbor - plays 3 Copper
+dawn_harbor - buys Chapel
+dawn_harbor - gains Chapel
+dawn_harbor - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - shuffles deck
+Stef - draws Chapel, Tournament, Estate, Copper, Estate
+ 
+---------- dawn_harbor: turn 2 ----------
+dawn_harbor - plays 4 Copper
+dawn_harbor - buys Tournament
+dawn_harbor - gains Tournament
+dawn_harbor - shuffles deck
+dawn_harbor - draws Estate, Copper, Chapel, Tournament, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper, Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- dawn_harbor: turn 3 ----------
+dawn_harbor - plays Tournament
+dawn_harbor - draws Copper
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Copper, Copper, Estate, Estate
+dawn_harbor - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Tournament, Copper
+ 
+---------- dawn_harbor: turn 4 ----------
+dawn_harbor - plays 5 Copper
+dawn_harbor - buys Market
+dawn_harbor - gains Market
+dawn_harbor - draws Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Tournament, Chapel, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Chapel, Estate
+Stef - shuffles deck
+Stef - draws Copper, King's Court, Copper
+ 
+---------- dawn_harbor: turn 5 ----------
+dawn_harbor - plays Tournament
+dawn_harbor - draws Copper
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Estate, Copper
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Silver
+dawn_harbor - gains Silver
+dawn_harbor - draws Market, Copper, Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Tournament, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays King's Court
+Stef - plays Chapel
+Stef - trashes Estate
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - plays Chapel
+Stef - trashes Copper
+Stef - draws Tournament, Copper, Copper, Tournament, Copper
+ 
+---------- dawn_harbor: turn 6 ----------
+dawn_harbor - plays Market
+dawn_harbor - draws Silver
+dawn_harbor - plays Tournament
+dawn_harbor - draws Chapel
+dawn_harbor - plays 3 Copper, 1 Silver
+dawn_harbor - buys King's Court
+dawn_harbor - gains King's Court
+dawn_harbor - draws Copper
+dawn_harbor - shuffles deck
+dawn_harbor - draws Chapel, Copper, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Chapel
+Stef - plays Tournament
+Stef - draws King's Court
+Stef - plays 3 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Tournament, Tournament
+ 
+---------- dawn_harbor: turn 7 ----------
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Copper
+dawn_harbor - plays 2 Copper, 1 Silver
+dawn_harbor - buys Feast
+dawn_harbor - gains Feast
+dawn_harbor - draws Tournament, King's Court, Copper, Market
+dawn_harbor - shuffles deck
+dawn_harbor - draws Feast
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Tournament
+Stef - draws Rogue
+Stef - plays Tournament
+Stef - draws Chapel
+Stef - plays Rogue
+dawn_harbor - reveals: Silver, Copper
+dawn_harbor - trashes Silver
+dawn_harbor - discards Copper
+Stef - plays 3 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws King's Court
+Stef - shuffles deck
+Stef - draws Tournament, Chapel, Tournament, Copper
+ 
+---------- dawn_harbor: turn 8 ----------
+dawn_harbor - plays King's Court
+dawn_harbor - plays Market
+dawn_harbor - draws Copper
+dawn_harbor - plays Market
+dawn_harbor - draws Chapel
+dawn_harbor - plays Market
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper
+dawn_harbor - plays Feast
+dawn_harbor - trashes Feast
+dawn_harbor - gains Rogue
+dawn_harbor - plays Tournament
+dawn_harbor - shuffles deck
+dawn_harbor - draws Rogue
+dawn_harbor - plays Rogue
+dawn_harbor - gains Feast
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Copper
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Province
+dawn_harbor - gains Province
+dawn_harbor - shuffles deck
+dawn_harbor - draws Tournament, Copper, Chapel, Copper, Rogue
+ 
+---------- Stef: turn 9 ----------
+Stef - plays King's Court
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Tournament
+Stef - draws Rogue
+Stef - plays Tournament
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays Rogue
+Stef - gains Silver
+Stef - plays Rogue
+dawn_harbor - reveals: Feast, King's Court
+dawn_harbor - trashes Feast
+dawn_harbor - discards King's Court
+Stef - plays Rogue
+Stef - gains Feast
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Feast, Tournament, Silver, Chapel, Tournament
+ 
+---------- dawn_harbor: turn 9 ----------
+dawn_harbor - plays Tournament
+dawn_harbor - draws Province
+dawn_harbor - plays Rogue
+Stef - reveals: Province, Rogue
+Stef - trashes Rogue
+Stef - discards Province
+dawn_harbor - plays 2 Copper
+dawn_harbor - buys Market
+dawn_harbor - gains Market
+dawn_harbor - draws Market
+dawn_harbor - shuffles deck
+dawn_harbor - draws Market, King's Court, Province, Chapel
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Market
+Stef - draws King's Court, King's Court
+Stef - shuffles deck
+Stef - draws Chapel, Province, Tournament
+ 
+---------- dawn_harbor: turn 10 ----------
+dawn_harbor - plays King's Court
+dawn_harbor - plays Market
+dawn_harbor - draws Tournament
+dawn_harbor - plays Market
+dawn_harbor - draws Rogue
+dawn_harbor - plays Market
+dawn_harbor - draws Copper
+dawn_harbor - plays Rogue
+dawn_harbor - gains Feast
+dawn_harbor - plays Market
+dawn_harbor - draws Copper
+dawn_harbor - plays Tournament
+Stef - reveals Province
+dawn_harbor - reveals Province
+dawn_harbor - discards Province
+dawn_harbor - gains Followers
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Copper
+dawn_harbor - plays Copper
+dawn_harbor - buys King's Court
+dawn_harbor - gains King's Court
+dawn_harbor - draws Followers
+dawn_harbor - shuffles deck
+dawn_harbor - draws Copper, Tournament, Feast, Chapel
+ 
+---------- Stef: turn 11 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Tournament
+Stef - draws Silver
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays King's Court
+Stef - plays Trusty Steed
+Stef - takes 2 coins
+Stef - draws Market
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - takes 2 coins
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - takes 2 coins
+Stef - plays King's Court
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Diadem
+Stef - draws Diadem
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Princess
+Stef - draws Princess
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Princess
+Stef - plays 1 Silver, 1 Diadem
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Market, Trusty Steed, Chapel, Market, Province
+ 
+---------- dawn_harbor: turn 11 ----------
+dawn_harbor - plays Tournament
+Stef - reveals Province
+dawn_harbor - plays Followers
+dawn_harbor - draws Rogue, Market
+dawn_harbor - gains Estate
+Stef - gains Curse
+Stef - discards Chapel
+Stef - discards Province
+dawn_harbor - draws Province, Market, King's Court, King's Court
+dawn_harbor - shuffles deck
+dawn_harbor - draws Tournament
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Diadem, King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Tournament
+Stef - plays Market
+Stef - draws Silver
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Tournament
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays King's Court
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays King's Court
+Stef - plays 1 Diadem, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Market
+Stef - gains Market
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - buys Feast
+Stef - gains Feast
+Stef - draws Princess
+Stef - shuffles deck
+Stef - draws Market, Tournament, King's Court, Market
+ 
+---------- dawn_harbor: turn 12 ----------
+dawn_harbor - plays King's Court
+dawn_harbor - plays King's Court
+dawn_harbor - plays Market
+dawn_harbor - draws Rogue
+dawn_harbor - plays Market
+dawn_harbor - draws Estate
+dawn_harbor - plays Market
+dawn_harbor - draws Followers
+dawn_harbor - plays King's Court
+dawn_harbor - plays Followers
+dawn_harbor - draws Feast, Market
+dawn_harbor - gains Estate
+Stef - gains Curse
+Stef - discards Princess
+Stef - discards Tournament
+dawn_harbor - plays Followers
+dawn_harbor - draws Chapel, Copper
+dawn_harbor - gains Estate
+Stef - gains Curse
+dawn_harbor - plays Followers
+dawn_harbor - shuffles deck
+dawn_harbor - draws Estate, Estate
+dawn_harbor - gains Estate
+Stef - gains Curse
+dawn_harbor - plays King's Court
+dawn_harbor - plays Feast
+dawn_harbor - trashes Feast
+dawn_harbor - gains Market
+dawn_harbor - plays Feast
+dawn_harbor - trashes Feast
+dawn_harbor - gains Market
+dawn_harbor - plays Feast
+dawn_harbor - trashes Feast
+dawn_harbor - gains Market
+dawn_harbor - plays Market
+dawn_harbor - shuffles deck
+dawn_harbor - draws Market
+dawn_harbor - plays Market
+dawn_harbor - draws Estate
+dawn_harbor - plays Tournament
+dawn_harbor - draws Market
+dawn_harbor - plays Market
+dawn_harbor - draws Market
+dawn_harbor - plays Market
+dawn_harbor - plays Rogue
+dawn_harbor - gains Rogue
+dawn_harbor - plays Chapel
+dawn_harbor - trashes Copper, Estate, Estate, Estate
+dawn_harbor - buys Province
+dawn_harbor - gains Province
+dawn_harbor - buys Estate
+dawn_harbor - gains Estate
+dawn_harbor - shuffles deck
+dawn_harbor - draws Province, Rogue, Market, Market, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Curse
+Stef - plays Market
+Stef - draws Chapel
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Silver
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays Chapel
+Stef - trashes Curse
+Stef - plays Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Trusty Steed, Market, Province, Tournament, Diadem
+ 
+---------- dawn_harbor: turn 13 ----------
+dawn_harbor - plays Market
+dawn_harbor - draws Tournament
+dawn_harbor - plays Tournament
+Stef - reveals Province
+dawn_harbor - reveals Province
+dawn_harbor - discards Province
+dawn_harbor - gains Duchy
+dawn_harbor - plays Market
+dawn_harbor - draws Duchy
+dawn_harbor - plays Rogue
+dawn_harbor - gains Feast
+dawn_harbor - buys Sage
+dawn_harbor - gains Sage
+dawn_harbor - draws Market, Province, Market, Market, Chapel
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Council Room, King's Court
+Stef - plays King's Court
+Stef - plays Council Room
+Stef - draws Feast
+Stef - shuffles deck
+Stef - draws King's Court, Silver, Tournament
+dawn_harbor - draws Rogue
+Stef - plays Council Room
+Stef - draws Princess, Curse, Market, Market
+dawn_harbor - draws Estate
+Stef - plays Council Room
+Stef - draws Chapel, King's Court, Curse, King's Court
+dawn_harbor - draws King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - draws Province
+Stef - plays Market
+Stef - draws Curse
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays Princess
+Stef - plays Princess
+Stef - plays Princess
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Market
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Feast
+Stef - plays King's Court
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws Market
+Stef - plays Market
+Stef - draws Feast
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains King's Court
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains Rogue
+Stef - plays Feast
+Stef - trashes Feast
+Stef - gains King's Court
+Stef - plays King's Court
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws King's Court
+Stef - plays Market
+Stef - draws Rogue
+Stef - plays Market
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Rogue
+dawn_harbor - reveals: Followers, King's Court
+dawn_harbor - trashes King's Court
+dawn_harbor - discards Followers
+Stef - plays Rogue
+Stef - gains King's Court
+Stef - plays Rogue
+dawn_harbor - shuffles deck
+dawn_harbor - reveals: Sage, Estate
+Stef - plays King's Court
+Stef - plays Market
+Stef - shuffles deck
+Stef - draws King's Court
+Stef - plays Market
+Stef - plays Market
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Tournament
+Stef - reveals Province
+dawn_harbor - reveals Province
+Stef - discards Province
+Stef - gains Duchy
+Stef - plays Tournament
+Stef - reveals Province
+dawn_harbor - reveals Province
+Stef - discards Province
+Stef - gains Duchy
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays King's Court
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays Tournament
+dawn_harbor - reveals Province
+Stef - plays King's Court
+Stef - plays Chapel
+Stef - trashes Curse, Curse, Curse
+Stef - plays Chapel
+Stef - plays Chapel
+Stef - plays 1 Diadem, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy, Duchy
+Stef - shuffles deck
+Stef - draws Duchy, Chapel, King's Court
+ 
+------------ Game Over ------------
+Stef - cards: 9 King's Court, 4 Market, 2 Tournament, 1 Chapel, 1 Princess, 1 Rogue, 1 Council Room, 1 Trusty Steed, 1 Silver, 1 Diadem, 7 Duchy, 6 Province, 3 Estate
+Stef - total victory points: 60
+Stef - turns: 14
+ 
+dawn_harbor - cards: 5 Market, 2 Rogue, 1 Chapel, 1 King's Court, 1 Sage, 1 Feast, 1 Tournament, 1 Followers, 2 Estate, 2 Province, 1 Duchy
+dawn_harbor - total victory points: 17
+dawn_harbor - turns: 13
+ 
+1st place: Stef
+2nd place: dawn_harbor
+ 

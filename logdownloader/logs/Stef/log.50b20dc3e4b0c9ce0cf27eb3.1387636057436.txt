@@ -1,0 +1,479 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Lighthouse, Tunnel, Cutpurse, Farming Village, Militia, Nomad Camp, Golem, Venture, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+shark_bait - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Cutpurse
+shark_bait - gains Cutpurse
+shark_bait - shuffles deck
+shark_bait - draws Cutpurse, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Cutpurse
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Cutpurse
+Stef - discards Copper
+shark_bait - plays 3 Copper
+shark_bait - buys Venture
+shark_bait - gains Venture
+shark_bait - draws Estate, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Cutpurse
+shark_bait - discards Copper
+Stef - plays 2 Copper
+Stef - buys Nomad Camp
+Stef - gains Nomad Camp
+Stef - draws Nomad Camp, Copper, Copper, Estate, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Venture, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Nomad Camp
+Stef - plays 3 Copper
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Copper, Estate, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays 4 Copper
+shark_bait - plays Venture
+shark_bait - reveals Copper
+shark_bait - plays Copper
+shark_bait - buys Altar
+shark_bait - gains Altar
+shark_bait - draws Copper, Estate, Silver, Estate, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Copper, Copper, Copper, Nomad Camp, Cutpurse
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays 2 Silver, 1 Copper
+shark_bait - buys Venture
+shark_bait - gains Venture
+shark_bait - draws Copper, Cutpurse, Estate
+shark_bait - shuffles deck
+shark_bait - draws Estate, Venture
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cutpurse
+shark_bait - discards Copper
+Stef - plays 3 Copper
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Copper, Venture, Estate, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Cutpurse
+Stef - discards Copper
+shark_bait - plays Venture
+shark_bait - reveals Silver
+shark_bait - plays Silver
+shark_bait - buys Venture
+shark_bait - gains Venture
+shark_bait - draws Venture, Copper, Copper, Altar, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Venture
+Stef - reveals Estate, Venture
+Stef - discards Estate
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Nomad Camp, Silver
+Stef - discards Nomad Camp
+Stef - plays Silver
+Stef - plays 1 Copper
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Copper, Cutpurse, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Altar
+shark_bait - trashes Copper
+shark_bait - gains Venture
+shark_bait - plays 2 Copper
+shark_bait - plays Venture
+shark_bait - reveals Estate, Copper
+shark_bait - discards Estate
+shark_bait - plays Copper
+shark_bait - buys Tunnel
+shark_bait - gains Tunnel
+shark_bait - draws Copper, Copper, Silver
+shark_bait - shuffles deck
+shark_bait - draws Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cutpurse
+shark_bait - discards Copper
+Stef - plays 4 Copper
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Venture, Copper, Copper
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Tunnel
+shark_bait - gains Tunnel
+shark_bait - draws Venture, Silver, Tunnel, Copper, Altar
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays 3 Copper
+Stef - buys Venture
+Stef - gains Venture
+Stef - draws Cutpurse, Copper, Copper, Silver, Venture
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Altar
+shark_bait - trashes Copper
+shark_bait - gains Farming Village
+shark_bait - plays Silver
+shark_bait - plays Venture
+shark_bait - reveals Cutpurse, Copper
+shark_bait - discards Cutpurse
+shark_bait - plays Copper
+shark_bait - buys Nomad Camp
+shark_bait - gains Nomad Camp
+shark_bait - draws Nomad Camp, Venture, Venture, Venture, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cutpurse
+shark_bait - reveals Nomad Camp, Venture, Venture, Venture, Estate
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Nomad Camp, Venture, Venture, Estate, Estate
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Nomad Camp
+shark_bait - plays Venture
+shark_bait - reveals Estate, Copper
+shark_bait - discards Estate
+shark_bait - plays Copper
+shark_bait - plays Venture
+shark_bait - shuffles deck
+shark_bait - reveals Altar, Copper
+shark_bait - discards Altar
+shark_bait - plays Copper
+shark_bait - plays Venture
+shark_bait - reveals Silver
+shark_bait - plays Silver
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Estate, Copper, Venture, Cutpurse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Nomad Camp
+Stef - plays Venture
+Stef - shuffles deck
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Silver
+Stef - plays Silver
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Cutpurse, Venture
+Stef - discards Cutpurse
+Stef - plays Venture
+Stef - reveals Estate, Copper
+Stef - discards Estate
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Herbalist
+Stef - gains Herbalist
+Stef - draws Copper, Copper, Copper, Venture, Province
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Cutpurse
+Stef - discards Copper
+shark_bait - plays 2 Copper
+shark_bait - plays Venture
+shark_bait - reveals Tunnel, Copper
+shark_bait - discards Tunnel
+shark_bait - reveals reaction Tunnel
+shark_bait - gains Gold
+shark_bait - plays Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Silver, Farming Village, Tunnel, Estate
+shark_bait - shuffles deck
+shark_bait - draws Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Cutpurse, Copper, Venture
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Farming Village
+shark_bait - reveals Copper
+shark_bait - places Copper in hand
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Tunnel
+shark_bait - gains Tunnel
+shark_bait - draws Estate, Duchy, Venture, Copper, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cutpurse
+shark_bait - discards Copper
+Stef - plays Venture
+Stef - reveals Estate, Venture
+Stef - discards Estate
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Province, Nomad Camp, Herbalist, Venture
+Stef - discards: Province, Nomad Camp, Herbalist
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Estate, Copper, Province, Copper
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays 1 Gold
+shark_bait - plays Venture
+shark_bait - reveals Estate, Cutpurse, Province, Copper
+shark_bait - discards: Estate, Cutpurse, Province
+shark_bait - plays Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Venture, Altar, Silver, Tunnel, Venture
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Venture, Tunnel, Copper, Venture, Silver
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays 1 Silver
+shark_bait - plays Venture
+shark_bait - reveals Copper
+shark_bait - plays Copper
+shark_bait - plays Venture
+shark_bait - reveals Nomad Camp, Venture
+shark_bait - discards Nomad Camp
+shark_bait - plays Venture
+shark_bait - shuffles deck
+shark_bait - reveals Estate, Duchy, Nomad Camp, Estate, Gold
+shark_bait - discards: Estate, Duchy, Nomad Camp, Estate
+shark_bait - plays Gold
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Cutpurse, Copper, Copper, Tunnel
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Venture
+Stef - shuffles deck
+Stef - reveals Lighthouse, Copper
+Stef - discards Lighthouse
+Stef - plays Copper
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Estate, Nomad Camp, Province, Copper
+Stef - discards: Estate, Nomad Camp, Province
+Stef - plays Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Province, Copper, Venture, Venture
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Cutpurse
+Stef - discards Copper
+shark_bait - plays 3 Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Estate, Tunnel, Duchy, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Venture
+Stef - reveals Estate, Copper
+Stef - discards Estate
+Stef - plays Copper
+Stef - plays Venture
+Stef - reveals Herbalist, Province, Venture
+Stef - discards: Herbalist, Province
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cutpurse, Copper
+Stef - shuffles deck
+Stef - draws Estate, Venture, Province
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Tunnel
+shark_bait - gains Tunnel
+shark_bait - draws Venture, Farming Village, Province
+shark_bait - shuffles deck
+shark_bait - draws Copper, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Cutpurse
+shark_bait - discards Copper
+Stef - plays Venture
+Stef - reveals Nomad Camp, Estate, Venture
+Stef - discards: Nomad Camp, Estate
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Venture
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Estate, Province, Lighthouse, Copper, Silver
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays Farming Village
+shark_bait - reveals Venture
+shark_bait - places Venture in hand
+shark_bait - plays 1 Gold
+shark_bait - plays Venture
+shark_bait - reveals Silver
+shark_bait - plays Silver
+shark_bait - plays Venture
+shark_bait - reveals Venture
+shark_bait - plays Venture
+shark_bait - reveals Copper
+shark_bait - plays Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Venture, Estate, Silver, Cutpurse, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Lighthouse
+Stef - plays Silver
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Copper, Herbalist, Tunnel, Province, Duchy
+ 
+---------- shark_bait: turn 19 ----------
+shark_bait - plays Cutpurse
+shark_bait - plays 1 Silver, 1 Copper
+shark_bait - plays Venture
+shark_bait - reveals Tunnel, Copper
+shark_bait - discards Tunnel
+shark_bait - reveals reaction Tunnel
+shark_bait - gains Gold
+shark_bait - plays Copper
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Tunnel, Duchy, Estate, Tunnel, Tunnel
+ 
+---------- Stef: turn 19 ----------
+Stef - duration Lighthouse
+Stef - plays Herbalist
+Stef - plays Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Province, Venture, Copper, Copper, Venture
+ 
+---------- shark_bait: turn 20 ----------
+shark_bait - draws Altar, Nomad Camp, Duchy, Province, Duchy
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 2 Copper
+Stef - plays Venture
+Stef - reveals Copper
+Stef - plays Copper
+Stef - plays Venture
+Stef - shuffles deck
+Stef - reveals Province, Silver
+Stef - discards Province
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Estate, Copper, Tunnel, Nomad Camp
+ 
+---------- shark_bait: turn 21 ----------
+shark_bait - plays Altar
+shark_bait - trashes Nomad Camp
+shark_bait - gains Duchy
+shark_bait - draws Copper, Estate
+shark_bait - shuffles deck
+shark_bait - draws Cutpurse, Province, Gold
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Nomad Camp
+Stef - plays Copper
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Province, Copper, Venture, Province, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 1 Nomad Camp, 1 Cutpurse, 1 Herbalist, 1 Lighthouse, 7 Copper, 6 Venture, 1 Silver, 5 Province, 4 Tunnel, 3 Estate, 2 Duchy
+Stef - total victory points: 47
+Stef - turns: 21
+ 
+shark_bait - cards: 1 Cutpurse, 1 Altar, 1 Farming Village, 5 Copper, 4 Venture, 2 Gold, 2 Silver, 6 Duchy, 4 Tunnel, 3 Estate, 2 Province
+shark_bait - total victory points: 41
+shark_bait - turns: 21
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

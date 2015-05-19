@@ -1,0 +1,677 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Black Market, Chancellor, Forager, Fortune Teller, Steward, Warehouse, Watchtower, Silk Road, Smithy, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Black market deck cards: Urchin, Market Square, Fortress, Sage, Possession, Rogue, Embassy, Caravan, Saboteur, Golem, Procession, Mine, Philosopher's Stone, Minion, Nobles, Ambassador, Develop, Coppersmith, Plaza, Familiar, Workshop, Counterfeit, Butcher, Grand Market, Fairgrounds
+Rating system: pro
+luser - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+luser - shuffles deck
+Stef - shuffles deck
+luser - draws Copper, Copper, Copper, Copper, Estate
+Stef - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- luser: turn 1 ----------
+luser - plays 4 Copper
+luser - buys Steward
+luser - gains Steward
+luser - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- luser: turn 2 ----------
+luser - plays 3 Copper
+luser - buys Black Market
+luser - gains Black Market
+luser - shuffles deck
+luser - draws Copper, Copper, Black Market, Steward, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Forager, Copper
+ 
+---------- luser: turn 3 ----------
+luser - plays Black Market
+luser - reveals Philosopher's Stone, Urchin, Mine
+luser - plays 3 Copper
+luser - places Mine on bottom of the Black Market deck
+luser - places Urchin on bottom of the Black Market deck
+luser - places Philosopher's Stone on bottom of the Black Market deck
+luser - buys Warehouse
+luser - gains Warehouse
+luser - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - draws Estate, Copper, Copper, Copper, Courtyard
+ 
+---------- luser: turn 4 ----------
+luser - plays 4 Copper
+luser - buys Forager
+luser - gains Forager
+luser - draws Estate, Estate
+luser - shuffles deck
+luser - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Forager, Courtyard, Estate
+ 
+---------- luser: turn 5 ----------
+luser - plays 2 Copper
+luser - buys Courtyard
+luser - gains Courtyard
+luser - draws Forager, Copper, Black Market, Steward, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Courtyard
+Stef - draws Copper, Copper, Black Market
+Stef - places Black Market on top of deck
+Stef - plays 4 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Black Market, Estate, Copper, Copper, Copper
+ 
+---------- luser: turn 6 ----------
+luser - plays Forager
+luser - trashes Copper
+luser - plays Black Market
+luser - reveals Coppersmith, Nobles, Rogue
+luser - places Rogue on bottom of the Black Market deck
+luser - places Nobles on bottom of the Black Market deck
+luser - places Coppersmith on bottom of the Black Market deck
+luser - buys Silver
+luser - gains Silver
+luser - draws Warehouse, Copper, Copper, Copper
+luser - shuffles deck
+luser - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Black Market
+Stef - reveals Golem, Embassy, Butcher
+Stef - plays 3 Copper
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - places Embassy on bottom of the Black Market deck
+Stef - places Golem on bottom of the Black Market deck
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Courtyard, Estate
+ 
+---------- luser: turn 7 ----------
+luser - plays Warehouse
+luser - draws Silver, Copper, Steward
+luser - discards Copper
+luser - discards Copper
+luser - discards Copper
+luser - plays Steward
+luser - trashes Estate, Copper
+luser - draws Estate, Black Market, Estate, Courtyard, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Courtyard
+Stef - draws Copper, Copper, Butcher
+Stef - places Copper on top of deck
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Black Market, Copper, Forager, Copper
+ 
+---------- luser: turn 8 ----------
+luser - plays Black Market
+luser - reveals Workshop, Plaza, Sage
+luser - plays 1 Copper
+luser - buys Sage
+luser - gains Sage
+luser - places Plaza on bottom of the Black Market deck
+luser - places Workshop on bottom of the Black Market deck
+luser - draws Copper, Forager
+luser - shuffles deck
+luser - draws Estate, Black Market, Courtyard
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Black Market
+Stef - reveals Minion, Grand Market, Market Square
+Stef - plays 2 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - places Grand Market on bottom of the Black Market deck
+Stef - places Market Square on bottom of the Black Market deck
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Forager, Courtyard, Copper, Copper
+ 
+---------- luser: turn 9 ----------
+luser - plays Forager
+luser - trashes Estate
+luser - plays Black Market
+luser - reveals Possession, Saboteur, Counterfeit
+luser - places Counterfeit on bottom of the Black Market deck
+luser - places Saboteur on bottom of the Black Market deck
+luser - places Possession on bottom of the Black Market deck
+luser - buys Silver
+luser - gains Silver
+luser - draws Copper, Steward, Warehouse, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Minion, Black Market
+Stef - discards Courtyard
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Black Market
+Stef - reveals Ambassador, Fortress, Procession
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - places Procession on bottom of the Black Market deck
+Stef - places Ambassador on bottom of the Black Market deck
+Stef - draws Copper, Estate, Copper, Butcher, Silver
+ 
+---------- luser: turn 10 ----------
+luser - plays Warehouse
+luser - draws Estate, Copper, Copper
+luser - discards Silver
+luser - discards Copper
+luser - discards Copper
+luser - plays Steward
+luser - trashes Estate, Copper
+luser - draws Sage
+luser - shuffles deck
+luser - draws Silver, Forager, Copper, Courtyard
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Estate
+Stef - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - uses 2 coin tokens
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Black Market, Copper, Copper, Copper
+ 
+---------- luser: turn 11 ----------
+luser - plays Sage
+luser - reveals Copper, Steward
+luser - places Steward in hand
+luser - discards Copper
+luser - plays Forager
+luser - trashes Copper
+luser - plays Courtyard
+luser - draws Warehouse, Copper, Copper
+luser - places Warehouse on top of deck
+luser - plays 2 Copper, 1 Silver
+luser - buys Silver
+luser - gains Silver
+luser - draws Warehouse, Black Market, Silver
+luser - shuffles deck
+luser - draws Silver, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Black Market
+Stef - reveals Caravan, Develop, Familiar
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - places Develop on bottom of the Black Market deck
+Stef - places Familiar on bottom of the Black Market deck
+Stef - draws Warehouse, Forager, Courtyard, Gold, Minion
+ 
+---------- luser: turn 12 ----------
+luser - plays Warehouse
+luser - draws Copper, Courtyard, Steward
+luser - discards Steward
+luser - discards Courtyard
+luser - discards Copper
+luser - plays Black Market
+luser - reveals Urchin, Mine, Fairgrounds
+luser - plays 2 Silver, 1 Copper
+luser - places Fairgrounds on bottom of the Black Market deck
+luser - places Mine on bottom of the Black Market deck
+luser - places Urchin on bottom of the Black Market deck
+luser - buys Gold
+luser - gains Gold
+luser - draws Copper, Sage, Forager, Silver
+luser - shuffles deck
+luser - draws Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Warehouse
+Stef - draws Silver, Copper, Fortress
+Stef - discards Forager
+Stef - discards Silver
+Stef - discards Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Courtyard
+Stef - draws Butcher
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - places Gold on top of deck
+Stef - plays Minion
+Stef - discards: Copper, Butcher, Copper, Copper
+Stef - draws Gold, Copper, Caravan, Silver
+luser - discards: Copper, Sage, Forager, Silver, Silver
+luser - draws Black Market, Warehouse, Silver, Gold
+Stef - plays Caravan
+Stef - draws Black Market
+Stef - plays Black Market
+Stef - reveals Nobles, Rogue, Philosopher's Stone
+Stef - plays 1 Gold, 1 Copper, 1 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - places Rogue on bottom of the Black Market deck
+Stef - places Philosopher's Stone on bottom of the Black Market deck
+Stef - draws Copper, Forager, Copper
+Stef - shuffles deck
+Stef - draws Warehouse, Nobles
+ 
+---------- luser: turn 13 ----------
+luser - plays Warehouse
+luser - draws Copper, Copper, Steward
+luser - discards Steward
+luser - discards Copper
+luser - discards Copper
+luser - plays Black Market
+luser - reveals Golem, Embassy, Coppersmith
+luser - plays 1 Silver, 1 Gold
+luser - buys Embassy
+luser - gains Embassy
+Stef - gains Silver
+luser - places Golem on bottom of the Black Market deck
+luser - places Coppersmith on bottom of the Black Market deck
+luser - draws Courtyard
+luser - shuffles deck
+luser - draws Silver, Copper, Warehouse, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Butcher
+Stef - plays Warehouse
+Stef - draws Courtyard, Copper, Silver
+Stef - discards Butcher
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Courtyard
+Stef - draws Copper, Minion, Copper
+Stef - places Silver on top of deck
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Silver, Copper, Fortress, Gold
+luser - discards: Courtyard, Silver, Copper, Warehouse, Silver
+luser - draws Copper, Forager, Gold, Sage
+Stef - plays Fortress
+Stef - draws Black Market
+Stef - plays Black Market
+Stef - reveals Grand Market, Workshop, Plaza
+Stef - plays 1 Silver, 1 Gold
+Stef - plays Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - places Workshop on bottom of the Black Market deck
+Stef - places Grand Market on bottom of the Black Market deck
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Nobles, Forager, Black Market, Butcher, Courtyard
+ 
+---------- luser: turn 14 ----------
+luser - plays Sage
+luser - reveals Embassy
+luser - places Embassy in hand
+luser - plays Forager
+luser - trashes Copper
+luser - plays Embassy
+luser - draws Steward, Silver, Black Market, Copper
+luser - shuffles deck
+luser - draws Copper
+luser - discards Black Market
+luser - discards Steward
+luser - discards Copper
+luser - plays 1 Gold, 1 Silver, 1 Copper
+luser - buys Gold
+luser - gains Gold
+luser - draws Courtyard, Silver, Silver, Warehouse
+luser - shuffles deck
+luser - draws Forager
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Courtyard
+Stef - draws Copper, Plaza, Warehouse
+Stef - places Butcher on top of deck
+Stef - plays Plaza
+Stef - draws Butcher
+Stef - plays Warehouse
+Stef - draws Copper, Minion, Copper
+Stef - discards Butcher
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Black Market
+Stef - reveals Saboteur, Counterfeit, Market Square
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - places Counterfeit on bottom of the Black Market deck
+Stef - places Saboteur on bottom of the Black Market deck
+Stef - plays Minion
+Stef - draws Silver, Caravan, Copper, Gold
+luser - discards: Courtyard, Silver, Silver, Warehouse, Forager
+luser - draws Embassy, Gold, Black Market, Steward
+Stef - plays Caravan
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Forager
+Stef - shuffles deck
+Stef - draws Plaza, Black Market, Minion
+ 
+---------- luser: turn 15 ----------
+luser - plays Embassy
+luser - draws Silver, Copper, Copper, Sage, Gold
+luser - discards Black Market
+luser - discards Steward
+luser - discards Sage
+luser - plays 2 Gold, 2 Copper, 1 Silver
+luser - buys Province
+luser - gains Province
+luser - shuffles deck
+luser - draws Embassy, Copper, Gold, Province, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Black Market
+Stef - reveals Ambassador, Procession, Possession
+Stef - plays Silver
+Stef - places Possession on bottom of the Black Market deck
+Stef - places Procession on bottom of the Black Market deck
+Stef - places Ambassador on bottom of the Black Market deck
+Stef - plays Minion
+Stef - draws Silver, Gold, Butcher, Warehouse
+luser - discards: Embassy, Copper, Gold, Province, Silver
+luser - draws Silver, Copper, Silver, Sage
+Stef - plays Warehouse
+Stef - draws Market Square, Forager, Copper
+Stef - discards Butcher
+Stef - discards Market Square
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Nobles, Copper, Gold, Courtyard, Fortress
+ 
+---------- luser: turn 16 ----------
+luser - plays Sage
+luser - reveals Steward
+luser - places Steward in hand
+luser - plays Steward
+luser - draws Gold, Forager
+luser - plays 2 Silver, 1 Copper, 1 Gold
+luser - buys Province
+luser - gains Province
+luser - draws Warehouse, Courtyard, Black Market
+luser - shuffles deck
+luser - draws Gold, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Gold
+Stef - plays Courtyard
+Stef - draws Forager, Warehouse, Caravan
+Stef - places Copper on top of deck
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Forager, Market Square, Plaza
+Stef - discards Forager
+Stef - discards Gold
+Stef - discards Gold
+Stef - plays Plaza
+Stef - draws Black Market
+Stef - plays Nobles
+Stef - draws Province, Silver, Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Market Square
+Stef - draws Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Black Market
+Stef - reveals Fairgrounds, Familiar, Develop
+Stef - plays Copper
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - places Familiar on bottom of the Black Market deck
+Stef - places Develop on bottom of the Black Market deck
+Stef - draws Silver, Butcher
+Stef - shuffles deck
+Stef - draws Gold, Market Square, Warehouse
+ 
+---------- luser: turn 17 ----------
+luser - plays Warehouse
+luser - draws Province, Silver, Copper
+luser - discards Black Market
+luser - discards Courtyard
+luser - discards Province
+luser - plays 2 Silver, 1 Gold, 1 Copper
+luser - buys Province
+luser - gains Province
+luser - draws Province, Copper, Silver, Forager, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Warehouse
+Stef - draws Province, Copper, Black Market
+Stef - discards Province
+Stef - discards Black Market
+Stef - discards Butcher
+Stef - plays Forager
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - plays 1 Silver, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Fortress, Forager, Fairgrounds, Nobles
+ 
+---------- luser: turn 18 ----------
+luser - plays Forager
+luser - trashes Copper
+luser - plays 1 Silver, 1 Gold
+luser - buys Gold
+luser - gains Gold
+luser - draws Embassy, Steward, Sage
+luser - shuffles deck
+luser - draws Province, Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Fortress
+Stef - draws Minion
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Minion
+Stef - discards: Gold, Forager, Fairgrounds
+Stef - draws Silver, Plaza, Courtyard
+Stef - shuffles deck
+Stef - draws Forager
+luser - discards: Embassy, Steward, Sage, Province, Silver
+luser - draws Gold, Black Market, Gold, Forager
+Stef - plays Plaza
+Stef - draws Market Square
+Stef - plays Courtyard
+Stef - draws Butcher, Gold, Duchy
+Stef - places Silver on top of deck
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - draws Silver, Province, Caravan, Warehouse, Gold
+ 
+---------- luser: turn 19 ----------
+luser - plays Black Market
+luser - reveals Rogue, Urchin, Mine
+luser - plays 2 Gold
+luser - places Mine on bottom of the Black Market deck
+luser - places Urchin on bottom of the Black Market deck
+luser - places Rogue on bottom of the Black Market deck
+luser - buys Province
+luser - gains Province
+luser - draws Warehouse, Courtyard, Silver, Province, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Warehouse
+Stef - draws Silver, Black Market, Forager
+Stef - discards Province
+Stef - discards Black Market
+Stef - discards Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Fairgrounds
+Stef - shuffles deck
+Stef - draws Black Market, Minion, Gold, Forager
+ 
+---------- luser: turn 20 ----------
+luser - plays 1 Silver, 1 Gold
+luser - buys Duchy
+luser - gains Duchy
+luser - draws Silver, Copper, Province
+luser - shuffles deck
+luser - draws Embassy, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Black Market
+Stef - reveals Coppersmith, Golem, Philosopher's Stone
+Stef - places Philosopher's Stone on bottom of the Black Market deck
+Stef - places Golem on bottom of the Black Market deck
+Stef - places Coppersmith on bottom of the Black Market deck
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Province, Duchy, Duchy, Courtyard, Gold
+ 
+---------- luser: turn 21 ----------
+luser - plays Embassy
+luser - draws Gold, Silver, Province, Province, Forager
+luser - discards Province
+luser - discards Province
+luser - discards Province
+luser - plays 2 Silver, 2 Gold, 1 Copper
+luser - buys Province
+luser - gains Province
+luser - draws Gold, Province, Courtyard, Silver, Steward
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Courtyard
+Stef - draws Market Square, Plaza, Gold
+Stef - places Plaza on top of deck
+Stef - plays 2 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Plaza, Fortress, Forager, Silk Road, Butcher
+ 
+---------- luser: turn 22 ----------
+luser - plays Courtyard
+luser - draws Duchy, Sage, Warehouse
+luser - places Warehouse on top of deck
+luser - plays 1 Gold, 1 Silver
+luser - buys Duchy
+luser - gains Duchy
+luser - draws Warehouse, Black Market
+luser - shuffles deck
+luser - draws Copper, Silver, Steward
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Fortress
+Stef - draws Province
+Stef - plays Plaza
+Stef - draws Nobles
+Stef - plays Nobles
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Duchy, Market Square
+Stef - plays Warehouse
+Stef - draws Gold, Duchy, Duchy
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Gold
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Province
+Stef - draws Province, Gold, Gold, Minion, Caravan
+ 
+------------ Game Over ------------
+Stef - cards: 2 Forager, 1 Nobles, 1 Minion, 1 Caravan, 1 Fortress, 1 Plaza, 1 Warehouse, 1 Butcher, 1 Market Square, 1 Courtyard, 1 Black Market, 2 Gold, 5 Duchy, 3 Province, 1 Silk Road, 1 Fairgrounds
+Stef - total victory points: 43
+Stef - turns: 22
+ 
+luser - cards: 1 Warehouse, 1 Black Market, 1 Steward, 1 Sage, 1 Courtyard, 1 Embassy, 1 Forager, 3 Silver, 3 Gold, 1 Copper, 5 Province, 2 Duchy
+luser - total victory points: 36
+luser - turns: 22
+ 
+1st place: Stef
+2nd place: luser
+ 

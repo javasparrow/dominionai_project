@@ -1,0 +1,464 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Masterpiece, Sea Hag, Worker's Village, Bazaar, Catacombs, City, Saboteur, Upgrade, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+euklid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+euklid - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+euklid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- euklid: turn 1 ----------
+euklid - plays 4 Copper
+euklid - buys Sea Hag
+euklid - gains Sea Hag
+euklid - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- euklid: turn 2 ----------
+euklid - plays 3 Copper
+euklid - buys Silver
+euklid - gains Silver
+euklid - shuffles deck
+euklid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- euklid: turn 3 ----------
+euklid - plays 4 Copper
+euklid - buys Silver
+euklid - gains Silver
+euklid - draws Copper, Copper, Sea Hag, Copper, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Copper, Copper, Sea Hag, Estate, Estate
+ 
+---------- euklid: turn 4 ----------
+euklid - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+euklid - plays 3 Copper, 1 Silver
+euklid - buys Bazaar
+euklid - gains Bazaar
+euklid - draws Estate, Estate
+euklid - shuffles deck
+euklid - draws Copper, Silver, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Sea Hag
+euklid - discards Bazaar
+euklid - gains Curse
+Stef - draws Curse, Estate
+Stef - shuffles deck
+Stef - draws Copper, Upgrade, Copper
+ 
+---------- euklid: turn 5 ----------
+euklid - plays 2 Silver, 1 Copper
+euklid - buys Upgrade
+euklid - gains Upgrade
+euklid - draws Curse, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Sea Hag, Silver
+ 
+---------- euklid: turn 6 ----------
+euklid - plays 3 Copper
+euklid - buys Silver
+euklid - gains Silver
+euklid - draws Copper, Copper, Sea Hag, Copper
+euklid - shuffles deck
+euklid - draws Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Sea Hag
+euklid - discards Upgrade
+euklid - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Sea Hag
+Stef - gains Sea Hag
+Stef - draws Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Curse, Sea Hag
+ 
+---------- euklid: turn 7 ----------
+euklid - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+euklid - plays 3 Copper, 1 Silver
+euklid - buys Upgrade
+euklid - gains Upgrade
+euklid - draws Curse, Curse, Estate, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Sea Hag
+euklid - discards Silver
+euklid - gains Curse
+Stef - draws Curse, Copper, Silver, Silver, Copper
+ 
+---------- euklid: turn 8 ----------
+euklid - draws Curse, Bazaar, Copper, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Sea Hag, Copper, Estate, Copper, Upgrade
+ 
+---------- euklid: turn 9 ----------
+euklid - plays Bazaar
+euklid - draws Copper
+euklid - plays 3 Copper
+euklid - buys Sea Hag
+euklid - gains Sea Hag
+euklid - draws Silver
+euklid - shuffles deck
+euklid - draws Copper, Copper, Sea Hag, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Sea Hag
+euklid - discards Copper
+euklid - gains Curse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- euklid: turn 10 ----------
+euklid - plays Sea Hag
+Stef - discards Curse
+Stef - gains Curse
+euklid - plays 2 Silver, 2 Copper
+euklid - buys Stonemason
+euklid - overpays for Stonemason with 4 coins
+euklid - gains Worker's Village
+euklid - gains Worker's Village
+euklid - gains Stonemason
+euklid - draws Curse, Copper, Bazaar, Estate, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Curse, Curse, Copper, Silver, Silver
+ 
+---------- euklid: turn 11 ----------
+euklid - plays Bazaar
+euklid - draws Copper
+euklid - plays 2 Copper, 1 Silver
+euklid - buys Catacombs
+euklid - gains Catacombs
+euklid - draws Curse, Curse, Sea Hag, Curse, Upgrade
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Upgrade, Copper, Copper, Sea Hag
+ 
+---------- euklid: turn 12 ----------
+euklid - plays Upgrade
+euklid - draws Estate
+euklid - trashes Estate
+euklid - gains Silver
+euklid - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+euklid - draws Copper, Estate, Upgrade, Copper
+euklid - shuffles deck
+euklid - draws Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Curse
+Stef - plays Sea Hag
+euklid - discards Copper
+euklid - gains Curse
+Stef - draws Sea Hag, Upgrade, Copper
+Stef - shuffles deck
+Stef - draws Silver, Silver
+ 
+---------- euklid: turn 13 ----------
+euklid - plays Upgrade
+euklid - draws Curse
+euklid - trashes Estate
+euklid - gains Silver
+euklid - plays 3 Copper
+euklid - buys Silver
+euklid - gains Silver
+euklid - draws Upgrade, Curse, Silver, Worker's Village, Worker's Village
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Sea Hag
+euklid - discards Bazaar
+euklid - gains Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Upgrade, Copper, Sea Hag, Catacombs
+ 
+---------- euklid: turn 14 ----------
+euklid - plays Worker's Village
+euklid - draws Curse
+euklid - plays Upgrade
+euklid - draws Curse
+euklid - trashes Curse
+euklid - plays Worker's Village
+euklid - draws Silver
+euklid - plays 2 Silver
+euklid - buys Worker's Village
+euklid - gains Worker's Village
+euklid - draws Stonemason, Sea Hag, Curse, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Sea Hag
+Stef - gains City
+Stef - plays Catacombs
+Stef - looks at City, Silver, Curse
+Stef - discards: City, Silver, Curse
+Stef - draws Copper, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Silver, Curse, Silver, Copper
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- euklid: turn 15 ----------
+euklid - plays Stonemason
+euklid - trashes Curse
+euklid - plays 1 Silver, 1 Copper
+euklid - buys Silver
+euklid - gains Silver
+euklid - draws Copper, Sea Hag, Estate, Copper, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains City
+Stef - gains City
+Stef - gains Stonemason
+Stef - draws City, Silver, Copper, Silver, Copper
+ 
+---------- euklid: turn 16 ----------
+euklid - plays Sea Hag
+Stef - discards Copper
+euklid - plays 2 Copper, 1 Silver
+euklid - buys Worker's Village
+euklid - gains Worker's Village
+euklid - draws Catacombs, Curse
+euklid - shuffles deck
+euklid - draws Silver, Silver, Curse
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays City
+Stef - draws City, Sea Hag
+Stef - plays City
+Stef - draws Upgrade, Copper
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Sea Hag
+Stef - gains City
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains City
+Stef - gains City
+Stef - gains Stonemason
+Stef - draws Catacombs, Upgrade, Silver, Curse
+Stef - shuffles deck
+Stef - draws Curse
+ 
+---------- euklid: turn 17 ----------
+euklid - plays Catacombs
+euklid - looks at Copper, Copper, Copper
+euklid - places cards in hand:  Copper, Copper, Copper
+euklid - plays 3 Copper, 2 Silver
+euklid - buys Duchy
+euklid - gains Duchy
+euklid - draws Copper, Stonemason, Copper, Copper, Bazaar
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Curse
+Stef - plays Catacombs
+Stef - looks at Silver, Copper, Copper
+Stef - places cards in hand:  Silver, Copper, Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, City, City, City, Silver
+ 
+---------- euklid: turn 18 ----------
+euklid - plays Bazaar
+euklid - draws Sea Hag
+euklid - plays Stonemason
+euklid - trashes Sea Hag
+euklid - gains Estate
+euklid - gains Estate
+euklid - plays 3 Copper
+euklid - buys Estate
+euklid - gains Estate
+euklid - draws Curse, Estate, Silver, Worker's Village, Worker's Village
+ 
+---------- Stef: turn 18 ----------
+Stef - plays City
+Stef - draws Silver, Copper
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws Stonemason, Upgrade
+Stef - plays City
+Stef - draws City, Curse
+Stef - plays City
+Stef - draws Silver, Copper
+Stef - plays Upgrade
+Stef - draws City
+Stef - trashes Curse
+Stef - plays City
+Stef - draws Stonemason, Copper
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 3 Copper, 3 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws City, City, City
+Stef - shuffles deck
+Stef - draws Stonemason, Province
+ 
+---------- euklid: turn 19 ----------
+euklid - plays Worker's Village
+euklid - draws Silver
+euklid - plays Worker's Village
+euklid - draws Sea Hag
+euklid - plays Sea Hag
+Stef - discards City
+euklid - plays 2 Silver
+euklid - buys Estate
+euklid - gains Estate
+euklid - buys Estate
+euklid - gains Estate
+euklid - draws Copper, Upgrade, Silver, Silver, Silver
+ 
+---------- Stef: turn 19 ----------
+Stef - plays City
+Stef - draws Silver, Upgrade
+Stef - plays City
+Stef - draws City, Silver
+Stef - plays City
+Stef - draws Copper, Copper
+Stef - plays City
+Stef - draws Silver, Copper
+Stef - plays Upgrade
+Stef - draws Curse
+Stef - trashes Curse
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Province, Upgrade, City, City
+ 
+---------- euklid: turn 20 ----------
+euklid - plays Upgrade
+euklid - draws Worker's Village
+euklid - trashes Copper
+euklid - plays Worker's Village
+euklid - draws Worker's Village
+euklid - plays Worker's Village
+euklid - draws Curse
+euklid - plays 3 Silver
+euklid - buys City
+euklid - gains City
+euklid - draws Upgrade
+euklid - shuffles deck
+euklid - draws Copper, Catacombs, Silver, Worker's Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays City
+Stef - draws Stonemason, Copper
+Stef - plays City
+Stef - draws Silver, Catacombs
+Stef - plays Catacombs
+Stef - looks at City, City, Silver
+Stef - places cards in hand:  City, City, Silver
+Stef - plays City
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws City
+Stef - plays City
+Stef - draws Silver, City
+Stef - plays City
+Stef - draws City, Copper
+Stef - plays City
+Stef - draws Stonemason, City
+Stef - plays City
+Stef - draws Upgrade, Silver
+Stef - plays City
+Stef - draws Province, Silver
+Stef - plays 6 Silver, 3 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws City, Copper, Province
+Stef - shuffles deck
+Stef - draws Catacombs, Upgrade
+ 
+------------ Game Over ------------
+Stef - cards: 9 City, 2 Upgrade, 2 Stonemason, 1 Catacombs, 6 Silver, 4 Copper, 5 Province, 3 Estate
+Stef - total victory points: 33
+Stef - turns: 20
+ 
+euklid - cards: 4 Worker's Village, 2 Upgrade, 1 Catacombs, 1 Sea Hag, 1 Stonemason, 1 City, 1 Bazaar, 7 Silver, 6 Copper, 6 Estate, 1 Duchy, 4 Curse
+euklid - total victory points: 5
+euklid - turns: 20
+ 
+1st place: Stef
+2nd place: euklid
+ 

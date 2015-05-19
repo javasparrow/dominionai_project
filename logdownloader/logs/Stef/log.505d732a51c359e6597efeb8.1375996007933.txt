@@ -1,0 +1,596 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, University, Trade Route, Urchin, Island, Smithy, Apprentice, Highway, Horn of Plenty, Knights, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Stef - shuffles deck
+SheCantSayNo - draws Hovel, Copper, Copper, Copper, Necropolis
+Stef - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Hovel, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Potion
+SheCantSayNo - gains Potion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hovel, Copper, Potion, Necropolis, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Hovel, Copper, Potion
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper, 1 Potion
+SheCantSayNo - buys University
+SheCantSayNo - gains University
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Urchin
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Trade Route, Copper, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Overgrown Estate
+Stef - discards Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Urchin, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Trade Route, Necropolis, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Overgrown Estate
+Stef - discards Necropolis
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - draws University, Hovel, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Trade Route
+Stef - trashes Overgrown Estate
+Stef - draws Potion
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Hamlet, Copper, Hovel, University
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays University
+SheCantSayNo - gains Dame Sylvia
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Hamlet
+SheCantSayNo - gains Hamlet
+SheCantSayNo - draws Copper, Urchin, Potion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Necropolis, Overgrown Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays University
+Stef - gains Sir Bailey
+Stef - plays 3 Copper
+Stef - buys Estate
+Stef - trashes Hovel
+Stef - gains Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws University, Hamlet, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Copper
+Stef - discards Copper
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper, 1 Potion
+SheCantSayNo - buys University
+SheCantSayNo - gains University
+SheCantSayNo - draws Copper, Urchin, Copper, Hovel, Hamlet
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hamlet
+Stef - draws Estate
+Stef - plays University
+Stef - gains Smithy
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Potion, Copper, University, Trade Route
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Dame Sylvia
+Stef - discards Copper
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Urchin
+SheCantSayNo - discards Hovel
+SheCantSayNo - receives one buy
+SheCantSayNo - plays Urchin
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Dame Sylvia
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+Stef - reveals: Necropolis, Sir Bailey
+Stef - trashes Sir Bailey
+Stef - discards Necropolis
+SheCantSayNo - trashes Dame Sylvia
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Dame Molly
+SheCantSayNo - gains Dame Molly
+SheCantSayNo - draws Copper, Copper, University
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Necropolis
+ 
+---------- Stef: turn 8 ----------
+Stef - plays University
+Stef - gains Smithy
+Stef - plays Trade Route
+Stef - trashes Potion
+Stef - plays 1 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws University, Smithy, Copper, University
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays University
+SheCantSayNo - gains Smithy
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Hamlet
+SheCantSayNo - gains Hamlet
+SheCantSayNo - draws Urchin, Hamlet, Copper, Dame Molly, Mercenary
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Highway
+Stef - plays Smithy
+Stef - draws Hamlet, Necropolis, Copper
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Trade Route
+Stef - plays University
+Stef - gains Island
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Smithy, Copper, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Hovel
+Stef - discards Estate
+SheCantSayNo - plays Dame Molly
+Stef - reveals: Hamlet
+Stef - shuffles deck
+Stef - reveals: Estate
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Hovel, Copper
+SheCantSayNo - draws Copper, Overgrown Estate
+Stef - discards Smithy
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Potion
+SheCantSayNo - plays 1 Copper, 1 Potion
+SheCantSayNo - buys University
+SheCantSayNo - gains University
+SheCantSayNo - draws University, Copper, Copper, Mercenary
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Hamlet, Smithy, Hamlet, Copper, Necropolis
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays University
+SheCantSayNo - gains Highway
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Overgrown Estate, Copper
+Stef - discards Copper
+Stef - discards Hamlet
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Smithy
+SheCantSayNo - gains Smithy
+SheCantSayNo - draws Hamlet, University, Mercenary, Urchin, University
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws University, University, Smithy
+Stef - plays University
+Stef - gains Highway
+Stef - plays Smithy
+Stef - draws Trade Route, Highway, Island
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays University
+Stef - gains Smithy
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Island
+Stef - sets aside Copper
+Stef - plays Trade Route
+Stef - trashes Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Smithy, Hamlet, Hamlet, Copper, Hamlet
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Copper
+Stef - discards Copper
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Dame Molly
+SheCantSayNo - plays Dame Molly
+Stef - reveals: Estate, Copper
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, University
+SheCantSayNo - draws Necropolis, Copper
+Stef - discards Hamlet
+SheCantSayNo - plays University
+SheCantSayNo - gains Smithy
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Hamlet
+SheCantSayNo - gains Hamlet
+SheCantSayNo - draws Potion, Smithy, Hamlet
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Smithy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Hamlet
+Stef - draws Smithy
+Stef - discards Hamlet
+Stef - receives one action
+Stef - plays Smithy
+Stef - draws Highway, Copper
+Stef - shuffles deck
+Stef - draws Necropolis
+Stef - plays Highway
+Stef - draws Hamlet
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Smithy, Urchin, Estate
+Stef - plays Urchin
+Stef - draws Highway
+SheCantSayNo - discards Potion
+Stef - plays Highway
+Stef - draws Trade Route
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Smithy
+Stef - draws University, Hamlet, Copper
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays Hamlet
+Stef - draws Smithy
+Stef - plays University
+Stef - gains Highway
+Stef - plays Smithy
+Stef - draws University
+Stef - shuffles deck
+Stef - draws Copper, Highway
+Stef - plays University
+Stef - gains Dame Josephine
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Dame Josephine
+Stef - plays Dame Josephine
+SheCantSayNo - reveals: University, Hamlet
+Stef - plays Trade Route
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Sir Martin
+Stef - gains Sir Martin
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - shuffles deck
+Stef - draws University, Smithy, University, Hamlet, Sir Martin
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Urchin
+SheCantSayNo - discards Urchin
+SheCantSayNo - receives one action
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Copper, Copper, Highway
+SheCantSayNo - plays Highway
+SheCantSayNo - draws University
+SheCantSayNo - plays University
+SheCantSayNo - gains Apprentice
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Hamlet, Necropolis
+Stef - discards Hamlet
+Stef - discards Sir Martin
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Smithy, Copper, Mercenary
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Overgrown Estate
+SheCantSayNo - discards Copper
+SheCantSayNo - receives one action
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Dame Molly
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Apprentice, Hamlet
+SheCantSayNo - plays Dame Molly
+Stef - reveals: Hamlet, Smithy
+Stef - trashes Smithy
+Stef - discards Hamlet
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Overgrown Estate, Copper
+SheCantSayNo - draws Urchin
+SheCantSayNo - draws Potion, University
+SheCantSayNo - plays University
+SheCantSayNo - gains Sir Vander
+SheCantSayNo - plays Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Sir Vander
+SheCantSayNo - plays Sir Vander
+Stef - reveals: Dame Josephine, Highway
+Stef - trashes Dame Josephine
+Stef - discards Highway
+SheCantSayNo - trashes Sir Vander
+SheCantSayNo - gains Gold
+SheCantSayNo - plays 1 Potion
+SheCantSayNo - buys Horn of Plenty
+SheCantSayNo - gains Horn of Plenty
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws University, Smithy, Hamlet, Hamlet, Smithy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays University
+Stef - gains Smithy
+Stef - plays Smithy
+Stef - draws Highway, Hamlet, Copper
+Stef - plays Highway
+Stef - draws Smithy
+Stef - plays University
+Stef - gains Sir Michael
+Stef - plays Smithy
+Stef - draws Hamlet, Copper, Sir Destry
+Stef - plays Hamlet
+Stef - draws Trade Route
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Sir Destry
+Stef - draws Highway, Necropolis
+SheCantSayNo - reveals: Potion, Dame Molly
+SheCantSayNo - trashes Dame Molly
+SheCantSayNo - discards Potion
+Stef - trashes Sir Destry
+Stef - plays Highway
+Stef - draws Smithy
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws Urchin, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Urchin
+Stef - draws Smithy
+SheCantSayNo - discards Hamlet
+Stef - plays Hamlet
+Stef - draws Hamlet
+Stef - discards Copper
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Smithy
+Stef - draws Hamlet, Highway, Sir Martin
+Stef - plays Highway
+Stef - draws Sir Michael
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Sir Martin
+SheCantSayNo - reveals: Smithy, Mercenary
+Stef - plays Sir Michael
+SheCantSayNo - discards Hamlet
+SheCantSayNo - reveals: Necropolis, Apprentice
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - buys Silver
+Stef - gains Silver
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - buys Trade Route
+Stef - gains Trade Route
+Stef - shuffles deck
+Stef - draws Urchin, Hamlet, Hamlet, Copper, Sir Michael
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays University
+SheCantSayNo - gains Dame Anna
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Highway, Mercenary, Hamlet
+SheCantSayNo - plays Highway
+SheCantSayNo - draws University
+SheCantSayNo - plays University
+SheCantSayNo - gains Dame Natalie
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Gold, Urchin, Horn of Plenty
+SheCantSayNo - plays Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hamlet
+Stef - discards Copper
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Smithy
+SheCantSayNo - discards Mercenary
+SheCantSayNo - receives one action
+SheCantSayNo - plays Smithy
+SheCantSayNo - draws Hamlet, Dame Anna, Dame Natalie
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Potion
+SheCantSayNo - discards Potion
+SheCantSayNo - receives one buy
+SheCantSayNo - plays Hamlet
+SheCantSayNo - draws Apprentice
+SheCantSayNo - discards Apprentice
+SheCantSayNo - receives one action
+SheCantSayNo - discards Dame Anna
+SheCantSayNo - receives one buy
+SheCantSayNo - plays Dame Natalie
+SheCantSayNo - gains Island
+Stef - reveals: University, Trade Route
+SheCantSayNo - plays 1 Gold
+SheCantSayNo - plays Horn of Plenty
+SheCantSayNo - gains Province
+SheCantSayNo - trashes Horn of Plenty
+SheCantSayNo - buys Hamlet
+SheCantSayNo - gains Hamlet
+SheCantSayNo - buys Hamlet
+SheCantSayNo - gains Hamlet
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Necropolis, Mercenary
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws University, Dame Anna, University
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Urchin
+Stef - draws Smithy
+SheCantSayNo - discards Necropolis
+Stef - plays Hamlet
+Stef - draws Smithy
+Stef - discards Sir Michael
+Stef - receives one action
+Stef - plays Smithy
+Stef - draws Smithy, Copper, Sir Martin
+Stef - plays Hamlet
+Stef - draws Necropolis
+Stef - discards Copper
+Stef - receives one action
+Stef - plays Smithy
+Stef - draws Highway, Hamlet, Trade Route
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - draws Silver
+Stef - plays Necropolis
+Stef - plays Smithy
+Stef - draws University, Copper, Smithy
+Stef - plays University
+Stef - gains Highway
+Stef - plays Smithy
+Stef - draws Urchin, Hamlet, Hamlet
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Urchin
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Highway
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws University
+Stef - plays University
+Stef - gains Highway
+Stef - plays Hamlet
+Stef - draws Mercenary
+Stef - plays Mercenary
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - trashes Copper, Silver
+Stef - draws Copper, Trade Route
+SheCantSayNo - discards Mercenary
+Stef - plays Hamlet
+Stef - draws Sir Michael
+Stef - discards Sir Michael
+Stef - receives one action
+Stef - plays Hamlet
+Stef - draws Mercenary
+Stef - discards Trade Route
+Stef - receives one buy
+Stef - plays Mercenary
+Stef - trashes Copper, Trade Route
+Stef - draws Highway, Copper
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Sir Michael
+Stef - plays Sir Martin
+SheCantSayNo - reveals: Highway, Estate
+Stef - plays 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - draws Mercenary, Highway, Trade Route
+Stef - shuffles deck
+Stef - draws Province, Hamlet
+ 
+------------ Game Over ------------
+Stef - cards: 6 Smithy, 5 Highway, 5 Hamlet, 3 Mercenary, 2 University, 1 Island, 1 Trade Route, 1 Sir Martin, 1 Sir Michael, 1 Necropolis, 2 Copper, 1 Province, 1 Duchy
+Stef - total victory points: 11
+Stef - turns: 14
+ 
+SheCantSayNo - cards: 5 Hamlet, 3 Smithy, 2 University, 2 Mercenary, 1 Island, 1 Dame Anna, 1 Necropolis, 1 Highway, 1 Dame Natalie, 1 Urchin, 1 Apprentice, 1 Gold, 1 Potion, 1 Estate, 1 Province
+SheCantSayNo - total victory points: 9
+SheCantSayNo - turns: 14
+ 
+1st place: Stef
+2nd place: SheCantSayNo
+ 

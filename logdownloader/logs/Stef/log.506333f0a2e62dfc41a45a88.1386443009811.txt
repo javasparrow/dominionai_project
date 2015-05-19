@@ -1,0 +1,403 @@
+------------ Game Setup ------------
+Supply cards: Develop, Masterpiece, Bureaucrat, Gardens, Scout, Cache, Count, Merchant Guild, Rabble, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - shuffles deck
+Stef - shuffles deck
+nnn - draws Copper, Copper, Copper, Copper, Estate
+Stef - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 4 Copper
+nnn - buys Bureaucrat
+nnn - gains Bureaucrat
+nnn - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - shuffles deck
+nnn - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Tactician
+Stef - gains Tactician
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Tactician, Copper
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Copper, Copper, Bureaucrat, Silver
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Tactician
+Stef - discards: Estate, Copper, Copper, Copper
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays Bureaucrat
+nnn - gains Silver
+Stef - reveals Estate
+Stef - places Estate on top of deck
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Tactician
+nnn - gains Tactician
+nnn - draws Silver, Copper, Estate
+nnn - shuffles deck
+nnn - draws Bureaucrat, Silver
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Tactician
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+Stef - plays 7 Copper
+Stef - buys Masterpiece
+Stef - overpays for Masterpiece with 4 coins
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Masterpiece
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Bureaucrat
+nnn - gains Silver
+Stef - reveals Estate
+Stef - places Estate on top of deck
+nnn - plays 2 Silver, 1 Copper
+nnn - buys Merchant Guild
+nnn - gains Merchant Guild
+nnn - draws Silver, Tactician, Copper, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Bureaucrat
+Stef - gains Bureaucrat
+Stef - draws Estate, Copper, Masterpiece, Tactician, Copper
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Tactician
+nnn - discards: Silver, Copper, Silver, Estate
+nnn - buys Copper
+nnn - gains Copper
+nnn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tactician
+Stef - discards: Estate, Copper, Masterpiece, Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Silver, Estate, Copper, Silver, Estate
+ 
+---------- nnn: turn 7 ----------
+nnn - duration Tactician
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Silver, Estate, Copper, Copper
+nnn - plays 7 Copper, 1 Silver
+nnn - buys Masterpiece
+nnn - overpays for Masterpiece with 6 coins
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Masterpiece
+nnn - buys Copper
+nnn - gains Copper
+nnn - draws Estate, Silver, Silver, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Tactician
+Stef - draws Silver, Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays 4 Silver, 4 Copper
+Stef - buys Masterpiece
+Stef - overpays for Masterpiece with 9 coins
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Masterpiece
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- nnn: turn 8 ----------
+nnn - plays 3 Silver, 1 Copper
+nnn - buys Gardens
+nnn - gains Gardens
+nnn - draws Bureaucrat, Merchant Guild
+nnn - shuffles deck
+nnn - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 4 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Masterpiece, Bureaucrat, Copper
+Stef - shuffles deck
+Stef - draws Silver, Silver
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Bureaucrat
+nnn - gains Silver
+Stef - reveals Masterpiece, Bureaucrat, Copper, Silver, Silver
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Gardens
+nnn - gains Gardens
+nnn - draws Silver, Silver, Estate, Tactician, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Bureaucrat
+Stef - gains Silver
+nnn - reveals Estate
+nnn - places Estate on top of deck
+Stef - plays 2 Silver, 1 Masterpiece, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Copper, Silver, Silver, Silver
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Tactician
+nnn - discards: Silver, Silver, Silver
+nnn - buys Copper
+nnn - gains Copper
+nnn - draws Estate, Silver, Silver, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Silver, Tactician, Estate
+ 
+---------- nnn: turn 11 ----------
+nnn - duration Tactician
+nnn - draws Copper, Copper, Gardens, Copper, Copper
+nnn - plays 5 Copper, 2 Silver
+nnn - buys Masterpiece
+nnn - overpays for Masterpiece with 6 coins
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Silver
+nnn - gains Masterpiece
+nnn - buys Copper
+nnn - gains Copper
+nnn - draws Silver, Copper, Copper, Silver, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Tactician
+Stef - discards: Copper, Copper, Silver, Estate
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Silver, Estate, Silver, Estate
+ 
+---------- nnn: turn 12 ----------
+nnn - plays 3 Silver, 2 Copper
+nnn - buys Province
+nnn - gains Province
+nnn - draws Silver, Estate, Masterpiece, Silver
+nnn - shuffles deck
+nnn - draws Bureaucrat
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Tactician
+Stef - draws Copper, Copper, Silver, Silver, Silver
+Stef - plays 5 Silver, 3 Copper
+Stef - buys Masterpiece
+Stef - overpays for Masterpiece with 10 coins
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Masterpiece
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Silver, Copper, Copper, Masterpiece, Silver
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Bureaucrat
+Stef - reveals Silver, Copper, Copper, Masterpiece, Silver
+nnn - plays 2 Silver, 1 Masterpiece
+nnn - buys Gardens
+nnn - gains Gardens
+nnn - draws Gardens, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 2 Silver, 2 Copper, 1 Masterpiece
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Gardens
+Stef - shuffles deck
+Stef - draws Silver, Masterpiece, Silver
+ 
+---------- nnn: turn 14 ----------
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Gardens
+nnn - gains Gardens
+nnn - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 2 Silver, 1 Copper, 1 Masterpiece
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Silver, Silver, Gardens, Silver
+ 
+---------- nnn: turn 15 ----------
+nnn - plays 4 Copper, 1 Silver
+nnn - buys Count
+nnn - gains Count
+nnn - draws Silver, Gardens, Silver, Silver, Masterpiece
+ 
+---------- Stef: turn 15 ----------
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Tactician, Silver, Silver, Silver
+ 
+---------- nnn: turn 16 ----------
+nnn - plays 3 Silver, 1 Masterpiece
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Copper, Silver, Tactician, Copper, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Tactician
+Stef - discards: Copper, Silver, Silver, Silver
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Gardens, Estate, Copper, Copper
+ 
+---------- nnn: turn 17 ----------
+nnn - plays Tactician
+nnn - discards: Copper, Silver, Copper, Estate
+nnn - buys Copper
+nnn - gains Copper
+nnn - draws Silver, Copper, Silver, Province, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Tactician
+Stef - draws Silver, Estate, Copper, Copper, Silver
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Copper
+Stef - gains Copper
+Stef - draws Copper, Silver, Copper, Silver, Province
+ 
+---------- nnn: turn 18 ----------
+nnn - duration Tactician
+nnn - draws Silver, Copper, Silver, Silver, Silver
+nnn - plays 7 Silver, 2 Copper
+nnn - buys Province
+nnn - gains Province
+nnn - buys Province
+nnn - gains Province
+nnn - draws Silver, Merchant Guild, Silver, Estate
+nnn - shuffles deck
+nnn - draws Silver
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Silver, Silver, Silver, Silver
+ 
+---------- nnn: turn 19 ----------
+nnn - plays Merchant Guild
+nnn - plays 3 Silver
+nnn - buys Duchy
+nnn - receives 1 coin token
+nnn - gains Duchy
+nnn - buys Copper
+nnn - receives 1 coin token
+nnn - gains Copper
+nnn - draws Silver, Copper, Silver, Silver, Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays 5 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Masterpiece, Silver, Copper, Masterpiece, Bureaucrat
+ 
+---------- nnn: turn 20 ----------
+nnn - plays 3 Silver, 1 Copper
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Silver, Silver, Silver, Masterpiece, Silver
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Bureaucrat
+nnn - reveals Silver, Silver, Silver, Masterpiece, Silver
+Stef - plays 2 Masterpiece, 1 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Copper, Silver, Silver
+ 
+---------- nnn: turn 21 ----------
+nnn - plays 4 Silver, 1 Masterpiece
+nnn - buys Duchy
+nnn - gains Duchy
+nnn - draws Silver, Copper, Copper, Gardens, Gardens
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- nnn: turn 22 ----------
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Estate
+nnn - gains Estate
+nnn - draws Province, Gardens, Silver, Copper, Copper
+ 
+---------- Stef: turn 22 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Masterpiece, Silver, Silver, Duchy
+ 
+------------ Game Over ------------
+Stef - cards: 23 Silver, 14 Copper, 1 Bureaucrat, 1 Tactician, 3 Masterpiece, 4 Duchy, 4 Gardens, 4 Province, 3 Estate
+Stef - total victory points: 59
+Stef - turns: 22
+ 
+nnn - cards: 17 Silver, 13 Copper, 1 Merchant Guild, 1 Tactician, 1 Count, 1 Bureaucrat, 2 Masterpiece, 4 Gardens, 4 Duchy, 4 Estate, 3 Province
+nnn - total victory points: 54
+nnn - turns: 22
+ 
+1st place: Stef
+2nd place: nnn
+ 

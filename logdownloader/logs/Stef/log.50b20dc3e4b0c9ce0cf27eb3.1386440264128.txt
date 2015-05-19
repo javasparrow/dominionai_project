@@ -1,0 +1,473 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Market Square, Conspirator, Marauder, Quarry, Bandit Camp, Cache, Cultist, Mine, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+nnn - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+nnn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 4 Copper
+nnn - buys Quarry
+nnn - gains Quarry
+nnn - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - shuffles deck
+Stef - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 3 Copper
+nnn - buys Market Square
+nnn - gains Market Square
+nnn - shuffles deck
+nnn - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Copper, Quarry, Copper, Estate
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Estate, Quarry, Market Square, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Cultist, Quarry, Copper
+ 
+---------- nnn: turn 4 ----------
+nnn - plays Market Square
+nnn - draws Copper
+nnn - plays 3 Copper
+nnn - plays Quarry
+nnn - buys Cultist
+nnn - gains Cultist
+nnn - buys Market Square
+nnn - gains Market Square
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Cultist, Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cultist
+Stef - draws Estate, Copper
+nnn - gains Abandoned Mine
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Copper, Estate, Copper, Cultist
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Cultist
+nnn - draws Estate, Copper
+Stef - gains Ruined Village
+nnn - plays 4 Copper
+nnn - buys Quarry
+nnn - gains Quarry
+nnn - draws Estate, Silver, Copper, Market Square, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Cultist
+Stef - draws Silver, Copper
+nnn - gains Ruined Market
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - shuffles deck
+Stef - draws Estate, Cultist, Cultist, Copper, Cultist
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Market Square
+nnn - draws Copper
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Cultist
+nnn - gains Cultist
+nnn - draws Quarry, Market Square
+nnn - shuffles deck
+nnn - draws Ruined Market, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Cultist
+Stef - draws Estate, Copper
+nnn - gains Ruined Market
+Stef - plays Cultist
+Stef - draws Quarry, Silver
+nnn - gains Ruined Library
+Stef - plays Cultist
+Stef - draws Estate, Copper
+nnn - gains Abandoned Mine
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Quarry
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Ruined Village, Cultist, Copper, Copper, Copper
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Market Square
+nnn - draws Copper
+nnn - plays Ruined Market
+nnn - plays 2 Copper
+nnn - plays Quarry
+nnn - buys Cultist
+nnn - gains Cultist
+nnn - draws Cultist, Market Square, Copper, Cultist, Quarry
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cultist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+nnn - gains Abandoned Mine
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate, Cultist, Copper, Copper, Quarry
+ 
+---------- nnn: turn 8 ----------
+nnn - plays Cultist
+nnn - draws Copper, Copper
+Stef - gains Survivors
+nnn - plays Cultist
+nnn - draws Estate, Abandoned Mine
+Stef - gains Ruined Library
+nnn - plays 3 Copper
+nnn - plays Quarry
+nnn - buys Cultist
+nnn - gains Cultist
+nnn - draws Copper, Silver, Copper, Estate
+nnn - shuffles deck
+nnn - draws Abandoned Mine
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cultist
+Stef - draws Silver, Cultist
+nnn - gains Survivors
+Stef - plays Cultist
+Stef - draws Copper, Cultist
+Stef - plays Cultist
+Stef - draws Estate, Cultist
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Quarry
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - shuffles deck
+Stef - draws Cultist, Copper, Survivors, Market Square, Copper
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Abandoned Mine
+nnn - plays 2 Copper, 1 Silver
+nnn - buys Conspirator
+nnn - gains Conspirator
+nnn - draws Abandoned Mine, Cultist, Market Square, Cultist, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Market Square
+Stef - draws Cultist
+Stef - plays Cultist
+Stef - draws Cultist, Quarry
+Stef - plays Cultist
+Stef - draws Copper, Ruined Library
+Stef - plays Cultist
+Stef - draws Cultist, Estate
+Stef - plays Cultist
+Stef - draws Silver, King's Court
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Quarry
+Stef - buys Bandit Camp
+Stef - gains Bandit Camp
+Stef - buys Mine
+Stef - gains Mine
+Stef - draws Copper, Copper, Copper, Cultist, Copper
+ 
+---------- nnn: turn 10 ----------
+nnn - plays Market Square
+nnn - draws Copper
+nnn - plays Cultist
+nnn - draws Market Square, Cultist
+nnn - plays Cultist
+nnn - draws Ruined Market, Quarry
+nnn - plays Cultist
+nnn - draws Cultist, Abandoned Mine
+nnn - plays Cultist
+nnn - draws Copper, Ruined Library
+nnn - plays 3 Copper
+nnn - plays Quarry
+nnn - buys Bandit Camp
+nnn - gains Bandit Camp
+nnn - buys Market Square
+nnn - gains Market Square
+nnn - draws Quarry, Copper, Copper, Ruined Market, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Cultist
+Stef - draws Ruined Village, Estate
+Stef - plays 4 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Cultist, Bandit Camp, Copper, Copper
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Ruined Market
+nnn - plays Quarry
+nnn - plays Copper
+nnn - plays Copper
+nnn - buys Bandit Camp
+nnn - gains Bandit Camp
+nnn - draws Estate
+nnn - shuffles deck
+nnn - draws Cultist, Copper, Copper, Bandit Camp
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bandit Camp
+Stef - draws Ruined Village
+Stef - gains Spoils
+Stef - plays Cultist
+Stef - draws Cultist, King's Court
+Stef - plays Cultist
+Stef - draws Copper, Quarry
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Bandit Camp
+Stef - gains Bandit Camp
+Stef - draws Estate, Copper, Copper, Ruined Library, Market Square
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Bandit Camp
+nnn - draws Cultist
+nnn - gains Spoils
+nnn - plays Cultist
+nnn - draws Copper, Market Square
+nnn - plays Cultist
+nnn - draws Quarry, Cultist
+nnn - plays Cultist
+nnn - draws Ruined Market, Ruined Library
+nnn - plays Market Square
+nnn - draws Abandoned Mine
+nnn - plays Abandoned Mine
+nnn - plays 3 Copper
+nnn - plays Quarry
+nnn - buys King's Court
+nnn - gains King's Court
+nnn - draws Estate, Market Square, Abandoned Mine, Ruined Market, Survivors
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Market Square
+Stef - draws Cultist
+Stef - plays Cultist
+Stef - draws Silver, Market Square
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Mine, Estate, Cultist, Cultist, Survivors
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Market Square
+nnn - draws Estate
+nnn - plays Survivors
+nnn - looks at Quarry, Copper
+nnn - discards: Quarry, Copper
+nnn - draws Conspirator, Market Square, Copper, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Survivors
+Stef - looks at Copper, Copper
+Stef - discards: Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, King's Court, Cultist, Ruined Library, Conspirator
+ 
+---------- nnn: turn 14 ----------
+nnn - plays Market Square
+nnn - draws Abandoned Mine
+nnn - plays Conspirator
+nnn - plays 3 Copper
+nnn - buys Cultist
+nnn - gains Cultist
+nnn - draws Silver, Cultist, Bandit Camp
+nnn - shuffles deck
+nnn - draws Copper, Market Square
+ 
+---------- Stef: turn 15 ----------
+Stef - plays King's Court
+Stef - plays Conspirator
+Stef - plays Conspirator
+Stef - draws Spoils
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Cultist
+Stef - draws Bandit Camp, Survivors
+Stef - plays Bandit Camp
+Stef - draws Cultist
+Stef - gains Spoils
+Stef - plays Cultist
+Stef - draws Silver, Cultist
+Stef - plays Cultist
+Stef - draws Bandit Camp, Cultist
+Stef - plays Cultist
+Stef - draws Copper, Quarry
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Survivors
+Stef - looks at Copper, Copper
+Stef - discards: Copper, Copper
+Stef - plays Ruined Library
+Stef - draws Market Square
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Mine, Copper, Market Square, Cultist, Ruined Village
+ 
+---------- nnn: turn 15 ----------
+nnn - plays Bandit Camp
+nnn - draws Copper
+nnn - gains Spoils
+nnn - plays Market Square
+nnn - draws Conspirator
+nnn - plays Cultist
+nnn - draws Quarry, Ruined Market
+nnn - plays Conspirator
+nnn - draws Estate
+nnn - plays Ruined Market
+nnn - plays 2 Copper, 1 Silver
+nnn - plays Quarry
+nnn - buys King's Court
+nnn - gains King's Court
+nnn - buys Conspirator
+nnn - gains Conspirator
+nnn - draws Ruined Library, Quarry, Copper, Copper, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - draws Estate, Estate
+Stef - shuffles deck
+Stef - draws Market Square, Copper, Quarry
+ 
+---------- nnn: turn 16 ----------
+nnn - plays Ruined Library
+nnn - draws Market Square
+nnn - plays Quarry
+nnn - plays Copper
+nnn - plays Copper
+nnn - buys Bandit Camp
+nnn - gains Bandit Camp
+nnn - draws Cultist, Ruined Market, Abandoned Mine, Abandoned Mine, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Market Square
+Stef - draws Spoils
+Stef - plays 1 Copper
+Stef - plays Quarry
+Stef - plays Spoils
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Bandit Camp
+Stef - gains Bandit Camp
+Stef - draws Market Square, Ruined Library, Spoils, Cultist, Bandit Camp
+ 
+---------- nnn: turn 17 ----------
+nnn - plays Cultist
+nnn - draws Cultist, Cultist
+nnn - plays Cultist
+nnn - draws Cultist, Spoils
+nnn - plays Cultist
+nnn - draws Bandit Camp, Survivors
+nnn - plays Cultist
+nnn - draws King's Court, Abandoned Mine
+nnn - plays Spoils
+nnn - plays Copper
+nnn - buys Conspirator
+nnn - gains Conspirator
+nnn - draws Copper, Copper, Estate, Market Square
+nnn - shuffles deck
+nnn - draws Ruined Market
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Bandit Camp
+Stef - draws Cultist
+Stef - gains Spoils
+Stef - plays Cultist
+Stef - draws Cultist, Copper
+Stef - plays Cultist
+Stef - draws King's Court, Copper
+Stef - plays Cultist
+Stef - draws Bandit Camp, Cultist
+Stef - plays Cultist
+Stef - draws Conspirator, Survivors
+Stef - plays Bandit Camp
+Stef - draws Mine
+Stef - gains Spoils
+Stef - plays King's Court
+Stef - plays Market Square
+Stef - draws Ruined Village
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Market Square
+Stef - draws Estate
+Stef - plays Survivors
+Stef - looks at Silver, Cultist
+Stef - places Silver on top of deck
+Stef - places Cultist on top of deck
+Stef - plays Conspirator
+Stef - draws Cultist
+Stef - plays Cultist
+Stef - draws Silver, Spoils
+Stef - plays Ruined Library
+Stef - draws Silver
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Quarry
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Quarry
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Copper, Colony, Copper
+Stef - shuffles deck
+Stef - draws Ruined Village, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 7 Market Square, 5 Cultist, 3 Bandit Camp, 1 Ruined Village, 1 King's Court, 1 Ruined Library, 1 Conspirator, 1 Survivors, 1 Mine, 6 Copper, 2 Spoils, 2 Quarry, 1 Silver, 3 Estate, 1 Colony
+Stef - total victory points: 13
+Stef - turns: 18
+ 
+nnn - cards: 5 Cultist, 3 Market Square, 3 Bandit Camp, 3 Conspirator, 3 Abandoned Mine, 2 Ruined Market, 2 King's Court, 1 Survivors, 1 Ruined Library, 7 Copper, 2 Quarry, 1 Spoils, 1 Silver, 3 Estate
+nnn - total victory points: 3
+nnn - turns: 17
+ 
+1st place: Stef
+2nd place: nnn
+ 

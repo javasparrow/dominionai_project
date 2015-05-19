@@ -1,0 +1,900 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Candlestick Maker, Oasis, Sage, Fortress, Noble Brigand, Pirate Ship, Silk Road, Catacombs, Council Room, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Stef - shuffles deck
+SheCantSayNo - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Candlestick Maker
+SheCantSayNo - gains Candlestick Maker
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Estate, Oasis, Candlestick Maker, Copper, Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Oasis
+SheCantSayNo - gains Oasis
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Oasis, Candlestick Maker, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Catacombs
+SheCantSayNo - gains Catacombs
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - uses 1 coin token
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Oasis
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Candlestick Maker, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Catacombs, Estate, Candlestick Maker, Copper, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Candlestick Maker
+SheCantSayNo - gains Candlestick Maker
+SheCantSayNo - draws Copper, Oasis, Estate, Catacombs, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Estate, Copper, Oasis
+Stef - places cards in hand:  Estate, Copper, Oasis
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Copper, Candlestick Maker, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Catacombs
+SheCantSayNo - gains Catacombs
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Estate, Oasis
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Oasis, Catacombs, Copper, Oasis, Estate
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Oasis
+SheCantSayNo - gains Oasis
+SheCantSayNo - draws Copper, Copper, Estate, Copper, Catacombs
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Catacombs
+Stef - looks at Estate, Fortress, Estate
+Stef - places cards in hand:  Estate, Fortress, Estate
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Catacombs
+Stef - shuffles deck
+Stef - draws Oasis, Oasis, Fortress, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Copper, Catacombs, Candlestick Maker, Fortress, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Estate, Fortress, Copper
+Stef - discards: Estate, Fortress, Copper
+Stef - draws Fortress, Copper, Estate
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Catacombs
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper, Copper, Candlestick Maker
+Stef - shuffles deck
+Stef - draws Estate, Catacombs
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Oasis
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Copper, Oasis, Estate
+SheCantSayNo - discards: Copper, Oasis, Estate
+SheCantSayNo - draws Catacombs, Copper, Copper
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Estate, Candlestick Maker, Estate
+SheCantSayNo - places cards in hand:  Estate, Candlestick Maker, Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - uses 2 coin tokens
+SheCantSayNo - buys Catacombs
+SheCantSayNo - gains Catacombs
+SheCantSayNo - buys Oasis
+SheCantSayNo - gains Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Fortress, Copper, Fortress
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Estate, Copper, Estate
+Stef - places cards in hand:  Estate, Copper, Estate
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - buys Candlestick Maker
+Stef - gains Candlestick Maker
+Stef - draws Catacombs, Oasis, Copper, Fortress, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Catacombs
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Catacombs, Copper, Oasis
+SheCantSayNo - places cards in hand:  Catacombs, Copper, Oasis
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Oasis
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Estate, Estate, Catacombs
+SheCantSayNo - discards: Estate, Estate, Catacombs
+SheCantSayNo - draws Copper, Candlestick Maker, Oasis
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - uses 2 coin tokens
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - buys Oasis
+SheCantSayNo - gains Oasis
+SheCantSayNo - buys Candlestick Maker
+SheCantSayNo - gains Candlestick Maker
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Oasis, Estate, Candlestick Maker, Oasis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Copper
+Stef - places cards in hand:  Catacombs, Copper, Copper
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Candlestick Maker, Copper, Estate
+Stef - discards: Candlestick Maker, Copper, Estate
+Stef - draws Candlestick Maker, Catacombs, Estate
+Stef - plays Catacombs
+Stef - looks at Copper, Copper, Estate
+Stef - places cards in hand:  Copper, Copper, Estate
+Stef - plays Oasis
+Stef - draws Candlestick Maker
+Stef - discards Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 6 Copper
+Stef - uses 2 coin tokens
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - shuffles deck
+Stef - draws Candlestick Maker, Catacombs, Estate, Fortress, Gold
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Catacombs
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Catacombs
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Catacombs, Copper, Candlestick Maker
+SheCantSayNo - discards: Catacombs, Copper, Candlestick Maker
+SheCantSayNo - draws Fortress, Copper, Oasis
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Fortress, Oasis, Copper, Estate, Candlestick Maker
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Copper, Estate, Fortress
+Stef - discards: Copper, Estate, Fortress
+Stef - draws Oasis, Copper, Catacombs
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Oasis, Catacombs, Oasis
+Stef - discards: Oasis, Catacombs, Oasis
+Stef - draws Candlestick Maker, Copper, Copper
+Stef - plays 5 Copper, 1 Gold
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Candlestick Maker, Copper, Fortress, Estate
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Gold
+Stef - discards Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Copper, 1 Gold
+Stef - uses 2 coin tokens
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Estate, Catacombs, Oasis, Catacombs, Copper
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Oasis
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Catacombs
+SheCantSayNo - gains Catacombs
+SheCantSayNo - draws Estate, Oasis, Copper, Fortress, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Fortress
+Stef - places cards in hand:  Catacombs, Copper, Fortress
+Stef - plays 3 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Candlestick Maker, Copper, Copper, Candlestick Maker, Catacombs
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - uses 2 coin tokens
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Fortress, Catacombs, Catacombs, Copper, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Fortress, Fortress, Copper
+Stef - places cards in hand:  Fortress, Fortress, Copper
+Stef - plays 3 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Oasis
+Stef - shuffles deck
+Stef - draws Copper, Fortress, Fortress, Copper
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Oasis, Copper, Oasis
+SheCantSayNo - discards: Oasis, Copper, Oasis
+SheCantSayNo - draws Catacombs
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Catacombs
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Candlestick Maker, Fortress, Oasis
+SheCantSayNo - discards: Candlestick Maker, Fortress, Oasis
+SheCantSayNo - draws Copper, Copper, Copper
+SheCantSayNo - plays 5 Copper, 1 Silver
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Candlestick Maker, Oasis, Fortress, Copper, Oasis
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Estate, Copper, Fortress, Sage
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Fortress
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Duchy
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Beggar
+SheCantSayNo - gains Beggar
+SheCantSayNo - buys Beggar
+SheCantSayNo - gains Beggar
+SheCantSayNo - draws Estate, Copper, Oasis
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Province, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Sage
+Stef - reveals Candlestick Maker, Oasis
+Stef - places Oasis in hand
+Stef - discards Candlestick Maker
+Stef - plays Oasis
+Stef - draws Fortress
+Stef - discards Estate
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Fortress
+Stef - discards Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Catacombs, Oasis, Candlestick Maker, Catacombs, Gold
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - discards Province
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Oasis, Estate, Fortress, Oasis, Catacombs
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Oasis
+Stef - draws Catacombs
+Stef - discards Catacombs
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Catacombs, Fortress, Candlestick Maker
+Stef - places cards in hand:  Catacombs, Fortress, Candlestick Maker
+Stef - plays 1 Gold
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Copper, Oasis, Duchy, Oasis, Fortress
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Fortress, Beggar, Copper
+SheCantSayNo - places cards in hand:  Fortress, Beggar, Copper
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Beggar
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Beggar
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Beggar
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 9 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Oasis, Copper, Copper, Fortress, Candlestick Maker
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Fortress
+Stef - draws Catacombs
+Stef - plays Oasis
+Stef - draws Candlestick Maker
+Stef - discards Duchy
+Stef - plays Catacombs
+Stef - looks at Fortress, Catacombs, Fortress
+Stef - places cards in hand:  Fortress, Catacombs, Fortress
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Catacombs
+Stef - looks at Duchy, Oasis, Sage
+Stef - places cards in hand:  Duchy, Oasis, Sage
+Stef - plays Sage
+Stef - reveals Estate, Gold
+Stef - places Gold in hand
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Fortress
+Stef - discards Duchy
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Candlestick Maker
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 2 Copper, 1 Gold
+Stef - uses 1 coin token
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Fortress, Copper, Candlestick Maker, Fortress, Catacombs
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Candlestick Maker
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Catacombs
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Duchy, Catacombs, Catacombs
+SheCantSayNo - discards: Duchy, Catacombs, Catacombs
+SheCantSayNo - draws Silver, Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Duchy
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - uses 3 coin tokens
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Beggar, Copper, Oasis, Copper, Copper
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Fortress
+Stef - draws Duchy
+Stef - plays Catacombs
+Stef - looks at Copper, Estate, Copper
+Stef - discards: Copper, Estate, Copper
+Stef - draws Catacombs, Copper
+Stef - shuffles deck
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Oasis, Estate, Candlestick Maker
+Stef - places cards in hand:  Oasis, Estate, Candlestick Maker
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Fortress
+Stef - draws Catacombs
+Stef - plays Catacombs
+Stef - looks at Candlestick Maker, Duchy, Fortress
+Stef - discards: Candlestick Maker, Duchy, Fortress
+Stef - draws Oasis, Oasis, Catacombs
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Fortress
+Stef - discards Duchy
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Catacombs
+Stef - looks at Gold, Estate, Province
+Stef - discards: Gold, Estate, Province
+Stef - draws Estate, Fortress, Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Sage
+Stef - discards Estate
+Stef - plays Sage
+Stef - reveals Copper, Duchy
+Stef - places Duchy in hand
+Stef - discards Copper
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 6 Copper
+Stef - uses 2 coin tokens
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - shuffles deck
+Stef - draws Fortress, Silk Road, Catacombs, Estate, Fortress
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Beggar
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Fortress, Copper, Estate, Catacombs, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Fortress
+Stef - draws Catacombs
+Stef - plays Catacombs
+Stef - looks at Catacombs, Estate, Copper
+Stef - places cards in hand:  Catacombs, Estate, Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Duchy, Sage, Candlestick Maker
+Stef - discards: Duchy, Sage, Candlestick Maker
+Stef - draws Estate, Oasis, Oasis
+Stef - plays Oasis
+Stef - draws Catacombs
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Fortress
+Stef - discards Estate
+Stef - plays Fortress
+Stef - draws Candlestick Maker
+Stef - plays Catacombs
+Stef - looks at Duchy, Oasis, Copper
+Stef - discards: Duchy, Oasis, Copper
+Stef - draws Oasis, Fortress, Silk Road
+Stef - plays Fortress
+Stef - draws Silk Road
+Stef - plays Catacombs
+Stef - looks at Candlestick Maker, Copper, Fortress
+Stef - places cards in hand:  Candlestick Maker, Copper, Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Gold
+Stef - discards Estate
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 4 Copper, 1 Gold
+Stef - uses 2 coin tokens
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Province, Duchy, Fortress, Copper, Estate
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Province
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Fortress, Catacombs, Oasis
+SheCantSayNo - places cards in hand:  Fortress, Catacombs, Oasis
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Catacombs
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Copper, Estate, Copper
+SheCantSayNo - discards: Copper, Estate, Copper
+SheCantSayNo - draws Province, Estate, Oasis
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Copper, Copper, Candlestick Maker
+SheCantSayNo - places cards in hand:  Copper, Copper, Candlestick Maker
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Beggar
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Beggar, Estate, Duchy, Candlestick Maker
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Catacombs, Candlestick Maker, Fortress, Copper, Duchy
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Beggar
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Silk Road
+SheCantSayNo - gains Silk Road
+SheCantSayNo - draws Fortress, Estate, Province, Fortress, Catacombs
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Fortress
+Stef - draws Silk Road
+Stef - plays Catacombs
+Stef - looks at Silk Road, Estate, Oasis
+Stef - discards: Silk Road, Estate, Oasis
+Stef - draws Silk Road, Candlestick Maker, Fortress
+Stef - plays Fortress
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Province
+Stef - discards Province
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays 1 Copper
+Stef - uses 4 coin tokens
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Estate, Candlestick Maker, Silk Road, Catacombs, Fortress
+ 
+---------- SheCantSayNo: turn 23 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Oasis, Silver, Catacombs
+SheCantSayNo - places cards in hand:  Oasis, Silver, Catacombs
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Oasis
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Copper, Copper, Copper
+SheCantSayNo - discards: Copper, Copper, Copper
+SheCantSayNo - draws Candlestick Maker, Copper, Catacombs
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Province
+SheCantSayNo - plays Oasis
+SheCantSayNo - draws Copper
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Candlestick Maker
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Catacombs
+SheCantSayNo - looks at Copper, Copper, Duchy
+SheCantSayNo - discards: Copper, Copper, Duchy
+SheCantSayNo - draws Candlestick Maker, Oasis, Copper
+SheCantSayNo - plays 5 Copper, 1 Silver
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Estate, Province, Catacombs, Fortress, Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Catacombs
+Stef - looks at Oasis, Catacombs, Silk Road
+Stef - places cards in hand:  Oasis, Catacombs, Silk Road
+Stef - plays Catacombs
+Stef - looks at Duchy, Copper, Estate
+Stef - discards: Duchy, Copper, Estate
+Stef - draws Silk Road, Copper, Estate
+Stef - plays Oasis
+Stef - draws Sage
+Stef - discards Estate
+Stef - plays Sage
+Stef - reveals Catacombs
+Stef - places Catacombs in hand
+Stef - plays Candlestick Maker
+Stef - receives 1 coin token
+Stef - plays Catacombs
+Stef - looks at Duchy, Copper, Gold
+Stef - places cards in hand:  Duchy, Copper, Gold
+Stef - plays 2 Copper, 1 Gold
+Stef - uses 1 coin token
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Fortress, Copper, Copper, Copper, Fortress
+ 
+------------ Game Over ------------
+Stef - cards: 6 Fortress, 4 Oasis, 4 Catacombs, 3 Candlestick Maker, 1 Sage, 7 Copper, 1 Gold, 9 Estate, 7 Silk Road, 3 Duchy, 1 Province
+Stef - total victory points: 59
+Stef - turns: 24
+ 
+SheCantSayNo - cards: 4 Catacombs, 4 Fortress, 4 Oasis, 3 Candlestick Maker, 2 Beggar, 16 Copper, 1 Silver, 5 Estate, 4 Province, 3 Duchy, 1 Silk Road
+SheCantSayNo - total victory points: 41
+SheCantSayNo - turns: 23
+ 
+1st place: Stef
+2nd place: SheCantSayNo
+ 

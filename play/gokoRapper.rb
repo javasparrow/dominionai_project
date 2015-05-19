@@ -1,12 +1,12 @@
-require 'osx/cocoa'
+#require 'osx/cocoa'
 include Math
 class GokoRapper
 	WINDOW_X = 3
-	WINDOW_Y = 22
-	WINDOW_OUTER_WIDTH = 1106
-	WINDOW_OUTER_HEIGHT = 717
-	WINDOW_INNER_WIDTH = 1106
-	WINDOW_INNER_HEIGHT = 645
+	WINDOW_Y = 23
+	WINDOW_OUTER_WIDTH = 1068
+	WINDOW_OUTER_HEIGHT = 724
+	WINDOW_INNER_WIDTH = 1068
+	WINDOW_INNER_HEIGHT = 652
 
 	CANVAS_X = WINDOW_X + (WINDOW_INNER_WIDTH - WINDOW_INNER_HEIGHT * 3 / 2) / 2
 	CANVAS_Y = WINDOW_Y + WINDOW_OUTER_HEIGHT - WINDOW_INNER_HEIGHT
@@ -87,15 +87,15 @@ class GokoRapper
 	end
 
 	def move_mouse(x, y)
-   		OSX::CGWarpMouseCursorPosition(OSX::CGPointMake(x, y))
+   		#OSX::CGWarpMouseCursorPosition(OSX::CGPointMake(x, y))
  	end
 
  	def click_mouse(x, y)
  		move_mouse(x,y)
  		puts "move_mouse"
- 		event=OSX::CGEventCreateMouseEvent(nil, 1, OSX::CGPointMake(x, y), 0); 
- 		OSX::CGEventPost(0,event);
- 		event=OSX::CGEventCreateMouseEvent(nil, 2, OSX::CGPointMake(x,y), 0); 
- 		OSX::CGEventPost(0,event);
+ 		#event=OSX::CGEventCreateMouseEvent(nil, 1, OSX::CGPointMake(x, y), 0); 
+ 		#OSX::CGEventPost(0,event);
+ 		#event=OSX::CGEventCreateMouseEvent(nil, 2, OSX::CGPointMake(x,y), 0); 
+ 		#OSX::CGEventPost(0,event);
  	end
 end

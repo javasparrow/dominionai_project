@@ -1,0 +1,545 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Stonemason, Doctor, Warehouse, Festival, Mountebank, Treasury, Goons, Nobles, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Estate, Copper, Copper
+yed - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Doctor
+yed - overpays for Doctor with 1 coin
+yed - shuffles deck
+yed - looks at Copper
+yed - trashes Copper
+yed - gains Doctor
+yed - draws Estate, Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 1 coin
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - gains Doctor
+Stef - draws Copper, Copper, Estate, Warehouse, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Warehouse
+yed - gains Warehouse
+yed - shuffles deck
+yed - draws Copper, Estate, Estate, Warehouse, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Doctor, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Warehouse
+yed - draws Copper, Copper, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Doctor, Silver
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Warehouse, Silver, Estate
+Stef - trashes Estate
+Stef - places Silver on top of deck
+Stef - places Warehouse on top of deck
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Warehouse, Silver, Copper, Estate, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Warehouse, Estate, Copper
+yed - trashes Copper
+yed - places Estate on top of deck
+yed - places Warehouse on top of deck
+yed - plays 2 Copper, 1 Silver
+yed - buys Warehouse
+yed - gains Warehouse
+yed - draws Warehouse, Estate, Estate, Silver, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Warehouse
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Doctor
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Copper, Copper
+Stef - trashes Copper, Copper, Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Silver, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Warehouse
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Estate
+yed - plays 3 Copper, 1 Silver
+yed - buys Mountebank
+yed - gains Mountebank
+yed - draws Copper, Silver, Doctor, Copper, Warehouse
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Silver, 2 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Warehouse, Doctor, Estate, Copper, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Warehouse
+yed - shuffles deck
+yed - draws Estate, Copper, Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Doctor
+yed - plays 3 Copper, 1 Silver
+yed - buys Treasury
+yed - gains Treasury
+yed - draws Copper, Silver, Mountebank, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Warehouse
+Stef - shuffles deck
+Stef - draws Silver, Copper, Silver
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Silver, King's Court, Copper
+Stef - trashes Copper
+Stef - places King's Court on top of deck
+Stef - places Silver on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Silver, King's Court
+Stef - shuffles deck
+Stef - draws Copper, Mountebank, Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Goons
+yed - gains Goons
+yed - draws Warehouse
+yed - shuffles deck
+yed - draws Estate, Mountebank, Silver, Treasury
+ 
+---------- Stef: turn 8 ----------
+Stef - plays King's Court
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 7 coins
+Stef - gains King's Court
+Stef - gains King's Court
+Stef - gains Stonemason
+Stef - draws Warehouse, Estate, Copper, Silver, Silver
+ 
+---------- yed: turn 9 ----------
+yed - plays Treasury
+yed - draws Copper
+yed - plays Warehouse
+yed - draws Goons, Estate, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Goons
+yed - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys King's Court
+yed - gains King's Court
+yed - places Treasury on top of deck
+yed - draws Treasury, Silver, Copper, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Warehouse
+Stef - draws Doctor
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Doctor
+Stef - names Curse
+Stef - reveals: Curse, Mountebank, Copper
+Stef - trashes Curse
+Stef - places Copper on top of deck
+Stef - places Mountebank on top of deck
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Treasury
+Stef - gains Treasury
+Stef - draws Mountebank, Copper, Curse, Silver, King's Court
+ 
+---------- yed: turn 10 ----------
+yed - plays Treasury
+yed - draws Doctor
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Copper, Warehouse
+yed - shuffles deck
+yed - reveals: King's Court
+yed - trashes Copper
+yed - places King's Court on top of deck
+yed - places Warehouse on top of deck
+yed - plays 2 Copper, 1 Silver
+yed - buys Treasury
+yed - gains Treasury
+yed - places Treasury on top of deck
+yed - draws Treasury, Warehouse, King's Court, Goons, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays King's Court
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 6 coins
+Stef - gains Nobles
+Stef - gains Nobles
+Stef - gains Stonemason
+Stef - draws Stonemason, King's Court, King's Court, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Treasury
+yed - draws Copper
+yed - plays Warehouse
+yed - draws Copper, Silver, Estate
+yed - discards Estate
+yed - discards Copper
+yed - discards Copper
+yed - plays King's Court
+yed - plays Goons
+Stef - discards King's Court
+Stef - discards Copper
+yed - plays Goons
+yed - plays Goons
+yed - plays 1 Copper, 1 Silver
+yed - buys Stonemason
+yed - overpays for Stonemason with 7 coins
+yed - gains King's Court
+yed - gains King's Court
+yed - receives 1 victory point chips
+yed - gains Stonemason
+yed - places Treasury on top of deck
+yed - draws Treasury, Mountebank, Copper, Curse, Curse
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - draws Curse, Nobles, Silver, Treasury, Estate
+ 
+---------- yed: turn 12 ----------
+yed - plays Treasury
+yed - draws Warehouse
+yed - plays Warehouse
+yed - draws Curse, Copper, Estate
+yed - discards Estate
+yed - discards Curse
+yed - discards Curse
+yed - plays Mountebank
+Stef - discards Curse
+yed - plays 2 Copper
+yed - buys Treasury
+yed - gains Treasury
+yed - places Treasury on top of deck
+yed - draws Treasury
+yed - shuffles deck
+yed - draws Copper, Copper, Doctor, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Treasury
+Stef - draws King's Court
+Stef - plays King's Court
+Stef - plays Nobles
+Stef - draws Mountebank, Stonemason, Warehouse
+Stef - plays Nobles
+Stef - draws Nobles, Silver, Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Silver, Estate, Doctor
+Stef - plays Warehouse
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Curse, King's Court
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays King's Court
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays Mountebank
+yed - gains Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 7 coins
+Stef - gains King's Court
+Stef - gains King's Court
+Stef - gains Stonemason
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Copper, Stonemason, King's Court
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- yed: turn 13 ----------
+yed - plays Treasury
+yed - draws Copper
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Warehouse, Mountebank, King's Court
+yed - places King's Court on top of deck
+yed - places Mountebank on top of deck
+yed - places Warehouse on top of deck
+yed - plays 4 Copper
+yed - buys Treasury
+yed - gains Treasury
+yed - places Treasury on top of deck
+yed - draws Treasury, Warehouse, Mountebank, King's Court, Treasury
+ 
+---------- Stef: turn 13 ----------
+Stef - plays King's Court
+Stef - plays Treasury
+Stef - draws Doctor
+Stef - plays Treasury
+Stef - draws Copper
+Stef - plays Treasury
+Stef - draws Estate
+Stef - plays Doctor
+Stef - names Silver
+Stef - reveals: Curse, King's Court, King's Court
+Stef - places King's Court on top of deck
+Stef - places King's Court on top of deck
+Stef - places Curse on top of deck
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - places Treasury on top of deck
+Stef - draws Treasury, Curse, King's Court, King's Court, Stonemason
+ 
+---------- yed: turn 14 ----------
+yed - plays Treasury
+yed - draws King's Court
+yed - plays King's Court
+yed - plays King's Court
+yed - plays Treasury
+yed - draws Estate
+yed - plays Treasury
+yed - draws Curse
+yed - plays Treasury
+yed - draws Goons
+yed - plays King's Court
+yed - plays Mountebank
+Stef - discards Curse
+yed - plays Mountebank
+Stef - gains Copper
+yed - plays Mountebank
+Stef - gains Copper
+yed - plays King's Court
+yed - plays Goons
+Stef - discards Stonemason
+yed - plays Goons
+yed - plays Goons
+yed - plays Warehouse
+yed - draws Curse, Curse, Stonemason
+yed - discards Estate
+yed - discards Curse
+yed - discards Curse
+yed - plays Stonemason
+yed - trashes Curse
+yed - buys Stonemason
+yed - overpays for Stonemason with 6 coins
+yed - gains Nobles
+yed - gains Nobles
+yed - receives 1 victory point chips
+yed - gains Stonemason
+yed - buys Stonemason
+yed - overpays for Stonemason with 6 coins
+yed - gains Nobles
+yed - gains Nobles
+yed - receives 1 victory point chips
+yed - gains Stonemason
+yed - places Treasury, Treasury on top of deck
+yed - draws Treasury, Treasury, Curse, Curse, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Treasury
+Stef - draws Stonemason
+Stef - plays Treasury
+Stef - draws Silver
+Stef - plays Treasury
+Stef - draws Warehouse
+Stef - plays King's Court
+Stef - plays Warehouse
+Stef - draws Mountebank, King's Court, King's Court
+Stef - discards Stonemason
+Stef - discards Silver
+Stef - discards Mountebank
+Stef - plays Warehouse
+Stef - draws Nobles, Silver, Copper
+Stef - discards Silver
+Stef - discards Copper
+Stef - discards King's Court
+Stef - plays Warehouse
+Stef - draws Nobles, Silver
+Stef - shuffles deck
+Stef - draws Stonemason
+Stef - discards Silver
+Stef - discards Stonemason
+Stef - discards Nobles
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Nobles
+Stef - draws Copper, Copper, Silver
+Stef - plays Nobles
+Stef - draws Silver, Copper, King's Court
+Stef - plays Nobles
+Stef - draws Warehouse, Curse, King's Court
+Stef - plays King's Court
+Stef - plays Warehouse
+Stef - draws Estate, Stonemason, Stonemason
+Stef - discards Curse
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Mountebank
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Warehouse
+Stef - draws Doctor
+Stef - shuffles deck
+Stef - draws Nobles, Stonemason
+Stef - discards Copper
+Stef - discards Stonemason
+Stef - discards Doctor
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Nobles
+Stef - draws Curse, Copper, Estate
+Stef - plays Nobles
+Stef - draws Estate, Copper, Silver
+Stef - plays Nobles
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Stonemason, Copper
+Stef - plays King's Court
+Stef - plays Stonemason
+Stef - trashes King's Court
+Stef - gains Nobles
+Stef - gains Nobles
+Stef - plays Stonemason
+Stef - trashes Mountebank
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays King's Court
+Stef - plays Stonemason
+Stef - trashes Silver
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Doctor
+Stef - shuffles deck
+Stef - draws Treasury, Estate, Estate, King's Court
+ 
+------------ Game Over ------------
+Stef - cards: 7 Stonemason, 4 Nobles, 4 King's Court, 2 Warehouse, 1 Doctor, 1 Treasury, 2 Copper, 2 Silver, 2 Estate, 1 Province
+Stef - victory point chips: 0
+Stef - total victory points: 16
+Stef - turns: 14
+ 
+yed - cards: 4 Nobles, 4 Treasury, 3 Stonemason, 3 King's Court, 2 Warehouse, 13 Copper, 1 Doctor, 1 Mountebank, 1 Goons, 2 Silver, 3 Estate, 7 Curse
+yed - victory point chips: 3
+yed - total victory points: 7
+yed - turns: 14
+ 
+1st place: Stef
+2nd place: yed
+ 

@@ -1,0 +1,577 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Herbalist, Moat, Watchtower, Mining Village, Embassy, Inn, Minion, Vault, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lagrangian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lagrangian - shuffles deck
+Stef - draws Copper, Estate, Estate, Copper, Estate
+Lagrangian - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Lagrangian: turn 1 ----------
+Lagrangian - plays 3 Copper
+Lagrangian - buys Silver
+Lagrangian - gains Silver
+Lagrangian - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Herbalist
+Stef - gains Herbalist
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lagrangian: turn 2 ----------
+Lagrangian - plays 4 Copper
+Lagrangian - buys Silver
+Lagrangian - gains Silver
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Vault
+Stef - gains Vault
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Lagrangian: turn 3 ----------
+Lagrangian - plays 3 Copper, 1 Silver
+Lagrangian - buys Minion
+Lagrangian - gains Minion
+Lagrangian - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Estate, Copper, Copper, Vault
+ 
+---------- Lagrangian: turn 4 ----------
+Lagrangian - plays 3 Copper
+Lagrangian - buys Watchtower
+Lagrangian - gains Watchtower
+Lagrangian - draws Silver, Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Silver, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Vault
+Stef - draws Copper, Herbalist
+Stef - discards Herbalist
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Altar
+Stef - gains Altar
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Vault, Copper
+ 
+---------- Lagrangian: turn 5 ----------
+Lagrangian - plays 2 Silver, 2 Copper
+Lagrangian - buys Altar
+Lagrangian - gains Altar
+Lagrangian - draws Copper, Estate, Watchtower, Minion, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Vault
+Stef - draws Copper, Herbalist
+Stef - discards Herbalist
+Lagrangian - discards Estate
+Lagrangian - discards Copper
+Stef - plays 5 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Altar, Watchtower, Copper, Estate, Inn
+ 
+---------- Lagrangian: turn 6 ----------
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Watchtower
+Lagrangian - draws Estate, Copper, Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Silver
+Lagrangian - plays 4 Copper, 1 Silver
+Lagrangian - buys Minion
+Lagrangian - gains Minion
+Lagrangian - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Inn
+Stef - draws Copper, Estate
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Minion
+Stef - plays Watchtower
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Herbalist, Copper, Vault, Minion, Estate
+ 
+---------- Lagrangian: turn 7 ----------
+Lagrangian - plays 2 Copper, 1 Silver
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - draws Altar, Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Vault
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Herbalist
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Altar, Watchtower, Minion, Estate, Copper
+ 
+---------- Lagrangian: turn 8 ----------
+Lagrangian - plays Altar
+Lagrangian - trashes Copper
+Lagrangian - gains Minion
+Lagrangian - plays 2 Copper, 1 Silver
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - draws Copper, Minion, Mining Village, Watchtower, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Minion
+Stef - plays 1 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Copper, Copper, Inn
+Stef - shuffles deck
+Stef - draws Watchtower
+ 
+---------- Lagrangian: turn 9 ----------
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Watchtower
+Lagrangian - draws Estate, Copper, Estate
+Lagrangian - plays 4 Copper
+Lagrangian - buys Minion
+Lagrangian - gains Minion
+Lagrangian - draws Estate, Silver, Minion
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Inn
+Stef - draws Herbalist, Minion
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Watchtower
+Stef - draws Copper, Minion, Minion, Vault
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Herbalist, Copper, Vault
+Stef - draws Altar, Copper, Estate, Watchtower
+Lagrangian - discards: Estate, Silver, Minion, Copper, Copper
+Lagrangian - draws Copper, Silver, Watchtower, Altar
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Minion
+Stef - plays 1 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Minion, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Watchtower
+ 
+---------- Lagrangian: turn 10 ----------
+Lagrangian - plays Altar
+Lagrangian - trashes Copper
+Lagrangian - gains Inn
+Lagrangian - places Minion, Inn on top of deck
+Lagrangian - shuffles deck
+Lagrangian - applied Watchtower to place Inn on top of the deck
+Lagrangian - plays Silver
+Lagrangian - buys Herbalist
+Lagrangian - gains Herbalist
+Lagrangian - draws Inn, Mining Village, Copper, Minion, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper, Watchtower
+Stef - draws Minion, Minion, Copper, Copper
+Lagrangian - discards: Inn, Mining Village, Copper, Minion, Copper
+Lagrangian - draws Estate, Copper, Minion, Estate
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Copper, Minion, Minion, Vault
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Vault
+Stef - draws Copper, Inn, Minion, Herbalist
+Stef - plays Inn
+Stef - draws Watchtower, Altar
+Stef - discards Herbalist
+Stef - discards Watchtower
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Inn
+Stef - places Inn, Vault, Watchtower on top of deck
+Stef - shuffles deck
+Stef - plays Minion
+Stef - draws Inn, Watchtower, Vault
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Inn
+Stef - draws Copper, Watchtower
+Stef - discards Copper
+Stef - discards Watchtower
+Stef - plays Watchtower
+Stef - draws Copper, Copper, Copper, Herbalist
+Stef - plays Herbalist
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Vault, Mining Village, Minion, Copper
+ 
+---------- Lagrangian: turn 11 ----------
+Lagrangian - plays Minion
+Lagrangian - discards: Estate, Copper, Estate
+Lagrangian - draws Mining Village, Minion, Minion
+Lagrangian - shuffles deck
+Lagrangian - draws Copper
+Stef - discards: Copper, Vault, Mining Village, Minion, Copper
+Stef - draws Copper, Mining Village, Copper, Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Estate
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Minion
+Lagrangian - discards: Copper, Estate
+Lagrangian - draws Herbalist, Watchtower, Estate, Estate
+Lagrangian - plays Watchtower
+Lagrangian - draws Silver, Copper, Inn
+Lagrangian - plays Inn
+Lagrangian - draws Altar, Mining Village
+Lagrangian - discards Estate
+Lagrangian - discards Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Minion
+Lagrangian - plays Altar
+Lagrangian - trashes Estate
+Lagrangian - gains Inn
+Lagrangian - places Inn on top of deck
+Lagrangian - shuffles deck
+Lagrangian - plays Herbalist
+Lagrangian - plays Minion
+Lagrangian - discards Silver
+Lagrangian - draws Silver, Copper, Copper, Copper
+Lagrangian - plays 3 Copper, 1 Silver
+Lagrangian - buys Watchtower
+Lagrangian - gains Watchtower
+Lagrangian - buys Watchtower
+Lagrangian - gains Watchtower
+Lagrangian - draws Inn
+Lagrangian - shuffles deck
+Lagrangian - draws Minion, Watchtower, Copper, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mining Village
+Stef - draws Minion
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper
+Stef - draws Altar, Copper, Minion, Watchtower
+Lagrangian - discards: Inn, Minion, Watchtower, Copper, Silver
+Lagrangian - draws Watchtower, Copper, Mining Village, Estate
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Mining Village
+Stef - applied Watchtower to place Mining Village on top of the deck
+Stef - plays Minion
+Stef - discards Watchtower
+Stef - draws Mining Village, Inn, Minion, Herbalist
+Stef - plays Mining Village
+Stef - draws Minion
+Stef - plays Herbalist
+Stef - plays Inn
+Stef - draws Watchtower, Inn
+Stef - discards Inn
+Stef - discards Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Watchtower
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Inn, Copper, Copper, Minion, Copper
+Stef - plays Inn
+Stef - draws Minion, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Copper
+Stef - draws Vault, Copper, Watchtower, Mining Village
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Vault
+Stef - draws Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Lagrangian - discards Estate
+Lagrangian - discards Copper
+Stef - plays Watchtower
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Watchtower, Mining Village, Altar, Vault, Inn
+ 
+---------- Lagrangian: turn 12 ----------
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Watchtower
+Lagrangian - draws Minion, Copper, Mining Village, Minion
+Lagrangian - plays Mining Village
+Lagrangian - draws Inn
+Lagrangian - plays Inn
+Lagrangian - draws Minion, Estate
+Lagrangian - discards Copper
+Lagrangian - discards Copper
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Altar
+Lagrangian - trashes Estate
+Lagrangian - gains Vault
+Lagrangian - plays Minion
+Lagrangian - draws Copper, Watchtower, Silver, Herbalist
+Stef - discards: Watchtower, Mining Village, Altar, Vault, Inn
+Stef - draws Minion, Copper, Minion, Watchtower
+Lagrangian - plays Watchtower
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Minion, Copper
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Herbalist
+Lagrangian - plays 3 Copper, 1 Silver
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - draws Watchtower, Estate, Inn, Silver, Vault
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Watchtower
+Stef - draws Mining Village, Minion, Mining Village, Herbalist
+Lagrangian - discards: Watchtower, Estate, Inn, Silver, Vault
+Lagrangian - draws Copper, Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Minion
+Stef - plays Mining Village
+Stef - draws Province
+Stef - plays Mining Village
+Stef - draws Minion
+Stef - plays Herbalist
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Province
+Stef - draws Copper, Copper, Minion, Copper
+Stef - plays Minion
+Stef - discards: Copper, Copper, Copper
+Stef - draws Copper, Minion, Inn, Province
+Stef - plays Inn
+Stef - shuffles deck
+Stef - draws Altar, Copper
+Stef - discards Province
+Stef - discards Copper
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Vault
+Stef - plays Minion
+Stef - draws Copper, Watchtower, Watchtower, Inn
+Stef - plays Inn
+Stef - draws Vault, Province
+Stef - discards Province
+Stef - discards Copper
+Stef - plays Watchtower
+Stef - draws Mining Village, Copper, Copper
+Stef - shuffles deck
+Stef - draws Vault
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Vault
+Stef - draws Province, Copper
+Stef - discards Copper
+Stef - discards Province
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Lagrangian - discards Copper
+Lagrangian - discards Copper
+Stef - plays Watchtower
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper
+Stef - plays Vault
+Stef - draws Province
+Stef - discards Province
+Stef - discards Province
+Lagrangian - discards Copper
+Lagrangian - discards Silver
+Stef - plays 4 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Minion, Province, Copper, Inn, Mining Village
+ 
+---------- Lagrangian: turn 13 ----------
+Lagrangian - plays Minion
+Lagrangian - discards Altar
+Lagrangian - draws Mining Village, Herbalist, Mining Village, Watchtower
+Stef - discards: Minion, Province, Copper, Inn, Mining Village
+Stef - draws Mining Village, Province, Altar, Minion
+Lagrangian - plays Mining Village
+Lagrangian - draws Province
+Lagrangian - plays Mining Village
+Lagrangian - draws Watchtower
+Lagrangian - plays Herbalist
+Lagrangian - plays Watchtower
+Lagrangian - draws Copper, Estate, Mining Village, Silver
+Lagrangian - plays Mining Village
+Lagrangian - draws Inn
+Lagrangian - plays Inn
+Lagrangian - draws Minion, Inn
+Lagrangian - discards Estate
+Lagrangian - discards Province
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Inn
+Lagrangian - draws Watchtower, Vault
+Lagrangian - discards Copper
+Lagrangian - discards Watchtower
+Lagrangian - plays Vault
+Lagrangian - draws Minion, Minion
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Minion
+Lagrangian - takes 2 coins
+Lagrangian - plays Watchtower
+Lagrangian - draws Copper
+Lagrangian - shuffles deck
+Lagrangian - draws Altar, Estate, Watchtower, Copper
+Lagrangian - plays Altar
+Lagrangian - trashes Estate
+Lagrangian - gains Duchy
+Lagrangian - plays Watchtower
+Lagrangian - draws Copper, Copper, Province
+Lagrangian - plays 4 Copper, 1 Silver
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - buys Duchy
+Lagrangian - gains Duchy
+Lagrangian - draws Copper, Silver
+Lagrangian - shuffles deck
+Lagrangian - draws Minion, Duchy, Altar
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mining Village
+Stef - draws Minion
+Stef - trashes Mining Village
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Altar
+Stef - trashes Province
+Stef - gains Inn
+Stef - places Inn, Minion, Inn, Mining Village on top of deck
+Stef - shuffles deck
+Stef - plays Minion
+Stef - draws Minion, Minion, Minion, Watchtower
+Lagrangian - discards: Copper, Silver, Minion, Duchy, Altar
+Lagrangian - draws Duchy, Watchtower, Minion, Province
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Watchtower
+Stef - draws Copper, Mining Village, Inn, Province
+Stef - plays Mining Village
+Stef - draws Herbalist
+Stef - trashes Mining Village
+Stef - plays Inn
+Stef - draws Province, Vault
+Stef - discards Province
+Stef - discards Province
+Stef - plays Vault
+Stef - draws Vault, Inn
+Lagrangian - discards Province
+Lagrangian - discards Duchy
+Stef - plays Vault
+Stef - draws Mining Village, Minion
+Stef - discards Inn
+Stef - plays Mining Village
+Stef - draws Watchtower
+Stef - trashes Mining Village
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Herbalist
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Inn, Copper
+Stef - shuffles deck
+Stef - draws Minion, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 6 Minion, 3 Inn, 2 Vault, 2 Watchtower, 1 Altar, 1 Herbalist, 4 Copper, 5 Province
+Stef - total victory points: 30
+Stef - turns: 13
+ 
+Lagrangian - cards: 4 Minion, 3 Watchtower, 3 Mining Village, 2 Inn, 1 Vault, 1 Herbalist, 1 Altar, 5 Copper, 2 Silver, 2 Province, 2 Duchy
+Lagrangian - total victory points: 18
+Lagrangian - turns: 13
+ 
+1st place: Stef
+2nd place: Lagrangian
+ 

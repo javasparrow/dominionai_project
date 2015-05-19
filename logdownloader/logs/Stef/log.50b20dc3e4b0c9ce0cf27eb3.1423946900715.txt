@@ -1,0 +1,875 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Lighthouse, Chancellor, Oracle, Herald, Spice Merchant, Hunting Party, Jester, Rogue, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+DG - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+DG - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Lighthouse
+DG - gains Lighthouse
+DG - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Copper, Estate, Jester, Copper, Estate
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Spice Merchant
+DG - gains Spice Merchant
+DG - shuffles deck
+DG - draws Estate, Spice Merchant, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Jester
+DG - reveals Copper
+DG - discards Copper
+DG - gains Copper
+Stef - plays 2 Copper
+Stef - buys Spice Merchant
+Stef - gains Spice Merchant
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two cards and one action
+DG - draws Copper, Estate
+DG - plays 2 Copper
+DG - buys Lighthouse
+DG - gains Lighthouse
+DG - draws Copper, Copper, Copper, Lighthouse
+DG - shuffles deck
+DG - draws Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Copper, Lighthouse
+Stef - shuffles deck
+Stef - draws Spice Merchant, Estate, Copper
+ 
+---------- DG: turn 4 ----------
+DG - plays Lighthouse
+DG - plays 4 Copper
+DG - buys Jester
+DG - gains Jester
+DG - draws Copper, Copper, Estate, Estate, Lighthouse
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Jester, Copper
+Stef - plays Lighthouse
+Stef - plays Jester
+Stef - plays 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- DG: turn 5 ----------
+DG - duration Lighthouse
+DG - plays Lighthouse
+DG - plays 2 Copper
+DG - buys Herald
+DG - gains Herald
+DG - draws Estate, Spice Merchant, Copper
+DG - shuffles deck
+DG - draws Estate, Herald
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Lighthouse
+Stef - plays 4 Copper
+Stef - buys Herald
+Stef - overpays for Herald with 1 coin
+Stef - places Spice Merchant on top of deck
+Stef - gains Herald
+Stef - draws Spice Merchant, Estate, Herald
+Stef - shuffles deck
+Stef - draws Hunting Party, Copper
+ 
+---------- DG: turn 6 ----------
+DG - duration Lighthouse
+DG - plays Herald
+DG - draws Lighthouse
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Lighthouse
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two cards and one action
+DG - draws Estate, Copper
+DG - plays 1 Copper
+DG - buys Lighthouse
+DG - gains Lighthouse
+DG - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Spice Merchant, Estate, Herald, Copper, Copper
+Stef - reveals Estate, Copper, Copper, Copper, Jester
+Stef - places Jester in hand
+Stef - discards: Estate, Copper, Copper, Copper
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Copper, Lighthouse
+Stef - plays Lighthouse
+Stef - plays Jester
+Stef - plays 2 Copper
+Stef - buys Rogue
+Stef - gains Rogue
+Stef - shuffles deck
+Stef - draws Copper, Copper, Rogue, Copper, Copper
+ 
+---------- DG: turn 7 ----------
+DG - duration Lighthouse
+DG - plays 5 Copper
+DG - buys Hunting Party
+DG - gains Hunting Party
+DG - draws Jester
+DG - shuffles deck
+DG - draws Copper, Spice Merchant, Lighthouse, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Rogue
+DG - reveals: Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Herald, Jester, Hunting Party, Copper, Estate
+ 
+---------- DG: turn 8 ----------
+DG - plays Lighthouse
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two cards and one action
+DG - draws Estate, Copper
+DG - plays Jester
+Stef - reveals Estate
+Stef - discards Estate
+Stef - gains Curse
+DG - plays 2 Copper
+DG - buys Hunting Party
+DG - gains Hunting Party
+DG - draws Copper, Lighthouse, Hunting Party, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Herald, Jester, Copper, Estate, Estate
+Stef - reveals Spice Merchant
+Stef - places Spice Merchant in hand
+Stef - plays Herald
+Stef - draws Herald
+Stef - shuffles deck
+Stef - reveals: Lighthouse
+Stef - plays Lighthouse
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Jester, Copper, Estate, Estate, Spice Merchant, Copper
+Stef - reveals Rogue
+Stef - places Rogue in hand
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Jester
+Stef - plays 1 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Curse, Copper, Copper, Copper, Estate
+ 
+---------- DG: turn 9 ----------
+DG - duration Lighthouse
+DG - plays Lighthouse
+DG - plays Hunting Party
+DG - draws Herald
+DG - reveals hand: Copper, Estate, Copper, Herald
+DG - reveals Lighthouse
+DG - places Lighthouse in hand
+DG - plays Herald
+DG - shuffles deck
+DG - draws Jester
+DG - reveals: Copper
+DG - places Copper on top of deck
+DG - plays Lighthouse
+DG - plays Jester
+DG - plays 2 Copper
+DG - buys Hunting Party
+DG - gains Hunting Party
+DG - draws Copper, Estate, Copper, Hunting Party, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - shuffles deck
+Stef - draws Hunting Party, Herald, Jester, Copper, Herald
+ 
+---------- DG: turn 10 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Hunting Party
+DG - draws Copper
+DG - reveals hand: Copper, Estate, Copper, Estate, Copper
+DG - reveals Spice Merchant
+DG - places Spice Merchant in hand
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two cards and one action
+DG - shuffles deck
+DG - draws Hunting Party, Copper
+DG - plays Hunting Party
+DG - draws Hunting Party
+DG - reveals hand: Copper, Estate, Copper, Estate, Copper, Hunting Party
+DG - reveals Estate, Herald
+DG - places Herald in hand
+DG - discards Estate
+DG - plays Herald
+DG - draws Jester
+DG - reveals: Lighthouse
+DG - plays Lighthouse
+DG - plays Jester
+Stef - reveals Lighthouse
+Stef - discards Lighthouse
+DG - gains Lighthouse
+DG - plays Hunting Party
+DG - draws Copper
+DG - reveals hand: Copper, Estate, Copper, Estate, Copper, Copper
+DG - shuffles deck
+DG - reveals Estate, Lighthouse
+DG - places Lighthouse in hand
+DG - discards Estate
+DG - plays Lighthouse
+DG - buys Herald
+DG - gains Herald
+DG - shuffles deck
+DG - draws Hunting Party, Copper, Estate, Jester, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Rogue
+Stef - plays Rogue
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Jester, Copper, Estate, Copper, Estate, Estate
+Stef - reveals Copper, Spice Merchant
+Stef - places Spice Merchant in hand
+Stef - discards Copper
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two cards and one action
+Stef - draws Curse, Copper
+Stef - plays Jester
+Stef - plays 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Lighthouse, Hunting Party
+Stef - shuffles deck
+Stef - draws Herald, Lighthouse, Estate
+ 
+---------- DG: turn 11 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Hunting Party
+DG - draws Hunting Party
+DG - reveals hand: Copper, Estate, Jester, Estate, Hunting Party
+DG - reveals Spice Merchant
+DG - places Spice Merchant in hand
+DG - plays Hunting Party
+DG - draws Herald
+DG - reveals hand: Copper, Estate, Jester, Estate, Spice Merchant, Herald
+DG - reveals Lighthouse
+DG - places Lighthouse in hand
+DG - plays Herald
+DG - draws Copper
+DG - reveals: Lighthouse
+DG - plays Lighthouse
+DG - plays Lighthouse
+DG - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two coins and one buy
+DG - buys Herald
+DG - gains Herald
+DG - buys Herald
+DG - gains Herald
+DG - draws Copper, Estate, Herald, Hunting Party, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Spice Merchant
+Stef - plays Spice Merchant
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Lighthouse, Hunting Party, Lighthouse, Estate, Copper
+Stef - reveals Copper, Herald
+Stef - places Herald in hand
+Stef - discards Copper
+Stef - plays Herald
+Stef - draws Curse
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Lighthouse, Lighthouse, Estate, Copper, Curse, Estate
+Stef - reveals Herald
+Stef - places Herald in hand
+Stef - plays Herald
+Stef - draws Rogue
+Stef - reveals: Jester
+Stef - plays Jester
+Stef - plays Lighthouse
+Stef - plays Rogue
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Hunting Party, Estate
+Stef - shuffles deck
+Stef - draws Hunting Party, Herald, Herald
+ 
+---------- DG: turn 12 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Herald
+DG - shuffles deck
+DG - draws Lighthouse
+DG - reveals: Hunting Party
+DG - plays Hunting Party
+DG - draws Lighthouse
+DG - reveals hand: Copper, Estate, Hunting Party, Copper, Lighthouse, Lighthouse
+DG - reveals Jester
+DG - places Jester in hand
+DG - plays Hunting Party
+DG - draws Herald
+DG - reveals hand: Copper, Estate, Copper, Lighthouse, Lighthouse, Jester, Herald
+DG - reveals Estate, Copper, Spice Merchant
+DG - places Spice Merchant in hand
+DG - discards: Estate, Copper
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Herald
+DG - plays Herald
+DG - draws Herald
+DG - reveals: Hunting Party
+DG - plays Hunting Party
+DG - shuffles deck
+DG - draws Copper
+DG - reveals hand: Copper, Estate, Copper, Lighthouse, Lighthouse, Jester, Spice Merchant, Estate, Herald, Copper
+DG - reveals Estate
+DG - discards Estate
+DG - plays Lighthouse
+DG - plays Lighthouse
+DG - plays Jester
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two coins and one buy
+DG - plays Copper
+DG - plays Copper
+DG - buys Potion
+DG - gains Potion
+DG - buys Jester
+DG - gains Jester
+DG - shuffles deck
+DG - draws Herald, Herald, Copper, Hunting Party, Jester
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Hunting Party, Estate, Herald, Herald, Estate
+Stef - reveals Curse
+Stef - places Curse in hand
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Herald, Herald, Estate, Curse, Copper
+Stef - reveals Copper, Jester
+Stef - places Jester in hand
+Stef - discards Copper
+Stef - plays Herald
+Stef - draws Spice Merchant
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Lighthouse
+Stef - reveals hand: Estate, Herald, Estate, Curse, Copper, Jester, Spice Merchant, Lighthouse
+Stef - reveals Copper, Rogue
+Stef - places Rogue in hand
+Stef - discards Copper
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Herald
+Stef - reveals hand: Estate, Estate, Curse, Copper, Jester, Spice Merchant, Lighthouse, Rogue, Copper, Herald
+Stef - shuffles deck
+Stef - reveals Estate, Herald, Copper, Copper
+Stef - discards: Estate, Herald, Copper, Copper
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Lighthouse
+Stef - plays Jester
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Rogue
+Stef - plays 1 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Copper, Herald
+Stef - shuffles deck
+Stef - draws Potion, Herald
+ 
+---------- DG: turn 13 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Herald
+DG - draws Hunting Party
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Copper
+DG - places Copper on top of deck
+DG - plays Hunting Party
+DG - draws Copper
+DG - reveals hand: Copper, Jester, Hunting Party, Estate, Copper
+DG - reveals Herald
+DG - places Herald in hand
+DG - plays Herald
+DG - draws Hunting Party
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Hunting Party
+DG - draws Estate
+DG - reveals hand: Copper, Jester, Estate, Copper, Hunting Party, Estate
+DG - reveals Lighthouse
+DG - places Lighthouse in hand
+DG - plays Hunting Party
+DG - draws Spice Merchant
+DG - reveals hand: Copper, Jester, Estate, Copper, Estate, Lighthouse, Spice Merchant
+DG - reveals Potion
+DG - places Potion in hand
+DG - plays Lighthouse
+DG - plays Jester
+DG - plays Potion
+DG - buys Vineyard
+DG - gains Vineyard
+DG - draws Herald, Jester, Lighthouse, Estate
+DG - shuffles deck
+DG - draws Hunting Party
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - plays Herald
+Stef - draws Rogue
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Herald
+Stef - reveals hand: Copper, Copper, Potion, Rogue, Estate, Herald
+Stef - reveals Spice Merchant
+Stef - places Spice Merchant in hand
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Curse
+Stef - reveals hand: Copper, Copper, Potion, Rogue, Estate, Spice Merchant, Hunting Party, Curse
+Stef - reveals Herald
+Stef - places Herald in hand
+Stef - plays Hunting Party
+Stef - draws Lighthouse
+Stef - reveals hand: Copper, Copper, Potion, Rogue, Estate, Spice Merchant, Curse, Herald, Lighthouse
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Lighthouse
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Copper, Copper, Potion, Rogue, Estate, Spice Merchant, Curse, Copper, Estate
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Copper, Copper, Potion, Rogue, Estate, Spice Merchant, Curse, Copper, Estate, Estate
+Stef - reveals Jester
+Stef - places Jester in hand
+Stef - plays Jester
+Stef - plays Rogue
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Curse, Lighthouse, Copper, Herald, Hunting Party
+ 
+---------- DG: turn 14 ----------
+DG - duration Lighthouse
+DG - plays Herald
+DG - draws Potion
+DG - reveals: Hunting Party
+DG - plays Hunting Party
+DG - draws Estate
+DG - reveals hand: Jester, Lighthouse, Estate, Hunting Party, Potion, Estate
+DG - reveals Herald
+DG - places Herald in hand
+DG - plays Herald
+DG - draws Herald
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Jester
+DG - plays Jester
+DG - plays Lighthouse
+DG - plays Hunting Party
+DG - draws Herald
+DG - reveals hand: Jester, Estate, Potion, Estate, Estate, Herald
+DG - reveals Lighthouse
+DG - places Lighthouse in hand
+DG - plays Herald
+DG - draws Spice Merchant
+DG - reveals: Lighthouse
+DG - plays Lighthouse
+DG - plays Lighthouse
+DG - plays Jester
+DG - buys Province
+DG - gains Province
+DG - draws Copper, Copper, Vineyard, Hunting Party
+DG - shuffles deck
+DG - draws Jester
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Lighthouse
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Curse, Lighthouse, Copper, Hunting Party, Herald, Hunting Party
+Stef - reveals Rogue
+Stef - places Rogue in hand
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Vineyard
+Stef - places Vineyard on top of deck
+Stef - plays Hunting Party
+Stef - draws Vineyard
+Stef - reveals hand: Curse, Lighthouse, Copper, Hunting Party, Hunting Party, Rogue, Vineyard
+Stef - reveals Hunting Party, Spice Merchant
+Stef - places Spice Merchant in hand
+Stef - discards Hunting Party
+Stef - plays Hunting Party
+Stef - draws Jester
+Stef - reveals hand: Curse, Lighthouse, Copper, Hunting Party, Rogue, Vineyard, Spice Merchant, Jester
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Hunting Party
+Stef - draws Herald
+Stef - reveals hand: Curse, Lighthouse, Copper, Rogue, Vineyard, Spice Merchant, Jester, Estate, Herald
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Curse, Lighthouse, Copper, Rogue, Vineyard, Spice Merchant, Jester, Estate, Herald, Estate
+Stef - reveals Herald, Estate, Potion
+Stef - places Potion in hand
+Stef - discards: Herald, Estate
+Stef - plays Lighthouse
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Herald
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - reveals hand: Curse, Rogue, Vineyard, Jester, Estate, Estate, Potion, Copper, Estate
+Stef - plays Jester
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - shuffles deck
+Stef - draws Herald, Copper, Hunting Party, Hunting Party, Jester
+ 
+---------- DG: turn 15 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Hunting Party
+DG - draws Jester
+DG - reveals hand: Copper, Copper, Vineyard, Jester, Jester
+DG - reveals Hunting Party
+DG - places Hunting Party in hand
+DG - plays Hunting Party
+DG - draws Potion
+DG - reveals hand: Copper, Copper, Vineyard, Jester, Jester, Potion
+DG - reveals Herald
+DG - places Herald in hand
+DG - plays Herald
+DG - draws Herald
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Spice Merchant
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two coins and one buy
+DG - plays Jester
+DG - plays 1 Copper, 1 Potion
+DG - buys Province
+DG - gains Province
+DG - buys Vineyard
+DG - gains Vineyard
+DG - draws Estate, Province, Lighthouse, Herald, Hunting Party
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Lighthouse
+Stef - plays Hunting Party
+Stef - draws Lighthouse
+Stef - reveals hand: Herald, Copper, Hunting Party, Jester, Lighthouse
+Stef - reveals Herald, Herald, Herald, Estate
+Stef - places Estate in hand
+Stef - discards: Herald, Herald, Herald
+Stef - plays Herald
+Stef - draws Vineyard
+Stef - reveals: Rogue
+Stef - plays Rogue
+DG - reveals: Estate, Herald
+DG - trashes Herald
+DG - discards Estate
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Copper, Jester, Lighthouse, Estate, Vineyard, Hunting Party
+Stef - reveals Vineyard, Estate, Hunting Party, Curse
+Stef - places Curse in hand
+Stef - discards: Vineyard, Estate, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Spice Merchant
+Stef - reveals hand: Copper, Jester, Lighthouse, Estate, Vineyard, Curse, Spice Merchant
+Stef - reveals Potion
+Stef - places Potion in hand
+Stef - plays Lighthouse
+Stef - plays Jester
+DG - shuffles deck
+DG - reveals Herald
+DG - discards Herald
+Stef - gains Herald
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Estate, Hunting Party, Hunting Party, Hunting Party
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- DG: turn 16 ----------
+DG - plays Lighthouse
+DG - plays Herald
+DG - draws Estate
+DG - reveals: Jester
+DG - plays Jester
+DG - plays Hunting Party
+DG - draws Lighthouse
+DG - reveals hand: Estate, Province, Estate, Lighthouse
+DG - reveals Estate, Vineyard
+DG - places Vineyard in hand
+DG - discards Estate
+DG - plays Lighthouse
+DG - buys Herald
+DG - gains Herald
+DG - draws Lighthouse, Copper, Spice Merchant, Potion, Lighthouse
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Lighthouse
+Stef - plays Hunting Party
+Stef - draws Jester
+Stef - reveals hand: Estate, Hunting Party, Hunting Party, Estate, Jester
+Stef - reveals Lighthouse
+Stef - places Lighthouse in hand
+Stef - plays Hunting Party
+Stef - draws Herald
+Stef - reveals hand: Estate, Hunting Party, Estate, Jester, Lighthouse, Herald
+Stef - reveals Herald, Vineyard
+Stef - places Vineyard in hand
+Stef - discards Herald
+Stef - plays Hunting Party
+Stef - draws Curse
+Stef - reveals hand: Estate, Estate, Jester, Lighthouse, Herald, Vineyard, Curse
+Stef - reveals Vineyard, Potion
+Stef - places Potion in hand
+Stef - discards Vineyard
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Vineyard
+Stef - places Vineyard on top of deck
+Stef - plays Lighthouse
+Stef - plays Jester
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Vineyard, Herald, Herald, Spice Merchant, Hunting Party
+ 
+---------- DG: turn 17 ----------
+DG - duration Lighthouse
+DG - duration Lighthouse
+DG - plays Lighthouse
+DG - plays Lighthouse
+DG - plays Spice Merchant
+DG - trashes Copper
+DG - chooses two coins and one buy
+DG - plays 1 Potion
+DG - buys Duchy
+DG - gains Duchy
+DG - buys Vineyard
+DG - gains Vineyard
+DG - draws Hunting Party, Vineyard, Jester, Hunting Party, Herald
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Lighthouse
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Hunting Party
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Vineyard, Herald, Spice Merchant, Hunting Party, Herald, Hunting Party
+Stef - reveals Rogue
+Stef - places Rogue in hand
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Herald
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Vineyard, Spice Merchant, Hunting Party, Hunting Party, Rogue, Estate, Estate
+Stef - reveals Vineyard, Hunting Party, Potion
+Stef - places Potion in hand
+Stef - discards: Vineyard, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Vineyard, Spice Merchant, Hunting Party, Rogue, Estate, Estate, Potion, Estate
+Stef - reveals Herald
+Stef - places Herald in hand
+Stef - plays Herald
+Stef - draws Hunting Party
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Vineyard, Spice Merchant, Hunting Party, Rogue, Estate, Estate, Potion, Estate, Copper
+Stef - reveals Herald
+Stef - places Herald in hand
+Stef - plays Herald
+Stef - draws Jester
+Stef - reveals: Lighthouse
+Stef - plays Lighthouse
+Stef - plays Hunting Party
+Stef - draws Vineyard
+Stef - reveals hand: Vineyard, Spice Merchant, Rogue, Estate, Estate, Potion, Estate, Copper, Jester, Vineyard
+Stef - reveals Vineyard, Curse
+Stef - places Curse in hand
+Stef - discards Vineyard
+Stef - plays Rogue
+Stef - gains Herald
+Stef - plays Jester
+Stef - plays Spice Merchant
+Stef - trashes Copper
+Stef - chooses two coins and one buy
+Stef - plays Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Province
+Stef - gains Province
+Stef - draws Hunting Party
+Stef - shuffles deck
+Stef - draws Hunting Party, Vineyard, Herald, Herald
+ 
+------------ Game Over ------------
+Stef - cards: 7 Hunting Party, 6 Herald, 2 Lighthouse, 1 Spice Merchant, 1 Rogue, 1 Jester, 1 Potion, 5 Vineyard, 3 Estate, 1 Province, 1 Curse
+Stef - total victory points: 38
+Stef - turns: 18
+ 
+DG - cards: 4 Herald, 4 Lighthouse, 3 Hunting Party, 2 Jester, 1 Spice Merchant, 1 Potion, 3 Vineyard, 3 Estate, 2 Province, 1 Duchy
+DG - total victory points: 30
+DG - turns: 17
+ 
+1st place: Stef
+2nd place: DG
+ 

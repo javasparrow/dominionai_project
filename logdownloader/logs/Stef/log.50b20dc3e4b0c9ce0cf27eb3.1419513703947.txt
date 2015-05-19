@@ -1,0 +1,463 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Chancellor, Advisor, Death Cart, Ironworks, Noble Brigand, Bandit Camp, Cache, Haggler, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Quazar - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Quazar - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+Quazar - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Quazar: turn 1 ----------
+Quazar - plays 4 Copper
+Quazar - buys Ironworks
+Quazar - gains Ironworks
+Quazar - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironworks
+Stef - gains Ironworks
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Quazar: turn 2 ----------
+Quazar - plays 3 Copper
+Quazar - buys Chancellor
+Quazar - gains Chancellor
+Quazar - shuffles deck
+Quazar - draws Estate, Copper, Copper, Ironworks, Chancellor
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Quazar: turn 3 ----------
+Quazar - plays Ironworks
+Quazar - gains Ironworks
+Quazar - plays Chancellor
+Quazar - moves deck to discards
+Quazar - plays 2 Copper
+Quazar - buys Advisor
+Quazar - gains Advisor
+Quazar - shuffles deck
+Quazar - draws Copper, Copper, Copper, Ironworks, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Quazar: turn 4 ----------
+Quazar - plays Ironworks
+Quazar - gains Advisor
+Quazar - plays 4 Copper
+Quazar - buys Advisor
+Quazar - gains Advisor
+Quazar - draws Ironworks, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Ironworks
+Stef - shuffles deck
+Stef - draws Silver, Haggler, Copper
+ 
+---------- Quazar: turn 5 ----------
+Quazar - plays Ironworks
+Quazar - gains Advisor
+Quazar - plays 2 Copper
+Quazar - buys Vagrant
+Quazar - gains Vagrant
+Quazar - draws Chancellor, Estate, Copper, Advisor
+Quazar - shuffles deck
+Quazar - draws Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironworks
+Stef - gains Advisor
+Stef - plays Haggler
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Haggler
+Stef - gains Advisor
+Stef - gains Haggler
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Quazar: turn 6 ----------
+Quazar - plays Advisor
+Quazar - reveals: Vagrant, Copper, Estate
+Stef - discards Vagrant
+Quazar - places cards in hand:  Copper, Estate
+Quazar - plays Chancellor
+Quazar - moves deck to discards
+Quazar - plays 3 Copper
+Quazar - buys Haggler
+Quazar - gains Haggler
+Quazar - shuffles deck
+Quazar - draws Vagrant, Ironworks, Advisor, Advisor, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Vagrant, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Haggler
+ 
+---------- Quazar: turn 7 ----------
+Quazar - plays Ironworks
+Quazar - gains Advisor
+Quazar - plays Advisor
+Quazar - reveals: Copper, Advisor, Copper
+Stef - discards Advisor
+Quazar - places cards in hand:  Copper, Copper
+Quazar - plays Advisor
+Quazar - reveals: Copper, Estate, Haggler
+Stef - discards Haggler
+Quazar - places cards in hand:  Copper, Estate
+Quazar - plays Vagrant
+Quazar - draws Estate
+Quazar - reveals: Copper
+Quazar - places Copper on top of deck
+Quazar - plays 4 Copper
+Quazar - buys Advisor
+Quazar - gains Advisor
+Quazar - draws Copper, Advisor, Copper, Ironworks, Chancellor
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Haggler
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Bandit Camp
+Stef - gains Gold
+Stef - draws Advisor, Estate, Silver, Copper, Advisor
+ 
+---------- Quazar: turn 8 ----------
+Quazar - plays Ironworks
+Quazar - gains Advisor
+Quazar - plays Advisor
+Quazar - reveals: Copper, Estate
+Quazar - shuffles deck
+Quazar - reveals: Vagrant
+Stef - discards Vagrant
+Quazar - places cards in hand:  Copper, Estate
+Quazar - plays Chancellor
+Quazar - moves deck to discards
+Quazar - plays 3 Copper
+Quazar - buys Advisor
+Quazar - gains Advisor
+Quazar - shuffles deck
+Quazar - draws Copper, Copper, Advisor, Chancellor, Advisor
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Advisor
+Stef - reveals: Vagrant, Ironworks, Copper
+Quazar - discards Vagrant
+Stef - places cards in hand:  Ironworks, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Haggler, Estate
+Quazar - discards Haggler
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Ironworks
+Stef - gains Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Advisor, Haggler, Copper, Advisor, Estate
+ 
+---------- Quazar: turn 9 ----------
+Quazar - plays Advisor
+Quazar - reveals: Copper, Copper, Advisor
+Stef - discards Advisor
+Quazar - places cards in hand:  Copper, Copper
+Quazar - plays Advisor
+Quazar - reveals: Ironworks, Ironworks, Copper
+Stef - discards Copper
+Quazar - places cards in hand:  Ironworks, Ironworks
+Quazar - plays Ironworks
+Quazar - gains Noble Brigand
+Quazar - plays Ironworks
+Quazar - gains Vagrant
+Quazar - plays Chancellor
+Quazar - moves deck to discards
+Quazar - plays 4 Copper
+Quazar - buys Bandit Camp
+Quazar - gains Bandit Camp
+Quazar - shuffles deck
+Quazar - draws Advisor, Ironworks, Estate, Advisor, Vagrant
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Vagrant
+Quazar - discards Vagrant
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Advisor
+Stef - reveals: Copper, Haggler, Copper
+Quazar - discards Haggler
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Haggler
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Bandit Camp
+Stef - gains Gold
+Stef - draws Copper, Copper, Bandit Camp, Ironworks, Copper
+ 
+---------- Quazar: turn 10 ----------
+Quazar - plays Vagrant
+Quazar - draws Advisor
+Quazar - reveals: Copper
+Quazar - places Copper on top of deck
+Quazar - plays Advisor
+Quazar - reveals: Copper, Copper, Advisor
+Stef - discards Advisor
+Quazar - places cards in hand:  Copper, Copper
+Quazar - plays Advisor
+Quazar - reveals: Ironworks, Advisor, Copper
+Stef - discards Advisor
+Quazar - places cards in hand:  Ironworks, Copper
+Quazar - plays Advisor
+Quazar - reveals: Vagrant, Bandit Camp, Copper
+Stef - discards Bandit Camp
+Quazar - places cards in hand:  Vagrant, Copper
+Quazar - plays Vagrant
+Quazar - draws Advisor
+Quazar - reveals: Estate
+Quazar - places Estate in hand
+Quazar - plays Advisor
+Quazar - reveals: Estate, Copper, Copper
+Stef - discards Copper
+Quazar - places cards in hand:  Estate, Copper
+Quazar - plays Ironworks
+Quazar - gains Vagrant
+Quazar - plays Ironworks
+Quazar - gains Vagrant
+Quazar - plays 5 Copper
+Quazar - buys Noble Brigand
+Stef - reveals: Silver, Silver
+Stef - trashes Silver
+Stef - discards Silver
+Quazar - gains Silver
+Quazar - gains Noble Brigand
+Quazar - draws Chancellor, Advisor, Advisor, Copper, Haggler
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bandit Camp
+Stef - draws Vagrant
+Stef - gains Spoils
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironworks
+Stef - gains Vagrant
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Gold, Estate
+Stef - shuffles deck
+Stef - draws Vagrant, Ironworks, Copper
+ 
+---------- Quazar: turn 11 ----------
+Quazar - plays Advisor
+Quazar - reveals: Noble Brigand
+Quazar - shuffles deck
+Quazar - reveals: Ironworks, Copper
+Stef - discards Copper
+Quazar - places cards in hand:  Noble Brigand, Ironworks
+Quazar - plays Advisor
+Quazar - reveals: Estate, Vagrant, Copper
+Stef - discards Vagrant
+Quazar - places cards in hand:  Estate, Copper
+Quazar - plays Ironworks
+Quazar - gains Vagrant
+Quazar - plays Haggler
+Quazar - plays 2 Copper
+Quazar - buys Noble Brigand
+Stef - reveals: Gold, Estate
+Stef - trashes Gold
+Stef - discards Estate
+Quazar - gains Gold
+Quazar - gains Vagrant
+Quazar - gains Noble Brigand
+Quazar - draws Advisor, Bandit Camp, Estate, Vagrant, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Advisor
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Advisor
+Stef - reveals: Vagrant, Gold, Spoils
+Quazar - discards Gold
+Stef - places cards in hand:  Vagrant, Spoils
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Ironworks
+Stef - gains Vagrant
+Stef - plays 2 Copper, 1 Gold
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Bandit Camp, Copper, Advisor, Vagrant
+ 
+---------- Quazar: turn 12 ----------
+Quazar - plays Advisor
+Quazar - reveals: Copper, Noble Brigand, Advisor
+Stef - discards Noble Brigand
+Quazar - places cards in hand:  Copper, Advisor
+Quazar - plays Advisor
+Quazar - reveals: Copper, Estate, Copper
+Stef - discards Copper
+Quazar - places cards in hand:  Copper, Estate
+Quazar - plays Vagrant
+Quazar - draws Advisor
+Quazar - reveals: Ironworks
+Quazar - places Ironworks on top of deck
+Quazar - plays Advisor
+Quazar - reveals: Ironworks, Advisor, Copper
+Stef - discards Advisor
+Quazar - places cards in hand:  Ironworks, Copper
+Quazar - plays Bandit Camp
+Quazar - draws Advisor
+Quazar - gains Spoils
+Quazar - plays Advisor
+Quazar - reveals: Vagrant, Vagrant, Advisor
+Stef - discards Advisor
+Quazar - places cards in hand:  Vagrant, Vagrant
+Quazar - plays Vagrant
+Quazar - shuffles deck
+Quazar - draws Gold
+Quazar - reveals: Ironworks
+Quazar - places Ironworks on top of deck
+Quazar - plays Vagrant
+Quazar - draws Ironworks
+Quazar - reveals: Advisor
+Quazar - places Advisor on top of deck
+Quazar - plays Ironworks
+Quazar - gains Death Cart
+Quazar - gains Ruined Village
+Quazar - gains Ruined Market
+Quazar - plays Ironworks
+Quazar - gains Death Cart
+Quazar - gains Ruined Village
+Quazar - gains Ruined Market
+Quazar - plays 3 Copper, 1 Silver, 1 Gold
+Quazar - buys Province
+Quazar - gains Province
+Quazar - draws Advisor, Haggler, Noble Brigand, Copper, Vagrant
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Advisor
+Stef - reveals: Silver, Copper, Haggler
+Quazar - discards Haggler
+Stef - places cards in hand:  Silver, Copper
+Stef - plays Vagrant
+Stef - draws Bandit Camp
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays 4 Copper, 1 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Haggler, Copper, Estate
+Stef - shuffles deck
+Stef - draws Gold, Spoils
+ 
+---------- Quazar: turn 13 ----------
+Quazar - plays Vagrant
+Quazar - draws Spoils
+Quazar - reveals: Advisor
+Quazar - places Advisor on top of deck
+Quazar - plays Advisor
+Quazar - reveals: Advisor, Chancellor, Vagrant
+Stef - discards Advisor
+Quazar - places cards in hand:  Chancellor, Vagrant
+Quazar - plays Vagrant
+Quazar - draws Advisor
+Quazar - reveals: Noble Brigand
+Quazar - places Noble Brigand on top of deck
+Quazar - plays Advisor
+Quazar - reveals: Noble Brigand, Copper, Vagrant
+Stef - discards Vagrant
+Quazar - places cards in hand:  Noble Brigand, Copper
+Quazar - plays Noble Brigand
+Stef - reveals: Copper, Vagrant
+Stef - discards: Copper, Vagrant
+Quazar - plays 2 Copper
+Quazar - plays Spoils
+Quazar - buys Duchy
+Quazar - gains Duchy
+Quazar - draws Copper, Estate, Noble Brigand, Copper, Advisor
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Haggler
+Stef - plays 1 Copper, 1 Gold
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Expand
+Stef - gains Province
+Stef - draws Copper, Advisor, Silver, Ironworks, Copper
+ 
+---------- Quazar: turn 14 ----------
+Quazar - plays Advisor
+Quazar - shuffles deck
+Quazar - reveals: Death Cart, Vagrant, Ruined Village
+Stef - discards Death Cart
+Quazar - places cards in hand:  Vagrant, Ruined Village
+Quazar - plays Vagrant
+Quazar - draws Ironworks
+Quazar - reveals: Ruined Market
+Quazar - places Ruined Market in hand
+Quazar - plays Ironworks
+Quazar - gains Death Cart
+Quazar - gains Ruined Village
+Quazar - gains Ruined Library
+Quazar - plays Noble Brigand
+Stef - reveals: Advisor, Bandit Camp
+Stef - discards: Advisor, Bandit Camp
+Stef - gains Copper
+Quazar - plays 2 Copper
+Quazar - buys Silver
+Quazar - gains Silver
+Quazar - draws Copper, Copper, Ironworks, Gold, Death Cart
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Ironworks
+Stef - gains Death Cart
+Stef - gains Ruined Market
+Stef - gains Ruined Library
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Death Cart
+Stef - gains Death Cart
+Stef - gains Abandoned Mine
+Stef - gains Survivors
+Stef - draws Haggler, Gold, Copper, Estate, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 4 Vagrant, 2 Haggler, 2 Advisor, 2 Bandit Camp, 2 Death Cart, 1 Expand, 1 Ruined Market, 1 Ruined Library, 1 Abandoned Mine, 1 Survivors, 1 Ironworks, 8 Copper, 3 Gold, 1 Silver, 1 Spoils, 3 Estate, 3 Province
+Stef - total victory points: 21
+Stef - turns: 14
+ 
+Quazar - cards: 8 Advisor, 6 Vagrant, 3 Death Cart, 3 Ruined Village, 3 Noble Brigand, 2 Ironworks, 2 Ruined Market, 1 Ruined Library, 1 Haggler, 1 Chancellor, 1 Bandit Camp, 7 Copper, 2 Silver, 1 Gold, 3 Estate, 1 Duchy, 1 Province
+Quazar - total victory points: 12
+Quazar - turns: 14
+ 
+1st place: Stef
+2nd place: Quazar
+ 

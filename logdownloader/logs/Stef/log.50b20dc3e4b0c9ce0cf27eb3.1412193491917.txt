@@ -1,0 +1,693 @@
+------------ Game Setup ------------
+Supply cards: Masterpiece, Scheme, Woodcutter, Feast, Marauder, Mining Village, Catacombs, Market, Merchant Ship, Pillage, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lagrangian - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lagrangian - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+Lagrangian - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Marauder
+Stef - gains Marauder
+Stef - draws Copper, Hovel, Copper, Necropolis, Copper
+ 
+---------- Lagrangian: turn 1 ----------
+Lagrangian - plays Necropolis
+Lagrangian - plays 4 Copper
+Lagrangian - buys Marauder
+Lagrangian - gains Marauder
+Lagrangian - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - shuffles deck
+Stef - draws Copper, Hovel, Copper, Marauder, Copper
+ 
+---------- Lagrangian: turn 2 ----------
+Lagrangian - plays 3 Copper
+Lagrangian - buys Scheme
+Lagrangian - gains Scheme
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Copper, Copper, Copper, Marauder
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Abandoned Mine
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Copper, Overgrown Estate, Scheme, Necropolis, Copper
+ 
+---------- Lagrangian: turn 3 ----------
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Stef - gains Ruined Market
+Lagrangian - plays 4 Copper
+Lagrangian - buys Feast
+Lagrangian - gains Feast
+Lagrangian - draws Overgrown Estate, Copper, Hovel, Copper, Scheme
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper
+Stef - shuffles deck
+Stef - draws Spoils, Ruined Market, Copper
+ 
+---------- Lagrangian: turn 4 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays 3 Copper
+Lagrangian - buys Scheme
+Lagrangian - gains Scheme
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Necropolis
+Lagrangian - shuffles deck
+Lagrangian - draws Copper, Hovel, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - draws Hovel
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Copper, Marauder, Necropolis
+ 
+---------- Lagrangian: turn 5 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Necropolis
+Lagrangian - plays 3 Copper
+Lagrangian - buys Scheme
+Lagrangian - gains Scheme
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Abandoned Mine, Marauder, Spoils, Feast
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Overgrown Estate
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Ruined Village
+Stef - Scheme choice: Marauder
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Scheme, Marauder, Copper, Copper
+ 
+---------- Lagrangian: turn 6 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Stef - gains Ruined Library
+Lagrangian - plays Spoils
+Lagrangian - plays Copper
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - Scheme choice: Marauder
+Lagrangian - draws Marauder, Scheme, Copper, Overgrown Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Abandoned Mine
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - Scheme choice: Marauder
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Marauder, Copper, Copper, Ruined Market
+ 
+---------- Lagrangian: turn 7 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Stef - gains Ruined Market
+Lagrangian - plays 3 Copper
+Lagrangian - buys Silver
+Lagrangian - gains Silver
+Lagrangian - Scheme choice: Marauder
+Lagrangian - draws Marauder
+Lagrangian - shuffles deck
+Lagrangian - draws Abandoned Mine, Silver, Overgrown Estate, Ruined Village
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Catacombs
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Ruined Library
+Stef - Scheme choice: Marauder
+Stef - draws Marauder, Copper, Scheme, Hovel, Spoils
+ 
+---------- Lagrangian: turn 8 ----------
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Stef - gains Ruined Market
+Lagrangian - draws Scheme, Abandoned Mine, Copper, Scheme, Feast
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Scheme
+Stef - draws Ruined Library
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Abandoned Mine
+Stef - plays 1 Copper
+Stef - plays Spoils
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - Scheme choice: Marauder
+Stef - draws Marauder, Necropolis, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Hovel, Copper
+ 
+---------- Lagrangian: turn 9 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Hovel
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Feast
+Lagrangian - trashes Feast
+Lagrangian - gains Catacombs
+Lagrangian - plays 2 Copper
+Lagrangian - buys Estate
+Lagrangian - trashes Hovel
+Lagrangian - gains Estate
+Lagrangian - Scheme choice: Scheme
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Scheme, Necropolis, Spoils, Mining Village
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Marauder
+Stef - gains Spoils
+Lagrangian - gains Ruined Village
+Stef - draws Spoils, Copper, Mining Village, Copper, Spoils
+ 
+---------- Lagrangian: turn 10 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Scheme
+Lagrangian - draws Scheme
+Lagrangian - plays Scheme
+Lagrangian - draws Spoils
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Necropolis
+Lagrangian - plays Spoils
+Lagrangian - plays Copper
+Lagrangian - plays Copper
+Lagrangian - buys Catacombs
+Lagrangian - gains Catacombs
+Lagrangian - Scheme choice: Scheme
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Mining Village, Scheme, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mining Village
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Spoils
+Stef - plays 2 Copper
+Stef - plays Spoils
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Mining Village, Copper, Ruined Market, Mining Village
+ 
+---------- Lagrangian: turn 11 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Scheme
+Lagrangian - shuffles deck
+Lagrangian - draws Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays 5 Copper
+Lagrangian - buys Catacombs
+Lagrangian - gains Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Mining Village, Necropolis, Abandoned Mine, Marauder
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mining Village
+Stef - draws Ruined Library
+Stef - plays Mining Village
+Stef - draws Ruined Market
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Ruined Market
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays Ruined Market
+Stef - plays Ruined Market
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Mining Village
+Stef - draws Mining Village, Mining Village, Copper, Catacombs, Copper
+ 
+---------- Lagrangian: turn 12 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Catacombs
+Lagrangian - plays Necropolis
+Lagrangian - plays Catacombs
+Lagrangian - looks at Abandoned Mine, Scheme, Spoils
+Lagrangian - places cards in hand:  Abandoned Mine, Scheme, Spoils
+Lagrangian - plays Scheme
+Lagrangian - draws Estate
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays Spoils
+Lagrangian - plays Copper
+Lagrangian - buys Catacombs
+Lagrangian - gains Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - draws Catacombs, Mining Village, Ruined Village, Ruined Library, Overgrown Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Mining Village
+Stef - draws Ruined Market
+Stef - plays Catacombs
+Stef - looks at Overgrown Estate, Scheme, Ruined Market
+Stef - discards: Overgrown Estate, Scheme, Ruined Market
+Stef - draws Hovel, Spoils, Necropolis
+Stef - plays Ruined Market
+Stef - plays Necropolis
+Stef - plays 3 Copper
+Stef - plays Spoils
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - draws Copper, Marauder, Scheme, Copper, Copper
+ 
+---------- Lagrangian: turn 13 ----------
+Lagrangian - plays Mining Village
+Lagrangian - draws Spoils
+Lagrangian - plays Catacombs
+Lagrangian - looks at Abandoned Mine, Copper, Silver
+Lagrangian - discards: Abandoned Mine, Copper, Silver
+Lagrangian - draws Catacombs, Ruined Village
+Lagrangian - shuffles deck
+Lagrangian - draws Copper
+Lagrangian - plays Ruined Village
+Lagrangian - plays Catacombs
+Lagrangian - looks at Copper, Necropolis, Catacombs
+Lagrangian - discards: Copper, Necropolis, Catacombs
+Lagrangian - draws Abandoned Mine, Scheme, Scheme
+Lagrangian - plays Copper
+Lagrangian - plays Spoils
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - draws Marauder, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Scheme
+Stef - draws Ruined Library
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Spoils, Copper, Catacombs, Ruined Market
+ 
+---------- Lagrangian: turn 14 ----------
+Lagrangian - plays Marauder
+Lagrangian - gains Spoils
+Lagrangian - plays 3 Copper
+Lagrangian - buys Scheme
+Lagrangian - gains Scheme
+Lagrangian - draws Abandoned Mine, Abandoned Mine, Scheme, Spoils, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Spoils
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Spoils, Ruined Market, Scheme
+Stef - places cards in hand:  Spoils, Ruined Market, Scheme
+Stef - plays 1 Copper
+Stef - plays Spoils
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - Scheme choice: Scheme
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Scheme, Scheme, Ruined Library, Ruined Market
+ 
+---------- Lagrangian: turn 15 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays Spoils
+Lagrangian - buys Mining Village
+Lagrangian - gains Mining Village
+Lagrangian - Scheme choice: Scheme
+Lagrangian - draws Scheme, Silver, Catacombs
+Lagrangian - shuffles deck
+Lagrangian - draws Catacombs, Ruined Village
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Hovel
+Stef - plays Catacombs
+Stef - looks at Copper, Copper, Copper
+Stef - places cards in hand:  Copper, Copper, Copper
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - Scheme choice: Catacombs
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Catacombs, Overgrown Estate, Mining Village, Copper
+ 
+---------- Lagrangian: turn 16 ----------
+Lagrangian - plays Scheme
+Lagrangian - draws Necropolis
+Lagrangian - plays Necropolis
+Lagrangian - plays Catacombs
+Lagrangian - looks at Mining Village, Catacombs, Spoils
+Lagrangian - places cards in hand:  Mining Village, Catacombs, Spoils
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Catacombs
+Lagrangian - looks at Mining Village, Scheme, Abandoned Mine
+Lagrangian - places cards in hand:  Mining Village, Scheme, Abandoned Mine
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Ruined Village
+Lagrangian - plays Catacombs
+Lagrangian - looks at Scheme, Copper, Copper
+Lagrangian - places cards in hand:  Scheme, Copper, Copper
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays 5 Copper, 1 Silver
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - draws Mining Village, Catacombs, Mining Village, Copper, Ruined Library
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Mining Village
+Stef - draws Necropolis
+Stef - plays Scheme
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Marauder
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Catacombs
+Stef - places cards in hand:  Catacombs, Copper, Catacombs
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Copper, Ruined Market, Ruined Market
+Stef - discards: Copper, Ruined Market, Ruined Market
+Stef - draws Scheme, Scheme, Copper
+Stef - plays Scheme
+Stef - draws Ruined Library
+Stef - plays Scheme
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Mining Village, Ruined Market, Spoils
+Stef - discards: Mining Village, Ruined Market, Spoils
+Stef - draws Copper, Hovel, Copper
+Stef - plays Necropolis
+Stef - plays Ruined Library
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Spoils
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays 6 Copper
+Stef - plays Spoils
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Catacombs
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Mining Village, Catacombs, Mining Village
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- Lagrangian: turn 17 ----------
+Lagrangian - plays Mining Village
+Lagrangian - draws Abandoned Mine
+Lagrangian - plays Catacombs
+Lagrangian - looks at Scheme, Abandoned Mine, Catacombs
+Lagrangian - places cards in hand:  Scheme, Abandoned Mine, Catacombs
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Estate
+Lagrangian - plays Catacombs
+Lagrangian - looks at Overgrown Estate, Marauder, Mining Village
+Lagrangian - discards: Overgrown Estate, Marauder, Mining Village
+Lagrangian - shuffles deck
+Lagrangian - draws Necropolis, Scheme, Catacombs
+Lagrangian - plays Scheme
+Lagrangian - draws Mining Village
+Lagrangian - plays Mining Village
+Lagrangian - draws Copper
+Lagrangian - plays Catacombs
+Lagrangian - looks at Ruined Village, Catacombs, Scheme
+Lagrangian - places cards in hand:  Ruined Village, Catacombs, Scheme
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Necropolis
+Lagrangian - plays Catacombs
+Lagrangian - looks at Silver, Marauder, Ruined Village
+Lagrangian - discards: Silver, Marauder, Ruined Village
+Lagrangian - draws Scheme, Copper, Overgrown Estate
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays 6 Copper
+Lagrangian - buys Market
+Lagrangian - gains Market
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - draws Catacombs, Mining Village, Catacombs, Mining Village, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Mining Village
+Stef - draws Spoils
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Ruined Market, Scheme, Copper
+Stef - discards: Ruined Market, Scheme, Copper
+Stef - draws Scheme, Necropolis, Copper
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Mining Village, Ruined Market, Spoils
+Stef - places cards in hand:  Mining Village, Ruined Market, Spoils
+Stef - plays Mining Village
+Stef - draws Ruined Market
+Stef - plays Necropolis
+Stef - plays Ruined Market
+Stef - plays 3 Copper
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Catacombs
+Stef - Scheme choice: Mining Village
+Stef - draws Mining Village, Catacombs, Mining Village, Copper, Copper
+ 
+---------- Lagrangian: turn 18 ----------
+Lagrangian - plays Mining Village
+Lagrangian - draws Abandoned Mine
+Lagrangian - plays Catacombs
+Lagrangian - looks at Spoils, Province
+Lagrangian - shuffles deck
+Lagrangian - looks at Copper
+Lagrangian - discards: Spoils, Province, Copper
+Lagrangian - draws Abandoned Mine, Scheme, Scheme
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Silver
+Lagrangian - plays Catacombs
+Lagrangian - looks at Ruined Village, Ruined Library, Scheme
+Lagrangian - discards: Ruined Village, Ruined Library, Scheme
+Lagrangian - draws Copper, Ruined Village, Scheme
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays 5 Copper, 1 Silver
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - draws Mining Village, Mining Village, Catacombs, Necropolis, Catacombs
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Mining Village
+Stef - draws Ruined Library
+Stef - plays Mining Village
+Stef - draws Marauder
+Stef - plays Catacombs
+Stef - looks at Catacombs, Copper, Overgrown Estate
+Stef - discards: Catacombs, Copper, Overgrown Estate
+Stef - shuffles deck
+Stef - draws Ruined Market, Copper, Catacombs
+Stef - plays Catacombs
+Stef - looks at Mining Village, Catacombs, Scheme
+Stef - places cards in hand:  Mining Village, Catacombs, Scheme
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Catacombs
+Stef - plays Scheme
+Stef - draws Necropolis
+Stef - plays Catacombs
+Stef - looks at Ruined Market, Copper, Copper
+Stef - discards: Ruined Market, Copper, Copper
+Stef - draws Scheme, Copper, Scheme
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Overgrown Estate
+Stef - plays Scheme
+Stef - draws Province
+Stef - plays Catacombs
+Stef - looks at Ruined Market, Copper, Mining Village
+Stef - places cards in hand:  Ruined Market, Copper, Mining Village
+Stef - plays Necropolis
+Stef - plays Marauder
+Stef - gains Spoils
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Ruined Market
+Stef - plays Ruined Library
+Stef - draws Copper
+Stef - plays Ruined Market
+Stef - plays 6 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Mining Village
+Stef - Scheme choice: Catacombs
+Stef - Scheme choice: Catacombs
+Stef - draws Catacombs, Catacombs, Mining Village, Mining Village, Copper
+ 
+---------- Lagrangian: turn 19 ----------
+Lagrangian - plays Necropolis
+Lagrangian - plays Catacombs
+Lagrangian - looks at Abandoned Mine, Marauder, Copper
+Lagrangian - discards: Abandoned Mine, Marauder, Copper
+Lagrangian - draws Estate, Overgrown Estate, Mining Village
+Lagrangian - plays Mining Village
+Lagrangian - draws Catacombs
+Lagrangian - plays Catacombs
+Lagrangian - looks at Market
+Lagrangian - shuffles deck
+Lagrangian - looks at Copper, Scheme
+Lagrangian - places cards in hand:  Market, Copper, Scheme
+Lagrangian - plays Market
+Lagrangian - draws Scheme
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Scheme
+Lagrangian - draws Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Ruined Village
+Lagrangian - plays Catacombs
+Lagrangian - looks at Copper, Spoils, Copper
+Lagrangian - places cards in hand:  Copper, Spoils, Copper
+Lagrangian - plays Mining Village
+Lagrangian - draws Abandoned Mine
+Lagrangian - plays Abandoned Mine
+Lagrangian - plays Ruined Village
+Lagrangian - plays 5 Copper
+Lagrangian - plays Spoils
+Lagrangian - buys Province
+Lagrangian - gains Province
+Lagrangian - Scheme choice: Catacombs
+Lagrangian - Scheme choice: Mining Village
+Lagrangian - draws Mining Village, Catacombs, Province, Abandoned Mine, Ruined Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Mining Village
+Stef - draws Spoils
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Catacombs
+Stef - looks at Copper, Marauder, Scheme
+Stef - discards: Copper, Marauder, Scheme
+Stef - draws Overgrown Estate, Ruined Market, Ruined Market
+Stef - plays Catacombs
+Stef - looks at Copper, Ruined Library, Copper
+Stef - discards: Copper, Ruined Library, Copper
+Stef - draws Catacombs, Ruined Market, Scheme
+ 
+------------ Game Over ------------
+Stef - cards: 4 Scheme, 3 Ruined Market, 3 Mining Village, 2 Catacombs, 1 Marauder, 1 Ruined Library, 1 Necropolis, 1 Merchant Ship, 7 Copper, 1 Spoils, 1 Overgrown Estate, 1 Province
+Stef - total victory points: 6
+Stef - turns: 19
+ 
+Lagrangian - resigned
+Lagrangian - cards: 4 Catacombs, 4 Scheme, 3 Mining Village, 3 Abandoned Mine, 2 Ruined Village, 1 Necropolis, 1 Market, 1 Ruined Library, 1 Marauder, 7 Copper, 1 Silver, 3 Province, 1 Estate, 1 Overgrown Estate
+Lagrangian - total victory points: 19
+Lagrangian - turns: 19
+ 
+1st place: Stef
+2nd place: Lagrangian
+ 

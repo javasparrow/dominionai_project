@@ -1,0 +1,514 @@
+------------ Game Setup ------------
+Supply cards: Philosopher's Stone, Advisor, Feodum, Talisman, Throne Room, Contraband, Trading Post, Upgrade, Wharf, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+DG - shuffles deck
+Stef - draws Copper, Estate, Estate, Estate, Copper
+DG - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Silver
+DG - gains Silver
+DG - shuffles deck
+DG - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays 3 Copper, 1 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- DG: turn 4 ----------
+DG - plays 3 Copper, 1 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - draws Estate, Copper
+DG - shuffles deck
+DG - draws Silver, Copper, Wharf
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Wharf
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate
+ 
+---------- DG: turn 5 ----------
+DG - plays Wharf
+DG - draws Wharf, Copper
+DG - plays 3 Copper, 1 Silver
+DG - buys Upgrade
+DG - gains Upgrade
+DG - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wharf
+Stef - draws Copper, Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Talisman, Copper
+ 
+---------- DG: turn 6 ----------
+DG - duration Wharf
+DG - draws Estate, Copper
+DG - plays 4 Copper, 1 Silver
+DG - buys Gold
+DG - gains Gold
+DG - shuffles deck
+DG - draws Copper, Silver, Gold, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Wharf
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- DG: turn 7 ----------
+DG - plays 2 Copper, 1 Silver, 1 Gold
+DG - buys Gold
+DG - gains Gold
+DG - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Throne Room, Estate, Estate, Copper
+ 
+---------- DG: turn 8 ----------
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Wharf, Wharf, Copper, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - draws Copper, Talisman, Silver, Copper, Estate
+ 
+---------- DG: turn 9 ----------
+DG - plays 2 Copper, 1 Silver
+DG - buys Throne Room
+DG - gains Throne Room
+DG - draws Upgrade
+DG - shuffles deck
+DG - draws Wharf, Estate, Silver, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Talisman
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Copper, Wharf, Copper, Silver, Wharf
+ 
+---------- DG: turn 10 ----------
+DG - plays Upgrade
+DG - draws Estate
+DG - trashes Estate
+DG - gains Silver
+DG - plays Wharf
+DG - draws Copper, Throne Room
+DG - plays 2 Copper, 1 Silver
+DG - buys Advisor
+DG - gains Advisor
+DG - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Wharf
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Copper, Copper, Estate, Talisman, Silver
+ 
+---------- DG: turn 11 ----------
+DG - duration Wharf
+DG - draws Silver, Copper
+DG - plays 5 Copper, 1 Silver
+DG - buys Gold
+DG - gains Gold
+DG - draws Wharf, Silver, Gold, Gold
+DG - shuffles deck
+DG - draws Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Wharf
+Stef - draws Copper, Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Talisman
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - gains Throne Room
+Stef - draws Throne Room, Wharf, Copper
+Stef - shuffles deck
+Stef - draws Copper, Wharf
+ 
+---------- DG: turn 12 ----------
+DG - plays Wharf
+DG - draws Silver, Estate
+DG - plays 2 Silver, 2 Gold, 1 Copper
+DG - buys Province
+DG - gains Province
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Copper, Wharf, Throne Room, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Talisman, Estate
+Stef - plays Wharf
+Stef - draws Silver, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - plays Talisman
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - gains Throne Room
+Stef - draws Upgrade, Throne Room, Estate, Silver, Wharf
+ 
+---------- DG: turn 13 ----------
+DG - duration Wharf
+DG - draws Copper, Gold
+DG - plays Throne Room
+DG - plays Wharf
+DG - draws Silver, Copper
+DG - plays Wharf
+DG - draws Copper, Silver
+DG - plays 5 Copper, 2 Silver, 1 Gold
+DG - buys Province
+DG - gains Province
+DG - buys Advisor
+DG - gains Advisor
+DG - draws Upgrade, Advisor, Copper
+DG - shuffles deck
+DG - draws Silver, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - duration Wharf
+Stef - draws Throne Room, Copper
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Estate, Copper
+Stef - plays Wharf
+Stef - shuffles deck
+Stef - draws Copper, Talisman
+Stef - plays Throne Room
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays 6 Copper, 1 Silver
+Stef - plays Talisman
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - gains Throne Room
+Stef - draws Wharf, Throne Room, Throne Room, Copper, Silver
+ 
+---------- DG: turn 14 ----------
+DG - duration Throne Room
+DG - duration Wharf
+DG - draws Copper, Copper
+DG - duration Wharf
+DG - draws Wharf, Province
+DG - plays Upgrade
+DG - draws Estate
+DG - trashes Estate
+DG - gains Silver
+DG - plays Advisor
+DG - reveals: Gold, Silver, Estate
+Stef - discards Gold
+DG - places cards in hand:  Silver, Estate
+DG - plays Wharf
+DG - draws Copper, Silver
+DG - plays 5 Copper, 3 Silver
+DG - buys Province
+DG - gains Province
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Advisor, Silver, Gold, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - duration Wharf
+Stef - draws Upgrade, Wharf
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Silver, Wharf
+Stef - plays Wharf
+Stef - draws Copper, Throne Room
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Copper, Throne Room
+Stef - plays Wharf
+Stef - draws Talisman, Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Copper, Silver
+Stef - plays Wharf
+Stef - draws Copper, Copper
+Stef - plays Throne Room
+Stef - plays Upgrade
+Stef - draws Throne Room
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Upgrade
+Stef - draws Throne Room
+Stef - trashes Throne Room
+Stef - gains Wharf
+Stef - plays 7 Copper, 4 Silver
+Stef - plays Talisman
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - gains Throne Room
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Wharf, Silver, Silver, Throne Room, Talisman
+ 
+---------- DG: turn 15 ----------
+DG - duration Wharf
+DG - draws Silver, Copper
+DG - plays Advisor
+DG - reveals: Province
+DG - shuffles deck
+DG - reveals: Copper, Province
+Stef - discards Copper
+DG - places cards in hand:  Province, Province
+DG - plays 2 Copper, 2 Silver, 2 Gold
+DG - buys Province
+DG - gains Province
+DG - buys Feodum
+DG - gains Feodum
+DG - draws Throne Room, Silver, Copper, Province, Copper
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - duration Wharf
+Stef - draws Upgrade, Wharf
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - duration Wharf
+Stef - draws Copper, Silver
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Silver, Wharf
+Stef - duration Wharf
+Stef - draws Silver, Silver
+Stef - plays Throne Room
+Stef - plays Upgrade
+Stef - draws Throne Room
+Stef - trashes Silver
+Stef - gains Talisman
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Copper, Throne Room
+Stef - plays Wharf
+Stef - draws Throne Room, Copper
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Throne Room, Silver
+Stef - plays Wharf
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Talisman
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - plays Wharf
+Stef - plays 8 Silver, 6 Copper
+Stef - plays Talisman
+Stef - plays Talisman
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - gains Advisor
+Stef - gains Advisor
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - gains Advisor
+Stef - gains Advisor
+Stef - buys Province
+Stef - gains Province
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Throne Room, Silver, Province, Advisor, Silver
+ 
+---------- DG: turn 16 ----------
+DG - plays 2 Copper, 1 Silver
+DG - buys Feodum
+DG - gains Feodum
+DG - draws Copper, Advisor, Silver, Silver, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Throne Room, Talisman
+Stef - duration Wharf
+Stef - draws Silver, Silver
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Copper, Throne Room
+Stef - duration Wharf
+Stef - draws Copper, Copper
+Stef - duration Throne Room
+Stef - duration Wharf
+Stef - draws Wharf, Silver
+Stef - duration Wharf
+Stef - draws Upgrade, Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Advisor, Throne Room, Copper
+DG - discards Throne Room
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Silver, Talisman, Silver
+DG - discards Talisman
+Stef - places cards in hand:  Silver, Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Advisor
+Stef - reveals: Silver, Copper, Silver
+DG - discards Silver
+Stef - places cards in hand:  Silver, Copper
+Stef - plays Advisor
+Stef - reveals: Advisor, Silver, Advisor
+DG - discards Advisor
+Stef - places cards in hand:  Advisor, Silver
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - draws Advisor, Silver
+Stef - plays Wharf
+Stef - draws Silver, Wharf
+Stef - plays Advisor
+Stef - reveals: Silver, Copper, Throne Room
+DG - discards Throne Room
+Stef - places cards in hand:  Silver, Copper
+Stef - plays Wharf
+Stef - draws Advisor, Throne Room
+Stef - plays Advisor
+Stef - reveals: Wharf
+Stef - shuffles deck
+Stef - reveals: Throne Room, Advisor
+DG - discards Wharf
+Stef - places cards in hand:  Throne Room, Advisor
+Stef - plays Advisor
+Stef - reveals: Talisman, Silver, Throne Room
+DG - discards Throne Room
+Stef - places cards in hand:  Talisman, Silver
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Upgrade
+Stef - shuffles deck
+Stef - draws Wharf
+Stef - trashes Advisor
+Stef - gains Upgrade
+Stef - plays Upgrade
+Stef - draws Throne Room
+Stef - trashes Talisman
+Stef - gains Duchy
+Stef - plays Throne Room
+Stef - plays Wharf
+Stef - shuffles deck
+Stef - draws Upgrade, Duchy
+Stef - plays Wharf
+Stef - plays Upgrade
+Stef - trashes Throne Room
+Stef - gains Duchy
+Stef - plays 14 Silver, 6 Copper
+Stef - plays Talisman
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - buys Feodum
+Stef - gains Feodum
+Stef - buys Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Talisman, Advisor, Silver, Duchy, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 7 Throne Room, 6 Wharf, 5 Advisor, 2 Upgrade, 16 Silver, 6 Copper, 1 Talisman, 4 Province, 2 Duchy, 2 Feodum
+Stef - total victory points: 40
+Stef - turns: 16
+ 
+DG - cards: 2 Advisor, 2 Wharf, 1 Throne Room, 1 Upgrade, 7 Copper, 7 Silver, 3 Gold, 4 Province, 2 Feodum, 1 Estate
+DG - total victory points: 29
+DG - turns: 16
+ 
+1st place: Stef
+2nd place: DG
+ 

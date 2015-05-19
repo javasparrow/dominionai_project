@@ -1,0 +1,489 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Vagrant, Menagerie, Shanty Town, Moneylender, Sea Hag, Cultist, Ghost Ship, Merchant Ship, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+new_tomitake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 3 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Shanty Town
+Stef - gains Shanty Town
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Shanty Town, Copper
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Shanty Town
+new_tomitake - gains Shanty Town
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Shanty Town
+Stef - reveals Copper, Silver, Copper, Copper
+Stef - draws Estate, Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays 3 Copper, 1 Silver
+new_tomitake - buys Cultist
+new_tomitake - gains Cultist
+new_tomitake - draws Copper, Estate, Shanty Town, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Silver, Shanty Town, Estate, Copper
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Copper, Estate, Copper, Estate
+new_tomitake - draws Copper, Copper
+new_tomitake - plays 4 Copper
+new_tomitake - buys Sea Hag
+new_tomitake - gains Sea Hag
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Copper, Estate, Copper, Sea Hag
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Shanty Town
+Stef - reveals Silver, Silver, Estate, Copper
+Stef - draws Copper, Cultist
+Stef - plays Cultist
+Stef - draws Estate, Copper
+new_tomitake - gains Ruined Library
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays Sea Hag
+Stef - shuffles deck
+Stef - discards Copper
+Stef - gains Curse
+new_tomitake - plays 3 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Shanty Town, Copper, Cultist, Estate, Silver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Estate, Copper, Cultist, Cultist
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Copper, Cultist, Estate, Silver
+new_tomitake - plays Cultist
+new_tomitake - draws Copper, Estate
+Stef - gains Survivors
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Copper, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Copper, Sea Hag, Shanty Town
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Cultist
+Stef - draws Silver, Shanty Town
+new_tomitake - gains Ruined Market
+Stef - plays Cultist
+Stef - draws Estate, Copper
+new_tomitake - gains Ruined Library
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Cellar, Silver
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Copper, Copper, Copper, Sea Hag
+new_tomitake - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+new_tomitake - plays 3 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - draws Curse
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Cultist, Survivors, Copper, Curse
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - plays Silver
+new_tomitake - buys Cellar
+new_tomitake - gains Cellar
+new_tomitake - draws Ruined Library, Estate, Copper, Cultist, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cultist
+Stef - draws Estate, Estate
+new_tomitake - gains Ruined Market
+Stef - plays 2 Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Silver, Copper, Shanty Town, Cultist, Estate
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - plays Cultist
+new_tomitake - draws Silver, Copper
+Stef - gains Ruined Village
+new_tomitake - plays 2 Copper, 2 Silver
+new_tomitake - buys Cultist
+new_tomitake - gains Cultist
+new_tomitake - shuffles deck
+new_tomitake - draws Silver, Silver, Cultist, Shanty Town, Ruined Library
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Shanty Town
+Stef - reveals Silver, Copper, Cultist, Estate
+Stef - plays Cultist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Ruined Village
+new_tomitake - gains Ruined Library
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Survivors, Silver, Copper, Copper, Curse
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Silver, Silver, Cultist, Ruined Library
+new_tomitake - plays Cultist
+new_tomitake - draws Ruined Market, Silver
+Stef - gains Survivors
+new_tomitake - plays 3 Silver
+new_tomitake - buys Gold
+new_tomitake - gains Gold
+new_tomitake - draws Copper, Estate, Estate, Ruined Library, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Survivors
+Stef - looks at Cultist, Cellar
+Stef - places Cultist on top of deck
+Stef - places Cellar on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Cellar, Cultist, Curse, Cellar, Copper
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays 1 Copper, 1 Silver
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Copper, Copper, Cultist, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Cellar
+Stef - draws Copper, Cultist, Estate
+Stef - plays Cultist
+Stef - draws Silver, Estate
+new_tomitake - gains Ruined Library
+Stef - plays Cultist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Ruined Village
+new_tomitake - gains Ruined Market
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Curse, Copper, Copper
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - plays 4 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Estate, Cellar, Ruined Market, Copper, Sea Hag
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Survivors, Silver, Copper, Silver
+ 
+---------- new_tomitake: turn 13 ----------
+new_tomitake - plays Cellar
+new_tomitake - discards Estate
+new_tomitake - draws Copper
+new_tomitake - plays Sea Hag
+Stef - discards Survivors
+Stef - gains Curse
+new_tomitake - plays 2 Copper
+new_tomitake - buys Cellar
+new_tomitake - gains Cellar
+new_tomitake - shuffles deck
+new_tomitake - draws Gold, Copper, Cultist, Shanty Town, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Survivors
+Stef - looks at Curse, Cultist
+Stef - discards: Curse, Cultist
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - draws Silver, Shanty Town, Silver, Cellar, Estate
+ 
+---------- new_tomitake: turn 14 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Gold, Copper, Cultist, Estate
+new_tomitake - plays Cultist
+new_tomitake - draws Copper, Ruined Market
+new_tomitake - plays Ruined Market
+new_tomitake - plays 2 Copper, 1 Gold
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - buys Copper
+new_tomitake - gains Copper
+new_tomitake - draws Silver, Silver, Copper, Cellar, Ruined Library
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Shanty Town
+Stef - reveals Silver, Silver, Silver
+Stef - draws Copper, Copper
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Cultist, Cultist, Cultist, Estate
+ 
+---------- new_tomitake: turn 15 ----------
+new_tomitake - plays Cellar
+new_tomitake - discards Ruined Library
+new_tomitake - draws Ruined Market
+new_tomitake - plays Ruined Market
+new_tomitake - plays 2 Silver, 1 Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - buys Copper
+new_tomitake - gains Copper
+new_tomitake - draws Silver, Sea Hag, Estate, Ruined Market, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Cultist
+Stef - draws Estate, Copper
+Stef - plays Cultist
+Stef - draws Merchant Ship, Survivors
+Stef - plays Cultist
+Stef - draws Silver, Cellar
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Survivors, Curse, Curse, Silver, Copper
+ 
+---------- new_tomitake: turn 16 ----------
+new_tomitake - plays Sea Hag
+Stef - discards Copper
+Stef - gains Curse
+new_tomitake - plays 1 Silver, 1 Copper
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - draws Copper, Cultist, Silver, Ruined Library, Ruined Library
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Survivors
+Stef - looks at Curse, Ruined Village
+Stef - discards: Curse, Ruined Village
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Curse, Copper, Silver, Estate
+ 
+---------- new_tomitake: turn 17 ----------
+new_tomitake - plays Cultist
+new_tomitake - draws Silver, Ruined Library
+new_tomitake - plays 2 Silver, 1 Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Silver, Estate, Cellar, Copper, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Estate, Silver, Shanty Town, Silver
+ 
+---------- new_tomitake: turn 18 ----------
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Silver
+new_tomitake - gains Silver
+new_tomitake - shuffles deck
+new_tomitake - draws Silver, Copper, Estate, Silver, Ruined Library
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Shanty Town
+Stef - reveals Silver, Estate, Silver, Silver
+Stef - draws Curse, Silver
+Stef - plays 4 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Duchy, Merchant Ship, Survivors, Silver
+ 
+---------- new_tomitake: turn 19 ----------
+new_tomitake - plays Ruined Library
+new_tomitake - draws Copper
+new_tomitake - plays 2 Silver, 2 Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Shanty Town, Duchy, Cultist, Silver, Duchy
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Merchant Ship
+Stef - plays 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Cellar, Copper, Cultist, Curse, Copper
+ 
+---------- new_tomitake: turn 20 ----------
+new_tomitake - plays Shanty Town
+new_tomitake - reveals Duchy, Cultist, Silver, Duchy
+new_tomitake - plays Cultist
+new_tomitake - draws Copper, Ruined Library
+new_tomitake - plays Ruined Library
+new_tomitake - draws Silver
+new_tomitake - plays 2 Silver, 1 Copper
+new_tomitake - buys Duchy
+new_tomitake - gains Duchy
+new_tomitake - draws Estate, Ruined Library, Silver, Copper, Ruined Market
+ 
+---------- Stef: turn 21 ----------
+Stef - duration Merchant Ship
+Stef - plays Cellar
+Stef - discards Curse
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Silver, Copper, Copper
+Stef - plays Cultist
+Stef - draws Cultist, Ruined Village
+Stef - plays Cultist
+Stef - draws Cultist, Curse
+Stef - plays Cultist
+Stef - draws Curse, Province
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- new_tomitake: turn 21 ----------
+new_tomitake - plays Ruined Library
+new_tomitake - draws Silver
+new_tomitake - plays 2 Silver, 1 Copper
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Cultist, Ruined Market, Cellar, Cellar, Estate
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Cellar, Copper, Survivors, Silver
+Stef - shuffles deck
+Stef - draws Silver
+ 
+---------- new_tomitake: turn 22 ----------
+new_tomitake - plays Cellar
+new_tomitake - discards Ruined Market
+new_tomitake - discards Estate
+new_tomitake - draws Copper, Copper
+new_tomitake - plays Cellar
+new_tomitake - discards Cultist
+new_tomitake - draws Silver
+new_tomitake - plays 2 Copper, 1 Silver
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Copper, Ruined Market, Ruined Library, Silver, Duchy
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Cellar
+Stef - discards Survivors
+Stef - discards Copper
+Stef - draws Copper, Duchy
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Survivors, Copper, Curse, Duchy, Copper
+ 
+---------- new_tomitake: turn 23 ----------
+new_tomitake - plays 1 Copper, 1 Silver
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Sea Hag, Copper, Copper, Gold
+new_tomitake - shuffles deck
+new_tomitake - draws Copper
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Survivors
+Stef - looks at Silver, Silver
+Stef - places Silver on top of deck
+Stef - places Silver on top of deck
+Stef - plays 2 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Silver, Silver, Shanty Town, Province, Cellar
+ 
+---------- new_tomitake: turn 24 ----------
+new_tomitake - plays Sea Hag
+Stef - discards Silver
+Stef - gains Curse
+new_tomitake - plays 3 Copper, 1 Gold
+new_tomitake - buys Estate
+new_tomitake - gains Estate
+new_tomitake - draws Silver, Copper, Silver, Estate, Cultist
+ 
+---------- Stef: turn 25 ----------
+Stef - plays 2 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Curse, Cultist, Estate, Duchy, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Cultist, 2 Survivors, 2 Cellar, 1 Shanty Town, 1 Ruined Village, 1 Merchant Ship, 9 Silver, 7 Copper, 7 Estate, 3 Duchy, 2 Province, 5 Curse
+Stef - total victory points: 23
+Stef - turns: 25
+ 
+new_tomitake - cards: 4 Ruined Library, 3 Ruined Market, 2 Cultist, 2 Cellar, 1 Sea Hag, 1 Shanty Town, 9 Copper, 8 Silver, 1 Gold, 7 Estate, 5 Duchy
+new_tomitake - total victory points: 22
+new_tomitake - turns: 24
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

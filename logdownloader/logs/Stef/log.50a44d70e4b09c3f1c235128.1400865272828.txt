@@ -1,0 +1,474 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Native Village, Alchemist, Gardens, Butcher, Counterfeit, Cultist, Saboteur, Tactician, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+jog - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - shuffles deck
+Stef - shuffles deck
+jog - draws Copper, Copper, Copper, Copper, Necropolis
+Stef - draws Copper, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- jog: turn 1 ----------
+jog - plays 4 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Overgrown Estate, Hovel, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- jog: turn 2 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - shuffles deck
+jog - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- jog: turn 3 ----------
+jog - plays 4 Copper, 1 Silver
+jog - buys Cultist
+jog - gains Cultist
+jog - draws Copper, Silver, Hovel, Overgrown Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Goons
+Stef - gains Goons
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- jog: turn 4 ----------
+jog - plays 2 Copper, 1 Silver
+jog - buys Native Village
+jog - gains Native Village
+jog - draws Necropolis, Copper
+jog - shuffles deck
+jog - draws Copper, Cultist, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - draws Necropolis, Hovel
+Stef - shuffles deck
+Stef - draws Silver, Silver, Copper
+ 
+---------- jog: turn 5 ----------
+jog - plays Necropolis
+jog - plays Cultist
+jog - draws Silver, Silver
+Stef - gains Abandoned Mine
+jog - plays 3 Copper, 2 Silver
+jog - buys Cultist
+jog - gains Cultist
+jog - draws Copper, Overgrown Estate, Native Village, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Butcher
+Stef - gains Butcher
+Stef - draws Copper, Beggar, Goons, Copper, Copper
+ 
+---------- jog: turn 6 ----------
+jog - plays Native Village
+jog - sets aside Copper
+jog - plays 3 Copper
+jog - buys Native Village
+jog - gains Native Village
+jog - draws Hovel
+jog - shuffles deck
+jog - draws Copper, Native Village, Cultist, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Goons
+jog - discards Hovel
+jog - discards Copper
+Stef - plays 3 Copper
+Stef - buys Beggar
+Stef - receives 1 victory point chips
+Stef - gains Beggar
+Stef - buys Beggar
+Stef - receives 1 victory point chips
+Stef - gains Beggar
+Stef - draws Overgrown Estate, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Hovel
+ 
+---------- jog: turn 7 ----------
+jog - plays Native Village
+jog - sets aside Copper
+jog - plays Cultist
+jog - draws Overgrown Estate, Copper
+Stef - gains Abandoned Mine
+jog - plays 2 Copper
+jog - buys Native Village
+jog - gains Native Village
+jog - draws Copper, Silver, Silver, Cultist, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Beggar, Silver, Beggar, Butcher, Abandoned Mine
+ 
+---------- jog: turn 8 ----------
+jog - plays Cultist
+Stef - reveals reaction Beggar
+Stef - discards Beggar
+Stef - gains Silver
+Stef - gains Silver
+Stef - reveals reaction Beggar
+Stef - discards Beggar
+Stef - gains Silver
+Stef - gains Silver
+jog - draws Native Village, Necropolis
+Stef - gains Abandoned Mine
+jog - plays 2 Copper, 2 Silver
+jog - buys Counterfeit
+jog - gains Counterfeit
+jog - shuffles deck
+jog - draws Necropolis, Silver, Copper, Cultist, Counterfeit
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Abandoned Mine
+Stef - uses 1 coin token
+Stef - uses 1 coin token
+Stef - gains Native Village
+Stef - plays Silver
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Silver, Silver, Goons, Copper, Silver
+ 
+---------- jog: turn 9 ----------
+jog - plays Necropolis
+jog - plays Cultist
+jog - draws Silver, Copper
+Stef - gains Ruined Market
+jog - plays Counterfeit
+jog - plays Copper
+jog - plays Copper
+jog - trashes Copper
+jog - plays 2 Silver, 1 Copper
+jog - buys Goons
+jog - gains Goons
+jog - buys Native Village
+jog - gains Native Village
+jog - draws Cultist, Native Village, Hovel, Copper, Native Village
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Goons
+jog - discards Hovel
+jog - discards Copper
+Stef - plays 3 Silver, 1 Copper
+Stef - buys Goons
+Stef - receives 1 victory point chips
+Stef - gains Goons
+Stef - buys Native Village
+Stef - receives 1 victory point chips
+Stef - gains Native Village
+Stef - draws Copper, Copper, Copper, Necropolis, Beggar
+ 
+---------- jog: turn 10 ----------
+jog - plays Native Village
+jog - sets aside Native Village
+jog - plays Cultist
+Stef - reveals reaction Beggar
+Stef - discards Beggar
+Stef - gains Silver
+Stef - gains Silver
+jog - draws Copper, Overgrown Estate
+Stef - gains Survivors
+jog - plays Native Village
+jog - sets aside Copper
+jog - shuffles deck
+jog - draws Native Village, Cultist, Cultist, Silver, Native Village
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 3 Copper
+Stef - buys Beggar
+Stef - gains Beggar
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Native Village, Ruined Market, Silver, Goons
+ 
+---------- jog: turn 11 ----------
+jog - plays Native Village
+jog - sets aside Overgrown Estate
+jog - plays Cultist
+jog - draws Copper, Hovel
+Stef - gains Survivors
+jog - plays Cultist
+jog - draws Copper, Necropolis
+Stef - gains Abandoned Mine
+jog - draws Silver, Copper, Native Village, Counterfeit, Goons
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Goons
+jog - discards Native Village
+jog - discards Copper
+Stef - plays Ruined Market
+Stef - plays 2 Silver
+Stef - buys Gardens
+Stef - receives 1 victory point chips
+Stef - gains Gardens
+Stef - buys Native Village
+Stef - receives 1 victory point chips
+Stef - gains Native Village
+Stef - buys Survivors
+Stef - receives 1 victory point chips
+Stef - gains Survivors
+Stef - draws Goons, Beggar, Copper, Copper, Copper
+ 
+---------- jog: turn 12 ----------
+jog - plays Goons
+Stef - reveals reaction Beggar
+Stef - discards Beggar
+Stef - gains Silver
+Stef - gains Silver
+Stef - discards Copper
+jog - plays Counterfeit
+jog - plays Silver
+jog - plays Silver
+jog - trashes Silver
+jog - buys Goons
+jog - receives 1 victory point chips
+jog - gains Goons
+jog - shuffles deck
+jog - draws Native Village, Copper, Cultist, Goons, Native Village
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Goons
+jog - discards Copper
+jog - discards Native Village
+Stef - plays 2 Copper
+Stef - buys Gardens
+Stef - receives 1 victory point chips
+Stef - gains Gardens
+Stef - buys Copper
+Stef - receives 1 victory point chips
+Stef - gains Copper
+Stef - draws Silver, Silver, Copper, Abandoned Mine, Silver
+ 
+---------- jog: turn 13 ----------
+jog - plays Native Village
+jog - sets aside Copper
+jog - plays Cultist
+jog - draws Copper, Counterfeit
+Stef - gains Abandoned Mine
+jog - plays Goons
+Stef - discards Copper
+Stef - discards Abandoned Mine
+jog - plays Counterfeit
+jog - plays Copper
+jog - plays Copper
+jog - trashes Copper
+jog - buys Tactician
+jog - receives 1 victory point chips
+jog - gains Tactician
+jog - draws Hovel, Silver, Cultist, Necropolis, Native Village
+ 
+---------- Stef: turn 13 ----------
+Stef - plays 3 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Necropolis, Copper, Native Village, Native Village
+ 
+---------- jog: turn 14 ----------
+jog - plays Necropolis
+jog - plays Native Village
+jog - sets aside Goons
+jog - plays Cultist
+jog - shuffles deck
+jog - draws Cultist, Copper
+Stef - gains Ruined Village
+jog - plays Cultist
+jog - draws Native Village, Native Village
+jog - plays Native Village
+jog - sets aside Counterfeit
+jog - plays Native Village
+jog - takes set aside cards: Copper, Copper, Native Village, Copper, Overgrown Estate, Copper, Goons, Counterfeit
+jog - plays Goons
+Stef - discards Copper
+Stef - discards Necropolis
+jog - plays Counterfeit
+jog - plays Copper
+jog - plays Copper
+jog - trashes Copper
+jog - plays 4 Copper, 1 Silver
+jog - buys Butcher
+jog - receives 1 victory point chips
+jog - gains Butcher
+jog - buys Goons
+jog - receives 1 victory point chips
+jog - gains Goons
+jog - draws Tactician, Goons
+jog - shuffles deck
+jog - draws Copper, Cultist, Goons
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Native Village
+Stef - takes set aside cards: Copper, Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Copper, Native Village, Beggar, Abandoned Mine, Hovel
+ 
+---------- jog: turn 15 ----------
+jog - plays Tactician
+jog - discards: Goons, Copper, Cultist, Goons
+jog - draws Butcher, Silver, Copper, Hovel, Goons
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Native Village
+Stef - sets aside Silver
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 4 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Silver, Beggar, Butcher, Survivors, Overgrown Estate
+ 
+---------- jog: turn 16 ----------
+jog - duration Tactician
+jog - draws Counterfeit, Copper, Overgrown Estate, Native Village, Native Village
+jog - plays Native Village
+jog - sets aside Native Village
+jog - plays Native Village
+jog - sets aside Cultist
+jog - plays Butcher
+jog - receives 2 coin tokens
+jog - trashes Overgrown Estate
+jog - draws Native Village
+jog - uses 1 coin token
+jog - uses 1 coin token
+jog - gains Silver
+jog - plays Native Village
+jog - sets aside Copper
+jog - plays Goons
+Stef - reveals reaction Beggar
+Stef - discards Beggar
+Stef - gains Silver
+Stef - gains Silver
+Stef - discards Survivors
+jog - plays Counterfeit
+jog - plays Copper
+jog - plays Copper
+jog - trashes Copper
+jog - plays 1 Silver, 1 Copper
+jog - buys Province
+jog - receives 1 victory point chips
+jog - trashes Hovel
+jog - gains Province
+jog - draws Necropolis
+jog - shuffles deck
+jog - draws Butcher, Goons, Counterfeit, Cultist
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Butcher
+Stef - receives 2 coin tokens
+Stef - trashes Overgrown Estate
+Stef - draws Silver
+Stef - uses 1 coin token
+Stef - gains Native Village
+Stef - plays 2 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Beggar
+Stef - shuffles deck
+Stef - draws Gardens, Copper, Abandoned Mine, Copper
+ 
+---------- jog: turn 17 ----------
+jog - plays Necropolis
+jog - plays Butcher
+jog - receives 2 coin tokens
+jog - trashes Cultist
+jog - draws Province, Native Village, Copper
+jog - gains Duchy
+jog - plays Native Village
+jog - takes set aside cards: Native Village, Cultist, Copper
+jog - plays Cultist
+jog - draws Copper, Silver
+jog - plays Native Village
+jog - sets aside Native Village
+jog - plays Goons
+Stef - discards Abandoned Mine
+Stef - discards Gardens
+jog - plays Counterfeit
+jog - plays Copper
+jog - plays Copper
+jog - trashes Copper
+jog - plays 2 Copper, 1 Silver
+jog - buys Province
+jog - receives 1 victory point chips
+jog - gains Province
+jog - draws Goons, Native Village, Goons, Silver, Tactician
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Beggar
+Stef - gains Copper
+Stef - gains Copper
+Stef - gains Copper
+Stef - plays 5 Copper
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Survivors, Gardens, Silver, Necropolis, Silver
+ 
+---------- jog: turn 18 ----------
+jog - plays Native Village
+jog - takes set aside cards: Native Village
+jog - plays Native Village
+jog - takes set aside cards: 
+jog - plays Goons
+Stef - discards Gardens
+Stef - discards Necropolis
+jog - plays Goons
+jog - plays Tactician
+jog - discards Silver
+jog - buys Estate
+jog - receives 1 victory point chips
+jog - receives 1 victory point chips
+jog - gains Estate
+jog - buys Estate
+jog - receives 1 victory point chips
+jog - receives 1 victory point chips
+jog - gains Estate
+jog - shuffles deck
+jog - draws Silver, Estate, Duchy, Native Village, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays 2 Silver
+Stef - buys Gardens
+Stef - gains Gardens
+Stef - draws Ruined Village, Native Village, Copper, Abandoned Mine, Gardens
+ 
+------------ Game Over ------------
+Stef - cards: 6 Native Village, 4 Abandoned Mine, 4 Beggar, 3 Survivors, 2 Goons, 14 Copper, 12 Silver, 1 Ruined Village, 1 Necropolis, 1 Ruined Market, 1 Butcher, 8 Gardens, 1 Hovel
+Stef - victory point chips: 9
+Stef - total victory points: 49
+Stef - turns: 18
+ 
+jog - cards: 4 Native Village, 3 Goons, 1 Butcher, 1 Cultist, 1 Necropolis, 1 Tactician, 2 Silver, 2 Copper, 1 Counterfeit, 2 Estate, 2 Province, 1 Duchy
+jog - victory point chips: 10
+jog - total victory points: 27
+jog - turns: 18
+ 
+1st place: Stef
+2nd place: jog
+ 

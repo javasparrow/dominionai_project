@@ -1,0 +1,507 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Black Market, Menagerie, Tunnel, Philosopher's Stone, Coppersmith, Quarry, Salvager, Market, Rogue, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Menagerie
+Black market deck cards: Pearl Diver, Trade Route, Goons, Village, Masterpiece, Vault, Nobles, Develop, Wandering Minstrel, Band of Misfits, Transmute, Upgrade, Venture, Herbalist, Adventurer, Pillage, Treasury, Workshop, Merchant Guild, University, Mountebank, Farming Village, Haven, Young Witch, Haggler
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Copper
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Black Market
+Stef - gains Black Market
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 5 Copper
+yed - buys Wharf
+yed - gains Wharf
+yed - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Quarry
+Stef - gains Quarry
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays Copper
+yed - plays Copper
+yed - buys Embargo
+yed - gains Embargo
+yed - shuffles deck
+yed - draws Estate, Estate, Wharf, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Salvager
+Stef - gains Salvager
+Stef - draws Copper, Estate, Quarry, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Wharf
+yed - draws Copper, Embargo
+yed - plays Copper
+yed - plays Copper
+yed - buys Embargo
+yed - gains Embargo
+yed - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Quarry
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Black Market, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - duration Wharf
+yed - shuffles deck
+yed - draws Copper, Estate
+yed - plays 6 Copper
+yed - buys Wharf
+yed - gains Wharf
+yed - draws Copper, Embargo, Embargo, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Black Market
+Stef - reveals Develop, Merchant Guild, Adventurer
+Stef - places Adventurer on bottom of the Black Market deck
+Stef - places Merchant Guild on bottom of the Black Market deck
+Stef - places Develop on bottom of the Black Market deck
+Stef - plays 3 Copper
+Stef - buys Wharf
+Stef - gains Wharf
+Stef - draws Salvager, Copper, Quarry, Wharf, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Embargo
+yed - embargoes Embargo
+yed - trashes Embargo
+yed - plays 1 Copper
+yed - buys Black Market
+yed - gains Black Market
+yed - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wharf
+Stef - draws Estate, Copper
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Market, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 3 Copper
+yed - buys Menagerie
+yed - gains Menagerie
+yed - draws Black Market, Wharf, Embargo, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Wharf
+Stef - draws Estate, Quarry
+Stef - plays Market
+Stef - draws Salvager
+Stef - plays Salvager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - plays Quarry
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Wharf, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 7 ----------
+yed - plays Wharf
+yed - draws Copper, Copper
+yed - plays 3 Copper
+yed - buys Menagerie
+yed - gains Menagerie
+yed - draws Copper, Wharf
+yed - shuffles deck
+yed - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wharf
+Stef - draws Copper, Black Market
+Stef - plays 4 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Menagerie
+Stef - shuffles deck
+Stef - draws Estate, Menagerie, Copper, Copper
+ 
+---------- yed: turn 8 ----------
+yed - duration Wharf
+yed - draws Estate, Copper
+yed - plays Wharf
+yed - draws Menagerie, Copper
+yed - plays 5 Copper
+yed - buys Quarry
+yed - gains Quarry
+yed - draws Black Market, Copper, Copper, Menagerie, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Wharf
+Stef - draws Menagerie, Market
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Estate, Menagerie, Copper, Copper, Market
+Stef - draws Black Market
+Stef - plays Menagerie
+Stef - reveals hand: Black Market, Menagerie, Estate, Copper, Copper, Market
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Black Market, Estate, Copper, Copper, Market
+Stef - draws Wharf
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Black Market
+Stef - reveals Workshop, Mountebank, Pillage
+Stef - plays 3 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - places Pillage on bottom of the Black Market deck
+Stef - places Workshop on bottom of the Black Market deck
+Stef - draws Quarry, Copper, Market, Market, Salvager
+ 
+---------- yed: turn 9 ----------
+yed - duration Wharf
+yed - draws Embargo
+yed - shuffles deck
+yed - draws Estate
+yed - plays Menagerie
+yed - reveals hand: Black Market, Copper, Copper, Estate, Embargo, Estate
+yed - draws Copper
+yed - plays Black Market
+yed - reveals Goons, Venture, Band of Misfits
+yed - plays 3 Copper
+yed - buys Band of Misfits
+yed - gains Band of Misfits
+yed - places Venture on bottom of the Black Market deck
+yed - places Goons on bottom of the Black Market deck
+yed - draws Copper, Estate, Copper, Copper, Wharf
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - plays Quarry
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Menagerie, Menagerie, Wharf, Estate
+ 
+---------- yed: turn 10 ----------
+yed - plays Wharf
+yed - draws Quarry, Menagerie
+yed - plays 3 Copper
+yed - plays Quarry
+yed - buys Menagerie
+yed - gains Menagerie
+yed - buys Market
+yed - gains Market
+yed - draws Copper
+yed - shuffles deck
+yed - draws Menagerie, Wharf, Estate, Embargo
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Wharf, Estate
+Stef - draws Wharf, Mountebank, Black Market
+Stef - plays Menagerie
+Stef - reveals hand: Wharf, Mountebank, Black Market, Copper, Wharf, Estate
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Wharf, Mountebank, Black Market, Copper, Wharf, Estate
+Stef - draws Quarry
+Stef - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Stef - plays 1 Copper
+Stef - plays Quarry
+Stef - buys Market
+Stef - gains Market
+Stef - draws Market, Menagerie, Market, Copper, Menagerie
+ 
+---------- yed: turn 11 ----------
+yed - duration Wharf
+yed - draws Band of Misfits, Estate
+yed - plays Menagerie
+yed - reveals hand: Copper, Wharf, Estate, Embargo, Band of Misfits, Estate
+yed - draws Menagerie
+yed - plays Menagerie
+yed - reveals hand: Copper, Wharf, Estate, Embargo, Band of Misfits, Estate
+yed - draws Estate
+yed - plays Wharf
+yed - draws Copper, Copper
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Market, Black Market, Copper, Copper, Menagerie
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Market, Menagerie, Copper, Menagerie
+Stef - draws Market
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Menagerie
+Stef - reveals hand: Market, Menagerie, Copper, Estate
+Stef - draws Copper, Menagerie, Copper
+Stef - plays Market
+Stef - draws Salvager
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Copper, Copper, Estate, Salvager
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Copper, Copper, Estate, Salvager
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Market, Menagerie, Mountebank, Copper, Menagerie
+ 
+---------- yed: turn 12 ----------
+yed - duration Wharf
+yed - draws Quarry, Copper
+yed - plays Market
+yed - draws Copper
+yed - plays Black Market
+yed - reveals Nobles, Farming Village, Pearl Diver
+yed - plays 4 Copper
+yed - plays Quarry
+yed - buys Farming Village
+yed - gains Farming Village
+yed - places Pearl Diver on bottom of the Black Market deck
+yed - places Nobles on bottom of the Black Market deck
+yed - buys Market
+yed - gains Market
+yed - buys Market
+yed - gains Market
+yed - shuffles deck
+yed - draws Copper, Copper, Wharf, Estate, Menagerie
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Market, Menagerie, Mountebank, Copper
+Stef - draws Copper, Menagerie, Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Menagerie, Menagerie, Market, Mountebank, Copper
+Stef - draws Wharf
+Stef - plays Menagerie
+Stef - reveals hand: Wharf, Copper, Menagerie, Market, Mountebank, Copper
+Stef - draws Black Market
+Stef - plays Menagerie
+Stef - reveals hand: Black Market, Wharf, Copper, Market, Mountebank, Copper
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Estate, Black Market, Wharf, Copper, Mountebank, Copper
+Stef - draws Market
+Stef - plays Market
+Stef - draws Wharf
+Stef - plays Black Market
+Stef - reveals Young Witch, Treasury, Haven
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - places Treasury on bottom of the Black Market deck
+Stef - places Young Witch on bottom of the Black Market deck
+Stef - buys Market
+Stef - gains Market
+Stef - draws Menagerie, Salvager, Copper, Market, Estate
+ 
+---------- yed: turn 13 ----------
+yed - plays Menagerie
+yed - reveals hand: Copper, Copper, Wharf, Estate
+yed - draws Farming Village
+yed - plays Farming Village
+yed - reveals Band of Misfits
+yed - places Band of Misfits in hand
+yed - plays Wharf
+yed - draws Curse, Black Market
+yed - plays Band of Misfits
+yed - chooses Salvager
+yed - plays Salvager
+yed - trashes Estate
+yed - plays 2 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Estate, Market, Embargo, Market
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Salvager, Copper, Market, Estate
+Stef - draws Menagerie, Copper, Copper
+Stef - plays Market
+Stef - draws Gold
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Copper, Salvager, Copper, Estate, Gold
+Stef - draws Quarry
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - plays Quarry
+Stef - buys Market
+Stef - gains Market
+Stef - buys Market
+Stef - gains Market
+Stef - shuffles deck
+Stef - draws Estate, Copper, Market, Wharf, Salvager
+ 
+---------- yed: turn 14 ----------
+yed - duration Wharf
+yed - draws Copper, Copper
+yed - plays Market
+yed - draws Copper
+yed - plays Market
+yed - draws Market
+yed - plays Market
+yed - draws Copper
+yed - plays Embargo
+yed - embargoes Duchy
+yed - trashes Embargo
+yed - plays 4 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Menagerie, Wharf, Copper, Menagerie
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Salvager
+Stef - trashes Copper
+Stef - draws Market, Quarry, Copper, Gold, Market
+ 
+---------- yed: turn 15 ----------
+yed - plays Menagerie
+yed - reveals hand: Silver, Menagerie, Wharf, Copper
+yed - draws Copper, Quarry
+yed - shuffles deck
+yed - draws Estate
+yed - plays Menagerie
+yed - reveals hand: Copper, Quarry, Estate, Silver, Wharf, Copper
+yed - draws Estate
+yed - plays Wharf
+yed - draws Band of Misfits, Curse
+yed - plays 2 Copper, 1 Silver
+yed - plays Quarry
+yed - buys Silver
+yed - gains Silver
+yed - buys Salvager
+yed - gains Salvager
+yed - draws Province, Copper, Copper, Copper, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Market
+Stef - draws Market
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Quarry, Copper, Gold, Estate
+Stef - draws Wharf, Haven, Market
+Stef - plays Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Wharf, Haven, Quarry, Copper, Gold, Estate
+Stef - draws Menagerie, Market, Black Market
+Stef - plays Menagerie
+Stef - reveals hand: Market, Black Market, Wharf, Haven, Quarry, Copper, Gold, Estate
+Stef - draws Menagerie, Menagerie, Market
+Stef - plays Market
+Stef - draws Menagerie
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Menagerie, Market, Black Market, Wharf, Haven, Quarry, Copper, Gold, Estate
+Stef - draws Mountebank
+Stef - plays Menagerie
+Stef - reveals hand: Mountebank, Menagerie, Market, Black Market, Wharf, Haven, Quarry, Copper, Gold, Estate
+Stef - draws Menagerie, Copper
+Stef - shuffles deck
+Stef - draws Market
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Market
+Stef - draws Copper
+Stef - plays Menagerie
+Stef - reveals hand: Menagerie, Copper, Mountebank, Black Market, Wharf, Haven, Quarry, Copper, Gold, Estate, Estate, Copper
+Stef - draws Salvager
+Stef - plays Haven
+Stef - draws Wharf
+Stef - sets aside Menagerie
+Stef - plays Salvager
+Stef - trashes Wharf
+Stef - plays 3 Copper, 1 Gold
+Stef - plays Quarry
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - shuffles deck
+Stef - draws Estate, Menagerie, Black Market, Menagerie, Estate
+ 
+------------ Game Over ------------
+Stef - cards: 7 Menagerie, 7 Market, 1 Black Market, 1 Wharf, 1 Mountebank, 1 Salvager, 1 Haven, 3 Copper, 10 Estate, 1 Gold, 1 Quarry, 1 Tunnel
+Stef - victory point chips: 0
+Stef - total victory points: 12
+Stef - turns: 16
+ 
+yed - cards: 3 Menagerie, 3 Market, 2 Wharf, 1 Salvager, 1 Band of Misfits, 1 Black Market, 1 Farming Village, 8 Copper, 3 Silver, 1 Quarry, 2 Estate, 1 Province, 1 Curse
+yed - victory point chips: 0
+yed - total victory points: 7
+yed - turns: 15
+ 
+1st place: Stef
+2nd place: yed
+ 

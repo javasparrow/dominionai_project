@@ -1,0 +1,361 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Loan, Oracle, Scheme, Talisman, Wandering Minstrel, Count, Jester, Merchant Guild, Outpost, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn  - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn  - shuffles deck
+Stef - shuffles deck
+silverspawn  - draws Copper, Estate, Copper, Estate, Copper
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- silverspawn : turn 1 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Oracle
+silverspawn  - gains Oracle
+silverspawn  - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Talisman
+Stef - gains Talisman
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- silverspawn : turn 2 ----------
+silverspawn  - plays 4 Copper
+silverspawn  - buys Silver
+silverspawn  - gains Silver
+silverspawn  - shuffles deck
+silverspawn  - draws Estate, Copper, Silver, Copper, Oracle
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - shuffles deck
+Stef - draws Estate, Oracle, Copper, Talisman, Copper
+ 
+---------- silverspawn : turn 3 ----------
+silverspawn  - plays Oracle
+silverspawn  - reveals: Copper, Estate
+silverspawn  - discards: Copper, Estate
+Stef - reveals: Copper, Estate
+Stef - places Estate on top of deck
+Stef - places Copper on top of deck
+silverspawn  - draws Copper, Copper
+silverspawn  - plays 4 Copper, 1 Silver
+silverspawn  - buys Stonemason
+silverspawn  - overpays for Stonemason with 4 coins
+silverspawn  - gains Wandering Minstrel
+silverspawn  - gains Wandering Minstrel
+silverspawn  - gains Stonemason
+silverspawn  - draws Copper, Estate, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Wandering Minstrel, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Oracle
+Stef - reveals: Copper, Estate
+Stef - discards: Copper, Estate
+silverspawn  - reveals: Copper, Silver
+silverspawn  - discards: Copper, Silver
+Stef - draws Copper, Copper
+Stef - plays 4 Copper
+Stef - plays Talisman
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper
+ 
+---------- silverspawn : turn 4 ----------
+silverspawn  - plays Wandering Minstrel
+silverspawn  - draws Copper
+silverspawn  - reveals: Oracle, Wandering Minstrel, Stonemason
+silverspawn  - places Wandering Minstrel on top of deck
+silverspawn  - places Oracle on top of deck
+silverspawn  - places Stonemason on top of deck
+silverspawn  - plays 4 Copper
+silverspawn  - buys Wandering Minstrel
+silverspawn  - gains Wandering Minstrel
+silverspawn  - draws Stonemason, Oracle, Wandering Minstrel, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Talisman
+Stef - reveals: Estate, Copper, Oracle
+Stef - places Oracle on top of deck
+Stef - discards: Estate, Copper
+Stef - plays 3 Copper
+Stef - plays Talisman
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Oracle, Copper, Estate, Copper, Wandering Minstrel
+ 
+---------- silverspawn : turn 5 ----------
+silverspawn  - plays Wandering Minstrel
+silverspawn  - draws Estate
+silverspawn  - reveals: Estate
+silverspawn  - shuffles deck
+silverspawn  - reveals: Silver, Wandering Minstrel
+silverspawn  - places Wandering Minstrel on top of deck
+silverspawn  - discards: Estate, Silver
+silverspawn  - plays Oracle
+silverspawn  - reveals: Wandering Minstrel, Estate
+silverspawn  - discards: Wandering Minstrel, Estate
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Estate on top of deck
+Stef - places Copper on top of deck
+silverspawn  - draws Copper, Wandering Minstrel
+silverspawn  - plays Wandering Minstrel
+silverspawn  - draws Copper
+silverspawn  - reveals: Copper, Copper, Copper
+silverspawn  - discards: Copper, Copper, Copper
+silverspawn  - plays Stonemason
+silverspawn  - trashes Copper
+silverspawn  - plays 3 Copper
+silverspawn  - buys Oracle
+silverspawn  - gains Oracle
+silverspawn  - shuffles deck
+silverspawn  - draws Copper, Stonemason, Estate, Wandering Minstrel, Oracle
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Copper, Talisman
+Stef - discards: Estate, Copper, Talisman
+Stef - plays Oracle
+Stef - reveals: Estate, Copper
+Stef - discards: Estate, Copper
+silverspawn  - reveals: Copper, Oracle
+silverspawn  - discards: Copper, Oracle
+Stef - draws Copper, Copper
+Stef - plays 5 Copper
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 3 coins
+Stef - gains Oracle
+Stef - gains Oracle
+Stef - gains Stonemason
+Stef - draws Wandering Minstrel, Wandering Minstrel, Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Estate, Copper
+ 
+---------- silverspawn : turn 6 ----------
+silverspawn  - plays Wandering Minstrel
+silverspawn  - draws Wandering Minstrel
+silverspawn  - reveals: Copper, Copper, Copper
+silverspawn  - discards: Copper, Copper, Copper
+silverspawn  - plays Wandering Minstrel
+silverspawn  - draws Copper
+silverspawn  - reveals: Estate, Wandering Minstrel, Estate
+silverspawn  - places Wandering Minstrel on top of deck
+silverspawn  - discards: Estate, Estate
+silverspawn  - plays Oracle
+silverspawn  - reveals: Wandering Minstrel, Silver
+silverspawn  - places Silver on top of deck
+silverspawn  - places Wandering Minstrel on top of deck
+Stef - reveals: Wandering Minstrel, Copper
+Stef - discards: Wandering Minstrel, Copper
+silverspawn  - draws Wandering Minstrel, Silver
+silverspawn  - plays Wandering Minstrel
+silverspawn  - shuffles deck
+silverspawn  - draws Oracle
+silverspawn  - reveals: Copper, Estate, Copper
+silverspawn  - discards: Copper, Estate, Copper
+silverspawn  - plays Oracle
+silverspawn  - reveals: Copper, Copper
+silverspawn  - places Copper on top of deck
+silverspawn  - places Copper on top of deck
+Stef - reveals: Oracle, Copper
+Stef - discards: Oracle, Copper
+silverspawn  - draws Copper, Copper
+silverspawn  - plays 4 Copper, 1 Silver
+silverspawn  - buys Stonemason
+silverspawn  - overpays for Stonemason with 4 coins
+silverspawn  - gains Wandering Minstrel
+silverspawn  - gains Wandering Minstrel
+silverspawn  - gains Stonemason
+silverspawn  - draws Estate
+silverspawn  - shuffles deck
+silverspawn  - draws Silver, Copper, Oracle, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Oracle
+Stef - reveals: Stonemason, Oracle, Estate
+Stef - places Stonemason on top of deck
+Stef - places Oracle on top of deck
+Stef - discards Estate
+Stef - plays Wandering Minstrel
+Stef - draws Oracle
+Stef - reveals: Stonemason, Copper, Copper
+Stef - places Stonemason on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Oracle
+Stef - reveals: Stonemason, Copper
+Stef - discards: Stonemason, Copper
+silverspawn  - reveals: Copper, Wandering Minstrel
+silverspawn  - discards: Copper, Wandering Minstrel
+Stef - draws Copper, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Talisman
+Stef - shuffles deck
+Stef - reveals: Copper, Stonemason, Oracle
+Stef - places Stonemason on top of deck
+Stef - places Oracle on top of deck
+Stef - discards Copper
+Stef - plays Oracle
+Stef - reveals: Oracle, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Oracle on top of deck
+silverspawn  - reveals: Copper, Wandering Minstrel
+silverspawn  - discards: Copper, Wandering Minstrel
+Stef - draws Oracle, Stonemason
+Stef - plays Oracle
+Stef - reveals: Wandering Minstrel, Copper
+Stef - places Copper on top of deck
+Stef - places Wandering Minstrel on top of deck
+silverspawn  - reveals: Wandering Minstrel, Stonemason
+silverspawn  - discards: Wandering Minstrel, Stonemason
+Stef - draws Wandering Minstrel, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Estate, Copper, Copper
+Stef - discards: Estate, Copper, Copper
+Stef - plays Stonemason
+Stef - trashes Talisman
+Stef - gains Scheme
+Stef - gains Scheme
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Estate, Scheme, Oracle, Copper
+ 
+---------- silverspawn : turn 7 ----------
+silverspawn  - plays Oracle
+silverspawn  - reveals: Oracle, Wandering Minstrel
+silverspawn  - discards: Oracle, Wandering Minstrel
+Stef - reveals: Copper, Wandering Minstrel
+Stef - discards: Copper, Wandering Minstrel
+silverspawn  - draws Wandering Minstrel, Stonemason
+silverspawn  - plays 1 Silver, 1 Copper
+silverspawn  - buys Scheme
+silverspawn  - gains Scheme
+silverspawn  - draws Copper, Copper, Estate, Copper
+silverspawn  - shuffles deck
+silverspawn  - draws Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Oracle
+Stef - reveals: Stonemason, Copper, Estate
+Stef - places Stonemason on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Oracle
+Stef - reveals: Stonemason, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Stonemason on top of deck
+silverspawn  - reveals: Copper, Wandering Minstrel
+silverspawn  - discards: Copper, Wandering Minstrel
+Stef - draws Stonemason, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Scheme, Estate
+Stef - places Scheme on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Scheme
+Stef - draws Scheme
+Stef - plays Oracle
+Stef - reveals: Copper, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Copper on top of deck
+silverspawn  - reveals: Wandering Minstrel, Estate
+silverspawn  - discards: Wandering Minstrel, Estate
+Stef - draws Copper, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Oracle
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - places Oracle on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Estate
+Stef - plays Scheme
+Stef - draws Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Oracle
+Stef - reveals: Copper, Estate, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Copper, Estate
+Stef - plays Oracle
+Stef - reveals: Wandering Minstrel, Copper
+Stef - places Copper on top of deck
+Stef - places Wandering Minstrel on top of deck
+silverspawn  - reveals: Copper, Wandering Minstrel
+silverspawn  - discards: Copper, Wandering Minstrel
+Stef - draws Wandering Minstrel, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Estate, Copper, Estate
+Stef - discards: Estate, Copper, Estate
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 5 Copper
+Stef - buys Outpost
+Stef - gains Outpost
+Stef - Scheme choice: Wandering Minstrel
+Stef - Scheme choice: Wandering Minstrel
+Stef - draws Wandering Minstrel, Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Oracle, Copper, Oracle
+ 
+---------- silverspawn : turn 8 ----------
+silverspawn  - plays 3 Copper
+silverspawn  - buys Scheme
+silverspawn  - gains Scheme
+silverspawn  - draws Scheme, Copper, Oracle, Stonemason, Wandering Minstrel
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Oracle
+Stef - reveals: Copper, Stonemason, Outpost
+Stef - places Stonemason on top of deck
+Stef - places Outpost on top of deck
+Stef - discards Copper
+Stef - plays Oracle
+Stef - reveals: Outpost, Stonemason
+Stef - places Stonemason on top of deck
+Stef - places Outpost on top of deck
+silverspawn  - reveals: Oracle, Wandering Minstrel
+silverspawn  - discards: Oracle, Wandering Minstrel
+Stef - draws Outpost, Stonemason
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Estate, Scheme
+Stef - places Scheme on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Estate
+Stef - plays Oracle
+Stef - reveals: Wandering Minstrel, Scheme
+Stef - places Scheme on top of deck
+Stef - places Wandering Minstrel on top of deck
+silverspawn  - reveals: Silver, Stonemason
+ 
+------------ Game Over ------------
+Stef - cards: 3 Wandering Minstrel, 2 Scheme, 1 Oracle, 1 Outpost, 1 Stonemason, 6 Copper, 3 Estate
+Stef - total victory points: 3
+Stef - turns: 7
+ 
+silverspawn  - resigned
+silverspawn  - cards: 5 Wandering Minstrel, 2 Scheme, 2 Oracle, 1 Stonemason, 6 Copper, 3 Estate
+silverspawn  - total victory points: 3
+silverspawn  - turns: 8
+ 
+1st place: Stef
+2nd place: silverspawn 
+ 

@@ -1,0 +1,441 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, University, Wishing Well, Farming Village, JackOfAllTrades, Mining Village, Council Room, Counterfeit, Festival, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 4 Copper
+Rabid - buys JackOfAllTrades
+Rabid - gains JackOfAllTrades
+Rabid - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Wishing Well, Copper, Estate, Estate, Potion
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, JackOfAllTrades, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - shuffles deck
+Stef - draws Estate, University, Copper, Copper, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays JackOfAllTrades
+Rabid - gains Silver
+Rabid - discards Copper
+Rabid - trashes Estate
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Counterfeit
+Rabid - gains Counterfeit
+Rabid - shuffles deck
+Rabid - draws JackOfAllTrades, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays University
+Stef - gains Council Room
+Stef - plays 3 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Estate, Potion, Wishing Well, Counterfeit
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays JackOfAllTrades
+Rabid - gains Silver
+Rabid - places Counterfeit on top of deck
+Rabid - plays Counterfeit
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - trashes Copper
+Rabid - plays 3 Copper
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Silver, Estate, Estate, Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Wishing Well, Vagrant
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - draws Silver, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Council Room, Counterfeit
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Copper
+Stef - reveals Counterfeit
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - draws Copper, Copper, Estate, Potion, Wishing Well
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Council Room
+Rabid - draws Copper, JackOfAllTrades, Silver, Copper
+Stef - draws University
+Rabid - plays Counterfeit
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - trashes Copper
+Rabid - plays 3 Copper, 2 Silver
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - buys Council Room
+Rabid - gains Council Room
+Rabid - draws Copper, Copper, Silver, Festival, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wishing Well
+Stef - draws University
+Stef - names Council Room
+Stef - reveals Copper
+Stef - plays University
+Stef - gains Farming Village
+Stef - plays University
+Stef - gains JackOfAllTrades
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Council Room
+Stef - shuffles deck
+Stef - draws Copper, JackOfAllTrades, Wishing Well
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Festival
+Rabid - plays 2 Copper, 2 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Estate, Estate
+Rabid - shuffles deck
+Rabid - draws Festival, Copper, Counterfeit
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wishing Well
+Stef - draws University
+Stef - names Copper
+Stef - reveals Estate
+Stef - plays University
+Stef - gains Farming Village
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Estate
+Stef - plays Farming Village
+Stef - reveals Estate, Vagrant
+Stef - places Vagrant in hand
+Stef - discards Estate
+Stef - plays Council Room
+Stef - draws Vagrant, Wishing Well, Potion, University
+Rabid - draws Silver
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays Wishing Well
+Stef - draws Counterfeit
+Stef - names Estate
+Stef - reveals Copper
+Stef - plays University
+Stef - gains Farming Village
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Potion, Possession, Estate
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Festival
+Rabid - plays Counterfeit
+Rabid - plays Silver
+Rabid - plays Silver
+Rabid - trashes Silver
+Rabid - plays Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Silver, Province, Copper, Festival, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Possession
+Stef - draws JackOfAllTrades, Vagrant, Farming Village, Council Room, Counterfeit
+ 
+---------- Rabid: turn 10 [possessed] ----------
+Rabid - plays Festival
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Council Room
+Stef - gains Council Room
+Rabid - draws Council Room, Silver, JackOfAllTrades, Silver, Copper
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Council Room
+Rabid - draws Copper, Council Room
+Rabid - shuffles deck
+Rabid - draws Festival, Copper
+Stef - draws Farming Village
+Rabid - plays 3 Copper, 2 Silver
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - buys Vagrant
+Rabid - gains Vagrant
+Rabid - draws Counterfeit, Province, Province, Estate, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Farming Village
+Stef - reveals Vagrant
+Stef - places Vagrant in hand
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals University
+Stef - places University in hand
+Stef - plays Vagrant
+Stef - draws Wishing Well
+Stef - reveals: Wishing Well
+Stef - places Wishing Well on top of deck
+Stef - plays Vagrant
+Stef - draws Wishing Well
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Council Room
+Stef - draws Copper, Silver, Vagrant, Copper
+Rabid - draws Festival
+Stef - plays Wishing Well
+Stef - draws Estate
+Stef - names University
+Stef - reveals Counterfeit
+Stef - plays Wishing Well
+Stef - draws Counterfeit
+Stef - names University
+Stef - reveals University
+Stef - places University in hand
+Stef - plays University
+Stef - gains Farming Village
+Stef - plays University
+Stef - gains Council Room
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - shuffles deck
+Stef - places Council Room on top of deck
+Stef - trashes Estate
+Stef - plays Vagrant
+Stef - draws Council Room
+Stef - reveals: Estate
+Stef - places Estate in hand
+Stef - plays Council Room
+Stef - draws Farming Village, Estate, Copper, Possession
+Rabid - draws Estate
+Stef - plays Farming Village
+Stef - reveals Potion
+Stef - places Potion in hand
+Stef - plays Possession
+Stef - plays Counterfeit
+Stef - plays Silver
+Stef - plays Silver
+Stef - trashes Silver
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Council Room, Silver
+Stef - shuffles deck
+Stef - draws Farming Village, Council Room, Vagrant
+ 
+---------- Rabid: turn 11 [possessed] ----------
+Rabid - plays Festival
+Rabid - plays Counterfeit
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - trashes Copper
+Rabid - buys Festival
+Stef - gains Festival
+Rabid - draws Copper, Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Counterfeit, Duchy
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Counterfeit
+Rabid - plays Silver
+Rabid - plays Silver
+Rabid - trashes Silver
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - draws JackOfAllTrades, Silver, Copper, Festival, Council Room
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Farming Village
+Stef - reveals Possession
+Stef - places Possession in hand
+Stef - plays Council Room
+Stef - draws Estate, Estate, Copper, University
+Rabid - draws Province
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Farming Village
+Stef - places Farming Village on top of deck
+Stef - plays University
+Stef - gains Mining Village
+Stef - plays Council Room
+Stef - draws Farming Village, Vagrant, Farming Village, University
+Rabid - draws Council Room
+Stef - plays Farming Village
+Stef - reveals Council Room
+Stef - places Council Room in hand
+Stef - plays Farming Village
+Stef - reveals Farming Village
+Stef - places Farming Village in hand
+Stef - plays Farming Village
+Stef - reveals Possession
+Stef - places Possession in hand
+Stef - plays Council Room
+Stef - draws Wishing Well, Farming Village, Copper, JackOfAllTrades
+Rabid - draws Estate
+Stef - plays Farming Village
+Stef - reveals Counterfeit
+Stef - places Counterfeit in hand
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Wishing Well
+Stef - places Wishing Well on top of deck
+Stef - plays Vagrant
+Stef - draws Wishing Well
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Potion
+Stef - trashes Estate
+Stef - plays University
+Stef - gains Council Room
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Festival
+Stef - names Potion
+Stef - reveals Silver
+Stef - plays Wishing Well
+Stef - draws Silver
+Stef - names Council Room
+Stef - reveals Potion
+Stef - plays Festival
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Potion, Mining Village, Council Room
+Stef - shuffles deck
+Stef - draws Silver, Silver
+ 
+---------- Rabid: turn 12 [possessed] ----------
+Rabid - plays Festival
+ 
+------------ Game Over ------------
+Stef - cards: 6 Farming Village, 4 Council Room, 3 Vagrant, 2 University, 2 Possession, 2 Wishing Well, 1 Mining Village, 1 JackOfAllTrades, 1 Festival, 2 Silver, 2 Counterfeit, 1 Potion, 1 Estate, 1 Province
+Stef - total victory points: 7
+Stef - turns: 12
+ 
+Rabid - resigned
+Rabid - cards: 2 Council Room, 1 JackOfAllTrades, 1 Festival, 1 Vagrant, 5 Copper, 2 Silver, 1 Counterfeit, 3 Estate, 2 Province, 2 Duchy
+Rabid - total victory points: 21
+Rabid - turns: 11
+ 
+1st place: Stef
+2nd place: Rabid
+ 

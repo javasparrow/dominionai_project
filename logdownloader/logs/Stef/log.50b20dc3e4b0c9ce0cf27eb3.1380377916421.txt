@@ -1,0 +1,284 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Native Village, Menagerie, Farming Village, Cartographer, Count, Duke, Ill-Gotten Gains, Mystic, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+flies - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - shuffles deck
+flies - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Lighthouse, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Count
+flies - gains Count
+flies - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Farming Village
+Stef - gains Farming Village
+Stef - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Silver
+flies - shuffles deck
+flies - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Lighthouse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Farming Village, Copper, Estate
+ 
+---------- flies: turn 5 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Ill-Gotten Gains
+flies - gains Ill-Gotten Gains
+Stef - gains Curse
+flies - draws Estate, Silver, Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Farming Village
+Stef - reveals Estate, Copper
+Stef - places Copper in hand
+Stef - discards Estate
+Stef - plays 4 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Copper, Lighthouse, Copper, Copper, Estate
+ 
+---------- flies: turn 6 ----------
+flies - plays 2 Silver, 2 Copper
+flies - buys Count
+flies - gains Count
+flies - draws Copper, Estate, Copper, Count
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Menagerie
+Stef - gains Menagerie
+Stef - draws Silver, Count
+Stef - shuffles deck
+Stef - draws Estate, Menagerie, Curse
+ 
+---------- flies: turn 7 ----------
+flies - plays Count
+flies - gains Copper
+flies - gains Duchy
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Estate, Estate, Count, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Silver, Count, Estate, Curse
+Stef - draws Copper, Estate, Farming Village
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Count
+Stef - places Silver on top of deck
+Stef - trashes Copper, Estate, Estate, Curse, Copper
+Stef - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- flies: turn 8 ----------
+flies - plays Count
+flies - gains Copper
+flies - gains Duchy
+flies - plays 1 Copper, 1 Silver
+flies - buys Silver
+flies - gains Silver
+flies - draws Silver, Copper, Copper, Ill-Gotten Gains, Silver
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Copper, Menagerie, Estate
+Stef - shuffles deck
+Stef - draws Farming Village, Silver
+ 
+---------- flies: turn 9 ----------
+flies - plays Ill-Gotten Gains
+flies - gains Copper
+flies - plays 3 Copper, 2 Silver
+flies - buys Ill-Gotten Gains
+flies - gains Ill-Gotten Gains
+Stef - gains Curse
+flies - draws Copper
+flies - shuffles deck
+flies - draws Copper, Estate, Copper, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Estate, Farming Village, Silver
+Stef - draws Lighthouse, Copper, Copper
+Stef - plays Farming Village
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Lighthouse
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Count
+Stef - gains Count
+Stef - draws Copper, Menagerie, Count, Cartographer
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- flies: turn 10 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Ill-Gotten Gains
+flies - gains Ill-Gotten Gains
+Stef - gains Curse
+flies - draws Duchy, Count, Copper, Ill-Gotten Gains, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Count, Cartographer, Estate
+Stef - draws Farming Village, Copper, Curse
+Stef - plays Cartographer
+Stef - draws Copper
+Stef - looks at Copper, Count, Copper, Menagerie
+Stef - discards Copper
+Stef - discards Copper
+Stef - places Menagerie on top of deck
+Stef - places Count on top of deck
+Stef - plays Farming Village
+Stef - reveals Count
+Stef - places Count in hand
+Stef - plays Count
+Stef - places Count on top of deck
+Stef - trashes Copper, Curse, Copper, Estate, Copper
+Stef - draws Count, Menagerie, Silver
+Stef - shuffles deck
+Stef - draws Curse, Copper
+ 
+---------- flies: turn 11 ----------
+flies - plays Count
+flies - gains Copper
+flies - gains Duchy
+flies - plays Ill-Gotten Gains
+flies - gains Copper
+flies - plays 2 Copper, 1 Silver
+flies - buys Duke
+flies - gains Duke
+flies - draws Copper, Ill-Gotten Gains, Estate, Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Menagerie
+Stef - reveals hand: Count, Silver, Curse, Copper
+Stef - draws Lighthouse, Copper, Farming Village
+Stef - plays Farming Village
+Stef - reveals Cartographer
+Stef - places Cartographer in hand
+Stef - plays Cartographer
+Stef - draws Count
+Stef - looks at Menagerie
+Stef - places Menagerie on top of deck
+Stef - plays Lighthouse
+Stef - plays Count
+Stef - places Curse on top of deck
+Stef - gains Duchy
+Stef - plays Count
+Stef - gains Copper
+Stef - gains Duchy
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Curse, Menagerie
+Stef - shuffles deck
+Stef - draws Duchy, Menagerie, Farming Village
+ 
+---------- flies: turn 12 ----------
+flies - plays Ill-Gotten Gains
+flies - gains Copper
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Silver, Count, Copper, Copper, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Lighthouse
+Stef - plays Menagerie
+Stef - reveals hand: Curse, Menagerie, Duchy, Farming Village
+Stef - draws Copper, Count, Count
+Stef - plays Farming Village
+Stef - reveals Cartographer
+Stef - places Cartographer in hand
+Stef - plays Cartographer
+Stef - draws Silver
+Stef - looks at Copper, Copper, Duchy, Duchy
+Stef - discards Duchy
+Stef - discards Duchy
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - plays Count
+Stef - places Duchy on top of deck
+Stef - gains Duchy
+Stef - plays Menagerie
+Stef - reveals hand: Copper, Count, Curse, Silver
+Stef - draws Duchy, Copper, Copper
+Stef - plays Count
+Stef - discards Curse
+Stef - discards Duchy
+Stef - gains Duchy
+Stef - plays Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - shuffles deck
+Stef - draws Duchy, Copper, Duchy, Native Village, Lighthouse
+ 
+---------- flies: turn 13 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 2 Count, 2 Menagerie, 1 Native Village, 1 Lighthouse, 1 Farming Village, 1 Cartographer, 3 Copper, 1 Silver, 5 Duchy, 1 Curse
+Stef - total victory points: 14
+Stef - turns: 12
+ 
+flies - resigned
+flies - cards: 2 Count, 13 Copper, 6 Silver, 3 Ill-Gotten Gains, 3 Duchy, 3 Estate, 1 Duke
+flies - total victory points: 15
+flies - turns: 12
+ 
+1st place: Stef
+2nd place: flies
+ 

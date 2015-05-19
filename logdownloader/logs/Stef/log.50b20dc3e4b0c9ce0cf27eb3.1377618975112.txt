@@ -1,0 +1,429 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Moat, Loan, Wishing Well, Monument, Remodel, Silk Road, Treasure Map, Mint, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+todo_boss - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+todo_boss - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+todo_boss - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- todo_boss: turn 1 ----------
+todo_boss - plays 4 Copper
+todo_boss - buys Monument
+todo_boss - gains Monument
+todo_boss - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Mint
+Stef - trashes Copper, Copper, Copper, Copper, Copper
+Stef - gains Mint
+Stef - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- todo_boss: turn 2 ----------
+todo_boss - plays 3 Copper
+todo_boss - buys Fool's Gold
+todo_boss - gains Fool's Gold
+todo_boss - shuffles deck
+todo_boss - draws Copper, Estate, Fool's Gold, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Fool's Gold
+Stef - gains Fool's Gold
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate, Estate, Mint
+ 
+---------- todo_boss: turn 3 ----------
+todo_boss - plays 3 Copper, 1 Fool's Gold
+todo_boss - buys Fool's Gold
+todo_boss - gains Fool's Gold
+todo_boss - draws Copper, Copper, Copper, Estate, Monument
+ 
+---------- Stef: turn 3 ----------
+Stef - draws Fool's Gold, Copper
+Stef - shuffles deck
+Stef - draws Estate, Estate, Mint
+ 
+---------- todo_boss: turn 4 ----------
+todo_boss - plays Monument
+todo_boss - receives 1 victory point chips
+todo_boss - plays 3 Copper
+todo_boss - buys Mint
+todo_boss - trashes Copper, Copper, Copper
+todo_boss - gains Mint
+todo_boss - draws Copper, Estate
+todo_boss - shuffles deck
+todo_boss - draws Fool's Gold, Monument, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Mint
+Stef - reveals Fool's Gold
+Stef - gains Fool's Gold
+Stef - plays Fool's Gold
+Stef - plays Copper
+Stef - buys Fool's Gold
+Stef - gains Fool's Gold
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Fool's Gold, Mint
+ 
+---------- todo_boss: turn 5 ----------
+todo_boss - plays Monument
+todo_boss - receives 1 victory point chips
+todo_boss - plays 1 Copper, 1 Fool's Gold
+todo_boss - buys Fool's Gold
+todo_boss - gains Fool's Gold
+todo_boss - draws Estate, Copper, Fool's Gold, Copper, Mint
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mint
+Stef - reveals Fool's Gold
+Stef - gains Fool's Gold
+Stef - plays Fool's Gold
+Stef - plays Copper
+Stef - buys Fool's Gold
+Stef - gains Fool's Gold
+Stef - draws Estate, Fool's Gold, Fool's Gold, Estate
+Stef - shuffles deck
+Stef - draws Fool's Gold
+ 
+---------- todo_boss: turn 6 ----------
+todo_boss - plays Mint
+todo_boss - reveals Fool's Gold
+todo_boss - gains Fool's Gold
+todo_boss - plays 2 Copper, 1 Fool's Gold
+todo_boss - buys Fool's Gold
+todo_boss - gains Fool's Gold
+todo_boss - draws Copper
+todo_boss - shuffles deck
+todo_boss - draws Copper, Fool's Gold, Fool's Gold, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Fool's Gold
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Copper, Fool's Gold, Estate, Fool's Gold, Mint
+ 
+---------- todo_boss: turn 7 ----------
+todo_boss - plays 3 Copper, 2 Fool's Gold
+todo_boss - buys Expand
+todo_boss - gains Expand
+todo_boss - draws Fool's Gold, Copper, Estate, Mint, Monument
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Fool's Gold, 1 Copper
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Fool's Gold, Fool's Gold, Remodel, Estate
+ 
+---------- todo_boss: turn 8 ----------
+todo_boss - plays Monument
+todo_boss - receives 1 victory point chips
+todo_boss - plays 1 Fool's Gold, 1 Copper
+todo_boss - buys Remodel
+todo_boss - gains Remodel
+todo_boss - draws Fool's Gold, Estate, Fool's Gold, Estate
+todo_boss - shuffles deck
+todo_boss - draws Fool's Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - plays 2 Fool's Gold, 1 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Fool's Gold, Estate, Fool's Gold, Copper, Mint
+ 
+---------- todo_boss: turn 9 ----------
+todo_boss - plays 3 Fool's Gold
+todo_boss - buys Platinum
+todo_boss - gains Platinum
+todo_boss - draws Estate, Fool's Gold, Expand, Monument, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Fool's Gold, 1 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Platinum, Fool's Gold, Estate
+Stef - shuffles deck
+Stef - draws Fool's Gold, Fool's Gold
+ 
+---------- todo_boss: turn 10 ----------
+todo_boss - plays Expand
+todo_boss - trashes Estate
+todo_boss - gains Duchy
+todo_boss - plays 1 Fool's Gold, 1 Copper
+todo_boss - buys Moat
+todo_boss - gains Moat
+todo_boss - draws Copper, Copper, Fool's Gold, Copper, Mint
+ 
+---------- Stef: turn 10 ----------
+Stef - plays 3 Fool's Gold, 1 Platinum
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Remodel, Fool's Gold, Wishing Well, Mint, Fool's Gold
+ 
+---------- todo_boss: turn 11 ----------
+todo_boss - plays 3 Copper, 1 Fool's Gold
+todo_boss - buys Remodel
+todo_boss - gains Remodel
+todo_boss - draws Remodel
+todo_boss - shuffles deck
+todo_boss - draws Copper, Expand, Copper, Remodel
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Wishing Well
+Stef - reveals Copper
+Stef - plays 2 Fool's Gold, 1 Copper
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Copper, Estate, Wishing Well, Wishing Well
+Stef - shuffles deck
+Stef - draws Fool's Gold
+ 
+---------- todo_boss: turn 12 ----------
+todo_boss - plays Expand
+todo_boss - trashes Remodel
+todo_boss - gains Expand
+todo_boss - draws Mint, Copper, Moat, Fool's Gold, Fool's Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Wishing Well
+Stef - reveals Fool's Gold
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Wishing Well
+Stef - reveals Estate
+Stef - plays 3 Fool's Gold, 1 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Estate, Platinum, Remodel, Copper, Fool's Gold
+ 
+---------- todo_boss: turn 13 ----------
+todo_boss - plays Moat
+todo_boss - draws Estate, Monument
+todo_boss - plays 2 Fool's Gold, 1 Copper
+todo_boss - buys Gold
+todo_boss - gains Gold
+todo_boss - draws Fool's Gold, Copper, Fool's Gold, Duchy, Fool's Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Remodel
+Stef - trashes Estate
+Stef - gains Wishing Well
+Stef - plays 1 Platinum, 1 Copper, 1 Fool's Gold
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Fool's Gold, Platinum, Wishing Well, Mint, Wishing Well
+ 
+---------- todo_boss: turn 14 ----------
+todo_boss - plays 3 Fool's Gold, 1 Copper
+todo_boss - buys Platinum
+todo_boss - gains Platinum
+todo_boss - draws Estate, Platinum
+todo_boss - shuffles deck
+todo_boss - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wishing Well
+Stef - shuffles deck
+Stef - draws Fool's Gold
+Stef - names Copper
+Stef - reveals Platinum
+Stef - plays Wishing Well
+Stef - draws Platinum
+Stef - names Copper
+Stef - reveals Fool's Gold
+Stef - plays Mint
+Stef - reveals Platinum
+Stef - gains Platinum
+Stef - plays 2 Fool's Gold, 2 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Fool's Gold, Copper, Wishing Well, Estate, Fool's Gold
+ 
+---------- todo_boss: turn 15 ----------
+todo_boss - plays 2 Copper, 1 Platinum
+todo_boss - buys Expand
+todo_boss - gains Expand
+todo_boss - draws Fool's Gold, Copper, Fool's Gold, Mint, Fool's Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Wishing Well
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Copper
+Stef - reveals Fool's Gold
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Remodel
+Stef - reveals Copper
+Stef - plays 3 Fool's Gold, 1 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Copper, Remodel, Platinum, Wishing Well
+Stef - shuffles deck
+Stef - draws Fool's Gold
+ 
+---------- todo_boss: turn 16 ----------
+todo_boss - plays 3 Fool's Gold, 1 Copper
+todo_boss - buys Platinum
+todo_boss - gains Platinum
+todo_boss - draws Remodel, Gold, Copper, Monument, Fool's Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Wishing Well
+Stef - reveals Platinum
+Stef - plays 2 Fool's Gold, 1 Copper, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Platinum, Wishing Well, Estate, Wishing Well, Fool's Gold
+ 
+---------- todo_boss: turn 17 ----------
+todo_boss - plays Monument
+todo_boss - receives 1 victory point chips
+todo_boss - plays 1 Gold, 1 Copper, 1 Fool's Gold
+todo_boss - buys Expand
+todo_boss - gains Expand
+todo_boss - draws Moat, Expand, Expand, Fool's Gold, Duchy
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Mint
+Stef - names Wishing Well
+Stef - reveals Platinum
+Stef - plays Wishing Well
+Stef - draws Platinum
+Stef - names Copper
+Stef - reveals Colony
+Stef - plays Mint
+Stef - reveals Platinum
+Stef - gains Platinum
+Stef - plays 2 Platinum, 2 Fool's Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Colony, Platinum, Copper, Wishing Well, Platinum
+ 
+---------- todo_boss: turn 18 ----------
+todo_boss - plays Expand
+todo_boss - trashes Duchy
+todo_boss - gains Province
+todo_boss - draws Platinum
+todo_boss - shuffles deck
+todo_boss - draws Fool's Gold, Copper, Fool's Gold, Estate
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Remodel
+Stef - reveals Wishing Well
+Stef - plays 2 Platinum, 1 Copper, 1 Fool's Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Wishing Well
+Stef - shuffles deck
+Stef - draws Mint, Colony, Platinum, Colony
+ 
+---------- todo_boss: turn 19 ----------
+todo_boss - plays 2 Fool's Gold, 1 Platinum, 1 Copper
+todo_boss - buys Colony
+todo_boss - gains Colony
+todo_boss - draws Platinum, Fool's Gold, Fool's Gold, Fool's Gold, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Wishing Well
+Stef - draws Wishing Well
+Stef - names Wishing Well
+Stef - reveals Wishing Well
+Stef - places Wishing Well in hand
+Stef - plays Wishing Well
+Stef - draws Fool's Gold
+Stef - names Colony
+Stef - reveals Colony
+Stef - places Colony in hand
+Stef - plays Wishing Well
+Stef - draws Copper
+Stef - names Fool's Gold
+Stef - reveals Platinum
+Stef - plays Mint
+Stef - reveals Platinum
+Stef - gains Platinum
+Stef - plays 1 Fool's Gold, 1 Copper, 1 Platinum
+Stef - buys Wishing Well
+Stef - gains Wishing Well
+Stef - draws Platinum, Fool's Gold, Fool's Gold, Copper, Platinum
+ 
+---------- todo_boss: turn 20 ----------
+todo_boss - plays 3 Fool's Gold, 1 Platinum
+todo_boss - buys Colony
+todo_boss - gains Colony
+todo_boss - draws Remodel, Expand, Platinum, Copper, Expand
+ 
+---------- Stef: turn 20 ----------
+Stef - plays 2 Platinum, 2 Fool's Gold, 1 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Wishing Well, Wishing Well, Wishing Well, Estate, Fool's Gold
+ 
+---------- todo_boss: turn 21 ----------
+todo_boss - plays Expand
+todo_boss - trashes Expand
+todo_boss - gains Province
+todo_boss - plays 1 Platinum, 1 Copper
+todo_boss - buys Duchy
+todo_boss - gains Duchy
+todo_boss - draws Expand, Monument, Copper, Province, Expand
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Wishing Well
+Stef - draws Platinum
+Stef - names Copper
+Stef - reveals Remodel
+Stef - plays Wishing Well
+Stef - draws Remodel
+Stef - names Copper
+Stef - reveals Colony
+Stef - plays Wishing Well
+Stef - draws Colony
+Stef - names Platinum
+Stef - reveals Fool's Gold
+Stef - plays Remodel
+Stef - trashes Platinum
+Stef - gains Colony
+Stef - draws Fool's Gold, Platinum, Platinum
+Stef - shuffles deck
+Stef - draws Wishing Well, Wishing Well
+ 
+------------ Game Over ------------
+Stef - cards: 7 Wishing Well, 1 Mint, 1 Remodel, 6 Platinum, 5 Fool's Gold, 2 Copper, 6 Colony, 1 Estate
+Stef - victory point chips: 0
+Stef - total victory points: 61
+Stef - turns: 21
+ 
+todo_boss - cards: 3 Expand, 1 Monument, 1 Remodel, 1 Moat, 1 Mint, 5 Fool's Gold, 4 Copper, 3 Platinum, 1 Gold, 2 Province, 2 Colony, 2 Estate, 1 Duchy
+todo_boss - victory point chips: 4
+todo_boss - total victory points: 41
+todo_boss - turns: 21
+ 
+1st place: Stef
+2nd place: todo_boss
+ 

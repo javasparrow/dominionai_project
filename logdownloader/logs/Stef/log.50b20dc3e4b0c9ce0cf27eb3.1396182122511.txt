@@ -1,0 +1,848 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Hamlet, Lighthouse, Moat, Apothecary, Wandering Minstrel, Graverobber, Mandarin, Adventurer, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+terminalCopper - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+terminalCopper - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Potion
+terminalCopper - gains Potion
+terminalCopper - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Moat, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Hamlet
+terminalCopper - gains Hamlet
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moat
+Stef - draws Potion, Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 2 Copper
+terminalCopper - buys Hamlet
+terminalCopper - gains Hamlet
+terminalCopper - draws Hamlet, Copper, Potion, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Hamlet
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays Hamlet
+terminalCopper - draws Copper
+terminalCopper - discards Copper
+terminalCopper - receives one buy
+terminalCopper - plays 3 Copper, 1 Potion
+terminalCopper - buys Apothecary
+terminalCopper - gains Apothecary
+terminalCopper - buys Copper
+terminalCopper - gains Copper
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Copper, Hamlet, Apothecary
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Apothecary, Copper, Potion, Estate, Estate
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Estate
+terminalCopper - reveals: Copper, Copper, Potion, Hamlet
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Hamlet
+terminalCopper - discards Estate
+terminalCopper - receives one buy
+terminalCopper - plays Hamlet
+terminalCopper - draws Copper
+terminalCopper - discards Estate
+terminalCopper - receives one buy
+terminalCopper - plays 5 Copper, 1 Potion
+terminalCopper - buys Transmute
+terminalCopper - gains Transmute
+terminalCopper - buys Potion
+terminalCopper - gains Potion
+terminalCopper - draws Copper, Copper, Estate, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Potion
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Moat, Copper
+Stef - shuffles deck
+Stef - reveals: Wandering Minstrel, Hamlet
+Stef - places Moat on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Hamlet on top of deck
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Hamlet, Wandering Minstrel, Moat, Copper, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays 3 Copper, 1 Potion
+terminalCopper - buys Apothecary
+terminalCopper - gains Apothecary
+terminalCopper - draws Copper, Transmute, Copper, Hamlet, Apothecary
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - discards: Copper, Copper, Estate
+Stef - plays Moat
+Stef - draws Apothecary, Estate
+Stef - plays Apothecary
+Stef - draws Potion
+Stef - reveals: Copper, Estate, Copper, Apothecary
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Hamlet
+Stef - draws Apothecary
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Estate, Copper
+Stef - places Estate on top of deck
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Transmute
+Stef - gains Transmute
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Estate
+terminalCopper - reveals: Copper, Hamlet, Copper, Potion
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Hamlet
+terminalCopper - plays Hamlet
+terminalCopper - draws Estate
+terminalCopper - discards Estate
+terminalCopper - receives one buy
+terminalCopper - plays Transmute
+terminalCopper - trashes Estate
+terminalCopper - gains Gold
+terminalCopper - plays 4 Copper, 1 Potion
+terminalCopper - buys Apothecary
+terminalCopper - gains Apothecary
+terminalCopper - buys Hamlet
+terminalCopper - gains Hamlet
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Gold, Potion, Potion
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Hamlet
+Stef - reveals: Copper, Moat, Copper
+Stef - places Moat on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Hamlet
+Stef - draws Moat
+Stef - discards Copper
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Moat
+Stef - draws Apothecary, Copper
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Altar, Potion, Copper, Estate
+Stef - places Altar on top of deck
+Stef - places Estate on top of deck
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - draws Estate, Altar, Transmute, Apothecary
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays 2 Potion, 1 Copper, 1 Gold
+terminalCopper - buys Apothecary
+terminalCopper - gains Apothecary
+terminalCopper - draws Copper, Copper, Copper, Apothecary, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Apothecary, Estate
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Apothecary, Estate, Moat, Apothecary, Hamlet
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Apothecary
+terminalCopper - reveals: Hamlet, Hamlet, Copper, Apothecary
+terminalCopper - places Hamlet on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - places Apothecary on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Apothecary
+terminalCopper - reveals: Hamlet, Hamlet, Estate, Copper
+terminalCopper - places Estate on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Hamlet
+terminalCopper - reveals: Hamlet, Estate, Transmute, Copper
+terminalCopper - places Transmute on top of deck
+terminalCopper - places Estate on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Hamlet
+terminalCopper - discards Hamlet
+terminalCopper - receives one buy
+terminalCopper - plays 7 Copper
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Transmute, Hamlet
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Copper, Copper, Potion
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Estate
+Stef - shuffles deck
+Stef - reveals: Altar, Copper, Transmute
+Stef - places Estate on top of deck
+Stef - places Transmute on top of deck
+Stef - places Altar on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Altar
+Stef - reveals: Transmute, Estate, Copper
+Stef - places Transmute on top of deck
+Stef - discards: Estate, Copper
+Stef - plays Moat
+Stef - draws Transmute, Apothecary
+Stef - plays Hamlet
+Stef - draws Gold
+Stef - discards Copper
+Stef - receives one action
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - plays 6 Copper, 1 Potion, 1 Gold
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Apothecary, Wandering Minstrel, Transmute, Gold
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Hamlet
+terminalCopper - draws Potion
+terminalCopper - plays Transmute
+terminalCopper - trashes Estate
+terminalCopper - gains Gold
+terminalCopper - plays 2 Copper, 1 Potion
+terminalCopper - buys Apothecary
+terminalCopper - gains Apothecary
+terminalCopper - draws Gold, Gold, Potion, Apothecary, Apothecary
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Potion, Copper, Copper, Gold
+Stef - places Gold on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Gold
+Stef - reveals: Apothecary, Hamlet, Apothecary
+Stef - places Hamlet on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Hamlet, Copper
+Stef - places Hamlet on top of deck
+Stef - places Apothecary on top of deck
+Stef - discards Copper
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Hamlet, Copper, Copper, Apothecary
+Stef - places Hamlet on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Hamlet, Wandering Minstrel, Altar, Hamlet
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Hamlet, Hamlet, Altar, Copper
+Stef - places Hamlet on top of deck
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Hamlet
+Stef - reveals: Altar, Hamlet, Moat
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Moat on top of deck
+Stef - plays Hamlet
+Stef - draws Moat
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Moat
+Stef - draws Hamlet, Altar
+Stef - plays Altar
+Stef - trashes Transmute
+Stef - gains Wandering Minstrel
+Stef - plays Hamlet
+Stef - shuffles deck
+Stef - draws Wandering Minstrel
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - discards: Copper, Copper
+Stef - plays 5 Copper, 2 Gold, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Apothecary, Copper, Altar, Hamlet, Potion
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Copper
+terminalCopper - reveals: Copper, Copper, Estate, Copper
+terminalCopper - places Estate on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Estate
+terminalCopper - reveals: Hamlet, Copper, Apothecary, Hamlet
+terminalCopper - places Hamlet on top of deck
+terminalCopper - places Apothecary on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays 5 Copper, 2 Gold, 1 Potion
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Hamlet, Apothecary, Hamlet, Apothecary, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - reveals: Gold, Wandering Minstrel, Apothecary, Apothecary
+Stef - places Gold on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Hamlet
+Stef - draws Wandering Minstrel
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Wandering Minstrel
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Gold, Wandering Minstrel
+Stef - places Apothecary on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Gold
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Apothecary, Copper, Apothecary, Province
+Stef - places Province on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Province, Copper
+Stef - places Apothecary on top of deck
+Stef - discards: Province, Copper
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Copper, Moat
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Moat on top of deck
+Stef - plays Apothecary
+Stef - draws Moat
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Copper, Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Moat
+Stef - draws Wandering Minstrel, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Apothecary, Hamlet
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - places Apothecary on top of deck
+Stef - places Hamlet on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Hamlet
+Stef - reveals: Apothecary, Copper, Province
+Stef - places Apothecary on top of deck
+Stef - discards: Copper, Province
+Stef - plays Hamlet
+Stef - draws Apothecary
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - shuffles deck
+Stef - reveals: Province, Copper, Copper, Copper
+Stef - places Province on top of deck
+Stef - plays Altar
+Stef - trashes Potion
+Stef - gains Wandering Minstrel
+Stef - plays 7 Copper, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Moat
+Stef - gains Moat
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Province, Copper, Copper, Wandering Minstrel
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Apothecary
+terminalCopper - shuffles deck
+terminalCopper - draws Gold
+terminalCopper - reveals: Apothecary, Copper, Gold, Apothecary
+terminalCopper - places Apothecary on top of deck
+terminalCopper - places Apothecary on top of deck
+terminalCopper - places Gold on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Gold
+terminalCopper - plays Hamlet
+terminalCopper - draws Apothecary
+terminalCopper - plays Apothecary
+terminalCopper - draws Apothecary
+terminalCopper - reveals: Copper, Copper, Transmute, Potion
+terminalCopper - places Transmute on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Transmute
+terminalCopper - reveals: Potion, Hamlet, Province, Apothecary
+terminalCopper - places Province on top of deck
+terminalCopper - places Apothecary on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Hamlet
+terminalCopper - reveals: Apothecary, Province, Copper, Gold
+terminalCopper - places Province on top of deck
+terminalCopper - places Gold on top of deck
+terminalCopper - places Apothecary on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Apothecary
+terminalCopper - discards Potion
+terminalCopper - receives one action
+terminalCopper - discards Potion
+terminalCopper - receives one buy
+terminalCopper - plays Apothecary
+terminalCopper - draws Gold
+terminalCopper - reveals: Province, Estate, Copper, Copper
+terminalCopper - places Province on top of deck
+terminalCopper - places Estate on top of deck
+terminalCopper - plays Transmute
+terminalCopper - trashes Copper
+terminalCopper - gains Transmute
+terminalCopper - plays 6 Copper, 3 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Province, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Apothecary, Hamlet
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Moat
+Stef - reveals: Apothecary, Apothecary, Copper
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - discards Copper
+Stef - plays Moat
+Stef - draws Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Altar, Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - places Altar on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Altar, Wandering Minstrel, Gold
+Stef - places Altar on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Gold
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Altar, Hamlet, Hamlet
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Hamlet on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Hamlet
+Stef - reveals: Hamlet, Altar, Wandering Minstrel
+Stef - places Hamlet on top of deck
+Stef - places Altar on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Altar, Hamlet, Moat, Apothecary
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Moat on top of deck
+Stef - plays Hamlet
+Stef - draws Moat
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Moat
+Stef - draws Apothecary, Hamlet
+Stef - plays Wandering Minstrel
+Stef - draws Altar
+Stef - reveals: Apothecary, Moat, Copper
+Stef - places Apothecary on top of deck
+Stef - places Moat on top of deck
+Stef - discards Copper
+Stef - plays Hamlet
+Stef - draws Moat
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Moat
+Stef - draws Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Gold
+Stef - shuffles deck
+Stef - reveals: Gold, Copper
+Stef - places Gold on top of deck
+Stef - places Gold on top of deck
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - reveals: Gold, Copper, Copper, Copper
+Stef - places Gold on top of deck
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Graverobber
+Stef - plays 6 Copper, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Apothecary, Moat, Gold, Copper, Copper
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Apothecary
+terminalCopper - reveals: Copper, Hamlet, Transmute, Gold
+terminalCopper - places Gold on top of deck
+terminalCopper - places Transmute on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Hamlet
+terminalCopper - discards Province
+terminalCopper - receives one action
+terminalCopper - plays Hamlet
+terminalCopper - draws Transmute
+terminalCopper - plays Apothecary
+terminalCopper - draws Gold
+terminalCopper - reveals: Province, Copper, Gold, Potion
+terminalCopper - places Province on top of deck
+terminalCopper - places Gold on top of deck
+terminalCopper - plays Transmute
+terminalCopper - trashes Estate
+terminalCopper - gains Gold
+terminalCopper - plays 3 Copper, 1 Gold, 1 Potion
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Gold, Province, Apothecary, Copper, Potion
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Wandering Minstrel, Province, Wandering Minstrel, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Province on top of deck
+Stef - plays Moat
+Stef - draws Province, Wandering Minstrel
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Wandering Minstrel, Wandering Minstrel, Province, Province, Copper
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Apothecary
+terminalCopper - reveals: Copper, Gold, Copper, Copper
+terminalCopper - places Gold on top of deck
+terminalCopper - plays Apothecary
+terminalCopper - draws Gold
+terminalCopper - reveals: Gold, Transmute, Hamlet, Apothecary
+terminalCopper - places Apothecary on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - places Transmute on top of deck
+terminalCopper - places Gold on top of deck
+terminalCopper - plays 4 Copper, 2 Gold, 1 Potion
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Gold, Transmute, Hamlet, Apothecary
+terminalCopper - shuffles deck
+terminalCopper - draws Transmute
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Wandering Minstrel, Apothecary, Gold
+Stef - places Wandering Minstrel on top of deck
+Stef - places Apothecary on top of deck
+Stef - discards Gold
+Stef - plays Wandering Minstrel
+Stef - draws Apothecary
+Stef - reveals: Wandering Minstrel, Graverobber, Altar
+Stef - places Graverobber on top of deck
+Stef - places Altar on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Altar, Graverobber, Hamlet, Wandering Minstrel
+Stef - places Altar on top of deck
+Stef - places Graverobber on top of deck
+Stef - places Hamlet on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Hamlet, Graverobber, Altar
+Stef - places Graverobber on top of deck
+Stef - places Altar on top of deck
+Stef - places Hamlet on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Hamlet
+Stef - reveals: Altar, Graverobber, Copper
+Stef - places Graverobber on top of deck
+Stef - places Altar on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Altar
+Stef - reveals: Graverobber, Copper, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Graverobber on top of deck
+Stef - discards Copper
+Stef - plays Hamlet
+Stef - draws Graverobber
+Stef - discards Province
+Stef - receives one action
+Stef - discards Province
+Stef - receives one buy
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - draws Apothecary, Apothecary, Moat, Copper, Moat
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Apothecary
+terminalCopper - draws Potion
+terminalCopper - reveals: Hamlet, Copper, Gold, Copper
+terminalCopper - places Gold on top of deck
+terminalCopper - places Hamlet on top of deck
+terminalCopper - plays Hamlet
+terminalCopper - draws Hamlet
+terminalCopper - plays Hamlet
+terminalCopper - draws Gold
+terminalCopper - discards Potion
+terminalCopper - receives one buy
+terminalCopper - plays Transmute
+terminalCopper - trashes Transmute
+terminalCopper - gains Duchy
+terminalCopper - plays 2 Gold, 2 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - buys Moat
+terminalCopper - gains Moat
+terminalCopper - draws Copper, Gold, Duchy, Apothecary, Province
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Apothecary
+Stef - draws Hamlet
+Stef - reveals: Apothecary
+Stef - shuffles deck
+Stef - reveals: Wandering Minstrel, Apothecary, Apothecary
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Hamlet
+Stef - draws Wandering Minstrel
+Stef - discards Copper
+Stef - receives one buy
+Stef - plays Wandering Minstrel
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Apothecary, Duchy
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - discards Duchy
+Stef - plays Moat
+Stef - draws Apothecary, Apothecary
+Stef - plays Apothecary
+Stef - draws Graverobber
+Stef - reveals: Copper, Wandering Minstrel, Altar, Province
+Stef - places Province on top of deck
+Stef - places Altar on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Apothecary
+Stef - draws Wandering Minstrel
+Stef - reveals: Altar, Province, Province, Duchy
+Stef - places Duchy on top of deck
+Stef - places Province on top of deck
+Stef - places Province on top of deck
+Stef - places Altar on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Altar
+Stef - reveals: Province, Province, Duchy
+Stef - discards: Province, Province, Duchy
+Stef - plays Apothecary
+Stef - draws Hamlet
+Stef - reveals: Copper, Gold, Wandering Minstrel, Wandering Minstrel
+Stef - places Gold on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Moat
+Stef - draws Wandering Minstrel, Wandering Minstrel
+Stef - plays Apothecary
+Stef - draws Gold
+Stef - reveals: Copper, Copper, Copper, Moat
+Stef - places Moat on top of deck
+Stef - plays Wandering Minstrel
+Stef - draws Moat
+Stef - reveals: Wandering Minstrel, Wandering Minstrel, Province
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Province
+Stef - plays Moat
+Stef - draws Wandering Minstrel, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Gold
+Stef - shuffles deck
+Stef - reveals: Province, Duchy, Province
+Stef - discards: Province, Duchy, Province
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Duchy, Copper
+Stef - shuffles deck
+Stef - reveals: Province
+Stef - discards: Duchy, Copper, Province
+Stef - plays Wandering Minstrel
+Stef - draws Province
+Stef - reveals: Duchy
+Stef - shuffles deck
+Stef - reveals: Province, Copper
+Stef - discards: Duchy, Province, Copper
+Stef - plays Hamlet
+Stef - draws Duchy
+Stef - discards Province
+Stef - receives one buy
+Stef - plays Graverobber
+Stef - trashes Altar
+Stef - gains Province
+Stef - plays 5 Copper, 2 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Moat, Copper, Apothecary, Moat
+ 
+------------ Game Over ------------
+Stef - cards: 6 Wandering Minstrel, 5 Apothecary, 3 Moat, 2 Hamlet, 1 Graverobber, 6 Copper, 2 Gold, 5 Province, 2 Duchy, 1 Estate
+Stef - total victory points: 37
+Stef - turns: 16
+ 
+terminalCopper - cards: 5 Apothecary, 3 Hamlet, 1 Moat, 1 Transmute, 7 Copper, 5 Gold, 2 Potion, 3 Duchy, 3 Province
+terminalCopper - total victory points: 27
+terminalCopper - turns: 15
+ 
+1st place: Stef
+2nd place: terminalCopper
+ 

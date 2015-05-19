@@ -1,0 +1,690 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Courtyard, Doctor, Warehouse, Conspirator, Fortress, Quarry, Silk Road, Minion, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+yed - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Warehouse
+yed - gains Warehouse
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Conspirator
+yed - gains Conspirator
+yed - shuffles deck
+yed - draws Estate, Copper, Conspirator, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays Conspirator
+yed - plays 2 Copper
+yed - buys Doctor
+yed - overpays for Doctor with 1 coin
+yed - looks at Copper
+yed - trashes Copper
+yed - gains Doctor
+yed - draws Copper, Copper, Copper, Warehouse, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Estate, Copper, Copper, Conspirator, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Warehouse
+yed - draws Copper
+yed - shuffles deck
+yed - draws Doctor, Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Copper, Estate, Conspirator
+yed - trashes Copper
+yed - places Estate on top of deck
+yed - places Conspirator on top of deck
+yed - plays 3 Copper
+yed - buys Warehouse
+yed - gains Warehouse
+yed - draws Conspirator, Estate, Copper
+yed - shuffles deck
+yed - draws Estate, Warehouse
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Conspirator
+Stef - plays 3 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Warehouse
+Stef - shuffles deck
+Stef - draws Estate, Copper, Conspirator
+ 
+---------- yed: turn 5 ----------
+yed - plays Warehouse
+yed - draws Copper, Copper, Copper
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays Conspirator
+yed - plays 3 Copper
+yed - buys Minion
+yed - gains Minion
+yed - draws Doctor, Copper, Warehouse, Estate
+yed - shuffles deck
+yed - draws Minion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Warehouse
+Stef - draws Estate, Minion, Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 4 coins
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - looks at Warehouse
+Stef - places Warehouse on top of deck
+Stef - gains Doctor
+Stef - draws Warehouse, Copper
+Stef - shuffles deck
+Stef - draws Estate, Conspirator, Warehouse
+ 
+---------- yed: turn 6 ----------
+yed - plays Warehouse
+yed - draws Copper, Warehouse, Conspirator
+yed - discards Estate
+yed - discards Copper
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Copper, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Warehouse
+Stef - draws Estate, Doctor, Minion
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Estate
+Stef - trashes Copper, Copper
+Stef - places Estate on top of deck
+Stef - plays 1 Copper
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Estate, Copper, Estate, Copper
+Stef - shuffles deck
+Stef - draws Doctor
+ 
+---------- yed: turn 7 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Estate, Warehouse, Conspirator, Minion, Warehouse
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Minion, Warehouse, Warehouse
+Stef - places Warehouse on top of deck
+Stef - places Warehouse on top of deck
+Stef - places Minion on top of deck
+Stef - draws Minion, Warehouse, Warehouse, Copper, Minion
+ 
+---------- yed: turn 8 ----------
+yed - plays Warehouse
+yed - draws Copper, Copper, Doctor
+yed - discards Estate
+yed - discards Copper
+yed - discards Copper
+yed - plays Warehouse
+yed - draws Copper, Estate, Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Silver
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Copper, Copper
+yed - shuffles deck
+yed - reveals: Estate
+yed - trashes Copper, Copper
+yed - places Estate on top of deck
+yed - plays 1 Silver
+yed - buys Minion
+yed - gains Minion
+yed - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Warehouse
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - draws Copper, Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Doctor
+Stef - plays Warehouse
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Copper, Estate
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - trashes Estate, Estate
+Stef - places Copper on top of deck
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Minion, Warehouse
+ 
+---------- yed: turn 9 ----------
+yed - draws Copper
+yed - shuffles deck
+yed - draws Doctor, Warehouse, Minion, Conspirator
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Warehouse
+Stef - draws Minion, Warehouse, Conspirator
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Doctor
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Minion
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - trashes Copper, Copper
+Stef - places Minion on top of deck
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Minion, Copper
+Stef - shuffles deck
+Stef - draws Minion, Minion, Warehouse
+ 
+---------- yed: turn 10 ----------
+yed - plays Warehouse
+yed - draws Copper, Minion, Estate
+yed - discards Copper
+yed - discards Copper
+yed - discards Estate
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Doctor
+yed - names Estate
+yed - reveals: Estate, Warehouse, Silver
+yed - trashes Estate
+yed - places Warehouse on top of deck
+yed - places Silver on top of deck
+yed - buys Minion
+yed - gains Minion
+yed - draws Silver, Warehouse, Estate
+yed - shuffles deck
+yed - draws Minion, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Copper, Warehouse
+Stef - draws Warehouse, Conspirator, Doctor, Minion
+yed - discards: Silver, Warehouse, Estate, Minion, Copper
+yed - draws Copper, Doctor, Minion, Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Doctor
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Warehouse
+Stef - trashes Copper
+Stef - places Warehouse on top of deck
+Stef - buys Minion
+Stef - gains Minion
+Stef - draws Warehouse
+Stef - shuffles deck
+Stef - draws Warehouse, Minion, Minion, Minion
+ 
+---------- yed: turn 11 ----------
+yed - plays Minion
+yed - discards: Copper, Doctor, Copper
+yed - draws Warehouse, Conspirator, Minion, Estate
+Stef - discards: Warehouse, Warehouse, Minion, Minion, Minion
+Stef - draws Conspirator, Minion, Minion, Doctor
+yed - plays Warehouse
+yed - shuffles deck
+yed - draws Doctor, Warehouse, Copper
+yed - discards Estate
+yed - discards Copper
+yed - discards Doctor
+yed - plays Warehouse
+yed - draws Silver, Minion, Estate
+yed - discards Estate
+yed - discards Silver
+yed - discards Minion
+yed - plays Conspirator
+yed - draws Copper
+yed - plays Minion
+yed - takes 2 coins
+yed - plays 1 Copper
+yed - buys Minion
+yed - gains Minion
+yed - draws Copper
+yed - shuffles deck
+yed - draws Warehouse, Copper, Doctor, Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Conspirator, Doctor
+Stef - shuffles deck
+Stef - draws Minion, Doctor, Minion, Warehouse
+yed - discards: Copper, Warehouse, Copper, Doctor, Conspirator
+yed - draws Minion, Estate, Minion, Minion
+Stef - plays Warehouse
+Stef - draws Warehouse, Minion, Conspirator
+Stef - discards Doctor
+Stef - discards Warehouse
+Stef - discards Conspirator
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Minion
+Stef - gains Minion
+Stef - shuffles deck
+Stef - draws Minion, Minion, Minion, Doctor, Warehouse
+ 
+---------- yed: turn 12 ----------
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - discards Estate
+yed - draws Estate, Silver, Minion, Copper
+Stef - discards: Minion, Minion, Minion, Doctor, Warehouse
+Stef - draws Conspirator, Minion, Minion, Minion
+yed - plays Minion
+yed - takes 2 coins
+yed - plays 1 Silver, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Warehouse
+yed - shuffles deck
+yed - draws Estate, Copper, Estate, Warehouse
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Warehouse
+Stef - plays Minion
+Stef - discards Warehouse
+Stef - shuffles deck
+Stef - draws Doctor, Minion, Warehouse, Minion
+yed - discards: Warehouse, Estate, Copper, Estate, Warehouse
+yed - draws Silver, Conspirator, Minion, Copper
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - draws Minion, Warehouse
+Stef - shuffles deck
+Stef - draws Minion, Minion, Province
+ 
+---------- yed: turn 13 ----------
+yed - plays Minion
+yed - discards: Silver, Conspirator, Copper
+yed - draws Minion, Province, Minion, Copper
+Stef - discards: Minion, Warehouse, Minion, Minion, Province
+Stef - draws Minion, Minion, Minion, Doctor
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - discards: Province, Copper
+yed - draws Doctor, Minion
+yed - shuffles deck
+yed - draws Province, Copper
+yed - plays Minion
+yed - discards: Doctor, Province, Copper
+yed - draws Estate, Conspirator, Copper, Copper
+yed - plays Conspirator
+yed - draws Warehouse
+yed - plays Warehouse
+yed - draws Estate, Warehouse, Silver
+yed - discards Estate
+yed - discards Estate
+yed - discards Warehouse
+yed - plays 2 Copper, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - shuffles deck
+yed - draws Province, Copper, Minion, Minion, Minion
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards Doctor
+Stef - draws Warehouse, Conspirator
+Stef - shuffles deck
+Stef - draws Warehouse, Minion
+yed - discards: Province, Copper, Minion, Minion, Minion
+yed - draws Warehouse, Copper, Estate, Copper
+Stef - plays Conspirator
+Stef - draws Minion
+Stef - plays Warehouse
+Stef - draws Province, Doctor, Minion
+Stef - discards Doctor
+Stef - discards Province
+Stef - discards Warehouse
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Province, Conspirator, Warehouse, Minion, Minion
+ 
+---------- yed: turn 14 ----------
+yed - plays Warehouse
+yed - draws Minion, Conspirator, Province
+yed - discards Estate
+yed - discards Province
+yed - discards Copper
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Conspirator
+yed - draws Warehouse
+yed - plays Warehouse
+yed - draws Doctor, Estate, Silver
+yed - discards Estate
+yed - discards Copper
+yed - discards Doctor
+yed - plays Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - shuffles deck
+yed - draws Copper, Minion, Province, Minion, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Minion
+Stef - plays Warehouse
+Stef - draws Doctor, Minion, Minion
+Stef - discards Province
+Stef - discards Minion
+Stef - discards Doctor
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - draws Warehouse, Minion, Province
+Stef - shuffles deck
+Stef - draws Province
+yed - discards: Copper, Minion, Province, Minion, Duchy
+yed - draws Warehouse, Minion, Doctor, Province
+Stef - plays Warehouse
+Stef - draws Minion, Doctor
+Stef - discards Province
+Stef - discards Province
+Stef - discards Doctor
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Doctor, Minion, Province, Minion, Province
+ 
+---------- yed: turn 15 ----------
+yed - plays Warehouse
+yed - draws Estate, Conspirator, Estate
+yed - discards Province
+yed - discards Estate
+yed - discards Estate
+yed - plays Minion
+yed - discards: Doctor, Conspirator
+yed - draws Warehouse, Copper, Silver, Copper
+Stef - discards: Doctor, Minion, Province, Minion, Province
+Stef - draws Minion, Minion, Minion, Conspirator
+yed - plays Warehouse
+yed - draws Minion
+yed - shuffles deck
+yed - draws Conspirator, Estate
+yed - discards Copper
+yed - discards Estate
+yed - discards Copper
+yed - plays Conspirator
+yed - draws Province
+yed - plays Minion
+yed - discards: Silver, Province
+yed - draws Province, Estate, Duchy, Doctor
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Copper, Minion, Minion
+yed - trashes Copper
+yed - places Minion on top of deck
+yed - places Minion on top of deck
+yed - buys Estate
+yed - gains Estate
+yed - draws Minion, Minion
+yed - shuffles deck
+yed - draws Minion, Minion, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Conspirator
+Stef - draws Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - draws Warehouse, Province, Warehouse
+Stef - shuffles deck
+Stef - draws Minion
+yed - discards: Minion, Minion, Minion, Minion, Province
+yed - draws Province, Warehouse, Estate, Conspirator
+Stef - plays Warehouse
+Stef - draws Province, Doctor, Province
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Minion, Province, Minion, Province
+ 
+---------- yed: turn 16 ----------
+yed - plays Warehouse
+yed - draws Silver, Doctor, Duchy
+yed - discards Estate
+yed - discards Province
+yed - discards Duchy
+yed - plays Conspirator
+yed - buys Estate
+yed - gains Estate
+yed - draws Copper, Warehouse, Copper, Estate, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - discards: Province, Province
+Stef - draws Minion, Minion, Warehouse, Province
+yed - discards: Copper, Warehouse, Copper, Estate, Estate
+yed - shuffles deck
+yed - draws Warehouse, Minion, Province, Copper
+Stef - plays Warehouse
+Stef - draws Conspirator, Warehouse, Doctor
+Stef - discards Province
+Stef - discards Doctor
+Stef - discards Warehouse
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - draws Minion
+Stef - shuffles deck
+Stef - draws Minion, Minion, Minion, Conspirator
+ 
+---------- yed: turn 17 ----------
+yed - plays Warehouse
+yed - draws Province, Estate, Estate
+yed - discards Province
+yed - discards Province
+yed - discards Estate
+yed - plays Minion
+yed - discards: Copper, Estate
+yed - draws Minion, Doctor, Conspirator, Warehouse
+Stef - discards: Minion, Minion, Minion, Minion, Conspirator
+Stef - draws Minion, Province, Doctor, Warehouse
+yed - plays Conspirator
+yed - draws Minion
+yed - plays Warehouse
+yed - draws Estate, Minion, Estate
+yed - discards Estate
+yed - discards Estate
+yed - discards Doctor
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - plays Minion
+yed - takes 2 coins
+yed - buys Silk Road
+yed - gains Silk Road
+yed - draws Duchy, Silver, Copper
+yed - shuffles deck
+yed - draws Conspirator, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Minion
+Stef - discards: Province, Doctor, Warehouse
+Stef - draws Province, Province, Province, Warehouse
+yed - discards: Duchy, Silver, Copper, Conspirator, Province
+yed - draws Copper, Estate, Minion, Warehouse
+Stef - plays Warehouse
+Stef - draws Minion, Province
+Stef - shuffles deck
+Stef - draws Conspirator
+Stef - discards Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Conspirator
+Stef - draws Province
+Stef - plays Minion
+Stef - discards: Province, Province
+Stef - draws Minion, Doctor, Minion, Warehouse
+Stef - plays Warehouse
+Stef - draws Minion, Minion
+Stef - shuffles deck
+Stef - draws Province
+Stef - discards Doctor
+Stef - discards Province
+Stef - discards Minion
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - plays Minion
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Province, Province, Province
+Stef - shuffles deck
+Stef - draws Warehouse
+ 
+------------ Game Over ------------
+Stef - cards: 6 Minion, 2 Warehouse, 1 Conspirator, 1 Doctor, 6 Province
+Stef - total victory points: 36
+Stef - turns: 17
+ 
+yed - cards: 4 Minion, 2 Warehouse, 1 Conspirator, 1 Doctor, 2 Copper, 1 Silver, 4 Estate, 2 Province, 1 Duchy, 1 Silk Road
+yed - total victory points: 21
+yed - turns: 17
+ 
+1st place: Stef
+2nd place: yed
+ 

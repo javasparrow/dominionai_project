@@ -1,0 +1,992 @@
+------------ Game Setup ------------
+Supply cards: Forager, Steward, Village, Fortress, Militia, Horn of Plenty, Junk Dealer, Altar, Possession, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+yed - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+yed - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Militia
+yed - gains Militia
+yed - shuffles deck
+yed - draws Estate, Steward, Copper, Estate, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Forager
+ 
+---------- yed: turn 3 ----------
+yed - plays Steward
+yed - trashes Estate, Estate
+yed - draws Copper, Copper, Militia, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Steward, Copper, Estate, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+yed - plays 4 Copper
+yed - buys Altar
+yed - gains Altar
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Steward, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Steward, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Steward
+yed - trashes Copper, Copper
+yed - draws Estate, Copper, Militia, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Copper, Copper, Forager, Fortress
+ 
+---------- yed: turn 6 ----------
+yed - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+yed - plays 3 Copper
+yed - buys Junk Dealer
+yed - gains Junk Dealer
+yed - draws Altar
+yed - shuffles deck
+yed - draws Copper, Junk Dealer, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - draws Copper, Estate, Copper, Steward, Junk Dealer
+ 
+---------- yed: turn 7 ----------
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Estate
+yed - plays Altar
+yed - trashes Copper
+yed - gains Horn of Plenty
+yed - plays 2 Copper
+yed - buys Village
+yed - gains Village
+yed - draws Steward, Copper, Militia, Copper
+yed - shuffles deck
+yed - draws Village
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Junk Dealer, Fortress, Steward
+ 
+---------- yed: turn 8 ----------
+yed - plays Village
+yed - draws Altar
+yed - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+yed - plays Altar
+yed - trashes Copper
+yed - gains Fortress
+yed - plays 1 Copper
+yed - buys Village
+yed - gains Village
+yed - draws Copper, Junk Dealer, Horn of Plenty, Copper
+yed - shuffles deck
+yed - draws Fortress
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Forager
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Forager
+Stef - buys Militia
+Stef - gains Militia
+Stef - shuffles deck
+Stef - draws Copper, Junk Dealer, Forager, Copper, Militia
+ 
+---------- yed: turn 9 ----------
+yed - plays Fortress
+yed - draws Copper
+yed - plays Junk Dealer
+yed - draws Altar
+yed - trashes Copper
+yed - plays Altar
+yed - trashes Copper
+yed - gains Potion
+yed - plays Copper
+yed - plays Horn of Plenty
+yed - gains Steward
+yed - draws Steward, Militia, Village, Village
+yed - shuffles deck
+yed - draws Altar
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Junk Dealer
+Stef - draws Fortress
+Stef - trashes Copper
+Stef - plays Fortress
+Stef - draws Steward
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Militia
+yed - discards Steward
+yed - discards Altar
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Potion, Militia, Junk Dealer, Steward, Forager
+ 
+---------- yed: turn 10 ----------
+yed - plays Village
+yed - draws Copper
+yed - plays Village
+yed - draws Potion
+yed - plays Militia
+Stef - discards Potion
+Stef - discards Militia
+yed - plays Copper
+yed - buys Steward
+yed - gains Steward
+yed - draws Horn of Plenty, Steward, Junk Dealer, Fortress
+yed - shuffles deck
+yed - draws Altar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Fortress
+Stef - trashes Fortress
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Militia
+Stef - plays Militia
+yed - discards Altar
+yed - discards Horn of Plenty
+Stef - plays Steward
+Stef - draws Potion
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Junk Dealer, Potion, Silver, Steward, Militia
+ 
+---------- yed: turn 11 ----------
+yed - plays Junk Dealer
+yed - draws Steward
+yed - trashes Fortress
+yed - plays Fortress
+yed - draws Potion
+yed - plays Steward
+yed - draws Militia, Copper
+yed - plays Militia
+Stef - discards Potion
+Stef - discards Steward
+yed - plays Copper
+yed - buys Fortress
+yed - gains Fortress
+yed - draws Village, Village, Steward
+yed - shuffles deck
+yed - draws Copper, Militia
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Junk Dealer
+Stef - draws Forager
+Stef - trashes Silver
+Stef - plays Militia
+yed - discards Copper
+yed - discards Militia
+Stef - buys Village
+Stef - gains Village
+Stef - draws Fortress
+Stef - shuffles deck
+Stef - draws Junk Dealer, Militia, Steward, Village
+ 
+---------- yed: turn 12 ----------
+yed - plays Village
+yed - draws Steward
+yed - plays Village
+yed - draws Potion
+yed - plays Steward
+yed - draws Fortress, Horn of Plenty
+yed - plays Fortress
+yed - draws Junk Dealer
+yed - plays Junk Dealer
+yed - draws Altar
+yed - trashes Altar
+yed - plays Steward
+yed - draws Fortress, Steward
+yed - plays Fortress
+yed - shuffles deck
+yed - draws Copper
+yed - plays Steward
+yed - draws Militia
+yed - plays Militia
+Stef - discards Militia
+Stef - discards Village
+yed - plays Copper
+yed - plays Potion
+yed - plays Horn of Plenty
+yed - gains Province
+yed - trashes Horn of Plenty
+yed - buys Militia
+yed - gains Militia
+yed - shuffles deck
+yed - draws Village, Copper, Village, Steward, Potion
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Junk Dealer
+Stef - draws Forager
+Stef - trashes Fortress
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Potion
+Stef - plays Steward
+Stef - shuffles deck
+Stef - draws Militia, Village
+Stef - plays Militia
+yed - discards Copper
+yed - discards Potion
+Stef - plays Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - shuffles deck
+Stef - draws Steward, Village, Possession, Junk Dealer, Militia
+ 
+---------- yed: turn 13 ----------
+yed - plays Village
+yed - draws Steward
+yed - plays Village
+yed - draws Province
+yed - plays Steward
+yed - draws Junk Dealer, Fortress
+yed - plays Junk Dealer
+yed - draws Fortress
+yed - trashes Fortress
+yed - plays Fortress
+yed - draws Steward
+yed - plays Fortress
+yed - draws Militia
+yed - plays Steward
+yed - draws Militia
+yed - shuffles deck
+yed - draws Potion
+yed - plays Militia
+Stef - discards Possession
+Stef - discards Militia
+yed - plays Militia
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Potion
+yed - buys Possession
+yed - gains Possession
+yed - draws Copper
+yed - shuffles deck
+yed - draws Militia, Village, Fortress, Steward
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Village
+Stef - draws Forager
+Stef - plays Steward
+Stef - draws Potion, Fortress
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Militia
+Stef - trashes Fortress
+Stef - plays Forager
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Militia
+yed - discards Steward
+yed - discards Village
+Stef - plays 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - shuffles deck
+Stef - draws Militia, Forager, Village, Possession, Possession
+ 
+---------- yed: turn 14 ----------
+yed - plays Fortress
+yed - draws Possession
+yed - plays Possession
+yed - plays Militia
+Stef - discards Village
+Stef - discards Forager
+yed - plays Copper
+yed - buys Village
+yed - gains Village
+yed - draws Potion, Fortress, Junk Dealer, Province, Militia
+ 
+---------- Stef: turn 14 [possessed] ----------
+Stef - plays Militia
+yed - discards Junk Dealer
+yed - discards Fortress
+Stef - buys Estate
+yed - gains Estate
+Stef - draws Junk Dealer, Fortress, Potion, Steward
+Stef - shuffles deck
+Stef - draws Possession
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Junk Dealer
+Stef - draws Militia
+Stef - trashes Potion
+Stef - plays Fortress
+Stef - draws Forager
+Stef - plays Steward
+Stef - draws Village, Possession
+Stef - plays Village
+Stef - plays Possession
+Stef - plays Possession
+Stef - shuffles deck
+Stef - draws Steward, Junk Dealer, Militia, Forager, Fortress
+ 
+---------- yed: turn 15 [possessed] ----------
+yed - draws Steward, Village, Steward
+yed - shuffles deck
+yed - draws Militia, Estate
+ 
+---------- yed: turn 15 [possessed] ----------
+yed - plays Village
+yed - draws Copper
+yed - plays Steward
+yed - draws Militia, Village
+yed - plays Village
+yed - draws Junk Dealer
+yed - plays Junk Dealer
+yed - draws Fortress
+yed - trashes Fortress
+yed - plays Fortress
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Province
+yed - plays Militia
+Stef - discards Forager
+Stef - discards Junk Dealer
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Militia
+yed - plays Copper
+yed - buys Province
+Stef - gains Province
+yed - draws Possession, Steward, Village, Potion
+yed - shuffles deck
+yed - draws Province
+ 
+---------- yed: turn 15 ----------
+yed - plays Village
+yed - draws Village
+yed - plays Village
+yed - draws Steward
+yed - plays Steward
+yed - draws Militia, Copper
+yed - plays Steward
+yed - draws Steward, Junk Dealer
+yed - plays Junk Dealer
+yed - draws Estate
+yed - trashes Estate
+yed - plays Possession
+yed - draws Village, Militia, Fortress, Fortress
+yed - shuffles deck
+yed - draws Steward
+ 
+---------- Stef: turn 15 [possessed] ----------
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Steward
+Stef - draws Village, Possession
+Stef - plays Village
+Stef - shuffles deck
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Possession
+Stef - plays Militia
+yed - discards Militia
+yed - discards Steward
+Stef - buys Duchy
+yed - gains Duchy
+Stef - draws Junk Dealer, Province
+Stef - shuffles deck
+Stef - draws Fortress, Village, Possession
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Village
+Stef - draws Steward
+Stef - plays Steward
+Stef - draws Forager, Militia
+Stef - plays Junk Dealer
+Stef - shuffles deck
+Stef - draws Possession
+Stef - trashes Forager
+Stef - plays Fortress
+Stef - plays Possession
+Stef - plays Possession
+Stef - shuffles deck
+Stef - draws Village, Junk Dealer, Steward, Possession, Province
+ 
+---------- yed: turn 16 [possessed] ----------
+yed - plays Fortress
+yed - draws Steward
+yed - plays Village
+yed - draws Steward
+yed - plays Steward
+yed - draws Possession, Junk Dealer
+yed - plays Junk Dealer
+yed - draws Copper
+yed - trashes Possession
+yed - plays Fortress
+yed - draws Militia
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Militia
+Stef - discards Province
+Stef - discards Village
+yed - buys Duchy
+Stef - gains Duchy
+yed - draws Potion, Village, Province, Village
+yed - shuffles deck
+yed - draws Steward
+ 
+---------- yed: turn 16 [possessed] ----------
+yed - plays Village
+yed - draws Fortress
+yed - plays Village
+yed - draws Militia
+yed - plays Fortress
+yed - draws Junk Dealer
+yed - plays Junk Dealer
+yed - draws Fortress
+yed - trashes Fortress
+yed - plays Fortress
+yed - draws Steward
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Militia
+yed - plays 1 Potion
+yed - buys Possession
+Stef - gains Possession
+yed - draws Duchy, Copper, Steward, Militia, Village
+ 
+---------- yed: turn 16 ----------
+yed - plays Village
+yed - shuffles deck
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Steward
+yed - plays Steward
+yed - draws Village, Possession
+yed - plays Village
+yed - draws Village
+yed - plays Village
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Province
+yed - plays Steward
+yed - draws Militia, Junk Dealer
+yed - plays Junk Dealer
+yed - draws Potion
+yed - trashes Copper
+yed - plays Militia
+yed - plays Militia
+yed - plays Possession
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Steward
+yed - shuffles deck
+yed - draws Village, Village, Potion, Steward
+ 
+---------- Stef: turn 16 [possessed] ----------
+Stef - plays Junk Dealer
+Stef - draws Possession
+Stef - trashes Possession
+Stef - plays Steward
+Stef - trashes Possession
+Stef - draws Fortress, Militia
+Stef - shuffles deck
+Stef - draws Province, Village, Junk Dealer
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Village
+Stef - draws Duchy
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Junk Dealer
+Stef - draws Steward
+Stef - trashes Militia
+Stef - plays Steward
+Stef - shuffles deck
+Stef - draws Possession, Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - shuffles deck
+Stef - draws Possession, Possession, Duchy, Province, Fortress
+ 
+---------- yed: turn 17 [possessed] ----------
+yed - plays Village
+yed - draws Village
+yed - plays Village
+yed - draws Steward
+yed - plays Village
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Duchy
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Duchy
+Stef - gains Duchy
+yed - draws Possession, Junk Dealer, Militia, Province, Militia
+ 
+---------- yed: turn 17 [possessed] ----------
+yed - plays Junk Dealer
+yed - draws Fortress
+yed - trashes Possession
+yed - plays Fortress
+yed - draws Duchy
+yed - plays Militia
+Stef - discards Duchy
+Stef - discards Province
+yed - plays Militia
+yed - buys Duchy
+Stef - gains Duchy
+yed - shuffles deck
+yed - draws Fortress, Fortress, Junk Dealer, Province, Militia
+ 
+---------- yed: turn 17 ----------
+yed - plays Fortress
+yed - draws Militia
+yed - plays Junk Dealer
+yed - draws Village
+yed - trashes Fortress
+yed - plays Village
+yed - draws Potion
+yed - plays Fortress
+yed - draws Duchy
+yed - plays Militia
+yed - plays Militia
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Steward, Steward, Duchy, Village, Steward
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - draws Steward, Village, Junk Dealer
+Stef - shuffles deck
+Stef - draws Possession, Duchy
+ 
+---------- yed: turn 18 [possessed] ----------
+yed - plays Village
+yed - draws Village
+yed - plays Village
+yed - shuffles deck
+yed - draws Militia
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Duchy
+Stef - gains Duchy
+yed - draws Fortress, Duchy, Militia, Potion, Junk Dealer
+ 
+---------- yed: turn 18 [possessed] ----------
+yed - plays Junk Dealer
+yed - draws Village
+yed - trashes Fortress
+yed - plays Fortress
+yed - draws Possession
+yed - plays Village
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Province
+yed - plays Militia
+Stef - discards Duchy
+Stef - discards Junk Dealer
+yed - buys Village
+Stef - gains Village
+yed - draws Duchy
+yed - shuffles deck
+yed - draws Militia, Duchy, Fortress, Steward
+ 
+---------- yed: turn 18 ----------
+yed - plays Fortress
+yed - draws Steward
+yed - plays Steward
+yed - draws Village, Village
+yed - plays Village
+yed - draws Province
+yed - plays Village
+yed - draws Militia
+yed - plays Militia
+yed - plays Militia
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Village, Duchy, Possession, Steward, Junk Dealer
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Village
+Stef - draws Possession
+Stef - plays Steward
+Stef - draws Possession, Duchy
+Stef - plays Possession
+Stef - draws Duchy, Province, Fortress
+Stef - shuffles deck
+Stef - draws Possession, Junk Dealer
+ 
+---------- yed: turn 19 [possessed] ----------
+yed - plays Village
+yed - draws Fortress
+yed - plays Junk Dealer
+yed - draws Potion
+yed - trashes Possession
+yed - plays Fortress
+yed - shuffles deck
+yed - draws Duchy
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Estate
+Stef - gains Estate
+yed - draws Duchy, Village, Duchy, Fortress, Steward
+ 
+---------- yed: turn 19 ----------
+yed - plays Village
+yed - draws Militia
+yed - plays Fortress
+yed - draws Village
+yed - plays Village
+yed - draws Militia
+yed - plays Steward
+yed - draws Province, Steward
+yed - plays Militia
+Stef - discards Province
+Stef - discards Duchy
+yed - buys Estate
+yed - gains Estate
+yed - shuffles deck
+yed - draws Steward, Possession, Potion, Duchy, Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Junk Dealer
+Stef - draws Steward
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Village
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Possession
+Stef - plays Steward
+Stef - draws Duchy, Duchy
+Stef - plays Possession
+Stef - plays Possession
+Stef - draws Possession, Duchy
+Stef - shuffles deck
+Stef - draws Duchy, Province, Estate
+ 
+---------- yed: turn 20 [possessed] ----------
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Estate
+Stef - gains Estate
+yed - draws Militia, Duchy, Fortress, Steward, Steward
+ 
+---------- yed: turn 20 [possessed] ----------
+yed - plays Fortress
+yed - draws Duchy
+yed - plays Steward
+yed - draws Militia, Village
+yed - plays Village
+yed - draws Village
+yed - plays Steward
+yed - draws Junk Dealer, Estate
+yed - plays Village
+yed - draws Village
+yed - plays Village
+yed - draws Duchy
+yed - plays Junk Dealer
+yed - draws Fortress
+yed - trashes Fortress
+yed - plays Fortress
+yed - shuffles deck
+yed - draws Steward
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Estate
+Stef - gains Estate
+yed - draws Province, Potion, Possession, Duchy
+yed - shuffles deck
+yed - draws Village
+ 
+---------- yed: turn 20 ----------
+yed - plays Village
+yed - draws Militia
+yed - plays Militia
+Stef - discards Province
+Stef - discards Estate
+yed - plays Possession
+yed - buys Estate
+yed - gains Estate
+yed - draws Militia, Village, Duchy, Steward, Fortress
+ 
+---------- Stef: turn 20 [possessed] ----------
+Stef - draws Duchy, Fortress, Possession, Duchy, Village
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Village
+Stef - draws Village
+Stef - plays Village
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Steward
+Stef - trashes Fortress
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Possession
+Stef - plays Possession
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Duchy, Fortress, Village, Estate, Estate
+ 
+---------- yed: turn 21 [possessed] ----------
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Estate
+Stef - gains Estate
+yed - draws Steward, Junk Dealer, Estate, Duchy, Steward
+ 
+---------- yed: turn 21 [possessed] ----------
+yed - plays Junk Dealer
+yed - draws Duchy
+yed - trashes Duchy
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Village
+Stef - gains Village
+yed - draws Village, Fortress
+yed - shuffles deck
+yed - draws Estate, Duchy, Junk Dealer
+ 
+---------- yed: turn 21 ----------
+yed - plays Junk Dealer
+yed - draws Duchy
+yed - trashes Fortress
+yed - plays Village
+yed - draws Steward
+yed - plays Steward
+yed - draws Militia, Village
+yed - plays Village
+yed - draws Duchy
+yed - plays Fortress
+yed - draws Potion
+yed - plays Militia
+Stef - discards Estate
+Stef - discards Estate
+yed - buys Steward
+yed - gains Steward
+yed - draws Steward, Estate, Steward, Fortress, Village
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Village
+Stef - draws Estate
+Stef - plays Fortress
+Stef - draws Possession
+Stef - plays Possession
+Stef - draws Duchy, Duchy, Village, Province, Steward
+ 
+---------- yed: turn 22 [possessed] ----------
+yed - plays Village
+yed - draws Province
+yed - plays Steward
+yed - draws Possession, Militia
+yed - plays Fortress
+yed - shuffles deck
+yed - draws Steward
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Village
+Stef - gains Village
+yed - draws Duchy, Village, Fortress, Potion, Estate
+ 
+---------- yed: turn 22 ----------
+yed - plays Village
+yed - draws Duchy
+yed - plays Fortress
+yed - draws Steward
+yed - plays Steward
+yed - draws Militia, Village
+yed - plays Village
+yed - draws Junk Dealer
+yed - plays Junk Dealer
+yed - draws Duchy
+yed - trashes Potion
+yed - plays Militia
+Stef - discards Duchy
+Stef - discards Duchy
+yed - buys Forager
+yed - gains Forager
+yed - draws Duchy
+yed - shuffles deck
+yed - draws Militia, Steward, Village, Steward
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Village
+Stef - draws Possession
+Stef - plays Steward
+Stef - draws Duchy, Estate
+Stef - plays Possession
+Stef - draws Junk Dealer, Possession
+Stef - shuffles deck
+Stef - draws Village, Possession, Estate
+ 
+---------- yed: turn 23 [possessed] ----------
+yed - plays Village
+yed - draws Duchy
+yed - plays Steward
+yed - draws Village, Village
+yed - plays Village
+yed - draws Duchy
+yed - plays Village
+yed - draws Steward
+yed - plays Steward
+yed - draws Possession, Junk Dealer
+yed - plays Junk Dealer
+yed - draws Steward
+yed - trashes Possession
+yed - plays Steward
+yed - draws Fortress, Province
+yed - plays Fortress
+yed - draws Militia
+yed - plays Steward
+yed - draws Estate, Duchy
+yed - plays Militia
+Stef - discards Estate
+Stef - discards Junk Dealer
+yed - buys Village
+Stef - gains Village
+yed - draws Fortress, Estate, Forager
+yed - shuffles deck
+yed - draws Village, Village
+ 
+---------- yed: turn 23 ----------
+yed - plays Forager
+yed - trashes Fortress
+yed - plays Village
+yed - draws Duchy
+yed - plays Village
+yed - draws Duchy
+yed - plays Fortress
+yed - draws Fortress
+yed - plays Fortress
+yed - draws Steward
+yed - plays Steward
+yed - draws Estate, Province
+yed - buys Forager
+yed - gains Forager
+yed - draws Militia, Village, Steward, Steward, Duchy
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Village
+Stef - draws Possession
+Stef - plays Possession
+Stef - plays Possession
+Stef - draws Estate, Duchy, Duchy, Duchy, Village
+ 
+---------- yed: turn 24 [possessed] ----------
+yed - plays Village
+yed - draws Duchy
+yed - plays Steward
+yed - takes 2 coins
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Village
+Stef - gains Village
+yed - draws Militia, Junk Dealer, Steward
+yed - shuffles deck
+yed - draws Duchy, Village
+ 
+---------- yed: turn 24 [possessed] ----------
+yed - plays Junk Dealer
+yed - draws Estate
+yed - trashes Duchy
+yed - plays Steward
+yed - takes 2 coins
+yed - buys Village
+Stef - gains Village
+yed - draws Duchy, Possession, Fortress, Duchy, Steward
+ 
+------------ Game Over ------------
+Stef - cards: 7 Village, 3 Possession, 1 Junk Dealer, 1 Steward, 1 Fortress, 5 Estate, 4 Duchy, 1 Province
+Stef - total victory points: 23
+Stef - turns: 23
+ 
+yed - cards: 4 Steward, 3 Village, 2 Fortress, 2 Militia, 2 Forager, 1 Possession, 1 Junk Dealer, 4 Duchy, 2 Estate, 1 Province
+yed - total victory points: 20
+yed - turns: 23
+ 
+1st place: Stef
+2nd place: yed
+ 

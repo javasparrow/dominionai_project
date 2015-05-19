@@ -1,0 +1,663 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Doctor, Caravan, Navigator, Haggler, Mountebank, Saboteur, Fairgrounds, Bank, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Davio - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Davio - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+Davio - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Davio: turn 1 ----------
+Davio - plays 4 Copper
+Davio - buys Doctor
+Davio - overpays for Doctor with 1 coin
+Davio - looks at Estate
+Davio - trashes Estate
+Davio - gains Doctor
+Davio - draws Copper, Copper, Copper, Estate
+Davio - shuffles deck
+Davio - draws Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Doctor
+Stef - overpays for Doctor with 2 coins
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - gains Doctor
+Stef - draws Estate, Estate, Copper
+Stef - shuffles deck
+Stef - draws Doctor, Copper
+ 
+---------- Davio: turn 2 ----------
+Davio - plays 4 Copper
+Davio - buys Caravan
+Davio - gains Caravan
+Davio - draws Doctor, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Copper, Copper
+Stef - trashes Copper, Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Doctor, Estate, Copper, Copper
+ 
+---------- Davio: turn 3 ----------
+Davio - plays Doctor
+Davio - names Copper
+Davio - shuffles deck
+Davio - reveals: Copper, Caravan, Copper
+Davio - trashes Copper, Copper
+Davio - places Caravan on top of deck
+Davio - plays 3 Copper
+Davio - buys Silver
+Davio - gains Silver
+Davio - draws Caravan, Copper, Copper, Estate
+Davio - shuffles deck
+Davio - draws Doctor
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Estate, Embargo
+Stef - trashes Estate
+Stef - places Embargo on top of deck
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Embargo
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Copper
+ 
+---------- Davio: turn 4 ----------
+Davio - plays Caravan
+Davio - draws Silver
+Davio - plays Doctor
+Davio - names Estate
+Davio - reveals: Estate, Copper, Copper
+Davio - trashes Estate
+Davio - places Copper on top of deck
+Davio - places Copper on top of deck
+Davio - plays 2 Copper, 1 Silver
+Davio - buys Caravan
+Davio - gains Caravan
+Davio - draws Copper, Copper, Copper
+Davio - shuffles deck
+Davio - draws Estate, Caravan
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Embargo
+Stef - embargoes Caravan
+Stef - trashes Embargo
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Doctor, Estate
+Stef - shuffles deck
+Stef - draws Mountebank, Copper, Copper
+ 
+---------- Davio: turn 5 ----------
+Davio - duration Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws Silver
+Davio - plays 4 Copper, 1 Silver
+Davio - buys Haggler
+Davio - gains Haggler
+Davio - draws Doctor, Copper
+Davio - shuffles deck
+Davio - draws Caravan, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Mountebank, Doctor, Copper
+ 
+---------- Davio: turn 6 ----------
+Davio - duration Caravan
+Davio - draws Estate
+Davio - plays Caravan
+Davio - draws Silver
+Davio - plays Doctor
+Davio - names Copper
+Davio - reveals: Haggler, Copper, Copper
+Davio - trashes Copper, Copper
+Davio - places Haggler on top of deck
+Davio - plays 3 Copper, 1 Silver
+Davio - buys Mountebank
+Davio - gains Mountebank
+Davio - draws Haggler
+Davio - shuffles deck
+Davio - draws Silver, Doctor, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Estate, Copper, Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper
+ 
+---------- Davio: turn 7 ----------
+Davio - duration Caravan
+Davio - draws Mountebank
+Davio - plays Haggler
+Davio - plays 2 Copper, 1 Silver
+Davio - buys Gold
+Davio - gains Caravan
+Davio - gains Gold
+Davio - draws Copper, Copper, Estate, Curse, Caravan
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Haggler, Mountebank, Doctor, Copper
+Stef - shuffles deck
+Stef - draws Gold
+ 
+---------- Davio: turn 8 ----------
+Davio - plays Caravan
+Davio - shuffles deck
+Davio - draws Curse
+Davio - plays 2 Copper
+Davio - buys Embargo
+Davio - gains Embargo
+Davio - draws Gold, Silver, Copper, Haggler, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Haggler
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Caravan
+Stef - gains Gold
+Stef - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- Davio: turn 9 ----------
+Davio - duration Caravan
+Davio - draws Copper
+Davio - plays Haggler
+Davio - plays 3 Copper, 1 Gold, 1 Silver
+Davio - buys King's Court
+Davio - gains Caravan
+Davio - gains King's Court
+Davio - draws Caravan, Mountebank, Doctor, Caravan
+Davio - shuffles deck
+Davio - draws Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Silver, 2 Copper
+Stef - buys Caravan
+Stef - gains Curse
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Gold, Copper, Haggler, Copper, Silver
+ 
+---------- Davio: turn 10 ----------
+Davio - plays Caravan
+Davio - draws Caravan
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws Caravan
+Davio - plays Caravan
+Davio - draws Haggler
+Davio - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Davio - plays 2 Copper
+Davio - buys Caravan
+Davio - gains Curse
+Davio - gains Caravan
+Davio - draws Estate, Curse, Copper, King's Court, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Haggler
+Stef - plays 2 Copper, 1 Gold, 1 Silver
+Stef - buys King's Court
+Stef - gains Caravan
+Stef - gains King's Court
+Stef - draws Estate, Gold, Copper, Caravan, Mountebank
+ 
+---------- Davio: turn 11 ----------
+Davio - duration Caravan
+Davio - draws Copper
+Davio - duration Caravan
+Davio - draws Curse
+Davio - duration Caravan
+Davio - draws Gold
+Davio - duration Caravan
+Davio - draws Embargo
+Davio - plays King's Court
+Davio - plays Embargo
+Davio - embargoes Province
+Davio - plays Embargo
+Davio - embargoes Province
+Davio - plays Embargo
+Davio - embargoes Province
+Davio - trashes Embargo
+Davio - plays 3 Copper, 1 Gold
+Davio - buys King's Court
+Davio - gains King's Court
+Davio - draws Silver
+Davio - shuffles deck
+Davio - draws Copper, Gold, Copper, King's Court
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Silver, Caravan, Doctor
+Stef - shuffles deck
+Stef - draws Silver, Copper
+ 
+---------- Davio: turn 12 ----------
+Davio - plays King's Court
+Davio - plays 2 Copper, 1 Silver, 1 Gold
+Davio - buys King's Court
+Davio - gains King's Court
+Davio - draws Curse, Doctor, Caravan, Estate, Caravan
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Mountebank
+Stef - plays Mountebank
+Davio - discards Curse
+Stef - plays 2 Silver, 2 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Mountebank, Estate, King's Court, Gold, Curse
+ 
+---------- Davio: turn 13 ----------
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Caravan
+Davio - draws King's Court
+Davio - plays King's Court
+Davio - plays Doctor
+Davio - names Curse
+Davio - reveals: Caravan, Haggler, Copper
+Davio - places Copper on top of deck
+Davio - places Haggler on top of deck
+Davio - places Caravan on top of deck
+Davio - plays Doctor
+Davio - names Copper
+Davio - reveals: Caravan, Haggler, Copper
+Davio - trashes Copper
+Davio - places Haggler on top of deck
+Davio - places Caravan on top of deck
+Davio - plays Doctor
+Davio - names Copper
+Davio - reveals: Caravan, Haggler, Caravan
+Davio - places Caravan on top of deck
+Davio - places Haggler on top of deck
+Davio - places Caravan on top of deck
+Davio - draws Caravan, Haggler, Caravan, Mountebank, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - draws Curse
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays King's Court
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays Mountebank
+Davio - gains Curse
+Davio - gains Copper
+Stef - plays 1 Gold, 1 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Haggler, Gold, Copper
+Stef - shuffles deck
+Stef - draws King's Court, Copper
+ 
+---------- Davio: turn 14 ----------
+Davio - duration Caravan
+Davio - draws Copper
+Davio - duration Caravan
+Davio - draws Caravan
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Caravan
+Davio - shuffles deck
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws King's Court
+Davio - plays King's Court
+Davio - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Davio - plays Mountebank
+Stef - gains Copper
+Davio - plays Mountebank
+Stef - gains Copper
+Davio - plays 3 Copper
+Davio - buys Province
+Davio - gains Province
+Davio - draws King's Court, Gold, Estate, Silver, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays King's Court
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Gold
+Stef - buys Province
+Stef - gains King's Court
+Stef - gains Province
+Stef - draws Silver, Gold, Copper, Silver, Doctor
+ 
+---------- Davio: turn 15 ----------
+Davio - duration Caravan
+Davio - draws Copper
+Davio - duration Caravan
+Davio - draws Curse
+Davio - duration Caravan
+Davio - draws Copper
+Davio - plays King's Court
+Davio - plays 3 Copper, 1 Gold, 1 Silver
+Davio - buys Province
+Davio - gains Province
+Davio - draws Curse, Curse, Copper, Copper, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Doctor
+Stef - names Curse
+Stef - reveals: Mountebank, Caravan, Curse
+Stef - trashes Curse
+Stef - places Caravan on top of deck
+Stef - places Mountebank on top of deck
+Stef - plays 2 Silver, 1 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mountebank, Caravan, King's Court, Estate, Copper
+ 
+---------- Davio: turn 16 ----------
+Davio - plays 2 Copper
+Davio - buys Estate
+Davio - gains Estate
+Davio - draws Curse, Doctor, Curse, King's Court
+Davio - shuffles deck
+Davio - draws Caravan
+ 
+---------- Stef: turn 16 ----------
+Stef - plays King's Court
+Stef - plays Caravan
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws King's Court
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays King's Court
+Stef - plays Mountebank
+Davio - discards Curse
+Stef - plays Mountebank
+Davio - discards Curse
+Stef - plays Mountebank
+Davio - gains Copper
+Stef - plays Mountebank
+Davio - gains Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Caravan
+Stef - shuffles deck
+Stef - draws Copper, Doctor, Copper, Haggler
+ 
+---------- Davio: turn 17 ----------
+Davio - plays King's Court
+Davio - plays Caravan
+Davio - draws Gold
+Davio - plays Caravan
+Davio - draws Province
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Doctor
+Davio - names Copper
+Davio - reveals: Caravan, Haggler, Copper
+Davio - trashes Copper
+Davio - places Haggler on top of deck
+Davio - places Caravan on top of deck
+Davio - plays 1 Gold
+Davio - buys Estate
+Davio - gains Estate
+Davio - draws Caravan, Haggler, Curse, Copper, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - duration King's Court
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Gold
+Stef - duration Caravan
+Stef - draws Curse
+Stef - duration Caravan
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Province
+Stef - plays Haggler
+Stef - plays 3 Copper, 1 Gold
+Stef - buys Province
+Stef - gains King's Court
+Stef - gains Province
+Stef - draws Province, Copper, Silver, Silver, Copper
+ 
+---------- Davio: turn 18 ----------
+Davio - duration King's Court
+Davio - duration Caravan
+Davio - draws Caravan
+Davio - duration Caravan
+Davio - draws Curse
+Davio - duration Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws Estate
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Haggler
+Davio - plays 4 Copper
+Davio - buys Duchy
+Davio - gains Navigator
+Davio - gains Duchy
+Davio - draws Copper, Silver, Mountebank, Estate, Caravan
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Caravan
+Stef - draws Curse
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Mountebank, Copper, King's Court, King's Court, Gold
+ 
+---------- Davio: turn 19 ----------
+Davio - duration Caravan
+Davio - draws Province
+Davio - duration Caravan
+Davio - draws King's Court
+Davio - plays King's Court
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Caravan
+Davio - draws Caravan
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Mountebank
+Stef - gains Copper
+Davio - plays 2 Copper, 1 Silver
+Davio - buys Duchy
+Davio - gains Duchy
+Davio - draws Copper, King's Court
+Davio - shuffles deck
+Davio - draws Copper, Navigator, Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays King's Court
+Stef - plays Mountebank
+Davio - gains Copper
+Stef - plays Mountebank
+Davio - gains Copper
+Stef - plays Mountebank
+Davio - gains Copper
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, King's Court, Copper, Estate
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- Davio: turn 20 ----------
+Davio - duration King's Court
+Davio - duration Caravan
+Davio - draws Estate
+Davio - duration Caravan
+Davio - draws Curse
+Davio - duration Caravan
+Davio - draws Caravan
+Davio - duration Caravan
+Davio - draws Copper
+Davio - plays King's Court
+Davio - plays Caravan
+Davio - draws Estate
+Davio - plays Caravan
+Davio - draws Curse
+Davio - plays Caravan
+Davio - draws Duchy
+Davio - plays Navigator
+Davio - looks at Curse, Copper, Curse, Duchy, Silver
+Davio - discards: Curse, Copper, Curse, Duchy, Silver
+Davio - plays 3 Copper
+Davio - buys Duchy
+Davio - gains Duchy
+Davio - draws Copper, Curse, Curse, Doctor, Province
+ 
+---------- Stef: turn 20 ----------
+Stef - draws Caravan, Copper, Province, Silver, King's Court
+ 
+---------- Davio: turn 21 ----------
+Davio - duration King's Court
+Davio - duration Caravan
+Davio - draws Caravan
+Davio - duration Caravan
+Davio - draws Gold
+Davio - duration Caravan
+Davio - draws Mountebank
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Doctor
+Davio - names Curse
+Davio - reveals: Estate, King's Court, Copper
+Davio - places Estate on top of deck
+Davio - places Copper on top of deck
+Davio - places King's Court on top of deck
+Davio - plays 2 Copper, 1 Gold
+Davio - buys Duchy
+Davio - gains Duchy
+Davio - draws King's Court, Copper, Estate, Haggler, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays King's Court
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Mountebank
+Stef - plays Caravan
+Stef - draws Curse
+Stef - plays Mountebank
+Davio - discards Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - draws Province, Haggler, King's Court, Copper, Curse
+ 
+---------- Davio: turn 22 ----------
+Davio - duration Caravan
+Davio - draws Caravan
+Davio - plays King's Court
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - draws Copper
+Davio - plays Caravan
+Davio - shuffles deck
+Davio - draws Doctor
+Davio - plays Doctor
+Davio - names Curse
+Davio - reveals: King's Court, Duchy, Duchy
+Davio - places Duchy on top of deck
+Davio - places Duchy on top of deck
+Davio - places King's Court on top of deck
+Davio - plays Haggler
+Davio - plays 3 Copper
+Davio - buys Duchy
+Davio - gains Embargo
+Davio - gains Duchy
+Davio - draws King's Court, Duchy, Duchy, Caravan, Navigator
+ 
+---------- Stef: turn 22 ----------
+Stef - duration King's Court
+Stef - duration Caravan
+Stef - draws Copper
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Doctor
+Stef - duration Caravan
+Stef - draws Gold
+Stef - plays King's Court
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Province
+Stef - gains Saboteur
+Stef - gains Province
+Stef - draws Province, Mountebank, Gold, King's Court, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 5 King's Court, 3 Caravan, 2 Mountebank, 1 Saboteur, 1 Haggler, 1 Doctor, 8 Copper, 2 Gold, 2 Silver, 6 Province, 2 Fairgrounds, 1 Estate, 2 Curse
+Stef - total victory points: 43
+Stef - turns: 22
+ 
+Davio - cards: 5 Caravan, 3 King's Court, 12 Copper, 1 Navigator, 1 Embargo, 1 Doctor, 1 Haggler, 1 Mountebank, 1 Gold, 1 Silver, 5 Duchy, 3 Estate, 2 Province, 7 Curse
+Davio - total victory points: 23
+Davio - turns: 22
+ 
+1st place: Stef
+2nd place: Davio
+ 

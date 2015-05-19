@@ -1,0 +1,472 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Loan, Market Square, Tournament, Ghost Ship, Horn of Plenty, Merchant Ship, Mystic, Farmland, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Copper, Copper, Necropolis, Copper, Copper
+Rabid - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Loan
+Rabid - gains Loan
+Rabid - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Overgrown Estate, Copper, Hovel, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Tournament
+Rabid - gains Tournament
+Rabid - shuffles deck
+Rabid - draws Copper, Loan, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Loan
+Stef - gains Loan
+Stef - shuffles deck
+Stef - draws Copper, Hovel, Overgrown Estate, Copper, Tournament
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 4 Copper
+Rabid - plays Loan
+Rabid - reveals Copper
+Rabid - trashes Copper
+Rabid - buys Horn of Plenty
+Rabid - gains Horn of Plenty
+Rabid - draws Necropolis, Copper, Hovel, Copper, Tournament
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Necropolis, Copper, Loan, Copper, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Tournament
+Rabid - draws Overgrown Estate
+Rabid - plays 2 Copper
+Rabid - buys Market Square
+Rabid - gains Market Square
+Rabid - shuffles deck
+Rabid - draws Overgrown Estate, Market Square, Loan, Copper, Necropolis
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - shuffles deck
+Stef - draws Overgrown Estate, Tournament, Loan, Copper, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Loan
+Rabid - reveals Horn of Plenty
+Rabid - trashes Horn of Plenty
+Rabid - reveals reaction Market Square
+Rabid - discards Market Square
+Rabid - gains Gold
+Rabid - plays 1 Copper
+Rabid - buys Vagrant
+Rabid - gains Vagrant
+Rabid - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Tournament
+Stef - draws Hovel
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Copper, Tournament, Necropolis, Tournament
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays 4 Copper
+Rabid - buys Tournament
+Rabid - gains Tournament
+Rabid - draws Copper, Tournament
+Rabid - shuffles deck
+Rabid - draws Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Hovel
+Stef - plays 3 Copper
+Stef - buys Merchant Ship
+Stef - gains Merchant Ship
+Stef - draws Copper, Overgrown Estate, Loan, Tournament, Tournament
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Tournament
+Rabid - draws Tournament
+Rabid - plays Tournament
+Rabid - draws Necropolis
+Rabid - plays 3 Copper
+Rabid - buys Merchant Ship
+Rabid - gains Merchant Ship
+Rabid - draws Hovel, Copper, Gold, Copper, Market Square
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Loan
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - plays 3 Copper
+Stef - buys Farmland
+Stef - trashes Overgrown Estate
+Stef - draws Merchant Ship
+Stef - gains Market Square
+Stef - gains Farmland
+Stef - draws Hovel, Necropolis, Copper, Tournament, Tournament
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Market Square
+Rabid - draws Vagrant
+Rabid - plays Vagrant
+Rabid - draws Loan
+Rabid - reveals: Copper
+Rabid - places Copper on top of deck
+Rabid - plays Loan
+Rabid - reveals Copper
+Rabid - trashes Copper
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - shuffles deck
+Rabid - draws Copper, Vagrant, Tournament, Copper, Gold
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Tournament
+Stef - draws Loan
+Stef - plays 2 Copper
+Stef - plays Loan
+Stef - reveals Tournament, Market Square, Tournament, Farmland, Copper
+Stef - trashes Copper
+Stef - discards: Tournament, Market Square, Tournament, Farmland
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Merchant Ship, Copper
+Stef - shuffles deck
+Stef - draws Tournament, Loan, Tournament
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Vagrant
+Rabid - draws Hovel
+Rabid - reveals: Copper
+Rabid - places Copper on top of deck
+Rabid - plays Tournament
+Rabid - draws Copper
+Rabid - plays Copper
+Rabid - plays Gold
+Rabid - plays Copper
+Rabid - buys Farmland
+Rabid - trashes Copper
+Rabid - gains Vagrant
+Rabid - trashes Hovel
+Rabid - gains Farmland
+Rabid - draws Gold, Overgrown Estate, Copper, Market Square, Merchant Ship
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Tournament
+Stef - draws Necropolis
+Stef - plays Tournament
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Market Square
+Stef - reveals Market Square
+Stef - places Market Square in hand
+Stef - plays Necropolis
+Stef - plays Merchant Ship
+Stef - plays Loan
+Stef - reveals Hovel, Tournament, Copper
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - discards: Hovel, Tournament
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Farmland, Tournament, Copper
+Stef - shuffles deck
+Stef - draws Mystic, Tournament
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Merchant Ship
+Rabid - plays 1 Gold, 1 Copper
+Rabid - buys Farmland
+Rabid - trashes Overgrown Estate
+Rabid - reveals reaction Market Square
+Rabid - discards Market Square
+Rabid - gains Gold
+Rabid - draws Necropolis
+Rabid - gains Market Square
+Rabid - gains Farmland
+Rabid - draws Copper, Tournament, Loan
+Rabid - shuffles deck
+Rabid - draws Vagrant, Vagrant
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Merchant Ship
+Stef - plays Tournament
+Stef - draws Province
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - draws Followers
+Stef - plays Mystic
+Stef - names Tournament
+Stef - reveals Market Square
+Stef - plays Followers
+Stef - draws Market Square, Copper
+Stef - gains Estate
+Rabid - gains Curse
+Rabid - discards Copper
+Rabid - discards Vagrant
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Necropolis, Tournament, Loan, Hovel, Gold
+ 
+---------- Rabid: turn 11 ----------
+Rabid - duration Merchant Ship
+Rabid - plays Vagrant
+Rabid - draws Farmland
+Rabid - reveals: Market Square
+Rabid - places Market Square on top of deck
+Rabid - plays Tournament
+Rabid - draws Market Square
+Rabid - plays Loan
+Rabid - reveals Market Square, Farmland, Gold
+Rabid - discards Gold
+Rabid - discards: Market Square, Farmland
+Rabid - buys Tournament
+Rabid - gains Tournament
+Rabid - draws Gold, Necropolis, Copper, Copper, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Followers
+Stef - reveals Gold
+Stef - plays Gold
+Stef - plays Loan
+Stef - reveals Gold
+Stef - discards Gold
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - draws Estate, Tournament, Farmland, Market Square, Copper
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays 2 Gold
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper, Tournament
+Rabid - shuffles deck
+Rabid - draws Copper, Gold, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Market Square
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Followers
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays Followers
+Stef - draws Province, Merchant Ship
+Stef - gains Estate
+Rabid - gains Curse
+Rabid - discards Copper
+Rabid - discards Copper
+Stef - plays 2 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Farmland, Market Square, Merchant Ship, Estate
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Tournament
+Stef - reveals Province
+Rabid - plays 2 Gold
+Rabid - buys Grand Market
+Rabid - gains Grand Market
+Rabid - draws Loan, Curse, Merchant Ship, Market Square, Necropolis
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Merchant Ship
+Stef - plays Gold
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Mystic, Tournament, Copper, Tournament, Province
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Merchant Ship
+Rabid - plays Loan
+Rabid - reveals Vagrant, Tournament, Market Square, Farmland, Copper
+Rabid - trashes Copper
+Rabid - reveals reaction Market Square
+Rabid - discards Market Square
+Rabid - gains Gold
+Rabid - discards: Vagrant, Tournament, Market Square, Farmland
+Rabid - buys Vagrant
+Rabid - gains Vagrant
+Rabid - draws Tournament, Province, Vagrant, Copper, Gold
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Merchant Ship
+Stef - plays Tournament
+Stef - reveals Province
+Rabid - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - plays Mystic
+Stef - names Trusty Steed
+Stef - reveals Trusty Steed
+Stef - places Trusty Steed in hand
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Tournament, Copper
+Stef - plays 2 Copper
+Stef - buys Farmland
+Stef - trashes Tournament
+Stef - gains Grand Market
+Stef - gains Farmland
+Stef - draws Tournament, Tournament, Estate, Loan, Necropolis
+ 
+---------- Rabid: turn 15 ----------
+Rabid - duration Merchant Ship
+Rabid - plays Tournament
+Rabid - reveals Province
+Rabid - discards Province
+Rabid - gains Princess
+Rabid - draws Princess
+Rabid - plays Vagrant
+Rabid - draws Farmland
+Rabid - shuffles deck
+Rabid - reveals: Market Square
+Rabid - places Market Square on top of deck
+Rabid - plays Princess
+Rabid - plays Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Market Square, Curse, Necropolis, Vagrant, Tournament
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Tournament
+Stef - draws Gold
+Stef - plays Tournament
+Stef - draws Followers
+Stef - plays Necropolis
+Stef - plays Followers
+Stef - draws Province
+Stef - shuffles deck
+Stef - draws Grand Market
+Stef - gains Estate
+Rabid - gains Curse
+Rabid - discards Curse
+Rabid - discards Necropolis
+Stef - plays Grand Market
+Stef - draws Estate
+Stef - plays Gold
+Stef - plays Loan
+Stef - reveals Trusty Steed, Province, Mystic, Tournament, Vagrant, Merchant Ship, Market Square, Copper
+Stef - trashes Copper
+Stef - discards: Trusty Steed, Province, Mystic, Tournament, Vagrant, Merchant Ship, Market Square
+Stef - buys Province
+Stef - gains Province
+Stef - draws Tournament, Province, Gold, Farmland, Copper
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Vagrant
+Rabid - draws Copper
+Rabid - reveals: Copper
+Rabid - places Copper on top of deck
+Rabid - plays Market Square
+Rabid - draws Copper
+Rabid - plays Tournament
+Stef - reveals Province
+Rabid - plays 2 Copper
+Rabid - buys Vagrant
+Rabid - gains Vagrant
+Rabid - draws Gold, Tournament, Loan, Farmland, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Diadem
+Stef - draws Diadem
+Stef - plays Diadem
+Stef - plays Copper
+Stef - plays Gold
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - draws Vagrant, Farmland
+Stef - shuffles deck
+Stef - draws Province, Estate, Grand Market
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Tournament
+Stef - reveals Province
+Rabid - plays Gold
+Rabid - plays Gold
+Rabid - buys Farmland
+Rabid - trashes Farmland
+Rabid - gains Province
+Rabid - gains Farmland
+Rabid - draws Grand Market, Market Square, Gold, Province, Vagrant
+ 
+------------ Game Over ------------
+Stef - cards: 4 Tournament, 2 Vagrant, 1 Grand Market, 1 Followers, 1 Trusty Steed, 1 Mystic, 1 Market Square, 1 Merchant Ship, 1 Necropolis, 2 Gold, 1 Copper, 1 Loan, 1 Diadem, 5 Province, 3 Estate, 2 Farmland
+Stef - total victory points: 37
+Stef - turns: 16
+ 
+Rabid - cards: 4 Vagrant, 3 Tournament, 2 Market Square, 1 Grand Market, 1 Merchant Ship, 1 Princess, 1 Necropolis, 4 Gold, 3 Copper, 1 Loan, 3 Province, 2 Farmland, 3 Curse
+Rabid - total victory points: 19
+Rabid - turns: 17
+ 
+1st place: Stef
+2nd place: Rabid
+ 

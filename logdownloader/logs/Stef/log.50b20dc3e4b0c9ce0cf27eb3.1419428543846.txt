@@ -1,0 +1,490 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Fortune Teller, Sage, Trade Route, Margrave, Trading Post, Tribute, Witch, Border Village, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+theParty - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 3 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 4 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - shuffles deck
+theParty - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Silver, Estate, Estate
+ 
+---------- theParty: turn 3 ----------
+theParty - plays 3 Copper, 1 Silver
+theParty - buys Witch
+theParty - gains Witch
+theParty - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- theParty: turn 4 ----------
+theParty - plays 3 Copper
+theParty - buys Sage
+theParty - gains Sage
+theParty - draws Copper, Silver
+theParty - shuffles deck
+theParty - draws Silver, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Witch
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper, Estate
+ 
+---------- theParty: turn 5 ----------
+theParty - plays 2 Copper, 2 Silver
+theParty - buys Border Village
+theParty - gains Border Village
+theParty - gains Witch
+theParty - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Witch, Estate, Silver, Copper, Silver
+ 
+---------- theParty: turn 6 ----------
+theParty - plays 4 Copper
+theParty - buys Sage
+theParty - gains Sage
+theParty - draws Copper, Estate, Sage, Witch
+theParty - shuffles deck
+theParty - draws Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Witch
+Stef - draws Copper, Copper
+theParty - gains Curse
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Margrave
+Stef - draws Copper, Sage, Border Village
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Sage
+theParty - reveals Witch
+theParty - places Witch in hand
+theParty - plays Witch
+theParty - draws Silver, Estate
+Stef - gains Curse
+theParty - plays 1 Copper, 1 Silver
+theParty - buys Sage
+theParty - gains Sage
+theParty - draws Copper, Copper, Border Village, Silver, Sage
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Sage
+Stef - reveals Margrave
+Stef - places Margrave in hand
+Stef - plays Margrave
+Stef - draws Copper, Copper, Silver
+theParty - draws Copper
+theParty - discards Copper
+theParty - discards Copper
+theParty - discards Copper
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Trading Post
+Stef - draws Copper, Silver, Estate, Estate, Border Village
+ 
+---------- theParty: turn 8 ----------
+theParty - plays Sage
+theParty - shuffles deck
+theParty - reveals Copper, Copper, Copper, Copper, Copper, Sage
+theParty - places Sage in hand
+theParty - discards: Copper, Copper, Copper, Copper, Copper
+theParty - plays Sage
+theParty - reveals Silver
+theParty - places Silver in hand
+theParty - plays Border Village
+theParty - draws Sage
+theParty - plays Sage
+theParty - reveals Witch
+theParty - places Witch in hand
+theParty - plays Witch
+theParty - draws Estate, Estate
+Stef - gains Curse
+theParty - plays 2 Silver
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Estate, Curse, Copper, Copper, Witch
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Border Village
+Stef - draws Estate
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Witch, Sage
+Stef - shuffles deck
+Stef - draws Border Village, Copper, Copper
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Witch
+theParty - shuffles deck
+theParty - draws Estate, Estate
+Stef - gains Curse
+theParty - draws Silver, Silver, Sage, Sage, Sage
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Sage
+Stef - reveals Copper, Copper, Silver
+Stef - places Silver in hand
+Stef - discards: Copper, Copper
+Stef - plays Witch
+Stef - draws Border Village, Copper
+theParty - gains Curse
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Margrave
+Stef - draws Trading Post, Border Village, Copper, Estate, Curse
+ 
+---------- theParty: turn 10 ----------
+theParty - plays Sage
+theParty - reveals Border Village
+theParty - places Border Village in hand
+theParty - plays Sage
+theParty - reveals Copper, Copper, Copper, Silver
+theParty - places Silver in hand
+theParty - discards: Copper, Copper, Copper
+theParty - plays Sage
+theParty - reveals Copper, Copper, Witch
+theParty - places Witch in hand
+theParty - discards: Copper, Copper
+theParty - plays Border Village
+theParty - shuffles deck
+theParty - draws Estate
+theParty - plays Witch
+theParty - draws Estate, Curse
+Stef - gains Curse
+theParty - plays 3 Silver
+theParty - buys Border Village
+theParty - gains Border Village
+theParty - gains Margrave
+theParty - draws Copper, Copper, Curse, Copper, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Border Village
+Stef - draws Estate
+Stef - plays Trading Post
+Stef - trashes Curse, Estate
+Stef - gains Silver
+Stef - draws Margrave, Sage, Sage, Estate, Curse
+ 
+---------- theParty: turn 11 ----------
+theParty - plays 3 Copper
+theParty - buys Sage
+theParty - gains Sage
+theParty - draws Copper, Witch, Copper, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Curse, Margrave
+Stef - places Margrave in hand
+Stef - discards Curse
+Stef - plays Sage
+Stef - reveals Copper, Border Village
+Stef - places Border Village in hand
+Stef - discards Copper
+Stef - plays Border Village
+Stef - draws Estate
+Stef - plays Margrave
+Stef - draws Witch, Copper, Silver
+theParty - shuffles deck
+theParty - draws Sage
+theParty - discards Copper
+theParty - discards Copper
+theParty - discards Copper
+Stef - plays Witch
+Stef - draws Copper, Silver
+theParty - gains Curse
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Margrave
+Stef - draws Trading Post, Sage, Border Village, Copper, Border Village
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Sage
+theParty - reveals Estate, Sage
+theParty - places Sage in hand
+theParty - discards Estate
+theParty - plays Sage
+theParty - reveals Copper, Estate, Border Village
+theParty - places Border Village in hand
+theParty - discards: Copper, Estate
+theParty - plays Border Village
+theParty - draws Witch
+theParty - plays Witch
+theParty - draws Copper, Curse
+Stef - gains Curse
+theParty - plays Witch
+theParty - draws Sage, Border Village
+Stef - gains Curse
+theParty - draws Silver, Silver, Estate, Curse, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Sage
+Stef - reveals Copper, Silver
+Stef - places Silver in hand
+Stef - discards Copper
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Border Village
+Stef - draws Curse
+Stef - plays Trading Post
+Stef - trashes Curse, Copper
+Stef - gains Silver
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Silver, Curse, Curse, Estate
+ 
+---------- theParty: turn 13 ----------
+theParty - plays 3 Silver
+theParty - buys Border Village
+theParty - gains Border Village
+theParty - gains Trading Post
+theParty - draws Sage, Margrave, Copper
+theParty - shuffles deck
+theParty - draws Witch, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - draws Estate, Sage, Copper, Copper, Margrave
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Sage
+theParty - reveals Copper, Silver
+theParty - places Silver in hand
+theParty - discards Copper
+theParty - plays Witch
+theParty - draws Copper, Copper
+Stef - gains Curse
+theParty - plays 3 Copper, 1 Silver
+theParty - buys Margrave
+theParty - gains Margrave
+theParty - draws Witch, Silver, Copper, Border Village, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Sage
+Stef - reveals Witch
+Stef - places Witch in hand
+Stef - plays Margrave
+Stef - draws Copper, Sage, Border Village
+theParty - draws Border Village
+theParty - discards Copper
+theParty - discards Estate
+theParty - discards Witch
+Stef - draws Border Village, Copper, Silver, Margrave, Border Village
+ 
+---------- theParty: turn 15 ----------
+theParty - plays Border Village
+theParty - draws Curse
+theParty - plays Border Village
+theParty - draws Silver
+theParty - plays 2 Silver
+theParty - buys Trade Route
+theParty - gains Trade Route
+theParty - draws Trading Post, Sage, Copper, Border Village, Curse
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Border Village
+Stef - draws Margrave
+Stef - plays Border Village
+Stef - draws Border Village
+Stef - plays Border Village
+Stef - draws Curse
+Stef - plays Margrave
+Stef - draws Border Village, Margrave, Copper
+theParty - draws Sage
+theParty - discards Copper
+theParty - discards Sage
+theParty - discards Sage
+Stef - plays Border Village
+Stef - draws Trading Post
+Stef - plays Margrave
+Stef - draws Silver, Silver, Sage
+theParty - draws Curse
+theParty - discards Border Village
+Stef - plays Margrave
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Sage, Copper
+theParty - draws Sage
+theParty - discards Sage
+Stef - plays Sage
+Stef - reveals Witch
+Stef - places Witch in hand
+Stef - plays Sage
+Stef - reveals Estate, Margrave
+Stef - places Margrave in hand
+Stef - discards Estate
+Stef - plays Margrave
+Stef - draws Curse, Curse, Copper
+theParty - draws Estate
+theParty - discards Estate
+Stef - plays Trading Post
+Stef - trashes Curse, Curse
+Stef - gains Silver
+Stef - plays 4 Copper, 4 Silver
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Estate, Silver, Copper, Border Village, Sage
+ 
+---------- theParty: turn 16 ----------
+theParty - plays Trading Post
+theParty - trashes Curse, Curse
+theParty - gains Silver
+theParty - draws Copper
+theParty - shuffles deck
+theParty - draws Border Village, Silver, Estate, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Sage
+Stef - shuffles deck
+Stef - reveals Curse, Copper, Estate, Curse, Silver
+Stef - places Silver in hand
+Stef - discards: Curse, Copper, Estate, Curse
+Stef - plays Border Village
+Stef - draws Trading Post
+Stef - plays Trading Post
+Stef - trashes Copper, Estate
+Stef - gains Silver
+Stef - plays 3 Silver
+Stef - buys Border Village
+Stef - gains Border Village
+Stef - gains Tribute
+Stef - draws Border Village, Margrave, Border Village, Colony, Margrave
+ 
+---------- theParty: turn 17 ----------
+theParty - plays Border Village
+theParty - draws Silver
+theParty - plays 2 Copper, 2 Silver
+theParty - buys Border Village
+theParty - gains Border Village
+theParty - gains Margrave
+theParty - draws Silver, Trading Post, Estate, Border Village, Curse
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Margrave, Copper, Copper
+theParty - draws Sage
+theParty - discards Trading Post
+theParty - discards Estate
+theParty - discards Curse
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays Margrave
+Stef - draws Margrave, Witch, Border Village
+theParty - draws Copper
+theParty - discards Copper
+Stef - plays Border Village
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Sage, Silver, Border Village
+theParty - draws Silver
+theParty - discards Silver
+Stef - plays Border Village
+Stef - draws Sage
+Stef - plays Margrave
+Stef - draws Silver, Curse
+Stef - shuffles deck
+Stef - draws Trading Post
+theParty - draws Border Village
+theParty - discards Silver
+Stef - plays Sage
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Sage
+Stef - reveals Border Village
+Stef - places Border Village in hand
+Stef - plays Border Village
+Stef - draws Tribute
+Stef - plays Tribute
+theParty - reveals: Estate, Witch
+Stef - receives 2 actions
+Stef - draws Curse, Border Village
+theParty - discards: Estate, Witch
+Stef - plays Border Village
+Stef - draws Silver
+Stef - plays Witch
+Stef - draws Copper, Estate
+Stef - plays Trading Post
+Stef - trashes Curse, Curse
+Stef - gains Silver
+Stef - plays 6 Silver, 5 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Sage
+Stef - gains Sage
+Stef - buys Province
+Stef - gains Province
+Stef - draws Curse, Silver, Sage
+Stef - shuffles deck
+Stef - draws Sage, Margrave
+ 
+------------ Game Over ------------
+Stef - cards: 6 Sage, 6 Border Village, 4 Margrave, 1 Tribute, 1 Trading Post, 1 Witch, 7 Silver, 5 Copper, 1 Province, 1 Colony, 1 Estate, 1 Curse
+Stef - total victory points: 16
+Stef - turns: 17
+ 
+theParty - cards: 4 Border Village, 4 Sage, 3 Margrave, 2 Witch, 1 Trading Post, 1 Trade Route, 7 Copper, 4 Silver, 3 Estate, 1 Curse
+theParty - total victory points: 2
+theParty - turns: 17
+ 
+1st place: Stef
+2nd place: theParty
+ 

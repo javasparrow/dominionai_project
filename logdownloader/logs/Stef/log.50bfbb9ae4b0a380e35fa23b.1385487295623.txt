@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Courtyard, Embargo, Forager, Bridge, Moneylender, Plaza, Mystic, Altar, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - shuffles deck
+Stef - shuffles deck
+RTT - draws Copper, Copper, Estate, Estate, Estate
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 2 Copper
+RTT - buys Courtyard
+RTT - gains Courtyard
+RTT - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - shuffles deck
+Stef - draws Estate, Copper, Moneylender, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 5 Copper
+RTT - buys Moneylender
+RTT - gains Moneylender
+RTT - shuffles deck
+RTT - draws Estate, Courtyard, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Copper, Forager, Copper, Copper, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Courtyard
+RTT - draws Moneylender, Copper, Copper
+RTT - places Moneylender on top of deck
+RTT - plays 4 Copper
+RTT - buys Plaza
+RTT - gains Plaza
+RTT - draws Moneylender, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays 2 Copper
+RTT - buys Mystic
+RTT - gains Mystic
+RTT - shuffles deck
+RTT - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Forager, Copper, Plaza, Copper, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays 4 Copper
+RTT - buys Plaza
+RTT - gains Plaza
+RTT - draws Moneylender, Plaza, Copper, Estate, Courtyard
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Plaza
+Stef - draws Moneylender
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - uses 1 coin token
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Mystic
+Stef - shuffles deck
+Stef - draws Copper, Moneylender, Plaza, Estate
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Plaza
+RTT - draws Copper
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Courtyard
+RTT - draws Estate, Mystic
+RTT - shuffles deck
+RTT - draws Copper
+RTT - places Estate on top of deck
+RTT - plays Mystic
+RTT - names Estate
+RTT - reveals Estate
+RTT - places Estate in hand
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - uses 1 coin token
+RTT - buys Grand Market
+RTT - gains Grand Market
+RTT - draws Plaza, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Plaza
+Stef - draws Forager
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Courtyard
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Courtyard, Copper, Mystic, Copper, Copper
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Plaza
+RTT - draws Copper
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays 3 Copper
+RTT - buys Forager
+RTT - gains Forager
+RTT - shuffles deck
+RTT - draws Copper, Copper, Estate, Forager, Courtyard
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Mystic
+Stef - names Estate
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Courtyard
+Stef - shuffles deck
+Stef - draws Moneylender, Plaza, Mystic
+Stef - places Mystic on top of deck
+Stef - plays 3 Copper
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - draws Mystic, Grand Market, Forager
+Stef - shuffles deck
+Stef - draws Plaza, Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Forager
+RTT - trashes Estate
+RTT - plays Courtyard
+RTT - draws Copper, Plaza, Estate
+RTT - places Plaza on top of deck
+RTT - plays 3 Copper
+RTT - buys Plaza
+RTT - gains Plaza
+RTT - draws Plaza, Copper, Estate, Grand Market, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Plaza
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Copper
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Grand Market
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Courtyard
+Stef - reveals Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - uses 1 coin token
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Copper, Courtyard, Moneylender, Estate
+Stef - shuffles deck
+Stef - draws Plaza
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Grand Market
+RTT - draws Moneylender
+RTT - plays Plaza
+RTT - draws Mystic
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Mystic
+RTT - names Estate
+RTT - reveals Plaza
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - buys Plaza
+RTT - gains Plaza
+RTT - buys Courtyard
+RTT - gains Courtyard
+RTT - draws Plaza
+RTT - shuffles deck
+RTT - draws Copper, Plaza, Mystic, Plaza
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Plaza
+Stef - draws Mystic
+Stef - plays Courtyard
+Stef - draws Bridge, Forager, Grand Market
+Stef - places Copper on top of deck
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays Bridge
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Courtyard
+Stef - gains Courtyard
+Stef - draws Plaza
+Stef - shuffles deck
+Stef - draws Mystic, Grand Market, Forager, Courtyard
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Plaza
+RTT - draws Copper
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Plaza
+RTT - draws Forager
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Plaza
+RTT - draws Grand Market
+RTT - plays Grand Market
+RTT - draws Courtyard
+RTT - plays Courtyard
+RTT - draws Plaza, Copper, Courtyard
+RTT - places Copper on top of deck
+RTT - plays Mystic
+RTT - names Copper
+RTT - reveals Copper
+RTT - places Copper in hand
+RTT - plays Plaza
+RTT - draws Copper
+RTT - plays Courtyard
+RTT - draws Moneylender, Estate, Estate
+RTT - places Copper on top of deck
+RTT - plays Moneylender
+RTT - trashes Copper
+RTT - plays Forager
+RTT - trashes Estate
+RTT - buys Grand Market
+RTT - gains Grand Market
+RTT - buys Courtyard
+RTT - gains Courtyard
+RTT - draws Copper
+RTT - shuffles deck
+RTT - draws Plaza, Mystic, Courtyard, Courtyard
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Plaza
+Stef - draws Courtyard
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Courtyard
+Stef - draws Grand Market, Moneylender, Mystic
+Stef - places Grand Market on top of deck
+Stef - plays Mystic
+Stef - names Grand Market
+Stef - reveals Grand Market
+Stef - places Grand Market in hand
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Grand Market
+Stef - plays Courtyard
+Stef - draws Plaza, Bridge
+Stef - shuffles deck
+Stef - draws Copper
+Stef - places Bridge on top of deck
+Stef - plays Plaza
+Stef - draws Bridge
+Stef - discards Copper
+Stef - receives 1 coin token
+Stef - plays Mystic
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Grand Market
+Stef - plays Bridge
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - uses 1 coin token
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Courtyard, Grand Market, Grand Market, Mystic
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Plaza
+RTT - draws Courtyard
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Courtyard
+RTT - draws Copper, Grand Market, Grand Market
+RTT - places Copper on top of deck
+RTT - plays Mystic
+RTT - names Copper
+RTT - reveals Copper
+RTT - places Copper in hand
+RTT - plays Grand Market
+RTT - draws Forager
+RTT - plays Grand Market
+RTT - draws Copper
+RTT - plays Forager
+RTT - trashes Copper
+RTT - plays Courtyard
+RTT - draws Moneylender, Plaza, Plaza
+RTT - places Plaza on top of deck
+RTT - plays Copper
+RTT - buys Bridge
+RTT - gains Bridge
+RTT - buys Bridge
+RTT - gains Bridge
+RTT - draws Plaza, Estate, Plaza
+RTT - shuffles deck
+RTT - draws Courtyard, Forager
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Grand Market
+Stef - draws Courtyard
+Stef - plays Plaza
+Stef - draws Moneylender
+Stef - plays Courtyard
+Stef - draws Grand Market, Bridge, Mystic
+Stef - places Forager on top of deck
+Stef - plays Mystic
+Stef - names Forager
+Stef - reveals Forager
+Stef - places Forager in hand
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Plaza
+Stef - plays Forager
+Stef - trashes Moneylender
+Stef - plays Bridge
+Stef - plays Mystic
+Stef - names Embargo
+Stef - plays Courtyard
+Stef - places Plaza on top of deck
+Stef - uses 1 coin token
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Plaza
+Stef - shuffles deck
+Stef - draws Grand Market, Mystic, Grand Market, Bridge
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Plaza
+RTT - draws Copper
+RTT - discards Copper
+RTT - receives 1 coin token
+RTT - plays Plaza
+RTT - draws Grand Market
+RTT - plays Grand Market
+RTT - draws Moneylender
+RTT - plays Courtyard
+RTT - draws Bridge, Courtyard, Mystic
+RTT - places Estate on top of deck
+RTT - plays Mystic
+RTT - names Estate
+RTT - reveals Estate
+RTT - places Estate in hand
+RTT - plays Courtyard
+RTT - draws Copper, Courtyard, Bridge
+RTT - places Moneylender on top of deck
+RTT - plays Forager
+RTT - trashes Estate
+RTT - plays Bridge
+RTT - plays Copper
+RTT - buys Mystic
+RTT - gains Mystic
+RTT - buys Courtyard
+RTT - gains Courtyard
+RTT - draws Moneylender, Grand Market, Plaza, Plaza
+RTT - shuffles deck
+RTT - draws Bridge
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Grand Market
+Stef - draws Mystic
+Stef - plays Grand Market
+Stef - draws Bridge
+Stef - plays Plaza
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Plaza
+Stef - draws Courtyard
+Stef - plays Courtyard
+Stef - draws Grand Market, Grand Market, Grand Market
+Stef - places Bridge on top of deck
+Stef - plays Mystic
+Stef - names Bridge
+Stef - reveals Bridge
+Stef - places Bridge in hand
+Stef - plays Grand Market
+Stef - draws Plaza
+Stef - plays Grand Market
+Stef - draws Bridge
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Plaza
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Courtyard
+Stef - plays Mystic
+Stef - names Plaza
+Stef - reveals Plaza
+Stef - places Plaza in hand
+Stef - plays Plaza
+Stef - plays Forager
+Stef - trashes Courtyard
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - buys Plaza
+Stef - gains Plaza
+Stef - buys Province
+Stef - gains Province
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Bridge, Plaza, Bridge, Duchy, Grand Market
+ 
+------------ Game Over ------------
+Stef - cards: 8 Grand Market, 6 Plaza, 3 Bridge, 2 Mystic, 1 Forager, 1 Courtyard, 8 Duchy, 2 Estate, 1 Province
+Stef - total victory points: 32
+Stef - turns: 13
+ 
+RTT - cards: 4 Plaza, 4 Courtyard, 2 Grand Market, 2 Bridge, 2 Mystic, 1 Moneylender, 1 Forager, 2 Copper
+RTT - total victory points: 0
+RTT - turns: 12
+ 
+1st place: Stef
+2nd place: RTT
+ 

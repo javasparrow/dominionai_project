@@ -1,0 +1,480 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Lookout, Warehouse, Woodcutter, Cutpurse, Mining Village, Cache, Mandarin, Mine, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+romanesque_pkm - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+romanesque_pkm - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Hovel
+romanesque_pkm - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - draws Copper, Necropolis, Overgrown Estate, Copper, Copper
+ 
+---------- romanesque_pkm: turn 1 ----------
+romanesque_pkm - plays 5 Copper
+romanesque_pkm - buys Mine
+romanesque_pkm - gains Mine
+romanesque_pkm - draws Copper, Copper, Overgrown Estate, Hovel, Necropolis
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lookout
+Stef - gains Lookout
+Stef - shuffles deck
+Stef - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- romanesque_pkm: turn 2 ----------
+romanesque_pkm - plays Necropolis
+romanesque_pkm - plays 2 Copper
+romanesque_pkm - buys Estate
+romanesque_pkm - trashes Hovel
+romanesque_pkm - gains Estate
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Estate, Copper, Overgrown Estate, Copper, Necropolis
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - draws Lookout, Copper, Hovel, Necropolis, Lookout
+ 
+---------- romanesque_pkm: turn 3 ----------
+romanesque_pkm - draws Copper, Copper, Copper, Mine, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Lookout
+Stef - trashes Overgrown Estate
+Stef - draws Mining Village
+Stef - discards Copper
+Stef - places Copper on top of deck
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Copper
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Poor House, Necropolis, Copper
+ 
+---------- romanesque_pkm: turn 4 ----------
+romanesque_pkm - plays Mine
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Silver
+romanesque_pkm - plays 3 Copper, 1 Silver
+romanesque_pkm - buys Mandarin
+romanesque_pkm - gains Mandarin
+romanesque_pkm - places Copper on top of deck
+romanesque_pkm - places Copper on top of deck
+romanesque_pkm - places Copper on top of deck
+romanesque_pkm - places Silver on top of deck
+romanesque_pkm - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Copper, Lookout, Lookout, Copper, Hovel
+ 
+---------- romanesque_pkm: turn 5 ----------
+romanesque_pkm - plays 4 Copper, 1 Silver
+romanesque_pkm - buys Gold
+romanesque_pkm - gains Gold
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Estate, Necropolis, Mine, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Copper
+Stef - places Mining Village on top of deck
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Mining Village
+Stef - places Warehouse on top of deck
+Stef - plays Copper
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - draws Warehouse, Necropolis, Copper, Poor House
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- romanesque_pkm: turn 6 ----------
+romanesque_pkm - plays Necropolis
+romanesque_pkm - plays Mine
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Silver
+romanesque_pkm - plays 1 Copper, 1 Silver
+romanesque_pkm - buys Lookout
+romanesque_pkm - gains Lookout
+romanesque_pkm - draws Copper, Copper, Silver, Overgrown Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Warehouse
+Stef - draws Poor House, Mining Village, Lookout
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Necropolis
+Stef - plays Mining Village
+Stef - draws Copper
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Hovel
+Stef - places Lookout on top of deck
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Copper
+Stef - plays Poor House
+Stef - reveals hand: Copper
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - draws Lookout
+Stef - shuffles deck
+Stef - draws Lookout, Poor House, Poor House, Hovel
+ 
+---------- romanesque_pkm: turn 7 ----------
+romanesque_pkm - plays 3 Copper, 1 Silver
+romanesque_pkm - buys Warehouse
+romanesque_pkm - gains Warehouse
+romanesque_pkm - draws Gold, Mandarin, Copper
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Mining Village
+Stef - places Copper on top of deck
+Stef - plays Lookout
+Stef - trashes Copper
+Stef - discards Warehouse
+Stef - places Hunting Grounds on top of deck
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Hovel
+Stef - buys Woodcutter
+Stef - gains Woodcutter
+Stef - draws Hunting Grounds, Necropolis, Copper
+Stef - shuffles deck
+Stef - draws Woodcutter, Poor House
+ 
+---------- romanesque_pkm: turn 8 ----------
+romanesque_pkm - plays Mandarin
+romanesque_pkm - places Estate on top of deck
+romanesque_pkm - plays 2 Copper, 1 Gold
+romanesque_pkm - buys Province
+romanesque_pkm - gains Province
+romanesque_pkm - draws Estate, Copper, Warehouse, Silver, Mine
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Necropolis
+Stef - plays Hunting Grounds
+Stef - draws Warehouse, Poor House, Hovel, Lookout
+Stef - plays Warehouse
+Stef - draws Mining Village, Lookout
+Stef - discards Copper
+Stef - discards Woodcutter
+Stef - discards Lookout
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Copper
+Stef - discards Lookout
+Stef - places Woodcutter on top of deck
+Stef - plays Mining Village
+Stef - draws Woodcutter
+Stef - plays Woodcutter
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Hovel
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Poor House
+Stef - gains Poor House
+Stef - shuffles deck
+Stef - draws Woodcutter, Hunting Grounds, Lookout, Necropolis, Poor House
+ 
+---------- romanesque_pkm: turn 9 ----------
+romanesque_pkm - plays Warehouse
+romanesque_pkm - draws Overgrown Estate, Necropolis, Copper
+romanesque_pkm - discards Estate
+romanesque_pkm - discards Overgrown Estate
+romanesque_pkm - discards Necropolis
+romanesque_pkm - plays Mine
+romanesque_pkm - trashes Silver
+romanesque_pkm - gains Gold
+romanesque_pkm - plays 2 Copper, 1 Gold
+romanesque_pkm - buys Silver
+romanesque_pkm - gains Silver
+romanesque_pkm - draws Silver, Copper, Lookout
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Mine, Warehouse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Necropolis
+Stef - plays Hunting Grounds
+Stef - draws Mining Village, Lookout, Warehouse, Hovel
+Stef - plays Warehouse
+Stef - draws Poor House, Mining Village, Poor House
+Stef - discards Lookout
+Stef - discards Poor House
+Stef - discards Poor House
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Lookout
+Stef - discards Poor House
+Stef - places Poor House on top of deck
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Poor House
+Stef - plays Woodcutter
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Hovel, Poor House
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Hovel
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Mining Village, Hunting Grounds, Mining Village, Mining Village, Poor House
+ 
+---------- romanesque_pkm: turn 10 ----------
+romanesque_pkm - plays Lookout
+romanesque_pkm - trashes Necropolis
+romanesque_pkm - discards Copper
+romanesque_pkm - places Copper on top of deck
+romanesque_pkm - plays Warehouse
+romanesque_pkm - draws Copper, Mandarin, Province
+romanesque_pkm - discards Province
+romanesque_pkm - discards Copper
+romanesque_pkm - discards Copper
+romanesque_pkm - plays Mandarin
+romanesque_pkm - places Mine on top of deck
+romanesque_pkm - plays 1 Silver
+romanesque_pkm - buys Mining Village
+romanesque_pkm - gains Mining Village
+romanesque_pkm - draws Mine, Gold, Overgrown Estate, Gold, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Hunting Grounds
+Stef - draws Warehouse, Necropolis, Lookout, Poor House
+Stef - plays Mining Village
+Stef - draws Woodcutter
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Hovel
+Stef - plays Woodcutter
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Poor House, Warehouse, Necropolis, Lookout, Hovel
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Warehouse, Necropolis, Lookout, Hovel
+Stef - plays Poor House
+Stef - reveals hand: Warehouse, Necropolis, Lookout, Hovel
+Stef - buys Province
+Stef - trashes Hovel
+Stef - gains Province
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - shuffles deck
+Stef - draws Hunting Grounds, Mining Village, Woodcutter, Mining Village, Poor House
+ 
+---------- romanesque_pkm: turn 11 ----------
+romanesque_pkm - plays Mine
+romanesque_pkm - trashes Copper
+romanesque_pkm - gains Silver
+romanesque_pkm - plays 2 Gold, 1 Silver
+romanesque_pkm - buys Province
+romanesque_pkm - gains Province
+romanesque_pkm - draws Estate, Copper, Silver
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Copper, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Mining Village
+Stef - draws Necropolis
+Stef - plays Hunting Grounds
+Stef - draws Lookout, Poor House, Warehouse, Province
+Stef - plays Warehouse
+Stef - draws Mining Village, Mining Village, Hunting Grounds
+Stef - discards Province
+Stef - discards Necropolis
+Stef - discards Hunting Grounds
+Stef - plays Lookout
+Stef - shuffles deck
+Stef - trashes Necropolis
+Stef - discards Province
+Stef - places Hunting Grounds on top of deck
+Stef - plays Mining Village
+Stef - draws Hunting Grounds
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Poor House
+Stef - reveals hand: Woodcutter, Poor House, Poor House, Hunting Grounds, Province
+Stef - plays Poor House
+Stef - reveals hand: Woodcutter, Poor House, Hunting Grounds, Province
+Stef - plays Poor House
+Stef - reveals hand: Woodcutter, Hunting Grounds, Province
+Stef - plays Woodcutter
+Stef - buys Province
+Stef - gains Province
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Mining Village, Poor House, Hunting Grounds, Mining Village, Province
+ 
+---------- romanesque_pkm: turn 12 ----------
+romanesque_pkm - plays 2 Copper, 1 Silver, 1 Gold
+romanesque_pkm - buys Gold
+romanesque_pkm - gains Gold
+romanesque_pkm - draws Lookout, Mine, Province, Warehouse, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Mining Village
+Stef - draws Province
+Stef - plays Hunting Grounds
+Stef - draws Warehouse, Mining Village, Woodcutter, Poor House
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - plays Warehouse
+Stef - draws Mining Village, Lookout, Hunting Grounds
+Stef - discards Province
+Stef - discards Province
+Stef - discards Lookout
+Stef - plays Mining Village
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Mining Village
+Stef - draws Province
+Stef - plays Hunting Grounds
+Stef - draws Lookout
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Poor House, Woodcutter, Province, Province, Lookout
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Woodcutter, Province, Province, Lookout
+Stef - plays Poor House
+Stef - reveals hand: Woodcutter, Province, Province, Lookout
+Stef - plays Woodcutter
+Stef - buys Province
+Stef - gains Province
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Lookout, Hunting Grounds, Poor House, Mining Village, Woodcutter
+ 
+---------- romanesque_pkm: turn 13 ----------
+romanesque_pkm - plays Lookout
+romanesque_pkm - trashes Copper
+romanesque_pkm - discards Province
+romanesque_pkm - places Mandarin on top of deck
+romanesque_pkm - plays Warehouse
+romanesque_pkm - draws Mandarin, Overgrown Estate, Gold
+romanesque_pkm - discards Overgrown Estate
+romanesque_pkm - discards Copper
+romanesque_pkm - discards Province
+romanesque_pkm - plays Mandarin
+romanesque_pkm - places Mine on top of deck
+romanesque_pkm - plays 1 Gold
+romanesque_pkm - buys Duchy
+romanesque_pkm - gains Duchy
+romanesque_pkm - draws Mine, Mining Village, Silver, Silver
+romanesque_pkm - shuffles deck
+romanesque_pkm - draws Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Mining Village
+Stef - draws Hunting Grounds
+Stef - plays Hunting Grounds
+Stef - draws Warehouse, Mining Village, Mining Village, Province
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Mining Village
+Stef - draws Poor House
+Stef - plays Warehouse
+Stef - draws Province, Mining Village, Mining Village
+Stef - discards Mining Village
+Stef - discards Mining Village
+Stef - discards Lookout
+Stef - plays Hunting Grounds
+Stef - draws Mining Village, Province
+Stef - shuffles deck
+Stef - draws Mining Village, Mining Village
+Stef - plays Mining Village
+Stef - draws Lookout
+Stef - plays Mining Village
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Woodcutter, Province, Poor House, Province, Mining Village, Province, Lookout
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Woodcutter, Province, Province, Mining Village, Province, Lookout
+Stef - plays Poor House
+Stef - reveals hand: Woodcutter, Province, Province, Mining Village, Province, Lookout
+Stef - plays Woodcutter
+Stef - buys Province
+Stef - gains Province
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - shuffles deck
+Stef - draws Mining Village, Hunting Grounds, Poor House, Province, Province
+ 
+---------- romanesque_pkm: turn 14 ----------
+romanesque_pkm - plays Mining Village
+romanesque_pkm - draws Silver
+romanesque_pkm - trashes Mining Village
+romanesque_pkm - plays Mine
+romanesque_pkm - trashes Silver
+romanesque_pkm - gains Gold
+romanesque_pkm - plays 2 Silver, 1 Gold
+romanesque_pkm - buys Province
+romanesque_pkm - gains Province
+romanesque_pkm - draws Overgrown Estate, Warehouse, Copper, Province, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mining Village
+Stef - draws Woodcutter
+Stef - trashes Mining Village
+Stef - plays Hunting Grounds
+Stef - draws Mining Village, Province, Poor House, Province
+Stef - plays Mining Village
+Stef - draws Mining Village
+Stef - trashes Mining Village
+Stef - plays Mining Village
+Stef - draws Lookout
+Stef - trashes Mining Village
+Stef - plays Poor House
+Stef - reveals hand: Poor House, Province, Province, Woodcutter, Province, Province, Lookout
+Stef - plays Woodcutter
+Stef - plays Poor House
+Stef - reveals hand: Province, Province, Province, Province, Lookout
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Warehouse, Mining Village, Mining Village, Hunting Grounds, Poor House
+ 
+------------ Game Over ------------
+Stef - cards: 4 Mining Village, 3 Poor House, 2 Hunting Grounds, 1 Warehouse, 1 Woodcutter, 1 Lookout, 5 Province, 1 Duchy
+Stef - total victory points: 33
+Stef - turns: 15
+ 
+romanesque_pkm - cards: 1 Warehouse, 1 Mine, 1 Lookout, 1 Mandarin, 4 Gold, 3 Copper, 2 Silver, 3 Province, 1 Overgrown Estate, 1 Duchy, 1 Estate
+romanesque_pkm - total victory points: 22
+romanesque_pkm - turns: 14
+ 
+1st place: Stef
+2nd place: romanesque_pkm
+ 

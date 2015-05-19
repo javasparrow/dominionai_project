@@ -1,0 +1,568 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Tournament, City, Festival, Highway, Knights, Margrave, Pillage, Venture, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+shark_bait - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Tournament
+shark_bait - gains Tournament
+shark_bait - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Candlestick Maker
+shark_bait - gains Candlestick Maker
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Estate, Copper, Tournament
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Tournament
+shark_bait - draws Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Sir Bailey
+shark_bait - gains Sir Bailey
+shark_bait - draws Estate, Copper, Copper, Candlestick Maker, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 2 Copper
+shark_bait - buys Candlestick Maker
+shark_bait - gains Candlestick Maker
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Tournament, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Tournament
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Tournament
+shark_bait - draws Sir Bailey
+shark_bait - plays Sir Bailey
+shark_bait - draws Copper
+Stef - reveals: Estate, Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Highway
+shark_bait - gains Highway
+shark_bait - draws Copper, Candlestick Maker, Candlestick Maker, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Silver
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - draws Copper, Copper, Copper, Tournament, Estate
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 2 Copper
+shark_bait - buys Candlestick Maker
+shark_bait - gains Candlestick Maker
+shark_bait - draws Copper, Estate
+shark_bait - shuffles deck
+shark_bait - draws Highway, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Sir Destry
+Stef - gains Sir Destry
+Stef - draws Copper, Silver, Estate, Margrave, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Highway
+shark_bait - draws Copper
+shark_bait - plays 4 Copper
+shark_bait - buys Dame Natalie
+shark_bait - gains Dame Natalie
+shark_bait - draws Copper, Estate, Sir Bailey, Copper, Candlestick Maker
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Margrave
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Tournament
+shark_bait - draws Estate
+shark_bait - discards Estate
+shark_bait - discards Estate
+shark_bait - discards Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Tournament, Copper, Sir Destry, Copper, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Sir Bailey
+shark_bait - draws Candlestick Maker
+Stef - reveals: Estate, Estate
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 1 Copper
+shark_bait - uses 4 coin tokens
+shark_bait - buys City
+shark_bait - gains City
+shark_bait - draws Tournament, Candlestick Maker, Copper
+shark_bait - shuffles deck
+shark_bait - draws Dame Natalie, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Sir Destry
+Stef - draws Copper, Estate
+shark_bait - reveals: Copper, City
+shark_bait - trashes City
+shark_bait - discards Copper
+Stef - plays 5 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Estate, Copper, Margrave, Silver
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Tournament
+shark_bait - draws Estate
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Dame Natalie
+shark_bait - gains Candlestick Maker
+Stef - reveals: City, Estate
+Stef - trashes City
+Stef - discards Estate
+shark_bait - plays 2 Copper
+shark_bait - uses 2 coin tokens
+shark_bait - buys City
+shark_bait - gains City
+shark_bait - draws Estate, Copper, Copper, Copper, Highway
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Margrave
+Stef - draws Tournament
+Stef - shuffles deck
+Stef - draws Estate, Tournament
+shark_bait - draws Copper
+shark_bait - discards Estate
+shark_bait - discards Copper
+shark_bait - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Tournament
+Stef - gains Tournament
+Stef - draws Copper, Copper, Tournament, Estate, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Highway
+shark_bait - draws Candlestick Maker
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 2 Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Tournament
+shark_bait - gains Tournament
+shark_bait - draws Candlestick Maker, Estate, Sir Bailey
+shark_bait - shuffles deck
+shark_bait - draws Copper, City
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Tournament
+Stef - draws City
+Stef - plays City
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Dame Sylvia
+Stef - gains Dame Sylvia
+Stef - draws Copper, Sir Destry
+Stef - shuffles deck
+Stef - draws Copper, Estate, City
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Sir Bailey
+shark_bait - draws Dame Natalie
+Stef - reveals: Dame Sylvia, Estate
+Stef - trashes Dame Sylvia
+Stef - discards Estate
+shark_bait - trashes Sir Bailey
+shark_bait - plays City
+shark_bait - draws Copper
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Dame Natalie
+shark_bait - gains Candlestick Maker
+Stef - reveals: Tournament, Copper
+Stef - trashes Tournament
+Stef - discards Copper
+shark_bait - draws Highway, Tournament, Estate, Tournament, Candlestick Maker
+ 
+---------- Stef: turn 11 ----------
+Stef - plays City
+Stef - draws Silver
+Stef - plays Sir Destry
+Stef - draws Tournament, Copper
+shark_bait - reveals: Copper, Copper
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Copper, Copper, Estate, Tournament, Margrave
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Highway
+shark_bait - draws Estate
+shark_bait - plays Tournament
+shark_bait - draws Copper
+shark_bait - plays Tournament
+shark_bait - draws Copper
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 2 Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Margrave
+shark_bait - gains Margrave
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - draws Copper, Candlestick Maker, Candlestick Maker
+shark_bait - shuffles deck
+shark_bait - draws Candlestick Maker, Candlestick Maker
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Margrave
+Stef - draws City, Silver, Tournament
+shark_bait - draws Copper
+shark_bait - discards Copper
+shark_bait - discards Copper
+shark_bait - discards Candlestick Maker
+Stef - plays 2 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Copper, Tournament, Copper, Province, Sir Destry
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - draws Candlestick Maker, Highway, Dame Natalie, Estate, Tournament
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Trusty Steed
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Copper, Estate
+Stef - plays Sir Destry
+Stef - draws Copper, Copper
+shark_bait - reveals: Peddler, Margrave
+shark_bait - trashes Margrave
+shark_bait - discards Peddler
+Stef - plays 5 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - shuffles deck
+Stef - draws Trusty Steed, Copper, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Highway
+shark_bait - draws Copper
+shark_bait - plays Tournament
+shark_bait - draws Copper
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Dame Natalie
+shark_bait - gains Tournament
+Stef - reveals: Copper, Copper
+shark_bait - plays 2 Copper
+shark_bait - uses 4 coin tokens
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Copper, Estate, Copper, City, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws Copper, Sir Destry
+Stef - plays Sir Destry
+Stef - draws Silver, Tournament
+shark_bait - reveals: Estate, Tournament
+shark_bait - trashes Tournament
+shark_bait - discards Estate
+Stef - plays Tournament
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - draws Margrave
+Stef - plays Margrave
+Stef - draws Copper, City, Province
+shark_bait - shuffles deck
+shark_bait - draws Copper
+shark_bait - discards Estate
+shark_bait - discards Copper
+shark_bait - discards Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Estate, Tournament, Copper, Margrave, City
+ 
+---------- shark_bait: turn 15 ----------
+shark_bait - plays City
+shark_bait - draws Tournament
+shark_bait - plays Tournament
+shark_bait - draws Dame Natalie
+shark_bait - plays Dame Natalie
+shark_bait - gains Silver
+Stef - shuffles deck
+Stef - reveals: Province, Copper
+shark_bait - plays 2 Copper
+shark_bait - uses 1 coin token
+shark_bait - buys Tournament
+shark_bait - gains Tournament
+shark_bait - draws Copper, Candlestick Maker, Candlestick Maker, Estate, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Copper, Tournament, Margrave
+shark_bait - draws Candlestick Maker
+shark_bait - discards Copper
+shark_bait - discards Estate
+shark_bait - discards Candlestick Maker
+Stef - plays Tournament
+shark_bait - reveals Province
+Stef - plays Margrave
+Stef - draws Province, Silver, Estate
+shark_bait - draws Highway
+shark_bait - discards Province
+Stef - plays 3 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Tournament, Copper, Peddler, Sir Destry, City
+ 
+---------- shark_bait: turn 16 ----------
+shark_bait - plays Highway
+shark_bait - draws Candlestick Maker
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - buys Peddler
+shark_bait - gains Peddler
+shark_bait - draws Estate, Candlestick Maker, Copper, Tournament, Peddler
+ 
+---------- Stef: turn 16 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Sir Destry
+Stef - draws Copper, Estate
+shark_bait - reveals: Copper
+shark_bait - shuffles deck
+shark_bait - reveals: Province
+Stef - plays Peddler
+Stef - draws Trusty Steed
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - plays Tournament
+Stef - draws Province
+Stef - plays 4 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Peddler, City, Province, Silver, Margrave
+ 
+---------- shark_bait: turn 17 ----------
+shark_bait - plays Peddler
+shark_bait - draws Copper
+shark_bait - plays Tournament
+Stef - reveals Province
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - draws Estate, Candlestick Maker, Peddler, Silver, Peddler
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - draws Estate
+Stef - plays Peddler
+Stef - draws Tournament
+Stef - plays Margrave
+Stef - draws Copper, Peddler, Copper
+shark_bait - draws Tournament
+shark_bait - discards Estate
+shark_bait - discards Silver
+shark_bait - discards Tournament
+Stef - plays Peddler
+Stef - draws City
+Stef - plays City
+Stef - draws Tournament
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Followers
+Stef - draws Followers
+Stef - plays Followers
+Stef - draws Margrave, Copper
+Stef - gains Estate
+shark_bait - gains Curse
+Stef - plays Tournament
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws City, Peddler, Tournament
+shark_bait - draws Copper
+shark_bait - discards Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Province, Copper, Province, Estate, Estate
+ 
+---------- shark_bait: turn 18 ----------
+shark_bait - plays Peddler
+shark_bait - draws Tournament
+shark_bait - plays Peddler
+shark_bait - draws Highway
+shark_bait - plays Highway
+shark_bait - draws Dame Natalie
+shark_bait - plays Tournament
+Stef - reveals Province
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Dame Natalie
+shark_bait - gains Tournament
+Stef - reveals: Copper, City
+Stef - trashes City
+Stef - discards Copper
+shark_bait - uses 5 coin tokens
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - draws Candlestick Maker, Copper, Copper, Candlestick Maker, City
+ 
+---------- Stef: turn 18 ----------
+Stef - draws Copper, Trusty Steed, Sir Destry, Estate
+Stef - shuffles deck
+Stef - draws Margrave
+ 
+---------- shark_bait: turn 19 ----------
+shark_bait - plays City
+shark_bait - draws Copper, Candlestick Maker
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays Candlestick Maker
+shark_bait - receives 1 coin token
+shark_bait - plays 3 Copper
+shark_bait - uses 2 coin tokens
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - draws Estate, Peddler, Peddler
+shark_bait - shuffles deck
+shark_bait - draws Highway, Tournament
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Trusty Steed
+Stef - takes 2 actions
+Stef - draws City, Tournament
+Stef - plays Margrave
+Stef - draws Province, Copper, Copper
+shark_bait - draws Estate
+shark_bait - discards Estate
+shark_bait - discards Estate
+shark_bait - discards Tournament
+Stef - plays City
+Stef - draws Estate, Peddler
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Tournament
+Stef - reveals Province
+Stef - discards Province
+Stef - gains Bag of Gold
+Stef - draws Bag of Gold
+Stef - plays Bag of Gold
+Stef - gains Gold
+ 
+------------ Game Over ------------
+Stef - cards: 4 Peddler, 2 City, 2 Tournament, 1 Sir Destry, 1 Followers, 1 Margrave, 7 Copper, 1 Silver, 1 Gold, 4 Estate, 3 Province
+Stef - total victory points: 22
+Stef - turns: 18
+ 
+shark_bait - resigned
+shark_bait - cards: 5 Peddler, 5 Candlestick Maker, 4 Tournament, 1 Highway, 1 City, 1 Dame Natalie, 7 Copper, 1 Silver, 3 Estate, 2 Province, 1 Duchy, 1 Curse
+shark_bait - total victory points: 17
+shark_bait - turns: 19
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

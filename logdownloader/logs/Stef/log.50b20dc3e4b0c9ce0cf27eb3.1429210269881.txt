@@ -1,0 +1,380 @@
+------------ Game Setup ------------
+Supply cards: Haven, Pawn, Doctor, Familiar, Advisor, Noble Brigand, Baker, Band of Misfits, Cultist, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+DG - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+DG - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - uses 1 coin token
+Stef - buys Doctor
+Stef - overpays for Doctor with 3 coins
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - looks at Estate
+Stef - trashes Estate
+Stef - looks at Copper
+Stef - trashes Copper
+Stef - gains Doctor
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Doctor
+DG - gains Doctor
+DG - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Doctor
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Potion
+DG - gains Potion
+DG - shuffles deck
+DG - draws Estate, Copper, Doctor, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Estate, Copper, Silver
+Stef - trashes Copper
+Stef - places Silver on top of deck
+Stef - places Estate on top of deck
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Silver, Copper
+Stef - shuffles deck
+Stef - draws Potion, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays Doctor
+DG - names Copper
+DG - reveals: Copper, Potion, Estate
+DG - trashes Copper
+DG - places Potion on top of deck
+DG - places Estate on top of deck
+DG - plays 3 Copper
+DG - buys Haven
+DG - gains Haven
+DG - draws Estate, Potion, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Doctor, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Potion
+ 
+---------- DG: turn 4 ----------
+DG - plays 2 Copper, 1 Potion
+DG - uses 1 coin token
+DG - buys Familiar
+DG - gains Familiar
+DG - draws Copper
+DG - shuffles deck
+DG - draws Copper, Copper, Familiar, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Familiar, Silver, Estate
+Stef - places Estate on top of deck
+Stef - places Silver on top of deck
+Stef - places Familiar on top of deck
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Familiar
+Stef - gains Familiar
+Stef - draws Familiar, Silver, Estate, Copper, Copper
+ 
+---------- DG: turn 5 ----------
+DG - plays Familiar
+DG - draws Doctor
+Stef - gains Curse
+DG - plays Doctor
+DG - names Estate
+DG - reveals: Copper, Potion, Estate
+DG - trashes Estate
+DG - places Copper on top of deck
+DG - places Potion on top of deck
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Potion, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Doctor
+DG - gains Curse
+Stef - plays Doctor
+Stef - names Copper
+Stef - reveals: Copper, Potion, Copper
+Stef - trashes Copper, Copper
+Stef - places Potion on top of deck
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Potion, Copper, Familiar, Curse
+Stef - shuffles deck
+Stef - draws Familiar
+ 
+---------- DG: turn 6 ----------
+DG - plays 3 Copper, 1 Potion
+DG - buys Familiar
+DG - gains Familiar
+DG - draws Haven
+DG - shuffles deck
+DG - draws Copper, Copper, Potion, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Familiar
+Stef - draws Estate
+DG - gains Curse
+Stef - plays Familiar
+Stef - draws Copper
+DG - gains Curse
+Stef - draws Silver, Silver, Doctor, Copper
+Stef - shuffles deck
+Stef - draws Familiar
+ 
+---------- DG: turn 7 ----------
+DG - plays Haven
+DG - draws Copper
+DG - sets aside Copper
+DG - plays Copper
+DG - plays Copper
+DG - plays Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Familiar, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Familiar
+Stef - draws Potion
+DG - gains Curse
+Stef - plays Doctor
+Stef - names Estate
+Stef - reveals: Copper, Curse, Familiar
+Stef - places Familiar on top of deck
+Stef - places Curse on top of deck
+Stef - places Copper on top of deck
+Stef - plays 2 Silver, 1 Copper, 1 Potion
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Copper, Curse, Familiar, Estate, Copper
+ 
+---------- DG: turn 8 ----------
+DG - duration Haven
+DG - places set aside Copper in hand
+DG - plays Familiar
+DG - draws Curse
+Stef - gains Curse
+DG - plays 3 Copper, 1 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - draws Familiar, Estate, Doctor
+DG - shuffles deck
+DG - draws Estate, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Silver
+DG - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Cultist, Doctor, Familiar, Curse
+ 
+---------- DG: turn 9 ----------
+DG - plays Familiar
+DG - draws Curse
+Stef - gains Curse
+DG - plays Doctor
+DG - names Curse
+DG - reveals: Curse, Wharf, Silver
+DG - trashes Curse
+DG - places Wharf on top of deck
+DG - places Silver on top of deck
+DG - plays 1 Silver
+DG - buys Haven
+DG - gains Haven
+DG - draws Silver, Wharf, Curse, Curse, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Familiar
+Stef - draws Silver
+DG - gains Curse
+Stef - plays Cultist
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Estate
+DG - gains Abandoned Mine
+Stef - plays 1 Copper, 1 Silver, 1 Potion
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Familiar, Copper, Copper, Curse
+ 
+---------- DG: turn 10 ----------
+DG - plays Wharf
+DG - draws Potion, Copper
+DG - plays 2 Copper, 1 Silver, 1 Potion
+DG - buys Noble Brigand
+Stef - reveals: Silver, Silver
+Stef - trashes Silver
+Stef - discards Silver
+DG - gains Silver
+DG - gains Noble Brigand
+DG - draws Copper, Copper, Haven, Copper, Familiar
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Familiar
+Stef - shuffles deck
+Stef - draws Silver
+DG - gains Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Curse, Familiar, Silver, Cultist, Estate
+ 
+---------- DG: turn 11 ----------
+DG - duration Wharf
+DG - draws Copper
+DG - shuffles deck
+DG - draws Potion
+DG - plays Familiar
+DG - draws Haven
+DG - plays Haven
+DG - draws Estate
+DG - sets aside Copper
+DG - plays Haven
+DG - draws Copper
+DG - sets aside Copper
+DG - plays 3 Copper, 1 Potion
+DG - buys Silver
+DG - gains Silver
+DG - draws Curse, Curse, Curse, Silver, Familiar
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Familiar
+Stef - draws Copper
+Stef - plays Cultist
+Stef - draws Silver, Doctor
+DG - gains Ruined Market
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Cultist, Silver, Copper, Cultist
+ 
+---------- DG: turn 12 ----------
+DG - duration Haven
+DG - places set aside Copper in hand
+DG - duration Haven
+DG - places set aside Copper in hand
+DG - plays Familiar
+DG - draws Silver
+DG - plays 2 Silver, 2 Copper
+DG - buys Gold
+DG - gains Gold
+DG - draws Doctor, Curse, Curse, Noble Brigand, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cultist
+Stef - draws Doctor, Curse
+DG - gains Survivors
+Stef - plays Cultist
+Stef - draws Silver, Silver
+DG - gains Ruined Library
+Stef - plays 3 Silver, 1 Potion, 1 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Familiar, Copper, Estate, Copper, Silver
+ 
+---------- DG: turn 13 ----------
+DG - plays Doctor
+DG - names Curse
+DG - reveals: Copper, Estate, Abandoned Mine
+DG - places Estate on top of deck
+DG - places Copper on top of deck
+DG - places Abandoned Mine on top of deck
+DG - draws Abandoned Mine, Copper, Estate, Curse
+DG - shuffles deck
+DG - draws Doctor
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Familiar
+Stef - draws Curse
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Familiar, Curse
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper
+ 
+---------- DG: turn 14 ----------
+DG - plays Doctor
+DG - names Curse
+DG - reveals: Haven, Silver, Haven
+DG - places Silver on top of deck
+DG - places Haven on top of deck
+DG - places Haven on top of deck
+DG - buys Copper
+DG - gains Copper
+DG - draws Haven, Haven, Silver, Curse, Survivors
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Familiar
+Stef - draws Cultist
+Stef - plays Cultist
+Stef - draws Silver, Silver
+DG - gains Abandoned Mine
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Doctor, Silver, Cultist, Potion, Estate
+ 
+---------- DG: turn 15 ----------
+DG - plays Haven
+DG - draws Copper
+DG - sets aside Silver
+DG - plays Haven
+DG - draws Gold
+DG - sets aside Gold
+DG - plays Survivors
+DG - looks at Curse, Copper
+DG - discards: Curse, Copper
+DG - buys Copper
+DG - gains Copper
+DG - draws Silver, Curse, Estate, Potion, Curse
+ 
+---------- Stef: turn 16 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 4 Cultist, 2 Familiar, 1 Doctor, 5 Silver, 3 Copper, 1 Potion, 1 Estate, 3 Curse
+Stef - total victory points: -2
+Stef - turns: 15
+ 
+DG - resigned
+DG - cards: 2 Abandoned Mine, 2 Familiar, 2 Haven, 1 Doctor, 1 Survivors, 1 Ruined Library, 1 Wharf, 1 Ruined Market, 1 Noble Brigand, 8 Copper, 4 Silver, 1 Potion, 1 Gold, 2 Estate, 6 Curse
+DG - total victory points: -4
+DG - turns: 15
+ 
+1st place: Stef
+2nd place: DG
+ 

@@ -1,0 +1,536 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Herbalist, Stonemason, Apothecary, Forager, Feast, Island, Cartographer, Junk Dealer, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Rabid - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+Rabid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - plays Copper
+Rabid - buys Potion
+Rabid - gains Potion
+Rabid - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Forager, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 3 Copper
+Rabid - buys Forager
+Rabid - gains Forager
+Rabid - shuffles deck
+Rabid - draws Copper, Potion, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 3 Copper, 1 Potion
+Rabid - buys Apothecary
+Rabid - gains Apothecary
+Rabid - draws Estate, Copper, Estate, Copper, Forager
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Copper, Apothecary, Forager
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Forager
+Rabid - trashes Estate
+Rabid - plays 2 Copper
+Rabid - buys Crossroads
+Rabid - gains Crossroads
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Apothecary, Forager, Potion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper, Estate, Copper
+Stef - places Estate on top of deck
+Stef - plays Apothecary
+Stef - draws Estate
+Stef - reveals: Stonemason, Potion, Copper, Copper
+Stef - places Stonemason on top of deck
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 7 Copper, 1 Potion
+Stef - buys Apothecary
+Stef - gains Apothecary
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Stonemason
+Stef - shuffles deck
+Stef - draws Apothecary, Apothecary, Copper, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Apothecary
+Rabid - draws Estate
+Rabid - reveals: Estate, Copper, Crossroads, Copper
+Rabid - places Estate on top of deck
+Rabid - places Crossroads on top of deck
+Rabid - plays Forager
+Rabid - trashes Estate
+Rabid - plays 4 Copper, 1 Potion
+Rabid - buys Stonemason
+Rabid - overpays for Stonemason with 2 coins
+Rabid - overpays for Stonemason with 1 potion
+Rabid - gains Apothecary
+Rabid - gains Apothecary
+Rabid - gains Stonemason
+Rabid - draws Crossroads, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Apothecary
+Stef - draws Forager
+Stef - reveals: Copper, Estate, Copper, Mountebank
+Stef - places Estate on top of deck
+Stef - places Mountebank on top of deck
+Stef - plays Apothecary
+Stef - draws Mountebank
+Stef - reveals: Estate, Copper, Copper, Apothecary
+Stef - places Estate on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Forager
+Stef - trashes Stonemason
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays 6 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Apothecary, Estate, Potion, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Crossroads
+Rabid - reveals hand: Estate, Copper, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+Rabid - plays 4 Copper
+Rabid - buys Forager
+Rabid - gains Forager
+Rabid - draws Forager, Apothecary, Apothecary, Potion, Stonemason
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Apothecary
+Stef - draws Mountebank
+Stef - reveals: Crossroads, Copper, Copper, Forager
+Stef - places Crossroads on top of deck
+Stef - places Forager on top of deck
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Apothecary
+Stef - gains Apothecary
+Stef - gains Stonemason
+Stef - draws Forager, Crossroads, Copper, Copper, Copper
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Apothecary
+Rabid - draws Copper
+Rabid - reveals: Copper, Apothecary, Copper, Copper
+Rabid - places Apothecary on top of deck
+Rabid - plays Apothecary
+Rabid - draws Apothecary
+Rabid - reveals: Curse
+Rabid - shuffles deck
+Rabid - reveals: Copper, Crossroads, Estate
+Rabid - places Crossroads on top of deck
+Rabid - places Estate on top of deck
+Rabid - places Curse on top of deck
+Rabid - plays Apothecary
+Rabid - draws Curse
+Rabid - reveals: Estate, Crossroads, Copper, Copper
+Rabid - places Estate on top of deck
+Rabid - places Crossroads on top of deck
+Rabid - plays Forager
+Rabid - trashes Curse
+Rabid - plays 7 Copper, 1 Potion
+Rabid - buys Stonemason
+Rabid - overpays for Stonemason with 2 coins
+Rabid - overpays for Stonemason with 1 potion
+Rabid - gains Apothecary
+Rabid - gains Apothecary
+Rabid - gains Stonemason
+Rabid - buys Forager
+Rabid - gains Forager
+Rabid - draws Crossroads, Estate, Forager, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - draws Apothecary, Mountebank, Apothecary
+Stef - shuffles deck
+Stef - draws Stonemason, Mountebank
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Crossroads
+Rabid - reveals hand: Estate, Forager, Copper, Copper
+Rabid - draws Curse
+Rabid - plays Forager
+Rabid - trashes Curse
+Rabid - plays 2 Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Forager, Copper, Copper, Stonemason
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Apothecary
+Stef - draws Potion
+Stef - reveals: Crossroads, Copper, Forager, Copper
+Stef - places Forager on top of deck
+Stef - places Crossroads on top of deck
+Stef - plays Apothecary
+Stef - draws Crossroads
+Stef - reveals: Forager, Copper, Copper, Apothecary
+Stef - places Forager on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Mountebank, Stonemason, Mountebank, Potion, Copper, Copper, Copper, Copper
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 5 coins
+Stef - gains Junk Dealer
+Stef - gains Cartographer
+Stef - gains Stonemason
+Stef - draws Apothecary, Forager, Estate, Apothecary, Apothecary
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Forager
+Rabid - trashes Copper
+Rabid - plays Stonemason
+Rabid - trashes Copper
+Rabid - draws Apothecary, Forager, Forager, Estate, Stonemason
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Apothecary, Stonemason, Mountebank
+Stef - places Stonemason on top of deck
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Mountebank, Stonemason, Cartographer, Copper
+Stef - places Stonemason on top of deck
+Stef - places Mountebank on top of deck
+Stef - places Cartographer on top of deck
+Stef - plays Apothecary
+Stef - draws Cartographer
+Stef - reveals: Mountebank, Stonemason, Copper, Junk Dealer
+Stef - places Stonemason on top of deck
+Stef - places Mountebank on top of deck
+Stef - places Junk Dealer on top of deck
+Stef - plays Cartographer
+Stef - draws Junk Dealer
+Stef - looks at Mountebank, Stonemason, Mountebank, Stonemason
+Stef - discards Stonemason
+Stef - places Mountebank on top of deck
+Stef - places Stonemason on top of deck
+Stef - places Mountebank on top of deck
+Stef - plays Apothecary
+Stef - draws Mountebank
+Stef - reveals: Stonemason, Mountebank, Copper, Crossroads
+Stef - places Stonemason on top of deck
+Stef - places Mountebank on top of deck
+Stef - places Crossroads on top of deck
+Stef - plays Junk Dealer
+Stef - draws Crossroads
+Stef - trashes Copper
+Stef - plays Crossroads
+Stef - reveals hand: Forager, Estate, Copper, Copper, Copper, Copper, Mountebank
+Stef - draws Mountebank
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - draws Stonemason, Potion, Copper, Apothecary
+Stef - shuffles deck
+Stef - draws Mountebank
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Apothecary
+Rabid - draws Potion
+Rabid - reveals: Apothecary, Copper, Copper, Copper
+Rabid - places Apothecary on top of deck
+Rabid - plays Forager
+Rabid - trashes Potion
+Rabid - plays Forager
+Rabid - trashes Estate
+Rabid - plays Stonemason
+Rabid - trashes Copper
+Rabid - plays 2 Copper
+Rabid - buys Mountebank
+Rabid - gains Mountebank
+Rabid - draws Apothecary, Apothecary, Apothecary, Copper, Crossroads
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apothecary
+Stef - draws Junk Dealer
+Stef - reveals: Mountebank, Copper, Stonemason, Apothecary
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Stonemason on top of deck
+Stef - plays Junk Dealer
+Stef - draws Stonemason
+Stef - trashes Stonemason
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Cartographer
+Stef - gains Cartographer
+Stef - draws Apothecary, Mountebank, Crossroads, Platinum, Cartographer
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Apothecary
+Rabid - draws Apothecary
+Rabid - reveals: Copper, Copper
+Rabid - shuffles deck
+Rabid - reveals: Copper, Copper
+Rabid - plays Apothecary
+Rabid - draws Curse
+Rabid - reveals: Mountebank, Copper, Forager, Curse
+Rabid - places Curse on top of deck
+Rabid - places Forager on top of deck
+Rabid - places Mountebank on top of deck
+Rabid - plays Apothecary
+Rabid - draws Mountebank
+Rabid - reveals: Forager, Curse, Curse, Forager
+Rabid - places Forager on top of deck
+Rabid - places Curse on top of deck
+Rabid - places Curse on top of deck
+Rabid - places Forager on top of deck
+Rabid - plays Apothecary
+Rabid - draws Forager
+Rabid - reveals: Curse, Curse, Forager, Copper
+Rabid - places Curse on top of deck
+Rabid - places Curse on top of deck
+Rabid - places Forager on top of deck
+Rabid - plays Forager
+Rabid - trashes Curse
+Rabid - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Rabid - plays 7 Copper
+Rabid - buys Colony
+Rabid - gains Colony
+Rabid - draws Forager, Curse, Curse, Forager, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Apothecary
+Stef - draws Copper
+Stef - reveals: Copper, Apothecary, Copper, Forager
+Stef - places Forager on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cartographer
+Stef - draws Apothecary
+Stef - looks at Forager, Apothecary, Apothecary
+Stef - shuffles deck
+Stef - looks at Copper
+Stef - discards Forager
+Stef - places Copper on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Apothecary, Copper, Junk Dealer, Copper
+Stef - places Apothecary on top of deck
+Stef - places Junk Dealer on top of deck
+Stef - plays Apothecary
+Stef - draws Junk Dealer
+Stef - reveals: Apothecary, Copper, Cartographer, Mountebank
+Stef - places Mountebank on top of deck
+Stef - places Cartographer on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mountebank
+Rabid - discards Curse
+Stef - plays 6 Copper, 1 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Apothecary, Cartographer, Mountebank, Curse, Potion
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Forager
+Rabid - trashes Curse
+Rabid - plays Forager
+Rabid - trashes Copper
+Rabid - buys Island
+Rabid - gains Island
+Rabid - draws Copper, Stonemason, Curse, Curse, Apothecary
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Apothecary
+Stef - shuffles deck
+Stef - reveals: Mountebank, Copper, Apothecary
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Cartographer
+Stef - draws Apothecary
+Stef - looks at Apothecary, Mountebank, Copper, Copper
+Stef - discards Mountebank
+Stef - places Copper on top of deck
+Stef - places Copper on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Apothecary
+Stef - draws Apothecary
+Stef - reveals: Copper, Copper, Copper, Colony
+Stef - places Colony on top of deck
+Stef - plays Apothecary
+Stef - draws Colony
+Stef - reveals: Apothecary, Cartographer, Junk Dealer, Copper
+Stef - places Junk Dealer on top of deck
+Stef - places Cartographer on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Stonemason
+Stef - trashes Curse
+Stef - plays 5 Copper, 1 Potion
+Stef - buys Island
+Stef - gains Island
+Stef - draws Apothecary, Cartographer, Junk Dealer, Forager, Apothecary
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Apothecary
+Rabid - draws Copper
+Rabid - reveals: Stonemason, Copper
+Rabid - shuffles deck
+Rabid - reveals: Crossroads, Apothecary
+Rabid - places Stonemason on top of deck
+Rabid - places Crossroads on top of deck
+Rabid - places Apothecary on top of deck
+Rabid - plays Stonemason
+Rabid - trashes Curse
+Rabid - plays 3 Copper
+Rabid - buys Forager
+Rabid - gains Forager
+Rabid - draws Apothecary, Crossroads, Stonemason, Apothecary, Forager
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Apothecary
+Stef - draws Platinum
+Stef - reveals: Copper, Crossroads
+Stef - shuffles deck
+Stef - reveals: Copper, Island
+Stef - places Island on top of deck
+Stef - places Crossroads on top of deck
+Stef - plays Apothecary
+Stef - draws Crossroads
+Stef - reveals: Island, Copper, Apothecary, Mountebank
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Island on top of deck
+Stef - plays Cartographer
+Stef - draws Island
+Stef - looks at Apothecary, Mountebank, Apothecary, Cartographer
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Apothecary on top of deck
+Stef - places Cartographer on top of deck
+Stef - plays Junk Dealer
+Stef - draws Cartographer
+Stef - trashes Copper
+Stef - plays Cartographer
+Stef - draws Apothecary
+Stef - looks at Apothecary, Mountebank, Potion, Colony
+Stef - places Apothecary on top of deck
+Stef - places Mountebank on top of deck
+Stef - places Potion on top of deck
+Stef - places Colony on top of deck
+Stef - plays Apothecary
+Stef - draws Colony
+Stef - reveals: Potion, Mountebank, Apothecary, Copper
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Crossroads
+Stef - reveals hand: Forager, Platinum, Copper, Copper, Island, Colony, Potion, Copper
+Stef - draws Apothecary, Mountebank
+Stef - plays Apothecary
+Stef - draws Stonemason
+Stef - reveals: Copper, Copper, Apothecary, Mountebank
+Stef - places Mountebank on top of deck
+Stef - places Apothecary on top of deck
+Stef - plays Mountebank
+Rabid - gains Curse
+Rabid - gains Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Stonemason
+Stef - trashes Potion
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - plays 4 Copper, 1 Platinum
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 2 coins
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - gains Stonemason
+Stef - buys Curse
+Stef - gains Curse
+Stef - draws Apothecary, Mountebank
+Stef - shuffles deck
+Stef - draws Crossroads, Curse, Cartographer
+ 
+------------ Game Over ------------
+Stef - cards: 6 Stonemason, 5 Apothecary, 2 Mountebank, 2 Cartographer, 1 Island, 1 Crossroads, 1 Forager, 1 Junk Dealer, 4 Copper, 1 Platinum, 1 Colony, 1 Curse
+Stef - total victory points: 11
+Stef - turns: 14
+ 
+Rabid - cards: 5 Apothecary, 4 Forager, 2 Stonemason, 11 Copper, 1 Island, 1 Crossroads, 1 Mountebank, 1 Colony, 3 Curse
+Rabid - total victory points: 9
+Rabid - turns: 13
+ 
+1st place: Stef
+2nd place: Rabid
+ 

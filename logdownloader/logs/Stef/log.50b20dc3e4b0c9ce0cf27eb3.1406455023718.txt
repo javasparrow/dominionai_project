@@ -1,0 +1,451 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Fortune Teller, Lookout, Watchtower, Conspirator, Ironworks, Marauder, Remake, Taxman, Inn, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+luser - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+luser - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+luser - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- luser: turn 1 ----------
+luser - plays 4 Copper
+luser - buys Remake
+luser - gains Remake
+luser - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- luser: turn 2 ----------
+luser - plays 3 Copper
+luser - buys Silver
+luser - gains Silver
+luser - shuffles deck
+luser - draws Copper, Estate, Estate, Remake, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - shuffles deck
+Stef - draws Remake, Estate, Copper, Copper, Estate
+ 
+---------- luser: turn 3 ----------
+luser - plays Remake
+luser - trashes Estate
+luser - gains Silver
+luser - trashes Estate
+luser - gains Watchtower
+luser - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Watchtower
+Stef - trashes Estate
+Stef - gains Silver
+Stef - draws Copper, Copper, Copper, Watchtower, Copper
+ 
+---------- luser: turn 4 ----------
+luser - plays 3 Copper, 1 Silver
+luser - buys Inn
+luser - gains Inn
+luser - places Watchtower, Remake, Inn on top of deck
+luser - shuffles deck
+luser - draws Copper, Watchtower, Remake, Copper, Inn
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Watchtower
+Stef - draws Estate, Copper
+Stef - plays 5 Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Watchtower, Remake, Inn on top of deck
+Stef - shuffles deck
+Stef - draws Watchtower, Remake, Inn
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- luser: turn 5 ----------
+luser - plays Inn
+luser - shuffles deck
+luser - draws Copper, Silver
+luser - discards Copper
+luser - discards Copper
+luser - plays Remake
+luser - trashes Silver
+luser - gains Ironworks
+luser - trashes Copper
+luser - plays Watchtower
+luser - draws Copper, Estate, Silver, Copper, Copper, Copper
+luser - plays 4 Copper, 1 Silver
+luser - buys Gold
+luser - gains Gold
+luser - shuffles deck
+luser - draws Silver, Estate, Watchtower, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Inn
+Stef - draws Silver, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Silver
+Stef - gains Ironworks
+Stef - plays Watchtower
+Stef - draws Copper, Copper, Copper, Copper, Estate, Watchtower
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Copper, Inn, Copper, Copper, Remake
+ 
+---------- luser: turn 6 ----------
+luser - plays 2 Copper, 1 Silver
+luser - buys Ironworks
+luser - gains Ironworks
+luser - applied Watchtower to place Ironworks on top of the deck
+luser - draws Ironworks, Inn, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Inn
+Stef - draws Ironworks, Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays Ironworks
+Stef - gains Conspirator
+Stef - draws Copper, Watchtower, Copper, Estate, Watchtower
+ 
+---------- luser: turn 7 ----------
+luser - plays Ironworks
+luser - gains Conspirator
+luser - plays Inn
+luser - draws Ironworks, Remake
+luser - discards Copper
+luser - discards Copper
+luser - plays Ironworks
+luser - gains Conspirator
+luser - plays Remake
+luser - trashes Copper
+luser - draws Copper, Gold
+luser - shuffles deck
+luser - draws Estate, Ironworks, Conspirator
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Watchtower
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - draws Inn
+Stef - draws Copper, Copper, Conspirator, Ironworks, Remake
+ 
+---------- luser: turn 8 ----------
+luser - plays Ironworks
+luser - gains Conspirator
+luser - plays Conspirator
+luser - plays 1 Copper, 1 Gold
+luser - buys Inn
+luser - gains Inn
+luser - places Conspirator, Inn on top of deck
+luser - shuffles deck
+luser - draws Copper, Conspirator, Conspirator, Watchtower, Ironworks
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironworks
+Stef - gains Conspirator
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - shuffles deck
+Stef - draws Inn, Conspirator, Watchtower, Conspirator, Watchtower
+ 
+---------- luser: turn 9 ----------
+luser - plays Ironworks
+luser - gains Conspirator
+luser - applied Watchtower to place Conspirator on top of the deck
+luser - plays Conspirator
+luser - draws Conspirator, Copper, Copper, Remake, Inn
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Inn
+Stef - draws Conspirator, Copper
+Stef - discards Watchtower
+Stef - discards Copper
+Stef - plays Watchtower
+Stef - draws Ironworks, Copper, Estate
+Stef - plays Conspirator
+Stef - draws Remake
+Stef - plays Ironworks
+Stef - gains Conspirator
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - buys Inn
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - draws Inn, Conspirator
+Stef - shuffles deck
+Stef - draws Inn, Conspirator, Ironworks
+ 
+---------- luser: turn 10 ----------
+luser - plays Inn
+luser - draws Inn, Copper
+luser - discards Copper
+luser - discards Copper
+luser - plays Inn
+luser - draws Silver
+luser - shuffles deck
+luser - draws Copper
+luser - discards Copper
+luser - discards Copper
+luser - plays Conspirator
+luser - draws Copper
+luser - plays Remake
+luser - trashes Silver
+luser - gains Conspirator
+luser - trashes Copper
+luser - draws Gold, Ironworks, Copper, Copper, Conspirator
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Inn
+Stef - draws Remake, Conspirator
+Stef - discards Inn
+Stef - discards Remake
+Stef - plays Ironworks
+Stef - gains Conspirator
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Watchtower
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - draws Remake, Conspirator, Inn
+Stef - plays Conspirator
+Stef - plays Remake
+Stef - trashes Conspirator
+Stef - gains Inn
+Stef - applied Watchtower to place Inn on top of the deck
+Stef - trashes Estate
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Watchtower, Inn
+Stef - shuffles deck
+Stef - draws Watchtower, Ironworks, Remake
+ 
+---------- luser: turn 11 ----------
+luser - plays Ironworks
+luser - gains Watchtower
+luser - plays Conspirator
+luser - plays 2 Copper, 1 Gold
+luser - buys Inn
+luser - gains Inn
+luser - places Conspirator, Inn, Inn, Conspirator, Remake, Watchtower, Inn on top of deck
+luser - shuffles deck
+luser - draws Watchtower, Inn, Watchtower, Ironworks, Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Inn
+Stef - draws Inn, Conspirator
+Stef - discards Remake
+Stef - discards Watchtower
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Inn
+Stef - draws Conspirator, Province
+Stef - discards Province
+Stef - discards Watchtower
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Watchtower
+Stef - shuffles deck
+Stef - draws Remake, Watchtower, Province, Ironworks, Watchtower
+Stef - plays Remake
+Stef - trashes Ironworks
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - applied Watchtower to place Inn on top of the deck
+Stef - trashes Watchtower
+Stef - gains Ironworks
+Stef - buys Province
+Stef - gains Province
+Stef - applied Watchtower to place Province on top of the deck
+Stef - draws Province, Inn
+Stef - shuffles deck
+Stef - draws Province, Ironworks, Conspirator
+ 
+---------- luser: turn 12 ----------
+luser - plays Inn
+luser - draws Conspirator, Conspirator
+luser - discards Ironworks
+luser - discards Watchtower
+luser - plays Watchtower
+luser - draws Estate, Conspirator, Inn
+luser - plays Conspirator
+luser - draws Inn
+luser - plays Conspirator
+luser - draws Remake
+luser - plays Conspirator
+luser - shuffles deck
+luser - draws Copper
+luser - plays Conspirator
+luser - draws Ironworks
+luser - plays Inn
+luser - draws Conspirator, Copper
+luser - discards Estate
+luser - discards Copper
+luser - plays Inn
+luser - draws Copper, Ironworks
+luser - discards Copper
+luser - discards Copper
+luser - plays Ironworks
+luser - gains Ironworks
+luser - plays Remake
+luser - trashes Ironworks
+luser - gains Duchy
+luser - trashes Conspirator
+luser - gains Duchy
+luser - buys Province
+luser - gains Province
+luser - draws Watchtower, Copper, Gold
+luser - shuffles deck
+luser - draws Conspirator, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Inn
+Stef - draws Remake, Conspirator
+Stef - discards Province
+Stef - discards Province
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Watchtower
+Stef - plays Watchtower
+Stef - draws Ironworks, Inn, Inn, Inn
+Stef - plays Inn
+Stef - draws Conspirator
+Stef - shuffles deck
+Stef - draws Province
+Stef - discards Province
+Stef - discards Inn
+Stef - plays Inn
+Stef - draws Province, Ironworks
+Stef - discards Province
+Stef - discards Remake
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Watchtower
+Stef - draws Province, Ironworks, Inn, Remake
+Stef - plays Remake
+Stef - trashes Ironworks
+Stef - gains Duchy
+Stef - trashes Ironworks
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Inn
+Stef - shuffles deck
+Stef - draws Ironworks, Inn, Province, Watchtower
+ 
+---------- luser: turn 13 ----------
+luser - plays 2 Copper, 1 Gold
+luser - buys Duchy
+luser - gains Duchy
+luser - draws Inn, Copper, Inn, Watchtower, Conspirator
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Inn
+Stef - draws Province, Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Inn
+Stef - draws Ironworks, Watchtower
+Stef - discards Province
+Stef - discards Watchtower
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Ironworks
+Stef - gains Ironworks
+Stef - plays Watchtower
+Stef - draws Conspirator, Conspirator, Duchy, Inn, Conspirator, Inn
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Remake
+Stef - plays Conspirator
+Stef - draws Inn
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Province
+Stef - plays Inn
+Stef - draws Watchtower, Province
+Stef - discards Province
+Stef - discards Province
+Stef - plays Inn
+Stef - draws Province, Ironworks
+Stef - discards Province
+Stef - discards Duchy
+Stef - plays Watchtower
+Stef - draws Ironworks
+Stef - shuffles deck
+Stef - draws Province, Province
+Stef - plays Remake
+Stef - trashes Ironworks
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - trashes Ironworks
+Stef - gains Inn
+Stef - places Inn on top of deck
+Stef - shuffles deck
+Stef - buys Province
+Stef - gains Province
+Stef - draws Duchy, Inn, Inn, Province
+Stef - shuffles deck
+Stef - draws Conspirator
+ 
+------------ Game Over ------------
+Stef - cards: 7 Inn, 4 Conspirator, 2 Watchtower, 2 Ironworks, 1 Remake, 4 Province, 1 Duchy
+Stef - total victory points: 27
+Stef - turns: 13
+ 
+luser - cards: 4 Conspirator, 3 Inn, 2 Watchtower, 2 Ironworks, 1 Remake, 4 Copper, 1 Gold, 3 Duchy, 1 Province, 1 Estate
+luser - total victory points: 16
+luser - turns: 13
+ 
+1st place: Stef
+2nd place: luser
+ 

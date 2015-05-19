@@ -1,0 +1,446 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Ambassador, Doctor, Forager, Alchemist, Horse Traders, Salvager, Council Room, Outpost, Rebuild, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+terminalCopper - shuffles deck
+Stef - draws Copper, Estate, Copper, Estate, Copper
+terminalCopper - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Ambassador
+Stef - gains Ambassador
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Ambassador
+terminalCopper - gains Ambassador
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Copper, Forager, Copper, Copper, Ambassador
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Ambassador
+terminalCopper - gains Ambassador
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Ambassador, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+terminalCopper - gains Copper
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Estate
+terminalCopper - returns Estate to the Supply
+terminalCopper - returns Estate to the Supply
+Stef - gains Estate
+terminalCopper - draws Copper, Copper, Ambassador, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Estate
+terminalCopper - returns Estate to the Supply
+Stef - gains Estate
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Forager, Estate, Estate, Ambassador, Forager
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays 4 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Ambassador, Copper, Copper, Copper, Ambassador
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+terminalCopper - gains Estate
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Silver, Ambassador, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Copper
+terminalCopper - returns Copper to the Supply
+terminalCopper - returns Copper to the Supply
+Stef - gains Copper
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Copper, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ambassador
+Stef - reveals Copper
+Stef - returns Copper to the Supply
+Stef - returns Copper to the Supply
+terminalCopper - gains Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Forager, Copper, Estate, Estate, Forager
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays 3 Copper, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Silver, Copper, Copper, Ambassador, Ambassador
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Ambassador, Silver, Silver
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Copper
+terminalCopper - returns Copper to the Supply
+Stef - gains Copper
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Ambassador, Ambassador, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ambassador
+Stef - reveals Estate
+Stef - returns Estate to the Supply
+terminalCopper - gains Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Forager, Silver, Forager, Copper, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Copper
+terminalCopper - returns Copper to the Supply
+terminalCopper - returns Copper to the Supply
+Stef - gains Copper
+terminalCopper - plays 1 Gold
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Silver, Copper, Copper, Forager
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Rebuild
+terminalCopper - gains Rebuild
+terminalCopper - draws Gold, Silver, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Estate
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Potion, Forager, Ambassador, Silver, Silver
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays 2 Copper, 1 Gold, 1 Silver
+terminalCopper - buys Stonemason
+terminalCopper - overpays for Stonemason with 5 coins
+terminalCopper - gains Rebuild
+terminalCopper - gains Rebuild
+terminalCopper - gains Stonemason
+terminalCopper - draws Silver, Ambassador, Silver, Copper, Gold
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Forager
+Stef - trashes Ambassador
+Stef - plays 2 Silver, 1 Potion
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 3 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Alchemist
+Stef - gains Alchemist
+Stef - gains Stonemason
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Gold, Forager, Alchemist, Forager
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Copper
+Stef - gains Copper
+terminalCopper - plays 2 Silver, 1 Gold, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Estate, Rebuild, Ambassador
+terminalCopper - shuffles deck
+terminalCopper - draws Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Potion, Silver
+Stef - plays Forager
+Stef - trashes Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Copper, 1 Potion, 1 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 3 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Alchemist
+Stef - gains Alchemist
+Stef - gains Stonemason
+Stef - buys Potion
+Stef - gains Potion
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Stonemason, Silver, Silver
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Ambassador
+terminalCopper - reveals Estate
+Stef - gains Estate
+terminalCopper - draws Rebuild, Copper, Gold, Silver, Rebuild
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Alchemist
+Stef - draws Forager, Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Stonemason
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Outpost
+Stef - gains Outpost
+Stef - buys Forager
+Stef - gains Forager
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Potion, Alchemist, Estate, Silver, Copper
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Rebuild
+terminalCopper - names Province
+terminalCopper - reveals Gold, Silver, Copper, Ambassador, Stonemason, Copper, Silver, Estate
+terminalCopper - discards: Gold, Silver, Copper, Ambassador, Stonemason, Copper, Silver
+terminalCopper - trashes Estate
+terminalCopper - gains Duchy
+terminalCopper - plays Rebuild
+terminalCopper - names Province
+terminalCopper - shuffles deck
+terminalCopper - reveals Province, Rebuild, Copper, Estate
+terminalCopper - discards: Province, Rebuild, Copper
+terminalCopper - trashes Estate
+terminalCopper - gains Duchy
+terminalCopper - plays 1 Copper, 1 Gold, 1 Silver
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Duchy, Ambassador, Copper, Stonemason, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Alchemist
+Stef - draws Potion, Alchemist
+Stef - plays Alchemist
+Stef - draws Stonemason
+Stef - shuffles deck
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays Stonemason
+Stef - trashes Copper
+Stef - plays 1 Potion, 1 Silver
+Stef - buys Stonemason
+Stef - overpays for Stonemason with 3 coins
+Stef - overpays for Stonemason with 1 potion
+Stef - gains Alchemist
+Stef - gains Alchemist
+Stef - gains Stonemason
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Silver, Forager, Outpost
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Stonemason
+terminalCopper - trashes Ambassador
+terminalCopper - gains Estate
+terminalCopper - gains Estate
+terminalCopper - plays 1 Copper, 1 Silver
+terminalCopper - buys Forager
+terminalCopper - gains Forager
+terminalCopper - draws Gold, Silver, Copper, Ambassador
+terminalCopper - shuffles deck
+terminalCopper - draws Forager
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Silver
+Stef - plays Alchemist
+Stef - draws Forager, Alchemist
+Stef - plays Alchemist
+Stef - draws Silver, Alchemist
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Stonemason, Alchemist
+Stef - plays Alchemist
+Stef - draws Stonemason, Silver
+Stef - plays Forager
+Stef - trashes Stonemason
+Stef - plays Forager
+Stef - trashes Stonemason
+Stef - plays Outpost
+Stef - plays 4 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - duration Outpost
+Stef - draws Forager, Estate, Potion
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Silver, Forager, Alchemist, Silver
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays Forager
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Gold, 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Estate, Duchy, Rebuild, Copper, Rebuild
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Alchemist
+Stef - draws Forager, Silver
+Stef - plays Alchemist
+Stef - draws Forager, Province
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays Forager
+Stef - trashes Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Province, Copper, Outpost, Potion, Alchemist
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays Rebuild
+terminalCopper - names Province
+terminalCopper - reveals Estate
+terminalCopper - trashes Estate
+terminalCopper - gains Duchy
+terminalCopper - plays Rebuild
+terminalCopper - names Province
+terminalCopper - reveals Rebuild, Gold, Province, Silver, Stonemason, Copper, Copper, Duchy
+terminalCopper - discards: Rebuild, Gold, Province, Silver, Stonemason, Copper, Copper
+terminalCopper - trashes Duchy
+terminalCopper - gains Province
+terminalCopper - draws Silver, Duchy
+terminalCopper - shuffles deck
+terminalCopper - draws Stonemason, Gold, Rebuild
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Alchemist
+Stef - draws Silver, Alchemist
+Stef - plays Alchemist
+Stef - draws Alchemist, Alchemist
+Stef - plays Alchemist
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Alchemist
+Stef - plays Alchemist
+Stef - draws Silver, Forager
+Stef - plays Alchemist
+Stef - draws Province, Forager
+Stef - plays Alchemist
+Stef - draws Forager, Province
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays Forager
+Stef - trashes Outpost
+Stef - plays 2 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Province, Silver, Province, Alchemist
+ 
+------------ Game Over ------------
+Stef - cards: 7 Alchemist, 3 Forager, 2 Silver, 5 Province
+Stef - total victory points: 30
+Stef - turns: 18
+ 
+terminalCopper - cards: 3 Rebuild, 1 Stonemason, 1 Ambassador, 1 Forager, 3 Silver, 3 Copper, 2 Gold, 3 Duchy, 3 Province, 1 Estate
+terminalCopper - total victory points: 28
+terminalCopper - turns: 17
+ 
+1st place: Stef
+2nd place: terminalCopper
+ 

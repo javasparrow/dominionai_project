@@ -1,0 +1,606 @@
+------------ Game Setup ------------
+Supply cards: Moat, Sage, Tunnel, Philosopher's Stone, Bureaucrat, Island, Worker's Village, Golem, Festival, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Money Spender - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Money Spender - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+Money Spender - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Island
+Stef - gains Island
+Stef - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Money Spender: turn 1 ----------
+Money Spender - plays 3 Copper
+Money Spender - buys Silver
+Money Spender - gains Silver
+Money Spender - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Money Spender: turn 2 ----------
+Money Spender - plays 4 Copper
+Money Spender - buys Potion
+Money Spender - gains Potion
+Money Spender - shuffles deck
+Money Spender - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Copper, Estate, Copper, Estate, Island
+ 
+---------- Money Spender: turn 3 ----------
+Money Spender - plays 3 Copper, 1 Silver
+Money Spender - buys Festival
+Money Spender - gains Festival
+Money Spender - draws Estate, Copper, Copper, Copper, Potion
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays 2 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper
+ 
+---------- Money Spender: turn 4 ----------
+Money Spender - plays 3 Copper, 1 Potion
+Money Spender - buys Philosopher's Stone
+Money Spender - gains Philosopher's Stone
+Money Spender - draws Copper, Estate
+Money Spender - shuffles deck
+Money Spender - draws Copper, Copper, Philosopher's Stone
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Copper, Copper, Moat, Copper, Festival
+ 
+---------- Money Spender: turn 5 ----------
+Money Spender - plays 3 Copper
+Money Spender - plays Philosopher's Stone
+Money Spender - has 9 cards in his deck and discard pile
+Money Spender - receives 1 coins
+Money Spender - buys Tunnel
+Money Spender - gains Tunnel
+Money Spender - draws Estate, Festival, Silver, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Moat
+Stef - gains Moat
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Estate, Festival, Copper, Copper, Festival
+ 
+---------- Money Spender: turn 6 ----------
+Money Spender - plays Festival
+Money Spender - plays 2 Copper, 1 Silver
+Money Spender - buys Gold
+Money Spender - gains Gold
+Money Spender - draws Copper, Estate, Potion, Copper
+Money Spender - shuffles deck
+Money Spender - draws Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays 2 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Moat, Silver, Copper, Copper, Potion
+ 
+---------- Money Spender: turn 7 ----------
+Money Spender - plays 2 Copper, 1 Potion
+Money Spender - buys Moat
+Money Spender - gains Moat
+Money Spender - draws Estate, Copper, Tunnel, Silver, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Moat
+Stef - draws Moat, Copper
+Stef - plays 3 Copper, 1 Silver, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Festival, Moat
+ 
+---------- Money Spender: turn 8 ----------
+Money Spender - plays 2 Copper, 1 Silver
+Money Spender - buys Tunnel
+Money Spender - gains Tunnel
+Money Spender - draws Philosopher's Stone, Copper, Copper, Gold, Festival
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Festival, Potion
+Stef - plays Festival
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Moat
+Stef - gains Moat
+Stef - draws Copper, Copper, Copper, Silver, Golem
+ 
+---------- Money Spender: turn 9 ----------
+Money Spender - plays Festival
+Money Spender - plays 2 Copper, 1 Gold
+Money Spender - plays Philosopher's Stone
+Money Spender - has 13 cards in his deck and discard pile
+Money Spender - receives 2 coins
+Money Spender - buys King's Court
+Money Spender - gains King's Court
+Money Spender - buys Moat
+Money Spender - gains Moat
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Moat, Copper, Gold, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Golem
+Stef - reveals Copper, Copper, Moat, Moat
+Stef - discards: Copper, Copper
+Stef - plays Moat
+Stef - draws Worker's Village, Estate
+Stef - plays Moat
+Stef - shuffles deck
+Stef - draws Moat, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Potion, Copper, Golem, Moat, Estate
+ 
+---------- Money Spender: turn 10 ----------
+Money Spender - plays Moat
+Money Spender - draws Philosopher's Stone, Tunnel
+Money Spender - plays 3 Copper, 1 Gold
+Money Spender - plays Philosopher's Stone
+Money Spender - has 13 cards in his deck and discard pile
+Money Spender - receives 2 coins
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - draws Tunnel, Estate, Estate, Estate, Potion
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Golem
+Stef - reveals Festival, Copper, Festival
+Stef - discards Copper
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Moat, Estate, Copper, Copper
+ 
+---------- Money Spender: turn 11 ----------
+Money Spender - plays 1 Potion
+Money Spender - draws Copper, Copper, King's Court, Moat, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Moat
+Stef - draws Estate, Golem
+Stef - plays 3 Copper
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Moat, Golem, Festival, Worker's Village, Copper
+ 
+---------- Money Spender: turn 12 ----------
+Money Spender - plays King's Court
+Money Spender - plays Moat
+Money Spender - draws Silver, Festival
+Money Spender - plays Moat
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Tunnel
+Money Spender - plays Moat
+Money Spender - draws Tunnel, Estate
+Money Spender - plays 4 Copper, 1 Silver
+Money Spender - buys Gold
+Money Spender - gains Gold
+Money Spender - draws Potion, Philosopher's Stone, Province, Copper, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Worker's Village
+Stef - draws Moat
+Stef - plays Golem
+Stef - reveals Moat, Golem, Potion, Festival
+Stef - discards: Golem, Potion
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Silver, Copper
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Festival
+Stef - plays 4 Copper, 1 Silver
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - buys Sage
+Stef - gains Sage
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Potion, Copper, Copper, King's Court
+ 
+---------- Money Spender: turn 13 ----------
+Money Spender - plays 1 Potion, 1 Copper, 1 Gold
+Money Spender - plays Philosopher's Stone
+Money Spender - has 17 cards in his deck and discard pile
+Money Spender - receives 3 coins
+Money Spender - buys Golem
+Money Spender - gains Golem
+Money Spender - draws Estate, Estate, Moat, Copper, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays King's Court
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Island
+Stef - gains Island
+Stef - draws Sage, Copper, Copper, Copper, Moat
+ 
+---------- Money Spender: turn 14 ----------
+Money Spender - plays Moat
+Money Spender - shuffles deck
+Money Spender - draws Gold, Copper
+Money Spender - plays 3 Copper, 1 Gold
+Money Spender - buys Gold
+Money Spender - gains Gold
+Money Spender - draws Copper, Copper, Copper, Festival, Potion
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Sage
+Stef - reveals Worker's Village
+Stef - places Worker's Village in hand
+Stef - plays Worker's Village
+Stef - draws Festival
+Stef - plays Moat
+Stef - draws Copper, Moat
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Moat, Estate
+Stef - plays Moat
+Stef - draws Moat, Copper
+Stef - plays 5 Copper
+Stef - buys King's Court
+Stef - gains King's Court
+Stef - draws Festival, Golem, Estate, Golem, Golem
+ 
+---------- Money Spender: turn 15 ----------
+Money Spender - plays Festival
+Money Spender - plays 3 Copper, 1 Potion
+Money Spender - buys Golem
+Money Spender - gains Golem
+Money Spender - draws Estate, Tunnel, Moat, Gold, King's Court
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Festival
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Sage, Silver, Copper, Copper, Copper, Moat
+Stef - discards: Silver, Copper, Copper, Copper
+Stef - plays Moat
+Stef - draws Copper, Copper
+Stef - plays Sage
+Stef - reveals Sage
+Stef - places Sage in hand
+Stef - plays Golem
+Stef - reveals Moat, King's Court
+Stef - plays King's Court
+Stef - plays Golem
+Stef - reveals Moat, Golem, Copper, Copper, Moat
+Stef - discards: Golem, Copper, Copper
+Stef - plays Moat
+Stef - draws Island, Festival
+Stef - plays Moat
+Stef - draws Potion, King's Court
+Stef - plays Golem
+Stef - reveals Estate, Festival, Worker's Village
+Stef - discards Estate
+Stef - plays Worker's Village
+Stef - shuffles deck
+Stef - draws Golem
+Stef - plays Festival
+Stef - plays Golem
+Stef - reveals Estate, Copper, Copper, Silver, Copper, Copper, Copper
+Stef - discards: Estate, Copper, Copper, Silver, Copper, Copper, Copper
+Stef - plays Moat
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - plays Sage
+Stef - reveals Copper, Copper, Copper, Silver
+Stef - places Silver in hand
+Stef - discards: Copper, Copper, Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Copper, Copper
+Stef - discards: Copper, Copper, Copper, Copper
+Stef - plays Festival
+Stef - plays King's Court
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Island
+Stef - sets aside Estate
+Stef - plays Island
+Stef - sets aside Copper
+Stef - plays 2 Copper, 1 Potion, 1 Silver
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Island
+Stef - gains Island
+Stef - shuffles deck
+Stef - draws Silver, Copper, Festival, King's Court, Moat
+ 
+---------- Money Spender: turn 16 ----------
+Money Spender - plays King's Court
+Money Spender - plays Moat
+Money Spender - draws Province, Golem
+Money Spender - plays Moat
+Money Spender - draws Tunnel, Philosopher's Stone
+Money Spender - plays Moat
+Money Spender - draws Copper, Silver
+Money Spender - plays 1 Gold, 1 Copper, 1 Silver
+Money Spender - plays Philosopher's Stone
+Money Spender - has 14 cards in his deck and discard pile
+Money Spender - receives 2 coins
+Money Spender - buys Province
+Money Spender - gains Province
+Money Spender - shuffles deck
+Money Spender - draws Potion, Province, Estate, Copper, Silver
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Festival
+Stef - plays King's Court
+Stef - plays Moat
+Stef - draws Festival, King's Court
+Stef - plays Moat
+Stef - draws Festival, Moat
+Stef - plays Moat
+Stef - draws Copper, Moat
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Sage, Island
+Stef - plays Sage
+Stef - reveals Copper, Copper, Potion
+Stef - places Potion in hand
+Stef - discards: Copper, Copper
+Stef - plays Festival
+Stef - plays Moat
+Stef - draws Copper, Sage
+Stef - plays Sage
+Stef - reveals Copper, Golem
+Stef - places Golem in hand
+Stef - discards Copper
+Stef - plays King's Court
+Stef - plays Island
+Stef - sets aside Potion
+Stef - plays Island
+Stef - sets aside Copper
+Stef - plays Island
+Stef - sets aside Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Island
+Stef - gains Island
+Stef - draws Golem, Golem, Worker's Village, Moat, Golem
+ 
+---------- Money Spender: turn 17 ----------
+Money Spender - plays 1 Potion, 1 Copper, 1 Silver
+Money Spender - buys Tunnel
+Money Spender - gains Tunnel
+Money Spender - draws Golem, Golem, Moat, King's Court, Province
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Worker's Village
+Stef - draws Golem
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Worker's Village, Moat
+Stef - discards Copper
+Stef - plays Worker's Village
+Stef - draws Festival
+Stef - plays Moat
+Stef - draws Copper, Festival
+Stef - plays Golem
+Stef - reveals Copper, Golem, Sage, Island
+Stef - discards: Copper, Golem
+Stef - plays Sage
+Stef - reveals Copper, King's Court
+Stef - places King's Court in hand
+Stef - discards Copper
+Stef - plays Island
+Stef - sets aside Copper
+Stef - plays Golem
+Stef - reveals Moat, Silver, Moat
+Stef - discards Silver
+Stef - plays Moat
+Stef - draws Sage, King's Court
+Stef - plays Moat
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Copper, Copper, Silver, Copper
+Stef - discards: Copper, Copper, Silver, Copper
+Stef - plays King's Court
+Stef - plays King's Court
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays King's Court
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays King's Court
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Moat
+Stef - shuffles deck
+Stef - draws Copper, Silver
+Stef - plays Golem
+Stef - reveals Copper, Copper
+Stef - discards: Copper, Copper
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Island
+Stef - gains Island
+Stef - shuffles deck
+Stef - draws Sage, Sage, Golem, Golem, Moat
+ 
+---------- Money Spender: turn 18 ----------
+Money Spender - plays King's Court
+Money Spender - plays Golem
+Money Spender - reveals Philosopher's Stone, Gold, Tunnel, Festival, Gold, Copper, Gold, Moat
+Money Spender - discards: Philosopher's Stone, Gold, Tunnel, Gold, Copper, Gold
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - plays Festival
+Money Spender - plays Moat
+Money Spender - draws Copper, Tunnel
+Money Spender - plays Golem
+Money Spender - shuffles deck
+Money Spender - reveals Estate, Copper, Copper, Copper, Copper, Estate, Gold, Tunnel, Gold, Philosopher's Stone, Potion, Copper, Gold, Copper, Province, Gold, Silver, Estate, Tunnel
+Money Spender - discards: Estate, Copper, Copper, Copper, Copper, Estate, Gold, Tunnel, Gold, Philosopher's Stone, Potion, Copper, Gold, Copper, Province, Gold, Silver, Estate, Tunnel
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - plays Golem
+Money Spender - shuffles deck
+Money Spender - reveals Copper, Estate, Copper, Gold, Tunnel, Tunnel, Gold, Philosopher's Stone, Copper, Potion, Gold, Copper, Gold, Copper, Gold, Estate, Silver, Gold, Province, Copper, Estate
+Money Spender - discards: Copper, Estate, Copper, Gold, Tunnel, Tunnel, Gold, Philosopher's Stone, Copper, Potion, Gold, Copper, Gold, Copper, Gold, Estate, Silver, Gold, Province, Copper, Estate
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - plays Moat
+Money Spender - shuffles deck
+Money Spender - draws Potion, Gold
+Money Spender - plays Golem
+Money Spender - reveals Tunnel, Copper, Copper, Gold, Gold, Gold, Silver, Gold, Copper, Estate, Gold, Estate, Gold, Tunnel, Copper, Copper, Copper, Philosopher's Stone, Estate, Province, Gold
+Money Spender - discards: Tunnel, Copper, Copper, Gold, Gold, Gold, Silver, Gold, Copper, Estate, Gold, Estate, Gold, Tunnel, Copper, Copper, Copper, Philosopher's Stone, Estate, Province, Gold
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - reveals reaction Tunnel
+Money Spender - gains Gold
+Money Spender - plays 1 Copper, 1 Potion, 1 Gold
+Money Spender - buys Tunnel
+Money Spender - gains Tunnel
+Money Spender - buys Tunnel
+Money Spender - gains Tunnel
+Money Spender - shuffles deck
+Money Spender - draws Province, Copper, Gold, Gold, Moat
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Golem
+Stef - reveals Worker's Village, Golem, Copper, Moat
+Stef - discards: Golem, Copper
+Stef - plays Worker's Village
+Stef - draws King's Court
+Stef - plays Moat
+Stef - draws Worker's Village, Moat
+Stef - plays Golem
+Stef - reveals Island, Festival
+Stef - plays Festival
+Stef - plays Island
+Stef - sets aside Sage
+Stef - plays Moat
+Stef - draws Copper, Province
+Stef - plays Worker's Village
+Stef - draws Silver
+Stef - plays King's Court
+Stef - plays Moat
+Stef - draws King's Court, Moat
+Stef - plays Moat
+Stef - draws Festival, Golem
+Stef - plays Moat
+Stef - draws Festival, Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Province, Golem, Golem, Copper
+Stef - discards: Province, Golem, Golem, Copper
+Stef - plays King's Court
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Moat
+Stef - shuffles deck
+Stef - draws Province, Copper
+Stef - plays Festival
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Tunnel
+Stef - gains Tunnel
+Stef - draws Golem, Golem
+Stef - shuffles deck
+Stef - draws Moat, Province, Copper
+ 
+---------- Money Spender: turn 19 ----------
+Money Spender - plays Moat
+Money Spender - draws Estate, Golem
+Money Spender - plays 2 Gold, 1 Copper
+Money Spender - buys King's Court
+Money Spender - gains King's Court
+Money Spender - draws Gold, Tunnel, Copper, Gold, Tunnel
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Golem
+Stef - reveals Worker's Village, King's Court
+Stef - plays Worker's Village
+Stef - draws Tunnel
+Stef - plays King's Court
+Stef - plays Golem
+Stef - reveals Worker's Village, Festival
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Festival
+Stef - plays Golem
+Stef - reveals Festival, Worker's Village
+ 
+------------ Game Over ------------
+Stef - cards: 5 Island, 4 Moat, 3 Golem, 2 Sage, 1 King's Court, 1 Festival, 7 Copper, 1 Silver, 1 Potion, 3 Province, 3 Estate, 1 Tunnel
+Stef - total victory points: 33
+Stef - turns: 19
+ 
+Money Spender - resigned
+Money Spender - cards: 2 King's Court, 2 Moat, 2 Golem, 10 Gold, 1 Festival, 7 Copper, 1 Silver, 1 Philosopher's Stone, 1 Potion, 5 Tunnel, 3 Estate, 2 Province
+Money Spender - total victory points: 25
+Money Spender - turns: 19
+ 
+1st place: Stef
+2nd place: Money Spender
+ 

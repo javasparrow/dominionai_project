@@ -1,0 +1,531 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Warehouse, Armory, Conspirator, Nomad Camp, Remake, Butcher, City, Council Room, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Money Spender - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Money Spender - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Copper
+Money Spender - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Money Spender: turn 1 ----------
+Money Spender - plays 3 Copper
+Money Spender - buys Warehouse
+Money Spender - gains Warehouse
+Money Spender - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Money Spender: turn 2 ----------
+Money Spender - plays 4 Copper
+Money Spender - buys Remake
+Money Spender - gains Remake
+Money Spender - shuffles deck
+Money Spender - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Money Spender: turn 3 ----------
+Money Spender - plays 3 Copper
+Money Spender - buys Warehouse
+Money Spender - gains Warehouse
+Money Spender - draws Copper, Remake, Warehouse, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Warehouse
+Stef - gains Warehouse
+Stef - draws Copper, Copper, Armory, Estate, Copper
+ 
+---------- Money Spender: turn 4 ----------
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Estate
+Money Spender - shuffles deck
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Remake
+Money Spender - trashes Estate
+Money Spender - gains Oasis
+Money Spender - trashes Copper
+Money Spender - draws Copper, Copper, Warehouse, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays 3 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Conspirator, Estate, Warehouse
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- Money Spender: turn 5 ----------
+Money Spender - plays Warehouse
+Money Spender - shuffles deck
+Money Spender - draws Copper, Remake, Warehouse
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Oasis, Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Oasis
+Money Spender - plays Remake
+Money Spender - trashes Estate
+Money Spender - gains Oasis
+Money Spender - trashes Estate
+Money Spender - gains Oasis
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Copper, Oasis, Copper, Warehouse
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays Conspirator
+Stef - plays 3 Copper
+Stef - buys City
+Stef - gains City
+Stef - draws Oasis, Copper, Warehouse, Copper, Copper
+ 
+---------- Money Spender: turn 6 ----------
+Money Spender - plays Warehouse
+Money Spender - draws Warehouse, Oasis, Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Warehouse
+Money Spender - plays 2 Copper
+Money Spender - buys Conspirator
+Money Spender - gains Conspirator
+Money Spender - draws Oasis, Remake
+Money Spender - shuffles deck
+Money Spender - draws Oasis, Copper, Warehouse
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Warehouse
+Stef - draws Armory, Copper
+Stef - shuffles deck
+Stef - draws Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Estate
+Stef - plays Oasis
+Stef - draws Copper
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays 2 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - draws Conspirator, Estate, Warehouse, Estate, City
+ 
+---------- Money Spender: turn 7 ----------
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Warehouse, Conspirator
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Warehouse
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Conspirator
+Money Spender - draws Oasis
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Remake
+Money Spender - plays 1 Copper
+Money Spender - buys Conspirator
+Money Spender - gains Conspirator
+Money Spender - draws Copper
+Money Spender - shuffles deck
+Money Spender - draws Copper, Conspirator, Oasis, Oasis
+ 
+---------- Stef: turn 7 ----------
+Stef - plays City
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Copper, Conspirator
+Stef - shuffles deck
+Stef - draws Copper
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Conspirator
+Stef - draws Oasis
+Stef - plays Oasis
+Stef - draws Armory
+Stef - discards Estate
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - buys City
+Stef - gains City
+Stef - draws Conspirator, Copper, Oasis, Copper, Warehouse
+ 
+---------- Money Spender: turn 8 ----------
+Money Spender - plays Oasis
+Money Spender - draws Oasis
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Conspirator
+Money Spender - discards Copper
+Money Spender - plays Conspirator
+Money Spender - draws Copper
+Money Spender - plays Conspirator
+Money Spender - draws Warehouse
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Copper, Warehouse
+Money Spender - discards Warehouse
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays 1 Copper
+Money Spender - buys Nomad Camp
+Money Spender - gains Nomad Camp
+Money Spender - draws Nomad Camp, Remake
+Money Spender - shuffles deck
+Money Spender - draws Conspirator, Copper, Oasis
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Warehouse
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws City
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays City
+Stef - draws Estate
+Stef - plays Conspirator
+Stef - draws City
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Copper, Conspirator, Copper
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Oasis
+Stef - draws Armory
+Stef - discards Copper
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - draws Conspirator, Estate, Estate, Oasis
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Money Spender: turn 9 ----------
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Remake
+Money Spender - trashes Nomad Camp
+Money Spender - gains City
+Money Spender - trashes Conspirator
+Money Spender - gains Council Room
+Money Spender - draws Warehouse, Oasis, Copper, Warehouse, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Oasis
+Stef - draws City
+Stef - discards Estate
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Oasis
+Stef - plays Conspirator
+Stef - draws Warehouse
+Stef - plays Warehouse
+Stef - draws Copper, Copper, Council Room
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Council Room
+Stef - draws City, Copper, Warehouse, Copper
+Money Spender - draws Conspirator
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Armory
+Stef - plays Warehouse
+Stef - draws Copper, Copper, Conspirator
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Armory
+Stef - gains Remake
+Stef - plays Oasis
+Stef - draws Remake
+Stef - discards Copper
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Oasis
+Stef - trashes Copper
+Stef - buys City
+Stef - gains City
+Stef - buys Council Room
+Stef - gains Council Room
+Stef - shuffles deck
+Stef - draws Conspirator, Remake, Oasis, City, Copper
+ 
+---------- Money Spender: turn 10 ----------
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Copper, Oasis
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - shuffles deck
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Conspirator
+Money Spender - draws Remake
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Copper, Council Room
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws City
+Money Spender - discards Remake
+Money Spender - plays City
+Money Spender - draws Copper
+Money Spender - plays Council Room
+Money Spender - draws Copper, Oasis
+Money Spender - shuffles deck
+Money Spender - draws Copper, Copper
+Stef - draws Oasis
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays 4 Copper
+Money Spender - buys City
+Money Spender - gains City
+Money Spender - buys Armory
+Money Spender - gains Armory
+Money Spender - draws Copper, Remake
+Money Spender - shuffles deck
+Money Spender - draws Oasis, Warehouse, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Oasis
+Stef - draws Warehouse
+Stef - discards Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Estate
+Stef - plays Warehouse
+Stef - draws City, Council Room, Council Room
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Oasis
+Stef - plays Council Room
+Stef - draws Copper, Conspirator, Oasis, Copper
+Money Spender - draws Warehouse
+Stef - plays City
+Stef - draws City
+Stef - plays Council Room
+Stef - draws Conspirator, Copper, Armory, Warehouse
+Money Spender - draws Council Room
+Stef - plays City
+Stef - draws Estate
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Warehouse
+Stef - draws Copper, Estate, Oasis
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Oasis
+Stef - plays Armory
+Stef - gains Conspirator
+Stef - plays Oasis
+Stef - draws Conspirator
+Stef - discards Conspirator
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys City
+Stef - gains City
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Warehouse, Conspirator, Oasis, Armory, Council Room
+ 
+---------- Money Spender: turn 11 ----------
+Money Spender - plays Warehouse
+Money Spender - draws Copper, Conspirator, Oasis
+Money Spender - discards Copper
+Money Spender - discards Copper
+Money Spender - discards Remake
+Money Spender - plays Warehouse
+Money Spender - draws City, City, Oasis
+Money Spender - discards Copper
+Money Spender - discards Oasis
+Money Spender - discards Oasis
+Money Spender - plays City
+Money Spender - draws Copper
+Money Spender - plays Council Room
+Money Spender - draws Armory, Copper, Copper
+Money Spender - shuffles deck
+Money Spender - draws Remake
+Stef - draws Estate
+Money Spender - plays City
+Money Spender - draws Oasis
+Money Spender - plays Armory
+Money Spender - gains Conspirator
+Money Spender - plays Conspirator
+Money Spender - draws Conspirator
+Money Spender - plays Conspirator
+Money Spender - draws Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Oasis
+Money Spender - discards Copper
+Money Spender - plays Oasis
+Money Spender - draws Copper
+Money Spender - discards Copper
+Money Spender - plays 3 Copper
+Money Spender - buys City
+Money Spender - gains City
+Money Spender - buys City
+Money Spender - gains City
+Money Spender - shuffles deck
+Money Spender - draws Conspirator, Copper, City, Council Room, Oasis
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Warehouse
+Stef - draws Warehouse, Copper, Council Room
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Armory
+Stef - plays Oasis
+Stef - draws Estate
+Stef - discards Estate
+Stef - plays Conspirator
+Stef - draws City
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Council Room
+Stef - draws Oasis, Oasis, Copper, Remake
+Money Spender - draws Armory
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws City
+Stef - plays City
+Stef - draws City
+Stef - plays Council Room
+Stef - draws City, City, Copper, Copper
+Money Spender - draws Copper
+Stef - plays City
+Stef - draws Conspirator
+Stef - plays Warehouse
+Stef - draws Conspirator, Conspirator
+Stef - shuffles deck
+Stef - draws Estate
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - plays Remake
+Stef - trashes Oasis
+Stef - gains Conspirator
+Stef - trashes Conspirator
+Stef - gains City
+Stef - plays City
+Stef - draws Estate, Copper
+Stef - plays City
+Stef - draws Armory
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws City
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Armory
+Stef - gains Remake
+Stef - plays City
+Stef - draws Remake, Copper
+Stef - plays Remake
+Stef - trashes Estate
+Stef - gains Oasis
+Stef - trashes Estate
+Stef - gains Oasis
+Stef - plays Oasis
+Stef - shuffles deck
+Stef - draws Oasis
+Stef - discards Oasis
+Stef - plays 4 Copper
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - buys Oasis
+Stef - gains Oasis
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Oasis
+Stef - shuffles deck
+Stef - draws Oasis, City, Copper, Oasis
+ 
+------------ Game Over ------------
+Stef - cards: 6 Oasis, 6 City, 6 Conspirator, 2 Remake, 2 Warehouse, 2 Council Room, 1 Armory, 4 Copper, 1 Province, 1 Duchy, 1 Estate
+Stef - total victory points: 10
+Stef - turns: 11
+ 
+Money Spender - cards: 4 City, 3 Oasis, 2 Conspirator, 2 Warehouse, 1 Council Room, 1 Armory, 1 Remake, 6 Copper
+Money Spender - total victory points: 0
+Money Spender - turns: 11
+ 
+1st place: Stef
+2nd place: Money Spender
+ 

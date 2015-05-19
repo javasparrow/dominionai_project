@@ -1,0 +1,977 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Lighthouse, Oracle, Storeroom, Urchin, Coppersmith, Death Cart, City, Library, Stables, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+flies - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- flies: turn 1 ----------
+flies - plays 4 Copper
+flies - buys Urchin
+flies - gains Urchin
+flies - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 3 Copper
+flies - buys Oracle
+flies - gains Oracle
+flies - shuffles deck
+flies - draws Copper, Copper, Copper, Estate, Oracle
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- flies: turn 3 ----------
+flies - plays Oracle
+flies - reveals: Copper, Estate
+flies - discards: Copper, Estate
+Stef - reveals: Copper, Urchin
+Stef - discards: Copper, Urchin
+flies - draws Copper, Urchin
+flies - plays 4 Copper
+flies - buys Urchin
+flies - gains Urchin
+flies - draws Estate, Copper, Copper
+flies - shuffles deck
+flies - draws Copper, Urchin
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Urchin
+Stef - gains Urchin
+Stef - draws Copper, Urchin, Copper, Copper, Estate
+ 
+---------- flies: turn 4 ----------
+flies - plays Urchin
+flies - draws Copper
+Stef - discards Estate
+flies - plays 4 Copper
+flies - buys Lighthouse
+flies - gains Lighthouse
+flies - draws Oracle, Estate, Copper, Estate, Urchin
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Urchin
+Stef - shuffles deck
+Stef - draws Copper
+flies - discards Estate
+Stef - plays 4 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Copper, Estate, Urchin, Urchin, Copper
+ 
+---------- flies: turn 5 ----------
+flies - plays Urchin
+flies - draws Copper
+Stef - discards Estate
+flies - plays Oracle
+flies - trashes Urchin
+flies - gains Mercenary
+flies - reveals: Copper
+flies - shuffles deck
+flies - reveals: Copper
+flies - places Copper on top of deck
+flies - places Copper on top of deck
+Stef - reveals: Estate, Estate
+Stef - places Estate on top of deck
+Stef - places Estate on top of deck
+flies - draws Copper, Copper
+flies - plays 4 Copper
+flies - buys Lighthouse
+flies - gains Lighthouse
+flies - draws Urchin, Copper, Lighthouse, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Urchin
+Stef - draws Estate
+flies - discards Estate
+Stef - plays Urchin
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - draws Estate
+Stef - plays 2 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Urchin, Copper, Lighthouse
+ 
+---------- flies: turn 6 ----------
+flies - plays Urchin
+flies - draws Estate
+Stef - discards Estate
+flies - plays Lighthouse
+flies - plays 2 Copper
+flies - buys Lighthouse
+flies - gains Lighthouse
+flies - draws Mercenary, Copper
+flies - shuffles deck
+flies - draws Urchin, Oracle, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Urchin
+Stef - draws Mercenary
+Stef - plays Lighthouse
+Stef - plays Mercenary
+Stef - trashes Urchin
+Stef - gains Mercenary
+Stef - trashes Copper, Copper
+Stef - draws Lighthouse, Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- flies: turn 7 ----------
+flies - duration Lighthouse
+flies - plays Urchin
+flies - draws Estate
+flies - plays Mercenary
+flies - trashes Urchin
+flies - gains Mercenary
+flies - trashes Estate, Copper
+flies - draws Estate, Copper
+flies - plays 2 Copper
+flies - buys City
+flies - gains City
+flies - draws Estate, Lighthouse, Copper, Lighthouse, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Lighthouse
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Urchin
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper
+ 
+---------- flies: turn 8 ----------
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - buys Lighthouse
+flies - gains Lighthouse
+flies - draws Copper, Copper
+flies - shuffles deck
+flies - draws Copper, Copper, Lighthouse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Urchin
+Stef - draws Mercenary
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Silver, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys City
+Stef - gains City
+Stef - draws Mercenary, Lighthouse, Estate, Lighthouse, Copper
+ 
+---------- flies: turn 9 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays Lighthouse
+flies - plays 4 Copper
+flies - buys Gold
+flies - gains Gold
+flies - draws Estate, Lighthouse, Mercenary, Mercenary, Oracle
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Lighthouse, Estate
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Storeroom, Mercenary, Estate, Copper, Lighthouse
+ 
+---------- flies: turn 10 ----------
+flies - duration Lighthouse
+flies - plays Lighthouse
+flies - plays Mercenary
+flies - trashes Estate, Mercenary
+flies - draws Estate, Copper
+flies - plays 1 Copper
+flies - buys City
+flies - gains City
+flies - draws Copper, City
+flies - shuffles deck
+flies - draws Copper, Lighthouse, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Mercenary
+Stef - trashes Estate, Copper
+Stef - draws Copper, City
+Stef - buys City
+Stef - gains City
+Stef - draws Mercenary, Silver, Copper, Urchin
+Stef - shuffles deck
+Stef - draws City
+ 
+---------- flies: turn 11 ----------
+flies - duration Lighthouse
+flies - plays City
+flies - draws Lighthouse
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - plays 3 Copper
+flies - buys Library
+flies - gains Library
+flies - draws Copper, Lighthouse, Estate, City, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Lighthouse
+Stef - plays City
+Stef - draws Mercenary
+Stef - plays Urchin
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Mercenary
+Stef - trashes Copper, Mercenary
+Stef - draws City, Storeroom
+Stef - plays City
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Storeroom
+Stef - discards Silver
+Stef - draws Copper
+Stef - buys Library
+Stef - gains Library
+Stef - shuffles deck
+Stef - draws Urchin, Copper, Silver, Mercenary, Lighthouse
+ 
+---------- flies: turn 12 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Copper
+flies - plays Lighthouse
+flies - plays Gold
+flies - buys City
+flies - gains City
+flies - draws Copper, Oracle, Mercenary
+flies - shuffles deck
+flies - draws Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Urchin
+Stef - draws Storeroom
+Stef - plays Lighthouse
+Stef - plays Storeroom
+Stef - discards Mercenary
+Stef - discards Copper
+Stef - plays Silver
+Stef - buys City
+Stef - gains City
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - draws Library, City, City
+Stef - shuffles deck
+Stef - draws Silver, Lighthouse
+ 
+---------- flies: turn 13 ----------
+flies - duration Lighthouse
+flies - plays Mercenary
+flies - trashes Estate, Copper
+flies - draws City, Lighthouse
+flies - buys Storeroom
+flies - gains Storeroom
+flies - draws Copper, Lighthouse, City, Gold, City
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays City
+Stef - draws Urchin
+Stef - plays City
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Library
+Stef - moves Mercenary to hand
+Stef - moves Lighthouse to hand
+Stef - draws Copper
+Stef - moves City to hand
+Stef - moves Storeroom to hand
+Stef - plays Lighthouse
+Stef - plays Storeroom
+Stef - discards City
+Stef - discards Mercenary
+Stef - discards Urchin
+Stef - plays 1 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys City
+Stef - gains City
+Stef - shuffles deck
+Stef - draws City, Storeroom, City, Copper, City
+ 
+---------- flies: turn 14 ----------
+flies - plays City
+flies - draws Copper
+flies - plays City
+flies - draws Lighthouse
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - plays 2 Copper, 1 Gold
+flies - buys City
+flies - gains City
+flies - draws Library, Copper, Copper
+flies - shuffles deck
+flies - draws Copper, City
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays City
+Stef - draws City
+Stef - plays City
+Stef - draws Lighthouse
+Stef - plays Storeroom
+Stef - discards City
+Stef - discards City
+Stef - discards Copper
+Stef - discards Lighthouse
+Stef - draws Mercenary, Urchin, Library, City
+Stef - discards City
+Stef - discards Urchin
+Stef - discards Mercenary
+Stef - plays Library
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper
+Stef - moves City to hand
+Stef - moves Lighthouse to hand
+Stef - moves City to hand
+Stef - moves Urchin to hand
+Stef - moves City to hand
+Stef - plays City
+Stef - draws Mercenary
+Stef - plays Lighthouse
+Stef - plays 1 Silver, 1 Copper
+Stef - buys City
+Stef - gains City
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws City, City, Mercenary, Storeroom, Silver
+ 
+---------- flies: turn 15 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Oracle, Gold
+flies - plays Oracle
+flies - reveals: Copper, City
+flies - places City on top of deck
+flies - places Copper on top of deck
+flies - draws Copper, City
+flies - plays City
+flies - draws Storeroom, Lighthouse
+flies - plays Lighthouse
+flies - plays Storeroom
+flies - discards Gold
+flies - discards Copper
+flies - discards Copper
+flies - discards Copper
+flies - discards Copper
+flies - draws City, Copper, Lighthouse, City, Mercenary
+flies - discards City
+flies - discards Copper
+flies - discards Lighthouse
+flies - discards Mercenary
+flies - plays City
+flies - shuffles deck
+flies - draws Lighthouse, Copper
+flies - plays Lighthouse
+flies - plays Library
+flies - draws Copper
+flies - moves Mercenary to hand
+flies - draws Copper
+flies - draws Gold
+flies - draws Copper
+flies - draws Copper
+flies - plays Mercenary
+flies - trashes Copper, Copper
+flies - draws City
+flies - plays 3 Copper, 1 Gold
+flies - buys Storeroom
+flies - gains Storeroom
+flies - buys Platinum
+flies - gains Platinum
+flies - shuffles deck
+flies - draws Oracle, City, Gold, City, City
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Lighthouse
+Stef - plays City
+Stef - draws City, Lighthouse
+Stef - plays City
+Stef - draws City, Lighthouse
+Stef - plays City
+Stef - draws Library, Lighthouse
+Stef - plays City
+Stef - draws Copper, City
+Stef - plays City
+Stef - draws City, Urchin
+Stef - plays Storeroom
+Stef - discards Urchin
+Stef - discards City
+Stef - discards Copper
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - discards Silver
+Stef - discards Mercenary
+Stef - plays Library
+Stef - moves Storeroom to hand
+Stef - shuffles deck
+Stef - moves Mercenary to hand
+Stef - moves Lighthouse to hand
+Stef - draws Copper
+Stef - moves Lighthouse to hand
+Stef - moves Urchin to hand
+Stef - moves City to hand
+Stef - plays City
+Stef - draws Lighthouse, Silver
+Stef - plays Storeroom
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - plays Mercenary
+Stef - trashes Copper, Silver
+Stef - shuffles deck
+Stef - draws Lighthouse, Lighthouse
+Stef - plays Urchin
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - plays Lighthouse
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Library
+Stef - gains Library
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - shuffles deck
+Stef - draws Library, Urchin, Storeroom, Storeroom, Lighthouse
+ 
+---------- flies: turn 16 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Lighthouse, Storeroom
+flies - plays City
+flies - draws Storeroom, Library
+flies - plays City
+flies - draws Lighthouse, Mercenary
+flies - plays Oracle
+flies - reveals: City, Copper
+flies - places Copper on top of deck
+flies - places City on top of deck
+flies - draws City, Copper
+flies - plays City
+flies - draws Platinum, Copper
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - plays Storeroom
+flies - discards Copper
+flies - draws Copper
+flies - discards Copper
+flies - discards Copper
+flies - discards Mercenary
+flies - discards Gold
+flies - discards Platinum
+flies - discards Storeroom
+flies - plays Library
+flies - shuffles deck
+flies - moves Mercenary to hand
+flies - draws Copper
+flies - moves Storeroom to hand
+flies - draws Copper
+flies - draws Copper
+flies - draws Gold
+flies - draws Platinum
+flies - plays Storeroom
+flies - discards Mercenary
+flies - plays 3 Copper, 1 Gold, 1 Platinum
+flies - buys Colony
+flies - gains Colony
+flies - buys Stables
+flies - gains Stables
+flies - buys Storeroom
+flies - gains Storeroom
+flies - shuffles deck
+flies - draws City, Stables, Mercenary, Storeroom, City
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Urchin
+Stef - draws City
+Stef - plays City
+Stef - draws City, City
+Stef - plays City
+Stef - draws Platinum, City
+Stef - plays City
+Stef - draws City, Library
+Stef - plays City
+Stef - draws Storeroom, Mercenary
+Stef - plays Storeroom
+Stef - discards Mercenary
+Stef - discards Platinum
+Stef - discards Lighthouse
+Stef - discards Storeroom
+Stef - discards Storeroom
+Stef - discards City
+Stef - discards Library
+Stef - plays Library
+Stef - moves City to hand
+Stef - shuffles deck
+Stef - moves Lighthouse to hand
+Stef - moves Library to hand
+Stef - moves Mercenary to hand
+Stef - moves Storeroom to hand
+Stef - draws Platinum
+Stef - moves City to hand
+Stef - plays Storeroom
+Stef - discards Platinum
+Stef - discards Library
+Stef - discards Lighthouse
+Stef - discards City
+Stef - discards City
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Storeroom
+Stef - shuffles deck
+Stef - draws City, City, Mercenary, Storeroom
+ 
+---------- flies: turn 17 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Gold, Lighthouse
+flies - plays City
+flies - draws Lighthouse, Oracle
+flies - plays Oracle
+flies - reveals: Copper, Colony
+flies - discards: Copper, Colony
+Stef - reveals: Lighthouse, Platinum
+Stef - discards: Lighthouse, Platinum
+flies - draws Storeroom, Library
+flies - plays Stables
+flies - discards Gold
+flies - draws Copper, Platinum, City
+flies - plays City
+flies - draws Storeroom, City
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - plays City
+flies - draws Copper
+flies - shuffles deck
+flies - draws Gold
+flies - plays Storeroom
+flies - discards Copper
+flies - discards Copper
+flies - draws Copper, Colony
+flies - discards Colony
+flies - discards Copper
+flies - discards Mercenary
+flies - discards Storeroom
+flies - discards Gold
+flies - discards Platinum
+flies - plays Library
+flies - shuffles deck
+flies - draws Colony
+flies - draws Copper
+flies - discards Mercenary
+flies - draws Copper
+flies - draws Gold
+flies - moves Storeroom to hand
+flies - draws Platinum
+flies - discards Mercenary
+flies - plays Storeroom
+flies - discards Colony
+flies - draws Copper
+flies - plays Storeroom
+flies - plays 3 Copper, 1 Gold, 1 Platinum
+flies - buys Colony
+flies - gains Colony
+flies - buys Stables
+flies - gains Stables
+flies - buys Stables
+flies - gains Stables
+flies - shuffles deck
+flies - draws Lighthouse, City, Platinum, Stables, Colony
+ 
+---------- Stef: turn 17 ----------
+Stef - plays City
+Stef - draws Library, Lighthouse
+Stef - plays City
+Stef - draws City, Storeroom
+Stef - plays City
+Stef - draws City, Lighthouse
+Stef - plays City
+Stef - draws Library, Platinum
+Stef - plays Storeroom
+Stef - discards Storeroom
+Stef - discards Storeroom
+Stef - discards Mercenary
+Stef - discards Library
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - discards Platinum
+Stef - draws Gold, Lighthouse, City, Urchin, City
+Stef - shuffles deck
+Stef - draws Platinum, Platinum
+Stef - discards Gold
+Stef - discards Lighthouse
+Stef - discards City
+Stef - discards City
+Stef - discards Urchin
+Stef - discards Platinum
+Stef - discards Platinum
+Stef - plays Library
+Stef - moves Library to hand
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - moves Storeroom to hand
+Stef - discards Mercenary
+Stef - discards Lighthouse
+Stef - discards Storeroom
+Stef - shuffles deck
+Stef - discards Lighthouse
+Stef - moves City to hand
+Stef - draws Platinum
+Stef - moves City to hand
+Stef - draws Platinum
+Stef - draws Gold
+Stef - discards: Lighthouse, Lighthouse, Mercenary, Lighthouse, Storeroom, Lighthouse
+Stef - plays City
+Stef - draws Urchin
+Stef - shuffles deck
+Stef - draws Storeroom
+Stef - plays City
+Stef - draws Mercenary, Lighthouse
+Stef - plays Lighthouse
+Stef - plays Urchin
+Stef - draws Lighthouse
+Stef - plays Lighthouse
+Stef - plays Storeroom
+Stef - discards Storeroom
+Stef - discards Platinum
+Stef - discards Platinum
+Stef - discards Gold
+Stef - discards Mercenary
+Stef - plays Library
+Stef - moves Lighthouse to hand
+Stef - moves Lighthouse to hand
+Stef - shuffles deck
+Stef - moves Mercenary to hand
+Stef - draws Platinum
+Stef - draws Gold
+Stef - moves Storeroom to hand
+Stef - draws Platinum
+Stef - plays Storeroom
+Stef - discards Mercenary
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - plays 2 Platinum, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Library, Colony, Platinum, Library, Province
+ 
+---------- flies: turn 18 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Colony, Copper
+flies - plays Stables
+flies - discards Copper
+flies - draws City, Copper, Lighthouse
+flies - plays City
+flies - draws Library, City
+flies - plays City
+flies - draws Storeroom, Storeroom
+flies - plays Lighthouse
+flies - plays Storeroom
+flies - discards Storeroom
+flies - discards Copper
+flies - discards Colony
+flies - discards Colony
+flies - discards Lighthouse
+flies - discards Platinum
+flies - draws Storeroom, Copper, Mercenary, Gold, Stables, Stables
+flies - discards Storeroom
+flies - discards Copper
+flies - discards Mercenary
+flies - discards Gold
+flies - discards Stables
+flies - discards Stables
+flies - plays Library
+flies - moves City to hand
+flies - moves Oracle to hand
+flies - shuffles deck
+flies - draws Copper
+flies - moves Lighthouse to hand
+flies - draws Copper
+flies - moves Stables to hand
+flies - moves Storeroom to hand
+flies - plays City
+flies - draws Copper, Mercenary
+flies - plays Stables
+flies - discards Copper
+flies - draws Platinum, Gold, Colony
+flies - plays Lighthouse
+flies - plays Oracle
+flies - reveals: Stables, Storeroom
+flies - places Storeroom on top of deck
+flies - places Stables on top of deck
+flies - draws Stables, Storeroom
+flies - plays Stables
+flies - discards Copper
+flies - draws Colony
+flies - shuffles deck
+flies - draws Copper, Copper
+flies - plays Storeroom
+flies - discards Colony
+flies - discards Colony
+flies - discards Mercenary
+flies - discards Storeroom
+flies - plays 3 Copper, 1 Platinum, 1 Gold
+flies - buys Colony
+flies - gains Colony
+flies - buys Province
+flies - gains Province
+flies - buys Duchy
+flies - gains Duchy
+flies - shuffles deck
+flies - draws City, Lighthouse, Colony, City, Lighthouse
+ 
+---------- Stef: turn 18 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Library
+Stef - draws Colony
+Stef - discards City
+Stef - draws Platinum
+Stef - discards City
+Stef - discards Storeroom
+Stef - discards City
+Stef - discards Storeroom
+Stef - discards Lighthouse
+Stef - discards Lighthouse
+Stef - discards City
+Stef - draws Gold
+Stef - discards: City, City, Storeroom, City, Storeroom, Lighthouse, Lighthouse, City
+Stef - plays 2 Platinum, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Storeroom, City, Urchin, City, Mercenary
+ 
+---------- flies: turn 19 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays City
+flies - draws Platinum, Storeroom
+flies - plays City
+flies - draws Province, Copper
+flies - plays Storeroom
+flies - discards Copper
+flies - discards Province
+flies - discards Colony
+flies - discards Lighthouse
+flies - discards Lighthouse
+flies - discards Platinum
+flies - draws Oracle, City, Storeroom, Colony, Storeroom, Gold
+flies - discards Colony
+flies - discards Storeroom
+flies - plays City
+flies - draws Duchy, Stables
+flies - plays Oracle
+flies - reveals: Copper, Copper
+flies - discards: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Colony, City
+Stef - discards: Colony, City
+flies - draws Stables, Library
+flies - plays Stables
+flies - discards Gold
+flies - draws City, Stables, Colony
+flies - plays City
+flies - draws Mercenary
+flies - shuffles deck
+flies - draws Lighthouse
+flies - plays Storeroom
+flies - discards Duchy
+flies - discards Stables
+flies - discards Colony
+flies - discards Mercenary
+flies - draws Gold, Lighthouse, Colony, Copper
+flies - discards Stables
+flies - discards Copper
+flies - discards Colony
+flies - plays Lighthouse
+flies - plays Lighthouse
+flies - plays Library
+flies - moves Storeroom to hand
+flies - draws Platinum
+flies - draws Colony
+flies - draws Copper
+flies - draws Province
+flies - draws Copper
+flies - plays Storeroom
+flies - discards Province
+flies - discards Copper
+flies - discards Copper
+flies - discards Colony
+flies - plays 1 Gold, 1 Platinum
+flies - buys Colony
+flies - gains Colony
+flies - buys Province
+flies - gains Province
+flies - buys Estate
+flies - gains Estate
+flies - shuffles deck
+flies - draws Colony, Stables, Province, Oracle, Mercenary
+ 
+---------- Stef: turn 19 ----------
+Stef - plays City
+Stef - draws Platinum, Storeroom
+Stef - plays City
+Stef - draws Lighthouse, Gold
+Stef - plays Storeroom
+Stef - discards Storeroom
+Stef - discards Urchin
+Stef - discards Mercenary
+Stef - discards Platinum
+Stef - discards Lighthouse
+Stef - discards Gold
+Stef - draws Lighthouse, Colony, Province, City, City, Platinum
+Stef - discards Lighthouse
+Stef - discards Colony
+Stef - discards Province
+Stef - discards Platinum
+Stef - plays City
+Stef - draws Province, City
+Stef - plays City
+Stef - draws Lighthouse, Storeroom
+Stef - plays City
+Stef - draws Library, Library
+Stef - plays Lighthouse
+Stef - plays Library
+Stef - discards Lighthouse
+Stef - shuffles deck
+Stef - draws Colony
+Stef - discards Lighthouse
+Stef - draws Province
+Stef - moves City to hand
+Stef - draws Gold
+Stef - discards: Lighthouse, Lighthouse
+Stef - plays City
+Stef - draws Mercenary, Platinum
+Stef - plays Storeroom
+Stef - discards Platinum
+Stef - discards Mercenary
+Stef - discards Gold
+Stef - discards Colony
+Stef - discards Province
+Stef - discards Province
+Stef - plays Library
+Stef - moves Storeroom to hand
+Stef - discards Lighthouse
+Stef - draws Platinum
+Stef - discards Urchin
+Stef - draws Colony
+Stef - shuffles deck
+Stef - draws Colony
+Stef - draws Gold
+Stef - draws Platinum
+Stef - moves Mercenary to hand
+Stef - discards: Lighthouse, Urchin
+Stef - plays Storeroom
+Stef - discards Colony
+Stef - discards Colony
+Stef - draws Lighthouse, Province
+Stef - discards Province
+Stef - discards Mercenary
+Stef - plays Lighthouse
+Stef - plays 2 Platinum, 1 Gold
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Lighthouse
+Stef - shuffles deck
+Stef - draws Mercenary, Platinum, Library
+ 
+---------- flies: turn 20 ----------
+flies - duration Lighthouse
+flies - duration Lighthouse
+flies - plays Oracle
+flies - reveals: City, Province
+flies - discards: City, Province
+flies - draws City, Gold
+flies - plays 1 Gold
+flies - buys Duchy
+flies - gains Duchy
+flies - draws Library, Estate, Storeroom, Lighthouse, Colony
+ 
+---------- Stef: turn 20 ----------
+Stef - duration Lighthouse
+Stef - duration Lighthouse
+Stef - plays Lighthouse
+Stef - plays Library
+Stef - draws Colony
+Stef - discards Storeroom
+Stef - discards City
+Stef - discards Urchin
+Stef - draws Platinum
+Stef - moves City to hand
+Stef - draws Province
+Stef - discards: Storeroom, City, Urchin
+Stef - plays 2 Platinum
+Stef - buys Colony
+Stef - gains Colony
+Stef - draws Province, City, Storeroom, Storeroom, Lighthouse
+ 
+------------ Game Over ------------
+Stef - cards: 6 City, 4 Lighthouse, 3 Storeroom, 2 Library, 1 Urchin, 1 Mercenary, 2 Platinum, 1 Gold, 4 Province, 4 Colony
+Stef - total victory points: 64
+Stef - turns: 20
+ 
+flies - cards: 4 Lighthouse, 4 City, 3 Storeroom, 3 Stables, 1 Library, 1 Oracle, 1 Mercenary, 3 Copper, 1 Gold, 1 Platinum, 4 Colony, 2 Province, 2 Duchy, 1 Estate
+flies - total victory points: 59
+flies - turns: 20
+ 
+1st place: Stef
+2nd place: flies
+ 

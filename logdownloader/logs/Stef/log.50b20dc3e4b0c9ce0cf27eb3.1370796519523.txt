@@ -1,0 +1,638 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Oracle, Armory, Bishop, Fortress, Laboratory, Mountebank, Royal Seal, Altar, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fabian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Fabian - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+Fabian - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Fabian: turn 1 ----------
+Fabian - plays 4 Copper
+Fabian - buys Armory
+Fabian - gains Armory
+Fabian - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Fabian: turn 2 ----------
+Fabian - plays 3 Copper
+Fabian - buys Silver
+Fabian - gains Silver
+Fabian - shuffles deck
+Fabian - draws Copper, Estate, Estate, Copper, Armory
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Armory
+Stef - gains Armory
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Fabian: turn 3 ----------
+Fabian - plays Armory
+Fabian - gains Silver
+Fabian - plays 2 Copper
+Fabian - buys Pearl Diver
+Fabian - gains Pearl Diver
+Fabian - draws Silver, Copper, Silver, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 2 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Armory, Copper, Silver, Copper, Copper
+ 
+---------- Fabian: turn 4 ----------
+Fabian - plays 2 Silver, 2 Copper
+Fabian - buys Mountebank
+Fabian - gains Mountebank
+Fabian - draws Copper, Copper, Copper
+Fabian - shuffles deck
+Fabian - draws Copper, Mountebank
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Armory
+Stef - gains Fortress
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mountebank
+Stef - gains Mountebank
+Stef - draws Fortress, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Estate
+ 
+---------- Fabian: turn 5 ----------
+Fabian - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Fabian - plays 4 Copper
+Fabian - buys Mountebank
+Fabian - gains Mountebank
+Fabian - draws Copper, Estate, Pearl Diver, Silver, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Silver, Copper, Armory, Estate, Copper
+ 
+---------- Fabian: turn 6 ----------
+Fabian - plays Pearl Diver
+Fabian - draws Copper
+Fabian - places Estate on bottom of deck
+Fabian - plays 2 Copper, 1 Silver
+Fabian - buys Fortress
+Fabian - gains Fortress
+Fabian - draws Copper, Armory, Silver, Estate
+Fabian - shuffles deck
+Fabian - draws Pearl Diver
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Armory
+Stef - gains Fortress
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Mountebank, Pearl Diver, Copper, Copper
+ 
+---------- Fabian: turn 7 ----------
+Fabian - plays Pearl Diver
+Fabian - draws Copper
+Fabian - places Silver on top of deck
+Fabian - plays Armory
+Fabian - gains Fortress
+Fabian - plays 2 Copper, 1 Silver
+Fabian - buys Oracle
+Fabian - gains Oracle
+Fabian - draws Fortress, Silver, Fortress, Mountebank, Mountebank
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Pearl Diver
+Stef - shuffles deck
+Stef - draws Estate
+Stef - places Copper on bottom of deck
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Mountebank
+Fabian - gains Curse
+Fabian - gains Copper
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Silver, Fortress, Estate, Estate, Fortress
+ 
+---------- Fabian: turn 8 ----------
+Fabian - plays Fortress
+Fabian - draws Copper
+Fabian - plays Fortress
+Fabian - draws Copper
+Fabian - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Fabian - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Fabian - plays Silver
+Fabian - buys Altar
+Fabian - gains Altar
+Fabian - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Copper, Copper, Copper, Armory, Oracle
+ 
+---------- Fabian: turn 9 ----------
+Fabian - plays 3 Copper
+Fabian - buys Oracle
+Fabian - gains Oracle
+Fabian - shuffles deck
+Fabian - draws Armory, Copper, Copper, Mountebank, Curse
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Armory
+Stef - gains Fortress
+Stef - plays 3 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Fortress, Copper
+Stef - shuffles deck
+Stef - draws Curse, Mountebank, Estate
+ 
+---------- Fabian: turn 10 ----------
+Fabian - plays Mountebank
+Stef - discards Curse
+Fabian - plays 2 Copper
+Fabian - buys Fortress
+Fabian - gains Fortress
+Fabian - draws Fortress, Copper, Mountebank, Silver, Altar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Mountebank
+Fabian - gains Curse
+Fabian - gains Copper
+Stef - plays 2 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Fortress, Fortress, Fortress, Copper, Copper
+ 
+---------- Fabian: turn 11 ----------
+Fabian - plays Fortress
+Fabian - draws Oracle
+Fabian - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Fabian - plays Altar
+Fabian - trashes Oracle
+Fabian - gains Laboratory
+Fabian - plays 1 Copper, 1 Silver
+Fabian - buys Oracle
+Fabian - gains Oracle
+Fabian - draws Copper, Oracle, Pearl Diver, Copper, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Fortress
+Stef - draws Oracle
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Oracle
+Stef - reveals: Fortress, Oracle
+Stef - places Oracle on top of deck
+Stef - places Fortress on top of deck
+Fabian - reveals: Silver, Estate
+Fabian - places Silver on top of deck
+Fabian - places Estate on top of deck
+Stef - draws Fortress, Oracle
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Oracle
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper
+Fabian - reveals: Estate, Silver
+Fabian - places Estate on top of deck
+Fabian - places Silver on top of deck
+Stef - draws Estate, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Copper, Curse, Estate, Armory, Copper
+ 
+---------- Fabian: turn 12 ----------
+Fabian - plays Pearl Diver
+Fabian - draws Silver
+Fabian - places Copper on top of deck
+Fabian - plays Oracle
+Fabian - reveals: Copper, Estate
+Fabian - places Estate on top of deck
+Fabian - places Copper on top of deck
+Stef - reveals: Pearl Diver
+Stef - shuffles deck
+Stef - reveals: Oracle
+Stef - discards: Pearl Diver, Oracle
+Fabian - draws Copper, Estate
+Fabian - plays 4 Copper, 1 Silver
+Fabian - buys Altar
+Fabian - gains Altar
+Fabian - draws Fortress, Copper, Estate, Estate
+Fabian - shuffles deck
+Fabian - draws Laboratory
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Armory
+Stef - gains Oracle
+Stef - plays 2 Copper
+Stef - buys Pearl Diver
+Stef - gains Pearl Diver
+Stef - draws Oracle, Copper, Curse, Copper, Copper
+ 
+---------- Fabian: turn 13 ----------
+Fabian - plays Laboratory
+Fabian - draws Altar, Estate
+Fabian - plays Fortress
+Fabian - draws Copper
+Fabian - plays Altar
+Fabian - trashes Estate
+Fabian - gains Laboratory
+Fabian - plays 2 Copper
+Fabian - buys Pearl Diver
+Fabian - gains Pearl Diver
+Fabian - draws Fortress, Copper, Oracle, Pearl Diver, Mountebank
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Oracle
+Stef - reveals: Copper, Estate
+Stef - places Estate on top of deck
+Stef - places Copper on top of deck
+Fabian - reveals: Silver, Copper
+Fabian - places Copper on top of deck
+Fabian - places Silver on top of deck
+Stef - draws Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Bishop
+Stef - gains Bishop
+Stef - draws Copper, Fortress, Fortress, Fortress, Curse
+ 
+---------- Fabian: turn 14 ----------
+Fabian - plays Pearl Diver
+Fabian - draws Silver
+Fabian - places Copper on bottom of deck
+Fabian - plays Fortress
+Fabian - draws Copper
+Fabian - plays Oracle
+Fabian - reveals: Copper, Oracle
+Fabian - discards: Copper, Oracle
+Stef - reveals: Copper, Fortress
+Stef - discards: Copper, Fortress
+Fabian - draws Silver, Copper
+Fabian - plays Mountebank
+Stef - discards Curse
+Fabian - plays 3 Copper, 2 Silver
+Fabian - buys Province
+Fabian - gains Province
+Fabian - draws Fortress, Copper, Copper, Curse, Curse
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Fortress
+Stef - draws Mountebank
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Fortress
+Stef - draws Altar
+Stef - plays Mountebank
+Fabian - discards Curse
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Laboratory
+Stef - plays 1 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Copper, Fortress, Copper, Curse, Oracle
+ 
+---------- Fabian: turn 15 ----------
+Fabian - plays Fortress
+Fabian - draws Mountebank
+Fabian - plays Mountebank
+Stef - discards Curse
+Fabian - plays 2 Copper
+Fabian - buys Bishop
+Fabian - gains Bishop
+Fabian - draws Altar, Armory, Copper
+Fabian - shuffles deck
+Fabian - draws Mountebank, Pearl Diver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Oracle
+Stef - reveals: Fortress, Silver
+Stef - discards: Fortress, Silver
+Fabian - reveals: Copper, Fortress
+Fabian - discards: Copper, Fortress
+Stef - shuffles deck
+Stef - draws Pearl Diver, Copper
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Fortress on top of deck
+Stef - plays 4 Copper
+Stef - buys Bishop
+Stef - gains Bishop
+Stef - draws Fortress, Fortress, Copper, Oracle, Curse
+ 
+---------- Fabian: turn 16 ----------
+Fabian - plays Pearl Diver
+Fabian - draws Curse
+Fabian - places Bishop on top of deck
+Fabian - plays Mountebank
+Stef - discards Curse
+Fabian - plays 1 Copper
+Fabian - buys Oracle
+Fabian - gains Oracle
+Fabian - draws Bishop, Curse, Estate, Oracle, Laboratory
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Fortress
+Stef - draws Armory
+Stef - plays Fortress
+Stef - draws Curse
+Stef - plays Oracle
+Stef - reveals: Laboratory, Estate
+Stef - places Estate on top of deck
+Stef - places Laboratory on top of deck
+Fabian - reveals: Pearl Diver, Estate
+Fabian - places Estate on top of deck
+Fabian - places Pearl Diver on top of deck
+Stef - draws Laboratory, Estate
+Stef - plays Laboratory
+Stef - draws Fortress, Copper
+Stef - plays Fortress
+Stef - draws Silver
+Stef - plays Armory
+Stef - gains Oracle
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Bishop
+Stef - gains Bishop
+Stef - draws Oracle, Fortress, Oracle, Copper, Estate
+ 
+---------- Fabian: turn 17 ----------
+Fabian - plays Laboratory
+Fabian - draws Pearl Diver, Estate
+Fabian - plays Pearl Diver
+Fabian - draws Copper
+Fabian - places Copper on bottom of deck
+Fabian - plays Bishop
+Fabian - trashes Curse
+Fabian - receives 0 victory point chips
+Stef - trashes Copper
+Fabian - plays 1 Copper
+Fabian - buys Pearl Diver
+Fabian - gains Pearl Diver
+Fabian - draws Altar, Oracle, Silver, Fortress, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Fortress
+Stef - draws Altar
+Stef - plays Oracle
+Stef - reveals: Copper, Fortress
+Stef - places Fortress on top of deck
+Stef - places Copper on top of deck
+Fabian - reveals: Copper, Silver
+Fabian - places Copper on top of deck
+Fabian - places Silver on top of deck
+Stef - draws Copper, Fortress
+Stef - plays Fortress
+Stef - draws Mountebank
+Stef - plays Oracle
+Stef - reveals: Curse, Curse
+Stef - discards: Curse, Curse
+Fabian - reveals: Silver, Copper
+Fabian - places Copper on top of deck
+Fabian - places Silver on top of deck
+Stef - draws Pearl Diver, Copper
+Stef - plays Pearl Diver
+Stef - draws Copper
+Stef - places Bishop on top of deck
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Laboratory
+Stef - draws Bishop, Oracle
+Stef - shuffles deck
+Stef - draws Estate, Pearl Diver, Oracle
+ 
+---------- Fabian: turn 18 ----------
+Fabian - plays Fortress
+Fabian - draws Silver
+Fabian - plays Oracle
+Fabian - reveals: Copper, Province
+Fabian - discards: Copper, Province
+Stef - reveals: Laboratory, Curse
+Stef - discards: Laboratory, Curse
+Fabian - draws Copper, Copper
+Fabian - plays Altar
+Fabian - trashes Copper
+Fabian - gains Laboratory
+Fabian - plays 2 Silver, 2 Copper
+Fabian - buys Laboratory
+Fabian - gains Laboratory
+Fabian - draws Laboratory, Mountebank, Fortress, Copper, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Pearl Diver
+Stef - draws Laboratory
+Stef - places Pearl Diver on top of deck
+Stef - plays Laboratory
+Stef - draws Pearl Diver, Copper
+Stef - plays Pearl Diver
+Stef - draws Curse
+Stef - places Curse on top of deck
+Stef - plays Bishop
+Stef - trashes Curse
+Stef - receives 0 victory point chips
+Stef - draws Curse, Fortress, Copper, Curse, Copper
+ 
+---------- Fabian: turn 19 ----------
+Fabian - plays Laboratory
+Fabian - shuffles deck
+Fabian - draws Oracle, Silver
+Fabian - plays Fortress
+Fabian - draws Pearl Diver
+Fabian - plays Pearl Diver
+Fabian - draws Province
+Fabian - places Laboratory on top of deck
+Fabian - plays Oracle
+Fabian - reveals: Laboratory, Altar
+Fabian - places Altar on top of deck
+Fabian - places Laboratory on top of deck
+Stef - reveals: Oracle, Copper
+Stef - discards: Oracle, Copper
+Fabian - draws Laboratory, Altar
+Fabian - plays Laboratory
+Fabian - draws Estate, Pearl Diver
+Fabian - plays Pearl Diver
+Fabian - draws Armory
+Fabian - places Copper on bottom of deck
+Fabian - plays Mountebank
+Stef - discards Curse
+Fabian - plays 2 Copper, 1 Silver
+Fabian - buys Laboratory
+Fabian - gains Laboratory
+Fabian - draws Mountebank, Bishop, Fortress, Copper, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - draws Estate, Fortress, Fortress, Copper, Mountebank
+ 
+---------- Fabian: turn 20 ----------
+Fabian - plays Fortress
+Fabian - draws Laboratory
+Fabian - plays Laboratory
+Fabian - draws Laboratory, Altar
+Fabian - plays Laboratory
+Fabian - draws Copper, Oracle
+Fabian - plays Bishop
+Fabian - trashes Oracle
+Fabian - receives 1 victory point chips
+Stef - trashes Copper
+Fabian - plays Mountebank
+Stef - gains Curse
+Stef - gains Copper
+Fabian - plays 2 Copper
+Fabian - buys Laboratory
+Fabian - gains Laboratory
+Fabian - draws Copper, Silver, Oracle, Copper, Fortress
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Fortress
+Stef - plays Fortress
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Estate, Silver
+Stef - discards: Estate, Silver
+Fabian - reveals: Curse, Copper
+Fabian - places Curse on top of deck
+Fabian - places Copper on top of deck
+Stef - draws Altar, Oracle
+Stef - plays Fortress
+Stef - draws Armory
+Stef - plays Oracle
+Stef - reveals: Fortress, Copper
+Stef - discards: Fortress, Copper
+Fabian - reveals: Copper, Curse
+Fabian - places Curse on top of deck
+Fabian - places Copper on top of deck
+Stef - draws Bishop, Copper
+Stef - plays Mountebank
+Fabian - gains Curse
+Fabian - gains Copper
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Laboratory
+Stef - plays Bishop
+Stef - trashes Armory
+Stef - receives 2 victory point chips
+Stef - draws Bishop
+Stef - shuffles deck
+Stef - draws Bishop, Laboratory, Fortress, Curse
+ 
+---------- Fabian: turn 21 ----------
+Fabian - plays Fortress
+Fabian - draws Copper
+Fabian - plays Oracle
+Fabian - reveals: Curse, Pearl Diver
+Fabian - discards: Curse, Pearl Diver
+Stef - reveals: Oracle, Curse
+Stef - places Curse on top of deck
+Stef - places Oracle on top of deck
+Fabian - draws Copper
+Fabian - shuffles deck
+Fabian - draws Fortress
+Fabian - plays Fortress
+Fabian - draws Estate
+Fabian - plays 4 Copper, 1 Silver
+Fabian - buys Laboratory
+Fabian - gains Laboratory
+Fabian - draws Estate, Copper, Province, Copper, Curse
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Fortress
+Stef - draws Oracle
+Stef - plays Oracle
+Stef - reveals: Curse, Copper
+Stef - discards: Curse, Copper
+Fabian - reveals: Silver, Mountebank
+Fabian - discards: Silver, Mountebank
+Stef - draws Estate, Fortress
+Stef - plays Laboratory
+Stef - draws Curse, Copper
+Stef - plays Fortress
+Stef - draws Estate
+Stef - plays Bishop
+Stef - trashes Curse
+Stef - receives 0 victory point chips
+Fabian - trashes Curse
+Stef - plays Bishop
+Stef - trashes Curse
+Stef - receives 0 victory point chips
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Copper, Curse, Altar, Mountebank, Fortress
+ 
+---------- Fabian: turn 22 ----------
+Fabian - plays 2 Copper
+Fabian - buys Estate
+Fabian - gains Estate
+Fabian - draws Fortress, Copper, Mountebank, Laboratory, Laboratory
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Fortress
+Stef - draws Bishop
+Stef - plays Mountebank
+Fabian - gains Curse
+Fabian - gains Copper
+Stef - plays Altar
+Stef - trashes Curse
+Stef - gains Duchy
+Stef - plays 1 Copper
+Stef - buys Oracle
+Stef - gains Oracle
+Stef - draws Laboratory, Laboratory, Oracle, Fortress, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 7 Fortress, 6 Oracle, 3 Bishop, 3 Laboratory, 2 Pearl Diver, 1 Mountebank, 1 Altar, 7 Copper, 1 Silver, 4 Estate, 1 Duchy, 1 Curse
+Stef - victory point chips: 6
+Stef - total victory points: 12
+Stef - turns: 22
+ 
+Fabian - cards: 7 Laboratory, 3 Fortress, 3 Pearl Diver, 2 Mountebank, 2 Oracle, 2 Altar, 10 Copper, 1 Armory, 1 Bishop, 2 Silver, 3 Estate, 1 Province, 2 Curse
+Fabian - victory point chips: 3
+Fabian - total victory points: 10
+Fabian - turns: 22
+ 
+1st place: Stef
+2nd place: Fabian
+ 

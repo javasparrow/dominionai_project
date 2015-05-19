@@ -1,0 +1,606 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Native Village, Pawn, Fishing Village, Smugglers, Watchtower, Baron, Monument, Spy, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ruroi - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 5 Copper
+ruroi - buys Baron
+ruroi - gains Baron
+ruroi - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Baron
+Stef - gains Baron
+Stef - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 2 Copper
+ruroi - buys Cellar
+ruroi - gains Cellar
+ruroi - shuffles deck
+ruroi - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - shuffles deck
+Stef - draws Estate, Copper, Native Village, Copper, Copper
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays 3 Copper
+ruroi - buys Watchtower
+ruroi - gains Watchtower
+ruroi - draws Copper, Cellar, Copper, Baron, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays 3 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays Cellar
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - draws Copper, Copper
+ruroi - plays Baron
+ruroi - discards Estate
+ruroi - plays 2 Copper
+ruroi - buys Fishing Village
+ruroi - gains Fishing Village
+ruroi - buys Fishing Village
+ruroi - gains Fishing Village
+ruroi - shuffles deck
+ruroi - draws Copper, Estate, Estate, Estate, Watchtower
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Baron
+Stef - shuffles deck
+Stef - draws Copper, Watchtower, Copper, Estate
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays Watchtower
+ruroi - draws Fishing Village, Copper
+ruroi - plays 2 Copper
+ruroi - buys Pawn
+ruroi - gains Pawn
+ruroi - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - applied Watchtower to place Fishing Village on top of the deck
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - applied Watchtower to place Watchtower on top of the deck
+Stef - draws Watchtower, Fishing Village, Copper, Copper, Estate
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays 5 Copper
+ruroi - buys Watchtower
+ruroi - gains Watchtower
+ruroi - draws Fishing Village, Cellar, Baron
+ruroi - shuffles deck
+ruroi - draws Copper, Pawn
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Copper, Fishing Village, Copper
+Stef - plays Fishing Village
+Stef - plays 4 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Copper, Native Village
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays Fishing Village
+ruroi - plays Pawn
+ruroi - takes 1 buy
+ruroi - draws Copper
+ruroi - plays Cellar
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - draws Watchtower, Watchtower
+ruroi - plays Watchtower
+ruroi - draws Estate, Estate, Estate, Copper
+ruroi - plays 1 Copper
+ruroi - buys Pawn
+ruroi - gains Pawn
+ruroi - applied Watchtower to place Pawn on top of the deck
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - applied Watchtower to place Peddler on top of the deck
+ruroi - draws Peddler, Pawn, Copper, Fishing Village, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays 4 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Watchtower, Spy, Estate, Baron, Copper
+ 
+---------- ruroi: turn 8 ----------
+ruroi - duration Fishing Village
+ruroi - plays Fishing Village
+ruroi - plays Peddler
+ruroi - draws Copper
+ruroi - plays Pawn
+ruroi - takes 1 buy
+ruroi - draws Copper
+ruroi - plays 4 Copper
+ruroi - buys Fishing Village
+ruroi - gains Fishing Village
+ruroi - buys Watchtower
+ruroi - gains Watchtower
+ruroi - shuffles deck
+ruroi - draws Watchtower, Copper, Copper, Estate, Peddler
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Spy
+Stef - draws Estate
+Stef - discards Copper
+ruroi - discards Baron
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - applied Watchtower to place Fishing Village on top of the deck
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - applied Watchtower to place Pawn on top of the deck
+Stef - draws Pawn, Fishing Village, Watchtower
+Stef - shuffles deck
+Stef - draws Spy, Copper
+ 
+---------- ruroi: turn 9 ----------
+ruroi - duration Fishing Village
+ruroi - plays Peddler
+ruroi - draws Watchtower
+ruroi - plays Watchtower
+ruroi - draws Copper, Copper
+ruroi - plays Watchtower
+ruroi - draws Pawn
+ruroi - plays 4 Copper
+ruroi - buys Fishing Village
+ruroi - gains Fishing Village
+ruroi - draws Watchtower, Copper, Copper, Copper, Fishing Village
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Fishing Village
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Watchtower
+Stef - draws Copper, Native Village, Spy, Copper
+Stef - plays Spy
+Stef - draws Copper
+Stef - places Fishing Village on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Spy
+Stef - draws Fishing Village
+Stef - places Copper on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Fishing Village
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays 4 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Watchtower, Fishing Village, Estate, Copper, Estate
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Fishing Village
+ruroi - plays Watchtower
+ruroi - draws Estate, Pawn, Cellar
+ruroi - plays Cellar
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - discards Copper
+ruroi - discards Estate
+ruroi - draws Fishing Village, Estate
+ruroi - shuffles deck
+ruroi - draws Peddler, Estate
+ruroi - plays Peddler
+ruroi - draws Copper
+ruroi - plays Fishing Village
+ruroi - plays Pawn
+ruroi - takes 1 buy
+ruroi - draws Copper
+ruroi - plays 2 Copper
+ruroi - buys Pawn
+ruroi - gains Pawn
+ruroi - buys Pawn
+ruroi - gains Pawn
+ruroi - draws Copper, Baron, Watchtower, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Baron
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Baron
+Stef - discards Estate
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Fishing Village, Spy, Copper, Copper, Native Village
+ 
+---------- ruroi: turn 11 ----------
+ruroi - duration Fishing Village
+ruroi - duration Fishing Village
+ruroi - plays Watchtower
+ruroi - draws Copper, Fishing Village
+ruroi - plays Fishing Village
+ruroi - plays Baron
+ruroi - gains Estate
+ruroi - plays 4 Copper
+ruroi - buys Native Village
+ruroi - gains Native Village
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - draws Pawn, Estate, Copper, Watchtower, Fishing Village
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Fishing Village
+Stef - plays Spy
+Stef - draws Watchtower
+Stef - places Pawn on top of deck
+ruroi - shuffles deck
+ruroi - discards Fishing Village
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Pawn, Spy, Pawn
+Stef - plays Spy
+Stef - shuffles deck
+Stef - draws Estate
+Stef - places Copper on top of deck
+ruroi - discards Cellar
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Baron
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Copper
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Fishing Village, Estate, Fishing Village, Watchtower, Fishing Village
+ 
+---------- ruroi: turn 12 ----------
+ruroi - duration Fishing Village
+ruroi - plays Fishing Village
+ruroi - plays Pawn
+ruroi - takes 1 action
+ruroi - takes 1 coin
+ruroi - plays Watchtower
+ruroi - draws Pawn, Copper, Watchtower, Copper
+ruroi - plays Pawn
+ruroi - takes 1 buy
+ruroi - draws Peddler
+ruroi - plays Peddler
+ruroi - draws Pawn
+ruroi - plays Pawn
+ruroi - takes 1 buy
+ruroi - draws Copper
+ruroi - plays 4 Copper
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - applied Watchtower to place Peddler on top of the deck
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - applied Watchtower to place Peddler on top of the deck
+ruroi - buys Monument
+ruroi - gains Monument
+ruroi - applied Watchtower to place Monument on top of the deck
+ruroi - draws Monument, Peddler, Peddler, Estate, Fishing Village
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Copper, Fishing Village
+Stef - shuffles deck
+Stef - draws Spy, Spy, Copper
+Stef - plays Spy
+Stef - draws Baron
+Stef - places Pawn on top of deck
+ruroi - discards Baron
+Stef - plays Spy
+Stef - draws Pawn
+Stef - places Peddler on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Native Village
+Stef - plays Fishing Village
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Watchtower
+Stef - gains Watchtower
+Stef - buys Monument
+Stef - gains Monument
+Stef - buys Peddler
+Stef - gains Peddler
+Stef - draws Copper, Monument, Copper, Peddler, Pawn
+ 
+---------- ruroi: turn 13 ----------
+ruroi - duration Fishing Village
+ruroi - plays Peddler
+ruroi - draws Estate
+ruroi - plays Peddler
+ruroi - draws Native Village
+ruroi - plays Fishing Village
+ruroi - plays Native Village
+ruroi - sets aside Peddler
+ruroi - plays Monument
+ruroi - receives 1 victory point chips
+ruroi - buys Spy
+ruroi - gains Spy
+ruroi - draws Copper, Watchtower, Pawn, Copper, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Peddler
+Stef - draws Estate
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Watchtower
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Watchtower
+Stef - draws Spy, Fishing Village
+Stef - shuffles deck
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Baron on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Spy
+Stef - draws Baron
+Stef - discards Native Village
+ruroi - places Estate on top of deck
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Fishing Village
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Spy, Estate, Watchtower, Watchtower, Fishing Village
+ 
+---------- ruroi: turn 14 ----------
+ruroi - duration Fishing Village
+ruroi - plays Pawn
+ruroi - takes 1 action
+ruroi - takes 1 buy
+ruroi - plays Watchtower
+ruroi - draws Estate
+ruroi - shuffles deck
+ruroi - draws Monument, Peddler
+ruroi - plays Peddler
+ruroi - draws Pawn
+ruroi - plays Pawn
+ruroi - takes 1 action
+ruroi - takes 1 buy
+ruroi - plays Monument
+ruroi - receives 1 victory point chips
+ruroi - plays 3 Copper
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - buys Peddler
+ruroi - gains Peddler
+ruroi - draws Watchtower, Baron, Estate, Spy, Fishing Village
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Fishing Village
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Monument, Pawn, Peddler
+Stef - plays Peddler
+Stef - draws Copper
+Stef - plays Spy
+Stef - shuffles deck
+Stef - draws Peddler
+Stef - places Spy on top of deck
+ruroi - discards Watchtower
+Stef - plays Peddler
+Stef - draws Spy
+Stef - plays Spy
+Stef - draws Fishing Village
+Stef - places Peddler on top of deck
+ruroi - discards Pawn
+Stef - plays Fishing Village
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Watchtower
+Stef - draws Peddler, Spy, Copper, Fishing Village
+Stef - plays Spy
+Stef - draws Baron
+Stef - discards Native Village
+ruroi - discards Native Village
+Stef - plays Peddler
+Stef - draws Monument
+Stef - plays Fishing Village
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Colony
+Stef - gains Colony
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Fishing Village, Estate, Copper, Pawn, Spy
+ 
+---------- ruroi: turn 15 ----------
+ruroi - plays Fishing Village
+ruroi - plays Spy
+ruroi - draws Peddler
+ruroi - places Fishing Village on top of deck
+Stef - discards Fishing Village
+ruroi - plays Peddler
+ruroi - draws Fishing Village
+ruroi - plays Fishing Village
+ruroi - plays Baron
+ruroi - discards Estate
+ruroi - plays Watchtower
+ruroi - draws Pawn, Estate, Peddler, Copper, Fishing Village, Copper
+ruroi - plays Fishing Village
+ruroi - plays Peddler
+ruroi - draws Copper
+ruroi - plays Pawn
+ruroi - takes 1 coin
+ruroi - draws Cellar
+ruroi - plays Cellar
+ruroi - discards Estate
+ruroi - discards Copper
+ruroi - draws Estate, Copper
+ruroi - plays 3 Copper
+ruroi - buys Colony
+ruroi - gains Colony
+ruroi - buys Native Village
+ruroi - gains Native Village
+ruroi - shuffles deck
+ruroi - draws Native Village, Baron, Estate, Peddler, Spy
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - plays Spy
+Stef - draws Spy
+Stef - places Watchtower on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Spy
+Stef - draws Watchtower
+Stef - discards Copper
+ruroi - places Estate on top of deck
+Stef - plays Fishing Village
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Watchtower
+Stef - draws Monument
+Stef - shuffles deck
+Stef - draws Baron, Estate, Watchtower
+Stef - plays Baron
+Stef - discards Estate
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Watchtower
+Stef - draws Monument, Fishing Village, Watchtower, Spy
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Peddler on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Peddler
+Stef - draws Peddler
+Stef - plays Peddler
+Stef - draws Cellar
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Copper
+Stef - draws Copper, Spy
+Stef - plays Spy
+Stef - draws Copper
+Stef - discards Colony
+ruroi - places Estate on top of deck
+Stef - plays Fishing Village
+Stef - plays Watchtower
+Stef - draws Spy, Monument, Copper
+Stef - plays Spy
+Stef - draws Peddler
+Stef - places Native Village on top of deck
+ruroi - places Estate on top of deck
+Stef - plays Peddler
+Stef - draws Native Village
+Stef - plays Native Village
+Stef - sets aside Spy
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Spy
+Stef - gains Spy
+Stef - buys Spy
+Stef - gains Spy
+Stef - draws Fishing Village, Pawn
+Stef - shuffles deck
+Stef - draws Cellar, Spy, Spy
+ 
+------------ Game Over ------------
+Stef - cards: 9 Spy, 6 Fishing Village, 3 Watchtower, 3 Monument, 3 Peddler, 2 Pawn, 1 Cellar, 1 Native Village, 1 Baron, 7 Copper, 3 Estate, 1 Colony
+Stef - victory point chips: 6
+Stef - total victory points: 19
+Stef - turns: 15
+ 
+ruroi - cards: 7 Peddler, 4 Pawn, 4 Fishing Village, 3 Watchtower, 2 Native Village, 1 Baron, 1 Spy, 1 Cellar, 1 Monument, 7 Copper, 4 Estate, 1 Colony
+ruroi - victory point chips: 2
+ruroi - total victory points: 16
+ruroi - turns: 15
+ 
+1st place: Stef
+2nd place: ruroi
+ 

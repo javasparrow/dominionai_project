@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Militia, Remodel, Smithy, Festival, Laboratory, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kwino - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+kwino - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+kwino - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Chapel
+Stef - gains Chapel
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- kwino: turn 1 ----------
+kwino - plays 3 Copper
+kwino - buys Chapel
+kwino - gains Chapel
+kwino - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Militia
+Stef - gains Militia
+Stef - shuffles deck
+Stef - draws Copper, Copper, Chapel, Copper, Copper
+ 
+---------- kwino: turn 2 ----------
+kwino - plays 4 Copper
+kwino - buys Militia
+kwino - gains Militia
+kwino - shuffles deck
+kwino - draws Copper, Copper, Estate, Copper, Chapel
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Chapel
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- kwino: turn 3 ----------
+kwino - plays Chapel
+kwino - trashes Estate
+kwino - plays 3 Copper
+kwino - buys Silver
+kwino - gains Silver
+kwino - draws Copper, Estate, Militia, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - draws Militia, Copper
+Stef - shuffles deck
+Stef - draws Copper, Estate, Chapel
+ 
+---------- kwino: turn 4 ----------
+kwino - plays Militia
+Stef - discards Estate
+Stef - discards Chapel
+kwino - plays 2 Copper
+kwino - buys Silver
+kwino - gains Silver
+kwino - draws Copper, Copper
+kwino - shuffles deck
+kwino - draws Copper, Silver, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Copper
+Stef - plays 2 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Estate, Copper
+Stef - shuffles deck
+Stef - draws Militia, Chapel
+ 
+---------- kwino: turn 5 ----------
+kwino - plays 2 Silver, 1 Copper
+kwino - buys Festival
+kwino - gains Festival
+kwino - draws Copper, Militia, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Chapel
+Stef - trashes Estate, Estate, Copper
+Stef - draws Silver, Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Militia
+ 
+---------- kwino: turn 6 ----------
+kwino - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+kwino - plays 4 Copper
+kwino - buys Gold
+kwino - gains Gold
+kwino - draws Estate, Estate, Chapel
+kwino - shuffles deck
+kwino - draws Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Silver
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Estate, Silver, Copper, Laboratory
+ 
+---------- kwino: turn 7 ----------
+kwino - plays Chapel
+kwino - trashes Estate, Estate
+kwino - draws Militia, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Laboratory
+Stef - draws Militia, Copper
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Festival
+Stef - gains Festival
+Stef - shuffles deck
+Stef - draws Estate, Festival, Chapel, Militia, Copper
+ 
+---------- kwino: turn 8 ----------
+kwino - plays Militia
+Stef - discards Chapel
+Stef - discards Estate
+kwino - plays 2 Copper
+kwino - buys Silver
+kwino - gains Silver
+kwino - draws Silver, Gold, Copper, Copper, Festival
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Festival
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Copper
+Stef - plays Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Copper, Laboratory, Silver
+Stef - shuffles deck
+Stef - draws Chapel, Estate
+ 
+---------- kwino: turn 9 ----------
+kwino - plays Festival
+kwino - plays 1 Silver, 1 Gold
+kwino - buys Market
+kwino - gains Market
+kwino - buys Cellar
+kwino - gains Cellar
+kwino - shuffles deck
+kwino - draws Silver, Gold, Cellar, Silver, Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Laboratory
+Stef - draws Festival, Copper
+Stef - plays Festival
+Stef - plays Chapel
+Stef - trashes Estate, Copper
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Mine
+Stef - gains Mine
+Stef - draws Militia, Laboratory
+Stef - shuffles deck
+Stef - draws Chapel, Mine, Laboratory
+ 
+---------- kwino: turn 10 ----------
+kwino - plays 3 Silver, 1 Gold
+kwino - buys Province
+kwino - gains Province
+kwino - draws Copper, Copper, Copper, Copper, Market
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Silver, Festival
+Stef - plays Laboratory
+Stef - draws Copper
+Stef - plays Festival
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Copper
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 1 Copper, 1 Gold
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Copper, Festival, Gold, Laboratory
+ 
+---------- kwino: turn 11 ----------
+kwino - plays Market
+kwino - draws Chapel
+kwino - plays Chapel
+kwino - trashes Copper, Copper
+kwino - draws Festival, Militia, Copper, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Mine
+Stef - plays Laboratory
+Stef - draws Militia, Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Copper
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - buys Remodel
+Stef - gains Remodel
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Chapel
+Stef - shuffles deck
+Stef - draws Festival, Festival, Copper, Gold
+ 
+---------- kwino: turn 12 ----------
+kwino - plays Festival
+kwino - plays Militia
+Stef - discards Chapel
+Stef - discards Copper
+kwino - plays 1 Copper
+kwino - buys Laboratory
+kwino - gains Laboratory
+kwino - shuffles deck
+kwino - draws Militia, Market, Province, Laboratory, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Festival
+Stef - plays 1 Gold
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Laboratory, Laboratory, Laboratory, Militia, Gold
+ 
+---------- kwino: turn 13 ----------
+kwino - plays Market
+kwino - draws Gold
+kwino - plays Laboratory
+kwino - draws Silver, Chapel
+kwino - plays Militia
+Stef - discards Militia
+Stef - discards Gold
+kwino - plays 1 Copper, 1 Gold, 1 Silver
+kwino - buys Province
+kwino - gains Province
+kwino - draws Silver, Copper, Copper, Cellar, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Laboratory
+Stef - draws Mine, Cellar
+Stef - plays Laboratory
+Stef - draws Remodel
+Stef - shuffles deck
+Stef - draws Festival
+Stef - plays Laboratory
+Stef - draws Gold, Laboratory
+Stef - plays Festival
+Stef - plays Laboratory
+Stef - draws Copper, Gold
+Stef - plays Cellar
+Stef - discards Gold
+Stef - discards Gold
+Stef - draws Chapel, Festival
+Stef - plays Festival
+Stef - plays Remodel
+Stef - trashes Chapel
+Stef - gains Silver
+Stef - plays Mine
+Stef - trashes Copper
+Stef - gains Silver
+Stef - plays 1 Silver
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Militia
+Stef - shuffles deck
+Stef - draws Laboratory, Laboratory, Silver, Gold
+ 
+---------- kwino: turn 14 ----------
+kwino - plays 3 Copper, 1 Silver
+kwino - buys Laboratory
+kwino - gains Laboratory
+kwino - draws Festival, Copper, Silver
+kwino - shuffles deck
+kwino - draws Silver, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Laboratory
+Stef - draws Mine, Cellar
+Stef - plays Laboratory
+Stef - draws Laboratory, Festival
+Stef - plays Laboratory
+Stef - draws Gold, Laboratory
+Stef - plays Laboratory
+Stef - draws Festival, Silver
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Militia
+kwino - discards Copper
+kwino - discards Silver
+Stef - plays Mine
+Stef - trashes Silver
+Stef - gains Gold
+Stef - plays 3 Gold, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Laboratory, Remodel
+Stef - shuffles deck
+Stef - draws Province, Militia, Laboratory
+ 
+---------- kwino: turn 15 ----------
+kwino - plays Festival
+kwino - plays 1 Silver, 1 Gold
+kwino - buys Duchy
+kwino - gains Duchy
+kwino - buys Cellar
+kwino - gains Cellar
+kwino - draws Copper, Silver, Market, Militia, Chapel
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Laboratory
+Stef - draws Cellar, Laboratory
+Stef - plays Laboratory
+Stef - draws Silver, Province
+Stef - plays Laboratory
+Stef - draws Festival, Gold
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - draws Gold, Gold
+Stef - plays Festival
+Stef - plays Militia
+kwino - discards Chapel
+kwino - discards Copper
+Stef - plays Remodel
+Stef - trashes Silver
+Stef - gains Laboratory
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Mine, Laboratory, Laboratory, Festival
+Stef - shuffles deck
+Stef - draws Militia
+ 
+---------- kwino: turn 16 ----------
+kwino - plays Market
+kwino - draws Laboratory
+kwino - plays Laboratory
+kwino - draws Laboratory, Copper
+kwino - plays Laboratory
+kwino - draws Cellar, Province
+kwino - plays Cellar
+kwino - discards Province
+kwino - discards Copper
+kwino - draws Copper, Province
+kwino - plays Militia
+Stef - discards Mine
+Stef - discards Militia
+kwino - plays 1 Silver, 1 Copper
+kwino - buys Duchy
+kwino - gains Duchy
+kwino - draws Copper
+kwino - shuffles deck
+kwino - draws Cellar, Gold, Market, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Laboratory
+Stef - draws Laboratory, Remodel
+Stef - plays Laboratory
+Stef - draws Province, Province
+Stef - plays Laboratory
+Stef - draws Laboratory, Gold
+Stef - plays Laboratory
+Stef - draws Laboratory, Laboratory
+Stef - plays Laboratory
+Stef - draws Duchy, Province
+Stef - plays Laboratory
+Stef - draws Cellar, Gold
+Stef - plays Cellar
+Stef - discards Province
+Stef - discards Province
+Stef - discards Duchy
+Stef - discards Province
+Stef - draws Festival, Gold
+Stef - shuffles deck
+Stef - draws Province, Mine
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Remodel
+Stef - trashes Mine
+Stef - gains Duchy
+Stef - plays 3 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Militia, Province, Province, Duchy
+Stef - shuffles deck
+Stef - draws Cellar
+ 
+---------- kwino: turn 17 ----------
+kwino - plays Market
+kwino - draws Copper
+kwino - plays Cellar
+kwino - discards Copper
+kwino - discards Copper
+kwino - discards Copper
+kwino - draws Duchy, Cellar, Province
+kwino - plays Cellar
+kwino - discards Province
+kwino - discards Duchy
+kwino - draws Laboratory, Duchy
+kwino - plays Laboratory
+kwino - draws Militia, Copper
+kwino - plays Militia
+Stef - discards Province
+Stef - discards Militia
+kwino - plays 1 Gold, 1 Copper
+kwino - buys Duchy
+kwino - gains Duchy
+kwino - buys Estate
+kwino - gains Estate
+kwino - draws Chapel, Silver, Copper, Silver, Festival
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Cellar
+Stef - discards Duchy
+Stef - discards Province
+Stef - draws Province, Duchy
+Stef - draws Festival, Duchy, Gold, Laboratory, Festival
+ 
+---------- kwino: turn 18 ----------
+kwino - plays Festival
+kwino - plays 2 Silver, 1 Copper
+kwino - buys Duchy
+kwino - gains Duchy
+kwino - buys Estate
+kwino - gains Estate
+kwino - draws Province, Laboratory, Silver
+kwino - shuffles deck
+kwino - draws Silver, Estate
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Laboratory
+Stef - draws Remodel, Gold
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Remodel
+Stef - trashes Gold
+Stef - gains Province
+Stef - plays 1 Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Laboratory, Province, Gold, Laboratory, Laboratory
+ 
+---------- kwino: turn 19 ----------
+kwino - plays Laboratory
+kwino - draws Copper, Cellar
+kwino - plays Cellar
+kwino - discards Estate
+kwino - discards Province
+kwino - discards Copper
+kwino - draws Festival, Militia, Laboratory
+kwino - plays Laboratory
+kwino - draws Duchy, Copper
+kwino - plays Festival
+kwino - plays Militia
+Stef - discards Province
+Stef - discards Laboratory
+kwino - plays 2 Silver, 1 Copper
+kwino - buys Province
+kwino - gains Province
+kwino - draws Gold, Duchy, Copper, Chapel, Cellar
+ 
+------------ Game Over ------------
+Stef - cards: 6 Laboratory, 2 Festival, 1 Militia, 1 Cellar, 1 Remodel, 2 Gold, 5 Province, 4 Duchy, 1 Estate
+Stef - total victory points: 43
+Stef - turns: 19
+ 
+kwino - cards: 2 Cellar, 2 Laboratory, 1 Market, 1 Chapel, 1 Militia, 1 Festival, 5 Copper, 3 Silver, 1 Gold, 4 Duchy, 3 Province, 2 Estate
+kwino - total victory points: 32
+kwino - turns: 19
+ 
+1st place: Stef
+2nd place: kwino
+ 

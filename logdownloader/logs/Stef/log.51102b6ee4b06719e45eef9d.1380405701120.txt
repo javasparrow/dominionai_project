@@ -1,0 +1,381 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Scrying Pool, Trade Route, Watchtower, Rats, Embassy, Haggler, Outpost, Altar, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Stef - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Copper
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - buys Potion
+yed - gains Potion
+yed - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Haggler
+Stef - gains Haggler
+Stef - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Potion, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 2 Copper
+Stef - buys Crossroads
+Stef - gains Crossroads
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Crossroads
+ 
+---------- yed: turn 3 ----------
+yed - plays Silver
+yed - plays Copper
+yed - plays Copper
+yed - plays Copper
+yed - buys Haggler
+yed - gains Haggler
+yed - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Estate, Haggler, Copper, Estate
+ 
+---------- yed: turn 4 ----------
+yed - plays Copper
+yed - plays Copper
+yed - buys Crossroads
+yed - gains Crossroads
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Copper, Silver, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Haggler
+Stef - plays Copper
+Stef - buys Watchtower
+Stef - gains Crossroads
+Stef - gains Watchtower
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Potion, Estate, Crossroads
+ 
+---------- yed: turn 5 ----------
+yed - plays 4 Copper, 1 Silver
+yed - buys Altar
+yed - gains Altar
+yed - draws Copper, Estate, Copper, Estate, Potion
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Copper, Potion, Estate
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - draws Copper, Crossroads, Estate, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 2 Copper, 1 Potion
+yed - buys Scrying Pool
+yed - gains Scrying Pool
+yed - draws Copper, Estate, Crossroads, Haggler
+yed - shuffles deck
+yed - draws Scrying Pool
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Estate, Copper, Copper
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Rats
+Stef - gains Rats
+Stef - draws Watchtower, Estate, Haggler
+Stef - shuffles deck
+Stef - draws Copper, Crossroads
+ 
+---------- yed: turn 7 ----------
+yed - plays Scrying Pool
+yed - discards Copper
+Stef - places Copper on top of deck
+yed - reveals Copper
+yed - plays Crossroads
+yed - reveals hand: Copper, Estate, Haggler, Copper
+yed - draws Copper
+yed - plays Haggler
+yed - plays 3 Copper
+yed - buys Rats
+yed - gains Watchtower
+yed - gains Rats
+yed - draws Estate, Altar, Estate, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Crossroads
+Stef - reveals hand: Watchtower, Estate, Haggler, Copper
+Stef - draws Copper
+Stef - plays Haggler
+Stef - plays Watchtower
+Stef - draws Copper, Copper, Estate
+Stef - plays 4 Copper
+Stef - buys Altar
+Stef - gains Watchtower
+Stef - gains Altar
+Stef - draws Copper, Potion, Rats, Copper, Scrying Pool
+ 
+---------- yed: turn 8 ----------
+yed - plays Altar
+yed - trashes Estate
+yed - gains Haggler
+yed - plays 1 Copper, 1 Silver
+yed - buys Crossroads
+yed - gains Crossroads
+yed - draws Copper, Copper, Potion
+yed - shuffles deck
+yed - draws Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scrying Pool
+Stef - discards Estate
+yed - discards Scrying Pool
+Stef - reveals Copper
+Stef - plays Rats
+Stef - draws Crossroads
+Stef - gains Rats
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - shuffles deck
+Stef - draws Altar, Estate, Estate, Rats, Rats
+ 
+---------- yed: turn 9 ----------
+yed - plays 4 Copper, 1 Potion
+yed - buys Scrying Pool
+yed - gains Scrying Pool
+yed - draws Copper, Haggler, Watchtower, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - trashes Estate
+Stef - plays Rats
+Stef - draws Haggler
+Stef - gains Rats
+Stef - trashes Estate
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Outpost
+Stef - draws Copper, Scrying Pool, Scrying Pool, Watchtower, Potion
+ 
+---------- yed: turn 10 ----------
+yed - plays Haggler
+yed - plays 2 Copper
+yed - buys Rats
+yed - gains Watchtower
+yed - applied Watchtower to place Watchtower on top of the deck
+yed - gains Rats
+yed - applied Watchtower to place Rats on top of the deck
+yed - draws Rats, Watchtower, Haggler, Silver, Altar
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scrying Pool
+Stef - discards Estate
+yed - discards Crossroads
+Stef - reveals Crossroads, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+yed - discards Rats
+Stef - reveals Copper
+Stef - plays Crossroads
+Stef - reveals hand: Copper, Watchtower, Potion, Copper, Copper
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - applied Watchtower to place Scrying Pool on top of the deck
+Stef - draws Scrying Pool, Copper, Crossroads, Watchtower
+Stef - shuffles deck
+Stef - draws Rats
+ 
+---------- yed: turn 11 ----------
+yed - plays Rats
+yed - draws Estate
+yed - gains Rats
+yed - trashes Estate
+yed - plays Altar
+yed - trashes Silver
+yed - gains Outpost
+yed - draws Crossroads, Copper
+yed - shuffles deck
+yed - draws Altar, Crossroads, Haggler
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Rats
+Stef - draws Rats
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - draws Watchtower
+Stef - trashes Copper
+Stef - plays Crossroads
+Stef - reveals hand: Scrying Pool, Rats, Watchtower, Watchtower
+Stef - plays Watchtower
+Stef - draws Potion, Copper, Rats
+Stef - plays Scrying Pool
+Stef - places Altar on top of deck
+yed - places Copper on top of deck
+Stef - reveals Altar, Scrying Pool, Haggler, Copper
+Stef - plays Scrying Pool
+Stef - places Rats on top of deck
+yed - places Copper on top of deck
+Stef - reveals Rats, Copper
+Stef - plays Rats
+Stef - draws Crossroads
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - draws Estate
+Stef - trashes Copper
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - draws Scrying Pool
+Stef - trashes Estate
+Stef - plays Altar
+Stef - trashes Rats
+Stef - draws Outpost
+Stef - gains Silver
+Stef - plays Scrying Pool
+Stef - shuffles deck
+Stef - places Silver on top of deck
+yed - places Copper on top of deck
+Stef - reveals Silver
+Stef - plays Outpost
+Stef - plays 3 Copper, 1 Potion, 1 Silver
+Stef - buys Scrying Pool
+Stef - gains Scrying Pool
+Stef - applied Watchtower to place Scrying Pool on top of the deck
+Stef - duration Outpost
+Stef - draws Scrying Pool
+Stef - shuffles deck
+Stef - draws Scrying Pool, Watchtower
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Scrying Pool
+Stef - discards Copper
+yed - places Copper on top of deck
+Stef - reveals Rats, Rats, Crossroads, Scrying Pool, Silver
+Stef - plays Scrying Pool
+Stef - places Altar on top of deck
+yed - places Copper on top of deck
+Stef - reveals Altar, Haggler, Copper
+Stef - plays Scrying Pool
+Stef - discards Copper
+yed - places Copper on top of deck
+Stef - reveals Watchtower, Scrying Pool, Potion
+Stef - plays Scrying Pool
+Stef - places Crossroads on top of deck
+yed - places Copper on top of deck
+Stef - shuffles deck
+Stef - reveals Crossroads, Rats, Copper
+Stef - plays Rats
+Stef - draws Copper
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - trashes Copper
+Stef - plays Crossroads
+Stef - reveals hand: Watchtower, Rats, Rats, Crossroads, Silver, Altar, Haggler, Copper, Potion, Copper, Watchtower
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Haggler
+Stef - applied Watchtower to place Haggler on top of the deck
+Stef - plays Rats
+Stef - draws Haggler
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - trashes Copper
+Stef - plays Haggler
+Stef - plays Haggler
+Stef - plays Silver
+Stef - buys Gold
+Stef - gains Trade Route
+Stef - gains Embassy
+yed - gains Silver
+Stef - gains Gold
+Stef - shuffles deck
+Stef - draws Scrying Pool, Rats, Rats, Haggler, Watchtower
+ 
+---------- yed: turn 12 ----------
+yed - plays Altar
+yed - trashes Copper
+yed - gains Duchy
+yed - draws Copper, Rats, Copper, Haggler, Watchtower
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scrying Pool
+Stef - places Haggler on top of deck
+yed - discards Rats
+Stef - reveals Haggler, Potion
+Stef - plays Rats
+Stef - draws Watchtower
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - draws Embassy
+Stef - trashes Embassy
+Stef - plays Rats
+Stef - draws Crossroads
+Stef - gains Rats
+Stef - applied Watchtower to trash Rats
+Stef - trashes Rats
+Stef - draws Trade Route
+Stef - trashes Watchtower
+Stef - plays Crossroads
+Stef - reveals hand: Haggler, Watchtower, Haggler, Potion, Trade Route
+Stef - plays Haggler
+Stef - plays Watchtower
+Stef - draws Silver, Scrying Pool, Scrying Pool
+Stef - plays Scrying Pool
+Stef - places Scrying Pool on top of deck
+yed - discards Scrying Pool
+Stef - reveals Scrying Pool, Gold
+Stef - plays Scrying Pool
+Stef - places Altar on top of deck
+yed - places Copper on top of deck
+Stef - reveals Altar, Rats, Outpost, Crossroads
+Stef - plays Outpost
+Stef - plays 1 Potion, 1 Silver, 1 Gold
+Stef - buys Scrying Pool
+Stef - gains Crossroads
+Stef - gains Scrying Pool
+Stef - duration Outpost
+Stef - shuffles deck
+Stef - draws Trade Route, Altar, Scrying Pool
+ 
+---------- Stef: turn 12 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 5 Scrying Pool, 3 Rats, 3 Crossroads, 2 Haggler, 1 Trade Route, 1 Altar, 1 Watchtower, 1 Gold, 1 Silver, 1 Potion
+Stef - total victory points: 0
+Stef - turns: 11
+ 
+yed - resigned
+yed - cards: 3 Rats, 2 Haggler, 2 Watchtower, 2 Crossroads, 2 Scrying Pool, 1 Altar, 1 Outpost, 6 Copper, 1 Silver, 1 Potion, 1 Duchy, 1 Estate
+yed - total victory points: 4
+yed - turns: 12
+ 
+1st place: Stef
+2nd place: yed
+ 

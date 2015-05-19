@@ -1,0 +1,364 @@
+------------ Game Setup ------------
+Supply cards: Market Square, Navigator, Remake, Scout, Catacombs, Count, Festival, Soothsayer, Farmland, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+faust - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+faust - shuffles deck
+Stef - shuffles deck
+faust - draws Copper, Copper, Estate, Estate, Copper
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- faust: turn 1 ----------
+faust - plays 3 Copper
+faust - buys Market Square
+faust - gains Market Square
+faust - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- faust: turn 2 ----------
+faust - plays 4 Copper
+faust - buys Remake
+faust - gains Remake
+faust - shuffles deck
+faust - draws Copper, Copper, Market Square, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Count
+Stef - gains Count
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- faust: turn 3 ----------
+faust - plays Market Square
+faust - draws Copper
+faust - plays 4 Copper
+faust - buys Silver
+faust - gains Silver
+faust - draws Copper, Remake, Estate, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- faust: turn 4 ----------
+faust - plays Remake
+faust - trashes Estate
+faust - gains Silver
+faust - trashes Estate
+faust - gains Market Square
+faust - draws Copper
+faust - shuffles deck
+faust - draws Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Remake
+Stef - gains Remake
+Stef - draws Count
+Stef - shuffles deck
+Stef - draws Copper, Market Square, Estate, Estate
+ 
+---------- faust: turn 5 ----------
+faust - plays 4 Copper
+faust - buys Remake
+faust - gains Remake
+faust - draws Remake, Silver, Copper, Market Square, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Market Square
+Stef - draws Copper
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Estate, Estate, Copper
+Stef - draws Remake, Copper, Copper, Copper, Estate
+ 
+---------- faust: turn 6 ----------
+faust - plays Market Square
+faust - draws Copper
+faust - plays Remake
+faust - trashes Copper
+faust - trashes Copper
+faust - plays 2 Silver
+faust - buys Remake
+faust - gains Remake
+faust - draws Copper, Market Square
+faust - shuffles deck
+faust - draws Remake, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Remake
+Stef - trashes Copper
+Stef - trashes Estate
+Stef - gains Market Square
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Market Square
+ 
+---------- faust: turn 7 ----------
+faust - plays Remake
+faust - trashes Copper
+faust - reveals reaction Market Square
+faust - discards Market Square
+faust - gains Gold
+faust - trashes Copper
+faust - draws Estate, Silver, Market Square, Copper, Remake
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Market Square
+Stef - draws Count
+Stef - plays Count
+Stef - gains Copper
+Stef - trashes Copper, Copper, Copper, Copper
+Stef - draws Copper, Remake, Market Square
+Stef - shuffles deck
+Stef - draws Market Square, Count
+ 
+---------- faust: turn 8 ----------
+faust - plays Remake
+faust - trashes Copper
+faust - reveals reaction Market Square
+faust - discards Market Square
+faust - gains Gold
+faust - trashes Estate
+faust - gains Market Square
+faust - draws Silver, Copper, Remake
+faust - shuffles deck
+faust - draws Market Square, Remake
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Remake
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - trashes Count
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Market Square, Gold, Market Square, Gold
+ 
+---------- faust: turn 9 ----------
+faust - plays Market Square
+faust - draws Copper
+faust - plays Remake
+faust - trashes Remake
+faust - gains Festival
+faust - trashes Copper
+faust - plays 1 Silver, 1 Copper
+faust - buys Market Square
+faust - gains Market Square
+faust - draws Market Square, Gold, Silver, Remake, Gold
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - draws Remake
+Stef - plays 3 Gold, 1 Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - shuffles deck
+Stef - draws Copper, Catacombs, Market Square, Festival, Remake
+ 
+---------- faust: turn 10 ----------
+faust - plays Market Square
+faust - draws Market Square
+faust - plays Market Square
+faust - shuffles deck
+faust - draws Silver
+faust - plays 2 Gold, 2 Silver
+faust - buys Festival
+faust - gains Festival
+faust - buys Catacombs
+faust - gains Catacombs
+faust - draws Festival, Copper, Market Square, Remake, Market Square
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Market Square, Gold, Gold
+Stef - places cards in hand:  Market Square, Gold, Gold
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Market Square
+Stef - plays 3 Gold, 1 Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Remake, Copper, Gold, Market Square, Copper
+ 
+---------- faust: turn 11 ----------
+faust - plays Market Square
+faust - shuffles deck
+faust - draws Gold
+faust - plays Market Square
+faust - draws Festival
+faust - plays Festival
+faust - plays Festival
+faust - plays 1 Copper, 1 Gold
+faust - buys Catacombs
+faust - gains Catacombs
+faust - buys Market Square
+faust - gains Market Square
+faust - draws Remake, Silver, Catacombs, Market Square, Market Square
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Remake
+Stef - trashes Copper
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - trashes Copper
+Stef - plays 1 Gold
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - draws Catacombs, Market Square, Festival, Festival, Catacombs
+ 
+---------- faust: turn 12 ----------
+faust - plays Market Square
+faust - draws Gold
+faust - plays Market Square
+faust - draws Silver
+faust - plays Remake
+faust - trashes Silver
+faust - gains Remake
+faust - trashes Silver
+faust - gains Remake
+faust - plays 1 Gold
+faust - buys Market Square
+faust - gains Market Square
+faust - shuffles deck
+faust - draws Catacombs, Remake, Market Square, Gold, Remake
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Gold, Gold
+Stef - shuffles deck
+Stef - looks at Gold
+Stef - places cards in hand:  Gold, Gold, Gold
+Stef - plays Catacombs
+Stef - looks at Gold, Remake, Market Square
+Stef - places cards in hand:  Gold, Remake, Market Square
+Stef - plays Market Square
+Stef - draws Market Square
+Stef - plays Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - buys Farmland
+Stef - trashes Remake
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - reveals reaction Market Square
+Stef - discards Market Square
+Stef - gains Gold
+Stef - gains Gold
+Stef - gains Farmland
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Catacombs
+Stef - gains Catacombs
+Stef - shuffles deck
+Stef - draws Catacombs, Market Square, Festival, Market Square, Market Square
+ 
+---------- faust: turn 13 ----------
+faust - plays Market Square
+faust - draws Market Square
+faust - plays Market Square
+faust - draws Copper
+faust - plays Remake
+faust - trashes Copper
+faust - trashes Remake
+faust - gains Festival
+faust - draws Market Square, Remake, Festival, Market Square, Remake
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Market Square
+Stef - draws Catacombs
+Stef - plays Market Square
+Stef - draws Catacombs
+Stef - plays Market Square
+Stef - draws Gold
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Gold, Gold, Gold
+Stef - discards: Gold, Gold, Gold
+Stef - draws Festival, Festival, Gold
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - looks at Farmland, Gold, Gold
+Stef - places cards in hand:  Farmland, Gold, Gold
+Stef - plays Festival
+Stef - plays Catacombs
+Stef - shuffles deck
+Stef - looks at Gold, Gold, Gold
+Stef - places cards in hand:  Gold, Gold, Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - plays Gold
+Stef - buys Farmland
+Stef - trashes Farmland
+Stef - gains Province
+Stef - gains Farmland
+Stef - buys Farmland
+Stef - trashes Gold
+Stef - gains Province
+Stef - gains Farmland
+Stef - buys Farmland
+Stef - trashes Gold
+Stef - gains Province
+Stef - gains Farmland
+Stef - buys Market Square
+Stef - gains Market Square
+Stef - shuffles deck
+Stef - draws Province, Market Square, Province, Gold, Farmland
+ 
+---------- faust: turn 14 ----------
+faust - plays Market Square
+faust - draws Festival
+faust - plays Market Square
+faust - draws Catacombs
+faust - plays Festival
+faust - plays Catacombs
+faust - looks at Market Square, Gold, Market Square
+faust - places cards in hand:  Market Square, Gold, Market Square
+faust - plays Market Square
+faust - shuffles deck
+faust - draws Market Square
+faust - plays Market Square
+faust - draws Catacombs
+faust - plays Catacombs
+faust - looks at Market Square, Gold, Festival
+ 
+------------ Game Over ------------
+Stef - cards: 4 Market Square, 3 Catacombs, 3 Festival, 5 Gold, 3 Province, 3 Farmland
+Stef - total victory points: 24
+Stef - turns: 13
+ 
+faust - resigned
+faust - cards: 3 Remake, 1 Festival, 1 Market Square, 1 Gold
+faust - total victory points: 0
+faust - turns: 13
+ 
+1st place: Stef
+2nd place: faust
+ 

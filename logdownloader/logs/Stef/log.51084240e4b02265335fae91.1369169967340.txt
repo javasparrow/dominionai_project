@@ -1,0 +1,635 @@
+------------ Game Setup ------------
+Supply cards: University, Loan, Steward, Cutpurse, Noble Brigand, Band of Misfits, Tribute, Farmland, Hunting Grounds, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Serra Angel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serra Angel - shuffles deck
+Stef - shuffles deck
+Serra Angel - draws Estate, Copper, Copper, Estate, Copper
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Serra Angel: turn 1 ----------
+Serra Angel - plays 3 Copper
+Serra Angel - buys Steward
+Serra Angel - gains Steward
+Serra Angel - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Potion
+ 
+---------- Serra Angel: turn 2 ----------
+Serra Angel - plays 4 Copper
+Serra Angel - buys Potion
+Serra Angel - gains Potion
+Serra Angel - shuffles deck
+Serra Angel - draws Potion, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Estate, Steward, Estate, Copper, Copper
+ 
+---------- Serra Angel: turn 3 ----------
+Serra Angel - plays 4 Copper, 1 Potion
+Serra Angel - buys University
+Serra Angel - gains University
+Serra Angel - draws Estate, Estate, Copper, Steward, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper, Potion
+ 
+---------- Serra Angel: turn 4 ----------
+Serra Angel - plays Steward
+Serra Angel - trashes Estate, Estate
+Serra Angel - draws Copper, Estate
+Serra Angel - shuffles deck
+Serra Angel - draws Copper, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Copper, Copper, Steward, Copper, University
+ 
+---------- Serra Angel: turn 5 ----------
+Serra Angel - plays 4 Copper
+Serra Angel - buys Cutpurse
+Serra Angel - gains Cutpurse
+Serra Angel - draws Potion, Copper, Steward, University, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays University
+Stef - gains Tribute
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Potion, University, Steward, Copper
+ 
+---------- Serra Angel: turn 6 ----------
+Serra Angel - plays University
+Serra Angel - gains Band of Misfits
+Serra Angel - plays Steward
+Serra Angel - draws Copper
+Serra Angel - shuffles deck
+Serra Angel - draws Copper
+Serra Angel - plays 4 Copper, 1 Potion
+Serra Angel - buys University
+Serra Angel - gains University
+Serra Angel - draws Copper, Estate, Copper, Band of Misfits, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays University
+Stef - gains Tribute
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - draws Copper, Tribute, Copper, University, Copper
+ 
+---------- Serra Angel: turn 7 ----------
+Serra Angel - plays Band of Misfits
+Serra Angel - chooses Cutpurse
+Serra Angel - plays Cutpurse
+Stef - discards Copper
+Serra Angel - plays 3 Copper
+Serra Angel - buys Band of Misfits
+Serra Angel - gains Band of Misfits
+Serra Angel - draws Cutpurse
+Serra Angel - shuffles deck
+Serra Angel - draws Copper, Steward, Copper, Band of Misfits
+ 
+---------- Stef: turn 8 ----------
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Estate
+Stef - receives 2 coins
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper
+Serra Angel - discards: Copper, Estate
+Stef - plays 3 Copper
+Stef - buys Tribute
+Stef - gains Tribute
+Stef - draws University, Tribute, Band of Misfits, Potion, Steward
+ 
+---------- Serra Angel: turn 8 ----------
+Serra Angel - plays Steward
+Serra Angel - trashes Copper, Copper
+Serra Angel - draws Copper, University, Copper, Copper, Potion
+ 
+---------- Stef: turn 9 ----------
+Stef - plays University
+Stef - gains Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Band of Misfits
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Cutpurse
+Stef - plays Cutpurse
+Serra Angel - discards Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - shuffles deck
+Stef - draws University, Tribute, Hunting Grounds, Steward, Tribute
+ 
+---------- Serra Angel: turn 9 ----------
+Serra Angel - plays University
+Serra Angel - gains Tribute
+Serra Angel - plays 2 Copper, 1 Potion
+Serra Angel - buys University
+Serra Angel - gains University
+Serra Angel - draws University
+Serra Angel - shuffles deck
+Serra Angel - draws Potion, Estate, University, Tribute
+ 
+---------- Stef: turn 10 ----------
+Stef - plays University
+Stef - gains Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Copper
+Stef - receives 2 coins
+Serra Angel - discards: Copper, Copper
+Stef - plays Tribute
+Serra Angel - reveals: University, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: University, Copper
+Stef - plays Hunting Grounds
+Stef - draws Tribute, Band of Misfits, Estate, Copper
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Band of Misfits
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, Band of Misfits
+Stef - plays Steward
+Stef - draws University, Tribute
+Stef - plays University
+Stef - gains Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Cutpurse
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, Cutpurse
+Stef - plays Band of Misfits
+Stef - chooses Steward
+Stef - plays Steward
+Stef - trashes Copper, Estate
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - draws Copper, Potion, Copper
+Stef - shuffles deck
+Stef - draws Hunting Grounds, University
+ 
+---------- Serra Angel: turn 10 ----------
+Serra Angel - plays University
+Serra Angel - gains Cutpurse
+Serra Angel - plays University
+Serra Angel - gains Cutpurse
+Serra Angel - plays Tribute
+Stef - reveals: Tribute, Band of Misfits
+Serra Angel - receives 4 actions
+Stef - discards: Tribute, Band of Misfits
+Serra Angel - plays 1 Potion
+Serra Angel - draws Steward, Band of Misfits
+Serra Angel - shuffles deck
+Serra Angel - draws Cutpurse, Potion, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Tribute, Tribute, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Estate, Cutpurse
+Stef - receives 2 actions
+Stef - draws University, Tribute
+Serra Angel - discards: Estate, Cutpurse
+Stef - plays Tribute
+Serra Angel - reveals: University, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: University, Copper
+Stef - plays Tribute
+Serra Angel - reveals: Tribute, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Tribute, Copper
+Stef - plays Tribute
+Serra Angel - reveals: University, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: University, Copper
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays Hunting Grounds
+Stef - draws Tribute, Steward
+Stef - shuffles deck
+Stef - draws Band of Misfits, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Band of Misfits, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Band of Misfits, Copper
+Stef - plays Tribute
+Serra Angel - reveals: University, Cutpurse
+Stef - receives 4 actions
+Serra Angel - discards: University, Cutpurse
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Band of Misfits
+Stef - chooses Noble Brigand
+Stef - plays Noble Brigand
+Serra Angel - shuffles deck
+Serra Angel - reveals: Tribute, Copper
+Serra Angel - discards: Tribute, Copper
+Stef - plays 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - draws Band of Misfits, Band of Misfits
+Stef - shuffles deck
+Stef - draws Band of Misfits, Tribute, Steward
+ 
+---------- Serra Angel: turn 11 ----------
+Serra Angel - plays Cutpurse
+Stef - reveals Band of Misfits, Band of Misfits, Band of Misfits, Tribute, Steward
+Serra Angel - plays 1 Potion, 1 Copper
+Serra Angel - buys Estate
+Serra Angel - gains Estate
+Serra Angel - draws Copper, Cutpurse, University, Cutpurse, University
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Estate
+Stef - receives 2 coins
+Stef - draws Potion, Tribute
+Serra Angel - discards: Copper, Estate
+Stef - draws Tribute, Tribute, Hunting Grounds, University, University
+ 
+---------- Serra Angel: turn 12 ----------
+Serra Angel - plays University
+Serra Angel - gains Cutpurse
+Serra Angel - plays University
+Serra Angel - gains Cutpurse
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Tribute, Hunting Grounds, University, University
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Tribute, Hunting Grounds, University, University
+Serra Angel - plays 1 Copper
+Serra Angel - buys Duchy
+Serra Angel - gains Duchy
+Serra Angel - draws Band of Misfits, University, Copper
+Serra Angel - shuffles deck
+Serra Angel - draws Estate, Duchy
+ 
+---------- Stef: turn 13 ----------
+Stef - plays University
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Copper
+Stef - receives 2 coins
+Serra Angel - discards: Copper, Copper
+Stef - plays University
+Stef - plays Tribute
+Serra Angel - reveals: University, Cutpurse
+Stef - receives 4 actions
+Serra Angel - discards: University, Cutpurse
+Stef - plays Hunting Grounds
+Stef - draws Hunting Grounds, Tribute, Tribute, Possession
+Stef - plays Tribute
+Serra Angel - reveals: Tribute, Estate
+Stef - receives 2 actions
+Stef - shuffles deck
+Stef - draws Steward, Band of Misfits
+Serra Angel - discards: Tribute, Estate
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Cutpurse
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, Cutpurse
+Stef - plays Hunting Grounds
+Stef - draws Band of Misfits, Tribute, Potion, Band of Misfits
+Stef - plays Band of Misfits
+Stef - chooses Noble Brigand
+Stef - plays Noble Brigand
+Serra Angel - reveals: Cutpurse, Potion
+Serra Angel - discards: Cutpurse, Potion
+Stef - plays Band of Misfits
+Stef - chooses Noble Brigand
+Stef - plays Noble Brigand
+Serra Angel - reveals: Copper, Cutpurse
+Serra Angel - discards: Copper, Cutpurse
+Stef - plays Band of Misfits
+Stef - chooses Noble Brigand
+Stef - plays Noble Brigand
+Serra Angel - reveals: Steward, University
+Serra Angel - discards: Steward, University
+Serra Angel - gains Copper
+Stef - plays Tribute
+Serra Angel - reveals: Band of Misfits, Cutpurse
+Stef - receives 4 actions
+Serra Angel - discards: Band of Misfits, Cutpurse
+Stef - plays Possession
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 1 Potion
+Stef - buys Possession
+Stef - gains Possession
+Stef - draws Tribute
+Stef - shuffles deck
+Stef - draws Tribute, Tribute, Potion, Steward
+ 
+---------- Serra Angel: turn 13 [possessed] ----------
+Serra Angel - plays University
+Stef - gains Tribute
+Serra Angel - plays Band of Misfits
+Serra Angel - chooses Steward
+Serra Angel - plays Steward
+Serra Angel - shuffles deck
+Serra Angel - draws Copper, Steward
+Serra Angel - plays Steward
+Serra Angel - takes 2 coins
+Serra Angel - plays 2 Copper
+Serra Angel - buys Cutpurse
+Stef - gains Cutpurse
+Serra Angel - draws Cutpurse, Cutpurse, Potion, Copper, Estate
+ 
+---------- Serra Angel: turn 13 ----------
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Tribute, Tribute, Potion, Steward
+Serra Angel - plays 1 Potion, 1 Copper
+Serra Angel - buys Estate
+Serra Angel - gains Estate
+Serra Angel - draws Cutpurse, Cutpurse, Copper, Band of Misfits, Tribute
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Tribute
+Serra Angel - reveals: Copper, University
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, University
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, University
+Stef - receives 4 actions
+Serra Angel - discards: Cutpurse, University
+Stef - plays Tribute
+Serra Angel - reveals: Copper
+Serra Angel - shuffles deck
+Serra Angel - reveals: Band of Misfits
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Copper, Band of Misfits
+Stef - plays Steward
+Stef - draws Possession, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Estate, Copper
+Stef - receives 2 coins
+Stef - draws Tribute, Tribute
+Serra Angel - discards: Estate, Copper
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, Duchy
+Stef - receives 2 actions
+Stef - draws Possession, Band of Misfits
+Serra Angel - discards: Cutpurse, Duchy
+Stef - plays Tribute
+Serra Angel - reveals: University, Cutpurse
+Stef - receives 4 actions
+Serra Angel - discards: University, Cutpurse
+Stef - plays Band of Misfits
+Stef - chooses Steward
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Possession
+Stef - plays Possession
+Stef - buys Province
+Stef - gains Province
+Stef - draws Band of Misfits, Hunting Grounds, University, Band of Misfits, University
+ 
+---------- Serra Angel: turn 14 [possessed] ----------
+Serra Angel - plays Tribute
+Stef - reveals: Hunting Grounds
+Stef - shuffles deck
+Stef - reveals: Province
+Serra Angel - receives 2 actions
+Serra Angel - draws Estate, Copper
+Stef - discards: Hunting Grounds, Province
+Serra Angel - plays Band of Misfits
+Serra Angel - chooses Steward
+Serra Angel - plays Steward
+Serra Angel - draws University, Copper
+Serra Angel - plays University
+Stef - gains Tribute
+Serra Angel - plays Cutpurse
+Stef - reveals Band of Misfits, Hunting Grounds, University, Band of Misfits, University
+Serra Angel - plays Cutpurse
+Stef - reveals Band of Misfits, Hunting Grounds, University, Band of Misfits, University
+Serra Angel - plays 3 Copper
+Serra Angel - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Serra Angel - draws Steward, Copper, Cutpurse, University, Potion
+ 
+---------- Serra Angel: turn 14 [possessed] ----------
+Serra Angel - plays University
+Stef - gains Tribute
+Serra Angel - plays Steward
+Serra Angel - takes 2 coins
+Serra Angel - plays Cutpurse
+Stef - reveals Band of Misfits, Hunting Grounds, University, Band of Misfits, University
+Serra Angel - plays 1 Copper, 1 Potion
+Serra Angel - buys Duchy
+Stef - gains Duchy
+Serra Angel - draws Estate
+Serra Angel - shuffles deck
+Serra Angel - draws Band of Misfits, Potion, Copper, Copper
+ 
+---------- Serra Angel: turn 14 ----------
+Serra Angel - plays Band of Misfits
+Serra Angel - chooses Cutpurse
+Serra Angel - plays Cutpurse
+Stef - reveals Band of Misfits, Hunting Grounds, University, Band of Misfits, University
+Serra Angel - plays 2 Copper, 1 Potion
+Serra Angel - buys Estate
+Serra Angel - gains Estate
+Serra Angel - draws University, Cutpurse, Steward, Copper, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays Hunting Grounds
+Stef - draws Tribute, Band of Misfits, Cutpurse, Potion
+Stef - plays Tribute
+Serra Angel - reveals: University, Cutpurse
+Stef - receives 4 actions
+Serra Angel - discards: University, Cutpurse
+Stef - plays Band of Misfits
+Stef - chooses Steward
+Stef - plays Steward
+Stef - draws Tribute, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Band of Misfits, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Band of Misfits, Copper
+Stef - plays Tribute
+Serra Angel - reveals: Estate, Tribute
+Stef - receives 2 actions
+Stef - draws Possession, Tribute
+Serra Angel - discards: Estate, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, Cutpurse
+Stef - receives 2 actions
+Serra Angel - discards: Cutpurse, Cutpurse
+Stef - plays Possession
+Stef - plays Band of Misfits
+Stef - chooses Steward
+Stef - plays Steward
+Stef - draws Tribute, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Estate
+Stef - receives 2 coins
+Stef - draws Possession, Steward
+Serra Angel - discards: Copper, Estate
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, Copper
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Cutpurse, Copper
+Stef - plays Possession
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - draws Tribute
+Stef - shuffles deck
+Stef - draws Tribute, Province, Duchy, Hunting Grounds
+ 
+---------- Serra Angel: turn 15 [possessed] ----------
+Serra Angel - plays University
+Stef - gains Band of Misfits
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Tribute, Province, Duchy, Hunting Grounds
+Serra Angel - plays Steward
+Serra Angel - takes 2 coins
+Serra Angel - plays 1 Copper
+Serra Angel - buys Duchy
+Stef - gains Duchy
+Serra Angel - draws University
+Serra Angel - shuffles deck
+Serra Angel - draws Duchy, Copper, Copper, Estate
+ 
+---------- Serra Angel: turn 15 [possessed] ----------
+Serra Angel - plays University
+Stef - gains Band of Misfits
+Serra Angel - draws Estate, Steward, University, Copper, Cutpurse
+ 
+---------- Serra Angel: turn 15 ----------
+Serra Angel - plays University
+Serra Angel - gains Cutpurse
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Tribute, Province, Duchy, Hunting Grounds
+Serra Angel - plays Steward
+Serra Angel - takes 2 coins
+Serra Angel - plays 1 Copper
+Serra Angel - buys Duchy
+Serra Angel - gains Duchy
+Serra Angel - draws Cutpurse, Copper, Cutpurse, Copper, Estate
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Tribute
+Serra Angel - reveals: Band of Misfits, Estate
+Stef - receives 2 actions
+Stef - draws Hunting Grounds, Band of Misfits
+Serra Angel - discards: Band of Misfits, Estate
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, Band of Misfits
+Stef - receives 4 actions
+Serra Angel - discards: Cutpurse, Band of Misfits
+Stef - plays Hunting Grounds
+Stef - draws Tribute, University, Potion, Tribute
+Stef - plays Hunting Grounds
+Stef - draws Possession, Hunting Grounds, Province, Tribute
+Stef - plays Tribute
+Serra Angel - reveals: Tribute, Potion
+Stef - receives 2 coins
+Stef - receives 2 actions
+Serra Angel - discards: Tribute, Potion
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, University
+Stef - receives 4 actions
+Serra Angel - discards: Cutpurse, University
+Stef - plays Tribute
+Serra Angel - reveals: Copper
+Serra Angel - shuffles deck
+Serra Angel - reveals: Copper
+Stef - receives 2 coins
+Serra Angel - discards: Copper, Copper
+Stef - plays Hunting Grounds
+Stef - draws Cutpurse, Tribute, Band of Misfits, Band of Misfits
+Stef - plays Tribute
+Serra Angel - reveals: Steward, Duchy
+Stef - receives 2 actions
+Stef - draws Steward, Tribute
+Serra Angel - discards: Steward, Duchy
+Stef - plays Tribute
+Serra Angel - reveals: Cutpurse, Duchy
+Stef - receives 2 actions
+Stef - draws Tribute, Band of Misfits
+Serra Angel - discards: Cutpurse, Duchy
+Stef - plays Tribute
+Serra Angel - reveals: Copper, Estate
+Stef - receives 2 coins
+Stef - draws University, Possession
+Serra Angel - discards: Copper, Estate
+Stef - plays Possession
+Stef - plays Possession
+Stef - plays University
+Stef - gains Band of Misfits
+Stef - plays University
+Stef - gains Cutpurse
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Cutpurse
+Stef - gains Cutpurse
+Stef - draws Tribute, Band of Misfits
+Stef - shuffles deck
+Stef - draws Band of Misfits, Tribute, Duchy
+ 
+---------- Serra Angel: turn 16 [possessed] ----------
+Serra Angel - plays Cutpurse
+Stef - reveals Tribute, Band of Misfits, Band of Misfits, Tribute, Duchy
+Serra Angel - plays 2 Copper
+Serra Angel - buys Cutpurse
+Stef - gains Cutpurse
+Serra Angel - draws University, Tribute, Cutpurse, Potion, Cutpurse
+ 
+------------ Game Over ------------
+Stef - cards: 9 Tribute, 8 Band of Misfits, 4 Cutpurse, 3 Hunting Grounds, 2 University, 2 Possession, 1 Steward, 1 Potion, 2 Duchy, 2 Province
+Stef - total victory points: 18
+Stef - turns: 16
+ 
+Serra Angel - cards: 6 Cutpurse, 3 University, 2 Band of Misfits, 1 Tribute, 1 Steward, 6 Copper, 1 Potion, 4 Estate, 2 Duchy
+Serra Angel - total victory points: 10
+Serra Angel - turns: 15
+ 
+1st place: Stef
+2nd place: Serra Angel
+ 

@@ -1,0 +1,341 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Fortress, Scout, Cultist, Duke, Merchant Guild, Rogue, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+shark_bait - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+shark_bait - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Cellar
+Stef - gains Cellar
+Stef - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays 4 Copper
+shark_bait - buys Fortress
+shark_bait - gains Fortress
+shark_bait - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Silver, Copper
+Stef - shuffles deck
+Stef - draws Copper, Cellar, Cultist
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Moat
+shark_bait - gains Moat
+shark_bait - draws Copper, Silver
+shark_bait - shuffles deck
+shark_bait - draws Copper, Moat, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Copper
+Stef - draws Estate, Copper
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Moat
+shark_bait - draws Copper, Copper
+shark_bait - plays 5 Copper, 1 Silver
+shark_bait - buys Cultist
+shark_bait - gains Cultist
+shark_bait - draws Silver, Copper, Estate, Fortress, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Fortress
+shark_bait - draws Estate
+shark_bait - plays 1 Silver, 1 Copper
+shark_bait - buys Cellar
+shark_bait - gains Cellar
+shark_bait - draws Copper
+shark_bait - shuffles deck
+shark_bait - draws Silver, Moat, Copper, Cultist
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Cellar, Cultist, Estate, Estate, Silver
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Cultist
+shark_bait - draws Estate, Copper
+Stef - gains Ruined Village
+shark_bait - plays 3 Copper, 1 Silver
+shark_bait - buys Cultist
+shark_bait - gains Cultist
+shark_bait - draws Estate, Fortress, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Estate
+Stef - draws Cultist, Silver
+Stef - plays Cultist
+Stef - draws Copper, Copper
+shark_bait - gains Abandoned Mine
+Stef - plays Cultist
+Stef - draws Copper, Copper
+shark_bait - gains Survivors
+Stef - plays 4 Copper, 2 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - shuffles deck
+Stef - draws Copper, Cellar, Ruined Village, Copper, Estate
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Fortress
+shark_bait - draws Cellar
+shark_bait - plays Cellar
+shark_bait - discards Estate
+shark_bait - draws Estate
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Moat
+shark_bait - gains Moat
+shark_bait - draws Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Moat
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Cellar
+Stef - discards Copper
+Stef - discards Ruined Village
+Stef - discards Copper
+Stef - discards Estate
+Stef - draws Cultist, Cultist, Cultist, Estate
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Copper
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Silver
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Cultist
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Silver, Copper
+Stef - plays 5 Copper, 2 Silver
+Stef - buys Cultist
+Stef - gains Cultist
+Stef - draws Silver, Estate
+Stef - shuffles deck
+Stef - draws Copper, Cultist, Silver
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Moat
+shark_bait - draws Cultist, Copper
+shark_bait - plays 5 Copper
+shark_bait - buys Cultist
+shark_bait - gains Cultist
+shark_bait - draws Copper, Abandoned Mine, Moat, Fortress, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Cultist
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Cultist, Silver
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Ruined Village, Copper
+Stef - plays 3 Silver, 3 Copper
+Stef - buys Merchant Guild
+Stef - gains Merchant Guild
+Stef - draws Estate, Cultist, Copper, Copper, Estate
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Fortress
+shark_bait - draws Estate
+shark_bait - plays Moat
+shark_bait - draws Estate, Silver
+shark_bait - plays Abandoned Mine
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Cellar, Survivors, Copper, Cultist, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Cultist
+Stef - draws Copper, Copper
+shark_bait - gains Ruined Library
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - draws Cultist, Cellar
+Stef - shuffles deck
+Stef - draws Cultist, Estate, Silver
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Cellar
+shark_bait - discards Survivors
+shark_bait - discards Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper
+shark_bait - plays Cultist
+shark_bait - draws Estate, Silver
+Stef - gains Ruined Market
+shark_bait - plays 2 Silver, 2 Copper
+shark_bait - buys Cultist
+shark_bait - gains Cultist
+shark_bait - draws Fortress, Copper, Abandoned Mine, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Cellar
+Stef - discards Estate
+Stef - discards Silver
+Stef - draws Copper, Fortress
+Stef - plays Fortress
+Stef - draws Copper
+Stef - plays Cultist
+Stef - draws Cultist, Silver
+shark_bait - gains Ruined Library
+Stef - plays Cultist
+Stef - draws Copper, Copper
+shark_bait - gains Ruined Library
+Stef - plays Cultist
+Stef - draws Cultist, Ruined Village
+shark_bait - gains Abandoned Mine
+Stef - plays Cultist
+Stef - draws Merchant Guild, Copper
+shark_bait - gains Survivors
+Stef - plays Merchant Guild
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Village
+Stef - receives 1 coin token
+Stef - gains Village
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - draws Cultist, Estate, Estate, Silver, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Fortress
+shark_bait - draws Estate
+shark_bait - plays Abandoned Mine
+shark_bait - plays 3 Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Moat, Moat, Silver, Ruined Library
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Cultist, Silver, Ruined Market, Cultist
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Moat
+shark_bait - draws Cultist, Survivors
+shark_bait - plays 1 Copper, 1 Silver
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Cultist, Estate
+shark_bait - shuffles deck
+shark_bait - draws Moat, Abandoned Mine
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Cultist, Ruined Village
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Copper, Fortress
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Village, Cultist
+Stef - plays Cultist
+shark_bait - reveals reaction Moat
+Stef - draws Duchy, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Cellar, Copper, Merchant Guild, Estate
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Cultist
+shark_bait - draws Moat, Ruined Library
+Stef - gains Ruined Library
+shark_bait - draws Survivors, Fortress, Copper, Copper, Cellar
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Merchant Guild
+Stef - plays 1 Silver, 1 Copper
+Stef - uses 1 coin token
+Stef - buys Duchy
+Stef - receives 1 coin token
+Stef - gains Duchy
+Stef - shuffles deck
+Stef - draws Fortress, Duchy, Cultist, Duchy, Estate
+ 
+---------- shark_bait: turn 15 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 5 Cultist, 1 Fortress, 1 Village, 1 Ruined Library, 1 Ruined Market, 1 Ruined Village, 1 Cellar, 1 Merchant Guild, 7 Copper, 3 Silver, 4 Duchy, 3 Estate
+Stef - total victory points: 15
+Stef - turns: 15
+ 
+shark_bait - resigned
+shark_bait - cards: 4 Cultist, 3 Ruined Library, 2 Survivors, 2 Abandoned Mine, 2 Moat, 1 Fortress, 1 Cellar, 7 Copper, 5 Silver, 3 Estate
+shark_bait - total victory points: 3
+shark_bait - turns: 14
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

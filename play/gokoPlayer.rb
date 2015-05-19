@@ -536,7 +536,8 @@ class GokoPlayer
       puts "no trash chapel"
       r = GokoRapper.new
       r.pointUpperButton
-      GokoPlayer.new.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
+      FileUtils.touch(@rawlog)
+      #GokoPlayer.new.parse(@rawlog, @output, @outputAction, @outputActionSelection, @drawlog, @autoPlay, "Chapel")
     else
       r = GokoRapper.new
       r.pointUpperButton
@@ -609,6 +610,8 @@ class GokoPlayer
       sleep 4
       #財宝プレイ
       r.pointLowerButton
+      #財宝がない場合に備えてlogをtouchしておく
+      FileUtils.touch(@rawlog)
     end
   end
 
@@ -1560,7 +1563,7 @@ end
     @lastPlay = pCard
 
     #この処理要らなくね？（玉座は強制使用のため）
-    if(pCard.name == "Throne Room" || true)
+    if(pCard.name == "Throne Room")
 	   if(haveActionInHand() == false)
 	     @lastPlay = nil
        if(DEBUG_PRINT)

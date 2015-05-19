@@ -1,0 +1,506 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Swindler, Militia, Moneylender, Bazaar, Festival, Junk Dealer, Market, Saboteur, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Lekkit - shuffles deck
+Stef - draws Copper, Copper, Estate, Estate, Copper
+Lekkit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Oasis
+Lekkit - gains Oasis
+Lekkit - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Militia
+Stef - gains Militia
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Militia
+Lekkit - gains Militia
+Lekkit - shuffles deck
+Lekkit - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper, Estate, Oasis, Militia, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Estate, Militia
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays Oasis
+Lekkit - draws Copper
+Lekkit - discards Estate
+Lekkit - plays Militia
+Stef - discards Estate
+Stef - discards Estate
+Lekkit - plays 3 Copper
+Lekkit - buys Junk Dealer
+Lekkit - gains Junk Dealer
+Lekkit - draws Copper
+Lekkit - shuffles deck
+Lekkit - draws Junk Dealer, Oasis, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Militia
+Lekkit - discards Copper
+Lekkit - discards Copper
+Stef - plays 2 Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays Oasis
+Lekkit - draws Copper
+Lekkit - discards Copper
+Lekkit - plays Junk Dealer
+Lekkit - draws Copper
+Lekkit - trashes Copper
+Lekkit - plays 1 Copper
+Lekkit - buys Swindler
+Lekkit - gains Swindler
+Lekkit - draws Silver, Estate, Estate, Militia, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Swindler, Estate, Junk Dealer, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+Lekkit - plays 1 Silver, 1 Copper
+Lekkit - buys Junk Dealer
+Lekkit - gains Junk Dealer
+Lekkit - draws Copper, Estate
+Lekkit - shuffles deck
+Lekkit - draws Copper, Militia, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Estate
+Stef - plays Bazaar
+Stef - draws Swindler
+Stef - plays Swindler
+Lekkit - reveals Copper
+Lekkit - trashes Copper
+Lekkit - gains Curse
+Stef - plays Swindler
+Lekkit - reveals Estate
+Lekkit - trashes Estate
+Lekkit - gains Estate
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Militia, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Militia
+Stef - discards Copper
+Stef - discards Copper
+Lekkit - plays 2 Copper, 1 Silver
+Lekkit - buys Bazaar
+Lekkit - gains Bazaar
+Lekkit - draws Copper, Copper, Swindler, Junk Dealer, Junk Dealer
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Militia
+Lekkit - discards Copper
+Lekkit - discards Copper
+Stef - plays Copper
+Stef - buys Swindler
+Stef - gains Swindler
+Stef - draws Copper, Copper, Estate, Silver
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Estate
+Lekkit - trashes Estate
+Lekkit - plays Junk Dealer
+Lekkit - draws Oasis
+Lekkit - trashes Oasis
+Lekkit - plays Swindler
+Stef - reveals Swindler
+Stef - trashes Swindler
+Stef - gains Silver
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper
+Lekkit - shuffles deck
+Lekkit - draws Curse, Junk Dealer, Silver, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Junk Dealer, Copper, Junk Dealer, Estate
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Estate
+Lekkit - trashes Curse
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Gold
+Lekkit - gains Gold
+Lekkit - draws Copper, Swindler, Estate, Militia, Junk Dealer
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Swindler
+Stef - trashes Estate
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Copper
+Stef - plays Bazaar
+Stef - draws Swindler
+Stef - plays Swindler
+Lekkit - reveals Copper
+Lekkit - trashes Copper
+Lekkit - gains Curse
+Stef - plays Swindler
+Lekkit - reveals Bazaar
+Lekkit - trashes Bazaar
+Lekkit - gains Duchy
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Copper, Militia
+Stef - shuffles deck
+Stef - draws Estate, Bazaar
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Copper
+Lekkit - trashes Estate
+Lekkit - plays Militia
+Stef - discards Estate
+Stef - discards Copper
+Lekkit - plays 2 Copper
+Lekkit - buys Bazaar
+Lekkit - gains Bazaar
+Lekkit - draws Copper
+Lekkit - shuffles deck
+Lekkit - draws Swindler, Estate, Curse, Militia
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Militia
+Lekkit - discards Curse
+Lekkit - discards Estate
+Stef - plays 2 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Bazaar, Copper, Silver, Silver, Copper
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays Swindler
+Stef - reveals Bazaar
+Stef - trashes Bazaar
+Stef - gains Duchy
+Lekkit - plays 1 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Silver, Junk Dealer, Gold, Junk Dealer, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Bazaar
+Stef - draws Junk Dealer
+Stef - plays Junk Dealer
+Stef - draws Swindler
+Stef - trashes Copper
+Stef - plays Swindler
+Lekkit - reveals Copper
+Lekkit - trashes Copper
+Lekkit - gains Curse
+Stef - plays Silver
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Swindler, Copper, Junk Dealer
+Stef - shuffles deck
+Stef - draws Silver, Estate
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Copper
+Lekkit - plays 2 Silver, 1 Gold
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Copper, Bazaar, Duchy
+Lekkit - shuffles deck
+Lekkit - draws Swindler, Militia
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Estate
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Swindler
+Lekkit - reveals Silver
+Lekkit - trashes Silver
+Lekkit - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Bazaar, Swindler, Bazaar, Silver, Duchy
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Bazaar
+Lekkit - draws Curse
+Lekkit - plays Swindler
+Stef - reveals Junk Dealer
+Stef - trashes Junk Dealer
+Stef - gains Duchy
+Lekkit - plays Militia
+Stef - discards Duchy
+Stef - discards Silver
+Lekkit - plays 1 Copper
+Lekkit - buys Gold
+Lekkit - gains Gold
+Lekkit - draws Gold, Junk Dealer, Curse, Silver, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Swindler
+Lekkit - reveals Copper
+Lekkit - trashes Copper
+Lekkit - gains Curse
+Stef - plays Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Militia
+Stef - shuffles deck
+Stef - draws Copper, Swindler, Bazaar
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Junk Dealer
+Lekkit - trashes Curse
+Lekkit - plays 2 Silver, 1 Gold
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Estate, Province
+Lekkit - shuffles deck
+Lekkit - draws Copper, Silver, Duchy
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Militia
+Lekkit - discards Province
+Lekkit - discards Estate
+Stef - plays Swindler
+Lekkit - reveals Silver
+Lekkit - trashes Silver
+Lekkit - gains Silver
+Stef - plays 3 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Swindler, Bazaar, Silver, Province, Duchy
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays 1 Copper, 1 Silver
+Lekkit - buys Oasis
+Lekkit - gains Oasis
+Lekkit - draws Junk Dealer, Curse, Gold, Province, Gold
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Swindler
+Lekkit - reveals Silver
+Lekkit - trashes Silver
+Lekkit - gains Silver
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Bazaar, Duchy, Bazaar, Silver, Junk Dealer
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Bazaar
+Lekkit - trashes Curse
+Lekkit - plays Bazaar
+Lekkit - draws Militia
+Lekkit - plays Militia
+Stef - discards Duchy
+Stef - discards Silver
+Lekkit - plays 2 Gold
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Swindler, Junk Dealer, Curse
+Lekkit - shuffles deck
+Lekkit - draws Militia, Estate
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Province
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Militia
+Stef - gains Militia
+Stef - draws Bazaar, Swindler, Bazaar, Province, Silver
+ 
+---------- Lekkit: turn 17 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Oasis
+Lekkit - trashes Curse
+Lekkit - plays Oasis
+Lekkit - draws Gold
+Lekkit - discards Swindler
+Lekkit - plays Militia
+Stef - discards Province
+Stef - discards Silver
+Lekkit - plays 1 Gold
+Lekkit - buys Gold
+Lekkit - gains Gold
+Lekkit - draws Bazaar, Silver, Silver, Province, Province
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Bazaar
+Stef - draws Duchy
+Stef - plays Bazaar
+Stef - draws Silver
+Stef - plays Swindler
+Lekkit - reveals Duchy
+Lekkit - trashes Duchy
+Lekkit - gains Trading Post
+Stef - plays Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Swindler, Copper, Duchy, Bazaar, Bazaar
+ 
+---------- Lekkit: turn 18 ----------
+Lekkit - plays Bazaar
+Lekkit - draws Province
+Lekkit - plays 2 Silver
+Lekkit - buys Duchy
+Lekkit - gains Duchy
+Lekkit - draws Junk Dealer, Silver, Copper, Gold
+Lekkit - shuffles deck
+Lekkit - draws Province
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Swindler
+Lekkit - reveals Swindler
+Lekkit - trashes Swindler
+Lekkit - gains Oasis
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Militia
+Stef - shuffles deck
+Stef - draws Silver, Copper, Duchy, Bazaar
+ 
+---------- Lekkit: turn 19 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Copper
+Lekkit - plays 2 Silver, 1 Gold
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Gold, Province, Trading Post, Gold, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Bazaar
+Stef - draws Militia
+Stef - plays Militia
+Lekkit - discards Province
+Lekkit - discards Trading Post
+Stef - plays Militia
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Junk Dealer, Copper, Bazaar, Province, Bazaar
+ 
+---------- Lekkit: turn 20 ----------
+Lekkit - plays 2 Gold
+Lekkit - buys Duchy
+Lekkit - gains Duchy
+Lekkit - draws Province, Oasis, Bazaar, Silver, Militia
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Bazaar
+Stef - draws Swindler
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Swindler
+Stef - trashes Copper
+Stef - plays Swindler
+Lekkit - reveals Duchy
+Lekkit - trashes Duchy
+Lekkit - gains Trading Post
+Stef - plays 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold, Duchy, Copper, Bazaar, Province
+ 
+------------ Game Over ------------
+Stef - cards: 6 Bazaar, 2 Militia, 2 Swindler, 1 Junk Dealer, 3 Copper, 2 Silver, 1 Gold, 4 Province, 3 Duchy
+Stef - total victory points: 33
+Stef - turns: 21
+ 
+Lekkit - cards: 2 Oasis, 2 Junk Dealer, 2 Trading Post, 1 Bazaar, 1 Militia, 3 Silver, 3 Gold, 4 Province, 1 Duchy, 1 Estate
+Lekkit - total victory points: 28
+Lekkit - turns: 20
+ 
+1st place: Stef
+2nd place: Lekkit
+ 

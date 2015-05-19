@@ -1,0 +1,552 @@
+------------ Game Setup ------------
+Supply cards: Haven, Scheme, JackOfAllTrades, Marauder, Mining Village, Worker's Village, Explorer, Ill-Gotten Gains, Grand Market, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+D C - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+D C - shuffles deck
+Stef - shuffles deck
+D C - draws Estate, Copper, Estate, Copper, Estate
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- D C: turn 1 ----------
+D C - plays 2 Copper
+D C - buys Haven
+D C - gains Haven
+D C - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys JackOfAllTrades
+Stef - gains JackOfAllTrades
+Stef - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- D C: turn 2 ----------
+D C - plays 5 Copper
+D C - buys Ill-Gotten Gains
+D C - gains Ill-Gotten Gains
+Stef - gains Curse
+D C - shuffles deck
+D C - draws Copper, Copper, Haven, Ill-Gotten Gains, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - shuffles deck
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- D C: turn 3 ----------
+D C - plays Haven
+D C - draws Copper
+D C - sets aside Estate
+D C - plays 3 Copper
+D C - plays Ill-Gotten Gains
+D C - buys JackOfAllTrades
+D C - gains JackOfAllTrades
+D C - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, JackOfAllTrades, Copper, Estate
+ 
+---------- D C: turn 4 ----------
+D C - duration Haven
+D C - places set aside Estate in hand
+D C - plays 3 Copper
+D C - buys Scheme
+D C - gains Scheme
+D C - draws Copper
+D C - shuffles deck
+D C - draws Copper, Copper, Ill-Gotten Gains, Scheme
+ 
+---------- Stef: turn 4 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Scheme
+Stef - trashes Estate
+Stef - plays 4 Copper
+Stef - buys JackOfAllTrades
+Stef - gains JackOfAllTrades
+Stef - draws Curse
+Stef - shuffles deck
+Stef - draws Estate, Silver, Scheme, Copper
+ 
+---------- D C: turn 5 ----------
+D C - plays Scheme
+D C - draws Copper
+D C - plays 4 Copper
+D C - plays Ill-Gotten Gains
+D C - gains Copper
+D C - plays 1 Copper
+D C - buys Gold
+D C - gains Gold
+D C - Scheme choice: Scheme
+D C - draws Scheme, JackOfAllTrades, Estate, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Silver
+Stef - gains Silver
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, JackOfAllTrades, JackOfAllTrades, Copper, Copper
+ 
+---------- D C: turn 6 ----------
+D C - plays Scheme
+D C - draws Haven
+D C - plays Haven
+D C - draws Estate
+D C - sets aside Estate
+D C - plays JackOfAllTrades
+D C - gains Silver
+D C - places Copper on top of deck
+D C - trashes Estate
+D C - plays 3 Copper
+D C - buys Scheme
+D C - gains Scheme
+D C - Scheme choice: JackOfAllTrades
+D C - draws JackOfAllTrades
+D C - shuffles deck
+D C - draws Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Silver on top of deck
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+D C - gains Curse
+Stef - Scheme choice: JackOfAllTrades
+Stef - draws JackOfAllTrades, Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- D C: turn 7 ----------
+D C - duration Haven
+D C - places set aside Estate in hand
+D C - plays JackOfAllTrades
+D C - gains Silver
+D C - discards Estate
+D C - trashes Estate
+D C - plays 4 Copper
+D C - buys Mining Village
+D C - gains Mining Village
+D C - draws Copper, Copper, Silver, Copper, Ill-Gotten Gains
+ 
+---------- Stef: turn 7 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Ill-Gotten Gains
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Silver, Silver, Copper, Scheme
+ 
+---------- D C: turn 8 ----------
+D C - plays 3 Copper, 1 Silver
+D C - plays Ill-Gotten Gains
+D C - buys Gold
+D C - gains Gold
+D C - draws Scheme, Copper, Gold, Scheme
+D C - shuffles deck
+D C - draws Curse
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Curse, Silver, Copper, Silver
+ 
+---------- D C: turn 9 ----------
+D C - plays Scheme
+D C - draws Copper
+D C - plays Scheme
+D C - draws Copper
+D C - plays 3 Copper, 1 Gold
+D C - buys Nobles
+D C - gains Nobles
+D C - Scheme choice: Scheme
+D C - Scheme choice: Scheme
+D C - draws Scheme, Scheme, Copper, Copper, Haven
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - Scheme choice: Scheme
+Stef - draws Scheme
+Stef - shuffles deck
+Stef - draws Copper, Gold, Copper, Silver
+ 
+---------- D C: turn 10 ----------
+D C - plays Scheme
+D C - draws Silver
+D C - plays Scheme
+D C - draws Gold
+D C - plays Haven
+D C - draws Estate
+D C - sets aside Estate
+D C - plays 2 Copper, 1 Silver, 1 Gold
+D C - buys Nobles
+D C - gains Nobles
+D C - Scheme choice: Scheme
+D C - Scheme choice: Haven
+D C - draws Scheme, Silver, Mining Village, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Scheme
+Stef - draws Silver
+Stef - plays 2 Silver, 1 Gold
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, JackOfAllTrades, Silver, Copper
+ 
+---------- D C: turn 11 ----------
+D C - duration Haven
+D C - places set aside Estate in hand
+D C - plays Scheme
+D C - draws Ill-Gotten Gains
+D C - plays Mining Village
+D C - draws Copper
+D C - plays 3 Copper, 1 Silver
+D C - plays Ill-Gotten Gains
+D C - buys Gold
+D C - gains Gold
+D C - Scheme choice: Haven
+D C - draws Haven, JackOfAllTrades
+D C - shuffles deck
+D C - draws Nobles, Copper, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Scheme
+Stef - draws Ill-Gotten Gains
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Silver on top of deck
+Stef - plays 2 Copper, 2 Silver
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays Copper
+Stef - buys Province
+Stef - gains Province
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Copper, JackOfAllTrades, Copper, Copper
+ 
+---------- D C: turn 12 ----------
+D C - plays Haven
+D C - draws Gold
+D C - sets aside Copper
+D C - plays Nobles
+D C - takes 2 actions
+D C - plays JackOfAllTrades
+D C - gains Silver
+D C - places Scheme on top of deck
+D C - plays Scheme
+D C - draws Copper
+D C - plays Nobles
+D C - draws Copper, Copper, Copper
+D C - plays 2 Gold
+D C - buys Grand Market
+D C - gains Grand Market
+D C - Scheme choice: Nobles
+D C - draws Nobles, Estate, Copper, Curse, Scheme
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Scheme
+Stef - draws Estate
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Curse on top of deck
+Stef - trashes Curse
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - Scheme choice: JackOfAllTrades
+Stef - draws JackOfAllTrades, Silver, Silver, Silver
+Stef - shuffles deck
+Stef - draws Province
+ 
+---------- D C: turn 13 ----------
+D C - duration Haven
+D C - places set aside Copper in hand
+D C - plays Scheme
+D C - draws Silver
+D C - plays Nobles
+D C - draws Copper, Gold, Silver
+D C - plays 2 Silver, 1 Gold
+D C - buys Grand Market
+D C - gains Grand Market
+D C - Scheme choice: Nobles
+D C - draws Nobles, Ill-Gotten Gains, Mining Village
+D C - shuffles deck
+D C - draws Gold, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - plays 3 Silver
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Ill-Gotten Gains, Silver, Copper, Silver, Silver
+ 
+---------- D C: turn 14 ----------
+D C - plays Mining Village
+D C - draws JackOfAllTrades
+D C - plays Nobles
+D C - draws Haven, Gold, Copper
+D C - plays Haven
+D C - draws Grand Market
+D C - sets aside Copper
+D C - plays Grand Market
+D C - draws Copper
+D C - plays JackOfAllTrades
+D C - gains Silver
+D C - places Gold on top of deck
+D C - trashes Estate
+D C - plays 2 Gold
+D C - buys Grand Market
+D C - gains Grand Market
+D C - buys Haven
+D C - gains Haven
+D C - draws Gold, Silver, Copper, Copper, Scheme
+ 
+---------- Stef: turn 14 ----------
+Stef - plays 3 Silver
+Stef - plays Copper
+Stef - plays Ill-Gotten Gains
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Copper, JackOfAllTrades, Silver, Copper
+ 
+---------- D C: turn 15 ----------
+D C - duration Haven
+D C - places set aside Copper in hand
+D C - plays Scheme
+D C - draws Copper
+D C - plays 4 Copper, 1 Gold, 1 Silver
+D C - buys Province
+D C - gains Province
+D C - Scheme choice: Haven
+D C - draws Haven, Curse, Copper, Copper, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Copper
+Stef - plays 2 Copper, 1 Silver, 1 Gold
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- D C: turn 16 ----------
+D C - plays Haven
+D C - draws Nobles
+D C - sets aside Curse
+D C - plays Nobles
+D C - draws Scheme, Silver, Copper
+D C - plays 3 Copper, 2 Silver
+D C - buys Nobles
+D C - gains Nobles
+D C - draws Grand Market
+D C - shuffles deck
+D C - draws Silver, Gold, Nobles, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Ill-Gotten Gains
+Stef - gains Ill-Gotten Gains
+D C - gains Curse
+Stef - draws Silver, Silver
+Stef - shuffles deck
+Stef - draws Silver, Gold, Silver
+ 
+---------- D C: turn 17 ----------
+D C - duration Haven
+D C - places set aside Curse in hand
+D C - plays Grand Market
+D C - draws Grand Market
+D C - plays Grand Market
+D C - draws Copper
+D C - plays Nobles
+D C - draws Scheme, Copper, Copper
+D C - plays 1 Silver, 1 Gold
+D C - plays Copper
+D C - plays Copper
+D C - plays Copper
+D C - plays Copper
+D C - buys Province
+D C - gains Province
+D C - buys Worker's Village
+D C - gains Worker's Village
+D C - draws Gold, Copper, JackOfAllTrades, Province, Haven
+ 
+---------- Stef: turn 17 ----------
+Stef - plays 4 Silver, 1 Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Silver, Copper, Estate, Ill-Gotten Gains, JackOfAllTrades
+ 
+---------- D C: turn 18 ----------
+D C - plays Haven
+D C - draws Silver
+D C - sets aside JackOfAllTrades
+D C - plays 1 Gold, 1 Copper, 1 Silver
+D C - buys Nobles
+D C - gains Nobles
+D C - draws Copper, Ill-Gotten Gains, Copper, Scheme, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - discards Province
+Stef - plays 1 Silver, 1 Copper
+Stef - plays Ill-Gotten Gains
+Stef - gains Copper
+Stef - plays Ill-Gotten Gains
+Stef - plays Copper
+Stef - buys Nobles
+Stef - gains Nobles
+Stef - draws Province, Copper, Scheme, Nobles, Nobles
+ 
+---------- D C: turn 19 ----------
+D C - duration Haven
+D C - places set aside JackOfAllTrades in hand
+D C - plays Scheme
+D C - draws Silver
+D C - plays JackOfAllTrades
+D C - gains Silver
+D C - places Mining Village on top of deck
+D C - plays 3 Copper, 1 Silver
+D C - plays Ill-Gotten Gains
+D C - buys Nobles
+D C - gains Nobles
+D C - Scheme choice: JackOfAllTrades
+D C - draws JackOfAllTrades, Mining Village, Grand Market, Nobles, Gold
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Scheme
+Stef - draws Copper
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays Nobles
+Stef - draws Silver, Copper, Copper
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - Scheme choice: Nobles
+Stef - draws Nobles, Province, Silver, Copper, JackOfAllTrades
+ 
+---------- D C: turn 20 ----------
+D C - plays Grand Market
+D C - draws Silver
+D C - plays Mining Village
+D C - draws Nobles
+D C - trashes Mining Village
+D C - plays Nobles
+D C - shuffles deck
+D C - draws Copper, Province, Silver
+D C - plays Nobles
+D C - draws Copper, Scheme, Haven
+D C - plays 2 Silver, 1 Gold
+D C - buys Grand Market
+D C - gains Grand Market
+D C - buys Duchy
+D C - gains Duchy
+D C - draws Ill-Gotten Gains, Copper, Copper, Curse, Gold
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Nobles
+Stef - takes 2 actions
+Stef - plays JackOfAllTrades
+Stef - gains Silver
+Stef - places Silver on top of deck
+Stef - plays 3 Silver
+Stef - plays Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver, Copper, Copper, Silver, Silver
+ 
+---------- D C: turn 21 ----------
+D C - plays 2 Copper, 1 Gold
+D C - buys Duchy
+D C - gains Duchy
+D C - draws Copper, Silver, Haven, Silver, Silver
+ 
+---------- Stef: turn 21 ----------
+Stef - plays 3 Silver
+Stef - plays Copper
+Stef - plays 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Copper, Province, Copper, Copper, Copper
+ 
+---------- D C: turn 22 ----------
+D C - plays Haven
+D C - draws Worker's Village
+D C - sets aside Copper
+D C - plays Worker's Village
+D C - draws Copper
+D C - plays 3 Silver
+D C - plays Copper
+D C - buys Duchy
+D C - gains Duchy
+D C - buys Estate
+D C - gains Estate
+D C - draws Grand Market, Copper, Grand Market, Copper, Province
+ 
+---------- Stef: turn 22 ----------
+Stef - plays 4 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Province, Silver, Silver, Ill-Gotten Gains, Estate
+ 
+---------- D C: turn 23 ----------
+D C - duration Haven
+D C - places set aside Copper in hand
+D C - plays Grand Market
+D C - draws Scheme
+D C - plays Scheme
+D C - draws Nobles
+D C - plays Grand Market
+D C - draws Gold
+D C - plays Nobles
+D C - draws Nobles, Nobles, Curse
+D C - plays 1 Gold
+D C - plays Copper
+D C - plays Copper
+D C - plays Copper
+D C - buys Province
+D C - gains Province
+D C - buys Estate
+D C - gains Estate
+D C - shuffles deck
+D C - draws Province, Silver, Silver, Silver, Gold
+ 
+------------ Game Over ------------
+Stef - cards: 3 Nobles, 2 JackOfAllTrades, 14 Silver, 1 Scheme, 9 Copper, 2 Ill-Gotten Gains, 1 Gold, 5 Province, 2 Estate, 2 Duchy
+Stef - total victory points: 44
+Stef - turns: 22
+ 
+D C - cards: 5 Nobles, 4 Grand Market, 2 Scheme, 2 Haven, 1 Worker's Village, 1 JackOfAllTrades, 8 Copper, 5 Silver, 3 Gold, 1 Ill-Gotten Gains, 3 Province, 3 Duchy, 2 Estate, 2 Curse
+D C - total victory points: 37
+D C - turns: 23
+ 
+1st place: Stef
+2nd place: D C
+ 

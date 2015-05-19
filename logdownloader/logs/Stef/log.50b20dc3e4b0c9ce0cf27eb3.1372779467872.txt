@@ -1,0 +1,610 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Embargo, Lighthouse, Menagerie, Advisor, Fortress, Herald, Duke, Mine, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Eevee - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+Eevee - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 4 Copper
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Lighthouse
+Stef - gains Lighthouse
+Stef - shuffles deck
+Stef - draws Advisor, Lighthouse, Copper, Copper, Estate
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - shuffles deck
+Eevee - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Copper
+Eevee - discards Copper
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Lighthouse
+Stef - plays 3 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Estate, Copper, Copper
+Stef - shuffles deck
+Stef - draws Advisor
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Copper, Advisor, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Copper
+Eevee - discards Copper
+Stef - places cards in hand:  Estate, Copper
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Copper, Estate, Advisor
+Stef - shuffles deck
+Stef - draws Lighthouse
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper, Copper
+Eevee - shuffles deck
+Eevee - reveals: Silver
+Stef - discards Silver
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays 5 Copper
+Eevee - buys Mine
+Eevee - gains Mine
+Eevee - draws Copper, Estate, Estate, Copper, Advisor
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Copper
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Lighthouse
+Stef - plays 4 Copper
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Advisor
+Eevee - shuffles deck
+Eevee - reveals: Copper, Copper, Advisor
+Stef - discards Advisor
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays 4 Copper
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Mine, Copper, Estate, Silver, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Lighthouse
+Stef - plays 3 Copper
+Stef - buys Herald
+Stef - gains Herald
+Stef - draws Advisor
+Stef - shuffles deck
+Stef - draws Copper, Estate, Advisor, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Mine
+Eevee - trashes Silver
+Eevee - gains Gold
+Eevee - plays 2 Copper, 1 Gold
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Copper
+Eevee - shuffles deck
+Eevee - draws Duchy, Estate, Estate, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Copper
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Herald, Advisor
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Lighthouse
+Stef - plays Lighthouse
+Stef - plays 6 Copper
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Estate, Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Altar
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays 2 Copper
+Eevee - buys Embargo
+Eevee - gains Embargo
+Eevee - draws Copper, Gold, Estate, Mine, Advisor
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Lighthouse
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Herald
+Stef - plays 2 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Advisor, Estate, Herald, Advisor
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper, Copper, Copper
+Stef - discards Copper
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays Mine
+Eevee - trashes Copper
+Eevee - gains Silver
+Eevee - plays 2 Copper, 1 Gold, 1 Silver
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Advisor, Copper, Advisor
+Eevee - shuffles deck
+Eevee - draws Advisor, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Copper
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Embargo, Herald
+Eevee - discards Embargo
+Stef - places cards in hand:  Copper, Herald
+Stef - plays Herald
+Stef - draws Lighthouse
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Herald
+Stef - plays Advisor
+Stef - reveals: Estate, Copper, Advisor
+Eevee - discards Advisor
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Lighthouse
+Stef - plays 6 Copper
+Stef - buys Altar
+Stef - gains Altar
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Advisor, Embargo, Advisor
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper, Duchy, Mine
+Stef - discards Mine
+Eevee - places cards in hand:  Copper, Duchy
+Eevee - plays Advisor
+Eevee - reveals: Estate, Copper, Copper
+Stef - discards Copper
+Eevee - places cards in hand:  Estate, Copper
+Eevee - plays Advisor
+Eevee - reveals: Embargo, Estate, Copper
+Stef - discards Embargo
+Eevee - places cards in hand:  Estate, Copper
+Eevee - plays 5 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Gold, Estate, Silver, Duchy
+Eevee - shuffles deck
+Eevee - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Altar, Advisor, Copper
+Eevee - discards Altar
+Stef - places cards in hand:  Advisor, Copper
+Stef - plays Advisor
+Stef - reveals: Altar, Herald, Copper
+Eevee - discards Altar
+Stef - places cards in hand:  Herald, Copper
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Advisor
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Embargo
+Stef - embargoes Duchy
+Stef - trashes Embargo
+Stef - plays 7 Copper
+Stef - buys Herald
+Stef - overpays for Herald with 6 coins
+Stef - places Advisor on top of deck
+Stef - places Altar on top of deck
+Stef - places Altar on top of deck
+Stef - gains Herald
+Stef - draws Altar, Altar, Advisor
+Stef - shuffles deck
+Stef - draws Herald, Copper
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays 1 Gold, 1 Silver, 1 Copper
+Eevee - buys Duchy
+Eevee - gains Curse
+Eevee - gains Duchy
+Eevee - draws Advisor, Embargo, Copper, Estate, Duchy
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Estate, Advisor
+Eevee - discards Advisor
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Altar
+Stef - trashes Estate
+Stef - gains Herald
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays 3 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Copper, Herald, Advisor, Advisor
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Advisor
+Eevee - reveals: Estate, Copper, Advisor
+Stef - discards Advisor
+Eevee - places cards in hand:  Estate, Copper
+Eevee - plays Embargo
+Eevee - embargoes Province
+Eevee - trashes Embargo
+Eevee - plays 2 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Advisor, Mine, Duchy, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Lighthouse
+Stef - plays Lighthouse
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Herald, Advisor, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Herald, Advisor
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Herald
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays Herald
+Stef - draws Advisor
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Advisor
+Stef - reveals: Copper, Embargo, Duchy
+Eevee - discards Embargo
+Stef - places cards in hand:  Copper, Duchy
+Stef - plays Advisor
+Stef - reveals: Copper, Copper
+Stef - shuffles deck
+Stef - reveals: Embargo
+Eevee - discards Embargo
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Duchy, Herald, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Duchy, Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Herald
+Stef - reveals: Embargo
+Stef - plays Embargo
+Stef - embargoes Duchy
+Stef - trashes Embargo
+Stef - plays 4 Copper
+Stef - buys Fortress
+Stef - gains Fortress
+Stef - shuffles deck
+Stef - draws Copper, Herald, Herald, Herald, Duchy
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper
+Eevee - shuffles deck
+Eevee - reveals: Estate, Silver
+Stef - discards Silver
+Eevee - places cards in hand:  Copper, Estate
+Eevee - plays Mine
+Eevee - trashes Copper
+Eevee - gains Silver
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Gold, Copper, Estate, Advisor, Estate
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Lighthouse
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Altar, Duchy, Herald
+Eevee - discards Altar
+Stef - places cards in hand:  Duchy, Herald
+Stef - plays Herald
+Stef - draws Fortress
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Herald, Advisor, Advisor
+Eevee - discards Herald
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Herald
+Stef - draws Copper
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Potion
+Stef - plays Advisor
+Stef - reveals: Herald
+Stef - shuffles deck
+Stef - reveals: Herald, Potion
+Eevee - discards Herald
+Stef - places cards in hand:  Herald, Potion
+Stef - plays Herald
+Stef - draws Altar
+Stef - shuffles deck
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays 2 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - shuffles deck
+Stef - draws Advisor, Altar, Copper, Lighthouse, Herald
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Advisor
+Eevee - reveals: Duchy, Curse, Duchy
+Stef - discards Duchy
+Eevee - places cards in hand:  Duchy, Curse
+Eevee - plays Gold
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Advisor, Copper, Silver, Copper, Duchy
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Herald, Vineyard
+Eevee - discards Herald
+Stef - places cards in hand:  Copper, Vineyard
+Stef - plays Herald
+Stef - draws Advisor
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Altar
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Duchy, Herald, Duchy
+Eevee - discards Herald
+Stef - places cards in hand:  Duchy, Duchy
+Stef - plays Advisor
+Stef - reveals: Potion, Herald, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Potion, Herald
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Fortress
+Stef - plays Fortress
+Stef - draws Advisor
+Stef - plays Lighthouse
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Herald, Herald, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Herald, Herald
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Duchy
+Stef - plays Altar
+Stef - trashes Copper
+Stef - gains Fortress
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - shuffles deck
+Stef - draws Herald, Herald, Altar, Vineyard, Advisor
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays Advisor
+Eevee - shuffles deck
+Eevee - reveals: Silver, Silver, Advisor
+Stef - discards Advisor
+Eevee - places cards in hand:  Silver, Silver
+Eevee - plays 3 Silver, 2 Copper
+Eevee - buys Duke
+Eevee - gains Duke
+Eevee - draws Copper, Silver, Duchy, Gold, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Lighthouse
+Stef - plays Advisor
+Stef - reveals: Vineyard, Duchy, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Vineyard, Duchy
+Stef - plays Herald
+Stef - draws Altar
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Fortress
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Advisor
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Duchy, Potion, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Duchy, Potion
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Fortress
+Stef - plays Fortress
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Duchy
+Stef - shuffles deck
+Stef - reveals: Herald, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Duchy, Herald
+Stef - plays Altar
+Stef - trashes Fortress
+Stef - gains Fortress
+Stef - plays Altar
+Stef - trashes Fortress
+Stef - gains Herald
+Stef - plays Fortress
+Stef - shuffles deck
+Stef - draws Herald
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Herald, Fortress
+Stef - shuffles deck
+Stef - draws Fortress, Herald, Duchy
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays 2 Silver, 1 Copper, 1 Gold
+Eevee - buys Duke
+Eevee - gains Duke
+Eevee - draws Copper, Curse, Mine, Duchy, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Herald
+Stef - draws Herald
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Advisor
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Fortress
+Stef - gains Fortress
+Stef - plays Fortress
+Stef - draws Duchy
+Stef - plays Advisor
+Stef - reveals: Vineyard, Advisor, Lighthouse
+Eevee - discards Advisor
+Stef - places cards in hand:  Vineyard, Lighthouse
+Stef - plays Lighthouse
+Stef - plays Herald
+Stef - draws Vineyard
+Stef - reveals: Altar
+Stef - plays Altar
+Stef - trashes Fortress
+Stef - gains Herald
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Herald
+Stef - plays Herald
+Stef - draws Duchy
+Stef - reveals: Advisor
+Stef - plays Advisor
+Stef - reveals: Fortress, Advisor, Herald
+Eevee - discards Herald
+Stef - places cards in hand:  Fortress, Advisor
+Stef - plays Advisor
+Stef - reveals: Potion, Vineyard, Herald
+Eevee - discards Potion
+Stef - places cards in hand:  Vineyard, Herald
+Stef - plays Herald
+Stef - shuffles deck
+Stef - draws Herald
+Stef - reveals: Potion
+Stef - places Potion on top of deck
+Stef - plays Herald
+Stef - draws Potion
+Stef - reveals: Fortress
+Stef - plays Fortress
+Stef - draws Advisor
+Stef - plays Fortress
+Stef - draws Herald
+Stef - plays 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - shuffles deck
+Stef - draws Advisor, Herald, Duchy, Duchy, Potion
+ 
+---------- Eevee: turn 16 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 8 Herald, 4 Advisor, 4 Fortress, 2 Altar, 1 Lighthouse, 1 Potion, 4 Duchy, 4 Vineyard
+Stef - total victory points: 36
+Stef - turns: 16
+ 
+Eevee - resigned
+Eevee - cards: 3 Advisor, 1 Mine, 5 Copper, 5 Silver, 1 Gold, 4 Duchy, 3 Estate, 2 Duke, 1 Curse
+Eevee - total victory points: 22
+Eevee - turns: 15
+ 
+1st place: Stef
+2nd place: Eevee
+ 

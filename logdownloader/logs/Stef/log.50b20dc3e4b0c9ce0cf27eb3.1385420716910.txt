@@ -1,0 +1,571 @@
+------------ Game Setup ------------
+Supply cards: Forager, Great Hall, Smugglers, Caravan, Remodel, Golem, Adventurer, Fairgrounds, Grand Market, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+flies - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper, Estate
+flies - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 3 Copper
+flies - buys Forager
+flies - gains Forager
+flies - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- flies: turn 2 ----------
+flies - plays 4 Copper
+flies - buys Caravan
+flies - gains Caravan
+flies - shuffles deck
+flies - draws Copper, Estate, Forager, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Forager, Copper, Estate
+ 
+---------- flies: turn 3 ----------
+flies - plays Forager
+flies - trashes Estate
+flies - plays 3 Copper
+flies - buys Smugglers
+flies - gains Smugglers
+flies - draws Estate, Copper, Caravan, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Smugglers
+Stef - gains Smugglers
+Stef - draws Copper, Caravan
+Stef - shuffles deck
+Stef - draws Forager, Estate, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays Caravan
+flies - draws Copper
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper
+flies - shuffles deck
+flies - draws Copper, Copper, Smugglers, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- flies: turn 5 ----------
+flies - duration Caravan
+flies - draws Forager
+flies - plays Forager
+flies - trashes Copper
+flies - plays Smugglers
+flies - gains Silver
+flies - plays 3 Copper
+flies - buys Caravan
+flies - gains Caravan
+flies - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - duration Caravan
+Stef - draws Smugglers
+Stef - plays Smugglers
+Stef - gains Caravan
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Caravan, Copper, Smugglers, Copper
+ 
+---------- flies: turn 6 ----------
+flies - plays 3 Copper, 1 Silver
+flies - buys Potion
+flies - gains Potion
+flies - draws Estate
+flies - shuffles deck
+flies - draws Copper, Caravan, Copper, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- flies: turn 7 ----------
+flies - plays Caravan
+flies - draws Silver
+flies - plays 2 Copper, 2 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Copper, Copper, Estate, Caravan, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Silver, Potion
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- flies: turn 8 ----------
+flies - duration Caravan
+flies - draws Potion
+flies - plays Caravan
+flies - draws Smugglers
+flies - plays Smugglers
+flies - gains Gold
+flies - plays Copper
+flies - plays Copper
+flies - plays Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Forager
+flies - shuffles deck
+flies - draws Smugglers, Silver, Silver
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays 4 Copper, 1 Silver, 1 Potion
+Stef - buys Golem
+Stef - gains Golem
+Stef - draws Copper, Copper, Gold, Caravan, Copper
+ 
+---------- flies: turn 9 ----------
+flies - duration Caravan
+flies - draws Estate
+flies - plays Forager
+flies - trashes Estate
+flies - plays 2 Silver, 1 Copper
+flies - buys Gold
+flies - gains Gold
+flies - draws Gold, Silver, Copper, Copper, Gold
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Silver, Caravan, Smugglers
+Stef - shuffles deck
+Stef - draws Great Hall, Silver
+ 
+---------- flies: turn 10 ----------
+flies - plays 2 Gold, 1 Silver
+flies - buys Grand Market
+flies - gains Grand Market
+flies - draws Potion, Copper, Copper, Estate, Caravan
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Smugglers
+Stef - gains Grand Market
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Gold, Forager, Copper, Potion, Copper
+ 
+---------- flies: turn 11 ----------
+flies - plays Caravan
+flies - draws Copper
+flies - plays Copper
+flies - plays Copper
+flies - plays Copper
+flies - buys Great Hall
+flies - gains Great Hall
+flies - shuffles deck
+flies - draws Gold, Copper, Silver, Silver, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Caravan
+Stef - draws Golem
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Caravan, Silver, Forager
+Stef - discards: Copper, Copper, Silver
+Stef - plays Caravan
+Stef - draws Grand Market
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays 1 Gold, 1 Potion, 1 Silver
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Caravan
+Stef - gains Caravan
+Stef - draws Caravan, Copper, Great Hall, Smugglers, Caravan
+ 
+---------- flies: turn 12 ----------
+flies - duration Caravan
+flies - draws Copper
+flies - plays 2 Silver, 1 Gold
+flies - buys Grand Market
+flies - gains Grand Market
+flies - draws Caravan, Smugglers, Great Hall, Copper, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Caravan
+Stef - shuffles deck
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Caravan, Potion, Copper, Gold, Forager
+Stef - discards: Potion, Copper, Gold
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Caravan
+Stef - draws Silver
+Stef - plays Caravan
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Smugglers
+Stef - gains Grand Market
+Stef - plays 2 Silver
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - draws Caravan, Golem
+Stef - shuffles deck
+Stef - draws Golem, Smugglers, Grand Market
+ 
+---------- flies: turn 13 ----------
+flies - plays Caravan
+flies - draws Silver
+flies - plays Great Hall
+flies - draws Copper
+flies - plays Smugglers
+flies - gains Grand Market
+flies - plays 2 Copper, 1 Gold, 1 Silver
+flies - buys Adventurer
+flies - gains Adventurer
+flies - draws Gold, Grand Market, Potion, Copper, Forager
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - duration Caravan
+Stef - draws Potion
+Stef - duration Caravan
+Stef - draws Great Hall
+Stef - plays Caravan
+Stef - draws Copper
+Stef - plays Caravan
+Stef - draws Grand Market
+Stef - plays Golem
+Stef - reveals Silver, Forager, Grand Market
+Stef - discards Silver
+Stef - plays Grand Market
+Stef - draws Gold
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Smugglers
+Stef - gains Grand Market
+Stef - plays Great Hall
+Stef - draws Silver
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Golem
+Stef - shuffles deck
+Stef - reveals Grand Market, Silver
+Stef - discards Silver
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Grand Market
+Stef - plays 2 Silver, 1 Potion, 1 Gold
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Golem
+Stef - gains Golem
+Stef - shuffles deck
+Stef - draws Grand Market, Gold, Golem, Silver, Caravan
+ 
+---------- flies: turn 14 ----------
+flies - duration Caravan
+flies - draws Copper
+flies - plays Forager
+flies - trashes Copper
+flies - plays 1 Gold, 1 Potion, 1 Copper
+flies - buys Golem
+flies - gains Golem
+flies - shuffles deck
+flies - draws Silver, Potion, Grand Market, Copper, Forager
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Caravan
+Stef - draws Grand Market
+Stef - duration Caravan
+Stef - draws Forager
+Stef - plays Golem
+Stef - reveals Golem, Caravan, Grand Market
+Stef - discards Golem
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Caravan
+Stef - draws Caravan
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Silver
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Grand Market
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Grand Market, Smugglers
+Stef - plays Grand Market
+Stef - draws Potion
+Stef - plays Smugglers
+Stef - plays Caravan
+Stef - draws Great Hall
+Stef - plays Caravan
+Stef - shuffles deck
+Stef - draws Golem
+Stef - plays Forager
+Stef - trashes Silver
+Stef - plays 1 Gold, 1 Silver, 1 Potion
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Copper
+Stef - gains Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Golem, Grand Market, Great Hall, Copper, Great Hall
+ 
+---------- flies: turn 15 ----------
+flies - plays Grand Market
+flies - draws Golem
+flies - plays Golem
+flies - reveals Silver, Caravan, Smugglers
+flies - discards Silver
+flies - plays Caravan
+flies - draws Great Hall
+flies - plays Smugglers
+flies - gains Fairgrounds
+flies - plays Great Hall
+flies - draws Copper
+flies - plays Forager
+flies - trashes Copper
+flies - plays 1 Silver, 1 Potion, 1 Copper
+flies - buys Fairgrounds
+flies - gains Fairgrounds
+flies - draws Gold, Grand Market, Adventurer, Gold, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - duration Caravan
+Stef - draws Golem
+Stef - duration Caravan
+Stef - draws Grand Market
+Stef - duration Caravan
+Stef - draws Caravan
+Stef - plays Golem
+Stef - reveals Golem, Forager, Grand Market
+Stef - discards Golem
+Stef - plays Grand Market
+Stef - draws Smugglers
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Golem
+Stef - reveals Grand Market, Silver, Grand Market
+Stef - discards Silver
+Stef - plays Grand Market
+Stef - draws Golem
+Stef - plays Grand Market
+Stef - draws Fairgrounds
+Stef - plays Caravan
+Stef - draws Grand Market
+Stef - plays Golem
+Stef - reveals Grand Market, Copper, Potion, Caravan
+Stef - discards: Copper, Potion
+Stef - plays Grand Market
+Stef - draws Forager
+Stef - plays Caravan
+Stef - draws Gold
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Grand Market
+Stef - draws Golem
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Silver
+Stef - plays Smugglers
+Stef - gains Fairgrounds
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays 1 Gold, 1 Potion, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Golem
+Stef - gains Golem
+Stef - buys Fairgrounds
+Stef - gains Fairgrounds
+Stef - buys Copper
+Stef - gains Copper
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Grand Market, Caravan, Potion, Great Hall, Golem
+ 
+---------- flies: turn 16 ----------
+flies - duration Caravan
+flies - draws Copper
+flies - plays Grand Market
+flies - draws Estate
+flies - plays Adventurer
+flies - reveals Gold, Silver
+flies - places cards in hand:  Gold, Silver
+flies - plays 3 Gold, 2 Copper, 1 Silver
+flies - buys Fairgrounds
+flies - gains Fairgrounds
+flies - buys Fairgrounds
+flies - gains Fairgrounds
+flies - draws Grand Market, Copper, Caravan
+flies - shuffles deck
+flies - draws Great Hall, Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - duration Caravan
+Stef - draws Silver
+Stef - duration Caravan
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Copper, Province, Grand Market, Fairgrounds, Copper, Grand Market
+Stef - discards: Copper, Province, Fairgrounds, Copper
+Stef - plays Grand Market
+Stef - draws Great Hall
+Stef - plays Grand Market
+Stef - draws Duchy
+Stef - plays Golem
+Stef - reveals Forager, Gold, Smugglers
+Stef - discards Gold
+Stef - plays Smugglers
+Stef - gains Fairgrounds
+Stef - plays Forager
+Stef - trashes Potion
+Stef - plays Caravan
+Stef - draws Golem
+Stef - plays Great Hall
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Caravan
+Stef - plays Golem
+Stef - reveals Golem, Golem, Caravan, Fairgrounds, Grand Market
+Stef - discards: Golem, Golem, Fairgrounds
+Stef - plays Caravan
+Stef - draws Forager
+Stef - plays Grand Market
+Stef - draws Fairgrounds
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Golem
+Stef - plays Great Hall
+Stef - draws Fairgrounds
+Stef - plays Caravan
+Stef - draws Golem
+Stef - plays Golem
+Stef - reveals Fairgrounds, Province, Copper, Copper, Fairgrounds, Gold
+Stef - discards: Fairgrounds, Province, Copper, Copper, Fairgrounds, Gold
+Stef - plays Forager
+Stef - trashes Golem
+Stef - plays 1 Silver
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - buys Copper
+Stef - gains Copper
+Stef - shuffles deck
+Stef - draws Forager, Fairgrounds, Copper, Fairgrounds, Fairgrounds
+ 
+------------ Game Over ------------
+Stef - cards: 7 Great Hall, 7 Grand Market, 5 Caravan, 4 Golem, 2 Forager, 1 Smugglers, 3 Copper, 1 Gold, 1 Silver, 4 Fairgrounds, 2 Duchy, 1 Estate, 1 Province
+Stef - total victory points: 36
+Stef - turns: 17
+ 
+flies - cards: 3 Grand Market, 2 Caravan, 1 Great Hall, 1 Adventurer, 1 Golem, 1 Forager, 1 Smugglers, 4 Copper, 3 Gold, 3 Silver, 1 Potion, 4 Fairgrounds, 1 Estate
+flies - total victory points: 18
+flies - turns: 16
+ 
+1st place: Stef
+2nd place: flies
+ 

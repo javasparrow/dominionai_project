@@ -1,0 +1,630 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Forager, Fortune Teller, Steward, Conspirator, Ironmonger, Mining Village, Cultist, Library, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+amigo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+amigo - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Copper
+amigo - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- amigo: turn 1 ----------
+amigo - plays 3 Copper
+amigo - buys Steward
+amigo - gains Steward
+amigo - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- amigo: turn 2 ----------
+amigo - plays 4 Copper
+amigo - buys Ironmonger
+amigo - gains Ironmonger
+amigo - shuffles deck
+amigo - draws Copper, Steward, Estate, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws Copper, Steward, Copper, Copper, Copper
+ 
+---------- amigo: turn 3 ----------
+amigo - plays Steward
+amigo - trashes Estate, Estate
+amigo - plays 2 Copper
+amigo - buys Pawn
+amigo - gains Pawn
+amigo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Ironmonger, Estate, Estate, Copper, Estate
+ 
+---------- amigo: turn 4 ----------
+amigo - plays 4 Copper
+amigo - buys Ironmonger
+amigo - gains Ironmonger
+amigo - draws Copper, Ironmonger
+amigo - shuffles deck
+amigo - draws Steward, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays 2 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - shuffles deck
+Stef - draws Copper, Steward, Pawn, Ironmonger, Copper
+ 
+---------- amigo: turn 5 ----------
+amigo - plays Ironmonger
+amigo - draws Copper
+amigo - reveals: Pawn
+amigo - places Pawn on top of deck
+amigo - plays Steward
+amigo - trashes Estate, Copper
+amigo - plays 2 Copper
+amigo - buys Pawn
+amigo - gains Pawn
+amigo - draws Pawn, Copper, Ironmonger, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays 2 Copper
+Stef - buys Forager
+Stef - gains Forager
+Stef - draws Forager, Estate, Estate, Estate
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- amigo: turn 6 ----------
+amigo - plays Ironmonger
+amigo - draws Copper
+amigo - shuffles deck
+amigo - reveals: Copper
+amigo - discards Copper
+amigo - plays Pawn
+amigo - takes 1 action
+amigo - draws Pawn
+amigo - plays Pawn
+amigo - takes 1 action
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - draws Steward
+amigo - reveals: Copper
+amigo - discards Copper
+amigo - plays Steward
+amigo - trashes Copper, Copper
+amigo - plays 2 Copper
+amigo - buys Conspirator
+amigo - gains Conspirator
+amigo - shuffles deck
+amigo - draws Pawn, Ironmonger, Steward, Conspirator, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays 1 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Pawn, Forager, Ironmonger, Steward
+ 
+---------- amigo: turn 7 ----------
+amigo - plays Ironmonger
+amigo - draws Copper
+amigo - reveals: Pawn
+amigo - places Pawn on top of deck
+amigo - plays Pawn
+amigo - takes 1 buy
+amigo - draws Pawn
+amigo - plays Conspirator
+amigo - draws Copper
+amigo - plays Pawn
+amigo - takes 1 action
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - draws Copper
+amigo - plays Steward
+amigo - trashes Copper, Copper
+amigo - plays 2 Copper
+amigo - buys Conspirator
+amigo - gains Conspirator
+amigo - shuffles deck
+amigo - draws Pawn, Copper, Copper, Pawn, Conspirator
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Estate
+Stef - discards Estate
+Stef - draws Forager
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Estate
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Pawn, Copper
+Stef - shuffles deck
+Stef - draws Conspirator, Estate, Steward
+ 
+---------- amigo: turn 8 ----------
+amigo - plays Pawn
+amigo - takes 1 action
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - draws Conspirator
+amigo - reveals: Steward
+amigo - places Steward on top of deck
+amigo - plays Conspirator
+amigo - draws Steward
+amigo - plays Conspirator
+amigo - draws Ironmonger
+amigo - plays Pawn
+amigo - takes 1 coin
+amigo - takes 1 buy
+amigo - plays Steward
+amigo - takes 2 coins
+amigo - plays 2 Copper
+amigo - buys Conspirator
+amigo - gains Conspirator
+amigo - buys Ironmonger
+amigo - gains Ironmonger
+amigo - shuffles deck
+amigo - draws Ironmonger, Copper, Pawn, Conspirator, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Pawn
+Stef - reveals: Forager
+Stef - discards Forager
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Estate
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays 2 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Pawn, Conspirator, Copper, Conspirator, Forager
+ 
+---------- amigo: turn 9 ----------
+amigo - plays Ironmonger
+amigo - draws Conspirator
+amigo - reveals: Conspirator
+amigo - places Conspirator on top of deck
+amigo - plays Pawn
+amigo - takes 1 coin
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - draws Pawn
+amigo - reveals: Steward
+amigo - places Steward on top of deck
+amigo - plays Conspirator
+amigo - draws Steward
+amigo - plays Conspirator
+amigo - draws Ironmonger
+amigo - plays Pawn
+amigo - takes 1 coin
+amigo - takes 1 action
+amigo - plays Steward
+amigo - trashes Copper, Copper
+amigo - buys Hoard
+amigo - gains Hoard
+amigo - shuffles deck
+amigo - draws Ironmonger, Ironmonger, Conspirator, Pawn, Hoard
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Steward
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Forager
+Stef - plays Forager
+Stef - trashes Copper
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Conspirator, Ironmonger, Pawn, Forager, Pawn
+ 
+---------- amigo: turn 10 ----------
+amigo - plays Ironmonger
+amigo - draws Ironmonger
+amigo - reveals: Pawn
+amigo - places Pawn on top of deck
+amigo - plays Ironmonger
+amigo - draws Pawn
+amigo - reveals: Conspirator
+amigo - places Conspirator on top of deck
+amigo - plays Conspirator
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - draws Steward
+amigo - plays Ironmonger
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - plays Steward
+amigo - takes 2 coins
+amigo - plays Pawn
+amigo - takes 1 coin
+amigo - takes 1 buy
+amigo - plays Pawn
+amigo - takes 1 coin
+amigo - takes 1 buy
+amigo - plays Hoard
+amigo - buys Conspirator
+amigo - gains Conspirator
+amigo - buys Conspirator
+amigo - gains Conspirator
+amigo - buys Estate
+amigo - gains Gold
+amigo - gains Estate
+amigo - shuffles deck
+amigo - draws Ironmonger, Ironmonger, Conspirator, Gold, Estate
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Conspirator
+Stef - reveals: Steward
+Stef - discards Steward
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Forager
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Steward
+Stef - plays Forager
+Stef - trashes Forager
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Library
+Stef - gains Library
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Fortune Teller
+Stef - gains Fortune Teller
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Conspirator, Ironmonger, Conspirator, Steward, Pawn
+ 
+---------- amigo: turn 11 ----------
+amigo - plays Ironmonger
+amigo - draws Conspirator
+amigo - reveals: Steward
+amigo - places Steward on top of deck
+amigo - plays Ironmonger
+amigo - draws Steward
+amigo - reveals: Ironmonger
+amigo - places Ironmonger on top of deck
+amigo - plays Conspirator
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - draws Conspirator
+amigo - reveals: Pawn
+amigo - places Pawn on top of deck
+amigo - plays Conspirator
+amigo - draws Pawn
+amigo - plays Conspirator
+amigo - draws Pawn
+amigo - plays Pawn
+amigo - takes 1 buy
+amigo - draws Hoard
+amigo - plays Pawn
+amigo - takes 1 buy
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - plays Steward
+amigo - takes 2 coins
+amigo - plays 1 Gold
+amigo - plays Hoard
+amigo - buys Province
+amigo - gains Gold
+amigo - gains Province
+amigo - buys Ironmonger
+amigo - gains Ironmonger
+amigo - buys Forager
+amigo - gains Forager
+amigo - shuffles deck
+amigo - draws Estate, Gold, Conspirator, Ironmonger, Conspirator
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Ironmonger
+Stef - draws Conspirator
+Stef - reveals: Forager
+Stef - discards Forager
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Fortune Teller
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Library
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Library
+Stef - moves Pawn to hand
+Stef - moves Pawn to hand
+Stef - moves Mining Village to hand
+Stef - shuffles deck
+Stef - moves Forager to hand
+Stef - plays Mining Village
+Stef - plays Fortune Teller
+amigo - reveals Conspirator, Forager, Pawn, Conspirator, Gold, Ironmonger, Hoard, Steward, Ironmonger, Ironmonger, Province
+amigo - discards: Conspirator, Forager, Pawn, Conspirator, Gold, Ironmonger, Hoard, Steward, Ironmonger, Ironmonger
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Ironmonger, Conspirator, Conspirator, Province, Mining Village
+ 
+---------- amigo: turn 12 ----------
+amigo - plays Ironmonger
+amigo - draws Province
+amigo - reveals: Pawn
+amigo - discards Pawn
+amigo - plays Conspirator
+amigo - plays Conspirator
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - shuffles deck
+amigo - draws Steward
+amigo - plays 1 Gold
+amigo - buys Province
+amigo - gains Province
+amigo - draws Pawn, Hoard, Pawn, Ironmonger, Ironmonger
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Conspirator
+Stef - reveals: Pawn
+Stef - places Pawn on top of deck
+Stef - plays Mining Village
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Forager
+Stef - plays Conspirator
+Stef - draws Steward
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Library
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Library
+Stef - moves Pawn to hand
+Stef - moves Pawn to hand
+Stef - moves Fortune Teller to hand
+Stef - draws Province
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 coin
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Fortune Teller
+amigo - shuffles deck
+amigo - reveals Conspirator, Ironmonger, Gold, Forager, Conspirator, Gold, Estate
+amigo - discards: Conspirator, Ironmonger, Gold, Forager, Conspirator, Gold
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - buys Mining Village
+Stef - gains Mining Village
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Conspirator, Steward, Pawn, Conspirator, Conspirator
+ 
+---------- amigo: turn 13 ----------
+amigo - plays Ironmonger
+amigo - draws Estate
+amigo - reveals: Province
+amigo - discards Province
+amigo - draws Conspirator
+amigo - plays Ironmonger
+amigo - draws Province
+amigo - reveals: Conspirator
+amigo - places Conspirator on top of deck
+amigo - plays Conspirator
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - draws Conspirator
+amigo - plays Conspirator
+amigo - draws Steward
+amigo - plays Pawn
+amigo - takes 1 action
+amigo - draws Ironmonger
+amigo - plays Ironmonger
+amigo - shuffles deck
+amigo - draws Conspirator
+amigo - reveals: Forager
+amigo - places Forager on top of deck
+amigo - plays Conspirator
+amigo - draws Forager
+amigo - plays Pawn
+amigo - takes 1 buy
+amigo - draws Gold
+amigo - plays Steward
+amigo - draws Conspirator, Ironmonger
+amigo - plays Ironmonger
+amigo - draws Gold
+amigo - reveals: Province
+amigo - places Province on top of deck
+amigo - draws Province
+amigo - plays Conspirator
+amigo - plays Forager
+amigo - trashes Hoard
+amigo - plays 2 Gold
+amigo - buys Province
+amigo - gains Province
+amigo - buys Province
+amigo - gains Province
+amigo - buys Pawn
+amigo - gains Pawn
+amigo - shuffles deck
+amigo - draws Ironmonger, Conspirator, Pawn, Conspirator, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Mining Village
+Stef - plays Conspirator
+Stef - draws Library
+Stef - plays Conspirator
+Stef - draws Conspirator
+Stef - plays Conspirator
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Conspirator
+Stef - reveals: Pawn
+Stef - places Pawn on top of deck
+Stef - plays Conspirator
+Stef - draws Pawn
+Stef - plays Conspirator
+Stef - draws Mining Village
+Stef - plays Mining Village
+Stef - draws Fortune Teller
+Stef - trashes Mining Village
+Stef - plays Mining Village
+Stef - draws Pawn
+Stef - trashes Mining Village
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - takes 1 buy
+Stef - plays Fortune Teller
+amigo - reveals Estate
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Library
+Stef - moves Pawn to hand
+Stef - draws Province
+Stef - draws Province
+Stef - draws Province
+Stef - moves Forager to hand
+Stef - plays Forager
+Stef - trashes Pawn
+Stef - buys Province
+Stef - gains Province
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - buys Estate
+Stef - gains Estate
+Stef - shuffles deck
+Stef - draws Duchy, Province, Forager, Conspirator, Province
+ 
+------------ Game Over ------------
+Stef - cards: 5 Conspirator, 4 Pawn, 1 Forager, 1 Steward, 1 Library, 1 Fortune Teller, 1 Ironmonger, 4 Province, 2 Duchy, 1 Estate
+Stef - total victory points: 31
+Stef - turns: 13
+ 
+amigo - cards: 5 Conspirator, 4 Ironmonger, 3 Pawn, 1 Steward, 1 Forager, 2 Gold, 4 Province, 1 Estate
+amigo - total victory points: 25
+amigo - turns: 13
+ 
+1st place: Stef
+2nd place: amigo
+ 

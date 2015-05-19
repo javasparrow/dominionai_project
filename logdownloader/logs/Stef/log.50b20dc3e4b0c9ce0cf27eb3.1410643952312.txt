@@ -1,0 +1,580 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Squire, Chancellor, Fortune Teller, Storeroom, Scout, Cache, Junk Dealer, Mystic, Outpost, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+2.71828..... - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+2.71828..... - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Estate
+2.71828..... - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- 2.71828.....: turn 1 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - shuffles deck
+Stef - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- 2.71828.....: turn 2 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Storeroom
+2.71828..... - gains Storeroom
+2.71828..... - shuffles deck
+2.71828..... - draws Storeroom, Copper, Copper, Silver, Estate
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Estate, Copper, Pawn, Copper
+ 
+---------- 2.71828.....: turn 3 ----------
+2.71828..... - plays Storeroom
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+2.71828..... - discards Estate
+2.71828..... - draws Copper, Copper, Estate
+2.71828..... - discards Estate
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Junk Dealer
+2.71828..... - gains Junk Dealer
+2.71828..... - draws Copper, Estate, Copper, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper
+ 
+---------- 2.71828.....: turn 4 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Copper, Estate, Storeroom, Estate, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Silver, Copper, Junk Dealer, Junk Dealer, Copper
+ 
+---------- 2.71828.....: turn 5 ----------
+2.71828..... - plays Storeroom
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - discards Copper
+2.71828..... - draws Junk Dealer, Silver, Copper
+2.71828..... - discards Junk Dealer
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Junk Dealer
+2.71828..... - gains Junk Dealer
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Estate, Junk Dealer, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Junk Dealer
+Stef - draws Estate
+Stef - trashes Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Copper, Pawn
+Stef - shuffles deck
+Stef - draws Silver, Estate, Junk Dealer
+ 
+---------- 2.71828.....: turn 6 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Silver
+2.71828..... - trashes Estate
+2.71828..... - plays 3 Copper, 1 Silver
+2.71828..... - buys Mystic
+2.71828..... - gains Mystic
+2.71828..... - draws Estate, Copper, Junk Dealer, Copper, Estate
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Copper, Estate, Junk Dealer, Copper, Copper
+ 
+---------- 2.71828.....: turn 7 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Copper
+2.71828..... - trashes Estate
+2.71828..... - plays 3 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Storeroom, Silver, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Estate
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - shuffles deck
+Stef - draws Junk Dealer, Copper, Copper, Silver, Copper
+ 
+---------- 2.71828.....: turn 8 ----------
+2.71828..... - plays 3 Copper, 1 Silver
+2.71828..... - buys Mystic
+2.71828..... - gains Mystic
+2.71828..... - draws Copper, Junk Dealer, Silver, Estate, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - draws Junk Dealer, Mystic, Mystic, Silver, Copper
+ 
+---------- 2.71828.....: turn 9 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Copper
+2.71828..... - trashes Estate
+2.71828..... - plays 3 Copper, 1 Silver
+2.71828..... - buys Mystic
+2.71828..... - gains Mystic
+2.71828..... - draws Mystic, Junk Dealer, Silver, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Storeroom
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Junk Dealer
+Stef - draws Mystic
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Pawn
+Stef - reveals Copper
+Stef - plays Mystic
+Stef - names Copper
+Stef - reveals Copper
+Stef - places Copper in hand
+Stef - plays Mystic
+Stef - names Pawn
+Stef - reveals Pawn
+Stef - places Pawn in hand
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - buys Outpost
+Stef - gains Outpost
+Stef - shuffles deck
+Stef - draws Copper, Outpost, Copper, Copper, Mystic
+ 
+---------- 2.71828.....: turn 10 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Copper
+2.71828..... - trashes Copper
+2.71828..... - plays Mystic
+2.71828..... - names Copper
+2.71828..... - reveals Mystic
+2.71828..... - plays 1 Silver, 1 Copper
+2.71828..... - buys Mystic
+2.71828..... - gains Mystic
+2.71828..... - draws Mystic, Copper, Mystic, Copper, Junk Dealer
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Copper
+Stef - plays Outpost
+Stef - plays 3 Copper
+Stef - buys Mystic
+Stef - gains Mystic
+Stef - duration Outpost
+Stef - draws Copper, Junk Dealer, Mystic
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Junk Dealer
+Stef - draws Junk Dealer, Mystic, Pawn, Mystic, Mystic
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Copper
+2.71828..... - trashes Copper
+2.71828..... - plays Mystic
+2.71828..... - names Mystic
+2.71828..... - reveals Silver
+2.71828..... - plays Mystic
+2.71828..... - names Silver
+2.71828..... - reveals Silver
+2.71828..... - places Silver in hand
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Copper, Copper, Silver
+2.71828..... - shuffles deck
+2.71828..... - draws Junk Dealer, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Mystic
+Stef - names Copper
+Stef - shuffles deck
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Copper
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Outpost
+Stef - plays Outpost
+Stef - buys Province
+Stef - gains Province
+Stef - duration Outpost
+Stef - draws Copper, Mystic, Mystic
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Mystic
+Stef - names Silver
+Stef - reveals Junk Dealer
+Stef - plays Mystic
+Stef - names Junk Dealer
+Stef - reveals Junk Dealer
+Stef - places Junk Dealer in hand
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Mystic, Silver, Mystic, Junk Dealer
+ 
+---------- 2.71828.....: turn 12 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Mystic
+2.71828..... - trashes Copper
+2.71828..... - plays Mystic
+2.71828..... - names Junk Dealer
+2.71828..... - reveals Copper
+2.71828..... - plays 2 Silver, 1 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Copper, Silver, Copper, Junk Dealer, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Junk Dealer
+Stef - draws Province
+Stef - trashes Copper
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Outpost
+Stef - plays Mystic
+Stef - names Outpost
+Stef - reveals Outpost
+Stef - places Outpost in hand
+Stef - plays Outpost
+Stef - plays Silver
+Stef - buys Gold
+Stef - gains Gold
+Stef - duration Outpost
+Stef - draws Junk Dealer, Pawn, Gold
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Silver
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Silver
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Mystic
+Stef - shuffles deck
+Stef - draws Mystic, Junk Dealer, Mystic
+ 
+---------- 2.71828.....: turn 13 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Mystic
+2.71828..... - trashes Copper
+2.71828..... - plays Mystic
+2.71828..... - names Mystic
+2.71828..... - reveals Storeroom
+2.71828..... - plays 1 Copper, 1 Silver
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Storeroom, Mystic, Copper, Mystic
+2.71828..... - shuffles deck
+2.71828..... - draws Mystic
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Junk Dealer
+Stef - plays Mystic
+Stef - names Junk Dealer
+Stef - reveals Junk Dealer
+Stef - places Junk Dealer in hand
+Stef - plays Junk Dealer
+Stef - draws Gold
+Stef - trashes Junk Dealer
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Outpost, Province, Silver, Gold
+ 
+---------- 2.71828.....: turn 14 ----------
+2.71828..... - plays Mystic
+2.71828..... - names Junk Dealer
+2.71828..... - reveals Copper
+2.71828..... - plays Mystic
+2.71828..... - names Copper
+2.71828..... - reveals Copper
+2.71828..... - places Copper in hand
+2.71828..... - plays Mystic
+2.71828..... - names Junk Dealer
+2.71828..... - reveals Mystic
+2.71828..... - plays 2 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Mystic, Junk Dealer, Silver, Province, Province
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Pawn
+Stef - plays Outpost
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - duration Outpost
+Stef - draws Pawn
+Stef - shuffles deck
+Stef - draws Province, Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Province
+Stef - plays Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Junk Dealer, Mystic, Silver, Mystic, Duchy
+ 
+---------- 2.71828.....: turn 15 ----------
+2.71828..... - plays Mystic
+2.71828..... - names Duchy
+2.71828..... - reveals Junk Dealer
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Junk Dealer
+2.71828..... - trashes Junk Dealer
+2.71828..... - plays 1 Silver
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Silver, Copper, Duchy, Silver
+2.71828..... - shuffles deck
+2.71828..... - draws Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Mystic
+Stef - reveals Mystic
+Stef - places Mystic in hand
+Stef - plays Mystic
+Stef - names Province
+Stef - reveals Mystic
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Mystic, Gold, Province, Mystic, Mystic
+ 
+---------- 2.71828.....: turn 16 ----------
+2.71828..... - plays 2 Silver, 2 Copper
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Copper, Mystic, Silver, Junk Dealer, Province
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Mystic
+Stef - names Province
+Stef - shuffles deck
+Stef - reveals Gold
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Gold, Duchy, Mystic, Duchy, Province
+ 
+---------- 2.71828.....: turn 17 ----------
+2.71828..... - plays Junk Dealer
+2.71828..... - draws Duchy
+2.71828..... - trashes Copper
+2.71828..... - plays Mystic
+2.71828..... - names Mystic
+2.71828..... - reveals Province
+2.71828..... - plays 1 Silver
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Province, Storeroom, Mystic, Province, Mystic
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Mystic
+Stef - names Pawn
+Stef - reveals Outpost
+Stef - plays Gold
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Outpost, Junk Dealer, Pawn, Province, Silver
+ 
+---------- 2.71828.....: turn 18 ----------
+2.71828..... - plays Mystic
+2.71828..... - names Mystic
+2.71828..... - reveals Mystic
+2.71828..... - places Mystic in hand
+2.71828..... - plays Mystic
+2.71828..... - names Province
+2.71828..... - shuffles deck
+2.71828..... - reveals Duchy
+2.71828..... - plays Mystic
+2.71828..... - names Duchy
+2.71828..... - reveals Duchy
+2.71828..... - places Duchy in hand
+2.71828..... - plays Storeroom
+2.71828..... - discards Province
+2.71828..... - discards Province
+2.71828..... - discards Duchy
+2.71828..... - draws Silver, Copper, Duchy
+2.71828..... - discards Duchy
+2.71828..... - plays 1 Silver, 1 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - buys Estate
+2.71828..... - gains Estate
+2.71828..... - draws Duchy, Copper, Silver, Duchy, Mystic
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Outpost
+Stef - plays Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - duration Outpost
+Stef - draws Estate, Mystic, Mystic
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Mystic
+Stef - names Mystic
+Stef - shuffles deck
+Stef - reveals Duchy
+Stef - plays Mystic
+Stef - names Duchy
+Stef - reveals Duchy
+Stef - places Duchy in hand
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Gold, Mystic, Mystic, Estate, Mystic
+ 
+---------- 2.71828.....: turn 19 ----------
+2.71828..... - plays Mystic
+2.71828..... - names Province
+2.71828..... - reveals Silver
+2.71828..... - plays 1 Copper, 1 Silver
+2.71828..... - buys Estate
+2.71828..... - gains Estate
+2.71828..... - draws Silver, Junk Dealer, Province
+2.71828..... - shuffles deck
+2.71828..... - draws Duchy, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Mystic
+Stef - names Chancellor
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Chancellor
+Stef - reveals Mystic
+Stef - plays Mystic
+Stef - names Chancellor
+Stef - reveals Mystic
+Stef - plays Gold
+Stef - buys Province
+Stef - gains Province
+Stef - draws Mystic, Junk Dealer, Province, Gold, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 6 Mystic, 1 Junk Dealer, 1 Outpost, 1 Pawn, 2 Gold, 1 Silver, 4 Province, 4 Duchy, 3 Estate
+Stef - total victory points: 39
+Stef - turns: 20
+ 
+2.71828..... - cards: 4 Mystic, 1 Junk Dealer, 1 Storeroom, 3 Silver, 2 Copper, 4 Province, 4 Duchy, 2 Estate
+2.71828..... - total victory points: 38
+2.71828..... - turns: 19
+ 
+1st place: Stef
+2nd place: 2.71828.....
+ 

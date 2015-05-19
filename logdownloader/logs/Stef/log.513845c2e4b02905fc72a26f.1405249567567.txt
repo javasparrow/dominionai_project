@@ -1,0 +1,599 @@
+------------ Game Setup ------------
+Supply cards: Haven, Scheme, Steward, Smithy, Spy, Festival, Ill-Gotten Gains, Inn, Grand Market, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Stef - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+Stef - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Steward
+lightbulb - gains Steward
+lightbulb - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Steward
+Stef - gains Steward
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - shuffles deck
+lightbulb - draws Copper, Steward, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 5 Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - draws Estate, Steward, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays Steward
+lightbulb - trashes Estate, Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Haven
+lightbulb - gains Haven
+lightbulb - draws Estate, Scheme, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Steward
+Stef - trashes Estate, Estate
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Steward, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Scheme
+lightbulb - draws Estate
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - Scheme choice: Scheme
+lightbulb - draws Scheme, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Haven, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Steward
+Stef - trashes Estate, Copper
+Stef - plays 2 Copper
+Stef - buys Haven
+Stef - gains Haven
+Stef - draws Festival, Copper, Steward, Copper, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Haven
+lightbulb - draws Estate
+lightbulb - sets aside Estate
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Festival
+lightbulb - gains Festival
+lightbulb - Scheme choice: Scheme
+lightbulb - draws Scheme, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Festival
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - plays Copper
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Haven, Copper
+Stef - shuffles deck
+Stef - draws Copper, Scheme, Copper
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Estate in hand
+lightbulb - plays Scheme
+lightbulb - draws Steward
+lightbulb - plays Steward
+lightbulb - trashes Estate, Estate
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - Scheme choice: Steward
+lightbulb - draws Steward
+lightbulb - shuffles deck
+lightbulb - draws Haven, Copper, Scheme, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Scheme
+Stef - draws Steward
+Stef - plays Haven
+Stef - draws Haven
+Stef - sets aside Copper
+Stef - plays Haven
+Stef - draws Steward
+Stef - sets aside Steward
+Stef - plays Steward
+Stef - trashes Copper, Copper
+Stef - Scheme choice: Scheme
+Stef - draws Scheme, Festival, Copper
+Stef - shuffles deck
+Stef - draws Steward
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Haven
+lightbulb - draws Copper
+lightbulb - sets aside Copper
+lightbulb - plays Steward
+lightbulb - trashes Copper, Copper
+lightbulb - plays 1 Silver
+lightbulb - buys Haven
+lightbulb - gains Haven
+lightbulb - Scheme choice: Steward
+lightbulb - draws Steward, Copper, Copper, Silver, Festival
+ 
+---------- Stef: turn 8 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - duration Haven
+Stef - places set aside Steward in hand
+Stef - plays Festival
+Stef - plays Scheme
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - Scheme choice: Festival
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Copper, Grand Market, Steward, Haven
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Copper in hand
+lightbulb - plays Festival
+lightbulb - plays Steward
+lightbulb - trashes Copper, Copper
+lightbulb - plays 1 Copper, 1 Silver
+lightbulb - buys Festival
+lightbulb - gains Festival
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - draws Silver, Steward, Scheme, Haven
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Grand Market
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Steward
+Stef - plays Haven
+Stef - draws Copper
+Stef - sets aside Copper
+Stef - plays Festival
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - trashes Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - Scheme choice: Festival
+Stef - draws Festival, Haven
+Stef - shuffles deck
+Stef - draws Steward, Grand Market, Scheme
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Haven
+lightbulb - draws Festival
+lightbulb - sets aside Festival
+lightbulb - plays Steward
+lightbulb - trashes Copper, Copper
+lightbulb - plays 1 Silver
+lightbulb - buys Haven
+lightbulb - gains Haven
+lightbulb - Scheme choice: Steward
+lightbulb - draws Steward, Festival, Silver, Haven
+lightbulb - shuffles deck
+lightbulb - draws Silver
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Haven
+Stef - draws Grand Market
+Stef - sets aside Copper
+Stef - plays Grand Market
+Stef - plays Scheme
+Stef - plays Festival
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Smithy
+Stef - gains Smithy
+Stef - Scheme choice: Festival
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Steward, Grand Market, Grand Market, Steward
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Festival in hand
+lightbulb - plays Festival
+lightbulb - plays Festival
+lightbulb - plays Steward
+lightbulb - draws Haven, Scheme
+lightbulb - plays Scheme
+lightbulb - plays Haven
+lightbulb - sets aside Haven
+lightbulb - plays 2 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Haven
+lightbulb - gains Haven
+lightbulb - Scheme choice: Festival
+lightbulb - draws Festival
+lightbulb - shuffles deck
+lightbulb - draws Scheme, Grand Market, Haven, Steward
+ 
+---------- Stef: turn 11 ----------
+Stef - duration Haven
+Stef - places set aside Copper in hand
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Scheme
+Stef - plays Grand Market
+Stef - draws Haven
+Stef - plays Scheme
+Stef - draws Smithy
+Stef - plays Haven
+Stef - sets aside Smithy
+Stef - plays Festival
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - Scheme choice: Festival
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Scheme, Steward, Grand Market, Grand Market
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Haven in hand
+lightbulb - plays Festival
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Grand Market
+lightbulb - draws Festival
+lightbulb - plays Festival
+lightbulb - plays Haven
+lightbulb - draws Haven
+lightbulb - sets aside Haven
+lightbulb - plays Haven
+lightbulb - draws Silver
+lightbulb - sets aside Silver
+lightbulb - plays Steward
+lightbulb - takes 2 coins
+lightbulb - plays 1 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Steward
+lightbulb - gains Steward
+lightbulb - Scheme choice: Grand Market
+lightbulb - draws Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Steward, Haven, Silver, Festival
+ 
+---------- Stef: turn 12 ----------
+Stef - duration Haven
+Stef - places set aside Smithy in hand
+Stef - plays Grand Market
+Stef - draws Haven
+Stef - plays Grand Market
+Stef - draws Copper
+Stef - plays Scheme
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Haven
+Stef - draws Grand Market
+Stef - sets aside Smithy
+Stef - plays Grand Market
+Stef - plays Festival
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Copper
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Festival
+Stef - gains Festival
+Stef - buys Haven
+Stef - gains Haven
+Stef - Scheme choice: Festival
+Stef - draws Festival
+Stef - shuffles deck
+Stef - draws Steward, Copper, Festival, Grand Market
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Haven in hand
+lightbulb - duration Haven
+lightbulb - places set aside Silver in hand
+lightbulb - plays Grand Market
+lightbulb - draws Festival
+lightbulb - plays Festival
+lightbulb - plays Festival
+lightbulb - plays Haven
+lightbulb - draws Grand Market
+lightbulb - sets aside Haven
+lightbulb - plays Grand Market
+lightbulb - draws Scheme
+lightbulb - plays Scheme
+lightbulb - draws Steward
+lightbulb - plays Steward
+lightbulb - takes 2 coins
+lightbulb - plays Steward
+lightbulb - takes 2 coins
+lightbulb - plays 2 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Smithy
+lightbulb - gains Smithy
+lightbulb - Scheme choice: Grand Market
+lightbulb - draws Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Silver, Haven, Festival, Steward
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Haven
+Stef - places set aside Smithy in hand
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Smithy
+Stef - draws Grand Market, Haven, Scheme
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Scheme
+Stef - draws Grand Market
+Stef - plays Festival
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Grand Market
+Stef - draws Haven
+Stef - plays Festival
+Stef - plays Haven
+Stef - draws Steward
+Stef - sets aside Haven
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - trashes Copper
+Stef - buys Grand Market
+Stef - gains Grand Market
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - buys Festival
+Stef - gains Festival
+Stef - Scheme choice: Smithy
+Stef - draws Smithy, Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Festival, Festival
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Haven in hand
+lightbulb - plays Grand Market
+lightbulb - draws Smithy
+lightbulb - plays Festival
+lightbulb - plays Smithy
+lightbulb - draws Festival, Grand Market, Scheme
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Festival
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Scheme
+lightbulb - draws Haven
+lightbulb - plays Grand Market
+lightbulb - draws Silver
+lightbulb - plays Haven
+lightbulb - draws Steward
+lightbulb - sets aside Haven
+lightbulb - plays Haven
+lightbulb - sets aside Steward
+lightbulb - plays Steward
+lightbulb - takes 2 coins
+lightbulb - plays 2 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Haven
+lightbulb - gains Haven
+lightbulb - Scheme choice: Grand Market
+lightbulb - draws Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Grand Market, Festival, Silver, Grand Market
+ 
+---------- Stef: turn 14 ----------
+Stef - duration Haven
+Stef - places set aside Haven in hand
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Smithy
+Stef - draws Grand Market, Festival, Grand Market
+Stef - plays Grand Market
+Stef - draws Haven
+Stef - plays Grand Market
+Stef - draws Hunting Grounds
+Stef - plays Festival
+Stef - plays Hunting Grounds
+Stef - draws Scheme, Grand Market, Steward, Steward
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - plays Scheme
+Stef - plays Haven
+Stef - sets aside Haven
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Hunting Grounds
+Stef - gains Hunting Grounds
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - Scheme choice: Hunting Grounds
+Stef - draws Hunting Grounds
+Stef - shuffles deck
+Stef - draws Grand Market, Grand Market, Festival, Province
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - duration Haven
+lightbulb - places set aside Haven in hand
+lightbulb - duration Haven
+lightbulb - places set aside Steward in hand
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Silver
+lightbulb - plays Grand Market
+lightbulb - draws Festival
+lightbulb - plays Grand Market
+lightbulb - draws Scheme
+lightbulb - plays Festival
+lightbulb - plays Festival
+lightbulb - plays Scheme
+lightbulb - draws Haven
+lightbulb - plays Haven
+lightbulb - draws Haven
+lightbulb - sets aside Silver
+lightbulb - plays Steward
+lightbulb - draws Steward, Smithy
+lightbulb - plays Smithy
+lightbulb - draws Province, Province
+lightbulb - plays Haven
+lightbulb - sets aside Province
+lightbulb - plays Haven
+lightbulb - sets aside Province
+lightbulb - plays Steward
+lightbulb - takes 2 coins
+lightbulb - plays 1 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - Scheme choice: Grand Market
+lightbulb - draws Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Haven, Steward, Festival, Estate
+ 
+---------- Stef: turn 15 ----------
+Stef - duration Haven
+Stef - places set aside Haven in hand
+Stef - plays Grand Market
+Stef - draws Smithy
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Hunting Grounds
+Stef - draws Steward, Province, Festival, Haven
+Stef - plays Smithy
+Stef - draws Hunting Grounds, Grand Market, Festival
+Stef - plays Festival
+Stef - plays Festival
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Steward
+Stef - plays Haven
+Stef - draws Scheme
+Stef - sets aside Province
+Stef - plays Scheme
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Festival
+Stef - plays Haven
+Stef - draws Scheme
+Stef - sets aside Province
+Stef - plays Scheme
+Stef - plays Festival
+Stef - plays Steward
+Stef - takes 2 coins
+Stef - plays Steward
+Stef - trashes Hunting Grounds
+Stef - gains Estate
+Stef - gains Estate
+Stef - gains Estate
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Steward, Grand Market, Grand Market, Festival, Festival
+ 
+------------ Game Over ------------
+Stef - cards: 6 Grand Market, 5 Festival, 3 Haven, 2 Steward, 2 Scheme, 1 Smithy, 1 Hunting Grounds, 5 Province, 3 Estate
+Stef - total victory points: 33
+Stef - turns: 15
+ 
+lightbulb - cards: 5 Haven, 4 Grand Market, 2 Steward, 2 Festival, 1 Scheme, 1 Smithy, 2 Silver, 3 Province, 1 Estate, 1 Duchy
+lightbulb - total victory points: 22
+lightbulb - turns: 14
+ 
+1st place: Stef
+2nd place: lightbulb
+ 

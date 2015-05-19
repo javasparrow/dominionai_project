@@ -1,0 +1,615 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Fortune Teller, Woodcutter, Alchemist, Advisor, Nomad Camp, Duke, Stables, Goons, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ruroi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+ruroi - shuffles deck
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ruroi - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- ruroi: turn 1 ----------
+ruroi - plays 3 Copper
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Nomad Camp
+Stef - gains Nomad Camp
+Stef - draws Nomad Camp, Estate, Copper, Copper, Copper
+ 
+---------- ruroi: turn 2 ----------
+ruroi - plays 4 Copper
+ruroi - buys Nomad Camp
+ruroi - gains Nomad Camp
+ruroi - draws Nomad Camp
+ruroi - shuffles deck
+ruroi - draws Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays Nomad Camp
+Stef - plays 3 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper
+ 
+---------- ruroi: turn 3 ----------
+ruroi - plays Nomad Camp
+ruroi - plays 3 Copper
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - draws Fool's Gold, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Nomad Camp, Estate, Copper
+ 
+---------- ruroi: turn 4 ----------
+ruroi - plays 3 Copper, 1 Fool's Gold
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - draws Estate, Copper
+ruroi - shuffles deck
+ruroi - draws Copper, Copper, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Nomad Camp
+Stef - plays 3 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Stables, Copper
+Stef - shuffles deck
+Stef - draws Silver, Estate, Stables
+ 
+---------- ruroi: turn 5 ----------
+ruroi - plays 3 Copper
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - draws Fool's Gold, Fool's Gold, Fool's Gold, Copper, Nomad Camp
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Estate, Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Copper, Copper, Nomad Camp
+Stef - shuffles deck
+Stef - draws Estate, Silver
+ 
+---------- ruroi: turn 6 ----------
+ruroi - plays Nomad Camp
+ruroi - plays 3 Fool's Gold, 1 Copper
+ruroi - buys Stables
+ruroi - gains Stables
+ruroi - buys Stables
+ruroi - gains Stables
+ruroi - draws Copper, Fool's Gold, Copper, Estate, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Nomad Camp
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Copper, Stables, Copper, Stables, Estate
+ 
+---------- ruroi: turn 7 ----------
+ruroi - plays 3 Copper, 1 Fool's Gold
+ruroi - buys Fool's Gold
+ruroi - gains Fool's Gold
+ruroi - shuffles deck
+ruroi - draws Copper, Copper, Copper, Copper, Fool's Gold
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Stables
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Copper, Nomad Camp
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Copper, Copper
+Stef - plays Nomad Camp
+Stef - plays 5 Copper
+Stef - buys Stables
+Stef - gains Stables
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Estate, Copper, Copper, Copper
+ 
+---------- ruroi: turn 8 ----------
+ruroi - plays 4 Copper, 1 Fool's Gold
+ruroi - buys Stables
+ruroi - gains Stables
+ruroi - draws Fool's Gold, Copper, Fool's Gold, Fool's Gold, Estate
+ 
+---------- Stef: turn 8 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - draws Copper, Nomad Camp, Stables, Copper, Estate
+ 
+---------- ruroi: turn 9 ----------
+ruroi - plays 3 Fool's Gold, 1 Copper
+ruroi - buys Goons
+ruroi - gains Goons
+ruroi - draws Nomad Camp, Estate, Stables, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Stables, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Silver, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Advisor, Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+ruroi - discards Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Nomad Camp
+Stef - plays 6 Copper, 1 Silver
+Stef - buys Goons
+Stef - gains Goons
+Stef - buys Advisor
+Stef - gains Advisor
+Stef - shuffles deck
+Stef - draws Nomad Camp, Advisor, Stables, Goons, Estate
+ 
+---------- ruroi: turn 10 ----------
+ruroi - plays Stables
+ruroi - discards Copper
+ruroi - draws Fool's Gold, Stables, Estate
+ruroi - plays Stables
+ruroi - discards Copper
+ruroi - draws Fool's Gold
+ruroi - shuffles deck
+ruroi - draws Fool's Gold, Copper
+ruroi - plays Nomad Camp
+ruroi - plays 3 Fool's Gold, 1 Copper
+ruroi - buys Stables
+ruroi - gains Stables
+ruroi - buys Stables
+ruroi - gains Stables
+ruroi - draws Fool's Gold, Copper, Copper, Goons, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Advisor
+Stef - reveals: Stables, Estate, Advisor
+ruroi - discards Stables
+Stef - places cards in hand:  Estate, Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Stables
+ruroi - discards Stables
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Copper
+Stef - plays Goons
+ruroi - discards Copper
+ruroi - discards Copper
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Advisor
+Stef - receives 1 victory point chips
+Stef - gains Advisor
+Stef - draws Copper, Copper, Stables, Silver, Stables
+ 
+---------- ruroi: turn 11 ----------
+ruroi - plays Goons
+Stef - discards Silver
+Stef - discards Copper
+ruroi - plays 1 Fool's Gold, 1 Copper
+ruroi - buys Fool's Gold
+ruroi - receives 1 victory point chips
+ruroi - gains Fool's Gold
+ruroi - buys Fool's Gold
+ruroi - receives 1 victory point chips
+ruroi - gains Fool's Gold
+ruroi - draws Estate, Copper, Fool's Gold, Stables, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Nomad Camp, Copper, Estate
+Stef - draws Advisor, Advisor, Advisor, Copper, Copper
+ 
+---------- ruroi: turn 12 ----------
+ruroi - plays Stables
+ruroi - discards Copper
+ruroi - draws Fool's Gold, Copper
+ruroi - shuffles deck
+ruroi - draws Fool's Gold
+ruroi - plays 3 Fool's Gold, 2 Copper
+ruroi - buys Province
+ruroi - gains Province
+ruroi - draws Estate, Copper, Goons, Copper, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Advisor
+Stef - reveals: Goons, Copper, Copper
+ruroi - discards Goons
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Stables, Stables
+ruroi - discards Stables
+Stef - places cards in hand:  Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Stables
+Stef - shuffles deck
+Stef - draws Goons
+Stef - plays Advisor
+Stef - reveals: Stables, Estate, Copper
+ruroi - discards Stables
+Stef - places cards in hand:  Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Stables, Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Nomad Camp, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Copper, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Goons
+ruroi - discards Estate
+ruroi - discards Copper
+Stef - plays 7 Copper, 1 Silver
+Stef - buys Advisor
+Stef - receives 1 victory point chips
+Stef - gains Advisor
+Stef - buys Potion
+Stef - receives 1 victory point chips
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Nomad Camp, Copper, Advisor, Stables, Advisor
+ 
+---------- ruroi: turn 13 ----------
+ruroi - plays Goons
+Stef - discards Nomad Camp
+Stef - discards Copper
+ruroi - plays 2 Copper
+ruroi - buys Fool's Gold
+ruroi - receives 1 victory point chips
+ruroi - gains Fool's Gold
+ruroi - buys Fool's Gold
+ruroi - receives 1 victory point chips
+ruroi - gains Fool's Gold
+ruroi - draws Estate, Fool's Gold, Stables, Nomad Camp, Stables
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Advisor
+Stef - reveals: Potion, Stables, Stables
+ruroi - discards Potion
+Stef - places cards in hand:  Stables, Stables
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Copper
+ruroi - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Goons, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Advisor, Stables, Copper
+Stef - plays Advisor
+Stef - shuffles deck
+Stef - reveals: Copper, Copper, Potion
+ruroi - discards Potion
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Nomad Camp, Copper, Copper
+Stef - plays Goons
+ruroi - discards Nomad Camp
+ruroi - discards Estate
+Stef - plays 5 Copper, 1 Silver
+Stef - buys Advisor
+Stef - receives 1 victory point chips
+Stef - gains Advisor
+Stef - buys Advisor
+Stef - receives 1 victory point chips
+Stef - gains Advisor
+Stef - draws Copper, Advisor
+Stef - shuffles deck
+Stef - draws Stables, Copper, Estate
+ 
+---------- ruroi: turn 14 ----------
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Stables, Fool's Gold, Fool's Gold
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Copper, Copper, Fool's Gold
+ruroi - plays 2 Fool's Gold, 2 Copper
+ruroi - buys Duchy
+ruroi - gains Duchy
+ruroi - draws Fool's Gold, Stables
+ruroi - shuffles deck
+ruroi - draws Fool's Gold, Fool's Gold, Stables
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Stables, Advisor
+ruroi - discards Stables
+Stef - places cards in hand:  Copper, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Advisor, Goons
+ruroi - discards Goons
+Stef - places cards in hand:  Advisor, Advisor
+Stef - plays Advisor
+Stef - reveals: Stables, Stables, Advisor
+ruroi - discards Advisor
+Stef - places cards in hand:  Stables, Stables
+Stef - plays Advisor
+Stef - reveals: Silver, Estate, Stables
+ruroi - discards Stables
+Stef - places cards in hand:  Silver, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Nomad Camp, Copper, Potion
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Advisor, Estate
+Stef - shuffles deck
+Stef - draws Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Stables
+ruroi - discards Stables
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Stables, Goons, Copper
+ruroi - discards Goons
+Stef - places cards in hand:  Stables, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - shuffles deck
+Stef - draws Goons, Stables, Copper
+Stef - plays Goons
+ruroi - discards Fool's Gold
+ruroi - discards Fool's Gold
+Stef - plays 7 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - receives 1 victory point chips
+Stef - gains Alchemist
+Stef - buys Potion
+Stef - receives 1 victory point chips
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Nomad Camp, Copper
+ 
+---------- ruroi: turn 15 ----------
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Estate, Fool's Gold, Fool's Gold
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Copper, Fool's Gold, Goons
+ruroi - plays Goons
+Stef - discards Estate
+Stef - discards Copper
+ruroi - plays 2 Fool's Gold, 1 Copper
+ruroi - buys Advisor
+ruroi - receives 1 victory point chips
+ruroi - gains Advisor
+ruroi - buys Advisor
+ruroi - receives 1 victory point chips
+ruroi - gains Advisor
+ruroi - draws Fool's Gold, Copper, Copper, Estate, Fool's Gold
+ 
+---------- Stef: turn 15 ----------
+Stef - draws Advisor, Estate, Stables, Copper, Advisor
+ 
+---------- ruroi: turn 16 ----------
+ruroi - plays 2 Fool's Gold, 2 Copper
+ruroi - buys Advisor
+ruroi - gains Advisor
+ruroi - draws Copper, Fool's Gold, Fool's Gold, Copper, Stables
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Advisor
+Stef - reveals: Stables, Stables, Alchemist
+ruroi - discards Alchemist
+Stef - places cards in hand:  Stables, Stables
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Copper
+ruroi - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver, Estate, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Potion, Advisor, Potion
+Stef - plays Advisor
+Stef - reveals: Stables, Stables, Goons
+ruroi - discards Goons
+Stef - places cards in hand:  Stables, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Advisor, Advisor
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Copper
+ruroi - discards Copper
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Advisor
+Stef - reveals: Alchemist, Copper, Copper
+ruroi - discards Alchemist
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Nomad Camp, Estate, Goons
+Stef - plays Stables
+Stef - discards Potion
+Stef - draws Advisor
+Stef - shuffles deck
+Stef - draws Alchemist, Copper
+Stef - plays Advisor
+Stef - reveals: Copper, Potion
+ruroi - discards Potion
+Stef - places cards in hand:  Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Potion
+Stef - plays Goons
+ruroi - discards Copper
+ruroi - discards Copper
+Stef - plays 7 Copper, 2 Potion, 1 Silver
+Stef - buys Province
+Stef - receives 1 victory point chips
+Stef - gains Province
+Stef - buys Alchemist
+Stef - receives 1 victory point chips
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist
+Stef - shuffles deck
+Stef - draws Estate, Advisor, Copper, Stables
+ 
+---------- ruroi: turn 17 ----------
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Copper, Province, Stables
+ruroi - plays Stables
+ruroi - discards Copper
+ruroi - draws Duchy, Stables, Nomad Camp
+ruroi - plays Stables
+ruroi - discards Fool's Gold
+ruroi - draws Copper, Estate
+ruroi - shuffles deck
+ruroi - draws Copper
+ruroi - plays Nomad Camp
+ruroi - plays 2 Copper
+ruroi - buys Estate
+ruroi - gains Estate
+ruroi - buys Estate
+ruroi - gains Estate
+ruroi - draws Stables, Advisor, Advisor, Fool's Gold, Fool's Gold
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Advisor
+ruroi - discards Advisor
+Stef - places cards in hand:  Copper, Advisor
+Stef - plays Advisor
+Stef - reveals: Copper, Advisor, Alchemist
+ruroi - discards Advisor
+Stef - places cards in hand:  Copper, Alchemist
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Nomad Camp, Stables, Stables
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Estate, Copper, Goons
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Copper, Advisor, Potion
+Stef - plays Advisor
+Stef - reveals: Province, Stables, Potion
+ruroi - discards Stables
+Stef - places cards in hand:  Province, Potion
+Stef - plays Alchemist
+Stef - draws Advisor, Stables
+Stef - plays Advisor
+Stef - reveals: Copper, Copper, Estate
+ruroi - discards Copper
+Stef - places cards in hand:  Copper, Estate
+Stef - plays Stables
+Stef - discards Copper
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Copper, Advisor
+Stef - plays Advisor
+Stef - reveals: Advisor, Copper, Copper
+ruroi - discards Advisor
+Stef - places cards in hand:  Copper, Copper
+Stef - plays Alchemist
+Stef - draws Copper, Stables
+Stef - plays Stables
+Stef - discards Potion
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Advisor, Potion
+Stef - plays Goons
+ruroi - discards Advisor
+ruroi - discards Fool's Gold
+Stef - plays 7 Copper, 2 Potion, 1 Silver
+Stef - buys Advisor
+Stef - receives 1 victory point chips
+Stef - gains Advisor
+Stef - buys Duchy
+Stef - receives 1 victory point chips
+Stef - gains Duchy
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Silver, Copper, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 7 Advisor, 5 Stables, 2 Alchemist, 1 Nomad Camp, 1 Goons, 7 Copper, 2 Potion, 1 Silver, 3 Estate, 1 Duchy, 1 Province
+Stef - victory point chips: 11
+Stef - total victory points: 23
+Stef - turns: 17
+ 
+ruroi - cards: 5 Stables, 3 Advisor, 10 Fool's Gold, 1 Nomad Camp, 1 Goons, 7 Copper, 5 Estate, 1 Province, 1 Duchy
+ruroi - victory point chips: 6
+ruroi - total victory points: 20
+ruroi - turns: 17
+ 
+1st place: Stef
+2nd place: ruroi
+ 

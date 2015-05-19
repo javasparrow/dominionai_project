@@ -1,0 +1,611 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Embargo, University, Silk Road, Library, Margrave, Merchant Ship, Pillage, Upgrade, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SM.SM - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+SM.SM - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Silver, Potion
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - shuffles deck
+SM.SM - draws Estate, Potion, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Potion
+Stef - plays Silver
+Stef - buys University
+Stef - gains University
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 3 Copper, 1 Potion
+SM.SM - buys University
+SM.SM - gains University
+SM.SM - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Copper
+Stef - plays Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Copper, Estate
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws University, Estate, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper
+Stef - buys Embargo
+Stef - gains Embargo
+Stef - draws Estate, University, Potion, Copper, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays University
+SM.SM - gains Pillage
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Embargo
+SM.SM - gains Embargo
+SM.SM - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays University
+Stef - gains Upgrade
+Stef - plays 2 Copper, 1 Potion
+Stef - buys University
+Stef - gains University
+Stef - draws Embargo, Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays 4 Copper, 1 Silver
+SM.SM - buys Upgrade
+SM.SM - gains Upgrade
+SM.SM - draws Estate, Copper, Estate, Potion
+SM.SM - shuffles deck
+SM.SM - draws Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Embargo
+Stef - embargoes Grand Market
+Stef - trashes Embargo
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Copper, Copper, Copper, Embargo, University
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays 2 Copper, 1 Potion
+SM.SM - buys University
+SM.SM - gains University
+SM.SM - draws Pillage, University, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays University
+Stef - gains Upgrade
+Stef - plays Embargo
+Stef - embargoes Province
+Stef - trashes Embargo
+Stef - plays 3 Copper
+Stef - buys Upgrade
+Stef - gains Upgrade
+Stef - draws Upgrade, Estate, Copper, Potion, Estate
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays University
+SM.SM - gains Upgrade
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Upgrade, Estate, Copper, Potion, Estate
+Stef - discards Upgrade
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays Silver
+SM.SM - buys Embargo
+SM.SM - gains Embargo
+SM.SM - draws Estate, Copper, Silver, Embargo, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Potion
+Stef - buys Transmute
+Stef - gains Transmute
+Stef - draws Copper, University
+Stef - shuffles deck
+Stef - draws Upgrade, Copper, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Embargo
+SM.SM - embargoes Embargo
+SM.SM - trashes Embargo
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Upgrade
+SM.SM - gains Upgrade
+SM.SM - draws Upgrade, Copper
+SM.SM - shuffles deck
+SM.SM - draws Spoils, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Upgrade
+Stef - draws Transmute
+Stef - trashes Copper
+Stef - plays University
+Stef - gains Upgrade
+Stef - plays Transmute
+Stef - trashes Copper
+Stef - gains Transmute
+Stef - draws University, Estate, Estate, Copper, Silver
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Copper
+SM.SM - plays 3 Copper
+SM.SM - plays Spoils
+SM.SM - buys Upgrade
+SM.SM - gains Upgrade
+SM.SM - draws Estate, Estate, Copper, Embargo, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays University
+Stef - gains Library
+Stef - draws Potion, Upgrade, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Embargo
+SM.SM - embargoes University
+SM.SM - trashes Embargo
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Upgrade
+SM.SM - gains Upgrade
+SM.SM - draws Potion, Upgrade, Upgrade, Spoils, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - draws Copper
+Stef - trashes Potion
+Stef - gains Library
+Stef - shuffles deck
+Stef - draws Copper, Copper, Upgrade, Upgrade, University
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Estate
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Potion
+SM.SM - gains Library
+SM.SM - plays 2 Copper
+SM.SM - plays Spoils
+SM.SM - buys Pillage
+SM.SM - gains Pillage
+SM.SM - draws University, Silver, University
+SM.SM - shuffles deck
+SM.SM - draws Upgrade, Library
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Copper
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Copper
+Stef - plays University
+Stef - gains Merchant Ship
+Stef - draws Estate, Library, Copper, Estate, Upgrade
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Copper
+SM.SM - plays University
+SM.SM - gains Pillage
+SM.SM - plays University
+SM.SM - gains Merchant Ship
+SM.SM - plays Library
+SM.SM - moves Pillage to hand
+SM.SM - moves Upgrade to hand
+SM.SM - moves Upgrade to hand
+SM.SM - draws Copper
+SM.SM - draws Estate
+SM.SM - moves Upgrade to hand
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Copper
+SM.SM - plays Upgrade
+SM.SM - draws Silver
+SM.SM - trashes Copper
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Estate, Library, Copper, Estate, Upgrade
+Stef - discards Library
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Library
+SM.SM - gains Library
+SM.SM - draws Silver, Upgrade, Copper, Copper, Estate
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Estate
+Stef - gains Silver
+Stef - plays Upgrade
+Stef - draws Transmute
+Stef - trashes Copper
+Stef - plays Transmute
+Stef - trashes Estate
+Stef - gains Gold
+Stef - draws Upgrade, Transmute, Library, University
+Stef - shuffles deck
+Stef - draws Upgrade
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Upgrade
+SM.SM - shuffles deck
+SM.SM - draws Library
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays Library
+SM.SM - discards Upgrade
+SM.SM - discards Upgrade
+SM.SM - discards University
+SM.SM - discards Upgrade
+SM.SM - discards Merchant Ship
+SM.SM - discards Upgrade
+SM.SM - draws Silver
+SM.SM - draws Spoils
+SM.SM - discards University
+SM.SM - discards Library
+SM.SM - draws Spoils
+SM.SM - draws Copper
+SM.SM - discards: Upgrade, Upgrade, University, Upgrade, Merchant Ship, Upgrade, University, Library
+SM.SM - plays Silver
+SM.SM - plays Silver
+SM.SM - plays Spoils
+SM.SM - buys Grand Market
+SM.SM - gains Curse
+SM.SM - gains Grand Market
+SM.SM - draws Silver, Pillage, Silver
+SM.SM - shuffles deck
+SM.SM - draws Library, University
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Upgrade
+Stef - draws Library
+Stef - trashes Upgrade
+Stef - gains Grand Market
+Stef - plays University
+Stef - gains Pillage
+Stef - plays Library
+Stef - moves Upgrade to hand
+Stef - discards Transmute
+Stef - draws Gold
+Stef - moves Upgrade to hand
+Stef - draws Silver
+Stef - moves University to hand
+Stef - discards Transmute
+Stef - plays Upgrade
+Stef - draws Merchant Ship
+Stef - trashes Silver
+Stef - gains Potion
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Merchant Ship
+Stef - gains Grand Market
+Stef - plays Upgrade
+Stef - draws Silver
+Stef - trashes Transmute
+Stef - plays University
+Stef - gains Merchant Ship
+Stef - plays Library
+Stef - draws Estate
+Stef - shuffles deck
+Stef - discards Merchant Ship
+Stef - moves Grand Market to hand
+Stef - draws Potion
+Stef - moves Pillage to hand
+Stef - discards Transmute
+Stef - moves Grand Market to hand
+Stef - discards: Merchant Ship, Transmute
+Stef - plays Grand Market
+Stef - shuffles deck
+Stef - draws Merchant Ship
+Stef - plays Grand Market
+Stef - draws Transmute
+Stef - plays Pillage
+Stef - trashes Pillage
+SM.SM - reveals Silver, Pillage, Silver, Library, University
+SM.SM - discards University
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - plays 1 Gold, 1 Silver, 1 Potion
+Stef - buys University
+Stef - gains Curse
+Stef - gains University
+Stef - buys Grand Market
+Stef - gains Curse
+Stef - gains Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Transmute, Library, Library, University
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Grand Market, Transmute, Library, Library, University
+Stef - discards University
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays 2 Silver
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - draws Spoils, Merchant Ship, Silver, Upgrade, Upgrade
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Grand Market
+Stef - draws Curse
+Stef - plays Transmute
+Stef - trashes Curse
+Stef - draws Spoils, Upgrade, Silver, Upgrade, Gold
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Upgrade
+SM.SM - trashes Merchant Ship
+SM.SM - gains Grand Market
+SM.SM - plays Upgrade
+SM.SM - draws Silver
+SM.SM - trashes Silver
+SM.SM - gains Potion
+SM.SM - plays Upgrade
+SM.SM - draws Copper
+SM.SM - trashes Copper
+SM.SM - plays 1 Silver
+SM.SM - plays Spoils
+SM.SM - buys Pillage
+SM.SM - gains Pillage
+SM.SM - draws Upgrade, Copper, Copper, Curse, Library
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Upgrade
+Stef - draws Grand Market
+Stef - trashes Silver
+Stef - gains Silk Road
+Stef - plays Grand Market
+Stef - draws Curse
+Stef - plays Upgrade
+Stef - draws Spoils
+Stef - trashes Curse
+Stef - plays 1 Gold
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Curse
+Stef - gains Province
+Stef - draws Upgrade, University, University, Upgrade, Merchant Ship
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Upgrade
+SM.SM - trashes Curse
+SM.SM - plays Upgrade
+SM.SM - draws University
+SM.SM - trashes Copper
+SM.SM - plays University
+SM.SM - gains Merchant Ship
+SM.SM - plays Library
+SM.SM - draws Silver
+SM.SM - moves Grand Market to hand
+SM.SM - shuffles deck
+SM.SM - draws Silver
+SM.SM - discards Library
+SM.SM - draws Spoils
+SM.SM - moves Pillage to hand
+SM.SM - moves Grand Market to hand
+SM.SM - discards Library
+SM.SM - plays Grand Market
+SM.SM - draws Upgrade
+SM.SM - plays Grand Market
+SM.SM - draws University
+SM.SM - plays Upgrade
+SM.SM - draws Potion
+SM.SM - trashes Copper
+SM.SM - plays University
+SM.SM - gains Pillage
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Upgrade, University, University, Upgrade, Merchant Ship
+Stef - discards Upgrade
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays 2 Silver, 1 Potion
+SM.SM - plays Spoils
+SM.SM - buys Grand Market
+SM.SM - gains Curse
+SM.SM - gains Grand Market
+SM.SM - buys University
+SM.SM - gains Curse
+SM.SM - gains University
+SM.SM - draws Spoils, Upgrade, Merchant Ship, Silver, Upgrade
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Upgrade
+Stef - draws Estate
+Stef - trashes Merchant Ship
+Stef - gains Grand Market
+Stef - plays University
+Stef - gains Pillage
+Stef - plays University
+Stef - gains Library
+Stef - draws Grand Market, Potion
+Stef - shuffles deck
+Stef - draws Upgrade, Pillage, Curse
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Potion
+SM.SM - trashes Merchant Ship
+SM.SM - gains Grand Market
+SM.SM - plays Upgrade
+SM.SM - draws Silver
+SM.SM - trashes Potion
+SM.SM - gains Pillage
+SM.SM - plays 2 Silver
+SM.SM - buys Silk Road
+SM.SM - gains Silk Road
+SM.SM - shuffles deck
+SM.SM - draws Silver, Library, Potion, University, Upgrade
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Grand Market
+Stef - draws Grand Market
+Stef - plays Grand Market
+Stef - draws Library
+Stef - plays Upgrade
+Stef - draws Library
+Stef - trashes Curse
+Stef - plays Pillage
+Stef - trashes Pillage
+SM.SM - reveals Silver, Library, Potion, University, Upgrade
+SM.SM - discards University
+Stef - gains Spoils
+Stef - gains Spoils
+Stef - buys Silk Road
+Stef - gains Silk Road
+Stef - draws Estate, University, Silk Road, Gold, Library
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Upgrade
+SM.SM - draws Pillage
+SM.SM - trashes Library
+SM.SM - gains Grand Market
+SM.SM - plays Pillage
+SM.SM - trashes Pillage
+Stef - reveals Estate, University, Silk Road, Gold, Library
+Stef - discards Library
+SM.SM - gains Spoils
+SM.SM - gains Spoils
+SM.SM - plays 1 Silver, 1 Potion
+SM.SM - buys University
+SM.SM - gains Curse
+SM.SM - gains University
+SM.SM - draws Silver, Upgrade, Grand Market, Silver, Curse
+ 
+---------- Stef: turn 20 ----------
+Stef - plays University
+Stef - gains Pillage
+Stef - plays 1 Gold
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Upgrade, University, Grand Market, University, Upgrade
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Grand Market
+SM.SM - draws Grand Market
+SM.SM - plays Upgrade
+SM.SM - draws Spoils
+SM.SM - trashes Curse
+SM.SM - plays Grand Market
+SM.SM - draws Library
+SM.SM - plays Library
+SM.SM - discards Pillage
+SM.SM - discards Upgrade
+SM.SM - discards Grand Market
+SM.SM - draws Silver
+SM.SM - draws Spoils
+SM.SM - draws Silk Road
+SM.SM - discards University
+SM.SM - discards University
+SM.SM - discards Grand Market
+SM.SM - draws Spoils
+SM.SM - discards: Pillage, Upgrade, Grand Market, University, University, Grand Market
+SM.SM - plays 3 Silver
+SM.SM - plays Spoils
+SM.SM - plays Spoils
+SM.SM - plays Spoils
+SM.SM - buys Province
+SM.SM - gains Curse
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Curse
+SM.SM - gains Province
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Curse, Upgrade, Upgrade
+SM.SM - shuffles deck
+SM.SM - draws Upgrade, Upgrade
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Grand Market
+Stef - draws Province
+Stef - plays Upgrade
+Stef - draws Upgrade
+Stef - trashes Upgrade
+Stef - gains Grand Market
+Stef - plays Upgrade
+Stef - draws Transmute
+Stef - trashes University
+Stef - plays Transmute
+Stef - trashes University
+Stef - gains Duchy
+Stef - buys Curse
+Stef - gains Curse
+Stef - draws Grand Market
+Stef - shuffles deck
+Stef - draws Grand Market, Upgrade, Library, Silk Road
+ 
+------------ Game Over ------------
+Stef - cards: 5 Grand Market, 3 Library, 3 Upgrade, 1 Pillage, 1 University, 1 Transmute, 2 Spoils, 1 Gold, 1 Potion, 2 Estate, 2 Silk Road, 1 Duchy, 1 Province, 1 Curse
+Stef - total victory points: 12
+Stef - turns: 21
+ 
+SM.SM - cards: 5 Upgrade, 5 Grand Market, 4 University, 1 Library, 1 Pillage, 4 Silver, 2 Spoils, 1 Potion, 2 Province, 1 Estate, 1 Silk Road, 4 Curse
+SM.SM - total victory points: 10
+SM.SM - turns: 20
+ 
+1st place: Stef
+2nd place: SM.SM
+ 

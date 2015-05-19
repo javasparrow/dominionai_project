@@ -1,0 +1,878 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Philosopher's Stone, Monument, Noble Brigand, Wandering Minstrel, Apprentice, Bandit Camp, Explorer, Mine, Saboteur, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Monsieur X - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Monument
+Monsieur X - gains Monument
+Monsieur X - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Monument
+Stef - gains Monument
+Stef - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Wandering Minstrel
+Monsieur X - gains Wandering Minstrel
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Wandering Minstrel
+Monsieur X - gains Wandering Minstrel
+Monsieur X - draws Copper, Monument
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Estate, Monument
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Apprentice
+Monsieur X - gains Apprentice
+Monsieur X - draws Copper, Wandering Minstrel, Wandering Minstrel, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Wandering Minstrel, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Estate, Copper, Estate
+Monsieur X - discards: Estate, Copper, Estate
+Monsieur X - plays 4 Copper
+Monsieur X - buys Wandering Minstrel
+Monsieur X - gains Wandering Minstrel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Monument, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Apprentice
+Stef - reveals: Copper, Copper, Silver
+Stef - discards: Copper, Copper, Silver
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Estate
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper, Copper, Monument
+Stef - places Monument on top of deck
+Stef - discards: Copper, Copper
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Monument, Copper, Silver, Copper
+Stef - shuffles deck
+Stef - draws Wandering Minstrel
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 3 Copper
+Monsieur X - buys Apprentice
+Monsieur X - gains Apprentice
+Monsieur X - draws Copper, Estate, Wandering Minstrel, Copper, Wandering Minstrel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Estate
+Stef - reveals: Copper, Apprentice, Wandering Minstrel
+Stef - places Apprentice on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Wandering Minstrel, Apprentice, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Silver
+Monsieur X - reveals: Apprentice, Wandering Minstrel, Estate
+Monsieur X - places Wandering Minstrel on top of deck
+Monsieur X - places Apprentice on top of deck
+Monsieur X - discards Estate
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Apprentice
+Monsieur X - reveals: Wandering Minstrel, Copper, Copper
+Monsieur X - places Wandering Minstrel on top of deck
+Monsieur X - discards: Copper, Copper
+Monsieur X - plays Apprentice
+Monsieur X - trashes Estate
+Monsieur X - draws Wandering Minstrel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Monument
+Monsieur X - reveals: Apprentice, Estate, Copper
+Monsieur X - places Apprentice on top of deck
+Monsieur X - discards: Estate, Copper
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Saboteur
+Monsieur X - gains Saboteur
+Monsieur X - draws Apprentice, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Silver
+Stef - shuffles deck
+Stef - reveals: Copper
+Stef - discards: Copper, Silver, Copper
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Monument, Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 4 Copper
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Saboteur, Estate, Wandering Minstrel, Silver, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Apprentice
+Monsieur X - trashes Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Silver
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Saboteur
+Monsieur X - gains Saboteur
+Monsieur X - draws Wandering Minstrel, Wandering Minstrel, Apprentice, Monument, Saboteur
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Apprentice
+Stef - reveals: Copper, Saboteur, Silver
+Stef - places Saboteur on top of deck
+Stef - discards: Copper, Silver
+Stef - plays Apprentice
+Stef - trashes Estate
+Stef - draws Saboteur, Wandering Minstrel
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Monument
+Stef - places Monument on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Saboteur
+Monsieur X - reveals Copper, Estate, Copper, Wandering Minstrel
+Monsieur X - trashes Wandering Minstrel
+Monsieur X - gains Vagrant
+Monsieur X - discards: Copper, Estate, Copper
+Stef - plays Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals Copper, Saboteur
+Monsieur X - trashes Saboteur
+Monsieur X - gains Silver
+Monsieur X - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Monument, Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver, Saboteur
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Copper, Silver, Copper
+Monsieur X - discards: Copper, Silver, Copper
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Copper, Copper, Estate
+Monsieur X - discards: Copper, Copper, Estate
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Apprentice
+Monsieur X - places Apprentice on top of deck
+Monsieur X - plays Saboteur
+Stef - reveals Copper, Wandering Minstrel
+Stef - trashes Wandering Minstrel
+Stef - gains Vagrant
+Stef - discards Copper
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 2 Copper
+Monsieur X - buys Noble Brigand
+Stef - reveals: Wandering Minstrel, Copper
+Stef - discards: Wandering Minstrel, Copper
+Monsieur X - gains Noble Brigand
+Monsieur X - draws Apprentice
+Monsieur X - shuffles deck
+Monsieur X - draws Wandering Minstrel, Copper, Copper, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Saboteur
+Monsieur X - reveals Copper, Noble Brigand
+Monsieur X - trashes Noble Brigand
+Monsieur X - gains Vagrant
+Monsieur X - discards Copper
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Apprentice, Copper, Silver, Copper, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Saboteur, Apprentice, Silver
+Monsieur X - places Apprentice on top of deck
+Monsieur X - places Saboteur on top of deck
+Monsieur X - discards Silver
+Monsieur X - plays 4 Copper
+Monsieur X - buys Wandering Minstrel
+Monsieur X - gains Wandering Minstrel
+Monsieur X - draws Saboteur, Apprentice, Wandering Minstrel, Vagrant, Monument
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Apprentice
+Stef - trashes Silver
+Stef - draws Wandering Minstrel, Saboteur
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Copper, Saboteur
+Stef - places Saboteur on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - reveals: Vagrant, Copper, Wandering Minstrel
+Stef - places Vagrant on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Saboteur
+Monsieur X - reveals Estate, Copper, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards: Estate, Copper
+Stef - plays Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals Copper, Apprentice
+Monsieur X - trashes Apprentice
+Monsieur X - gains Silver
+Monsieur X - discards Copper
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Wandering Minstrel, Vagrant, Monument, Copper
+Stef - shuffles deck
+Stef - draws Wandering Minstrel
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Wandering Minstrel, Vagrant, Estate
+Monsieur X - places Vagrant on top of deck
+Monsieur X - places Wandering Minstrel on top of deck
+Monsieur X - discards Estate
+Monsieur X - plays Vagrant
+Monsieur X - draws Wandering Minstrel
+Monsieur X - reveals: Vagrant
+Monsieur X - places Vagrant on top of deck
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Copper, Copper, Copper
+Monsieur X - discards: Copper, Copper, Copper
+Monsieur X - plays Apprentice
+Monsieur X - trashes Vagrant
+Monsieur X - draws Copper, Copper
+Monsieur X - plays Saboteur
+Stef - reveals Copper, Copper, Saboteur
+Stef - trashes Saboteur
+Stef - gains Silver
+Stef - discards: Copper, Copper
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 3 Copper
+Monsieur X - buys Saboteur
+Monsieur X - gains Saboteur
+Monsieur X - draws Silver, Wandering Minstrel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Wandering Minstrel
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - reveals: Copper, Copper, Copper
+Stef - discards: Copper, Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Apprentice
+Stef - reveals: Wandering Minstrel, Saboteur, Silver
+Stef - places Wandering Minstrel on top of deck
+Stef - places Saboteur on top of deck
+Stef - discards Silver
+Stef - plays Vagrant
+Stef - draws Saboteur
+Stef - reveals: Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - plays Saboteur
+Monsieur X - reveals Copper, Copper, Estate, Saboteur
+Monsieur X - trashes Saboteur
+Monsieur X - gains Silver
+Monsieur X - discards: Copper, Copper, Estate
+Stef - plays Saboteur
+Monsieur X - reveals Apprentice
+Monsieur X - trashes Apprentice
+Monsieur X - gains Silver
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Wandering Minstrel, Copper
+Stef - shuffles deck
+Stef - draws Apprentice, Saboteur, Silver
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Monument, Vagrant, Copper
+Monsieur X - places Monument on top of deck
+Monsieur X - places Vagrant on top of deck
+Monsieur X - discards Copper
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Monument, Wandering Minstrel, Silver
+Monsieur X - places Monument on top of deck
+Monsieur X - places Wandering Minstrel on top of deck
+Monsieur X - discards Silver
+Monsieur X - plays Vagrant
+Monsieur X - draws Wandering Minstrel
+Monsieur X - reveals: Monument
+Monsieur X - places Monument on top of deck
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Monument
+Monsieur X - reveals: Copper, Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals: Copper
+Monsieur X - places Saboteur on top of deck
+Monsieur X - discards: Copper, Copper
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Saboteur
+Monsieur X - gains Saboteur
+Monsieur X - draws Saboteur, Copper, Estate, Silver, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Vagrant, Copper
+Stef - places Vagrant on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Vagrant
+Stef - reveals: Silver, Monument, Saboteur
+Stef - places Monument on top of deck
+Stef - places Saboteur on top of deck
+Stef - discards Silver
+Stef - plays Apprentice
+Stef - trashes Vagrant
+Stef - draws Saboteur, Monument
+Stef - plays Saboteur
+Monsieur X - reveals Silver
+Monsieur X - trashes Silver
+Stef - plays Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals Copper, Wandering Minstrel
+Monsieur X - trashes Wandering Minstrel
+Monsieur X - gains Vagrant
+Monsieur X - discards Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 1 Copper, 1 Silver
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Copper, Wandering Minstrel, Silver, Copper, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Saboteur
+Stef - shuffles deck
+Stef - reveals Copper, Copper, Silver
+Stef - trashes Silver
+Stef - discards: Copper, Copper
+Monsieur X - plays 2 Silver, 1 Copper
+Monsieur X - buys Saboteur
+Monsieur X - gains Saboteur
+Monsieur X - draws Monument, Vagrant, Copper, Wandering Minstrel, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper, Wandering Minstrel, Saboteur
+Stef - places Wandering Minstrel on top of deck
+Stef - places Saboteur on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - reveals: Wandering Minstrel, Saboteur, Silver
+Stef - places Wandering Minstrel on top of deck
+Stef - places Saboteur on top of deck
+Stef - discards Silver
+Stef - plays Saboteur
+Monsieur X - reveals Wandering Minstrel
+Monsieur X - trashes Wandering Minstrel
+Monsieur X - gains Vagrant
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Saboteur
+Stef - gains Saboteur
+Stef - draws Saboteur, Wandering Minstrel, Copper, Monument, Saboteur
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Silver
+Monsieur X - reveals: Copper, Copper, Copper
+Monsieur X - discards: Copper, Copper, Copper
+Monsieur X - plays Vagrant
+Monsieur X - draws Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals: Saboteur
+Monsieur X - places Saboteur on top of deck
+Monsieur X - plays Saboteur
+Stef - reveals Apprentice
+Stef - trashes Apprentice
+Stef - gains Silver
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Bandit Camp
+Monsieur X - gains Bandit Camp
+Monsieur X - draws Saboteur, Copper, Copper, Vagrant, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Saboteur
+Stef - reveals: Copper, Wandering Minstrel, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Saboteur
+Monsieur X - reveals Saboteur
+Monsieur X - trashes Saboteur
+Monsieur X - gains Silver
+Stef - plays Saboteur
+Monsieur X - reveals Estate, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards Estate
+Stef - draws Wandering Minstrel, Wandering Minstrel, Copper, Saboteur, Copper
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Saboteur
+Stef - reveals Silver
+Stef - trashes Silver
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Bandit Camp
+Monsieur X - gains Bandit Camp
+Monsieur X - draws Copper, Vagrant, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Wandering Minstrel, Silver
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Silver
+Stef - reveals: Silver, Copper, Copper
+Stef - discards: Silver, Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Monument, Wandering Minstrel, Saboteur
+Stef - places Monument on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - places Saboteur on top of deck
+Stef - plays Saboteur
+Monsieur X - reveals Copper, Vagrant, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards: Copper, Vagrant
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Wandering Minstrel
+Stef - gains Wandering Minstrel
+Stef - draws Saboteur, Wandering Minstrel, Monument, Saboteur, Copper
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Monument
+Monsieur X - reveals: Copper, Estate, Copper
+Monsieur X - discards: Copper, Estate, Copper
+Monsieur X - plays Vagrant
+Monsieur X - draws Saboteur
+Monsieur X - reveals: Vagrant
+Monsieur X - places Vagrant on top of deck
+Monsieur X - plays Saboteur
+Stef - reveals Copper, Copper, Copper, Silver
+Stef - trashes Silver
+Stef - discards: Copper, Copper, Copper
+Monsieur X - plays Monument
+Monsieur X - receives 1 victory point chips
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Bandit Camp
+Monsieur X - gains Bandit Camp
+Monsieur X - draws Vagrant, Bandit Camp, Copper, Saboteur, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - shuffles deck
+Stef - reveals: Silver, Copper, Copper
+Stef - discards: Silver, Copper, Copper
+Stef - plays Saboteur
+Monsieur X - reveals Bandit Camp
+Monsieur X - trashes Bandit Camp
+Monsieur X - gains Estate
+Stef - plays Saboteur
+Monsieur X - reveals Silver
+Monsieur X - trashes Silver
+Stef - draws Wandering Minstrel, Wandering Minstrel, Saboteur, Copper, Copper
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Bandit Camp
+Monsieur X - shuffles deck
+Monsieur X - draws Bandit Camp
+Monsieur X - gains Spoils
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Silver
+Monsieur X - places Silver on top of deck
+Monsieur X - plays Bandit Camp
+Monsieur X - draws Silver
+Monsieur X - gains Spoils
+Monsieur X - plays Saboteur
+Stef - reveals Copper, Copper, Wandering Minstrel
+Stef - trashes Wandering Minstrel
+Stef - discards: Copper, Copper
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper, Wandering Minstrel, Estate, Estate, Copper
+ 
+---------- Stef: turn 18 ----------
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Saboteur
+Stef - reveals: Saboteur, Copper, Saboteur
+Stef - places Saboteur on top of deck
+Stef - places Saboteur on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - reveals: Saboteur, Wandering Minstrel, Copper
+Stef - places Saboteur on top of deck
+Stef - places Wandering Minstrel on top of deck
+Stef - discards Copper
+Stef - plays Saboteur
+Monsieur X - reveals Copper, Vagrant, Copper, Saboteur
+Monsieur X - trashes Saboteur
+Monsieur X - gains Estate
+Monsieur X - discards: Copper, Vagrant, Copper
+Stef - plays Saboteur
+Monsieur X - reveals Monument
+Monsieur X - trashes Monument
+Monsieur X - gains Estate
+Stef - plays Saboteur
+Monsieur X - shuffles deck
+Monsieur X - reveals Vagrant, Copper, Copper, Vagrant, Copper, Saboteur
+Monsieur X - trashes Saboteur
+Monsieur X - gains Estate
+Monsieur X - discards: Vagrant, Copper, Copper, Vagrant, Copper
+Stef - draws Wandering Minstrel, Saboteur, Copper, Silver, Monument
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Silver
+Monsieur X - reveals: Copper, Estate, Estate
+Monsieur X - discards: Copper, Estate, Estate
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Wandering Minstrel
+Monsieur X - gains Wandering Minstrel
+Monsieur X - draws Spoils, Vagrant, Spoils, Copper, Duchy
+ 
+---------- Stef: turn 19 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper, Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Apprentice
+Stef - gains Apprentice
+Stef - draws Saboteur, Saboteur, Copper, Saboteur, Wandering Minstrel
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Vagrant
+Monsieur X - draws Bandit Camp
+Monsieur X - reveals: Bandit Camp
+Monsieur X - places Bandit Camp on top of deck
+Monsieur X - plays Bandit Camp
+Monsieur X - draws Bandit Camp
+Monsieur X - gains Spoils
+Monsieur X - plays Bandit Camp
+Monsieur X - shuffles deck
+Monsieur X - draws Estate
+Monsieur X - gains Spoils
+Monsieur X - plays 1 Copper
+Monsieur X - plays Spoils
+Monsieur X - plays Spoils
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Wandering Minstrel, Estate, Vagrant, Copper, Estate
+ 
+---------- Stef: turn 20 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Wandering Minstrel
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Apprentice, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - places Apprentice on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Apprentice
+Stef - reveals: Wandering Minstrel, Copper, Copper
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Apprentice
+Stef - trashes Saboteur
+Stef - draws Wandering Minstrel, Saboteur, Copper, Copper, Silver
+Stef - plays Wandering Minstrel
+Stef - draws Monument
+Stef - reveals: Copper
+Stef - shuffles deck
+Stef - reveals: Copper, Copper
+Stef - discards: Copper, Copper, Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Explorer
+Stef - gains Explorer
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Wandering Minstrel, Copper, Copper, Silver
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Estate
+Monsieur X - reveals: Copper, Estate, Vagrant
+Monsieur X - places Vagrant on top of deck
+Monsieur X - discards: Copper, Estate
+Monsieur X - plays Vagrant
+Monsieur X - draws Vagrant
+Monsieur X - reveals: Copper
+Monsieur X - places Copper on top of deck
+Monsieur X - plays Vagrant
+Monsieur X - draws Copper
+Monsieur X - reveals: Silver
+Monsieur X - places Silver on top of deck
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Silver, Spoils, Wandering Minstrel, Copper, Copper
+ 
+---------- Stef: turn 21 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Explorer
+Stef - reveals: Saboteur, Apprentice, Copper
+Stef - places Saboteur on top of deck
+Stef - places Apprentice on top of deck
+Stef - discards Copper
+Stef - plays Explorer
+Stef - gains Silver
+Stef - plays 3 Copper, 2 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Apprentice, Saboteur, Saboteur, Copper, Wandering Minstrel
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - reveals: Copper, Wandering Minstrel, Vagrant
+Monsieur X - places Vagrant on top of deck
+Monsieur X - places Wandering Minstrel on top of deck
+Monsieur X - discards Copper
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - plays Spoils
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Wandering Minstrel, Vagrant, Estate, Copper, Duchy
+ 
+---------- Stef: turn 22 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Saboteur
+Stef - reveals: Copper, Copper, Wandering Minstrel
+Stef - places Wandering Minstrel on top of deck
+Stef - discards: Copper, Copper
+Stef - plays Apprentice
+Stef - trashes Saboteur
+Stef - draws Wandering Minstrel, Monument
+Stef - shuffles deck
+Stef - draws Copper, Copper, Copper
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Duchy, Copper, Explorer
+Stef - places Explorer on top of deck
+Stef - discards: Duchy, Copper
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 5 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Explorer, Wandering Minstrel, Silver, Silver, Copper
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Duchy
+Monsieur X - reveals: Copper, Estate, Estate
+Monsieur X - discards: Copper, Estate, Estate
+Monsieur X - plays Vagrant
+Monsieur X - draws Bandit Camp
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays Bandit Camp
+Monsieur X - draws Spoils
+Monsieur X - gains Spoils
+Monsieur X - plays 1 Copper
+Monsieur X - plays Spoils
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Estate, Bandit Camp, Vagrant, Vagrant, Estate
+ 
+---------- Stef: turn 23 ----------
+Stef - plays Wandering Minstrel
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals: Copper, Copper, Duchy
+Stef - discards: Copper, Copper, Duchy
+Stef - plays Explorer
+Stef - gains Silver
+Stef - plays 3 Silver, 2 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - draws Monument, Saboteur, Wandering Minstrel, Wandering Minstrel, Duchy
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Bandit Camp
+Monsieur X - draws Copper
+Monsieur X - gains Spoils
+Monsieur X - plays Vagrant
+Monsieur X - shuffles deck
+Monsieur X - draws Wandering Minstrel
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays Wandering Minstrel
+Monsieur X - draws Copper
+Monsieur X - reveals: Copper, Estate, Bandit Camp
+Monsieur X - places Bandit Camp on top of deck
+Monsieur X - discards: Copper, Estate
+Monsieur X - plays Vagrant
+Monsieur X - draws Bandit Camp
+Monsieur X - reveals: Estate
+Monsieur X - places Estate in hand
+Monsieur X - plays Bandit Camp
+Monsieur X - draws Estate
+Monsieur X - gains Spoils
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Wandering Minstrel, Copper, Copper, Spoils, Silver
+ 
+---------- Stef: turn 24 ----------
+Stef - plays Wandering Minstrel
+Stef - draws Copper
+Stef - reveals: Copper, Saboteur, Apprentice
+Stef - places Saboteur on top of deck
+Stef - places Apprentice on top of deck
+Stef - discards Copper
+Stef - plays Wandering Minstrel
+Stef - draws Apprentice
+Stef - reveals: Saboteur, Copper
+Stef - shuffles deck
+Stef - reveals: Explorer
+Stef - places Saboteur on top of deck
+Stef - places Explorer on top of deck
+Stef - discards Copper
+Stef - plays Apprentice
+Stef - trashes Saboteur
+Stef - draws Explorer, Saboteur, Copper, Copper, Copper
+Stef - plays Saboteur
+Monsieur X - reveals Duchy
+Monsieur X - trashes Duchy
+Monsieur X - gains Estate
+Stef - plays Explorer
+Stef - gains Silver
+Stef - plays Monument
+Stef - receives 1 victory point chips
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Province
+Stef - gains Province
+Stef - draws Wandering Minstrel, Copper, Silver, Silver, Silver
+ 
+------------ Game Over ------------
+Stef - cards: 3 Wandering Minstrel, 1 Apprentice, 1 Saboteur, 1 Explorer, 1 Monument, 7 Copper, 4 Silver, 2 Province, 2 Duchy
+Stef - victory point chips: 9
+Stef - total victory points: 27
+Stef - turns: 24
+ 
+Monsieur X - cards: 3 Vagrant, 2 Wandering Minstrel, 2 Bandit Camp, 7 Copper, 3 Spoils, 1 Silver, 9 Estate, 1 Duchy, 1 Province
+Monsieur X - victory point chips: 8
+Monsieur X - total victory points: 26
+Monsieur X - turns: 24
+ 
+1st place: Stef
+2nd place: Monsieur X
+ 

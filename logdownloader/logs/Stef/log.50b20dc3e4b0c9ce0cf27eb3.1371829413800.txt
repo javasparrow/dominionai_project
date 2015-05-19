@@ -1,0 +1,594 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Lighthouse, Vagrant, Chancellor, Great Hall, Lookout, Familiar, Ironmonger, Wandering Minstrel, Counterfeit, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theParty - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+theParty - shuffles deck
+Stef - draws Overgrown Estate, Copper, Copper, Necropolis, Hovel
+theParty - draws Hovel, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- theParty: turn 1 ----------
+theParty - plays 2 Copper
+theParty - buys Chapel
+theParty - gains Chapel
+theParty - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Counterfeit
+Stef - gains Counterfeit
+Stef - shuffles deck
+Stef - draws Necropolis, Vagrant, Copper, Copper, Counterfeit
+ 
+---------- theParty: turn 2 ----------
+theParty - plays 5 Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - shuffles deck
+theParty - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Vagrant
+Stef - draws Overgrown Estate
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- theParty: turn 3 ----------
+theParty - plays 4 Copper
+theParty - buys Ironmonger
+theParty - gains Ironmonger
+theParty - draws Copper, Chapel, Overgrown Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Great Hall
+Stef - trashes Hovel
+Stef - gains Great Hall
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Necropolis, Copper, Great Hall, Ironmonger
+ 
+---------- theParty: turn 4 ----------
+theParty - plays Chapel
+theParty - trashes Copper, Overgrown Estate, Copper, Copper
+theParty - draws Hovel
+theParty - draws Ironmonger
+theParty - shuffles deck
+theParty - draws Chapel, Necropolis, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Ironmonger
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays 4 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Counterfeit, Overgrown Estate, Copper
+Stef - shuffles deck
+Stef - draws Ironmonger, Necropolis
+ 
+---------- theParty: turn 5 ----------
+theParty - plays Ironmonger
+theParty - draws Hovel
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays Chapel
+theParty - trashes Necropolis, Hovel
+theParty - plays 2 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Copper, Ironmonger
+theParty - shuffles deck
+theParty - draws Copper, Silver, Chapel
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Great Hall
+Stef - places Great Hall on top of deck
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Ironmonger, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- theParty: turn 6 ----------
+theParty - plays Ironmonger
+theParty - draws Copper
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays Chapel
+theParty - trashes Copper, Copper, Copper
+theParty - plays 1 Silver
+theParty - buys Silver
+theParty - gains Silver
+theParty - draws Ironmonger
+theParty - shuffles deck
+theParty - draws Copper, Silver, Ironmonger, Chapel
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Ironmonger
+Stef - draws Vagrant
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Overgrown Estate
+Stef - places Overgrown Estate in hand
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays 5 Copper
+Stef - buys Ironmonger
+Stef - gains Ironmonger
+Stef - draws Ironmonger, Counterfeit, Necropolis, Great Hall, Great Hall
+ 
+---------- theParty: turn 7 ----------
+theParty - plays Ironmonger
+theParty - draws Silver
+theParty - plays 2 Silver, 1 Copper
+theParty - buys Silver
+theParty - gains Silver
+theParty - shuffles deck
+theParty - draws Silver, Ironmonger, Silver, Chapel, Ironmonger
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Ironmonger
+Stef - shuffles deck
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Overgrown Estate
+Stef - discards Overgrown Estate
+Stef - draws Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - shuffles deck
+Stef - reveals: Overgrown Estate
+Stef - discards Overgrown Estate
+Stef - draws Copper
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 4 Copper
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - shuffles deck
+Stef - draws Ironmonger, Vagrant, Vagrant, Great Hall, Ironmonger
+ 
+---------- theParty: turn 8 ----------
+theParty - plays Ironmonger
+theParty - draws Silver
+theParty - reveals: Copper
+theParty - discards Copper
+theParty - plays 3 Silver
+theParty - buys Gold
+theParty - gains Gold
+theParty - shuffles deck
+theParty - draws Ironmonger, Gold, Silver, Silver, Chapel
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Ironmonger
+Stef - draws Ironmonger
+Stef - reveals: Necropolis
+Stef - discards Necropolis
+Stef - plays Ironmonger
+Stef - draws Gold
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - discards Vagrant
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Overgrown Estate
+Stef - places Overgrown Estate in hand
+Stef - plays Vagrant
+Stef - draws Great Hall
+Stef - reveals: Copper
+Stef - places Copper on top of deck
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Counterfeit
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 1 Gold
+Stef - buys Gold
+Stef - gains Gold
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - shuffles deck
+Stef - draws Vagrant, Necropolis, Great Hall, Ironmonger, Great Hall
+ 
+---------- theParty: turn 9 ----------
+theParty - plays Ironmonger
+theParty - draws Ironmonger
+theParty - reveals: Silver
+theParty - discards Silver
+theParty - plays Ironmonger
+theParty - draws Copper
+theParty - shuffles deck
+theParty - reveals: Silver
+theParty - discards Silver
+theParty - plays Chapel
+theParty - trashes Copper
+theParty - plays 2 Silver, 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - shuffles deck
+theParty - draws Chapel, Silver, Gold, Province, Ironmonger
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Great Hall
+Stef - reveals: Copper
+Stef - discards Copper
+Stef - plays Vagrant
+Stef - draws Counterfeit
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Great Hall
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Overgrown Estate
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Copper
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays Copper
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - buys Great Hall
+Stef - gains Great Hall
+Stef - draws Gold, Gold, Vagrant
+Stef - shuffles deck
+Stef - draws Counterfeit, Copper
+ 
+---------- theParty: turn 10 ----------
+theParty - plays Ironmonger
+theParty - draws Silver
+theParty - reveals: Silver
+theParty - discards Silver
+theParty - plays 2 Silver, 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - draws Ironmonger
+theParty - shuffles deck
+theParty - draws Silver, Ironmonger, Silver, Gold
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Vagrant
+Stef - draws Great Hall
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Copper
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Necropolis
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Great Hall
+Stef - reveals: Ironmonger
+Stef - discards Ironmonger
+Stef - plays Great Hall
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Overgrown Estate
+Stef - places Overgrown Estate in hand
+Stef - plays Vagrant
+Stef - shuffles deck
+Stef - draws Great Hall
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Counterfeit
+Stef - plays Copper
+Stef - plays Copper
+Stef - trashes Copper
+Stef - plays 2 Gold, 1 Copper
+Stef - buys Province
+Stef - gains Province
+Stef - buys Vagrant
+Stef - gains Vagrant
+Stef - draws Ironmonger
+Stef - shuffles deck
+Stef - draws Province, Vagrant, Copper, Gold
+ 
+---------- theParty: turn 11 ----------
+theParty - plays Ironmonger
+theParty - draws Province
+theParty - reveals: Province
+theParty - discards Province
+theParty - draws Silver
+theParty - plays Ironmonger
+theParty - draws Chapel
+theParty - shuffles deck
+theParty - reveals: Province
+theParty - discards Province
+theParty - shuffles deck
+theParty - draws Province
+theParty - plays 3 Silver, 1 Gold
+theParty - buys Province
+theParty - gains Province
+theParty - shuffles deck
+theParty - draws Province, Ironmonger, Province, Silver, Silver
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Ironmonger
+Stef - draws Necropolis
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Vagrant
+Stef - draws Vagrant
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Ironmonger
+Stef - draws Overgrown Estate
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Gold
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Great Hall
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Great Hall
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Counterfeit
+Stef - shuffles deck
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - shuffles deck
+Stef - draws Great Hall
+Stef - plays 2 Gold, 1 Copper
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Great Hall, Vagrant, Gold, Overgrown Estate, Gold
+ 
+---------- theParty: turn 12 ----------
+theParty - plays Ironmonger
+theParty - draws Province
+theParty - reveals: Chapel
+theParty - discards Chapel
+theParty - plays 2 Silver
+theParty - buys Great Hall
+theParty - gains Great Hall
+theParty - draws Ironmonger, Gold, Silver
+theParty - shuffles deck
+theParty - draws Province, Province
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Necropolis
+Stef - places Necropolis in hand
+Stef - plays Ironmonger
+Stef - draws Great Hall
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Ironmonger
+Stef - draws Vagrant
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - draws Counterfeit
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays Ironmonger
+Stef - draws Vagrant
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Province
+Stef - plays Great Hall
+Stef - draws Province
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Vagrant
+Stef - places Vagrant on top of deck
+Stef - plays 2 Gold, 1 Copper
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - draws Vagrant
+Stef - shuffles deck
+Stef - draws Great Hall, Gold, Vagrant, Copper
+ 
+---------- theParty: turn 13 ----------
+theParty - plays Ironmonger
+theParty - draws Silver
+theParty - reveals: Ironmonger
+theParty - places Ironmonger on top of deck
+theParty - plays 2 Silver, 1 Gold
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Ironmonger, Great Hall, Chapel, Province, Silver
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Vagrant
+Stef - draws Necropolis
+Stef - reveals: Great Hall
+Stef - places Great Hall in hand
+Stef - plays Ironmonger
+Stef - draws Vagrant
+Stef - reveals: Overgrown Estate
+Stef - discards Overgrown Estate
+Stef - draws Great Hall
+Stef - plays Great Hall
+Stef - draws Ironmonger
+Stef - plays Great Hall
+Stef - draws Province
+Stef - plays Ironmonger
+Stef - draws Province
+Stef - reveals: Province
+Stef - discards Province
+Stef - draws Vagrant
+Stef - plays Vagrant
+Stef - draws Great Hall
+Stef - reveals: Gold
+Stef - places Gold on top of deck
+Stef - plays Great Hall
+Stef - draws Gold
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Counterfeit
+Stef - places Counterfeit on top of deck
+Stef - plays Great Hall
+Stef - draws Counterfeit
+Stef - plays 2 Gold, 1 Copper
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Gold, Vagrant, Vagrant, Great Hall, Great Hall
+ 
+---------- theParty: turn 14 ----------
+theParty - plays Ironmonger
+theParty - shuffles deck
+theParty - draws Silver
+theParty - reveals: Duchy
+theParty - discards Duchy
+theParty - draws Gold
+theParty - plays Great Hall
+theParty - draws Province
+theParty - plays 2 Silver, 1 Gold
+theParty - buys Duchy
+theParty - gains Duchy
+theParty - draws Ironmonger, Silver, Province
+theParty - shuffles deck
+theParty - draws Great Hall, Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Vagrant
+Stef - draws Copper
+Stef - reveals: Ironmonger
+Stef - places Ironmonger on top of deck
+Stef - plays Vagrant
+Stef - draws Ironmonger
+Stef - reveals: Overgrown Estate
+Stef - places Overgrown Estate in hand
+Stef - plays Ironmonger
+Stef - draws Necropolis
+Stef - reveals: Great Hall
+Stef - discards Great Hall
+Stef - draws Gold
+Stef - plays Great Hall
+Stef - draws Province
+Stef - plays Great Hall
+Stef - draws Counterfeit
+Stef - plays 2 Gold, 1 Copper
+Stef - plays Counterfeit
+Stef - buys Province
+Stef - gains Province
+Stef - draws Province, Vagrant, Great Hall, Province, Ironmonger
+ 
+------------ Game Over ------------
+Stef - cards: 5 Great Hall, 4 Vagrant, 3 Ironmonger, 1 Necropolis, 2 Gold, 1 Copper, 1 Counterfeit, 5 Province, 1 Overgrown Estate
+Stef - total victory points: 35
+Stef - turns: 15
+ 
+theParty - cards: 2 Ironmonger, 1 Great Hall, 1 Chapel, 3 Silver, 1 Gold, 3 Province, 2 Duchy
+theParty - total victory points: 25
+theParty - turns: 14
+ 
+1st place: Stef
+2nd place: theParty
+ 

@@ -1,0 +1,337 @@
+------------ Game Setup ------------
+Supply cards: Swindler, Advisor, Moneylender, Taxman, Trader, Bandit Camp, Counting House, Explorer, Laboratory, Rebuild, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Stef - shuffles deck
+Eevee - draws Estate, Copper, Copper, Estate, Copper
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 3 Copper
+Eevee - buys Swindler
+Eevee - gains Swindler
+Eevee - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 5 Copper
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 4 Copper
+Eevee - buys Swindler
+Eevee - gains Swindler
+Eevee - shuffles deck
+Eevee - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - shuffles deck
+Stef - draws Copper, Copper, Rebuild, Copper, Estate
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Swindler, Swindler, Estate, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - reveals Copper, Copper, Estate
+Stef - discards: Copper, Copper
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Copper, Copper, Estate
+Stef - shuffles deck
+Stef - draws Estate, Silver
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Eevee - plays 2 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Copper
+Eevee - shuffles deck
+Eevee - draws Estate, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Trader
+Stef - gains Trader
+Stef - draws Copper, Copper, Duchy, Copper, Rebuild
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays 4 Copper
+Eevee - buys Swindler
+Eevee - gains Swindler
+Eevee - draws Estate, Estate, Copper, Copper, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Rebuild
+Stef - names Duchy
+Stef - shuffles deck
+Stef - reveals Copper, Curse, Estate
+Stef - discards: Copper, Curse
+Stef - trashes Estate
+Stef - gains Duchy
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - draws Estate, Silver, Copper, Copper, Trader
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Swindler, Copper, Swindler, Silver
+Eevee - shuffles deck
+Eevee - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Trader
+Stef - trashes Estate
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Trader
+Stef - gains Trader
+Stef - shuffles deck
+Stef - draws Silver, Copper, Duchy, Silver, Duchy
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Rebuild
+Eevee - gains Rebuild
+Eevee - draws Swindler, Estate, Silver, Copper, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - draws Rebuild, Curse, Trader, Copper, Trader
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Silver
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Rebuild
+Eevee - gains Rebuild
+Eevee - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - shuffles deck
+Stef - reveals Silver, Copper, Copper, Copper, Rebuild, Duchy
+Stef - discards: Silver, Copper, Copper, Copper, Rebuild
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays Trader
+Stef - trashes Trader
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - draws Curse, Silver, Silver, Copper, Duchy
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Estate
+Eevee - shuffles deck
+Eevee - draws Rebuild, Swindler, Copper, Swindler
+ 
+---------- Stef: turn 9 ----------
+Stef - plays 2 Silver, 1 Copper
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Silver
+Stef - shuffles deck
+Stef - draws Duchy, Silver, Rebuild, Silver
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Rebuild
+Eevee - names Duchy
+Eevee - reveals Copper, Swindler, Rebuild, Copper, Copper, Copper, Duchy, Estate
+Eevee - discards: Copper, Swindler, Rebuild, Copper, Copper, Copper, Duchy
+Eevee - trashes Estate
+Eevee - gains Duchy
+Eevee - plays Swindler
+Stef - reveals Silver
+Stef - trashes Silver
+Stef - gains Silver
+Eevee - plays 1 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Estate, Silver, Silver, Silver, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Silver, Curse, Province, Rebuild, Duchy
+Stef - discards: Silver, Curse, Province, Rebuild
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 3 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Trader, Silver, Copper, Copper
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays 3 Silver, 1 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Copper
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Silver, Silver
+ 
+---------- Stef: turn 11 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Duchy
+Stef - gains Duchy
+Stef - draws Copper, Curse, Copper, Silver, Silver
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays 3 Copper, 2 Silver
+Eevee - buys Rebuild
+Eevee - gains Rebuild
+Eevee - draws Estate, Duchy, Swindler, Swindler, Duchy
+ 
+---------- Stef: turn 12 ----------
+Stef - plays 2 Copper, 2 Silver
+Stef - buys Rebuild
+Stef - gains Rebuild
+Stef - shuffles deck
+Stef - draws Silver, Trader, Rebuild, Copper, Province
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Swindler
+Stef - reveals Province
+Stef - trashes Province
+Stef - gains Province
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Swindler, Rebuild, Copper, Estate, Rebuild
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Rebuild
+Stef - names Province
+Stef - reveals Silver, Copper, Silver, Duchy
+Stef - discards: Silver, Copper, Silver
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 1 Silver, 1 Copper
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Duchy, Silver, Silver, Rebuild, Silver
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays Rebuild
+Eevee - names Estate
+Eevee - reveals Silver, Copper, Copper, Silver, Copper, Duchy
+Eevee - discards: Silver, Copper, Copper, Silver, Copper
+Eevee - trashes Duchy
+Eevee - gains Province
+Eevee - plays Rebuild
+Eevee - names Province
+Eevee - shuffles deck
+Eevee - reveals Swindler, Silver, Copper, Rebuild, Silver, Copper, Silver, Copper, Estate
+Eevee - discards: Swindler, Silver, Copper, Rebuild, Silver, Copper, Silver, Copper
+Eevee - trashes Estate
+Eevee - gains Estate
+Eevee - plays Swindler
+Stef - reveals Curse
+Stef - trashes Curse
+Stef - gains Curse
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Estate, Copper, Duchy, Province, Copper
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - reveals Silver, Silver, Curse, Copper, Copper, Copper, Duchy
+Stef - discards: Silver, Silver, Curse, Copper, Copper, Copper
+Stef - trashes Duchy
+Stef - gains Province
+Stef - plays 3 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Rebuild
+Stef - shuffles deck
+Stef - draws Silver, Silver, Duchy, Trader
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays 2 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Silver, Swindler, Duchy, Copper
+Eevee - shuffles deck
+Eevee - draws Silver
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - reveals Silver, Province
+Stef - discards Silver
+Stef - trashes Province
+Stef - gains Province
+Stef - plays Trader
+Stef - trashes Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - gains Silver
+Stef - plays 1 Silver
+Stef - buys Estate
+Stef - gains Estate
+Stef - draws Province, Rebuild, Estate, Province, Silver
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays Swindler
+Stef - reveals Copper
+Stef - trashes Copper
+Stef - gains Curse
+Eevee - plays 2 Silver, 1 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Silver, Swindler, Silver, Rebuild, Copper
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Rebuild
+Stef - names Estate
+Stef - reveals Copper, Silver, Curse, Rebuild, Silver, Silver, Copper, Estate, Province
+Stef - discards: Copper, Silver, Curse, Rebuild, Silver, Silver, Copper, Estate
+Stef - trashes Province
+Stef - gains Province
+Stef - draws Silver, Curse, Copper, Copper
+Stef - shuffles deck
+Stef - draws Estate
+ 
+------------ Game Over ------------
+Stef - cards: 3 Rebuild, 10 Silver, 1 Trader, 4 Copper, 4 Province, 3 Estate, 1 Duchy, 3 Curse
+Stef - total victory points: 27
+Stef - turns: 16
+ 
+Eevee - cards: 3 Swindler, 3 Rebuild, 7 Copper, 4 Silver, 6 Estate, 2 Duchy, 1 Province
+Eevee - total victory points: 18
+Eevee - turns: 16
+ 
+1st place: Stef
+2nd place: Eevee
+ 

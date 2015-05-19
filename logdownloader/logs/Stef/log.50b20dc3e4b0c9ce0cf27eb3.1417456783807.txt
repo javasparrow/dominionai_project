@@ -1,0 +1,412 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Fishing Village, Storeroom, Conspirator, Horse Traders, Monument, Duke, Explorer, Margrave, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+new_tomitake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+new_tomitake - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+new_tomitake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- new_tomitake: turn 1 ----------
+new_tomitake - plays 5 Copper
+new_tomitake - buys Margrave
+new_tomitake - gains Margrave
+new_tomitake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 2 ----------
+new_tomitake - plays 2 Copper
+new_tomitake - buys Native Village
+new_tomitake - gains Native Village
+new_tomitake - shuffles deck
+new_tomitake - draws Estate, Copper, Copper, Estate, Margrave
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 4 Copper
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - draws Copper, Horse Traders, Estate, Copper, Copper
+ 
+---------- new_tomitake: turn 3 ----------
+new_tomitake - plays Margrave
+Stef - reveals reaction Horse Traders
+new_tomitake - draws Copper, Copper, Copper
+Stef - draws Fishing Village
+Stef - discards Estate
+Stef - discards Copper
+new_tomitake - plays 5 Copper
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - buys Native Village
+new_tomitake - gains Native Village
+new_tomitake - draws Native Village, Estate, Copper, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Margrave
+ 
+---------- Stef: turn 4 ----------
+Stef - duration Horse Traders
+Stef - draws Estate
+Stef - plays Fishing Village
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Copper
+Stef - plays 1 Copper
+Stef - buys Margrave
+Stef - gains Margrave
+Stef - shuffles deck
+Stef - draws Copper, Copper, Margrave, Copper, Estate
+ 
+---------- new_tomitake: turn 4 ----------
+new_tomitake - plays Native Village
+new_tomitake - sets aside Estate
+new_tomitake - plays Margrave
+new_tomitake - draws Copper, Estate, Copper
+Stef - draws Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+new_tomitake - plays 4 Copper
+new_tomitake - buys Horse Traders
+new_tomitake - gains Horse Traders
+new_tomitake - draws Copper, Fishing Village, Native Village, Copper, Copper
+ 
+---------- Stef: turn 5 ----------
+Stef - duration Fishing Village
+Stef - plays Margrave
+Stef - draws Horse Traders, Copper, Conspirator
+new_tomitake - shuffles deck
+new_tomitake - draws Margrave
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+Stef - plays Horse Traders
+Stef - discards Conspirator
+Stef - discards Copper
+Stef - plays 2 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate, Copper, Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper
+ 
+---------- new_tomitake: turn 5 ----------
+new_tomitake - plays Native Village
+new_tomitake - sets aside Copper
+new_tomitake - plays Fishing Village
+new_tomitake - plays Margrave
+new_tomitake - draws Copper, Estate, Horse Traders
+Stef - draws Conspirator
+Stef - discards Estate
+Stef - discards Copper
+Stef - discards Copper
+new_tomitake - plays Horse Traders
+new_tomitake - discards Estate
+new_tomitake - discards Copper
+new_tomitake - buys Conspirator
+new_tomitake - gains Conspirator
+new_tomitake - draws Native Village, Copper, Estate, Copper
+new_tomitake - shuffles deck
+new_tomitake - draws Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Conspirator
+Stef - plays Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - draws Estate, Copper, Copper, Horse Traders, Estate
+ 
+---------- new_tomitake: turn 6 ----------
+new_tomitake - duration Fishing Village
+new_tomitake - plays Native Village
+new_tomitake - sets aside Margrave
+new_tomitake - plays 3 Copper
+new_tomitake - buys Conspirator
+new_tomitake - gains Conspirator
+new_tomitake - draws Estate, Horse Traders, Native Village, Copper, Conspirator
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Margrave, Torturer, Fishing Village
+Stef - shuffles deck
+Stef - draws Horse Traders
+ 
+---------- new_tomitake: turn 7 ----------
+new_tomitake - plays Native Village
+new_tomitake - sets aside Copper
+new_tomitake - plays Horse Traders
+new_tomitake - discards Estate
+new_tomitake - discards Copper
+new_tomitake - plays Conspirator
+new_tomitake - draws Copper
+new_tomitake - plays Copper
+new_tomitake - buys Torturer
+new_tomitake - gains Torturer
+new_tomitake - shuffles deck
+new_tomitake - draws Native Village, Copper, Copper, Copper, Horse Traders
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Fishing Village
+Stef - plays Torturer
+new_tomitake - reveals reaction Horse Traders
+Stef - draws Estate, Copper, Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Margrave
+Stef - plays 3 Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Conspirator, Estate, Copper, Fishing Village, Torturer
+ 
+---------- new_tomitake: turn 8 ----------
+new_tomitake - duration Horse Traders
+new_tomitake - draws Estate
+new_tomitake - plays Native Village
+new_tomitake - takes set aside cards: Estate, Copper, Margrave, Copper
+new_tomitake - plays Margrave
+new_tomitake - draws Estate, Fishing Village, Copper
+Stef - draws Estate
+Stef - discards Estate
+Stef - discards Estate
+Stef - discards Copper
+new_tomitake - plays Fishing Village
+new_tomitake - plays Horse Traders
+new_tomitake - discards Estate
+new_tomitake - discards Estate
+new_tomitake - plays 4 Copper
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - buys Torturer
+new_tomitake - gains Torturer
+new_tomitake - draws Torturer, Copper, Native Village, Conspirator, Conspirator
+ 
+---------- Stef: turn 9 ----------
+Stef - duration Fishing Village
+Stef - plays Torturer
+Stef - draws Copper, Copper, Copper
+new_tomitake - discards Copper
+new_tomitake - discards Conspirator
+Stef - plays Fishing Village
+Stef - plays Conspirator
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Copper
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Estate, Copper, Margrave, Torturer, Native Village
+ 
+---------- new_tomitake: turn 9 ----------
+new_tomitake - duration Fishing Village
+new_tomitake - plays Torturer
+new_tomitake - shuffles deck
+new_tomitake - draws Estate, Fishing Village, Copper
+Stef - discards Estate
+Stef - discards Copper
+new_tomitake - plays Fishing Village
+new_tomitake - plays Conspirator
+new_tomitake - draws Estate
+new_tomitake - plays Native Village
+new_tomitake - sets aside Copper
+new_tomitake - plays Copper
+new_tomitake - buys Torturer
+new_tomitake - gains Torturer
+new_tomitake - draws Copper, Torturer, Native Village, Conspirator, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - duration Fishing Village
+Stef - plays Margrave
+Stef - draws Copper, Estate, Estate
+new_tomitake - draws Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+new_tomitake - discards Copper
+Stef - plays Native Village
+Stef - sets aside Torturer
+Stef - plays Torturer
+Stef - draws Copper, Horse Traders
+Stef - shuffles deck
+Stef - draws Conspirator
+new_tomitake - discards Conspirator
+new_tomitake - discards Native Village
+Stef - plays Conspirator
+Stef - draws Copper
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - buys Torturer
+Stef - gains Torturer
+Stef - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- new_tomitake: turn 10 ----------
+new_tomitake - duration Fishing Village
+new_tomitake - plays Torturer
+new_tomitake - draws Margrave, Copper, Estate
+Stef - discards Estate
+Stef - discards Copper
+new_tomitake - plays Margrave
+new_tomitake - draws Copper, Horse Traders
+new_tomitake - shuffles deck
+new_tomitake - draws Copper
+Stef - draws Torturer
+Stef - discards Copper
+new_tomitake - plays 3 Copper
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - draws Native Village, Fishing Village, Copper, Torturer, Torturer
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Torturer
+Stef - draws Fishing Village, Torturer
+Stef - shuffles deck
+Stef - draws Estate
+new_tomitake - discards Copper
+new_tomitake - discards Native Village
+Stef - plays 2 Copper
+Stef - buys Native Village
+Stef - gains Native Village
+Stef - draws Copper, Copper, Margrave, Fishing Village, Conspirator
+ 
+---------- new_tomitake: turn 11 ----------
+new_tomitake - plays Fishing Village
+new_tomitake - plays Torturer
+new_tomitake - draws Copper, Copper, Estate
+Stef - discards Copper
+Stef - discards Copper
+new_tomitake - plays Torturer
+new_tomitake - draws Conspirator, Conspirator, Estate
+Stef - gains Curse
+new_tomitake - plays 2 Copper
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - draws Native Village
+new_tomitake - shuffles deck
+new_tomitake - draws Fishing Village, Fishing Village, Estate, Estate
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Fishing Village
+Stef - plays Margrave
+Stef - draws Estate, Copper, Native Village
+new_tomitake - draws Torturer
+new_tomitake - discards Estate
+new_tomitake - discards Estate
+new_tomitake - discards Native Village
+Stef - plays Native Village
+Stef - takes set aside cards: Torturer
+Stef - plays Torturer
+Stef - draws Copper, Fishing Village, Horse Traders
+new_tomitake - gains Curse
+Stef - plays Conspirator
+Stef - draws Torturer
+Stef - plays Fishing Village
+Stef - plays Torturer
+Stef - draws Copper, Estate, Torturer
+new_tomitake - gains Curse
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Fishing Village
+Stef - gains Fishing Village
+Stef - buys Storeroom
+Stef - gains Storeroom
+Stef - buys Conspirator
+Stef - gains Conspirator
+Stef - shuffles deck
+Stef - draws Estate, Horse Traders, Copper, Copper, Curse
+ 
+---------- new_tomitake: turn 12 ----------
+new_tomitake - duration Fishing Village
+new_tomitake - plays Fishing Village
+new_tomitake - plays Fishing Village
+new_tomitake - plays Torturer
+Stef - reveals reaction Horse Traders
+new_tomitake - draws Conspirator, Copper, Copper
+Stef - discards Curse
+Stef - discards Estate
+new_tomitake - plays Conspirator
+new_tomitake - draws Margrave
+new_tomitake - plays Margrave
+new_tomitake - draws Copper, Copper, Horse Traders
+Stef - draws Margrave
+new_tomitake - plays Horse Traders
+new_tomitake - discards Curse
+new_tomitake - discards Curse
+new_tomitake - plays 4 Copper
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - buys Storeroom
+new_tomitake - gains Storeroom
+new_tomitake - buys Fishing Village
+new_tomitake - gains Fishing Village
+new_tomitake - draws Torturer, Estate, Conspirator, Copper, Fishing Village
+ 
+---------- Stef: turn 13 ----------
+Stef - duration Fishing Village
+Stef - duration Fishing Village
+Stef - duration Horse Traders
+Stef - draws Copper
+Stef - plays Margrave
+Stef - draws Storeroom, Torturer, Native Village
+new_tomitake - draws Native Village
+new_tomitake - discards Estate
+new_tomitake - discards Copper
+new_tomitake - discards Native Village
+Stef - plays Torturer
+Stef - draws Fishing Village, Conspirator, Copper
+new_tomitake - gains Curse
+Stef - plays Conspirator
+Stef - draws Native Village
+Stef - plays Native Village
+Stef - sets aside Copper
+Stef - plays Storeroom
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Copper
+Stef - discards Horse Traders
+Stef - draws Torturer, Copper, Estate, Torturer, Torturer
+Stef - discards Fishing Village
+Stef - plays Native Village
+Stef - sets aside Estate
+Stef - plays Torturer
+Stef - draws Fishing Village, Conspirator, Copper
+ 
+------------ Game Over ------------
+Stef - cards: 3 Torturer, 2 Fishing Village, 1 Conspirator, 1 Horse Traders, 7 Copper, 3 Estate, 1 Curse
+Stef - victory point chips: 0
+Stef - total victory points: 2
+Stef - turns: 12
+ 
+new_tomitake - resigned
+new_tomitake - cards: 6 Fishing Village, 3 Torturer, 2 Conspirator, 2 Native Village, 1 Storeroom, 1 Margrave, 1 Horse Traders, 7 Copper, 3 Estate, 3 Curse
+new_tomitake - victory point chips: 0
+new_tomitake - total victory points: 0
+new_tomitake - turns: 12
+ 
+1st place: Stef
+2nd place: new_tomitake
+ 

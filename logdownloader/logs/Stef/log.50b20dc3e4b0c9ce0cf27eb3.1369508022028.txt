@@ -1,0 +1,482 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Loan, Masquerade, Tunnel, Alchemist, Fortress, Moneylender, Talisman, Bandit Camp, Counting House, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HandKnit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+HandKnit - shuffles deck
+Stef - draws Copper, Estate, Copper, Copper, Estate
+HandKnit - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- HandKnit: turn 1 ----------
+HandKnit - plays 3 Copper
+HandKnit - buys Masquerade
+HandKnit - gains Masquerade
+HandKnit - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 3 Copper
+Stef - buys Masquerade
+Stef - gains Masquerade
+Stef - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- HandKnit: turn 2 ----------
+HandKnit - plays 4 Copper
+HandKnit - buys Potion
+HandKnit - gains Potion
+HandKnit - shuffles deck
+HandKnit - draws Estate, Copper, Copper, Potion, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 4 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - shuffles deck
+Stef - draws Copper, Estate, Copper, Potion, Copper
+ 
+---------- HandKnit: turn 3 ----------
+HandKnit - plays 3 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - draws Estate, Copper, Copper, Copper, Masquerade
+ 
+---------- Stef: turn 3 ----------
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Copper, Masquerade, Estate, Copper, Copper
+ 
+---------- HandKnit: turn 4 ----------
+HandKnit - plays Masquerade
+HandKnit - draws Estate, Copper
+HandKnit - passes Estate
+Stef - passes Estate
+HandKnit - trashes Estate
+HandKnit - plays 4 Copper
+HandKnit - buys Moneylender
+HandKnit - gains Moneylender
+HandKnit - shuffles deck
+HandKnit - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Masquerade
+Stef - draws Copper, Estate
+Stef - passes Estate
+HandKnit - passes Copper
+Stef - trashes Estate
+Stef - plays 5 Copper
+Stef - buys Bandit Camp
+Stef - gains Bandit Camp
+Stef - shuffles deck
+Stef - draws Potion, Copper, Copper, Estate, Alchemist
+ 
+---------- HandKnit: turn 5 ----------
+HandKnit - plays 3 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - draws Masquerade, Alchemist, Estate, Copper, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Bandit Camp, Copper, Masquerade, Copper
+ 
+---------- HandKnit: turn 6 ----------
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Moneylender
+HandKnit - plays Masquerade
+HandKnit - draws Copper
+HandKnit - shuffles deck
+HandKnit - draws Copper
+HandKnit - passes Estate
+Stef - passes Copper
+HandKnit - trashes Estate
+HandKnit - plays 5 Copper
+HandKnit - buys Bandit Camp
+HandKnit - gains Bandit Camp
+HandKnit - draws Alchemist, Copper, Estate, Copper, Potion
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Bandit Camp
+Stef - shuffles deck
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Estate, Potion
+Stef - passes Estate
+HandKnit - passes Estate
+Stef - trashes Estate
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist on top of deck
+Stef - draws Alchemist, Copper, Alchemist, Copper, Copper
+ 
+---------- HandKnit: turn 7 ----------
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Masquerade, Copper
+HandKnit - plays Masquerade
+HandKnit - draws Copper, Alchemist
+HandKnit - passes Estate
+Stef - passes Copper
+HandKnit - trashes Copper
+HandKnit - plays 4 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - places Alchemist on top of deck
+HandKnit - draws Alchemist, Moneylender, Copper, Bandit Camp, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - draws Masquerade, Spoils
+Stef - plays Masquerade
+Stef - draws Potion, Copper
+Stef - passes Estate
+HandKnit - passes Copper
+Stef - trashes Copper
+Stef - plays 5 Copper, 1 Potion
+Stef - plays Spoils
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Copper, Bandit Camp
+ 
+---------- HandKnit: turn 8 ----------
+HandKnit - plays Bandit Camp
+HandKnit - draws Copper
+HandKnit - gains Spoils
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Copper, Alchemist
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Potion
+HandKnit - plays Moneylender
+HandKnit - trashes Copper
+HandKnit - plays 3 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - places Alchemist, Alchemist on top of deck
+HandKnit - draws Alchemist, Alchemist, Masquerade, Copper, Alchemist
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Alchemist
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Copper
+Stef - plays Alchemist
+Stef - draws Potion, Copper
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Bandit Camp
+Stef - draws Masquerade
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Copper, Alchemist
+Stef - passes Estate
+HandKnit - passes Copper
+Stef - trashes Copper
+Stef - plays Alchemist
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - plays 6 Copper, 1 Potion
+Stef - plays Spoils
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - places Alchemist on top of deck
+Stef - places Alchemist on top of deck
+Stef - discards Alchemist
+Stef - discards Alchemist
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Platinum, Copper, Alchemist
+ 
+---------- HandKnit: turn 9 ----------
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Spoils
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Copper, Alchemist
+HandKnit - plays Alchemist
+HandKnit - draws Bandit Camp, Potion
+HandKnit - plays Alchemist
+HandKnit - draws Estate, Copper
+HandKnit - plays Bandit Camp
+HandKnit - draws Moneylender
+HandKnit - gains Spoils
+HandKnit - plays Masquerade
+HandKnit - draws Copper
+HandKnit - shuffles deck
+HandKnit - draws Spoils
+HandKnit - passes Estate
+Stef - passes Copper
+HandKnit - trashes Estate
+HandKnit - plays Moneylender
+HandKnit - trashes Copper
+HandKnit - plays 4 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - places Alchemist on top of deck
+HandKnit - places Alchemist on top of deck
+HandKnit - discards Alchemist
+HandKnit - discards Alchemist
+HandKnit - draws Alchemist, Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Spoils, Copper, Copper
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Alchemist
+Stef - draws Potion, Masquerade
+Stef - plays Alchemist
+Stef - draws Alchemist, Copper
+Stef - plays Alchemist
+Stef - draws Bandit Camp, Copper
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - passes Copper
+HandKnit - passes Copper
+Stef - trashes Copper
+Stef - plays 4 Copper, 1 Platinum, 1 Potion
+Stef - plays Spoils
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist on top of deck
+Stef - places Alchemist on top of deck
+Stef - discards Alchemist
+Stef - discards Alchemist
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Copper, Copper, Colony
+ 
+---------- HandKnit: turn 10 ----------
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Alchemist
+HandKnit - plays Alchemist
+HandKnit - draws Potion, Masquerade
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Moneylender
+HandKnit - plays Masquerade
+HandKnit - draws Bandit Camp, Alchemist
+HandKnit - passes Copper
+Stef - passes Copper
+HandKnit - trashes Copper
+HandKnit - plays 3 Copper, 1 Potion
+HandKnit - buys Alchemist
+HandKnit - gains Alchemist
+HandKnit - places Alchemist, Alchemist, Alchemist on top of deck
+HandKnit - draws Alchemist, Alchemist, Alchemist, Spoils, Alchemist
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Alchemist
+Stef - draws Estate, Bandit Camp
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Platinum, Potion
+Stef - plays Bandit Camp
+Stef - draws Masquerade
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Copper, Alchemist
+Stef - passes Copper
+HandKnit - passes Spoils
+Stef - trashes Potion
+Stef - plays 3 Copper, 1 Platinum
+Stef - plays Spoils
+Stef - buys Platinum
+Stef - gains Platinum
+Stef - shuffles deck
+Stef - draws Alchemist, Colony, Estate, Platinum, Bandit Camp
+ 
+---------- HandKnit: turn 11 ----------
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Spoils, Moneylender
+HandKnit - plays Alchemist
+HandKnit - draws Alchemist, Bandit Camp
+HandKnit - plays Alchemist
+HandKnit - draws Alchemist, Copper
+HandKnit - plays Bandit Camp
+HandKnit - draws Potion
+HandKnit - gains Spoils
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Masquerade
+HandKnit - plays Alchemist
+HandKnit - draws Copper
+HandKnit - shuffles deck
+HandKnit - draws Spoils
+HandKnit - plays Masquerade
+HandKnit - passes Potion
+Stef - passes Estate
+HandKnit - trashes Estate
+HandKnit - plays Moneylender
+HandKnit - trashes Copper
+HandKnit - plays 3 Copper
+HandKnit - plays Spoils
+HandKnit - buys Platinum
+HandKnit - gains Platinum
+HandKnit - shuffles deck
+HandKnit - draws Copper, Alchemist, Platinum, Alchemist, Masquerade
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Alchemist
+Stef - draws Masquerade, Platinum
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Alchemist, Copper
+Stef - passes Copper
+HandKnit - passes Copper
+Stef - plays 2 Platinum, 2 Copper, 1 Potion
+Stef - buys Colony
+Stef - gains Colony
+Stef - discards Alchemist
+Stef - draws Spoils, Copper, Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Colony
+ 
+---------- HandKnit: turn 12 ----------
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Copper
+HandKnit - plays Alchemist
+HandKnit - draws Alchemist, Alchemist
+HandKnit - plays Alchemist
+HandKnit - draws Alchemist, Alchemist
+HandKnit - plays Alchemist
+HandKnit - draws Spoils, Bandit Camp
+HandKnit - plays Bandit Camp
+HandKnit - draws Moneylender
+HandKnit - gains Spoils
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Spoils
+HandKnit - plays Alchemist
+HandKnit - plays Masquerade
+HandKnit - passes Moneylender
+Stef - passes Copper
+HandKnit - trashes Copper
+HandKnit - plays 3 Copper, 1 Platinum
+HandKnit - plays Spoils
+HandKnit - buys Colony
+HandKnit - gains Colony
+HandKnit - shuffles deck
+HandKnit - draws Spoils, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Alchemist
+Stef - draws Alchemist, Potion
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Masquerade, Bandit Camp
+Stef - plays Alchemist
+Stef - draws Platinum, Spoils
+Stef - plays Bandit Camp
+Stef - draws Colony
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Copper, Platinum
+Stef - passes Moneylender
+HandKnit - passes Copper
+Stef - trashes Copper
+Stef - plays 2 Copper, 2 Platinum, 1 Potion
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist on top of deck
+Stef - places Alchemist on top of deck
+Stef - discards Alchemist
+Stef - discards Alchemist
+Stef - draws Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Masquerade, Spoils, Copper
+ 
+---------- HandKnit: turn 13 ----------
+HandKnit - plays Alchemist
+HandKnit - draws Alchemist, Platinum
+HandKnit - plays Alchemist
+HandKnit - draws Colony, Bandit Camp
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Alchemist
+HandKnit - plays Bandit Camp
+HandKnit - draws Masquerade
+HandKnit - gains Spoils
+HandKnit - plays Alchemist
+HandKnit - draws Copper, Alchemist
+HandKnit - plays Alchemist
+HandKnit - shuffles deck
+HandKnit - draws Spoils
+HandKnit - plays Masquerade
+HandKnit - passes Moneylender
+Stef - passes Copper
+HandKnit - trashes Copper
+HandKnit - plays 2 Copper, 1 Platinum
+HandKnit - plays Spoils
+HandKnit - buys Platinum
+HandKnit - gains Platinum
+HandKnit - shuffles deck
+HandKnit - draws Alchemist, Bandit Camp, Platinum, Masquerade, Alchemist
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Platinum, Colony
+Stef - plays Alchemist
+Stef - draws Copper, Alchemist
+Stef - plays Alchemist
+Stef - draws Colony, Bandit Camp
+Stef - plays Bandit Camp
+Stef - draws Colony
+Stef - gains Spoils
+Stef - plays Masquerade
+Stef - draws Platinum, Alchemist
+Stef - passes Copper
+HandKnit - passes Masquerade
+Stef - trashes Moneylender
+Stef - plays Alchemist
+Stef - draws Spoils, Spoils
+Stef - plays Masquerade
+Stef - draws Potion
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - passes Spoils
+HandKnit - passes Copper
+Stef - trashes Copper
+Stef - plays 2 Platinum, 1 Potion
+Stef - plays Spoils
+Stef - buys Colony
+Stef - gains Colony
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist
+Stef - shuffles deck
+Stef - draws Platinum
+ 
+---------- HandKnit: turn 14 ----------
+ 
+------------ Game Over ------------
+Stef - cards: 4 Alchemist, 2 Masquerade, 1 Bandit Camp, 2 Platinum, 2 Spoils, 1 Potion, 4 Colony
+Stef - total victory points: 40
+Stef - turns: 13
+ 
+HandKnit - resigned
+HandKnit - cards: 6 Alchemist, 1 Bandit Camp, 2 Platinum, 2 Spoils, 2 Copper, 1 Colony
+HandKnit - total victory points: 10
+HandKnit - turns: 13
+ 
+1st place: Stef
+2nd place: HandKnit
+ 

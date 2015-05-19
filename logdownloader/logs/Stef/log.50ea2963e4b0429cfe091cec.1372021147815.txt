@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Embargo, Alchemist, Bridge, Pirate Ship, Bazaar, Junk Dealer, Vault, Bank, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+shark_bait - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+shark_bait - shuffles deck
+Stef - shuffles deck
+shark_bait - draws Estate, Copper, Copper, Copper, Estate
+Stef - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- shark_bait: turn 1 ----------
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 2 ----------
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - buys Bridge
+shark_bait - gains Bridge
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Copper, Estate, Bridge, Copper, Copper
+ 
+---------- shark_bait: turn 3 ----------
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - buys Silver
+shark_bait - gains Silver
+shark_bait - draws Estate, Copper, Bridge, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Bridge
+Stef - plays 3 Copper
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- shark_bait: turn 4 ----------
+shark_bait - plays Bridge
+shark_bait - plays 3 Copper
+shark_bait - buys Junk Dealer
+shark_bait - gains Junk Dealer
+shark_bait - draws Silver, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 2 Copper, 1 Silver
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Copper, Copper, Estate
+ 
+---------- shark_bait: turn 5 ----------
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Silver
+shark_bait - buys Junk Dealer
+shark_bait - gains Junk Dealer
+shark_bait - draws Silver, Junk Dealer, Copper, Estate, Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 4 Copper
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - draws Copper, Copper, Copper, Junk Dealer, Estate
+ 
+---------- shark_bait: turn 6 ----------
+shark_bait - plays Junk Dealer
+shark_bait - draws Copper
+shark_bait - trashes Estate
+shark_bait - plays 2 Copper, 1 Silver
+shark_bait - buys Bazaar
+shark_bait - gains Bazaar
+shark_bait - draws Bridge, Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Junk Dealer
+Stef - draws Potion
+Stef - trashes Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Silver, Estate, Bridge
+Stef - shuffles deck
+Stef - draws Potion, Copper
+ 
+---------- shark_bait: turn 7 ----------
+shark_bait - plays Bridge
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - plays Copper
+shark_bait - buys Potion
+shark_bait - gains Potion
+shark_bait - draws Junk Dealer, Silver, Bazaar, Estate, Silver
+ 
+---------- Stef: turn 7 ----------
+Stef - plays 1 Silver, 1 Potion, 1 Copper
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - draws Estate, Bridge, Copper, Alchemist, Copper
+ 
+---------- shark_bait: turn 8 ----------
+shark_bait - plays Bazaar
+shark_bait - draws Copper
+shark_bait - plays Junk Dealer
+shark_bait - draws Copper
+shark_bait - trashes Estate
+shark_bait - plays Silver
+shark_bait - buys Bridge
+shark_bait - gains Bridge
+shark_bait - draws Copper, Junk Dealer, Estate
+shark_bait - shuffles deck
+shark_bait - draws Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Alchemist
+Stef - draws Junk Dealer, Copper
+Stef - plays Junk Dealer
+Stef - draws Copper
+Stef - trashes Estate
+Stef - plays Bridge
+Stef - plays 4 Copper
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Bridge, Silver, Copper
+ 
+---------- shark_bait: turn 9 ----------
+shark_bait - plays Junk Dealer
+shark_bait - draws Bridge
+shark_bait - trashes Estate
+shark_bait - plays Bridge
+shark_bait - plays 3 Copper
+shark_bait - buys Potion
+shark_bait - gains Potion
+shark_bait - draws Copper, Potion, Silver, Bridge, Bazaar
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Bridge
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Junk Dealer
+Stef - gains Junk Dealer
+Stef - draws Bridge, Alchemist, Bazaar, Alchemist, Copper
+ 
+---------- shark_bait: turn 10 ----------
+shark_bait - plays Bazaar
+shark_bait - draws Silver
+shark_bait - plays Bridge
+shark_bait - plays 2 Silver, 1 Copper, 1 Potion
+shark_bait - buys Alchemist
+shark_bait - gains Alchemist
+shark_bait - buys Bazaar
+shark_bait - gains Bazaar
+shark_bait - draws Copper, Junk Dealer, Copper, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Alchemist
+Stef - draws Copper, Copper
+Stef - plays Alchemist
+Stef - draws Estate, Potion
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Bridge
+Stef - plays 4 Copper, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - places Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Junk Dealer
+Stef - shuffles deck
+Stef - draws Copper, Alchemist
+ 
+---------- shark_bait: turn 11 ----------
+shark_bait - plays Junk Dealer
+shark_bait - draws Bridge
+shark_bait - trashes Copper
+shark_bait - plays Bridge
+shark_bait - plays 3 Copper
+shark_bait - buys Bridge
+shark_bait - gains Bridge
+shark_bait - draws Bazaar, Silver, Silver, Bazaar, Copper
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Alchemist
+Stef - draws Silver, Copper
+Stef - plays Alchemist
+Stef - draws Bridge, Estate
+Stef - plays Alchemist
+Stef - draws Potion, Copper
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Estate
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays 3 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Copper, Copper
+ 
+---------- shark_bait: turn 12 ----------
+shark_bait - plays Bazaar
+shark_bait - draws Junk Dealer
+shark_bait - plays Bazaar
+shark_bait - draws Copper
+shark_bait - plays Junk Dealer
+shark_bait - draws Potion
+shark_bait - trashes Copper
+shark_bait - plays 2 Silver, 1 Copper, 1 Potion
+shark_bait - buys Alchemist
+shark_bait - gains Alchemist
+shark_bait - draws Bridge, Potion, Alchemist, Copper
+shark_bait - shuffles deck
+shark_bait - draws Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Alchemist
+Stef - draws Junk Dealer, Copper
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Bazaar
+Stef - plays Alchemist
+Stef - draws Silver, Copper
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Potion
+Stef - trashes Copper
+Stef - plays 5 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - places Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Bazaar, Bridge
+ 
+---------- shark_bait: turn 13 ----------
+shark_bait - plays Alchemist
+shark_bait - draws Bazaar, Bridge
+shark_bait - plays Bazaar
+shark_bait - draws Copper
+shark_bait - plays Bridge
+shark_bait - plays Bridge
+shark_bait - plays 3 Copper, 1 Potion
+shark_bait - buys Alchemist
+shark_bait - gains Alchemist
+shark_bait - buys Bazaar
+shark_bait - gains Bazaar
+shark_bait - buys Bridge
+shark_bait - gains Bridge
+shark_bait - places Alchemist on top of deck
+shark_bait - draws Alchemist, Alchemist, Copper, Junk Dealer, Silver
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Alchemist
+Stef - draws Alchemist, Bridge
+Stef - plays Alchemist
+Stef - draws Copper, Junk Dealer
+Stef - plays Alchemist
+Stef - draws Bridge
+Stef - shuffles deck
+Stef - draws Silver
+Stef - plays Alchemist
+Stef - draws Copper, Junk Dealer
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Alchemist
+Stef - trashes Copper
+Stef - plays Alchemist
+Stef - draws Bazaar, Copper
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Potion
+Stef - trashes Copper
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays 3 Copper, 1 Silver, 1 Potion
+Stef - buys Alchemist
+Stef - gains Alchemist
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Stef - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- shark_bait: turn 14 ----------
+shark_bait - plays Alchemist
+shark_bait - draws Junk Dealer, Potion
+shark_bait - plays Alchemist
+shark_bait - draws Copper, Bridge
+shark_bait - plays Junk Dealer
+shark_bait - draws Bazaar
+shark_bait - trashes Copper
+shark_bait - plays Bazaar
+shark_bait - draws Silver
+shark_bait - plays Junk Dealer
+shark_bait - shuffles deck
+shark_bait - draws Bazaar
+shark_bait - trashes Copper
+shark_bait - plays Bazaar
+shark_bait - draws Bridge
+shark_bait - plays Bridge
+shark_bait - plays Bridge
+shark_bait - plays Silver
+shark_bait - plays Potion
+shark_bait - plays Silver
+shark_bait - buys Alchemist
+shark_bait - gains Alchemist
+shark_bait - buys Province
+shark_bait - gains Province
+shark_bait - buys Duchy
+shark_bait - gains Duchy
+shark_bait - places Alchemist, Alchemist on top of deck
+shark_bait - draws Alchemist, Alchemist, Copper, Bridge, Potion
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Alchemist
+Stef - draws Copper
+Stef - shuffles deck
+Stef - draws Bridge
+Stef - plays Alchemist
+Stef - draws Alchemist, Junk Dealer
+Stef - plays Alchemist
+Stef - draws Bazaar, Bridge
+Stef - plays Alchemist
+Stef - draws Bridge, Copper
+Stef - plays Alchemist
+Stef - draws Bazaar, Copper
+Stef - plays Alchemist
+Stef - draws Junk Dealer, Potion
+Stef - plays Bazaar
+Stef - draws Bridge
+Stef - plays Bazaar
+Stef - draws Bazaar
+Stef - plays Bazaar
+Stef - draws Copper
+Stef - plays Junk Dealer
+Stef - draws Bazaar
+Stef - trashes Copper
+Stef - plays Bazaar
+Stef - draws Bridge
+Stef - plays Junk Dealer
+Stef - draws Silver
+Stef - trashes Potion
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays Bridge
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Bridge
+Stef - gains Bridge
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Bazaar
+Stef - gains Bazaar
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - shuffles deck
+Stef - draws Province, Bridge, Copper, Alchemist, Bazaar
+ 
+------------ Game Over ------------
+Stef - cards: 7 Bazaar, 6 Bridge, 6 Alchemist, 2 Junk Dealer, 3 Copper, 1 Silver, 2 Province
+Stef - total victory points: 12
+Stef - turns: 14
+ 
+shark_bait - cards: 4 Alchemist, 4 Bridge, 3 Bazaar, 2 Junk Dealer, 3 Copper, 2 Potion, 2 Silver, 1 Province, 1 Duchy
+shark_bait - total victory points: 9
+shark_bait - turns: 14
+ 
+1st place: Stef
+2nd place: shark_bait
+ 

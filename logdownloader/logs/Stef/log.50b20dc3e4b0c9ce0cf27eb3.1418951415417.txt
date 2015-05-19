@@ -1,0 +1,593 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Fool's Gold, Hamlet, Pawn, Scheme, Navigator, Worker's Village, Jester, Laboratory, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dingan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+Dingan - shuffles deck
+Stef - draws Estate, Copper, Copper, Estate, Estate
+Dingan - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 2 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Dingan: turn 1 ----------
+Dingan - plays 3 Copper
+Dingan - buys Scheme
+Dingan - gains Scheme
+Dingan - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 5 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Copper, Pawn, Copper, Copper, Copper
+ 
+---------- Dingan: turn 2 ----------
+Dingan - plays 4 Copper
+Dingan - buys Navigator
+Dingan - gains Navigator
+Dingan - shuffles deck
+Dingan - draws Scheme, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays 5 Copper
+Stef - buys Laboratory
+Stef - gains Laboratory
+Stef - draws Estate, Estate, Copper, Jester, Copper
+ 
+---------- Dingan: turn 3 ----------
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays 4 Copper
+Dingan - buys Worker's Village
+Dingan - gains Worker's Village
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Copper, Navigator, Estate, Copper
+ 
+---------- Stef: turn 4 ----------
+Stef - plays Jester
+Dingan - reveals Estate
+Dingan - discards Estate
+Dingan - gains Curse
+Stef - plays 2 Copper
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Worker's Village, Copper, Copper, Copper
+ 
+---------- Dingan: turn 4 ----------
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Navigator
+Dingan - shuffles deck
+Dingan - looks at Estate, Copper, Worker's Village, Copper, Estate
+Dingan - discards: Estate, Copper, Worker's Village, Copper, Estate
+Dingan - plays 3 Copper
+Dingan - buys Jester
+Dingan - gains Jester
+Dingan - Scheme choice: Navigator
+Dingan - draws Navigator, Copper, Curse, Copper
+Dingan - shuffles deck
+Dingan - draws Estate
+ 
+---------- Stef: turn 5 ----------
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays 4 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Jester, Pawn, Estate, Laboratory, Copper
+ 
+---------- Dingan: turn 5 ----------
+Dingan - plays Navigator
+Dingan - looks at Estate, Copper, Copper, Estate, Jester
+Dingan - discards: Estate, Copper, Copper, Estate, Jester
+Dingan - plays 2 Copper
+Dingan - buys Worker's Village
+Dingan - gains Worker's Village
+Dingan - draws Scheme, Copper, Copper, Copper, Worker's Village
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Laboratory
+Stef - draws Copper, Estate
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Jester
+Dingan - shuffles deck
+Dingan - reveals Copper
+Dingan - discards Copper
+Dingan - gains Copper
+Stef - plays 3 Copper
+Stef - buys Jester
+Stef - gains Jester
+Stef - shuffles deck
+Stef - draws Copper, Copper, Pawn, Pawn, Copper
+ 
+---------- Dingan: turn 6 ----------
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Worker's Village
+Dingan - draws Worker's Village
+Dingan - plays Worker's Village
+Dingan - draws Copper
+Dingan - plays 5 Copper
+Dingan - buys Laboratory
+Dingan - gains Laboratory
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Estate, Estate, Curse, Navigator
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Worker's Village
+Stef - plays 4 Copper
+Stef - buys Market
+Stef - gains Market
+Stef - draws Copper, Jester, Estate, Laboratory, Pawn
+ 
+---------- Dingan: turn 7 ----------
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Navigator
+Dingan - looks at Estate, Jester
+Dingan - shuffles deck
+Dingan - looks at Copper, Copper, Copper
+Dingan - discards: Estate, Jester, Copper, Copper, Copper
+Dingan - plays Copper
+Dingan - buys Scheme
+Dingan - gains Scheme
+Dingan - Scheme choice: Navigator
+Dingan - draws Navigator, Copper, Copper, Worker's Village, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Laboratory
+Stef - draws Estate, Jester
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Jester
+Dingan - reveals Worker's Village
+Dingan - discards Worker's Village
+Stef - gains Worker's Village
+Stef - plays 2 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Estate, Copper
+Stef - shuffles deck
+Stef - draws Worker's Village, Copper, Jester
+ 
+---------- Dingan: turn 8 ----------
+Dingan - plays Worker's Village
+Dingan - draws Laboratory
+Dingan - plays Navigator
+Dingan - looks at Copper
+Dingan - shuffles deck
+Dingan - looks at Copper, Jester, Copper, Estate
+Dingan - places Copper on top of deck
+Dingan - places Estate on top of deck
+Dingan - places Copper on top of deck
+Dingan - places Jester on top of deck
+Dingan - places Copper on top of deck
+Dingan - plays Laboratory
+Dingan - draws Copper, Jester
+Dingan - plays Jester
+Stef - reveals Jester
+Stef - discards Jester
+Dingan - gains Jester
+Dingan - plays 4 Copper
+Dingan - buys Laboratory
+Dingan - gains Laboratory
+Dingan - buys Scheme
+Dingan - gains Scheme
+Dingan - draws Copper, Estate, Copper, Scheme, Estate
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Worker's Village
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Estate
+Stef - plays Jester
+Dingan - reveals Worker's Village
+Dingan - discards Worker's Village
+Stef - gains Worker's Village
+Stef - plays 2 Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Copper, Copper, Potion, Pawn, Pawn
+ 
+---------- Dingan: turn 9 ----------
+Dingan - plays Scheme
+Dingan - draws Estate
+Dingan - plays 2 Copper
+Dingan - buys Pawn
+Dingan - gains Pawn
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Scheme, Copper, Copper, Curse
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - takes 1 buy
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Market, Worker's Village, Copper, Copper, Laboratory
+ 
+---------- Dingan: turn 10 ----------
+Dingan - plays Scheme
+Dingan - shuffles deck
+Dingan - draws Copper
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays 4 Copper
+Dingan - buys Potion
+Dingan - gains Potion
+Dingan - Scheme choice: Scheme
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Scheme, Laboratory, Pawn, Scheme
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Laboratory
+Stef - draws Estate
+Stef - shuffles deck
+Stef - draws Estate
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Market
+Stef - draws Hamlet
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one action
+Stef - discards Estate
+Stef - receives one buy
+Stef - plays 4 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Scheme
+Stef - gains Scheme
+Stef - draws Worker's Village, Vineyard, Pawn, Copper, Pawn
+ 
+---------- Dingan: turn 11 ----------
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Scheme
+Dingan - draws Estate
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Laboratory
+Dingan - draws Copper, Jester
+Dingan - plays Pawn
+Dingan - takes 1 action
+Dingan - takes 1 buy
+Dingan - plays Jester
+Stef - reveals Worker's Village
+Stef - discards Worker's Village
+Dingan - gains Worker's Village
+Dingan - plays 3 Copper
+Dingan - buys Laboratory
+Dingan - gains Laboratory
+Dingan - Scheme choice: Jester
+Dingan - Scheme choice: Laboratory
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Laboratory, Jester, Estate, Copper
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Estate
+Stef - plays 3 Copper
+Stef - buys Potion
+Stef - gains Potion
+Stef - draws Potion, Jester, Jester, Scheme
+Stef - shuffles deck
+Stef - draws Market
+ 
+---------- Dingan: turn 12 ----------
+Dingan - plays Scheme
+Dingan - draws Laboratory
+Dingan - plays Laboratory
+Dingan - draws Worker's Village, Estate
+Dingan - plays Worker's Village
+Dingan - draws Jester
+Dingan - plays Laboratory
+Dingan - draws Worker's Village, Navigator
+Dingan - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Stef - gains Copper
+Dingan - plays Worker's Village
+Dingan - shuffles deck
+Dingan - draws Scheme
+Dingan - plays Scheme
+Dingan - draws Pawn
+Dingan - plays Pawn
+Dingan - takes 1 action
+Dingan - draws Worker's Village
+Dingan - plays Worker's Village
+Dingan - draws Copper
+Dingan - plays Navigator
+Dingan - looks at Curse, Copper, Copper, Laboratory, Potion
+Dingan - places Curse on top of deck
+Dingan - places Copper on top of deck
+Dingan - places Copper on top of deck
+Dingan - places Laboratory on top of deck
+Dingan - places Potion on top of deck
+Dingan - plays Jester
+Stef - reveals Hamlet
+Stef - discards Hamlet
+Dingan - gains Hamlet
+Dingan - plays 2 Copper
+Dingan - buys Potion
+Dingan - gains Potion
+Dingan - buys Hamlet
+Dingan - gains Hamlet
+Dingan - buys Pawn
+Dingan - gains Pawn
+Dingan - Scheme choice: Jester
+Dingan - Scheme choice: Laboratory
+Dingan - draws Laboratory, Jester, Potion, Laboratory, Copper
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Scheme
+Stef - draws Pawn
+Stef - plays Market
+Stef - draws Estate
+Stef - plays Pawn
+Stef - takes 1 action
+Stef - draws Copper
+Stef - plays Jester
+Dingan - reveals Copper
+Dingan - discards Copper
+Dingan - gains Copper
+Stef - plays 1 Potion, 1 Copper
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Worker's Village
+Stef - gains Worker's Village
+Stef - Scheme choice: Jester
+Stef - draws Jester, Potion, Vineyard, Worker's Village, Laboratory
+ 
+---------- Dingan: turn 13 ----------
+Dingan - plays Laboratory
+Dingan - draws Curse, Estate
+Dingan - plays Laboratory
+Dingan - draws Copper, Scheme
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Jester
+Stef - reveals Estate
+Stef - discards Estate
+Stef - gains Curse
+Dingan - plays Potion
+Dingan - buys Vineyard
+Dingan - gains Vineyard
+Dingan - Scheme choice: Jester
+Dingan - draws Jester, Copper, Copper
+Dingan - shuffles deck
+Dingan - draws Curse, Potion
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Laboratory
+Stef - draws Worker's Village, Copper
+Stef - plays Worker's Village
+Stef - draws Copper
+Stef - plays Jester
+Dingan - reveals Hamlet
+Dingan - discards Hamlet
+Stef - gains Hamlet
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - draws Estate, Copper, Copper, Pawn, Worker's Village
+ 
+---------- Dingan: turn 14 ----------
+Dingan - plays Jester
+Stef - reveals Pawn
+Stef - discards Pawn
+Dingan - gains Pawn
+Dingan - plays Potion
+Dingan - buys Vineyard
+Dingan - gains Vineyard
+Dingan - draws Worker's Village, Copper, Estate, Copper, Pawn
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - shuffles deck
+Stef - draws Market
+Stef - plays Market
+Stef - draws Scheme
+Stef - plays Scheme
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Worker's Village
+Stef - plays Worker's Village
+Stef - draws Jester
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Pawn
+Stef - plays Pawn
+Stef - takes 1 coin
+Stef - draws Copper
+Stef - plays Jester
+Dingan - reveals Estate
+Dingan - discards Estate
+Dingan - gains Curse
+Stef - plays 3 Copper
+Stef - buys Pawn
+Stef - gains Pawn
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - Scheme choice: Jester
+Stef - Scheme choice: Market
+Stef - draws Market, Jester, Curse, Vineyard, Hamlet
+ 
+---------- Dingan: turn 15 ----------
+Dingan - plays Worker's Village
+Dingan - draws Copper
+Dingan - plays Pawn
+Dingan - takes 1 coin
+Dingan - draws Copper
+Dingan - plays 4 Copper
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - draws Navigator, Potion, Laboratory, Scheme, Vineyard
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Market
+Stef - draws Vineyard
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Vineyard
+Stef - receives one action
+Stef - discards Vineyard
+Stef - receives one buy
+Stef - plays Jester
+Dingan - reveals Pawn
+Dingan - discards Pawn
+Stef - plays Copper
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - draws Copper, Copper, Laboratory, Estate, Pawn
+ 
+---------- Dingan: turn 16 ----------
+Dingan - plays Scheme
+Dingan - draws Jester
+Dingan - plays Laboratory
+Dingan - draws Scheme, Scheme
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Scheme
+Dingan - draws Copper
+Dingan - plays Jester
+Stef - reveals Vineyard
+Stef - discards Vineyard
+Stef - gains Curse
+Dingan - plays Potion
+Dingan - buys Vineyard
+Dingan - gains Vineyard
+Dingan - Scheme choice: Jester
+Dingan - Scheme choice: Laboratory
+Dingan - Scheme choice: Scheme
+Dingan - draws Scheme, Laboratory, Jester, Worker's Village, Copper
+ 
+---------- Stef: turn 17 ----------
+Stef - plays Laboratory
+Stef - draws Hamlet, Potion
+Stef - plays Hamlet
+Stef - draws Copper
+Stef - discards Estate
+Stef - receives one action
+Stef - plays Pawn
+Stef - takes 1 buy
+Stef - draws Estate
+Stef - plays 3 Copper, 1 Potion
+Stef - buys Hamlet
+Stef - gains Hamlet
+Stef - buys Vineyard
+Stef - gains Vineyard
+Stef - draws Worker's Village, Pawn, Potion, Jester, Pawn
+ 
+---------- Dingan: turn 17 ----------
+Dingan - plays Worker's Village
+Dingan - draws Worker's Village
+Dingan - plays Laboratory
+Dingan - draws Laboratory, Laboratory
+Dingan - plays Worker's Village
+Dingan - draws Estate
+Dingan - plays Laboratory
+Dingan - draws Hamlet
+Dingan - shuffles deck
+Dingan - draws Hamlet
+Dingan - plays Laboratory
+Dingan - draws Vineyard, Estate
+Dingan - plays Scheme
+Dingan - draws Pawn
+Dingan - plays Pawn
+Dingan - takes 1 coin
+Dingan - draws Copper
+Dingan - plays Hamlet
+Dingan - draws Potion
+Dingan - discards Estate
+Dingan - receives one action
+Dingan - plays Hamlet
+Dingan - draws Curse
+Dingan - discards Vineyard
+Dingan - receives one action
+Dingan - discards Estate
+Dingan - receives one buy
+Dingan - plays Jester
+Stef - reveals Copper
+Stef - discards Copper
+Dingan - gains Copper
+Dingan - plays 2 Copper, 1 Potion
+Dingan - buys Duchy
+Dingan - gains Duchy
+Dingan - buys Vineyard
+Dingan - gains Vineyard
+Dingan - draws Pawn, Copper, Vineyard, Potion, Worker's Village
+ 
+------------ Game Over ------------
+Stef - cards: 8 Hamlet, 7 Pawn, 5 Worker's Village, 2 Jester, 2 Scheme, 1 Market, 1 Laboratory, 8 Copper, 2 Potion, 4 Vineyard, 3 Estate, 2 Curse
+Stef - total victory points: 33
+Stef - turns: 17
+ 
+Dingan - cards: 3 Pawn, 3 Worker's Village, 3 Laboratory, 3 Scheme, 2 Hamlet, 2 Jester, 10 Copper, 1 Navigator, 2 Potion, 4 Vineyard, 3 Estate, 2 Duchy, 2 Curse
+Dingan - total victory points: 27
+Dingan - turns: 17
+ 
+1st place: Stef
+2nd place: Dingan
+ 

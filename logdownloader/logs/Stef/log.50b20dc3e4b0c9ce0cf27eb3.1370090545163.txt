@@ -1,0 +1,828 @@
+------------ Game Setup ------------
+Supply cards: Horse Traders, Moneylender, Throne Room, Bandit Camp, Highway, Hunting Party, Inn, Rabble, Tribute, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stef - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stef - shuffles deck
+SM.SM - shuffles deck
+Stef - draws Copper, Copper, Copper, Estate, Copper
+SM.SM - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 1 ----------
+Stef - plays 4 Copper
+Stef - buys Moneylender
+Stef - gains Moneylender
+Stef - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Stef: turn 2 ----------
+Stef - plays 3 Copper
+Stef - buys Silver
+Stef - gains Silver
+Stef - shuffles deck
+Stef - draws Silver, Estate, Moneylender, Copper, Estate
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Moneylender
+SM.SM - gains Moneylender
+SM.SM - shuffles deck
+SM.SM - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Stef: turn 3 ----------
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 4 Copper, 1 Silver
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Moneylender, Copper, Estate, Estate, Estate
+ 
+---------- Stef: turn 4 ----------
+Stef - plays 4 Copper
+Stef - buys Horse Traders
+Stef - gains Horse Traders
+Stef - draws Copper, Copper
+Stef - shuffles deck
+Stef - draws Silver, Copper, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Moneylender, Silver, Silver
+ 
+---------- Stef: turn 5 ----------
+Stef - plays 3 Copper, 1 Silver
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Estate, Estate, Copper, Copper, Horse Traders
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Forge
+SM.SM - gains Forge
+SM.SM - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Stef: turn 6 ----------
+Stef - plays Horse Traders
+Stef - discards Estate
+Stef - discards Estate
+Stef - plays 2 Copper
+Stef - buys Bandit Camp
+Stef - gains Bandit Camp
+Stef - draws Moneylender, Copper, Hunting Party
+Stef - shuffles deck
+Stef - draws Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Estate, Copper, Hunting Party
+SM.SM - shuffles deck
+SM.SM - draws Silver, Copper
+ 
+---------- Stef: turn 7 ----------
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Moneylender, Copper, Copper, Copper, Estate
+Stef - reveals Estate, Horse Traders
+Stef - places Horse Traders in hand
+Stef - discards Estate
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Copper, Estate, Copper, Copper, Hunting Party
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Estate
+SM.SM - reveals hand: Estate, Copper, Silver, Copper, Estate
+SM.SM - reveals Forge
+SM.SM - places Forge in hand
+SM.SM - plays Forge
+SM.SM - trashes Copper, Silver, Copper, Estate
+SM.SM - gains Bandit Camp
+SM.SM - draws Moneylender, Copper, Estate, Copper, Copper
+ 
+---------- Stef: turn 8 ----------
+Stef - plays Hunting Party
+Stef - draws Bandit Camp
+Stef - reveals hand: Copper, Estate, Copper, Copper, Bandit Camp
+Stef - reveals Silver
+Stef - places Silver in hand
+Stef - plays Bandit Camp
+Stef - shuffles deck
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays 4 Copper, 1 Silver
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Hunting Party, Copper, Estate, Horse Traders, Hunting Party
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 2 Copper
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Silver, Silver
+SM.SM - shuffles deck
+SM.SM - draws Estate, Bandit Camp, Hunting Party
+ 
+---------- Stef: turn 9 ----------
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Hunting Party, Copper, Estate, Horse Traders, Estate
+Stef - reveals Moneylender
+Stef - places Moneylender in hand
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Copper, Estate, Horse Traders, Estate, Moneylender, Copper
+Stef - reveals Highway
+Stef - places Highway in hand
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Horse Traders
+Stef - discards Moneylender
+Stef - discards Estate
+Stef - plays 3 Copper
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - draws Estate, Bandit Camp, Copper, Spoils, Silver
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Silver, Silver, Estate, Bandit Camp, Copper
+SM.SM - reveals Estate, Forge
+SM.SM - places Forge in hand
+SM.SM - discards Estate
+SM.SM - plays Bandit Camp
+SM.SM - draws Copper
+SM.SM - gains Spoils
+SM.SM - plays Forge
+SM.SM - trashes Estate, Silver
+SM.SM - gains Highway
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Horse Traders
+SM.SM - gains Horse Traders
+SM.SM - draws Moneylender, Hunting Party
+SM.SM - shuffles deck
+SM.SM - draws Hunting Party, Estate, Copper
+ 
+---------- Stef: turn 10 ----------
+Stef - plays Bandit Camp
+Stef - draws Hunting Party
+Stef - gains Spoils
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Estate, Copper, Spoils, Silver, Copper
+Stef - shuffles deck
+Stef - reveals Estate, Throne Room
+Stef - places Throne Room in hand
+Stef - discards Estate
+Stef - plays 2 Copper, 1 Silver
+Stef - plays Spoils
+Stef - buys Forge
+Stef - gains Forge
+Stef - draws Copper, Copper, Hunting Party, Horse Traders, Moneylender
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Spoils
+SM.SM - reveals hand: Moneylender, Hunting Party, Estate, Copper, Spoils
+SM.SM - reveals Copper, Bandit Camp
+SM.SM - places Bandit Camp in hand
+SM.SM - discards Copper
+SM.SM - plays Hunting Party
+SM.SM - draws Highway
+SM.SM - reveals hand: Moneylender, Estate, Copper, Spoils, Bandit Camp, Highway
+SM.SM - reveals Forge
+SM.SM - places Forge in hand
+SM.SM - plays Bandit Camp
+SM.SM - draws Silver
+SM.SM - gains Spoils
+SM.SM - plays Forge
+SM.SM - trashes Silver, Estate
+SM.SM - gains Highway
+SM.SM - plays Highway
+SM.SM - draws Horse Traders
+SM.SM - plays Horse Traders
+SM.SM - discards Copper
+SM.SM - discards Moneylender
+SM.SM - plays Spoils
+SM.SM - buys Throne Room
+SM.SM - gains Throne Room
+SM.SM - buys Throne Room
+SM.SM - gains Throne Room
+SM.SM - shuffles deck
+SM.SM - draws Forge, Bandit Camp, Copper, Throne Room, Throne Room
+ 
+---------- Stef: turn 11 ----------
+Stef - plays Hunting Party
+Stef - draws Highway
+Stef - reveals hand: Copper, Copper, Horse Traders, Moneylender, Highway
+Stef - reveals Estate
+Stef - places Estate in hand
+Stef - plays Highway
+Stef - draws Copper
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays 2 Copper
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Hunting Party, Spoils, Throne Room
+Stef - shuffles deck
+Stef - draws Forge, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Throne Room
+SM.SM - plays Throne Room
+SM.SM - plays Bandit Camp
+SM.SM - draws Copper
+SM.SM - gains Spoils
+SM.SM - plays Bandit Camp
+SM.SM - draws Highway
+SM.SM - gains Spoils
+SM.SM - plays Throne Room
+SM.SM - plays Highway
+SM.SM - draws Moneylender
+SM.SM - plays Highway
+SM.SM - draws Horse Traders
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays Horse Traders
+SM.SM - discards Copper
+SM.SM - discards Forge
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Hunting Party, Spoils, Hunting Party, Highway
+SM.SM - shuffles deck
+SM.SM - draws Moneylender
+ 
+---------- Stef: turn 12 ----------
+Stef - plays Throne Room
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Spoils, Forge, Copper, Estate
+Stef - reveals Bandit Camp
+Stef - places Bandit Camp in hand
+Stef - plays Hunting Party
+Stef - draws Throne Room
+Stef - reveals hand: Spoils, Forge, Copper, Estate, Bandit Camp, Throne Room
+Stef - reveals Copper, Estate, Moneylender
+Stef - places Moneylender in hand
+Stef - discards: Copper, Estate
+Stef - plays Throne Room
+Stef - plays Bandit Camp
+Stef - draws Copper
+Stef - gains Spoils
+Stef - plays Bandit Camp
+Stef - draws Hunting Party
+Stef - gains Spoils
+Stef - plays Hunting Party
+Stef - draws Copper
+Stef - reveals hand: Spoils, Forge, Copper, Estate, Moneylender, Copper, Copper
+Stef - reveals Horse Traders
+Stef - places Horse Traders in hand
+Stef - plays Forge
+Stef - trashes Copper, Estate, Copper, Horse Traders
+Stef - gains Gold
+Stef - plays Moneylender
+Stef - trashes Copper
+Stef - plays Spoils
+Stef - buys Hunting Party
+Stef - gains Hunting Party
+Stef - draws Hunting Party, Silver, Estate, Hunting Party, Highway
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Hunting Party, Spoils, Highway, Moneylender, Hunting Party
+SM.SM - reveals Throne Room
+SM.SM - places Throne Room in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Throne Room
+SM.SM - reveals hand: Hunting Party, Spoils, Highway, Moneylender, Throne Room, Throne Room
+SM.SM - reveals Forge
+SM.SM - places Forge in hand
+SM.SM - plays Throne Room
+SM.SM - plays Throne Room
+SM.SM - plays Hunting Party
+SM.SM - draws Spoils
+SM.SM - reveals hand: Spoils, Highway, Moneylender, Forge, Spoils
+SM.SM - reveals Silver
+SM.SM - places Silver in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Spoils, Highway, Moneylender, Forge, Spoils, Silver, Copper
+SM.SM - reveals Bandit Camp
+SM.SM - places Bandit Camp in hand
+SM.SM - plays Throne Room
+SM.SM - plays Bandit Camp
+SM.SM - draws Horse Traders
+SM.SM - gains Spoils
+SM.SM - plays Bandit Camp
+SM.SM - draws Spoils
+SM.SM - gains Spoils
+SM.SM - plays Forge
+SM.SM - trashes Copper, Moneylender
+SM.SM - gains Throne Room
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - shuffles deck
+SM.SM - draws Throne Room
+SM.SM - plays Horse Traders
+SM.SM - discards Silver
+SM.SM - discards Throne Room
+SM.SM - plays Spoils
+SM.SM - plays Spoils
+SM.SM - plays Spoils
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Spoils, Spoils
+SM.SM - shuffles deck
+SM.SM - draws Horse Traders, Province, Throne Room
+ 
+---------- Stef: turn 13 ----------
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Copper
+Stef - reveals hand: Hunting Party, Silver, Estate, Highway, Copper
+Stef - reveals Hunting Party, Forge
+Stef - places Forge in hand
+Stef - discards Hunting Party
+Stef - plays Highway
+Stef - draws Hunting Party
+Stef - plays Hunting Party
+Stef - draws Estate
+Stef - reveals hand: Hunting Party, Silver, Estate, Copper, Forge, Estate
+Stef - reveals Spoils
+Stef - places Spoils in hand
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Silver, Estate, Copper, Forge, Estate, Spoils, Hunting Party
+Stef - reveals Moneylender
+Stef - places Moneylender in hand
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Silver, Estate, Copper, Forge, Estate, Spoils, Moneylender, Gold
+Stef - reveals Throne Room
+Stef - places Throne Room in hand
+Stef - plays Throne Room
+Stef - plays Forge
+Stef - trashes Estate, Silver
+Stef - gains Horse Traders
+Stef - plays Forge
+Stef - trashes Moneylender, Estate, Copper
+Stef - gains Rabble
+Stef - plays 1 Gold
+Stef - plays Spoils
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Bandit Camp, Throne Room, Spoils
+Stef - shuffles deck
+Stef - draws Hunting Party, Highway
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Horse Traders
+SM.SM - discards Province
+SM.SM - discards Throne Room
+SM.SM - plays Spoils
+SM.SM - plays Spoils
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - buys Horse Traders
+SM.SM - gains Horse Traders
+SM.SM - draws Bandit Camp, Highway, Forge, Hunting Party, Throne Room
+ 
+---------- Stef: turn 14 ----------
+Stef - plays Throne Room
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Bandit Camp, Spoils, Highway, Hunting Party
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Bandit Camp, Spoils, Highway, Hunting Party, Gold, Hunting Party
+Stef - reveals Hunting Party, Rabble
+Stef - places Rabble in hand
+Stef - discards Hunting Party
+Stef - plays Hunting Party
+Stef - draws Horse Traders
+Stef - reveals hand: Bandit Camp, Spoils, Highway, Gold, Hunting Party, Rabble, Horse Traders
+Stef - reveals Hunting Party, Throne Room
+Stef - places Throne Room in hand
+Stef - discards Hunting Party
+Stef - plays Bandit Camp
+Stef - draws Forge
+Stef - gains Spoils
+Stef - plays Throne Room
+Stef - plays Horse Traders
+Stef - discards Forge
+Stef - discards Gold
+Stef - plays Horse Traders
+Stef - discards Spoils
+Stef - discards Highway
+Stef - plays Hunting Party
+Stef - draws Highway
+Stef - reveals hand: Rabble, Highway
+Stef - shuffles deck
+Stef - reveals Forge
+Stef - places Forge in hand
+Stef - plays Rabble
+Stef - draws Hunting Party, Spoils, Hunting Party
+SM.SM - reveals Highway, Silver, Hunting Party
+SM.SM - discards: Highway, Silver, Hunting Party
+Stef - plays Hunting Party
+Stef - draws Spoils
+Stef - reveals hand: Highway, Forge, Hunting Party, Spoils, Spoils
+Stef - reveals Gold
+Stef - places Gold in hand
+Stef - plays Highway
+Stef - draws Highway
+Stef - plays Highway
+Stef - plays Gold
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Highway
+Stef - gains Highway
+Stef - buys Tribute
+Stef - gains Tribute
+Stef - shuffles deck
+Stef - draws Highway, Rabble, Hunting Party, Throne Room, Highway
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Throne Room
+SM.SM - plays Hunting Party
+SM.SM - draws Throne Room
+SM.SM - reveals hand: Bandit Camp, Highway, Forge, Throne Room
+SM.SM - reveals Province
+SM.SM - places Province in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Bandit Camp, Highway, Forge, Throne Room, Province, Hunting Party
+SM.SM - shuffles deck
+SM.SM - reveals Highway, Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - discards Highway
+SM.SM - plays Throne Room
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Bandit Camp, Highway, Forge, Province, Horse Traders, Province
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Horse Traders
+SM.SM - reveals hand: Bandit Camp, Highway, Forge, Province, Horse Traders, Province, Hunting Party, Horse Traders
+SM.SM - reveals Hunting Party, Throne Room
+SM.SM - places Throne Room in hand
+SM.SM - discards Hunting Party
+SM.SM - plays Highway
+SM.SM - draws Silver
+SM.SM - plays Bandit Camp
+SM.SM - shuffles deck
+SM.SM - draws Hunting Party
+SM.SM - gains Spoils
+SM.SM - plays Throne Room
+SM.SM - plays Horse Traders
+SM.SM - discards Province
+SM.SM - discards Silver
+SM.SM - plays Horse Traders
+SM.SM - discards Horse Traders
+SM.SM - discards Forge
+SM.SM - plays Hunting Party
+SM.SM - draws Highway
+SM.SM - reveals hand: Province, Hunting Party, Highway
+SM.SM - shuffles deck
+SM.SM - reveals Silver
+SM.SM - places Silver in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Province, Highway, Silver, Province
+SM.SM - reveals Forge
+SM.SM - places Forge in hand
+SM.SM - plays Highway
+SM.SM - draws Spoils
+SM.SM - plays 1 Silver
+SM.SM - plays Spoils
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - buys Inn
+SM.SM - gains Inn
+SM.SM - places Highway, Highway, Inn on top of deck
+SM.SM - shuffles deck
+SM.SM - draws Highway, Inn, Highway, Horse Traders
+SM.SM - shuffles deck
+SM.SM - draws Throne Room
+ 
+---------- Stef: turn 15 ----------
+Stef - plays Highway
+Stef - draws Tribute
+Stef - plays Highway
+Stef - draws Horse Traders
+Stef - plays Throne Room
+Stef - plays Tribute
+SM.SM - reveals: Province, Throne Room
+Stef - receives 2 actions
+Stef - draws Hunting Party, Throne Room
+SM.SM - discards: Province, Throne Room
+Stef - plays Tribute
+SM.SM - reveals: Hunting Party, Bandit Camp
+Stef - receives 4 actions
+SM.SM - discards: Hunting Party, Bandit Camp
+Stef - plays Hunting Party
+Stef - draws Spoils
+Stef - reveals hand: Rabble, Hunting Party, Horse Traders, Throne Room, Spoils
+Stef - reveals Forge
+Stef - places Forge in hand
+Stef - plays Hunting Party
+Stef - draws Gold
+Stef - reveals hand: Rabble, Horse Traders, Throne Room, Spoils, Forge, Gold
+Stef - reveals Hunting Party
+Stef - places Hunting Party in hand
+Stef - plays Hunting Party
+Stef - draws Highway
+Stef - reveals hand: Rabble, Horse Traders, Throne Room, Spoils, Forge, Gold, Highway
+Stef - reveals Highway, Bandit Camp
+Stef - places Bandit Camp in hand
+Stef - discards Highway
+Stef - plays Highway
+Stef - draws Hunting Party
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Rabble, Horse Traders, Throne Room, Spoils, Forge, Gold, Bandit Camp, Hunting Party
+Stef - shuffles deck
+Stef - reveals Spoils, Highway
+Stef - places Highway in hand
+Stef - discards Spoils
+Stef - plays Highway
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - plays Forge
+Stef - trashes Spoils
+Stef - gains Horse Traders
+Stef - plays Throne Room
+Stef - plays Horse Traders
+Stef - discards Bandit Camp
+Stef - discards Gold
+Stef - plays Horse Traders
+Stef - discards Hunting Party
+Stef - discards Spoils
+Stef - plays Rabble
+SM.SM - reveals reaction Horse Traders
+Stef - shuffles deck
+Stef - draws Bandit Camp, Gold, Spoils
+SM.SM - reveals Highway, Forge, Throne Room
+SM.SM - discards: Highway, Forge, Throne Room
+Stef - plays Bandit Camp
+Stef - draws Horse Traders
+Stef - gains Spoils
+Stef - plays Horse Traders
+Stef - discards Spoils
+Stef - discards Gold
+Stef - buys Province
+Stef - gains Province
+Stef - buys Throne Room
+Stef - gains Throne Room
+Stef - buys Rabble
+Stef - gains Rabble
+Stef - buys Highway
+Stef - gains Highway
+Stef - draws Hunting Party
+Stef - shuffles deck
+Stef - draws Bandit Camp, Highway, Province, Rabble
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - duration Horse Traders
+SM.SM - draws Hunting Party
+SM.SM - plays Highway
+SM.SM - draws Horse Traders
+SM.SM - plays Throne Room
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Highway, Inn, Horse Traders, Horse Traders, Silver
+SM.SM - reveals Highway, Province
+SM.SM - places Province in hand
+SM.SM - discards Highway
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Highway, Inn, Horse Traders, Horse Traders, Silver, Province, Hunting Party
+SM.SM - shuffles deck
+SM.SM - reveals Hunting Party, Province, Highway, Throne Room
+SM.SM - places Throne Room in hand
+SM.SM - discards: Hunting Party, Province, Highway
+SM.SM - plays Inn
+SM.SM - draws Bandit Camp, Throne Room
+SM.SM - discards Province
+SM.SM - discards Horse Traders
+SM.SM - plays Throne Room
+SM.SM - plays Throne Room
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Highway, Horse Traders, Silver, Bandit Camp, Hunting Party
+SM.SM - reveals Forge
+SM.SM - places Forge in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Highway
+SM.SM - reveals hand: Highway, Horse Traders, Silver, Bandit Camp, Hunting Party, Forge, Highway
+SM.SM - shuffles deck
+SM.SM - reveals Province
+SM.SM - places Province in hand
+SM.SM - plays Throne Room
+SM.SM - plays Horse Traders
+SM.SM - discards Silver
+SM.SM - discards Province
+SM.SM - plays Horse Traders
+SM.SM - discards Forge
+SM.SM - discards Highway
+SM.SM - plays Hunting Party
+SM.SM - draws Horse Traders
+SM.SM - reveals hand: Highway, Bandit Camp, Horse Traders
+SM.SM - reveals Highway, Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - discards Highway
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Highway, Bandit Camp, Horse Traders, Province
+SM.SM - shuffles deck
+SM.SM - reveals Province, Forge
+SM.SM - places Forge in hand
+SM.SM - discards Province
+SM.SM - plays Bandit Camp
+SM.SM - draws Silver
+SM.SM - gains Spoils
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - shuffles deck
+SM.SM - draws Province
+SM.SM - plays Horse Traders
+SM.SM - discards Province
+SM.SM - discards Province
+SM.SM - plays 1 Silver
+SM.SM - buys Rabble
+SM.SM - gains Rabble
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - buys Rabble
+SM.SM - gains Rabble
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Spoils
+SM.SM - shuffles deck
+SM.SM - draws Horse Traders, Rabble, Province, Throne Room
+ 
+---------- Stef: turn 16 ----------
+Stef - plays Highway
+Stef - draws Throne Room
+Stef - plays Hunting Party
+Stef - draws Horse Traders
+Stef - reveals hand: Bandit Camp, Province, Rabble, Throne Room, Horse Traders
+Stef - reveals Throne Room, Throne Room, Horse Traders, Forge
+Stef - places Forge in hand
+Stef - discards: Throne Room, Throne Room, Horse Traders
+Stef - plays Bandit Camp
+Stef - draws Hunting Party
+Stef - gains Spoils
+Stef - plays Hunting Party
+Stef - draws Tribute
+Stef - reveals hand: Province, Rabble, Throne Room, Horse Traders, Forge, Tribute
+Stef - reveals Spoils
+Stef - places Spoils in hand
+Stef - plays Throne Room
+Stef - plays Rabble
+SM.SM - reveals reaction Horse Traders
+Stef - draws Highway, Spoils, Hunting Party
+SM.SM - reveals Duchy, Forge, Highway
+SM.SM - discards: Forge, Highway
+SM.SM - places Duchy on top of deck
+Stef - plays Rabble
+Stef - draws Hunting Party, Highway, Highway
+SM.SM - reveals Duchy, Highway, Bandit Camp
+SM.SM - discards: Highway, Bandit Camp
+SM.SM - places Duchy on top of deck
+Stef - plays Highway
+Stef - draws Rabble
+Stef - plays Highway
+Stef - draws Gold
+Stef - plays Hunting Party
+Stef - draws Hunting Party
+Stef - reveals hand: Province, Horse Traders, Forge, Tribute, Spoils, Highway, Spoils, Hunting Party, Rabble, Gold, Hunting Party
+Stef - shuffles deck
+Stef - reveals Highway, Throne Room
+Stef - places Throne Room in hand
+Stef - discards Highway
+Stef - plays Highway
+Stef - draws Spoils
+Stef - plays Hunting Party
+Stef - draws Throne Room
+Stef - reveals hand: Province, Horse Traders, Forge, Tribute, Spoils, Spoils, Hunting Party, Rabble, Gold, Throne Room, Spoils, Throne Room
+Stef - shuffles deck
+Stef - reveals Horse Traders, Highway
+Stef - places Highway in hand
+Stef - discards Horse Traders
+Stef - plays Throne Room
+Stef - plays Throne Room
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Forge
+Stef - plays Horse Traders
+Stef - discards Gold
+Stef - discards Spoils
+Stef - plays Throne Room
+Stef - plays Tribute
+SM.SM - reveals: Duchy, Hunting Party
+Stef - receives 2 actions
+Stef - shuffles deck
+Stef - draws Province, Horse Traders
+SM.SM - discards: Duchy, Hunting Party
+Stef - plays Tribute
+SM.SM - reveals: Province, Hunting Party
+Stef - receives 2 actions
+Stef - draws Gold, Forge
+SM.SM - discards: Province, Hunting Party
+Stef - plays Forge
+Stef - trashes Spoils
+Stef - gains Throne Room
+Stef - plays Rabble
+Stef - draws Spoils
+Stef - shuffles deck
+Stef - draws Throne Room
+SM.SM - reveals Highway, Hunting Party, Silver
+SM.SM - discards: Highway, Hunting Party, Silver
+Stef - plays Throne Room
+Stef - plays Horse Traders
+Stef - discards Province
+Stef - discards Gold
+Stef - plays Horse Traders
+Stef - discards Spoils
+Stef - discards Spoils
+Stef - plays Hunting Party
+Stef - shuffles deck
+Stef - draws Spoils
+Stef - reveals hand: Highway, Spoils
+Stef - reveals Province
+Stef - places Province in hand
+Stef - plays Highway
+Stef - draws Spoils
+Stef - plays Spoils
+Stef - plays Spoils
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - buys Province
+Stef - gains Province
+Stef - draws Gold
+Stef - shuffles deck
+Stef - draws Throne Room, Bandit Camp, Tribute, Forge
+ 
+------------ Game Over ------------
+Stef - cards: 5 Hunting Party, 5 Highway, 4 Throne Room, 2 Rabble, 2 Horse Traders, 1 Bandit Camp, 1 Tribute, 1 Forge, 1 Gold, 6 Province
+Stef - total victory points: 36
+Stef - turns: 16
+ 
+SM.SM - cards: 5 Hunting Party, 4 Highway, 3 Throne Room, 2 Horse Traders, 2 Rabble, 1 Inn, 1 Bandit Camp, 1 Forge, 1 Silver, 1 Spoils, 2 Province, 1 Duchy
+SM.SM - total victory points: 15
+SM.SM - turns: 15
+ 
+1st place: Stef
+2nd place: SM.SM
+ 
