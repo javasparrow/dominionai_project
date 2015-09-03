@@ -6,14 +6,15 @@ require 'active_support/time'
 
 open("name.txt") do |file|
   file.each do |name|
+      puts name
     
 if name.empty? || name == "\n"
 	next
 end
 
-START_YEAR = 2013
-START_DATE = 11
-START_MONTH = 4
+START_YEAR = 2015 #2015
+START_DATE = 19 #19
+START_MONTH = 5 #5
 
 # Firefox用のドライバを使う
 driver = Selenium::WebDriver.for :firefox
@@ -83,7 +84,7 @@ sleep 10
 
 elements = driver.find_elements(:link_text => "Log")
 puts elements.size
-
+PLAYER_NAME = name
 FileUtils.mkdir_p('./logs/' + PLAYER_NAME) unless FileTest.exist?('./logs/' + PLAYER_NAME)
 
 elements.each{|element|
