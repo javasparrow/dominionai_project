@@ -2,7 +2,7 @@
 
 cd makeTeacherData
 
-echo $1
+echo "ActionLearning:"$1
 
 ruby parseLogs.rb $1
 

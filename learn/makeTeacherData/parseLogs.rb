@@ -17,7 +17,7 @@ if(ARGV.length == 1)
   elsif(ARGV[0] == "remodel")
     featureMode = GokoLogParser::MODE_ACTION_REMODEL
     puts "remodelMode"
-  elsif(ARGV[0] == "throne")
+  elsif(ARGV[0] == "throneroom")
     featureMode = GokoLogParser::MODE_ACTION_THRONE
     puts "throneMode"
   elsif(ARGV[0] == "chancellor")
@@ -71,14 +71,26 @@ if(featureMode == GokoLogParser::MODE_ARAI)
 else
 
 File.open("result_" + ARGV[0] + ".txt", 'w'){|out|
-
-  Dir::glob("./logfiles/*").each{|f|
-    parser = GokoLogParser.new
-    File.open(f, 'r') {|file|
-      puts f
-      parser.parse(file, out, featureMode, nil)
+    
+    File.open("./../../logdownloader/filteredLogList/base_2player.txt","r"){|filter|
+        filter.each_line {|filename|
+            parser = GokoLogParser.new
+            fname = "./../../logdownloader/" + filename[2,filename.length-2]
+            puts fname
+            File.open(fname.chomp,"r"){|log|
+                puts filename
+                parser.parse(log,out,featureMode,nil)
+            }
+        }
     }
-  }
+
+#Dir::glob("./logfiles/*").each{|f|
+      #parser = GokoLogParser.new
+    #File.open(f, 'r') {|file|
+        #puts f
+      #parser.parse(file, out, featureMode, nil)
+      #}
+      #}
 
 }
 end
