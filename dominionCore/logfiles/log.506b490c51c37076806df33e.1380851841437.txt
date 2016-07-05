@@ -1,0 +1,592 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Woodcutter, Feast, Militia, Moneylender, Remodel, Smithy, Throne Room, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Dadur - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dadur - shuffles deck
+hiroki - shuffles deck
+Dadur - draws Estate, Estate, Copper, Copper, Copper
+hiroki - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Dadur: turn 1 ----------
+Dadur - plays 3 Copper
+Dadur - buys Chapel
+Dadur - gains Chapel
+Dadur - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - shuffles deck
+hiroki - draws Chapel, Estate, Copper, Copper, Feast
+ 
+---------- Dadur: turn 2 ----------
+Dadur - plays 4 Copper
+Dadur - buys Militia
+Dadur - gains Militia
+Dadur - shuffles deck
+Dadur - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Dadur: turn 3 ----------
+Dadur - plays 3 Copper
+Dadur - buys Village
+Dadur - gains Village
+Dadur - draws Estate, Militia, Copper, Copper, Copper
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 4 Copper
+hiroki - buys Militia
+hiroki - gains Militia
+hiroki - draws Copper, Estate
+hiroki - shuffles deck
+hiroki - draws Feast, Copper, Militia
+ 
+---------- Dadur: turn 4 ----------
+Dadur - plays Militia
+hiroki - discards Feast
+hiroki - discards Estate
+Dadur - plays 3 Copper
+Dadur - buys Throne Room
+Dadur - gains Throne Room
+Dadur - draws Copper, Chapel
+Dadur - shuffles deck
+Dadur - draws Village, Copper, Estate
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Copper
+hiroki - plays Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Estate, Chapel, Copper, Copper, Copper
+ 
+---------- Dadur: turn 5 ----------
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays Chapel
+Dadur - trashes Estate, Copper
+Dadur - draws Copper, Copper, Copper, Militia, Throne Room
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Feast, Copper, Village
+ 
+---------- Dadur: turn 6 ----------
+Dadur - plays Throne Room
+Dadur - plays Militia
+hiroki - discards Estate
+hiroki - discards Copper
+Dadur - plays Militia
+Dadur - plays 3 Copper
+Dadur - buys Gold
+Dadur - gains Gold
+Dadur - draws Estate, Copper, Estate
+Dadur - shuffles deck
+Dadur - draws Village, Copper
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Smithy
+hiroki - plays Chapel
+hiroki - draws Militia
+hiroki - shuffles deck
+hiroki - draws Smithy, Estate, Village, Copper
+ 
+---------- Dadur: turn 7 ----------
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays 3 Copper
+Dadur - buys Village
+Dadur - gains Village
+Dadur - draws Copper, Copper, Chapel, Gold, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Smithy
+hiroki - draws Chapel
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Chapel
+hiroki - plays 2 Copper
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - shuffles deck
+hiroki - draws Smithy, Throne Room, Village, Militia, Copper
+ 
+---------- Dadur: turn 8 ----------
+Dadur - plays 2 Copper, 1 Gold
+Dadur - buys Militia
+Dadur - gains Militia
+Dadur - draws Militia, Throne Room
+Dadur - shuffles deck
+Dadur - draws Copper, Village, Copper
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Estate
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Smithy
+hiroki - draws Chapel
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Copper
+hiroki - plays Chapel
+hiroki - trashes Estate
+hiroki - plays Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Chapel, Throne Room, Village, Village, Copper
+ 
+---------- Dadur: turn 9 ----------
+Dadur - plays Throne Room
+Dadur - plays Village
+Dadur - draws Chapel
+Dadur - plays Village
+Dadur - draws Militia
+Dadur - plays Militia
+hiroki - discards Chapel
+hiroki - discards Copper
+Dadur - plays Militia
+Dadur - plays Chapel
+Dadur - buys Smithy
+Dadur - gains Smithy
+Dadur - draws Estate, Village, Estate, Copper, Gold
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Smithy
+hiroki - draws Militia
+hiroki - shuffles deck
+hiroki - draws Chapel, Copper
+hiroki - plays Throne Room
+hiroki - plays Militia
+Dadur - discards Estate
+Dadur - discards Estate
+hiroki - plays Militia
+hiroki - plays 2 Copper
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Throne Room, Smithy, Gold, Militia, Chapel
+ 
+---------- Dadur: turn 10 ----------
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays 2 Copper, 1 Gold
+Dadur - buys Village
+Dadur - gains Village
+Dadur - draws Copper, Copper
+Dadur - shuffles deck
+Dadur - draws Estate, Copper, Throne Room
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Throne Room
+hiroki - plays Militia
+Dadur - discards Throne Room
+Dadur - discards Estate
+hiroki - plays Militia
+hiroki - plays 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Village, Copper, Copper, Village
+hiroki - shuffles deck
+hiroki - draws Gold
+ 
+---------- Dadur: turn 11 ----------
+Dadur - plays 3 Copper
+Dadur - buys Village
+Dadur - gains Village
+Dadur - draws Estate, Gold, Copper, Village, Copper
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays 2 Copper, 2 Gold
+hiroki - buys Woodcutter
+hiroki - gains Woodcutter
+hiroki - draws Smithy, Chapel, Militia
+hiroki - shuffles deck
+hiroki - draws Woodcutter, Gold
+ 
+---------- Dadur: turn 12 ----------
+Dadur - plays Village
+Dadur - draws Village
+Dadur - plays Village
+Dadur - draws Militia
+Dadur - plays Militia
+hiroki - discards Chapel
+hiroki - discards Smithy
+Dadur - plays 2 Copper, 1 Gold
+Dadur - buys Gold
+Dadur - gains Gold
+Dadur - draws Village, Smithy, Militia, Chapel, Copper
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Militia
+Dadur - discards Chapel
+Dadur - discards Copper
+hiroki - plays 1 Gold
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Copper, Village, Gold, Copper, Throne Room
+ 
+---------- Dadur: turn 13 ----------
+Dadur - plays Village
+Dadur - shuffles deck
+Dadur - draws Gold
+Dadur - plays Smithy
+Dadur - draws Village, Copper, Estate
+Dadur - plays Village
+Dadur - draws Estate
+Dadur - plays Militia
+hiroki - discards Copper
+hiroki - discards Copper
+Dadur - plays 1 Gold, 1 Copper
+Dadur - buys Gold
+Dadur - gains Gold
+Dadur - draws Copper, Chapel, Gold, Copper, Copper
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays 2 Gold, 1 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Smithy, Chapel, Woodcutter, Militia, Throne Room
+ 
+---------- Dadur: turn 14 ----------
+Dadur - plays Chapel
+Dadur - trashes Copper, Copper, Copper
+Dadur - plays 1 Gold
+Dadur - buys Village
+Dadur - gains Village
+Dadur - draws Copper, Copper, Throne Room, Village, Militia
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Throne Room
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Copper
+hiroki - plays Militia
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Smithy, Village, Woodcutter, Copper
+ 
+---------- Dadur: turn 15 ----------
+Dadur - plays Throne Room
+Dadur - plays Village
+Dadur - draws Village
+Dadur - plays Village
+Dadur - shuffles deck
+Dadur - draws Smithy
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays Smithy
+Dadur - draws Estate, Village, Gold
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays Militia
+hiroki - discards Copper
+hiroki - discards Copper
+Dadur - plays 2 Copper, 1 Gold
+Dadur - buys Gold
+Dadur - gains Gold
+Dadur - draws Estate, Gold, Militia, Gold, Chapel
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - draws Village, Militia, Gold
+hiroki - plays Smithy
+hiroki - draws Throne Room, Chapel, Gold
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Smithy
+hiroki - draws Copper
+hiroki - plays Militia
+Dadur - discards Chapel
+Dadur - discards Estate
+hiroki - plays Woodcutter
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper
+hiroki - plays 2 Gold
+hiroki - buys Village
+hiroki - gains Village
+hiroki - buys Remodel
+hiroki - gains Remodel
+hiroki - shuffles deck
+hiroki - draws Village, Village, Gold, Woodcutter, Remodel
+ 
+---------- Dadur: turn 16 ----------
+Dadur - plays Militia
+hiroki - discards Remodel
+hiroki - discards Woodcutter
+Dadur - plays 2 Gold
+Dadur - buys Province
+Dadur - gains Province
+Dadur - draws Copper, Village, Village
+Dadur - shuffles deck
+Dadur - draws Village, Chapel
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Village
+hiroki - draws Chapel
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Militia
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Chapel
+hiroki - plays 1 Gold
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - draws Gold, Throne Room, Smithy, Throne Room, Smithy
+ 
+---------- Dadur: turn 17 ----------
+Dadur - plays Village
+Dadur - draws Estate
+Dadur - plays Village
+Dadur - draws Gold
+Dadur - plays Village
+Dadur - draws Gold
+Dadur - plays 2 Gold
+Dadur - buys Gold
+Dadur - gains Gold
+Dadur - draws Village, Province, Copper, Militia, Village
+ 
+---------- hiroki: turn 18 ----------
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Smithy, Village, Remodel
+hiroki - plays Smithy
+hiroki - draws Village, Woodcutter, Chapel
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Militia
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Remodel
+hiroki - trashes Chapel
+hiroki - gains Throne Room
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Throne Room
+hiroki - plays Village
+hiroki - plays Militia
+Dadur - discards Copper
+Dadur - discards Province
+hiroki - plays Throne Room
+hiroki - plays Woodcutter
+hiroki - plays Woodcutter
+hiroki - plays 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Smithy, Throne Room, Woodcutter, Gold, Smithy
+ 
+---------- Dadur: turn 18 ----------
+Dadur - plays Village
+Dadur - draws Smithy
+Dadur - plays Village
+Dadur - draws Estate
+Dadur - plays Smithy
+Dadur - draws Copper, Gold, Gold
+Dadur - plays Militia
+hiroki - discards Smithy
+hiroki - discards Smithy
+Dadur - plays 2 Gold, 1 Copper
+Dadur - buys Province
+Dadur - gains Province
+Dadur - draws Militia, Throne Room
+Dadur - shuffles deck
+Dadur - draws Gold, Village, Smithy
+ 
+---------- hiroki: turn 19 ----------
+hiroki - plays Throne Room
+hiroki - plays Woodcutter
+hiroki - plays Woodcutter
+hiroki - plays 1 Gold
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - draws Village, Village, Smithy, Gold, Throne Room
+ 
+---------- Dadur: turn 19 ----------
+Dadur - plays Village
+Dadur - draws Copper
+Dadur - plays Throne Room
+Dadur - plays Smithy
+Dadur - draws Copper, Militia, Gold
+Dadur - plays Smithy
+Dadur - draws Village, Province, Village
+Dadur - plays Village
+Dadur - draws Province
+Dadur - plays Village
+Dadur - draws Gold
+Dadur - plays Militia
+hiroki - discards Village
+hiroki - discards Gold
+Dadur - plays Militia
+Dadur - plays 3 Gold, 2 Copper
+Dadur - buys Province
+Dadur - gains Province
+Dadur - draws Gold, Copper, Gold, Village, Chapel
+ 
+---------- hiroki: turn 20 ----------
+hiroki - plays Village
+hiroki - draws Throne Room
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - draws Province, Remodel, Village
+hiroki - plays Smithy
+hiroki - draws Militia, Village, Village
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Smithy
+hiroki - draws Throne Room, Woodcutter, Smithy
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Throne Room
+hiroki - plays Woodcutter
+hiroki - plays Woodcutter
+hiroki - plays Militia
+Dadur - discards Chapel
+Dadur - discards Copper
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays 2 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Remodel
+hiroki - gains Remodel
+hiroki - shuffles deck
+hiroki - draws Smithy, Province, Throne Room, Village, Throne Room
+ 
+---------- Dadur: turn 20 ----------
+Dadur - plays Village
+Dadur - draws Estate
+Dadur - plays 2 Gold
+Dadur - buys Duchy
+Dadur - gains Duchy
+Dadur - draws Estate, Village
+Dadur - shuffles deck
+Dadur - draws Village, Duchy, Village
+ 
+---------- hiroki: turn 21 ----------
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - draws Village, Smithy, Woodcutter
+hiroki - plays Smithy
+hiroki - draws Remodel, Gold, Remodel
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Militia
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Smithy
+hiroki - draws Throne Room, Province, Province
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Gold
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Throne Room
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays Militia
+Dadur - discards Estate
+Dadur - discards Duchy
+hiroki - plays Remodel
+hiroki - trashes Smithy
+hiroki - gains Duchy
+hiroki - plays Woodcutter
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - shuffles deck
+hiroki - draws Throne Room, Throne Room, Militia, Woodcutter, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 5 Village, 3 Throne Room, 2 Remodel, 2 Smithy, 1 Militia, 1 Woodcutter, 5 Province, 2 Estate, 1 Duchy
+hiroki - total victory points: 35
+hiroki - turns: 21
+ 
+Dadur - cards: 5 Village, 2 Militia, 1 Smithy, 1 Chapel, 1 Throne Room, 5 Gold, 3 Copper, 3 Province, 2 Estate, 1 Duchy
+Dadur - total victory points: 23
+Dadur - turns: 20
+ 
+1st place: hiroki
+2nd place: Dadur
+ 

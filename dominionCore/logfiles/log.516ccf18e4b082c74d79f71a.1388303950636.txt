@@ -1,0 +1,576 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Feast, Moneylender, Thief, Council Room, Festival, Mine, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Subtle - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yuuna_tu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Subtle - shuffles deck
+yuuna_tu - shuffles deck
+Subtle - draws Copper, Estate, Copper, Estate, Copper
+yuuna_tu - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Subtle: turn 1 ----------
+Subtle - plays 3 Copper
+Subtle - buys Silver
+Subtle - gains Silver
+Subtle - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yuuna_tu: turn 1 ----------
+yuuna_tu - plays 5 Copper
+yuuna_tu - buys Witch
+yuuna_tu - gains Witch
+yuuna_tu - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Subtle: turn 2 ----------
+Subtle - plays 4 Copper
+Subtle - buys Feast
+Subtle - gains Feast
+Subtle - shuffles deck
+Subtle - draws Estate, Estate, Copper, Feast, Estate
+ 
+---------- yuuna_tu: turn 2 ----------
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - shuffles deck
+yuuna_tu - draws Estate, Witch, Estate, Copper, Copper
+ 
+---------- Subtle: turn 3 ----------
+Subtle - plays Feast
+Subtle - trashes Feast
+Subtle - gains Witch
+Subtle - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- yuuna_tu: turn 3 ----------
+yuuna_tu - plays Witch
+yuuna_tu - draws Cellar, Copper
+Subtle - gains Curse
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Subtle: turn 4 ----------
+Subtle - plays 4 Copper, 1 Silver
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Copper, Copper
+Subtle - shuffles deck
+Subtle - draws Estate, Gold, Copper
+ 
+---------- yuuna_tu: turn 4 ----------
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Moneylender
+yuuna_tu - gains Moneylender
+yuuna_tu - shuffles deck
+yuuna_tu - draws Cellar, Copper, Copper, Estate, Copper
+ 
+---------- Subtle: turn 5 ----------
+Subtle - plays 3 Copper, 1 Gold
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- yuuna_tu: turn 5 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Copper
+yuuna_tu - discards Estate
+yuuna_tu - discards Copper
+yuuna_tu - draws Copper, Witch, Estate, Moneylender
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Copper
+Subtle - gains Curse
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Copper, Estate, Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Copper
+ 
+---------- Subtle: turn 6 ----------
+Subtle - plays 4 Copper, 1 Silver
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Estate, Witch, Curse, Estate
+Subtle - shuffles deck
+Subtle - draws Copper
+ 
+---------- yuuna_tu: turn 6 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Copper, Moneylender, Cellar, Estate, Copper
+ 
+---------- Subtle: turn 7 ----------
+Subtle - plays Witch
+Subtle - draws Copper, Curse
+yuuna_tu - gains Curse
+Subtle - plays 2 Copper
+Subtle - buys Cellar
+Subtle - gains Cellar
+Subtle - draws Gold, Copper, Estate, Copper, Silver
+ 
+---------- yuuna_tu: turn 7 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Estate
+yuuna_tu - discards Copper
+yuuna_tu - draws Witch, Village, Copper
+yuuna_tu - plays Village
+yuuna_tu - draws Estate
+yuuna_tu - plays Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Village
+Subtle - gains Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Witch
+yuuna_tu - gains Witch
+yuuna_tu - draws Village, Estate, Curse, Copper, Copper
+ 
+---------- Subtle: turn 8 ----------
+Subtle - plays 2 Copper, 1 Gold, 1 Silver
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Gold, Copper, Copper, Copper, Gold
+ 
+---------- yuuna_tu: turn 8 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - draws Estate, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Copper, Estate, Estate
+ 
+---------- Subtle: turn 9 ----------
+Subtle - plays 3 Copper, 2 Gold
+Subtle - buys Province
+Subtle - gains Province
+Subtle - shuffles deck
+Subtle - draws Copper, Copper, Silver, Copper, Witch
+ 
+---------- yuuna_tu: turn 9 ----------
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Cellar, Witch, Copper, Village, Moneylender
+ 
+---------- Subtle: turn 10 ----------
+Subtle - plays Witch
+Subtle - draws Copper, Curse
+yuuna_tu - gains Curse
+Subtle - plays 4 Copper, 1 Silver
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Curse, Copper, Copper, Estate, Cellar
+ 
+---------- yuuna_tu: turn 10 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Witch
+yuuna_tu - draws Village, Village
+Subtle - gains Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Cellar
+yuuna_tu - discards Curse
+yuuna_tu - discards Copper
+yuuna_tu - draws Copper, Witch
+yuuna_tu - plays Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Curse, Curse
+Subtle - gains Curse
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Council Room
+yuuna_tu - gains Council Room
+yuuna_tu - draws Estate, Copper, Estate, Copper, Cellar
+ 
+---------- Subtle: turn 11 ----------
+Subtle - plays Cellar
+Subtle - discards Estate
+Subtle - discards Curse
+Subtle - draws Copper, Estate
+Subtle - plays 3 Copper
+Subtle - buys Village
+Subtle - gains Village
+Subtle - draws Province, Estate, Gold, Gold, Gold
+ 
+---------- yuuna_tu: turn 11 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Estate
+yuuna_tu - discards Copper
+yuuna_tu - discards Estate
+yuuna_tu - draws Estate, Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Council Room
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Council Room
+yuuna_tu - draws Village, Curse, Village, Witch
+Subtle - draws Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Cellar
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Village
+Subtle - gains Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Moneylender
+yuuna_tu - plays Village
+yuuna_tu - draws Estate
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Curse
+yuuna_tu - discards Estate
+yuuna_tu - draws Estate, Witch, Copper
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Curse
+Subtle - gains Curse
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 4 Copper
+yuuna_tu - buys Thief
+yuuna_tu - gains Thief
+yuuna_tu - buys Village
+yuuna_tu - gains Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Copper, Village, Estate, Copper
+ 
+---------- Subtle: turn 12 ----------
+Subtle - plays 4 Gold
+Subtle - buys Province
+Subtle - gains Province
+Subtle - draws Curse
+Subtle - shuffles deck
+Subtle - draws Gold, Copper, Gold, Silver
+ 
+---------- yuuna_tu: turn 12 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Council Room
+yuuna_tu - plays Council Room
+yuuna_tu - draws Cellar, Copper, Village, Witch
+Subtle - draws Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Moneylender
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Witch
+Subtle - gains Curse
+yuuna_tu - plays Witch
+yuuna_tu - draws Village, Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Thief
+Subtle - reveals: Cellar, Witch
+Subtle - discards: Cellar, Witch
+yuuna_tu - plays Cellar
+yuuna_tu - discards Curse
+yuuna_tu - discards Curse
+yuuna_tu - discards Estate
+yuuna_tu - draws Cellar, Village, Estate
+yuuna_tu - plays Village
+yuuna_tu - draws Estate
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 3 Copper
+yuuna_tu - buys Gold
+yuuna_tu - gains Gold
+yuuna_tu - shuffles deck
+yuuna_tu - draws Estate, Village, Village, Cellar, Curse
+ 
+---------- Subtle: turn 13 ----------
+Subtle - plays 3 Gold, 1 Copper, 1 Silver
+Subtle - buys Province
+Subtle - gains Province
+Subtle - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- yuuna_tu: turn 13 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Witch
+yuuna_tu - plays Village
+yuuna_tu - draws Council Room
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Moneylender
+yuuna_tu - plays Council Room
+yuuna_tu - draws Cellar, Curse, Copper, Copper
+Subtle - draws Gold
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Curse
+yuuna_tu - discards Copper
+yuuna_tu - discards Curse
+yuuna_tu - discards Copper
+yuuna_tu - draws Estate, Village, Gold, Witch, Estate
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Thief
+Subtle - reveals: Curse, Province
+Subtle - discards: Curse, Province
+yuuna_tu - plays Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Estate, Curse
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Estate
+yuuna_tu - discards Estate
+yuuna_tu - draws Curse, Copper, Copper
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 2 Copper, 1 Gold
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Copper
+yuuna_tu - gains Copper
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Province, Curse, Gold, Curse
+ 
+---------- Subtle: turn 14 ----------
+Subtle - plays 3 Copper, 1 Gold
+Subtle - buys Adventurer
+Subtle - gains Adventurer
+Subtle - draws Copper, Copper, Province, Curse, Curse
+ 
+---------- yuuna_tu: turn 14 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Witch
+yuuna_tu - plays Witch
+yuuna_tu - draws Cellar, Estate
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Curse
+yuuna_tu - discards Curse
+yuuna_tu - discards Province
+yuuna_tu - draws Estate, Thief, Copper, Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Copper
+yuuna_tu - discards Estate
+yuuna_tu - draws Moneylender, Estate
+yuuna_tu - plays Thief
+Subtle - reveals: Copper, Curse
+Subtle - trashes Copper
+Subtle - discards Curse
+yuuna_tu - plays 1 Gold
+yuuna_tu - buys Silver
+yuuna_tu - gains Silver
+yuuna_tu - draws Village, Copper, Village, Copper, Council Room
+ 
+---------- Subtle: turn 15 ----------
+Subtle - plays 2 Copper
+Subtle - buys Cellar
+Subtle - gains Cellar
+Subtle - draws Curse, Gold, Village, Curse, Estate
+ 
+---------- yuuna_tu: turn 15 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Witch
+yuuna_tu - plays Village
+yuuna_tu - shuffles deck
+yuuna_tu - draws Estate
+yuuna_tu - plays Council Room
+yuuna_tu - draws Province, Moneylender, Witch, Estate
+Subtle - shuffles deck
+Subtle - draws Silver
+yuuna_tu - plays Witch
+yuuna_tu - draws Copper, Village
+yuuna_tu - plays Witch
+yuuna_tu - draws Estate, Curse
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Thief
+yuuna_tu - plays Thief
+Subtle - reveals: Gold, Curse
+Subtle - trashes Gold
+Subtle - discards Curse
+yuuna_tu - gains Gold
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 2 Copper
+yuuna_tu - buys Festival
+yuuna_tu - gains Festival
+yuuna_tu - draws Gold, Cellar, Cellar, Silver, Curse
+ 
+---------- Subtle: turn 16 ----------
+Subtle - plays Village
+Subtle - draws Curse
+Subtle - plays 1 Gold, 1 Silver
+Subtle - buys Festival
+Subtle - gains Festival
+Subtle - draws Curse, Curse, Province, Curse, Province
+ 
+---------- yuuna_tu: turn 16 ----------
+yuuna_tu - plays Cellar
+yuuna_tu - discards Gold
+yuuna_tu - discards Cellar
+yuuna_tu - discards Silver
+yuuna_tu - discards Curse
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Gold, Village, Copper
+yuuna_tu - plays Village
+yuuna_tu - draws Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Curse
+yuuna_tu - plays 2 Gold, 1 Copper
+yuuna_tu - buys Gold
+yuuna_tu - gains Gold
+yuuna_tu - draws Silver, Festival, Witch, Cellar, Estate
+ 
+---------- Subtle: turn 17 ----------
+Subtle - draws Copper, Copper, Copper, Witch, Copper
+ 
+---------- yuuna_tu: turn 17 ----------
+yuuna_tu - plays Festival
+yuuna_tu - plays Witch
+yuuna_tu - draws Moneylender, Village
+yuuna_tu - plays Village
+yuuna_tu - draws Province
+yuuna_tu - plays Cellar
+yuuna_tu - discards Silver
+yuuna_tu - discards Estate
+yuuna_tu - discards Moneylender
+yuuna_tu - discards Province
+yuuna_tu - draws Witch, Curse, Village, Thief
+yuuna_tu - plays Village
+yuuna_tu - draws Estate
+yuuna_tu - plays Witch
+yuuna_tu - draws Village, Council Room
+yuuna_tu - plays Village
+yuuna_tu - draws Copper
+yuuna_tu - plays Thief
+Subtle - reveals: Gold, Estate
+Subtle - trashes Gold
+Subtle - discards Estate
+yuuna_tu - gains Gold
+yuuna_tu - plays Council Room
+yuuna_tu - draws Estate
+yuuna_tu - shuffles deck
+yuuna_tu - draws Moneylender, Cellar, Village
+Subtle - draws Copper
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Gold
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Curse
+yuuna_tu - discards Estate
+yuuna_tu - draws Copper, Silver, Province
+yuuna_tu - plays Moneylender
+yuuna_tu - trashes Copper
+yuuna_tu - plays 1 Gold, 1 Copper, 1 Silver
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Cellar
+yuuna_tu - gains Cellar
+yuuna_tu - draws Gold, Estate, Gold, Gold, Curse
+ 
+---------- Subtle: turn 18 ----------
+Subtle - plays Witch
+Subtle - draws Gold, Gold
+Subtle - plays 5 Copper, 2 Gold
+Subtle - buys Province
+Subtle - gains Province
+Subtle - draws Estate, Copper, Cellar, Province, Cellar
+ 
+---------- yuuna_tu: turn 18 ----------
+yuuna_tu - plays 3 Gold
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - shuffles deck
+yuuna_tu - draws Village, Province, Copper, Village, Silver
+ 
+---------- Subtle: turn 19 ----------
+Subtle - plays Cellar
+Subtle - discards Province
+Subtle - discards Copper
+Subtle - discards Estate
+Subtle - draws Curse, Adventurer
+Subtle - shuffles deck
+Subtle - draws Copper
+Subtle - plays Cellar
+Subtle - discards Curse
+Subtle - draws Province
+Subtle - plays Adventurer
+Subtle - reveals Village, Curse, Estate, Curse, Curse, Curse, Copper, Copper
+Subtle - places cards in hand:  Copper, Copper
+Subtle - discards: Village, Curse, Estate, Curse, Curse, Curse
+Subtle - plays 3 Copper
+Subtle - buys Estate
+Subtle - gains Estate
+Subtle - draws Province, Copper, Witch, Estate, Curse
+ 
+---------- yuuna_tu: turn 19 ----------
+yuuna_tu - plays Village
+yuuna_tu - draws Cellar
+yuuna_tu - plays Village
+yuuna_tu - draws Village
+yuuna_tu - plays Village
+yuuna_tu - draws Province
+yuuna_tu - plays Cellar
+yuuna_tu - discards Province
+yuuna_tu - discards Copper
+yuuna_tu - discards Silver
+yuuna_tu - discards Province
+yuuna_tu - draws Estate, Curse, Village, Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Cellar
+yuuna_tu - plays Cellar
+yuuna_tu - discards Curse
+yuuna_tu - discards Estate
+yuuna_tu - draws Thief, Council Room
+yuuna_tu - plays Council Room
+yuuna_tu - draws Cellar, Witch, Estate, Moneylender
+Subtle - draws Copper
+yuuna_tu - plays Witch
+yuuna_tu - draws Festival, Gold
+yuuna_tu - plays Festival
+yuuna_tu - plays Cellar
+yuuna_tu - discards Estate
+yuuna_tu - discards Thief
+yuuna_tu - discards Moneylender
+yuuna_tu - draws Village, Gold, Gold
+yuuna_tu - plays Village
+yuuna_tu - draws Province
+yuuna_tu - plays 4 Gold
+yuuna_tu - buys Province
+yuuna_tu - gains Province
+yuuna_tu - buys Duchy
+yuuna_tu - gains Duchy
+yuuna_tu - draws Curse, Estate, Witch
+yuuna_tu - shuffles deck
+yuuna_tu - draws Moneylender, Council Room
+ 
+------------ Game Over ------------
+yuuna_tu - cards: 5 Village, 3 Cellar, 2 Witch, 1 Moneylender, 1 Council Room, 1 Thief, 1 Festival, 4 Gold, 1 Copper, 1 Silver, 4 Province, 3 Estate, 1 Duchy, 2 Curse
+yuuna_tu - total victory points: 28
+yuuna_tu - turns: 19
+ 
+Subtle - cards: 2 Cellar, 1 Witch, 1 Village, 1 Adventurer, 1 Festival, 6 Copper, 3 Gold, 1 Silver, 4 Province, 4 Estate, 8 Curse
+Subtle - total victory points: 20
+Subtle - turns: 19
+ 
+1st place: yuuna_tu
+2nd place: Subtle
+ 

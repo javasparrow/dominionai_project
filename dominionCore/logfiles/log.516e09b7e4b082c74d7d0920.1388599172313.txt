@@ -1,0 +1,349 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Workshop, Bureaucrat, Remodel, Throne Room, Laboratory, Library, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Ghost ship - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ghost ship - shuffles deck
+fap_on_it - shuffles deck
+Ghost ship - draws Estate, Estate, Copper, Copper, Copper
+fap_on_it - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Ghost ship: turn 1 ----------
+Ghost ship - plays 3 Copper
+Ghost ship - buys Silver
+Ghost ship - gains Silver
+Ghost ship - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Silver, Copper, Copper, Silver
+ 
+---------- Ghost ship: turn 2 ----------
+Ghost ship - plays 4 Copper
+Ghost ship - buys Bureaucrat
+Ghost ship - gains Bureaucrat
+Ghost ship - shuffles deck
+Ghost ship - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays 3 Copper, 2 Silver
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Ghost ship: turn 3 ----------
+Ghost ship - plays 2 Copper, 1 Silver
+Ghost ship - buys Remodel
+Ghost ship - gains Remodel
+Ghost ship - draws Copper, Copper, Copper, Bureaucrat, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Estate, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Silver, Copper
+ 
+---------- Ghost ship: turn 4 ----------
+Ghost ship - plays Bureaucrat
+Ghost ship - gains Silver
+fap_on_it - reveals Estate
+fap_on_it - places Estate on top of deck
+Ghost ship - plays 4 Copper
+Ghost ship - buys Throne Room
+Ghost ship - gains Throne Room
+Ghost ship - draws Silver, Estate, Copper
+Ghost ship - shuffles deck
+Ghost ship - draws Copper, Remodel
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Ghost ship: turn 5 ----------
+Ghost ship - plays Remodel
+Ghost ship - trashes Estate
+Ghost ship - gains Remodel
+Ghost ship - plays 2 Copper, 1 Silver
+Ghost ship - buys Moat
+Ghost ship - gains Moat
+Ghost ship - draws Copper, Copper, Estate, Copper, Throne Room
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Witch, Estate, Copper, Silver, Silver
+ 
+---------- Ghost ship: turn 6 ----------
+Ghost ship - plays 3 Copper
+Ghost ship - buys Silver
+Ghost ship - gains Silver
+Ghost ship - draws Estate, Bureaucrat, Copper, Copper, Silver
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays Witch
+fap_on_it - shuffles deck
+fap_on_it - draws Silver, Silver
+Ghost ship - gains Curse
+fap_on_it - plays 4 Silver, 1 Copper
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Ghost ship: turn 7 ----------
+Ghost ship - plays Bureaucrat
+Ghost ship - gains Silver
+fap_on_it - reveals Copper, Copper, Copper, Copper, Copper
+Ghost ship - plays 2 Copper, 1 Silver
+Ghost ship - buys Throne Room
+Ghost ship - gains Throne Room
+Ghost ship - draws Silver
+Ghost ship - shuffles deck
+Ghost ship - draws Copper, Silver, Bureaucrat, Copper
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays 5 Copper
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Estate, Copper, Silver, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Estate
+ 
+---------- Ghost ship: turn 8 ----------
+Ghost ship - plays Bureaucrat
+Ghost ship - gains Silver
+fap_on_it - reveals Estate
+fap_on_it - places Estate on top of deck
+Ghost ship - plays 2 Silver, 2 Copper
+Ghost ship - buys Gold
+Ghost ship - gains Gold
+Ghost ship - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays 1 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Estate, Silver, Copper, Silver, Witch
+ 
+---------- Ghost ship: turn 9 ----------
+Ghost ship - plays 2 Silver, 2 Copper
+Ghost ship - buys Gold
+Ghost ship - gains Gold
+Ghost ship - draws Remodel, Throne Room, Copper, Remodel, Copper
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Silver
+Ghost ship - gains Curse
+fap_on_it - plays 3 Silver, 2 Copper
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Copper, Gold, Copper, Copper, Witch
+ 
+---------- Ghost ship: turn 10 ----------
+Ghost ship - plays Throne Room
+Ghost ship - plays Remodel
+Ghost ship - trashes Remodel
+Ghost ship - gains Gold
+Ghost ship - plays Remodel
+Ghost ship - trashes Copper
+Ghost ship - gains Moat
+Ghost ship - plays 1 Copper
+Ghost ship - draws Curse, Throne Room, Silver, Estate, Moat
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - plays Witch
+Ghost ship - reveals reaction Moat
+fap_on_it - draws Silver, Copper
+fap_on_it - plays 4 Copper, 1 Gold, 1 Silver
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - shuffles deck
+fap_on_it - draws Silver, Silver, Copper, Witch, Copper
+ 
+---------- Ghost ship: turn 11 ----------
+Ghost ship - plays Throne Room
+Ghost ship - plays Moat
+Ghost ship - draws Copper
+Ghost ship - shuffles deck
+Ghost ship - draws Gold
+Ghost ship - plays Moat
+Ghost ship - draws Throne Room, Estate
+Ghost ship - plays 1 Silver, 1 Copper, 1 Gold
+Ghost ship - buys Laboratory
+Ghost ship - gains Laboratory
+Ghost ship - draws Remodel, Copper, Gold, Copper, Gold
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Gold, Copper
+Ghost ship - gains Curse
+fap_on_it - plays 3 Copper, 2 Silver, 1 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Province, Copper, Estate, Silver, Estate
+ 
+---------- Ghost ship: turn 12 ----------
+Ghost ship - plays 2 Copper, 2 Gold
+Ghost ship - buys Province
+Ghost ship - gains Province
+Ghost ship - draws Copper, Silver, Moat, Silver, Silver
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - plays 1 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Witch, Estate, Copper, Province, Copper
+ 
+---------- Ghost ship: turn 13 ----------
+Ghost ship - plays Moat
+Ghost ship - draws Bureaucrat, Copper
+Ghost ship - plays 3 Silver, 2 Copper
+Ghost ship - buys Province
+Ghost ship - gains Province
+Ghost ship - draws Copper, Curse, Silver
+Ghost ship - shuffles deck
+Ghost ship - draws Silver, Estate
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Silver, Silver
+Ghost ship - gains Curse
+fap_on_it - plays 2 Copper, 2 Silver
+fap_on_it - buys Gold
+fap_on_it - gains Gold
+fap_on_it - draws Copper, Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Witch, Witch, Province
+ 
+---------- Ghost ship: turn 14 ----------
+Ghost ship - plays 2 Silver, 1 Copper
+Ghost ship - buys Duchy
+Ghost ship - gains Duchy
+Ghost ship - draws Throne Room, Silver, Bureaucrat, Laboratory, Curse
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Copper
+Ghost ship - gains Curse
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Silver, Copper, Silver, Gold, Silver
+ 
+---------- Ghost ship: turn 15 ----------
+Ghost ship - plays Laboratory
+Ghost ship - draws Gold, Silver
+Ghost ship - plays Throne Room
+Ghost ship - plays Bureaucrat
+Ghost ship - gains Silver
+fap_on_it - reveals Silver, Copper, Silver, Gold, Silver
+Ghost ship - plays Bureaucrat
+Ghost ship - gains Silver
+fap_on_it - reveals Silver, Copper, Silver, Gold, Silver
+Ghost ship - plays 2 Silver, 1 Gold
+Ghost ship - buys Duchy
+Ghost ship - gains Duchy
+Ghost ship - draws Silver, Silver, Province, Gold, Estate
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays 3 Silver, 1 Copper, 1 Gold
+fap_on_it - buys Province
+fap_on_it - gains Province
+fap_on_it - draws Copper, Silver, Copper, Province, Estate
+ 
+---------- Ghost ship: turn 16 ----------
+Ghost ship - plays 2 Silver, 1 Gold
+Ghost ship - buys Duchy
+Ghost ship - gains Duchy
+Ghost ship - draws Silver, Curse, Gold, Moat, Copper
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Remodel
+fap_on_it - gains Remodel
+fap_on_it - draws Copper, Estate, Estate, Silver, Province
+ 
+---------- Ghost ship: turn 17 ----------
+Ghost ship - plays Moat
+Ghost ship - draws Copper, Moat
+Ghost ship - plays 2 Copper, 1 Silver, 1 Gold
+Ghost ship - buys Duchy
+Ghost ship - gains Duchy
+Ghost ship - draws Copper, Copper, Copper, Throne Room, Remodel
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - plays 1 Copper, 1 Silver
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Gold, Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Remodel, Copper, Province
+ 
+---------- Ghost ship: turn 18 ----------
+Ghost ship - plays Throne Room
+Ghost ship - plays Remodel
+Ghost ship - trashes Copper
+Ghost ship - gains Estate
+Ghost ship - plays Remodel
+Ghost ship - trashes Copper
+Ghost ship - gains Estate
+Ghost ship - draws Province
+Ghost ship - shuffles deck
+Ghost ship - draws Silver, Copper, Silver, Silver
+ 
+---------- fap_on_it: turn 19 ----------
+fap_on_it - plays Remodel
+fap_on_it - trashes Gold
+fap_on_it - gains Province
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Province, Estate, Witch, Copper, Copper
+ 
+---------- Ghost ship: turn 19 ----------
+Ghost ship - plays 3 Silver, 1 Copper
+Ghost ship - buys Duchy
+Ghost ship - gains Duchy
+Ghost ship - draws Curse, Silver, Gold, Silver, Copper
+ 
+---------- fap_on_it: turn 20 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Witch
+Ghost ship - gains Curse
+fap_on_it - plays 3 Copper
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Gold, Silver, Duchy, Silver, Silver
+ 
+---------- Ghost ship: turn 20 ----------
+Ghost ship - plays 2 Silver, 1 Gold, 1 Copper
+Ghost ship - buys Province
+Ghost ship - gains Province
+Ghost ship - draws Duchy, Curse, Copper, Throne Room, Gold
+ 
+------------ Game Over ------------
+fap_on_it - cards: 2 Witch, 1 Remodel, 8 Silver, 7 Copper, 1 Gold, 5 Province, 5 Estate, 1 Duchy
+fap_on_it - total victory points: 38
+fap_on_it - turns: 20
+ 
+Ghost ship - cards: 2 Throne Room, 2 Moat, 1 Laboratory, 1 Bureaucrat, 1 Remodel, 7 Silver, 4 Copper, 3 Gold, 5 Duchy, 4 Estate, 3 Province, 6 Curse
+Ghost ship - total victory points: 31
+Ghost ship - turns: 20
+ 
+1st place: fap_on_it
+2nd place: Ghost ship
+ 

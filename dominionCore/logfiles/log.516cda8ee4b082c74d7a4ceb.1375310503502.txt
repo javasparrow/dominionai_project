@@ -1,0 +1,672 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Gardens, Moneylender, Remodel, Spy, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+manouch - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+manouch - shuffles deck
+Gherald - shuffles deck
+manouch - draws Copper, Estate, Copper, Copper, Estate
+Gherald - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- manouch: turn 1 ----------
+manouch - plays 3 Copper
+manouch - buys Chapel
+manouch - gains Chapel
+manouch - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 3 Copper
+Gherald - buys Chapel
+Gherald - gains Chapel
+Gherald - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- manouch: turn 2 ----------
+manouch - plays 4 Copper
+manouch - buys Silver
+manouch - gains Silver
+manouch - shuffles deck
+manouch - draws Silver, Chapel, Copper, Estate, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 4 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- manouch: turn 3 ----------
+manouch - plays Chapel
+manouch - trashes Estate, Copper
+manouch - plays 1 Silver, 1 Copper
+manouch - buys Silver
+manouch - gains Silver
+manouch - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- manouch: turn 4 ----------
+manouch - plays 3 Copper
+manouch - buys Silver
+manouch - gains Silver
+manouch - draws Copper, Copper
+manouch - shuffles deck
+manouch - draws Chapel, Copper, Silver
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 5 Copper
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Estate, Chapel
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Silver
+ 
+---------- manouch: turn 5 ----------
+manouch - plays 3 Copper, 1 Silver
+manouch - buys Witch
+manouch - gains Witch
+manouch - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Chapel
+Gherald - trashes Estate, Copper, Copper
+Gherald - plays 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Estate, Witch, Copper
+ 
+---------- manouch: turn 6 ----------
+manouch - plays 2 Copper, 1 Silver
+manouch - buys Silver
+manouch - gains Silver
+manouch - draws Silver, Copper
+manouch - shuffles deck
+manouch - draws Silver, Copper, Silver
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+manouch - gains Curse
+Gherald - plays 5 Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Silver, Estate
+Gherald - shuffles deck
+Gherald - draws Copper, Market, Cellar
+ 
+---------- manouch: turn 7 ----------
+manouch - plays 3 Silver, 2 Copper
+manouch - buys Market
+manouch - gains Market
+manouch - draws Witch, Estate, Copper, Copper, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays Cellar
+Gherald - discards Silver
+Gherald - discards Estate
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - draws Silver, Copper, Copper, Witch
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+manouch - gains Curse
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Chapel
+Gherald - shuffles deck
+Gherald - draws Cellar, Copper, Copper, Witch
+ 
+---------- manouch: turn 8 ----------
+manouch - plays Witch
+manouch - draws Estate, Chapel
+Gherald - gains Curse
+manouch - plays 3 Copper
+manouch - buys Cellar
+manouch - gains Cellar
+manouch - draws Silver, Copper
+manouch - shuffles deck
+manouch - draws Silver, Copper, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Cellar
+Gherald - discards Chapel
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Estate, Copper, Market
+Gherald - plays Market
+Gherald - draws Silver
+Gherald - plays Witch
+Gherald - draws Market, Estate
+manouch - gains Curse
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Spy
+Gherald - gains Spy
+Gherald - draws Cellar, Silver, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Silver
+ 
+---------- manouch: turn 9 ----------
+manouch - plays 3 Copper, 2 Silver
+manouch - buys Gold
+manouch - gains Gold
+manouch - draws Estate, Silver, Chapel, Silver, Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Cellar
+Gherald - discards Silver
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - discards Silver
+Gherald - draws Cellar, Copper, Copper, Estate
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - draws Spy, Market, Copper
+Gherald - plays Spy
+Gherald - draws Market
+Gherald - discards Estate
+manouch - discards Witch
+Gherald - plays Market
+Gherald - draws Chapel
+Gherald - plays Market
+Gherald - draws Curse
+Gherald - plays Chapel
+Gherald - trashes Copper, Curse
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Witch
+Gherald - shuffles deck
+Gherald - draws Cellar, Estate, Copper, Copper
+ 
+---------- manouch: turn 10 ----------
+manouch - plays Chapel
+manouch - trashes Estate
+manouch - plays 2 Silver, 1 Copper
+manouch - buys Market
+manouch - gains Market
+manouch - draws Copper, Market, Curse, Cellar, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Market, Copper, Cellar
+Gherald - plays Market
+Gherald - draws Silver
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - draws Spy
+Gherald - plays Spy
+Gherald - draws Estate
+Gherald - discards Chapel
+manouch - places Copper on top of deck
+Gherald - plays Witch
+Gherald - draws Copper, Market
+manouch - gains Curse
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Spy
+Gherald - gains Spy
+Gherald - draws Cellar, Silver
+Gherald - shuffles deck
+Gherald - draws Silver, Market, Copper
+ 
+---------- manouch: turn 11 ----------
+manouch - plays Market
+manouch - draws Copper
+manouch - plays Cellar
+manouch - discards Curse
+manouch - discards Estate
+manouch - discards Copper
+manouch - discards Copper
+manouch - draws Curse
+manouch - shuffles deck
+manouch - draws Estate, Silver, Silver
+manouch - plays 2 Silver
+manouch - buys Market
+manouch - gains Market
+manouch - draws Copper, Gold, Curse, Chapel, Silver
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays Cellar
+Gherald - discards Silver
+Gherald - discards Silver
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - draws Copper, Cellar, Chapel, Spy
+Gherald - plays Spy
+Gherald - draws Market
+Gherald - discards Copper
+manouch - discards Silver
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Chapel
+Gherald - discards Copper
+Gherald - draws Spy, Cellar, Estate
+Gherald - plays Spy
+Gherald - draws Witch
+Gherald - shuffles deck
+Gherald - discards Estate
+manouch - places Copper on top of deck
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - draws Copper
+Gherald - plays Witch
+Gherald - draws Copper, Silver
+manouch - gains Curse
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Chapel, Copper, Silver, Copper
+Gherald - shuffles deck
+Gherald - draws Estate
+ 
+---------- manouch: turn 12 ----------
+manouch - plays Chapel
+manouch - trashes Curse, Copper
+manouch - plays 1 Gold, 1 Silver
+manouch - buys Market
+manouch - gains Market
+manouch - draws Copper, Copper, Copper, Witch, Curse
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Chapel
+Gherald - trashes Copper, Copper, Estate
+Gherald - draws Silver, Witch, Market, Spy, Gold
+ 
+---------- manouch: turn 13 ----------
+manouch - plays Witch
+manouch - draws Market, Curse
+Gherald - gains Curse
+manouch - plays 3 Copper
+manouch - buys Cellar
+manouch - gains Cellar
+manouch - draws Copper, Copper
+manouch - shuffles deck
+manouch - draws Copper, Silver, Curse
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Spy
+Gherald - draws Market
+Gherald - discards Estate
+manouch - places Chapel on top of deck
+Gherald - plays Market
+Gherald - draws Cellar
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - draws Cellar
+Gherald - plays Witch
+Gherald - draws Spy, Cellar
+manouch - gains Curse
+Gherald - plays 1 Silver, 1 Gold
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Copper
+Gherald - shuffles deck
+Gherald - draws Copper, Market, Cellar, Silver
+ 
+---------- manouch: turn 14 ----------
+manouch - plays 3 Copper, 1 Silver
+manouch - buys Market
+manouch - gains Market
+manouch - draws Chapel, Market, Cellar, Copper, Curse
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Market
+Gherald - draws Cellar
+Gherald - plays Cellar
+Gherald - discards Silver
+Gherald - discards Cellar
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Gold, Gold, Cellar, Silver
+Gherald - plays Cellar
+Gherald - discards Silver
+Gherald - draws Market
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays 2 Gold
+Gherald - buys Market
+Gherald - gains Market
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Witch, Spy, Chapel, Spy, Curse
+ 
+---------- manouch: turn 15 ----------
+manouch - plays Market
+manouch - draws Copper
+manouch - plays Chapel
+manouch - trashes Curse, Copper, Copper
+manouch - draws Silver, Witch, Market, Market, Curse
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Spy
+Gherald - shuffles deck
+Gherald - draws Market
+Gherald - discards Silver
+manouch - places Cellar on top of deck
+Gherald - plays Market
+Gherald - draws Cellar
+Gherald - plays Spy
+Gherald - draws Gold
+Gherald - places Silver on top of deck
+manouch - places Cellar on top of deck
+Gherald - plays Cellar
+Gherald - discards Chapel
+Gherald - discards Curse
+Gherald - draws Silver, Market
+Gherald - plays Market
+Gherald - draws Gold
+Gherald - plays Witch
+Gherald - draws Estate, Market
+manouch - gains Curse
+Gherald - plays 2 Gold, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Silver, Copper, Cellar, Copper, Cellar
+ 
+---------- manouch: turn 16 ----------
+manouch - plays Market
+manouch - draws Cellar
+manouch - plays Market
+manouch - draws Market
+manouch - plays Market
+manouch - draws Silver
+manouch - plays Cellar
+manouch - discards Curse
+manouch - draws Gold
+manouch - plays Witch
+manouch - draws Curse, Silver
+Gherald - gains Curse
+manouch - plays 3 Silver, 1 Gold
+manouch - buys Province
+manouch - gains Province
+manouch - buys Remodel
+manouch - gains Remodel
+manouch - draws Estate
+manouch - shuffles deck
+manouch - draws Province, Copper, Market, Curse
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Cellar
+Gherald - discards Copper
+Gherald - shuffles deck
+Gherald - draws Market, Witch, Market
+Gherald - plays Market
+Gherald - draws Gold
+Gherald - plays Market
+Gherald - draws Chapel
+Gherald - plays Witch
+Gherald - draws Market, Spy
+Gherald - plays 1 Silver, 1 Gold
+Gherald - buys Gold
+Gherald - gains Gold
+Gherald - draws Cellar, Estate, Copper, Spy, Silver
+ 
+---------- manouch: turn 17 ----------
+manouch - plays Market
+manouch - draws Market
+manouch - plays Market
+manouch - draws Market
+manouch - plays Market
+manouch - draws Silver
+manouch - plays 1 Copper, 1 Silver
+manouch - buys Gold
+manouch - gains Gold
+manouch - draws Market, Curse, Curse, Curse, Copper
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Spy
+Gherald - draws Curse
+Gherald - places Market on top of deck
+manouch - places Curse on top of deck
+Gherald - plays Cellar
+Gherald - discards Estate
+Gherald - discards Copper
+Gherald - discards Curse
+Gherald - draws Market, Cellar, Curse
+Gherald - plays Market
+Gherald - draws Gold
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - draws Silver
+Gherald - plays 2 Silver, 1 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Copper, Market
+Gherald - shuffles deck
+Gherald - draws Gold, Copper, Province
+ 
+---------- manouch: turn 18 ----------
+manouch - plays Market
+manouch - draws Curse
+manouch - plays 1 Copper
+manouch - buys Cellar
+manouch - gains Cellar
+manouch - draws Cellar, Silver, Cellar, Witch, Remodel
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Market
+Gherald - draws Spy
+Gherald - plays Spy
+Gherald - draws Silver
+Gherald - places Gold on top of deck
+manouch - discards Market
+Gherald - plays 2 Copper, 1 Gold, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Gold, Gold, Market, Market, Silver
+ 
+---------- manouch: turn 19 ----------
+manouch - plays Cellar
+manouch - discards Witch
+manouch - discards Cellar
+manouch - draws Chapel, Copper
+manouch - plays Chapel
+manouch - trashes Copper
+manouch - plays Silver
+manouch - buys Cellar
+manouch - gains Cellar
+manouch - draws Gold, Silver, Silver
+manouch - shuffles deck
+manouch - draws Market, Cellar
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays Market
+Gherald - draws Witch
+Gherald - plays Market
+Gherald - draws Cellar
+Gherald - plays 2 Gold, 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Market, Silver, Curse, Cellar, Curse
+ 
+---------- manouch: turn 20 ----------
+manouch - plays Market
+manouch - draws Market
+manouch - plays Market
+manouch - draws Market
+manouch - plays Market
+manouch - draws Estate
+manouch - plays Cellar
+manouch - discards Estate
+manouch - draws Silver
+manouch - plays 3 Silver, 1 Gold
+manouch - buys Gardens
+manouch - gains Gardens
+manouch - buys Gardens
+manouch - gains Gardens
+manouch - buys Gardens
+manouch - gains Gardens
+manouch - buys Copper
+manouch - gains Copper
+manouch - draws Market, Curse, Copper, Copper, Curse
+ 
+---------- Gherald: turn 20 ----------
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Curse
+Gherald - draws Chapel, Cellar
+Gherald - plays Market
+Gherald - draws Spy
+Gherald - plays Spy
+Gherald - draws Estate
+Gherald - places Market on top of deck
+manouch - places Curse on top of deck
+Gherald - plays Cellar
+Gherald - discards Chapel
+Gherald - discards Estate
+Gherald - draws Market
+Gherald - shuffles deck
+Gherald - draws Curse
+Gherald - plays Market
+Gherald - draws Witch
+Gherald - plays Witch
+Gherald - draws Chapel, Province
+Gherald - plays 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Province, Gold, Curse, Silver, Silver
+ 
+---------- manouch: turn 21 ----------
+manouch - plays Market
+manouch - draws Curse
+manouch - plays 2 Copper
+manouch - buys Silver
+manouch - gains Silver
+manouch - buys Copper
+manouch - gains Copper
+manouch - draws Chapel, Cellar, Remodel, Curse, Market
+ 
+---------- Gherald: turn 21 ----------
+Gherald - plays 2 Silver, 1 Gold
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Cellar, Province, Copper, Market, Gold
+ 
+---------- manouch: turn 22 ----------
+manouch - plays Market
+manouch - draws Witch
+manouch - plays Cellar
+manouch - discards Witch
+manouch - discards Remodel
+manouch - draws Cellar, Curse
+manouch - plays Chapel
+manouch - trashes Curse, Curse
+manouch - buys Copper
+manouch - gains Copper
+manouch - draws Cellar, Province, Gold, Silver
+manouch - shuffles deck
+manouch - draws Silver
+ 
+---------- Gherald: turn 22 ----------
+Gherald - plays Market
+Gherald - draws Spy
+Gherald - plays Spy
+Gherald - draws Market
+Gherald - discards Copper
+manouch - places Copper on top of deck
+Gherald - plays Market
+Gherald - draws Gold
+Gherald - plays Cellar
+Gherald - discards Province
+Gherald - discards Copper
+Gherald - draws Market, Estate
+Gherald - plays Market
+Gherald - shuffles deck
+Gherald - draws Chapel
+Gherald - plays 2 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Silver, Copper, Copper, Cellar, Curse
+ 
+---------- manouch: turn 23 ----------
+manouch - plays Cellar
+manouch - discards Province
+manouch - draws Copper
+manouch - plays 2 Silver, 1 Gold, 1 Copper
+manouch - buys Province
+manouch - gains Province
+manouch - draws Silver, Curse, Market, Market, Market
+ 
+---------- Gherald: turn 23 ----------
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - draws Province
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Copper, Silver, Market, Gardens, Witch
+ 
+---------- manouch: turn 24 ----------
+manouch - plays Market
+manouch - draws Cellar
+manouch - plays Market
+manouch - draws Copper
+manouch - plays Market
+manouch - draws Gold
+manouch - plays Cellar
+manouch - discards Curse
+manouch - draws Silver
+manouch - plays 2 Silver, 1 Copper, 1 Gold
+manouch - buys Province
+manouch - gains Province
+manouch - buys Silver
+manouch - gains Silver
+manouch - buys Copper
+manouch - gains Copper
+manouch - draws Chapel, Gardens, Cellar, Silver, Gardens
+ 
+---------- Gherald: turn 24 ----------
+Gherald - plays Market
+Gherald - draws Province
+Gherald - plays Witch
+Gherald - draws Gold, Silver
+Gherald - plays 2 Silver, 1 Copper, 1 Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Spy, Market, Cellar, Gardens, Province
+ 
+------------ Game Over ------------
+Gherald - cards: 5 Market, 3 Cellar, 2 Spy, 1 Chapel, 1 Witch, 8 Copper, 3 Gold, 3 Silver, 5 Province, 3 Gardens, 1 Estate, 2 Curse
+Gherald - total victory points: 38
+Gherald - turns: 24
+ 
+manouch - cards: 5 Market, 4 Cellar, 1 Chapel, 1 Remodel, 1 Witch, 6 Silver, 6 Copper, 2 Gold, 3 Gardens, 3 Province, 1 Estate, 3 Curse
+manouch - total victory points: 25
+manouch - turns: 24
+ 
+1st place: Gherald
+2nd place: manouch
+ 

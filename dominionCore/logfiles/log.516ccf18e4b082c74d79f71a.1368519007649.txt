@@ -1,0 +1,519 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Village, Workshop, Feast, Spy, Council Room, Festival, Laboratory, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Subtle - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sangatsu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Subtle - shuffles deck
+sangatsu - shuffles deck
+Subtle - draws Copper, Copper, Copper, Copper, Copper
+sangatsu - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- sangatsu: turn 1 ----------
+sangatsu - plays 4 Copper
+sangatsu - buys Silver
+sangatsu - gains Silver
+sangatsu - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Subtle: turn 1 ----------
+Subtle - plays 5 Copper
+Subtle - buys Laboratory
+Subtle - gains Laboratory
+Subtle - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- sangatsu: turn 2 ----------
+sangatsu - plays 3 Copper
+sangatsu - buys Chapel
+sangatsu - gains Chapel
+sangatsu - shuffles deck
+sangatsu - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Subtle: turn 2 ----------
+Subtle - plays 2 Copper
+Subtle - buys Chapel
+Subtle - gains Chapel
+Subtle - shuffles deck
+Subtle - draws Chapel, Copper, Estate, Copper, Copper
+ 
+---------- sangatsu: turn 3 ----------
+sangatsu - plays 4 Copper, 1 Silver
+sangatsu - buys Laboratory
+sangatsu - gains Laboratory
+sangatsu - draws Estate, Estate, Copper, Chapel, Estate
+ 
+---------- Subtle: turn 3 ----------
+Subtle - plays Chapel
+Subtle - trashes Estate
+Subtle - plays 3 Copper
+Subtle - buys Silver
+Subtle - gains Silver
+Subtle - draws Laboratory, Estate, Copper, Estate, Copper
+ 
+---------- sangatsu: turn 4 ----------
+sangatsu - plays Chapel
+sangatsu - trashes Copper, Estate, Estate, Estate
+sangatsu - draws Copper, Copper
+sangatsu - shuffles deck
+sangatsu - draws Chapel, Copper, Copper
+ 
+---------- Subtle: turn 4 ----------
+Subtle - plays Laboratory
+Subtle - draws Copper, Copper
+Subtle - plays 4 Copper
+Subtle - buys Feast
+Subtle - gains Feast
+Subtle - shuffles deck
+Subtle - draws Copper, Copper, Copper, Copper, Feast
+ 
+---------- sangatsu: turn 5 ----------
+sangatsu - plays Chapel
+sangatsu - trashes Copper
+sangatsu - plays 3 Copper
+sangatsu - buys Silver
+sangatsu - gains Silver
+sangatsu - draws Silver, Copper, Laboratory, Copper
+sangatsu - shuffles deck
+sangatsu - draws Silver
+ 
+---------- Subtle: turn 5 ----------
+Subtle - plays Feast
+Subtle - trashes Feast
+Subtle - gains Laboratory
+Subtle - plays 4 Copper
+Subtle - buys Feast
+Subtle - gains Feast
+Subtle - draws Copper, Copper, Estate, Copper, Chapel
+ 
+---------- sangatsu: turn 6 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Copper, Copper
+sangatsu - plays 4 Copper, 2 Silver
+sangatsu - buys Festival
+sangatsu - gains Festival
+sangatsu - draws Copper, Chapel
+sangatsu - shuffles deck
+sangatsu - draws Laboratory, Silver, Silver
+ 
+---------- Subtle: turn 6 ----------
+Subtle - plays Chapel
+Subtle - trashes Estate
+Subtle - plays 3 Copper
+Subtle - buys Village
+Subtle - gains Village
+Subtle - draws Laboratory, Estate, Silver
+Subtle - shuffles deck
+Subtle - draws Copper, Village
+ 
+---------- sangatsu: turn 7 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Copper, Copper
+sangatsu - plays Chapel
+sangatsu - trashes Copper, Copper
+sangatsu - plays 2 Silver, 1 Copper
+sangatsu - buys Laboratory
+sangatsu - gains Laboratory
+sangatsu - draws Festival, Copper, Copper
+sangatsu - shuffles deck
+sangatsu - draws Laboratory, Copper
+ 
+---------- Subtle: turn 7 ----------
+Subtle - plays Laboratory
+Subtle - draws Copper, Laboratory
+Subtle - plays Laboratory
+Subtle - draws Copper, Copper
+Subtle - plays Village
+Subtle - draws Feast
+Subtle - plays Feast
+Subtle - trashes Feast
+Subtle - gains Festival
+Subtle - plays 4 Copper, 1 Silver
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Copper, Copper, Copper, Chapel
+Subtle - shuffles deck
+Subtle - draws Village
+ 
+---------- sangatsu: turn 8 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Silver, Silver
+sangatsu - plays Festival
+sangatsu - plays 3 Copper, 2 Silver
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - buys Workshop
+sangatsu - gains Workshop
+sangatsu - draws Chapel, Laboratory
+sangatsu - shuffles deck
+sangatsu - draws Silver, Copper, Copper
+ 
+---------- Subtle: turn 8 ----------
+Subtle - plays Village
+Subtle - draws Silver
+Subtle - plays 3 Copper, 1 Silver
+Subtle - buys Council Room
+Subtle - gains Council Room
+Subtle - draws Estate, Copper, Laboratory, Festival, Copper
+ 
+---------- sangatsu: turn 9 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Copper, Workshop
+sangatsu - plays Workshop
+sangatsu - gains Spy
+sangatsu - plays 3 Copper, 1 Silver
+sangatsu - buys Laboratory
+sangatsu - gains Laboratory
+sangatsu - draws Gold, Laboratory, Silver, Festival
+sangatsu - shuffles deck
+sangatsu - draws Spy
+ 
+---------- Subtle: turn 9 ----------
+Subtle - plays Laboratory
+Subtle - draws Copper, Laboratory
+Subtle - plays Laboratory
+Subtle - draws Gold, Copper
+Subtle - plays Festival
+Subtle - plays 4 Copper, 1 Gold
+Subtle - buys Festival
+Subtle - gains Festival
+Subtle - buys Feast
+Subtle - gains Feast
+Subtle - shuffles deck
+Subtle - draws Copper, Copper, Estate, Laboratory, Laboratory
+ 
+---------- sangatsu: turn 10 ----------
+sangatsu - plays Spy
+sangatsu - draws Laboratory
+sangatsu - discards Copper
+Subtle - places Chapel on top of deck
+sangatsu - plays Laboratory
+sangatsu - draws Workshop, Copper
+sangatsu - plays Laboratory
+sangatsu - draws Laboratory, Copper
+sangatsu - plays Laboratory
+sangatsu - draws Chapel, Silver
+sangatsu - plays Festival
+sangatsu - plays Workshop
+sangatsu - gains Feast
+sangatsu - plays Chapel
+sangatsu - trashes Copper, Copper
+sangatsu - plays 2 Silver, 1 Gold
+sangatsu - buys Festival
+sangatsu - gains Festival
+sangatsu - buys Feast
+sangatsu - gains Feast
+sangatsu - shuffles deck
+sangatsu - draws Silver, Laboratory, Laboratory, Festival, Spy
+ 
+---------- Subtle: turn 10 ----------
+Subtle - plays Laboratory
+Subtle - draws Chapel, Copper
+Subtle - plays Laboratory
+Subtle - draws Copper, Copper
+Subtle - plays Chapel
+Subtle - trashes Estate
+Subtle - plays 5 Copper
+Subtle - buys Laboratory
+Subtle - gains Laboratory
+Subtle - draws Village, Copper, Gold, Council Room, Silver
+ 
+---------- sangatsu: turn 11 ----------
+sangatsu - plays Spy
+sangatsu - draws Laboratory
+sangatsu - discards Copper
+Subtle - discards Festival
+sangatsu - plays Laboratory
+sangatsu - draws Feast, Workshop
+sangatsu - plays Laboratory
+sangatsu - draws Chapel, Gold
+sangatsu - plays Laboratory
+sangatsu - draws Feast, Festival
+sangatsu - plays Festival
+sangatsu - plays Festival
+sangatsu - plays Feast
+sangatsu - trashes Feast
+sangatsu - gains Laboratory
+sangatsu - plays Feast
+sangatsu - trashes Feast
+sangatsu - gains Laboratory
+sangatsu - plays Workshop
+sangatsu - gains Feast
+sangatsu - plays 1 Silver, 1 Gold
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - buys Village
+sangatsu - gains Village
+sangatsu - draws Silver
+sangatsu - shuffles deck
+sangatsu - draws Chapel, Gold, Copper, Laboratory
+ 
+---------- Subtle: turn 11 ----------
+Subtle - plays Village
+Subtle - draws Festival
+Subtle - plays Council Room
+Subtle - draws Feast, Copper
+Subtle - shuffles deck
+Subtle - draws Laboratory, Copper
+sangatsu - draws Festival
+Subtle - plays Laboratory
+Subtle - draws Copper, Copper
+Subtle - plays Festival
+Subtle - plays Feast
+Subtle - trashes Feast
+Subtle - gains Laboratory
+Subtle - plays 5 Copper, 1 Gold, 1 Silver
+Subtle - buys Province
+Subtle - gains Province
+Subtle - buys Feast
+Subtle - gains Feast
+Subtle - draws Laboratory, Festival, Copper, Laboratory, Chapel
+ 
+---------- sangatsu: turn 12 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Laboratory, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Spy, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Festival, Village
+sangatsu - plays Spy
+sangatsu - draws Silver
+sangatsu - places Laboratory on top of deck
+Subtle - places Copper on top of deck
+sangatsu - plays Laboratory
+sangatsu - draws Laboratory, Workshop
+sangatsu - plays Village
+sangatsu - draws Feast
+sangatsu - plays Festival
+sangatsu - plays Feast
+sangatsu - trashes Feast
+sangatsu - gains Laboratory
+sangatsu - plays Workshop
+sangatsu - gains Feast
+sangatsu - plays Laboratory
+sangatsu - draws Gold
+sangatsu - shuffles deck
+sangatsu - draws Feast
+sangatsu - plays Festival
+sangatsu - plays Feast
+sangatsu - trashes Feast
+sangatsu - gains Festival
+sangatsu - plays Chapel
+sangatsu - trashes Copper
+sangatsu - plays 2 Silver, 2 Gold
+sangatsu - buys Gold
+sangatsu - gains Gold
+sangatsu - buys Council Room
+sangatsu - gains Council Room
+sangatsu - buys Cellar
+sangatsu - gains Cellar
+sangatsu - draws Laboratory
+sangatsu - shuffles deck
+sangatsu - draws Laboratory, Cellar, Festival, Laboratory
+ 
+---------- Subtle: turn 12 ----------
+Subtle - plays Laboratory
+Subtle - draws Copper
+Subtle - shuffles deck
+Subtle - draws Festival
+Subtle - plays Laboratory
+Subtle - draws Province, Copper
+Subtle - plays Festival
+Subtle - plays Festival
+Subtle - plays Chapel
+Subtle - trashes Copper
+Subtle - plays 2 Copper
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Feast, Copper, Copper, Gold, Village
+ 
+---------- sangatsu: turn 13 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Chapel
+sangatsu - plays Laboratory
+sangatsu - draws Silver, Workshop
+sangatsu - plays Laboratory
+sangatsu - draws Laboratory, Silver
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Festival
+sangatsu - plays Festival
+sangatsu - plays Festival
+sangatsu - plays Cellar
+sangatsu - discards Chapel
+sangatsu - discards Silver
+sangatsu - discards Silver
+sangatsu - draws Festival, Council Room, Village
+sangatsu - plays Village
+sangatsu - draws Spy
+sangatsu - plays Spy
+sangatsu - draws Laboratory
+sangatsu - shuffles deck
+sangatsu - places Silver on top of deck
+Subtle - discards Silver
+sangatsu - plays Laboratory
+sangatsu - draws Silver, Chapel
+sangatsu - plays Festival
+sangatsu - plays Workshop
+sangatsu - gains Spy
+sangatsu - plays Council Room
+sangatsu - draws Silver
+sangatsu - shuffles deck
+sangatsu - draws Spy
+Subtle - draws Council Room
+sangatsu - plays Spy
+Subtle - places Copper on top of deck
+sangatsu - plays 3 Gold, 2 Silver
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - buys Cellar
+sangatsu - gains Cellar
+sangatsu - shuffles deck
+sangatsu - draws Chapel, Laboratory, Silver, Gold, Laboratory
+ 
+---------- Subtle: turn 13 ----------
+Subtle - plays Village
+Subtle - draws Copper
+Subtle - plays Council Room
+Subtle - draws Laboratory, Laboratory, Copper
+Subtle - shuffles deck
+Subtle - draws Chapel
+sangatsu - draws Province
+Subtle - plays Laboratory
+Subtle - draws Festival, Laboratory
+Subtle - plays Laboratory
+Subtle - draws Copper, Silver
+Subtle - plays Laboratory
+Subtle - draws Gold, Province
+Subtle - plays Festival
+Subtle - plays Feast
+Subtle - trashes Feast
+Subtle - gains Council Room
+Subtle - plays 5 Copper, 2 Gold, 1 Silver
+Subtle - buys Province
+Subtle - gains Province
+Subtle - buys Gold
+Subtle - gains Gold
+Subtle - draws Laboratory, Festival, Copper
+Subtle - shuffles deck
+Subtle - draws Laboratory, Copper
+ 
+---------- sangatsu: turn 14 ----------
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Cellar, Silver
+sangatsu - plays Laboratory
+sangatsu - draws Laboratory, Province
+sangatsu - plays Laboratory
+sangatsu - draws Festival, Spy
+sangatsu - plays Spy
+sangatsu - draws Laboratory
+sangatsu - places Spy on top of deck
+Subtle - discards Council Room
+sangatsu - plays Laboratory
+sangatsu - draws Spy, Cellar
+sangatsu - plays Spy
+sangatsu - draws Village
+sangatsu - places Workshop on top of deck
+Subtle - places Copper on top of deck
+sangatsu - plays Village
+sangatsu - draws Workshop
+sangatsu - plays Workshop
+sangatsu - gains Estate
+sangatsu - plays Festival
+sangatsu - plays Cellar
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - discards Chapel
+sangatsu - draws Council Room, Laboratory, Festival
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Festival
+sangatsu - plays Festival
+sangatsu - plays Festival
+sangatsu - plays 3 Gold, 2 Silver
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - buys Estate
+sangatsu - gains Estate
+sangatsu - shuffles deck
+sangatsu - draws Laboratory, Workshop, Spy, Laboratory, Gold
+ 
+---------- Subtle: turn 14 ----------
+Subtle - plays Laboratory
+Subtle - draws Copper, Gold
+Subtle - plays Laboratory
+Subtle - draws Silver, Province
+Subtle - plays Festival
+Subtle - plays 3 Copper, 1 Gold, 1 Silver
+Subtle - buys Province
+Subtle - gains Province
+Subtle - buys Estate
+Subtle - gains Estate
+Subtle - draws Copper, Province, Laboratory, Gold, Laboratory
+ 
+---------- sangatsu: turn 15 ----------
+sangatsu - plays Spy
+sangatsu - draws Gold
+sangatsu - discards Province
+Subtle - discards Copper
+sangatsu - plays Laboratory
+sangatsu - draws Estate, Cellar
+sangatsu - plays Laboratory
+sangatsu - draws Gold, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Council Room, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Spy, Province
+sangatsu - plays Spy
+sangatsu - draws Province
+sangatsu - places Silver on top of deck
+Subtle - discards Village
+sangatsu - plays Cellar
+sangatsu - discards Estate
+sangatsu - discards Province
+sangatsu - discards Province
+sangatsu - draws Silver, Chapel, Laboratory
+sangatsu - plays Laboratory
+sangatsu - draws Estate, Cellar
+sangatsu - plays Cellar
+sangatsu - discards Estate
+sangatsu - discards Chapel
+sangatsu - draws Laboratory, Festival
+sangatsu - plays Laboratory
+sangatsu - draws Festival, Village
+sangatsu - plays Festival
+sangatsu - plays Festival
+sangatsu - plays Village
+sangatsu - draws Festival
+sangatsu - plays Festival
+sangatsu - plays Workshop
+sangatsu - gains Estate
+sangatsu - plays Council Room
+sangatsu - draws Province, Silver
+sangatsu - shuffles deck
+sangatsu - draws Province, Province
+Subtle - draws Festival
+sangatsu - plays 3 Gold, 2 Silver
+sangatsu - buys Province
+sangatsu - gains Province
+sangatsu - buys Duchy
+sangatsu - gains Duchy
+sangatsu - buys Duchy
+sangatsu - gains Duchy
+sangatsu - draws Estate, Chapel, Province, Estate, Estate
+ 
+------------ Game Over ------------
+sangatsu - cards: 6 Laboratory, 3 Festival, 2 Cellar, 2 Spy, 1 Council Room, 1 Chapel, 1 Village, 1 Workshop, 3 Gold, 2 Silver, 5 Province, 3 Estate, 2 Duchy
+sangatsu - total victory points: 39
+sangatsu - turns: 15
+ 
+Subtle - cards: 4 Laboratory, 2 Festival, 2 Council Room, 1 Village, 1 Chapel, 6 Copper, 3 Gold, 1 Silver, 3 Province, 1 Estate
+Subtle - total victory points: 19
+Subtle - turns: 14
+ 
+1st place: sangatsu
+2nd place: Subtle
+ 

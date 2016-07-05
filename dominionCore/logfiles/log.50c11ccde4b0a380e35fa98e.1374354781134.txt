@@ -1,0 +1,644 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Village, Workshop, Bureaucrat, Feast, Gardens, Remodel, Smithy, Council Room, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+woohoo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+woohoo - shuffles deck
+silverspawn - shuffles deck
+woohoo - draws Copper, Estate, Copper, Copper, Copper
+silverspawn - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Workshop
+silverspawn - gains Workshop
+silverspawn - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- woohoo: turn 1 ----------
+woohoo - plays 4 Copper
+woohoo - buys Remodel
+woohoo - gains Remodel
+woohoo - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Workshop
+silverspawn - gains Workshop
+silverspawn - shuffles deck
+silverspawn - draws Copper, Workshop, Copper, Estate, Copper
+ 
+---------- woohoo: turn 2 ----------
+woohoo - plays 3 Copper
+woohoo - buys Silver
+woohoo - gains Silver
+woohoo - shuffles deck
+woohoo - draws Silver, Estate, Remodel, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Workshop
+silverspawn - gains Smithy
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Copper, Workshop, Estate, Copper, Estate
+ 
+---------- woohoo: turn 3 ----------
+woohoo - plays Remodel
+woohoo - trashes Estate
+woohoo - gains Smithy
+woohoo - plays 2 Copper, 1 Silver
+woohoo - buys Village
+woohoo - gains Village
+woohoo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays Workshop
+silverspawn - gains Village
+silverspawn - draws Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Estate, Copper, Estate
+ 
+---------- woohoo: turn 4 ----------
+woohoo - plays 4 Copper
+woohoo - buys Village
+woohoo - gains Village
+woohoo - draws Estate, Copper
+woohoo - shuffles deck
+woohoo - draws Smithy, Copper, Copper
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Village, Copper, Workshop, Copper, Village
+ 
+---------- woohoo: turn 5 ----------
+woohoo - plays Smithy
+woohoo - draws Copper, Remodel, Estate
+woohoo - plays 4 Copper
+woohoo - buys Smithy
+woohoo - gains Smithy
+woohoo - draws Village, Copper, Village, Copper, Copper
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Workshop
+silverspawn - gains Smithy
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Workshop, Copper, Smithy
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper
+ 
+---------- woohoo: turn 6 ----------
+woohoo - plays Village
+woohoo - draws Silver
+woohoo - plays Village
+woohoo - shuffles deck
+woohoo - draws Copper
+woohoo - plays 4 Copper, 1 Silver
+woohoo - buys Gold
+woohoo - gains Gold
+woohoo - draws Smithy, Copper, Smithy, Copper, Estate
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Workshop
+silverspawn - gains Remodel
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Copper, Estate, Estate, Smithy, Copper
+ 
+---------- woohoo: turn 7 ----------
+woohoo - plays Smithy
+woohoo - draws Copper, Estate, Remodel
+woohoo - plays 3 Copper
+woohoo - buys Village
+woohoo - gains Village
+woohoo - shuffles deck
+woohoo - draws Copper, Gold, Copper, Village, Smithy
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Smithy
+silverspawn - draws Village, Workshop, Copper
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Village, Copper, Village, Estate, Village
+ 
+---------- woohoo: turn 8 ----------
+woohoo - plays Village
+woohoo - draws Smithy
+woohoo - plays Smithy
+woohoo - draws Estate, Village, Copper
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays Smithy
+woohoo - draws Estate, Copper, Village
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays 6 Copper, 1 Gold
+woohoo - buys Gold
+woohoo - gains Gold
+woohoo - draws Copper, Remodel, Silver
+woohoo - shuffles deck
+woohoo - draws Village, Estate
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - plays Village
+silverspawn - shuffles deck
+silverspawn - draws Workshop
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Workshop
+silverspawn - gains Smithy
+silverspawn - plays 3 Copper
+silverspawn - buys Village
+silverspawn - gains Village
+silverspawn - draws Workshop, Village, Smithy, Copper, Estate
+ 
+---------- woohoo: turn 9 ----------
+woohoo - plays Village
+woohoo - draws Village
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays Remodel
+woohoo - trashes Estate
+woohoo - gains Remodel
+woohoo - plays 2 Copper, 1 Silver
+woohoo - buys Feast
+woohoo - gains Feast
+woohoo - draws Gold, Copper, Copper, Copper, Village
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Smithy
+silverspawn - draws Remodel, Village, Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Smithy
+silverspawn - plays Workshop
+silverspawn - gains Smithy
+silverspawn - plays 4 Copper
+silverspawn - buys Gardens
+silverspawn - gains Gardens
+silverspawn - draws Estate, Smithy
+silverspawn - shuffles deck
+silverspawn - draws Smithy, Smithy, Copper
+ 
+---------- woohoo: turn 10 ----------
+woohoo - plays Village
+woohoo - draws Smithy
+woohoo - plays Smithy
+woohoo - draws Gold, Copper, Copper
+woohoo - plays 5 Copper, 2 Gold
+woohoo - buys Province
+woohoo - gains Province
+woohoo - draws Smithy, Estate
+woohoo - shuffles deck
+woohoo - draws Copper, Village, Copper
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Smithy
+silverspawn - draws Remodel, Workshop, Copper
+silverspawn - draws Copper, Copper, Copper, Village, Copper
+ 
+---------- woohoo: turn 11 ----------
+woohoo - plays Village
+woohoo - draws Province
+woohoo - plays Smithy
+woohoo - draws Copper, Village, Remodel
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays Remodel
+woohoo - trashes Estate
+woohoo - gains Gardens
+woohoo - plays 4 Copper
+woohoo - buys Gardens
+woohoo - gains Gardens
+woohoo - draws Remodel, Gold, Gold, Silver, Copper
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Workshop
+silverspawn - plays Workshop
+silverspawn - gains Gardens
+silverspawn - plays 4 Copper
+silverspawn - buys Gardens
+silverspawn - gains Gardens
+silverspawn - draws Copper, Village, Smithy, Village, Smithy
+ 
+---------- woohoo: turn 12 ----------
+woohoo - plays Remodel
+woohoo - trashes Gold
+woohoo - gains Province
+woohoo - plays 1 Gold, 1 Silver, 1 Copper
+woohoo - buys Gardens
+woohoo - gains Gardens
+woohoo - draws Copper, Smithy, Village, Feast, Copper
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays Smithy
+silverspawn - shuffles deck
+silverspawn - draws Village, Copper, Village
+silverspawn - plays Smithy
+silverspawn - draws Gardens, Smithy, Copper
+silverspawn - plays Village
+silverspawn - draws Workshop
+silverspawn - plays Smithy
+silverspawn - draws Smithy, Workshop, Village
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Village, Remodel, Smithy
+silverspawn - plays Village
+silverspawn - draws Estate
+silverspawn - plays Smithy
+silverspawn - draws Copper, Village, Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Workshop
+silverspawn - gains Gardens
+silverspawn - plays Workshop
+silverspawn - gains Gardens
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Feast
+silverspawn - plays 7 Copper
+silverspawn - buys Council Room
+silverspawn - gains Council Room
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Smithy, Village, Workshop
+ 
+---------- woohoo: turn 13 ----------
+woohoo - plays Village
+woohoo - shuffles deck
+woohoo - draws Village
+woohoo - plays Village
+woohoo - draws Gold
+woohoo - plays Smithy
+woohoo - draws Province, Smithy, Remodel
+woohoo - plays Smithy
+woohoo - draws Copper, Copper, Copper
+woohoo - plays Feast
+woohoo - trashes Feast
+woohoo - gains Market
+woohoo - plays 5 Copper, 1 Gold
+woohoo - buys Province
+woohoo - gains Province
+woohoo - draws Copper, Remodel, Gardens, Silver, Gardens
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Smithy, Gardens, Estate
+silverspawn - plays Workshop
+silverspawn - gains Feast
+silverspawn - draws Gardens, Remodel, Feast, Village, Village
+ 
+---------- woohoo: turn 14 ----------
+woohoo - plays Remodel
+woohoo - trashes Silver
+woohoo - gains Duchy
+woohoo - draws Copper, Province, Gardens, Village
+woohoo - shuffles deck
+woohoo - draws Duchy
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Smithy, Smithy, Copper
+silverspawn - plays Smithy
+silverspawn - draws Workshop, Village, Copper
+silverspawn - plays Village
+silverspawn - draws Council Room
+silverspawn - plays Council Room
+silverspawn - draws Copper, Gardens, Copper, Gardens
+woohoo - draws Gold
+silverspawn - plays Smithy
+silverspawn - draws Village
+silverspawn - shuffles deck
+silverspawn - draws Village, Copper
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Smithy, Feast, Copper
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Smithy
+silverspawn - draws Copper, Workshop, Estate
+silverspawn - plays Feast
+silverspawn - trashes Feast
+silverspawn - gains Market
+silverspawn - plays Remodel
+silverspawn - trashes Feast
+silverspawn - gains Gold
+silverspawn - plays 7 Copper
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - shuffles deck
+silverspawn - draws Remodel, Workshop, Copper, Copper, Village
+ 
+---------- woohoo: turn 15 ----------
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays 2 Copper, 1 Gold
+woohoo - buys Duchy
+woohoo - gains Duchy
+woohoo - draws Village, Village, Gardens, Gardens, Province
+ 
+---------- silverspawn: turn 16 ----------
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Workshop
+silverspawn - gains Market
+silverspawn - draws Copper, Village, Smithy, Council Room, Gardens
+ 
+---------- woohoo: turn 16 ----------
+woohoo - plays Village
+woohoo - draws Smithy
+woohoo - plays Village
+woohoo - draws Remodel
+woohoo - plays Smithy
+woohoo - draws Copper, Copper, Copper
+woohoo - plays Remodel
+woohoo - trashes Gardens
+woohoo - gains Duchy
+woohoo - plays 3 Copper
+woohoo - buys Estate
+woohoo - gains Estate
+woohoo - draws Smithy, Remodel, Market, Province, Copper
+ 
+---------- silverspawn: turn 17 ----------
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Council Room
+silverspawn - draws Market, Village, Village, Copper
+woohoo - draws Copper
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Market
+silverspawn - draws Gold
+silverspawn - plays Smithy
+silverspawn - draws Village, Gardens, Copper
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Estate, Workshop, Copper
+silverspawn - plays Smithy
+silverspawn - draws Village, Market, Gardens
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Market
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - shuffles deck
+silverspawn - draws Village, Copper, Market
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Village, Remodel
+silverspawn - plays Village
+silverspawn - plays Remodel
+silverspawn - trashes Workshop
+silverspawn - gains Market
+silverspawn - plays 7 Copper, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - shuffles deck
+silverspawn - draws Market, Village, Copper, Smithy, Village
+ 
+---------- woohoo: turn 17 ----------
+woohoo - plays Market
+woohoo - shuffles deck
+woohoo - draws Copper
+woohoo - plays Smithy
+woohoo - draws Village, Village, Copper
+woohoo - plays 4 Copper
+woohoo - buys Duchy
+woohoo - gains Duchy
+woohoo - buys Copper
+woohoo - gains Copper
+woohoo - draws Estate, Duchy, Smithy, Remodel, Gold
+ 
+---------- silverspawn: turn 18 ----------
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Gardens, Estate, Village
+silverspawn - plays Village
+silverspawn - draws Gold
+silverspawn - plays Smithy
+silverspawn - draws Province, Village, Smithy
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Smithy
+silverspawn - draws Market, Village, Market
+silverspawn - plays Village
+silverspawn - draws Copper
+silverspawn - plays Market
+silverspawn - draws Village
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Gardens, Copper, Remodel
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Feast
+silverspawn - plays 7 Copper, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - draws Gardens, Village, Smithy, Gardens, Council Room
+ 
+---------- woohoo: turn 18 ----------
+woohoo - plays Remodel
+woohoo - trashes Smithy
+woohoo - gains Duchy
+woohoo - plays 1 Gold
+woohoo - buys Estate
+woohoo - gains Estate
+woohoo - draws Copper, Province, Village, Gardens, Copper
+ 
+---------- silverspawn: turn 19 ----------
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Council Room
+silverspawn - draws Market, Market
+silverspawn - shuffles deck
+silverspawn - draws Village, Gardens
+woohoo - draws Gardens
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - plays Market
+silverspawn - draws Smithy
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Gold
+silverspawn - plays Smithy
+silverspawn - draws Copper, Village, Market
+silverspawn - plays Smithy
+silverspawn - draws Smithy, Market, Copper
+silverspawn - plays Market
+silverspawn - draws Market
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Gardens
+silverspawn - plays Smithy
+silverspawn - draws Market, Copper, Feast
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - plays Feast
+silverspawn - trashes Feast
+silverspawn - gains Duchy
+silverspawn - plays 5 Copper, 1 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - draws Copper, Smithy, Copper, Smithy, Village
+ 
+---------- woohoo: turn 19 ----------
+woohoo - plays Village
+woohoo - draws Copper
+woohoo - plays 3 Copper
+woohoo - buys Estate
+woohoo - gains Estate
+woohoo - draws Province, Duchy, Duchy
+woohoo - shuffles deck
+woohoo - draws Duchy, Estate
+ 
+---------- silverspawn: turn 20 ----------
+silverspawn - plays Village
+silverspawn - draws Remodel
+silverspawn - plays Smithy
+silverspawn - draws Village
+silverspawn - shuffles deck
+silverspawn - draws Gardens, Gardens
+silverspawn - plays Village
+silverspawn - draws Market
+silverspawn - plays Market
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Copper, Gold, Market
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - plays Smithy
+silverspawn - draws Copper, Village, Copper
+silverspawn - plays Village
+silverspawn - draws Village
+silverspawn - plays Village
+silverspawn - draws Market
+silverspawn - plays Market
+silverspawn - draws Smithy
+silverspawn - plays Smithy
+silverspawn - draws Market, Market, Village
+silverspawn - plays Market
+silverspawn - draws Duchy
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Village
+silverspawn - draws Market
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - plays 7 Copper
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - buys Copper
+silverspawn - gains Copper
+silverspawn - draws Copper, Province, Smithy, Village, Copper
+ 
+------------ Game Over ------------
+silverspawn - cards: 7 Village, 6 Market, 5 Smithy, 18 Copper, 1 Remodel, 1 Council Room, 5 Province, 5 Gardens, 3 Duchy
+silverspawn - total victory points: 64
+silverspawn - turns: 20
+ 
+woohoo - cards: 3 Village, 2 Remodel, 1 Market, 1 Smithy, 8 Copper, 1 Gold, 5 Duchy, 3 Province, 3 Estate, 2 Gardens
+woohoo - total victory points: 40
+woohoo - turns: 19
+ 
+1st place: silverspawn
+2nd place: woohoo
+ 

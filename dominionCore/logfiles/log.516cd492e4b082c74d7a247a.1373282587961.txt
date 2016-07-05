@@ -1,0 +1,807 @@
+------------ Game Setup ------------
+Supply cards: Village, Gardens, Militia, Remodel, Smithy, Throne Room, Festival, Library, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fprefect - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+fprefect - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Estate
+fprefect - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- fprefect: turn 1 ----------
+fprefect - plays 3 Copper
+fprefect - buys Silver
+fprefect - gains Silver
+fprefect - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- fprefect: turn 2 ----------
+fprefect - plays 4 Copper
+fprefect - buys Militia
+fprefect - gains Militia
+fprefect - shuffles deck
+fprefect - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Militia
+Monsieur X - gains Militia
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Copper, Militia
+ 
+---------- fprefect: turn 3 ----------
+fprefect - plays 4 Copper
+fprefect - buys Silver
+fprefect - gains Silver
+fprefect - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Militia
+fprefect - discards Estate
+fprefect - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- fprefect: turn 4 ----------
+fprefect - plays 2 Copper, 1 Silver
+fprefect - buys Remodel
+fprefect - gains Remodel
+fprefect - draws Estate, Militia
+fprefect - shuffles deck
+fprefect - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Remodel
+Monsieur X - gains Remodel
+Monsieur X - draws Silver, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Copper, Market
+ 
+---------- fprefect: turn 5 ----------
+fprefect - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+fprefect - plays 3 Copper
+fprefect - buys Library
+fprefect - gains Library
+fprefect - draws Silver, Estate, Remodel, Copper, Silver
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Copper, Copper, Militia, Copper, Copper
+ 
+---------- fprefect: turn 6 ----------
+fprefect - plays Remodel
+fprefect - trashes Estate
+fprefect - gains Silver
+fprefect - plays 2 Silver, 1 Copper
+fprefect - buys Library
+fprefect - gains Library
+fprefect - draws Copper, Copper, Copper, Estate
+fprefect - shuffles deck
+fprefect - draws Estate
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Militia
+fprefect - discards Estate
+fprefect - discards Estate
+Monsieur X - plays 4 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Copper, Remodel, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper
+ 
+---------- fprefect: turn 7 ----------
+fprefect - plays 3 Copper
+fprefect - buys Village
+fprefect - gains Village
+fprefect - draws Library, Copper, Copper, Copper, Library
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Remodel
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - draws Copper, Market, Militia, Copper, Estate
+ 
+---------- fprefect: turn 8 ----------
+fprefect - plays Library
+fprefect - discards Militia
+fprefect - draws Copper
+fprefect - draws Silver
+fprefect - discards Remodel
+fprefect - draws Silver
+fprefect - discards: Militia, Remodel
+fprefect - plays 4 Copper, 2 Silver
+fprefect - buys Gold
+fprefect - gains Gold
+fprefect - draws Silver
+fprefect - shuffles deck
+fprefect - draws Silver, Gold, Copper, Militia
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Militia
+fprefect - discards Copper
+fprefect - discards Silver
+Monsieur X - plays 3 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Copper, Copper, Festival, Market, Estate
+ 
+---------- fprefect: turn 9 ----------
+fprefect - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Market
+fprefect - plays 1 Silver, 1 Gold
+fprefect - buys Gold
+fprefect - gains Gold
+fprefect - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Festival
+Monsieur X - plays 2 Copper
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Festival, Market, Copper, Remodel
+ 
+---------- fprefect: turn 10 ----------
+fprefect - plays 4 Copper
+fprefect - buys Village
+fprefect - gains Village
+fprefect - draws Remodel, Library, Village, Copper, Estate
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Festival
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Estate
+Monsieur X - plays 2 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Remodel, Estate, Estate, Silver, Copper
+ 
+---------- fprefect: turn 11 ----------
+fprefect - plays Village
+fprefect - draws Silver
+fprefect - plays Remodel
+fprefect - trashes Estate
+fprefect - gains Village
+fprefect - plays Library
+fprefect - discards Library
+fprefect - draws Copper
+fprefect - shuffles deck
+fprefect - discards Village
+fprefect - draws Gold
+fprefect - draws Copper
+fprefect - draws Copper
+fprefect - draws Estate
+fprefect - discards: Library, Village
+fprefect - plays 4 Copper, 1 Silver, 1 Gold
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Village, Copper, Copper, Militia, Gold
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Smithy
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Throne Room, Market, Militia, Village, Copper
+ 
+---------- fprefect: turn 12 ----------
+fprefect - plays Village
+fprefect - draws Silver
+fprefect - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Militia
+fprefect - plays 2 Copper, 1 Gold, 1 Silver
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Silver, Copper
+fprefect - shuffles deck
+fprefect - draws Copper, Province, Province
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays 2 Copper
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Remodel, Village, Remodel, Village, Militia
+ 
+---------- fprefect: turn 13 ----------
+fprefect - plays 2 Copper, 1 Silver
+fprefect - buys Village
+fprefect - gains Village
+fprefect - draws Silver, Village, Estate, Remodel, Militia
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Village
+Monsieur X - draws Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Market, Festival
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Militia
+fprefect - discards Estate
+fprefect - discards Remodel
+Monsieur X - plays Festival
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Estate
+Monsieur X - buys Library
+Monsieur X - gains Library
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Copper, Copper, Throne Room, Throne Room, Copper
+ 
+---------- fprefect: turn 14 ----------
+fprefect - plays Village
+fprefect - draws Village
+fprefect - plays Village
+fprefect - draws Copper
+fprefect - plays Militia
+Monsieur X - discards Throne Room
+Monsieur X - discards Throne Room
+fprefect - plays 1 Silver, 1 Copper
+fprefect - buys Library
+fprefect - gains Library
+fprefect - draws Copper, Library, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Village
+Monsieur X - gains Village
+Monsieur X - draws Estate, Estate, Copper, Copper, Village
+ 
+---------- fprefect: turn 15 ----------
+fprefect - plays Library
+fprefect - draws Gold
+fprefect - draws Gold
+fprefect - discards Village
+fprefect - draws Silver
+fprefect - discards Village
+fprefect - plays 4 Copper, 2 Gold, 1 Silver
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Library
+fprefect - shuffles deck
+fprefect - draws Province, Copper, Silver, Library
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Throne Room, Smithy, Village, Market
+ 
+---------- fprefect: turn 16 ----------
+fprefect - plays Library
+fprefect - discards Village
+fprefect - discards Village
+fprefect - draws Copper
+fprefect - draws Province
+fprefect - draws Estate
+fprefect - discards: Village, Village
+fprefect - plays 2 Copper, 1 Silver
+fprefect - buys Throne Room
+fprefect - gains Throne Room
+fprefect - draws Village, Copper, Village, Copper, Province
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Militia, Silver, Smithy
+Monsieur X - plays Smithy
+Monsieur X - draws Copper, Copper, Copper
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Remodel
+Monsieur X - plays Smithy
+Monsieur X - draws Estate, Throne Room, Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Market
+Monsieur X - draws Library
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Estate
+Monsieur X - plays Festival
+Monsieur X - plays Militia
+fprefect - discards Province
+fprefect - discards Copper
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Throne Room
+Monsieur X - plays Library
+Monsieur X - moves Remodel to hand
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Throne Room
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Copper, Festival, Throne Room, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Remodel
+ 
+---------- fprefect: turn 17 ----------
+fprefect - plays Village
+fprefect - draws Copper
+fprefect - plays Village
+fprefect - draws Library
+fprefect - plays Library
+fprefect - moves Militia to hand
+fprefect - discards Remodel
+fprefect - draws Gold
+fprefect - draws Copper
+fprefect - draws Silver
+fprefect - draws Copper
+fprefect - discards Remodel
+fprefect - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Throne Room
+fprefect - plays 4 Copper, 1 Gold, 1 Silver
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Silver, Gold
+fprefect - shuffles deck
+fprefect - draws Silver, Village, Copper
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Throne Room
+Monsieur X - draws Market, Market, Festival, Smithy, Village
+ 
+---------- fprefect: turn 18 ----------
+fprefect - plays Village
+fprefect - draws Library
+fprefect - plays 2 Silver, 1 Gold, 1 Copper
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Library, Province, Silver, Remodel, Copper
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Militia
+Monsieur X - plays Market
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Remodel
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Copper, Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Militia
+fprefect - discards Remodel
+fprefect - discards Province
+Monsieur X - plays Militia
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Estate
+Monsieur X - plays 1 Copper
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Library
+Monsieur X - gains Library
+Monsieur X - draws Throne Room, Smithy, Village, Smithy, Copper
+ 
+---------- fprefect: turn 19 ----------
+fprefect - plays Library
+fprefect - draws Copper
+fprefect - discards Throne Room
+fprefect - draws Copper
+fprefect - discards Village
+fprefect - discards Village
+fprefect - discards Militia
+fprefect - discards Village
+fprefect - draws Copper
+fprefect - draws Province
+fprefect - draws Copper
+fprefect - discards: Throne Room, Village, Village, Militia, Village
+fprefect - plays 5 Copper, 1 Silver
+fprefect - buys Gold
+fprefect - gains Gold
+fprefect - draws Library, Copper, Estate, Province, Province
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - plays Village
+Monsieur X - draws Silver
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Copper, Library
+Monsieur X - plays Smithy
+Monsieur X - draws Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Market
+Monsieur X - plays Market
+Monsieur X - draws Library
+Monsieur X - plays Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Remodel, Village, Smithy
+Monsieur X - plays Smithy
+Monsieur X - draws Market, Market, Festival
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Market
+Monsieur X - draws Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Throne Room
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Throne Room
+Monsieur X - plays Remodel
+Monsieur X - trashes Silver
+Monsieur X - gains Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Library
+Monsieur X - moves Market to hand
+Monsieur X - moves Militia to hand
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Smithy
+Monsieur X - draws Remodel, Throne Room, Village
+Monsieur X - plays Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Militia
+fprefect - discards Estate
+fprefect - discards Province
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Throne Room
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Remodel
+Monsieur X - trashes Copper
+Monsieur X - gains Estate
+Monsieur X - plays Remodel
+Monsieur X - trashes Library
+Monsieur X - gains Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Estate
+Monsieur X - plays Smithy
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 3 Copper
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room, Library, Festival, Village, Copper
+ 
+---------- fprefect: turn 20 ----------
+fprefect - plays Library
+fprefect - draws Gold
+fprefect - shuffles deck
+fprefect - discards Village
+fprefect - discards Village
+fprefect - draws Copper
+fprefect - draws Copper
+fprefect - draws Copper
+fprefect - draws Province
+fprefect - discards: Village, Village
+fprefect - plays 4 Copper, 1 Gold
+fprefect - buys Duchy
+fprefect - gains Duchy
+fprefect - draws Library, Province, Copper, Province, Gold
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Library
+Monsieur X - moves Smithy to hand
+Monsieur X - moves Festival to hand
+Monsieur X - moves Militia to hand
+Monsieur X - moves Smithy to hand
+Monsieur X - moves Remodel to hand
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Throne Room, Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Village, Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Market, Smithy
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Festival, Market
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Copper, Throne Room
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Village, Remodel
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Militia
+fprefect - discards Province
+fprefect - discards Province
+Monsieur X - plays Village
+Monsieur X - draws Smithy
+Monsieur X - plays Remodel
+Monsieur X - trashes Estate
+Monsieur X - gains Throne Room
+Monsieur X - plays Village
+Monsieur X - draws Village
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Throne Room
+Monsieur X - plays Remodel
+Monsieur X - trashes Village
+Monsieur X - gains Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Festival
+Monsieur X - plays Market
+Monsieur X - plays Market
+Monsieur X - plays Market
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 3 Copper
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Smithy, Throne Room, Copper, Gardens
+ 
+---------- fprefect: turn 21 ----------
+fprefect - plays Library
+fprefect - discards Village
+fprefect - draws Province
+fprefect - draws Estate
+fprefect - discards Village
+fprefect - draws Copper
+fprefect - draws Silver
+fprefect - draws Copper
+fprefect - discards: Village, Village
+fprefect - plays 3 Copper, 1 Gold, 1 Silver
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Throne Room, Silver, Remodel, Silver, Library
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Library, Gardens, Remodel
+Monsieur X - plays Smithy
+Monsieur X - draws Smithy, Copper, Market
+Monsieur X - plays Market
+Monsieur X - draws Estate
+Monsieur X - plays Remodel
+Monsieur X - trashes Library
+Monsieur X - gains Duchy
+Monsieur X - plays 2 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Smithy, Copper, Copper, Gardens, Copper
+ 
+---------- fprefect: turn 22 ----------
+fprefect - plays Throne Room
+fprefect - plays Library
+fprefect - draws Gold
+fprefect - discards Militia
+fprefect - shuffles deck
+fprefect - draws Province
+fprefect - draws Province
+fprefect - discards Village
+fprefect - draws Province
+fprefect - discards: Militia, Village
+fprefect - plays Library
+fprefect - plays 2 Silver, 1 Gold
+fprefect - buys Duchy
+fprefect - gains Duchy
+fprefect - draws Gold, Silver, Copper, Copper, Gold
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays Smithy
+Monsieur X - draws Throne Room, Smithy, Market
+Monsieur X - plays 3 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Throne Room, Copper, Village, Smithy, Festival
+ 
+---------- fprefect: turn 23 ----------
+fprefect - plays 2 Gold, 2 Copper, 1 Silver
+fprefect - buys Province
+fprefect - gains Province
+fprefect - draws Province, Copper, Library, Village, Copper
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays Village
+Monsieur X - draws Market
+Monsieur X - plays Festival
+Monsieur X - plays Throne Room
+Monsieur X - plays Smithy
+Monsieur X - draws Village, Throne Room, Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Gardens, Copper
+Monsieur X - plays Throne Room
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws Gardens
+Monsieur X - plays Village
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 3 Copper
+Monsieur X - buys Throne Room
+Monsieur X - gains Throne Room
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Festival, Throne Room, Festival, Village, Copper
+ 
+------------ Game Over ------------
+Monsieur X - cards: 9 Throne Room, 7 Festival, 6 Smithy, 6 Market, 3 Village, 2 Remodel, 19 Copper, 1 Militia, 8 Gardens, 4 Estate, 3 Duchy
+Monsieur X - total victory points: 61
+Monsieur X - turns: 23
+ 
+fprefect - cards: 4 Village, 3 Library, 1 Militia, 1 Throne Room, 1 Remodel, 7 Copper, 3 Silver, 3 Gold, 7 Province, 2 Duchy, 1 Estate
+fprefect - total victory points: 49
+fprefect - turns: 23
+ 
+1st place: Monsieur X
+2nd place: fprefect
+ 

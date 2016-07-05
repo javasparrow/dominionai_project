@@ -1,0 +1,465 @@
+------------ Game Setup ------------
+Supply cards: Moat, Feast, Gardens, Militia, Moneylender, Spy, Thief, Festival, Market, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Onkton - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Onkton - shuffles deck
+Rabid - shuffles deck
+Onkton - draws Copper, Copper, Estate, Estate, Copper
+Rabid - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Onkton: turn 1 ----------
+Onkton - plays Copper
+Onkton - plays 2 Copper
+Onkton - buys Silver
+Onkton - gains Silver
+Onkton - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Onkton: turn 2 ----------
+Onkton - plays 4 Copper
+Onkton - buys Moneylender
+Onkton - gains Moneylender
+Onkton - shuffles deck
+Onkton - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Moneylender
+Rabid - gains Moneylender
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Onkton: turn 3 ----------
+Onkton - plays 2 Copper, 1 Silver
+Onkton - buys Feast
+Onkton - gains Feast
+Onkton - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 5 Copper
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Estate, Copper, Moneylender, Estate, Silver
+ 
+---------- Onkton: turn 4 ----------
+Onkton - plays 4 Copper
+Onkton - buys Militia
+Onkton - gains Militia
+Onkton - draws Copper, Moneylender
+Onkton - shuffles deck
+Onkton - draws Silver, Copper, Estate
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Estate, Copper
+Rabid - shuffles deck
+Rabid - draws Moneylender, Copper, Market
+ 
+---------- Onkton: turn 5 ----------
+Onkton - plays Moneylender
+Onkton - trashes Copper
+Onkton - plays 1 Silver, 1 Copper
+Onkton - buys Gold
+Onkton - gains Gold
+Onkton - draws Copper, Feast, Copper, Militia, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 1 Copper
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Copper, Market, Estate, Copper, Copper
+ 
+---------- Onkton: turn 6 ----------
+Onkton - plays Militia
+Rabid - discards Estate
+Rabid - discards Copper
+Onkton - plays 3 Copper
+Onkton - buys Market
+Onkton - gains Market
+Onkton - draws Estate, Copper, Copper, Estate
+Onkton - shuffles deck
+Onkton - draws Feast
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Market
+Rabid - draws Silver
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Market, Copper
+ 
+---------- Onkton: turn 7 ----------
+Onkton - plays Feast
+Onkton - trashes Feast
+Onkton - gains Market
+Onkton - plays 2 Copper
+Onkton - buys Moat
+Onkton - gains Moat
+Onkton - draws Estate, Moneylender, Copper, Militia, Silver
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays 3 Copper
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Market, Silver, Market, Estate, Moneylender
+ 
+---------- Onkton: turn 8 ----------
+Onkton - plays Militia
+Rabid - discards Estate
+Rabid - discards Moneylender
+Onkton - plays 1 Copper, 1 Silver
+Onkton - buys Market
+Onkton - gains Market
+Onkton - draws Copper, Copper, Gold, Copper, Market
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - shuffles deck
+Rabid - draws Estate, Market, Silver, Copper, Gold
+ 
+---------- Onkton: turn 9 ----------
+Onkton - plays Market
+Onkton - shuffles deck
+Onkton - draws Market
+Onkton - plays Market
+Onkton - draws Moneylender
+Onkton - plays Moneylender
+Onkton - trashes Copper
+Onkton - plays 2 Copper, 1 Gold
+Onkton - buys Market
+Onkton - gains Market
+Onkton - buys Market
+Onkton - gains Market
+Onkton - draws Estate, Copper, Copper, Copper, Market
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays 2 Copper, 1 Silver, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Market, Moneylender, Estate, Estate, Copper
+ 
+---------- Onkton: turn 10 ----------
+Onkton - plays Market
+Onkton - draws Militia
+Onkton - plays Militia
+Rabid - discards Estate
+Rabid - discards Estate
+Onkton - plays 3 Copper
+Onkton - buys Gold
+Onkton - gains Gold
+Onkton - draws Estate, Moat, Estate, Silver
+Onkton - shuffles deck
+Onkton - draws Market
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 1 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Market, Market, Copper
+Rabid - shuffles deck
+Rabid - draws Market, Province
+ 
+---------- Onkton: turn 11 ----------
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays Moat
+Onkton - draws Market, Copper
+Onkton - plays 2 Copper, 1 Silver
+Onkton - buys Festival
+Onkton - gains Festival
+Onkton - draws Estate, Copper, Market, Market, Copper
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays Market
+Rabid - draws Moneylender
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Gold, Gold, Copper, Market, Silver
+ 
+---------- Onkton: turn 12 ----------
+Onkton - plays Market
+Onkton - draws Market
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays Market
+Onkton - draws Gold
+Onkton - plays 3 Copper, 1 Gold
+Onkton - buys Festival
+Onkton - gains Festival
+Onkton - buys Moat
+Onkton - gains Moat
+Onkton - buys Moat
+Onkton - gains Moat
+Onkton - draws Gold, Militia, Moneylender
+Onkton - shuffles deck
+Onkton - draws Gold, Moat
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays 2 Gold, 2 Copper, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - draws Copper, Estate, Market
+Rabid - shuffles deck
+Rabid - draws Estate, Gold
+ 
+---------- Onkton: turn 13 ----------
+Onkton - plays Militia
+Rabid - discards Estate
+Rabid - discards Estate
+Onkton - plays 2 Gold
+Onkton - buys Province
+Onkton - gains Province
+Onkton - draws Estate, Estate, Silver, Copper, Market
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Militia
+Rabid - gains Militia
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Gold, Market, Estate, Gold, Silver
+ 
+---------- Onkton: turn 14 ----------
+Onkton - plays Market
+Onkton - draws Moat
+Onkton - plays Moat
+Onkton - draws Estate, Market
+Onkton - plays 1 Silver, 1 Copper
+Onkton - buys Gardens
+Onkton - gains Gardens
+Onkton - draws Market, Copper, Copper, Market, Moat
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Market
+Rabid - plays Market
+Rabid - draws Moneylender
+Rabid - plays 2 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Festival, Gold, Province
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- Onkton: turn 15 ----------
+Onkton - plays Market
+Onkton - draws Festival
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays Festival
+Onkton - plays Moat
+Onkton - draws Copper, Market
+Onkton - plays Market
+Onkton - draws Festival
+Onkton - plays Festival
+Onkton - plays 4 Copper
+Onkton - buys Province
+Onkton - gains Province
+Onkton - shuffles deck
+Onkton - draws Moat, Market, Copper, Moneylender, Moat
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Festival
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Gold, Silver, Market, Moneylender, Militia
+ 
+---------- Onkton: turn 16 ----------
+Onkton - plays Market
+Onkton - draws Gold
+Onkton - plays Moneylender
+Onkton - trashes Copper
+Onkton - plays 1 Gold
+Onkton - buys Gold
+Onkton - gains Gold
+Onkton - draws Estate, Festival, Copper, Province, Market
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Market
+Rabid - draws Gold
+Rabid - plays Militia
+Onkton - discards Province
+Onkton - discards Estate
+Rabid - plays 2 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Province, Market, Gold, Silver, Market
+ 
+---------- Onkton: turn 17 ----------
+Onkton - plays Festival
+Onkton - plays Market
+Onkton - draws Silver
+Onkton - plays 1 Copper, 1 Silver
+Onkton - buys Gardens
+Onkton - gains Gardens
+Onkton - draws Estate, Festival, Estate, Copper, Market
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays Market
+Rabid - draws Estate
+Rabid - plays 1 Gold, 1 Silver, 1 Copper
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Silver, Estate, Market, Estate, Market
+ 
+---------- Onkton: turn 18 ----------
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays Festival
+Onkton - plays 2 Copper
+Onkton - buys Gardens
+Onkton - gains Gardens
+Onkton - draws Market, Market, Militia, Moat, Province
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Market
+Rabid - shuffles deck
+Rabid - draws Gardens
+Rabid - plays Market
+Rabid - draws Silver
+Rabid - plays 2 Silver
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Moat
+Rabid - gains Moat
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Militia, Gardens, Copper, Copper, Province
+ 
+---------- Onkton: turn 19 ----------
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays Market
+Onkton - draws Gold
+Onkton - plays Militia
+Rabid - discards Province
+Rabid - discards Gardens
+Onkton - plays 1 Copper, 1 Gold
+Onkton - buys Province
+Onkton - gains Province
+Onkton - draws Gardens
+Onkton - shuffles deck
+Onkton - draws Gold, Copper, Gold, Market
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Militia
+Onkton - discards Gardens
+Onkton - discards Copper
+Rabid - plays 2 Copper
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - draws Province, Festival, Gardens, Market, Province
+ 
+---------- Onkton: turn 20 ----------
+Onkton - plays Market
+Onkton - draws Copper
+Onkton - plays 2 Gold, 1 Copper
+Onkton - buys Province
+Onkton - gains Province
+Onkton - draws Estate, Estate, Festival, Province, Copper
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Market
+Rabid - draws Gold
+Rabid - plays Festival
+Rabid - plays 1 Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Estate, Silver, Silver, Market, Gold
+ 
+---------- Onkton: turn 21 ----------
+Onkton - plays Festival
+Onkton - plays 1 Copper
+Onkton - buys Estate
+Onkton - gains Estate
+Onkton - draws Province, Market, Market, Festival, Gold
+ 
+---------- Rabid: turn 21 ----------
+Rabid - plays Market
+Rabid - draws Copper
+Rabid - plays 2 Silver, 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Gold, Silver, Gold, Moneylender, Copper
+ 
+------------ Game Over ------------
+Rabid - cards: 5 Market, 1 Festival, 1 Moneylender, 1 Militia, 1 Moat, 8 Copper, 5 Silver, 4 Gold, 5 Gardens, 4 Province, 3 Estate, 1 Duchy
+Rabid - total victory points: 45
+Rabid - turns: 21
+ 
+Onkton - cards: 5 Market, 3 Moat, 2 Festival, 1 Militia, 1 Moneylender, 4 Copper, 3 Gold, 1 Silver, 4 Estate, 4 Province, 3 Gardens
+Onkton - total victory points: 37
+Onkton - turns: 21
+ 
+1st place: Rabid
+2nd place: Onkton
+ 

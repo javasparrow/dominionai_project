@@ -1,0 +1,639 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Feast, Gardens, Moneylender, Smithy, Spy, Throne Room, Festival, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+granto - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+granto - shuffles deck
+Rabid - shuffles deck
+granto - draws Copper, Copper, Estate, Copper, Copper
+Rabid - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- granto: turn 1 ----------
+granto - plays 4 Copper
+granto - buys Moneylender
+granto - gains Moneylender
+granto - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Cellar
+Rabid - gains Cellar
+Rabid - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- granto: turn 2 ----------
+granto - plays 3 Copper
+granto - buys Silver
+granto - gains Silver
+granto - shuffles deck
+granto - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Moneylender
+Rabid - gains Moneylender
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- granto: turn 3 ----------
+granto - plays 3 Copper
+granto - buys Silver
+granto - gains Silver
+granto - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 4 Copper
+Rabid - buys Feast
+Rabid - gains Feast
+Rabid - draws Copper, Cellar, Estate, Copper, Estate
+ 
+---------- granto: turn 4 ----------
+granto - plays 4 Copper
+granto - buys Throne Room
+granto - gains Throne Room
+granto - draws Silver, Moneylender
+granto - shuffles deck
+granto - draws Throne Room, Copper, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Cellar
+Rabid - discards Estate
+Rabid - discards Estate
+Rabid - draws Moneylender, Copper
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 2 Copper
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - shuffles deck
+Rabid - draws Estate, Estate, Moneylender, Cellar, Festival
+ 
+---------- granto: turn 5 ----------
+granto - plays Throne Room
+granto - plays Moneylender
+granto - trashes Copper
+granto - plays Moneylender
+granto - trashes Copper
+granto - plays 1 Silver
+granto - buys Gold
+granto - gains Gold
+granto - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Cellar
+Rabid - discards Estate
+Rabid - discards Estate
+Rabid - draws Copper, Copper
+Rabid - plays Festival
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 1 Copper
+Rabid - buys Library
+Rabid - gains Library
+Rabid - draws Copper, Copper, Feast, Copper, Copper
+ 
+---------- granto: turn 6 ----------
+granto - plays 2 Copper, 1 Silver
+granto - buys Feast
+granto - gains Feast
+granto - draws Copper, Copper, Copper, Estate
+granto - shuffles deck
+granto - draws Silver
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Festival
+Rabid - plays 4 Copper
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - draws Estate
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Cellar, Throne Room
+ 
+---------- granto: turn 7 ----------
+granto - plays 3 Copper, 1 Silver
+granto - buys Festival
+granto - gains Festival
+granto - draws Gold, Copper, Throne Room, Copper, Silver
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Cellar
+Rabid - discards Estate
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - draws Copper, Moneylender, Copper
+Rabid - plays Throne Room
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - buys Library
+Rabid - gains Library
+Rabid - draws Festival, Copper, Festival, Estate, Estate
+ 
+---------- granto: turn 8 ----------
+granto - plays 2 Copper, 1 Gold, 1 Silver
+granto - buys Gold
+granto - gains Gold
+granto - draws Estate, Moneylender, Estate, Feast
+granto - shuffles deck
+granto - draws Copper
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays 1 Copper
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - draws Library
+Rabid - shuffles deck
+Rabid - draws Library, Copper, Moneylender, Cellar
+ 
+---------- granto: turn 9 ----------
+granto - plays Feast
+granto - trashes Feast
+granto - gains Festival
+granto - draws Copper, Gold, Silver, Silver, Throne Room
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Cellar
+Rabid - discards Library
+Rabid - discards Copper
+Rabid - discards Moneylender
+Rabid - draws Estate, Estate, Throne Room
+Rabid - plays Throne Room
+Rabid - plays Library
+Rabid - draws Estate
+Rabid - moves Festival to hand
+Rabid - moves Festival to hand
+Rabid - draws Copper
+Rabid - moves Festival to hand
+Rabid - plays Library
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Throne Room, Copper, Estate, Estate
+ 
+---------- granto: turn 10 ----------
+granto - plays 2 Silver, 1 Copper, 1 Gold
+granto - buys Gold
+granto - gains Gold
+granto - draws Estate, Festival, Gold, Copper, Copper
+ 
+---------- Rabid: turn 10 ----------
+Rabid - draws Festival, Cellar, Library, Festival, Library
+ 
+---------- granto: turn 11 ----------
+granto - plays Festival
+granto - plays 2 Copper, 1 Gold
+granto - buys Library
+granto - gains Library
+granto - buys Cellar
+granto - gains Cellar
+granto - draws Copper
+granto - shuffles deck
+granto - draws Copper, Gold, Moneylender, Estate
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - draws Estate
+Rabid - moves Moneylender to hand
+Rabid - moves Festival to hand
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - moves Throne Room to hand
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays Library
+Rabid - draws Estate
+Rabid - draws Copper
+Rabid - draws Copper
+Rabid - draws Estate
+Rabid - plays 2 Copper
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - buys Feast
+Rabid - gains Feast
+Rabid - buys Festival
+Rabid - gains Festival
+Rabid - shuffles deck
+Rabid - draws Cellar, Library, Feast, Moneylender, Copper
+ 
+---------- granto: turn 12 ----------
+granto - plays Moneylender
+granto - trashes Copper
+granto - plays 1 Copper, 1 Gold
+granto - buys Gold
+granto - gains Gold
+granto - draws Copper, Silver, Festival, Festival, Throne Room
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Cellar
+Rabid - discards Feast
+Rabid - discards Moneylender
+Rabid - discards Copper
+Rabid - draws Estate, Festival, Estate
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - moves Throne Room to hand
+Rabid - draws Copper
+Rabid - moves Festival to hand
+Rabid - moves Library to hand
+Rabid - draws Estate
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - moves Festival to hand
+Rabid - moves Festival to hand
+Rabid - moves Throne Room to hand
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays 1 Copper
+Rabid - buys Library
+Rabid - gains Library
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - buys Feast
+Rabid - gains Feast
+Rabid - shuffles deck
+Rabid - draws Library, Copper, Feast, Estate, Throne Room
+ 
+---------- granto: turn 13 ----------
+granto - plays Throne Room
+granto - plays Festival
+granto - plays Festival
+granto - plays Festival
+granto - plays 1 Copper, 1 Silver
+granto - buys Gardens
+granto - gains Gardens
+granto - buys Gardens
+granto - gains Gardens
+granto - draws Library, Cellar, Gold, Estate, Silver
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Throne Room
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Festival
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Festival
+Rabid - draws Library, Festival, Estate, Throne Room, Festival
+ 
+---------- granto: turn 14 ----------
+granto - plays Cellar
+granto - discards Estate
+granto - draws Copper
+granto - plays Library
+granto - draws Estate
+granto - draws Copper
+granto - draws Gold
+granto - shuffles deck
+granto - draws Gardens
+granto - plays 2 Gold, 2 Copper, 1 Silver
+granto - buys Province
+granto - gains Province
+granto - draws Gardens, Festival, Estate, Silver, Gold
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - moves Library to hand
+Rabid - moves Moneylender to hand
+Rabid - moves Throne Room to hand
+Rabid - moves Cellar to hand
+Rabid - moves Festival to hand
+Rabid - moves Festival to hand
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Cellar
+Rabid - discards Estate
+Rabid - draws Estate
+Rabid - plays Library
+Rabid - draws Copper
+Rabid - moves Feast to hand
+Rabid - shuffles deck
+Rabid - moves Festival to hand
+Rabid - moves Library to hand
+Rabid - draws Estate
+Rabid - plays Festival
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays Library
+Rabid - draws Estate
+Rabid - moves Throne Room to hand
+Rabid - draws Copper
+Rabid - moves Festival to hand
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Festival
+Rabid - plays Feast
+Rabid - trashes Feast
+Rabid - gains Festival
+Rabid - plays 1 Copper
+Rabid - buys Library
+Rabid - gains Library
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Throne Room
+Rabid - gains Throne Room
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Library, Festival, Cellar, Library, Festival
+ 
+---------- granto: turn 15 ----------
+granto - plays Festival
+granto - plays 1 Silver, 1 Gold
+granto - buys Gardens
+granto - gains Gardens
+granto - buys Cellar
+granto - gains Cellar
+granto - draws Throne Room, Copper, Estate, Moneylender, Gold
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Cellar
+Rabid - plays Library
+Rabid - draws Province
+Rabid - moves Throne Room to hand
+Rabid - moves Throne Room to hand
+Rabid - moves Festival to hand
+Rabid - draws Estate
+Rabid - moves Festival to hand
+Rabid - plays Throne Room
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - draws Silver
+Rabid - draws Estate
+Rabid - draws Estate
+Rabid - moves Festival to hand
+Rabid - discards Moneylender
+Rabid - moves Library to hand
+Rabid - discards Moneylender
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - discards Throne Room
+Rabid - moves Festival to hand
+Rabid - draws Copper
+Rabid - discards Throne Room
+Rabid - plays Festival
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Cellar
+Rabid - gains Cellar
+Rabid - draws Library, Festival, Throne Room, Festival
+Rabid - shuffles deck
+Rabid - draws Festival
+ 
+---------- granto: turn 16 ----------
+granto - plays Moneylender
+granto - trashes Copper
+granto - plays 1 Gold
+granto - buys Gardens
+granto - gains Gardens
+granto - draws Festival, Copper
+granto - shuffles deck
+granto - draws Library, Copper, Silver
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - draws Copper
+Rabid - moves Festival to hand
+Rabid - draws Estate
+Rabid - moves Cellar to hand
+Rabid - moves Throne Room to hand
+Rabid - moves Festival to hand
+Rabid - moves Festival to hand
+Rabid - plays Cellar
+Rabid - discards Estate
+Rabid - discards Copper
+Rabid - draws Moneylender, Festival
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Gardens
+Rabid - gains Gardens
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Estate, Throne Room, Province, Library, Province
+ 
+---------- granto: turn 17 ----------
+granto - plays Festival
+granto - plays Library
+granto - draws Gardens
+granto - moves Throne Room to hand
+granto - draws Estate
+granto - draws Estate
+granto - plays 2 Copper, 1 Silver
+granto - buys Throne Room
+granto - gains Throne Room
+granto - draws Gardens, Gold, Copper, Festival, Silver
+ 
+---------- Rabid: turn 17 ----------
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Library, Silver, Festival, Cellar, Estate
+ 
+---------- granto: turn 18 ----------
+granto - plays Festival
+granto - plays 1 Gold, 1 Copper, 1 Silver
+granto - buys Province
+granto - gains Province
+granto - draws Estate, Gardens, Gold, Cellar, Cellar
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Festival
+Rabid - plays Cellar
+Rabid - discards Silver
+Rabid - discards Estate
+Rabid - draws Province, Library
+Rabid - plays Library
+Rabid - moves Throne Room to hand
+Rabid - shuffles deck
+Rabid - draws Province
+Rabid - moves Throne Room to hand
+Rabid - moves Festival to hand
+Rabid - discards Throne Room
+Rabid - moves Festival to hand
+Rabid - discards Throne Room
+Rabid - plays Throne Room
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Throne Room
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - moves Festival to hand
+Rabid - draws Gardens
+Rabid - draws Copper
+Rabid - draws Estate
+Rabid - draws Gardens
+Rabid - plays Festival
+Rabid - plays 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Copper, Cellar, Copper, Estate, Estate
+ 
+---------- granto: turn 19 ----------
+granto - plays Cellar
+granto - discards Gardens
+granto - discards Estate
+granto - draws Moneylender, Gold
+granto - plays Cellar
+granto - discards Moneylender
+granto - draws Province
+granto - plays 2 Gold
+granto - buys Duchy
+granto - gains Duchy
+granto - draws Gold, Gardens
+granto - shuffles deck
+granto - draws Copper, Cellar, Cellar
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Cellar
+Rabid - discards Copper
+Rabid - discards Copper
+Rabid - discards Estate
+Rabid - discards Estate
+Rabid - draws Silver, Copper, Gardens, Throne Room
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - draws Copper, Moneylender, Gardens, Festival, Copper
+ 
+---------- granto: turn 20 ----------
+granto - plays Cellar
+granto - discards Gardens
+granto - draws Gardens
+granto - plays Cellar
+granto - discards Gardens
+granto - draws Gardens
+granto - plays 1 Gold, 1 Copper
+granto - buys Estate
+granto - gains Estate
+granto - draws Silver, Duchy, Gold, Throne Room, Gardens
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Festival
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays 1 Copper
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - buys Copper
+Rabid - gains Copper
+Rabid - draws Estate, Library, Festival, Province, Festival
+ 
+---------- granto: turn 21 ----------
+granto - plays 1 Silver, 1 Gold
+granto - buys Duchy
+granto - gains Duchy
+granto - draws Festival, Estate, Gold, Moneylender, Estate
+ 
+---------- Rabid: turn 21 ----------
+Rabid - plays Festival
+Rabid - plays Festival
+Rabid - plays Library
+Rabid - draws Copper
+Rabid - moves Library to hand
+Rabid - moves Festival to hand
+Rabid - shuffles deck
+Rabid - moves Moneylender to hand
+Rabid - draws Copper
+Rabid - plays Festival
+Rabid - plays Moneylender
+Rabid - trashes Copper
+Rabid - plays Library
+Rabid - draws Silver
+Rabid - draws Province
+Rabid - discards Throne Room
+Rabid - draws Copper
+Rabid - moves Festival to hand
+Rabid - discards Throne Room
+Rabid - plays Festival
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - buys Estate
+Rabid - gains Estate
+Rabid - draws Province, Festival, Copper, Gardens, Gardens
+ 
+------------ Game Over ------------
+Rabid - cards: 8 Festival, 4 Throne Room, 4 Library, 2 Cellar, 11 Copper, 1 Moneylender, 10 Estate, 1 Silver, 4 Gardens, 4 Province, 2 Duchy
+Rabid - total victory points: 60
+Rabid - turns: 21
+ 
+granto - cards: 2 Festival, 2 Throne Room, 2 Cellar, 1 Moneylender, 1 Library, 4 Gold, 3 Copper, 2 Silver, 4 Gardens, 4 Estate, 2 Duchy, 2 Province
+granto - total victory points: 30
+granto - turns: 21
+ 
+1st place: Rabid
+2nd place: granto
+ 

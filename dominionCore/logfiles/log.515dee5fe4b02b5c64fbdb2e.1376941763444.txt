@@ -1,0 +1,531 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Village, Woodcutter, Smithy, Throne Room, Festival, Laboratory, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+djebi - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+djebi - shuffles deck
+terminalCopper - shuffles deck
+djebi - draws Copper, Estate, Copper, Copper, Copper
+terminalCopper - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 2 Copper
+terminalCopper - buys Chapel
+terminalCopper - gains Chapel
+terminalCopper - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- djebi: turn 1 ----------
+djebi - plays 4 Copper
+djebi - buys Smithy
+djebi - gains Smithy
+djebi - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 5 Copper
+terminalCopper - buys Witch
+terminalCopper - gains Witch
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Estate, Copper, Witch
+ 
+---------- djebi: turn 2 ----------
+djebi - plays 3 Copper
+djebi - buys Woodcutter
+djebi - gains Woodcutter
+djebi - shuffles deck
+djebi - draws Estate, Copper, Estate, Woodcutter, Smithy
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Chapel, Estate
+djebi - gains Curse
+terminalCopper - plays 3 Copper
+terminalCopper - buys Village
+terminalCopper - gains Village
+terminalCopper - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- djebi: turn 3 ----------
+djebi - plays Woodcutter
+djebi - plays 1 Copper
+djebi - buys Chapel
+djebi - gains Chapel
+djebi - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Village, Witch, Estate
+ 
+---------- djebi: turn 4 ----------
+djebi - plays 4 Copper
+djebi - buys Throne Room
+djebi - gains Throne Room
+djebi - draws Copper, Copper
+djebi - shuffles deck
+djebi - draws Throne Room, Woodcutter, Smithy
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Village
+terminalCopper - draws Copper
+terminalCopper - plays Witch
+terminalCopper - draws Copper, Copper
+djebi - gains Curse
+terminalCopper - plays 5 Copper
+terminalCopper - buys Festival
+terminalCopper - gains Festival
+terminalCopper - draws Copper, Chapel, Estate, Estate, Silver
+ 
+---------- djebi: turn 5 ----------
+djebi - plays Throne Room
+djebi - plays Woodcutter
+djebi - plays Woodcutter
+djebi - plays 2 Copper
+djebi - buys Gold
+djebi - gains Gold
+djebi - draws Chapel, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Chapel
+terminalCopper - trashes Estate, Estate
+terminalCopper - plays 1 Copper, 1 Silver
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Witch, Chapel, Village
+ 
+---------- djebi: turn 6 ----------
+djebi - plays Chapel
+djebi - trashes Copper
+djebi - plays 3 Copper
+djebi - buys Village
+djebi - gains Village
+djebi - draws Copper, Curse, Estate, Estate, Estate
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Village
+terminalCopper - draws Copper
+terminalCopper - plays Witch
+terminalCopper - draws Copper, Copper
+djebi - gains Curse
+terminalCopper - plays Chapel
+terminalCopper - trashes Estate, Copper, Copper, Copper
+terminalCopper - draws Festival, Silver, Copper, Silver, Copper
+ 
+---------- djebi: turn 7 ----------
+djebi - plays 1 Copper
+djebi - shuffles deck
+djebi - draws Curse, Throne Room, Gold, Woodcutter, Estate
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Festival
+terminalCopper - plays 2 Silver, 2 Copper
+terminalCopper - buys Throne Room
+terminalCopper - gains Throne Room
+terminalCopper - buys Throne Room
+terminalCopper - gains Throne Room
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Throne Room, Festival, Chapel, Copper
+ 
+---------- djebi: turn 8 ----------
+djebi - plays Throne Room
+djebi - plays Woodcutter
+djebi - plays Woodcutter
+djebi - plays 1 Gold
+djebi - buys Village
+djebi - gains Village
+djebi - buys Smithy
+djebi - gains Smithy
+djebi - draws Curse, Chapel, Copper, Curse, Estate
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Chapel
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Copper
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - draws Silver, Copper, Village, Copper, Throne Room
+ 
+---------- djebi: turn 9 ----------
+djebi - plays Chapel
+djebi - trashes Copper, Curse, Curse, Estate
+djebi - draws Copper, Copper, Copper, Smithy, Copper
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Village
+terminalCopper - draws Silver
+terminalCopper - plays Village
+terminalCopper - draws Witch
+terminalCopper - plays Witch
+terminalCopper - shuffles deck
+terminalCopper - draws Chapel, Throne Room
+djebi - gains Curse
+terminalCopper - plays Chapel
+terminalCopper - trashes Copper, Copper
+terminalCopper - plays 2 Silver
+terminalCopper - buys Village
+terminalCopper - gains Village
+terminalCopper - draws Copper, Festival, Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Chapel
+ 
+---------- djebi: turn 10 ----------
+djebi - plays Smithy
+djebi - draws Village, Estate, Copper
+djebi - plays 5 Copper
+djebi - buys Festival
+djebi - gains Festival
+djebi - shuffles deck
+djebi - draws Curse, Curse, Village, Smithy, Copper
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Throne Room, Silver
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Chapel
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Silver
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Witch, Throne Room, Village, Village
+terminalCopper - shuffles deck
+terminalCopper - draws Laboratory
+ 
+---------- djebi: turn 11 ----------
+djebi - plays Village
+djebi - draws Woodcutter
+djebi - plays Smithy
+djebi - draws Gold, Festival, Estate
+djebi - plays Festival
+djebi - plays Woodcutter
+djebi - plays 1 Copper, 1 Gold
+djebi - buys Gold
+djebi - gains Gold
+djebi - buys Moat
+djebi - gains Moat
+djebi - draws Throne Room, Estate, Copper, Copper, Chapel
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Village
+terminalCopper - draws Silver
+terminalCopper - plays Throne Room
+terminalCopper - plays Witch
+terminalCopper - draws Throne Room, Laboratory
+djebi - gains Curse
+terminalCopper - plays Witch
+terminalCopper - draws Silver, Silver
+djebi - gains Curse
+terminalCopper - plays Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Festival, Chapel
+terminalCopper - plays Laboratory
+terminalCopper - plays Festival
+terminalCopper - plays 3 Silver
+terminalCopper - buys Woodcutter
+terminalCopper - gains Woodcutter
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Village, Chapel, Festival, Woodcutter, Village
+ 
+---------- djebi: turn 12 ----------
+djebi - plays Chapel
+djebi - trashes Copper, Copper, Estate
+djebi - draws Village, Smithy, Copper, Copper
+djebi - shuffles deck
+djebi - draws Curse
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Festival
+terminalCopper - plays Village
+terminalCopper - draws Silver
+terminalCopper - plays Village
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Woodcutter
+terminalCopper - plays Woodcutter
+terminalCopper - plays 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Laboratory, Laboratory, Witch, Silver, Laboratory
+ 
+---------- djebi: turn 13 ----------
+djebi - plays Village
+djebi - draws Curse
+djebi - plays Smithy
+djebi - draws Gold, Chapel, Smithy
+djebi - plays Chapel
+djebi - trashes Curse, Curse, Copper, Copper
+djebi - plays 1 Gold
+djebi - buys Village
+djebi - gains Village
+djebi - draws Estate, Gold, Village, Moat, Festival
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Silver, Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Province
+terminalCopper - plays Laboratory
+terminalCopper - draws Festival, Village
+terminalCopper - plays Village
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Witch
+djebi - reveals reaction Moat
+terminalCopper - draws Village, Chapel
+terminalCopper - plays Witch
+djebi - reveals reaction Moat
+terminalCopper - draws Woodcutter
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Woodcutter
+terminalCopper - plays Village
+terminalCopper - plays 3 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Throne Room
+terminalCopper - gains Throne Room
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Silver, Silver, Village, Festival
+ 
+---------- djebi: turn 14 ----------
+djebi - plays Festival
+djebi - plays Village
+djebi - draws Curse
+djebi - plays Moat
+djebi - draws Copper, Curse
+djebi - plays 1 Gold, 1 Copper
+djebi - buys Gold
+djebi - gains Gold
+djebi - draws Woodcutter, Throne Room
+djebi - shuffles deck
+djebi - draws Copper, Moat, Festival
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Village
+terminalCopper - draws Village
+terminalCopper - plays Village
+terminalCopper - draws Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays 3 Silver
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - draws Witch, Laboratory, Chapel, Province, Laboratory
+ 
+---------- djebi: turn 15 ----------
+djebi - plays Festival
+djebi - plays Throne Room
+djebi - plays Moat
+djebi - draws Smithy, Smithy
+djebi - plays Moat
+djebi - draws Village, Gold
+djebi - plays Village
+djebi - draws Village
+djebi - plays Village
+djebi - draws Village
+djebi - plays Village
+djebi - draws Curse
+djebi - plays Smithy
+djebi - draws Curse, Gold, Chapel
+djebi - plays Smithy
+djebi - draws Gold, Estate
+djebi - plays Chapel
+djebi - trashes Estate, Curse, Curse, Copper
+djebi - plays Woodcutter
+djebi - plays 3 Gold
+djebi - buys Province
+djebi - gains Province
+djebi - buys Village
+djebi - gains Village
+djebi - buys Moat
+djebi - gains Moat
+djebi - shuffles deck
+djebi - draws Moat, Village, Gold, Smithy, Throne Room
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Laboratory, Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Throne Room, Province
+terminalCopper - plays Throne Room
+terminalCopper - plays Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Woodcutter
+terminalCopper - shuffles deck
+terminalCopper - draws Silver
+terminalCopper - plays Laboratory
+terminalCopper - draws Village, Village
+terminalCopper - plays Throne Room
+terminalCopper - plays Witch
+djebi - reveals reaction Moat
+terminalCopper - draws Throne Room, Silver
+terminalCopper - plays Witch
+djebi - reveals reaction Moat
+terminalCopper - draws Laboratory, Festival
+terminalCopper - plays Village
+terminalCopper - draws Laboratory
+terminalCopper - plays Village
+terminalCopper - draws Silver
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Woodcutter
+terminalCopper - plays 3 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Throne Room, Laboratory, Province, Silver, Witch
+ 
+---------- djebi: turn 16 ----------
+djebi - plays Village
+djebi - draws Festival
+djebi - plays Festival
+djebi - plays Throne Room
+djebi - plays Smithy
+djebi - draws Chapel, Village, Village
+djebi - plays Smithy
+djebi - draws Village, Province, Moat
+djebi - plays Village
+djebi - draws Woodcutter
+djebi - plays Village
+djebi - draws Gold
+djebi - plays Village
+djebi - draws Smithy
+djebi - plays Moat
+djebi - draws Gold
+djebi - plays Woodcutter
+djebi - plays 3 Gold
+djebi - buys Province
+djebi - gains Province
+djebi - buys Duchy
+djebi - gains Duchy
+djebi - shuffles deck
+djebi - draws Village, Smithy, Chapel, Duchy, Festival
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Silver, Silver
+terminalCopper - plays Laboratory
+terminalCopper - draws Province, Province
+terminalCopper - plays Witch
+terminalCopper - draws Throne Room, Laboratory
+djebi - gains Curse
+terminalCopper - plays Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Village, Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Woodcutter, Festival
+terminalCopper - plays Village
+terminalCopper - draws Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Chapel, Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Silver, Village
+terminalCopper - plays Village
+terminalCopper - draws Laboratory
+terminalCopper - plays Throne Room
+terminalCopper - plays Festival
+terminalCopper - plays Festival
+terminalCopper - plays Woodcutter
+terminalCopper - plays 4 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - shuffles deck
+terminalCopper - draws Laboratory, Province, Laboratory, Throne Room, Laboratory
+ 
+---------- djebi: turn 17 ----------
+djebi - plays Festival
+djebi - plays Village
+djebi - draws Gold
+djebi - plays Smithy
+djebi - draws Province, Smithy, Woodcutter
+djebi - plays Smithy
+djebi - draws Moat, Village, Gold
+djebi - plays Village
+djebi - draws Village
+djebi - plays Village
+djebi - draws Village
+djebi - plays Village
+djebi - draws Moat
+djebi - plays Moat
+djebi - draws Gold, Throne Room
+djebi - plays Throne Room
+djebi - plays Woodcutter
+djebi - plays Woodcutter
+djebi - plays Moat
+djebi - draws Province
+djebi - shuffles deck
+djebi - draws Curse
+djebi - plays Chapel
+djebi - trashes Curse
+djebi - plays 3 Gold
+djebi - buys Province
+djebi - gains Province
+djebi - buys Duchy
+djebi - gains Duchy
+djebi - shuffles deck
+djebi - draws Moat, Gold, Gold, Village, Festival
+ 
+---------- terminalCopper: turn 18 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Laboratory
+terminalCopper - draws Silver, Silver
+terminalCopper - plays Laboratory
+terminalCopper - draws Witch, Province
+terminalCopper - plays Laboratory
+terminalCopper - draws Laboratory, Village
+terminalCopper - plays Laboratory
+terminalCopper - draws Province, Duchy
+terminalCopper - plays Village
+terminalCopper - draws Silver
+terminalCopper - plays Witch
+djebi - reveals reaction Moat
+terminalCopper - draws Silver, Province
+terminalCopper - plays Laboratory
+terminalCopper - draws Woodcutter, Festival
+terminalCopper - plays Woodcutter
+terminalCopper - plays Festival
+terminalCopper - plays 4 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Village, Laboratory, Throne Room, Throne Room, Chapel
+ 
+------------ Game Over ------------
+terminalCopper - cards: 5 Laboratory, 3 Throne Room, 2 Village, 1 Chapel, 1 Witch, 1 Woodcutter, 1 Festival, 4 Silver, 5 Province, 2 Estate, 1 Duchy
+terminalCopper - total victory points: 35
+terminalCopper - turns: 18
+ 
+djebi - cards: 4 Village, 2 Moat, 2 Smithy, 1 Festival, 1 Throne Room, 1 Woodcutter, 1 Chapel, 3 Gold, 3 Province, 2 Duchy
+djebi - total victory points: 24
+djebi - turns: 17
+ 
+1st place: terminalCopper
+2nd place: djebi
+ 

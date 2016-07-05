@@ -1,0 +1,307 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Chancellor, Village, Workshop, Feast, Moneylender, Festival, Laboratory, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+pilot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Blobby - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pilot - shuffles deck
+Blobby - shuffles deck
+pilot - draws Copper, Copper, Estate, Copper, Copper
+Blobby - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- pilot: turn 1 ----------
+pilot - plays 4 Copper
+pilot - buys Feast
+pilot - gains Feast
+pilot - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Blobby: turn 1 ----------
+Blobby - plays 3 Copper
+Blobby - buys Chapel
+Blobby - gains Chapel
+Blobby - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- pilot: turn 2 ----------
+pilot - plays 3 Copper
+pilot - buys Chapel
+pilot - gains Chapel
+pilot - shuffles deck
+pilot - draws Feast, Copper, Copper, Copper, Copper
+ 
+---------- Blobby: turn 2 ----------
+Blobby - plays 4 Copper
+Blobby - buys Moneylender
+Blobby - gains Moneylender
+Blobby - shuffles deck
+Blobby - draws Copper, Estate, Estate, Chapel, Copper
+ 
+---------- pilot: turn 3 ----------
+pilot - plays Feast
+pilot - trashes Feast
+pilot - gains Festival
+pilot - plays 4 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Copper, Copper, Estate, Chapel, Estate
+ 
+---------- Blobby: turn 3 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper, Estate, Estate, Copper
+Blobby - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- pilot: turn 4 ----------
+pilot - plays Chapel
+pilot - trashes Estate, Estate, Copper, Copper
+pilot - draws Estate, Copper
+pilot - shuffles deck
+pilot - draws Chapel, Festival, Copper
+ 
+---------- Blobby: turn 4 ----------
+Blobby - plays 4 Copper
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - draws Copper, Moneylender
+Blobby - shuffles deck
+Blobby - draws Copper, Copper, Estate
+ 
+---------- pilot: turn 5 ----------
+pilot - plays Festival
+pilot - plays Chapel
+pilot - trashes Copper, Estate
+pilot - plays 1 Copper
+pilot - buys Silver
+pilot - gains Silver
+pilot - draws Copper, Silver, Copper, Copper
+pilot - shuffles deck
+pilot - draws Silver
+ 
+---------- Blobby: turn 5 ----------
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays 2 Copper
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Copper, Chapel, Silver, Copper
+Blobby - shuffles deck
+Blobby - draws Copper
+ 
+---------- pilot: turn 6 ----------
+pilot - plays 3 Copper, 2 Silver
+pilot - buys Gold
+pilot - gains Gold
+pilot - draws Festival, Chapel, Copper
+pilot - shuffles deck
+pilot - draws Copper, Gold
+ 
+---------- Blobby: turn 6 ----------
+Blobby - plays Chapel
+Blobby - trashes Copper, Copper, Copper
+Blobby - draws Festival, Moneylender, Estate, Copper
+Blobby - shuffles deck
+Blobby - draws Chapel
+ 
+---------- pilot: turn 7 ----------
+pilot - plays Festival
+pilot - plays Chapel
+pilot - trashes Copper, Copper
+pilot - plays 1 Gold
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - draws Copper, Copper, Silver, Silver
+pilot - shuffles deck
+pilot - draws Chapel
+ 
+---------- Blobby: turn 7 ----------
+Blobby - plays Festival
+Blobby - plays Moneylender
+Blobby - trashes Copper
+Blobby - plays Chapel
+Blobby - trashes Estate
+Blobby - buys Festival
+Blobby - gains Festival
+Blobby - draws Silver
+Blobby - shuffles deck
+Blobby - draws Festival, Festival, Moneylender, Chapel
+ 
+---------- pilot: turn 8 ----------
+pilot - plays Chapel
+pilot - trashes Copper
+pilot - plays 2 Silver, 1 Copper
+pilot - buys Festival
+pilot - gains Festival
+pilot - draws Laboratory, Gold, Festival
+pilot - shuffles deck
+pilot - draws Silver, Copper
+ 
+---------- Blobby: turn 8 ----------
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays Chapel
+Blobby - trashes Moneylender
+Blobby - plays 1 Silver
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - shuffles deck
+Blobby - draws Gold, Silver, Chapel, Festival, Festival
+ 
+---------- pilot: turn 9 ----------
+pilot - plays Laboratory
+pilot - draws Chapel, Silver
+pilot - plays Festival
+pilot - plays Chapel
+pilot - trashes Copper
+pilot - plays 2 Silver, 1 Gold
+pilot - buys Gold
+pilot - gains Gold
+pilot - buys Village
+pilot - gains Village
+pilot - draws Festival
+pilot - shuffles deck
+pilot - draws Silver, Silver, Gold, Laboratory
+ 
+---------- Blobby: turn 9 ----------
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays 1 Gold, 1 Silver
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - buys Silver
+Blobby - gains Silver
+Blobby - shuffles deck
+Blobby - draws Silver, Silver, Festival, Festival, Chapel
+ 
+---------- pilot: turn 10 ----------
+pilot - plays Laboratory
+pilot - draws Festival, Gold
+pilot - plays Festival
+pilot - plays Festival
+pilot - plays 2 Silver, 2 Gold
+pilot - buys Gold
+pilot - gains Gold
+pilot - buys Gold
+pilot - gains Gold
+pilot - buys Moat
+pilot - gains Moat
+pilot - draws Chapel, Village
+pilot - shuffles deck
+pilot - draws Gold, Silver, Laboratory
+ 
+---------- Blobby: turn 10 ----------
+Blobby - plays Festival
+Blobby - plays Festival
+Blobby - plays 2 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Gold, Gold
+Blobby - shuffles deck
+Blobby - draws Silver, Silver, Festival
+ 
+---------- pilot: turn 11 ----------
+pilot - plays Laboratory
+pilot - draws Gold, Festival
+pilot - plays Village
+pilot - draws Moat
+pilot - plays Festival
+pilot - plays Moat
+pilot - draws Festival, Gold
+pilot - plays Festival
+pilot - plays 3 Gold, 1 Silver
+pilot - buys Province
+pilot - gains Province
+pilot - buys Laboratory
+pilot - gains Laboratory
+pilot - draws Silver, Gold
+pilot - shuffles deck
+pilot - draws Laboratory, Province, Laboratory
+ 
+---------- Blobby: turn 11 ----------
+Blobby - plays Festival
+Blobby - plays 2 Gold, 2 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - buys Feast
+Blobby - gains Feast
+Blobby - draws Festival, Chapel, Province
+Blobby - shuffles deck
+Blobby - draws Gold, Gold
+ 
+---------- pilot: turn 12 ----------
+pilot - plays Laboratory
+pilot - draws Village, Moat
+pilot - plays Laboratory
+pilot - draws Gold, Festival
+pilot - plays Festival
+pilot - plays Village
+pilot - draws Gold
+pilot - plays Moat
+pilot - draws Chapel, Festival
+pilot - plays Festival
+pilot - plays 3 Gold, 1 Silver
+pilot - buys Province
+pilot - gains Province
+pilot - buys Gold
+pilot - gains Gold
+pilot - draws Silver, Gold
+pilot - shuffles deck
+pilot - draws Province, Silver, Laboratory
+ 
+---------- Blobby: turn 12 ----------
+Blobby - plays Festival
+Blobby - plays 2 Gold
+Blobby - buys Province
+Blobby - gains Province
+Blobby - draws Festival, Feast, Province, Silver, Silver
+ 
+---------- pilot: turn 13 ----------
+pilot - plays Laboratory
+pilot - draws Village, Province
+pilot - plays Village
+pilot - draws Gold
+pilot - plays 2 Silver, 2 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - draws Gold, Gold, Gold, Festival, Festival
+ 
+---------- Blobby: turn 13 ----------
+Blobby - plays Festival
+Blobby - plays Feast
+Blobby - trashes Feast
+Blobby - gains Duchy
+Blobby - plays 2 Silver
+Blobby - buys Gold
+Blobby - gains Gold
+Blobby - shuffles deck
+Blobby - draws Province, Gold, Festival, Gold, Silver
+ 
+---------- pilot: turn 14 ----------
+pilot - plays Festival
+pilot - plays Festival
+pilot - plays 3 Gold
+pilot - buys Province
+pilot - gains Province
+pilot - buys Duchy
+pilot - gains Duchy
+pilot - draws Chapel, Moat, Laboratory
+pilot - shuffles deck
+pilot - draws Gold, Province
+ 
+---------- Blobby: turn 14 ----------
+Blobby - plays Festival
+Blobby - plays 2 Gold, 1 Silver
+Blobby - buys Province
+Blobby - gains Province
+Blobby - buys Estate
+Blobby - gains Estate
+Blobby - draws Silver, Gold, Duchy, Festival, Province
+ 
+------------ Game Over ------------
+Blobby - cards: 2 Festival, 1 Chapel, 3 Gold, 2 Silver, 4 Province, 1 Duchy, 1 Estate
+Blobby - total victory points: 28
+Blobby - turns: 14
+ 
+pilot - cards: 2 Laboratory, 2 Festival, 1 Chapel, 1 Moat, 1 Village, 5 Gold, 2 Silver, 4 Province, 1 Duchy
+pilot - total victory points: 27
+pilot - turns: 14
+ 
+1st place: Blobby
+2nd place: pilot
+ 

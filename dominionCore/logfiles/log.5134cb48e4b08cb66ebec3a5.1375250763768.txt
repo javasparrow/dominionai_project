@@ -1,0 +1,420 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Chancellor, Bureaucrat, Gardens, Festival, Laboratory, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+nessuno - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nessuno - shuffles deck
+Gherald - shuffles deck
+nessuno - draws Estate, Copper, Copper, Estate, Copper
+Gherald - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- nessuno: turn 1 ----------
+nessuno - plays 3 Copper
+nessuno - buys Chapel
+nessuno - gains Chapel
+nessuno - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 4 Copper
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- nessuno: turn 2 ----------
+nessuno - plays 4 Copper
+nessuno - buys Silver
+nessuno - gains Silver
+nessuno - shuffles deck
+nessuno - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- nessuno: turn 3 ----------
+nessuno - plays 3 Copper, 1 Silver
+nessuno - buys Witch
+nessuno - gains Witch
+nessuno - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 3 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- nessuno: turn 4 ----------
+nessuno - plays 3 Copper
+nessuno - buys Silver
+nessuno - gains Silver
+nessuno - draws Chapel, Copper
+nessuno - shuffles deck
+nessuno - draws Copper, Copper, Estate
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Witch
+Gherald - gains Witch
+Gherald - draws Bureaucrat, Copper
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Estate
+ 
+---------- nessuno: turn 5 ----------
+nessuno - plays Chapel
+nessuno - trashes Copper, Estate, Copper, Copper
+nessuno - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+nessuno - reveals Estate
+nessuno - places Estate on top of deck
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Silver, Witch, Estate, Copper, Copper
+ 
+---------- nessuno: turn 6 ----------
+nessuno - plays 3 Copper, 1 Silver
+nessuno - buys Festival
+nessuno - gains Festival
+nessuno - draws Estate, Silver, Witch, Copper, Estate
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+nessuno - gains Curse
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Silver, Cellar, Copper
+Gherald - shuffles deck
+Gherald - draws Estate, Silver
+ 
+---------- nessuno: turn 7 ----------
+nessuno - plays Witch
+nessuno - shuffles deck
+nessuno - draws Silver, Copper
+Gherald - gains Curse
+nessuno - plays 2 Silver, 2 Copper
+nessuno - buys Gold
+nessuno - gains Gold
+nessuno - draws Curse, Copper, Copper, Festival, Chapel
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Estate
+Gherald - discards Silver
+Gherald - discards Silver
+Gherald - draws Witch, Copper, Estate, Copper
+Gherald - plays Witch
+Gherald - draws Estate, Copper
+nessuno - gains Curse
+Gherald - plays 3 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Bureaucrat, Copper, Copper, Market
+ 
+---------- nessuno: turn 8 ----------
+nessuno - plays Festival
+nessuno - plays Chapel
+nessuno - trashes Copper, Copper, Curse
+nessuno - buys Cellar
+nessuno - gains Cellar
+nessuno - shuffles deck
+nessuno - draws Estate, Silver, Copper, Copper, Silver
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Market
+Gherald - draws Cellar
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Bureaucrat
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - shuffles deck
+Gherald - draws Estate, Copper, Copper, Estate
+Gherald - plays 2 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Estate, Copper, Copper, Bureaucrat, Silver
+ 
+---------- nessuno: turn 9 ----------
+nessuno - plays 2 Silver, 2 Copper
+nessuno - buys Gold
+nessuno - gains Gold
+nessuno - draws Gold, Cellar, Festival, Chapel, Witch
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+nessuno - reveals Gold, Cellar, Festival, Chapel, Witch
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Bureaucrat
+Gherald - gains Bureaucrat
+Gherald - draws Silver, Curse, Witch, Cellar, Copper
+ 
+---------- nessuno: turn 10 ----------
+nessuno - plays Festival
+nessuno - plays Witch
+nessuno - draws Curse, Estate
+Gherald - gains Curse
+nessuno - plays Chapel
+nessuno - trashes Curse, Estate
+nessuno - plays 1 Gold
+nessuno - buys Laboratory
+nessuno - gains Laboratory
+nessuno - shuffles deck
+nessuno - draws Gold, Copper, Silver, Witch, Copper
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - draws Cellar, Copper
+Gherald - plays Witch
+Gherald - draws Silver, Copper
+nessuno - gains Curse
+Gherald - plays 2 Silver, 2 Copper
+Gherald - buys Market
+Gherald - gains Market
+Gherald - shuffles deck
+Gherald - draws Silver, Copper, Bureaucrat, Copper, Bureaucrat
+ 
+---------- nessuno: turn 11 ----------
+nessuno - plays Witch
+nessuno - draws Estate, Gold
+Gherald - gains Curse
+nessuno - plays 2 Gold, 2 Copper, 1 Silver
+nessuno - buys Province
+nessuno - gains Province
+nessuno - draws Cellar, Silver, Laboratory, Festival, Chapel
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+nessuno - reveals Cellar, Silver, Laboratory, Festival, Chapel
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - draws Silver, Copper, Copper, Copper, Cellar
+ 
+---------- nessuno: turn 12 ----------
+nessuno - plays Festival
+nessuno - plays Laboratory
+nessuno - shuffles deck
+nessuno - draws Gold, Copper
+nessuno - plays 1 Silver, 1 Gold, 1 Copper
+nessuno - buys Gardens
+nessuno - gains Gardens
+nessuno - buys Gardens
+nessuno - gains Gardens
+nessuno - draws Witch, Curse, Copper, Gold, Province
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Cellar
+Gherald - discards Copper
+Gherald - discards Silver
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Copper, Cellar, Cellar, Market
+Gherald - plays Market
+Gherald - draws Witch
+Gherald - plays Cellar
+Gherald - discards Cellar
+Gherald - discards Copper
+Gherald - draws Copper, Market
+Gherald - plays Market
+Gherald - draws Estate
+Gherald - plays Witch
+Gherald - draws Silver, Estate
+nessuno - gains Curse
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Curse, Cellar, Copper, Silver, Curse
+ 
+---------- nessuno: turn 13 ----------
+nessuno - plays Witch
+nessuno - draws Estate, Silver
+Gherald - gains Curse
+nessuno - plays 1 Copper, 1 Gold, 1 Silver
+nessuno - buys Gardens
+nessuno - gains Gardens
+nessuno - shuffles deck
+nessuno - draws Cellar, Estate, Festival, Gold, Curse
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - discards Curse
+Gherald - draws Estate
+Gherald - shuffles deck
+Gherald - draws Estate, Curse
+Gherald - plays 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Witch, Silver, Bureaucrat, Cellar, Cellar
+ 
+---------- nessuno: turn 14 ----------
+nessuno - plays Festival
+nessuno - plays Cellar
+nessuno - discards Estate
+nessuno - discards Curse
+nessuno - draws Witch, Gardens
+nessuno - plays Witch
+nessuno - draws Gardens, Copper
+Gherald - gains Curse
+nessuno - plays 1 Gold, 1 Copper
+nessuno - buys Gardens
+nessuno - gains Gardens
+nessuno - buys Chapel
+nessuno - gains Chapel
+nessuno - draws Silver, Curse, Silver, Gardens, Laboratory
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Cellar
+Gherald - discards Bureaucrat
+Gherald - discards Cellar
+Gherald - draws Copper, Market
+Gherald - plays Market
+Gherald - draws Curse
+Gherald - plays Witch
+Gherald - draws Copper, Copper
+nessuno - gains Curse
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Gardens
+Gherald - gains Gardens
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Copper, Copper, Copper, Market, Gardens
+ 
+---------- nessuno: turn 15 ----------
+nessuno - plays Laboratory
+nessuno - draws Copper, Chapel
+nessuno - plays Chapel
+nessuno - trashes Copper, Gardens, Curse
+nessuno - plays 2 Silver
+nessuno - buys Gardens
+nessuno - gains Gardens
+nessuno - draws Province, Gold
+nessuno - shuffles deck
+nessuno - draws Chapel, Estate, Gold
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Market
+Gherald - draws Copper
+Gherald - plays 4 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Copper
+Gherald - gains Copper
+Gherald - draws Cellar, Curse, Copper, Silver, Copper
+ 
+---------- nessuno: turn 16 ----------
+nessuno - plays Chapel
+nessuno - trashes Estate
+nessuno - plays 2 Gold
+nessuno - buys Laboratory
+nessuno - gains Laboratory
+nessuno - draws Gardens, Copper, Gardens, Silver, Silver
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Cellar
+Gherald - discards Curse
+Gherald - discards Copper
+Gherald - discards Copper
+Gherald - draws Gardens, Bureaucrat, Curse
+Gherald - plays Bureaucrat
+Gherald - gains Silver
+nessuno - reveals Gardens
+nessuno - places Gardens on top of deck
+Gherald - plays 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Silver, Silver, Estate, Copper
+Gherald - shuffles deck
+Gherald - draws Estate
+ 
+---------- nessuno: turn 17 ----------
+nessuno - plays 2 Silver, 1 Copper
+nessuno - buys Laboratory
+nessuno - gains Laboratory
+nessuno - draws Gardens, Laboratory, Festival, Curse, Cellar
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays 2 Silver, 1 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Copper, Silver, Curse, Copper, Gardens
+ 
+---------- nessuno: turn 18 ----------
+nessuno - plays Festival
+nessuno - plays Laboratory
+nessuno - draws Curse, Gardens
+nessuno - plays Cellar
+nessuno - discards Curse
+nessuno - discards Curse
+nessuno - discards Gardens
+nessuno - discards Gardens
+nessuno - draws Chapel, Witch, Gardens
+nessuno - shuffles deck
+nessuno - draws Gold
+nessuno - plays Witch
+nessuno - draws Laboratory, Gardens
+nessuno - plays Laboratory
+nessuno - draws Province, Gardens
+nessuno - plays Chapel
+nessuno - trashes Gardens, Gardens, Gardens
+nessuno - plays 1 Gold
+nessuno - buys Laboratory
+nessuno - gains Laboratory
+nessuno - draws Copper, Chapel, Laboratory, Gardens, Silver
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Cellar, Copper, Copper, Copper, Cellar
+ 
+---------- nessuno: turn 19 ----------
+nessuno - plays Laboratory
+nessuno - draws Gold, Curse
+nessuno - plays Chapel
+nessuno - trashes Copper, Curse, Gardens
+nessuno - plays 1 Silver, 1 Gold
+nessuno - buys Laboratory
+nessuno - gains Laboratory
+nessuno - draws Curse, Silver
+nessuno - shuffles deck
+nessuno - draws Laboratory, Gold, Laboratory
+ 
+---------- Gherald: turn 19 ----------
+Gherald - plays 3 Copper
+Gherald - buys Cellar
+Gherald - gains Cellar
+Gherald - draws Estate, Bureaucrat, Cellar, Cellar, Market
+ 
+------------ Game Over ------------
+Gherald - cards: 9 Cellar, 2 Bureaucrat, 2 Market, 11 Copper, 1 Witch, 5 Silver, 3 Estate, 3 Gardens, 2 Duchy, 5 Curse
+Gherald - total victory points: 16
+Gherald - turns: 19
+ 
+nessuno - cards: 5 Laboratory, 2 Chapel, 1 Festival, 1 Cellar, 1 Witch, 2 Silver, 2 Gold, 1 Province, 1 Curse
+nessuno - total victory points: 5
+nessuno - turns: 19
+ 
+1st place: Gherald
+2nd place: nessuno
+ 

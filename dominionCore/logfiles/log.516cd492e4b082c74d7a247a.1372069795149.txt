@@ -1,0 +1,679 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Feast, Gardens, Moneylender, Smithy, Spy, Laboratory, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+John Doe - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+John Doe - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+John Doe - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- John Doe: turn 1 ----------
+John Doe - plays 3 Copper
+John Doe - buys Moat
+John Doe - gains Moat
+John Doe - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- John Doe: turn 2 ----------
+John Doe - plays 4 Copper
+John Doe - buys Feast
+John Doe - gains Feast
+John Doe - shuffles deck
+John Doe - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Cellar
+Monsieur X - gains Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- John Doe: turn 3 ----------
+John Doe - plays 3 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Copper, Moat, Feast, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Cellar, Copper, Witch, Copper, Copper
+ 
+---------- John Doe: turn 4 ----------
+John Doe - plays Feast
+John Doe - trashes Feast
+John Doe - gains Witch
+John Doe - plays 3 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Copper, Estate
+John Doe - shuffles deck
+John Doe - draws Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Estate
+John Doe - gains Curse
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- John Doe: turn 5 ----------
+John Doe - plays 4 Copper
+John Doe - buys Feast
+John Doe - gains Feast
+John Doe - draws Estate, Copper, Moat, Witch, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- John Doe: turn 6 ----------
+John Doe - plays Witch
+John Doe - draws Village, Estate
+Monsieur X - gains Curse
+John Doe - plays 2 Copper
+John Doe - buys Moat
+John Doe - gains Moat
+John Doe - draws Copper, Village
+John Doe - shuffles deck
+John Doe - draws Estate, Estate, Moat
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Witch
+Monsieur X - gains Witch
+Monsieur X - draws Silver, Estate, Witch, Cellar
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+ 
+---------- John Doe: turn 7 ----------
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays Moat
+John Doe - draws Copper, Curse
+John Doe - plays 3 Copper
+John Doe - buys Moat
+John Doe - gains Moat
+John Doe - draws Moat, Witch, Feast, Estate, Village
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Estate
+Monsieur X - draws Copper
+Monsieur X - plays Witch
+John Doe - reveals reaction Moat
+Monsieur X - draws Copper, Copper
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Curse, Copper, Copper, Silver, Silver
+ 
+---------- John Doe: turn 8 ----------
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays Witch
+John Doe - draws Copper, Copper
+Monsieur X - gains Curse
+John Doe - plays Feast
+John Doe - trashes Feast
+John Doe - gains Witch
+John Doe - plays 3 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Copper
+John Doe - shuffles deck
+John Doe - draws Copper, Estate, Copper, Moat
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays 2 Copper, 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Estate, Witch, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+ 
+---------- John Doe: turn 9 ----------
+John Doe - plays Moat
+John Doe - draws Village, Witch
+John Doe - plays 3 Copper
+John Doe - buys Moat
+John Doe - gains Moat
+John Doe - draws Curse, Estate, Estate, Copper, Witch
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Curse, Gold
+John Doe - gains Curse
+Monsieur X - plays 1 Copper, 1 Silver, 1 Gold
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Curse, Silver, Copper, Cellar
+ 
+---------- John Doe: turn 10 ----------
+John Doe - plays Witch
+John Doe - draws Moat, Copper
+Monsieur X - gains Curse
+John Doe - plays 2 Copper
+John Doe - buys Cellar
+John Doe - gains Cellar
+John Doe - draws Moat, Village, Copper, Copper, Village
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Copper, Silver, Copper
+Monsieur X - plays 2 Silver, 2 Copper
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Estate, Gold, Copper, Witch
+ 
+---------- John Doe: turn 11 ----------
+John Doe - plays Village
+John Doe - shuffles deck
+John Doe - draws Witch
+John Doe - plays Village
+John Doe - draws Curse
+John Doe - plays Witch
+John Doe - draws Copper, Copper
+Monsieur X - gains Curse
+John Doe - plays Moat
+John Doe - draws Estate, Moat
+John Doe - plays Moat
+John Doe - draws Village, Curse
+John Doe - plays 4 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Moat, Estate, Witch, Copper, Copper
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Witch
+John Doe - reveals reaction Moat
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Silver
+Monsieur X - plays 2 Copper, 2 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Copper, Silver, Estate, Curse, Copper
+ 
+---------- John Doe: turn 12 ----------
+John Doe - plays Witch
+John Doe - draws Copper, Estate
+Monsieur X - gains Curse
+John Doe - plays 3 Copper
+John Doe - buys Silver
+John Doe - gains Silver
+John Doe - draws Cellar, Moat
+John Doe - shuffles deck
+John Doe - draws Village, Witch, Village
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Cellar, Copper, Gold, Copper, Curse
+ 
+---------- John Doe: turn 13 ----------
+John Doe - plays Village
+John Doe - draws Curse
+John Doe - plays Village
+John Doe - draws Witch
+John Doe - plays Witch
+John Doe - draws Estate, Curse
+Monsieur X - gains Curse
+John Doe - plays Witch
+John Doe - draws Copper, Silver
+Monsieur X - gains Curse
+John Doe - plays Cellar
+John Doe - discards Moat
+John Doe - discards Curse
+John Doe - discards Estate
+John Doe - discards Curse
+John Doe - draws Copper, Moat, Estate, Copper
+John Doe - plays Moat
+John Doe - draws Copper, Copper
+John Doe - plays 5 Copper, 1 Silver
+John Doe - buys Gold
+John Doe - gains Gold
+John Doe - draws Moat, Copper, Moat, Village, Village
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Curse
+Monsieur X - discards Copper
+Monsieur X - discards Copper
+Monsieur X - draws Silver, Curse, Witch
+Monsieur X - plays Witch
+John Doe - reveals reaction Moat
+Monsieur X - draws Copper, Gold
+Monsieur X - plays 2 Gold, 1 Silver, 1 Copper
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Curse, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Copper, Curse
+ 
+---------- John Doe: turn 14 ----------
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays Village
+John Doe - draws Estate
+John Doe - plays Moat
+John Doe - shuffles deck
+John Doe - draws Gold, Estate
+John Doe - plays Moat
+John Doe - draws Copper, Silver
+John Doe - plays 3 Copper, 1 Gold, 1 Silver
+John Doe - buys Province
+John Doe - gains Province
+John Doe - draws Moat, Cellar, Witch, Copper, Moat
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Curse, Province, Province, Curse, Copper
+ 
+---------- John Doe: turn 15 ----------
+John Doe - plays Cellar
+John Doe - discards Moat
+John Doe - discards Moat
+John Doe - draws Copper, Curse
+John Doe - plays Witch
+John Doe - draws Witch, Copper
+Monsieur X - gains Curse
+John Doe - plays 3 Copper
+John Doe - buys Silver
+John Doe - gains Silver
+John Doe - draws Village, Curse, Village, Copper, Estate
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Gold, Curse, Gold, Copper, Silver
+ 
+---------- John Doe: turn 16 ----------
+John Doe - plays Village
+John Doe - shuffles deck
+John Doe - draws Moat
+John Doe - plays Village
+John Doe - draws Moat
+John Doe - plays Moat
+John Doe - draws Copper, Village
+John Doe - plays Moat
+John Doe - draws Gold, Copper
+John Doe - plays Village
+John Doe - draws Village
+John Doe - plays Village
+John Doe - draws Estate
+John Doe - plays 3 Copper, 1 Gold
+John Doe - buys Gold
+John Doe - gains Gold
+John Doe - draws Cellar, Province, Curse, Silver, Moat
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays 2 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Cellar, Copper, Silver, Copper, Estate
+ 
+---------- John Doe: turn 17 ----------
+John Doe - plays Cellar
+John Doe - discards Province
+John Doe - discards Curse
+John Doe - draws Silver, Copper
+John Doe - plays Moat
+John Doe - draws Copper, Estate
+John Doe - plays 2 Silver, 2 Copper
+John Doe - buys Gold
+John Doe - gains Gold
+John Doe - draws Witch, Moat, Copper, Copper, Witch
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Copper, Gold, Witch, Gold, Witch
+ 
+---------- John Doe: turn 18 ----------
+John Doe - plays Witch
+John Doe - shuffles deck
+John Doe - draws Copper, Curse
+John Doe - plays 3 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Gold, Moat, Village, Village, Silver
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Witch
+John Doe - reveals reaction Moat
+Monsieur X - draws Silver, Curse
+Monsieur X - plays 2 Gold, 1 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Estate, Copper, Curse
+Monsieur X - shuffles deck
+Monsieur X - draws Province, Gardens
+ 
+---------- John Doe: turn 19 ----------
+John Doe - plays Village
+John Doe - draws Cellar
+John Doe - plays Village
+John Doe - draws Village
+John Doe - plays Village
+John Doe - draws Estate
+John Doe - plays Moat
+John Doe - draws Curse, Copper
+John Doe - plays Cellar
+John Doe - discards Estate
+John Doe - discards Curse
+John Doe - draws Gold, Copper
+John Doe - plays 2 Gold, 2 Copper, 1 Silver
+John Doe - buys Province
+John Doe - gains Province
+John Doe - draws Province, Estate, Moat, Moat, Estate
+ 
+---------- Monsieur X: turn 19 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Curse, Witch, Curse, Silver, Curse
+ 
+---------- John Doe: turn 20 ----------
+John Doe - plays Moat
+John Doe - draws Village, Copper
+John Doe - buys Copper
+John Doe - gains Copper
+John Doe - draws Copper, Gold, Silver
+John Doe - shuffles deck
+John Doe - draws Village, Witch
+ 
+---------- Monsieur X: turn 20 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Gold
+Monsieur X - plays 1 Silver, 1 Copper, 1 Gold
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Silver, Silver, Estate, Silver, Copper
+ 
+---------- John Doe: turn 21 ----------
+John Doe - plays Village
+John Doe - draws Curse
+John Doe - plays Witch
+John Doe - draws Village, Curse
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays 2 Copper, 1 Gold, 1 Silver
+John Doe - buys Gardens
+John Doe - gains Gardens
+John Doe - draws Moat, Estate, Moat, Cellar, Copper
+ 
+---------- Monsieur X: turn 21 ----------
+Monsieur X - plays 3 Silver, 1 Copper
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Copper, Gold, Gold, Estate, Copper
+ 
+---------- John Doe: turn 22 ----------
+John Doe - plays Cellar
+John Doe - discards Moat
+John Doe - discards Estate
+John Doe - discards Copper
+John Doe - discards Moat
+John Doe - draws Moat, Copper, Copper, Village
+John Doe - plays Village
+John Doe - draws Silver
+John Doe - plays Moat
+John Doe - draws Witch, Moat
+John Doe - plays Witch
+John Doe - draws Province, Gold
+John Doe - plays 2 Copper, 1 Silver, 1 Gold
+John Doe - buys Gardens
+John Doe - gains Gardens
+John Doe - draws Copper, Village, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 22 ----------
+Monsieur X - plays 2 Copper, 2 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Curse, Curse, Gold, Province, Province
+ 
+---------- John Doe: turn 23 ----------
+John Doe - plays Village
+John Doe - draws Estate
+John Doe - plays 3 Copper
+John Doe - buys Village
+John Doe - gains Village
+John Doe - draws Province, Village, Gold
+John Doe - shuffles deck
+John Doe - draws Copper, Copper
+ 
+---------- Monsieur X: turn 23 ----------
+Monsieur X - plays 1 Gold
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Witch, Copper, Copper, Silver, Cellar
+ 
+---------- John Doe: turn 24 ----------
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays 3 Copper, 1 Gold
+John Doe - buys Gardens
+John Doe - gains Gardens
+John Doe - draws Estate, Witch, Cellar, Moat, Copper
+ 
+---------- Monsieur X: turn 24 ----------
+Monsieur X - plays Witch
+John Doe - reveals reaction Moat
+Monsieur X - draws Curse, Copper
+Monsieur X - plays 3 Copper, 1 Silver
+Monsieur X - buys Gardens
+Monsieur X - gains Gardens
+Monsieur X - draws Province, Curse
+Monsieur X - shuffles deck
+Monsieur X - draws Curse, Curse, Curse
+ 
+---------- John Doe: turn 25 ----------
+John Doe - plays Cellar
+John Doe - discards Witch
+John Doe - discards Estate
+John Doe - discards Copper
+John Doe - discards Moat
+John Doe - draws Village, Village, Curse, Village
+John Doe - plays Village
+John Doe - draws Moat
+John Doe - plays Village
+John Doe - draws Gardens
+John Doe - plays Village
+John Doe - draws Village
+John Doe - plays Village
+John Doe - draws Curse
+John Doe - plays Moat
+John Doe - draws Copper, Moat
+John Doe - plays Moat
+John Doe - draws Gold, Village
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays 2 Copper, 1 Gold
+John Doe - buys Gardens
+John Doe - gains Gardens
+John Doe - draws Estate, Silver, Copper, Estate, Witch
+ 
+---------- Monsieur X: turn 25 ----------
+Monsieur X - buys Copper
+Monsieur X - gains Copper
+Monsieur X - draws Gold, Gardens, Witch, Silver, Curse
+ 
+---------- John Doe: turn 26 ----------
+John Doe - plays Witch
+John Doe - draws Province, Moat
+John Doe - plays 1 Silver, 1 Copper
+John Doe - buys Estate
+John Doe - gains Estate
+John Doe - draws Silver, Gold, Copper, Gardens
+John Doe - shuffles deck
+John Doe - draws Village
+ 
+---------- Monsieur X: turn 26 ----------
+Monsieur X - plays Witch
+Monsieur X - draws Copper, Estate
+Monsieur X - plays 1 Gold, 1 Silver, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Estate, Copper, Curse, Silver, Gold
+ 
+---------- John Doe: turn 27 ----------
+John Doe - plays Village
+John Doe - draws Moat
+John Doe - plays Moat
+John Doe - draws Gold, Gardens
+John Doe - plays 2 Gold, 1 Silver, 1 Copper
+John Doe - buys Duchy
+John Doe - gains Duchy
+John Doe - draws Village, Copper, Copper, Copper, Gardens
+ 
+---------- Monsieur X: turn 27 ----------
+Monsieur X - plays 1 Copper, 1 Silver, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Estate, Province, Copper, Estate, Copper
+ 
+---------- John Doe: turn 28 ----------
+John Doe - plays Village
+John Doe - draws Moat
+John Doe - plays Moat
+John Doe - draws Copper, Moat
+John Doe - plays Moat
+John Doe - draws Cellar, Moat
+John Doe - plays 4 Copper
+John Doe - buys Feast
+John Doe - gains Feast
+John Doe - draws Village, Province, Curse, Estate, Copper
+ 
+---------- Monsieur X: turn 28 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Copper, Silver, Copper, Gold, Province
+ 
+---------- John Doe: turn 29 ----------
+John Doe - plays Village
+John Doe - draws Estate
+John Doe - buys Copper
+John Doe - gains Copper
+John Doe - draws Silver, Gardens, Copper, Village, Estate
+ 
+---------- Monsieur X: turn 29 ----------
+Monsieur X - plays 2 Copper, 1 Silver, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Cellar, Province, Copper, Witch, Copper
+ 
+---------- John Doe: turn 30 ----------
+John Doe - plays Village
+John Doe - draws Gold
+John Doe - plays 1 Silver, 1 Copper, 1 Gold
+John Doe - buys Duchy
+John Doe - gains Duchy
+John Doe - draws Witch, Estate, Witch, Village, Province
+ 
+---------- Monsieur X: turn 30 ----------
+Monsieur X - plays Cellar
+Monsieur X - discards Province
+Monsieur X - draws Copper
+Monsieur X - plays Witch
+Monsieur X - draws Gardens, Province
+Monsieur X - plays 3 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Silver, Gardens, Gold, Gardens, Curse
+ 
+---------- John Doe: turn 31 ----------
+John Doe - plays Village
+John Doe - draws Village
+John Doe - plays Village
+John Doe - draws Copper
+John Doe - plays Witch
+John Doe - draws Curse
+John Doe - shuffles deck
+John Doe - draws Curse
+John Doe - plays Witch
+John Doe - draws Village, Duchy
+John Doe - plays Village
+John Doe - draws Moat
+John Doe - plays Moat
+John Doe - draws Silver, Copper
+John Doe - plays 2 Copper, 1 Silver
+John Doe - buys Feast
+John Doe - gains Feast
+John Doe - draws Gardens, Gardens, Silver, Moat, Estate
+ 
+---------- Monsieur X: turn 31 ----------
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Silver, Curse
+Monsieur X - shuffles deck
+Monsieur X - draws Curse, Curse, Copper
+ 
+---------- John Doe: turn 32 ----------
+John Doe - plays Moat
+John Doe - draws Gold, Copper
+John Doe - plays 1 Silver, 1 Gold, 1 Copper
+John Doe - buys Duchy
+John Doe - gains Duchy
+John Doe - draws Copper, Moat, Estate, Duchy, Province
+ 
+---------- Monsieur X: turn 32 ----------
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Copper, Estate, Copper, Gardens, Estate
+ 
+---------- John Doe: turn 33 ----------
+John Doe - plays Moat
+John Doe - draws Cellar, Copper
+John Doe - plays 2 Copper
+John Doe - buys Estate
+John Doe - gains Estate
+John Doe - draws Estate, Copper, Copper, Copper, Feast
+ 
+---------- Monsieur X: turn 33 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Gold, Duchy, Curse, Estate, Gardens
+ 
+---------- John Doe: turn 34 ----------
+John Doe - plays Feast
+John Doe - trashes Feast
+John Doe - gains Duchy
+John Doe - plays 3 Copper
+John Doe - buys Estate
+John Doe - gains Estate
+John Doe - draws Village, Gold, Copper, Village, Gardens
+ 
+------------ Game Over ------------
+Monsieur X - cards: 2 Witch, 10 Copper, 1 Cellar, 5 Silver, 4 Gold, 8 Estate, 5 Province, 4 Duchy, 4 Gardens, 8 Curse
+Monsieur X - total victory points: 62
+Monsieur X - turns: 33
+ 
+John Doe - cards: 6 Village, 4 Moat, 2 Witch, 1 Feast, 1 Cellar, 9 Copper, 3 Gold, 2 Silver, 6 Estate, 4 Gardens, 4 Duchy, 2 Province, 2 Curse
+John Doe - total victory points: 44
+John Doe - turns: 34
+ 
+1st place: Monsieur X
+2nd place: John Doe
+ 

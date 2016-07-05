@@ -1,0 +1,512 @@
+------------ Game Setup ------------
+Supply cards: Village, Woodcutter, Gardens, Moneylender, Smithy, Thief, Laboratory, Library, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dominionation - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+flies - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dominionation - shuffles deck
+flies - shuffles deck
+dominionation - draws Copper, Copper, Estate, Estate, Copper
+flies - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- flies: turn 1 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dominionation: turn 1 ----------
+dominionation - plays 3 Copper
+dominionation - buys Silver
+dominionation - gains Silver
+dominionation - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- flies: turn 2 ----------
+flies - plays 4 Copper
+flies - buys Moneylender
+flies - gains Moneylender
+flies - shuffles deck
+flies - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- dominionation: turn 2 ----------
+dominionation - plays 4 Copper
+dominionation - buys Moneylender
+dominionation - gains Moneylender
+dominionation - shuffles deck
+dominionation - draws Estate, Moneylender, Copper, Copper, Copper
+ 
+---------- flies: turn 3 ----------
+flies - plays 3 Copper
+flies - buys Silver
+flies - gains Silver
+flies - draws Estate, Copper, Copper, Moneylender, Silver
+ 
+---------- dominionation: turn 3 ----------
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - plays 2 Copper
+dominionation - buys Witch
+dominionation - gains Witch
+dominionation - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- flies: turn 4 ----------
+flies - plays Moneylender
+flies - trashes Copper
+flies - plays 1 Copper, 1 Silver
+flies - buys Witch
+flies - gains Witch
+flies - draws Copper, Copper
+flies - shuffles deck
+flies - draws Estate, Estate, Silver
+ 
+---------- dominionation: turn 4 ----------
+dominionation - plays 3 Copper, 1 Silver
+dominionation - buys Witch
+dominionation - gains Witch
+dominionation - draws Copper, Estate
+dominionation - shuffles deck
+dominionation - draws Moneylender, Witch, Witch
+ 
+---------- flies: turn 5 ----------
+flies - plays 2 Copper, 1 Silver
+flies - buys Village
+flies - gains Village
+flies - draws Witch, Copper, Estate, Copper, Copper
+ 
+---------- dominionation: turn 5 ----------
+dominionation - plays Witch
+dominionation - draws Copper, Copper
+flies - gains Curse
+dominionation - plays 3 Copper
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- flies: turn 6 ----------
+flies - plays Witch
+flies - draws Silver, Moneylender
+dominionation - gains Curse
+flies - plays 3 Copper, 1 Silver
+flies - buys Laboratory
+flies - gains Laboratory
+flies - draws Copper
+flies - shuffles deck
+flies - draws Laboratory, Curse, Copper, Copper
+ 
+---------- dominionation: turn 6 ----------
+dominionation - plays 2 Copper, 1 Silver
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Copper
+dominionation - shuffles deck
+dominionation - draws Copper, Curse, Estate, Silver
+ 
+---------- flies: turn 7 ----------
+flies - plays Laboratory
+flies - draws Estate, Witch
+flies - plays Witch
+flies - draws Estate, Moneylender
+dominionation - gains Curse
+flies - plays 3 Copper
+flies - buys Village
+flies - gains Village
+flies - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- dominionation: turn 7 ----------
+dominionation - plays 2 Copper, 1 Silver
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Witch, Copper, Copper, Village, Estate
+ 
+---------- flies: turn 8 ----------
+flies - plays 2 Silver, 2 Copper
+flies - buys Laboratory
+flies - gains Laboratory
+flies - draws Copper, Village
+flies - shuffles deck
+flies - draws Witch, Copper, Laboratory
+ 
+---------- dominionation: turn 8 ----------
+dominionation - plays Village
+dominionation - draws Copper
+dominionation - plays Witch
+dominionation - draws Moneylender, Copper
+flies - gains Curse
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - plays 3 Copper
+dominionation - buys Gold
+dominionation - gains Gold
+dominionation - draws Estate, Village, Witch
+dominionation - shuffles deck
+dominionation - draws Moneylender, Gold
+ 
+---------- flies: turn 9 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays Witch
+flies - draws Silver, Estate
+dominionation - gains Curse
+flies - plays Laboratory
+flies - draws Copper, Estate
+flies - plays 4 Copper, 1 Silver
+flies - buys Gold
+flies - gains Gold
+flies - draws Laboratory, Copper, Curse, Silver, Village
+ 
+---------- dominionation: turn 9 ----------
+dominionation - plays Village
+dominionation - draws Copper
+dominionation - plays Witch
+dominionation - draws Curse, Curse
+flies - gains Curse
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - plays 1 Gold
+dominionation - buys Gold
+dominionation - gains Gold
+dominionation - draws Copper, Copper, Copper, Witch, Estate
+ 
+---------- flies: turn 10 ----------
+flies - plays Laboratory
+flies - draws Estate, Copper
+flies - plays Village
+flies - draws Moneylender
+flies - plays Moneylender
+flies - trashes Copper
+flies - plays 1 Copper, 1 Silver
+flies - buys Gold
+flies - gains Gold
+flies - shuffles deck
+flies - draws Silver, Gold, Curse, Laboratory, Curse
+ 
+---------- dominionation: turn 10 ----------
+dominionation - plays Witch
+dominionation - draws Village, Silver
+flies - gains Curse
+dominionation - plays 3 Copper, 1 Silver
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Village, Copper, Estate
+dominionation - shuffles deck
+dominionation - draws Curse, Gold
+ 
+---------- flies: turn 11 ----------
+flies - plays Laboratory
+flies - draws Gold, Curse
+flies - plays 2 Gold, 1 Silver
+flies - buys Province
+flies - gains Province
+flies - draws Village, Witch, Copper, Estate, Copper
+ 
+---------- dominionation: turn 11 ----------
+dominionation - plays Village
+dominionation - draws Estate
+dominionation - plays 1 Copper, 1 Gold
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Witch, Moneylender, Silver, Curse, Copper
+ 
+---------- flies: turn 12 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays Witch
+flies - draws Estate, Moneylender
+dominionation - gains Curse
+flies - plays Moneylender
+flies - trashes Copper
+flies - plays 2 Copper
+flies - buys Laboratory
+flies - gains Laboratory
+flies - draws Silver, Laboratory, Copper, Village, Estate
+ 
+---------- dominionation: turn 12 ----------
+dominionation - plays Witch
+dominionation - draws Witch, Gold
+flies - gains Curse
+dominionation - plays 1 Silver, 1 Copper, 1 Gold
+dominionation - buys Gold
+dominionation - gains Gold
+dominionation - draws Village, Copper, Village, Estate, Curse
+ 
+---------- flies: turn 13 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays Laboratory
+flies - shuffles deck
+flies - draws Copper, Province
+flies - plays 3 Copper, 1 Silver
+flies - buys Laboratory
+flies - gains Laboratory
+flies - draws Gold, Laboratory, Curse, Curse, Witch
+ 
+---------- dominionation: turn 13 ----------
+dominionation - plays Village
+dominionation - draws Copper
+dominionation - plays Village
+dominionation - draws Village
+dominionation - plays Village
+dominionation - shuffles deck
+dominionation - draws Moneylender
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - plays 1 Copper
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Village, Copper, Estate, Gold, Curse
+ 
+---------- flies: turn 14 ----------
+flies - plays Laboratory
+flies - draws Curse, Laboratory
+flies - plays Laboratory
+flies - draws Curse, Village
+flies - plays Village
+flies - draws Copper
+flies - plays Witch
+flies - draws Moneylender, Estate
+dominionation - gains Curse
+flies - plays Moneylender
+flies - trashes Copper
+flies - plays 1 Gold
+flies - buys Gold
+flies - gains Gold
+flies - draws Silver, Estate, Gold, Curse
+flies - shuffles deck
+flies - draws Copper
+ 
+---------- dominionation: turn 14 ----------
+dominionation - plays Village
+dominionation - draws Witch
+dominionation - plays Witch
+dominionation - draws Copper, Curse
+dominionation - plays 2 Copper, 1 Gold
+dominionation - buys Gardens
+dominionation - gains Gardens
+dominionation - draws Witch, Silver, Estate, Curse, Village
+ 
+---------- flies: turn 15 ----------
+flies - plays 1 Silver, 1 Gold, 1 Copper
+flies - buys Gold
+flies - gains Gold
+flies - draws Curse, Curse, Gold, Estate, Estate
+ 
+---------- dominionation: turn 15 ----------
+dominionation - plays Village
+dominionation - draws Gold
+dominionation - plays Witch
+dominionation - draws Gold
+dominionation - shuffles deck
+dominionation - draws Gold
+dominionation - plays 3 Gold, 1 Silver
+dominionation - buys Province
+dominionation - gains Province
+dominionation - draws Curse, Copper, Curse, Village, Estate
+ 
+---------- flies: turn 16 ----------
+flies - plays 1 Gold
+flies - buys Silver
+flies - gains Silver
+flies - draws Curse, Laboratory, Village, Curse, Moneylender
+ 
+---------- dominionation: turn 16 ----------
+dominionation - plays Village
+dominionation - draws Village
+dominionation - plays Village
+dominionation - draws Copper
+dominionation - plays 2 Copper
+dominionation - draws Gardens, Moneylender, Estate, Village, Witch
+ 
+---------- flies: turn 17 ----------
+flies - plays Laboratory
+flies - draws Laboratory, Village
+flies - plays Laboratory
+flies - draws Copper, Copper
+flies - plays Village
+flies - draws Silver
+flies - plays Village
+flies - draws Witch
+flies - plays Witch
+flies - draws Province, Laboratory
+flies - plays Laboratory
+flies - draws Laboratory, Gold
+flies - plays Moneylender
+flies - trashes Copper
+flies - plays 1 Copper, 1 Silver, 1 Gold
+flies - buys Province
+flies - gains Province
+flies - shuffles deck
+flies - draws Gold, Laboratory, Curse, Province, Gold
+ 
+---------- dominionation: turn 17 ----------
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays Witch
+dominionation - draws Copper, Village
+dominionation - plays Village
+dominionation - draws Village
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - buys Village
+dominionation - gains Village
+dominionation - shuffles deck
+dominionation - draws Copper, Moneylender, Province, Village, Gold
+ 
+---------- flies: turn 18 ----------
+flies - plays Laboratory
+flies - draws Curse, Laboratory
+flies - plays Laboratory
+flies - draws Curse, Gold
+flies - plays 3 Gold
+flies - buys Province
+flies - gains Province
+flies - draws Curse, Province, Copper, Curse, Estate
+ 
+---------- dominionation: turn 18 ----------
+dominionation - plays Village
+dominionation - draws Gardens
+dominionation - plays Moneylender
+dominionation - trashes Copper
+dominionation - plays 1 Gold
+dominionation - buys Gardens
+dominionation - gains Gardens
+dominionation - draws Estate, Village, Village, Copper, Village
+ 
+---------- flies: turn 19 ----------
+flies - buys Copper
+flies - gains Copper
+flies - draws Laboratory, Estate, Laboratory, Copper, Village
+ 
+---------- dominionation: turn 19 ----------
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays Village
+dominionation - draws Witch
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays Witch
+dominionation - draws Estate, Curse
+dominionation - draws Estate, Witch, Village, Silver, Curse
+ 
+---------- flies: turn 20 ----------
+flies - plays Laboratory
+flies - draws Moneylender, Silver
+flies - plays Laboratory
+flies - draws Estate, Village
+flies - plays Village
+flies - draws Silver
+flies - plays Village
+flies - draws Gold
+flies - plays 2 Silver, 1 Copper, 1 Gold
+flies - buys Province
+flies - gains Province
+flies - draws Silver, Witch
+flies - shuffles deck
+flies - draws Curse, Gold, Curse
+ 
+---------- dominionation: turn 20 ----------
+dominionation - plays Village
+dominionation - draws Gold
+dominionation - plays Witch
+dominionation - draws Village, Gold
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays 2 Gold, 1 Silver
+dominionation - buys Province
+dominionation - gains Province
+dominionation - draws Village
+dominionation - shuffles deck
+dominionation - draws Witch, Village, Village, Witch
+ 
+---------- flies: turn 21 ----------
+flies - plays Witch
+flies - draws Curse, Laboratory
+flies - plays 1 Silver, 1 Gold
+flies - buys Gardens
+flies - gains Gardens
+flies - draws Copper, Copper, Village, Estate, Laboratory
+ 
+---------- dominionation: turn 21 ----------
+dominionation - plays Village
+dominionation - draws Curse
+dominionation - plays Village
+dominionation - draws Province
+dominionation - plays Witch
+dominionation - draws Village, Village
+dominionation - plays Witch
+dominionation - draws Copper, Curse
+dominionation - plays Village
+dominionation - draws Estate
+dominionation - plays Village
+dominionation - draws Gold
+dominionation - plays Village
+dominionation - draws Silver
+dominionation - plays 1 Copper, 1 Gold, 1 Silver
+dominionation - buys Gardens
+dominionation - gains Gardens
+dominionation - draws Village, Gardens, Curse, Gold, Gold
+ 
+---------- flies: turn 22 ----------
+flies - plays Laboratory
+flies - draws Province, Province
+flies - plays Village
+flies - draws Silver
+flies - plays 2 Copper, 1 Silver
+flies - buys Gardens
+flies - gains Gardens
+flies - draws Estate, Laboratory, Curse, Moneylender, Gold
+ 
+---------- dominionation: turn 22 ----------
+dominionation - plays Village
+dominionation - draws Estate
+dominionation - plays 2 Gold
+dominionation - buys Gardens
+dominionation - gains Gardens
+dominionation - draws Moneylender, Province, Curse, Village, Curse
+ 
+---------- flies: turn 23 ----------
+flies - plays Laboratory
+flies - draws Laboratory, Province
+flies - plays Laboratory
+flies - draws Curse, Gold
+flies - plays 2 Gold
+flies - buys Gardens
+flies - gains Gardens
+flies - draws Gold, Estate, Village, Province, Silver
+ 
+---------- dominionation: turn 23 ----------
+dominionation - plays Village
+dominionation - draws Estate
+dominionation - draws Gardens
+dominionation - shuffles deck
+dominionation - draws Village, Gardens, Estate, Province
+ 
+---------- flies: turn 24 ----------
+flies - plays Village
+flies - draws Copper
+flies - plays 1 Gold, 1 Silver, 1 Copper
+flies - buys Gardens
+flies - gains Gardens
+flies - shuffles deck
+flies - draws Estate, Curse, Gardens, Gold, Province
+ 
+---------- dominionation: turn 24 ----------
+dominionation - plays Village
+dominionation - draws Gold
+dominionation - plays 1 Gold
+dominionation - buys Village
+dominionation - gains Village
+dominionation - draws Village, Gardens, Village, Gardens, Curse
+ 
+------------ Game Over ------------
+flies - cards: 4 Laboratory, 2 Village, 1 Moneylender, 1 Witch, 4 Gold, 3 Silver, 3 Copper, 4 Gardens, 4 Province, 3 Estate, 5 Curse
+flies - total victory points: 34
+flies - turns: 24
+ 
+dominionation - cards: 8 Village, 2 Witch, 1 Moneylender, 3 Gold, 1 Silver, 1 Copper, 4 Gardens, 3 Estate, 2 Province, 5 Curse
+dominionation - total victory points: 22
+dominionation - turns: 24
+ 
+1st place: flies
+2nd place: dominionation
+ 

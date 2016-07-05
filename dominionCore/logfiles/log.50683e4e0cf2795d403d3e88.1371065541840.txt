@@ -1,0 +1,383 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Village, Bureaucrat, Remodel, Spy, Thief, Throne Room, Council Room, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+nh - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nh - shuffles deck
+RTT - shuffles deck
+nh - draws Estate, Copper, Copper, Estate, Copper
+RTT - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- nh: turn 1 ----------
+nh - plays 3 Copper
+nh - buys Chapel
+nh - gains Chapel
+nh - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Chapel
+RTT - gains Chapel
+RTT - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- nh: turn 2 ----------
+nh - plays 4 Copper
+nh - buys Bureaucrat
+nh - gains Bureaucrat
+nh - shuffles deck
+nh - draws Copper, Estate, Bureaucrat, Copper, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - shuffles deck
+RTT - draws Copper, Copper, Estate, Chapel, Copper
+ 
+---------- nh: turn 3 ----------
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Estate
+RTT - places Estate on top of deck
+nh - plays 3 Copper
+nh - buys Village
+nh - gains Village
+nh - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Chapel
+RTT - trashes Copper, Copper, Copper
+RTT - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- nh: turn 4 ----------
+nh - plays 2 Copper, 1 Silver
+nh - buys Throne Room
+nh - gains Throne Room
+nh - draws Copper, Chapel, Copper
+nh - shuffles deck
+nh - draws Copper, Silver
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Estate, Estate, Copper
+RTT - shuffles deck
+RTT - draws Estate, Copper
+ 
+---------- nh: turn 5 ----------
+nh - plays Chapel
+nh - trashes Copper, Copper, Copper
+nh - plays 1 Silver
+nh - buys Cellar
+nh - gains Cellar
+nh - draws Village, Copper, Estate, Copper, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - draws Laboratory, Silver, Chapel, Copper, Copper
+ 
+---------- nh: turn 6 ----------
+nh - plays Village
+nh - draws Estate
+nh - plays 3 Copper
+nh - buys Village
+nh - gains Village
+nh - draws Copper, Throne Room, Bureaucrat, Estate
+nh - shuffles deck
+nh - draws Estate
+ 
+---------- RTT: turn 6 ----------
+RTT - plays Laboratory
+RTT - shuffles deck
+RTT - draws Copper, Estate
+RTT - plays Chapel
+RTT - trashes Estate
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Laboratory
+RTT - gains Laboratory
+RTT - draws Estate, Copper, Estate
+RTT - shuffles deck
+RTT - draws Copper, Copper
+ 
+---------- nh: turn 7 ----------
+nh - plays Throne Room
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Estate
+RTT - places Estate on top of deck
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Estate
+RTT - places Estate on top of deck
+nh - draws Silver, Silver, Silver, Cellar, Village
+ 
+---------- RTT: turn 7 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Estate, Estate, Silver, Chapel, Laboratory
+ 
+---------- nh: turn 8 ----------
+nh - plays Village
+nh - draws Chapel
+nh - plays Cellar
+nh - discards Chapel
+nh - draws Copper
+nh - plays 3 Silver, 1 Copper
+nh - buys Gold
+nh - gains Gold
+nh - draws Copper, Estate, Copper, Village
+nh - shuffles deck
+nh - draws Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Copper
+RTT - plays Laboratory
+RTT - shuffles deck
+RTT - draws Copper, Silver
+RTT - plays Chapel
+RTT - trashes Estate, Estate
+RTT - plays 2 Silver, 2 Copper
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper, Copper
+RTT - shuffles deck
+RTT - draws Laboratory, Copper, Laboratory
+ 
+---------- nh: turn 9 ----------
+nh - plays Village
+nh - draws Village
+nh - plays Village
+nh - draws Silver
+nh - plays 3 Copper, 1 Silver
+nh - buys Laboratory
+nh - gains Laboratory
+nh - draws Silver, Throne Room, Gold, Estate, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Laboratory
+RTT - draws Chapel, Gold
+RTT - plays Laboratory
+RTT - draws Silver, Silver
+RTT - plays Chapel
+RTT - trashes Copper, Copper, Copper
+RTT - plays 2 Silver, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Copper
+RTT - shuffles deck
+RTT - draws Gold, Silver, Silver, Laboratory
+ 
+---------- nh: turn 10 ----------
+nh - plays 1 Silver, 1 Gold, 1 Copper
+nh - buys Gold
+nh - gains Gold
+nh - draws Estate, Bureaucrat, Cellar, Silver, Chapel
+ 
+---------- RTT: turn 10 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Gold
+RTT - plays Laboratory
+RTT - draws Chapel
+RTT - plays 2 Gold, 2 Silver, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - shuffles deck
+RTT - draws Silver, Gold, Copper, Gold, Laboratory
+ 
+---------- nh: turn 11 ----------
+nh - plays Cellar
+nh - discards Chapel
+nh - discards Bureaucrat
+nh - discards Estate
+nh - discards Silver
+nh - shuffles deck
+nh - draws Estate, Laboratory, Throne Room, Copper
+nh - plays Throne Room
+nh - plays Laboratory
+nh - draws Copper, Bureaucrat
+nh - plays Laboratory
+nh - draws Silver, Copper
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Silver, Gold, Copper, Gold, Laboratory
+nh - plays 3 Copper, 1 Silver
+nh - buys Remodel
+nh - gains Remodel
+nh - draws Silver, Estate, Silver, Gold, Village
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory, Silver
+RTT - plays Laboratory
+RTT - draws Chapel, Province
+RTT - plays 2 Silver, 2 Gold, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - shuffles deck
+RTT - draws Copper, Province, Silver, Province, Gold
+ 
+---------- nh: turn 12 ----------
+nh - plays Village
+nh - draws Silver
+nh - plays 3 Silver, 1 Gold
+nh - buys Province
+nh - gains Province
+nh - draws Estate, Chapel, Gold, Village, Copper
+ 
+---------- RTT: turn 12 ----------
+RTT - plays 1 Copper, 1 Silver, 1 Gold
+RTT - buys Gold
+RTT - gains Gold
+RTT - draws Silver, Laboratory, Gold, Chapel, Laboratory
+ 
+---------- nh: turn 13 ----------
+nh - plays Village
+nh - shuffles deck
+nh - draws Gold
+nh - plays Chapel
+nh - trashes Copper, Estate
+nh - plays 2 Gold
+nh - buys Thief
+nh - gains Thief
+nh - draws Village, Cellar, Copper, Estate, Copper
+ 
+---------- RTT: turn 13 ----------
+RTT - plays Laboratory
+RTT - shuffles deck
+RTT - draws Gold, Gold
+RTT - plays Laboratory
+RTT - draws Province, Copper
+RTT - plays 3 Gold, 1 Silver, 1 Copper
+RTT - buys Province
+RTT - gains Province
+RTT - draws Province, Silver
+RTT - shuffles deck
+RTT - draws Chapel, Laboratory, Laboratory
+ 
+---------- nh: turn 14 ----------
+nh - plays Village
+nh - draws Silver
+nh - plays Cellar
+nh - discards Copper
+nh - discards Estate
+nh - discards Copper
+nh - discards Silver
+nh - draws Estate, Silver, Bureaucrat, Province
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Province
+RTT - places Province on top of deck
+nh - plays 1 Silver
+nh - buys Cellar
+nh - gains Cellar
+nh - draws Silver, Throne Room, Silver, Laboratory, Silver
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Laboratory
+RTT - draws Province, Gold
+RTT - plays Laboratory
+RTT - draws Silver, Gold
+RTT - plays 2 Silver, 2 Gold
+RTT - buys Province
+RTT - gains Province
+RTT - draws Gold, Copper, Province, Province
+RTT - shuffles deck
+RTT - draws Province
+ 
+---------- nh: turn 15 ----------
+nh - plays Throne Room
+nh - plays Laboratory
+nh - draws Remodel, Copper
+nh - plays Laboratory
+nh - shuffles deck
+nh - draws Copper, Silver
+nh - plays Remodel
+nh - trashes Silver
+nh - gains Throne Room
+nh - plays 3 Silver, 2 Copper
+nh - buys Province
+nh - gains Province
+nh - draws Gold, Chapel, Province, Estate, Cellar
+ 
+---------- RTT: turn 15 ----------
+RTT - plays 1 Gold, 1 Copper
+RTT - buys Remodel
+RTT - gains Remodel
+RTT - draws Province, Gold, Laboratory, Chapel, Silver
+ 
+---------- nh: turn 16 ----------
+nh - plays Cellar
+nh - discards Estate
+nh - discards Province
+nh - discards Chapel
+nh - draws Thief, Village, Silver
+nh - plays Village
+nh - draws Cellar
+nh - plays Thief
+RTT - reveals: Silver, Gold
+RTT - trashes Gold
+RTT - discards Silver
+nh - gains Gold
+nh - plays Cellar
+nh - discards Silver
+nh - draws Village
+nh - plays Village
+nh - draws Copper
+nh - plays 1 Gold, 1 Copper
+nh - buys Throne Room
+nh - gains Throne Room
+nh - draws Bureaucrat, Estate, Gold
+nh - shuffles deck
+nh - draws Throne Room, Copper
+ 
+---------- RTT: turn 16 ----------
+RTT - plays Laboratory
+RTT - draws Laboratory
+RTT - shuffles deck
+RTT - draws Province
+RTT - plays Laboratory
+RTT - draws Province, Gold
+RTT - plays 2 Gold, 1 Silver
+RTT - buys Province
+RTT - gains Province
+RTT - draws Remodel, Province, Copper, Silver
+RTT - shuffles deck
+RTT - draws Gold
+ 
+---------- nh: turn 17 ----------
+nh - plays Throne Room
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Province
+RTT - places Province on top of deck
+nh - plays Bureaucrat
+nh - gains Silver
+RTT - reveals Remodel, Copper, Silver, Gold
+nh - plays 1 Gold, 1 Copper
+nh - buys Remodel
+nh - gains Remodel
+nh - draws Silver, Silver, Remodel, Silver, Silver
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Remodel
+RTT - trashes Gold
+RTT - gains Province
+RTT - plays 1 Copper, 1 Silver
+RTT - buys Estate
+RTT - gains Estate
+RTT - draws Province, Province, Laboratory, Province, Province
+ 
+------------ Game Over ------------
+RTT - cards: 2 Laboratory, 1 Remodel, 1 Chapel, 2 Silver, 1 Copper, 1 Gold, 6 Province, 1 Estate
+RTT - total victory points: 37
+RTT - turns: 17
+ 
+nh - cards: 3 Throne Room, 2 Cellar, 2 Remodel, 2 Village, 1 Laboratory, 1 Bureaucrat, 1 Chapel, 1 Thief, 6 Silver, 3 Copper, 3 Gold, 2 Province, 2 Estate
+nh - total victory points: 14
+nh - turns: 17
+ 
+1st place: RTT
+2nd place: nh
+ 

@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Woodcutter, Workshop, Bureaucrat, Remodel, Spy, Thief, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+silverspawn - shuffles deck
+unicut - draws Copper, Copper, Copper, Estate, Estate
+silverspawn - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Workshop
+silverspawn - gains Workshop
+silverspawn - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Workshop
+unicut - gains Workshop
+unicut - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Remodel
+silverspawn - gains Remodel
+silverspawn - shuffles deck
+silverspawn - draws Copper, Estate, Copper, Workshop, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - shuffles deck
+unicut - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Workshop
+silverspawn - gains Remodel
+silverspawn - plays 3 Copper
+silverspawn - buys Workshop
+silverspawn - gains Workshop
+silverspawn - draws Copper, Remodel, Copper, Estate, Copper
+ 
+---------- unicut: turn 3 ----------
+unicut - plays 4 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Estate, Copper, Estate, Workshop, Estate
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Remodel
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - draws Copper, Estate
+silverspawn - shuffles deck
+silverspawn - draws Copper, Estate, Workshop
+ 
+---------- unicut: turn 4 ----------
+unicut - plays Workshop
+unicut - gains Remodel
+unicut - draws Copper, Copper
+unicut - shuffles deck
+unicut - draws Copper, Estate, Estate
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays Workshop
+silverspawn - gains Remodel
+silverspawn - draws Copper, Remodel, Copper, Copper, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Market, Silver, Estate, Workshop, Copper
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Remodel
+silverspawn - gains Remodel
+silverspawn - draws Copper, Remodel, Workshop, Silver, Remodel
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Workshop
+unicut - gains Remodel
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Copper, Remodel, Copper
+unicut - shuffles deck
+unicut - draws Estate, Silver
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Workshop
+silverspawn - gains Market
+silverspawn - plays 1 Copper, 1 Silver
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - shuffles deck
+silverspawn - draws Copper, Remodel, Estate, Market, Copper
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Remodel
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Remodel
+unicut - gains Remodel
+unicut - draws Market, Workshop, Silver, Copper, Copper
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Remodel
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - draws Remodel, Copper, Remodel, Copper, Silver
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Market
+unicut - draws Estate
+unicut - plays Workshop
+unicut - gains Spy
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Copper, Remodel, Copper, Estate, Copper
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Remodel
+silverspawn - gains Gold
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Spy
+silverspawn - gains Spy
+silverspawn - draws Estate, Remodel, Copper, Workshop, Copper
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Spy
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Market
+unicut - shuffles deck
+unicut - draws Remodel, Market, Spy, Copper
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Workshop
+silverspawn - gains Market
+silverspawn - draws Silver, Remodel
+silverspawn - shuffles deck
+silverspawn - draws Copper, Market, Silver
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Spy
+unicut - draws Market
+unicut - discards Remodel
+silverspawn - discards Silver
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Remodel
+unicut - trashes Silver
+unicut - gains Market
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Remodel, Remodel, Estate, Copper, Silver
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Silver
+silverspawn - gains Market
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - draws Remodel, Copper, Gold, Remodel, Copper
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Remodel
+unicut - trashes Estate
+unicut - gains Spy
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Spy, Copper, Workshop, Copper, Copper
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Remodel
+silverspawn - gains Gold
+silverspawn - plays 2 Copper, 1 Gold
+silverspawn - buys Market
+silverspawn - gains Market
+silverspawn - draws Estate, Copper, Spy, Remodel, Copper
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Spy
+unicut - draws Copper
+unicut - shuffles deck
+unicut - places Copper on top of deck
+silverspawn - discards Remodel
+unicut - plays Workshop
+unicut - gains Thief
+unicut - plays 4 Copper
+unicut - buys Spy
+unicut - gains Spy
+unicut - draws Copper, Market, Market, Copper, Market
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - plays Spy
+silverspawn - draws Market
+silverspawn - discards Copper
+unicut - places Silver on top of deck
+silverspawn - plays Market
+silverspawn - shuffles deck
+silverspawn - draws Gold
+silverspawn - plays Remodel
+silverspawn - trashes Estate
+silverspawn - gains Spy
+silverspawn - plays 2 Copper, 1 Gold
+silverspawn - buys Gold
+silverspawn - gains Gold
+silverspawn - draws Copper, Silver, Remodel, Remodel, Copper
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Market
+unicut - draws Remodel
+unicut - plays Market
+unicut - draws Remodel
+unicut - plays Remodel
+unicut - trashes Remodel
+unicut - gains Gold
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Spy, Spy, Remodel, Copper, Remodel
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - plays Remodel
+silverspawn - trashes Remodel
+silverspawn - gains Gold
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Spy
+silverspawn - gains Spy
+silverspawn - draws Gold, Copper, Remodel, Market, Market
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Spy
+unicut - draws Market
+unicut - places Silver on top of deck
+silverspawn - discards Silver
+unicut - plays Spy
+unicut - draws Silver
+unicut - places Silver on top of deck
+silverspawn - discards Market
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Remodel
+unicut - trashes Remodel
+unicut - gains Gold
+unicut - plays 2 Silver, 1 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Market
+unicut - shuffles deck
+unicut - draws Silver, Gold, Market, Spy
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - plays 3 Copper
+silverspawn - buys Spy
+silverspawn - gains Spy
+silverspawn - draws Market
+silverspawn - shuffles deck
+silverspawn - draws Spy, Copper, Copper, Copper
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Spy
+unicut - draws Market
+unicut - places Spy on top of deck
+silverspawn - discards Remodel
+unicut - plays Market
+unicut - draws Spy
+unicut - plays Spy
+unicut - draws Remodel
+unicut - places Gold on top of deck
+silverspawn - places Province on top of deck
+unicut - plays Market
+unicut - draws Gold
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Remodel
+unicut - trashes Gold
+unicut - gains Province
+unicut - plays 1 Silver, 1 Gold, 1 Copper
+unicut - buys Province
+unicut - gains Province
+unicut - draws Copper, Copper, Thief, Copper, Gold
+ 
+---------- silverspawn: turn 16 ----------
+silverspawn - plays Spy
+silverspawn - draws Province
+silverspawn - places Spy on top of deck
+unicut - places Copper on top of deck
+silverspawn - plays Market
+silverspawn - draws Spy
+silverspawn - plays Spy
+silverspawn - draws Copper
+silverspawn - places Gold on top of deck
+unicut - discards Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Gold, Market, Remodel, Gold, Market
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Thief
+silverspawn - reveals: Market, Market
+silverspawn - discards: Market, Market
+unicut - plays 3 Copper, 1 Gold
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Gold, Market, Spy, Workshop, Market
+ 
+---------- silverspawn: turn 17 ----------
+silverspawn - plays Market
+silverspawn - draws Silver
+silverspawn - plays Market
+silverspawn - draws Gold
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - plays 2 Gold, 1 Silver
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Spy, Copper, Copper, Spy, Silver
+ 
+---------- unicut: turn 17 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Market
+unicut - draws Spy
+unicut - plays Spy
+unicut - draws Silver
+unicut - places Silver on top of deck
+silverspawn - discards Remodel
+unicut - plays Spy
+unicut - draws Silver
+unicut - discards Copper
+silverspawn - places Copper on top of deck
+unicut - plays Workshop
+unicut - gains Estate
+unicut - plays 2 Silver, 1 Gold, 1 Copper
+unicut - buys Province
+unicut - gains Province
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Remodel
+unicut - shuffles deck
+unicut - draws Gold, Silver, Copper, Province
+ 
+---------- silverspawn: turn 18 ----------
+silverspawn - plays Spy
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - discards Copper
+unicut - places Copper on top of deck
+silverspawn - plays Spy
+silverspawn - draws Province
+silverspawn - places Remodel on top of deck
+unicut - discards Copper
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Remodel, Silver, Market, Copper, Market
+ 
+---------- unicut: turn 18 ----------
+unicut - plays Remodel
+unicut - trashes Gold
+unicut - gains Province
+unicut - plays 1 Silver, 1 Copper
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Spy, Silver, Thief, Copper, Gold
+ 
+---------- silverspawn: turn 19 ----------
+silverspawn - plays Market
+silverspawn - draws Spy
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - plays Spy
+silverspawn - draws Market
+silverspawn - discards Province
+unicut - discards Market
+silverspawn - plays Market
+silverspawn - draws Copper
+silverspawn - plays Remodel
+silverspawn - trashes Silver
+silverspawn - gains Duchy
+silverspawn - plays 2 Copper
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Remodel, Gold, Market, Gold, Spy
+ 
+---------- unicut: turn 19 ----------
+unicut - plays Spy
+unicut - draws Workshop
+unicut - places Silver on top of deck
+silverspawn - discards Remodel
+unicut - plays Thief
+silverspawn - reveals: Copper, Market
+silverspawn - trashes Copper
+silverspawn - discards Market
+unicut - gains Copper
+unicut - plays 1 Silver, 1 Copper, 1 Gold
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Silver, Copper, Spy, Market, Market
+ 
+---------- silverspawn: turn 20 ----------
+silverspawn - plays Spy
+silverspawn - draws Duchy
+silverspawn - shuffles deck
+silverspawn - discards Copper
+unicut - places Province on top of deck
+silverspawn - plays Market
+silverspawn - draws Province
+silverspawn - plays Remodel
+silverspawn - trashes Gold
+silverspawn - gains Province
+silverspawn - plays 1 Gold
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - buys Estate
+silverspawn - gains Estate
+silverspawn - draws Spy, Duchy, Copper, Market, Market
+ 
+------------ Game Over ------------
+silverspawn - cards: 5 Market, 4 Spy, 3 Remodel, 6 Copper, 1 Gold, 1 Silver, 4 Duchy, 4 Province, 2 Estate
+silverspawn - total victory points: 38
+silverspawn - turns: 20
+ 
+unicut - cards: 5 Market, 4 Spy, 2 Remodel, 1 Workshop, 1 Thief, 8 Copper, 3 Silver, 2 Gold, 4 Province, 3 Estate, 2 Duchy
+unicut - total victory points: 33
+unicut - turns: 19
+ 
+1st place: silverspawn
+2nd place: unicut
+ 

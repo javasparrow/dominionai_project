@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Village, Woodcutter, Bureaucrat, Feast, Remodel, Council Room, Festival, Laboratory, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+aldebaran - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+aldebaran - shuffles deck
+hiroki - shuffles deck
+aldebaran - draws Estate, Estate, Copper, Copper, Copper
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Remodel
+hiroki - gains Remodel
+hiroki - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- aldebaran: turn 1 ----------
+aldebaran - plays 3 Copper
+aldebaran - buys Silver
+aldebaran - gains Silver
+aldebaran - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- aldebaran: turn 2 ----------
+aldebaran - plays 4 Copper
+aldebaran - buys Bureaucrat
+aldebaran - gains Bureaucrat
+aldebaran - shuffles deck
+aldebaran - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Copper
+hiroki - plays Copper
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Remodel, Copper, Estate, Estate, Copper
+ 
+---------- aldebaran: turn 3 ----------
+aldebaran - plays 3 Copper, 1 Silver
+aldebaran - buys Laboratory
+aldebaran - gains Laboratory
+aldebaran - draws Estate, Copper, Copper, Copper, Bureaucrat
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Remodel
+hiroki - trashes Estate
+hiroki - gains Feast
+hiroki - plays 2 Copper
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Silver, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Cellar
+ 
+---------- aldebaran: turn 4 ----------
+aldebaran - plays Bureaucrat
+aldebaran - gains Silver
+hiroki - reveals Silver, Copper, Copper, Copper, Cellar
+aldebaran - plays 3 Copper
+aldebaran - buys Village
+aldebaran - gains Village
+aldebaran - draws Silver, Estate, Copper
+aldebaran - shuffles deck
+aldebaran - draws Copper, Bureaucrat
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Estate, Copper, Cellar, Feast, Copper
+ 
+---------- aldebaran: turn 5 ----------
+aldebaran - plays Bureaucrat
+aldebaran - gains Silver
+hiroki - reveals Estate
+hiroki - places Estate on top of deck
+aldebaran - plays 2 Copper, 1 Silver
+aldebaran - buys Remodel
+aldebaran - gains Remodel
+aldebaran - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Laboratory
+hiroki - plays 2 Copper
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Estate, Remodel, Estate, Copper, Copper
+ 
+---------- aldebaran: turn 6 ----------
+aldebaran - plays 3 Copper, 2 Silver
+aldebaran - buys Gold
+aldebaran - gains Gold
+aldebaran - draws Copper, Estate, Laboratory, Village, Estate
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Remodel
+hiroki - trashes Estate
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Village, Laboratory, Cellar, Copper, Silver
+ 
+---------- aldebaran: turn 7 ----------
+aldebaran - plays Laboratory
+aldebaran - draws Copper
+aldebaran - shuffles deck
+aldebaran - draws Copper
+aldebaran - plays Village
+aldebaran - draws Estate
+aldebaran - plays 3 Copper
+aldebaran - buys Silver
+aldebaran - gains Silver
+aldebaran - draws Gold, Silver, Silver, Copper, Remodel
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Village
+hiroki - draws Cellar
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Estate, Copper, Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Cellar, Remodel, Copper
+hiroki - plays Remodel
+hiroki - trashes Estate
+hiroki - gains Feast
+hiroki - plays 1 Silver, 1 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - shuffles deck
+hiroki - draws Cellar, Feast, Copper, Copper, Village
+ 
+---------- aldebaran: turn 8 ----------
+aldebaran - plays Remodel
+aldebaran - trashes Gold
+aldebaran - gains Province
+aldebaran - plays 2 Silver, 1 Copper
+aldebaran - buys Mine
+aldebaran - gains Mine
+aldebaran - draws Copper, Copper, Copper, Bureaucrat, Silver
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Remodel, Copper
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Laboratory
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Remodel
+hiroki - discards Copper
+hiroki - draws Copper, Village, Cellar, Copper
+hiroki - plays Village
+hiroki - draws Cellar
+hiroki - plays Cellar
+hiroki - discards Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Silver, Copper, Copper
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Feast
+hiroki - gains Feast
+hiroki - draws Laboratory
+hiroki - shuffles deck
+hiroki - draws Cellar, Cellar, Copper, Silver
+ 
+---------- aldebaran: turn 9 ----------
+aldebaran - plays Bureaucrat
+aldebaran - gains Silver
+hiroki - reveals Laboratory, Cellar, Cellar, Copper, Silver
+aldebaran - plays 3 Copper, 1 Silver
+aldebaran - buys Festival
+aldebaran - gains Festival
+aldebaran - draws Silver
+aldebaran - shuffles deck
+aldebaran - draws Silver, Estate, Copper, Village
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Cellar
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Cellar
+hiroki - draws Copper, Feast, Remodel, Village
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Copper, Copper
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Mine
+hiroki - plays Remodel
+hiroki - trashes Silver
+hiroki - gains Laboratory
+hiroki - draws Village, Laboratory
+hiroki - shuffles deck
+hiroki - draws Cellar, Laboratory, Copper
+ 
+---------- aldebaran: turn 10 ----------
+aldebaran - plays Village
+aldebaran - draws Festival
+aldebaran - plays Festival
+aldebaran - plays 2 Silver, 1 Copper
+aldebaran - buys Gold
+aldebaran - gains Gold
+aldebaran - buys Copper
+aldebaran - gains Copper
+aldebaran - draws Laboratory, Silver, Copper, Copper, Province
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Mine
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Laboratory
+hiroki - draws Copper, Remodel
+hiroki - plays Village
+hiroki - draws Cellar
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Cellar, Copper, Copper, Village
+hiroki - plays Remodel
+hiroki - trashes Cellar
+hiroki - gains Silver
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Copper, Copper, Silver, Copper
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays 3 Copper, 1 Gold
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Laboratory, Copper, Copper, Copper, Village
+ 
+---------- aldebaran: turn 11 ----------
+aldebaran - plays Laboratory
+aldebaran - draws Copper, Bureaucrat
+aldebaran - plays Bureaucrat
+aldebaran - gains Silver
+hiroki - reveals Laboratory, Copper, Copper, Copper, Village
+aldebaran - plays 3 Copper, 1 Silver
+aldebaran - buys Mine
+aldebaran - gains Mine
+aldebaran - draws Silver, Estate, Copper, Silver, Silver
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Laboratory
+hiroki - draws Gold, Laboratory
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Cellar
+hiroki - plays Laboratory
+hiroki - draws Copper, Village
+hiroki - plays Village
+hiroki - draws Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Cellar
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Mine, Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Remodel
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Cellar
+hiroki - discards Copper
+hiroki - discards Remodel
+hiroki - draws Copper, Copper
+hiroki - plays Mine
+hiroki - trashes Copper
+hiroki - gains Silver
+hiroki - plays 5 Copper, 1 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Copper, Laboratory, Laboratory, Gold, Village
+ 
+---------- aldebaran: turn 12 ----------
+aldebaran - plays 3 Silver, 1 Copper
+aldebaran - buys Gold
+aldebaran - gains Gold
+aldebaran - draws Remodel, Mine, Copper, Copper, Estate
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Laboratory
+hiroki - draws Province, Cellar
+hiroki - plays Laboratory
+hiroki - draws Copper, Silver
+hiroki - plays Village
+hiroki - draws Remodel
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Copper, Copper, Copper
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Mine, Cellar, Laboratory, Laboratory, Village
+ 
+---------- aldebaran: turn 13 ----------
+aldebaran - plays Mine
+aldebaran - trashes Copper
+aldebaran - gains Silver
+aldebaran - plays 1 Copper, 1 Silver
+aldebaran - buys Silver
+aldebaran - gains Silver
+aldebaran - shuffles deck
+aldebaran - draws Copper, Silver, Silver, Copper, Village
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Copper
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Copper, Copper
+hiroki - plays Laboratory
+hiroki - draws Village, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Laboratory
+hiroki - draws Province, Laboratory
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Laboratory
+hiroki - draws Province, Cellar
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Province
+hiroki - draws Remodel, Copper
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays 6 Copper
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Laboratory, Cellar, Gold, Laboratory, Village
+ 
+---------- aldebaran: turn 14 ----------
+aldebaran - plays Village
+aldebaran - draws Estate
+aldebaran - plays 2 Copper, 2 Silver
+aldebaran - buys Remodel
+aldebaran - gains Remodel
+aldebaran - draws Gold, Silver, Mine, Silver, Laboratory
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Laboratory
+hiroki - draws Cellar, Province
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Laboratory
+hiroki - draws Village, Mine
+hiroki - plays Village
+hiroki - draws Province
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Province
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Copper, Laboratory, Laboratory, Copper
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Remodel, Province
+hiroki - plays Laboratory
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Province, Province, Copper
+hiroki - plays Mine
+hiroki - trashes Copper
+hiroki - gains Silver
+hiroki - plays Remodel
+hiroki - trashes Gold
+hiroki - gains Province
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Copper, Laboratory, Cellar, Laboratory, Mine
+ 
+---------- aldebaran: turn 15 ----------
+aldebaran - plays Laboratory
+aldebaran - draws Copper, Copper
+aldebaran - plays Mine
+aldebaran - trashes Silver
+aldebaran - gains Gold
+aldebaran - plays 2 Gold, 2 Copper, 1 Silver
+aldebaran - buys Province
+aldebaran - gains Province
+aldebaran - draws Estate, Festival, Estate, Remodel, Province
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Laboratory
+hiroki - draws Cellar, Province
+hiroki - plays Laboratory
+hiroki - draws Province, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Copper
+hiroki - plays Laboratory
+hiroki - draws Remodel, Copper
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Province
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Copper, Village, Province, Laboratory, Village
+hiroki - plays Village
+hiroki - draws Province
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Copper
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Laboratory
+hiroki - draws Laboratory
+hiroki - shuffles deck
+hiroki - draws Copper
+hiroki - plays Laboratory
+hiroki - draws Province, Province
+hiroki - plays Cellar
+hiroki - discards Province
+hiroki - discards Province
+hiroki - draws Copper, Copper
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays Remodel
+hiroki - trashes Province
+hiroki - gains Province
+hiroki - plays 5 Copper, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - shuffles deck
+hiroki - draws Cellar, Laboratory, Copper, Copper, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 7 Laboratory, 2 Cellar, 2 Village, 1 Remodel, 1 Mine, 5 Copper, 1 Gold, 5 Province
+hiroki - total victory points: 30
+hiroki - turns: 16
+ 
+aldebaran - cards: 2 Remodel, 2 Mine, 1 Festival, 1 Village, 1 Laboratory, 1 Bureaucrat, 7 Copper, 7 Silver, 3 Gold, 3 Estate, 2 Province
+aldebaran - total victory points: 15
+aldebaran - turns: 15
+ 
+1st place: hiroki
+2nd place: aldebaran
+ 

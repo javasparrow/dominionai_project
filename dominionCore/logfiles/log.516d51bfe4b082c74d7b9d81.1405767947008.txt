@@ -1,0 +1,473 @@
+------------ Game Setup ------------
+Supply cards: Moat, Village, Woodcutter, Workshop, Bureaucrat, Feast, Militia, Remodel, Spy, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+nenukojaksaj - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nenukojaksaj - shuffles deck
+Java Sparrow - shuffles deck
+nenukojaksaj - draws Copper, Estate, Copper, Copper, Copper
+Java Sparrow - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Moat
+Java Sparrow - gains Moat
+Java Sparrow - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- nenukojaksaj: turn 1 ----------
+nenukojaksaj - plays 4 Copper
+nenukojaksaj - buys Militia
+nenukojaksaj - gains Militia
+nenukojaksaj - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 5 Copper
+Java Sparrow - buys Militia
+Java Sparrow - gains Militia
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper, Militia, Copper, Estate
+ 
+---------- nenukojaksaj: turn 2 ----------
+nenukojaksaj - plays 3 Copper
+nenukojaksaj - buys Silver
+nenukojaksaj - gains Silver
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Copper, Silver, Copper, Copper, Militia
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Copper
+nenukojaksaj - discards Copper
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- nenukojaksaj: turn 3 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Estate
+Java Sparrow - discards Copper
+nenukojaksaj - plays 1 Copper, 1 Silver
+nenukojaksaj - buys Remodel
+nenukojaksaj - gains Remodel
+nenukojaksaj - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Moat, Estate
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Copper, Copper
+ 
+---------- nenukojaksaj: turn 4 ----------
+nenukojaksaj - plays 2 Copper
+nenukojaksaj - buys Moat
+nenukojaksaj - gains Moat
+nenukojaksaj - draws Copper, Copper
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Remodel, Estate, Militia
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays Moat
+Java Sparrow - draws Copper, Copper
+Java Sparrow - plays 4 Copper, 1 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Militia, Silver, Copper, Estate, Estate
+ 
+---------- nenukojaksaj: turn 5 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Estate
+Java Sparrow - discards Estate
+nenukojaksaj - plays 2 Copper
+nenukojaksaj - buys Village
+nenukojaksaj - gains Village
+nenukojaksaj - draws Silver, Copper, Moat, Copper, Copper
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - reveals reaction Moat
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Militia
+Java Sparrow - gains Militia
+Java Sparrow - draws Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Gold, Estate
+ 
+---------- nenukojaksaj: turn 6 ----------
+nenukojaksaj - plays Moat
+nenukojaksaj - draws Copper, Estate
+nenukojaksaj - plays 4 Copper, 1 Silver
+nenukojaksaj - buys Gold
+nenukojaksaj - gains Gold
+nenukojaksaj - draws Copper, Estate
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Remodel, Village, Militia
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays 2 Copper, 1 Silver, 1 Gold
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Militia, Copper, Estate, Estate, Copper
+ 
+---------- nenukojaksaj: turn 7 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Estate
+nenukojaksaj - plays Remodel
+nenukojaksaj - trashes Estate
+nenukojaksaj - gains Militia
+nenukojaksaj - plays Militia
+Java Sparrow - discards Estate
+Java Sparrow - discards Estate
+nenukojaksaj - plays 1 Copper
+nenukojaksaj - buys Silver
+nenukojaksaj - gains Silver
+nenukojaksaj - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Estate
+nenukojaksaj - discards Copper
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper, Silver, Moat, Militia
+ 
+---------- nenukojaksaj: turn 8 ----------
+nenukojaksaj - plays 2 Copper, 1 Silver
+nenukojaksaj - buys Village
+nenukojaksaj - gains Village
+nenukojaksaj - draws Copper, Copper, Moat, Gold, Copper
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - reveals reaction Moat
+Java Sparrow - plays 2 Copper, 1 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Gold, Militia, Copper
+ 
+---------- nenukojaksaj: turn 9 ----------
+nenukojaksaj - plays Moat
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Village, Copper
+nenukojaksaj - plays 4 Copper, 1 Gold
+nenukojaksaj - buys Gold
+nenukojaksaj - gains Gold
+nenukojaksaj - draws Copper, Estate, Copper, Silver, Militia
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Estate
+nenukojaksaj - discards Copper
+Java Sparrow - plays 3 Copper, 1 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Silver, Estate, Copper, Estate, Estate
+ 
+---------- nenukojaksaj: turn 10 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Estate
+Java Sparrow - discards Estate
+nenukojaksaj - plays 1 Copper, 1 Silver
+nenukojaksaj - buys Silver
+nenukojaksaj - gains Silver
+nenukojaksaj - draws Silver, Remodel, Militia, Copper, Estate
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Silver, Militia, Copper, Copper, Copper
+ 
+---------- nenukojaksaj: turn 11 ----------
+nenukojaksaj - plays Remodel
+nenukojaksaj - trashes Estate
+nenukojaksaj - gains Remodel
+nenukojaksaj - plays 1 Silver, 1 Copper
+nenukojaksaj - buys Silver
+nenukojaksaj - gains Silver
+nenukojaksaj - draws Village
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Village, Copper, Copper, Moat
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - reveals reaction Moat
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Moat, Gold, Gold, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Estate
+ 
+---------- nenukojaksaj: turn 12 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Silver
+nenukojaksaj - plays Village
+nenukojaksaj - draws Copper
+nenukojaksaj - plays Moat
+nenukojaksaj - draws Silver, Silver
+nenukojaksaj - plays 3 Copper, 3 Silver
+nenukojaksaj - buys Province
+nenukojaksaj - gains Province
+nenukojaksaj - draws Silver, Copper, Militia, Remodel, Remodel
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays 2 Gold, 1 Silver
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Militia, Estate, Copper, Silver, Silver
+ 
+---------- nenukojaksaj: turn 13 ----------
+nenukojaksaj - plays Remodel
+nenukojaksaj - trashes Remodel
+nenukojaksaj - gains Gold
+nenukojaksaj - plays 1 Silver, 1 Copper
+nenukojaksaj - buys Village
+nenukojaksaj - gains Village
+nenukojaksaj - draws Gold, Militia, Copper, Gold, Copper
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Copper
+nenukojaksaj - discards Copper
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Copper, Militia, Copper, Gold, Gold
+ 
+---------- nenukojaksaj: turn 14 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Copper
+Java Sparrow - discards Copper
+nenukojaksaj - plays 2 Gold
+nenukojaksaj - buys Province
+nenukojaksaj - gains Province
+nenukojaksaj - draws Estate, Copper
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Copper, Village, Silver
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Estate
+nenukojaksaj - discards Copper
+Java Sparrow - plays 2 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Copper, Province, Copper, Copper, Estate
+ 
+---------- nenukojaksaj: turn 15 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Copper
+nenukojaksaj - plays 2 Copper, 1 Silver
+nenukojaksaj - buys Estate
+nenukojaksaj - gains Estate
+nenukojaksaj - draws Gold, Remodel, Copper, Militia, Copper
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Duchy, Militia
+ 
+---------- nenukojaksaj: turn 16 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Duchy
+Java Sparrow - discards Copper
+nenukojaksaj - plays 2 Copper, 1 Gold
+nenukojaksaj - buys Duchy
+nenukojaksaj - gains Duchy
+nenukojaksaj - draws Province, Gold, Village, Silver, Copper
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Province
+nenukojaksaj - discards Copper
+Java Sparrow - plays 1 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Estate, Province, Estate, Copper, Moat
+ 
+---------- nenukojaksaj: turn 17 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Village
+nenukojaksaj - plays Village
+nenukojaksaj - draws Province
+nenukojaksaj - plays 1 Gold, 1 Silver
+nenukojaksaj - buys Duchy
+nenukojaksaj - gains Duchy
+nenukojaksaj - draws Silver, Silver, Copper, Moat, Militia
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - plays Moat
+Java Sparrow - draws Militia, Copper
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Copper, Copper, Silver, Silver, Copper
+ 
+---------- nenukojaksaj: turn 18 ----------
+nenukojaksaj - plays Moat
+nenukojaksaj - draws Gold
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Copper
+nenukojaksaj - plays 2 Silver, 2 Copper, 1 Gold
+nenukojaksaj - buys Province
+nenukojaksaj - gains Province
+nenukojaksaj - draws Remodel, Militia, Province, Copper, Silver
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays 3 Copper, 2 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Province, Gold, Silver, Silver, Estate
+ 
+---------- nenukojaksaj: turn 19 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Province
+Java Sparrow - discards Estate
+nenukojaksaj - plays 1 Copper, 1 Silver
+nenukojaksaj - buys Duchy
+nenukojaksaj - gains Duchy
+nenukojaksaj - draws Copper, Estate, Copper, Duchy, Estate
+ 
+---------- Java Sparrow: turn 20 ----------
+Java Sparrow - plays 2 Silver, 1 Gold
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Province, Gold, Gold, Gold
+Java Sparrow - shuffles deck
+Java Sparrow - draws Gold
+ 
+---------- nenukojaksaj: turn 20 ----------
+nenukojaksaj - plays 2 Copper
+nenukojaksaj - buys Estate
+nenukojaksaj - gains Estate
+nenukojaksaj - draws Village, Province, Duchy, Village, Gold
+ 
+---------- Java Sparrow: turn 21 ----------
+Java Sparrow - plays 4 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Duchy, Copper, Militia, Estate, Silver
+ 
+---------- nenukojaksaj: turn 21 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Copper
+nenukojaksaj - plays Village
+nenukojaksaj - draws Village
+nenukojaksaj - plays Village
+nenukojaksaj - draws Copper
+nenukojaksaj - plays 2 Copper, 1 Gold
+nenukojaksaj - buys Duchy
+nenukojaksaj - gains Duchy
+nenukojaksaj - draws Gold, Silver
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Duchy, Village, Copper
+ 
+---------- Java Sparrow: turn 22 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Duchy
+nenukojaksaj - discards Copper
+Java Sparrow - plays 1 Copper, 1 Silver
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Duchy, Duchy, Moat, Province, Duchy
+ 
+---------- nenukojaksaj: turn 22 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Duchy
+nenukojaksaj - plays 1 Gold, 1 Silver
+nenukojaksaj - buys Estate
+nenukojaksaj - gains Estate
+nenukojaksaj - draws Copper, Silver, Duchy, Moat, Copper
+ 
+---------- Java Sparrow: turn 23 ----------
+Java Sparrow - plays Moat
+Java Sparrow - draws Estate, Copper
+Java Sparrow - plays 1 Copper
+Java Sparrow - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- nenukojaksaj: turn 23 ----------
+nenukojaksaj - plays Moat
+nenukojaksaj - draws Estate, Village
+nenukojaksaj - plays 2 Copper, 1 Silver
+nenukojaksaj - buys Remodel
+nenukojaksaj - gains Remodel
+nenukojaksaj - draws Estate, Silver, Gold, Militia, Militia
+ 
+---------- Java Sparrow: turn 24 ----------
+Java Sparrow - plays 2 Silver, 2 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Copper, Silver, Copper, Province, Estate
+ 
+---------- nenukojaksaj: turn 24 ----------
+nenukojaksaj - plays Militia
+Java Sparrow - discards Estate
+Java Sparrow - discards Province
+nenukojaksaj - plays 1 Silver, 1 Gold
+nenukojaksaj - buys Gold
+nenukojaksaj - gains Gold
+nenukojaksaj - draws Duchy, Copper, Copper, Province, Copper
+ 
+---------- Java Sparrow: turn 25 ----------
+Java Sparrow - plays 2 Copper, 1 Silver
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Silver, Militia, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Estate
+ 
+---------- nenukojaksaj: turn 25 ----------
+nenukojaksaj - draws Village, Gold, Copper, Province, Province
+ 
+---------- Java Sparrow: turn 26 ----------
+Java Sparrow - plays Militia
+nenukojaksaj - discards Province
+nenukojaksaj - discards Province
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Duchy, Gold, Copper, Copper, Silver
+ 
+---------- nenukojaksaj: turn 26 ----------
+nenukojaksaj - plays Village
+nenukojaksaj - draws Silver
+nenukojaksaj - plays 1 Gold, 1 Copper, 1 Silver
+nenukojaksaj - buys Gold
+nenukojaksaj - gains Gold
+nenukojaksaj - draws Estate, Remodel
+nenukojaksaj - shuffles deck
+nenukojaksaj - draws Copper, Gold, Estate
+ 
+---------- Java Sparrow: turn 27 ----------
+Java Sparrow - plays 2 Copper, 1 Gold, 1 Silver
+Java Sparrow - buys Remodel
+Java Sparrow - gains Remodel
+Java Sparrow - draws Militia, Province, Moat, Duchy, Province
+ 
+---------- nenukojaksaj: turn 27 ----------
+nenukojaksaj - plays Remodel
+nenukojaksaj - trashes Gold
+nenukojaksaj - gains Province
+nenukojaksaj - draws Duchy, Estate, Gold, Moat, Silver
+ 
+------------ Game Over ------------
+Java Sparrow - cards: 2 Militia, 1 Moat, 1 Remodel, 7 Copper, 5 Silver, 4 Gold, 8 Estate, 4 Province, 4 Duchy
+Java Sparrow - total victory points: 44
+Java Sparrow - turns: 27
+ 
+nenukojaksaj - cards: 3 Village, 2 Remodel, 2 Militia, 1 Moat, 7 Copper, 4 Gold, 4 Silver, 4 Duchy, 4 Estate, 4 Province
+nenukojaksaj - total victory points: 40
+nenukojaksaj - turns: 27
+ 
+1st place: Java Sparrow
+2nd place: nenukojaksaj
+ 

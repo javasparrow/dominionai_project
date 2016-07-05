@@ -1,0 +1,540 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Bureaucrat, Smithy, Throne Room, Festival, Laboratory, Library, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+EastEnder - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+EastEnder - shuffles deck
+hiroki - shuffles deck
+EastEnder - draws Copper, Estate, Estate, Copper, Copper
+hiroki - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- EastEnder: turn 1 ----------
+EastEnder - plays 3 Copper
+EastEnder - buys Chapel
+EastEnder - gains Chapel
+EastEnder - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- EastEnder: turn 2 ----------
+EastEnder - plays 4 Copper
+EastEnder - buys Silver
+EastEnder - gains Silver
+EastEnder - shuffles deck
+EastEnder - draws Copper, Copper, Chapel, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Chapel, Estate, Copper
+ 
+---------- EastEnder: turn 3 ----------
+EastEnder - plays Chapel
+EastEnder - trashes Copper, Copper, Estate, Copper
+EastEnder - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate, Copper, Estate
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- EastEnder: turn 4 ----------
+EastEnder - plays 3 Copper, 1 Silver
+EastEnder - buys Festival
+EastEnder - gains Festival
+EastEnder - draws Estate, Copper
+EastEnder - shuffles deck
+EastEnder - draws Copper, Festival, Chapel
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Copper, Silver
+hiroki - shuffles deck
+hiroki - draws Chapel, Copper, Silver
+ 
+---------- EastEnder: turn 5 ----------
+EastEnder - plays Festival
+EastEnder - plays Chapel
+EastEnder - trashes Estate, Copper, Copper
+EastEnder - draws Estate, Silver, Copper, Copper
+EastEnder - shuffles deck
+EastEnder - draws Festival
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Copper, Estate, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+ 
+---------- EastEnder: turn 6 ----------
+EastEnder - plays Festival
+EastEnder - plays 2 Copper, 1 Silver
+EastEnder - buys Gold
+EastEnder - gains Gold
+EastEnder - draws Chapel
+EastEnder - shuffles deck
+EastEnder - draws Festival, Gold, Estate, Copper
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays 4 Copper
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Chapel, Laboratory, Silver, Silver
+hiroki - shuffles deck
+hiroki - draws Estate
+ 
+---------- EastEnder: turn 7 ----------
+EastEnder - plays Festival
+EastEnder - plays Chapel
+EastEnder - trashes Estate, Copper
+EastEnder - plays 1 Gold
+EastEnder - buys Laboratory
+EastEnder - gains Laboratory
+EastEnder - draws Copper, Silver
+EastEnder - shuffles deck
+EastEnder - draws Festival, Gold, Laboratory
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Throne Room
+hiroki - plays Chapel
+hiroki - trashes Estate
+hiroki - plays 2 Silver, 1 Copper
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Copper, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Festival, Copper
+ 
+---------- EastEnder: turn 8 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Chapel
+EastEnder - plays Festival
+EastEnder - plays Chapel
+EastEnder - trashes Copper
+EastEnder - plays 1 Silver, 1 Gold
+EastEnder - buys Gold
+EastEnder - gains Gold
+EastEnder - shuffles deck
+EastEnder - draws Festival, Laboratory, Gold, Chapel, Silver
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Festival
+hiroki - plays 4 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Chapel, Throne Room, Laboratory, Silver, Silver
+ 
+---------- EastEnder: turn 9 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Gold
+EastEnder - plays Festival
+EastEnder - plays 2 Gold, 1 Silver
+EastEnder - buys Province
+EastEnder - gains Province
+EastEnder - shuffles deck
+EastEnder - draws Laboratory, Gold, Province, Chapel, Gold
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Laboratory, Festival
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Copper, Copper
+hiroki - plays 2 Silver, 2 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Throne Room, Silver, Laboratory, Chapel, Silver
+ 
+---------- EastEnder: turn 10 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Festival, Silver
+EastEnder - plays Festival
+EastEnder - plays 2 Gold, 1 Silver
+EastEnder - buys Laboratory
+EastEnder - gains Laboratory
+EastEnder - buys Festival
+EastEnder - gains Festival
+EastEnder - shuffles deck
+EastEnder - draws Chapel, Province, Silver, Gold, Festival
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Silver, Festival
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Copper
+hiroki - plays Festival
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 3 Silver, 1 Copper
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - buys Bureaucrat
+hiroki - gains Bureaucrat
+hiroki - shuffles deck
+hiroki - draws Silver, Witch, Chapel, Festival, Silver
+ 
+---------- EastEnder: turn 11 ----------
+EastEnder - plays Festival
+EastEnder - plays 1 Silver, 1 Gold
+EastEnder - buys Gold
+EastEnder - gains Gold
+EastEnder - draws Laboratory, Gold, Festival, Laboratory
+EastEnder - shuffles deck
+EastEnder - draws Silver
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Festival
+hiroki - plays Witch
+hiroki - draws Laboratory, Laboratory
+EastEnder - gains Curse
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Bureaucrat, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Laboratory, Gold, Festival, Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Silver
+hiroki - plays Chapel
+hiroki - trashes Copper
+hiroki - plays 4 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Silver, Chapel, Laboratory, Silver, Laboratory
+ 
+---------- EastEnder: turn 12 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Festival, Gold
+EastEnder - plays Laboratory
+EastEnder - draws Province, Chapel
+EastEnder - plays Festival
+EastEnder - plays Festival
+EastEnder - plays 2 Gold, 1 Silver
+EastEnder - buys Province
+EastEnder - gains Province
+EastEnder - buys Smithy
+EastEnder - gains Smithy
+EastEnder - draws Gold
+EastEnder - shuffles deck
+EastEnder - draws Silver, Gold, Province, Province
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Festival, Witch
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Silver, Laboratory
+EastEnder - gains Curse
+hiroki - plays Witch
+hiroki - draws Bureaucrat
+EastEnder - gains Curse
+hiroki - plays Laboratory
+hiroki - plays Laboratory
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays 4 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - draws Silver
+hiroki - shuffles deck
+hiroki - draws Silver, Throne Room, Laboratory, Silver
+ 
+---------- EastEnder: turn 13 ----------
+EastEnder - plays 2 Gold, 1 Silver
+EastEnder - buys Province
+EastEnder - gains Province
+EastEnder - draws Province, Laboratory, Smithy, Curse, Chapel
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Chapel, Witch
+hiroki - plays Laboratory
+hiroki - draws Silver, Silver
+hiroki - plays Witch
+hiroki - draws Laboratory, Laboratory
+EastEnder - gains Curse
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Bureaucrat
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Festival, Laboratory
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays Festival
+hiroki - plays Laboratory
+hiroki - draws Silver
+hiroki - plays 6 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - shuffles deck
+hiroki - draws Silver, Laboratory, Chapel, Silver, Throne Room
+ 
+---------- EastEnder: turn 14 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Province, Festival
+EastEnder - plays Festival
+EastEnder - plays Smithy
+EastEnder - draws Gold, Festival, Laboratory
+EastEnder - plays Laboratory
+EastEnder - shuffles deck
+EastEnder - draws Gold, Gold
+EastEnder - plays Festival
+EastEnder - plays Chapel
+EastEnder - trashes Curse
+EastEnder - plays 3 Gold
+EastEnder - buys Province
+EastEnder - gains Province
+EastEnder - buys Festival
+EastEnder - gains Festival
+EastEnder - draws Province, Province, Curse, Curse, Curse
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver, Festival
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Bureaucrat, Silver
+hiroki - plays Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Throne Room
+hiroki - plays Witch
+hiroki - draws Laboratory, Laboratory
+EastEnder - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - plays Laboratory
+hiroki - plays 7 Silver
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - buys Mine
+hiroki - gains Mine
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - shuffles deck
+hiroki - draws Laboratory, Silver, Throne Room, Laboratory, Bureaucrat
+ 
+---------- EastEnder: turn 15 ----------
+EastEnder - draws Province, Silver
+EastEnder - shuffles deck
+EastEnder - draws Gold, Province, Gold
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Silver, Silver
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Mine
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Laboratory
+hiroki - draws Witch, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Festival, Silver
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Throne Room
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays Witch
+hiroki - draws Silver, Silver
+EastEnder - gains Curse
+hiroki - plays Laboratory
+hiroki - draws Chapel, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Silver
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays 8 Silver, 1 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - shuffles deck
+hiroki - draws Laboratory, Bureaucrat, Throne Room, Silver, Silver
+ 
+---------- EastEnder: turn 16 ----------
+EastEnder - plays 2 Gold, 1 Silver
+EastEnder - buys Province
+EastEnder - gains Province
+EastEnder - draws Province, Province, Province, Gold, Laboratory
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Province
+hiroki - plays Laboratory
+hiroki - draws Silver, Gold
+hiroki - plays Throne Room
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Province
+EastEnder - places Province on top of deck
+hiroki - plays 5 Silver, 1 Gold
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Silver, Silver, Laboratory, Laboratory, Laboratory
+ 
+---------- EastEnder: turn 17 ----------
+EastEnder - plays Laboratory
+EastEnder - draws Province, Province
+EastEnder - plays 1 Gold
+EastEnder - buys Moat
+EastEnder - gains Moat
+EastEnder - draws Festival, Festival, Smithy, Laboratory, Curse
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Province, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Throne Room
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Chapel, Mine
+hiroki - plays Laboratory
+hiroki - draws Silver, Silver
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Festival
+hiroki - shuffles deck
+hiroki - draws Throne Room
+EastEnder - gains Curse
+hiroki - plays Witch
+hiroki - draws Laboratory, Bureaucrat
+EastEnder - gains Curse
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Silver
+hiroki - plays Throne Room
+hiroki - plays Laboratory
+hiroki - draws Throne Room, Gold
+hiroki - plays Laboratory
+hiroki - draws Silver, Duchy
+hiroki - plays Throne Room
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays Mine
+hiroki - trashes Silver
+hiroki - gains Gold
+hiroki - plays Bureaucrat
+hiroki - gains Silver
+EastEnder - reveals Festival, Festival, Smithy, Laboratory, Curse
+hiroki - plays 6 Silver, 3 Gold
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - buys Duchy
+hiroki - gains Duchy
+hiroki - draws Silver, Silver, Silver, Province
+hiroki - shuffles deck
+hiroki - draws Mine
+ 
+------------ Game Over ------------
+hiroki - cards: 8 Laboratory, 5 Throne Room, 1 Mine, 1 Witch, 1 Festival, 1 Chapel, 1 Bureaucrat, 9 Silver, 3 Gold, 3 Province, 3 Duchy
+hiroki - total victory points: 27
+hiroki - turns: 17
+ 
+EastEnder - cards: 3 Festival, 2 Laboratory, 1 Smithy, 1 Moat, 1 Chapel, 3 Gold, 1 Silver, 5 Province, 7 Curse
+EastEnder - total victory points: 23
+EastEnder - turns: 17
+ 
+1st place: hiroki
+2nd place: EastEnder
+ 

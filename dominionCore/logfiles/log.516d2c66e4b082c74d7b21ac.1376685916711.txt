@@ -1,0 +1,428 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Bureaucrat, Militia, Smithy, Throne Room, Festival, Library, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+dsimm - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dsimm - shuffles deck
+terminalCopper - shuffles deck
+dsimm - draws Estate, Copper, Copper, Copper, Copper
+terminalCopper - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- dsimm: turn 1 ----------
+dsimm - plays 4 Copper
+dsimm - buys Militia
+dsimm - gains Militia
+dsimm - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Militia
+terminalCopper - gains Militia
+terminalCopper - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- dsimm: turn 2 ----------
+dsimm - plays 3 Copper
+dsimm - buys Silver
+dsimm - gains Silver
+dsimm - shuffles deck
+dsimm - draws Estate, Estate, Copper, Militia, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- dsimm: turn 3 ----------
+dsimm - plays Militia
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+dsimm - plays 2 Copper
+dsimm - buys Smithy
+dsimm - gains Smithy
+dsimm - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- dsimm: turn 4 ----------
+dsimm - plays 4 Copper
+dsimm - buys Silver
+dsimm - gains Silver
+dsimm - draws Copper, Silver
+dsimm - shuffles deck
+dsimm - draws Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Militia, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Silver, Copper
+ 
+---------- dsimm: turn 5 ----------
+dsimm - plays 4 Copper, 1 Silver
+dsimm - buys Festival
+dsimm - gains Festival
+dsimm - draws Estate, Silver, Estate, Smithy, Copper
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Militia
+dsimm - discards Estate
+dsimm - discards Estate
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Witch
+terminalCopper - gains Witch
+terminalCopper - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- dsimm: turn 6 ----------
+dsimm - plays Smithy
+dsimm - draws Copper, Militia, Copper
+dsimm - plays 3 Copper, 1 Silver
+dsimm - buys Festival
+dsimm - gains Festival
+dsimm - draws Estate
+dsimm - shuffles deck
+dsimm - draws Festival, Copper, Silver, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Witch
+terminalCopper - gains Witch
+terminalCopper - draws Copper, Estate, Copper, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Silver
+ 
+---------- dsimm: turn 7 ----------
+dsimm - plays Festival
+dsimm - plays 2 Copper, 1 Silver
+dsimm - buys Gold
+dsimm - gains Gold
+dsimm - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays 2 Copper, 2 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Silver, Copper, Estate, Militia, Witch
+ 
+---------- dsimm: turn 8 ----------
+dsimm - plays 3 Copper, 1 Silver
+dsimm - buys Witch
+dsimm - gains Witch
+dsimm - draws Copper, Estate, Copper, Militia, Festival
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Copper, Witch
+dsimm - gains Curse
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Throne Room
+terminalCopper - gains Throne Room
+terminalCopper - draws Copper, Copper, Copper, Estate
+terminalCopper - shuffles deck
+terminalCopper - draws Estate
+ 
+---------- dsimm: turn 9 ----------
+dsimm - plays Festival
+dsimm - plays Militia
+terminalCopper - discards Estate
+terminalCopper - discards Estate
+dsimm - plays 2 Copper
+dsimm - buys Gold
+dsimm - gains Gold
+dsimm - draws Smithy
+dsimm - shuffles deck
+dsimm - draws Copper, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Witch, Copper, Copper, Throne Room, Copper
+ 
+---------- dsimm: turn 10 ----------
+dsimm - plays Smithy
+dsimm - draws Copper, Copper, Silver
+dsimm - plays 5 Copper, 1 Silver
+dsimm - buys Festival
+dsimm - gains Festival
+dsimm - draws Copper, Estate, Estate, Curse, Gold
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Witch
+terminalCopper - draws Silver, Estate
+dsimm - gains Curse
+terminalCopper - plays Witch
+terminalCopper - draws Militia, Silver
+dsimm - gains Curse
+terminalCopper - plays 3 Copper, 2 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Witch, Gold, Silver, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+ 
+---------- dsimm: turn 11 ----------
+dsimm - plays 1 Copper, 1 Gold
+dsimm - buys Smithy
+dsimm - gains Smithy
+dsimm - draws Militia, Gold, Festival, Witch, Festival
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Copper, Estate
+dsimm - gains Curse
+terminalCopper - plays 3 Copper, 1 Gold, 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Gold, Silver, Estate, Copper, Copper
+ 
+---------- dsimm: turn 12 ----------
+dsimm - plays Festival
+dsimm - plays Festival
+dsimm - plays Witch
+dsimm - draws Copper, Silver
+terminalCopper - gains Curse
+dsimm - plays Militia
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+dsimm - plays 1 Gold, 1 Copper, 1 Silver
+dsimm - buys Province
+dsimm - gains Province
+dsimm - buys Throne Room
+dsimm - gains Throne Room
+dsimm - shuffles deck
+dsimm - draws Copper, Curse, Estate, Festival, Throne Room
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays 1 Gold, 1 Silver, 1 Copper
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Witch, Copper, Estate, Silver, Militia
+ 
+---------- dsimm: turn 13 ----------
+dsimm - plays Throne Room
+dsimm - plays Festival
+dsimm - plays Festival
+dsimm - plays 1 Copper
+dsimm - buys Festival
+dsimm - gains Festival
+dsimm - draws Curse, Smithy, Witch, Gold, Gold
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Throne Room, Copper
+dsimm - gains Curse
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Witch, Witch, Province, Gold
+ 
+---------- dsimm: turn 14 ----------
+dsimm - plays Witch
+dsimm - draws Estate, Province
+terminalCopper - gains Curse
+dsimm - plays 2 Gold
+dsimm - buys Gold
+dsimm - gains Gold
+dsimm - draws Copper, Festival, Militia, Curse, Silver
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Silver, Militia
+dsimm - gains Curse
+terminalCopper - plays 2 Silver, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Estate, Copper, Gold, Copper, Silver
+ 
+---------- dsimm: turn 15 ----------
+dsimm - plays Festival
+dsimm - plays Militia
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+dsimm - plays 1 Copper, 1 Silver
+dsimm - buys Cellar
+dsimm - gains Cellar
+dsimm - buys Smithy
+dsimm - gains Smithy
+dsimm - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays 1 Gold, 1 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Copper, Copper, Copper, Silver, Curse
+ 
+---------- dsimm: turn 16 ----------
+dsimm - plays 3 Copper, 1 Silver
+dsimm - buys Festival
+dsimm - gains Festival
+dsimm - draws Copper, Festival, Curse, Copper, Smithy
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Smithy
+terminalCopper - gains Smithy
+terminalCopper - draws Estate, Copper, Throne Room, Estate, Copper
+ 
+---------- dsimm: turn 17 ----------
+dsimm - plays Festival
+dsimm - plays Smithy
+dsimm - shuffles deck
+dsimm - draws Smithy, Curse, Throne Room
+dsimm - plays Throne Room
+dsimm - plays Smithy
+dsimm - draws Curse, Copper, Copper
+dsimm - plays Smithy
+dsimm - draws Estate, Gold, Estate
+dsimm - plays 4 Copper, 1 Gold
+dsimm - buys Province
+dsimm - gains Province
+dsimm - draws Festival, Witch, Copper, Festival, Copper
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays 2 Copper
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Silver, Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Witch, Gold, Estate
+ 
+---------- dsimm: turn 18 ----------
+dsimm - plays Festival
+dsimm - plays Witch
+dsimm - draws Curse, Curse
+terminalCopper - gains Curse
+dsimm - plays Festival
+dsimm - plays 2 Copper
+dsimm - buys Gold
+dsimm - gains Gold
+dsimm - draws Smithy, Militia, Gold, Cellar, Curse
+ 
+---------- terminalCopper: turn 18 ----------
+terminalCopper - plays Witch
+terminalCopper - draws Estate, Gold
+dsimm - gains Curse
+terminalCopper - plays 3 Gold, 1 Silver
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Copper, Silver, Curse, Silver
+ 
+---------- dsimm: turn 19 ----------
+dsimm - plays Cellar
+dsimm - discards Smithy
+dsimm - discards Curse
+dsimm - draws Copper, Estate
+dsimm - plays Militia
+terminalCopper - discards Curse
+terminalCopper - discards Copper
+dsimm - plays 1 Gold, 1 Copper
+dsimm - buys Gold
+dsimm - gains Gold
+dsimm - draws Festival, Silver, Province, Festival, Silver
+ 
+---------- terminalCopper: turn 19 ----------
+terminalCopper - plays 2 Silver, 1 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Witch, Throne Room, Copper, Copper, Copper
+ 
+---------- dsimm: turn 20 ----------
+dsimm - plays Festival
+dsimm - plays Festival
+dsimm - plays 2 Silver
+dsimm - buys Province
+dsimm - gains Province
+dsimm - draws Gold
+dsimm - shuffles deck
+dsimm - draws Smithy, Copper, Gold, Copper
+ 
+---------- terminalCopper: turn 20 ----------
+terminalCopper - plays Throne Room
+terminalCopper - plays Witch
+terminalCopper - draws Curse, Cellar
+terminalCopper - plays Witch
+terminalCopper - draws Gold, Copper
+terminalCopper - plays 4 Copper, 1 Gold
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Militia, Estate, Smithy, Gold, Province
+ 
+---------- dsimm: turn 21 ----------
+dsimm - plays 2 Gold, 2 Copper
+dsimm - buys Province
+dsimm - gains Province
+dsimm - draws Curse, Estate, Province, Gold, Estate
+ 
+---------- terminalCopper: turn 21 ----------
+terminalCopper - plays Militia
+dsimm - discards Province
+dsimm - discards Estate
+terminalCopper - plays 1 Gold
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Silver, Copper, Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Copper
+ 
+---------- dsimm: turn 22 ----------
+dsimm - plays 1 Gold
+dsimm - buys Cellar
+dsimm - gains Cellar
+dsimm - draws Curse, Curse, Curse, Cellar, Smithy
+ 
+---------- terminalCopper: turn 22 ----------
+terminalCopper - plays 2 Silver, 2 Copper, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Silver, Copper, Copper, Copper, Gold
+ 
+---------- dsimm: turn 23 ----------
+dsimm - plays Cellar
+dsimm - discards Curse
+dsimm - discards Curse
+dsimm - discards Curse
+dsimm - draws Festival, Province, Copper
+dsimm - plays Festival
+dsimm - plays Smithy
+dsimm - draws Festival, Witch, Copper
+dsimm - plays Festival
+dsimm - plays Witch
+dsimm - draws Province, Gold
+dsimm - plays 2 Copper, 1 Gold
+dsimm - buys Duchy
+dsimm - gains Duchy
+dsimm - buys Estate
+dsimm - gains Estate
+dsimm - buys Estate
+dsimm - gains Estate
+dsimm - draws Gold, Copper, Festival, Smithy, Estate
+ 
+---------- terminalCopper: turn 23 ----------
+terminalCopper - plays 3 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Estate, Throne Room, Gold, Estate, Gold
+ 
+------------ Game Over ------------
+terminalCopper - cards: 2 Witch, 1 Throne Room, 1 Cellar, 1 Militia, 1 Smithy, 7 Copper, 5 Gold, 5 Silver, 4 Province, 3 Estate, 3 Duchy, 3 Curse
+terminalCopper - total victory points: 33
+terminalCopper - turns: 23
+ 
+dsimm - cards: 5 Festival, 3 Smithy, 2 Cellar, 1 Witch, 1 Militia, 1 Throne Room, 7 Copper, 5 Gold, 2 Silver, 5 Estate, 4 Province, 1 Duchy, 7 Curse
+dsimm - total victory points: 25
+dsimm - turns: 23
+ 
+1st place: terminalCopper
+2nd place: dsimm
+ 

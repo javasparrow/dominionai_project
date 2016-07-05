@@ -1,0 +1,436 @@
+------------ Game Setup ------------
+Supply cards: Workshop, Feast, Militia, Remodel, Smithy, Spy, Throne Room, Library, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+woods - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+woods - shuffles deck
+Rabid - shuffles deck
+woods - draws Estate, Copper, Copper, Estate, Copper
+Rabid - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- woods: turn 1 ----------
+woods - plays 3 Copper
+woods - buys Workshop
+woods - gains Workshop
+woods - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- woods: turn 2 ----------
+woods - plays 4 Copper
+woods - buys Remodel
+woods - gains Remodel
+woods - shuffles deck
+woods - draws Remodel, Copper, Copper, Estate, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Militia
+Rabid - gains Militia
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- woods: turn 3 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Remodel
+woods - draws Copper, Copper, Workshop, Copper, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Estate, Copper, Militia
+ 
+---------- woods: turn 4 ----------
+woods - plays Workshop
+woods - gains Remodel
+woods - plays 4 Copper
+woods - buys Throne Room
+woods - gains Throne Room
+woods - draws Estate, Copper
+woods - shuffles deck
+woods - draws Copper, Workshop, Remodel
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Militia
+woods - discards Copper
+woods - discards Copper
+Rabid - plays 3 Copper
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Copper, Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Silver
+ 
+---------- woods: turn 5 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Remodel
+woods - draws Copper, Copper, Throne Room, Remodel, Copper
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays 2 Copper, 2 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Militia, Copper, Copper, Copper
+ 
+---------- woods: turn 6 ----------
+woods - plays Throne Room
+woods - plays Remodel
+woods - trashes Copper
+woods - gains Estate
+woods - plays Remodel
+woods - trashes Copper
+woods - gains Estate
+woods - draws Remodel, Estate, Copper, Copper
+woods - shuffles deck
+woods - draws Copper
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Militia
+woods - discards Copper
+woods - discards Copper
+Rabid - plays 4 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Witch, Copper, Estate, Estate
+Rabid - shuffles deck
+Rabid - draws Silver
+ 
+---------- woods: turn 7 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Throne Room
+woods - draws Remodel, Copper, Copper, Workshop, Remodel
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays Witch
+Rabid - draws Militia, Gold
+woods - gains Curse
+Rabid - plays 1 Copper, 1 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Estate, Gold, Copper, Silver
+ 
+---------- woods: turn 8 ----------
+woods - plays Remodel
+woods - trashes Workshop
+woods - gains Witch
+woods - draws Estate, Remodel, Throne Room, Estate
+woods - shuffles deck
+woods - draws Copper
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays 2 Copper, 1 Gold, 1 Silver
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Copper, Copper, Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- woods: turn 9 ----------
+woods - plays Throne Room
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Remodel
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Throne Room
+woods - draws Remodel, Remodel, Curse, Copper, Copper
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays 5 Copper
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Estate, Militia, Gold, Gold, Estate
+ 
+---------- woods: turn 10 ----------
+woods - plays Remodel
+woods - trashes Remodel
+woods - gains Gold
+woods - plays 2 Copper
+woods - buys Estate
+woods - gains Estate
+woods - draws Throne Room, Copper, Witch, Copper, Remodel
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Militia
+woods - discards Copper
+woods - discards Copper
+Rabid - plays 2 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper, Silver, Gold, Estate, Witch
+ 
+---------- woods: turn 11 ----------
+woods - plays Throne Room
+woods - plays Witch
+woods - shuffles deck
+woods - draws Throne Room, Remodel
+Rabid - gains Curse
+woods - plays Witch
+woods - draws Remodel, Gold
+Rabid - gains Curse
+woods - plays 1 Gold
+woods - buys Silver
+woods - gains Silver
+woods - draws Copper, Curse, Copper, Throne Room, Copper
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Witch
+Rabid - draws Witch, Silver
+woods - gains Curse
+Rabid - plays 2 Silver, 1 Copper, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper
+Rabid - shuffles deck
+Rabid - draws Province, Witch, Estate, Copper
+ 
+---------- woods: turn 12 ----------
+woods - plays 3 Copper
+woods - buys Silver
+woods - gains Silver
+woods - draws Estate, Remodel, Copper, Copper
+woods - shuffles deck
+woods - draws Remodel
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Witch
+Rabid - draws Curse, Gold
+woods - gains Curse
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Copper, Estate, Copper, Copper, Gold
+ 
+---------- woods: turn 13 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Remodel
+woods - draws Copper, Witch, Throne Room, Silver, Curse
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays 3 Copper, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Silver, Gold, Province, Copper, Witch
+ 
+---------- woods: turn 14 ----------
+woods - plays Throne Room
+woods - plays Witch
+woods - draws Copper, Remodel
+Rabid - gains Curse
+woods - plays Witch
+woods - draws Silver, Throne Room
+Rabid - gains Curse
+woods - plays 2 Copper, 2 Silver
+woods - buys Gold
+woods - gains Gold
+woods - draws Remodel, Throne Room, Copper, Gold, Curse
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Witch
+Rabid - draws Militia, Silver
+woods - gains Curse
+Rabid - plays 2 Silver, 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Witch, Curse, Estate, Copper
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- woods: turn 15 ----------
+woods - plays Throne Room
+woods - plays Remodel
+woods - trashes Gold
+woods - gains Province
+woods - plays Remodel
+woods - trashes Curse
+woods - gains Estate
+woods - shuffles deck
+woods - draws Throne Room, Curse, Remodel, Curse, Copper
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Witch
+Rabid - draws Curse, Gold
+woods - gains Curse
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Estate, Silver, Copper, Witch, Curse
+ 
+---------- woods: turn 16 ----------
+woods - plays Throne Room
+woods - plays Remodel
+woods - trashes Curse
+woods - gains Estate
+woods - plays Remodel
+woods - trashes Curse
+woods - gains Estate
+woods - draws Province, Gold, Copper, Copper, Remodel
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Witch
+Rabid - draws Copper, Curse
+woods - gains Curse
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Witch, Province, Gold, Militia, Silver
+ 
+---------- woods: turn 17 ----------
+woods - plays Remodel
+woods - trashes Gold
+woods - gains Province
+woods - plays 2 Copper
+woods - buys Estate
+woods - gains Estate
+woods - draws Remodel, Copper, Silver, Copper, Estate
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Militia
+woods - discards Copper
+woods - discards Copper
+Rabid - plays Gold
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Gold, Copper, Gold, Copper, Estate
+ 
+---------- woods: turn 18 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Throne Room
+woods - plays 1 Silver
+woods - buys Estate
+woods - gains Estate
+woods - draws Remodel, Witch, Remodel, Curse, Throne Room
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays 2 Gold, 2 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Province, Province, Copper, Duchy
+Rabid - shuffles deck
+Rabid - draws Province
+ 
+---------- woods: turn 19 ----------
+woods - plays Throne Room
+woods - plays Witch
+woods - draws Throne Room, Silver
+woods - plays Witch
+woods - shuffles deck
+woods - draws Province, Throne Room
+woods - draws Copper, Copper, Curse, Copper, Curse
+ 
+---------- Rabid: turn 19 ----------
+Rabid - draws Estate, Province, Copper, Witch, Curse
+ 
+---------- woods: turn 20 ----------
+woods - plays 3 Copper
+woods - buys Silver
+woods - gains Silver
+woods - draws Estate, Throne Room, Silver, Remodel, Copper
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Witch
+Rabid - draws Gold, Gold
+Rabid - plays 2 Gold, 1 Copper
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Copper, Curse, Silver, Copper, Duchy
+ 
+---------- woods: turn 21 ----------
+woods - plays Throne Room
+woods - plays Remodel
+woods - trashes Silver
+woods - gains Duchy
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Remodel
+woods - draws Estate, Estate, Copper, Remodel, Province
+ 
+---------- Rabid: turn 21 ----------
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Gold, Gold, Copper, Witch, Militia
+ 
+---------- woods: turn 22 ----------
+woods - plays Remodel
+woods - trashes Estate
+woods - gains Throne Room
+woods - draws Remodel, Estate
+woods - shuffles deck
+woods - draws Curse, Remodel, Silver
+ 
+---------- Rabid: turn 22 ----------
+Rabid - plays Militia
+woods - discards Curse
+woods - discards Estate
+Rabid - plays 2 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Copper, Copper, Estate, Curse, Silver
+ 
+---------- woods: turn 23 ----------
+woods - plays Remodel
+woods - trashes Silver
+woods - gains Duchy
+woods - draws Throne Room, Estate, Duchy, Copper, Silver
+ 
+---------- Rabid: turn 23 ----------
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Curse, Estate, Duchy, Witch, Silver
+ 
+---------- woods: turn 24 ----------
+woods - plays 1 Copper, 1 Silver
+woods - buys Silver
+woods - gains Silver
+woods - draws Copper, Remodel, Curse, Copper, Province
+ 
+---------- Rabid: turn 24 ----------
+Rabid - plays Witch
+Rabid - shuffles deck
+Rabid - draws Copper, Estate
+Rabid - plays 1 Silver, 1 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Province, Duchy, Witch, Duchy, Copper
+ 
+---------- woods: turn 25 ----------
+woods - plays Remodel
+woods - trashes Curse
+woods - gains Copper
+woods - plays 2 Copper
+woods - buys Copper
+woods - gains Copper
+woods - draws Remodel, Curse, Remodel, Throne Room, Throne Room
+ 
+---------- Rabid: turn 25 ----------
+Rabid - plays Witch
+Rabid - draws Gold, Copper
+Rabid - plays 2 Copper, 1 Gold
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Copper, Militia, Copper, Province, Gold
+ 
+------------ Game Over ------------
+Rabid - cards: 3 Witch, 3 Remodel, 1 Militia, 7 Copper, 4 Gold, 4 Silver, 5 Province, 4 Duchy, 3 Estate, 4 Curse
+Rabid - total victory points: 41
+Rabid - turns: 25
+ 
+woods - cards: 6 Remodel, 5 Throne Room, 1 Witch, 7 Copper, 2 Silver, 2 Estate, 2 Duchy, 2 Province, 2 Curse
+woods - total victory points: 18
+woods - turns: 25
+ 
+1st place: Rabid
+2nd place: woods
+ 

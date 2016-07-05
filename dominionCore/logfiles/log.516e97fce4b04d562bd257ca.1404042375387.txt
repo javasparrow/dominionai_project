@@ -1,0 +1,554 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Chancellor, Village, Workshop, Remodel, Throne Room, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+fotouli - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hakasen - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fotouli - shuffles deck
+hakasen - shuffles deck
+fotouli - draws Copper, Estate, Copper, Estate, Estate
+hakasen - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- hakasen: turn 1 ----------
+hakasen - plays 3 Copper
+hakasen - buys Chapel
+hakasen - gains Chapel
+hakasen - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- fotouli: turn 1 ----------
+fotouli - plays 2 Copper
+fotouli - buys Cellar
+fotouli - gains Cellar
+fotouli - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- hakasen: turn 2 ----------
+hakasen - plays 4 Copper
+hakasen - buys Silver
+hakasen - gains Silver
+hakasen - shuffles deck
+hakasen - draws Silver, Copper, Chapel, Copper, Copper
+ 
+---------- fotouli: turn 2 ----------
+fotouli - plays 5 Copper
+fotouli - buys Market
+fotouli - gains Market
+fotouli - shuffles deck
+fotouli - draws Copper, Estate, Copper, Copper, Market
+ 
+---------- hakasen: turn 3 ----------
+hakasen - plays Chapel
+hakasen - trashes Copper, Copper
+hakasen - plays 1 Silver, 1 Copper
+hakasen - buys Silver
+hakasen - gains Silver
+hakasen - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- fotouli: turn 3 ----------
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays 4 Copper
+fotouli - buys Market
+fotouli - gains Market
+fotouli - draws Copper, Cellar, Estate, Copper, Copper
+ 
+---------- hakasen: turn 4 ----------
+hakasen - plays 3 Copper
+hakasen - buys Village
+hakasen - gains Village
+hakasen - draws Copper, Estate
+hakasen - shuffles deck
+hakasen - draws Silver, Estate, Estate
+ 
+---------- fotouli: turn 4 ----------
+fotouli - plays Cellar
+fotouli - discards Estate
+fotouli - draws Estate
+fotouli - plays 3 Copper
+fotouli - buys Workshop
+fotouli - gains Workshop
+fotouli - shuffles deck
+fotouli - draws Copper, Cellar, Copper, Copper, Estate
+ 
+---------- hakasen: turn 5 ----------
+hakasen - plays 1 Copper, 1 Silver
+hakasen - buys Workshop
+hakasen - gains Workshop
+hakasen - draws Village, Copper, Copper, Silver, Copper
+ 
+---------- fotouli: turn 5 ----------
+fotouli - plays Cellar
+fotouli - discards Estate
+fotouli - draws Estate
+fotouli - plays 3 Copper
+fotouli - buys Workshop
+fotouli - gains Workshop
+fotouli - draws Estate, Copper, Market, Market, Copper
+ 
+---------- hakasen: turn 6 ----------
+hakasen - plays Village
+hakasen - draws Copper
+hakasen - plays 4 Copper, 1 Silver
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - draws Chapel
+hakasen - shuffles deck
+hakasen - draws Silver, Gold, Estate, Village
+ 
+---------- fotouli: turn 6 ----------
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays 4 Copper
+fotouli - buys Gold
+fotouli - gains Gold
+fotouli - draws Workshop
+fotouli - shuffles deck
+fotouli - draws Cellar, Copper, Copper, Copper
+ 
+---------- hakasen: turn 7 ----------
+hakasen - plays Village
+hakasen - draws Copper
+hakasen - plays Chapel
+hakasen - trashes Copper, Estate
+hakasen - plays 1 Silver, 1 Gold
+hakasen - buys Market
+hakasen - gains Market
+hakasen - draws Workshop, Estate, Copper, Copper, Estate
+ 
+---------- fotouli: turn 7 ----------
+fotouli - plays Workshop
+fotouli - gains Throne Room
+fotouli - plays 3 Copper
+fotouli - buys Silver
+fotouli - gains Silver
+fotouli - draws Copper, Market, Market, Copper, Copper
+ 
+---------- hakasen: turn 8 ----------
+hakasen - plays Workshop
+hakasen - gains Throne Room
+hakasen - plays 2 Copper
+hakasen - buys Cellar
+hakasen - gains Cellar
+hakasen - draws Copper, Copper, Silver
+hakasen - shuffles deck
+hakasen - draws Copper, Throne Room
+ 
+---------- fotouli: turn 8 ----------
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays Market
+fotouli - draws Estate
+fotouli - plays 4 Copper
+fotouli - buys Gold
+fotouli - gains Gold
+fotouli - draws Gold, Estate, Estate, Workshop
+fotouli - shuffles deck
+fotouli - draws Gold
+ 
+---------- hakasen: turn 9 ----------
+hakasen - plays 3 Copper, 1 Silver
+hakasen - buys Market
+hakasen - gains Market
+hakasen - draws Estate, Estate, Market, Copper, Chapel
+ 
+---------- fotouli: turn 9 ----------
+fotouli - plays Workshop
+fotouli - gains Throne Room
+fotouli - plays 2 Gold
+fotouli - buys Gold
+fotouli - gains Gold
+fotouli - draws Copper, Workshop, Cellar, Copper, Silver
+ 
+---------- hakasen: turn 10 ----------
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Chapel
+hakasen - trashes Estate, Estate, Copper
+hakasen - plays 1 Silver
+hakasen - buys Village
+hakasen - gains Village
+hakasen - draws Village, Workshop, Gold, Cellar
+hakasen - shuffles deck
+hakasen - draws Silver
+ 
+---------- fotouli: turn 10 ----------
+fotouli - plays Workshop
+fotouli - gains Throne Room
+fotouli - plays 2 Copper, 1 Silver
+fotouli - buys Village
+fotouli - gains Village
+fotouli - draws Copper, Copper, Copper, Throne Room, Market
+ 
+---------- hakasen: turn 11 ----------
+hakasen - plays Village
+hakasen - draws Chapel
+hakasen - plays Cellar
+hakasen - discards Chapel
+hakasen - draws Silver
+hakasen - plays Workshop
+hakasen - gains Throne Room
+hakasen - plays 2 Silver, 1 Gold
+hakasen - buys Library
+hakasen - gains Library
+hakasen - draws Market, Copper, Throne Room, Village, Copper
+ 
+---------- fotouli: turn 11 ----------
+fotouli - plays Throne Room
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays Market
+fotouli - draws Estate
+fotouli - plays 4 Copper
+fotouli - buys Market
+fotouli - gains Market
+fotouli - draws Market, Copper
+fotouli - shuffles deck
+fotouli - draws Gold, Copper, Market
+ 
+---------- hakasen: turn 12 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Copper
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Village
+hakasen - shuffles deck
+hakasen - draws Library
+hakasen - plays Market
+hakasen - draws Cellar
+hakasen - plays Cellar
+hakasen - discards Copper
+hakasen - discards Copper
+hakasen - discards Copper
+hakasen - draws Gold, Silver, Village
+hakasen - plays Village
+hakasen - draws Silver
+hakasen - plays Library
+hakasen - moves Chapel to hand
+hakasen - moves Workshop to hand
+hakasen - moves Throne Room to hand
+hakasen - shuffles deck
+hakasen - draws Copper
+hakasen - plays Throne Room
+hakasen - plays Workshop
+hakasen - gains Village
+hakasen - plays Workshop
+hakasen - gains Throne Room
+hakasen - plays Chapel
+hakasen - trashes Copper
+hakasen - plays 2 Silver, 1 Gold
+hakasen - buys Library
+hakasen - gains Library
+hakasen - buys Market
+hakasen - gains Market
+hakasen - draws Copper, Copper
+hakasen - shuffles deck
+hakasen - draws Throne Room, Throne Room, Library
+ 
+---------- fotouli: turn 12 ----------
+fotouli - plays Market
+fotouli - draws Copper
+fotouli - plays Market
+fotouli - draws Market
+fotouli - plays Market
+fotouli - draws Throne Room
+fotouli - plays 3 Copper, 1 Gold
+fotouli - buys Province
+fotouli - gains Province
+fotouli - draws Copper, Estate, Estate, Throne Room, Copper
+ 
+---------- hakasen: turn 13 ----------
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Library
+hakasen - moves Market to hand
+hakasen - draws Silver
+hakasen - moves Market to hand
+hakasen - moves Market to hand
+hakasen - draws Gold
+hakasen - plays Library
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Market
+hakasen - draws Workshop
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Village
+hakasen - draws Cellar
+hakasen - plays Village
+hakasen - draws Throne Room
+hakasen - plays Cellar
+hakasen - discards Silver
+hakasen - discards Gold
+hakasen - discards Silver
+hakasen - draws Library, Village, Chapel
+hakasen - plays Village
+hakasen - shuffles deck
+hakasen - draws Silver
+hakasen - plays Throne Room
+hakasen - plays Workshop
+hakasen - gains Remodel
+hakasen - plays Workshop
+hakasen - gains Throne Room
+hakasen - plays Chapel
+hakasen - trashes Copper, Copper
+hakasen - plays Library
+hakasen - draws Gold
+hakasen - draws Silver
+hakasen - shuffles deck
+hakasen - moves Remodel to hand
+hakasen - moves Throne Room to hand
+hakasen - plays Throne Room
+hakasen - plays Remodel
+hakasen - trashes Silver
+hakasen - gains Market
+hakasen - plays Remodel
+hakasen - trashes Silver
+hakasen - gains Market
+hakasen - plays 1 Gold
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - shuffles deck
+hakasen - draws Gold, Market, Library, Market, Village
+ 
+---------- fotouli: turn 13 ----------
+fotouli - plays 2 Copper
+fotouli - buys Moat
+fotouli - gains Moat
+fotouli - draws Copper, Estate, Cellar, Silver, Workshop
+ 
+---------- hakasen: turn 14 ----------
+hakasen - plays Village
+hakasen - draws Chapel
+hakasen - plays Market
+hakasen - draws Library
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Library
+hakasen - discards Village
+hakasen - moves Remodel to hand
+hakasen - moves Throne Room to hand
+hakasen - moves Market to hand
+hakasen - discards Village
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Workshop
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Remodel
+hakasen - trashes Gold
+hakasen - gains Province
+hakasen - plays Remodel
+hakasen - trashes Chapel
+hakasen - gains Silver
+hakasen - plays Library
+hakasen - moves Market to hand
+hakasen - moves Market to hand
+hakasen - draws Gold
+hakasen - moves Village to hand
+hakasen - discards Cellar
+hakasen - moves Throne Room to hand
+hakasen - discards Cellar
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - shuffles deck
+hakasen - draws Province
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Cellar
+hakasen - plays Workshop
+hakasen - gains Village
+hakasen - plays 1 Gold, 1 Silver
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - buys Gold
+hakasen - gains Gold
+hakasen - shuffles deck
+hakasen - draws Library, Village, Village, Gold, Gold
+ 
+---------- fotouli: turn 14 ----------
+fotouli - plays Cellar
+fotouli - discards Estate
+fotouli - draws Village
+fotouli - plays Village
+fotouli - draws Workshop
+fotouli - plays Workshop
+fotouli - gains Throne Room
+fotouli - plays Workshop
+fotouli - gains Throne Room
+fotouli - plays 1 Copper, 1 Silver
+fotouli - buys Silver
+fotouli - gains Silver
+fotouli - draws Throne Room, Copper, Gold, Gold
+fotouli - shuffles deck
+fotouli - draws Copper
+ 
+---------- hakasen: turn 15 ----------
+hakasen - plays Village
+hakasen - draws Silver
+hakasen - plays Village
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Library
+hakasen - moves Market to hand
+hakasen - moves Market to hand
+hakasen - moves Remodel to hand
+hakasen - plays Throne Room
+hakasen - plays Remodel
+hakasen - trashes Gold
+hakasen - gains Province
+hakasen - plays Remodel
+hakasen - trashes Gold
+hakasen - gains Province
+hakasen - plays Market
+hakasen - draws Cellar
+hakasen - plays Market
+hakasen - draws Throne Room
+hakasen - plays Cellar
+hakasen - discards Silver
+hakasen - discards Throne Room
+hakasen - draws Throne Room, Workshop
+hakasen - plays Throne Room
+hakasen - plays Workshop
+hakasen - gains Throne Room
+hakasen - plays Workshop
+hakasen - gains Village
+hakasen - draws Library, Province, Gold, Market, Throne Room
+ 
+---------- fotouli: turn 15 ----------
+fotouli - plays 2 Copper, 2 Gold
+fotouli - buys Province
+fotouli - gains Province
+fotouli - draws Estate, Copper, Silver, Copper, Village
+ 
+---------- hakasen: turn 16 ----------
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - shuffles deck
+hakasen - draws Throne Room
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Silver
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Province
+hakasen - plays Library
+hakasen - moves Remodel to hand
+hakasen - discards Village
+hakasen - draws Province
+hakasen - moves Market to hand
+hakasen - discards Village
+hakasen - plays Market
+hakasen - draws Workshop
+hakasen - plays Remodel
+hakasen - trashes Gold
+hakasen - gains Province
+hakasen - plays Workshop
+hakasen - gains Remodel
+hakasen - plays 1 Silver
+hakasen - buys Province
+hakasen - gains Province
+hakasen - draws Throne Room, Library, Throne Room, Throne Room, Cellar
+ 
+---------- fotouli: turn 16 ----------
+fotouli - plays Village
+fotouli - draws Market
+fotouli - plays Market
+fotouli - draws Throne Room
+fotouli - plays 2 Copper, 1 Silver
+fotouli - buys Duchy
+fotouli - gains Duchy
+fotouli - draws Cellar, Copper, Throne Room, Throne Room, Copper
+ 
+---------- hakasen: turn 17 ----------
+hakasen - plays Cellar
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Throne Room
+hakasen - plays Library
+hakasen - moves Market to hand
+hakasen - shuffles deck
+hakasen - moves Market to hand
+hakasen - discards Village
+hakasen - discards Village
+hakasen - moves Remodel to hand
+hakasen - draws Province
+hakasen - moves Market to hand
+hakasen - draws Province
+hakasen - draws Province
+hakasen - discards: Village, Village
+hakasen - plays Library
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Remodel
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Throne Room
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Province
+hakasen - plays Market
+hakasen - draws Market
+hakasen - plays Market
+hakasen - draws Workshop
+hakasen - plays Market
+hakasen - draws Village
+hakasen - plays Village
+hakasen - draws Province
+hakasen - plays Village
+hakasen - draws Silver
+hakasen - plays Workshop
+hakasen - gains Estate
+hakasen - plays Remodel
+hakasen - trashes Silver
+hakasen - gains Duchy
+hakasen - plays Remodel
+hakasen - trashes Province
+hakasen - gains Province
+hakasen - buys Duchy
+hakasen - gains Duchy
+hakasen - buys Estate
+hakasen - gains Estate
+hakasen - draws Village, Library, Throne Room, Throne Room
+hakasen - shuffles deck
+hakasen - draws Throne Room
+ 
+------------ Game Over ------------
+hakasen - cards: 5 Village, 5 Throne Room, 5 Market, 2 Library, 2 Remodel, 1 Workshop, 1 Cellar, 5 Province, 2 Duchy, 2 Estate
+hakasen - total victory points: 38
+hakasen - turns: 17
+ 
+fotouli - cards: 5 Throne Room, 3 Market, 2 Workshop, 1 Cellar, 1 Village, 1 Moat, 7 Copper, 3 Gold, 2 Silver, 3 Estate, 2 Province, 1 Duchy
+fotouli - total victory points: 18
+fotouli - turns: 16
+ 
+1st place: hakasen
+2nd place: fotouli
+ 

@@ -1,0 +1,556 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Chancellor, Village, Feast, Gardens, Smithy, Festival, Laboratory, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+llIHeroic - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LESPEUTERE - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+llIHeroic - shuffles deck
+LESPEUTERE - shuffles deck
+llIHeroic - draws Copper, Copper, Estate, Copper, Estate
+LESPEUTERE - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- llIHeroic: turn 1 ----------
+llIHeroic - plays 3 Copper
+llIHeroic - buys Silver
+llIHeroic - gains Silver
+llIHeroic - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- LESPEUTERE: turn 1 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Chapel
+LESPEUTERE - gains Chapel
+LESPEUTERE - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- llIHeroic: turn 2 ----------
+llIHeroic - plays Copper
+llIHeroic - plays Copper
+llIHeroic - buys Chapel
+llIHeroic - gains Chapel
+llIHeroic - shuffles deck
+llIHeroic - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- LESPEUTERE: turn 2 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Feast
+LESPEUTERE - gains Feast
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- llIHeroic: turn 3 ----------
+llIHeroic - plays 5 Copper
+llIHeroic - buys Festival
+llIHeroic - gains Festival
+llIHeroic - draws Silver, Estate, Copper, Chapel, Copper
+ 
+---------- LESPEUTERE: turn 3 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Feast, Copper, Estate, Estate, Copper
+ 
+---------- llIHeroic: turn 4 ----------
+llIHeroic - plays Chapel
+llIHeroic - trashes Estate, Copper, Copper
+llIHeroic - plays 1 Silver
+llIHeroic - buys Moat
+llIHeroic - gains Moat
+llIHeroic - draws Estate, Estate
+llIHeroic - shuffles deck
+llIHeroic - draws Copper, Copper, Copper
+ 
+---------- LESPEUTERE: turn 4 ----------
+LESPEUTERE - plays Feast
+LESPEUTERE - trashes Feast
+LESPEUTERE - gains Festival
+LESPEUTERE - plays 2 Copper
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - draws Chapel, Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Moat, Copper, Village
+ 
+---------- llIHeroic: turn 5 ----------
+llIHeroic - plays 3 Copper
+llIHeroic - buys Village
+llIHeroic - gains Village
+llIHeroic - draws Chapel, Moat, Copper, Copper, Silver
+ 
+---------- LESPEUTERE: turn 5 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Copper, Copper
+LESPEUTERE - plays Chapel
+LESPEUTERE - trashes Estate, Copper, Copper, Copper
+LESPEUTERE - draws Festival, Copper, Copper, Copper, Estate
+ 
+---------- llIHeroic: turn 6 ----------
+llIHeroic - plays Chapel
+llIHeroic - trashes Copper, Copper
+llIHeroic - plays 1 Silver
+llIHeroic - buys Moat
+llIHeroic - gains Moat
+llIHeroic - draws Festival
+llIHeroic - shuffles deck
+llIHeroic - draws Moat, Chapel, Copper, Village
+ 
+---------- LESPEUTERE: turn 6 ----------
+LESPEUTERE - plays Festival
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Copper, Copper
+ 
+---------- llIHeroic: turn 7 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Village
+llIHeroic - draws Estate
+llIHeroic - plays Moat
+llIHeroic - draws Silver, Copper
+llIHeroic - plays Chapel
+llIHeroic - trashes Copper, Estate, Copper
+llIHeroic - plays 1 Silver
+llIHeroic - buys Silver
+llIHeroic - gains Silver
+llIHeroic - draws Estate, Copper, Moat
+llIHeroic - shuffles deck
+llIHeroic - draws Moat, Silver
+ 
+---------- LESPEUTERE: turn 7 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Smithy
+LESPEUTERE - gains Smithy
+LESPEUTERE - draws Laboratory, Moat, Chapel, Village, Estate
+ 
+---------- llIHeroic: turn 8 ----------
+llIHeroic - plays 1 Copper, 1 Silver
+llIHeroic - buys Village
+llIHeroic - gains Village
+llIHeroic - draws Festival, Village, Chapel, Silver
+llIHeroic - shuffles deck
+llIHeroic - draws Estate
+ 
+---------- LESPEUTERE: turn 8 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Estate, Copper
+LESPEUTERE - plays Chapel
+LESPEUTERE - trashes Estate, Estate, Copper, Copper
+LESPEUTERE - plays Copper
+LESPEUTERE - buys Silver
+LESPEUTERE - gains Silver
+LESPEUTERE - draws Copper, Smithy
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Village, Festival, Laboratory
+ 
+---------- llIHeroic: turn 9 ----------
+llIHeroic - plays Village
+llIHeroic - draws Copper
+llIHeroic - plays Festival
+llIHeroic - plays Chapel
+llIHeroic - trashes Estate, Copper
+llIHeroic - plays 1 Silver
+llIHeroic - buys Smithy
+llIHeroic - gains Smithy
+llIHeroic - draws Silver, Village, Moat, Moat
+llIHeroic - shuffles deck
+llIHeroic - draws Silver
+ 
+---------- LESPEUTERE: turn 9 ----------
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Copper, Chapel, Moat
+LESPEUTERE - plays Village
+LESPEUTERE - draws Silver
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Moat, Copper, Gold, Festival
+ 
+---------- llIHeroic: turn 10 ----------
+llIHeroic - plays Village
+llIHeroic - draws Festival
+llIHeroic - plays Moat
+llIHeroic - draws Smithy, Chapel
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Village
+llIHeroic - plays 2 Silver
+llIHeroic - buys Gold
+llIHeroic - gains Gold
+llIHeroic - shuffles deck
+llIHeroic - draws Silver, Smithy, Festival, Chapel, Silver
+ 
+---------- LESPEUTERE: turn 10 ----------
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Smithy, Silver
+LESPEUTERE - plays 2 Copper, 1 Gold, 1 Silver
+LESPEUTERE - buys Festival
+LESPEUTERE - gains Festival
+LESPEUTERE - buys Smithy
+LESPEUTERE - gains Smithy
+LESPEUTERE - draws Laboratory, Village, Chapel
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Festival, Smithy
+ 
+---------- llIHeroic: turn 11 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Moat, Moat, Village
+llIHeroic - plays Village
+llIHeroic - draws Village
+llIHeroic - plays Village
+llIHeroic - draws Gold
+llIHeroic - plays 2 Silver, 1 Gold
+llIHeroic - buys Festival
+llIHeroic - gains Festival
+llIHeroic - buys Smithy
+llIHeroic - gains Smithy
+llIHeroic - shuffles deck
+llIHeroic - draws Moat, Silver, Festival, Smithy, Moat
+ 
+---------- LESPEUTERE: turn 11 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Gold, Copper, Moat
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Copper, Smithy
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Chapel
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 1 Gold, 1 Copper, 1 Silver
+LESPEUTERE - buys Festival
+LESPEUTERE - gains Festival
+LESPEUTERE - buys Festival
+LESPEUTERE - gains Festival
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Laboratory, Copper, Chapel, Village, Smithy
+ 
+---------- llIHeroic: turn 12 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Smithy, Gold, Festival
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Village, Chapel, Silver
+llIHeroic - plays Village
+llIHeroic - draws Village
+llIHeroic - plays 2 Silver, 1 Gold
+llIHeroic - buys Festival
+llIHeroic - gains Festival
+llIHeroic - buys Gold
+llIHeroic - gains Gold
+llIHeroic - shuffles deck
+llIHeroic - draws Moat, Village, Festival, Smithy, Smithy
+ 
+---------- LESPEUTERE: turn 12 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Moat, Festival
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Smithy, Festival, Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Silver, Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Chapel
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 1 Gold, 1 Silver
+LESPEUTERE - buys Market
+LESPEUTERE - gains Market
+LESPEUTERE - buys Festival
+LESPEUTERE - gains Festival
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Festival, Festival, Festival, Smithy, Moat
+ 
+---------- llIHeroic: turn 13 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Silver, Silver, Gold
+llIHeroic - plays Village
+llIHeroic - draws Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Moat, Chapel, Festival
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Gold, Village
+llIHeroic - plays Festival
+llIHeroic - plays 2 Silver, 2 Gold
+llIHeroic - buys Festival
+llIHeroic - gains Festival
+llIHeroic - buys Festival
+llIHeroic - gains Festival
+llIHeroic - buys Laboratory
+llIHeroic - gains Laboratory
+llIHeroic - shuffles deck
+llIHeroic - draws Moat, Smithy, Festival, Festival, Silver
+ 
+---------- LESPEUTERE: turn 13 ----------
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Festival, Festival, Chapel
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Gold, Village
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Village
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays 1 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - draws Laboratory, Smithy, Village, Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Festival
+ 
+---------- llIHeroic: turn 14 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Festival, Village, Smithy
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Gold, Laboratory, Gold
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Festival, Chapel
+llIHeroic - plays Laboratory
+llIHeroic - draws Village, Moat
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Festival, Silver
+llIHeroic - plays Festival
+llIHeroic - plays Village
+llIHeroic - plays 2 Silver, 2 Gold
+llIHeroic - buys Province
+llIHeroic - gains Province
+llIHeroic - buys Province
+llIHeroic - gains Province
+llIHeroic - buys Village
+llIHeroic - gains Village
+llIHeroic - shuffles deck
+llIHeroic - draws Silver, Chapel, Moat, Village, Smithy
+ 
+---------- LESPEUTERE: turn 14 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moat
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Festival, Province, Gold
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Festival, Village
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moat
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Silver, Festival
+LESPEUTERE - plays Market
+LESPEUTERE - draws Village
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Smithy, Moat
+LESPEUTERE - plays Village
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Chapel
+LESPEUTERE - plays 1 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Village, Festival, Province, Village, Festival
+ 
+---------- llIHeroic: turn 15 ----------
+llIHeroic - plays Village
+llIHeroic - draws Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Festival, Festival, Gold
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Festival, Province
+llIHeroic - plays Festival
+llIHeroic - plays Festival
+llIHeroic - plays Festival
+llIHeroic - plays 1 Silver, 1 Gold
+llIHeroic - buys Duchy
+llIHeroic - gains Duchy
+llIHeroic - buys Duchy
+llIHeroic - gains Duchy
+llIHeroic - buys Estate
+llIHeroic - gains Estate
+llIHeroic - draws Smithy, Village, Silver, Gold, Village
+ 
+---------- LESPEUTERE: turn 15 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Market
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Market
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Festival, Chapel, Moat
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Festival, Silver
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Silver
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - draws Laboratory, Moat, Moat, Gold, Festival
+ 
+---------- llIHeroic: turn 16 ----------
+llIHeroic - plays Village
+llIHeroic - draws Province
+llIHeroic - plays Smithy
+llIHeroic - draws Laboratory, Festival, Moat
+llIHeroic - plays Village
+llIHeroic - shuffles deck
+llIHeroic - draws Province
+llIHeroic - plays Laboratory
+llIHeroic - draws Duchy, Festival
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Festival, Moat
+llIHeroic - plays Festival
+llIHeroic - plays Moat
+llIHeroic - draws Chapel, Duchy
+llIHeroic - plays Festival
+llIHeroic - plays 1 Silver, 1 Gold
+llIHeroic - buys Duchy
+llIHeroic - gains Duchy
+llIHeroic - buys Duchy
+llIHeroic - gains Duchy
+llIHeroic - draws Village, Festival, Silver, Smithy, Gold
+ 
+---------- LESPEUTERE: turn 16 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Province, Village
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Village
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays Smithy
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Chapel, Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Smithy, Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Moat, Silver
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Village, Village, Province
+LESPEUTERE - plays Village
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Village
+LESPEUTERE - draws Duchy
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Duchy, Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays 1 Gold, 1 Silver
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Laboratory, Gold, Moat, Silver
+ 
+---------- llIHeroic: turn 17 ----------
+llIHeroic - plays Festival
+llIHeroic - plays Smithy
+llIHeroic - draws Festival, Estate
+llIHeroic - shuffles deck
+llIHeroic - draws Silver
+llIHeroic - plays Village
+llIHeroic - draws Chapel
+llIHeroic - plays Festival
+llIHeroic - plays 2 Silver, 1 Gold
+llIHeroic - buys Gardens
+llIHeroic - gains Gardens
+llIHeroic - buys Gardens
+llIHeroic - gains Gardens
+llIHeroic - buys Estate
+llIHeroic - gains Estate
+llIHeroic - draws Village, Duchy, Village, Moat, Festival
+ 
+---------- LESPEUTERE: turn 17 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Duchy, Province
+LESPEUTERE - plays Market
+LESPEUTERE - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Smithy
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Chapel, Village, Smithy
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Smithy
+LESPEUTERE - draws Festival, Duchy, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Festival, Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays Festival
+LESPEUTERE - plays 1 Gold, 1 Silver
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - draws Moat, Moat, Laboratory, Duchy, Festival
+ 
+------------ Game Over ------------
+LESPEUTERE - cards: 5 Festival, 3 Moat, 3 Village, 2 Laboratory, 2 Smithy, 1 Market, 1 Chapel, 1 Gold, 1 Silver, 6 Estate, 4 Duchy, 3 Province
+LESPEUTERE - total victory points: 36
+LESPEUTERE - turns: 17
+ 
+llIHeroic - cards: 5 Festival, 3 Village, 2 Moat, 2 Smithy, 1 Chapel, 1 Laboratory, 2 Silver, 2 Gold, 4 Duchy, 2 Gardens, 2 Estate, 2 Province
+llIHeroic - total victory points: 30
+llIHeroic - turns: 17
+ 
+1st place: LESPEUTERE
+2nd place: llIHeroic
+ 

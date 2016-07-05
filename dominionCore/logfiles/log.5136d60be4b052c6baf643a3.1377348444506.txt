@@ -1,0 +1,385 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Moneylender, Remodel, Spy, Throne Room, Laboratory, Library, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Cuissedepoulet - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Cuissedepoulet - shuffles deck
+terminalCopper - shuffles deck
+Cuissedepoulet - draws Copper, Estate, Copper, Copper, Estate
+terminalCopper - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Cuissedepoulet: turn 1 ----------
+Cuissedepoulet - plays 3 Copper
+Cuissedepoulet - buys Silver
+Cuissedepoulet - gains Silver
+Cuissedepoulet - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Cuissedepoulet: turn 2 ----------
+Cuissedepoulet - plays 4 Copper
+Cuissedepoulet - buys Moneylender
+Cuissedepoulet - gains Moneylender
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Estate, Copper, Estate, Copper, Moneylender
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Moneylender
+terminalCopper - gains Moneylender
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Cuissedepoulet: turn 3 ----------
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 1 Copper
+Cuissedepoulet - buys Spy
+Cuissedepoulet - gains Spy
+Cuissedepoulet - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 3 Copper, 1 Silver
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - draws Estate, Moneylender, Copper, Copper, Copper
+ 
+---------- Cuissedepoulet: turn 4 ----------
+Cuissedepoulet - plays 4 Copper
+Cuissedepoulet - buys Spy
+Cuissedepoulet - gains Spy
+Cuissedepoulet - draws Silver, Copper
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Estate, Spy, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Copper
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - draws Estate, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Laboratory
+ 
+---------- Cuissedepoulet: turn 5 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - discards Estate
+terminalCopper - places Copper on top of deck
+Cuissedepoulet - plays 3 Copper, 1 Silver
+Cuissedepoulet - buys Laboratory
+Cuissedepoulet - gains Laboratory
+Cuissedepoulet - draws Spy, Moneylender, Copper, Estate, Copper
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Copper, Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Copper, Silver
+terminalCopper - plays 5 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Moneylender, Estate, Estate, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Laboratory
+ 
+---------- Cuissedepoulet: turn 6 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - places Spy on top of deck
+terminalCopper - discards Silver
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 2 Copper
+Cuissedepoulet - buys Laboratory
+Cuissedepoulet - gains Laboratory
+Cuissedepoulet - draws Spy, Estate, Silver, Estate, Copper
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Copper, Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Copper
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Copper
+terminalCopper - buys Laboratory
+terminalCopper - gains Laboratory
+terminalCopper - draws Copper, Copper, Copper, Gold
+terminalCopper - shuffles deck
+terminalCopper - draws Laboratory
+ 
+---------- Cuissedepoulet: turn 7 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - discards Copper
+terminalCopper - discards Silver
+Cuissedepoulet - plays 2 Copper, 1 Silver
+Cuissedepoulet - buys Remodel
+Cuissedepoulet - gains Remodel
+Cuissedepoulet - draws Laboratory
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Copper, Copper, Spy, Silver
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Copper
+terminalCopper - plays 4 Copper, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Moneylender, Estate, Estate, Copper, Laboratory
+ 
+---------- Cuissedepoulet: turn 8 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - discards Estate
+terminalCopper - discards Laboratory
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Moneylender, Laboratory
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Estate, Remodel
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 2 Copper, 1 Silver
+Cuissedepoulet - buys Gold
+Cuissedepoulet - gains Gold
+Cuissedepoulet - draws Spy, Estate, Copper, Copper
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Estate
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Copper
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Laboratory, Estate, Copper, Copper, Copper
+ 
+---------- Cuissedepoulet: turn 9 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Laboratory
+Cuissedepoulet - discards Copper
+terminalCopper - discards Gold
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Gold, Estate
+Cuissedepoulet - plays 2 Copper, 1 Gold
+Cuissedepoulet - buys Laboratory
+Cuissedepoulet - gains Laboratory
+Cuissedepoulet - draws Laboratory, Moneylender, Spy, Remodel, Copper
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Laboratory, Gold
+terminalCopper - plays Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Gold
+terminalCopper - plays 3 Copper, 2 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Silver, Laboratory, Gold, Estate
+ 
+---------- Cuissedepoulet: turn 10 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Silver
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - discards Copper
+terminalCopper - discards Moneylender
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Laboratory, Copper
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Spy, Copper
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Gold
+Cuissedepoulet - places Laboratory on top of deck
+terminalCopper - shuffles deck
+terminalCopper - discards Gold
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 2 Copper, 1 Silver, 1 Gold
+Cuissedepoulet - buys Province
+Cuissedepoulet - gains Province
+Cuissedepoulet - draws Laboratory, Estate, Estate, Estate
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Laboratory
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Copper
+terminalCopper - plays 2 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Remodel
+terminalCopper - gains Remodel
+terminalCopper - draws Copper, Laboratory, Copper, Province, Moneylender
+ 
+---------- Cuissedepoulet: turn 11 ----------
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Copper, Province
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Silver, Spy
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - discards Copper
+terminalCopper - discards Gold
+Cuissedepoulet - plays 2 Copper, 1 Silver
+Cuissedepoulet - buys Throne Room
+Cuissedepoulet - gains Throne Room
+Cuissedepoulet - draws Laboratory, Gold, Moneylender, Remodel, Spy
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays Laboratory
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Estate
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Copper, 1 Gold
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Gold, Silver, Gold, Laboratory, Laboratory
+ 
+---------- Cuissedepoulet: turn 12 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Silver
+Cuissedepoulet - places Spy on top of deck
+terminalCopper - places Estate on top of deck
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Spy, Estate
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Copper
+Cuissedepoulet - discards Copper
+terminalCopper - places Estate on top of deck
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 1 Gold, 1 Silver
+Cuissedepoulet - buys Province
+Cuissedepoulet - gains Province
+Cuissedepoulet - draws Estate, Province, Copper, Laboratory, Throne Room
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Copper
+terminalCopper - plays Laboratory
+terminalCopper - draws Remodel, Estate
+terminalCopper - plays Remodel
+terminalCopper - trashes Gold
+terminalCopper - gains Province
+terminalCopper - plays 1 Gold, 1 Silver, 1 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Gold, Remodel, Laboratory, Laboratory
+ 
+---------- Cuissedepoulet: turn 13 ----------
+Cuissedepoulet - plays Throne Room
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Laboratory, Estate
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Gold, Copper
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Estate, Spy
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Moneylender
+Cuissedepoulet - places Laboratory on top of deck
+terminalCopper - discards Gold
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays 1 Copper, 1 Gold
+Cuissedepoulet - buys Gold
+Cuissedepoulet - gains Gold
+Cuissedepoulet - draws Laboratory, Silver, Remodel, Spy, Province
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Copper, Gold
+terminalCopper - plays Laboratory
+terminalCopper - draws Province, Estate
+terminalCopper - plays Remodel
+terminalCopper - trashes Province
+terminalCopper - gains Province
+terminalCopper - plays 2 Copper, 2 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Estate, Province, Silver, Laboratory, Copper
+ 
+---------- Cuissedepoulet: turn 14 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - draws Province
+Cuissedepoulet - discards Estate
+terminalCopper - places Estate on top of deck
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Gold, Laboratory
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Estate, Throne Room
+Cuissedepoulet - plays Throne Room
+Cuissedepoulet - plays Remodel
+Cuissedepoulet - trashes Gold
+Cuissedepoulet - gains Province
+Cuissedepoulet - plays Remodel
+Cuissedepoulet - trashes Silver
+Cuissedepoulet - gains Duchy
+Cuissedepoulet - draws Laboratory, Estate, Spy, Copper, Gold
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Estate, Duchy
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Moneylender
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Province, Laboratory, Silver
+ 
+---------- Cuissedepoulet: turn 15 ----------
+Cuissedepoulet - plays Spy
+Cuissedepoulet - draws Moneylender
+Cuissedepoulet - shuffles deck
+Cuissedepoulet - discards Estate
+terminalCopper - discards Gold
+Cuissedepoulet - plays Laboratory
+Cuissedepoulet - draws Throne Room, Province
+Cuissedepoulet - plays Throne Room
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - trashes Copper
+Cuissedepoulet - plays Moneylender
+Cuissedepoulet - plays 1 Gold
+Cuissedepoulet - buys Duchy
+Cuissedepoulet - gains Duchy
+Cuissedepoulet - draws Province, Estate, Remodel, Province, Duchy
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Laboratory
+terminalCopper - draws Gold, Laboratory
+terminalCopper - plays Laboratory
+terminalCopper - draws Copper, Province
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 1 Silver, 1 Gold, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Province, Copper, Laboratory, Remodel, Estate
+ 
+------------ Game Over ------------
+terminalCopper - cards: 3 Laboratory, 1 Remodel, 1 Moneylender, 3 Gold, 2 Copper, 1 Silver, 4 Province, 4 Estate, 1 Duchy
+terminalCopper - total victory points: 31
+terminalCopper - turns: 15
+ 
+Cuissedepoulet - cards: 3 Laboratory, 2 Spy, 1 Remodel, 1 Throne Room, 1 Moneylender, 1 Gold, 3 Province, 3 Estate, 2 Duchy
+Cuissedepoulet - total victory points: 27
+Cuissedepoulet - turns: 15
+ 
+1st place: terminalCopper
+2nd place: Cuissedepoulet
+ 

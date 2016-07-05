@@ -1,0 +1,508 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Village, Workshop, Remodel, Smithy, Spy, Council Room, Laboratory, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+Finz - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Finz - shuffles deck
+Java Sparrow - shuffles deck
+Finz - draws Estate, Copper, Copper, Copper, Copper
+Java Sparrow - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Finz: turn 1 ----------
+Finz - plays 4 Copper
+Finz - buys Smithy
+Finz - gains Smithy
+Finz - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Finz: turn 2 ----------
+Finz - plays 3 Copper
+Finz - buys Village
+Finz - gains Village
+Finz - shuffles deck
+Finz - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Silver, Estate, Estate, Copper
+ 
+---------- Finz: turn 3 ----------
+Finz - plays 3 Copper
+Finz - buys Village
+Finz - gains Village
+Finz - draws Village, Smithy, Copper, Copper, Estate
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Witch
+Java Sparrow - gains Witch
+Java Sparrow - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Finz: turn 4 ----------
+Finz - plays Village
+Finz - draws Copper
+Finz - plays Smithy
+Finz - draws Copper
+Finz - shuffles deck
+Finz - draws Village, Estate
+Finz - plays Village
+Finz - draws Estate
+Finz - plays 4 Copper
+Finz - buys Smithy
+Finz - gains Smithy
+Finz - draws Copper, Copper, Copper
+Finz - shuffles deck
+Finz - draws Copper, Copper
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Witch, Silver
+ 
+---------- Finz: turn 5 ----------
+Finz - plays 5 Copper
+Finz - buys Witch
+Finz - gains Witch
+Finz - draws Copper, Copper, Estate, Smithy, Smithy
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Copper
+Finz - gains Curse
+Java Sparrow - plays 4 Copper, 2 Silver
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Finz: turn 6 ----------
+Finz - plays Smithy
+Finz - draws Estate, Village, Village
+Finz - plays 2 Copper
+Finz - draws Estate
+Finz - shuffles deck
+Finz - draws Village, Copper, Smithy, Copper
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - draws Silver, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Gold, Copper, Witch
+ 
+---------- Finz: turn 7 ----------
+Finz - plays Village
+Finz - draws Curse
+Finz - plays Smithy
+Finz - draws Village, Copper, Copper
+Finz - plays Village
+Finz - draws Copper
+Finz - plays 5 Copper
+Finz - buys Laboratory
+Finz - gains Laboratory
+Finz - draws Estate, Copper, Smithy, Estate, Witch
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Silver, Estate
+Finz - gains Curse
+Java Sparrow - plays 2 Silver, 2 Copper, 1 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Finz: turn 8 ----------
+Finz - plays Witch
+Finz - draws Copper
+Finz - shuffles deck
+Finz - draws Curse
+Java Sparrow - gains Curse
+Finz - plays 2 Copper
+Finz - draws Curse, Village, Copper, Copper, Village
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Estate, Copper, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Silver
+ 
+---------- Finz: turn 9 ----------
+Finz - plays Village
+Finz - draws Copper
+Finz - plays Village
+Finz - draws Smithy
+Finz - plays Smithy
+Finz - draws Copper, Copper, Estate
+Finz - plays 5 Copper
+Finz - buys Laboratory
+Finz - gains Laboratory
+Finz - draws Laboratory
+Finz - shuffles deck
+Finz - draws Smithy, Curse, Copper, Copper
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays 2 Copper, 2 Silver
+Java Sparrow - buys Witch
+Java Sparrow - gains Witch
+Java Sparrow - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- Finz: turn 10 ----------
+Finz - plays Laboratory
+Finz - draws Village, Copper
+Finz - plays Village
+Finz - draws Copper
+Finz - plays Smithy
+Finz - draws Curse, Copper, Estate
+Finz - plays 5 Copper
+Finz - buys Mine
+Finz - gains Mine
+Finz - draws Copper, Smithy, Witch, Copper, Village
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays 2 Silver, 2 Copper
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Gold, Estate, Witch, Copper, Copper
+ 
+---------- Finz: turn 11 ----------
+Finz - plays Village
+Finz - draws Estate
+Finz - plays Smithy
+Finz - draws Laboratory, Estate
+Finz - shuffles deck
+Finz - draws Copper
+Finz - plays Laboratory
+Finz - draws Curse, Copper
+Finz - plays Witch
+Finz - draws Copper, Village
+Java Sparrow - gains Curse
+Finz - plays 5 Copper
+Finz - buys Laboratory
+Finz - gains Laboratory
+Finz - draws Smithy, Estate, Copper, Curse, Mine
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Province
+Finz - gains Curse
+Java Sparrow - plays 3 Copper, 1 Gold
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Curse
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Silver, Estate, Province
+ 
+---------- Finz: turn 12 ----------
+Finz - plays Mine
+Finz - trashes Copper
+Finz - gains Silver
+Finz - plays 1 Silver
+Finz - draws Copper, Laboratory
+Finz - shuffles deck
+Finz - draws Village, Laboratory, Copper
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays 2 Silver
+Java Sparrow - buys Remodel
+Java Sparrow - gains Remodel
+Java Sparrow - draws Estate, Copper, Witch, Copper, Silver
+ 
+---------- Finz: turn 13 ----------
+Finz - plays Village
+Finz - draws Smithy
+Finz - plays Laboratory
+Finz - draws Estate, Copper
+Finz - plays Laboratory
+Finz - draws Copper, Smithy
+Finz - plays Smithy
+Finz - draws Estate, Curse, Copper
+Finz - plays Smithy
+Finz - draws Curse, Curse, Copper
+Finz - plays 6 Copper
+Finz - buys Gold
+Finz - gains Gold
+Finz - draws Laboratory, Silver, Village, Mine, Witch
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Gold
+Finz - gains Curse
+Java Sparrow - plays 3 Copper, 1 Silver, 1 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Gold, Curse, Copper, Copper, Witch
+ 
+---------- Finz: turn 14 ----------
+Finz - plays Village
+Finz - draws Estate
+Finz - plays Laboratory
+Finz - shuffles deck
+Finz - draws Estate, Copper
+Finz - plays Witch
+Finz - draws Estate, Copper
+Java Sparrow - gains Curse
+Finz - plays Mine
+Finz - trashes Copper
+Finz - gains Silver
+Finz - plays 2 Silver, 1 Copper
+Finz - buys Laboratory
+Finz - gains Laboratory
+Finz - draws Copper, Curse, Smithy, Copper, Copper
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Gold, Estate
+Finz - gains Curse
+Java Sparrow - plays 2 Gold, 2 Copper
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Copper, Copper, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Estate, Witch
+ 
+---------- Finz: turn 15 ----------
+Finz - plays Smithy
+Finz - draws Copper, Curse, Smithy
+Finz - plays 4 Copper
+Finz - buys Silver
+Finz - gains Silver
+Finz - draws Curse, Laboratory, Village, Curse, Laboratory
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Curse, Gold
+Finz - gains Curse
+Java Sparrow - plays 2 Copper, 1 Silver, 1 Gold
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Province, Copper, Gold, Curse, Copper
+ 
+---------- Finz: turn 16 ----------
+Finz - plays Village
+Finz - draws Gold
+Finz - plays Laboratory
+Finz - shuffles deck
+Finz - draws Curse, Copper
+Finz - plays Laboratory
+Finz - draws Copper, Silver
+Finz - plays 2 Copper, 1 Gold, 1 Silver
+Finz - buys Gold
+Finz - gains Gold
+Finz - draws Village, Estate, Estate, Copper, Curse
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - plays 2 Copper, 1 Gold
+Java Sparrow - buys Council Room
+Java Sparrow - gains Council Room
+Java Sparrow - draws Silver, Copper, Estate, Province, Province
+ 
+---------- Finz: turn 17 ----------
+Finz - plays Village
+Finz - draws Laboratory
+Finz - plays Laboratory
+Finz - draws Smithy, Copper
+Finz - plays Smithy
+Finz - draws Witch, Estate, Laboratory
+Finz - plays Laboratory
+Finz - draws Copper, Mine
+Finz - plays Witch
+Finz - draws Smithy, Silver
+Java Sparrow - gains Curse
+Finz - plays 3 Copper, 1 Silver
+Finz - buys Laboratory
+Finz - gains Laboratory
+Finz - draws Curse, Silver, Curse
+Finz - shuffles deck
+Finz - draws Smithy, Witch
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Copper, Witch, Estate, Curse, Silver
+ 
+---------- Finz: turn 18 ----------
+Finz - plays Smithy
+Finz - draws Laboratory, Laboratory, Silver
+Finz - plays 2 Silver
+Finz - buys Village
+Finz - gains Village
+Finz - draws Estate, Silver, Gold, Village, Copper
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Copper, Gold
+Java Sparrow - plays 2 Copper, 1 Silver, 1 Gold
+Java Sparrow - buys Gold
+Java Sparrow - gains Gold
+Java Sparrow - draws Remodel, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Witch, Province
+ 
+---------- Finz: turn 19 ----------
+Finz - plays Village
+Finz - draws Laboratory
+Finz - plays Laboratory
+Finz - draws Copper, Laboratory
+Finz - plays Laboratory
+Finz - draws Estate, Copper
+Finz - plays 3 Copper, 1 Silver, 1 Gold
+Finz - buys Province
+Finz - gains Province
+Finz - draws Copper, Curse, Curse, Curse, Mine
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Province, Copper
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Gold, Silver, Gold, Province, Estate
+ 
+---------- Finz: turn 20 ----------
+Finz - plays Mine
+Finz - trashes Copper
+Finz - gains Silver
+Finz - plays 1 Silver
+Finz - draws Laboratory, Gold, Village, Smithy, Copper
+ 
+---------- Java Sparrow: turn 20 ----------
+Java Sparrow - plays 2 Gold, 1 Silver
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Gold, Copper, Copper, Estate, Gold
+ 
+---------- Finz: turn 21 ----------
+Finz - plays Village
+Finz - draws Estate
+Finz - plays Laboratory
+Finz - draws Curse
+Finz - shuffles deck
+Finz - draws Copper
+Finz - plays Smithy
+Finz - draws Village, Silver, Silver
+Finz - plays Village
+Finz - draws Laboratory
+Finz - plays Laboratory
+Finz - draws Silver, Laboratory
+Finz - plays Laboratory
+Finz - draws Province, Curse
+Finz - plays 3 Silver, 2 Copper, 1 Gold
+Finz - buys Province
+Finz - gains Province
+Finz - draws Witch, Estate, Laboratory, Curse, Estate
+ 
+---------- Java Sparrow: turn 21 ----------
+Java Sparrow - plays 2 Gold, 2 Copper
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Curse, Silver, Gold, Curse, Estate
+ 
+---------- Finz: turn 22 ----------
+Finz - plays Laboratory
+Finz - draws Curse, Copper
+Finz - plays Witch
+Finz - draws Curse, Gold
+Finz - plays 1 Copper, 1 Gold
+Finz - buys Remodel
+Finz - gains Remodel
+Finz - draws Silver, Mine, Curse, Smithy, Laboratory
+ 
+---------- Java Sparrow: turn 22 ----------
+Java Sparrow - plays 1 Silver, 1 Gold
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Copper, Witch, Copper, Council Room, Curse
+ 
+---------- Finz: turn 23 ----------
+Finz - plays Laboratory
+Finz - draws Village, Copper
+Finz - plays Village
+Finz - shuffles deck
+Finz - draws Smithy
+Finz - plays Smithy
+Finz - draws Village, Village, Gold
+Finz - plays Village
+Finz - draws Copper
+Finz - plays Smithy
+Finz - draws Laboratory, Silver, Silver
+Finz - plays Laboratory
+Finz - draws Copper, Laboratory
+Finz - plays Village
+Finz - draws Laboratory
+Finz - plays Laboratory
+Finz - draws Gold, Estate
+Finz - plays Laboratory
+Finz - draws Curse, Curse
+Finz - plays Mine
+Finz - trashes Silver
+Finz - gains Gold
+Finz - plays 3 Copper, 3 Gold, 2 Silver
+Finz - buys Duchy
+Finz - gains Duchy
+Finz - draws Curse, Copper, Witch, Province, Curse
+ 
+---------- Java Sparrow: turn 23 ----------
+Java Sparrow - plays Council Room
+Java Sparrow - draws Curse, Silver, Copper, Copper
+Finz - draws Remodel
+Java Sparrow - plays 4 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - shuffles deck
+Java Sparrow - draws Witch, Duchy, Curse, Duchy, Duchy
+ 
+---------- Finz: turn 24 ----------
+Finz - plays Witch
+Finz - draws Curse, Estate
+Finz - plays 1 Copper
+Finz - draws Province, Estate, Silver, Laboratory
+Finz - shuffles deck
+Finz - draws Estate
+ 
+---------- Java Sparrow: turn 24 ----------
+Java Sparrow - plays Witch
+Java Sparrow - draws Council Room, Gold
+Java Sparrow - plays 1 Gold
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - draws Gold, Province, Curse, Gold, Gold
+ 
+---------- Finz: turn 25 ----------
+Finz - plays Laboratory
+Finz - draws Mine, Witch
+Finz - plays Witch
+Finz - draws Duchy, Laboratory
+Finz - plays 1 Silver
+Finz - buys Estate
+Finz - gains Estate
+Finz - draws Province, Estate, Village, Curse, Remodel
+ 
+---------- Java Sparrow: turn 25 ----------
+Java Sparrow - plays 3 Gold
+Java Sparrow - buys Province
+Java Sparrow - gains Province
+Java Sparrow - draws Copper, Silver, Copper, Copper, Copper
+ 
+------------ Game Over ------------
+Java Sparrow - cards: 2 Witch, 1 Council Room, 1 Remodel, 7 Copper, 6 Silver, 5 Gold, 6 Province, 3 Duchy, 3 Estate, 4 Curse
+Java Sparrow - total victory points: 44
+Java Sparrow - turns: 25
+ 
+Finz - cards: 5 Laboratory, 3 Village, 2 Smithy, 1 Remodel, 1 Witch, 1 Mine, 4 Copper, 3 Silver, 3 Gold, 4 Estate, 2 Province, 1 Duchy, 6 Curse
+Finz - total victory points: 13
+Finz - turns: 25
+ 
+1st place: Java Sparrow
+2nd place: Finz
+ 

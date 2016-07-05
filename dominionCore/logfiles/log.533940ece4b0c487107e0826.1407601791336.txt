@@ -1,0 +1,600 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Workshop, Bureaucrat, Feast, Gardens, Moneylender, Spy, Thief, Festival, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+YOSHIBALL - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Java Sparrow - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+YOSHIBALL - shuffles deck
+Java Sparrow - shuffles deck
+YOSHIBALL - draws Copper, Copper, Copper, Copper, Copper
+Java Sparrow - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Java Sparrow: turn 1 ----------
+Java Sparrow - plays 4 Copper
+Java Sparrow - buys Bureaucrat
+Java Sparrow - gains Bureaucrat
+Java Sparrow - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- YOSHIBALL: turn 1 ----------
+YOSHIBALL - plays 5 Copper
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Java Sparrow: turn 2 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Silver
+Java Sparrow - gains Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper, Bureaucrat, Estate, Copper
+ 
+---------- YOSHIBALL: turn 2 ----------
+YOSHIBALL - plays 2 Copper
+YOSHIBALL - buys Cellar
+YOSHIBALL - gains Cellar
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Cellar, Estate, Estate, Copper
+ 
+---------- Java Sparrow: turn 3 ----------
+Java Sparrow - plays Bureaucrat
+Java Sparrow - gains Silver
+YOSHIBALL - reveals Estate
+YOSHIBALL - places Estate on top of deck
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Workshop
+Java Sparrow - gains Workshop
+Java Sparrow - draws Silver, Copper, Silver, Copper, Estate
+ 
+---------- YOSHIBALL: turn 3 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Estate, Copper, Copper
+YOSHIBALL - plays 2 Copper
+YOSHIBALL - buys Cellar
+YOSHIBALL - gains Cellar
+YOSHIBALL - draws Estate, Copper, Copper, Copper, Market
+ 
+---------- Java Sparrow: turn 4 ----------
+Java Sparrow - plays Silver
+Java Sparrow - plays Copper
+Java Sparrow - plays Silver
+Java Sparrow - buys Festival
+Java Sparrow - gains Festival
+Java Sparrow - draws Copper, Estate, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Festival, Copper
+ 
+---------- YOSHIBALL: turn 4 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Estate
+YOSHIBALL - plays 3 Copper
+YOSHIBALL - buys Moneylender
+YOSHIBALL - gains Moneylender
+YOSHIBALL - draws Copper, Copper, Cellar, Copper, Cellar
+ 
+---------- Java Sparrow: turn 5 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Market
+Java Sparrow - gains Market
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Estate, Copper, Copper, Silver, Silver
+ 
+---------- YOSHIBALL: turn 5 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Copper, Estate
+YOSHIBALL - plays 3 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Market, Copper, Silver, Cellar
+ 
+---------- Java Sparrow: turn 6 ----------
+Java Sparrow - plays 2 Copper, 2 Silver
+Java Sparrow - buys Market
+Java Sparrow - gains Market
+Java Sparrow - draws Estate, Workshop, Copper, Bureaucrat, Copper
+ 
+---------- YOSHIBALL: turn 6 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Copper, Estate, Copper
+YOSHIBALL - plays 2 Copper, 1 Silver
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Copper, Cellar, Estate, Moneylender, Copper
+ 
+---------- Java Sparrow: turn 7 ----------
+Java Sparrow - plays Bureaucrat
+Java Sparrow - gains Silver
+YOSHIBALL - reveals Estate
+YOSHIBALL - places Estate on top of deck
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Cellar
+Java Sparrow - gains Cellar
+Java Sparrow - draws Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper, Copper, Estate, Copper
+ 
+---------- YOSHIBALL: turn 7 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Estate, Estate
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Estate, Cellar, Copper, Market, Estate
+ 
+---------- Java Sparrow: turn 8 ----------
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - draws Copper, Cellar, Festival, Estate, Silver
+ 
+---------- YOSHIBALL: turn 8 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Copper, Moneylender, Estate, Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Moneylender
+YOSHIBALL - trashes Copper
+YOSHIBALL - plays 1 Copper
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Copper, Silver, Copper, Market, Copper
+ 
+---------- Java Sparrow: turn 9 ----------
+Java Sparrow - plays Cellar
+Java Sparrow - discards Estate
+Java Sparrow - discards Copper
+Java Sparrow - draws Copper, Market
+Java Sparrow - plays Market
+Java Sparrow - draws Bureaucrat
+Java Sparrow - plays Festival
+Java Sparrow - plays Bureaucrat
+Java Sparrow - gains Silver
+YOSHIBALL - reveals Copper, Silver, Copper, Market, Copper
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Cellar
+Java Sparrow - gains Cellar
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver, Copper, Estate, Market, Workshop
+ 
+---------- YOSHIBALL: turn 9 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Moneylender, Cellar, Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Moneylender
+YOSHIBALL - trashes Copper
+YOSHIBALL - plays 1 Silver
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - buys Cellar
+YOSHIBALL - gains Cellar
+YOSHIBALL - draws Estate, Estate, Copper, Market, Estate
+ 
+---------- Java Sparrow: turn 10 ----------
+Java Sparrow - plays Market
+Java Sparrow - draws Silver
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Cellar
+Java Sparrow - gains Cellar
+Java Sparrow - draws Copper, Copper
+Java Sparrow - shuffles deck
+Java Sparrow - draws Silver, Silver, Copper
+ 
+---------- YOSHIBALL: turn 10 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays 2 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Estate, Market, Moneylender, Copper, Market
+ 
+---------- Java Sparrow: turn 11 ----------
+Java Sparrow - plays Silver
+Java Sparrow - plays Silver
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - draws Market, Copper, Silver, Cellar, Bureaucrat
+ 
+---------- YOSHIBALL: turn 11 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Estate, Silver
+YOSHIBALL - plays Moneylender
+YOSHIBALL - trashes Copper
+YOSHIBALL - plays 1 Silver
+YOSHIBALL - buys Gold
+YOSHIBALL - gains Gold
+YOSHIBALL - draws Estate, Cellar, Market, Cellar, Copper
+ 
+---------- Java Sparrow: turn 12 ----------
+Java Sparrow - plays Market
+Java Sparrow - draws Estate
+Java Sparrow - plays Cellar
+Java Sparrow - discards Copper
+Java Sparrow - discards Estate
+Java Sparrow - draws Copper, Gardens
+Java Sparrow - plays Bureaucrat
+Java Sparrow - gains Silver
+YOSHIBALL - reveals Estate
+YOSHIBALL - places Estate on top of deck
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver, Workshop, Copper, Cellar, Gardens
+ 
+---------- YOSHIBALL: turn 12 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Estate
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Cellar
+YOSHIBALL - draws Copper, Copper, Silver
+YOSHIBALL - plays 2 Copper, 1 Silver
+YOSHIBALL - buys Market
+YOSHIBALL - gains Market
+YOSHIBALL - draws Market
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Market, Cellar, Estate, Gold
+ 
+---------- Java Sparrow: turn 13 ----------
+Java Sparrow - plays Cellar
+Java Sparrow - discards Copper
+Java Sparrow - discards Gardens
+Java Sparrow - draws Cellar, Gardens
+Java Sparrow - plays Cellar
+Java Sparrow - discards Gardens
+Java Sparrow - draws Festival
+Java Sparrow - plays Festival
+Java Sparrow - plays Workshop
+Java Sparrow - gains Gardens
+Java Sparrow - plays 1 Silver
+Java Sparrow - buys Gardens
+Java Sparrow - gains Gardens
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Estate, Silver, Gardens, Market, Copper
+ 
+---------- YOSHIBALL: turn 13 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Moneylender
+YOSHIBALL - plays Market
+YOSHIBALL - draws Estate
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Estate
+YOSHIBALL - draws Copper, Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Moneylender
+YOSHIBALL - trashes Copper
+YOSHIBALL - plays 1 Gold
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Silver, Market, Estate, Copper, Silver
+ 
+---------- Java Sparrow: turn 14 ----------
+Java Sparrow - plays Market
+Java Sparrow - draws Copper
+Java Sparrow - plays 2 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Estate
+Java Sparrow - shuffles deck
+Java Sparrow - draws Cellar, Copper, Gardens
+ 
+---------- YOSHIBALL: turn 14 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Market, Copper
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays 2 Silver, 2 Copper
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Cellar, Province, Estate, Silver, Market
+ 
+---------- Java Sparrow: turn 15 ----------
+Java Sparrow - plays Cellar
+Java Sparrow - discards Copper
+Java Sparrow - discards Estate
+Java Sparrow - discards Copper
+Java Sparrow - discards Gardens
+Java Sparrow - draws Copper, Silver, Copper, Copper
+Java Sparrow - plays 3 Copper, 1 Silver
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Gardens, Duchy, Copper, Gardens, Estate
+ 
+---------- YOSHIBALL: turn 15 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Province
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Gold, Estate, Silver
+YOSHIBALL - plays 2 Silver, 1 Gold
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Cellar, Copper, Moneylender, Estate, Market
+ 
+---------- Java Sparrow: turn 16 ----------
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Gardens, Gardens, Silver, Silver, Copper
+ 
+---------- YOSHIBALL: turn 16 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Estate
+YOSHIBALL - draws Province, Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Province
+YOSHIBALL - draws Market
+YOSHIBALL - plays Market
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Silver
+YOSHIBALL - plays Moneylender
+YOSHIBALL - trashes Copper
+YOSHIBALL - plays 1 Silver
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Province, Market, Province, Copper, Estate
+ 
+---------- Java Sparrow: turn 17 ----------
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Cellar, Gardens, Copper, Market, Gardens
+ 
+---------- YOSHIBALL: turn 17 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Estate
+YOSHIBALL - plays 1 Copper
+YOSHIBALL - buys Cellar
+YOSHIBALL - gains Cellar
+YOSHIBALL - draws Cellar, Copper, Gold, Estate, Province
+ 
+---------- Java Sparrow: turn 18 ----------
+Java Sparrow - plays Market
+Java Sparrow - draws Copper
+Java Sparrow - plays Cellar
+Java Sparrow - discards Gardens
+Java Sparrow - discards Copper
+Java Sparrow - discards Gardens
+Java Sparrow - discards Copper
+Java Sparrow - draws Copper, Gardens, Cellar, Copper
+Java Sparrow - plays Cellar
+Java Sparrow - discards Copper
+Java Sparrow - discards Gardens
+Java Sparrow - discards Copper
+Java Sparrow - draws Market, Silver, Estate
+Java Sparrow - plays Market
+Java Sparrow - draws Copper
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Bureaucrat, Workshop, Festival, Silver
+Java Sparrow - shuffles deck
+Java Sparrow - draws Copper
+ 
+---------- YOSHIBALL: turn 18 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Gold
+YOSHIBALL - draws Silver
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper
+YOSHIBALL - plays 1 Silver, 1 Copper
+YOSHIBALL - buys Silver
+YOSHIBALL - gains Silver
+YOSHIBALL - draws Province, Estate, Province, Silver, Moneylender
+ 
+---------- Java Sparrow: turn 19 ----------
+Java Sparrow - plays Festival
+Java Sparrow - plays Bureaucrat
+Java Sparrow - gains Silver
+YOSHIBALL - reveals Estate
+YOSHIBALL - places Estate on top of deck
+Java Sparrow - plays Workshop
+Java Sparrow - gains Cellar
+Java Sparrow - plays 1 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Silver, Gardens, Silver, Gardens, Cellar
+ 
+---------- YOSHIBALL: turn 19 ----------
+YOSHIBALL - plays 1 Silver
+YOSHIBALL - buys Estate
+YOSHIBALL - gains Estate
+YOSHIBALL - draws Estate, Estate, Cellar, Cellar, Market
+ 
+---------- Java Sparrow: turn 20 ----------
+Java Sparrow - plays Cellar
+Java Sparrow - discards Gardens
+Java Sparrow - discards Gardens
+Java Sparrow - draws Copper, Market
+Java Sparrow - plays Market
+Java Sparrow - draws Gardens
+Java Sparrow - plays 2 Silver, 1 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Duchy, Copper, Copper, Copper, Estate
+ 
+---------- YOSHIBALL: turn 20 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Gold
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Cellar
+YOSHIBALL - draws Market, Market, Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Copper
+YOSHIBALL - plays Market
+YOSHIBALL - draws Province
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Province
+YOSHIBALL - draws Market
+YOSHIBALL - plays 1 Gold, 1 Copper
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Estate, Province, Silver, Estate, Cellar
+ 
+---------- Java Sparrow: turn 21 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Estate
+Java Sparrow - gains Estate
+Java Sparrow - draws Duchy, Silver, Silver, Copper, Copper
+ 
+---------- YOSHIBALL: turn 21 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Province
+YOSHIBALL - discards Estate
+YOSHIBALL - draws Estate, Market, Copper
+YOSHIBALL - plays Market
+YOSHIBALL - draws Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Cellar
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Estate
+YOSHIBALL - discards Copper
+YOSHIBALL - draws Market, Province
+YOSHIBALL - plays Market
+YOSHIBALL - draws Estate
+YOSHIBALL - plays 1 Silver
+YOSHIBALL - buys Duchy
+YOSHIBALL - gains Duchy
+YOSHIBALL - draws Province, Gold, Market, Cellar, Silver
+ 
+---------- Java Sparrow: turn 22 ----------
+Java Sparrow - plays 2 Silver, 2 Copper
+Java Sparrow - buys Duchy
+Java Sparrow - gains Duchy
+Java Sparrow - draws Gardens, Copper, Copper, Gardens, Copper
+ 
+---------- YOSHIBALL: turn 22 ----------
+YOSHIBALL - plays Market
+YOSHIBALL - draws Moneylender
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Moneylender
+YOSHIBALL - discards Province
+YOSHIBALL - draws Province, Market
+YOSHIBALL - plays Market
+YOSHIBALL - draws Silver
+YOSHIBALL - plays 2 Silver, 1 Gold
+YOSHIBALL - buys Province
+YOSHIBALL - gains Province
+YOSHIBALL - draws Cellar, Province, Copper
+YOSHIBALL - shuffles deck
+YOSHIBALL - draws Copper, Province
+ 
+---------- Java Sparrow: turn 23 ----------
+Java Sparrow - plays 3 Copper
+Java Sparrow - buys Cellar
+Java Sparrow - gains Cellar
+Java Sparrow - draws Estate, Estate, Copper, Copper, Market
+ 
+---------- YOSHIBALL: turn 23 ----------
+YOSHIBALL - plays Cellar
+YOSHIBALL - discards Province
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Copper
+YOSHIBALL - discards Province
+YOSHIBALL - draws Estate, Market, Estate, Moneylender
+YOSHIBALL - plays Market
+YOSHIBALL - draws Gold
+YOSHIBALL - plays 1 Gold
+YOSHIBALL - buys Estate
+YOSHIBALL - gains Estate
+YOSHIBALL - buys Estate
+YOSHIBALL - gains Estate
+YOSHIBALL - draws Cellar, Duchy, Province, Estate, Silver
+ 
+---------- Java Sparrow: turn 24 ----------
+Java Sparrow - plays Market
+Java Sparrow - draws Duchy
+Java Sparrow - plays 2 Copper
+Java Sparrow - buys Cellar
+Java Sparrow - gains Cellar
+Java Sparrow - buys Copper
+Java Sparrow - gains Copper
+Java Sparrow - draws Copper, Copper, Gardens, Gardens, Cellar
+ 
+------------ Game Over ------------
+Java Sparrow - cards: 6 Cellar, 2 Market, 18 Copper, 1 Festival, 1 Bureaucrat, 1 Workshop, 6 Silver, 8 Gardens, 7 Duchy, 4 Estate
+Java Sparrow - total victory points: 65
+Java Sparrow - turns: 24
+ 
+YOSHIBALL - cards: 5 Market, 4 Cellar, 1 Moneylender, 3 Silver, 2 Copper, 1 Gold, 6 Province, 6 Estate, 1 Duchy
+YOSHIBALL - total victory points: 45
+YOSHIBALL - turns: 23
+ 
+1st place: Java Sparrow
+2nd place: YOSHIBALL
+ 

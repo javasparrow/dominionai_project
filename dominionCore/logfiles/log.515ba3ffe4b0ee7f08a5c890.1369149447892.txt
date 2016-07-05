@@ -1,0 +1,606 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Feast, Gardens, Militia, Moneylender, Smithy, Council Room, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+addicted - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LESPEUTERE - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+addicted - shuffles deck
+LESPEUTERE - shuffles deck
+addicted - draws Copper, Copper, Estate, Copper, Estate
+LESPEUTERE - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- addicted: turn 1 ----------
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- LESPEUTERE: turn 1 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Silver
+LESPEUTERE - gains Silver
+LESPEUTERE - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- addicted: turn 2 ----------
+addicted - plays 4 Copper
+addicted - buys Militia
+addicted - gains Militia
+addicted - shuffles deck
+addicted - draws Estate, Copper, Estate, Militia, Copper
+ 
+---------- LESPEUTERE: turn 2 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Moneylender
+LESPEUTERE - gains Moneylender
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- addicted: turn 3 ----------
+addicted - plays Militia
+LESPEUTERE - discards Copper
+LESPEUTERE - discards Estate
+addicted - plays 2 Copper
+addicted - buys Smithy
+addicted - gains Smithy
+addicted - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- LESPEUTERE: turn 3 ----------
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- addicted: turn 4 ----------
+addicted - plays 3 Copper, 1 Silver
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Copper, Copper
+addicted - shuffles deck
+addicted - draws Copper, Estate, Copper
+ 
+---------- LESPEUTERE: turn 4 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Copper, Moneylender
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Copper, Copper
+ 
+---------- addicted: turn 5 ----------
+addicted - plays 4 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - draws Copper, Militia, Silver, Estate, Copper
+ 
+---------- LESPEUTERE: turn 5 ----------
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 2 Copper
+LESPEUTERE - buys Council Room
+LESPEUTERE - gains Council Room
+LESPEUTERE - draws Copper, Copper, Estate, Copper, Village
+ 
+---------- addicted: turn 6 ----------
+addicted - plays Militia
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Copper
+addicted - plays 2 Copper, 1 Silver
+addicted - buys Gold
+addicted - gains Gold
+addicted - draws Estate, Laboratory, Copper, Smithy
+addicted - shuffles deck
+addicted - draws Copper
+ 
+---------- LESPEUTERE: turn 6 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Silver, Estate, Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Estate
+ 
+---------- addicted: turn 7 ----------
+addicted - plays Laboratory
+addicted - draws Estate, Militia
+addicted - plays Militia
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+addicted - plays 2 Copper
+addicted - buys Village
+addicted - gains Village
+addicted - draws Village, Copper, Copper, Gold, Copper
+ 
+---------- LESPEUTERE: turn 7 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Militia
+LESPEUTERE - gains Militia
+LESPEUTERE - draws Village, Copper, Copper, Copper, Moneylender
+ 
+---------- addicted: turn 8 ----------
+addicted - plays Village
+addicted - draws Copper
+addicted - plays 4 Copper, 1 Gold
+addicted - buys Council Room
+addicted - gains Council Room
+addicted - draws Copper, Silver, Estate
+addicted - shuffles deck
+addicted - draws Copper, Copper
+ 
+---------- LESPEUTERE: turn 8 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Council Room
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Estate, Copper, Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Militia
+addicted - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Militia
+addicted - discards Estate
+addicted - discards Copper
+addicted - discards Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - buys Council Room
+LESPEUTERE - gains Council Room
+LESPEUTERE - draws Village, Estate, Copper, Estate, Silver
+ 
+---------- addicted: turn 9 ----------
+addicted - plays 2 Copper, 1 Silver
+addicted - buys Village
+addicted - gains Village
+addicted - draws Estate, Smithy, Gold, Village, Copper
+ 
+---------- LESPEUTERE: turn 9 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper
+LESPEUTERE - plays 2 Copper, 1 Silver
+LESPEUTERE - buys Village
+LESPEUTERE - gains Village
+LESPEUTERE - draws Militia, Estate, Copper, Village, Copper
+ 
+---------- addicted: turn 10 ----------
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Smithy
+addicted - draws Council Room, Estate, Copper
+addicted - plays Council Room
+addicted - draws Village, Militia, Laboratory
+addicted - shuffles deck
+addicted - draws Copper
+LESPEUTERE - draws Council Room
+addicted - plays 4 Copper, 1 Gold
+addicted - buys Village
+addicted - gains Village
+addicted - buys Village
+addicted - gains Village
+addicted - draws Copper, Village, Copper, Estate, Silver
+ 
+---------- LESPEUTERE: turn 10 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Council Room
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Village, Copper, Village, Moneylender
+addicted - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Copper, Silver, Estate, Estate
+addicted - shuffles deck
+addicted - draws Estate
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Militia
+addicted - discards Estate
+addicted - discards Estate
+addicted - discards Copper
+addicted - discards Copper
+LESPEUTERE - plays 4 Copper, 1 Silver
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Village, Estate, Council Room, Copper, Militia
+ 
+---------- addicted: turn 11 ----------
+addicted - plays Village
+addicted - draws Village
+addicted - plays Village
+addicted - draws Smithy
+addicted - plays Smithy
+addicted - draws Gold, Village, Council Room
+addicted - plays Village
+addicted - draws Militia
+addicted - plays Council Room
+addicted - draws Estate, Copper, Village, Laboratory
+LESPEUTERE - draws Copper
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Laboratory
+addicted - draws Copper, Village
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Militia
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Copper
+LESPEUTERE - discards Copper
+addicted - plays 5 Copper, 1 Silver, 1 Gold
+addicted - buys Council Room
+addicted - gains Council Room
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - shuffles deck
+addicted - draws Copper, Village, Laboratory, Militia, Village
+ 
+---------- LESPEUTERE: turn 11 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Silver, Village, Laboratory, Council Room
+addicted - draws Silver
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Gold, Moneylender
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Village, Copper, Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper
+addicted - draws Estate
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Militia
+addicted - discards Copper
+addicted - discards Estate
+addicted - discards Village
+addicted - discards Militia
+LESPEUTERE - plays 2 Copper, 1 Silver, 1 Gold
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - buys Moat
+LESPEUTERE - gains Moat
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - draws Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Silver, Village, Estate, Laboratory
+ 
+---------- addicted: turn 12 ----------
+addicted - plays Laboratory
+addicted - draws Laboratory, Village
+addicted - plays Laboratory
+addicted - draws Estate, Smithy
+addicted - plays Village
+addicted - draws Village
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Smithy
+addicted - draws Copper, Council Room, Copper
+addicted - plays Council Room
+addicted - draws Copper, Council Room, Village, Gold
+LESPEUTERE - draws Gold
+addicted - plays Council Room
+addicted - draws Copper, Estate
+addicted - shuffles deck
+addicted - draws Village, Militia
+LESPEUTERE - draws Copper
+addicted - plays Village
+addicted - draws Estate
+addicted - plays Village
+addicted - draws Copper
+addicted - plays Militia
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Copper
+LESPEUTERE - discards Copper
+LESPEUTERE - discards Silver
+addicted - plays 7 Copper, 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - buys Gold
+addicted - gains Gold
+addicted - shuffles deck
+addicted - draws Silver, Copper, Estate, Militia, Province
+ 
+---------- LESPEUTERE: turn 12 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Village, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays 2 Gold, 1 Copper
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - draws Moat, Moat, Militia, Village, Village
+ 
+---------- addicted: turn 13 ----------
+addicted - plays Militia
+LESPEUTERE - reveals reaction Moat
+addicted - plays 1 Silver, 1 Copper
+addicted - buys Gardens
+addicted - gains Gardens
+addicted - draws Laboratory, Council Room, Village, Gold, Smithy
+ 
+---------- LESPEUTERE: turn 13 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Council Room
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moneylender
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Council Room, Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Silver, Village
+addicted - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Copper, Gold, Copper, Copper
+addicted - draws Laboratory
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Estate, Gold
+LESPEUTERE - plays Militia
+addicted - discards Laboratory
+addicted - discards Smithy
+addicted - discards Village
+addicted - discards Laboratory
+LESPEUTERE - plays 3 Copper, 2 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Village, Gold, Village, Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate
+ 
+---------- addicted: turn 14 ----------
+addicted - plays Village
+addicted - draws Gold
+addicted - plays Council Room
+addicted - draws Copper, Copper, Council Room, Copper
+LESPEUTERE - draws Laboratory
+addicted - plays Council Room
+addicted - draws Copper, Estate, Village, Copper
+LESPEUTERE - draws Estate
+addicted - plays 5 Copper, 2 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - buys Moat
+addicted - gains Moat
+addicted - draws Village, Village, Copper, Estate
+addicted - shuffles deck
+addicted - draws Copper
+ 
+---------- LESPEUTERE: turn 14 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Moneylender
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Village, Council Room
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Silver
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Moat, Copper, Council Room, Village
+addicted - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Militia, Gold, Estate, Province
+addicted - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moat
+LESPEUTERE - plays Militia
+addicted - discards Copper
+addicted - discards Copper
+addicted - discards Estate
+addicted - discards Village
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 3 Gold, 2 Copper, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Gold, Copper, Laboratory, Province, Estate
+ 
+---------- addicted: turn 15 ----------
+addicted - plays Village
+addicted - draws Moat
+addicted - plays Village
+addicted - draws Laboratory
+addicted - plays Village
+addicted - draws Province
+addicted - plays Moat
+addicted - draws Estate, Province
+addicted - plays Laboratory
+addicted - draws Village, Silver
+addicted - plays Village
+addicted - draws Copper
+addicted - plays 1 Silver, 1 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Militia, Copper, Copper, Copper, Council Room
+ 
+---------- LESPEUTERE: turn 15 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Gold, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays 2 Gold, 1 Copper
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - draws Council Room, Estate, Village, Moat, Laboratory
+ 
+---------- addicted: turn 16 ----------
+addicted - plays Council Room
+addicted - draws Gardens, Gold, Laboratory, Copper
+LESPEUTERE - draws Militia
+addicted - plays 4 Copper, 1 Gold
+addicted - buys Gardens
+addicted - gains Gardens
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Estate, Smithy, Gold, Council Room
+addicted - shuffles deck
+addicted - draws Village
+ 
+---------- LESPEUTERE: turn 16 ----------
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Province, Council Room
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Gold, Copper, Moneylender, Province
+addicted - draws Moat
+LESPEUTERE - plays Village
+LESPEUTERE - draws Moat
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Cellar, Village, Silver
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate
+addicted - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Village, Village
+LESPEUTERE - plays Village
+LESPEUTERE - draws Gold
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Province
+LESPEUTERE - discards Province
+LESPEUTERE - draws Laboratory, Gold, Estate, Gold
+LESPEUTERE - plays Militia
+addicted - reveals reaction Moat
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Estate
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Estate, Province
+LESPEUTERE - plays 4 Gold, 1 Copper, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Gardens
+LESPEUTERE - gains Gardens
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Village, Moneylender, Council Room, Gold
+ 
+---------- addicted: turn 17 ----------
+addicted - plays Village
+addicted - draws Gardens
+addicted - plays Smithy
+addicted - draws Copper, Copper, Gardens
+addicted - plays Council Room
+addicted - draws Copper, Copper, Province, Laboratory
+LESPEUTERE - draws Laboratory
+addicted - plays 5 Copper, 1 Gold
+addicted - buys Gardens
+addicted - gains Gardens
+addicted - buys Gardens
+addicted - gains Gardens
+addicted - draws Militia, Village, Silver, Estate, Village
+ 
+---------- LESPEUTERE: turn 17 ----------
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Gold, Village, Gold, Council Room
+addicted - draws Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Laboratory
+LESPEUTERE - plays Village
+LESPEUTERE - draws Village
+LESPEUTERE - plays Council Room
+LESPEUTERE - draws Gold, Militia, Copper, Village
+addicted - draws Copper
+LESPEUTERE - plays Village
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Moat, Gardens
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Estate, Cellar
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Province
+LESPEUTERE - discards Province
+LESPEUTERE - discards Province
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Gardens
+LESPEUTERE - draws Silver, Province, Province, Moat, Village
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Gardens, Province
+LESPEUTERE - plays Village
+LESPEUTERE - draws Province
+LESPEUTERE - plays Moat
+LESPEUTERE - draws Estate, Province
+LESPEUTERE - plays Militia
+addicted - discards Estate
+addicted - discards Estate
+addicted - discards Copper
+addicted - discards Militia
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 4 Gold, 1 Silver
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - draws Estate, Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Laboratory, Moneylender, Council Room
+ 
+------------ Game Over ------------
+LESPEUTERE - cards: 5 Village, 2 Council Room, 2 Moat, 2 Laboratory, 1 Cellar, 1 Moneylender, 1 Militia, 4 Gold, 1 Silver, 6 Province, 3 Estate, 2 Duchy, 1 Gardens
+LESPEUTERE - total victory points: 48
+LESPEUTERE - turns: 17
+ 
+addicted - cards: 5 Village, 2 Laboratory, 2 Council Room, 1 Smithy, 1 Militia, 1 Moat, 7 Copper, 3 Silver, 2 Gold, 4 Gardens, 3 Estate, 2 Province
+addicted - total victory points: 27
+addicted - turns: 17
+ 
+1st place: LESPEUTERE
+2nd place: addicted
+ 

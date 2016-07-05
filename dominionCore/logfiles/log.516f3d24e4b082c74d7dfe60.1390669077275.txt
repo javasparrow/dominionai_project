@@ -1,0 +1,478 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Militia, Moneylender, Smithy, Spy, Laboratory, Library, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+narrow_7 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+narrow_7 - shuffles deck
+hiroki - shuffles deck
+narrow_7 - draws Copper, Copper, Estate, Estate, Copper
+hiroki - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- narrow_7: turn 1 ----------
+narrow_7 - plays 3 Copper
+narrow_7 - buys Silver
+narrow_7 - gains Silver
+narrow_7 - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 4 Copper
+hiroki - buys Moneylender
+hiroki - gains Moneylender
+hiroki - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- narrow_7: turn 2 ----------
+narrow_7 - plays 4 Copper
+narrow_7 - buys Smithy
+narrow_7 - gains Smithy
+narrow_7 - shuffles deck
+narrow_7 - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 3 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - shuffles deck
+hiroki - draws Moneylender, Copper, Copper, Copper, Copper
+ 
+---------- narrow_7: turn 3 ----------
+narrow_7 - plays 3 Copper
+narrow_7 - buys Silver
+narrow_7 - gains Silver
+narrow_7 - draws Copper, Copper, Estate, Copper, Smithy
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Moneylender
+hiroki - trashes Copper
+hiroki - plays 3 Copper
+hiroki - buys Witch
+hiroki - gains Witch
+hiroki - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- narrow_7: turn 4 ----------
+narrow_7 - plays Smithy
+narrow_7 - draws Copper, Silver
+narrow_7 - shuffles deck
+narrow_7 - draws Estate
+narrow_7 - plays 4 Copper, 1 Silver
+narrow_7 - buys Gold
+narrow_7 - gains Gold
+narrow_7 - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays Silver
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Estate, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Witch
+ 
+---------- narrow_7: turn 5 ----------
+narrow_7 - plays 3 Copper, 1 Silver
+narrow_7 - buys Laboratory
+narrow_7 - gains Laboratory
+narrow_7 - shuffles deck
+narrow_7 - draws Smithy, Copper, Copper, Laboratory, Silver
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays Witch
+hiroki - draws Estate, Silver
+narrow_7 - gains Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Cellar, Copper, Moneylender, Copper, Copper
+ 
+---------- narrow_7: turn 6 ----------
+narrow_7 - plays Laboratory
+narrow_7 - draws Copper, Copper
+narrow_7 - plays Smithy
+narrow_7 - draws Estate, Silver, Copper
+narrow_7 - plays 5 Copper, 2 Silver
+narrow_7 - buys Adventurer
+narrow_7 - gains Adventurer
+narrow_7 - draws Estate, Estate, Copper, Copper, Gold
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Moneylender
+hiroki - trashes Copper
+hiroki - plays 2 Copper
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Estate
+hiroki - shuffles deck
+hiroki - draws Moneylender, Copper, Laboratory, Laboratory
+ 
+---------- narrow_7: turn 7 ----------
+narrow_7 - plays 2 Copper, 1 Gold
+narrow_7 - buys Witch
+narrow_7 - gains Witch
+narrow_7 - shuffles deck
+narrow_7 - draws Copper, Curse, Adventurer, Smithy, Gold
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays Laboratory
+hiroki - draws Silver, Witch
+hiroki - plays Laboratory
+hiroki - draws Estate, Estate
+hiroki - plays Witch
+hiroki - draws Copper, Copper
+narrow_7 - gains Curse
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Copper, Copper, Cellar
+hiroki - shuffles deck
+hiroki - draws Copper, Laboratory
+ 
+---------- narrow_7: turn 8 ----------
+narrow_7 - plays Adventurer
+narrow_7 - reveals Estate, Laboratory, Silver, Estate, Silver
+narrow_7 - places cards in hand:  Silver, Silver
+narrow_7 - discards: Estate, Laboratory, Estate
+narrow_7 - plays 2 Silver, 1 Copper, 1 Gold
+narrow_7 - buys Gold
+narrow_7 - gains Gold
+narrow_7 - draws Copper, Estate, Copper, Witch, Copper
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Estate
+hiroki - plays Laboratory
+hiroki - draws Witch, Estate
+hiroki - plays Cellar
+hiroki - discards Estate
+hiroki - discards Estate
+hiroki - draws Estate, Silver
+hiroki - plays Witch
+hiroki - draws Copper, Copper
+narrow_7 - gains Curse
+hiroki - plays 5 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Laboratory, Moneylender
+hiroki - shuffles deck
+hiroki - draws Estate, Laboratory, Cellar
+ 
+---------- narrow_7: turn 9 ----------
+narrow_7 - plays Witch
+narrow_7 - draws Copper, Copper
+hiroki - gains Curse
+narrow_7 - plays 5 Copper
+narrow_7 - buys Laboratory
+narrow_7 - gains Laboratory
+narrow_7 - draws Copper
+narrow_7 - shuffles deck
+narrow_7 - draws Copper, Copper, Estate, Curse
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Laboratory
+hiroki - draws Estate, Copper
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Silver
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Cellar
+hiroki - discards Estate
+hiroki - discards Estate
+hiroki - draws Copper, Witch
+hiroki - plays Witch
+hiroki - draws Laboratory, Copper
+narrow_7 - gains Curse
+hiroki - plays 5 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - draws Estate
+hiroki - shuffles deck
+hiroki - draws Estate, Copper, Estate, Laboratory
+ 
+---------- narrow_7: turn 10 ----------
+narrow_7 - plays 3 Copper
+narrow_7 - buys Cellar
+narrow_7 - gains Cellar
+narrow_7 - draws Copper, Laboratory, Copper, Laboratory, Curse
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Moneylender, Copper
+hiroki - plays Moneylender
+hiroki - trashes Copper
+hiroki - plays 2 Copper
+hiroki - buys Market
+hiroki - gains Market
+hiroki - draws Witch, Laboratory, Laboratory, Cellar, Curse
+ 
+---------- narrow_7: turn 11 ----------
+narrow_7 - plays Laboratory
+narrow_7 - draws Copper, Witch
+narrow_7 - plays Laboratory
+narrow_7 - draws Silver, Curse
+narrow_7 - plays Witch
+narrow_7 - draws Silver, Adventurer
+hiroki - gains Curse
+narrow_7 - plays 3 Copper, 2 Silver
+narrow_7 - buys Laboratory
+narrow_7 - gains Laboratory
+narrow_7 - draws Gold, Estate, Smithy, Gold, Estate
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Silver
+hiroki - plays Laboratory
+hiroki - draws Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Curse, Copper
+hiroki - plays Cellar
+hiroki - discards Curse
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - discards Curse
+hiroki - draws Moneylender, Laboratory, Laboratory, Estate
+hiroki - plays Laboratory
+hiroki - draws Estate, Estate
+hiroki - plays Witch
+hiroki - draws Market, Copper
+narrow_7 - gains Curse
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - shuffles deck
+hiroki - draws Market, Copper, Copper, Cellar, Estate
+ 
+---------- narrow_7: turn 12 ----------
+narrow_7 - plays Smithy
+narrow_7 - draws Copper
+narrow_7 - shuffles deck
+narrow_7 - draws Laboratory, Copper
+narrow_7 - plays 2 Gold, 2 Copper
+narrow_7 - buys Laboratory
+narrow_7 - gains Laboratory
+narrow_7 - draws Copper, Curse, Copper, Curse, Laboratory
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Market
+hiroki - draws Silver
+hiroki - plays Cellar
+hiroki - discards Silver
+hiroki - discards Estate
+hiroki - discards Copper
+hiroki - discards Copper
+hiroki - draws Laboratory, Curse, Curse, Copper
+hiroki - plays Laboratory
+hiroki - draws Estate, Cellar
+hiroki - plays Cellar
+hiroki - discards Estate
+hiroki - discards Copper
+hiroki - discards Curse
+hiroki - discards Curse
+hiroki - draws Estate, Laboratory, Laboratory, Copper
+hiroki - plays Laboratory
+hiroki - draws Moneylender, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Witch, Laboratory
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Curse, Curse
+hiroki - plays Laboratory
+hiroki - draws Copper, Copper
+hiroki - plays Witch
+hiroki - draws Silver, Copper
+narrow_7 - gains Curse
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Laboratory
+hiroki - gains Laboratory
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Estate, Estate
+hiroki - shuffles deck
+hiroki - draws Witch, Copper, Copper
+ 
+---------- narrow_7: turn 13 ----------
+narrow_7 - plays Laboratory
+narrow_7 - draws Cellar, Copper
+narrow_7 - plays Cellar
+narrow_7 - discards Curse
+narrow_7 - discards Curse
+narrow_7 - draws Adventurer, Witch
+narrow_7 - plays Witch
+narrow_7 - draws Curse, Laboratory
+hiroki - gains Curse
+narrow_7 - plays 3 Copper
+narrow_7 - buys Cellar
+narrow_7 - gains Cellar
+narrow_7 - draws Estate, Copper, Silver, Silver, Curse
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Witch
+hiroki - draws Cellar, Laboratory
+narrow_7 - gains Curse
+hiroki - plays 2 Copper
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Laboratory, Cellar, Laboratory, Laboratory, Copper
+ 
+---------- narrow_7: turn 14 ----------
+narrow_7 - plays 2 Silver, 1 Copper
+narrow_7 - buys Market
+narrow_7 - gains Market
+narrow_7 - draws Copper, Curse
+narrow_7 - shuffles deck
+narrow_7 - draws Laboratory, Laboratory, Witch
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Laboratory
+hiroki - draws Copper, Estate
+hiroki - plays Laboratory
+hiroki - draws Silver, Cellar
+hiroki - plays Laboratory
+hiroki - draws Moneylender, Curse
+hiroki - plays Cellar
+hiroki - discards Curse
+hiroki - discards Estate
+hiroki - draws Curse, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Market
+hiroki - plays Laboratory
+hiroki - shuffles deck
+hiroki - draws Cellar, Laboratory
+hiroki - plays Market
+hiroki - draws Curse
+hiroki - plays Laboratory
+hiroki - draws Witch, Copper
+hiroki - plays Cellar
+hiroki - discards Witch
+hiroki - discards Curse
+hiroki - discards Curse
+hiroki - discards Moneylender
+hiroki - draws Estate, Estate, Curse, Estate
+hiroki - plays Cellar
+hiroki - discards Curse
+hiroki - discards Estate
+hiroki - draws Copper, Cellar
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Gold
+hiroki - gains Gold
+hiroki - shuffles deck
+hiroki - draws Gold, Moneylender, Cellar, Curse, Laboratory
+ 
+---------- narrow_7: turn 15 ----------
+narrow_7 - plays Laboratory
+narrow_7 - draws Curse, Curse
+narrow_7 - plays Laboratory
+narrow_7 - draws Estate, Cellar
+narrow_7 - plays Cellar
+narrow_7 - discards Estate
+narrow_7 - discards Curse
+narrow_7 - discards Curse
+narrow_7 - discards Curse
+narrow_7 - draws Smithy, Adventurer, Curse, Copper
+narrow_7 - plays Adventurer
+narrow_7 - reveals Silver, Gold
+narrow_7 - places cards in hand:  Silver, Gold
+narrow_7 - plays 2 Copper, 1 Silver, 1 Gold
+narrow_7 - buys Gold
+narrow_7 - gains Gold
+narrow_7 - draws Gold, Estate, Market, Curse, Silver
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Laboratory, Estate
+hiroki - plays Laboratory
+hiroki - draws Copper, Cellar
+hiroki - plays Laboratory
+hiroki - draws Silver, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Copper, Curse
+hiroki - plays Cellar
+hiroki - discards Estate
+hiroki - discards Curse
+hiroki - discards Curse
+hiroki - draws Curse, Copper, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Cellar, Witch
+hiroki - plays Cellar
+hiroki - discards Witch
+hiroki - discards Curse
+hiroki - draws Cellar, Estate
+hiroki - plays Cellar
+hiroki - discards Estate
+hiroki - draws Market
+hiroki - plays Market
+hiroki - draws Copper
+hiroki - plays Moneylender
+hiroki - trashes Copper
+hiroki - plays 3 Copper, 1 Gold, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Estate
+hiroki - shuffles deck
+hiroki - draws Curse, Laboratory, Curse, Silver
+ 
+---------- narrow_7: turn 16 ----------
+narrow_7 - plays Market
+narrow_7 - draws Laboratory
+narrow_7 - plays Laboratory
+narrow_7 - draws Laboratory, Copper
+narrow_7 - plays Laboratory
+narrow_7 - draws Curse, Estate
+narrow_7 - plays 1 Gold, 1 Silver, 1 Copper
+narrow_7 - buys Adventurer
+narrow_7 - gains Adventurer
+narrow_7 - buys Copper
+narrow_7 - gains Copper
+narrow_7 - draws Copper, Cellar, Copper, Copper, Curse
+ 
+---------- hiroki: turn 16 ----------
+hiroki - plays Laboratory
+hiroki - draws Curse, Copper
+hiroki - plays 1 Silver, 1 Copper
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Laboratory, Laboratory, Copper, Laboratory, Gold
+ 
+---------- narrow_7: turn 17 ----------
+narrow_7 - plays Cellar
+narrow_7 - discards Curse
+narrow_7 - draws Copper
+narrow_7 - plays 4 Copper
+narrow_7 - buys Spy
+narrow_7 - gains Spy
+narrow_7 - shuffles deck
+narrow_7 - draws Copper, Curse, Adventurer, Cellar, Curse
+ 
+---------- hiroki: turn 17 ----------
+hiroki - plays Laboratory
+hiroki - draws Witch, Laboratory
+hiroki - plays Laboratory
+hiroki - draws Province, Estate
+hiroki - plays Laboratory
+hiroki - draws Market, Estate
+hiroki - plays Laboratory
+hiroki - draws Cellar, Cellar
+hiroki - plays Market
+hiroki - draws Cellar
+hiroki - plays 1 Copper, 1 Gold
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - buys Cellar
+hiroki - gains Cellar
+hiroki - draws Cellar, Copper, Moneylender, Laboratory, Cellar
+ 
+------------ Game Over ------------
+hiroki - cards: 8 Cellar, 6 Laboratory, 1 Moneylender, 1 Market, 1 Witch, 3 Copper, 1 Silver, 1 Gold, 3 Estate, 1 Province, 3 Curse
+hiroki - total victory points: 6
+hiroki - turns: 17
+ 
+narrow_7 - cards: 4 Laboratory, 2 Adventurer, 2 Cellar, 1 Smithy, 1 Spy, 1 Witch, 1 Market, 8 Copper, 3 Gold, 2 Silver, 3 Estate, 7 Curse
+narrow_7 - total victory points: -4
+narrow_7 - turns: 17
+ 
+1st place: hiroki
+2nd place: narrow_7
+ 

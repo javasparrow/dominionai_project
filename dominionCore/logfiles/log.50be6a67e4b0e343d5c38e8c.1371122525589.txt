@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Workshop, Feast, Smithy, Throne Room, Festival, Library, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+rightiswrong - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hiroki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+rightiswrong - shuffles deck
+hiroki - shuffles deck
+rightiswrong - draws Copper, Copper, Copper, Copper, Estate
+hiroki - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- hiroki: turn 1 ----------
+hiroki - plays 3 Copper
+hiroki - buys Chapel
+hiroki - gains Chapel
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- rightiswrong: turn 1 ----------
+rightiswrong - plays 4 Copper
+rightiswrong - buys Silver
+rightiswrong - gains Silver
+rightiswrong - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- hiroki: turn 2 ----------
+hiroki - plays 4 Copper
+hiroki - buys Workshop
+hiroki - gains Workshop
+hiroki - shuffles deck
+hiroki - draws Workshop, Chapel, Copper, Estate, Copper
+ 
+---------- rightiswrong: turn 2 ----------
+rightiswrong - plays 3 Copper
+rightiswrong - buys Chapel
+rightiswrong - gains Chapel
+rightiswrong - shuffles deck
+rightiswrong - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- hiroki: turn 3 ----------
+hiroki - plays Chapel
+hiroki - trashes Copper, Estate, Copper
+hiroki - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- rightiswrong: turn 3 ----------
+rightiswrong - plays 3 Copper, 1 Silver
+rightiswrong - buys Festival
+rightiswrong - gains Festival
+rightiswrong - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- hiroki: turn 4 ----------
+hiroki - plays 4 Copper
+hiroki - buys Silver
+hiroki - gains Silver
+hiroki - draws Estate, Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Estate, Copper
+ 
+---------- rightiswrong: turn 4 ----------
+rightiswrong - plays 3 Copper
+rightiswrong - buys Workshop
+rightiswrong - gains Workshop
+rightiswrong - draws Copper, Chapel
+rightiswrong - shuffles deck
+rightiswrong - draws Copper, Silver, Copper
+ 
+---------- hiroki: turn 5 ----------
+hiroki - plays 3 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Workshop, Copper, Chapel, Silver, Copper
+ 
+---------- rightiswrong: turn 5 ----------
+rightiswrong - plays Chapel
+rightiswrong - trashes Copper, Copper
+rightiswrong - plays 1 Silver, 1 Copper
+rightiswrong - buys Village
+rightiswrong - gains Village
+rightiswrong - draws Estate, Estate, Copper, Copper, Workshop
+ 
+---------- hiroki: turn 6 ----------
+hiroki - plays Workshop
+hiroki - gains Village
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- rightiswrong: turn 6 ----------
+rightiswrong - plays Workshop
+rightiswrong - gains Smithy
+rightiswrong - draws Festival, Copper, Copper, Estate
+rightiswrong - shuffles deck
+rightiswrong - draws Silver
+ 
+---------- hiroki: turn 7 ----------
+hiroki - plays 4 Copper
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - draws Village, Estate, Village, Chapel, Silver
+ 
+---------- rightiswrong: turn 7 ----------
+rightiswrong - plays Festival
+rightiswrong - plays 2 Copper, 1 Silver
+rightiswrong - buys Workshop
+rightiswrong - gains Workshop
+rightiswrong - buys Village
+rightiswrong - gains Village
+rightiswrong - draws Workshop, Copper, Copper, Copper, Estate
+ 
+---------- hiroki: turn 8 ----------
+hiroki - plays Village
+hiroki - draws Workshop
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Smithy
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Copper, Copper
+hiroki - plays Workshop
+hiroki - gains Throne Room
+hiroki - plays Chapel
+hiroki - trashes Estate
+hiroki - plays 3 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Estate, Smithy, Copper, Copper
+hiroki - shuffles deck
+hiroki - draws Copper
+ 
+---------- rightiswrong: turn 8 ----------
+rightiswrong - plays Workshop
+rightiswrong - gains Smithy
+rightiswrong - plays 3 Copper
+rightiswrong - buys Village
+rightiswrong - gains Village
+rightiswrong - draws Estate, Chapel, Smithy, Village
+rightiswrong - shuffles deck
+rightiswrong - draws Estate
+ 
+---------- hiroki: turn 9 ----------
+hiroki - plays Smithy
+hiroki - draws Throne Room, Smithy, Chapel
+hiroki - plays 3 Copper
+hiroki - buys Village
+hiroki - gains Village
+hiroki - draws Village, Festival, Workshop, Copper, Copper
+ 
+---------- rightiswrong: turn 9 ----------
+rightiswrong - plays Village
+rightiswrong - draws Workshop
+rightiswrong - plays Smithy
+rightiswrong - draws Festival, Workshop, Copper
+rightiswrong - plays Festival
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays Chapel
+rightiswrong - trashes Estate, Estate, Copper
+rightiswrong - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- hiroki: turn 10 ----------
+hiroki - plays Village
+hiroki - draws Village
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Festival
+hiroki - plays Workshop
+hiroki - gains Smithy
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Throne Room
+hiroki - gains Throne Room
+hiroki - shuffles deck
+hiroki - draws Copper, Copper, Copper, Throne Room, Smithy
+ 
+---------- rightiswrong: turn 10 ----------
+rightiswrong - plays 3 Copper, 1 Silver
+rightiswrong - buys Library
+rightiswrong - gains Library
+rightiswrong - draws Smithy, Village, Copper, Village
+rightiswrong - shuffles deck
+rightiswrong - draws Silver
+ 
+---------- hiroki: turn 11 ----------
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - draws Village, Copper, Festival
+hiroki - plays Smithy
+hiroki - draws Silver, Smithy, Throne Room
+hiroki - plays 4 Copper, 1 Silver
+hiroki - buys Library
+hiroki - gains Library
+hiroki - draws Chapel, Copper, Village, Smithy, Village
+ 
+---------- rightiswrong: turn 11 ----------
+rightiswrong - plays Village
+rightiswrong - draws Copper
+rightiswrong - plays Village
+rightiswrong - draws Village
+rightiswrong - plays Village
+rightiswrong - draws Throne Room
+rightiswrong - plays Throne Room
+rightiswrong - plays Smithy
+rightiswrong - draws Workshop, Library, Copper
+rightiswrong - plays Smithy
+rightiswrong - draws Smithy, Festival, Copper
+rightiswrong - plays Smithy
+rightiswrong - draws Chapel, Workshop, Estate
+rightiswrong - plays Festival
+rightiswrong - plays Chapel
+rightiswrong - trashes Estate, Copper, Copper, Copper
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays 1 Copper, 1 Silver
+rightiswrong - buys Festival
+rightiswrong - gains Festival
+rightiswrong - shuffles deck
+rightiswrong - draws Chapel, Smithy, Throne Room, Smithy, Village
+ 
+---------- hiroki: turn 12 ----------
+hiroki - plays Village
+hiroki - draws Workshop
+hiroki - plays Village
+hiroki - draws Estate
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Throne Room, Village, Copper
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Smithy
+hiroki - draws Copper, Festival, Copper
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Silver, Throne Room, Copper
+hiroki - plays Throne Room
+hiroki - plays Workshop
+hiroki - gains Throne Room
+hiroki - plays Workshop
+hiroki - gains Smithy
+hiroki - plays Chapel
+hiroki - trashes Estate, Copper, Copper, Copper
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - draws Library
+hiroki - shuffles deck
+hiroki - draws Smithy, Smithy, Festival, Village
+ 
+---------- rightiswrong: turn 12 ----------
+rightiswrong - plays Village
+rightiswrong - draws Festival
+rightiswrong - plays Throne Room
+rightiswrong - plays Smithy
+rightiswrong - draws Village, Copper, Workshop
+rightiswrong - plays Smithy
+rightiswrong - draws Throne Room, Workshop, Village
+rightiswrong - plays Village
+rightiswrong - draws Throne Room
+rightiswrong - plays Village
+rightiswrong - draws Silver
+rightiswrong - plays Throne Room
+rightiswrong - plays Throne Room
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays Throne Room
+rightiswrong - plays Workshop
+rightiswrong - gains Feast
+rightiswrong - plays Workshop
+rightiswrong - gains Feast
+rightiswrong - plays Smithy
+rightiswrong - draws Festival, Library
+rightiswrong - shuffles deck
+rightiswrong - draws Feast
+rightiswrong - plays Festival
+rightiswrong - plays Festival
+rightiswrong - plays Feast
+rightiswrong - trashes Feast
+rightiswrong - gains Witch
+rightiswrong - plays Library
+rightiswrong - moves Feast to hand
+rightiswrong - moves Throne Room to hand
+rightiswrong - moves Throne Room to hand
+rightiswrong - shuffles deck
+rightiswrong - moves Witch to hand
+rightiswrong - plays Throne Room
+rightiswrong - plays Throne Room
+rightiswrong - plays Witch
+hiroki - gains Curse
+rightiswrong - plays Witch
+hiroki - gains Curse
+rightiswrong - plays Throne Room
+rightiswrong - plays Feast
+rightiswrong - trashes Feast
+rightiswrong - gains Festival
+rightiswrong - plays Feast
+rightiswrong - trashes Feast
+rightiswrong - gains Festival
+rightiswrong - plays 1 Copper, 1 Silver
+rightiswrong - buys Smithy
+rightiswrong - gains Smithy
+rightiswrong - buys Village
+rightiswrong - gains Village
+rightiswrong - shuffles deck
+rightiswrong - draws Throne Room, Chapel, Silver, Village, Throne Room
+ 
+---------- hiroki: turn 13 ----------
+hiroki - plays Village
+hiroki - draws Copper
+hiroki - plays Festival
+hiroki - plays Library
+hiroki - discards Chapel
+hiroki - discards Smithy
+hiroki - moves Festival to hand
+hiroki - draws Copper
+hiroki - moves Smithy to hand
+hiroki - draws Silver
+hiroki - discards: Chapel, Smithy
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Throne Room, Throne Room, Village
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - draws Workshop, Village, Throne Room
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Chapel, Smithy, Curse
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Workshop
+hiroki - gains Feast
+hiroki - plays Workshop
+hiroki - gains Feast
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Curse
+hiroki - plays Village
+hiroki - shuffles deck
+hiroki - draws Feast
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Witch
+hiroki - plays Village
+hiroki - draws Feast
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Throne Room
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Throne Room, Witch
+hiroki - plays Throne Room
+hiroki - plays Witch
+rightiswrong - gains Curse
+hiroki - plays Witch
+rightiswrong - gains Curse
+hiroki - plays Chapel
+hiroki - trashes Curse, Curse
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Workshop
+hiroki - gains Workshop
+hiroki - shuffles deck
+hiroki - draws Silver, Copper, Copper, Throne Room, Festival
+ 
+---------- rightiswrong: turn 13 ----------
+rightiswrong - plays Throne Room
+rightiswrong - plays Village
+rightiswrong - draws Workshop
+rightiswrong - plays Village
+rightiswrong - draws Smithy
+rightiswrong - plays Throne Room
+rightiswrong - plays Smithy
+rightiswrong - draws Smithy, Village, Copper
+rightiswrong - plays Smithy
+rightiswrong - draws Festival, Workshop, Library
+rightiswrong - plays Village
+rightiswrong - draws Village
+rightiswrong - plays Village
+rightiswrong - draws Smithy
+rightiswrong - plays Smithy
+rightiswrong - draws Witch, Village, Festival
+rightiswrong - plays Village
+rightiswrong - draws Festival
+rightiswrong - plays Workshop
+rightiswrong - gains Throne Room
+rightiswrong - plays Smithy
+rightiswrong - draws Throne Room, Throne Room, Festival
+rightiswrong - plays Throne Room
+rightiswrong - plays Throne Room
+rightiswrong - plays Festival
+rightiswrong - plays Festival
+rightiswrong - plays Throne Room
+rightiswrong - plays Witch
+rightiswrong - draws Throne Room
+rightiswrong - shuffles deck
+rightiswrong - draws Curse
+hiroki - gains Curse
+rightiswrong - plays Witch
+rightiswrong - draws Throne Room, Curse
+hiroki - gains Curse
+rightiswrong - plays Workshop
+rightiswrong - gains Feast
+rightiswrong - plays Festival
+rightiswrong - plays Festival
+rightiswrong - plays Festival
+rightiswrong - plays Library
+rightiswrong - plays Chapel
+rightiswrong - trashes Curse, Curse, Copper
+rightiswrong - plays 1 Silver
+rightiswrong - buys Province
+rightiswrong - gains Province
+rightiswrong - buys Smithy
+rightiswrong - gains Smithy
+rightiswrong - shuffles deck
+rightiswrong - draws Smithy, Smithy, Silver, Smithy, Throne Room
+ 
+---------- hiroki: turn 14 ----------
+hiroki - plays Throne Room
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Province
+hiroki - gains Province
+hiroki - draws Festival, Witch, Festival, Workshop, Library
+ 
+---------- rightiswrong: turn 14 ----------
+rightiswrong - draws Chapel, Library, Village, Festival, Village
+ 
+---------- hiroki: turn 15 ----------
+hiroki - plays Festival
+hiroki - plays Festival
+hiroki - plays Workshop
+hiroki - gains Feast
+hiroki - plays Library
+hiroki - moves Throne Room to hand
+hiroki - moves Throne Room to hand
+hiroki - moves Village to hand
+hiroki - moves Smithy to hand
+hiroki - moves Smithy to hand
+hiroki - moves Smithy to hand
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Witch
+hiroki - draws Chapel, Throne Room
+rightiswrong - gains Curse
+hiroki - plays Witch
+hiroki - draws Village, Village
+rightiswrong - gains Curse
+hiroki - plays Throne Room
+hiroki - plays Throne Room
+hiroki - plays Village
+hiroki - draws Workshop
+hiroki - plays Village
+hiroki - draws Smithy
+hiroki - plays Throne Room
+hiroki - plays Smithy
+hiroki - shuffles deck
+hiroki - draws Province, Curse, Throne Room
+hiroki - plays Smithy
+hiroki - draws Curse, Copper, Festival
+hiroki - plays Village
+hiroki - draws Feast
+hiroki - plays Throne Room
+hiroki - plays Workshop
+hiroki - gains Feast
+hiroki - plays Workshop
+hiroki - gains Feast
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Festival
+hiroki - plays Festival
+hiroki - plays Village
+hiroki - draws Silver
+hiroki - plays Smithy
+hiroki - draws Copper
+hiroki - shuffles deck
+hiroki - draws Festival, Feast
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Market
+hiroki - plays Festival
+hiroki - plays Smithy
+hiroki - draws Feast
+hiroki - shuffles deck
+hiroki - draws Market
+hiroki - plays Feast
+hiroki - trashes Feast
+hiroki - gains Festival
+hiroki - plays Market
+hiroki - shuffles deck
+hiroki - draws Festival
+hiroki - plays Festival
+hiroki - plays Chapel
+hiroki - trashes Curse, Curse
+hiroki - plays 2 Copper, 1 Silver
+hiroki - buys Festival
+hiroki - gains Festival
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - buys Smithy
+hiroki - gains Smithy
+hiroki - buys Estate
+hiroki - gains Estate
+hiroki - shuffles deck
+hiroki - draws Library, Festival, Throne Room, Chapel, Village
+ 
+------------ Game Over ------------
+hiroki - cards: 6 Smithy, 6 Festival, 4 Throne Room, 3 Village, 2 Workshop, 1 Chapel, 1 Library, 1 Witch, 1 Market, 2 Copper, 1 Silver, 1 Estate, 1 Province
+hiroki - total victory points: 7
+hiroki - turns: 15
+ 
+rightiswrong - cards: 6 Throne Room, 4 Village, 4 Festival, 4 Smithy, 2 Workshop, 1 Chapel, 1 Library, 1 Feast, 1 Witch, 1 Silver, 1 Province, 2 Curse
+rightiswrong - total victory points: 4
+rightiswrong - turns: 14
+ 
+1st place: hiroki
+2nd place: rightiswrong
+ 

@@ -1,0 +1,417 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Woodcutter, Workshop, Bureaucrat, Moneylender, Thief, Council Room, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+terminalCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+terminalCopper - shuffles deck
+unicut - draws Estate, Estate, Copper, Copper, Copper
+terminalCopper - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 1 ----------
+terminalCopper - plays 4 Copper
+terminalCopper - buys Moneylender
+terminalCopper - gains Moneylender
+terminalCopper - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- terminalCopper: turn 2 ----------
+terminalCopper - plays 3 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Silver, Copper, Estate, Estate
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 4 Copper
+unicut - buys Moneylender
+unicut - gains Moneylender
+unicut - shuffles deck
+unicut - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- terminalCopper: turn 3 ----------
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- unicut: turn 3 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Market
+unicut - gains Market
+unicut - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- terminalCopper: turn 4 ----------
+terminalCopper - plays 5 Copper
+terminalCopper - buys Library
+terminalCopper - gains Library
+terminalCopper - draws Copper, Moneylender
+terminalCopper - shuffles deck
+terminalCopper - draws Copper, Copper, Silver
+ 
+---------- unicut: turn 4 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Moneylender
+unicut - shuffles deck
+unicut - draws Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 5 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Gold
+terminalCopper - gains Gold
+terminalCopper - draws Copper, Library, Estate, Estate, Copper
+ 
+---------- unicut: turn 5 ----------
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 2 Copper
+unicut - buys Market
+unicut - gains Market
+unicut - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- terminalCopper: turn 6 ----------
+terminalCopper - plays Library
+terminalCopper - draws Estate
+terminalCopper - draws Copper
+terminalCopper - draws Copper
+terminalCopper - plays 4 Copper
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Silver
+terminalCopper - shuffles deck
+terminalCopper - draws Estate, Estate, Copper, Copper
+ 
+---------- unicut: turn 6 ----------
+unicut - plays 4 Copper, 1 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Market, Estate, Silver, Estate
+unicut - shuffles deck
+unicut - draws Estate
+ 
+---------- terminalCopper: turn 7 ----------
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Silver
+terminalCopper - gains Silver
+terminalCopper - draws Silver, Copper, Copper, Silver, Moneylender
+ 
+---------- unicut: turn 7 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays 1 Silver, 1 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Copper, Copper, Silver, Market, Moneylender
+ 
+---------- terminalCopper: turn 8 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Silver, 1 Copper
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Copper, Gold, Library, Copper, Estate
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Market
+unicut - draws Copper
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Copper, Copper, Gold
+unicut - shuffles deck
+unicut - draws Silver, Moneylender
+ 
+---------- terminalCopper: turn 9 ----------
+terminalCopper - plays Library
+terminalCopper - shuffles deck
+terminalCopper - draws Silver
+terminalCopper - draws Silver
+terminalCopper - draws Copper
+terminalCopper - plays 3 Copper, 2 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Estate, Silver, Copper, Province, Copper
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Copper, 1 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- terminalCopper: turn 10 ----------
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Estate, Silver, Moneylender
+terminalCopper - shuffles deck
+terminalCopper - draws Province, Estate
+ 
+---------- unicut: turn 10 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Library
+unicut - gains Library
+unicut - draws Market, Province, Estate, Market, Silver
+ 
+---------- terminalCopper: turn 11 ----------
+terminalCopper - plays 1 Silver
+terminalCopper - buys Cellar
+terminalCopper - gains Cellar
+terminalCopper - draws Copper, Copper, Copper, Silver, Gold
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Market
+unicut - draws Estate
+unicut - plays Market
+unicut - shuffles deck
+unicut - draws Library
+unicut - plays Library
+unicut - draws Copper
+unicut - draws Gold
+unicut - discards Moneylender
+unicut - draws Copper
+unicut - discards Moneylender
+unicut - plays 2 Copper, 1 Silver, 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Copper, Estate, Province, Copper, Silver
+ 
+---------- terminalCopper: turn 12 ----------
+terminalCopper - plays 3 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Silver, Copper, Cellar, Estate, Library
+ 
+---------- unicut: turn 12 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Cellar
+unicut - gains Cellar
+unicut - draws Silver
+unicut - shuffles deck
+unicut - draws Province, Copper, Copper, Estate
+ 
+---------- terminalCopper: turn 13 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+terminalCopper - draws Province, Silver
+terminalCopper - plays Library
+terminalCopper - draws Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Estate
+terminalCopper - discards Moneylender
+terminalCopper - draws Silver
+terminalCopper - draws Estate
+terminalCopper - discards Moneylender
+terminalCopper - plays 3 Silver, 1 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Estate, Copper, Copper, Cellar, Silver
+ 
+---------- unicut: turn 13 ----------
+unicut - plays 2 Copper, 1 Silver
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Market, Cellar, Copper, Silver, Estate
+ 
+---------- terminalCopper: turn 14 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Estate
+terminalCopper - discards Copper
+terminalCopper - discards Copper
+terminalCopper - draws Gold, Copper, Province
+terminalCopper - plays 1 Silver, 1 Gold, 1 Copper
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Province, Copper
+terminalCopper - shuffles deck
+terminalCopper - draws Silver, Library, Cellar
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Cellar
+unicut - discards Estate
+unicut - discards Copper
+unicut - draws Moneylender, Market
+unicut - plays Market
+unicut - draws Estate
+unicut - plays 2 Silver
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Library, Province, Province, Copper, Gold
+ 
+---------- terminalCopper: turn 15 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Copper
+terminalCopper - draws Province, Copper
+terminalCopper - plays Library
+terminalCopper - draws Estate
+terminalCopper - draws Gold
+terminalCopper - draws Duchy
+terminalCopper - draws Copper
+terminalCopper - plays 2 Copper, 1 Silver, 1 Gold
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Silver, Moneylender, Province, Estate, Cellar
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Library
+unicut - shuffles deck
+unicut - draws Silver
+unicut - draws Province
+unicut - draws Estate
+unicut - plays 1 Copper, 1 Gold, 1 Silver
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Copper, Estate, Copper, Moneylender, Silver
+ 
+---------- terminalCopper: turn 16 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Estate
+terminalCopper - draws Silver, Copper
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - plays 2 Silver
+terminalCopper - buys Duchy
+terminalCopper - gains Duchy
+terminalCopper - draws Copper, Silver, Duchy, Estate
+terminalCopper - shuffles deck
+terminalCopper - draws Copper
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Moneylender
+unicut - trashes Copper
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - draws Duchy, Copper, Market, Market, Estate
+ 
+---------- terminalCopper: turn 17 ----------
+terminalCopper - plays 2 Copper, 1 Silver
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Duchy, Copper, Estate, Gold, Library
+ 
+---------- unicut: turn 17 ----------
+unicut - plays Market
+unicut - draws Silver
+unicut - plays Market
+unicut - draws Cellar
+unicut - plays Cellar
+unicut - discards Estate
+unicut - discards Duchy
+unicut - draws Silver
+unicut - shuffles deck
+unicut - draws Province
+unicut - plays 2 Silver, 1 Copper
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Silver, Province, Copper, Gold, Duchy
+ 
+---------- terminalCopper: turn 18 ----------
+terminalCopper - plays Library
+terminalCopper - draws Silver
+terminalCopper - draws Copper
+terminalCopper - draws Silver
+terminalCopper - plays 2 Copper, 2 Silver, 1 Gold
+terminalCopper - buys Province
+terminalCopper - gains Province
+terminalCopper - draws Cellar, Moneylender, Duchy, Estate, Province
+ 
+---------- unicut: turn 18 ----------
+unicut - plays 1 Silver, 1 Copper, 1 Gold
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Estate, Duchy, Moneylender, Estate, Province
+ 
+---------- terminalCopper: turn 19 ----------
+terminalCopper - plays Cellar
+terminalCopper - discards Province
+terminalCopper - discards Estate
+terminalCopper - discards Duchy
+terminalCopper - discards Moneylender
+terminalCopper - draws Duchy, Cellar, Silver, Province
+terminalCopper - plays Cellar
+terminalCopper - discards Duchy
+terminalCopper - discards Province
+terminalCopper - draws Province
+terminalCopper - shuffles deck
+terminalCopper - draws Province
+terminalCopper - plays 1 Silver
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Copper, Copper, Copper, Moneylender, Duchy
+ 
+---------- unicut: turn 19 ----------
+unicut - draws Library, Copper, Silver, Duchy, Estate
+ 
+---------- terminalCopper: turn 20 ----------
+terminalCopper - plays Moneylender
+terminalCopper - trashes Copper
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Duchy, Duchy, Silver, Copper, Duchy
+ 
+---------- unicut: turn 20 ----------
+unicut - plays Library
+unicut - shuffles deck
+unicut - draws Silver
+unicut - discards Moneylender
+unicut - draws Estate
+unicut - draws Copper
+unicut - discards Moneylender
+unicut - plays 2 Copper, 2 Silver
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Province, Cellar, Market, Gold, Duchy
+ 
+---------- terminalCopper: turn 21 ----------
+terminalCopper - plays 1 Silver, 1 Copper
+terminalCopper - buys Estate
+terminalCopper - gains Estate
+terminalCopper - draws Silver, Estate, Estate, Estate, Province
+ 
+---------- unicut: turn 21 ----------
+unicut - plays Market
+unicut - draws Province
+unicut - plays Cellar
+unicut - discards Province
+unicut - discards Province
+unicut - discards Duchy
+unicut - draws Copper, Province, Market
+unicut - plays Market
+unicut - draws Silver
+unicut - plays 1 Gold, 1 Copper, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - draws Silver, Estate, Gold, Estate, Duchy
+ 
+------------ Game Over ------------
+terminalCopper - cards: 2 Cellar, 1 Moneylender, 1 Library, 4 Silver, 3 Copper, 1 Gold, 7 Estate, 4 Province, 4 Duchy
+terminalCopper - total victory points: 43
+terminalCopper - turns: 21
+ 
+unicut - cards: 2 Market, 1 Moneylender, 1 Library, 1 Cellar, 4 Silver, 3 Gold, 3 Copper, 4 Estate, 4 Duchy, 4 Province
+unicut - total victory points: 40
+unicut - turns: 21
+ 
+1st place: terminalCopper
+2nd place: unicut
+ 

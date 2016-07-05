@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Workshop, Moneylender, Smithy, Thief, Council Room, Festival, Market, Mine, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+houdini - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+houdini - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Copper, Copper
+houdini - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 5 Copper
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- houdini: turn 1 ----------
+houdini - plays 3 Copper
+houdini - buys Silver
+houdini - gains Silver
+houdini - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 2 Copper
+Monsieur X - buys Chapel
+Monsieur X - gains Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- houdini: turn 2 ----------
+houdini - plays 4 Copper
+houdini - buys Chapel
+houdini - gains Chapel
+houdini - shuffles deck
+houdini - draws Chapel, Copper, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Copper, Copper, Chapel, Estate, Festival
+ 
+---------- houdini: turn 3 ----------
+houdini - plays Chapel
+houdini - trashes Copper, Copper, Copper, Copper
+houdini - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper, Estate
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Smithy, Festival
+ 
+---------- houdini: turn 4 ----------
+houdini - plays 2 Copper, 1 Silver
+houdini - buys Smithy
+houdini - gains Smithy
+houdini - draws Copper, Estate
+houdini - shuffles deck
+houdini - draws Smithy, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Copper, Chapel, Estate
+Monsieur X - plays Chapel
+Monsieur X - trashes Estate, Estate, Copper, Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Copper, Silver
+ 
+---------- houdini: turn 5 ----------
+houdini - plays Smithy
+houdini - draws Silver, Chapel, Estate
+houdini - plays 3 Copper, 1 Silver
+houdini - buys Festival
+houdini - gains Festival
+houdini - draws Estate
+houdini - shuffles deck
+houdini - draws Copper, Festival, Estate, Smithy
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper, Copper
+Monsieur X - plays 1 Copper, 1 Silver
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Smithy, Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Chapel, Copper
+ 
+---------- houdini: turn 6 ----------
+houdini - plays Festival
+houdini - plays Smithy
+houdini - draws Copper, Chapel, Estate
+houdini - plays Chapel
+houdini - trashes Estate, Estate, Estate, Copper
+houdini - plays 1 Copper
+houdini - buys Silver
+houdini - gains Silver
+houdini - draws Copper, Silver
+houdini - shuffles deck
+houdini - draws Festival, Copper, Chapel
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver
+Monsieur X - plays Chapel
+Monsieur X - trashes Copper
+Monsieur X - plays 2 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Chapel, Silver, Smithy, Festival, Silver
+ 
+---------- houdini: turn 7 ----------
+houdini - plays Festival
+houdini - plays Chapel
+houdini - trashes Copper, Copper
+houdini - plays 1 Silver
+houdini - buys Thief
+houdini - gains Thief
+houdini - draws Smithy, Silver
+houdini - shuffles deck
+houdini - draws Chapel, Thief, Festival
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Gold
+Monsieur X - plays 2 Silver, 1 Gold
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Thief
+Monsieur X - gains Thief
+Monsieur X - shuffles deck
+Monsieur X - draws Thief, Silver, Gold, Festival, Festival
+ 
+---------- houdini: turn 8 ----------
+houdini - plays Festival
+houdini - plays Smithy
+houdini - draws Silver
+houdini - plays Thief
+Monsieur X - reveals: Silver, Smithy
+Monsieur X - trashes Silver
+Monsieur X - discards Smithy
+houdini - gains Silver
+houdini - plays 2 Silver
+houdini - buys Festival
+houdini - gains Festival
+houdini - shuffles deck
+houdini - draws Chapel, Silver, Silver, Festival, Thief
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Thief
+houdini - reveals: Smithy, Festival
+houdini - discards: Smithy, Festival
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Festival, Festival, Silver
+ 
+---------- houdini: turn 9 ----------
+houdini - plays Festival
+houdini - plays Thief
+Monsieur X - reveals: Smithy, Thief
+Monsieur X - discards: Smithy, Thief
+houdini - plays 2 Silver
+houdini - buys Festival
+houdini - gains Festival
+houdini - draws Silver
+houdini - shuffles deck
+houdini - draws Chapel, Thief, Festival, Silver
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Chapel
+Monsieur X - trashes Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Gold, Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Thief, Festival, Smithy
+ 
+---------- houdini: turn 10 ----------
+houdini - plays Festival
+houdini - plays Thief
+Monsieur X - reveals: Chapel, Festival
+Monsieur X - discards: Chapel, Festival
+houdini - plays Chapel
+houdini - trashes Silver
+houdini - plays 1 Silver
+houdini - buys Smithy
+houdini - gains Smithy
+houdini - draws Festival, Smithy, Silver, Festival
+houdini - shuffles deck
+houdini - draws Smithy
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Festival
+Monsieur X - shuffles deck
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Thief
+houdini - reveals: Festival, Silver
+houdini - trashes Silver
+houdini - discards Festival
+Monsieur X - gains Silver
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Silver
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Province, Chapel, Silver, Festival
+ 
+---------- houdini: turn 11 ----------
+houdini - plays Festival
+houdini - plays Festival
+houdini - plays Smithy
+houdini - draws Thief, Chapel
+houdini - shuffles deck
+houdini - draws Festival
+houdini - plays Festival
+houdini - plays Thief
+Monsieur X - reveals: Festival, Smithy
+Monsieur X - discards: Festival, Smithy
+houdini - plays Smithy
+houdini - plays 1 Silver
+houdini - buys Festival
+houdini - gains Festival
+houdini - buys Workshop
+houdini - gains Workshop
+houdini - shuffles deck
+houdini - draws Workshop, Festival, Festival, Festival, Smithy
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Festival
+Monsieur X - plays 1 Gold, 1 Silver
+Monsieur X - buys Festival
+Monsieur X - gains Festival
+Monsieur X - draws Smithy, Festival, Thief, Festival, Festival
+ 
+---------- houdini: turn 12 ----------
+houdini - plays Festival
+houdini - plays Festival
+houdini - plays Festival
+houdini - plays Workshop
+houdini - gains Thief
+houdini - plays Smithy
+houdini - draws Festival, Silver, Smithy
+houdini - plays Festival
+houdini - plays Smithy
+houdini - draws Chapel, Thief
+houdini - shuffles deck
+houdini - draws Thief
+houdini - plays Thief
+Monsieur X - shuffles deck
+Monsieur X - reveals: Festival, Chapel
+Monsieur X - discards: Festival, Chapel
+houdini - plays Thief
+Monsieur X - reveals: Festival, Festival
+Monsieur X - discards: Festival, Festival
+houdini - plays 1 Silver
+houdini - buys Market
+houdini - gains Market
+houdini - buys Market
+houdini - gains Market
+houdini - shuffles deck
+houdini - draws Chapel, Thief, Festival, Market, Thief
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver, Smithy, Gold
+Monsieur X - plays Thief
+houdini - reveals: Silver, Smithy
+houdini - trashes Silver
+houdini - discards Smithy
+Monsieur X - gains Silver
+Monsieur X - plays Smithy
+Monsieur X - draws Province
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Council Room
+Monsieur X - gains Council Room
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - draws Festival, Silver, Chapel
+Monsieur X - shuffles deck
+Monsieur X - draws Smithy, Market
+ 
+---------- houdini: turn 13 ----------
+houdini - plays Festival
+houdini - plays Market
+houdini - draws Market
+houdini - plays Market
+houdini - draws Workshop
+houdini - plays Thief
+Monsieur X - reveals: Thief, Gold
+Monsieur X - trashes Gold
+Monsieur X - discards Thief
+houdini - gains Gold
+houdini - plays Thief
+Monsieur X - reveals: Festival, Silver
+Monsieur X - trashes Silver
+Monsieur X - discards Festival
+houdini - gains Silver
+houdini - buys Smithy
+houdini - gains Smithy
+houdini - draws Festival, Festival, Smithy, Festival
+houdini - shuffles deck
+houdini - draws Thief
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Smithy, Council Room
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Province, Festival, Festival, Market
+houdini - draws Gold
+Monsieur X - plays Festival
+Monsieur X - plays Market
+Monsieur X - shuffles deck
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Thief
+Monsieur X - plays Thief
+houdini - reveals: Smithy, Smithy
+houdini - discards: Smithy, Smithy
+Monsieur X - plays 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Silver, Smithy, Market, Festival
+ 
+---------- houdini: turn 14 ----------
+houdini - plays Festival
+houdini - plays Festival
+houdini - plays Festival
+houdini - plays Smithy
+houdini - draws Chapel, Market, Silver
+houdini - plays Market
+houdini - draws Festival
+houdini - plays Festival
+houdini - plays Thief
+Monsieur X - reveals: Thief, Smithy
+Monsieur X - discards: Thief, Smithy
+houdini - plays 1 Gold, 1 Silver
+houdini - buys Province
+houdini - gains Province
+houdini - buys Gold
+houdini - gains Gold
+houdini - draws Thief, Market, Workshop
+houdini - shuffles deck
+houdini - draws Festival, Gold
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Market
+Monsieur X - draws Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Market, Chapel
+Monsieur X - plays Festival
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Smithy
+Monsieur X - gains Smithy
+Monsieur X - draws Province, Province, Festival, Festival, Council Room
+ 
+---------- houdini: turn 15 ----------
+houdini - plays Festival
+houdini - plays Market
+houdini - draws Festival
+houdini - plays Festival
+houdini - plays Workshop
+houdini - gains Smithy
+houdini - plays Thief
+Monsieur X - shuffles deck
+Monsieur X - reveals: Festival, Chapel
+Monsieur X - discards: Festival, Chapel
+houdini - plays 1 Gold
+houdini - buys Province
+houdini - gains Province
+houdini - draws Smithy, Chapel, Thief, Province, Market
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Council Room
+Monsieur X - draws Province, Festival, Smithy, Festival
+houdini - draws Silver
+Monsieur X - plays Festival
+Monsieur X - plays Festival
+Monsieur X - plays Smithy
+Monsieur X - draws Silver, Market, Smithy
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Smithy
+Monsieur X - draws Festival, Smithy, Thief
+Monsieur X - plays Market
+Monsieur X - draws Province
+Monsieur X - plays Festival
+Monsieur X - plays Thief
+houdini - reveals: Smithy, Gold
+houdini - trashes Gold
+houdini - discards Smithy
+Monsieur X - gains Gold
+Monsieur X - plays Smithy
+Monsieur X - shuffles deck
+Monsieur X - draws Gold, Festival, Chapel
+Monsieur X - plays Festival
+Monsieur X - plays 1 Silver, 1 Gold
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Festival, Estate, Gold, Festival, Province
+ 
+------------ Game Over ------------
+Monsieur X - cards: 6 Festival, 3 Smithy, 2 Market, 1 Council Room, 1 Thief, 1 Chapel, 1 Gold, 1 Silver, 6 Province, 1 Estate
+Monsieur X - total victory points: 37
+Monsieur X - turns: 16
+ 
+houdini - cards: 4 Smithy, 4 Festival, 2 Thief, 2 Market, 1 Chapel, 1 Workshop, 1 Silver, 1 Gold, 2 Province
+houdini - total victory points: 12
+houdini - turns: 15
+ 
+1st place: Monsieur X
+2nd place: houdini
+ 

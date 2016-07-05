@@ -1,0 +1,379 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Militia, Moneylender, Remodel, Library, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+fisherman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fisherman - shuffles deck
+Rabid - shuffles deck
+fisherman - draws Copper, Copper, Estate, Copper, Estate
+Rabid - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- fisherman: turn 1 ----------
+fisherman - plays 3 Copper
+fisherman - buys Chapel
+fisherman - gains Chapel
+fisherman - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Chapel
+Rabid - gains Chapel
+Rabid - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- fisherman: turn 2 ----------
+fisherman - plays 4 Copper
+fisherman - buys Militia
+fisherman - gains Militia
+fisherman - shuffles deck
+fisherman - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Copper, Chapel, Silver
+ 
+---------- fisherman: turn 3 ----------
+fisherman - plays 3 Copper
+fisherman - buys Silver
+fisherman - gains Silver
+fisherman - draws Copper, Copper, Copper, Militia, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Estate, Copper
+Rabid - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- fisherman: turn 4 ----------
+fisherman - plays Militia
+Rabid - discards Estate
+Rabid - discards Estate
+fisherman - plays 4 Copper
+fisherman - buys Gold
+fisherman - gains Gold
+fisherman - draws Estate, Chapel
+fisherman - shuffles deck
+fisherman - draws Copper, Copper, Copper
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Chapel, Copper, Silver
+ 
+---------- fisherman: turn 5 ----------
+fisherman - plays Chapel
+fisherman - trashes Estate, Copper, Copper, Copper
+fisherman - draws Copper, Copper, Silver, Estate, Gold
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Copper, Copper
+Rabid - draws Copper, Estate, Estate, Silver, Copper
+ 
+---------- fisherman: turn 6 ----------
+fisherman - plays 2 Copper, 1 Silver, 1 Gold
+fisherman - buys Witch
+fisherman - gains Witch
+fisherman - draws Copper, Militia, Copper, Estate
+fisherman - shuffles deck
+fisherman - draws Estate
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Estate, Silver, Chapel, Silver
+ 
+---------- fisherman: turn 7 ----------
+fisherman - plays Militia
+Rabid - discards Chapel
+Rabid - discards Estate
+fisherman - plays 2 Copper
+fisherman - buys Silver
+fisherman - gains Silver
+fisherman - draws Copper, Gold, Witch, Chapel, Silver
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Copper, Estate, Silver
+Rabid - shuffles deck
+Rabid - draws Witch, Estate
+ 
+---------- fisherman: turn 8 ----------
+fisherman - plays Witch
+fisherman - draws Copper
+fisherman - shuffles deck
+fisherman - draws Copper
+Rabid - gains Curse
+fisherman - plays 3 Copper, 1 Gold, 1 Silver
+fisherman - buys Province
+fisherman - gains Province
+fisherman - draws Estate, Estate, Militia, Copper, Silver
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Witch
+Rabid - draws Chapel, Silver
+fisherman - gains Curse
+Rabid - plays 2 Silver, 1 Copper
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Silver, Copper
+Rabid - shuffles deck
+Rabid - draws Estate, Chapel, Estate
+ 
+---------- fisherman: turn 9 ----------
+fisherman - plays Militia
+Rabid - discards Silver
+Rabid - discards Copper
+fisherman - plays 1 Copper, 1 Silver
+fisherman - buys Market
+fisherman - gains Market
+fisherman - shuffles deck
+fisherman - draws Province, Estate, Copper, Militia, Witch
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Chapel
+Rabid - trashes Estate, Estate
+Rabid - draws Curse, Copper, Silver, Market, Silver
+ 
+---------- fisherman: turn 10 ----------
+fisherman - plays Witch
+fisherman - draws Chapel, Silver
+Rabid - gains Curse
+fisherman - plays 1 Copper, 1 Silver
+fisherman - buys Silver
+fisherman - gains Silver
+fisherman - draws Gold, Copper, Copper, Market, Curse
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays Market
+Rabid - draws Witch
+Rabid - plays Witch
+Rabid - shuffles deck
+Rabid - draws Curse, Silver
+fisherman - gains Curse
+Rabid - plays 3 Silver, 1 Copper
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - buys Moat
+Rabid - gains Moat
+Rabid - draws Chapel, Copper
+Rabid - shuffles deck
+Rabid - draws Silver, Moat, Curse
+ 
+---------- fisherman: turn 11 ----------
+fisherman - plays Market
+fisherman - draws Silver
+fisherman - plays 2 Copper, 1 Gold, 1 Silver
+fisherman - buys Province
+fisherman - gains Province
+fisherman - draws Estate, Copper
+fisherman - shuffles deck
+fisherman - draws Curse, Militia, Silver
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Chapel
+Rabid - trashes Copper, Curse
+Rabid - draws Gold, Curse, Silver, Copper, Witch
+ 
+---------- fisherman: turn 12 ----------
+fisherman - plays Militia
+Rabid - discards Curse
+Rabid - discards Copper
+fisherman - plays 1 Copper, 1 Silver
+fisherman - buys Market
+fisherman - gains Market
+fisherman - draws Gold, Province, Witch, Market, Copper
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays Witch
+Rabid - draws Silver, Market
+fisherman - gains Curse
+Rabid - plays 2 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - shuffles deck
+Rabid - draws Gold, Copper, Witch, Market, Gold
+ 
+---------- fisherman: turn 13 ----------
+fisherman - plays Market
+fisherman - draws Copper
+fisherman - plays Witch
+fisherman - draws Copper, Chapel
+Rabid - gains Curse
+fisherman - plays 3 Copper, 1 Gold
+fisherman - buys Gold
+fisherman - gains Gold
+fisherman - draws Estate, Silver, Province, Silver, Curse
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays Market
+Rabid - draws Chapel
+Rabid - plays Witch
+Rabid - draws Silver, Curse
+fisherman - gains Curse
+Rabid - plays 2 Gold, 1 Copper, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Silver, Silver, Moat
+Rabid - shuffles deck
+Rabid - draws Chapel, Silver
+ 
+---------- fisherman: turn 14 ----------
+fisherman - plays 2 Silver
+fisherman - buys Silver
+fisherman - gains Silver
+fisherman - shuffles deck
+fisherman - draws Copper, Copper, Estate, Curse, Chapel
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Moat
+Rabid - draws Province, Curse
+Rabid - plays 3 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Gold, Curse, Gold, Witch
+ 
+---------- fisherman: turn 15 ----------
+fisherman - plays Chapel
+fisherman - trashes Curse, Estate, Copper, Copper
+fisherman - draws Silver, Province, Copper, Province, Witch
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Witch
+Rabid - draws Market
+Rabid - shuffles deck
+Rabid - draws Silver
+fisherman - gains Curse
+Rabid - plays 2 Gold, 1 Copper, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Chapel, Province, Gold, Curse, Silver
+ 
+---------- fisherman: turn 16 ----------
+fisherman - plays Witch
+fisherman - draws Silver, Silver
+Rabid - gains Curse
+fisherman - plays 3 Silver, 1 Copper
+fisherman - buys Gold
+fisherman - gains Gold
+fisherman - draws Market, Gold, Curse, Curse, Market
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays Chapel
+Rabid - trashes Curse
+Rabid - plays 1 Gold, 1 Silver
+Rabid - buys Market
+Rabid - gains Market
+Rabid - draws Silver, Moat
+Rabid - shuffles deck
+Rabid - draws Curse, Witch, Province
+ 
+---------- fisherman: turn 17 ----------
+fisherman - plays Market
+fisherman - draws Curse
+fisherman - plays Market
+fisherman - draws Gold
+fisherman - plays 2 Gold
+fisherman - buys Province
+fisherman - gains Province
+fisherman - draws Silver, Militia, Estate, Copper
+fisherman - shuffles deck
+fisherman - draws Province
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays Witch
+Rabid - draws Silver, Market
+fisherman - gains Curse
+Rabid - plays 2 Silver
+Rabid - buys Remodel
+Rabid - gains Remodel
+Rabid - draws Market, Gold, Curse, Copper, Province
+ 
+---------- fisherman: turn 18 ----------
+fisherman - plays Militia
+Rabid - discards Curse
+Rabid - discards Province
+fisherman - plays 1 Silver, 1 Copper
+fisherman - buys Remodel
+fisherman - gains Remodel
+fisherman - draws Curse, Silver, Silver, Curse, Curse
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Market
+Rabid - draws Silver
+Rabid - plays 1 Gold, 1 Copper, 1 Silver
+Rabid - buys Duchy
+Rabid - gains Duchy
+Rabid - draws Chapel, Gold, Gold
+Rabid - shuffles deck
+Rabid - draws Witch, Province
+ 
+---------- fisherman: turn 19 ----------
+fisherman - plays 2 Silver
+fisherman - buys Cellar
+fisherman - gains Cellar
+fisherman - draws Province, Curse, Gold, Gold, Witch
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Witch
+Rabid - draws Province, Silver
+Rabid - plays 2 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Silver, Moat, Curse, Copper, Gold
+ 
+---------- fisherman: turn 20 ----------
+fisherman - plays Witch
+Rabid - reveals reaction Moat
+fisherman - draws Chapel, Province
+fisherman - plays 2 Gold
+fisherman - buys Duchy
+fisherman - gains Duchy
+fisherman - draws Market, Gold, Market, Copper, Silver
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Moat
+Rabid - draws Remodel, Silver
+Rabid - plays 2 Silver, 1 Copper, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Market, Curse, Duchy, Market
+Rabid - shuffles deck
+Rabid - draws Copper
+ 
+---------- fisherman: turn 21 ----------
+fisherman - plays Market
+fisherman - shuffles deck
+fisherman - draws Duchy
+fisherman - plays Market
+fisherman - draws Militia
+fisherman - plays Militia
+Rabid - discards Duchy
+Rabid - discards Copper
+fisherman - plays 1 Gold, 1 Copper, 1 Silver
+fisherman - buys Province
+fisherman - gains Province
+fisherman - buys Estate
+fisherman - gains Estate
+fisherman - draws Chapel, Silver, Curse, Gold, Witch
+ 
+------------ Game Over ------------
+Rabid - cards: 2 Market, 1 Remodel, 1 Witch, 1 Moat, 1 Chapel, 3 Gold, 3 Silver, 1 Copper, 4 Province, 1 Duchy, 2 Curse
+Rabid - total victory points: 25
+Rabid - turns: 20
+ 
+fisherman - cards: 2 Market, 1 Chapel, 1 Witch, 1 Militia, 1 Cellar, 1 Remodel, 4 Silver, 3 Gold, 2 Copper, 4 Province, 2 Estate, 1 Duchy, 5 Curse
+fisherman - total victory points: 24
+fisherman - turns: 21
+ 
+1st place: Rabid
+2nd place: fisherman
+ 

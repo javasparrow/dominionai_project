@@ -1,0 +1,444 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Workshop, Gardens, Militia, Spy, Thief, Market, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+OneTwoThreeFour - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HvBoedefeld - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+OneTwoThreeFour - shuffles deck
+HvBoedefeld - shuffles deck
+OneTwoThreeFour - draws Copper, Estate, Copper, Copper, Copper
+HvBoedefeld - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- OneTwoThreeFour: turn 1 ----------
+OneTwoThreeFour - plays 4 Copper
+OneTwoThreeFour - buys Militia
+OneTwoThreeFour - gains Militia
+OneTwoThreeFour - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 1 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- OneTwoThreeFour: turn 2 ----------
+OneTwoThreeFour - plays 3 Copper
+OneTwoThreeFour - buys Silver
+OneTwoThreeFour - gains Silver
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 2 ----------
+HvBoedefeld - plays 3 Copper
+HvBoedefeld - buys Chapel
+HvBoedefeld - gains Chapel
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Estate, Copper, Estate, Chapel, Copper
+ 
+---------- OneTwoThreeFour: turn 3 ----------
+OneTwoThreeFour - plays 4 Copper, 1 Silver
+OneTwoThreeFour - buys Gold
+OneTwoThreeFour - gains Gold
+OneTwoThreeFour - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- HvBoedefeld: turn 3 ----------
+HvBoedefeld - plays Chapel
+HvBoedefeld - trashes Estate, Copper, Estate, Copper
+HvBoedefeld - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- OneTwoThreeFour: turn 4 ----------
+OneTwoThreeFour - plays 2 Copper
+OneTwoThreeFour - buys Chapel
+OneTwoThreeFour - gains Chapel
+OneTwoThreeFour - draws Copper, Militia
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Gold, Estate, Silver
+ 
+---------- HvBoedefeld: turn 4 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - draws Copper, Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper, Silver
+ 
+---------- OneTwoThreeFour: turn 5 ----------
+OneTwoThreeFour - plays Militia
+HvBoedefeld - discards Copper
+HvBoedefeld - discards Copper
+OneTwoThreeFour - plays 1 Copper, 1 Gold, 1 Silver
+OneTwoThreeFour - buys Witch
+OneTwoThreeFour - gains Witch
+OneTwoThreeFour - draws Copper, Estate, Chapel, Copper, Copper
+ 
+---------- HvBoedefeld: turn 5 ----------
+HvBoedefeld - plays 2 Silver, 1 Copper
+HvBoedefeld - buys Witch
+HvBoedefeld - gains Witch
+HvBoedefeld - draws Copper, Estate, Chapel, Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+ 
+---------- OneTwoThreeFour: turn 6 ----------
+OneTwoThreeFour - plays Chapel
+OneTwoThreeFour - trashes Estate, Copper, Copper, Copper
+OneTwoThreeFour - draws Copper, Copper, Estate, Copper
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Militia
+ 
+---------- HvBoedefeld: turn 6 ----------
+HvBoedefeld - plays Chapel
+HvBoedefeld - trashes Estate, Copper, Copper, Copper
+HvBoedefeld - draws Silver, Witch, Copper, Copper, Silver
+ 
+---------- OneTwoThreeFour: turn 7 ----------
+OneTwoThreeFour - plays Militia
+HvBoedefeld - discards Copper
+HvBoedefeld - discards Copper
+OneTwoThreeFour - plays 3 Copper
+OneTwoThreeFour - buys Market
+OneTwoThreeFour - gains Market
+OneTwoThreeFour - draws Gold, Witch, Copper, Estate, Chapel
+ 
+---------- HvBoedefeld: turn 7 ----------
+HvBoedefeld - plays Witch
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Chapel, Copper
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 2 Silver, 1 Copper
+HvBoedefeld - buys Market
+HvBoedefeld - gains Market
+HvBoedefeld - draws Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Chapel, Silver, Witch, Copper
+ 
+---------- OneTwoThreeFour: turn 8 ----------
+OneTwoThreeFour - plays Chapel
+OneTwoThreeFour - trashes Copper, Estate
+OneTwoThreeFour - plays 1 Gold
+OneTwoThreeFour - buys Silver
+OneTwoThreeFour - gains Silver
+OneTwoThreeFour - draws Silver
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Copper, Witch, Gold, Market
+ 
+---------- HvBoedefeld: turn 8 ----------
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Silver, Market
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 2 Copper, 2 Silver
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Witch, Chapel, Silver, Copper, Copper
+ 
+---------- OneTwoThreeFour: turn 9 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Militia
+OneTwoThreeFour - plays Witch
+OneTwoThreeFour - draws Copper, Estate
+HvBoedefeld - gains Curse
+OneTwoThreeFour - plays 2 Copper, 1 Silver, 1 Gold
+OneTwoThreeFour - buys Thief
+OneTwoThreeFour - gains Thief
+OneTwoThreeFour - buys Spy
+OneTwoThreeFour - gains Spy
+OneTwoThreeFour - draws Silver, Chapel, Copper, Curse
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Market
+ 
+---------- HvBoedefeld: turn 9 ----------
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Silver, Market
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 2 Silver, 2 Copper
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - draws Gold
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Chapel, Curse, Silver, Copper
+ 
+---------- OneTwoThreeFour: turn 10 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Witch
+OneTwoThreeFour - plays Chapel
+OneTwoThreeFour - trashes Curse, Copper
+OneTwoThreeFour - plays 1 Silver
+OneTwoThreeFour - buys Silver
+OneTwoThreeFour - gains Silver
+OneTwoThreeFour - draws Copper, Gold, Curse, Spy, Copper
+ 
+---------- HvBoedefeld: turn 10 ----------
+HvBoedefeld - plays Chapel
+HvBoedefeld - trashes Curse, Copper
+HvBoedefeld - plays 1 Gold, 1 Silver
+HvBoedefeld - buys Market
+HvBoedefeld - gains Market
+HvBoedefeld - draws Gold, Silver, Copper, Witch, Market
+ 
+---------- OneTwoThreeFour: turn 11 ----------
+OneTwoThreeFour - plays Spy
+OneTwoThreeFour - draws Estate
+OneTwoThreeFour - places Militia on top of deck
+HvBoedefeld - shuffles deck
+HvBoedefeld - discards Market
+OneTwoThreeFour - plays 2 Copper, 1 Gold
+OneTwoThreeFour - buys Market
+OneTwoThreeFour - gains Market
+OneTwoThreeFour - draws Militia, Thief, Silver
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Market, Copper
+ 
+---------- HvBoedefeld: turn 11 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Silver, Chapel
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 2 Gold, 2 Silver, 1 Copper
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Witch, Copper, Gold, Market, Gold
+ 
+---------- OneTwoThreeFour: turn 12 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Estate
+OneTwoThreeFour - plays Thief
+HvBoedefeld - reveals: Market, Silver
+HvBoedefeld - trashes Silver
+HvBoedefeld - discards Market
+OneTwoThreeFour - gains Silver
+OneTwoThreeFour - plays 1 Silver, 1 Copper
+OneTwoThreeFour - buys Cellar
+OneTwoThreeFour - gains Cellar
+OneTwoThreeFour - buys Cellar
+OneTwoThreeFour - gains Cellar
+OneTwoThreeFour - draws Market, Silver, Witch, Silver, Gold
+ 
+---------- HvBoedefeld: turn 12 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Gold, Gold
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 4 Gold, 1 Copper, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - draws Chapel
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver, Gold, Witch, Gold
+ 
+---------- OneTwoThreeFour: turn 13 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - plays Witch
+OneTwoThreeFour - draws Curse, Spy
+HvBoedefeld - gains Curse
+OneTwoThreeFour - plays 2 Silver, 1 Gold
+OneTwoThreeFour - buys Province
+OneTwoThreeFour - gains Province
+OneTwoThreeFour - draws Copper, Chapel
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Silver, Spy, Witch
+ 
+---------- HvBoedefeld: turn 13 ----------
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Province, Market
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 2 Gold, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - draws Market, Province, Gold, Gold, Copper
+ 
+---------- OneTwoThreeFour: turn 14 ----------
+OneTwoThreeFour - plays Spy
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - discards Estate
+HvBoedefeld - shuffles deck
+HvBoedefeld - places Curse on top of deck
+OneTwoThreeFour - plays Chapel
+OneTwoThreeFour - trashes Curse, Copper
+OneTwoThreeFour - plays 1 Silver
+OneTwoThreeFour - buys Cellar
+OneTwoThreeFour - gains Cellar
+OneTwoThreeFour - draws Cellar, Province, Gold, Thief, Silver
+ 
+---------- HvBoedefeld: turn 14 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Curse
+HvBoedefeld - plays 2 Gold, 1 Copper
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - draws Chapel, Market, Silver, Witch, Gold
+ 
+---------- OneTwoThreeFour: turn 15 ----------
+OneTwoThreeFour - plays Cellar
+OneTwoThreeFour - discards Province
+OneTwoThreeFour - draws Cellar
+OneTwoThreeFour - plays Thief
+HvBoedefeld - reveals: Gold, Province
+HvBoedefeld - trashes Gold
+HvBoedefeld - discards Province
+OneTwoThreeFour - gains Gold
+OneTwoThreeFour - plays 1 Gold, 1 Silver
+OneTwoThreeFour - buys Market
+OneTwoThreeFour - gains Market
+OneTwoThreeFour - draws Copper, Market, Curse, Curse, Militia
+ 
+---------- HvBoedefeld: turn 15 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Province
+HvBoedefeld - plays Witch
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Gold, Gold
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 3 Gold, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - draws Province, Curse, Province, Province, Copper
+ 
+---------- OneTwoThreeFour: turn 16 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - plays Militia
+HvBoedefeld - discards Province
+HvBoedefeld - discards Province
+OneTwoThreeFour - plays 1 Copper
+OneTwoThreeFour - buys Cellar
+OneTwoThreeFour - gains Cellar
+OneTwoThreeFour - buys Cellar
+OneTwoThreeFour - gains Cellar
+OneTwoThreeFour - draws Silver, Market, Silver
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Cellar, Cellar
+ 
+---------- HvBoedefeld: turn 16 ----------
+HvBoedefeld - draws Market
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Chapel, Witch, Market, Province
+ 
+---------- OneTwoThreeFour: turn 17 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Gold
+OneTwoThreeFour - plays Cellar
+OneTwoThreeFour - discards Cellar
+OneTwoThreeFour - draws Spy
+OneTwoThreeFour - plays Spy
+OneTwoThreeFour - draws Estate
+OneTwoThreeFour - places Militia on top of deck
+HvBoedefeld - places Province on top of deck
+OneTwoThreeFour - plays 2 Silver, 1 Gold
+OneTwoThreeFour - buys Gardens
+OneTwoThreeFour - gains Gardens
+OneTwoThreeFour - buys Gardens
+OneTwoThreeFour - gains Gardens
+OneTwoThreeFour - draws Militia, Cellar, Chapel, Gold, Cellar
+ 
+---------- HvBoedefeld: turn 17 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Province
+HvBoedefeld - plays Market
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Province, Curse
+OneTwoThreeFour - gains Curse
+HvBoedefeld - plays 1 Silver
+HvBoedefeld - buys Cellar
+HvBoedefeld - gains Cellar
+HvBoedefeld - buys Cellar
+HvBoedefeld - gains Cellar
+HvBoedefeld - draws Gold, Province, Gold, Copper, Province
+ 
+---------- OneTwoThreeFour: turn 18 ----------
+OneTwoThreeFour - plays Cellar
+OneTwoThreeFour - discards Chapel
+OneTwoThreeFour - discards Cellar
+OneTwoThreeFour - draws Witch, Curse
+OneTwoThreeFour - plays Militia
+HvBoedefeld - discards Province
+HvBoedefeld - discards Province
+OneTwoThreeFour - plays 1 Gold
+OneTwoThreeFour - buys Duchy
+OneTwoThreeFour - gains Duchy
+OneTwoThreeFour - draws Market, Curse, Silver, Silver, Copper
+ 
+---------- HvBoedefeld: turn 18 ----------
+HvBoedefeld - plays 2 Gold, 1 Copper
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - draws Gold, Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Gold, Gold, Cellar
+ 
+---------- OneTwoThreeFour: turn 19 ----------
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - plays 2 Silver, 1 Copper
+OneTwoThreeFour - buys Duchy
+OneTwoThreeFour - gains Duchy
+OneTwoThreeFour - draws Thief, Market, Curse, Cellar, Province
+ 
+---------- HvBoedefeld: turn 19 ----------
+HvBoedefeld - plays Cellar
+HvBoedefeld - discards Silver
+HvBoedefeld - draws Witch
+HvBoedefeld - plays Witch
+HvBoedefeld - draws Province, Province
+HvBoedefeld - plays 3 Gold
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - draws Market, Province, Gold, Province, Province
+ 
+---------- OneTwoThreeFour: turn 20 ----------
+OneTwoThreeFour - plays Cellar
+OneTwoThreeFour - discards Curse
+OneTwoThreeFour - discards Province
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - shuffles deck
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - plays Market
+OneTwoThreeFour - draws Curse
+OneTwoThreeFour - plays Thief
+HvBoedefeld - reveals: Curse, Chapel
+HvBoedefeld - discards: Curse, Chapel
+OneTwoThreeFour - buys Copper
+OneTwoThreeFour - gains Copper
+OneTwoThreeFour - buys Copper
+OneTwoThreeFour - gains Copper
+OneTwoThreeFour - draws Militia, Cellar, Silver, Cellar, Spy
+ 
+---------- HvBoedefeld: turn 20 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Market
+HvBoedefeld - plays Market
+HvBoedefeld - draws Cellar
+HvBoedefeld - plays Cellar
+HvBoedefeld - discards Province
+HvBoedefeld - discards Province
+HvBoedefeld - discards Province
+HvBoedefeld - draws Copper, Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays 1 Gold, 1 Copper, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - draws Cellar, Province, Silver, Chapel, Curse
+ 
+------------ Game Over ------------
+HvBoedefeld - cards: 2 Cellar, 2 Market, 1 Chapel, 1 Witch, 4 Gold, 2 Silver, 1 Copper, 7 Province, 1 Curse
+HvBoedefeld - total victory points: 41
+HvBoedefeld - turns: 20
+ 
+OneTwoThreeFour - cards: 5 Cellar, 3 Market, 1 Militia, 1 Spy, 1 Thief, 1 Witch, 1 Chapel, 4 Silver, 3 Copper, 2 Gold, 2 Gardens, 2 Duchy, 1 Province, 1 Estate, 6 Curse
+OneTwoThreeFour - total victory points: 13
+OneTwoThreeFour - turns: 20
+ 
+1st place: HvBoedefeld
+2nd place: OneTwoThreeFour
+ 

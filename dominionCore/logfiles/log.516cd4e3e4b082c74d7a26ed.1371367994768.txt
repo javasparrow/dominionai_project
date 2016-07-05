@@ -1,0 +1,519 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Chancellor, Village, Workshop, Bureaucrat, Feast, Smithy, Throne Room, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+yac - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yac - shuffles deck
+Titandrake - shuffles deck
+yac - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- yac: turn 1 ----------
+yac - plays 4 Copper
+yac - buys Smithy
+yac - gains Smithy
+yac - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yac: turn 2 ----------
+yac - plays 3 Copper
+yac - buys Workshop
+yac - gains Workshop
+yac - shuffles deck
+yac - draws Copper, Copper, Smithy, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- yac: turn 3 ----------
+yac - plays Smithy
+yac - draws Workshop, Estate, Copper
+yac - plays 5 Copper
+yac - buys Market
+yac - gains Market
+yac - draws Copper, Estate, Copper, Estate
+yac - shuffles deck
+yac - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Feast, Copper, Copper, Copper
+ 
+---------- yac: turn 4 ----------
+yac - plays 3 Copper
+yac - buys Village
+yac - gains Village
+yac - draws Copper, Workshop, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Market
+Titandrake - plays 4 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Workshop, Estate
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Estate, Copper
+ 
+---------- yac: turn 5 ----------
+yac - plays Workshop
+yac - gains Throne Room
+yac - plays 3 Copper
+yac - buys Workshop
+yac - gains Workshop
+yac - draws Market, Smithy, Copper
+yac - shuffles deck
+yac - draws Workshop, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Workshop
+Titandrake - gains Village
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - draws Copper, Copper, Village, Estate, Copper
+ 
+---------- yac: turn 6 ----------
+yac - plays Market
+yac - draws Village
+yac - plays Village
+yac - draws Copper
+yac - plays Smithy
+yac - draws Copper, Throne Room, Estate
+yac - plays Throne Room
+yac - plays Workshop
+yac - gains Throne Room
+yac - plays Workshop
+yac - gains Smithy
+yac - plays 4 Copper
+yac - buys Market
+yac - gains Market
+yac - draws Estate, Copper, Estate, Copper, Workshop
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Copper, Copper, Market
+Titandrake - shuffles deck
+Titandrake - draws Village, Village
+ 
+---------- yac: turn 7 ----------
+yac - plays Workshop
+yac - gains Throne Room
+yac - plays 2 Copper
+yac - buys Cellar
+yac - gains Cellar
+yac - draws Copper
+yac - shuffles deck
+yac - draws Throne Room, Market, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Village
+Titandrake - draws Smithy
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - draws Workshop, Copper, Copper
+Titandrake - plays Workshop
+Titandrake - gains Throne Room
+Titandrake - plays 6 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Estate, Estate, Copper, Smithy, Estate
+ 
+---------- yac: turn 8 ----------
+yac - plays Throne Room
+yac - plays Market
+yac - draws Copper
+yac - plays Market
+yac - draws Estate
+yac - plays 3 Copper
+yac - buys Market
+yac - gains Market
+yac - draws Estate, Copper, Copper, Workshop, Throne Room
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Smithy
+Titandrake - shuffles deck
+Titandrake - draws Village, Cellar, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Market, Copper, Copper, Throne Room
+ 
+---------- yac: turn 9 ----------
+yac - plays Throne Room
+yac - plays Workshop
+yac - gains Smithy
+yac - plays Workshop
+yac - gains Village
+yac - plays 2 Copper
+yac - buys Cellar
+yac - gains Cellar
+yac - draws Cellar, Copper, Copper, Workshop, Throne Room
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Throne Room, Workshop, Village
+Titandrake - plays Village
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Workshop
+Titandrake - gains Village
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - plays 5 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Copper, Market, Copper, Estate, Throne Room
+ 
+---------- yac: turn 10 ----------
+yac - plays Throne Room
+yac - plays Cellar
+yac - discards Copper
+yac - discards Copper
+yac - draws Smithy, Village
+yac - plays Cellar
+yac - plays Village
+yac - draws Smithy
+yac - plays Smithy
+yac - draws Market
+yac - shuffles deck
+yac - draws Estate, Village
+yac - plays Village
+yac - draws Copper
+yac - plays Smithy
+yac - draws Throne Room, Copper, Estate
+yac - plays Throne Room
+yac - plays Market
+yac - draws Workshop
+yac - plays Market
+yac - draws Estate
+yac - plays Workshop
+yac - gains Throne Room
+yac - plays Workshop
+yac - gains Smithy
+yac - plays 2 Copper
+yac - buys Smithy
+yac - gains Smithy
+yac - draws Cellar, Throne Room, Smithy, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Workshop
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - plays 3 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Village, Estate, Village, Village
+ 
+---------- yac: turn 11 ----------
+yac - plays Throne Room
+yac - plays Cellar
+yac - discards Copper
+yac - discards Copper
+yac - draws Copper, Market
+yac - plays Cellar
+yac - discards Copper
+yac - draws Copper
+yac - plays Market
+yac - draws Copper
+yac - plays Smithy
+yac - draws Market
+yac - shuffles deck
+yac - draws Copper, Smithy
+yac - plays Market
+yac - draws Smithy
+yac - plays Smithy
+yac - draws Smithy, Copper, Throne Room
+yac - plays 4 Copper
+yac - buys Village
+yac - gains Village
+yac - buys Village
+yac - gains Village
+yac - draws Throne Room, Market, Cellar, Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Village
+Titandrake - draws Cellar
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Cellar, Smithy, Throne Room, Smithy
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Throne Room, Market, Smithy
+Titandrake - plays Smithy
+Titandrake - draws Smithy, Copper, Copper
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Smithy
+Titandrake - draws Workshop, Smithy, Market
+Titandrake - plays Smithy
+Titandrake - draws Estate, Throne Room, Market
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Feast
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - shuffles deck
+Titandrake - draws Feast, Estate, Estate
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Market
+Titandrake - plays 7 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Workshop, Smithy, Market
+ 
+---------- yac: turn 12 ----------
+yac - plays Throne Room
+yac - plays Market
+yac - draws Estate
+yac - plays Market
+yac - draws Workshop
+yac - plays Cellar
+yac - discards Copper
+yac - discards Estate
+yac - discards Estate
+yac - discards Workshop
+yac - draws Workshop, Throne Room, Copper, Smithy
+yac - plays Throne Room
+yac - plays Smithy
+yac - draws Village, Village, Copper
+yac - plays Smithy
+yac - draws Estate
+yac - shuffles deck
+yac - draws Throne Room, Estate
+yac - plays Village
+yac - draws Copper
+yac - plays Village
+yac - draws Village
+yac - plays Village
+yac - draws Throne Room
+yac - plays Throne Room
+yac - plays Workshop
+yac - gains Throne Room
+yac - plays Workshop
+yac - gains Village
+yac - plays 3 Copper
+yac - buys Duchy
+yac - gains Duchy
+yac - draws Estate, Copper, Market, Cellar, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - draws Copper, Market, Market
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Workshop
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Cellar, Smithy, Smithy, Smithy, Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Gold
+Titandrake - plays Smithy
+Titandrake - draws Throne Room, Estate, Estate
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Throne Room, Smithy, Copper
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper, Market
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Estate, Workshop, Copper
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 7 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Smithy, Village
+ 
+---------- yac: turn 13 ----------
+yac - plays Market
+yac - draws Village
+yac - plays Village
+yac - draws Workshop
+yac - plays Cellar
+yac - discards Estate
+yac - discards Copper
+yac - discards Copper
+yac - discards Workshop
+yac - draws Smithy, Smithy, Smithy, Smithy
+yac - plays Smithy
+yac - draws Copper, Market, Copper
+yac - plays Market
+yac - shuffles deck
+yac - draws Throne Room
+yac - plays Throne Room
+yac - plays Smithy
+yac - draws Village, Workshop, Throne Room
+yac - plays Smithy
+yac - draws Village, Throne Room, Throne Room
+yac - plays Copper
+yac - plays Copper
+yac - buys Silver
+yac - gains Silver
+yac - buys Copper
+yac - gains Copper
+yac - draws Copper, Estate, Cellar, Village, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Cellar, Cellar, Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Village, Estate, Copper
+Titandrake - plays Smithy
+Titandrake - draws Smithy, Copper, Market
+Titandrake - plays Village
+Titandrake - draws Duchy
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Smithy, Copper, Market, Market, Throne Room, Smithy, Throne Room, Province
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Smithy
+Titandrake - draws Copper, Silver, Cellar
+Titandrake - plays Smithy
+Titandrake - draws Gold, Market, Copper
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Workshop
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - draws Copper, Estate, Copper
+Titandrake - plays Smithy
+Titandrake - draws Duchy, Estate
+Titandrake - plays Workshop
+Titandrake - gains Throne Room
+Titandrake - plays 7 Copper, 1 Silver, 1 Gold
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate, Estate, Cellar, Market
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Market, 5 Throne Room, 5 Smithy, 5 Village, 3 Cellar, 1 Workshop, 7 Copper, 1 Gold, 1 Silver, 3 Estate, 2 Province, 1 Duchy
+Titandrake - total victory points: 18
+Titandrake - turns: 13
+ 
+yac - cards: 5 Village, 5 Smithy, 5 Throne Room, 3 Market, 2 Cellar, 2 Workshop, 8 Copper, 1 Silver, 3 Estate, 1 Duchy
+yac - total victory points: 6
+yac - turns: 13
+ 
+1st place: Titandrake
+2nd place: yac
+ 

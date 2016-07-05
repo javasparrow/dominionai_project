@@ -1,0 +1,416 @@
+------------ Game Setup ------------
+Supply cards: Workshop, Bureaucrat, Gardens, Remodel, Smithy, Throne Room, Festival, Market, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dragline - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+fap_on_it - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dragline - shuffles deck
+fap_on_it - shuffles deck
+dragline - draws Copper, Copper, Copper, Estate, Copper
+fap_on_it - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dragline: turn 1 ----------
+dragline - plays 4 Copper
+dragline - buys Silver
+dragline - gains Silver
+dragline - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- fap_on_it: turn 1 ----------
+fap_on_it - plays 4 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- dragline: turn 2 ----------
+dragline - plays 3 Copper
+dragline - buys Silver
+dragline - gains Silver
+dragline - shuffles deck
+dragline - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- fap_on_it: turn 2 ----------
+fap_on_it - plays 3 Copper
+fap_on_it - buys Silver
+fap_on_it - gains Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- dragline: turn 3 ----------
+dragline - plays 3 Copper, 1 Silver
+dragline - buys Festival
+dragline - gains Festival
+dragline - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- fap_on_it: turn 3 ----------
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- dragline: turn 4 ----------
+dragline - plays 2 Copper, 1 Silver
+dragline - buys Smithy
+dragline - gains Smithy
+dragline - draws Copper, Copper
+dragline - shuffles deck
+dragline - draws Copper, Copper, Copper
+ 
+---------- fap_on_it: turn 4 ----------
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Festival
+fap_on_it - gains Festival
+fap_on_it - draws Copper, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Festival, Copper
+ 
+---------- dragline: turn 5 ----------
+dragline - plays 5 Copper
+dragline - buys Festival
+dragline - gains Festival
+dragline - draws Copper, Estate, Smithy, Festival, Copper
+ 
+---------- fap_on_it: turn 5 ----------
+fap_on_it - plays Festival
+fap_on_it - plays 3 Copper
+fap_on_it - buys Festival
+fap_on_it - gains Festival
+fap_on_it - draws Silver, Copper, Estate, Copper, Witch
+ 
+---------- dragline: turn 6 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Estate, Silver, Estate
+dragline - plays 2 Copper, 1 Silver
+dragline - buys Festival
+dragline - gains Festival
+dragline - draws Silver
+dragline - shuffles deck
+dragline - draws Estate, Festival, Copper, Silver
+ 
+---------- fap_on_it: turn 6 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Estate, Copper
+dragline - gains Curse
+fap_on_it - plays 3 Copper, 1 Silver
+fap_on_it - buys Witch
+fap_on_it - gains Witch
+fap_on_it - draws Copper, Silver
+fap_on_it - shuffles deck
+fap_on_it - draws Copper, Silver, Estate
+ 
+---------- dragline: turn 7 ----------
+dragline - plays Festival
+dragline - plays 2 Silver, 1 Copper
+dragline - buys Smithy
+dragline - gains Smithy
+dragline - buys Silver
+dragline - gains Silver
+dragline - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- fap_on_it: turn 7 ----------
+fap_on_it - plays 2 Copper, 2 Silver
+fap_on_it - buys Festival
+fap_on_it - gains Festival
+fap_on_it - draws Witch, Festival, Copper, Festival, Copper
+ 
+---------- dragline: turn 8 ----------
+dragline - plays 3 Copper
+dragline - buys Silver
+dragline - gains Silver
+dragline - draws Copper, Copper, Smithy, Festival, Copper
+ 
+---------- fap_on_it: turn 8 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Festival
+fap_on_it - plays Witch
+fap_on_it - draws Copper, Copper
+dragline - gains Curse
+fap_on_it - plays 4 Copper
+fap_on_it - buys Throne Room
+fap_on_it - gains Throne Room
+fap_on_it - buys Throne Room
+fap_on_it - gains Throne Room
+fap_on_it - draws Copper, Witch, Estate, Estate
+fap_on_it - shuffles deck
+fap_on_it - draws Silver
+ 
+---------- dragline: turn 9 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Festival
+dragline - shuffles deck
+dragline - draws Silver, Festival
+dragline - plays Festival
+dragline - plays Festival
+dragline - plays 3 Copper, 1 Silver
+dragline - buys Festival
+dragline - gains Festival
+dragline - buys Smithy
+dragline - gains Smithy
+dragline - draws Copper, Estate, Estate, Smithy, Silver
+ 
+---------- fap_on_it: turn 9 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Festival, Copper
+dragline - gains Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Workshop
+fap_on_it - gains Workshop
+fap_on_it - draws Copper, Copper, Festival, Copper, Copper
+ 
+---------- dragline: turn 10 ----------
+dragline - plays Smithy
+dragline - draws Silver, Copper, Silver
+dragline - plays 3 Silver, 2 Copper
+dragline - buys Province
+dragline - gains Province
+dragline - draws Copper, Copper, Curse, Estate, Curse
+ 
+---------- fap_on_it: turn 10 ----------
+fap_on_it - plays Festival
+fap_on_it - plays 4 Copper
+fap_on_it - buys Workshop
+fap_on_it - gains Workshop
+fap_on_it - buys Workshop
+fap_on_it - gains Workshop
+fap_on_it - draws Witch, Silver, Estate, Throne Room, Copper
+ 
+---------- dragline: turn 11 ----------
+dragline - plays 2 Copper
+dragline - buys Estate
+dragline - gains Estate
+dragline - shuffles deck
+dragline - draws Province, Estate, Copper, Festival, Festival
+ 
+---------- fap_on_it: turn 11 ----------
+fap_on_it - plays Throne Room
+fap_on_it - plays Witch
+fap_on_it - draws Throne Room, Festival
+dragline - gains Curse
+fap_on_it - plays Witch
+fap_on_it - shuffles deck
+fap_on_it - draws Witch, Copper
+dragline - gains Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Gardens
+fap_on_it - gains Gardens
+fap_on_it - draws Festival, Silver, Copper, Workshop, Festival
+ 
+---------- dragline: turn 12 ----------
+dragline - plays Festival
+dragline - plays Festival
+dragline - plays 1 Copper
+dragline - buys Gardens
+dragline - gains Gardens
+dragline - buys Copper
+dragline - gains Copper
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Copper, Smithy, Festival, Curse, Estate
+ 
+---------- fap_on_it: turn 12 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Festival
+fap_on_it - plays Workshop
+fap_on_it - gains Gardens
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Gardens
+fap_on_it - gains Gardens
+fap_on_it - buys Workshop
+fap_on_it - gains Workshop
+fap_on_it - draws Workshop, Copper, Workshop, Copper, Copper
+ 
+---------- dragline: turn 13 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Copper, Curse, Silver
+dragline - plays 2 Copper, 1 Silver
+dragline - buys Gardens
+dragline - gains Gardens
+dragline - buys Estate
+dragline - gains Estate
+dragline - draws Curse, Festival, Silver, Copper, Estate
+ 
+---------- fap_on_it: turn 13 ----------
+fap_on_it - plays Workshop
+fap_on_it - gains Gardens
+fap_on_it - plays 3 Copper
+fap_on_it - buys Workshop
+fap_on_it - gains Workshop
+fap_on_it - draws Estate, Estate, Copper
+fap_on_it - shuffles deck
+fap_on_it - draws Witch, Copper
+ 
+---------- dragline: turn 14 ----------
+dragline - plays Festival
+dragline - plays 1 Silver, 1 Copper
+dragline - buys Gardens
+dragline - gains Gardens
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Silver, Silver, Copper, Smithy, Estate
+ 
+---------- fap_on_it: turn 14 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Gardens, Gardens
+dragline - gains Curse
+fap_on_it - draws Throne Room, Gardens, Gardens, Workshop, Estate
+ 
+---------- dragline: turn 15 ----------
+dragline - plays Smithy
+dragline - draws Smithy, Copper, Copper
+dragline - plays 3 Copper, 2 Silver
+dragline - buys Gardens
+dragline - gains Gardens
+dragline - shuffles deck
+dragline - draws Silver, Curse, Copper, Curse, Estate
+ 
+---------- fap_on_it: turn 15 ----------
+fap_on_it - plays Throne Room
+fap_on_it - plays Workshop
+fap_on_it - gains Silver
+fap_on_it - plays Workshop
+fap_on_it - gains Silver
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Copper, Copper, Festival, Festival, Workshop
+ 
+---------- dragline: turn 16 ----------
+dragline - plays 1 Silver, 1 Copper
+dragline - buys Estate
+dragline - gains Estate
+dragline - draws Festival, Curse, Silver, Estate, Copper
+ 
+---------- fap_on_it: turn 16 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Festival
+fap_on_it - plays Workshop
+fap_on_it - gains Silver
+fap_on_it - plays 2 Copper
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Workshop, Workshop, Silver, Festival, Silver
+ 
+---------- dragline: turn 17 ----------
+dragline - plays Festival
+dragline - plays 1 Silver, 1 Copper
+dragline - buys Duchy
+dragline - gains Duchy
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Gardens, Silver, Province, Copper, Festival
+ 
+---------- fap_on_it: turn 17 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Workshop
+fap_on_it - gains Silver
+fap_on_it - plays Workshop
+fap_on_it - gains Silver
+fap_on_it - plays 2 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Throne Room, Copper, Copper, Copper, Witch
+ 
+---------- dragline: turn 18 ----------
+dragline - plays Festival
+dragline - plays 1 Silver, 1 Copper
+dragline - buys Duchy
+dragline - gains Duchy
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Estate, Gardens, Festival, Smithy, Smithy
+ 
+---------- fap_on_it: turn 18 ----------
+fap_on_it - plays Throne Room
+fap_on_it - plays Witch
+fap_on_it - draws Workshop
+fap_on_it - shuffles deck
+fap_on_it - draws Silver
+dragline - gains Curse
+fap_on_it - plays Witch
+fap_on_it - draws Workshop, Copper
+dragline - gains Curse
+fap_on_it - plays 4 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - draws Estate, Workshop, Silver, Witch, Copper
+ 
+---------- dragline: turn 19 ----------
+dragline - plays Festival
+dragline - plays Smithy
+dragline - draws Curse, Copper, Smithy
+dragline - plays Smithy
+dragline - draws Estate, Curse, Copper
+dragline - plays 2 Copper
+dragline - buys Silver
+dragline - gains Silver
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Gardens, Festival, Estate, Gardens, Copper
+ 
+---------- fap_on_it: turn 19 ----------
+fap_on_it - plays Witch
+fap_on_it - draws Gardens, Copper
+dragline - gains Curse
+fap_on_it - plays 2 Copper, 1 Silver
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - draws Festival, Gardens, Copper, Silver, Festival
+ 
+---------- dragline: turn 20 ----------
+dragline - plays Festival
+dragline - plays 1 Copper
+dragline - buys Estate
+dragline - gains Estate
+dragline - buys Copper
+dragline - gains Copper
+dragline - draws Silver, Copper, Copper, Curse, Copper
+ 
+---------- fap_on_it: turn 20 ----------
+fap_on_it - plays Festival
+fap_on_it - plays Festival
+fap_on_it - plays 1 Copper, 1 Silver
+fap_on_it - buys Duchy
+fap_on_it - gains Duchy
+fap_on_it - buys Estate
+fap_on_it - gains Estate
+fap_on_it - buys Copper
+fap_on_it - gains Copper
+fap_on_it - draws Silver, Throne Room, Workshop, Copper, Gardens
+ 
+---------- dragline: turn 21 ----------
+dragline - plays 3 Copper, 1 Silver
+dragline - buys Duchy
+dragline - gains Duchy
+dragline - draws Copper
+dragline - shuffles deck
+dragline - draws Estate, Silver, Copper, Duchy
+ 
+---------- fap_on_it: turn 21 ----------
+fap_on_it - plays Throne Room
+fap_on_it - plays Workshop
+fap_on_it - gains Estate
+fap_on_it - plays Workshop
+fap_on_it - gains Estate
+fap_on_it - plays 1 Silver, 1 Copper
+fap_on_it - buys Curse
+fap_on_it - gains Curse
+fap_on_it - draws Copper, Silver, Estate, Estate, Silver
+ 
+------------ Game Over ------------
+fap_on_it - cards: 5 Workshop, 3 Festival, 2 Throne Room, 2 Witch, 12 Copper, 7 Silver, 7 Estate, 4 Duchy, 4 Gardens, 1 Curse
+fap_on_it - total victory points: 34
+fap_on_it - turns: 21
+ 
+dragline - cards: 4 Festival, 3 Smithy, 14 Copper, 5 Silver, 7 Estate, 4 Gardens, 3 Duchy, 1 Province, 9 Curse
+dragline - total victory points: 33
+dragline - turns: 21
+ 
+1st place: fap_on_it
+2nd place: dragline
+ 

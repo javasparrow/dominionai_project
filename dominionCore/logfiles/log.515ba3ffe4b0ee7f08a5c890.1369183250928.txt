@@ -1,0 +1,569 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chancellor, Moneylender, Remodel, Spy, Throne Room, Laboratory, Library, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+addicted - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LESPEUTERE - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+addicted - shuffles deck
+LESPEUTERE - shuffles deck
+addicted - draws Copper, Estate, Copper, Estate, Copper
+LESPEUTERE - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- LESPEUTERE: turn 1 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Chancellor
+LESPEUTERE - gains Chancellor
+LESPEUTERE - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- addicted: turn 1 ----------
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- LESPEUTERE: turn 2 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Moneylender
+LESPEUTERE - gains Moneylender
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- addicted: turn 2 ----------
+addicted - plays 4 Copper
+addicted - buys Moneylender
+addicted - gains Moneylender
+addicted - shuffles deck
+addicted - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- LESPEUTERE: turn 3 ----------
+LESPEUTERE - plays 4 Copper
+LESPEUTERE - buys Spy
+LESPEUTERE - gains Spy
+LESPEUTERE - draws Chancellor, Estate, Copper, Copper, Moneylender
+ 
+---------- addicted: turn 3 ----------
+addicted - plays 4 Copper, 1 Silver
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Copper, Moneylender, Estate, Copper, Estate
+ 
+---------- LESPEUTERE: turn 4 ----------
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Copper
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - draws Copper, Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Copper, Copper, Estate
+ 
+---------- addicted: turn 4 ----------
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 1 Copper
+addicted - buys Spy
+addicted - gains Spy
+addicted - draws Copper, Estate
+addicted - shuffles deck
+addicted - draws Estate, Copper, Copper
+ 
+---------- LESPEUTERE: turn 5 ----------
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - draws Copper, Throne Room, Chancellor, Copper, Estate
+ 
+---------- addicted: turn 5 ----------
+addicted - plays 3 Copper
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Spy, Copper, Silver, Laboratory, Estate
+ 
+---------- LESPEUTERE: turn 6 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays Copper
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Copper, Moneylender, Spy
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Copper
+ 
+---------- addicted: turn 6 ----------
+addicted - plays Spy
+addicted - draws Copper
+addicted - places Copper on top of deck
+LESPEUTERE - discards Chancellor
+addicted - plays Laboratory
+addicted - draws Copper, Moneylender
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 2 Copper, 1 Silver
+addicted - buys Gold
+addicted - gains Gold
+addicted - shuffles deck
+addicted - draws Spy, Copper, Copper, Laboratory, Moneylender
+ 
+---------- LESPEUTERE: turn 7 ----------
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Copper
+LESPEUTERE - places Cellar on top of deck
+addicted - places Estate on top of deck
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 2 Copper
+LESPEUTERE - buys Market
+LESPEUTERE - gains Market
+LESPEUTERE - draws Cellar, Estate, Throne Room, Estate, Copper
+ 
+---------- addicted: turn 7 ----------
+addicted - plays Laboratory
+addicted - draws Estate, Copper
+addicted - plays Spy
+addicted - draws Estate
+addicted - discards Estate
+LESPEUTERE - places Copper on top of deck
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 2 Copper
+addicted - buys Market
+addicted - gains Market
+addicted - draws Silver, Copper, Copper, Silver, Gold
+ 
+---------- LESPEUTERE: turn 8 ----------
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Copper
+LESPEUTERE - draws Copper, Copper, Laboratory
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Chancellor, Estate
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays 3 Copper
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - draws Spy, Moneylender, Estate, Market, Copper
+ 
+---------- addicted: turn 8 ----------
+addicted - plays 2 Silver, 2 Copper, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - shuffles deck
+addicted - draws Market, Laboratory, Province, Gold, Estate
+ 
+---------- LESPEUTERE: turn 9 ----------
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Copper
+LESPEUTERE - shuffles deck
+LESPEUTERE - discards Copper
+addicted - discards Silver
+LESPEUTERE - plays Market
+LESPEUTERE - draws Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays 2 Copper
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - draws Cellar, Laboratory, Throne Room, Chancellor, Copper
+ 
+---------- addicted: turn 9 ----------
+addicted - plays Laboratory
+addicted - draws Spy, Copper
+addicted - plays Spy
+addicted - draws Copper
+addicted - places Copper on top of deck
+LESPEUTERE - places Estate on top of deck
+addicted - plays Market
+addicted - draws Copper
+addicted - plays 3 Copper, 1 Gold
+addicted - buys Throne Room
+addicted - gains Throne Room
+addicted - buys Silver
+addicted - gains Silver
+addicted - draws Estate, Moneylender, Silver, Estate, Copper
+ 
+---------- LESPEUTERE: turn 10 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Market
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - draws Copper, Moneylender, Spy
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Copper
+LESPEUTERE - discards Copper
+addicted - shuffles deck
+addicted - discards Throne Room
+LESPEUTERE - plays Market
+LESPEUTERE - draws Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays Copper
+LESPEUTERE - buys Laboratory
+LESPEUTERE - gains Laboratory
+LESPEUTERE - buys Remodel
+LESPEUTERE - gains Remodel
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Cellar, Remodel, Chancellor, Throne Room, Cellar
+ 
+---------- addicted: turn 10 ----------
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 1 Silver
+addicted - buys Laboratory
+addicted - gains Laboratory
+addicted - draws Gold, Estate, Spy, Silver, Silver
+ 
+---------- LESPEUTERE: turn 11 ----------
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Chancellor
+LESPEUTERE - discards Cellar
+LESPEUTERE - discards Remodel
+LESPEUTERE - draws Laboratory, Moneylender, Laboratory
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Copper
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Estate, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Copper, Spy
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - places Remodel on top of deck
+addicted - discards Market
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Remodel, Chancellor
+LESPEUTERE - plays Market
+LESPEUTERE - draws Cellar
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Throne Room, Estate
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Moneylender
+LESPEUTERE - trashes Copper
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - buys Throne Room
+LESPEUTERE - gains Throne Room
+LESPEUTERE - buys Market
+LESPEUTERE - gains Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Estate, Market, Throne Room, Moneylender, Cellar
+ 
+---------- addicted: turn 11 ----------
+addicted - plays Spy
+addicted - draws Copper
+addicted - places Laboratory on top of deck
+LESPEUTERE - discards Throne Room
+addicted - plays 2 Silver, 1 Gold, 1 Copper
+addicted - buys Province
+addicted - gains Province
+addicted - draws Laboratory, Copper, Province, Copper
+addicted - shuffles deck
+addicted - draws Moneylender
+ 
+---------- LESPEUTERE: turn 12 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Market
+LESPEUTERE - draws Chancellor
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Laboratory, Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Remodel, Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Spy, Estate
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Market
+LESPEUTERE - places Cellar on top of deck
+addicted - discards Silver
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Cellar
+LESPEUTERE - places Laboratory on top of deck
+addicted - places Estate on top of deck
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Remodel
+LESPEUTERE - plays Laboratory
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Remodel, Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Moneylender
+LESPEUTERE - gains Gold
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Estate
+LESPEUTERE - gains Spy
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Cellar
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Spy
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Gold
+LESPEUTERE - discards Cellar
+addicted - places Estate on top of deck
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays 1 Gold
+LESPEUTERE - buys Gold
+LESPEUTERE - gains Gold
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Gold, Remodel, Throne Room, Spy, Spy
+ 
+---------- addicted: turn 12 ----------
+addicted - plays Laboratory
+addicted - draws Estate, Province
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 1 Copper
+addicted - buys Remodel
+addicted - gains Remodel
+addicted - draws Estate, Spy, Silver, Copper, Laboratory
+ 
+---------- LESPEUTERE: turn 13 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Remodel
+LESPEUTERE - places Laboratory on top of deck
+addicted - discards Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Market on top of deck
+addicted - discards Silver
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Market
+LESPEUTERE - discards Chancellor
+addicted - discards Market
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Gold
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Market
+LESPEUTERE - plays Market
+LESPEUTERE - draws Throne Room
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Cellar
+LESPEUTERE - discards Cellar
+LESPEUTERE - discards Throne Room
+LESPEUTERE - draws Throne Room
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Throne Room, Chancellor
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Gold
+LESPEUTERE - gains Province
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Remodel
+LESPEUTERE - gains Gold
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays 1 Gold
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Cellar
+LESPEUTERE - gains Cellar
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Spy, Gold, Cellar, Throne Room, Chancellor
+ 
+---------- addicted: turn 13 ----------
+addicted - plays Spy
+addicted - draws Gold
+addicted - discards Estate
+LESPEUTERE - discards Laboratory
+addicted - plays Laboratory
+addicted - shuffles deck
+addicted - draws Laboratory, Moneylender
+addicted - plays Laboratory
+addicted - draws Estate, Province
+addicted - plays Moneylender
+addicted - trashes Copper
+addicted - plays 1 Silver, 1 Gold
+addicted - buys Province
+addicted - gains Province
+addicted - draws Throne Room, Province, Market, Silver, Silver
+ 
+---------- LESPEUTERE: turn 14 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Cellar
+LESPEUTERE - discards Province
+addicted - places Copper on top of deck
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Throne Room
+LESPEUTERE - places Laboratory on top of deck
+addicted - places Copper on top of deck
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Chancellor
+LESPEUTERE - discards Cellar
+LESPEUTERE - discards Gold
+LESPEUTERE - draws Laboratory, Throne Room, Province
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Remodel, Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Spy, Cellar
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Laboratory
+LESPEUTERE - places Market on top of deck
+addicted - places Copper on top of deck
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Market, Gold
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Market, Cellar
+LESPEUTERE - plays Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Cellar
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Chancellor, Gold
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Province
+LESPEUTERE - draws Province
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Cellar
+LESPEUTERE - gains Throne Room
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Cellar
+LESPEUTERE - gains Spy
+LESPEUTERE - plays Chancellor
+LESPEUTERE - plays 2 Gold
+LESPEUTERE - buys Province
+LESPEUTERE - gains Province
+LESPEUTERE - buys Estate
+LESPEUTERE - gains Estate
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Throne Room, Throne Room, Spy, Province, Laboratory
+ 
+---------- addicted: turn 14 ----------
+addicted - plays Throne Room
+addicted - plays Market
+addicted - draws Copper
+addicted - plays Market
+addicted - draws Remodel
+addicted - plays Remodel
+addicted - trashes Copper
+addicted - gains Cellar
+addicted - plays 2 Silver
+addicted - buys Duchy
+addicted - gains Duchy
+addicted - draws Estate
+addicted - shuffles deck
+addicted - draws Market, Province, Laboratory, Estate
+ 
+---------- LESPEUTERE: turn 15 ----------
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Throne Room, Laboratory
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Gold, Chancellor
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Remodel, Market
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Cellar, Estate
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Market
+LESPEUTERE - draws Laboratory
+LESPEUTERE - plays Market
+LESPEUTERE - draws Spy
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Throne Room
+LESPEUTERE - places Spy on top of deck
+addicted - discards Gold
+LESPEUTERE - plays Laboratory
+LESPEUTERE - draws Spy, Province
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Province
+LESPEUTERE - places Throne Room on top of deck
+addicted - discards Cellar
+LESPEUTERE - plays Spy
+LESPEUTERE - draws Throne Room
+LESPEUTERE - places Gold on top of deck
+addicted - places Remodel on top of deck
+LESPEUTERE - plays Cellar
+LESPEUTERE - discards Estate
+LESPEUTERE - discards Province
+LESPEUTERE - discards Province
+LESPEUTERE - draws Gold, Cellar, Market
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Market
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province
+LESPEUTERE - plays Market
+LESPEUTERE - draws Province
+LESPEUTERE - plays Throne Room
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Gold
+LESPEUTERE - gains Province
+LESPEUTERE - plays Remodel
+LESPEUTERE - trashes Gold
+LESPEUTERE - gains Province
+LESPEUTERE - plays Chancellor
+LESPEUTERE - moves deck to discards
+LESPEUTERE - buys Duchy
+LESPEUTERE - gains Duchy
+LESPEUTERE - shuffles deck
+LESPEUTERE - draws Province, Laboratory, Throne Room, Cellar, Spy
+ 
+------------ Game Over ------------
+LESPEUTERE - cards: 5 Throne Room, 3 Laboratory, 3 Spy, 2 Cellar, 2 Market, 1 Chancellor, 1 Remodel, 5 Province, 1 Duchy, 1 Estate
+LESPEUTERE - total victory points: 34
+LESPEUTERE - turns: 15
+ 
+addicted - cards: 2 Laboratory, 1 Remodel, 1 Moneylender, 1 Spy, 1 Cellar, 1 Market, 1 Throne Room, 3 Silver, 1 Gold, 3 Province, 3 Estate, 1 Duchy
+addicted - total victory points: 24
+addicted - turns: 14
+ 
+1st place: LESPEUTERE
+2nd place: addicted
+ 

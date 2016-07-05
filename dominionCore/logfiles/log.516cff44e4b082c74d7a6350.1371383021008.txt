@@ -1,0 +1,329 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Moat, Village, Workshop, Bureaucrat, Militia, Spy, Thief, Witch, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+pâté de campagne - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Rabid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pâté de campagne - shuffles deck
+Rabid - shuffles deck
+pâté de campagne - draws Estate, Copper, Copper, Copper, Copper
+Rabid - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- pâté de campagne: turn 1 ----------
+pâté de campagne - plays 4 Copper
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Rabid: turn 1 ----------
+Rabid - plays 3 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- pâté de campagne: turn 2 ----------
+pâté de campagne - plays 3 Copper
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - shuffles deck
+pâté de campagne - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- Rabid: turn 2 ----------
+Rabid - plays 4 Copper
+Rabid - buys Militia
+Rabid - gains Militia
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- pâté de campagne: turn 3 ----------
+pâté de campagne - plays 2 Copper, 1 Silver
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Rabid: turn 3 ----------
+Rabid - plays 4 Copper, 1 Silver
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Estate, Copper, Militia, Estate, Copper
+ 
+---------- pâté de campagne: turn 4 ----------
+pâté de campagne - plays 4 Copper
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Copper, Silver
+pâté de campagne - shuffles deck
+pâté de campagne - draws Copper, Copper, Silver
+ 
+---------- Rabid: turn 4 ----------
+Rabid - plays Militia
+pâté de campagne - discards Copper
+pâté de campagne - discards Copper
+Rabid - plays 2 Copper
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Estate, Copper
+Rabid - shuffles deck
+Rabid - draws Witch, Copper, Silver
+ 
+---------- pâté de campagne: turn 5 ----------
+pâté de campagne - plays 2 Silver, 1 Copper
+pâté de campagne - buys Witch
+pâté de campagne - gains Witch
+pâté de campagne - draws Silver, Copper, Estate, Silver, Estate
+ 
+---------- Rabid: turn 5 ----------
+Rabid - plays Witch
+Rabid - draws Estate, Copper
+pâté de campagne - gains Curse
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Witch
+Rabid - gains Witch
+Rabid - draws Silver, Copper, Copper, Estate, Militia
+ 
+---------- pâté de campagne: turn 6 ----------
+pâté de campagne - plays 2 Silver, 1 Copper
+pâté de campagne - buys Witch
+pâté de campagne - gains Witch
+pâté de campagne - draws Estate, Copper, Copper, Copper
+pâté de campagne - shuffles deck
+pâté de campagne - draws Copper
+ 
+---------- Rabid: turn 6 ----------
+Rabid - plays Militia
+pâté de campagne - discards Copper
+pâté de campagne - discards Estate
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Copper
+Rabid - shuffles deck
+Rabid - draws Estate, Copper, Silver
+ 
+---------- pâté de campagne: turn 7 ----------
+pâté de campagne - plays 3 Copper
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Witch, Estate, Silver, Copper, Curse
+ 
+---------- Rabid: turn 7 ----------
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Copper, Copper, Copper, Witch, Estate
+ 
+---------- pâté de campagne: turn 8 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Witch, Copper
+Rabid - gains Curse
+pâté de campagne - plays 2 Copper, 1 Silver
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Silver, Estate, Silver, Copper, Silver
+ 
+---------- Rabid: turn 8 ----------
+Rabid - plays Witch
+Rabid - draws Silver, Estate
+pâté de campagne - gains Curse
+Rabid - plays 3 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Gold, Witch, Copper, Militia
+Rabid - shuffles deck
+Rabid - draws Silver
+ 
+---------- pâté de campagne: turn 9 ----------
+pâté de campagne - plays 3 Silver, 1 Copper
+pâté de campagne - buys Gold
+pâté de campagne - gains Gold
+pâté de campagne - shuffles deck
+pâté de campagne - draws Silver, Copper, Witch, Silver, Copper
+ 
+---------- Rabid: turn 9 ----------
+Rabid - plays Witch
+Rabid - draws Copper, Estate
+pâté de campagne - gains Curse
+Rabid - plays 2 Copper, 1 Gold, 1 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- pâté de campagne: turn 10 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Estate, Copper
+Rabid - gains Curse
+pâté de campagne - plays 3 Copper, 2 Silver
+pâté de campagne - buys Gold
+pâté de campagne - gains Gold
+pâté de campagne - draws Copper, Copper, Silver, Silver, Gold
+ 
+---------- Rabid: turn 10 ----------
+Rabid - plays 3 Copper, 2 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Witch, Estate, Silver, Copper, Copper
+ 
+---------- pâté de campagne: turn 11 ----------
+pâté de campagne - plays 2 Copper, 2 Silver, 1 Gold
+pâté de campagne - buys Province
+pâté de campagne - gains Province
+pâté de campagne - draws Estate, Estate, Silver, Copper, Witch
+ 
+---------- Rabid: turn 11 ----------
+Rabid - plays Witch
+Rabid - draws Estate, Curse
+pâté de campagne - gains Curse
+Rabid - plays 2 Copper, 1 Silver
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - shuffles deck
+Rabid - draws Copper, Copper, Silver, Silver, Copper
+ 
+---------- pâté de campagne: turn 12 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Silver, Curse
+Rabid - gains Curse
+pâté de campagne - plays 2 Silver, 1 Copper
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Copper, Curse
+pâté de campagne - shuffles deck
+pâté de campagne - draws Copper, Curse, Silver
+ 
+---------- Rabid: turn 12 ----------
+Rabid - plays 3 Copper, 2 Silver
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Copper, Copper, Silver, Copper, Gold
+ 
+---------- pâté de campagne: turn 13 ----------
+pâté de campagne - plays 2 Copper, 1 Silver
+pâté de campagne - buys Silver
+pâté de campagne - gains Silver
+pâté de campagne - draws Copper, Silver, Estate, Silver, Witch
+ 
+---------- Rabid: turn 13 ----------
+Rabid - plays 3 Copper, 1 Silver, 1 Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Witch, Witch, Curse, Copper, Estate
+ 
+---------- pâté de campagne: turn 14 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Silver, Silver
+Rabid - gains Curse
+pâté de campagne - plays 4 Silver, 1 Copper
+pâté de campagne - buys Province
+pâté de campagne - gains Province
+pâté de campagne - draws Silver, Estate, Curse, Gold, Copper
+ 
+---------- Rabid: turn 14 ----------
+Rabid - plays Witch
+Rabid - draws Curse, Gold
+pâté de campagne - gains Curse
+Rabid - plays 1 Copper, 1 Gold
+Rabid - buys Silver
+Rabid - gains Silver
+Rabid - draws Estate, Estate, Silver, Militia, Gold
+ 
+---------- pâté de campagne: turn 15 ----------
+pâté de campagne - plays 1 Silver, 1 Gold, 1 Copper
+pâté de campagne - buys Gold
+pâté de campagne - gains Gold
+pâté de campagne - draws Gold, Copper, Silver, Copper, Curse
+ 
+---------- Rabid: turn 15 ----------
+Rabid - plays Militia
+pâté de campagne - discards Curse
+pâté de campagne - discards Copper
+Rabid - plays 1 Silver, 1 Gold
+Rabid - buys Gold
+Rabid - gains Gold
+Rabid - draws Silver
+Rabid - shuffles deck
+Rabid - draws Silver, Curse, Gold, Copper
+ 
+---------- pâté de campagne: turn 16 ----------
+pâté de campagne - plays 1 Gold, 1 Copper, 1 Silver
+pâté de campagne - buys Gold
+pâté de campagne - gains Gold
+pâté de campagne - draws Province, Witch, Estate, Copper
+pâté de campagne - shuffles deck
+pâté de campagne - draws Copper
+ 
+---------- Rabid: turn 16 ----------
+Rabid - plays 2 Silver, 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Gold, Silver, Silver, Curse, Copper
+ 
+---------- pâté de campagne: turn 17 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Copper, Estate
+Rabid - gains Curse
+pâté de campagne - plays 3 Copper
+pâté de campagne - buys Estate
+pâté de campagne - gains Estate
+pâté de campagne - draws Curse, Gold, Silver, Curse, Estate
+ 
+---------- Rabid: turn 17 ----------
+Rabid - plays 2 Silver, 1 Gold, 1 Copper
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Witch, Copper, Copper, Curse, Curse
+ 
+---------- pâté de campagne: turn 18 ----------
+pâté de campagne - plays 1 Gold, 1 Silver
+pâté de campagne - buys Duchy
+pâté de campagne - gains Duchy
+pâté de campagne - draws Silver, Province, Gold, Copper, Silver
+ 
+---------- Rabid: turn 18 ----------
+Rabid - plays Witch
+Rabid - draws Estate, Province
+Rabid - draws Gold, Gold, Militia, Estate, Silver
+ 
+---------- pâté de campagne: turn 19 ----------
+pâté de campagne - plays 2 Silver, 1 Gold, 1 Copper
+pâté de campagne - buys Province
+pâté de campagne - gains Province
+pâté de campagne - draws Witch, Silver, Curse, Copper, Silver
+ 
+---------- Rabid: turn 19 ----------
+Rabid - plays Militia
+pâté de campagne - discards Curse
+pâté de campagne - discards Copper
+Rabid - plays Gold
+Rabid - plays Gold
+Rabid - buys Province
+Rabid - gains Province
+Rabid - draws Gold, Copper, Copper, Estate, Witch
+ 
+---------- pâté de campagne: turn 20 ----------
+pâté de campagne - plays Witch
+pâté de campagne - draws Gold, Curse
+pâté de campagne - plays 2 Silver, 1 Gold
+pâté de campagne - buys Duchy
+pâté de campagne - gains Duchy
+pâté de campagne - draws Curse, Gold, Copper, Silver, Silver
+ 
+---------- Rabid: turn 20 ----------
+Rabid - plays Witch
+Rabid - draws Copper, Silver
+Rabid - plays 3 Copper, 1 Gold, 1 Silver
+Rabid - buys Province
+Rabid - gains Province
+Rabid - shuffles deck
+Rabid - draws Curse, Copper, Silver, Estate, Copper
+ 
+------------ Game Over ------------
+Rabid - cards: 2 Witch, 1 Militia, 7 Copper, 6 Silver, 5 Gold, 5 Province, 3 Estate, 5 Curse
+Rabid - total victory points: 28
+Rabid - turns: 20
+ 
+pâté de campagne - cards: 2 Witch, 8 Silver, 7 Copper, 4 Gold, 4 Estate, 3 Province, 2 Duchy, 5 Curse
+pâté de campagne - total victory points: 23
+pâté de campagne - turns: 20
+ 
+1st place: Rabid
+2nd place: pâté de campagne
+ 
