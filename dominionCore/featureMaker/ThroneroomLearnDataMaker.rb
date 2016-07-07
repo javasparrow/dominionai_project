@@ -32,6 +32,7 @@ class ThroneroomLearnDataMaker
           end
         }
         play.add_element("candidates").add_text candidates.join(",")
+        play.add_element("action").add_text core.currentAction.to_s
         play.add_element("filename").add_text core.fileName
 
         out.write(doc.to_s)

@@ -39,21 +39,21 @@ class CardData
         elsif(data[1] == "金貨")
           pilenum = 20
         end
-	isAction = false
-	if(data[8].include?("アクション"))
-	    isAction = true
-	end
-  isTreasure = false
-  if(data[8].include?("財宝"))
-      isTreasure = true
-  end
-  isVictory = false
-  if(data[8].include?("勝利点"))
-      isVictory = true
-  end
-  if(data[8].include?("アタック"))
-      isAttack = true
-  end
+        isAction = false
+        if(data[8].include?("アクション"))
+          isAction = true
+        end
+        isTreasure = false
+        if(data[8].include?("財宝"))
+          isTreasure = true
+        end
+        isVictory = false
+        if(data[8].include?("勝利点"))
+          isVictory = true
+        end
+        if(data[8].include?("アタック"))
+          isAttack = true
+        end
 
 
         @data.store(data[3], Card.new(data[3], data[9].to_i + data[14].to_i, data[13].to_i, data[0].to_i, pilenum, data[5].to_i, isAction, isTreasure, isVictory, data[12].to_i, isAttack))
@@ -66,12 +66,12 @@ class CardData
   end
 
   def getCardByNum(num)
-      @data.each_value{|card|
-          if(card.id == num)
-              return card
-          end
-      }
-      nil
+    @data.each_value{|card|
+      if(card.id == num)
+        return card
+      end
+    }
+    nil
   end
 
 end

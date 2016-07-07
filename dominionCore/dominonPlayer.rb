@@ -71,6 +71,10 @@ class DominionPlayer
 		removeCardFromArea(@revealArea, card)
 	end
 
+	def trashCardFromDeck(card)
+		removeCardFromArea(@deckArea, card)
+	end
+
 	def discardFromReveal(card)
 		moveCard(@revealArea, @discardArea, card)
 	end
@@ -93,6 +97,10 @@ class DominionPlayer
 
 	def putDeckFromHand(card)
 		moveCard(@handArea, @deckArea, card)
+	end
+
+	def putDeckFromReveal(card)
+		moveCard(@revealArea, @deckArea, card)
 	end
 
 	def addCardToPlay(card)

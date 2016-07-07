@@ -4,10 +4,10 @@ load(File.expand_path(__FILE__).sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'')[0...
 #購入の教師データを作成
 require 'rexml/document'
 
-class MineLearnDataMaker
+class ScoutLearnDataMaker
 
   def initialize
-    @trashId = nil
+    @scoutStack = []
     @cardData = CardData.new()
   end
 
@@ -17,27 +17,27 @@ class MineLearnDataMaker
     end
 
     baseMaker = BaseLearnDataMaker.new(core)
-    if(eventData["type"] == "trash" && core.lastPlay.name == "Mine")
-      File.open(core.outFolder + "/mineFeature.txt", 'a'){|out|
+    if(eventData["type"] == "placetop" && core.lastPlay.name == "Scout")
+      if @scoutStack.length == 0
+        @stateVec = baseMaker.getStateVec(eventData["player"])
+      end
+      @scoutStack << eventData["cardId"]
+    elsif @scoutStack.length != 0
+      File.open(core.outFolder + "/scoutFeature.txt", 'a'){|out|
         doc = REXML::Document.new
-        play = doc.add_element("mine")
-        play.add_element("stateVec").add_text baseMaker.getStateVec(core.currentPlayer)
-        play.add_element("answer").add_text eventData["cards"][0].id.to_s
+        play = doc.add_element("scout")
+        play.add_element("stateVec").add_text @stateVec
+        play.add_element("answer").add_text @scoutStack.join(",")
         play.add_element("turn").add_text (core.currentTurn / 2).to_i.to_s
         play.add_element("isSente").add_text ((core.currentTurn + 1) % 2).to_s
-        candidates = []
-        core.playerData[core.currentPlayer].handArea.each{|id, num|
-          if num > 0 && !candidates.include?(id) && @cardData.getCardByNum(id).isTreasure
-            candidates << id
-          end
-        }
-        play.add_element("candidates").add_text candidates.join(",")
+        play.add_element("candidates").add_text @scoutStack.join(",")
+        play.add_element("action").add_text core.currentAction.to_s
         play.add_element("filename").add_text core.fileName
-        play.add_element("minusCost").add_text core.discount.to_s
 
         out.write(doc.to_s)
         out.write("\n")
       }
+      @scoutStack = []
     end
   end
 

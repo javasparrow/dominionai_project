@@ -55,9 +55,7 @@ class BuyFeatureMaker
           core.currentBuy
         end
 
-        #TODO think about bridge
-        gain.add_element("minusCost").add_text "0"
-
+        gain.add_element("minusCost").add_text core.discount.to_s
         gain.add_element("filename").add_text core.fileName
 
         out.write(doc.to_s)

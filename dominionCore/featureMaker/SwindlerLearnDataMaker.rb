@@ -4,10 +4,10 @@ load(File.expand_path(__FILE__).sub(/[^\/]+$/,'')[0...-1].sub(/[^\/]+$/,'')[0...
 #購入の教師データを作成
 require 'rexml/document'
 
-class MineLearnDataMaker
+class SwindlerLearnDataMaker
 
   def initialize
-    @trashId = nil
+    @trashedCard = nil
     @cardData = CardData.new()
   end
 
@@ -17,23 +17,32 @@ class MineLearnDataMaker
     end
 
     baseMaker = BaseLearnDataMaker.new(core)
-    if(eventData["type"] == "trash" && core.lastPlay.name == "Mine")
-      File.open(core.outFolder + "/mineFeature.txt", 'a'){|out|
+    if eventData["type"] == "trash" && core.lastPlay.name == "Swindler"
+      @trashedCard = eventData["cards"][0]
+    elsif eventData["type"] == "gain" && core.lastPlay.name == "Swindler"
+      File.open(core.outFolder + "/swindlerFeature.txt", 'a'){|out|
         doc = REXML::Document.new
-        play = doc.add_element("mine")
+        play = doc.add_element("swindler")
         play.add_element("stateVec").add_text baseMaker.getStateVec(core.currentPlayer)
-        play.add_element("answer").add_text eventData["cards"][0].id.to_s
+        play.add_element("answer").add_text eventData["cardId"].to_s
         play.add_element("turn").add_text (core.currentTurn / 2).to_i.to_s
         play.add_element("isSente").add_text ((core.currentTurn + 1) % 2).to_s
         candidates = []
-        core.playerData[core.currentPlayer].handArea.each{|id, num|
-          if num > 0 && !candidates.include?(id) && @cardData.getCardByNum(id).isTreasure
+        trashedCost = @trashedCard.cost - core.discount
+        if trashedCost < 0
+          trashedCost = 0
+        end
+        core.supply.each{|id, num|
+          supcost = @cardData.getCardByNum(id).cost - core.discount
+          if supcost < 0
+            supcost = 0
+          end
+          if supcost == trashedCost && num > 0
             candidates << id
           end
         }
         play.add_element("candidates").add_text candidates.join(",")
         play.add_element("filename").add_text core.fileName
-        play.add_element("minusCost").add_text core.discount.to_s
 
         out.write(doc.to_s)
         out.write("\n")

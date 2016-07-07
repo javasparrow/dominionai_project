@@ -3,7 +3,9 @@ load("dominonPlayer.rb")
 
 class DominionCore
 	attr_accessor :currentCoin, :currentBuy, :currentAction, :playerData, :supply, :currentPlayer,
-								:currentTurn, :fileName, :winner, :outFolder, :lastPlay, :currentPhase
+								:currentTurn, :fileName, :winner, :outFolder, :lastPlay, :currentPhase, :discount,
+								:lastReaction, :copperSmithCount
+
 
 	#各フェーズの管理
 	PHASE_END = -1
@@ -36,6 +38,8 @@ class DominionCore
 		@currentTurn = 1
 		#玉座の間処理用
 		@throneStack = Array.new(0)
+		#値引き
+		@discount = 0
 		@firstPlayer = nil
 		@finalScore = {}
 		@cardData = CardData.new()
@@ -68,6 +72,8 @@ class DominionCore
 
 		log.each{|line|
 
+			p @fileName
+
 			if(line.include?("Game Over"))
 				@currentPhase = PHASE_END
 			end
@@ -95,7 +101,7 @@ class DominionCore
 				end
 			end
 
-			if(line.index("pass") !=  nil)
+			if(line == "pass")
 				cleanup(nil)
 			end
 
@@ -108,6 +114,8 @@ class DominionCore
 			end
 
 			if(line.include?("places cards in hand"))
+				parsePutCardInHand(line)
+			elsif(line.include?("places ") && line.include?(" in hand"))
 				parsePutCardInHand(line)
 			end
 
@@ -129,9 +137,12 @@ class DominionCore
 				@currentCoin = 0
 				@currentBuy = 1
 				@currentAction = 1
+				@discount = 0
+				@chamberCount = 0
 				@lastPlay = nil
 				@lastTrash = nil
 				@lastBuy = Array.new(0)
+				@copperSmithCount = 0
 
 			end
 
@@ -191,6 +202,22 @@ class DominionCore
 
 			if(line.index("discards") != nil)
 				parseDiscard(line)
+			end
+
+			if(line.index("takes") != nil)
+				parseTake(line)
+			end
+
+			if(line.include?("receives"))
+				parseReceive(line)
+			end
+
+			if(line.index("passes") != nil)
+				parsePassCard(line)
+			end
+
+			if(line.index("names") != nil)
+				parseNameCard(line)
 			end
 
 			if(line.include?("total victory points"))
@@ -351,6 +378,13 @@ class DominionCore
 
     if(@lastPlay.name == "Bureaucrat")
 			player.putDeckFromHand(currentCard)
+		elsif @lastReaction && @lastReaction.name == "Secret Chamber" && player.countHandTotal != 0 && @chamberCount > 0
+			player.putDeckFromHand(currentCard)
+			@chamberCount -= 1
+		elsif @lastPlay.name == "Courtyard"
+			player.putDeckFromHand(currentCard)
+		elsif @lastPlay.name == "Scout"
+			player.putDeckFromReveal(currentCard)
 		end
   end
 
@@ -378,7 +412,10 @@ class DominionCore
 			eventData["cardId"] = @cardData.getCard(data[data.index("reaction") + 9..-2]).id
 			eventData["player"] = player.getName()
 			fireEvents(eventData)
-
+			@lastReaction = @cardData.getCard(data[data.index("reaction") + 9..-2])
+			if @lastReaction.name == "Secret Chamber"
+				@chamberCount = 2
+			end
 			return
     end
 
@@ -398,6 +435,23 @@ class DominionCore
         end
         player.revealCardFromDeck(currentCard)
       }
+		elsif @lastPlay.name == "Saboteur"
+			data[data.index("reveals") + 8..-2].split(", ").each{|card|
+        currentCard = @cardData.getCard(card)
+        player.revealCardFromDeck(currentCard)
+      }
+		elsif @lastPlay.name == "Scout"
+			data[data.index("reveals") + 9..-2].split(", ").each{|card|
+        currentCard = @cardData.getCard(card)
+				player.revealCardFromDeck(currentCard)
+      }
+		elsif @lastPlay.name == "Tribute"
+			data[data.index("reveals") + 9..-2].split(", ").each{|card|
+        currentCard = @cardData.getCard(card)
+				player.revealCardFromDeck(currentCard)
+      }
+		elsif @lastPlay.name == "Swindler"
+			# すぐに廃棄されるので何もしなくていいっぽい
     end
   end
 
@@ -408,6 +462,13 @@ class DominionCore
         currentCard = @cardData.getCard(card)
         player.putHandFromReveal(currentCard)
       }
+		elsif @lastPlay.name == "Scout"
+			data[data.index("hand:") + 7..-2].split(", ").each{|card|
+        currentCard = @cardData.getCard(card)
+        player.putHandFromReveal(currentCard)
+      }
+		elsif @lastPlay.name == "Wishing Well"
+			player.drawCard(@cardData.getCard(data[data.index("places") + 7.. data.index("in hand") - 2]))
     end
   end
 
@@ -424,6 +485,12 @@ class DominionCore
       if(DEBUG_PRINT)
         puts "gain #{currentCard.coin * playCard[0].to_i} coins"
       end
+			if currentCard.name == "Copper"
+				@currentCoin = @currentCoin + currentCard.coin * playCard[0].to_i * @copperSmithCount
+				if @copperSmithCount > 0
+					puts "gain #{currentCard.coin * playCard[0].to_i * @copperSmithCount} coins from coppersmith"
+				end
+			end
       @currentBuy = @currentBuy + currentCard.buy * playCard[0].to_i
       if(DEBUG_PRINT)
         puts "gain #{currentCard.buy * playCard[0].to_i} buy"
@@ -449,6 +516,22 @@ class DominionCore
     if(DEBUG_PRINT)
       puts "#{player.getName()} uses action #{data[data.index("plays") + 6 .. -2]}"
     end
+
+		if pCard.name == "Bridge"
+			@discount += 1
+		elsif pCard.name == "Conspirator"
+			actionNum = 0
+			player.playArea.each{|id, num|
+				if @cardData.getCardByNum(id).isAction
+					actionNum += num
+				end
+			}
+			if actionNum >= 2
+				@currentAction += 1
+			end
+		elsif pCard.name == "Coppersmith"
+			@copperSmithCount += 1
+		end
 
 		if(@lastPlay != nil && @lastPlay.name == "Throne Room")
 			eventData = {}
@@ -497,6 +580,7 @@ class DominionCore
     @currentAction = @currentAction + pCard.action
 
     @lastPlay = pCard
+		@lastReaction = nil
 
     if(pCard.name == "Throne Room")
       if(player.haveActionInHand() == false)
@@ -522,7 +606,9 @@ class DominionCore
 		player.gainCard(gainCard)
 		@supply[gainCard.id] = @supply[gainCard.id] - 1
 		@currentBuy -= 1
-		@currentCoin -= gainCard.cost
+		if (gainCard.cost - @discount > 0)
+			@currentCoin -= (gainCard.cost - @discount)
+		end
     if(DEBUG_PRINT)
       puts "#{player.getName()} buys #{gainCard.name} coin is #{@currentCoin} buy is #{@currentBuy}"
     end
@@ -551,6 +637,21 @@ class DominionCore
       @supply[gainCard.id] = @supply[gainCard.id] - 1
     elsif(@lastPlay.name == "Bureaucrat")
       player.addCardToDeck(gainCard)
+      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+		elsif(@lastPlay.name == "Trading Post")
+      player.addCardToHand(gainCard)
+      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+		elsif @lastPlay.name == "Torturer"
+			player.addCardToHand(gainCard)
+      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+		elsif @lastPlay.name == "Ironworks"
+			if gainCard.isAction
+				@currentAction += 1
+			end
+			if gainCard.isTreasure
+				@currentCoin += 1
+			end
+			player.gainCard(gainCard)
       @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
     else
       player.gainCard(gainCard)
@@ -583,8 +684,15 @@ class DominionCore
       end
       if(currentCard.name == "Feast" && @lastPlay.name == "Feast")
         player.trashCardFromPlay(currentCard)
+			elsif currentCard.name == "Mining Village" && @lastPlay.name == "Mining Village"
+			  player.trashCardFromPlay(currentCard)
+				@currentCoin += 2
       elsif(@lastPlay.name == "Thief")
         player.trashCardFromReveal(currentCard)
+			elsif @lastPlay.name == "Swindler"
+				player.trashCardFromDeck(currentCard)
+			elsif @lastPlay.name == "Saboteur"
+				player.trashCardFromReveal(currentCard)
       else
         player.trashCardFromHand(currentCard)
       end
@@ -638,6 +746,16 @@ class DominionCore
         player.discardFromDeck(currentCard)
       elsif(@lastPlay.name == "Adventurer")
         player.discardFromReveal(currentCard)
+			elsif @lastPlay.name == "Baron"
+				player.discardFromHand(currentCard)
+				@currentCoin += 4
+			elsif @lastPlay.name == "Saboteur"
+				player.discardFromReveal(currentCard)
+			elsif @lastPlay.name == "Secret Chamber"
+				player.discardFromHand(currentCard)
+				@currentCoin += 1
+			elsif @lastPlay.name == "Tribute"
+				player.discardFromReveal(currentCard)
       elsif(@lastPlay.name == "Library")
 				#library has bug? set aside assumed as discard wtf
         if(handCount >= 7)
@@ -656,6 +774,88 @@ class DominionCore
       end
     }
   end
+
+	def parseReceive(data)
+		player = @playerData[data[0..getLastIndex(data, "-") - 2]]
+		amount = data[data.index("receives") + 9 .. data.index("receives") + 9].to_i
+
+		if data.include?("actions")
+			@currentAction += amount
+		elsif data.include?("coins")
+			@currentCoin += amount
+		end
+
+	end
+
+	def parseTake(data)
+		player = @playerData[data[0..getLastIndex(data, "-") - 2]]
+		amount = data[data.index("takes") + 6 .. data.index("takes") + 6].to_i
+		event = ""
+
+		eventData = {}
+		eventData["type"] = "take"
+		eventData["content"] = event
+		eventData["player"] = player.getName()
+		fireEvents(eventData)
+
+		if data.include?("action")
+			event = "action"
+		elsif data.include?("coin")
+			event = "coin"
+		elsif data.include?("buy")
+			event = "buy"
+		end
+
+		eventData = {}
+		eventData["type"] = "take"
+		eventData["content"] = event
+		eventData["player"] = player.getName()
+		fireEvents(eventData)
+
+		if data.include?("action")
+			@currentAction += amount
+		elsif data.include?("coin")
+			@currentCoin += amount
+		elsif data.include?("buy")
+			@currentBuy += amount
+		end
+
+	end
+
+	def parsePassCard(data)
+		player = @playerData[data[0..getLastIndex(data, "-") - 2]]
+		passCard = @cardData.getCard(data[data.index("passes") + 7 .. -2])
+
+		eventData = {}
+		eventData["type"] = "passcard"
+		eventData["cardId"] = passCard.id
+		eventData["player"] = player.getName()
+		fireEvents(eventData)
+
+		player.trashCardFromHand(passCard)
+		getOpponent(player.name).addCardToHand(passCard)
+
+	end
+
+	def parseNameCard(data)
+		player = @playerData[data[0..getLastIndex(data, "-") - 2]]
+		print "|" + data[data.index("names") + 6 .. -2] + "|"
+		nameCard = @cardData.getCard(data[data.index("names") + 6 .. -2])
+
+
+
+		eventData = {}
+		eventData["type"] = "namecard"
+		if nameCard
+			eventData["cardId"] = nameCard.id
+		#存在しないカードを宣言
+		else
+			eventData["cardId"] = 0
+		end
+		eventData["player"] = player.getName()
+		fireEvents(eventData)
+
+	end
 
 	def parseDraw(data)
     player = @playerData[data[0..getLastIndex(data, "-") - 2]]
@@ -738,6 +938,7 @@ class DominionCore
 
 			eventData = {}
 			eventData["type"] = "switch_phase"
+			eventData["player"] = @currentPlayer
 			case phase
 			when PHASE_BUY then
 				eventData["phase"] = "buy"
@@ -749,6 +950,5 @@ class DominionCore
 			fireEvents(eventData)
 		end
 	end
-
 
 end
