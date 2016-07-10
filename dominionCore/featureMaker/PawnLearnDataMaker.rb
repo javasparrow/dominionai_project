@@ -18,9 +18,9 @@ class PawnLearnDataMaker
     if !@pawnFlag || @selectedMode.length != 2
       return
     end
-    File.open(core.outFolder + "/stewardFeature.txt", 'a'){|out|
+    File.open(core.outFolder + "/pawnFeature.txt", 'a'){|out|
       doc = REXML::Document.new
-      play = doc.add_element("steward")
+      play = doc.add_element("pawn")
       play.add_element("stateVec").add_text @stateVec
       play.add_element("answer").add_text @selectedMode.join(",")
       play.add_element("turn").add_text (core.currentTurn / 2).to_i.to_s

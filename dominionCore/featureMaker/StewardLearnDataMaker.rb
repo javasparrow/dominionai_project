@@ -22,9 +22,15 @@ class StewardLearnDataMaker
       play.add_element("isSente").add_text ((core.currentTurn + 1) % 2).to_s
       play.add_element("action").add_text core.currentAction.to_s
       play.add_element("filename").add_text core.fileName
+      if @candidates
+        play.add_element("candidates").add_text @candidates.join(",")
+        @candidates = nil
+      end
+
 
       out.write(doc.to_s)
       out.write("\n")
+      print doc.to_s
       @stewardFlag = false
     }
   end
@@ -39,11 +45,17 @@ class StewardLearnDataMaker
     if eventData["type"] == "play" && @cardData.getCardByNum(eventData["cardId"]).name == "Steward"
       @stewardFlag = true
     elsif eventData["type"] == "draw" && core.lastPlay && core.lastPlay.name == "Steward"
-      writeFeature("1", core, baseMaker)
+      writeFeature("-2", core, baseMaker)
     elsif eventData["type"] == "trash" && core.lastPlay && core.lastPlay.name == "Steward"
-      writeFeature("2", core, baseMaker)
+      @candidates = []
+      core.playerData[eventData["player"]].handArea.each{|id, num|
+        num.times{
+          @candidates << id
+        }
+      }
+      writeFeature(eventData["cards"].map{|card| card.id}.join(","), core, baseMaker)
     elsif eventData["type"] == "take" && core.lastPlay && core.lastPlay.name == "Steward"
-      writeFeature("0", core, baseMaker)
+      writeFeature("-1", core, baseMaker)
     end
   end
 

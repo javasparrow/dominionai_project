@@ -26,7 +26,11 @@ class BuyFeatureMaker
       File.open(core.outFolder + "/buyFeature.txt", 'a'){|out|
         doc = REXML::Document.new
         gain = doc.add_element("gain")
-        gain.add_element("stateVec").add_text @stateVec
+        if @stateVec
+          gain.add_element("stateVec").add_text @stateVec
+        else
+          gain.add_element("stateVec").add_text baseMaker.getStateVec(core.currentPlayer)
+        end
         if @buyCardIds.length == 0
           gain.add_element("answer").add_text "0"
         else
@@ -46,13 +50,13 @@ class BuyFeatureMaker
         if @currentCoin
           gain.add_element("coin").add_text @currentCoin.to_s
         else
-          core.currentCoin
+          gain.add_element("coin").add_text core.currentCoin.to_s
         end
 
         if @currentBuy
           gain.add_element("buy").add_text @currentBuy.to_s
         else
-          core.currentBuy
+          gain.add_element("buy").add_text core.currentBuy.to_s
         end
 
         gain.add_element("minusCost").add_text core.discount.to_s
@@ -63,6 +67,9 @@ class BuyFeatureMaker
       }
 
       @buyCardIds = []
+      @currentCoin = nil
+      @currentBuy = nil
+      @stateVec = nil
     end
   end
 

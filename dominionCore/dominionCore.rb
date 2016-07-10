@@ -13,7 +13,7 @@ class DominionCore
 	PHASE_BUY = 1
 	PHASE_CLEANUP = 2
 
-	DEBUG_PRINT = true
+	DEBUG_PRINT = false
 
 	def initialize(rawlog, outFolder)
 
@@ -635,15 +635,17 @@ class DominionCore
     if(@lastPlay.name == "Mine")
       player.addCardToHand(gainCard)
       @supply[gainCard.id] = @supply[gainCard.id] - 1
+    elsif @lastPlay.name == "Thief"
+      player.gainCard(gainCard)
     elsif(@lastPlay.name == "Bureaucrat")
       player.addCardToDeck(gainCard)
-      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+      @supply[gainCard.id] = @supply[gainCard.id] - 1
 		elsif(@lastPlay.name == "Trading Post")
       player.addCardToHand(gainCard)
-      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+      @supply[gainCard.id] = @supply[gainCard.id] - 1
 		elsif @lastPlay.name == "Torturer"
 			player.addCardToHand(gainCard)
-      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+      @supply[gainCard.id] = @supply[gainCard.id] - 1
 		elsif @lastPlay.name == "Ironworks"
 			if gainCard.isAction
 				@currentAction += 1
@@ -652,10 +654,10 @@ class DominionCore
 				@currentCoin += 1
 			end
 			player.gainCard(gainCard)
-      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+      @supply[gainCard.id] = @supply[gainCard.id] - 1
     else
       player.gainCard(gainCard)
-      @supplyCnt[gainCard.num] = @supplyCnt[gainCard.num] - 1
+      @supply[gainCard.id] = @supply[gainCard.id] - 1
     end
     if(DEBUG_PRINT)
       puts "#{player.getName()} gains #{gainCard.name}"

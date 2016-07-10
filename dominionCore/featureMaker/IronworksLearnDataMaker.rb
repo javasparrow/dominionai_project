@@ -35,6 +35,7 @@ class IronworksLearnDataMaker
         }
         play.add_element("candidates").add_text candidates.join(",")
         play.add_element("filename").add_text core.fileName
+        play.add_element("action").add_text core.currentAction.to_s
 
         out.write(doc.to_s)
         out.write("\n")
