@@ -9,6 +9,7 @@ class PawnLearnDataMaker
     @selectedMode = []
     @cardData = CardData.new()
     @stateVec = nil
+    @currentAction = nil
   end
 
   def writeFeature(core, baseMaker)
@@ -35,6 +36,7 @@ class PawnLearnDataMaker
       out.write("\n")
       @pawnFlag = false
       @currentAction = nil
+      @stateVec = nil
       @selectedMode = []
     }
   end
@@ -49,6 +51,8 @@ class PawnLearnDataMaker
     if eventData["type"] == "play" && @cardData.getCardByNum(eventData["cardId"]).name == "Pawn"
       @pawnFlag = true
       @selectedMode = []
+      @currentAction = nil
+      @stateVec = nil
     elsif eventData["type"] == "draw" && core.lastPlay && core.lastPlay.name == "Pawn"
       @selectedMode << 1
       writeFeature(core, baseMaker)

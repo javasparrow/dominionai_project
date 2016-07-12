@@ -794,12 +794,6 @@ class DominionCore
 		amount = data[data.index("takes") + 6 .. data.index("takes") + 6].to_i
 		event = ""
 
-		eventData = {}
-		eventData["type"] = "take"
-		eventData["content"] = event
-		eventData["player"] = player.getName()
-		fireEvents(eventData)
-
 		if data.include?("action")
 			event = "action"
 		elsif data.include?("coin")
