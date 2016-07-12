@@ -15,6 +15,9 @@ class PawnLearnDataMaker
     if !@stateVec
       @stateVec = baseMaker.getStateVec(core.currentPlayer)
     end
+    if !@currentAction
+      @currentAction = core.currentAction.to_s
+    end
     if !@pawnFlag || @selectedMode.length != 2
       return
     end
@@ -25,7 +28,7 @@ class PawnLearnDataMaker
       play.add_element("answer").add_text @selectedMode.join(",")
       play.add_element("turn").add_text (core.currentTurn / 2).to_i.to_s
       play.add_element("isSente").add_text ((core.currentTurn + 1) % 2).to_s
-      play.add_element("action").add_text core.currentAction.to_s
+      play.add_element("action").add_text @currentAction
       play.add_element("filename").add_text core.fileName
 
       out.write(doc.to_s)
