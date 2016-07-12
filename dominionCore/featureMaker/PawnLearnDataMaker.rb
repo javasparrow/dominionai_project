@@ -34,6 +34,7 @@ class PawnLearnDataMaker
       out.write(doc.to_s)
       out.write("\n")
       @pawnFlag = false
+      @currentAction = nil
       @selectedMode = []
     }
   end
