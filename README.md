@@ -1,4 +1,4 @@
-dominionai_project
+dominionai_project<!---this is a chines language-->
 ==================
 
 learn...学習関連のファイルを入れる
